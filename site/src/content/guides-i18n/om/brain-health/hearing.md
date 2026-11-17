@@ -1,34 +1,34 @@
 ---
-title: "Dhaga’uu dhabuu fi balaa dementia: wanta qorannoon agarsiisu"
-seoTitle: "Dhaga’uu dhabuu fi dementia: wanta qorannoon jedhu"
-description: "Maaliif dhaga’uu dhabuun sababoota balaa dementia ijoo keessaa tokko dha, qorannoon ACHIEVE maal argate, fi akkamitti dhaga’uu qorachiisuu."
+title: "Dhagahuun Hir’achuu fi Saaxilamummaa Sammuu"
+seoTitle: "Dhagahuun Hir’achuu fi Qaama Miidhamummaa Sammuu"
+description: "Sababni dhagahuun hir’achuun saaxilamummaa qaama miidhamummaa sammuu guddaa ta’e, bu’aan qorannoo ACHIEVE maal akka agarsiisu fi haala dhagahuu itti qoratan."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Komishiiniin Lancet bara 2024 dhaga’uu dhabuu sababoota balaa dementia
-  jijjiiramuu danda’an keessaa isa guddaa tokko jedhee moggaasa. Qorannoo
-  ACHIEVE keessatti, meeshaan dhaga’uu waliigalatti hir’achuu yaadannoo hin
-  suuta galchine, garuu garee balaan isaa ol’aanaa ta’e keessatti hir’achuun
-  xiqqaa ture. Akkuma ta’e meeshaan dhaga’uu haasaa fi jireenya guyyaa guyyaa
-  ni gargaara. Dhaga’uu qorachiisaa, meeshaa ajajamu ykn gabaa irraa bitamu
-  ilaalaa, doktora wajjin haasa’aa.
+  Gabaasni Lancet Commission bara 2024 dhagahuun hir’achuu sababoota saaxilamummaa qaama
+  miidhamummaa sammuu jijjiiramuu danda’an keessaa isa guddaa tokko akka ta’e ibseera. Qorannoo
+  ACHIEVE keessatti, meeshaaleen dhagahuu waliigalaa hir’ina dandeettii sammuu hin dhaabne,
+  garuu garee saaxilamummaan isaanii ol aanaa ture keessatti hir’inni xiqqaa ture. Haata’u malee,
+  meeshaaleen dhagahuu haasa’aa fi jireenya guyyaa guyyaa ni salphisu. Dhagahuu kee akka
+  qoramu godhi, meeshaalee dhagahuu ajaja ogeessaatiin ykn osoo ajajni hin jiraatin bituu yaadi,
+  akkasumas doktora kee waliin mari’adhu.
 keyPoints:
-  - "Komishiiniin Lancet dhaga’uu dhabuun addunyaa irratti dementia keessaa %7 ta’uu tilmaama, sababoota 14 keessaa kutaa guddaa wal-qixa qabu."
-  - "Qorannoo ACHIEVE keessatti maanguddoota 977 irratti, meeshaan dhaga’uu waliigalatti hir’achuu yaadannoo waggaa sadii hin jijjiirre."
-  - "Garee xiqqaa, balaa ol’aanaa qabu ACHIEVE keessa jiru keessatti, meeshaa dhaga’uu wajjin hir’achuun yaadannoo %48 suuta ture; kun mirkaneeffamuu qaba."
-  - "Onkololeessa 2022 as, Ameerikaatti dubartii fi dhiirri ga’eessi dhaga’uu dhabuu laafaa hanga giddu galeessaa isaan itti dhaga’amu, meeshaa dhaga’uu FDA to’ate gabaa irraa bitachuu danda’u."
-  - "Ija dhabuun hin yaalamne bara 2024 keessa sababa balaa dementia ta’ee dabalame, kanaaf qorannoon ijaa illee barbaachisaa dha."
+  - "Lancet Commission dhagahuun hir’achuun gara dhibbeentaa 7 qaama miidhamummaa sammuu addunyaa irraa akka fida tilmaama, kunis sababoota 14 keessaa qooda guddaa waliin qooddata."
+  - "Qorannoo ACHIEVE keessatti namoota umuriin isaanii guddaa ta’e 977 irratti, meeshaaleen dhagahuu hir’ina dandeettii sammuu waggaa sadii keessatti waliigalaa hin jijjiirre."
+  - "Garee xiqqaa saaxilamummaan isaa ol aanaa ture qorannoo ACHIEVE keessatti, hir’inni dandeettii sammuu meeshaalee dhagahuun dhibbeentaa 48 suuta ture; kun mirkaneeffamuu qaba."
+  - "Onkololeessa 2022 irraa eegalee, namoonni ga’eessota Ameerikaa dhagahuun isaanii salphaadhaa hanga giddu galeessaatti hir’ate jedhanii yaadan meeshaalee dhagahuu FDA’n to’ataman osoo ajajni hin jiraatin bituu danda’u."
+  - "Iji hubamuu dhabuu kunis bara 2024 keessatti saaxilamummaa qaama miidhamummaa sammuu akka ta’e itti dabalame, kanaaf qorannoon ijaa barbaachisaa dha."
 faq:
-  - q: "Meeshaan dhaga’uu dementia ni ittisaa?"
-    a: "Kun hin mirkanaa’ne. Qorannoon ACHIEVE waggaa sadii keessatti hir’achuu yaadannoo irratti dhiibbaa waliigalaa hin argine, garuu garee balaan isaa ol’aanaa tokko caalaatti gaarii ture. Meeshaan dhaga’uu haasaa, nageenyaa fi jireenya guyyaa guyyaa salphisuuf ilaaluun gaarii dha."
-  - q: "Eenyutu meeshaa dhaga’uu gabaa irraa (OTC) bitachuu danda’a?"
-    a: "FDA ga’eessota umrii 18 fi isaa ol, dhaga’uu dhabuu laafaa hanga giddu galeessaa akka isaan itti dhaga’amu qaban, dukaanii ykn onlaayinii ajaja doktoraa malee meeshaa dhaga’uu OTC akka bitan eeyyama. Dhaga’uu dhabuu cimaaf hin tolfamne. Namni dhukkubbii gurra, bishaan gurra irraa bahu, mataa mareessuu ykn jijjiirama dhaga’uu tasaa qabu dursee doktora ilaaluu qaba."
-  - q: "Dhaga’uu dhabuun dementia fakkaachuu danda’aa?"
-    a: "Yeroo tokko tokko. National Institute on Aging maanguddoonni gaarii dhaga’uu hin dandeenye yeroo tokko tokko dogoggoraan wal-hin-beekuu ykn hin-waliinii akka ta’an yaadamuu isaanii ibsa. Namni tokko of-qabuu fakkaatu ykn waan jedhame dhabuu fakkaatu yoo ta’e, qorannoon dhaga’uu tarkaanfii sirrii dha."
-  - q: "Maanguddoonni yeroo hammam ijaa isaanii qorachiisuu qabu?"
-    a: "National Institute on Aging umrii 60 booda waggaa tokko ykn lama keessatti qorannoo ijaa (dilated eye exam) ykn akkuma ogeessi kunuunsa ijaa gorsetti gorsa. Namoonni sukkaara ykn dhiibbaa dhiigaa ol’aanaa qaban yeroo baay’ee xiqqaate waggaatti altokko barbaadu."
+  - q: "Meeshaaleen dhagahuu qaama miidhamummaa sammuu ni ittisu?"
+    a: "Kun hin mirkanoofne. Qorannoon ACHIEVE waliigalaa hir’ina dandeettii sammuu irratti waggaa sadii keessatti dhiibbaa akka hin qabne argate, garuu gareen tokko kan saaxilamummaan isaa ol aanaa ture bu’aa fooyya’aa argate. Haata’u malee, meeshaaleen dhagahuu haasa’aa, nageenya fi jireenya guyyaa guyyaa waan salphisanif yaadachuun gaarii dha."
+  - q: "Eenyutu meeshaalee dhagahuu osoo ajajni hin jiraatin bituu danda’a?"
+    a: "FDA namoonni ga’eessota umuriin isaanii 18 fi isaa ol ta’an, dhagahuun isaanii salphaadhaa hanga giddu galeessaatti hir’ate jedhanii yaadan, meeshaalee dhagahuu osoo ajajni hin jiraatin suuqii ykn toora interneetii irratti akka bitan hayyama. Isaan kun dhagahuun baay’ee hir’ateef hin hojjetan. Namni kam iyyuu dhukkubbii gurraa, dhangala’aa gurraa keessaa ba’u, mar-maraa mataa ykn jijjiirama dhagahuu tasa qabaate dura doktora arguu qaba."
+  - q: "Dhagahuun hir’achuun qaama miidhamummaa sammuu fakkaachuu danda’aa?"
+    a: "Yeroo tokko tokko ni danda’a. National Institute on Aging namoonni umuriin isaanii guddaa ta’an sirriitti dhaga’uu hin dandeenye yeroo tokko tokko dogoggoraan akka nama burjaaja’e ykn akka nama waliin hojjechuu hin barbaanneetti ilaalamuu akka danda’an ibsa. Yeroo namni tokko ofirraa fagaachuu ykn waan jedhamu hubachuu dhabuu jalqabu, dhagahuu isaa qorachiisuun tarkaanfii gaarii dha."
+  - q: "Namoonni umuriin isaanii guddaa ta’an yeroo hammamiitiin ija isaanii qorachiisuu qabu?"
+    a: "National Institute on Aging erga umuriin waggaa 60 ol ta’ee booda waggaa tokkoon ykn lama lamaan qorannoo ijaa bal’ifame akka godhatan gorsa, ykn akkuma ogeessi kununsa ijaa keessanii isin gorsuutti. Namoonni dhukkubbii sukkaraa ykn dhiibbaa dhiigaa qaban yeroo baay’ee yoo xiqqaate waggaatti al tokko qorachuu qabu."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -53,96 +53,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Dhaga’uu dhabuun yeroo dulloomaa keessatti baratamaa dha, qorattoonnis sababa balaa dementiaa ta’ee cimsanii ilaalu. Kun meeshaan dhaga’uu dementia ittisuuf karaa mirkanaa’e jechuu miti; qorannoon gaariin hanga ammaa bu’aa makaa qaba ture. Fuulli kun wanta qorannoon agarsiisu, akkamitti dhaga’uu qorachiisuu, meeshaan dhaga’uu gabaa irraa bitamu (OTC) Ameerikaa maal akka ta’e, fi akkamitti haasaa salphisuu akka dandeessan ibsa.
+Dhagahuun hir’achuun umurii boodaa beekamaa dha, qorattoonnis akka saaxilamummaa qaama miidhamummaa sammuu tokkootti cimsee ilaalu. Kun garuu meeshaaleen dhagahuu qaama miidhamummaa sammuu ittisuun isaanii mirkanaa’eera jechuu miti; qorannoon gaariin hanga ammaatti argame bu’aa wal hin simne agarsiiseera. Fuulli kun qorannoon maal akka agarsiisu, dhagahuu akkamitti qorachiisuun akka danda’amu, meeshaaleen dhagahuu osoo ajajni hin jiraatin Ameerikaa keessatti maal akka ta’an, fi haasa’aa salphisuuf maal gochuun akka danda’amu ibsa.
 
-## Maaliif dhaga’uun fayyaa sammuuf barbaachisaa dha?
+## Dhagahuun fayyaa sammuu maaliif barbaachisaa dha?
 
-Dhaga’uu dhabuun balaa dementia ol’aanaa wajjin wal-qabata. [Komishiiniin Lancet bara 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) addunyaa irratti dementia keessaa %7 ta’uu tilmaama. [Cuunfaa UCL waa’ee gabaasaa](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) akka jedhutti, kun koleesterooliin LDL ol’aanaa wajjin sababoota balaa jijjiiramuu danda’an 14 model Komishiinichaa keessatti kutaa guddaa wal-qixa qaba.
+Dhagahuun hir’achuun saaxilamummaa qaama miidhamummaa sammuu ol aanaa ta’e waliin walqabatee jira. [Lancet Commission bara 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) gara dhibbeentaa 7 qaama miidhamummaa sammuu addunyaa irraa akka fida tilmaama. Kunis, [cuunfaa gabaasa UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) akka ibsetti, sababoota saaxilamummaa 14 jijjiiramuu danda’an moodeela Komishinii keessatti kolestroolii LDL ol aanaa waliin qooda guddaa ta’e qooddata.
 
-Argannoowwan ijoo Komishiinichaa:
+Argannoo ijoo Komishinii:
 
-- **Dhaga’uu dhabuu wajjin balaan ol’aanaa.** Xiinxala isaa qorannoowwan qulqullina ol’aanaa 6 walitti qabe keessatti, namoonni dhaga’uu dhabuu qaban dhaga’uu idilee qaban caalaa balaa dementia %37 ol’aanaa qabu turan.
-- **Dhabuun caalaa, balaan caalaa.** Qorannoowwan cimina ilaalan, dhaga’uun yeroo hammaate balaan akka ol-bu’e arge.
-- **Sababoonni danda’amoo, ammallee hin mirkanoofne.** Yaadonni kophummaa fi of-qabuu, gaddaa, sammuu kan xiqqoo kakaasu, fi yaalii sammuu dabalataa dhaggeeffachuun barbaadu dabalata.
+- **Saaxilamummaa ol aanaa dhagahuun hir’achuu waliin.** Qorannoo qulqullina ol aanaa qaban ja’a walitti makuun yeroo xiinxalan, namoonni dhagahuun isaanii hir’ate namoota dhagahuun isaanii sirrii ta’e waliin yoo wal bira qabaman saaxilamummaa qaama miidhamummaa sammuu gara dhibbeentaa 37 ol aanaa qabu.
+- **Yeroo dhagahuun baay’ee hir’atu saaxilamummaanis ni dabala.** Qorannoowwan sadarkaa hir’ina dhagahuu ilaalan akka dhagahuun itti hammaataa deemu saaxilamummaanis akka dabalu agarsiisan.
+- **Sababoonni ta’uu danda’an, garuu hin mirkanoofne.** Yaadoowwan ka’an keessaa kophaa ta’uu fi hawaasa irraa fagaachuu, gadadoo, sammuuuf kaka’umsi xiqqachuu, fi dadhabbiin sammuutti dhaggeeffachuuf barbaachisu jiru.
 
-Dhaga’uu dhabuun baratamaa dha. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) maanguddoota keessaa harki sadii tokko akka qabu, carraan isaas umrii wajjin akka dabalu jedha.
+Dhagahuun hir’achuun beekamaa dha. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) namoota umuriin isaanii guddaa ta’an keessaa harka sadii keessaa harki tokko dhagahuun hir’achuu akka qabaatu, carraan isaas umurii waliin akka dabalu ibsa.
 
-## Qorannoon meeshaa dhaga’uu ACHIEVE maal argate?
+## Qorannoon meeshaa dhagahuu ACHIEVE maal argate?
 
-ACHIEVE qorannoo duraa meeshaa dhaga’uu fi hir’achuu yaadannoo irratti saaxila-tasa (randomized) ture. Bu’aan isaa yeroo baay’ee dogoggoraan gabaafama, kanaaf [gabaasa qorannoo maxxanfame](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) irraa ibsa kanatti:
+ACHIEVE qorannoo jalqabaa meeshaalee dhagahuu fi hir’ina dandeettii sammuu wal bira qabuudha. Bu’aan isaa yeroo baay’ee dogoggoraan gabaafama, kanaaf bal’inaan [gabaasa qorannoo maxxanfame](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) irraa ilaalaa.
 
-- **Eenyutu hirmaate:** Ga’eessota umrii 70 hanga 84, dhaga’uu dhabuu hin yaalamne qabanii fi rakkoo yaadaa guddaa hin qabne 977, bakka hawaasaa Ameerikaa afur irratti.
-- **Maaltu madaalame:** Walakkaan isaanii meeshaa dhaga’uu fi gorsa ogeessa dhaga’uu (audiologist) wajjin argate. Walakkaan isaanii immoo sagantaa barnoota fayyaa waa’ee dulloomuu fayyaa qabuu argate.
-- **Bu’aa ijoo:** Waggaa sadii booda, garee lamaan gidduu hir’achuu yaadannoo waliigalaan **garaagarummaan hin jiru**.
-- **Bu’aa garee xiqqaa:** Qorannoon maddoota lamaa irraa nama fide. Namoonni 238 qorannoo fayyaa onnee yeroo dheeraa (ARIC) irraa dhufan, garee ta’uudhaan balaa hir’achuu yaadannoo ol’aanaa qabu turan. Garee kana keessatti, meeshaa dhaga’uu wajjin hir’achuun **%48 suuta** ture. Tola ooltota hawaasaa fayyaa gaarii 739 keessatti, dhiibbaan ifa hin turre.
+- **Eenyutu hirmaate:** Namoota ga’eessota umuriin isaanii waggaa 70 hanga 84 gidduu ta’an, dhagahuun isaanii hin yaalamne fi rakkoon sammuu guddaan hin jirre, iddoowwan hawaasaa afur Ameerikaa keessatti walitti qabaman 977.
+- **Maalitu wal bira qabame:** Walakkaan isaanii meeshaalee dhagahuu fi gorsa ogeessa dhagahuu waliin argatan. Gareen kaan sagantaa barnoota fayyaa waa’ee umurii fayyaa qabu fudhatan.
+- **Bu’aa ijoo:** Waggaa sadii booda, gareewwan lamaan gidduutti hir’ina dandeettii sammuu irratti **garaagarummaan hin turre**.
+- **Bu’aa garee xiqqaa:** Qorannoon kun madda lama irraa hirmaattota walitti qabe. Namoonni 238 qorannoo fayyaa onnee yeroo dheeraa turu (ARIC) irraa dhufan, akka gareetti saaxilamummaan hir’ina dandeettii sammuu isaanii ol aanaa ture. Garee kana keessatti, hir’inni dandeettii sammuu meeshaalee dhagahuun **dhibbeentaa 48 suuta** ture. Hirmaattota hawaasaa fayyaa qaban 739 keessatti dhiibbaa ifa ta’e hin argamne.
 
-Kana dhugaan akkamitti dubbisuu:
+Akkaataa amanamummaan itti dubbifamu:
 
-- Deebiin waliigalaa dhiibbaa hin jiru ture.
-- Argannoon garee xiqqaa karoora duraan godhameera, garuu xiinxala lammaffaa garee xiqqaa irraa dhufe. Qorannoowwan biroo keessatti mirkaneeffamuu qaba.
-- Hirmaattonni sagantaa kam keessa akka jiran beekan, kunis bu’aa irratti dhiibbaa qabaachuu danda’a.
-- Komishiiniin Lancet ragaan meeshaan dhaga’uu namoota dhaga’uu dhabuu fi sababoota balaa dementia biroo qaban biratti caalmaatti gargaaruu agarsiisa jedhee dubbisa.
+- Deebiin waliigalaa dhiibbaa hin qabu ture.
+- Argannoon garee xiqqaa dursee karoora keessa ture, garuu xiinxala lammaffaa garee xiqqaa irratti hundaa’e. Qorannoo biraatiin mirkaneeffamuu qaba.
+- Hirmaattoonni sagantaa kam keessa akka jiran beekaa turan, kunis bu’aa irratti dhiibbaa gochuu danda’a.
+- Lancet Commission ragaa kana akka waan agarsiisutti fudhata: meeshaaleen dhagahuu keessumaa namoota dhagahuun isaanii hir’ate fi saaxilamummaa qaama miidhamummaa sammuu biroo qaban gargaaruu danda’u.
 
-Xumurri isaa meeshaan dhaga’uu dementia ittisuuf karaa mirkanaa’e miti. Garuu namoota akka dhaga’an, haasaa keessatti hirmaatan fi walitti hidhamanii akka turan ni gargaara, kunis ilaaluuf sababa gahaa dha.
+Xumura irratti, meeshaaleen dhagahuu qaama miidhamummaa sammuu ittisuuf mala mirkanaa’e miti. Garuu namoonni akka dhaga’an, haasaatti akka hirmaatan fi walitti dhufeenya akka qabaatan ni gargaaru; kunis yaada keessa galchuuf sababii gaarii dha.
 
-## Dhaga’uun qorachiisuu akka barbaachisu akkamitti beeku?
+## Dhagahuun qoramuu akka qabu akkamittan beeka?
 
-NIA yoo ati ykn nama kunuunsitu:
+NIA yoo isin ykn namni isin kunuunsitan:
 
-- Bilbila irratti namoota hubachuu rakkate
-- Yeroo nama lama ykn isaa ol haasa’an haasaa hordofuu rakkate
-- Yeroo baay’ee namoota deebisanii akka dubbatan gaafate
-- TV sagalee guddaan banuun warri biroo komatan
-- Yeroo sagaleen duubaa jiru dubbii hubachuuf rakkate
-- Namoonni biroo wal-hin-ifne dubbatu jedhee yaade
+- Bilbilaan namoota hubachuu keessatti rakkattu
+- Yeroo namoonni lama ykn sanaa ol haasa’an haasaa hordofuun isinitti ulfaatu
+- Yeroo baay’ee namoota akka irra deebi’an gaafattan
+- Sagalee televijiinii namoonni biroo komatan hamma ol kaaftan
+- Yeroo sagaleen duubaa jiru haasaa hubachuu keessatti rakkattan
+- Namoonni biroo waan hasaasan isinitti fakkaatu
 
-doktora argachuu gorsa.
+Doktora fayyaa waliigalaa irraa jalqabaa, inni immoo gara ogeessa dhagahuu (audiologist) ykn doktora gurraa, funyaanii fi lafee mormaa isin erguu danda’a. Gadaan gurraa keessatti kuufamu sababoota beekamoo dhagahuun hir’achuu keessaa isa tokko yoo ta’u, doktorratu qoruu danda’a. **Dhagahuun tasa hir’achuun rakkoo fayyaa hatattamaa dha**, NIA immoo hatattamaan doktora akka argitan gorsa.
 
-Doktora kunuunsa jalqabaa wajjin jalqabaa, inni ogeessa dhaga’uu (audiologist) ykn doktora gurra, funyaan fi qoonqoo bira isin erguu danda’a. Earwax (wax gurra keessaa) walitti qabamuun sababa dhaga’uu dhabuu baratamaa kan doktoran ilaaluu danda’u keessaa tokko dha. **Dhaga’uu dhabuun tasaa rakkoo fayyaa hatattamaa dha**, NIA battalumatti doktora ilaaluu gorsa.
+Dhagahuun hir’achuun dogoggoraan burjaaja’uu fakkaachuu danda’a. NIA namoonni umuriin isaanii guddaa ta’an sirriitti dhaga’uu hin dandeenye yeroo tokko tokko dogoggoraan akka nama burjaaja’e, akka nama hin deebifne ykn akka nama waliin hojjechuu hin barbaanneetti ilaalamuu akka danda’an ibsa. Yoo namni isin jaallattan ofirraa fagaachaa jiru ykn waan jedhamu dhaga’uu dhabaa jiru fakkaate, dhagahuu isaa qorachiisuun tarkaanfii jalqabaa gaarii dha.
 
-Dhaga’uu dhabuun wal-hin-beekuutti dogoggoramuu danda’a. NIA maanguddoonni gaarii dhaga’uu hin dandeenye yeroo tokko tokko dogoggoraan wal-hin-beekuu, deebii hin kennine ykn hin-waliinii akka ta’an yaadamuu isaanii ibsa. Yoo nama jaallattan of-qabuu ykn waan jedhame dhabuu fakkaate, qorannoon dhaga’uu tarkaanfii duraa gaarii dha.
+## Meeshaaleen dhagahuu osoo ajajni hin jiraatin maal fa’a?
 
-## Meeshaan dhaga’uu gabaa irraa bitamu (OTC) maali?
+Onkololeessa 17, 2022 irraa eegalee, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) meeshaalee dhagahuu osoo ajajni hin jiraatin (OTC) hayyameera. Isaanii fi meeshaalee ajaja ogeessaan argaman akkamitti wal irraa garagaran kunooti:
 
-Onkololeessa 17, 2022 as, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) gosa meeshaa dhaga’uu gabaa irraa bitamu (OTC) eeyyameera. Kunis meeshaa dhaga’uu doktoraan ajajamu wajjin akkas wal-bira qabama:
-
-| Amala | Meeshaa dhaga’uu OTC | Meeshaa dhaga’uu ajajamu |
+| Amaloota | Meeshaalee dhagahuu OTC | Meeshaalee dhagahuu ajajaan |
 | --- | --- | --- |
-| Eenyuuf | Ga’eessota umrii 18 fi isaa ol, dhaga’uu dhabuu laafaa hanga giddu galeessaa akka isaan itti dhaga’amu qaban | Dhaga’uu dhabuu sadarkaa kamiyyuu, umrii kamiyyuu |
-| Eessaa argachuu | Dukkaanii ykn onlaayinii, qorannoo ykn ajaja malee | Ogeessa dhaga’uu hayyama qabuun |
-| Sirreessuu | Ofii keessan settings sirreessitu, yeroo baay’ee appiidhaan | Ogeessi dhaga’uu keessaniif sirreessa |
+| Eenyuuf akka ta’an | Ga’eessota umuriin isaanii 18 fi isaa ol ta’an, dhagahuun isaanii salphaadhaa hanga giddu galeessaatti hir’ate jedhanii yaadan | Sadarkaa dhagahuu hir’achuu kamiyyuu, umurii kamiyyuu |
+| Eessaa argamu | Suuqii ykn toora interneetii irraa, qorannoo ykn ajajni hin barbaachisu | Ogeessa dhagahuu hayyamameen |
+| Sirreessuu | Ofuma keetiin qindaa’ina sirreessita, yeroo baay’ee appiin | Ogeessi dhagahuu keetiif saganteessa |
 
-FDA meeshaan OTC dhaga’uu dhabuu cimaa ykn baay’ee cimaaf akka hin tolfamne jedha. Yoo kanneen armaan gadii qabaattan osoo hin bitin dura doktora, caalaatti ogeessa gurra, funyaan fi qoonqoo, ilaaluu gorsa:
+FDA meeshaaleen OTC dhagahuun baay’ee ykn guutummaatti hir’ateef akka hin taane ibsa. Yoo wantoonni armaan gadii isin mudatan, bituu dura doktora, caalmaatti doktora gurraa, funyaanii fi lafee mormaa, akka argitan gorsa:
 
-- Dhukkubbii ykn mijaa’aa dhabuu gurra keessaa
-- Gurra irraa bishaan, dhiqaa ykn dhiiga ji’a jaha darban keessatti
-- Jijjiirama dhaga’uu tasaa ykn kan ol-gadi ta’u
-- Gurra tokko keessatti dhaga’uun hammaachuu, ykn gurra tokko qofa keessatti sagalee waammachuu
-- Mataa mareessuu ykn mataan naannawuu
-- Earwax baay’ee
+- Dhukkubbii ykn miira hin mijaanne gurraa keessatti
+- Ji’oota ja’a darban keessatti dhangala’aa, malaa ykn dhiigni gurraa keessaa ba’uu
+- Jijjiirama dhagahuu tasa ykn jijjiiramaa deemu
+- Gurra tokko keessatti gurra kaaniin caalaa dhagahuun hir’achuu, ykn gurra tokko qofa keessatti iyyituu gurraa dhaga’amuu
+- Mar-maraa mataa ykn akka wanti naannoo kee naanna’u sitti dhaga’amuu
+- Gadaan gurraa baay’ee kuufamuu
 
-Meeshaa dhaga’uu fayyadamuuf baruun shaakala barbaada, kanaaf akkuma FDA gorsutti osoo hin bitin dura imaammata deebisuu ilaalaa. NIA inshuraansiin keessan baasii keessaa muraasa uwwisuu isaa gaafachuu gorsa. Nama dementia wajjin jiraatuuf, ogeessi dhaga’uu gosa meeshaa fi sirreessuu guyyaa guyyaan caalaatti salphaa ta’e filachuuf gargaaruu danda’a.
+Meeshaalee dhagahuutti baruun shaakala gaafata, kanaaf FDA akkuma gorsutti dura seera deebisuu bituu dura ilaalaa. NIA immoo inshuraansiin kee gatii isaa irraa garii akka kaffalu gaafachuun gaarii akka ta’e gorsa. Nama qaama miidhamummaa sammuu waliin jiraatuuf, ogeessi dhagahuu gosa meeshaa fi sirreessuu guyyaa guyyaatti bulchuuf salphaa ta’e filachuuf gargaaruu danda’a.
 
-## Nama dhaga’uu dhabuu qabu wajjin akkamitti salphaatti haasa’uu?
+## Nama dhagahuun isaa hir’ate waliin akkamittin salphaatti haasa’uu danda’a?
 
-NIA kanneen gorsa:
+NIA akkana jedhee gorsa:
 
-1. **Fuula nama sanaa gara keessaniitti deebisaa, ija wal-ilaalaa,** ifa gaarii keessatti, akka funyaan fi mul’ata keessan arguu danda’an.
-2. **Iddoo calla’aa barbaadaa.** TV cufaa ykn sagalee irraa fagaadhaa.
-3. **Sagalee xiqqoo ol’aanaa godhaa, garuu hin iyyinaa.** Uumamaan fi saffisa gaarii wajjin dubbadhaa.
-4. **Afaan keessan ifa gochaa.** Dubbachaa jirtanii hin nyaatinaa, chewing gum hin qaamina, ykn afaan keessan harkaan hin dhoksinaa.
-5. **Deddeebi’uu irra jechoota jijjiiraa** yeroo waan tokko dhabame.
-6. **Nama tokko tokkoon.** Garee keessatti, nama sana of keessa galchuuf of kaasaa.
-7. **Obsaa ta’aa, akkamitti gargaaruu akka dandeessan gaafadhaa.**
+1. **Nama sana fuulduratti ta’ii ija isaatiin wal qunnami**, ifa gaarii keessa, akka inni afaanii fi calaqqee fuula kee arguuf.
+2. **Bakka tasgabbaa’aa filadhu.** Televijiinii cufi ykn sagalee irraa fagaadhu.
+3. **Xiqqoo sagalee kee ol kaasi, garuu hin iyyin.** Haala uumamaatiin fi saffisa madaalawaa ta’een dubbadhu.
+4. **Afaan kee ifa ta’ee eegi.** Utuu haasa’aa jirtuu nyaata hin nyaatin, qaruuraa hin alanfatin ykn afaan kee hin haguugin.
+5. **Waan dhaga’amuu hin dandeenye yoo jiraate irra deebi’uu irra caalmaatti haala biraatiin ibsi.**
+6. **Yeroo tokko nama tokko qofaan haasa’i.** Garee keessatti, nama sana hirmaachisuuf carraaqqii godhi.
+7. **Obsa qabaadhu, akkasumas akkamitti akka si gargaaruu danda’u gaafadhu.**
 
-Gorsi kun [gorsa haasaa dementia](/caregiving/communication-tips/) keenya wajjin gaarii hojjeta. Hojiiwwan suuraa irratti hundaa’an dhaggeeffachuu irraa dhiibbaa ni hir’isu. [Lamaan suuraa](/games/picture-pairs/) fi [Kaartii haasaa](/games/conversation-cards/) wanta ilaaltan irratti hojjetu, [Himata xumuri](/games/finish-the-saying/) immoo xumura dubbachuu irra agarsiisuu dandeessisa. Waamichaaf, [qajeelfama bilbilaa fi waamicha viidiyoo](/activities/phone-and-video-calls/) keenya ilaalaa.
+Gorsoonni kun [gorsa haasaa qaama miidhamummaa sammuu](/caregiving/communication-tips/) waliin haala gaariin hojjetu. Sochiiwwan fakkii irratti hundaa’anis dhaggeeffachuu irratti dhiibbaa ni hir’isu. [Picture Pairs](/games/picture-pairs/) fi [Conversation Cards](/games/conversation-cards/) waan argitan irratti hojjetu, [Finish the Saying](/games/finish-the-saying/) immoo xumura isaa jechuu irra argisiisuuf carraa kenna. Bilbilaa irratti, qajeelfama keenya [waamicha bilbilaa fi viidiyoo](/activities/phone-and-video-calls/) ilaalaa.
 
-## Ijis ni barbaachisa
+## Ijji ilaaluu baay’ee barbaachisaa dha
 
-Bara 2024 Komishiiniin Lancet ija dhabuu hin yaalamne akka sababa balaa haaraatti dabale. Cuunfaan UCL dementia keessaa %2 akka ta’u ibsa, Komishiinichis qorannoo fi yaala rakkoo ijaa hundaaf akka argamu gorsa. [NIA gorsa](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) umrii 60 booda waggaa tokko ykn lama keessatti qorannoo ijaa (dilated eye exam), akkasumas ajaja ijaa gilaasii illee ilaaluu. Jijjiiramni arguu xiqqaan illee balaa kufuu dabaluu danda’a.
+Bara 2024 Lancet Commission iji hubamuu dhabuu hin yaalamne akka saaxilamummaa haaraatti dabalate. Cuunfaan UCL gara dhibbeentaa 2 qaama miidhamummaa sammuu akka ta’u ibsa, Komishiniinis qorannoo fi yaala rakkoo ijaa nama hundaaf akka argamu gorsa. [NIA ni gorsa](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) erga umuriin waggaa 60 ol ta’ee booda waggaa tokkoon ykn lama lamaan qorannoo ijaa bal’ifame akka godhatan, akkasumas ajaja gilaasii ijaa akka qoratan. Jijjiiramni xiqqaan arguuttis saaxilamummaa kufuu dabaluun ni mala.
 
-## Doktora wajjin haasa’aa
+## Doktora kee waliin mari’adhu
 
-Yoo mallattoowwan armaan olii keessaa argitan, waa’ee qorannoo dhaga’uu fi arguu doktora gaafadhaa. Dhaga’uu dhabuu tasaa, dhukkubbii gurra, ykn bishaan gurra irraa bahuuf battalumatti kunuunsa barbaadaa. Yoo nama dementia wajjin jiraatu kunuunsitan, jijjiirama dhaga’uu ykn arguu doktora isaaniitti himaa, kunis miira, nageenya fi hanga namni sun itti makamuu danda’u irratti dhiibbaa qabaachuu danda’a.
+Mallattoolee armaan olii yoo argite qorannoo dhagahuu fi ijaa waa’ee doktora gaafadhu. Dhagahuun tasa hir’achuu, dhukkubbii gurraa, ykn dhangala’aa gurraa keessaa ba’u yoo jiraate hatattamaan yaala barbaadi. Yoo nama qaama miidhamummaa sammuu waliin jiraatu kunuunsitaa jirtu, jijjiirama dhagahuu fi ijaa waa’ee doktora isaa himi; kun miira, nageenya fi haala namichi hirmaachuu danda’u irratti dhiibbaa gochuu danda’a.
 
-Fuulli kun odeeffannoo waliigalaa dha, gorsa fayyaa miti. [Beeksisa fayyaa](/medical-disclaimer/) keenya ilaalaa. Waa’ee [walitti hidhamuu hawaasaa fi fayyaa sammuu](/brain-health/social-connection/) caalaatti dubbisaa.
+Fuulli kun odeeffannoo waliigalaa dha, gorsa fayyaa miti. [Ittisa gaaffii fayyaa](/medical-disclaimer/) keenya ilaalaa. Waa’ee [walitti dhufeenya hawaasaa fi fayyaa sammuu](/brain-health/social-connection/) dabalataan dubbisaa.

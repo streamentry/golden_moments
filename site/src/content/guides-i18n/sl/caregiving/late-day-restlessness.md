@@ -1,33 +1,34 @@
 ---
-title: "Sundowning: mirne dejavnosti pozno popoldne za osebe z demenco"
-seoTitle: "Sundowning: mirne dejavnosti pozno popoldne"
-description: "Nežne rutine, spremembe prostora in mirne dejavnosti, ki lahko ublažijo nemir ob koncu dneva pri demenci, ter kdaj poklicati zdravnika zaradi novih ali slabših simptomov."
+title: "Večerna nemirnost: umirjene popoldanske dejavnosti"
+seoTitle: "Večerna nemirnost: umirjene popoldanske dejavnosti"
+description: "Nežni vsakdanji ritmi, spremembe v prostoru in umirjene dejavnosti, ki lahko olajšajo pozno popoldanski nemir pri demenci, ter kdaj poklicati zdravnika."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning je nemir, zmedenost ali razdražljivost, ki se začne ali poslabša pozno
-  popoldne ali zvečer. Praktični koraki, ki lahko pomagajo, so stalna dnevna rutina,
-  dnevna svetloba in dejavnost zgodaj čez dan, manj poznih dremežev, manj kofeina,
-  svetle notranje luči pred mrakom, mirnejši dom ter mirne dejavnosti, kot so glasba,
-  fotografije ali zlaganje perila. Novi ali slabši simptomi potrebujejo pregled zdravnika.
+  Večerna nemirnost je nemir, zmedenost ali razdražljivost, ki se začne ali
+  poslabša pozno popoldne ali zvečer. Praktični koraki, ki lahko pomagajo,
+  vključujejo stalen dnevni ritem, dnevno svetlobo in dejavnosti zgodaj v dnevu,
+  manj poznih dremežev, manj kofeina, prižgane luči v stanovanju pred mrakom,
+  tišji dom ter umirjene dejavnosti, kot so glasba, fotografije ali zlaganje
+  perila. Ob novih ali poslabšanih simptomih je potreben pregled pri zdravniku.
 keyPoints:
-  - "Sundowning pomeni nemir ali zmedenost, ki se začne ali poslabša, ko dnevna svetloba pojenja."
-  - "Zahtevne naloge, izlete in kopanje načrtujte zjutraj ali zgodaj popoldne."
-  - "Dnevna svetloba, dnevni sprehod, manj poznih dremežev in manj kofeina pozno čez dan lahko pomagajo, da večeri potekajo lažje."
-  - "Luči prižgite pred mrakom, zmanjšajte hrup in preidite na mirne, znane dejavnosti."
-  - "Vodite zapiske, da odkrijete sprožilce, in ostanite mirni ter spodbudni, ko se nemir začne."
-  - "Pri novih ali slabših simptomih se posvetujte z zdravnikom: bolečina, okužba ali zdravila so lahko vzrok."
+  - "Večerna nemirnost pomeni nemir ali zmedenost, ki se začne ali poslabša, ko se dan prevesi v večer."
+  - "Zahtevnejša opravila, odhode od doma in kopanje načrtujte zjutraj ali zgodaj popoldne."
+  - "Dnevna svetloba, vsakodnevni sprehod, manj poznih dremežev in manj kofeina pozno v dnevu lahko pripomorejo k mirnejšim večerom."
+  - "Prižgite luči pred mrakom, zmanjšajte hrup in preidite na umirjene, znane dejavnosti."
+  - "Vodite kratek dnevnik, da lažje prepoznate sprožilce, in ostanite mirni ter spodbudni, ko se nemir začne."
+  - "Ob novih ali poslabšanih simptomih obiščite zdravnika: pri tem lahko sodelujejo bolečina, okužba ali zdravila."
 faq:
-  - q: "Ob katerem času dneva se sundowning ponavadi pojavi?"
-    a: "Ponavadi se začne ali poslabša pozno popoldne ali zgodaj zvečer, ko dnevna svetloba pojenja. Natančen čas je pri vsaki osebi drugačen, zato lahko pomaga kratek zapis za en ali dva tedna."
-  - q: "Katere dejavnosti pomagajo pri sundowningu?"
-    a: "Mirne, znane dejavnosti z malo napora delujejo najbolje pozno popoldne: pomirjajočo glasbo, ogled fotografij, najljubšo televizijsko oddajo ali film, zlaganje perila, kratek sprehod ali skupen prigrizek. Nove ali zahtevne dejavnosti prihranite za zgodaj čez dan."
-  - q: "Ali je sundowning lahko znak kakšne bolezni?"
-    a: "Poslabšajo ga lahko zdravstvene težave, kot so bolečina, okužbe, na primer okužbe sečil, težave s spanjem ali stranski učinki zdravil. Če je nemir nov, nenaden ali se slabša, se obrnite na zdravnika osebe."
-  - q: "Ali naj zdravnika vprašam za zdravilo za sundowning?"
-    a: "To je pogovor, ki ga je treba imeti z zdravnikom. Alzheimerjevo združenje pravi, da je neizzdravilnim pristopom na splošno dana prednost, da pa je treba kakršno koli zdravilo za večerni nemir upoštevati šele po tehtanju tveganj in koristi. Ta stran ne daje nasvetov o zdravilih."
+  - q: "Ob katerem času dneva se večerna nemirnost običajno pojavi?"
+    a: "Običajno se začne ali poslabša pozno popoldne ali zgodaj zvečer, ko se dan prevesi v večer. Natančen čas se od osebe do osebe razlikuje, zato lahko kratek dnevnik, ki ga vodite teden ali dva, pomaga pri prepoznavanju vzorca."
+  - q: "Katere dejavnosti lahko pomagajo pri večerni nemirnosti?"
+    a: "Pozno popoldne se običajno najbolje obnesejo umirjene, znane in preproste dejavnosti: pomirjujoča glasba, gledanje fotografij, priljubljena televizijska oddaja ali film, zlaganje perila, kratek sprehod ali skupna malica. Nove ali zahtevnejše dejavnosti prihranite za zgodnejši del dneva."
+  - q: "Ali je lahko večerna nemirnost znak česa zdravstvenega?"
+    a: "Poslabšajo jo lahko zdravstvene težave, kot so bolečina, okužbe, na primer okužbe sečil, težave s spanjem ali neželeni učinki zdravil. Če je nemir nov, nenaden ali se poslabšuje, se obrnite na zdravnika osebe, za katero skrbite."
+  - q: "Ali naj zdravnika vprašam o zdravilih za večerno nemirnost?"
+    a: "O tem se je treba pogovoriti z zdravnikom. Alzheimer's Association navaja, da so pristopi brez zdravil običajno najprej priporočeni ter da je treba vsako zdravilo za večerno vznemirjenost pretehtati šele po oceni tveganj in koristi. Ta stran ne daje nasvetov o zdravilih."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,133 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Mnoge družine opazijo isti vzorec: jutro je precej mirno, toda ko popoldne napreduje, oseba, ki živi z demenco, postane nemirna,
-tesnobna, zmedena ali razdražljiva. Lahko hodi sem ter tja, sprašuje, ali lahko „gre domov“, čeprav je doma, ali se hitro razburi.
-To se pogosto imenuje sundowning.
+Mnoge družine opazijo podoben vzorec: jutra so razmeroma mirna, ko pa se popoldne bliža koncu, oseba, ki živi z demenco, postane nemirna, zaskrbljena, zmedena ali razdražljiva. Morda hodi sem ter tja, prosi, da gre »domov«, čeprav je že doma, ali se hitro vznemiri. Temu pogosto rečemo večerna nemirnost.
 
-Ni ene same rešitve, vendar lahko spremembe v ritmu dneva, v prostoru in v vrsti dejavnosti naredijo pozne popoldneve mirnejše. Ta stran
-zbira praktične, nemedicinske zamisli Nacionalnega inštituta za staranje in Alzheimerjevega združenja. Ni zdravniški nasvet. Če so
-simptomi novi, nenadni ali se slabšajo, se pogovorite z zdravnikom osebe.
+Ni enotne rešitve, vendar lahko spremembe v dnevnem ritmu, prostoru in vrsti dejavnosti, ki jih ponudite, pripomorejo k mirnejšim poznim popoldnevom. Na tej strani so zbrane praktične, nezdravstvene ideje organizacij National Institute on Aging in Alzheimer's Association. To ni zdravstveni nasvet. Če so simptomi novi, nenadni ali se poslabšujejo, se pogovorite z zdravnikom osebe, za katero skrbite.
 
-## Kaj je sundowning?
+## Kaj je večerna nemirnost?
 
-Sundowning je nemir, razburjenost, razdražljivost ali zmedenost, ki se začne ali poslabša, ko dnevna svetloba pojenja, pozno popoldne
-ali zgodaj zvečer. [Nacionalni inštitut za staranje (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)
-pojasnjuje, da lahko pretirana utrujenost poveča pozno popoldanski nemir.
+Večerna nemirnost je nemir, vznemirjenost, razdražljivost ali zmedenost, ki se začne ali poslabša, ko se dan prevesi v večer, pozno popoldne ali zgodaj zvečer. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) navaja, da lahko prevelika utrujenost poveča nemir pozno v dnevu.
 
-## Kaj lahko poslabša pozno popoldanski nemir?
+## Kaj lahko poslabša nemir pozno v dnevu?
 
-K temu lahko prispeva več stvari, pogosto hkrati. [Alzheimerjevo združenje](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning)
-navaja dejavnike, kot so:
+K temu lahko prispeva več stvari, pogosto hkrati. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) med drugim navaja:
 
-- izčrpanost po polnem dnevu;
-- nova ali zmedena okolica;
-- „notranja ura telesa“, ki je izven ritma, zaradi česar je oseba podnevi zaspana, ponoči pa budna;
-- šibka svetloba in sence, ki so lahko zbegane;
-- zaznavanje stresa ali frustracije pri ljudeh okoli sebe;
-- manjša potreba po spanju, kar je pri starejših odraslih pogosto.
+- izčrpanost po celem dnevu;
+- novo ali neznano okolje;
+- »notranjo telesno uro«, ki ni usklajena, zaradi česar je oseba podnevi zaspana, ponoči pa budna;
+- šibko svetlobo in sence, ki so lahko zavajajoče;
+- zaznavanje stresa ali razočaranja pri ljudeh okoli nje;
+- manjšo potrebo po spanju, kar je pri starejših odraslih pogosto.
 
-NIA na splošno navaja še druge vzroke nemira, med njimi bolečino, depresijo ali stres, premalo počitka, zaprtje, preveč hrupa ali ljudi ter
-nekatera zdravila ali njihove medsebojne učinke.
+NIA med splošnimi vzroki za vznemirjenost navaja tudi bolečino, depresijo ali stres, premalo počitka, zaprtje, preveč hrupa ali preveč ljudi ter nekatera zdravila ali njihove medsebojne učinke.
 
 ## Kako lahko načrtujem dan, da bodo večeri mirnejši?
 
-Zahtevne stvari premaknite zgodaj, pozno popoldne pa ohranite nežno in predvidljivo. NIA in Alzheimerjevo združenje oba priporočata
-redno rutino. Vzorčni dan, ki ga prilagodite svojemu:
+Zahtevnejše stvari prestavite na zgodnejši del dneva, pozno popoldne pa naj bo nežno in predvidljivo. Tako NIA kot Alzheimer's Association priporočata reden dnevni ritem. Primer dneva, ki ga prilagodite svojim razmeram:
 
 | Čas | Kaj lahko pomaga |
 | --- | --- |
-| Jutro | Termini, kopanje, izleti in vsaka naloga, ki zahteva napor, ko je večina ljudi najbolj zbranih |
-| Dopoldne | Čas zunaj ali ob sončnem oknu; sprehod ali druga dejavnost |
-| Opoldne | Večji obed (Alzheimerjevo združenje predlaga večji obed in lažji večerni obrok) |
-| Zgodnje popoldne | Počitek, če je potreben, vendar se izogibajte dolgim dremežem pozno čez dan |
-| Sredi do pozno popoldne | Mirne, znane dejavnosti; prigrizek in pijača; brez kofeina |
-| Pred mrakom | Prižgite notranje luči in zaprite zavese, preden se stemni |
-| Večer | Lažji obrok, tiha glasba, malo dražljajev, stalna rutina pred spanjem |
+| Jutro | Obiski pri zdravniku, kopanje, odhodi od doma in vsa opravila, ki zahtevajo napor, ko so mnogi ljudje najbolj zbrani |
+| Pozno dopoldne | Čas na prostem ali ob sončnem oknu; sprehod ali druga dejavnost |
+| Opoldne | Obilnejše kosilo (Alzheimer's Association predlaga obilnejše kosilo in lažjo večerjo) |
+| Zgodaj popoldne | Počitek po potrebi, vendar se izognite dolgim dremežem pozno čez dan |
+| Sredi do poznega popoldneva | Umirjene, znane dejavnosti; malica in pijača; brez kofeina |
+| Pred mrakom | Prižgite luči v stanovanju in zagrnite zavese, preden se stemni |
+| Večer | Lažja večerja, tiha glasba, manj dražljajev, stalen večerni ritem |
 
-Nekaj konkretnih točk iz virov:
+Nekaj posebnih napotkov iz virov:
 
-- **Dnevna svetloba.** NIA svetuje, da vsak dan poskrbite za čas zunaj ali ob oknu, kjer je sonce.
-- **Dnevno gibanje, vendar ne preveč.** Cilj je biti telesno dejaven vsak dan, ne načrtovati preveč dejavnosti, pravi NIA.
-- **Pijače pozno popoldne.** Pozno čez dan se izogibajte alkoholu in pijačam s kofeinom, kot sta kava ali cola (NIA). Alzheimerjevo
-  združenje omenja tudi nikotin.
-- **Dremeži.** Odsvetujte dolge dremeže in dremanje pozno čez dan (NIA). Alzheimerjevo združenje predlaga omejitev dnevnih dremežev,
-  če je nočni spanec problem.
+- **Dnevna svetloba.** NIA predlaga, da vsak dan uredite čas na prostem ali ob oknu, kjer je sončna svetloba.
+- **Vsakodnevno gibanje, vendar ne preveč.** NIA priporoča, da ste vsak dan telesno dejavni, vendar brez prevelikega števila načrtovanih dejavnosti.
+- **Pijača pozno v dnevu.** Pozno v dnevu se izogibajte alkoholu in pijačam s kofeinom, kot sta kava ali kola (NIA). Alzheimer's Association omenja tudi nikotin.
+- **Dremeži.** Odsvetujte dolge dremeže in zadremljevanje pozno čez dan (NIA). Alzheimer's Association predlaga, da omejite dnevne dremeže, če so težave z nočnim spanjem.
 
-Več o oblikovanju stalnega dne najdete v [dejavnostih za dnevno rutino](/activities/daily-routine/).
+Več o ustvarjanju mirnega dnevnega ritma najdete v razdelku [dejavnosti za vsakdanji ritem](/activities/daily-routine/).
 
-## Kako lahko naredim dom mirnejši pozno popoldne?
+## Kako lahko pozno popoldne doma ustvarim bolj mirno okolje?
 
-Zmanjšajte hrup, dodajte svetlobo in ohranjajte znane stvari blizu.
+Zmanjšajte hrup, dodajte svetlobo in imejte znane stvari blizu.
 
-- **Svetla, enakomerna razsvetljava.** Alzheimerjevo združenje priporoča, da je dom zvečer dobro osvetljen. Prostor osvetlite, preden se
-  pojavijo sence.
-- **Manj hrupa.** Izklopite ali zmanjšajte glasnost televizorja in radia ter v tem času omejite obiske ali glasna gospodinjska opravila.
-  Alzheimerjevo združenje predlaga zmanjšanje večernih dražljajev, kot so televizija, opravila in glasna glasba.
-- **Znana udobja.** NIA predlaga pomirjajočo glasbo ter ohranjanje priljubljenih predmetov in fotografij po domu.
-- **Preverjanje udobja.** Alzheimerjevo združenje priporoča preverjanje bolečine, lakote, žeje, zaprtja, polnega mehurja, utrujenosti,
-  okužb in draženja kože ter ohranjanje prijetne temperature v sobi.
-- **Vaše lastno razpoloženje.** Ljudje zaznavajo stres. NIA svetuje, naj se upočasnite in poskusite sprostiti, če vaše lastne skrbi
-  dodatno napenjajo ozračje.
+- **Svetla, enakomerna osvetlitev.** Alzheimer's Association priporoča, da je dom zvečer dobro osvetljen. Prostor osvetlite, preden se pojavijo sence.
+- **Manj hrupa.** Izklopite ali utišajte televizijo in radio ter v tem času omejite obiske ali zahtevna gospodinjska opravila. Alzheimer's Association predlaga, da zvečer zmanjšate dražljaje, kot so televizija, gospodinjska opravila in glasna glasba.
+- **Znane tolažilne stvari.** NIA predlaga pomirjujočo glasbo ter to, da so priljubljeni predmeti in fotografije na vidnem mestu doma.
+- **Preverjanje udobja.** Alzheimer's Association priporoča, da preverite, ali je prisotna bolečina, lakota, žeja, zaprtje, poln mehur, utrujenost, okužbe ali draženje kože, ter da je temperatura v prostoru prijetna.
+- **Vaše lastno razpoloženje.** Ljudje zaznajo stres. NIA predlaga, da upočasnite in poskušate ostati sproščeni, če vaše skrbi morda povečujejo napetost.
 
-## Katere mirne dejavnosti lahko počnemo pozno popoldne?
+## Katere umirjene dejavnosti lahko počnemo pozno popoldne?
 
-Izberite dejavnosti, ki so znane, neprisiljene in jih je lahko enostavno ustaviti. Alzheimerjevo združenje predlaga pomirjujoče dejavnosti,
-kot so mirna glasba, fotografije ali priljubljen film ter skupni sprehod, ki umiri nemir. NIA predlaga prigrizek ali pijačo, priljubljeno
-televizijsko oddajo, glasbo, sprehod, branje ali preprosto gospodinjsko opravilo, kot je zlaganje perila.
+Izberite dejavnosti, ki so znane, nehitre in jih je enostavno prekiniti. Alzheimer's Association predlaga pomirjujoče dejavnosti, kot so mirna glasba, fotografije ali priljubljen film, ter skupen sprehod za lajšanje nemira. NIA predlaga malico ali pijačo, priljubljeno televizijsko oddajo, glasbo, sprehod, branje ali preprosto gospodinjsko opravilo, kot je zlaganje perila.
 
-Zamisli za poskus:
+Ideje, ki jih lahko preizkusite:
 
-1. **Zložite perilo skupaj.** NIA predlaga tovrstno preprosto gospodinjsko opravilo. Brisače je enostavno držati, opravilo pa ima jasen konec.
-2. **Predvajajte priljubljeno glasbo.** Znane pesmi iz njihovih mlajših let, na nizki glasnosti. Če pojete ali brundate z njo, to šteje.
-   Več idej v [glasbenih dejavnostih](/activities/music/).
-3. **Oglejte si fotografije.** Fotoalbum ali nekaj družinskih slik v [Parih fotografij](/games/photo-pairs/), pri čemer slike ostanejo vidne,
-   lahko vodi do tihega pogovora.
+1. **Skupno zlaganje perila.** NIA predlaga takšno preprosto gospodinjsko opravilo. Brisače je enostavno prijeti, opravilo pa ima jasen konec.
+2. **Predvajanje priljubljene glasbe.** Znane pesmi iz mlajših let, tiho predvajane. Že tiho petje zraven šteje. Več idej najdete v razdelku [glasbene dejavnosti](/activities/music/).
+3. **Gledanje fotografij.** Fotoalbum ali nekaj družinskih slik v igri [Photo Pairs](/games/photo-pairs/), pri kateri pustite slike vidne, lahko spodbudita miren pogovor.
 4. **Kratek sprehod.** Po vrtu, okoli bloka ali po hodniku, preden se stemni.
-5. **Delite prigrizek in pijačo.** Nekaj preprostega, toplega in brez kofeina, skupaj za mizo.
-6. **Nežno ujemanje.** [Pari slik](/games/picture-pairs/) s štirimi ploščicami in vidnimi slikami je enostavno začeti in enostavno nehati.
-7. **Barvanje.** [Pobarvanke](/games/coloring/) na zaslonu ali na natisnjeni strani brez cilja, da jih dokončate.
-8. **Gledanje in pogovor.** [Kartice za pogovor](/games/conversation-cards/) ponujajo sliko in odprto vodilo. Samo gledanje zadostuje.
-9. **Premor za dihanje.** [Mirno dihanje](/games/calm-breathing/) je počasen, tih premor, ki ga začnete in zaključite sami.
-10. **Ročna opravila.** Razvrščanje gumbov ali nogavic, glajenje mehke odeje ali držanje znanega predmeta. Glejte [čutne dejavnosti](/activities/sensory/).
+5. **Skupna malica in pijača.** Nekaj preprostega, toplega in brez kofeina, skupaj za mizo.
+6. **Nežno iskanje parov.** [Picture Pairs](/games/picture-pairs/) s štirimi ploščicami in vidnimi slikami je enostavno začeti in enostavno končati.
+7. **Barvanje.** [Coloring](/games/coloring/) na zaslonu ali na natisnjeni strani, brez cilja, da jo dokončate.
+8. **Gledanje in pogovor.** [Conversation Cards](/games/conversation-cards/) ponujajo sliko in odprt poziv. Dovolj je že samo gledanje.
+9. **Dihalni premor.** [Calm Breathing](/games/calm-breathing/) je počasen, tih premor, ki ga začnete in končate sami.
+10. **Dejavnosti z rokami.** Razvrščanje gumbov ali nogavic, glajenje mehke odeje ali držanje znanega predmeta. Oglejte si [zaznavne dejavnosti](/activities/sensory/).
 
-Izogibajte se novim igram, zahtevnim izletom in vsemu, kar pozno čez dan zahteva veliko spomina ali koncentracije. Te prihranite za jutro.
+Pozno v dnevu se izogibajte novim igram, napornim odhodom od doma in vsemu, kar zahteva veliko spomina ali osredotočenosti. To prihranite za jutro.
 
-## Kaj storiti, ko se nemir začne?
+## Kaj naj storim, ko se nemir začne?
 
-Ostanite mirni, pomirjajte in nežno preusmerite. NIA svetuje, naj govorite mirno, poslušate osebne skrbi, se izogibate prepirom, jo
-pomirite, da je varna, in po potrebi uporabite nežen dotik. Nato poskusite z odvračanjem: prigrizek, pijača, glasba ali sprehod.
+Ostanite mirni, pomirite osebo in jo nežno preusmerite. NIA predlaga, da govorite mirno, prisluhnete skrbi osebe, se izogibate prepiranju, jo pomirite, da je na varnem, in uporabite nežen dotik, če pomaga. Nato poskusite s preusmeritvijo: malica, pijača, glasba ali sprehod.
 
-Alzheimerjevo združenje predlaga fraze, kot sta „Tukaj ste varni“ in „Žal mi je, da ste razburjeni“, ter priporoča dodajanje svetlobe, počasnejši
-tempo in omejevanje dražljajev. Osebe ne ujamite v kot, ne stiskajte je in ne zadržujte ter se z njo ne prepirajte.
+Alzheimer's Association predlaga stavke, kot sta »Tu ste na varnem« in »Žal mi je, da ste vznemirjeni«, ter svetuje, da dodate svetlobo, upočasnite in omejite dražljaje. Osebe ne stiskajte v kot, je ne obkrožajte ali omejujte njenega gibanja in se z njo ne prepirajte.
 
-Če oseba postane agresivna, NIA svetuje, naj ostanete na varni razdalji, dokler vedenje ne preneha. V nujnem primeru pokličite 911 in
-povejte, da ima oseba demenco.
+Če oseba postane agresivna, NIA svetuje, da ostanete na varni razdalji, dokler se vedenje ne umiri. V nujnem primeru pokličite 911 in pojasnite, da ima oseba demenco. Naš [vodnik o odzivanju na jezo in agresijo](/caregiving/when-anger-becomes-aggression-with-dementia/) opisuje takojšnjo varnost in nadaljnje korake.
 
-Naša vodnika o [sporazumevanju](/caregiving/communication-tips/) in [kaj storiti, ko rečejo ne](/caregiving/when-they-say-no/) imata več o
-umirjajočih besedah.
+Naša vodnika o [sporazumevanju](/caregiving/communication-tips/) in [kaj storiti, ko oseba reče ne](/caregiving/when-they-say-no/) vsebujeta več nasvetov za pomirjujoče besede.
 
-## Kako najdem sprožilce?
+## Kako prepoznam sprožilce?
 
-Vodite kratek zapis za en ali dva tedna. Alzheimerjevo združenje priporoča spremljanje, kaj se zgodi pred epizodami sundowninga, da odkrijete
-sprožilce. Zabeležite čas, ko se je nemir začel, kaj se je zgodilo uro prej, dremeže, obroke in pijače, obiske, hrup in svetlobo. Zapis
-prinesite k zdravniku. NIA pojasnjuje, da lahko spremljanje sprememb vedenja pomaga skrbnikom in zdravstvenim delavcem prepoznati vzorec.
+Teden ali dva vodite kratek dnevnik. Alzheimer's Association priporoča, da beležite, kaj se zgodi pred epizodami večerne nemirnosti, da lažje prepoznate sprožilce. Zabeležite, kdaj se je nemir začel, kaj se je zgodilo v uri pred tem, dremeže, obroke in pijačo, obiske, hrup in svetlobo. Dnevnik prinesite zdravniku. NIA navaja, da lahko spremljanje sprememb vedenja skrbnikom in zdravstvenim delavcem pomaga prepoznati vzorec.
 
-## Kdaj naj o sundowningu pokličem zdravnika?
+## Kdaj naj zaradi večerne nemirnosti pokličem zdravnika?
 
-Pokličite zdravnika osebe, če je nemir nov, nenadoma hujši ali se pojavi skupaj z drugimi spremembami. NIA pravi, da je treba nenadne ali hitro
-nihajoče spremembe vedenja, zlasti po okužbi ali nedavni spremembi zdravil, takoj sporočiti zdravniku.
+Obrnite se na zdravnika osebe, za katero skrbite, če je nemir nov, nenadoma hujši ali se pojavlja skupaj z drugimi spremembami. NIA navaja, da je treba nenadne ali hitro spreminjajoče se spremembe vedenja, zlasti po okužbi ali nedavnih spremembah zdravil, nemudoma sporočiti zdravniku.
 
-Prosite zdravnika, naj preveri stvari, ki lahko otežijo večere. Alzheimerjevo združenje omenja telesne težave, kot so okužbe sečil, inkontinenca,
-nemirne noge in spalna apneja, ter predlaga, naj vprašate, kateri čas dneva je najboljši za vsako zdravilo. NIA med možne vzroke nemira navaja
-bolečino, zaprtje ter stranske učinke ali medsebojne učinke zdravil.
+Zdravnika prosite, da preveri stvari, ki lahko otežijo večere. Alzheimer's Association omenja telesne težave, kot so okužbe sečil, urinska inkontinenca, sindrom nemirnih nog in spalna apneja, ter predlaga, da vprašate, ob katerih urah dneva je najbolje jemati posamezno zdravilo. NIA med možnimi vzroki vznemirjenosti navaja bolečino, zaprtje ter neželene učinke zdravil ali njihove medsebojne učinke.
 
-Alzheimerjevo združenje pravi, da je pri težavah s spanjem, povezanih z Alzheimerjevo boleznijo, na splošno raje najprej uporabiti neizzdravilne
-pristope, zdravilo za pozno popoldanski nemir pa je treba upoštevati šele, če ti ne uspejo, po tehtanju tveganj in koristi. To odločitev sprejme
-zdravnik. Brez zdravniškega nasveta ne začenjajte, ne prenehajte in ne spreminjajte nobenega zdravila, pripomočka za spanje ali dodatka.
+Alzheimer's Association navaja, da so pri težavah s spanjem, povezanih z Alzheimerjevo boleznijo, običajno najprej priporočeni pristopi brez zdravil ter da je treba zdravilo za pozno popoldansko vznemirjenost pretehtati le, če ti pristopi ne pomagajo, po oceni tveganj in koristi. To odločitev sprejme zdravnik. Brez zdravstvenega nasveta ne začnite, ne prenehajte in ne spreminjajte jemanja nobenega zdravila, pripomočka za spanje ali dodatka.
 
-## Kako preživim večere sam/-a?
+## Kako lahko sama ali sam lažje preživim večere?
 
-Pozno popoldne je lahko najtežji del skrbnikovega dne. Če lahko, prosite družinskega člana, prijatelja ali plačanega pomočnika, naj nekaj dni na
-teden prevzame pozno popoldne, tudi samo za eno uro. Naš vodnik o [skrbi zase](/caregiving/caregiver-self-care/) navaja možnosti predaha in brezplačni
-24/7 Helpline Alzheimerjevega združenja.
+Pozna popoldneva so lahko najtežji del dneva za skrbnika. Če je mogoče, prosite družinskega člana, prijatelja ali plačanega pomočnika, da prevzame pozno popoldne nekaj dni v tednu, tudi za eno uro. Naš vodnik o [skrbi zase za skrbnike](/caregiving/caregiver-self-care/) navaja možnosti začasne pomoči in brezplačno številko za pomoč Alzheimer's Association, ki je na voljo ves dan, vsak dan.

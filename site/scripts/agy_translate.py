@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import importlib.util
 import itertools
 import random
 import json
@@ -32,6 +33,12 @@ I18N = SITE / 'src/i18n'
 GUIDES = SITE / 'src/content/guides'
 GUIDES_I18N = SITE / 'src/content/guides-i18n'
 CSV = SITE.parent / 'docs/languages.csv'
+_GUIDE_CHECKER_PATH = SITE / 'scripts/check-guide-translation.py'
+_GUIDE_CHECKER_SPEC = importlib.util.spec_from_file_location('_site_guide_translation_checker', _GUIDE_CHECKER_PATH)
+if _GUIDE_CHECKER_SPEC is None or _GUIDE_CHECKER_SPEC.loader is None:
+    raise RuntimeError(f'Cannot load guide checker: {_GUIDE_CHECKER_PATH}')
+GUIDE_CHECKER = importlib.util.module_from_spec(_GUIDE_CHECKER_SPEC)
+_GUIDE_CHECKER_SPEC.loader.exec_module(GUIDE_CHECKER)
 MODEL = 'gemini-3.8-flash-medium'
 PLURALS = ('zero', 'one', 'two', 'few', 'many', 'other')
 NO_LETTER_GRID = {'zh-Hans', 'zh-Hant', 'ja', 'ko', 'th', 'my', 'yo', 'lo', 'ii', 'bo', 'dz', 'km', 'zh'}
@@ -42,7 +49,11 @@ Rules:
 - Warm, plain, respectful adult language, grade 6-8 reading level. Say what a native speaker naturally says; never word for word.
 - Say the local equivalent of "people living with dementia" / "the person you care for". Never "patients", "sufferers", "demented", or baby talk. Use the polite-but-warm adult form of address.
 - Never claim or imply any activity treats, slows, prevents, cures or "trains" anything. Keep every hedge ("may", "linked with").
-- Keep EXACTLY: {placeholders} such as {name}, HTML tags and every href/URL, markdown link targets, the brand "Golden Moments", and the store name "Dementia Games: Golden Moments". Keep numbers.
+- Keep EXACTLY: {placeholders} such as {name}, HTML tags and every href/URL, markdown link targets, the brand "Golden Moments", and the store name "Dementia Games: Golden Moments".
+- Preserve all numeric values from the visible English source. Clock notation may be localized between 12-hour and 24-hour formats, including `:00` for an exact hour, but do not change the time or add nonzero minutes. Keep morning and evening correct: for example, `1:00 p.m.` becomes `13:00`, not `1:00`.
+- Never add digits for a count, age, date, list number, example, or emergency contact.
+- If English writes a number as a word (for example, "four"), translate it as a word in the target language. Keep the quantity; never turn it into the digit 4 or any other numeral.
+- Do not make a date more specific than English. If English gives only a month and year, do not add a day.
 - Use the language's own punctuation and quotation marks. No emoji, no exclamation-mark praise, no ALL CAPS.
 - Never add an emergency number or clinical detail that the English source does not provide. Localize a number only when the source explicitly gives one; if it asks readers to contact local urgent care or services without a number, keep it number-free. Keep cited source titles, publishers and URLs unchanged.
 """
@@ -88,9 +99,7 @@ slots = threading.BoundedSemaphore(MAX_JOBS)
 
 _rr = itertools.count()
 BACKENDS = ['agy', 'opencode']  # primary pool
-# Fallbacks: join the pool only while 'opencode' is rate-limited; once opencode's health check
-# passes they drop out again. The two *free* models are separate quota buckets from the paid
-# opencode-go and explabs ones, and are DeepSeek / GLM flash models of comparable quality.
+# Fallbacks join the pool only while 'opencode' is rate-limited; once its health check passes they drop out.
 FALLBACKS = ['iceman', 'deepseek', 'dsfree', 'glmfree']
 ALL_BACKENDS = ['agy', 'opencode', *FALLBACKS]
 OPENCODE_MODEL = 'opencode-go/claude-haiku-5-5'
@@ -98,9 +107,32 @@ DEEPSEEK_MODEL = 'explabs/deepseek-v4.1-flash'
 DEEPSEEK_FREE_MODEL = 'opencode/deepseek-v4.1-flash-free'
 GLM_FREE_MODEL = 'opencode/glm-5.3-flash-free'
 ICEMAN_MODEL = 'opencode-go/iceman-contributor-free'
-MODEL_FOR = {'opencode': OPENCODE_MODEL, 'deepseek': DEEPSEEK_MODEL, 'dsfree': DEEPSEEK_FREE_MODEL, 'glmfree': GLM_FREE_MODEL, 'iceman': ICEMAN_MODEL}
+MODEL_FOR = {
+    'opencode': OPENCODE_MODEL,
+    'deepseek': DEEPSEEK_MODEL,
+    'dsfree': DEEPSEEK_FREE_MODEL,
+    'glmfree': GLM_FREE_MODEL,
+    'iceman': ICEMAN_MODEL,
+    'beamfree': 'opencode/beam-free',
+    'flintfree': 'opencode/flint-40b-free',
+    'hy4free': 'opencode/hy4-flash-free',
+    'icemanfree': 'opencode/iceman-free',
+    'inklingfree': 'opencode/inkling-2-small-free',
+    'longcatfree': 'opencode/longcat-2.5-free',
+    'mimofree': 'opencode/mimo-v2.6-flash-free',
+    'nemotronfree': 'opencode/nemotron-3.5-lightning-free',
+    'nemotronvlfree': 'opencode/nemotron-3.5-super-vl-free',
+    'beamgofree': 'opencode-go/beam-free',
+    'hy4gofree': 'opencode-go/hy4-flash-free',
+    'longcatgofree': 'opencode-go/longcat-2.5-free',
+}
 
-FREE_BACKENDS = ['iceman', 'dsfree', 'glmfree']
+# Only include model IDs explicitly labeled free or contributor-free.
+FREE_BACKENDS = [
+    'iceman', 'dsfree', 'glmfree', 'beamfree', 'flintfree', 'hy4free',
+    'icemanfree', 'inklingfree', 'longcatfree', 'mimofree',
+    'nemotronfree', 'nemotronvlfree', 'beamgofree', 'hy4gofree', 'longcatgofree',
+]
 
 
 def configure_free_only() -> None:
@@ -430,7 +462,8 @@ def guide_done(code: str, rel: str) -> bool:
         return False
     en = (GUIDES / rel).read_text().split('---', 2)[-1].strip()
     txt = t.read_text()
-    return txt.split('---', 2)[-1].strip() != en and not guide_problems((GUIDES / rel).read_text(), txt)
+    errors, _ = GUIDE_CHECKER.check(code, rel[:-3] if rel.endswith('.md') else rel, t)
+    return txt.split('---', 2)[-1].strip() != en and not errors
 
 
 def translate_guide(lang: dict, rel: str) -> str:
@@ -454,12 +487,19 @@ def translate_guide(lang: dict, rel: str) -> str:
         tmp.parent.mkdir(parents=True, exist_ok=True)
         tmp.write_text(out + '\n')
         rel_slug = rel[:-3]
-        r = subprocess.run([sys.executable, str(SITE / 'scripts/check-guide-translation.py'), code, rel_slug, '--file', str(tmp)],
-                           capture_output=True, text=True) if False else None
-        problems = guide_problems(src, out)
+        problems = '; '.join(GUIDE_CHECKER.check(code, rel_slug, tmp)[0])
         if not problems:
             tmp.replace(target)
             return str(target)
+        if 'numbers added without an explicit emergency number in English' in problems:
+            source_front, source_body = GUIDE_CHECKER.split(GUIDES / rel)
+            translated_front, translated_body = GUIDE_CHECKER.split(tmp)
+            source_copy = GUIDE_CHECKER.visible_copy(source_front, source_body)
+            translated_copy = GUIDE_CHECKER.visible_copy(translated_front, translated_body)
+            extras = added_number_values(source_copy, translated_copy)
+            if extras:
+                problems += f"; added digit sequence(s): {', '.join(extras)}"
+            problems += '; translate only dates and quantities stated in English; if English writes a number as a word, keep it as a word in your language; do not add a day to a month-and-year date; do not add emergency numbers'
         tmp.unlink(missing_ok=True)
         last = problems
     raise RuntimeError(f'{code}/{rel}: {last}')
@@ -474,7 +514,7 @@ def number_tokens(text: str) -> list[str]:
     return sorted(values)
 
 
-EMERGENCY_NUMBERS = {'000', '101', '102', '108', '110', '111', '112', '119', '190', '191', '192', '193', '911', '988', '995', '999'}
+EMERGENCY_NUMBERS = {'000', '101', '102', '108', '110', '111', '112', '119', '190', '191', '192', '193', '911', '988', '995', '999', '116123'}
 
 
 def visible_number_tokens(text: str) -> list[str]:
@@ -484,9 +524,9 @@ def visible_number_tokens(text: str) -> list[str]:
 
 
 def added_number_values(source: str, translated: str) -> list[str]:
-    remaining = number_tokens(source)
+    remaining = GUIDE_CHECKER.visible_numbers(source)
     added = []
-    for value in number_tokens(translated):
+    for value in GUIDE_CHECKER.visible_numbers(translated):
         if value in remaining:
             remaining.remove(value)
         else:
@@ -503,34 +543,6 @@ def unsafe_number_additions(source: str, translated: str) -> bool:
     source_emergency = [value for value in visible_number_tokens(source) if value in EMERGENCY_NUMBERS]
     translated_emergency = [value for value in visible_number_tokens(translated) if value in EMERGENCY_NUMBERS]
     return not source_emergency or len(translated_emergency) > len(source_emergency)
-
-
-def guide_problems(src: str, out: str) -> str:
-    import yaml
-    try:
-        fa = yaml.safe_load(src.split('---', 2)[1])
-        fb = yaml.safe_load(out.split('---', 2)[1])
-    except Exception as e:  # noqa: BLE001
-        return f'frontmatter YAML invalid: {e}'
-    errs = []
-    for k in ('section', 'order', 'updated', 'sources', 'relatedGames', 'related', 'health'):
-        if fa.get(k) != fb.get(k):
-            errs.append(f'{k} changed')
-    if str(fb.get('translatedFrom')) != str(fa['updated']):
-        errs.append('translatedFrom wrong')
-    for k in ('keyPoints', 'faq'):
-        if len(fa.get(k, [])) != len(fb.get(k, [])):
-            errs.append(f'{k} count differs')
-    link = re.compile(r'\]\(([^)\s]+)[^)]*\)|href="([^"]+)"')
-    ba, bb = src.split('---', 2)[2], out.split('---', 2)[2]
-    if [a or b for a, b in link.findall(ba)] != [a or b for a, b in link.findall(bb)]:
-        errs.append('link targets differ or reordered')
-    h = re.compile(r'^(#{2,6})\s', re.M)
-    if h.findall(ba) != h.findall(bb):
-        errs.append('heading levels differ')
-    if unsafe_number_additions(ba, bb):
-        errs.append('numbers added that are absent from the English source')
-    return '; '.join(errs)
 
 
 # ---------------------------------------------------------------- orchestration
@@ -556,6 +568,14 @@ def json_done(kind: str, code: str) -> bool:
     return sum(ts) / max(1, len(ts)) < 0.3
 
 
+def no_sayings_game_codes() -> set[str]:
+    source = (I18N / 'play.ts').read_text()
+    match = re.search(r"export const NO_SAYINGS_GAME:\s*readonly string\[\]\s*=\s*\[(.*?)\];", source, re.S)
+    if not match:
+        raise ValueError('could not read NO_SAYINGS_GAME from site/src/i18n/play.ts')
+    return set(re.findall(r"'([^']+)'", match.group(1)))
+
+
 def guide_paths(selected: list[str] | None = None) -> list[str]:
     available = sorted(p.relative_to(GUIDES).as_posix() for p in GUIDES.glob('**/*.md'))
     if not selected:
@@ -578,10 +598,13 @@ def guide_paths(selected: list[str] | None = None) -> list[str]:
 def pending(kinds, codes, guides: list[str] | None = None):
     todo = []
     rels = guide_paths(guides) if 'guides' in kinds else []
+    no_sayings = no_sayings_game_codes() if 'play' in kinds else set()
     for code in codes:
         for k in kinds:
             if k == 'guides':
                 todo += [('guides', code, r) for r in rels if not guide_done(code, r)]
+            elif k == 'play' and code in no_sayings:
+                continue
             elif not json_done(k, code):
                 todo.append((k, code, None))
     return todo

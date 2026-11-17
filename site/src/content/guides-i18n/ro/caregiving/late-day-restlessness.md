@@ -1,35 +1,35 @@
 ---
-title: "Neliniștea spre seară (sundowning): activități calme pentru persoanele cu demență"
-seoTitle: "Sundowning: activități calme spre seară"
-description: "Rutine blânde, schimbări în cameră și activități calme care pot ușura neliniștea de spre seară în demență, plus când sunați medicul pentru simptome noi."
+title: "Sundowning: activități liniștitoare după-amiaza"
+seoTitle: "Sundowning: activități liniștitoare după-amiaza"
+description: "Rutine blânde, schimbări în încăpere și activități liniștitoare care pot reduce neliniștea de seară în demență și când să sunați medicul."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  „Sundowning” este neliniștea, confuzia sau irascibilitatea care începe sau
-  se agravează spre sfârșitul după-amiezii sau seara. Pași practici care pot
-  ajuta: o rutină zilnică stabilă, lumină naturală și activitate mai devreme
-  în zi, mai puțin somn târziu, mai puțină cafeină, lumini puternice în casă
-  înainte de amurg, o casă mai liniștită și activități calme, precum muzica,
-  fotografiile sau împăturitul rufelor. Simptomele noi sau care se agravează
-  cer un control la medic.
+  Sundowning înseamnă neliniște, confuzie sau iritabilitate care apare sau se
+  înrăutățește după-amiaza târziu sau seara. Măsuri practice care pot ajuta
+  includ o rutină zilnică constantă, lumină naturală și activitate mai devreme
+  în timpul zilei, mai puține somnuri târzii, mai puțină cofeină, lumini
+  aprinse în casă înainte de amurg, un mediu mai liniștit și activități calme
+  precum muzica, fotografiile sau împăturirea rufelor. Simptomele noi sau care
+  se agravează necesită un control la medic.
 keyPoints:
-  - "„Sundowning” înseamnă neliniște sau confuzie care începe sau se agravează pe măsură ce lumina zilei scade."
-  - "Puneți treburile solicitante, ieșirile și baia dimineața sau la începutul după-amiezii."
-  - "Lumina zilei, o plimbare zilnică, mai puțin somn târziu și mai puțină cafeină spre seară pot ajuta serile să decurgă mai lin."
+  - "Sundowning înseamnă neliniște sau confuzie care apare sau se înrăutățește pe măsură ce lumina zilei scade."
+  - "Programați sarcinile solicitante, ieșirile și baia dimineața sau devreme după-amiaza."
+  - "Lumina naturală, o plimbare zilnică, mai puține somnuri târzii și mai puțină cofeină spre sfârșitul zilei pot ajuta ca serile să fie mai liniștite."
   - "Aprindeți luminile înainte de amurg, reduceți zgomotul și treceți la activități calme și familiare."
-  - "Țineți un jurnal ca să observați ce o declanșează și rămâneți calm și liniștitor când începe neliniștea."
-  - "Mergeți la medic pentru simptome noi sau care se agravează: durerea, infecțiile sau medicamentele pot juca un rol."
+  - "Țineți un jurnal pentru a observa factorii declanșatori și rămâneți calm și liniștitor când începe neliniștea."
+  - "Consultați medicul pentru simptome noi sau care se agravează: durerea, infecțiile sau medicamentele pot avea un rol."
 faq:
-  - q: "La ce oră din zi apare de obicei neliniștea spre seară?"
-    a: "De obicei începe sau se agravează spre sfârșitul după-amiezii sau la începutul serii, pe măsură ce lumina zilei scade. Ora exactă diferă de la o persoană la alta, de aceea poate ajuta să țineți un scurt jurnal o săptămână sau două."
-  - q: "Ce activități ajută la neliniștea de spre seară?"
-    a: "Activitățile calme, familiare și care cer puțin efort merg de obicei cel mai bine spre sfârșitul după-amiezii: muzică liniștitoare, privitul fotografiilor, o emisiune sau un film preferat, împăturitul rufelor, o scurtă plimbare sau o gustare împreună. Păstrați activitățile noi sau provocatoare pentru mai devreme în zi."
-  - q: "Poate neliniștea spre seară fi semnul unei probleme medicale?"
-    a: "Poate fi agravată de probleme de sănătate precum durerea, infecțiile, de exemplu cele urinare, problemele de somn sau efectele secundare ale medicamentelor. Dacă neliniștea este nouă, bruscă sau se agravează, contactați medicul persoanei."
-  - q: "Să întreb medicul despre un medicament pentru neliniștea de spre seară?"
-    a: "Aceasta este o discuție de purtat cu medicul. Alzheimer's Association spune că, în general, se preferă mai întâi abordările fără medicamente și că orice medicament pentru agitația de seară trebuie luat în calcul doar după ce se cântăresc riscurile și beneficiile. Această pagină nu dă sfaturi despre medicamente."
+  - q: "La ce oră din zi apare de obicei sundowning?"
+    a: "De obicei începe sau se înrăutățește după-amiaza târziu sau seara devreme, pe măsură ce lumina zilei scade. Momentul exact diferă de la o persoană la alta, motiv pentru care un jurnal scurt ținut timp de o săptămână sau două poate ajuta."
+  - q: "Ce activități ajută în cazul sundowning?"
+    a: "Activitățile calme, familiare și care cer puțin efort tind să funcționeze cel mai bine după-amiaza târziu: muzică liniștitoare, privitul la fotografii, o emisiune TV sau un film preferat, împăturirea rufelor, o scurtă plimbare sau o gustare împreună. Lăsați activitățile noi sau mai dificile pentru mai devreme în timpul zilei."
+  - q: "Poate fi sundowning un semn al unei probleme medicale?"
+    a: "Poate fi înrăutățit de probleme de sănătate precum durerea, infecțiile, cum ar fi infecțiile urinare, problemele de somn sau efectele secundare ale medicamentelor. Dacă neliniștea este nouă, apare brusc sau se agravează, contactați medicul persoanei."
+  - q: "Ar trebui să întreb medicul despre medicamente pentru sundowning?"
+    a: "Aceasta este o discuție pe care să o aveți cu medicul. Alzheimer's Association spune că abordările fără medicamente sunt în general preferate la început și că orice medicament pentru agitația de seară ar trebui luat în considerare numai după cântărirea riscurilor și beneficiilor. Această pagină nu oferă sfaturi despre medicamente."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Multe familii observă același tipar: diminețile sunt destul de liniștite, dar pe măsură ce după-amiaza înaintează, persoana care trăiește cu demență devine neliniștită, anxioasă, confuză sau irascibilă. Poate umbla de colo-colo, poate cere să meargă „acasă” chiar când este acasă sau se poate supăra ușor. Aceasta se numește adesea „sundowning”, adică neliniștea de la apusul zilei.
+Multe familii observă același tipar: diminețile sunt destul de liniștite, dar pe măsură ce după-amiaza trece, persoana care trăiește cu demență devine neliniștită, anxioasă, confuză sau iritabilă. Poate merge de colo-colo, poate cere să „meargă acasă” chiar și atunci când este acasă sau se poate supăra ușor. Acest lucru este adesea numit sundowning.
 
-Nu există o soluție unică, dar schimbările în ritmul zilei, în cameră și în felul activităților pe care le propuneți pot face după-amiezile târzii mai calme. Pagina de față adună idei practice, nemedicale, de la National Institute on Aging și de la Alzheimer's Association. Nu este sfat medical. Dacă simptomele sunt noi, bruște sau se agravează, vorbiți cu medicul persoanei.
+Nu există o singură soluție, dar schimbările în ritmul zilei, în încăpere și în tipul de activități pe care le propuneți pot face după-amiezile târzii mai calme. Această pagină adună idei practice, fără caracter medical, de la National Institute on Aging și Alzheimer's Association. Nu reprezintă sfaturi medicale. Dacă simptomele sunt noi, apar brusc sau se agravează, discutați cu medicul persoanei.
 
-## Ce este „sundowning”?
+## Ce este sundowning?
 
-Este neliniștea, agitația, irascibilitatea sau confuzia care începe sau se agravează pe măsură ce lumina zilei scade, spre sfârșitul după-amiezii sau la începutul serii. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notează că oboseala excesivă poate crește neliniștea de spre seară.
+Sundowning înseamnă neliniște, agitație, iritabilitate sau confuzie care începe sau se înrăutățește pe măsură ce lumina zilei scade, după-amiaza târziu sau seara devreme. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) observă că oboseala excesivă poate crește neliniștea de la sfârșitul zilei.
 
-## Ce poate agrava neliniștea de spre seară?
+## Ce poate înrăutăți neliniștea de la sfârșitul zilei?
 
-Mai multe lucruri pot contribui, adesea împreună. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) enumeră factori precum:
+Mai multe lucruri pot contribui, adesea în același timp. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) enumeră factori precum:
 
 - epuizarea după o zi plină;
-- un mediu nou sau încurcat;
-- un „ceas intern al corpului” dereglat, care lasă persoana somnoroasă ziua și trează noaptea;
-- lumina slabă și umbrele, care pot încurca;
-- preluarea stresului sau a frustrării oamenilor din jur;
-- nevoia de mai puțin somn, ceea ce este frecvent la vârstnici.
+- un mediu nou sau care creează confuzie;
+- un „ceas intern al corpului” dereglat, care face ca persoana să fie somnoroasă ziua și trează noaptea;
+- lumină slabă și umbre, care pot crea confuzie;
+- preluarea stresului sau a frustrării de la oamenii din jur;
+- nevoia de mai puțin somn, frecventă la persoanele în vârstă.
 
-NIA adaugă cauze ale agitației în general, printre care durerea, depresia sau stresul, prea puțină odihnă, constipația, prea mult zgomot sau prea multe persoane și anumite medicamente sau interacțiuni între medicamente.
+NIA adaugă, în general, cauze ale agitației, inclusiv durerea, depresia sau stresul, odihna insuficientă, constipația, prea mult zgomot sau prea mulți oameni, precum și anumite medicamente sau interacțiuni între medicamente.
 
-## Cum pot planifica ziua ca serile să fie mai calme?
+## Cum pot planifica ziua pentru ca serile să fie mai calme?
 
-Mutați lucrurile solicitante mai devreme și păstrați sfârșitul după-amiezii blând și previzibil. Atât NIA, cât și Alzheimer's Association recomandă o rutină regulată. O zi-model, de adaptat la a dumneavoastră:
+Mutați lucrurile solicitante mai devreme și păstrați după-amiaza târziu blândă și previzibilă. Atât NIA, cât și Alzheimer's Association recomandă o rutină regulată. Un exemplu de zi, pe care îl puteți adapta:
 
-| Ora | Ce poate ajuta |
+| Momentul zilei | Ce poate ajuta |
 | --- | --- |
-| Dimineața | Programări, baie, ieșiri și orice treabă care cere efort, când multe persoane sunt cel mai atente |
-| Spre prânz | Timp afară sau lângă o fereastră însorită; o plimbare sau altă activitate |
-| La prânz | Un prânz mai consistent (Alzheimer's Association recomandă un prânz mai mare și o cină mai ușoară) |
-| La începutul după-amiezii | Odihnă, dacă este nevoie, dar evitați somnul lung spre seară |
-| La mijlocul și sfârșitul după-amiezii | Activități calme și familiare; o gustare și ceva de băut; fără cafeină |
+| Dimineața | Programări, baie, ieșiri și orice sarcină care cere efort, când multe persoane sunt cel mai alerte |
+| Spre sfârșitul dimineții | Timp afară sau lângă o fereastră însorită; o plimbare sau altă activitate |
+| La prânz | Un prânz mai consistent (Alzheimer's Association sugerează un prânz mai consistent și o masă de seară mai ușoară) |
+| Devreme după-amiaza | Odihnă dacă este nevoie, dar evitați somnurile lungi târziu în timpul zilei |
+| Mijlocul și sfârșitul după-amiezii | Activități calme și familiare; o gustare și ceva de băut; fără cofeină |
 | Înainte de amurg | Aprindeți luminile din casă și trageți perdelele înainte să se întunece |
-| Seara | O masă mai ușoară, muzică liniștită, stimulare scăzută, o rutină de culcare stabilă |
+| Seara | O masă mai ușoară, muzică liniștită, puțină stimulare, o rutină constantă de culcare |
 
 Câteva puncte concrete din surse:
 
-- **Lumina zilei.** NIA recomandă să organizați în fiecare zi timp afară sau lângă o fereastră, pentru lumina soarelui.
-- **Mișcare zilnică, dar nu prea multă.** Urmăriți să fie activă fizic în fiecare zi, fără a planifica prea multe activități, spune NIA.
-- **Băuturi spre seară.** Evitați alcoolul și băuturile cu cafeină, precum cafeaua sau cola, spre seară (NIA). Alzheimer's Association menționează și nicotina.
-- **Somnul de peste zi.** Descurajați somnul lung și moțăitul spre seară (NIA). Alzheimer's Association recomandă să limitați somnul de peste zi dacă somnul de noapte este o problemă.
+- **Lumina naturală.** NIA sugerează să programați în fiecare zi timp afară sau lângă o fereastră, la lumina soarelui.
+- **Mișcare zilnică, dar nu prea multă.** Încercați să fiți activ fizic în fiecare zi, fără a planifica prea multe activități, spune NIA.
+- **Băuturi spre sfârșitul zilei.** Evitați alcoolul și băuturile cu cofeină, precum cafeaua sau cola, spre sfârșitul zilei (NIA). Alzheimer's Association menționează și nicotina.
+- **Somnurile de zi.** Descurajați somnurile lungi și ațipitul târziu în timpul zilei (NIA). Alzheimer's Association sugerează limitarea somnului de zi dacă somnul de noapte este o problemă.
 
-Pentru mai multe despre construirea unei zile stabile, vedeți [activitățile din rutina zilnică](/activities/daily-routine/).
+Pentru mai multe idei despre organizarea unei zile constante, vedeți [activități pentru rutina zilnică](/activities/daily-routine/).
 
-## Cum fac casa mai calmă spre sfârșitul după-amiezii?
+## Cum pot face casa mai liniștită după-amiaza târziu?
 
-Reduceți zgomotul, adăugați lumină și țineți aproape lucrurile familiare.
+Reduceți zgomotul, adăugați lumină și păstrați aproape lucrurile familiare.
 
-- **Lumină puternică și uniformă.** Alzheimer's Association recomandă să țineți casa bine luminată seara. Luminați spațiul înainte să apară umbrele.
-- **Mai puțin zgomot.** Opriți sau dați mai încet televizorul și radioul și limitați vizitatorii sau treburile gospodărești agitate în acest moment. Alzheimer's Association recomandă să reduceți stimularea de seară, precum televizorul, treburile și muzica tare.
-- **Confort familiar.** NIA recomandă muzică liniștitoare și păstrarea prin casă a obiectelor și fotografiilor îndrăgite.
-- **Verificări de confort.** Alzheimer's Association recomandă să verificați dacă există durere, foame, sete, constipație, vezică plină, oboseală, infecții și iritații ale pielii și să țineți camera la o temperatură confortabilă.
-- **Starea dumneavoastră.** Oamenii simt stresul. NIA recomandă să încetiniți și să încercați să vă relaxați, dacă propriile griji pot adăuga la încordare.
+- **Lumină puternică și uniformă.** Alzheimer's Association recomandă ca locuința să fie bine luminată seara. Aprindeți lumina înainte să apară umbrele.
+- **Mai puțin zgomot.** Opriți sau dați mai încet televizorul și radioul și limitați vizitatorii sau treburile gospodărești agitate în acest interval. Alzheimer's Association sugerează reducerea stimulării de seară, cum ar fi televizorul, treburile și muzica tare.
+- **Lucruri familiare și liniștitoare.** NIA sugerează muzică liniștitoare și păstrarea în casă a obiectelor și fotografiilor dragi.
+- **Verificări de confort.** Alzheimer's Association recomandă să verificați dacă există durere, foame, sete, constipație, vezică urinară plină, oboseală, infecții și iritații ale pielii și să mențineți camera la o temperatură confortabilă.
+- **Starea dumneavoastră.** Oamenii simt stresul celor din jur. NIA sugerează să încetiniți ritmul și să încercați să vă relaxați dacă grijile dumneavoastră pot adăuga tensiune.
 
-## Ce activități calme putem face spre sfârșitul după-amiezii?
+## Ce activități calme putem face după-amiaza târziu?
 
-Alegeți activități familiare, fără grabă și ușor de oprit. Alzheimer's Association recomandă activități liniștitoare, precum muzică calmă, fotografii sau un film preferat, și o plimbare împreună pentru a ușura neliniștea. NIA recomandă o gustare sau ceva de băut, o emisiune preferată, muzică, o plimbare, citit sau o treabă casnică simplă, precum împăturitul rufelor.
+Alegeți activități familiare, fără grabă și ușor de întrerupt. Alzheimer's Association sugerează activități liniștitoare, precum muzică calmă, fotografii sau un film preferat, și o plimbare împreună pentru a reduce neliniștea. NIA sugerează o gustare sau ceva de băut, o emisiune TV preferată, muzică, o plimbare, citit sau o treabă simplă prin casă, cum ar fi împăturirea rufelor.
 
 Idei de încercat:
 
-1. **Împăturiți rufe împreună.** NIA recomandă acest fel de treabă casnică simplă. Prosoapele se manevrează ușor, iar treaba are un sfârșit clar.
-2. **Puneți muzica preferată.** Cântece familiare din tinerețe, la volum mic. Și fredonatul contează. Mai multe idei în [activitățile cu muzică](/activities/music/).
-3. **Priviți fotografii.** Un album foto sau câteva imagini de familie în [Perechi de fotografii](/games/photo-pairs/), cu imaginile lăsate la vedere, pot duce la o conversație liniștită.
-4. **Faceți o scurtă plimbare.** Prin grădină, în jurul blocului sau pe un coridor, înainte să se întunece.
-5. **Împărțiți o gustare și o băutură.** Ceva simplu, cald și fără cafeină, la masă, împreună.
-6. **Potrivire blândă.** [Perechi de imagini](/games/picture-pairs/) cu patru plăcuțe și imaginile la vedere este ușor de început și ușor de oprit.
-7. **Colorat.** [Pagini de colorat](/games/coloring/) pe ecran sau pe o pagină tipărită, fără scopul de a termina.
-8. **Privit și vorbit.** [Cartonașele de conversație](/games/conversation-cards/) oferă o imagine și o întrebare deschisă. Este suficient și să priviți doar.
-9. **O pauză de respirație.** [Respirație calmă](/games/calm-breathing/) este o pauză lentă și liniștită, pe care o porniți și o opriți singuri.
-10. **Treburi cu mâinile.** Sortatul nasturilor sau al șosetelor, netezitul unei pături moi sau ținutul în mână al unui obiect familiar. Vedeți [activitățile senzoriale](/activities/sensory/).
+1. **Împăturiți rufe împreună.** NIA sugerează acest tip de treabă simplă prin casă. Prosoapele sunt ușor de mânuit, iar sarcina are un final clar.
+2. **Ascultați muzică preferată.** Melodii familiare din tinerețe, la volum redus. Dacă persoana fredonează, este suficient. Mai multe idei găsiți în [activități muzicale](/activities/music/).
+3. **Priviți fotografii.** Un album foto sau câteva fotografii de familie în [Photo Pairs](/games/photo-pairs/), cu imaginile lăsate la vedere, pot duce la o conversație liniștită.
+4. **Faceți o scurtă plimbare.** În grădină, pe stradă sau pe hol, înainte să se întunece.
+5. **Luați împreună o gustare și ceva de băut.** Ceva simplu, cald și fără cofeină, împreună la masă.
+6. **Potriviri blânde.** [Picture Pairs](/games/picture-pairs/) cu patru piese și imaginile la vedere este ușor de început și ușor de întrerupt.
+7. **Colorat.** [Coloring](/games/coloring/) pe ecran sau pe o pagină tipărită, fără scopul de a termina.
+8. **Privit și vorbit.** [Conversation Cards](/games/conversation-cards/) oferă o imagine și o întrebare deschisă. Este suficient doar să priviți.
+9. **O pauză de respirație.** [Calm Breathing](/games/calm-breathing/) este o pauză lentă și liniștită pe care o începeți și o opriți singuri.
+10. **Activități cu mâinile.** Sortarea nasturilor sau a șosetelor, netezirea unei pături moi sau ținerea unui obiect familiar. Vedeți [activități senzoriale](/activities/sensory/).
 
-Evitați jocurile noi, ieșirile aglomerate și orice cere multă memorie sau concentrare spre seară. Păstrați-le pentru dimineață.
+Evitați jocurile noi, ieșirile agitate și orice lucru care cere multă memorie sau concentrare târziu în timpul zilei. Lăsați-le pentru dimineață.
 
-## Ce fac când începe neliniștea?
+## Ce ar trebui să fac când începe neliniștea?
 
-Rămâneți calm, liniștiți și redirecționați blând. NIA recomandă să vorbiți calm, să ascultați grijile persoanei, să evitați certurile, să o liniștiți că este în siguranță și să folosiți atingerea blândă, dacă ajută. Apoi încercați să-i distrageți atenția: o gustare, ceva de băut, muzică sau o plimbare.
+Rămâneți calm, liniștiți persoana și redirecționați blând atenția. NIA sugerează să vorbiți calm, să ascultați preocupările persoanei, să evitați discuțiile aprinse, să o asigurați că este în siguranță și să folosiți o atingere blândă dacă ajută. Apoi încercați o distragere: o gustare, ceva de băut, muzică sau o plimbare.
 
-Alzheimer's Association recomandă fraze precum „Aici sunteți în siguranță” și „Îmi pare rău că sunteți supărat” și recomandă să adăugați lumină, să încetiniți și să limitați stimularea. Nu încolțiți, nu înghesuiți, nu imobilizați persoana și nu vă certați cu ea.
+Alzheimer's Association sugerează fraze precum „Sunteți în siguranță aici” și „Îmi pare rău că sunteți supărat” și recomandă să adăugați lumină, să încetiniți ritmul și să limitați stimularea. Nu colțuiți, nu înghesuiți și nu imobilizați persoana și nu vă certați cu ea.
 
-Dacă persoana devine agresivă, NIA recomandă să rămâneți la o distanță sigură până se oprește comportamentul. În caz de urgență, sunați la numărul local de urgență (în România, 112) și explicați că persoana are demență.
+Dacă persoana devine agresivă, NIA recomandă să rămâneți la o distanță sigură până când comportamentul se oprește. În caz de urgență, sunați la 911 și explicați că persoana trăiește cu demență. [Ghidul nostru despre cum să răspundeți la furie și agresivitate](/caregiving/when-anger-becomes-aggression-with-dementia/) vorbește despre siguranța imediată și despre ce puteți face după aceea.
 
-Ghidurile noastre despre [comunicare](/caregiving/communication-tips/) și despre [ce faceți când spun nu](/caregiving/when-they-say-no/) au mai multe despre cuvintele care liniștesc.
+Ghidurile noastre despre [comunicare](/caregiving/communication-tips/) și despre [ce să faceți când persoana spune nu](/caregiving/when-they-say-no/) oferă mai multe idei pentru cuvinte liniștitoare.
 
-## Cum găsesc ce declanșează neliniștea?
+## Cum descopăr factorii declanșatori?
 
-Țineți un scurt jurnal o săptămână sau două. Alzheimer's Association recomandă să notați ce se întâmplă înainte de episoadele de neliniște, ca să identificați declanșatorii. Notați ora la care a început neliniștea, ce s-a întâmplat în ora dinainte, somnul de peste zi, mesele și băuturile, vizitatorii, zgomotul și lumina. Duceți jurnalul la medic. NIA notează că urmărirea schimbărilor de comportament îi poate ajuta pe îngrijitori și pe medici să recunoască un tipar.
+Țineți un jurnal scurt timp de o săptămână sau două. Alzheimer's Association recomandă să notați ce se întâmplă înaintea episoadelor de sundowning pentru a identifica factorii declanșatori. Notați ora la care a început neliniștea, ce s-a întâmplat în ora anterioară, somnurile, mesele și băuturile, vizitatorii, zgomotul și lumina. Luați jurnalul cu dumneavoastră la medic. NIA observă că urmărirea schimbărilor de comportament îi poate ajuta pe îngrijitori și pe cadrele medicale să recunoască un tipar.
 
-## Când sun medicul în legătură cu neliniștea spre seară?
+## Când ar trebui să sun medicul despre sundowning?
 
-Contactați medicul persoanei dacă neliniștea este nouă, se agravează brusc sau vine împreună cu alte schimbări. NIA spune că schimbările bruște sau care fluctuează rapid în comportament, mai ales după o infecție sau după schimbări recente de medicamente, trebuie aduse imediat în atenția unui medic.
+Contactați medicul persoanei dacă neliniștea este nouă, se agravează brusc sau apare împreună cu alte schimbări. NIA spune că schimbările bruște sau care fluctuează rapid în comportament, mai ales după o infecție sau după modificări recente ale medicamentelor, trebuie aduse imediat la cunoștința medicului.
 
-Rugați medicul să verifice lucrurile care pot face serile mai grele. Alzheimer's Association menționează probleme fizice precum infecțiile urinare, incontinența, sindromul picioarelor neliniștite și apneea în somn și recomandă să întrebați care sunt cele mai bune momente din zi pentru fiecare medicament. NIA enumeră durerea, constipația și efectele secundare sau interacțiunile medicamentelor printre cauzele posibile ale agitației.
+Rugați medicul să verifice lucruri care pot îngreuna serile. Alzheimer's Association menționează probleme fizice precum infecțiile urinare, incontinența, sindromul picioarelor neliniștite și apneea de somn și sugerează să întrebați care sunt momentele potrivite din zi pentru fiecare medicament. NIA enumeră durerea, constipația și efectele secundare sau interacțiunile medicamentelor printre posibilele cauze ale agitației.
 
-Alzheimer's Association spune că, în general, se preferă abordările fără medicamente pentru problemele de somn legate de boala Alzheimer și că un medicament pentru agitația de spre seară trebuie luat în calcul doar dacă acestea nu reușesc, după ce se cântăresc riscurile și beneficiile. Această decizie aparține medicului. Nu începeți, nu opriți și nu schimbați niciun medicament, somnifer sau supliment fără sfat medical.
+Alzheimer's Association spune că abordările fără medicamente sunt în general preferate pentru problemele de somn legate de boala Alzheimer și că medicamentele pentru agitația de la sfârșitul zilei ar trebui luate în considerare numai dacă acestea nu funcționează, după cântărirea riscurilor și beneficiilor. Această decizie aparține medicului. Nu începeți, nu opriți și nu schimbați niciun medicament, somnifer sau supliment fără sfatul medicului.
 
-## Cum trec eu prin seri?
+## Cum trec eu însumi de serile dificile?
 
-Sfârșitul după-amiezii poate fi cea mai grea parte din ziua unui îngrijitor. Dacă puteți, rugați un membru al familiei, un prieten sau un ajutor plătit să preia sfârșitul după-amiezii câteva zile pe săptămână, chiar și pentru o oră. Ghidul nostru despre [grija de sine a îngrijitorului](/caregiving/caregiver-self-care/) enumeră opțiuni de respiro și amintește de o linie de ajutor pentru demență din țara dumneavoastră.
+După-amiezile târzii pot fi cea mai grea parte a zilei pentru o persoană care îngrijește pe cineva apropiat. Dacă este posibil, cereți unui membru al familiei, unui prieten sau unei persoane plătite să vă ajute după-amiaza târziu, câteva zile pe săptămână, chiar și pentru o oră. Ghidul nostru despre [îngrijirea de sine a persoanei care oferă îngrijire](/caregiving/caregiver-self-care/) include opțiuni de răgaz și linia gratuită Alzheimer's Association 24/7 Helpline.

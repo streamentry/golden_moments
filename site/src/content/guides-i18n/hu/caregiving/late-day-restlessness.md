@@ -1,34 +1,35 @@
 ---
-title: "Napnyugtai zavartság: nyugodt késő délutáni tevékenységek demenciával élőknek"
-seoTitle: "Napnyugtai zavartság: nyugodt késő délutáni tevékenységek"
-description: "Nyugtató rutinok, nyugodt tevékenységek és egy csendesebb otthon, amelyek enyhíthetik a késő délutáni nyugtalanságot, és hogy mikor forduljon orvoshoz."
+title: "Alkonyati nyugtalanság: nyugodt délutáni tevékenységek"
+seoTitle: "Alkonyati nyugtalanság: nyugodt délutáni tevékenységek"
+description: "Kíméletes napirend, környezeti változtatások és nyugodt tevékenységek, amelyek enyhíthetik a késő délutáni nyugtalanságot demencia esetén, és hogy mikor érdemes orvoshoz fordulni."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A napnyugtai zavartság olyan nyugtalanság, zavartság vagy ingerlékenység, amely késő
-  délután vagy este kezdődik vagy erősödik. Hasznos lehet az állandó napi rutin, a napfény
-  és a tevékenység a nap elején, a kevesebb késő délutáni szundítás, a kevesebb koffein, a
-  lámpák felkapcsolása alkonyat előtt, egy csendesebb otthon, valamint az olyan nyugodt
-  tevékenységek, mint a zene, a fényképek vagy a ruhahajtogatás. Új vagy romló tüneteknél
-  orvosi vizsgálat szükséges.
+  Az alkonyati nyugtalanság olyan nyugtalanság, zavartság vagy ingerlékenység,
+  amely késő délután vagy este kezdődik, illetve ilyenkor erősödik. A gyakorlati
+  lépések, amelyek segíthetnek: állandó napi rutin, nappali fény és korábbi
+  aktivitás, kevesebb késő délutáni szundikálás, kevesebb koffein, erős beltéri
+  világítás még szürkület előtt, csendesebb otthon, valamint nyugodt
+  tevékenységek, például zenehallgatás, fényképek nézegetése vagy ruhahajtogatás.
+  Új vagy súlyosbodó tünetek esetén orvosi vizsgálatra van szükség.
 keyPoints:
-  - "A napnyugtai zavartság nyugtalanságot vagy zavartságot jelent, amely a napfény halványulásával kezdődik vagy erősödik."
-  - "A megterhelő feladatokat, a programokat és a fürdetést reggelre vagy kora délutánra tegye."
-  - "A napfény, a napi séta, a kevesebb késő délutáni szundítás és a kevesebb koffein a késő délutáni órákban segíthet, hogy az esték simábban teljenek."
-  - "Alkonyat előtt kapcsolja fel a lámpákat, csökkentse a zajt, és váltson nyugodt, ismerős tevékenységekre."
-  - "Naplóval azonosítsa a kiváltó okokat, és nyugtalanság esetén maradjon nyugodt és megnyugtató."
-  - "Új vagy romló tünetek esetén forduljon orvoshoz: fájdalom, fertőzés vagy gyógyszerek is közrejátszhatnak."
+  - "Az alkonyati nyugtalanság azt jelenti, hogy a nyugtalanság vagy a zavartság a nappali fény csökkenésével kezdődik vagy erősödik."
+  - "A megterhelőbb feladatokat, a programokat és a fürdetést tegye délelőttre vagy kora délutánra."
+  - "A nappali fény, a napi séta, a kevesebb késői szundikálás és a kevesebb késő délutáni koffein segíthet abban, hogy az esték nyugodtabbak legyenek."
+  - "Még szürkület előtt kapcsolja fel a lámpákat, csökkentse a zajt, és váltson nyugodt, ismerős tevékenységekre."
+  - "Vezessen naplót a kiváltó okok felismeréséhez, és maradjon nyugodt, megnyugtató, amikor a nyugtalanság elkezdődik."
+  - "Forduljon orvoshoz új vagy súlyosbodó tünetek esetén: fájdalom, fertőzés vagy gyógyszerek is szerepet játszhatnak."
 faq:
-  - q: "Mikor szokott a napnyugtai zavartság jelentkezni?"
-    a: "Általában késő délután vagy kora este kezdődik vagy erősödik, ahogy a napfény halványul. A pontos időzítés személyenként változik, ezért segíthet, ha egy-két hétig rövid naplót vezet."
-  - q: "Milyen tevékenységek segítenek a napnyugtai zavartságon?"
-    a: "Késő délután a nyugodt, ismerős, kevés erőfeszítést igénylő tevékenységek működnek a legjobban: nyugtató zene, fényképnézegetés, kedvenc tévéműsor vagy film, ruhahajtogatás, rövid séta vagy közös harapnivaló. Az új vagy nehéz tevékenységeket tartsa a nap elejére."
-  - q: "Lehet a napnyugtai zavartság valamilyen orvosi jel?"
-    a: "Egészségügyi problémák, például fájdalom, fertőzések, mint a húgyúti fertőzés, alvási problémák vagy gyógyszermellékhatások rosszabbá tehetik. Ha a nyugtalanság új, hirtelen vagy romlik, forduljon a személy orvosához."
-  - q: "Kérdezzem meg az orvost a napnyugtai zavartság elleni gyógyszerről?"
-    a: "Ezt a beszélgetést az orvossal érdemes folytatni. Az Alzheimer's Association szerint először általában a nem gyógyszeres megközelítéseket részesítik előnyben, és az esti nyugtalanság gyógyszerét csak a kockázatok és előnyök mérlegelése után szabad megfontolni. Ez az oldal nem ad gyógyszeres tanácsot."
+  - q: "A nap melyik szakában jelentkezik általában az alkonyati nyugtalanság?"
+    a: "Jellemzően késő délután vagy kora este kezdődik, illetve erősödik, amikor csökken a nappali fény. A pontos időpont személyenként eltérő lehet, ezért hasznos lehet egy-két hétig rövid naplót vezetni."
+  - q: "Milyen tevékenységek segíthetnek alkonyati nyugtalanság esetén?"
+    a: "Késő délután általában a nyugodt, ismerős, kevés erőfeszítést igénylő tevékenységek válnak be leginkább: megnyugtató zene, fényképek nézegetése, egy kedvenc tévéműsor vagy film, ruhahajtogatás, rövid séta vagy közös nassolás. Az új vagy megterhelő tevékenységeket érdemes a nap korábbi részére hagyni."
+  - q: "Utalhat az alkonyati nyugtalanság valamilyen egészségügyi problémára?"
+    a: "Súlyosbíthatják olyan egészségügyi problémák, mint a fájdalom, fertőzések – például húgyúti fertőzések –, alvási nehézségek vagy gyógyszerek mellékhatásai. Ha a nyugtalanság új, hirtelen jelentkezik vagy erősödik, forduljon az Ön által gondozott személy orvosához."
+  - q: "Érdemes orvossal beszélni gyógyszeres kezelésről az alkonyati nyugtalanság miatt?"
+    a: "Erről érdemes az orvossal egyeztetni. Az Alzheimer’s Association szerint általában elsőként a nem gyógyszeres megközelítéseket javasolt kipróbálni, és az esti nyugtalanságra adott gyógyszert csak a kockázatok és az előnyök mérlegelése után érdemes megfontolni. Ez az oldal nem ad gyógyszerelési tanácsot."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Sok család ugyanazt a mintát tapasztalja: a délelőtt viszonylag nyugodt, de ahogy a délután halad, a demenciával élő személy nyugtalanná, szorongóvá, zavarttá vagy ingerlékennyé válhat. Járkálhat, „haza” akarhat menni akkor is, ha otthon van, vagy könnyen felkavarodhat. Ezt gyakran napnyugtai zavartságnak (sundowning) nevezik.
+Sok család ugyanazt a mintát tapasztalja: a délelőttök viszonylag nyugodtan telnek, de ahogy telik a délután, a demenciával élő személy nyugtalanná, szorongóvá, zavarttá vagy ingerlékennyé válhat. Fel-alá járkálhat, haza kérheti magát akkor is, ha otthon van, vagy könnyen felzaklathatja valami. Ezt gyakran alkonyati nyugtalanságnak nevezik.
 
-Nincs egyetlen megoldás, de a nap ritmusának, a szobának és a felajánlott tevékenységek fajtájának változtatása nyugodtabbá teheti a késő délutánokat. Ez az oldal gyakorlati, nem orvosi ötleteket gyűjt össze a National Institute on Aging és az Alzheimer's Association anyagaiból. Nem orvosi tanács. Ha a tünetek újak, hirtelenek vagy romlanak, beszéljen a személy orvosával.
+Nincs egyetlen, mindenkinél beváló megoldás, de a nap ritmusának, a környezetnek és a felkínált tevékenységeknek a megváltoztatása segíthet abban, hogy a késő délutánok nyugodtabbak legyenek. Ez az oldal gyakorlati, nem orvosi jellegű ötleteket gyűjt össze a National Institute on Aging és az Alzheimer’s Association ajánlásai alapján. Nem minősül orvosi tanácsnak. Ha a tünetek újak, hirtelen jelentkeznek vagy súlyosbodnak, beszéljen az Ön által gondozott személy orvosával.
 
-## Mi a napnyugtai zavartság?
+## Mi az alkonyati nyugtalanság?
 
-A napnyugtai zavartság olyan nyugtalanság, izgatottság, ingerlékenység vagy zavartság, amely a napfény halványulásával, késő délután vagy kora este kezdődik vagy erősödik. A [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) megjegyzi, hogy a túlzott fáradtság növelheti a késő délutáni nyugtalanságot.
+Az alkonyati nyugtalanság olyan nyugtalanság, felzaklatottság, ingerlékenység vagy zavartság, amely a nappali fény csökkenésével, késő délután vagy kora este kezdődik, illetve erősödik. A [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) megjegyzi, hogy a túlzott fáradtság fokozhatja a késő délutáni nyugtalanságot.
 
 ## Mi teheti rosszabbá a késő délutáni nyugtalanságot?
 
-Több tényező is hozzájárulhat, gyakran együtt. Az [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) az alábbiakat sorolja fel:
+Több tényező is hozzájárulhat, gyakran egyszerre. Az [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) többek között az alábbiakat említi:
 
-- egész napi fáradtság után kimerültség;
+- kimerültség egy hosszú nap után;
 - új vagy zavaró környezet;
-- egy „belső testóra”, amely kiesett az ütemből, így a személy nappal álmos, éjjel ébren van;
-- gyenge fény és árnyékok, amelyek zavarhatnak;
-- a körülöttük lévők stresszének vagy frusztrációjának felvétele;
+- felborult „belső óra”, amely miatt a személy nappal álmos, éjszaka pedig ébren lehet;
+- gyenge fény és árnyékok, amelyek zavaróak lehetnek;
+- a környezetében lévők stresszének vagy feszültségének átvétele;
 - kevesebb alvásigény, ami idősebb felnőtteknél gyakori.
 
-Az NIA általánosabban is felsorolja a nyugtalanság okait, köztük a fájdalmat, a depressziót vagy stresszt, a kevés pihenést, a székrekedést, a túl sok zajt vagy embert, valamint bizonyos gyógyszereket és gyógyszer-kölcsönhatásokat.
+A NIA a nyugtalanság lehetséges okai között általánosságban a fájdalmat, a depressziót vagy a stresszt, a kevés pihenést, a székrekedést, a túl nagy zajt vagy a túl sok embert, valamint bizonyos gyógyszereket vagy gyógyszerkölcsönhatásokat is felsorolja.
 
-## Hogyan tervezhetem úgy a napot, hogy az esték nyugodtabbak legyenek?
+## Hogyan tervezhetem meg a napot, hogy az esték nyugodtabbak legyenek?
 
-Tolja előre a megterhelő dolgokat, a késő délutánt pedig tartsa gyengédnek és kiszámíthatónak. Az NIA és az Alzheimer's Association is rendszeres napirendet javasol. Egy mintanap, amelyet a saját helyzetéhez igazíthat:
+A megterhelő teendőket tegye korábbra, a késő délutánt pedig tartsa kíméletesnek és kiszámíthatónak. A NIA és az Alzheimer’s Association egyaránt a rendszeres napirendet javasolja. Egy minta nap, amelyet a saját helyzetükhöz igazíthat:
 
 | Időpont | Mi segíthet |
 | --- | --- |
-| Reggel | Orvosi időpontok, fürdetés, programok és minden fáradságos feladat, amikor sokan a legéberebbek |
-| Délelőtt | Idő a szabadban vagy egy napos ablak mellett; séta vagy más tevékenység |
-| Dél | Nagyobb ebéd (az Alzheimer's Association nagyobb ebédet és könnyebb vacsorát javasol) |
-| Kora délután | Pihenés, ha szükséges, de kerülje a hosszú szundítást a nap végén |
-| Délután közepe – késő délután | Nyugodt, ismerős tevékenységek; harapnivaló és ital; koffein nélkül |
-| Alkonyat előtt | Kapcsolja fel a bent lévő lámpákat, és húzza be a függönyöket, mielőtt besötétedne |
+| Délelőtt | Orvosi találkozók, fürdés, kinti programok és minden olyan teendő, amely erőfeszítést igényel, amikor sokan a legéberebbek |
+| Késő délelőtt | Időtöltés a szabadban vagy napos ablak mellett; séta vagy más tevékenység |
+| Dél | Bőségesebb ebéd (az Alzheimer’s Association nagyobb ebédet és könnyebb esti étkezést javasol) |
+| Kora délután | Pihenés, ha szükséges, de kerülje a hosszú, késő délutáni szundikálást |
+| Délután közepe és vége | Nyugodt, ismerős tevékenységek; egy kis étel és ital; koffein nélkül |
+| Szürkület előtt | Kapcsolja fel a beltéri világítást, és húzza be a függönyöket, mielőtt besötétedik |
 | Este | Könnyebb vacsora, halk zene, kevés inger, állandó lefekvési rutin |
 
-Néhány konkrét pont a forrásokból:
+Néhány konkrét javaslat a forrásokból:
 
-- **Napfény.** Az NIA azt javasolja, hogy minden nap szervezzenek időt a szabadban vagy egy ablak mellett a napfényért.
-- **Napi mozgás, de nem túl sok.** Az NIA szerint törekedjenek arra, hogy minden nap legyenek fizikailag aktívak, de ne tervezzenek túl sok tevékenységet.
-- **Késő délutáni italok.** Az NIA szerint a nap végén kerülni kell az alkoholt és a koffeines italokat, például a kávét vagy a colát. Az Alzheimer's Association a nikotint is megemlíti.
-- **Szundítás.** Az NIA szerint ösztönözni kell, hogy ne aludjanak hosszan vagy ne szundítsanak a késő délutáni órákban. Az Alzheimer's Association azt javasolja, hogy ha az éjszakai alvás gond, korlátozzák a nappali szundítást.
+- **Nappali fény.** A NIA azt javasolja, hogy minden nap töltsenek időt a szabadban vagy ablak mellett, napfényben.
+- **Napi mozgás, de ne túl sok.** A NIA szerint törekedjenek a mindennapi mozgásra, de ne tervezzenek túl sok tevékenységet.
+- **Késő délutáni italok.** Kerülje az alkoholt és a koffeintartalmú italokat, például a kávét vagy a kólát a nap későbbi részében (NIA). Az Alzheimer’s Association a nikotint is megemlíti.
+- **Szundikálás.** Ne ösztönözze a hosszú nappali alvást és a késő délutáni szunyókálást (NIA). Az Alzheimer’s Association azt javasolja, hogy ha az éjszakai alvás nehéz, korlátozzák a nappali szundikálást.
 
-A nap állandó felépítéséről bővebben lásd: [napi rutin tevékenységek](/activities/daily-routine/).
+A kiszámítható napirend kialakításáról bővebben a [napi rutinról szóló tevékenységek](/activities/daily-routine/) oldalon olvashat.
 
 ## Hogyan tehetem nyugodtabbá az otthont késő délután?
 
-Csökkentse a zajt, adjon fényt, és tartsa közel az ismerős dolgokat.
+Csökkentse a zajt, növelje a fényt, és tartsa közel az ismerős dolgokat.
 
-- **Erős, egyenletes világítás.** Az Alzheimer's Association azt javasolja, hogy az otthon estére legyen jól megvilágítva. Világítsa meg a teret, mielőtt az árnyékok megjelennek.
-- **Kevesebb zaj.** Kapcsolja ki vagy halkítsa le a tévét és a rádiót, és ebben az időszakban korlátozza a látogatókat és a zajos háztartási munkákat. Az Alzheimer's Association azt javasolja, hogy csökkentsék az esti ingereket, például a tévét, a munkát és a hangos zenét.
-- **Ismerős vigaszok.** Az NIA nyugtató zenét javasol, és azt, hogy kedvelt tárgyak és fényképek legyenek otthon.
-- **Kényelmi ellenőrzés.** Az Alzheimer's Association azt javasolja, hogy nézzék meg a fájdalmat, éhséget, szomjúságot, székrekedést, tele hólyagot, fáradtságot, fertőzéseket és bőrirritációt, és tartsák a szobát kényelmes hőmérsékleten.
-- **Az Ön saját hangulata.** Az emberek felveszik a stresszt. Az NIA azt javasolja, hogy lassítsanak és próbáljanak ellazulni, ha a saját aggodalmai növelhetik a feszültséget.
+- **Erős, egyenletes világítás.** Az Alzheimer’s Association azt javasolja, hogy este legyen jól megvilágítva az otthon. Kapcsolja fel a lámpákat, mielőtt megjelennek az árnyékok.
+- **Kevesebb zaj.** Kapcsolja ki vagy halkítsa le a tévét és a rádiót, és ilyenkor korlátozza a látogatókat vagy a zajos házimunkát. Az Alzheimer’s Association azt javasolja, hogy csökkentsék az esti ingereket, például a tévét, a házimunkát és a hangos zenét.
+- **Ismerős, megnyugtató dolgok.** A NIA megnyugtató zenét, valamint szeretett tárgyakat és fényképeket javasol az otthonban.
+- **Közérzet ellenőrzése.** Az Alzheimer’s Association javasolja, hogy ellenőrizzék a fájdalmat, az éhséget, a szomjúságot, a székrekedést, a teli hólyagot, a fáradtságot, a fertőzéseket és a bőrirritációt, és tartsák a szobát kellemes hőmérsékleten.
+- **Az Ön hangulata.** Az emberek átveszik a környezetükben lévők feszültségét. A NIA azt javasolja, hogy lassítson, és próbáljon megnyugodni, ha a saját aggodalmai fokozhatják a feszültséget.
 
 ## Milyen nyugodt tevékenységeket végezhetünk késő délután?
 
-Válasszon ismerős, nem sietős és könnyen abbahagyható tevékenységeket. Az Alzheimer's Association megnyugtató tevékenységeket javasol, például nyugodt zenét, fényképeket vagy egy kedvenc filmet, valamint közös sétát a nyugtalanság enyhítésére. Az NIA egy harapnivalót vagy italt, kedvenc tévéműsort, zenét, sétát, olvasást vagy egyszerű háztartási munkát, például ruhahajtogatást javasol.
+Válasszon ismerős, sietés nélküli tevékenységeket, amelyeket könnyű abbahagyni. Az Alzheimer’s Association olyan megnyugtató tevékenységeket javasol, mint a halk zene, fényképek vagy egy kedvenc film nézegetése, valamint egy közös séta a nyugtalanság enyhítésére. A NIA egy kis ételt vagy italt, egy kedvenc tévéműsort, zenét, sétát, olvasást vagy egyszerű házimunkát, például ruhahajtogatást javasol.
 
-Próbálható ötletek:
+Kipróbálható ötletek:
 
-1. **Hajtogassanak ruhát együtt.** Az NIA ilyen egyszerű háztartási munkát javasol. A törölközőket könnyű kezelni, és a feladatnak világos vége van.
-2. **Játsszanak kedvenc zenét.** Ismerős dalok fiatalkorukból, halk hangerőn. A dúdolás is számít. További ötletek a [zenei tevékenységek](/activities/music/) között vannak.
-3. **Nézzenek képeket.** Egy fotóalbum vagy néhány családi kép a [Fotópárok](/games/photo-pairs/) játékban, úgy, hogy a képek láthatóak maradnak, csendes beszélgetéshez vezethet.
-4. **Tegyenek rövid sétát.** A kertben, a háztömb körül vagy a folyosón, mielőtt besötétedik.
-5. **Osszanak meg egy harapnivalót és italt.** Valami egyszerű, meleg és koffeinmentes, együtt az asztalnál.
-6. **Gyengéd párosítás.** A [Képpárok](/games/picture-pairs/) négy csempével és látható képekkel könnyen elkezdhető és könnyen abbahagyható.
-7. **Színezés.** A [Színezés](/games/coloring/) képernyőn vagy nyomtatott lapon, befejezési cél nélkül.
-8. **Nézés és beszélgetés.** A [Beszélgetőkártyák](/games/conversation-cards/) egy képet és egy nyitott indítót kínálnak. Az egyszerű nézelődés is elég.
-9. **Légzési szünet.** A [Nyugodt légzés](/games/calm-breathing/) egy lassú, csendes szünet, amelyet Ön maga kezdhet és fejezhet be.
-10. **Kézi feladatok.** Gombok vagy zokni válogatása, egy puha takaró simítása, vagy egy ismerős tárgy tartása. Lásd: [érzékszervi tevékenységek](/activities/sensory/).
+1. **Közös ruhahajtogatás.** A NIA az ilyen egyszerű házimunkát javasolja. A törölközőket könnyű kezelni, és a feladatnak egyértelmű vége van.
+2. **Kedvenc zene hallgatása.** Ismerős dalok a fiatalabb évekből, halkan. Az együtt dúdolás is számít. További ötletek a [zenei tevékenységek](/activities/music/) oldalon.
+3. **Fényképek nézegetése.** Egy fényképalbum vagy néhány családi kép a [Photo Pairs](/games/photo-pairs/) játékban látható képekkel csendes beszélgetéshez vezethet.
+4. **Rövid séta.** A kertben, a háztömb körül vagy a folyosón, még sötétedés előtt.
+5. **Közös nassolás és ivás.** Valami egyszerű, meleg és koffeinmentes, együtt az asztalnál.
+6. **Kíméletes párosítás.** A [Picture Pairs](/games/picture-pairs/) négy kártyával és látható képekkel könnyen elkezdhető és könnyen abbahagyható.
+7. **Színezés.** A [Coloring](/games/coloring/) képernyőn vagy kinyomtatott lapon, anélkül, hogy cél lenne a befejezés.
+8. **Nézegetés és beszélgetés.** A [Conversation Cards](/games/conversation-cards/) egy képet és egy nyitott kérdést kínál. Az is elegendő, ha egyszerűen csak nézegetik.
+9. **Légzési szünet.** A [Calm Breathing](/games/calm-breathing/) lassú, csendes szünet, amelyet Ön indít el és fejez be.
+10. **Kézzel végezhető feladatok.** Gombok vagy zoknik válogatása, puha takaró simogatása vagy egy ismerős tárgy kézben tartása. Lásd az [érzékelést bevonó tevékenységek](/activities/sensory/) oldalát.
 
-Kerülje az új játékokat, a zsúfolt programokat és mindent, ami késő délután sok memóriát vagy figyelmet kíván. Ezeket tartsa a reggelre.
+Késő délután kerülje az új játékokat, a zsúfolt programokat és mindent, ami sok emlékezést vagy koncentrációt igényel. Ezeket hagyja a délelőttre.
 
-## Mit tegyek, ha elkezd a nyugtalanság?
+## Mit tegyek, amikor elkezdődik a nyugtalanság?
 
-Maradjon nyugodt, nyugtasson, és finoman tereljen. Az NIA azt javasolja, hogy nyugodtan beszéljen, figyeljen a személy aggodalmaira, kerülje a vitát, nyugtassa meg, hogy biztonságban van, és ha segít, használjon gyengéd érintést. Ezután próbáljon elterelni: egy harapnivalóval, itallal, zenével vagy sétával.
+Maradjon nyugodt, nyugtassa meg a személyt, és finoman terelje el a figyelmét. A NIA azt javasolja, hogy beszéljen nyugodtan, hallgassa meg az aggodalmait, kerülje a vitát, biztosítsa arról, hogy biztonságban van, és ha segít, alkalmazzon gyengéd érintést. Ezután próbálja meg elterelni a figyelmét: kínáljon egy kis ételt vagy italt, tegyen fel zenét, vagy menjenek sétálni.
 
-Az Alzheimer's Association olyan mondatokat javasol, mint: „Itt biztonságban van” és „Sajnálom, hogy felzaklatta valami”, és azt tanácsolja, hogy adjon több fényt, lassítson, és korlátozza az ingereket. Ne szorítsa sarokba, ne szorongassa és ne fogja le a személyt, és ne vitatkozzon vele.
+Az Alzheimer’s Association olyan mondatokat javasol, mint „Itt biztonságban van” és „Sajnálom, hogy felzaklatta ez a helyzet”, és azt tanácsolja, hogy kapcsoljon több fényt, lassítson, és csökkentse az ingereket. Ne szorítsa sarokba, ne vegye körül, ne tartsa vissza a személyt, és ne vitatkozzon vele.
 
-Ha a személy agresszívvá válik, az NIA azt javasolja, hogy maradjon biztonságos távolságban, amíg a viselkedés meg nem szűnik. Vészhelyzetben hívja a 911-et, és mondja el, hogy a személy demenciával él.
+Ha a személy agresszívvá válik, a NIA azt tanácsolja, hogy maradjon biztonságos távolságban, amíg a viselkedés le nem csillapodik. Vészhelyzet esetén hívja a 911-et, és mondja el, hogy a személy demenciával él. A [harag és agresszió kezeléséről szóló útmutatónk](/caregiving/when-anger-becomes-aggression-with-dementia/) az azonnali biztonságról és a további teendőkről szól.
 
-A [kommunikációs tippjeink](/caregiving/communication-tips/) és a [mit tegyen, ha nemet mondanak](/caregiving/when-they-say-no/) útmutatónk több tanácsot ad a megnyugtató szavakról.
+A [kommunikációról](/caregiving/communication-tips/) és arról szóló útmutatóink, hogy [mit tegyen, amikor nemet mond](/caregiving/when-they-say-no/), további megnyugtató mondatokat és ötleteket adnak.
 
-## Hogyan találom meg a kiváltó okokat?
+## Hogyan találhatom meg a kiváltó okokat?
 
-Vezessen rövid naplót egy-két hétig. Az Alzheimer's Association azt javasolja, hogy kövesse nyomon, mi történik a napnyugtai epizódok előtt, hogy megtalálja a kiváltó okokat. Jegyezze fel, mikor kezdődött a nyugtalanság, mi történt az előző órában, a szundításokat, az étkezéseket és italokat, a látogatókat, a zajt és a fényt. Vigye el a naplót az orvoshoz. Az NIA szerint a viselkedésváltozások nyomon követése segíthet a gondozóknak és az egészségügyi szolgáltatóknak egy minta felismerésében.
+Vezessen rövid naplót egy-két hétig. Az Alzheimer’s Association azt javasolja, hogy jegyezzék fel, mi történt az alkonyati nyugtalanság előtt, hogy felismerhessék a kiváltó okokat. Írja le, mikor kezdődött a nyugtalanság, mi történt az azt megelőző órában, a szundikálásokat, az étkezéseket és italokat, a látogatókat, a zajt és a fényt. Vigye magával a naplót az orvoshoz. A NIA megjegyzi, hogy a viselkedésbeli változások nyomon követése segíthet a gondozóknak és az egészségügyi szakembereknek a mintázatok felismerésében.
 
-## Mikor forduljak orvoshoz a napnyugtai zavartság miatt?
+## Mikor forduljak orvoshoz az alkonyati nyugtalanság miatt?
 
-Forduljon a személy orvosához, ha a nyugtalanság új, hirtelen romlik, vagy más változásokkal együtt jelentkezik. Az NIA szerint a hirtelen vagy gyorsan ingadozó viselkedésváltozásokat azonnal orvos elé kell vinni, különösen fertőzés vagy a közelmúltban történt gyógyszerváltás után.
+Forduljon az Ön által gondozott személy orvosához, ha a nyugtalanság új, hirtelen rosszabbodik, vagy más változásokkal együtt jelentkezik. A NIA szerint a viselkedés hirtelen vagy gyorsan ingadozó változásait, különösen fertőzés vagy a közelmúltbeli gyógyszerváltozás után, azonnal jelezni kell az orvosnak.
 
-Kérje meg az orvost, hogy ellenőrizze azokat a dolgokat, amelyek az esteket nehezebbé tehetik. Az Alzheimer's Association olyan fizikai problémákat említ, mint a húgyúti fertőzés, a vizelet-inkontinencia, a nyugtalan láb-szindróma és az alvási apnoé, és azt javasolja, hogy kérdezze meg, melyik napszak a legjobb az egyes gyógyszerekhez. Az NIA a fájdalmat, a székrekedést és a gyógyszermellékhatásokat vagy kölcsönhatásokat sorolja fel a nyugtalanság lehetséges okai között.
+Kérje meg az orvost, hogy vizsgálja meg azokat a tényezőket, amelyek megnehezíthetik az estéket. Az Alzheimer’s Association olyan testi problémákat említ, mint a húgyúti fertőzések, az inkontinencia, a nyugtalan láb szindróma és az alvási apnoé, és azt javasolja, kérdezze meg, a nap mely szakában a legjobb bevenni az egyes gyógyszereket. A NIA a fájdalmat, a székrekedést, valamint a gyógyszerek mellékhatásait vagy kölcsönhatásait sorolja a nyugtalanság lehetséges okai közé.
 
-Az Alzheimer's Association szerint az Alzheimer-kórhoz kapcsolódó alvási problémák esetén általában a nem gyógyszeres megközelítéseket részesítik előnyben, és a késő délutáni nyugtalanság gyógyszerét csak akkor érdemes megfontolni, ha ezek nem működnek, a kockázatok és előnyök mérlegelése után. Ez a döntés az orvosnál van. Orvosi tanács nélkül ne kezdjen, ne hagyjon abba és ne változtasson semmilyen gyógyszert, alvássegítőt vagy étrend-kiegészítőt.
+Az Alzheimer’s Association szerint az Alzheimer-kórral összefüggő alvási nehézségek esetén általában a nem gyógyszeres megközelítéseket részesítik előnyben, és a késő délutáni nyugtalanság elleni gyógyszert csak akkor érdemes megfontolni, ha ezek nem segítenek, a kockázatok és az előnyök mérlegelése után. Ez a döntés az orvosra tartozik. Orvosi tanács nélkül ne kezdjen el, ne hagyjon abba és ne módosítson semmilyen gyógyszert, altatót vagy étrend-kiegészítőt.
 
-## Hogyan vészelem át magam az estéket?
+## Hogyan vészeljem át én magam az estéket?
 
-A késő délután a gondozó napjának egyik legnehezebb része lehet. Ha tud, kérjen meg egy családtagot, barátot vagy fizetett segítőt, hogy hetente néhány napon fedezze a késő délutánt, akár csak egy órára. A [gondoskodás önmagunkról szóló útmutatónk](/caregiving/caregiver-self-care/) felsorolja a pihenőgondozási lehetőségeket és az ingyenes Alzheimer's Association 24/7 segélyvonalat.
+A késő délutánok a gondozók napjának legnehezebb részei közé tartozhatnak. Ha lehetséges, kérjen meg egy családtagot, barátot vagy fizetett segítőt, hogy hetente néhányszor, akár csak egy órára átvegye a késő délutáni időszakot. A [gondozói önmagunkról való gondoskodásról szóló útmutatónk](/caregiving/caregiver-self-care/) átmeneti segítség lehetőségeket és az Alzheimer’s Association ingyenes, a nap huszonnégy órájában elérhető segélyvonalát sorolja fel.

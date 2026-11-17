@@ -1,33 +1,33 @@
 ---
-title: "Õues ja aias tegutsemine dementsusega inimeste jaoks"
-seoTitle: "Aiandus ja õuesolek dementsuse korral"
-description: "Aianduse ja õuesoleku ideed dementsusega inimesele: kõrgpeenrad, taimepotid ning ohutusnõuanded kuumuse, päikese ja eksimise vältimiseks."
+title: "Aia- ja õuetegevused dementsusega inimesele"
+seoTitle: "Aiatöö ja õuesolek dementsuse korral"
+description: "Aiatöö ja õuesoleku ideed dementsusega inimesele: kõrgpeenrad, taimepotid ning ohutusnõuanded kuuma, päikese ja eksimise vältimiseks."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Aiandus ja õues veedetud aeg võivad olla dementsusega inimesele rahulik ja
-  tuttav tegevus. Proovige taimede kastmist, ürtide pottidesse istutamist,
-  närbunud õite noppimist või lühikest jalutuskäiku piirdega aias. Kasutage
+  Aiatöö ja õues veedetud aeg võivad olla dementsusega inimesele rahulik ja
+  tuttav tegevus. Proovige taimede kastmist, ürtide potti istutamist, õite
+  närtsinud osade eemaldamist või lühikest jalutuskäiku taraga aias. Kasutage
   kõrgpeenraid või lauda, et keegi ei peaks põlvitama, vältige teravaid
-  tööriistu ja mürgiseid taimi, minge õue päeva jahedamal ajal ning olge alati
+  tööriistu ja mürgiseid taimi, minge õue jahedamal ajal ning viibige alati
   inimese juures.
 keyPoints:
-  - "Lihtsaid aiatöid, nagu taimede kastmine, seemnete külvamine, ürtide nuusutamine ja lillede korjamine, saab teha seistes või istudes."
-  - "Kõrgpeenrad, taimepotid ja varjualune laud toovad aia vöö kõrgusele ja võivad vähendada kukkumisohtu."
-  - "Vältige teravaid tööriistu, okkalisi või nahka ärritavaid taimi ning kõike mürgist. Jälgige, et mulda ei peetaks toiduks."
-  - "Kuumus võib olla eakatele inimestele ohtlik. Minge õue vara hommikul või hiljem, võtke kaasa vett ja varju ning tulge tuppa esimeste ebamugavustunnete ilmnemisel."
-  - "Paljud dementsusega inimesed võivad mingil hetkel ära eksida. Olge õues alati inimese juures ning hoidke käepärast hiljutist fotot ja isikut tõendavat dokumenti."
+  - "Lihtsaid aiaülesandeid, nagu kastmine, seemnete potti istutamine, ürtide nuusutamine ja lillede korjamine, saab teha seistes või istudes."
+  - "Kõrgpeenrad, taimepotid ja kaetud laud toovad aia vöö kõrgusele ning vähendavad kukkumisohtu."
+  - "Vältige teravaid tööriistu, okkalisi või ärritavaid taimi ja kõike mürgist. Jälgige, et mulda ei aetaks toiduga segi."
+  - "Kuumus võib eakatele inimestele olla ohtlik. Minge õue varahommikul või hiljem, võtke kaasa vett ja varju ning tulge kohe sisse, kui märkate ebamugavust."
+  - "Paljud dementsusega inimesed eksivad mingil hetkel ära. Viibige õues alati inimese juures ja hoidke käepärast hiljutist fotot ning isikut tõendavat dokumenti."
 faq:
   - q: "Milliseid aiatöid saab dementsusega inimene teha?"
-    a: "Head valikud on taimede kastmine, seemnete külvamine väikestesse pottidesse, ürtide nuusutamine ja katsumine, närbunud õite noppimine, köögiviljade korjamine, lõikelillede seadmine ja raja pühkimine. Toas sobivad hästi aknalaual kasvav ürdipott või mullaga alus kaetud laual. Valige tegevus selle järgi, mis inimesele varem meeldis ja mida ta praegu mugavalt teha saab."
+    a: "Taimede kastmine, seemnete istutamine väikestesse pottidesse, ürtide nuusutamine ja katsumine, närtsinud õite eemaldamine, köögiviljade korjamine, lõikelillede seadmine ja raja pühkimine on kõik head valikud. Toas sobivad hästi aknalaual kasvav ürtipott või mullaga kandik kaetud laual. Valige tegevus selle järgi, millest inimene varem lugu pidas ja mida ta praegu mugavalt teha saab."
   - q: "Kuidas hoida dementsusega inimest kuumaga ohutuna?"
-    a: "Planeerige õuesolek jahedamale varahommikule või õhtule, hoidke see lühike ja pakkuge sageli vett. Valige vari, laia äärega kübar, kerge ja avar riietus ning päikesekaitsekreem. Eakatel inimestel on kuumarabanduse oht suurem ning segadus, pearinglus või iiveldus võivad olla hoiatusmärgid, seega minge nende ilmnemisel kohe tuppa ja jahtuge maha."
-  - q: "Kuidas minna õue, kui inimene kipub ära eksima?"
-    a: "Olge kogu aeg inimese juures, kasutage piirde ja riiviga väravaga aeda ning veenduge, et inimesel on kaasas isikut tõendav käevõru või dokument. Hoidke käepärast hiljutist fotot. Kui inimene läheb kaduma, soovitab Alzheimer's Association helistada hädaabinumbril 112, kui teda 15 minuti jooksul ei leita."
+    a: "Planeerige õuesolek jahedamale varahommikule või õhtule, hoidke see lühike ja pakkuge sageli vett. Valige vari, laia äärega müts, heledad ja avarad rõivad ning päikesekaitsekreem. Eakatel inimestel on kuumast tingitud haiguste oht suurem ning segasus, pearinglus või iiveldus võivad olla hoiatusmärgid, seega minge kohe tuppa ja jahtuge, kui neid märkate."
+  - q: "Kuidas saame õue minna, kui inimene kipub ära eksima?"
+    a: "Viibige kogu aeg inimese juures, kasutage taraga aeda või õue, millel on lukustatav värav, ning veenduge, et inimesel on käevõru isikuandmetega või et tal on kaasas isikut tõendav dokument. Hoidke käepärast hiljutist fotot. Kui inimene läheb kaduma, võtke viivitamata ühendust kohaliku politsei või hädaabiteenistusega; ärge oodake kindlat arvu minuteid. Öelge abiandjatele, et inimesel on dementsus, kus teda viimati nähti, ja edastage hiljutine foto."
   - q: "Mida teha, kui meil pole aeda?"
-    a: "Piisab ka mõnest potist rõdul, aknalillekastist või ürtide alustassest köögilaual. Samuti võite külastada parki, avalikku aeda või kogukonnaaeda. Istumine õues ja lindude kuulamine on samuti õues tegutsemine."
+    a: "Piisab ka mõnest potist verandal, aknalillekastist või ürdikandikust köögilaual. Võite külastada ka parki, avalikku aeda või kogukonnaaeda. Õues istumine ja lindude laulmine on samuti õues veedetud tegevus."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Paljude inimeste jaoks on aed üks tuttavamaid kohti. Kaevamine, kastmine ja lillede korjamine kasutavad oskusi, mis on õpitud ammu, ning õuesolek toob värsket õhku, päikesevalgust ja linnulaulu. National Institute on Aging loetleb tegevuste hulgas, mis võivad Alzheimeri tõvega inimestele meeldida, taimede eest hoolitsemise, lillede ja köögiviljade istutamise ning [rääkimise sellest, kuidas taimed kasvavad](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Sellel lehel leiate ideid, mida proovida, kuidas aeda mugavamaks muuta ning kuidas olla ohutu kuumuse, päikese ja eksimise korral.
+Paljude inimeste jaoks on aed üks kõige tuttavamaid paiku. Kaevamine, kastmine ja lillede korjamine kasutavad ammu õpitud oskusi ning õuesolek toob värsket õhku, päikesevalgust ja linnulaulu. National Institute on Aging loetleb taimede eest hoolitsemise, lillede ja köögiviljade istutamise ning [vestlemise taimede kasvamise üle](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) tegevuste hulgas, millest Alzheimeri tõvega inimesed võivad rõõmu tunda. Sellel lehel on kirjas, mida proovida, kuidas aeda lihtsamini kasutatavaks muuta ning kuidas hoida end ohutuna kuumuse, päikese ja eksimise korral.
 
-## Millised õues ja aias tehtavad tegevused sobivad hästi?
+## Millised õues- ja aiatööd sobivad hästi?
 
-Parimad ülesanded on lihtsad ja tuttavad ning neid saab teha seistes või istudes. Valige selle järgi, mis inimesele varem meeldis.
+Parimad ülesanded on lihtsad, tuttavad ja neid saab teha seistes või istudes. Valige inimese varasemate eelistuste põhjal.
 
 ### Aias
 
-1. **Kastmine.** Väike ja kerge kastekann või õrn voolikupihusti ning paar kättesaadavat taimepotti. Kastmisel on selge algus ja lõpp ning seda on raske valesti teha.
-2. **Seemnete külvamine pottidesse.** Alzheimer's Foundation of America soovitab külvata seemned väikestesse pottidesse ja [vaadata, kuidas nad kasvavad](https://alzfdn.org/dementia-activity-gardening/). Suuremad seemned, nagu oad, päevalilled või herned, on kergemini haaratavad.
-3. **Närbunud õite noppimine.** Närbunud õite näppimine on õrn ja korduv tegevus. Valige taimed, millel pole okkaid.
-4. **Köögiviljade või ürtide korjamine.** Kirsstomateid, ube ja ürte on lihtne korjata ning tore maitsta. Võtke need kaasa, et neid lõunasöögiks kasutada.
-5. **Ürtide nuusutamine ja katsumine.** Rosmariinil, mündil ja lavendlil on tugev ja meeldiv lõhn. Hõõruge lehte sõrmede vahel ja laske inimesel seda nuusutada.
-6. **Raja või terrassi pühkimine.** Kerge hari tasasel ja kuival pinnal, kui tasakaal on kindel.
-7. **Linnusöögi lisamine söötjasse.** Seejärel istuge koos ja vaadake, kes külla tuleb.
+1. **Kastmine.** Väike ja kerge kastekann või õrn voolikusuud ning mõni kättesaadavas kohas olev pott. Kastmisel on selge algus ja lõpp ning seda on raske valesti teha.
+2. **Seemnete istutamine pottidesse.** Alzheimer's Foundation of America soovitab istutada seemned väikestesse pottidesse ja [vaadata, kuidas need kasvavad](https://alzfdn.org/dementia-activity-gardening/). Suuremad seemned, nagu oad, päevalilled või herned, on kergemini käes hoida.
+3. **Närtsinud õite eemaldamine.** Närbunud õite näppudega ära nopimine on õrn ja korduv tegevus. Valige okasteta taimed.
+4. **Köögiviljade või ürtide korjamine.** Kirsstomatid, oad ja ürdid on kergesti korjatavad ja maitsvad. Viige need tuppa lõunasöögiks.
+5. **Ürtide nuusutamine ja katsumine.** Rosmariinil, mündil ja lavendlil on tugev ja meeldiv lõhn. Hõõruge leht sõrmede vahel ja pange see inimese nina juurde.
+6. **Raja või terrassi pühkimine.** Kerge luud tasasel ja kuival pinnal, kui tasakaal on kindel.
+7. **Linnusöögi lisamine.** Seejärel istuge koos ja vaadake, kes külla tuleb.
 
 ### Toas, kui õue minna ei saa
 
 - **Aknalaual kasvav ürdiaed** basiiliku, peterselli või murulauguga.
-- **Istutamine kaetud laual.** AFA soovitab kasutada söökla alustasse, et hoida muld ühes kohas, ja liigutada mulda väikeste topsidega.
-- **Lillede seadmine** lõikelilledest ja rohelistest, mis on pärit aiast või toidupoest.
-- **Lillede pressimine** kimbust, et hiljem need kaartidele kleepida. Lisateavet leiate lehelt [kunsti- ja käsitöötegevused](/activities/arts-and-crafts/).
-- **Lavendli- või roosikottide valmistamine**, veel üks AFA idee, mis toob aia lõhna tuppa.
+- **Potti istutamine kaetud laual.** AFA soovitab kasutada söökla kandikuid, et muld ühte kohta jääks, ja mulda liigutada väikeste topsidega.
+- **Lilleseade** aiast või poest toodud lõikelillede ja rohelusega.
+- **Õite pressimine** kimbust, et need hiljem kaartidele kleepida. Vaadake lisaks lehte [kunsti- ja käsitöötegevused](/activities/arts-and-crafts/).
+- **Lavendli- või roosikottide valmistamine** on veel üks AFA idee, mis toob aia lõhna tuppa.
 
 ### Väljas käimine
 
-- **Lühike jalutuskäik** ümber kvartali, pargis või aianduskeskuses, aeglases tempos ja istumisvõimalusega.
-- **Istumine õues** verandal või pingil, et kuulata linde ja tunda tuult. See on iseenesest terviklik tegevus.
-- **Külastus avalikku aeda** päeva vaiksemal ajal. NHS märgib, et mõnes kohas on meeleaedu lõhnavate taimede, erinevate pindade ja vee-elementidega.
-- **Partide toitmine või lindude vaatamine** kohaliku tiigi ääres, hoides veepiirist ohutut vahemaad.
+- **Lühike jalutuskäik** ümber kvartali, pargis või aianduskeskuses aeglases tempos ja koos võimalusega istuda.
+- **Õues istumine** verandal või pingil, et kuulata linde ja tunda tuult. See on iseenesest täielik tegevus.
+- **Külastus avalikku aeda** päeva rahulikumal ajal. NHS märgib, et mõnes kohas on meelteaedu lõhnavate taimede, erinevate pindade ja veeosadega.
+- **Partide toitmine või lindude vaatlemine** kohaliku tiigi ääres, hoides veepiirist ohutut kaugust.
 
-## Kuidas muuta aed kergemini kasutatavaks?
+## Kuidas muuta aed lihtsamini kasutatavaks?
 
 Tooge aed inimese juurde, mitte vastupidi.
 
-- **Kõrgpeenrad või kõrged taimekastid** umbes vöö kõrgusel tähendavad, et pole vaja põlvitada ega kummarduda.
+- **Kõrgpeenrad või kõrged taimekastid** umbes vöö kõrgusel tähendavad, et põlvitada või kummarduda ei pea.
 - **Taimepotid laual** sobivad inimestele, kes kasutavad ratastooli või eelistavad istuda.
-- **Laiad ja tasased rajad**, millel pole lahtiseid kive ega maha jäetud voolikuid, võivad vähendada komistamisohtu.
-- **Käetugedega istmed ja vari** tee ääres, et puhkamine oleks alati võimalik.
-- **Paksu ja pehme käepidemega tööriistad**, millest on lihtne kinni hoida. Jätke oksakäärid, noad ja kõik teravad esemed kõrvale.
-- **Piirde ja riiviga väravaga ala**, mida inimene saab vabalt avastada, samal ajal kui teie olete läheduses.
+- **Laiad ja tasased rajad**, millel ei ole lahtiseid kive ega maas vedelevaid voolikuid, vähendavad komistamise ohtu.
+- **Käetugedega istmed ja vari** tee ääres, et puhata saaks alati.
+- **Paksude ja pehmete käepidemetega tööriistad**, millest on lihtne kinni hoida. Jätke oksakäärid, noad ja kõik teravad esemed kõrvale.
+- **Taraga ala lukustatava väravaga**, mida inimene saab vabalt uurida, samal ajal kui teie olete läheduses.
 
 ## Milliseid taimi peaksin vältima?
 
-Valige taimi, mida on ohutu katsuda ja mis ideaalis on ohutud ka siis, kui neid kogemata maitstakse. AFA soovitab kasutada taimi, mis tavaliselt nahka ei ärrita, arvestada allergiatega ning jälgida hoolikalt inimesi, kes võivad mulda toiduga segi ajada. NIA koduohutuse nõuanded hõlmavad mürgiste taimede eemaldamist või lukustamist.
+Valige taimi, mida on ohutu katsuda ja ideaalis ka ohutu maitsta. AFA soovitab kasutada taimi, mis tavaliselt nahka ei ärrita, kontrollida allergiaid ning hoolega jälgida kõiki, kes võiksid mulda toiduga segi ajada. NIA koduohutuse nõuanded soovitavad mürgised taimed eemaldada või lukustada.
 
 - Vältige okkalisi roose, kaktuseid ja taimi, mille mahl nahka ärritab.
-- Kui te pole mõnes taimes kindel, küsige enne istutamist nõu mürgistusteabekeskusest või kohalikust aianduskeskusest.
-- Tuttavad lemmiktaimed võivad äratada meeldivaid tundeid. AFA mainib näidetena roose ja jõulukaktust. Valige okkadeta sordid.
-- Hoidke väetised, pestitsiidid ja umbrohutõrjevahendid lukus ning ärge kasutage neid kohtades, kuhu inimene ulatub.
+- Kui te pole mõne taime ohutuses kindel, küsige enne istutamist nõu mürgistusteabekeskusest või kohalikust aianduskeskusest.
+- Tuttavad lemmikud võivad tuua tagasi meeldivaid tundeid. AFA toob näidetena roosid ja jõulukaktuse. Valige okasteta sordid.
+- Hoidke väetised, taimekaitsevahendid ja umbrohutõrjevahendid lukus ning ärge kasutage neid kohtades, kuhu inimene ligi pääseb.
 
-## Kuidas olla ohutu kuumuse ja päikese käes?
+## Kuidas hoida end kuumuse ja päikese käes ohutuna?
 
-Planeerige õuesolek vastavalt ilmale. NIA selgitab, et eakatel inimestel on [kuumusega seotud tervisehäirete](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) oht suurem, osaliselt seetõttu, et keha kohaneb temperatuurimuutustega kehvemini ja mõned ravimid mõjutavad kuumataluvust.
+Planeerige õuesolek vastavalt ilmale. NIA selgitab, et eakatel inimestel on [kuumusega seotud haiguste](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) oht suurem, osalt seetõttu, et keha kohaneb temperatuurimuutustega vähem hästi ja mõned ravimid mõjutavad seda, kuidas keha kuumusega toime tuleb.
 
-- **Minge õue vara või hiljem.** Vältige soojadel kuudel päeva keskmist osa. Kontrollige lisaks temperatuurile ka kuumaindeksit.
+- **Minge õue varahommikul või hiljem.** Vältige sooja ilmaga päeva keskosa. Kontrollige kuumaindeksit, mitte ainult temperatuuri.
 - **Pakkuge sageli vett.** Ärge oodake, kuni inimene ütleb, et tal on janu. Vältige kuumaga alkoholi ja kofeiiniga jooke.
-- **Riietuge vastavalt ilmale.** Heledat värvi ja avar riietus, laia äärega kübar ning päikeseprillid.
-- **Kasutage päikesekaitsekreemi.** NIA soovitab laia toimespektriga kaitsekreemi SPF 15 või rohkem ning selle uuesti peale kandmist päeva jooksul.
+- **Riietuge vastavalt ilmale.** Heledad ja avarad rõivad, laia äärega müts ja päikeseprillid.
+- **Kasutage päikesekaitsekreemi.** NIA soovitab laia toimespektriga kaitsekreemi SPF 15 või kõrgema kaitsefaktoriga ning selle korduvat pealekandmist päeva jooksul.
 - **Valige vari.** Pange istutuslaud puu või vihmavarju alla.
-- **Hoidke see lühike.** Ka lühike aeg õues võib piisata, eriti soojadel päevadel.
-- **Pöörake tähelepanu hoiatusmärkidele.** NIA loetleb peavalu, segaduse, pearingluse või iivelduse kuumarabanduse võimalike tunnustena. Dementsusega inimene ei pruugi öelda, et tal on halb olla, seetõttu jälgige tema näoilmet ja käitumist. Minge tuppa, jahtuge vee ja jaheda lapiga ning otsige arstiabi, kui seisund kiiresti ei parane. Kuumarabandus, mille tunnuste hulka võivad kuuluda minestamine, segasus või kuiv ja punetav nahk, on meditsiiniline hädaolukord: helistage 112.
+- **Hoidke see lühike.** Eriti soojal päeval võib lühike aeg õues olla piisav.
+- **Jälgige hoiatusmärke.** NIA loetleb peavalu, segasuse, pearingluse või iivelduse kuumast tingitud haiguse võimalikeks tunnusteks. Dementsusega inimene ei pruugi öelda, et ta tunneb end halvasti, seega jälgige tema näoilmet ja käitumist. Minge tuppa, jahtuge vee ja jaheda lapiga ning otsige arstiabi, kui tal kiiresti paremaks ei lähe. Kuumarabandus, mille tunnused võivad olla minestamine, segasus või kuiv ja punetav nahk, on hädaolukord: helistage numbril 911.
 
-Ka külm ilm on oluline. Talvel hoidke õuesolek lühike ning veenduge, et käed ja jalad püsivad soojad ja kuivad.
+Ka külm ilm on oluline. Talvel hoidke õuesolek lühike ning veenduge, et käed ja jalad püsivad soojade ja kuivadena.
 
-## Kuidas toimida õues, kui inimene kipub ära eksima?
+## Kuidas toime tulla eksimisega, kui läheme õue?
 
-Olge alati inimese juures, kui ta on õues. Alzheimer's Association ütleb, et [kuus dementsusega inimest kümnest](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) võib vähemalt korra ära eksida ning paljud teevad seda rohkem kui korra. See võib juhtuda igas haiguse etapis.
+Viibige inimese juures alati, kui ta on õues. Alzheimer's Association ütleb, et [kuus kümnest dementsusega inimesest](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) eksib vähemalt korra ära ja paljud teevad seda rohkem kui korra. Seda võib juhtuda igas staadiumis.
 
-NIA [nõuanded eksimise ja kaduma minemise puhuks](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) hõlmavad järgmist:
+NIA [nõuanded eksimise ja kaduma minemise korral](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) hõlmavad järgmist:
 
-- Veenduge, et inimesel on kaasas isikut tõendav või meditsiiniline käevõru tema nime, aadressi ja teie telefoninumbriga, või märgistage tema riided.
-- Hoidke käepärast inimese hiljutist fotot või videot.
+- Veenduge, et inimesel on käevõru või meditsiiniline käevõru tema nime, aadressi ja teie telefoninumbriga või et tema rõivastele on märgitud andmed.
+- Hoidke alles inimese hiljutine foto või video.
 - Andke naabritele teada, et inimene võib ära eksida.
-- Tehke aed turvaliseks piirde ja lukustatud väravaga.
-- Ärge jätke inimest, kes on varem ära eksinud, järelevalveta.
+- Kindlustage aed tara ja lukustatud väravaga.
+- Ärge jätke inimest, kellel on varem esinenud eksimist, järelevalveta.
 
-Alzheimer's Association soovitab samuti luua turvaliselt avastatavaid ruume nii toas kui õues ning planeerida tegevusi päevaajaks, mil rahutus on kõige tõenäolisem. Jalutuskäik turvalises ja piirdega aias võib sobida hilise päeva rahutuse korral. Vaadake ka meie juhendit [hilise päeva rahutuse kohta](/caregiving/late-day-restlessness/).
+Alzheimer's Association soovitab ka luua sise- ja välialad, mida on ohutu uurida, ning planeerida tegevusi ajaks, mil rahutus on kõige tõenäolisem. Jalutuskäik turvalises ja piiratud aias võib sobida hästi päeva lõpu rahutuse korral. Vaadake meie juhendit [päeva lõpu rahutuse kohta](/caregiving/late-day-restlessness/).
 
-Kui inimene siiski läheb kaduma, soovitab Alzheimer's Association otsida kohe lähedusest ja helistada hädaabinumbril 112, kui teda 15 minuti jooksul ei leita. Öelge politseile, et inimesel on dementsus.
+Kui inimene läheb kaduma, kontrollige läheduses olevaid turvalisi kohti, võttes samal ajal viivitamata ühendust kohaliku politsei või hädaabiteenistusega. Ärge oodake enne teatamist kindlat arvu minuteid. [Ameerika Ühendriikide justiitsministeeriumi 2021. aasta artikkel kadunud inimeste juhtumite uurimise kohta](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) ütleb, et õiguskaitseasutused ei tohiks nõuda kindlat ooteaega, ning nimetab dementsuse sarnaseid sümptomeid suure riskiga asjaoluks. Kohalikud teatamise kord võivad erineda. Jagage teavet, millal ja kus inimest viimati nähti, mida ta kandis ja tema hiljutist fotot. Järgige kohalike abiandjate juhiseid; ärge otsige üksi ohtlikest kohtadest.
 
-## Kuidas kohandada aiandust, kui olukord muutub?
+## Kuidas kohandada aiatööd muutuvate olude korral?
 
-| Kui see on muutunud keeruliseks | Proovige selle asemel |
+| Kui see on muutunud raskeks | Proovige selle asemel |
 | --- | --- |
-| Terve peenra istutamine | Ühe seemne külvamine ühte potti |
-| Rohimine (umbrohu ja taimede eristamine) | Kastmine või selgelt närbunud õite noppimine |
-| Aias ringi kõndimine | Istumine laua taga, millel on mullaga alus ja taim |
-| Õue minek üldse | Ürdipott köögilaual või istekoht avatud akna juures |
+| Terve peenra istutamine | Ühe seemne istutamine ühte potti |
+| Rohimine (umbrohu ja taimede eristamine) | Kastmine või ilmselgelt närtsinud õite eemaldamine |
+| Aias ringi kõndimine | Istumine laua taga mullakandiku ja taimega |
+| Üldse õue minek | Ürtide pott köögilaual või istekoht avatud akna juures |
 | Mis tahes ülesande tegemine | Koos õues istumine, kuulamine ja vaatamine |
 
-Mõni inimene eelistab vaadata, kuidas teie töötate. NIA märgib, et inimesele võib lasta lihtsalt vaadata, kui see talle meeldib.
+Mõned inimesed eelistavad vaadata, kuidas teie töötate. NIA märgib, et kui inimene soovib lihtsalt vaadata, on see täiesti sobiv.
 
 ## Millal peaksime tuppa minema?
 
-Minge sisse, kui inimene näib väsinud, kuum, külmetav, rahutu või valmis lõpetama. Lühike ja meeldiv kümme minutit on parem kui pikk pärastlõuna, mis lõpeb pingega. Varajane lõpetamine on hea tulemus.
+Minge sisse, kui inimene tundub väsinud, kuum, külm, rahutu või valmis lõpetama. Lühike ja meeldiv kümme minutit on parem kui pikk pärastlõuna, mis lõpeb pingega. Varakult lõpetamine on hea tulemus.
 
 ## Tooge aed ekraanile tuppa
 
-Vihmastel päevadel on mängus [Sort Together](/games/sort-together/) aiakorv piltide sortimiseks ning mängus [Conversation Cards](/games/conversation-cards/) on avatud jututeemasid, mis võivad viia aiaga seotud mälestusteni. Kui tulete kuumast tuppa ja tunnete end kiirustatuna, pakub [Calm Breathing](/games/calm-breathing/) aeglast ja vaikset pausi, mida saate koos jagada. Rohkem puudutuse, lõhna ja heli kaudu tegutsemise ideid leiate meie [meeletegevuste juhendist](/activities/sensory/).
+Vihmastel päevadel on mängus [Sort Together](/games/sort-together/) aiakorv piltide sortimiseks ning [Conversation Cards](/games/conversation-cards/) sisaldab avatud küsimusi, mis võivad viia aialugudeni. Kui tulete kuumast tuppa ja tunnete kiirustamist, pakub [Calm Breathing](/games/calm-breathing/) aeglast ja rahulikku pausi, mida saate koos jagada. Rohkemate puudutusele, lõhnale ja helile tuginevate ideede jaoks vaadake meie [meeltemängude juhendit](/activities/sensory/).

@@ -1,33 +1,33 @@
 ---
-title: "Ayyuka ga cutar mantuwa da ta fara da wuri"
-seoTitle: "Ayyuka ga cutar mantuwa da ta fara da wuri"
-description: "Ayyuka ga cutar mantuwa da ta fara kafin 65: abubuwan sha’awa, fita waje, kiɗa daga kuruciya, da tallafi ga abokan zama da ’ya’ya manya."
+title: "Ayyuka ga Dimensiya da ta Fara da Wuri ga Manya Masu Aiki"
+seoTitle: "Ayyuka ga Dimensiya da ta Fara da Wuri"
+description: "Ayyuka ga dimensiya da ta fara kafin shekara 65: abubuwan sha'awa, fita waje, kiɗa daga ƙuruciyarsu, da tallafi ga abokan zama da manyan ’ya’ya."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Cutar mantuwa da ta fara da wuri tana farawa ne kafin mutum ya cika shekaru
-  65, sau da yawa yayin da yake aiki, tuƙi ko renon ’ya’ya. Ku ci gaba da
-  abubuwan sha’awarsa da abokansa, ku zaɓi fita waje da ta dace da shi, ku yi
-  amfani da kiɗa da hotuna daga shekarunsa, kuma ku bar shi ya jagoranci
-  shirye-shirye. Abokan zama da ’ya’ya manya ma suna buƙatar tallafi, kuma
-  ƙungiyar Alzheimer’s Association tana da ƙungiyoyi a gare su.
+  Dimensiya da ta fara da wuri tana farawa ne kafin shekara 65, galibi a lokacin
+  da mutum har yanzu yana aiki, yana tuƙi ko yana renon ’ya’ya. Ku ci gaba da
+  abubuwan sha’awarsu da abokansu, ku zaɓi fita waje da ke jin kamar nasu ne,
+  ku yi amfani da kiɗa da hotuna daga shekarunsu, kuma ku bar su su jagoranci
+  tsare-tsare. Abokan zama da manyan ’ya’ya ma suna buƙatar tallafi, kuma
+  Alzheimer’s Association tana gudanar da ƙungiyoyi dominsu.
 keyPoints:
-  - "Cutar mantuwa da ta fara da wuri tana farawa ne kafin shekaru 65. Sau da yawa mutane suna jin shekarunsu ba su dace da ayyukan da ake bayarwa ba."
-  - "Ku bar mutumin da kuke kulawa da shi ya jagoranci zaɓi, tun daga abin sha’awa da zai gwada har zuwa irin fita waje da za a shirya."
-  - "Kiɗa, hotuna da labarai daga shekarunsu 20 zuwa 50 sau da yawa sun fi ma’ana fiye da ayyukan daga tsofaffin shekaru."
-  - "Ku ci gaba da motsa jiki da hulɗa da jama’a idan yana so, kuma ku daidaita saurin aiki maimakon canza aikin."
-  - "Masu kulawa, musamman abokan zama da ’ya’ya manya, suna amfana da ƙungiyoyin tallafi na takwarorinsu."
+  - "Dimensiya da ta fara da wuri tana farawa ne kafin shekara 65. Sau da yawa mutane suna jin shekarunsu ba su dace da ayyukan da ake bayarwa ba."
+  - "Ku bar mutumin da kuke kula da shi ya jagoranci zaɓi, tun daga wane abin sha’awa za a gwada har zuwa wane fita waje za a tsara."
+  - "Kiɗa, hotuna da labarai daga shekarunsu na ashirin zuwa hamsin sukan fi ma’ana fiye da ayyukan daga manyantaka ta gaba."
+  - "Ku ci gaba da motsa jiki da zama tare da mutane idan suna so, ku kuma daidaita saurin abin maimakon maye gurbin aikin."
+  - "Masu kulawa, musamman abokan zama da manyan ’ya’ya, suna amfana da ƙungiyoyin tallafi na takwarorinsu."
 faq:
-  - q: "Mene ne cutar mantuwa da ta fara da wuri?"
-    a: "Ita ce cutar mantuwa da ke farawa kafin shekaru 65. Ƙungiyar Alzheimer’s Association ta nuna cewa ana ɗaukar cutar Alzheimer a matsayin wadda ta fara da wuri idan ta shafi mutum da bai kai shekaru 65 ba. Cutar mantuwa da ta fara da wuri ba ta zama ruwan dare kamar wadda ta fara daga baya ba, amma ba abu ne da ba a taɓa gani ba, kuma ƙwarewar sau da yawa ta bambanta: mutum na iya ci gaba da aiki, tuƙi da renon ’ya’ya."
-  - q: "Wadanne ayyuka suka dace da mutumin da ke da cutar mantuwa da ta fara da wuri?"
-    a: "Ayyukan da suka dace da rayuwarsa ta manya su ne suka fi dacewa: abin sha’awa da ya saba da shi, tafiya da aboki, aikin sa kai, aikin girki ga iyali, kiɗa daga kuruciyarsa, ko ziyartar wurin da yake ƙauna. Ku bar shi ya zaɓa, kuma ku daidaita tsawon lokaci da mutanen da za su kasance tare maimakon canza aikin da kansa."
-  - q: "Ina abokin zama ko ɗa/’ya babba zai iya samun tallafi?"
-    a: "Ƙungiyar Alzheimer’s Association tana ba da ƙungiyoyin tallafi kyauta ga masu kulawa, har da ƙungiyoyi ga waɗanda ke kula da mutumin da ke da cutar mantuwa da ta fara da wuri. Kuna iya kiran layin taimakonta na sa’o’i 24 a rana, kwana 7 a mako, a 800.272.3900 don neman bayani game da ƙungiyoyi da albarkatu."
-  - q: "Shin mutumin da ke da cutar mantuwa da ta fara da wuri ya ci gaba da yin abubuwan da yake jin daɗi?"
-    a: "Eh, muddin suna da aminci kuma yana so. Abubuwan sha’awa, al’ummomin addini, motsa jiki da lokacin hulɗa da jama’a duk suna daga cikin cikakkiyar rayuwa. Ku daidaita yanayi, ku je tare da abokin tafiya, ku shirya hutawa, kuma ku daina idan aikin bai ƙara jin daɗi ba."
+  - q: "Mene ne dimensiya da ta fara da wuri?"
+    a: "Ita ce dimensiya da ke farawa kafin shekara 65. Alzheimer’s Association ta nuna cewa ana ɗaukar cutar Alzheimer a matsayin wadda ta fara da wuri idan ta shafi mutum ƙasa da shekara 65. Dimensiya da ta fara da wuri ba ta zama ruwan dare kamar wadda ke farawa daga baya ba, amma ba abin da ba a saba gani ba ne, kuma ƙwarewar sau da yawa ta bambanta: mutum na iya kasancewa har yanzu yana aiki, yana tuƙi kuma yana renon ’ya’ya."
+  - q: "Wadanne ayyuka suka dace da wanda ke da dimensiya da ta fara da wuri?"
+    a: "Ayyukan da suka dace da rayuwarsu ta manya su ne suka fi kyau: abin sha’awa da suka saba da shi, tafiya da aboki, aikin sa kai, girkin abinci don iyali, kiɗa daga ƙuruciyarsu, ko ziyartar wani wuri da suke so. Ku bar su su zaɓa, ku kuma daidaita tsawon lokaci da mutanen da za su kasance tare maimakon canza aikin da kansa."
+  - q: "A ina abokin zama ko babban ɗa ko ’ya za su iya samun tallafi?"
+    a: "Alzheimer’s Association tana ba da ƙungiyoyin tallafi kyauta ga masu kulawa, ciki har da ƙungiyoyi ga mutanen da ke kula da wanda ke da dimensiya da ta fara da wuri. Kuna iya kiran layin taimakonta na awa 24 a kowace rana a 800.272.3900 domin ku tambaya game da ƙungiyoyi da albarkatu."
+  - q: "Shin ya kamata mutumin da ke da dimensiya da ta fara da wuri ya ci gaba da ayyukan da yake jin daɗi?"
+    a: "Eh, muddin suna da aminci kuma yana so. Abubuwan sha’awa, al’ummomin addini, motsa jiki da lokacin zama tare da mutane duk wani ɓangare ne na cikakkiyar rayuwa. Ku daidaita yanayi, ku tafi tare da abokin tafiya kuma ku tsara lokacin hutu, sannan ku daina lokacin da aikin bai ƙara jin daɗi ba."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -46,45 +46,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Yawancin bayanai game da cutar mantuwa suna ɗauka cewa mutum yana da shekaru saba’in ko tamanin. Ga wanda aka gano cutar a shekarunsa arba’in ko hamsin, yanayin rayuwa ta yau da kullun ya bambanta. Yana iya ci gaba da aiki, biyan bashin gida, renon matasa a gida ko kula da iyaye. Ayyuka ya kamata su nuna wannan rayuwa ta manya. Wannan jagorar tana bayanin abin da ya canza, abin da za ku gwada, da inda abokan zama da ’ya’ya manya za su iya samun tallafi.
+Yawancin bayanai game da dimensiya suna ɗauka cewa mutum yana cikin shekarunsa na saba’in ko tamanin. Ga wanda aka gano yana da ita a shekarunsa na arba’in ko hamsin, yanayin yau da kullum ya bambanta. Har yanzu yana iya kasancewa yana da aiki, biyan bashin gida, yara matasa a gida ko iyaye da yake kulawa. Ayyuka ya kamata su girmama wannan rayuwa ta manya. Wannan jagorar tana bayyana abin da ke canzawa, abin da za a gwada, da inda abokan zama da manyan ’ya’ya za su iya samun tallafi.
 
-## Mene ne cutar mantuwa da ta fara da wuri?
+## Mene ne dimensiya da ta fara da wuri?
 
-Cutar mantuwa da ta fara da wuri ita ce cutar mantuwa da ke farawa kafin shekaru 65, wani lokaci ana kiranta da ta fara a ƙuruciyar shekaru. [Rubutun shafin Alzheimer’s Association](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) ya bayyana cutar Alzheimer a matsayin wadda ta fara da wuri idan ta shafi mutum da bai kai shekaru 65 ba, kuma ya nuna cewa kula da mutumin da yake da wannan shekarun „yana zuwa da ƙalubale na musamman“. Alamomin na iya zama iri ɗaya da na daga baya, amma tsammanin mutum, nauyin da yake ɗauka da rayuwarsa ta zamantakewa ba iri ɗaya ba ne.
+Dimensiya da ta fara da wuri ita ce dimensiya da ke farawa kafin shekara 65, wani lokaci ana kiranta da wadda ta fara tun ana matashi ko manya. [Rubutun shafin Alzheimer’s Association](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) yana bayyana cutar Alzheimer a matsayin wadda ta fara da wuri lokacin da ta shafi mutum ƙasa da shekara 65, kuma yana nuna cewa kula da wanda yake da wannan shekaru “yana zuwa da ƙalubale na musamman”. Alamomin na iya zama iri ɗaya da na daga baya a rayuwa, amma tsammanin mutum, nauyin da yake ɗauka da rayuwarsa ta zamantakewa ba iri ɗaya ba ne.
 
-Domin ba ta zama ruwan dare ba, mutane na iya ɗaukar lokaci kafin a gano cutar, kuma iyalai na iya jin cewa ba su da wanda za su yi magana da shi. Sanin cewa wasu mutane suna fuskantar irin wannan yanayi sau da yawa yana ba da kwarin gwiwa.
+Saboda ba ta zama ruwan dare ba, mutane na iya ɗaukar lokaci kafin a gano cutar, kuma iyalai na iya jin ba su da wanda za su yi magana da shi. Sanin cewa akwai wasu mutane da ke raba irin wannan ƙwarewa sau da yawa yana kawo kwanciyar hankali.
 
-## Ku bar manya su kasance cikin aikin
+## Ku bar babban mutum ya kasance a cikin aikin
 
-Manya da ke da cutar mantuwa da ta fara da wuri yawanci ba sa son a ɗauke su kamar yara. [Cibiyar National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ta ba da shawarar daidaita ayyuka da abin da mutum har yanzu zai iya yi kuma yake jin daɗi. Ga mutumin da yake da shekaru hamsin, wannan na iya nufin:
+Manya masu rayuwa da dimensiya da ta fara da wuri galibi ba sa son a ɗauke su kamar yara. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) tana ba da shawarar daidaita ayyuka da abin da mutum har yanzu zai iya yi kuma yake jin daɗi. Ga wanda yake cikin shekarunsa na hamsin, wannan na iya nufin:
 
-- **Ku ci gaba da abin sha’awa da ya saba da shi,** kamar aikin katako, wasa, kati, ƙungiyar karatu ko ƙungiyar waƙa, tare da ɗan taimako ko gajeren lokaci.
-- **Ku yi tafiya ko hawa keke tare da abokin tafiya,** a hanyar da ya sani sosai.
-- **Ku dafa abincin iyali,** yayin da mutumin ya yi sassan da zai iya gudanarwa.
-- **Ku yi aikin sa kai ko taimako** a rawar da ya zaɓa, kamar rarraba gudummawa ko taimakawa a taron makaranta.
-- **Ku shirya tafiya** zuwa wurin da yake da muhimmanci a gare shi, tare da abokin tafiya da jadawali mai sauƙi.
-- **Ku ɗauki lokaci tare da jikoki, ’yan uwa ko ’yan’uwan ’ya’ya,** kuna yin wasa ko aiki tare.
+- **Ku ci gaba da abin sha’awa da ya saba da shi,** kamar aikin katako, wasa, katunan wasa, ƙungiyar karatu ko ƙungiyar waƙa, tare da ɗan taimako ko gajeren lokaci.
+- **Ku yi tafiya ko tuƙin keke tare da abokin tafiya,** a kan hanyar da ya sani sosai.
+- **Ku girka abincin iyali,** inda mutumin zai yi ɓangarorin da zai iya gudanarwa.
+- **Ku yi aikin sa kai ko taimako** a wani aiki da ya zaɓa, kamar rarraba gudummawa ko taimakawa a wani taron makaranta.
+- **Ku tsara tafiya** zuwa wani wuri mai muhimmanci a gare shi, tare da abokin tafiya da jadawali mai sauƙi.
+- **Ku ɗan ɗauki lokaci tare da jikoki, ’yan uwa ko ƴan uwa na kusa,** kuna yin wasa ko aiki tare.
 
-Ku bar mutumin ya zaɓa. Tambayar „Me kuke so ku yi a wannan yammacin?“ ta fi girmamawa fiye da zaɓar masa.
+Ku bar mutumin ya zaɓa. Tambaya kamar “Me kake so ka yi a yammacin yau?” ta fi girmamawa fiye da zaɓar masa.
 
-## Ku yi amfani da kiɗa da tunanin shekarunsu
+## Ku yi amfani da kiɗa da abubuwan tunawa daga shekarunsu
 
-Kiɗa da hotuna daga shekarun mutum na 20, 30 da 40 na iya tayar da jin daɗi da tattaunawa mai sauƙi. Jagorarmu kan [ayyukan kiɗa](/activities/music/) tana bayanin yadda ake shirya jerin waƙoƙi, kuma [ayyukan tunawa da baya](/activities/reminiscence/) suna nuna yadda ake raba hotuna da labarai ba tare da tambayoyi masu kama da jarrabawa ba. Don wasa da ya fi dacewa da manya, ku gwada [katunan tattaunawa](/games/conversation-cards/), tare da buɗaɗɗun tambayoyi game da aiki, tafiye-tafiye, abokai da iyali.
+Kiɗa da hotuna daga shekarun mutum na ashirin, talatin da arba’in na iya tayar da jin daɗi da tattaunawa mai sauƙi. Jagorarmu kan [ayyukan kiɗa](/activities/music/) tana bayyana yadda ake gina jerin waƙoƙi, kuma [ayyukan tunawa da abubuwan baya](/activities/reminiscence/) suna nuna yadda ake raba hotuna da labarai ba tare da tambayoyi masu matsa lamba ba. Don wasa da ya fi dacewa da manya, ku gwada [katunan tattaunawa](/games/conversation-cards/), tare da buɗaɗɗun tambayoyi game da aiki, tafiye-tafiye, abokai da iyali.
 
-Hotunan biyu da aka yi da hotunan iyali kuma na iya dacewa sosai, domin hotunan na mutanen da wuraren da suke da muhimmanci ga mutumin. [Hotunan biyu](/games/photo-pairs/) yana ajiye hotunan a cikin burauza a kan wannan na’urar.
+Hotunan biyu da aka yi daga hotunan iyali su ma na iya yin kyau, domin hotunan na mutanen da wuraren da suke da muhimmanci ga mutum ne. [Hotunan biyu](/games/photo-pairs/) yana ajiye hotunan a cikin burauzar na’urar wancan lokaci.
 
-## Aiki, tuƙi da rayuwa ta yau da kullun
+## Aiki, tuƙi da rayuwar yau da kullum
 
-Mutane da yawa da ke da cutar mantuwa da ta fara da wuri har yanzu suna aiki, tuƙi ko kula da kuɗi. Waɗannan ba ayyuka ba ne a ma’anar yau da kullun, amma suna tsara abin da mutum zai iya yi. Ku yi magana da likitansa game da amincin tuƙi da aiki, kuma ku yi la’akari ko yana son taimako game da kuɗi ko alƙawura. Manufar ita ce kare mutunci tare da barin mutumin ya kasance cikin harkoki gwargwadon yadda yake so.
+Mutane da yawa masu rayuwa da dimensiya da ta fara da wuri har yanzu suna aiki, tuƙi ko kula da kuɗi. Waɗannan ba ayyuka ba ne a ma’anar da aka saba, amma suna tasiri ga abin da mutum zai iya yi. Ku yi magana da likitansu game da tuƙi da amincin aiki, ku kuma yi la’akari da ko suna son taimako da kuɗi ko alƙawura. Manufar ita ce kiyaye mutunci yayin barin mutum ya shiga cikin abubuwa gwargwadon yadda yake so.
 
-Don jagora kan tsarin yau da kullun da ci gaba da motsi, duba [tsarin yau da kullun mai laushi](/activities/daily-routine/) da [ayyukan gida a matsayin ayyuka](/activities/household-tasks/).
+Don jagora kan abubuwan yau da kullum da ci gaba da motsi, duba [tsarin yau da kullum mai laushi](/activities/daily-routine/) da [ayyukan gida a matsayin ayyuka](/activities/household-tasks/).
 
-## Tallafi ga abokan zama da ’ya’ya manya
+## Tallafi ga abokan zama da manyan ’ya’ya
 
-Abokan zama da ’ya’ya manya sau da yawa suna jin kaɗaici. Kulawa na iya zama kamar aiki na biyu a saman aiki da iyali. Rubutun shafin Alzheimer’s Association ya nuna cewa masu kulawa a ƙungiyoyin cutar da ta fara da wuri sun ga suna da amfani ga batutuwa na zahiri kamar shirye-shiryen doka, da kuma jin cewa an fahimce su. Ya kuma nuna cewa ƙungiyar tana da ƙungiyoyin tallafi kyauta ga masu kulawa, har da ƙungiyoyi ga waɗanda ke kula da mutumin da ke da cutar mantuwa da ta fara da wuri, kuma uku daga cikinsu suna haɗuwa ta intanet ranar Talata da Laraba.
+Abokan zama da manyan ’ya’ya sukan ji warewa. Kulawa na iya zama kamar aiki na biyu a kan aiki da iyali. Rubutun shafin Alzheimer’s Association ya nuna cewa masu kulawa a cikin ƙungiyoyin wadanda ke da dimensiya da ta fara da wuri sun ga suna taimakawa wajen al’amura masu amfani kamar shirin doka, da kuma jin an fahimce su. Ya kuma nuna cewa ƙungiyar tana gudanar da ƙungiyoyin tallafi kyauta ga masu kulawa, ciki har da ƙungiyoyi ga mutanen da ke kula da wanda ke da dimensiya da ta fara da wuri, kuma uku daga cikinsu suna taruwa ta yanar gizo a ranakun Talata da Laraba.
 
-Don neman bayani game da ƙungiyoyi, ku kira layin taimakon ƙungiyar na sa’o’i 24 a rana, kwana 7 a mako, a 800.272.3900. Jagorarmu kan [kula da kai ga masu kulawa](/caregiving/caregiver-self-care/) tana magana game da hutu, taimakon ɗan lokaci da alamun gajiya.
+Don neman bayani game da ƙungiyoyi, ku kira layin taimakon ƙungiyar na awa 24 a kowace rana a 800.272.3900. Jagorarmu kan [kulawa da kai ga masu kulawa](/caregiving/caregiver-self-care/) tana magana game da hutu, taimakon ɗan lokaci da alamun gajiya mai yawa.
 
-## Matakan cutar har yanzu suna da muhimmanci
+## Matakai har yanzu suna da muhimmanci
 
-Matakin cutar mantuwa na mutumin har yanzu yana tsara abin da zai taimaka. A farkon mataki, yawancin mutane za su iya yin ayyukansu na yau da kullun tare da wasu canje-canje, kuma jagorarmu kan [ayyuka a farkon mataki](/activities/early-stage/) tana da ƙarin ra’ayoyi. Daga baya, ayyuka suna zama mafi sauƙi kuma sun fi dogaro ga ji da gani, kamar yadda aka bayyana a [ayyuka a mataki na ƙarshe](/activities/late-stage/). Ku canza aikin yayin da mutumin ya canza, kuma ku tambaye shi abin da yake so duk lokacin da zai iya faɗi.
+Matakin dimensiya da mutum yake ciki har yanzu yana tasiri ga abin da ke taimakawa. A farkon lokaci, yawancin mutane na iya yin ayyukansu na yau da kullum tare da wasu canje-canje, kuma jagorarmu kan [ayyuka a matakin farko](/activities/early-stage/) tana da ƙarin ra’ayoyi. Daga baya, ayyuka suna zama masu sauƙi kuma suna dogara fiye da abin da ake ji, gani ko taɓawa, kamar yadda aka bayyana a [ayyuka a matakin ƙarshe](/activities/late-stage/). Ku canza aikin yayin da mutum ya canza, kuma ku tambaye shi abin da yake so duk lokacin da zai iya faɗa.

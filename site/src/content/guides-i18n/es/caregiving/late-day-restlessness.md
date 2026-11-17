@@ -1,34 +1,36 @@
 ---
-title: "Síndrome del atardecer: actividades tranquilas para el final de la tarde"
-seoTitle: "Síndrome del atardecer: actividades tranquilas"
-description: "Rutinas suaves, cambios en el ambiente y actividades tranquilas que pueden aliviar la inquietud del final del día en la demencia, y cuándo llamar al médico."
+title: "Síndrome vespertino: actividades tranquilas por la tarde"
+seoTitle: "Síndrome vespertino: actividades tranquilas"
+description: "Rutinas suaves, cambios en el hogar y actividades tranquilas que pueden ayudar con la inquietud al final del día en la demencia, y cuándo consultar al médico."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  El síndrome del atardecer es la inquietud, la confusión o la irritabilidad
-  que empieza o empeora al final de la tarde o por la noche. Pueden ayudar una
-  rutina diaria estable, luz del día y actividad más temprano, menos siestas
-  tardías, menos cafeína, luces encendidas antes de que oscurezca, una casa más
-  tranquila y actividades calmadas como música, fotos o doblar ropa. Los
-  síntomas nuevos o que empeoran requieren una revisión médica.
+  El síndrome vespertino es la inquietud, la confusión o la irritabilidad que
+  comienza o empeora al final de la tarde o por la noche. Algunas medidas
+  prácticas que pueden ayudar son mantener una rutina diaria estable, recibir
+  luz natural y hacer actividades más temprano, reducir las siestas tardías,
+  tomar menos cafeína, encender luces brillantes en casa antes del atardecer,
+  tener un hogar más tranquilo y hacer actividades calmadas como escuchar
+  música, mirar fotos o doblar la ropa. Si los síntomas son nuevos o empeoran,
+  es necesario que un médico los revise.
 keyPoints:
-  - "El síndrome del atardecer es la inquietud o la confusión que empieza o empeora cuando se va la luz del día."
-  - "Deje las tareas exigentes, las salidas y el baño para la mañana o el comienzo de la tarde."
-  - "La luz del día, una caminata diaria, menos siestas tardías y menos cafeína al final del día pueden ayudar a que las noches sean más tranquilas."
-  - "Encienda las luces antes de que oscurezca, baje el ruido y pase a actividades tranquilas y conocidas."
-  - "Lleve un registro para detectar los desencadenantes, y manténgase tranquilo y sereno cuando empiece la inquietud."
-  - "Consulte al médico si los síntomas son nuevos o empeoran: el dolor, las infecciones o los medicamentos pueden influir."
+  - "El síndrome vespertino es la inquietud o la confusión que comienza o empeora cuando baja la luz del día."
+  - "Haga las tareas exigentes, las salidas y el baño por la mañana o a primera hora de la tarde."
+  - "La luz natural, un paseo diario, menos siestas tardías y menos cafeína al final del día pueden ayudar a que las tardes sean más tranquilas."
+  - "Encienda las luces antes del atardecer, baje el ruido y pase a actividades calmadas y conocidas."
+  - "Lleve un registro para detectar qué lo provoca y mantenga la calma y una actitud tranquilizadora cuando comience la inquietud."
+  - "Consulte al médico si los síntomas son nuevos o empeoran: el dolor, una infección o los medicamentos pueden influir."
 faq:
-  - q: "¿A qué hora suele ocurrir el síndrome del atardecer?"
-    a: "Suele empezar o empeorar al final de la tarde o al comienzo de la noche, cuando se va la luz del día. La hora exacta varía de una persona a otra, por eso puede ayudar llevar un registro breve durante una o dos semanas."
-  - q: "¿Qué actividades ayudan con el síndrome del atardecer?"
-    a: "Las actividades tranquilas, conocidas y de poco esfuerzo suelen funcionar mejor al final de la tarde: música suave, mirar fotos, un programa o una película favorita, doblar ropa, un paseo corto o una merienda juntos. Deje las actividades nuevas o exigentes para más temprano."
-  - q: "¿Puede ser señal de algo médico?"
-    a: "Puede empeorar por problemas de salud como dolor, infecciones (por ejemplo, de las vías urinarias), problemas de sueño o efectos secundarios de medicamentos. Si la inquietud es nueva, repentina o va en aumento, comuníquese con el médico de la persona."
-  - q: "¿Debo preguntarle al médico por un medicamento para el síndrome del atardecer?"
-    a: "Es una conversación para tener con el médico. La Alzheimer's Association dice que, por lo general, se prefieren primero los enfoques sin medicamentos, y que cualquier medicamento para la agitación de la noche debe considerarse solo después de sopesar los riesgos y los beneficios. Esta página no da consejos sobre medicamentos."
+  - q: "¿A qué hora del día suele ocurrir el síndrome vespertino?"
+    a: "Suele comenzar o empeorar al final de la tarde o al comenzar la noche, cuando baja la luz del día. El momento exacto varía de una persona a otra, por eso llevar un registro breve durante una o dos semanas puede ayudar."
+  - q: "¿Qué actividades ayudan con el síndrome vespertino?"
+    a: "Las actividades tranquilas, conocidas y que no requieren mucho esfuerzo suelen funcionar mejor al final de la tarde: música suave, mirar fotos, un programa de televisión o una película favorita, doblar la ropa, dar un paseo corto o tomar un refrigerio juntos. Deje las actividades nuevas o difíciles para más temprano en el día."
+  - q: "¿El síndrome vespertino puede ser señal de algo médico?"
+    a: "Puede empeorar por problemas de salud como dolor, infecciones como las infecciones urinarias, problemas para dormir o efectos secundarios de los medicamentos. Si la inquietud es nueva, repentina o está empeorando, comuníquese con el médico de la persona."
+  - q: "¿Debo preguntarle al médico sobre medicamentos para el síndrome vespertino?"
+    a: "Es una conversación que debe tener con el médico. La Alzheimer's Association indica que, en general, se prefieren primero las opciones sin medicamentos y que cualquier medicamento para la agitación nocturna debe considerarse solo después de sopesar los riesgos y los beneficios. Esta página no ofrece consejos sobre medicamentos."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +49,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Muchas familias notan el mismo patrón: las mañanas son bastante tranquilas, pero a medida que avanza la tarde, la persona que vive con demencia se pone inquieta, ansiosa, confundida o irritable. Puede caminar de un lado a otro, pedir «irse a casa» aunque esté en casa, o alterarse con facilidad. A esto se le suele llamar síndrome del atardecer.
+Muchas familias notan el mismo patrón: las mañanas suelen ser bastante tranquilas, pero a medida que avanza la tarde, la persona que vive con demencia se inquieta, se angustia, se confunde o se irrita. Puede caminar de un lado a otro, pedir «irse a casa» aunque ya esté en casa o alterarse con facilidad. A esto se le suele llamar síndrome vespertino.
 
-No hay una solución única, pero cambios en el ritmo del día, en el ambiente y en el tipo de actividades que ofrece pueden hacer que las tardes sean más tranquilas. Esta página reúne ideas prácticas, no médicas, del National Institute on Aging y de la Alzheimer's Association. No es consejo médico. Si los síntomas son nuevos, repentinos o van empeorando, hable con el médico de la persona.
+No hay una única solución, pero algunos cambios en el ritmo del día, en el espacio y en el tipo de actividades que ofrece pueden ayudar a que las tardes sean más tranquilas. Esta página reúne ideas prácticas, sin medicamentos, del National Institute on Aging y la Alzheimer's Association. No es un consejo médico. Si los síntomas son nuevos, repentinos o están empeorando, hable con el médico de la persona.
 
-## ¿Qué es el síndrome del atardecer?
+## ¿Qué es el síndrome vespertino?
 
-El síndrome del atardecer es la inquietud, la agitación, la irritabilidad o la confusión que empieza o empeora cuando se va la luz del día, al final de la tarde o al comienzo de la noche. El [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) señala que el cansancio excesivo puede aumentar la inquietud del final del día.
+El síndrome vespertino es la inquietud, la agitación, la irritabilidad o la confusión que comienza o empeora cuando baja la luz del día, al final de la tarde o al comenzar la noche. El [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) señala que el cansancio excesivo puede aumentar la inquietud al final del día.
 
-## ¿Qué puede empeorar la inquietud del final del día?
+## ¿Qué puede empeorar la inquietud al final del día?
 
-Varias cosas pueden contribuir, a menudo en conjunto. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) enumera factores como:
+Varias cosas pueden influir, muchas veces al mismo tiempo. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) menciona factores como:
 
-- el agotamiento después de un día largo;
-- un entorno nuevo o confuso;
-- un «reloj interno» desajustado, que deja a la persona con sueño de día y despierta de noche;
-- la poca luz y las sombras, que pueden confundir;
-- percibir el estrés o la frustración de quienes la rodean;
-- necesitar menos horas de sueño, algo común en las personas mayores.
+- agotamiento después de un día largo;
+- entornos nuevos o confusos;
+- un «reloj interno» desajustado, que hace que la persona tenga sueño de día y esté despierta de noche;
+- poca luz y sombras, que pueden resultar confusas;
+- percibir el estrés o la frustración de las personas que la rodean;
+- necesitar dormir menos, algo común en las personas mayores.
 
-El NIA agrega causas de agitación en general, como el dolor, la depresión o el estrés, el descanso insuficiente, el estreñimiento, el exceso de ruido o de gente, y ciertos medicamentos o interacciones entre medicamentos.
+El NIA añade otras posibles causas de agitación en general, como dolor, depresión o estrés, descanso insuficiente, estreñimiento, demasiado ruido o demasiada gente, y ciertos medicamentos o interacciones entre medicamentos.
 
-## ¿Cómo puedo planear el día para que las noches sean más tranquilas?
+## ¿Cómo puedo organizar el día para que las tardes sean más tranquilas?
 
-Pase lo exigente a más temprano y mantenga el final de la tarde suave y predecible. Tanto el NIA como la Alzheimer's Association recomiendan una rutina regular. Un día de ejemplo, para adaptar al suyo:
+Pase las actividades que exigen más a horas más tempranas y mantenga el final de la tarde tranquilo y predecible. Tanto el NIA como la Alzheimer's Association recomiendan una rutina regular. Este es un ejemplo de día que puede adaptar a su situación:
 
-| Hora | Qué puede ayudar |
+| Momento | Qué puede ayudar |
 | --- | --- |
-| Mañana | Citas, baño, salidas y cualquier tarea que requiera esfuerzo, cuando muchas personas están más alertas |
-| Media mañana | Tiempo al aire libre o junto a una ventana soleada; una caminata u otra actividad |
-| Mediodía | Un almuerzo más abundante (la Alzheimer's Association sugiere un almuerzo más grande y una cena más ligera) |
-| Comienzo de la tarde | Descanso si hace falta, pero evite las siestas largas al final del día |
-| Media a última hora de la tarde | Actividades tranquilas y conocidas; una merienda y algo de beber; nada de cafeína |
-| Antes del anochecer | Encienda las luces de adentro y cierre las cortinas antes de que oscurezca |
-| Noche | Una cena más ligera, música suave, poca estimulación, una rutina estable para acostarse |
+| Mañana | Citas, baño, salidas y cualquier tarea que requiera esfuerzo, cuando muchas personas están más despiertas |
+| Final de la mañana | Tiempo al aire libre o junto a una ventana soleada; un paseo u otra actividad |
+| Mediodía | Una comida más abundante (la Alzheimer's Association sugiere un almuerzo más abundante y una cena más ligera) |
+| Primera hora de la tarde | Descansar si hace falta, pero evitar siestas largas al final del día |
+| Media y última parte de la tarde | Actividades tranquilas y conocidas; un refrigerio y algo de beber; sin cafeína |
+| Antes del atardecer | Encender las luces de la casa y cerrar las cortinas antes de que oscurezca |
+| Noche | Una cena más ligera, música tranquila, poca estimulación y una rutina constante para ir a dormir |
 
 Algunos puntos específicos de las fuentes:
 
-- **Luz del día.** El NIA sugiere organizar tiempo afuera o junto a una ventana para recibir la luz del sol cada día.
-- **Movimiento diario, pero no demasiado.** El NIA recomienda procurar que la persona haga actividad física cada día sin planear demasiadas actividades.
-- **Bebidas al final del día.** Evite el alcohol y las bebidas con cafeína, como el café o la cola, hacia el final del día (NIA). La Alzheimer's Association menciona también la nicotina.
-- **Siestas.** Desaconseje las siestas largas y los cabeceos al final del día (NIA). La Alzheimer's Association sugiere limitar las siestas del día si el sueño de la noche es un problema.
+- **Luz natural.** El NIA sugiere organizar tiempo al aire libre o junto a una ventana para recibir luz solar cada día.
+- **Movimiento diario, pero sin excederse.** El NIA recomienda mantenerse activo físicamente cada día sin planear demasiadas actividades.
+- **Bebidas al final del día.** Evite el alcohol y las bebidas con cafeína, como el café o la cola, al final del día (NIA). La Alzheimer's Association también menciona la nicotina.
+- **Siestas.** Evite las siestas largas y dormitar al final del día (NIA). La Alzheimer's Association sugiere limitar las siestas durante el día si dormir de noche es un problema.
 
-Para más ayuda sobre cómo armar un día estable, vea las [actividades de rutina diaria](/activities/daily-routine/).
+Para más ideas sobre cómo crear un día estable, consulte [actividades de rutina diaria](/activities/daily-routine/).
 
-## ¿Cómo hago que la casa esté más tranquila al final de la tarde?
+## ¿Cómo puedo hacer que el hogar sea más tranquilo al final de la tarde?
 
-Reduzca el ruido, agregue luz y mantenga cerca las cosas conocidas.
+Reduzca el ruido, aumente la luz y mantenga cerca objetos conocidos.
 
-- **Luz clara y pareja.** La Alzheimer's Association recomienda mantener la casa bien iluminada por la noche. Ilumine el espacio antes de que aparezcan las sombras.
-- **Menos ruido.** Apague o baje el televisor y la radio, y limite las visitas o las tareas domésticas ajetreadas a esa hora. La Alzheimer's Association sugiere reducir los estímulos de la noche, como el televisor, los quehaceres y la música fuerte.
-- **Consuelos conocidos.** El NIA sugiere música suave y tener a la vista objetos y fotos queridos por toda la casa.
-- **Revisión de la comodidad.** La Alzheimer's Association recomienda comprobar si hay dolor, hambre, sed, estreñimiento, ganas de ir al baño, cansancio, infecciones e irritación de la piel, y mantener el cuarto a una temperatura cómoda.
-- **Su propio ánimo.** Las personas perciben el estrés. El NIA sugiere bajar el ritmo y tratar de relajarse si sus propias preocupaciones pueden estar aumentando la tensión.
+- **Iluminación brillante y uniforme.** La Alzheimer's Association recomienda mantener la casa bien iluminada por la noche. Encienda las luces antes de que aparezcan las sombras.
+- **Menos ruido.** Apague o baje el volumen de la televisión y la radio, y limite las visitas o las tareas domésticas ajetreadas en ese momento. La Alzheimer's Association sugiere reducir la estimulación por la noche, como la televisión, las tareas del hogar y la música alta.
+- **Objetos que den tranquilidad.** El NIA sugiere poner música suave y mantener en casa objetos y fotos queridos.
+- **Comprobar el bienestar.** La Alzheimer's Association recomienda revisar si hay dolor, hambre, sed, estreñimiento, necesidad de ir al baño, cansancio, infecciones o irritación en la piel, y mantener la habitación a una temperatura agradable.
+- **Su propio estado de ánimo.** Las personas perciben el estrés. El NIA sugiere ir más despacio e intentar relajarse si sus propias preocupaciones pueden estar aumentando la tensión.
 
 ## ¿Qué actividades tranquilas podemos hacer al final de la tarde?
 
-Elija actividades conocidas, sin prisa y fáciles de dejar. La Alzheimer's Association sugiere actividades calmantes como música tranquila, fotos o una película favorita, y un paseo juntos para aliviar la inquietud. El NIA sugiere una merienda o algo de beber, un programa de televisión favorito, música, un paseo, leer o una tarea doméstica sencilla como doblar ropa.
+Elija actividades conocidas, sin prisas y fáciles de dejar. La Alzheimer's Association sugiere actividades relajantes como música tranquila, fotos o una película favorita, y dar un paseo juntos para aliviar la inquietud. El NIA sugiere un refrigerio o algo de beber, un programa de televisión favorito, música, un paseo, leer o una tarea doméstica sencilla como doblar la ropa.
 
-Ideas para probar:
+Ideas que puede probar:
 
-1. **Doblar ropa juntos.** El NIA sugiere este tipo de tarea doméstica sencilla. Las toallas son fáciles de manejar y la tarea tiene un final claro.
-2. **Poner su música favorita.** Canciones conocidas de su juventud, a poco volumen. Tararear también cuenta. Hay más ideas en las [actividades con música](/activities/music/).
-3. **Mirar fotos.** Un álbum de fotos, o unas pocas imágenes familiares en [Parejas de fotos](/games/photo-pairs/) con las imágenes a la vista, pueden llevar a una conversación tranquila.
+1. **Doblar la ropa juntos.** El NIA sugiere este tipo de tarea doméstica sencilla. Las toallas son fáciles de manejar y la tarea tiene un final claro.
+2. **Poner música favorita.** Canciones conocidas de su juventud, a bajo volumen. Tararear también vale. Más ideas en [actividades con música](/activities/music/).
+3. **Mirar fotos.** Un álbum de fotos o algunas fotos familiares en [Photo Pairs](/games/photo-pairs/) con las imágenes a la vista pueden dar lugar a una conversación tranquila.
 4. **Dar un paseo corto.** Por el jardín, la cuadra o un pasillo, antes de que oscurezca.
-5. **Compartir una merienda y algo de beber.** Algo sencillo, tibio y sin cafeína, juntos en la mesa.
-6. **Parejas suaves.** [Parejas de imágenes](/games/picture-pairs/) con cuatro casillas y las imágenes a la vista es fácil de empezar y fácil de dejar.
-7. **Colorear.** [Dibujos para colorear](/games/coloring/) en la pantalla o en una hoja impresa, sin la meta de terminar.
-8. **Mirar y conversar.** Las [Tarjetas de conversación](/games/conversation-cards/) ofrecen una imagen y una pregunta abierta. Con solo mirar basta.
-9. **Una pausa para respirar.** [Respiración tranquila](/games/calm-breathing/) es una pausa lenta y silenciosa que usted mismo empieza y termina.
-10. **Tareas con las manos.** Ordenar botones o calcetines, alisar una manta suave o sostener un objeto conocido. Vea las [actividades sensoriales](/activities/sensory/).
+5. **Compartir un refrigerio y algo de beber.** Algo sencillo, tibio y sin cafeína, juntos en la mesa.
+6. **Un juego suave de parejas.** [Picture Pairs](/games/picture-pairs/) con cuatro fichas y las imágenes a la vista es fácil de empezar y fácil de dejar.
+7. **Colorear.** [Coloring](/games/coloring/) en la pantalla o en una hoja impresa, sin la meta de terminar.
+8. **Mirar y conversar.** [Conversation Cards](/games/conversation-cards/) ofrece una imagen y una pregunta abierta. Solo mirar también es suficiente.
+9. **Una pausa para respirar.** [Calm Breathing](/games/calm-breathing/) es una pausa lenta y tranquila que usted empieza y termina cuando quiere.
+10. **Actividades con las manos.** Separar botones o calcetines, alisar una manta suave o sostener un objeto conocido. Consulte [actividades sensoriales](/activities/sensory/).
 
-Evite los juegos nuevos, las salidas ajetreadas y todo lo que exija mucha memoria o concentración al final del día. Déjelos para la mañana.
+Evite juegos nuevos, salidas con mucha actividad y cualquier cosa que pida mucha memoria o concentración al final del día. Déjelo para la mañana.
 
-## ¿Qué debo hacer cuando empieza la inquietud?
+## ¿Qué debo hacer cuando comienza la inquietud?
 
-Mantenga la calma, tranquilice y redirija con suavidad. El NIA sugiere hablar con calma, escuchar las inquietudes de la persona, evitar las discusiones, asegurarle que está a salvo y usar un contacto suave si ayuda. Luego pruebe una distracción: una merienda, algo de beber, música o un paseo.
+Mantenga la calma, tranquilice a la persona y redirija con suavidad. El NIA sugiere hablar con calma, escuchar lo que le preocupa a la persona, evitar discutir, recordarle que está en un lugar seguro y usar un contacto suave si ayuda. Después, intente distraerla: con un refrigerio, algo de beber, música o un paseo.
 
-La Alzheimer's Association sugiere frases como «Aquí está a salvo» y «Siento que se haya molestado», y aconseja encender más luz, bajar el ritmo y limitar los estímulos. No acorrale a la persona, no se le encime, no la sujete ni discuta con ella.
+La Alzheimer's Association sugiere frases como «Está en un lugar seguro» y «Siento que se sienta así», y recomienda añadir luz, ir más despacio y limitar la estimulación. No arrincone, agobie ni sujete a la persona, ni discuta con ella.
 
-Si la persona se vuelve agresiva, el NIA aconseja mantenerse a una distancia segura hasta que cese la conducta. En una emergencia, llame al número local de emergencias y explique que la persona tiene demencia.
+Si la persona se vuelve agresiva, el NIA aconseja mantenerse a una distancia segura hasta que la conducta se calme. En una emergencia, llame al 911 y explique que la persona vive con demencia. Nuestra [guía para responder al enojo y la agresión](/caregiving/when-anger-becomes-aggression-with-dementia/) trata sobre la seguridad inmediata y qué hacer después.
 
-Nuestras guías sobre [comunicación](/caregiving/communication-tips/) y [qué hacer cuando dicen que no](/caregiving/when-they-say-no/) tienen más sobre palabras que calman.
+Nuestras guías sobre [comunicación](/caregiving/communication-tips/) y [qué hacer cuando dice que no](/caregiving/when-they-say-no/) tienen más ideas sobre palabras que pueden ayudar a calmar.
 
-## ¿Cómo encuentro los desencadenantes?
+## ¿Cómo puedo identificar qué lo provoca?
 
-Lleve un registro breve durante una o dos semanas. La Alzheimer's Association recomienda anotar lo que ocurre antes de los episodios del atardecer para identificar los desencadenantes. Anote la hora en que empezó la inquietud, lo que pasó en la hora anterior, las siestas, las comidas y las bebidas, las visitas, el ruido y la luz. Lleve el registro al médico. El NIA señala que llevar la cuenta de los cambios de conducta puede ayudar a los cuidadores y a los profesionales de la salud a reconocer un patrón.
+Lleve un registro breve durante una o dos semanas. La Alzheimer's Association recomienda anotar lo que ocurre antes de los episodios de síndrome vespertino para identificar qué los provoca. Anote la hora en que comenzó la inquietud, qué pasó en la hora anterior, las siestas, las comidas y bebidas, las visitas, el ruido y la luz. Lleve el registro al médico. El NIA señala que llevar un registro de los cambios de conducta puede ayudar a quienes cuidan y a los profesionales de la salud a reconocer un patrón.
 
-## ¿Cuándo debo llamar al médico por el síndrome del atardecer?
+## ¿Cuándo debo llamar al médico por el síndrome vespertino?
 
-Comuníquese con el médico de la persona si la inquietud es nueva, empeora de repente o viene acompañada de otros cambios. El NIA dice que los cambios de conducta repentinos o que fluctúan con rapidez, sobre todo después de una infección o de cambios recientes de medicamentos, deben comunicarse al médico de inmediato.
+Comuníquese con el médico de la persona si la inquietud es nueva, empeora de repente o aparece junto con otros cambios. El NIA indica que los cambios de conducta repentinos o que varían rápidamente, sobre todo después de una infección o de cambios recientes en los medicamentos, deben comunicarse al médico de inmediato.
 
-Pídale al médico que revise las cosas que pueden hacer más difíciles las noches. La Alzheimer's Association menciona problemas físicos como las infecciones urinarias, la incontinencia, el síndrome de piernas inquietas y la apnea del sueño, y sugiere preguntar cuáles son las mejores horas del día para cada medicamento. El NIA incluye el dolor, el estreñimiento y los efectos secundarios o interacciones de los medicamentos entre las posibles causas de agitación.
+Pida al médico que revise cosas que pueden dificultar las tardes. La Alzheimer's Association menciona problemas físicos como infecciones urinarias, incontinencia, síndrome de piernas inquietas y apnea del sueño, y sugiere preguntar cuáles son los mejores momentos del día para cada medicamento. El NIA incluye el dolor, el estreñimiento y los efectos secundarios o las interacciones de los medicamentos entre las posibles causas de agitación.
 
-La Alzheimer's Association dice que, por lo general, se prefieren los enfoques sin medicamentos para los problemas de sueño vinculados con el alzhéimer, y que el medicamento para la agitación del final del día debe considerarse solo si esos enfoques fallan, después de sopesar los riesgos y los beneficios. Esa decisión corresponde al médico. No empiece, suspenda ni cambie ningún medicamento, somnífero ni suplemento sin consejo médico.
+La Alzheimer's Association indica que, en general, se prefieren las opciones sin medicamentos para los problemas de sueño relacionados con el Alzheimer, y que los medicamentos para la agitación al final del día deben considerarse solo si esas opciones no funcionan, después de sopesar los riesgos y los beneficios. Esa decisión le corresponde al médico. No empiece, suspenda ni cambie ningún medicamento, ayuda para dormir o suplemento sin consejo médico.
 
-## ¿Cómo sobrellevo yo las noches?
+## ¿Cómo puedo sobrellevar las tardes yo mismo?
 
-Los finales de la tarde pueden ser la parte más difícil del día de un cuidador. Si puede, pida a un familiar, un amigo o un ayudante pagado que cubra el final de la tarde algunos días por semana, aunque sea por una hora. Nuestra guía de [cuidarse al cuidar](/caregiving/caregiver-self-care/) enumera opciones de relevo y la línea de ayuda gratuita de la Alzheimer's Association, atendida 24/7 (en EE. UU.); si vive en otro país, busque un servicio parecido en su asociación de alzhéimer.
+Las últimas horas de la tarde pueden ser la parte más difícil del día para quien cuida. Si puede, pida a un familiar, una amistad o una persona que brinde apoyo remunerado que se encargue del final de la tarde algunos días a la semana, aunque sea por una hora. Nuestra guía sobre [el autocuidado de quien cuida](/caregiving/caregiver-self-care/) incluye opciones de respiro y la línea de ayuda gratuita, disponible las veinticuatro horas del día, los siete días de la semana, de la Alzheimer's Association.

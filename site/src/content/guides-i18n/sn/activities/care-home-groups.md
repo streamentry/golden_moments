@@ -1,33 +1,35 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Zviitwa zveMapoka zveDementia: Nhungamiro"
+seoTitle: "Zviitwa zveMapoka zveDementia: Bingo, Nziyo, Nyaya"
+description: "Zviitwa zvemapoka zvevanhu vanorarama nedementia: bingo yemifananidzo, kuimba pamwe chete nenyaya dzekurangarira, nemazano ekugara nekukura kweboka."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Zviitwa zvakanaka zvemapoka munzvimbo dzekuchengeta vanhu vane dementia
+  nemumapurogiramu emasikati evakuru zvinopfupika, zvine kujaira uye zviri
+  nyore kupinda mazviri pamwero upi zvawo: bingo yemifananidzo, kuimba pamwe
+  chete, mapoka ekurangarira, kufamba kuri nyore nemitambo yemashoko
+  inoitwa pamwe chete. Chengetai mapoka ari madiki pazvinogoneka, garisai vanhu
+  kuitira kuti munhu wese aone nekunzwa, ipai danho rimwe rakajeka panguva,
+  uye rongerai basa riri nyore nenzira yakanyarara yekubuda kune ani nani
+  anoida.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Mapoka madiki anowanzo shanda zviri nani pane chiitiko chimwe chikuru, uye anopa vanhu vazhinji mukana wekutora rutivi pane kungoona chete."
+  - "Garisai vanhu mudenderedzwa kana muchimiro chebhiza, pedyo nemutungamiriri, muchifunga nezvekunzwa nekuona uye muchidzima ruzha rwuri kumashure."
+  - "Rongerai chiitiko chega chega pamwero miviri kana mitatu kuitira kuti vanhu vane kugona kwakasiyana vagone kutora rutivi vose."
+  - "Dzivisai kubvunza mibvunzo yebvunzo, zvibodzwa nevakundi. Bingo yemifananidzo inogona kutambwa kusvika munhu wese apedza kadhi rake."
+  - "Kubuda nguva isati yakwana, kungotarisa, kana kutsumwaira zvakanaka. Ivai nenhengo yevashandi yakagadzirira kubatsira ani nani anoda nzvimbo yakanyarara."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Boka rezviitwa zvevanhu vanorarama nedementia rinofanira kuva rakakura sei?"
+    a: "Hapana nhamba imwe chete yakarurama, uye zvinoenderana nevagari, kamuri uye kuti mune vashandi vangani. Zvikwata zvakawanda zvinoona kuti mapoka madiki anoita kuti munhu wese aone, anzwe uye atore rutivi, nepo zviitiko zvemukamuri hombe zvichiwanzosiya vanhu vazhinji vachingoona. Kana muchiitisa chiitiko chikuru, wedzerai vashandi kana vanozvipira vanogona kugara pakati pevagari vachibatsira munhu mumwe kana vaviri mumwe nemumwe."
+  - q: "Ndingatungamirire sei boka rine vanhu vane kugona kwakasiyana?"
+    a: "Rongerai nzira dzinopfuura imwe dzekupinda muchiitiko chega chega. Pakuimba pamwe chete, vamwe vanoimba mashoko ose, vamwe vanorova maoko kana kuimba neinzwi rakadzikama, uye vamwe vanobata chinoridzwa chinozununguswa. Mubingo yemifananidzo, vamwe vanhu vanozvitsvagira mifananidzo yavo vamene asi mubatsiri anonongedzera vamwe. Garisai vanhu vanoda rubatsiro rwakawanda pedyo nenhengo yevashandi kana anozvipira."
+  - q: "Ndingatamba sei bingo yemifananidzo ndisingaiiti yemakwikwi?"
+    a: "Danai mufananidzo wega wega kusvika kadhi remunhu wese razara, kuitira kuti pasave nemunhu anosiiwa. Taurai nezvemufananidzo wega wega paunobuda, uye regai kupa mibairo kuvakundi kana ipai munhu wese chinhu chimwe chidiki chakafanana. Chinangwa ndechekutarisa pamwe chete nekukurukurirana, kwete kuti ndiani apedza pekutanga."
+  - q: "Ndingashandisa mitambo yenyu pachiratidziro chikuru muboka here?"
+    a: "Hongu. Mitambo yedu inoshanda mubrowser yewebhu, saka munogona kuivhura palaptop kana patablet yakabatana neTV kana purojekita. Picture Bingo ine makadhi anodhindwa nemudani ari pachiratidziro. Finish the Saying nePicture Pairs zvinoshandawo zvakanaka pachiratidziro chikuru nemunhu mumwe achibaya achimiririra boka."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +54,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Nhungamiro iyi ndeyevatungamiriri vezviitwa, zvikwata zvekuchengeta vanhu vane dementia nevatungamiriri vemapurogiramu emasikati evakuru. Inotaura nezvemhando dzezviitwa zvemapoka zvinoshanda, kurongeka kwekamuri, kugadzirisa chiitiko chimwe kuitira vanhu vane kugona kwakasiyana, uye kushandisa makadhi edu ebingo anodhindwa nemitambo yepachiratidziro chikuru. Zvose zviri pano zvakanangana nokunyaradzwa, kubatana nesarudzo. Hapana pano chinova bvunzo.
 
-## What makes a group activity work in memory care?
+## Chii chinoita kuti chiitiko cheboka chishande pakuchengeta vanhu vane dementia?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Chiitiko cheboka chakanaka chine kujaira, chipfupi, chiri nyore kupinda machiri pamwero upi zvawo uye chisina kumanikidza. [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) yeAlzheimer's Association inotsanangura kutora rutivi kune zvazvinoreva sechinhu chinotsigira zvido nezvinodiwa nemunhu uye chinobvumira sarudzo nekubudirira, kunyange kana dementia yakanyanya kuoma. Gwaro rimwe chetero rinoti mapurogiramu echinyakare anowanzo vimba nechikamu chimwe kana zviviri zvikuru zveboka pazuva umo vagari vanowanzongotora rutivi zvishoma.
 
-That points to a few practical rules:
+Izvi zvinotipa mitemo mishoma inoshanda:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Zvinozivikanwa zviri nani pane zvitsva.** Nziyo, zvirevo, mifananidzo nezvinhu zvenguva yehudiki hwevagari zviri nyore kupinda mazviri.
+- **Zvipfupi zviri nani pane zvirefu.** Rongerai nguva inoenderana nekutarisa kunowanzoita boka renyu, muine nzvimbo yekumira iri nyore pakati.
+- **Kuita kuri nani pane kungoona.** Ipai munhu wese chinhu chekubata, kubaya, kusarudza kana kutaura.
+- **Mwero yakawanda, chiitiko chimwe.** Isai nzira dziri nyore nedzakaoma dzekutora rutivi.
+- **Hapana vakundi, hapana zvibodzwa.** Zviitwa zvemakwikwi zvinoita kuti vamwe vanhu vanzwe sekuti vakundikana.
 
-## How big should the group be?
+## Boka rinofanira kuva rakakura sei?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Mapoka madiki anowanzoita nyore. Alzheimer's Association inoti munhu anoona kuungana kukuru kuchirema anogona kubatana zviri nani muboka diki. Hapana nhamba imwe chete yakarurama. Zvinoenderana nevagari, kamuri uye kuti vashandi nevanozvipira vangani varipo.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Muedzo unoshanda: munhu wese anogona kuona chiso chemutungamiriri, kunzwa zvakajeka uye kusvika nemubatsiri mumasekonzi mashoma here? Kana zvisingadaro, patsanurai boka, wedzerai vabatsiri, kana endai mukamuri diki.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Pachiitiko chikuru, sekonzati yezororo, garisai vashandi nevanozvipira pakati pevagari, kwete kumadziro.
 
-## How should I set up the room and seating?
+## Ndingaronga sei kamuri nekugara kwevanhu?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Denderedzwa kana chimiro chebhiza.** Kurudziro dzekuchengetedza dzinotsanangura denderedzwa rekutaura senzvimbo yakanaka kana paine nzvimbo yakakwana yekuti munhu wese agare mudenderedzwa, pasina ruzha rwuri kumashure.
+- **Mutungamiriri ave pedyo uye akaenzana nemaziso.** Garai pasi pane kumira pazvinogoneka.
+- **Kunzwa nekuona kutanga.** Garisai vanhu vane dambudziko rekunzwa pedyo nemutungamiriri, kudivi ravo rinonzwa zviri nani. Ivai nechokwadi chekuti magirazi nemidziyo yekubatsira kunzwa zvakapfekwa. Alzheimer's Association inoti matambudziko ekuona nekunzwa anogona kuita kuti kutaurirana kuome.
+- **Chiedza chibve kumashure kwevagari, kwete kumashure kwenyu.** Dzivisai kugadza munhu akatarisa pahwindo rine chiedza chakawanda.
+- **Dzima TV neredhiyo.** Alzheimer's Association inokurudzira kubvisa ruzha runokwikwidza panguva yezviitwa zvemimhanzi.
+- **Hurukuro imwe panguva.** Kutaura panguva imwe chete kwakaoma kuvanhu vanorarama nedementia nekuvanhu vane dambudziko rekunzwa, sezvinotsanangurwa neAlzheimer's Association mu[nhungamiro yayo yezororo](https://www.alz.org/help-support/caregiving/holidays).
+- **Mabudiro akajeka nekona yakanyarara.** Ani nani anoda kubuda anofanira kukwanisa kuzviita zviri nyore, aine nhengo yevashandi yekufamba naye.
 
-## Group activity ideas
+## Mazano ezviitwa zvemapoka
 
-### Picture bingo
+### Bingo yemifananidzo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo yemifananidzo inotsiva nhamba nemifananidzo yakajeka, sekiti yetii, imbwa kana ruva rerose, kuitira kuti pasave nemunhu anofanira kurangarira nhamba refu kana kuverenga mavara madiki.
 
-**How to run it:**
+**Maitirwo azvo:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Dhindai kadhi rimwe pamunhu kubva papeji redu re[Picture Bingo](/games/picture-bingo/) muchishandisa bhatani rePrint. Pepa gobvu riri nyore kubata. Rinamatei nepurasitiki kuti rishandiswe zvakare.
+2. Ipai zviratidzo zvikuru zviri nyore kunhonga, semachipisi epoker, zvivharo zvemabhodhoro kana zvidimbu zvemakadhibhokisi zvakachekwa.
+3. Shandisai mudani ari pachiratidziro paTV kana purojekita kuitira kuti munhu wese aone mufananidzo pamunotaura zita rawo.
+4. Mirai mushure memufananidzo wega wega uye kokai kutaura kupfupi: “Pane angada kutiudza nezvembwa yaaiziva here?” kana “Chii chamunoona pamufananidzo uyu?”
+5. Ramba muchidana kusvika kadhi rose razara. Munhu wese anopedza.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Kugadzirisa:** Shandisai zvidimbu zvishoma kune vanhu vanoona kadhi rakazara richirema. Mubatsiri anogona kunongedzera mufananidzo unoenderana nemunhu anoida. Vamwe vanhu vangada kubata kadhi remufananidzo remudani voriratidza boka.
 
-### Sing-alongs
+### Kuimba pamwe chete
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Mimhanzi ndechimwe chezviitwa zvemapoka zvinofarirwa zvakanyanya. Alzheimer's Association inoti kunyange mumatanho ekupedzisira, munhu anogona kukwanisa [kuridza mutinhimira kana kuimba rwiyo rwehudiki](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Maitirwo azvo:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Sarudzai nziyo dzakakurira nadzo vagari, kwete dzinofarirwa nemutungamiriri. Bvunzai mhuri kuti munhu wese aifarira chii.
+- Shandisai mimhanzi isina kushambadzira, izvo sangano rinoti zvinogona kuvhiringa.
+- Dhindai mashoko enziyo nemavara makuru kune avo vanoverenga, asi musazvimanikidze.
+- Ipai zvinoridzwa zvinozununguswa, ngoma diki dzemaoko kana machira ekuzunguza.
+- Kurudzirai kurova maoko nekufamba, uye chengetai inzwi riri pamwero wakasununguka.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Kugadzirisa:** Vamwe vanhu vachaimba mashoko ose, vamwe vachaimba neinzwi rakadzikama, vamwe vacharova tsoka, uye vamwe vachangoteerera. Zvose izvi zvinokosha. Onai [nhungamiro yedu yezviitwa zvemimhanzi](/activities/music/) kuti muwane zvimwe.
 
-### Reminiscence groups
+### Mapoka ekurangarira
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Boka rekurangarira rinoungana pachidzidzo chimwe, semazuva echikoro, mota dzekutanga, makicheni kana zhizha, richishandisa mifananidzo, zvinhu nemimhanzi. Chinangwa ndechekukurukurirana kunofadza, kwete kurangarira chaiko.
 
-**How to run it:**
+**Maitirwo azvo:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Sarudzai dingindira rimwe uye uyai nezvinhu zvishoma zvinogona kubatwa nevanhu: muchina wekusanganisa nemaoko, girovhosi rebaseball, ngowani, kabhuku kembeu.
+2. Pfuurai chinhu chimwe panguva. Bvunzai mibvunzo yakasununguka: “Ndiudzei nezvechinhu ichi,” “Chii chamunoona?” “Ndiani aishandisa chinhu chakaita seichi?”
+3. Gamuchirai mhinduro yose. Musambogadzirisa zuva kana chokwadi.
+4. Tungamirirai hurukuro kuendesa kundangariro dzinofadza. Kurudziro dzekuchengetedza dzinoti vanopa rubatsiro vanofanira kutungamirira kurangarira kuendesa kundangariro dzakanaka kwete dzinogona kukonzera kushungurudzika.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) inopa makadhi emifananidzo anodhindwa ane mibvunzo yakasununguka nedingindira anoshanda zvakanaka sevatangisi vehurukuro. Mazano akawanda ari mu[nhungamiro yedu yekurangarira](/activities/reminiscence/).
 
-### Finish the saying
+### Pedzisa chirevo
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Zvirevo zvinozivikanwa (“Chiripo chiri mumawoko...”) zvinokoka munhu wese kuti adaidze magumo acho pamwe chete. Ratidzai [Finish the Saying](/games/finish-the-saying/) pachiratidziro chikuru uye regai boka ripindure nezwi rimwe. Pane mubvunzo wekukurukurirana mushure mechirevo chega chega. Kana pasina anotaura magumo acho, aratidzei moenderera mberi. Hapana chakarurama kana chisina kururama.
 
-### Large-print word search, together
+### Kutsvaga mazwi nemavara makuru, pamwe chete
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Ratidzai [Word Search](/games/word-search/) ine mavara makuru pachiratidziro uye tsvagai mazwi seboka, kana dhindai makopi kune avo vanofarira kushanda vega patafura. Mazwi anongofamba akachinjika uye pasi chete.
 
-### Gentle movement
+### Kufamba kwakapfava
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Kutambanudza makagara, kupfuudza bhora rakapfava kana bharumu, kana kutamba makagara nemimhanzi inozivikanwa. Ratidzai kufamba kwega kwega pane kukutsanangura.
 
-### Sorting and matching at the table
+### Kuronga nekuenzanisa patafura
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Matafura madiki evanhu vatatu kana vana anogona kuronga mifananidzo, zvidimbu zvemachira kana midziyo yesirivha pamwe chete. Pachiratidziro, [Picture Pairs](/games/picture-pairs/) inogona kutambwa nemifananidzo yakasiiwa yakavhurika, nemunhu mumwe achibaya apo tafura ichitaura nezvemufananidzo wega wega.
 
-## How do I use your games on a big screen?
+## Ndingashandisa sei mitambo yenyu pachiratidziro chikuru?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Mitambo yedu inoshanda mubrowser yewebhu, saka munogona kuishandisa paTV kana purojekita musina kuisa chero chinhu.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Vhurai mutambo palaptop kana patablet yakabatana nechiratidziro netambo kana nekukanda (casting).
+2. Itai kuti browser izare pachiratidziro uye gadzirai ruzha kuti ruve pamwero wakasununguka.
+3. Ivai nemutungamiriri mumwe anoita zvekubaya apo boka richidana sarudzo. Kana pfuurirai tablet kumunhu anogara nedementia anoda kutora mukana wake.
+4. Mirai chero nguva boka ragadzirira. Mitambo haina nguva inoverengwa, zvibodzwa kana kumanikidzwa kupedza.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) ne[Conversation Cards](/games/conversation-cards/) zvinowanzo fanira mapoka zvakanyanya. Onai sarudzo dzose papeji redu re[mitambo](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Ndingagadzirisa sei chiitiko chimwe kuitira vanhu vane kugona kwakasiyana?
 
-Plan at least three ways to join every activity.
+Rongerai nzira dzinosvika nhatu dzekupinda muchiitiko chega chega.
 
-| Activity | More independent | Some support | Most support |
+| Chiitiko | Kuzvimiririra zvakanyanya | Nerubatsiro rushoma | Nerubatsiro rwakawanda |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo yemifananidzo | Anotsvaga nekufukidza mifananidzo yake | Mubatsiri anonongedzera; munhu anofukidza | Anobata kadhi remufananidzo; anoteerera nekutarisa |
+| Kuimba pamwe chete | Anoimba, anosarudza rwiyo runotevera | Anoimba neinzwi rakadzikama, anorova maoko, anoshandisa chinoridzwa | Anoteerera, anobata jira, anorova ruoko |
+| Kurangarira | Anotaura nyaya | Anopindura hongu kana kwete kana anonongedzera | Anobata nekubata-bata chinhu |
+| Kutsvaga mazwi | Anoshanda pakopi yake yakadhindwa | Anotsvaga mazwi pachiratidziro chikuru nemubatsiri | Anoteerera mazwi achiverengwa |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Kune vagari vari mumatanho ekupedzisira, NHS inoti zviitwa zvinowanzoda kuva nyore uye kutarisa zvakanyanya panzwisiso, semimhanzi, zvinhu zvekubata nekukwiza maoko. Nguva yemunhu mumwe panguva yeboka kana mushure maro inogona kumukodzera zviri nani pane boka pacharo. Onai [zviitwa zvematanho ekupedzisira](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Vatungamiriri vanofanira kutaura sei panguva yeboka?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Zvizivisei nguva dzose, uye shandisai zita rinodiwa nemunhu wese.
+- Taurai zvishoma nezvishoma, ipai danho rimwe panguva, uye ratidzai musati mataura.
+- Bvunzai kukoka kwakasununguka (“Ndiudzei nezve...”) kana sarudzo dziri nyore, kwete mibvunzo yebvunzo (“Munoyeuka here...?”).
+- Musagadzirisa. Tendai vanhu pamupiro wose.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Zvimwe pamusoro peizvi zviri mu[mazano edu ekutaurirana](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Kupedza zvakanaka, uye kurega vanhu vachibuda
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Kumira mhedzisiro yakanaka. Tarisisai zviratidzo zvekuti munhu aneta, haagari zvakanaka kana kuti akatsamwa, uye ivai nemubatsiri anopa kufamba kana chigaro chakanyarara kune imwe nzvimbo. Munhu anotsumwaira panguva yekuimba pamwe chete anogona kunge achingonzwa akasununguka.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Vharai boka rose nenzira imwe chete, nerwiyo runozivikanwa kana kutenda kuri nyore, kuitira kuti magumo anzwe akadzikama uye anotarisirwa. Mushure mezvo, nyorai pasi zvakashanda uye kuti ndiani akafarira chii. Zvinyorwa izvozvo zvinoita kuti musangano unotevera uve nani.

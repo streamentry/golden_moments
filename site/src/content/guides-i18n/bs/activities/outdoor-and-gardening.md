@@ -1,33 +1,33 @@
 ---
-title: "Aktivnosti na otvorenom i vrtlarenje za osobe s demencijom"
-seoTitle: "Vrtlarenje i aktivnosti na otvorenom za demenciju"
-description: "Ideje za vrtlarenje i boravak na otvorenom za osobe koje žive s demencijom, uz podignute gredice, saksije i savjete o vrućini, suncu i lutanju."
+title: "Vrtlarstvo i aktivnosti na otvorenom uz demenciju"
+seoTitle: "Vrtlarstvo i aktivnosti na otvorenom uz demenciju"
+description: "Ideje za vrtlarstvo i boravak na otvorenom za osobe koje žive s demencijom, uz povišene gredice, posude i savjete za vrućinu, sunce i lutanje."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Vrtlarenje i boravak na otvorenom mogu biti smirena, poznata aktivnost za
-  osobu koja živi s demencijom. Pokušajte zalijevati biljke, saditi začinsko
-  bilje, uklanjati uvelo cvijeće ili kratko prošetati ogradnjenim dvorištem.
-  Koristite podignute gredice ili stol da niko ne mora klečati, izbjegavajte
-  oštre alate i otrovne biljke, izlazite u hladniji dio dana i uvijek budite uz
-  osobu.
+  Vrtlarstvo i vrijeme provedeno na otvorenom mogu biti mirna i poznata
+  aktivnost za osobu koja živi s demencijom. Isprobajte zalijevanje, sadnju
+  začinskog bilja u posude, uklanjanje uvelog cvijeća ili kratku šetnju u
+  ograđenom dvorištu. Koristite povišene gredice ili sto kako niko ne bi
+  morao klečati, izbjegavajte oštar alat i otrovne biljke, izlazite u
+  hladnijem dijelu dana i uvijek ostanite uz osobu.
 keyPoints:
-  - "Jednostavni vrtlarski poslovi, kao što su zalijevanje, sadnja sjemena, mirisanje začinskog bilja i branje cvijeća, mogu se raditi stojeći ili sjedeći."
-  - "Podignute gredice, saksije i pokriven stol donose baštu do visine struka i smanjuju rizik od pada."
-  - "Izbjegavajte oštre alate, biljke s trnjem ili koje nadražuju kožu i sve što je otrovno. Pazite da zemlja ne bude zamijenjena za hranu."
-  - "Vrućina može biti opasna za starije osobe. Izlazite rano ujutro ili kasno popodne, ponesite vodu i hlad, i vratite se unutra čim primijetite nelagodu."
-  - "Mnoge osobe koje žive s demencijom s vremena na vrijeme lutaju. Budite uz osobu na otvorenom i imajte pri ruci nedavnu fotografiju i ličnu kartu ili ID narukvicu."
+  - "Jednostavni poslovi u bašti, poput zalijevanja, sadnje sjemena u posude, mirisanja začinskog bilja i branja cvijeća, mogu se raditi stojeći ili sjedeći."
+  - "Povišene gredice, posude i natkriveni sto podižu baštu do visine struka i mogu smanjiti rizik od padova."
+  - "Izbjegavajte oštar alat, biljke s trnjem ili one koje iritiraju kožu, kao i sve otrovno. Pazite da zemlja ne bude zamijenjena za hranu."
+  - "Vrućina može biti opasna za starije osobe. Izlazite rano ili kasnije, ponesite vodu i osigurajte hlad, te uđite unutra čim primijetite nelagodu."
+  - "Mnoge osobe koje žive s demencijom u nekom trenutku lutaju. Ostanite uz osobu dok ste napolju i pripremite noviju fotografiju i lični dokument."
 faq:
-  - q: "Koje vrtlarske aktivnosti može osoba s demencijom raditi?"
-    a: "Zalijevanje biljaka, sadnja sjemena u male saksije, mirisanje i dodirivanje začinskog bilja, uklanjanje uvelog cvijeća, berba povrća, slaganje rezanog cvijeća i pometanje staze dobar su izbor. Unutra dobro funkcionira saksija s bosiljkom ili peršinom na prozorskoj dasci ili tacna sa zemljom na pokrivenom stolu. Izaberite zadatak prema onome što je osoba ranije voljela i što može udobno raditi sada."
-  - q: "Kako da osobu s demencijom zaštitim od vrućine?"
-    a: "Planirajte boravak na otvorenom za hladnije rano jutro ili večer, zadržite ga kratkim i često nudite vodu. Birajte hlad, šešir sa širokim obodom, lagadnu i prozračnu odjeću te kremu za sunčanje. Starije osobe su u većem riziku od bolesti uzrokovanih vrućinom, a zbunjenost, vrtoglavica ili mučnina mogu biti znaci upozorenja. Ako ih primijetite, odmah uđite unutra i ohladite se."
-  - q: "Kako možemo izlaziti vani ako osoba ima sklonost lutanju?"
-    a: "Budite s osobom cijelo vrijeme, koristite ogradnjeno dvorište ili vrt sa zatvorenom kapijom i pobrinite se da nosi narukvicu s identifikacijom ili ličnu kartu. Imajte pri ruci nedavnu fotografiju. Ako se osoba izgubi, Alzheimer's Association savjetuje da se pozove 112 ako osoba nije pronađena u roku od 15 minuta."
+  - q: "Koje aktivnosti u bašti može raditi osoba s demencijom?"
+    a: "Zalijevanje biljaka, sadnja sjemena u male posude, mirisanje i dodirivanje začinskog bilja, uklanjanje uvelog cvijeća, branje povrća, aranžiranje rezanog cvijeća i metenje staze su dobar izbor. U zatvorenom prostoru dobro funkcionišu saksija sa začinskim biljem na prozorskoj dasci ili posuda sa zemljom na natkrivenom stolu. Odaberite zadatak prema onome što je osoba voljela ranije i što sada može udobno raditi."
+  - q: "Kako da osobu s demencijom zaštitim na vrućini?"
+    a: "Planirajte boravak napolju za hladnije rano jutro ili veče, neka traje kratko i često nudite vodu. Odaberite hlad, šešir širokog oboda, laganu široku odjeću i kremu za sunčanje. Starije osobe su izloženije većem riziku od tegoba zbog vrućine, a zbunjenost, vrtoglavica ili mučnina mogu biti znakovi upozorenja, pa uđite unutra i rashladite se odmah ako ih primijetite."
+  - q: "Kako možemo izaći napolje ako osoba ima sklonost ka lutanju?"
+    a: "Ostanite uz osobu cijelo vrijeme, koristite ograđeno dvorište ili baštu sa zaključanom kapijom i pobrinite se da osoba nosi narukvicu s ličnim podacima ili ima lični dokument kod sebe. Pripremite noviju fotografiju. Ako osoba nestane, odmah kontaktirajte lokalnu policiju ili hitne službe; nemojte čekati određeni broj minuta. Recite službama da osoba ima demenciju, gdje je posljednji put viđena, i dostavite noviju fotografiju."
   - q: "Šta ako nemamo baštu?"
-    a: "Nekoliko saksija na verandi, kutija za cvijeće na prozoru ili tacna s biljem na kuhinjskom stolu je dovoljno. Možete posjetiti park, javnu baštu ili zajedničku baštu u naselju. Sjedenje vani i slušanje ptica također se računa kao aktivnost na otvorenom."
+    a: "Nekoliko saksija na trijemu, žardinjera na prozoru ili posuda sa začinskim biljem na kuhinjskom stolu je sasvim dovoljno. Možete i posjetiti park, javnu baštu ili zajedničku baštu. I mirno sjedenje napolju uz slušanje ptica je aktivnost na otvorenom."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Za mnoge ljude bašta je jedno od najpoznatijih mjesta koje poznaju. Kopanje, zalijevanje i branje cvijeća koriste vještine naučene davno, a boravak vani donosi svjež zrak, sunčevu svjetlost i cvrkut ptica. Nacionalni institut za starenje (NIA) navodi njegu biljaka, sadnju cvijeća i povrća te [razgovor o tome kako biljke rastu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) među aktivnostima koje osobe s Alzheimerovom bolešću mogu uživati. Ova stranica pokriva šta isprobati, kako baštu učiniti lakšom za korištenje i kako ostati bezbjedan kod vrućine, sunca i lutanja.
+Za mnoge ljude bašta je jedno od najpoznatijih mjesta. Kopanje, zalijevanje i branje cvijeća koriste vještine naučene davno, a boravak napolju donosi svjež vazduh, sunčevu svjetlost i pjev ptica. Nacionalni institut za starenje (National Institute on Aging) navodi brigu o biljkama, sadnju cvijeća i povrća te [razgovor o tome kako biljke rastu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) među aktivnostima u kojima osobe s Alzheimerovom bolešću mogu uživati. Ova stranica objašnjava šta možete isprobati, kako učiniti baštu lakšom za korištenje i kako ostati sigurni na vrućini, suncu i u slučaju lutanja.
 
-## Koje aktivnosti na otvorenom i vrtlarenje dobro funkcioniraju?
+## Koje aktivnosti na otvorenom i u bašti dobro funkcionišu?
 
-Najbolji zadaci su jednostavni, poznati i mogu se raditi stojeći ili sjedeći. Izaberite prema onome što je osoba ranije voljela.
+Najbolji zadaci su jednostavni, poznati i mogu se raditi stojeći ili sjedeći. Birajte prema onome što je osoba ranije voljela raditi.
 
 ### U bašti
 
-1. **Zalijevanje.** Mala, lagana kanta za zalijevanje ili blago crijevo s mlaznicom i nekoliko saksija na dohvat ruke. Zalijevanje ima jasan početak i kraj i teško ga je pogriješiti.
-2. **Sadnja sjemena u saksije.** Alzheimer's Foundation of America predlaže sadnju sjemena u male saksije i [posmatranje kako rastu](https://alzfdn.org/dementia-activity-gardening/). Krupno sjeme poput graha, suncokreta ili graška lakše se drži.
-3. **Uklanjanje uvelog cvijeća.** Ručno skidanje uvelih cvjetova je nježan, ponavljajući zadatak. Birajte biljke bez trnja.
-4. **Berba povrća ili začinskog bilja.** Cherry paradajz, grah i začinsko bilje lako se beru i prijatni su za jelo. Donesite ih unutra da se upotrijebe za ručak.
-5. **Mirisanje i dodirivanje začinskog bilja.** Ruzmarin, menta i lavanda imaju jake, prijatne mirise. Protrljajte list između prstiju i prinesite ga nosu.
-6. **Pometanje staze ili terase.** Lagana metla na ravnoj, suhoj površini, ako je ravnoteža stabilna.
-7. **Punjenje hranilice za ptice.** Zatim sjedite zajedno i gledajte koje ptice dolaze u posjetu.
+1. **Zalijevanje.** Mala, lagana kanta za zalijevanje ili blagi mlaznik na crijevu i nekoliko saksija na dohvat ruke. Zalijevanje ima jasan početak i kraj i teško ga je pogriješiti.
+2. **Sadnja sjemena u posude.** Alzheimerova fondacija Amerike (Alzheimer's Foundation of America) predlaže sadnju sjemena u male posude i [posmatranje kako rastu](https://alzfdn.org/dementia-activity-gardening/). Krupnije sjemenje, poput graha, suncokreta ili graška, lakše je držati.
+3. **Uklanjanje uvelog cvijeća.** Otkidanje uvelih cvjetova rukom je nježan i ponavljajući zadatak. Birajte biljke bez trnja.
+4. **Branje povrća ili začinskog bilja.** Čeri paradajz, mahune i začinsko bilje lako se beru i ugodno je probati ih. Ponesite ih unutra za ručak.
+5. **Mirisanje i dodirivanje začinskog bilja.** Ruzmarin, nana i lavanda imaju jak i prijatan miris. Protrljajte list među prstima i približite ga osobi.
+6. **Metenje staze ili trijema.** Lagana metla na ravnoj i suhoj podlozi, ako je ravnoteža stabilna.
+7. **Punjenje hranilice za ptice.** Zatim sjednite zajedno i posmatrajte ko dolazi u posjetu.
 
-### Unutra, kada izlazak nije moguć
+### U zatvorenom prostoru, kada izlazak napolje nije moguć
 
-- **Vrt začinskog bilja na prozoru** od bosiljka, peršina ili vlasca.
-- **Presađivanje na pokriveni stol.** AFA predlaže korištenje tacni kao u menzi kako bi zemlja ostala na jednom mjestu, a zemlja se premješta malim čašicama.
-- **Slaganje cvijeća** od rezanog cvijeća i zelenila iz dvorišta ili prodavnice.
-- **Prešano cvijeće** iz buketa, kasnije zalijepljeno na čestitke. Pogledajte [likovne i ručne radove](/activities/arts-and-crafts/) za više.
-- **Pravljenje vrećica s lavandom ili ružom**, još jedna ideja AFA koja zadržava miris bašte unutra.
+- **Bašta sa začinskim biljem na prozorskoj dasci**, s bosiljkom, peršunom ili vlašcem.
+- **Sadnja u posude na natkrivenom stolu.** AFA predlaže korištenje plastičnih tacni kako bi zemlja ostala na jednom mjestu i premještanje zemlje malim čašama.
+- **Aranžiranje cvijeća** s rezanim cvijećem i zelenilom iz dvorišta ili prodavnice.
+- **Presovano cvijeće** iz buketa, koje se kasnije može zalijepiti na čestitke. Pogledajte [umjetnost i rukotvorine](/activities/arts-and-crafts/) za više ideja.
+- **Pravljenje vrećica s lavandom ili ružom**, još jedna ideja AFA koja miris bašte donosi u kuću.
 
-### Izlazak u šetnju
+### Izlasci van kuće
 
-- **Kratka šetnja** oko bloka, parkom ili do vrtnog centra, sporim tempom uz mjesto za sjedenje.
-- **Sjedenje vani** na verandi ili klupi uz slušanje ptica i osjećaj povjetarca. Ovo je potpuna aktivnost sama po sebi.
-- **Posjeta javnoj bašti** u mirnije doba dana. NHS navodi da neka mjesta imaju senzorne bašte s mirisnim biljkama, teksturama i vodenim elementima.
-- **Hranjenje patki ili posmatranje ptica** na lokalnom ribnjaku, uz sigurnu udaljenost od ivice vode.
+- **Kratka šetnja** oko bloka, parkom ili do vrtnog centra, laganim tempom i s mjestom za sjedenje.
+- **Sjedenje napolju** na trijemu ili klupi uz slušanje ptica i osjećaj povjetarca. I to je sama po sebi potpuna aktivnost.
+- **Posjeta javnoj bašti** u mirnijem dijelu dana. NHS napominje da neka mjesta imaju senzorne bašte s mirisnim biljkama, različitim teksturama i vodenim elementima.
+- **Hranjenje pataka ili posmatranje ptica** kod lokalnog jezerca, uz siguran razmak od obale.
 
-## Kako baštu učiniti lakšom za korištenje?
+## Kako da baštu učinim lakšom za korištenje?
 
-Približite baštu osobi, a ne obrnuto.
+Približite baštu osobi, a ne osobu bašti.
 
-- **Podignute gredice ili visoke saksije** na visini oko struka, pa nema klečanja ni savijanja.
-- **Kontejneri na stolu** pogodni su za osobe koje koriste invalidska kolica ili radije sjede.
-- **Široke, ravne staze** bez rastresitog kamenja i crijeva preko puta smanjuju rizik od spoticanja.
-- **Klupe s naslonima za ruke i hladom** duž puta, pa odmor uvijek bude moguć.
-- **Alati s debelim, mekim drškama** koji se lako drže. Izbjegavajte makaze za granje, noževe i sve što je oštro.
-- **Ogradnjen prostor sa zatvorenom kapijom** koji osoba može slobodno istraživati dok vi ostajete u blizini.
+- **Povišene gredice ili visoke žardinjere** otprilike u visini struka znače da nije potrebno klečati ili saginjati se.
+- **Posude na stolu** pogodne su za osobe koje koriste invalidska kolica ili radije sjede.
+- **Široke i ravne staze** bez rastresitog kamenja ili crijeva preko kojih se može saplesti mogu smanjiti rizik od spoticanja.
+- **Sjedalice s naslonima za ruke i hladom** duž puta, tako da odmor uvijek bude moguć.
+- **Alat s debljim, mekanim drškama** koji se lako drži. Izostavite makaze za orezivanje, noževe i sve što je oštro.
+- **Ograđen prostor sa zaključanom kapijom** koji osoba može slobodno istraživati dok ste vi u blizini.
 
 ## Koje biljke treba izbjegavati?
 
-Birajte biljke koje su bezbjedne za dodirivanje i, po mogućnosti, bezbjedne ako ih se okusi. AFA savjetuje korištenje biljaka koje obično ne nadražuju kožu, provjeru alergija i pažljivo praćenje osoba koje bi zemlju mogle zamijeniti za hranu. Savjeti NIA o sigurnosti kod kuće uključuju uklanjanje ili zaključavanje otrovnih biljaka.
+Birajte biljke koje su sigurne za dodir i, po mogućnosti, sigurne ako se okuse. AFA savjetuje korištenje biljaka koje obično ne iritiraju kožu, provjeru alergija i pažljivo praćenje svakoga ko bi mogao zamijeniti zemlju za hranu. Savjeti NIA o sigurnosti u kući uključuju uklanjanje ili zaključavanje otrovnih biljaka.
 
-- Izbjegavajte bodljikave ruže, kaktuse i biljke sa sokom koji nadražuje kožu.
-- Biljku o kojoj niste sigurni provjerite kod centra za trovanja ili u lokalnom vrtnom centru prije sadnje.
-- Omiljene biljke iz prošlosti mogu probuditi prijatna osjećanja. AFA navodi ruže i božićni kaktus kao primjere. Birajte sorte bez trnja.
-- Đubriva, pesticide i herbicide držite zaključane i nemojte ih koristiti na površinama kojima osoba može pristupiti.
+- Izbjegavajte ruže s trnjem, kaktuse i biljke čiji sok iritira kožu.
+- Ako niste sigurni za neku biljku, provjerite je u centru za kontrolu trovanja ili lokalnom vrtnom centru prije sadnje.
+- Omiljene biljke iz prošlosti mogu probuditi ugodne osjećaje. AFA spominje ruže i božićni kaktus kao primjere. Birajte sorte bez trnja.
+- Držite đubriva, pesticide i sredstva za suzbijanje korova zaključanim i ne koristite ih u područjima koja su osobi dostupna.
 
-## Kako ostati bezbjedan kod vrućine i sunca?
+## Kako da ostanemo sigurni na vrućini i suncu?
 
-Planirajte boravak vani prema vremenu. NIA objašnjava da su starije osobe u većem riziku od [bolesti uzrokovanih vrućinom](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), dijelom zato što se tijelo sporije prilagođava promjenama temperature, a neki lijekovi utiču na to kako tijelo podnosi toplotu.
+Planirajte boravak napolju prema vremenskim uslovima. NIA objašnjava da su starije osobe izloženije većem riziku od [tegoba povezanih s vrućinom](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), dijelom zato što se tijelo teže prilagođava promjenama temperature, a neki lijekovi utiču na to kako tijelo podnosi vrućinu.
 
-- **Izlazite rano ili kasno.** U toplim mjesecima izbjegavajte sredinu dana. Provjerite toplotni indeks, a ne samo temperaturu.
-- **Nudite vodu često.** Ne čekajte da osoba kaže da je žedna. U vrućini izbjegavajte alkohol i pića s kofeinom.
-- **Obucite se prikladno.** Svijetla, široka odjeća, šešir sa širokim obodom i sunčane naočale.
-- **Koristite kremu za sunčanje.** NIA preporučuje širokospektralnu zaštitu SPF 15 ili višu, koju treba ponavljati tokom dana.
-- **Birajte hlad.** Postavite stol za presađivanje ispod drveta ili suncobrana.
-- **Držite boravak kratkim.** Kratak boravak vani može biti dovoljan, posebno tokom toplih dana.
-- **Pazite na znake upozorenja.** NIA navodi glavobolju, zbunjenost, vrtoglavicu ili mučninu kao moguće znake bolesti uzrokovane vrućinom. Osoba s demencijom možda neće reći da se loše osjeća, zato pratite njezino lice i ponašanje. Uđite unutra, ohladite se vodom i hladnim oblogom te potražite medicinsku pomoć ako se brzo ne poboljša. Toplotni udar, sa znacima kao što su nesvjestica, zbunjenost ili suha, crvenkasta koža, je medicinska hitna situacija: pozovite 112.
+- **Izlazite rano ili kasnije.** Izbjegavajte sredinu dana u toplim mjesecima. Provjerite indeks toplote, ne samo temperaturu.
+- **Često nudite vodu.** Nemojte čekati da osoba kaže da je žedna. U vrućini izbjegavajte alkoholna i kofeinska pića.
+- **Prilagodite odjeću.** Svijetla, široka odjeća, šešir širokog oboda i sunčane naočale.
+- **Koristite kremu za sunčanje.** NIA preporučuje kremu širokog spektra sa zaštitnim faktorom 15 ili višim, koju treba ponovo nanositi tokom dana.
+- **Birajte hlad.** Postavite sto za sadnju ispod drveta ili suncobrana.
+- **Neka boravak bude kratak.** Kratko vrijeme napolju može biti sasvim dovoljno, posebno tokom toplih dana.
+- **Obratite pažnju na znakove upozorenja.** NIA navodi glavobolju, zbunjenost, vrtoglavicu ili mučninu kao moguće znakove tegoba zbog vrućine. Osoba s demencijom vam možda neće reći da joj nije dobro, zato pažljivo posmatrajte izraz lica i ponašanje. Uđite unutra, rashladite se vodom i hladnim peškirom i potražite medicinsku pomoć ako se stanje brzo ne poboljša. Toplotni udar, uz znakove poput nesvjestice, zbunjenosti ili suhe, crvene kože, hitno je stanje: pozovite 911.
 
-Hladno vrijeme također je važno. Zimi držite boravak vani kratkim i pazite da ruke i stopala ostanu topla i suha.
+I hladno vrijeme je važno. Zimi neka boravak napolju bude kratak i pobrinite se da ruke i stopala ostanu topli i suhi.
 
-## Kako postupati s lutanjem kad izlazimo vani?
+## Kako da se nosimo s lutanjem kada izlazimo napolje?
 
-Budite s osobom kad god je vani. Alzheimer's Association kaže da [šest od deset osoba koje žive s demencijom](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) s vremena na vrijeme odluta bar jednom, a mnoge to rade više puta. Može se dogoditi u bilo kojoj fazi.
+Ostanite uz osobu kad god je napolju. Alzheimerova asocijacija (Alzheimer's Association) navodi da će [šest od deset osoba koje žive s demencijom](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) bar jednom lutati, a mnoge će to učiniti više puta. To se može desiti u bilo kojoj fazi.
 
-NIA [savjeti o lutanju i gubljenju orijentacije](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) uključuju:
+[Smjernice NIA za lutanje i gubljenje](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) uključuju sljedeće:
 
-- Pobrinite se da osoba nosi ID ili medicinsku narukvicu sa imenom, adresom i vašim telefonskim brojem, ili označite njenu odjeću.
-- Čuvajte nedavnu fotografiju ili video osobe.
+- Pobrinite se da osoba nosi lični ili medicinski identifikacijski privjesak s imenom, adresom i vašim brojem telefona ili označite njenu odjeću.
+- Imajte noviju fotografiju ili video snimak osobe.
 - Obavijestite komšije da osoba može lutati.
 - Osigurajte dvorište ogradom i zaključanom kapijom.
-- Nemojte ostavljati osobu s historijom lutanja bez nadzora.
+- Ne ostavljajte osobu koja je ranije lutala bez nadzora.
 
-Alzheimer's Association također predlaže stvaranje unutrašnjih i vanjskih prostora koji se mogu bezbjedno istraživati te planiranje aktivnosti za doba dana kada je nemir najvjerovatniji. Šetnja u bezbjednoj, ogradnjenoj bašti može dobro odgovarati nemiru u kasno popodne. Pogledajte naš vodič o [nemiru u kasno popodne](/caregiving/late-day-restlessness/).
+Alzheimerova asocijacija također predlaže stvaranje unutrašnjih i vanjskih prostora koje osoba može sigurno istraživati, kao i planiranje aktivnosti za doba dana kada je nemir najvjerovatniji. Šetnja u sigurnoj, ograđenoj bašti može biti dobar izbor za nemir kasnije tokom dana. Pogledajte naš vodič o [nemiru kasnije tokom dana](/caregiving/late-day-restlessness/).
 
-Ako se osoba zaista izgubi, Alzheimer's Association savjetuje da odmah pretražite obližnje područje i pozovete 112 ako osoba nije pronađena u roku od 15 minuta. Recite policiji da osoba ima demenciju.
+Ako osoba nestane, provjerite obližnja sigurna mjesta dok istovremeno odmah kontaktirate lokalnu policiju ili hitne službe. Nemojte čekati određeni broj minuta prije prijave. [Članak Ministarstva pravde Sjedinjenih Američkih Država iz 2021. o istragama nestalih osoba](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) navodi da agencije za provođenje zakona ne bi trebale zahtijevati određeni period čekanja i navodi simptome slične demenciji kao razlog za pojačanu zabrinutost. Lokalni postupci prijavljivanja mogu se razlikovati. Podijelite kada i gdje je osoba posljednji put viđena, šta nosi i noviju fotografiju. Slijedite upute lokalnih službi; nemojte sami pretraživati nesigurna mjesta.
 
-## Kako prilagoditi vrtlarenje kako se stvari mijenjaju?
+## Kako da prilagodim vrtlarstvo kako se stvari mijenjaju?
 
 | Ako je ovo postalo teško | Pokušajte ovo umjesto toga |
 | --- | --- |
-| Sađenje cijele gredice | Sadnja jednog sjemena u jednoj saksiji |
-| Plijevljenje (razlikovanje korova od biljaka) | Zalijevanje ili uklanjanje očigledno uvelog cvijeća |
-| Hodanje po bašti | Sjedenje za stolom s tacnom zemlje i jednom biljkom |
-| Izlazak vani uopće | Saksija s biljem na kuhinjskom stolu ili sjedište kraj otvorenog prozora |
-| Bilo koji zadatak | Zajedničko sjedenje vani, slušanje i gledanje |
+| Sadnja cijele gredice | Sadnja jednog sjemena u jednu posudu |
+| Plijevljenje (razlikovanje korova od biljaka) | Zalijevanje ili uklanjanje očigledno uvelih cvjetova |
+| Hodanje po bašti | Sjedenje za stolom s posudom zemlje i biljkom |
+| Bilo kakav izlazak napolje | Saksija sa začinskim biljem na kuhinjskom stolu ili sjedenje pored otvorenog prozora |
+| Bilo kakav zadatak | Zajedničko sjedenje napolju, slušanje i posmatranje |
 
-Neki ljudi radije gledaju kako vi radite. NIA navodi da je u redu dozvoliti osobi da samo gleda ako joj to prija.
+Neki ljudi radije posmatraju dok vi radite. NIA napominje da je sasvim u redu dopustiti osobi da samo posmatra ako u tome uživa.
 
 ## Kada treba ući unutra?
 
-Uđite unutra kada osoba izgleda umorno, vruće, hladno, nemirno ili spremno da završi. Kratkih, ugodnih deset minuta bolje je od dugog popodneva koje završi uznemirenošću. Rano prekidanje je dobar ishod.
+Uđite kada osoba izgleda umorno, vruće joj je, hladno joj je, nelagodno joj je ili je spremna da završi. Kratkih, prijatnih deset minuta je bolje od dugog popodneva koje se završi uznemirenošću. Završiti ranije je dobar ishod.
 
-## Donesite baštu unutra preko ekrana
+## Donesite baštu u kuću i na ekranu
 
-Za kišne dane, [Sort Together](/games/sort-together/) ima korpu s baštom za razvrstavanje slika, a [Conversation Cards](/games/conversation-cards/) sadrži otvorena pitanja koja mogu dovesti do priča o bašti. Ako ste došli s vrućine i osjećate žurbu, [Calm Breathing](/games/calm-breathing/) nudi polagan, tih predah koji možete podijeliti. Za više ideja zasnovanih na dodiru, mirisu i zvuku, pogledajte naš [vodič o senzornim aktivnostima](/activities/sensory/).
+Kišnim danima, [Sort Together](/games/sort-together/) ima baštensku korpu za razvrstavanje slika, a [Conversation Cards](/games/conversation-cards/) uključuje otvorena pitanja koja mogu potaknuti priče o bašti. Ako se vratite s vrućine i osjećate žurbu, [Calm Breathing](/games/calm-breathing/) nudi sporu, mirnu pauzu koju možete podijeliti. Za više ideja zasnovanih na dodiru, mirisu i zvuku pogledajte naš vodič o [senzornim aktivnostima](/activities/sensory/).

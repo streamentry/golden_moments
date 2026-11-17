@@ -1,36 +1,37 @@
 ---
-title: "Ko oseba z demenco nenehno sprašuje, ali lahko gre domov"
-seoTitle: "Demenca in vprašanje „grem domov“: kaj reči"
-description: "Zakaj oseba z demenco prosi, naj gre domov, tudi ko je doma, kaj ji reči, katere pomirjajoče dejavnosti poskusiti in kako jo varovati, če poskuša oditi."
+title: "Ko oseba z demenco vedno znova prosi, da gre domov"
+seoTitle: "Oseba z demenco želi domov: kaj reči"
+description: "Zakaj oseba, ki živi z demenco, prosi, da gre domov, četudi je doma, kaj ji reči, katere pomirjujoče dejavnosti preizkusiti in kako poskrbeti za varnost."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Ko oseba z demenco nenehno sprašuje, ali lahko gre domov, »dom« pogosto pomeni
-  občutek varnosti ali kraj iz preteklosti, ne stavbo. Ne prepričujte je, da je
-  doma. Priznajte občutek, zagotovite, da je varna, jo vprašajte o domu, nato pa
-  se nežno preusmerite k fotografijam, glasbi, prigrizku, sprehodu ali preprosti
-  nalogi. Preverite lakoto, žejo, stranišče ali bolečino. Če se začne nenadoma,
-  pokličite njenega zdravnika.
+  Ko oseba z demenco vedno znova prosi, da gre domov, beseda „domov“ pogosto
+  pomeni občutek varnosti ali kraj iz preteklosti, ne neke stavbe. Ne
+  prepričujte je, da je doma. Priznajte njena čustva, jo pomirite, da je na
+  varnem, jo vprašajte o domu, nato pa nežno preidite na fotografije, glasbo,
+  prigrizek, sprehod ali preprosto opravilo. Preverite, ali je lačna, žejna,
+  ali mora na stranišče ali jo kaj boli. Če se to začne nenadoma, pokličite
+  njenega zdravnika.
 keyPoints:
-  - "„Želim domov“ pogosto pomeni „ne počutim se varno ali umirjeno“, ne pa prošnje za naslov."
-  - "Prepričevanje ali dokazovanje, da je doma, ponavadi stisko poslabša. Odzovite se na občutek."
-  - "Prosite jo, naj vam pove o domu, nato ji ponudite fotografije, glasbo, prigrizek, sprehod ali preprosto nalogo."
-  - "Preverite nekaj, kar je mogoče popraviti: lakoto, žejo, stranišče, bolečino, preveč vroče ali mrzlo, hrup, utrujenost."
-  - "Če se to dogaja vsak pozen popoldan, je lahko sundowning; stalna rutina in dobra svetloba lahko pomagata."
-  - "Načrtujte varnost, če poskuša oditi, in pokličite njenega zdravnika ob vsaki nenadni spremembi."
+  - "„Rad bi šel domov“ pogosto pomeni „Ne počutim se varno ali umirjeno,“ ne pa prošnje za naslov."
+  - "Prepiranje ali dokazovanje, da je oseba doma, stisko običajno le poslabša. Namesto tega se odzovite na njena čustva."
+  - "Prosite jo, naj vam pove o svojem domu, nato pa ji ponudite fotografije, glasbo, prigrizek, sprehod ali preprosto opravilo."
+  - "Preverite, ali gre za nekaj, kar lahko uredite: lakoto, žejo, potrebo po stranišču, bolečino, preveliko vročino ali mraz, hrup, utrujenost."
+  - "Če se to dogaja vsak pozni popoldan, gre morda za večerno nemirnost; pomagata lahko ustaljena rutina in dobra osvetlitev."
+  - "Načrtujte varnost, če bi oseba poskušala oditi, in ob vsaki nenadni spremembi pokličite njenega zdravnika."
 faq:
-  - q: "Zakaj mama z demenco nenehno sprašuje, ali lahko gre domov, čeprav je doma?"
-    a: "Demenca lahko znane sobe naredi tuje, ljudje pa se včasih počutijo, kot da so v zgodnejšem obdobju življenja. „Dom“ je lahko hiša iz otroštva ali preprosto občutek varnosti in udobja. Odgovor na ta občutek ponavadi deluje bolje kot opozarjanje, kje je."
-  - q: "Kaj naj rečem, ko vprašajo, ali lahko gredo domov?"
-    a: "Poskusite z „Tukaj ste varni, jaz ostajam z vami“, nato pa „Povejte mi o svojem domu.“ Poslušajte, delite fotografijo ali pesem in ponudite pijačo ali kratek sprehod. Izogibajte se „Ste doma“, izrečenemu kot popravek, saj lahko to zveni, kot da jim nekdo pravi, da se motijo."
-  - q: "Ali je v redu reči, da bomo šli domov pozneje?"
-    a: "Družine in organizacije za demenco se o tem razlikujejo. Mnoge začnejo z iskreno tolažbo in preusmeritvijo, nežno neresnico pa pridržijo za trenutke, ko bi resnica le povzročila stisko, s katero oseba ne bi mogla ravnati. Kar koli izberete, bodite prijazni in dosledni ter nikoli ne posmehujte njihovemu občutku resničnosti."
-  - q: "Kaj, če poskušajo zapustiti hišo?"
-    a: "Ostanite mirni in hodite z njimi, namesto da bi jim zapirali pot; kratek sprehod pogosto pomiri željo. Vnaprej poskrbite za varnostne ukrepe, na primer identifikacijsko zapestnico, zvonec na vratih in nedavno fotografijo. Če izginejo, takoj začnite iskati, in če jih ne najdete v 15 minutah, pokličite 911 ter povejte, da ima oseba demenco."
+  - q: "Zakaj moja mama z demenco vedno znova prosi, da gre domov, čeprav je doma?"
+    a: "Demenca lahko povzroči, da se znani prostori zdijo tuji, ljudje pa se včasih počutijo, kot da živijo v prejšnjem obdobju svojega življenja. „Domov“ lahko pomeni otroško hišo ali preprosto občutek varnosti in udobja. Odziv na ta občutek običajno deluje bolje kot opozarjanje, kje je."
+  - q: "Kaj naj rečem, ko prosi, da gre domov?"
+    a: "Poskusite z „Tukaj ste na varnem in jaz sem z vami,“ nato pa z „Povejte mi o svojem domu.“ Poslušajte, si oglejte fotografijo ali prisluhnite pesmi ter ji ponudite pijačo ali kratek sprehod. Izogibajte se stavku „Doma ste“ kot popravku, saj se lahko oseba počuti, kot da ji govorite, da se moti."
+  - q: "Ali je v redu, če rečem, da bomo šli domov pozneje?"
+    a: "Družine in organizacije na področju demence imajo o tem različna stališča. Veliko jih začne z iskrenim tolaženjem in preusmerjanjem, nežno neresnico pa prihrani za trenutke, ko bi resnica povzročila le stisko, ki je oseba ne more predelati. Karkoli izberete, bodite prijazni in dosledni ter nikoli ne zasmehujte tega, kako oseba doživlja resničnost."
+  - q: "Kaj pa, če poskuša zapustiti hišo?"
+    a: "Ostanite mirni in se odpravite z njo, namesto da jo ustavljate; kratek sprehod pogosto pomiri to željo. Vnaprej poskrbite za varnostne ukrepe, kot so zapestnica z imenom, zvonci na vratih in nedavna fotografija. Če oseba izgine, preverite bližnja varna mesta in hkrati nemudoma stopite v stik z lokalno policijo ali nujnimi službami. Ne čakajte določenega števila minut, preden to prijavite."
   - q: "Kdaj naj pokličem zdravnika?"
-    a: "Takoj pokličite njenega zdravnika, če se spraševanje ali zmedenost začneta nenadoma ali se v nekaj urah ali dneh močno poslabšata, zlasti ob vročini, novem zdravilu ali znakih okužbe sečil. Nenadna zmedenost je lahko delirij, ki zahteva nujno oskrbo. Če je kdo v nevarnosti, pokličite 911."
+    a: "Nemudoma pokličite njenega zdravnika, če se spraševanje ali zmedenost začne nenadoma ali se v nekaj urah ali dneh močno poslabša, zlasti ob vročini, novem zdravilu ali znakih okužbe sečil. Nenadna zmedenost je lahko delirij, ki potrebuje nujno pomoč. Pokličite 911, če je kdo v nevarnosti."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,128 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-„Želim domov.“ Mnogim družinam je to ena najtežjih stvari za poslušanje, zlasti kadar je oseba,
-za katero skrbite, sedi v lastni dnevni sobi. Je pogosto, lahko se pojavi v kateri koli fazi demence,
-in obstajajo mirni, praktični načini, kako se odzvati. Ta stran pojasnjuje, kaj te besede pogosto
-pomenijo, kaj reči, katere dejavnosti lahko pomagajo v tistem trenutku in kako ostati varen.
+„Rad bi šel domov.“ Za številne družine je to ena najtežjih stvari, ki jih slišijo, zlasti kadar oseba, za katero skrbite, sedi v svoji dnevni sobi. To je pogosto, lahko se zgodi v kateri koli fazi demence, obstajajo pa mirni in praktični načini odziva. Ta stran pojasnjuje, kaj te besede pogosto pomenijo, kaj reči, katere dejavnosti lahko pomagajo v tem trenutku in kako poskrbeti za varnost.
 
-## Zakaj oseba z demenco nenehno sprašuje, ali lahko gre domov?
+## Zakaj oseba z demenco vedno znova prosi, da gre domov?
 
-Ponavadi je „dom“ bolj občutek kot kraj. Alzheimerjeva družba ga opisuje kot občutek udobja in
-varnosti ali dom iz preteklosti, ne sama hiša. Demenca lahko znane sobe naredi tuje, oseba pa se
-lahko počuti, kot da živi v zgodnejšem obdobju življenja, ko je bil dom hiša iz otroštva ali kraj,
-kjer je vzgajala otroke.
+Običajno je „domov“ bolj občutek kot kraj. Alzheimer's Society to opisuje kot občutek udobja in varnosti ali kot dom iz preteklosti, ne kot samo hišo. Demenca lahko povzroči, da se znani prostori zdijo tuji, oseba pa se lahko počuti, kot da živi v prejšnjem obdobju svojega življenja, ko je bil dom otroška hiša ali kraj, kjer je vzgajala svoje otroke.
 
-Besede so lahko tudi znak, da je zdaj nekaj narobe: lačna je, žejna, potrebuje stranišče, ima bolečine,
-ji je prevroče ali premrzlo, je utrujena, osamljena, prestrašena ali preobremenjena s hrupom.
-[Nacionalni inštitut za staranje](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning)
-med vzroke nemira navaja bolečine, hrup, osamljenost, spremembe rutine in zdravila.
+Te besede so lahko tudi znak, da nekaj drugega ni v redu: oseba je lačna, žejna, mora na stranišče, jo kaj boli, ji je prevroče ali premrzlo, je utrujena, osamljena, prestrašena ali jo preobremenjujeta hrup in dogajanje okoli nje. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) med vzroki za vznemirjenost navaja bolečino, hrup, osamljenost, spremembe v rutini in zdravila.
 
-## Kaj naj rečem, ko vprašajo, ali lahko gredo domov?
+## Kaj naj rečem, ko prosi, da gre domov?
 
-Odzovite se na občutek, ne na besede. [Zveza družinskih skrbnikov (Family Caregiver Alliance)](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)
-svetuje, naj ne poskušate prepričati osebe, da se moti. Njeni občutki so resnični, zato najprej odgovorite
-s tolažbo in zagotovilom, nato pa se nežno preusmerite.
+Odzovite se na občutek, ne na besede. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) svetuje, naj osebe ne poskušate prepričati, da se moti: njena čustva so resnična, zato najprej odgovorite s tolažbo in pomiritvijo, nato pa jo nežno preusmerite.
 
-Fraze, ki pogosto pomagajo:
+Stavki, ki pogosto pomagajo:
 
-- **Poimenujte občutek.** „Zdi se, da pogrešate dom.“
-- **Pomirite.** „Tukaj ste varni, jaz ostajam z vami.“ [Alzheimerjevo združenje](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)
-  predlaga preprosti besedi „Tukaj ste varni.“
-- **Povabite k spominom.** „Povejte mi o svojem domu. Kakšna je bila vaša kuhinja?“ Vprašanja o davni
-  preteklosti so ponavadi prijetnejša kot vprašanja o današnjem dnevu.
-- **Ponudite nekaj skupaj.** „Najprej si skuhajva čaj“ ali „Ali mi lahko pomagate s temi brisačami?“
+- **Poimenujte občutek.** „Slišim, da vam je dom pogrešan.“
+- **Pomirite.** „Tukaj ste na varnem in jaz sem z vami.“ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) predlaga preproste besede „Tukaj ste na varnem.“
+- **Spodbudite spomine.** „Povejte mi o svojem domu. Kakšna je bila vaša kuhinja?“ Spraševanje o daljni preteklosti je običajno prijetnejše kot vprašanja o današnjem dnevu.
+- **Ponudite nekaj skupnega.** „Najprej spijiva skodelico čaja“ ali „Bi mi pomagali s temi brisačami?“
 
-Topel ton in roka na nadlahti, če rada doživlja dotik, lahko povesta več kot besede.
+Topel ton in dotik roke, če ima oseba dotik rada, lahko povesta več kot besede.
 
-## Česa se je treba izogibati?
+## Česa se je bolje izogibati?
 
-- **Prepiranja ali razlaganja.** „Zdaj tukaj živite“ ali „To je bil vaš dom 40 let“ jih sili, da sprejmejo
-  nekaj, kar jim demenca otežuje sprejeti, in lahko zveni, kot da jim pravite, da se motijo.
-- **Spraševanja.** „Ali se ne spomnite?“ ali „Kakšen je naslov?“ dodatno pritiska.
-- **Blokiranje vrat v jezi.** Če gredo ven, ostanite mirni in hodite z njimi. Kratek skupen sprehod
-  pogosto pomiri željo.
-- **Hitenje.** Dajte jim čas, da govorijo o domu, preden spremenite temo.
+- **Prepiranju ali razlaganju.** „Zdaj živite tukaj“ ali „To je vaš dom že štirideset let“ od osebe zahteva, da sprejme nekaj, kar ji demenca otežuje sprejeti, in lahko se počuti, kot da ji govorite, da se moti.
+- **Izpraševanju.** „Se ne spomnite?“ ali „Kakšen je naslov?“ ustvarjata dodaten pritisk.
+- **Jeznemu zapiranju vrat.** Če se odpravi ven, ostanite mirni in pojdite z njo. Kratek skupni sprehod pogosto pomiri to željo.
+- **Hitenju.** Dajte ji čas, da govori o domu, preden spremenite temo.
 
-## Dejavnosti, ki lahko pomagajo v tistem trenutku
+## Dejavnosti, ki lahko pomagajo v tem trenutku
 
-Ko priznate občutek, lahko mirna, znana dejavnost preusmeri pozornost, ne da bi ga zavrnila.
+Ko ste priznali njena čustva, lahko mirna in znana dejavnost preusmeri pozornost, ne da bi jo odrinili.
 
-1. **Oglejte si fotografije doma in družine.** Obračajte strani in komentirajte („Glejte tisti vrt“), namesto
-   da zastavljate vprašanja. Na telefonu ali tablici vam [Pari fotografij](/games/photo-pairs/) spremenijo
-   vaše družinske fotografije v nežno igro ujemanja, fotografije pa ostanejo v vaši napravi.
-2. **Govorite o domu.** [Kartice za pogovor](/games/conversation-cards/) ponujajo odprte pobude o hišah,
-   kuhinjah, sosedih in praznikih, brez pravilnih odgovorov.
-3. **Predvajajte glasbo, ki jo imajo radi.** Nacionalni inštitut za staranje med načini za pomiritev nemira
-   navaja pomirjajočo glasbo. Glejte naše [glasbene dejavnosti](/activities/music/).
-4. **Ponudite prigrizek ali pijačo.** Lakota in žeja lahko izgledata kot nemir. Skodelica čaja ali priljubljena
-   dobrota je tudi majhen ritual, da ste doma.
-5. **Pojdite na sprehod ali sedite zunaj.** Gibanje in dnevna svetloba pomagata, zlasti zgodaj čez dan.
-6. **Dajte ji znano opravilo.** Zlaganje perila, razvrščanje pribora ali zalivanje rastlin lahko obudi občutek,
-   da vodi gospodinjstvo.
-7. **Vse upočasnite.** Izklopite televizor, zmanjšajte hrup in bleščanje ter poskusite skupen premor z
-   [mirnim dihanjem](/games/calm-breathing/).
+1. **Oglejte si fotografije doma in družine.** Listajte in komentirajte („Poglejte ta vrt“), namesto da postavljate vprašanja. Na telefonu ali tabličnem računalniku [Foto pari](/games/photo-pairs/) vaše družinske fotografije spremenijo v nežno igro iskanja parov, fotografije pa ostanejo v vaši napravi.
+2. **Pogovarjajte se o domu.** [Pogovorne kartice](/games/conversation-cards/) ponujajo odprta spodbudna vprašanja o hišah, kuhinjah, sosedih in praznikih, brez pravih ali napačnih odgovorov.
+3. **Predvajajte glasbo, ki jo ima rada.** National Institute on Aging pomirjujočo glasbo navaja med načini za lajšanje vznemirjenosti. Oglejte si naše [glasbene dejavnosti](/activities/music/).
+4. **Ponudite prigrizek ali pijačo.** Lakota in žeja se lahko kažeta kot nemir. Skodelica čaja ali priljubljen prigrizek sta tudi majhen obred domačnosti.
+5. **Odpravite se na sprehod ali sedite zunaj.** Gibanje in dnevna svetloba pomagata, zlasti prej čez dan.
+6. **Ponudite znano opravilo.** Zlaganje perila, razvrščanje pribora ali zalivanje rastlin lahko vrne občutek, da človek skrbi za svoj dom.
+7. **Vse upočasnite.** Izklopite televizijo, zmanjšajte hrup in bleščanje ter poskusite skupni premor z [mirnim dihanjem](/games/calm-breathing/).
 
-Če ena zamisel ne deluje, poskusite kasneje z drugo. Tudi tiho sedenje skupaj je dober izid.
+Če ena zamisel ne zaleže, poskusite z drugo pozneje. Tudi tiho skupno sedenje je dober izid.
 
 ## Preverite vzrok, ki ga lahko odpravite
 
 | Preverite | Kaj poskusiti |
 | --- | --- |
-| Lačna ali žejna | Ponudite pijačo in majhen prigrizek |
-| Potrebuje stranišče | Ponudite obisk kopalnice, mirno in brez hitenja |
-| Bolečina ali nelagodje | Poiščite znake, kot so krčenje obraza, držanje dela telesa ali zaprtje, in povejte njenemu zdravniku |
-| Preveč vroče ali premrzlo | Prilagodite plast oblačil ali temperaturo prostora |
-| Hrup ali gneča | Preselite se v tišjo sobo, izklopite televizor |
-| Utrujena ali preobremenjena | Počitek, zatemnite sobo, predvajajte mehko glasbo |
-| Pozno popoldne | Glejte spodnji razdelek o sundowningu |
+| Lakota ali žeja | Ponudite pijačo in majhen prigrizek |
+| Potreba po stranišču | Mirno in brez sitnarjenja ji ponudite obisk stranišča |
+| Bolečina ali nelagodje | Bodite pozorni na znake, kot so krčenje obraza, držanje dela telesa ali zaprtje, in o tem obvestite njenega zdravnika |
+| Prevroče ali premrzlo | Prilagodite plast oblačil ali temperaturo v prostoru |
+| Hrup ali gneča | Pojdite v mirnejši prostor, izklopite televizijo |
+| Utrujenost ali preveliko dražljajev | Počitek, zatemnite prostor, predvajajte tiho glasbo |
+| Pozni popoldan | Oglejte si razdelek o večerni nemirnosti spodaj |
 
-Alzheimerjeva družba predlaga, da vodite kratek zapis o tem, kdaj se spraševanje pojavi, na primer pred
-obroki, po obisku ali ob mraku. Vzorci olajšajo načrtovanje vnaprej.
+Alzheimer's Society predlaga, da si na kratko zabeležite, kdaj se spraševanje pojavi, na primer pred obroki, po obiskih ali ob mraku. Vzorci olajšajo načrtovanje.
 
-## Ali je v redu reči belo laž?
+## Ali je v redu povedati nežno neresnico?
 
-To je resnična razprava, prijazne družine pa pridejo do različnih odgovorov. Alzheimerjeva družba pravi, da
-ni enega pravega odgovora: neresnice lahko nekatere ljudi naredijo bolj sumničave, zato se odločite, kaj je
-v najboljšem interesu osebe, in ostanite dosledni. V Penn Memory Center zdravnica, ki vodi center, meni,
-da je resnica privzeta možnost in da je nežna neresnica sprejemljiva le takrat, ko oseba ne more obdelati
-določene resnice, ter da nikoli ne smete posmehovati njenemu občutku resničnosti.
+To je resnično vprašanje in prijazne družine se odločijo različno. Alzheimer's Society pravi, da ni enega samega pravega odgovora: neresnice lahko pri nekaterih ljudeh povečajo nezaupanje, zato se odločite glede na to, kaj je v najboljšem interesu osebe, in bodite dosledni. Po mnenju so-vodje Penn Memory Center je resnica privzeta izbira, nežna neresnica pa je sprejemljiva le, kadar oseba določene resnice ne more predelati, in nikoli ne smete zasmehovati njenega doživljanja resničnosti.
 
-Mnogi skrbniki ugotovijo, da deluje srednja pot: najprej iskrena tolažba in preusmeritev („Nocoj ostajamo tukaj
-in jaz sem tu z vami“), brez prepira o tem, kje je dom.
+Številni skrbniki ugotovijo, da deluje srednja pot: najprej iskrena tolažba in preusmerjanje („Danes bomo ostali tukaj, jaz pa sem prav tukaj z vami“), brez prepiranja o tem, kje je dom.
 
-## Kaj, če se to dogaja vsak popoldan ali zvečer?
+## Kaj pa, če se to dogaja vsak popoldan ali večer?
 
-Nemir, ki se začne ali poslabša pozno popoldne, pogosto imenujemo sundowning. [Nacionalni inštitut za staranje](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning)
-svetuje stalen urnik, dnevno sonce in dejavnost, manj poznih dremežev ter brez kofeina in alkohola pozno
-popoldne. Luči, prižgane pred mrakom, lahko prav tako pomagajo. Naš vodnik o [mirnih dejavnostih pozno popoldne](/caregiving/late-day-restlessness/)
-ponuja več.
+Nemir, ki se začne ali poslabša pozno popoldne, pogosto imenujemo večerna nemirnost. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) predlaga ustaljen urnik, vsakodnevno dnevno svetlobo in dejavnost, manj poznih dremežev ter brez kofeina ali alkohola pozno čez dan. Pomaga lahko tudi, da luči prižgete že pred mrakom. Več najdete v našem vodniku o [umirjenih pozno popoldanskih dejavnostih](/caregiving/late-day-restlessness/).
 
-## Kako jo varovati, če poskuša oditi?
+## Kako poskrbeti za varnost, če poskuša oditi
 
-Prošnja, naj gre domov, lahko vodi do blodnje. [Alzheimerjevo združenje](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering)
-ocenjuje, da bo šest od desetih ljudi, ki živijo z demenco, vsaj enkrat blodilo.
+Prošnja, da bi šla domov, lahko privede do tavajočega vedenja. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ocenjuje, da bo šest od desetih oseb, ki živijo z demenco, vsaj enkrat tavalo.
 
 **Pripravite se vnaprej:**
 
-- Identifikacijsko ali zdravstveno zapestnico z imenom in vašo telefonsko številko ter oznake v oblačilih.
-  [Nacionalni inštitut za staranje](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and)
-  omenja program MedicAlert in Safe and Found Alzheimerjevega združenja, ki lahko stane denar.
-- Zvonec ali alarm na vratih ter ključavnice, nameščene visoko ali nizko. Osebe nikoli ne zaklepajte same.
-- Nedavno fotografijo od blizu in seznam krajev, kamor bi lahko šla, na primer nekdanji dom ali delovno mesto.
-- Povejte zaupanja vrednim sosedom in jim dajte svojo številko.
+- Zapestnica z imenom ali zdravstvenimi podatki z imenom osebe in vašo telefonsko številko ter oznake na oblačilih. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) omenja programa MedicAlert in Alzheimer's Association Safe and Found, ki sta lahko plačljiva.
+- Zvonček ali alarm na vratih ter ključavnice nameščene visoko ali nizko. Nikoli ne zaklenite osebe same v prostor.
+- Nedavna fotografija od blizu in seznam krajev, kamor bi lahko odšla, na primer nekdanji dom ali delovno mesto.
+- O tem obvestite zaupanja vredne sosede in jim posredujte svojo številko.
 
-**Če izgine:** takoj začnite iskati; Alzheimerjevo združenje opozarja, da jih mnogo ljudi najdejo v krogu
-1,5 milje. Če jih ne najdete v 15 minutah, pokličite 911 in povejte, da ima oseba demenco. Če je kdo v
-nevarnosti, takoj pokličite 911.
+**Če oseba izgine:** preverite bližnja varna mesta in hkrati nemudoma stopite v stik z lokalno policijo ali nujnimi službami. Ne čakajte določenega števila minut, preden to prijavite. [Članek ameriškega ministrstva za pravosodje iz leta 2021 o preiskavah pogrešanih oseb](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) navaja, da organi pregona ne bi smeli zahtevati določenega čakalnega obdobja; simptome, podobne demenci, navaja tudi kot skrb vzbujajoče tveganje. Postopki prijave se lahko lokalno razlikujejo. Odzivnim službam povejte, da ima oseba demenco, sporočite zadnjo znano lokacijo in delite nedavno fotografijo ter sledite njihovim navodilom. Če je na voljo še ena oseba, ki lahko pomaga, jo prosite, naj ostane ob telefonu. Ne iščite sami na nevarnih mestih.
 
 ## Kdaj naj pokličem zdravnika?
 
-Takoj pokličite njenega zdravnika, če se spraševanje ali zmedenost začneta nenadoma ali se v nekaj urah ali
-dneh močno poslabšata. [Nacionalni inštitut za staranje](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)
-pravi, da je treba nenadno ali hitro spreminjajoče se vedenje, zlasti po okužbi ali spremembi zdravila,
-takoj preveriti. Nenadna zmedenost je lahko delirij, za katerega [NHS](https://www.nhs.uk/symptoms/confusion/)
-pravi, da zahteva nujno pomoč; okužbe sečil so pogost vzrok pri starejših.
+Nemudoma pokličite njenega zdravnika, če se spraševanje ali zmedenost začne nenadoma ali se v nekaj urah ali dneh močno poslabša. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) pravi, da je treba nenadne ali hitro spreminjajoče se vedenjske spremembe, zlasti po okužbi ali spremembi zdravil, takoj preveriti. Nenadna zmedenost je lahko delirij, za katerega [NHS](https://www.nhs.uk/symptoms/confusion/) navaja, da potrebuje nujno pomoč; okužbe sečil so pogost vzrok pri starejših ljudeh.
 
-Na naslednjem pregledu omenite tudi stalen vzorec, saj lahko k temu prispevajo bolečina, slabo razpoloženje,
-težave s spanjem ali stranski učinki zdravil.
+Koristno je tudi, da na naslednjem obisku omenite stalen vzorec, saj lahko svojo vlogo igrajo bolečina, slabo razpoloženje, težave s spanjem ali stranski učinki zdravil.

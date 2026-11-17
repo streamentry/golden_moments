@@ -1,33 +1,33 @@
 ---
-title: "Demans olan insanlar üçün 20 sual və söhbət oyunları"
-seoTitle: "Demans üçün 20 sual və söhbət oyunları"
-description: "Demans olan insanlar üçün 20 sual və digər söhbət oyunları. Şəxs burada ustadır, hesab yoxdur, vaxt məhdudiyyəti yoxdur və sınaq yoxdur."
+title: "Demans yaşayanlar üçün İyirmi sual və söhbət oyunları"
+seoTitle: "Demans üçün İyirmi sual və söhbət oyunları"
+description: "Demans yaşayan insanlar üçün iyirmi sual və digər söhbət oyunları: cavabı bilən insan özü olur, xal, vaxt məhdudiyyəti və yoxlama yoxdur."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  İyirmi sual o zaman yumşaq və ünsiyyətcil oyuna çevrilə bilər ki, cavabı
-  şəxs bilsin. O, nəyisə düşünür, siz isə « bəli » və ya « xeyr » tipli suallar
-  verirsiniz və heç kim sınaqdan keçmir. « Bu yoxsa o? » və « Nəyi seçərdiniz? »
-  kimi digər söhbət oyunları da eyni qaydada işləyir: onlar faktlar yox, fikirlər
-  və xatirələr üçün şərait yaradır. Raundları qısa saxlayın, şəxsə ötürmək
-  imkanı verin və təxminləri heç vaxt saymayın.
+  İyirmi sual oyunu, cavabı bilən şəxs özü olduqda mehriban və ünsiyyətcil
+  bir oyuna çevrilə bilər. O, bir şey fikirləşir, siz bəli-xeyr sualları
+  verirsiniz və heç kim yoxlanılmır. «Bu, yoxsa o?» və «Nəyi seçərdin?» kimi
+  digər söhbət oyunları da eyni şəkildə işləyir: faktları yox, fikirləri və
+  xatirələri paylaşmağa dəvət edir. Turları qısa saxlayın, insanın imtina
+  etməsinə icazə verin və heç vaxt təxminləri saymayın.
 keyPoints:
-  - "Əşyanı və ya heyvanı şəxsin özünün seçməsinə imkan verin ki, o, bu işin ustadı olsun. Siz suallar verirsiniz, o isə « bəli » və ya « xeyr » deyir."
-  - "Ötürməyə, işarə verməyə və ya ipucu istəməyə icazə verin. Heç vaxt hesab aparmayın və neçə sualın verildiyini saymayın."
-  - "Şəxsin öz həyatından tanış şeyləri seçin, məsələn, sevdiyi yemək, alət və ya yer."
-  - "« Nəyi daha çox istərdiniz...? » və ya « Hansını daha çox sevirsiniz? » kimi rəy sualların səhv cavabı yoxdur."
-  - "Şəxs marağını itirəndə oyunu bitirin. İki-üç raund kifayətdir."
+  - "Əşyanı və ya heyvanı qayğı göstərdiyiniz insan fikirləşsin ki, cavabı bilən özü olsun. Sualları siz verin, o isə bəli və ya xeyr cavabı versin."
+  - "İmtina etməyə, ipucu almağa və ya jestlə cavab verməyə icazə verin. Heç vaxt xal verməyin və neçə sual lazım olduğunu saymayın."
+  - "İnsanın öz həyatından tanış, gündəlik şeylər seçin: sevimli yemək, alət və ya bir yer kimi."
+  - "«Hansını üstün tutarsan?» və ya «Hansını daha çox sevirsən?» kimi rəy suallarının düzgün və ya səhv cavabı olmur."
+  - "İnsanın marağı azaldıqda oyunu bitirin. İki və ya üç tur kifayətdir."
 faq:
-  - q: "İyirmi sual demans olan insanlar üçün yaxşıdırmı?"
-    a: "Bəli, bu o halda ola bilər ki, cavabı şəxs düşünsün və heç kim sınaqdan keçməsin. Əgər bu, sınaq kimi oynanılarsa, yəni qayğısına qalan şəxs şəxsin yadda saxlamalı olduğu bir faktı təxmin edirsə, bu, imtahan kimi hiss oluna bilər. Qaydaları açıq və mehriban saxlayın."
-  - q: "İyirmi sualda şəxs nəyi düşünə bilər?"
-    a: "Sadə və tanış şeylər ən yaxşı işləyir: meyvə, heyvan, alət, çiçək növü, mebel parçası və ya yaxşı tanıdığı yer. Mücərrəd anlayışlardan, adamların adlarından və kədər doğura biləcək şeylərdən çəkinin."
-  - q: "Şəxs « bəli » və ya « xeyr » deyə bilmirsə, necə olar?"
-    a: "İşarələrdən istifadə edin: baş barmağı yuxarı və ya aşağı qaldırmaq, ya da şəkil kartını göstərmək. Həmçinin yüksək səslə təxminlər edə bilərsiniz və şəxs başını tərpətməklə, gülümsəməklə və ya bir sözlə cavab verə bilər."
-  - q: "Demans olan yaşlılar üçün başqa söhbət oyunları varmı?"
-    a: "Var. « Bu yoxsa o? » sualı iki şeydən hansını üstün tutduğunu soruşur. « Nəyi seçərdiniz? » sualı rəy istəyir. Golden Moments-in söhbət kartları kimi açıq sualları olan kart oyunu isə gündəlik həyat haqqında hekayələrə şərait yaradır."
+  - q: "İyirmi sual oyunu demans yaşayan insanlar üçün uyğundurmu?"
+    a: "Bəli, cavabı düşünən şəxs özü olduqda və heç kim yoxlanılmadıqda uyğun ola bilər. Qayğı göstərən şəxsin insanın xatırlamalı olduğu bir faktı tapmağa çalışdığı yoxlama şəklində istifadə edildikdə isə bu, imtahan kimi hiss oluna bilər. Qaydaları açıq və mehriban saxlayın."
+  - q: "İyirmi sual oyununda insan nə fikirləşə bilər?"
+    a: "Sadə, tanış şeylər ən yaxşı seçimdir: bir meyvə, heyvan, alət, gül növü, mebel parçası və ya yaxşı tanıdığı bir yer. Mücərrəd anlayışlardan, insanların adlarından və kədər yarada biləcək hər şeydən uzaq durun."
+  - q: "Bəs insan bəli və ya xeyr deyə bilmirsə?"
+    a: "Jestlərdən, baş barmağı yuxarı və ya aşağı hərəkətindən istifadə edin və ya şəkil kartına işarə etməyi təklif edin. Siz həmçinin təxminləri ucadan söyləyə və insanın baş işarəsi, təbəssüm və ya bir sözlə cavab verməsinə imkan yarada bilərsiniz."
+  - q: "Demans yaşayan yaşlı insanlar üçün başqa söhbət oyunları varmı?"
+    a: "Bəli. «Bu, yoxsa o?» oyununda iki seçimdən hansını üstün tutduğunu soruşursunuz. «Nəyi seçərdin?» oyunu isə bir fikir soruşur. Golden Moments söhbət kartları kimi açıq suallar olan kart oyunu gündəlik həyat haqqında xatirələri paylaşmağa dəvət edir."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,51 +46,51 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Bir çox ailələr birlikdə oynamaq üçün sınaq kimi deyil, söhbət kimi hiss olunan bir oyun axtarır. İyirmi sual və buna oxşar təxmin oyunları yaxşı işləyə bilər, çünki qaydaları sadədir və söhbət istənilən istiqamətə gedə bilər. Əsas məsələ adi rolları tərsinə çevirməkdir: cavabı şəxs düşünür, siz isə soruşursunuz. Bu səhifədə həmin oyunların necə yumşaq şəkildə oynanılacağı və demans olan insanlara hansı söhbət oyunlarının uyğun olduğu izah olunur.
+Bir çox ailə birlikdə oynamaq üçün imtahan kimi deyil, söhbət kimi hiss olunan bir oyun axtarır. İyirmi sual və oxşar təxmin oyunları yaxşı seçim ola bilər, çünki qaydalar sadədir və söhbət istənilən istiqamətə gedə bilər. Əsas məqam adi rolları dəyişməkdir: cavabı qayğı göstərdiyiniz insan fikirləşir, sualları isə siz verirsiniz. Bu səhifədə bu oyunları necə mehriban şəkildə oynatmaq və demans yaşayan insanlar üçün hansı söhbət oyunlarının uyğun ola biləcəyi izah edilir.
 
 ## Adi qaydaları niyə dəyişmək lazımdır?
 
-Adi viktorinada biri soruşur, digəri isə bilməlidir. Bu, demans olan insanı səhv etmə riski olan vəziyyətə salır və səhv etmək onu incidə bilər. Əgər şəxs əşyanı özü seçirsə və təxmin işini siz görürsünüz, o, ustad olur. Cavabı o saxlayır, nə zaman « bəli » və ya « xeyr » deyəcəyinə o qərar verir və sizin səhv təxmin etdiyinizi görməkdən zövq ala bilir.
+Adi bir yoxlamada bir nəfər sual verir, digəri isə cavabı bilməlidir. Bu, demans yaşayan insanı uğursuz ola biləcəyi bir vəziyyətə sala bilər və bu, onu kədərləndirə bilər. Əşyanı o seçib təxminləri siz etdikdə, cavabı bilən şəxs o olur. Cavab onda olur, nə vaxt bəli və ya xeyr deyəcəyinə o qərar verir və sizin cəhdlərinizi izləməkdən zövq ala bilər.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) qayğıkeşlərə qısa və sadə cümlələr, hər dəfə bir sual və sakit, səbirli ton işlətməyi tövsiyə edir. Bu vərdişlər təxmin oyunlarına yaxşı uyğundur.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) qayğı göstərən şəxslərə qısa, sadə cümlələrdən istifadə etməyi, hər dəfə yalnız bir sual verməyi və sakit, səbirli bir tonda danışmağı tövsiyə edir. Bu vərdişlər təxmin oyunlarına çox uyğundur.
 
-## İyirmi sualı necə yumşaq oynamaq olar
+## İyirmi sual oyununu mehriban şəkildə necə oynamaq olar
 
-1. **Mövzu seçin.** Şəxsin həyatından bir mövzu götürün, məsələn, mətbəx, bağ, heyvanlar və ya dəniz kənarı.
-2. **Şəxsin bir şey düşünməsinə icazə verin** və onu sakitcə deyin, ya da eşitməyinizə ehtiyac qalmaması üçün şəkil kartı göstərin.
-3. **Hər dəfə bir « bəli » və ya « xeyr » sualı verin.** « Bu yeyilən şeydir?» « Ayaqqabıdan böyükdürmü?»
-4. **Hər cavabı qəbul edin.** Baş tərpətmək, başı silkələmək və ya gülmək də cavab sayılır.
-5. **Təxminlərinizi yüksək səslə deyin və onlardan zövq alın.** Düz təxmin etsəniz, birlikdə sevinin.
-6. **Şəxs çətinlik çəkəndə ipucu verin:** « Bu mətbəxdə olan bir şeydir.»
-7. **Sualları heç vaxt saymayın** və heç vaxt hesab aparmayın.
+1. **İnsanın həyatından bir mövzu seçin**, məsələn mətbəx, bağ, heyvanlar və ya dəniz kənarı.
+2. **Onun bir şey fikirləşməsinə icazə verin** və bunu sakitcə desin və ya eşitməyiniz lazım olmaması üçün şəkil kartı göstərsin.
+3. **Hər dəfə yalnız bir bəli-xeyr sualı verin.** «Bu, yemək üçün bir şeydirmi?» «Bu, ayaqqabıdan böyükdürmü?»
+4. **Hər hansı cavabı qəbul edin.** Başın tərpədilməsi, başın yellənməsi və ya gülüş də cavab sayılır.
+5. **Təxminləri ucadan söyləyin** və bundan zövq alın. Düz tapsanız, birlikdə sevinin.
+6. **İnsan çaşqın görünəndə ipucu verin:** «Bu, mətbəxdə olan bir şeydir.»
+7. **Heç vaxt sualları saymayın** və xal verməyin.
 
-Əgər şəxs qaydaları izləyə bilmirsə, daha sadə variant seçin: siz bir neçə şey deyin, o isə düzgün olanı göstərsin.
+Əgər insan qaydaları izləyə bilmirsə, daha sadə bir variant seçin: siz bir neçə şey adını çəkirsiniz, o isə doğru olanı göstərir.
 
-## Hansı şeyləri seçmək yaxşıdır
+## Fikirləşmək üçün yaxşı seçimlər
 
-- Sevdiyi meyvə, tərəvəz və ya çiçək
-- Fermadan, zooparkdan və ya keçmişdə saxladığı heyvan
-- Çəkic, kürək və ya tikiş iynəsi kimi alət
-- Mebel parçası və ya ev əşyası
-- Yaxşı tanıdığı yer, məsələn, park və ya şəhər
-- Sevdiyi geyim parçası
+- Sevimli bir meyvə, tərəvəz və ya gül
+- Fermadan, zooparkdan bir heyvan və ya əvvəllər sahib olduğu ev heyvanı
+- Çəkic, dırmıq və ya tikiş iynəsi kimi bir alət
+- Mebel və ya məişət əşyası
+- Park və ya şəhər kimi yaxşı tanıdığı bir yer
+- Geyinməyi sevdiyi bir geyim parçası
 
-Adamların adlarından, kədər doğura biləcək şeylərdən və təhlükəli və ya asanlıqla qarışdırılan əşyalardan çəkinin.
+İnsanların adlarından, kədər yarada biləcək hər şeydən və təhlükəli ola bilən və ya asanlıqla qarışdırıla bilən əşyalardan uzaq durun.
 
-## Digər söhbət oyunları
+## Daha çox söhbət oyunu
 
-- **Bu yoxsa o?** İki variant təklif edin və hansını üstün tutduğunu soruşun: çay yoxsa qəhvə, dağlar yoxsa dəniz, qırmızı paltar yoxsa mavi. Düzgün cavab yoxdur.
-- **Nəyi seçərdiniz?** Yüngül, mehriban sual verin: « Piknikmi, yoxsa restoranda şam yeməyimi daha çox istərdiniz?»
-- **Məşhur deyimi tamamlayın.** Tanış ifadənin sonunu açıq qoyun. Rəhbərlik üçün [deyimləri tamamlama oyunlarımıza](/activities/finish-the-saying/) baxın.
-- **Yeri adlandırın.** Ən sevdiyi otaq, şəhər və ya mənzərəni təsvir etməyi xahiş edin və onu sizin də təsəvvür etməyinizi istəyin.
-- **Açıq sualları olan kartlar.** [Söhbət kartlarımız](/games/conversation-cards/) mövzuya görə açıq suallar verir və masa üçün çap oluna bilər.
+- **Bu, yoxsa o?** İki seçim təklif edin və hansını üstün tutduğunu soruşun: çay, yoxsa qəhvə, dağlar, yoxsa dəniz, qırmızı paltar, yoxsa mavi. Burada düzgün cavab yoxdur.
+- **Nəyi seçərdin?** Mehriban, yüngül bir sual verin: «Piknik etməyi, yoxsa çöldə nahar etməyi seçərdin?»
+- **Atalar sözünü tamamla.** Sonu açıq buraxılmış tanış bir ifadə. Bələdçi üçün [atalar sözünü tamamlama oyunları](/activities/finish-the-saying/) səhifəmizə baxın.
+- **Yeri təsvir et.** Sevimli bir otağı, şəhəri və ya mənzərəni təsvir etməsini istəyin və onu sizinlə birlikdə canlandırmağa dəvət edin.
+- **Açıq suallı kartlar.** [Söhbət kartlarımız](/games/conversation-cards/) mövzuya görə açıq suallar təqdim edir və süfrə üçün çap oluna bilər.
 
-Yaddaş və həyat hekayəsinə əsaslanan digər ideyalar üçün [xatirə suallarına](/activities/reminiscence-questions/) baxın. Viktorina tipli əyləncəni yumşaq formada istəyirsinizsə, [demans olan yaşlılar üçün asan viktorinaya](/activities/trivia/) baxın; orada seçimlər var və xal hesablanmır.
+Yaddaş və həyat hekayəsinə əsaslanan daha çox fikir üçün [xatirələri canlandıran suallar](/activities/reminiscence-questions/) səhifəsinə baxın. Yoxlama tərzində, lakin daha yumşaq əyləncə üçün seçimlərdən istifadə edən və xal verməyən [demans yaşayan yaşlılar üçün asan viktorina sualları](/activities/trivia/) səhifəsinə baxın.
 
-## Şəxs narahat olarsa nə etməli?
+## Bəs insan əsəbiləşərsə?
 
-Dayanın, gülümsəyin və deyin: « Gəlin başqa bir şey oynayaq.» Narahatlıq oyunu dəyişmək üçün siqnaldır, daha çox təzyiq göstərmək üçün yox. [Demans olan biri ilə oyunları necə oynamaq olar](/caregiving/how-to-play-together/) bələdçisi qaydaları anında necə dəyişməyi izah edir.
+Dayanın, gülümsəyin və «Gəl başqa bir şey oynayaq» kimi bir cümlə deyin. Əsəbilik oyunu daha çox sıxışdırmaq üçün deyil, oyunu dəyişmək üçün bir işarədir. [Demans yaşayan biri ilə necə oynamaq olar](/caregiving/how-to-play-together/) bələdçimiz qaydaları dərhal necə dəyişmək barədə izah edir.
 
-## Oyunlar nə edə bilər və nə edə bilməz
+## Oyunlar nə edə bilər, nə edə bilməz
 
-Söhbət oyunları xoşdur və insanları bir-birinə yaxınlaşdırır. Onlar insanlara ünsiyyət qurmaqda və hekayələri paylaşmaqda kömək edə bilər. Onlar demansı müalicə etmir, onun gedişini yavaşlatmır və ya qarşısını almır. Məqsədi sadə saxlayın: birlikdə isti bir an yaşamaq.
+Söhbət oyunları xoş və ünsiyyətcil fəaliyyətlərdir. Onlar insanların əlaqə qurmasına və xatirələrini paylaşmasına kömək edə bilər. Onlar demansı müalicə etmir, yavaşlatmır və ya qarşısını almır. Məqsədi sadə saxlayın: birlikdə keçirdiyiniz mehriban bir an.

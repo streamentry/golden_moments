@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Kopona ba apps mpe masano ya bokɔnɔ bwa kobosana"
+seoTitle: "Kopona ba apps mpe masano ya bokɔnɔ bwa kobosana"
+description: "Liste mpo na babateli: pona app to lisano malamu, boya na ba ntango, piblisite mpe kotala makambo ya kobatela makambo ya moto ye moko."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Banda na koyeba nini olingi ete app esala: kolendisa malembe, kobanzisa makambo ya kala,
+  kokitisa motema to kozala elongo. Na sima, pona oyo ekokani na makoki ya moto oyo ozali
+  kobatela lelo, na bilili ya minene, kozanga ntango ya kosukisa, kotánga ba points to
+  piblisite, mpe na ndenge ya pete ya kotika. Tala soki ezwaka makambo nini, soki ekabolaka
+  yango, mpe soki okoki kolongola yango. Zala na bokebi na maloba oyo elobi ete app epekisaka
+  to esalisaka bokɔnɔ bwa kobosana; bolukiluki moko te ezali elembo ya solo.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Yeba liboso mokano: kolendisa malembe, kobanzisa makambo ya kala, kokitisa motema to kozala elongo esengaka ba apps ndenge na ndenge."
+  - "Talá makoki ya moto yango mokolo na mokolo, kasi te nkombo ya etape, mpe tiká ete kosalela yango ezala pete."
+  - "Boya na ba apps oyo ezali na ntango ya kosukisa, ba points, bomoi, milongo ya kolonga, piblisite to masengi ya kosomba."
+  - "Talá soki app ezwaka makambo nini, ekabolaka yango na nani mpe ndenge ya kolongola yango. Mbala mingi HIPAA ezipaka te ba apps ya bato nyonso."
+  - "Zala na bokebi na maloba ya « epekisaka bokɔnɔ bwa kobosana ». Bolukiluki moko, to kozwa ba points ya malamu na app, ezali te elembo."
+  - "Golden Moments ezali mosala ya bosepeli. Etindi te ete esalaka lolenge ya minganga."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Ba masano mpo na bongo ekoki kopekisa bokɔnɔ bwa kobosana?"
+    a: "Bilembo ya malamu ezali te mpo na koloba ete ba apps ya mombongo mpo na masano ya bongo epekisaka to elekisaka malembe bokɔnɔ bwa kobosana. National Institute on Aging elobi ete bilembo ezali naino mingi te mpo na kondimisa ete ba apps oyo ezali na zando ezali na bopusi ndenge moko na mateya ya ebongisami oyo bamekaki na bolukiluki monene. Poná ba apps mpo na bosepeli mpe kozala elongo, kasi te lokola nkisi."
+  - q: "App ya bokɔnɔ bwa kobosana ezipami na HIPAA?"
+    a: "Mbala mingi te. HIPAA etalelaka mingi mingi bato ya misala ya bokolongono, ba plans ya bokolongono mpe baninga na bango ya mosala. App oyo ozwi yo moko mbala mingi ezipami te, longola kaka soki epesami na moko na bango. Mobeko ya FTC ya Health Breach Notification Rule ezipaka ba apps ebele ya bokolongono oyo HIPAA ezipaka te."
+  - q: "Lisano ya malamu mpo na bokɔnɔ bwa kobosana esengeli kozala ndenge nini?"
+    a: "Bilili mpe makomi ya minene mpe ya polele, likambo moko ya polele ya kosala na écran moko na moko, kozanga ntango ya kosukisa to kotánga ba points, kozanga makelele ya mabe mpo na libunga, kozanga piblisite, mpe ndenge ya pete ya kopema to kotika. Esengeli komonana lokola esalemi mpo na bakolo, mpe ezala pete mpo na moto mosusu kosangana."
+  - q: "Golden Moments elobi ete esalisaka bokundoli?"
+    a: "Te. Golden Moments epesaka misala ya pete ya kosala elongo mpo na bosepeli mpe masolo. Epesaka te diagnostiiki, esalisaka te, epekisaka te, to emekaka te bokɔnɔ bwa kobosana, mpe totindi te makambo oyo etali bokundoli to makanisi."
+  - q: "Nasengeli kofuta mpo na app ya bokɔnɔ bwa kobosana?"
+    a: "Meká liboso ba apps ya ofele to oyo okoki komeka ofele, mpe talá ndenge moto yango azali koyoka na boumeli ya baposo mibale. Kofuta app esalaka te ete ezala malamu koleka. Talá ndenge ya kosukisa abonnema liboso ya kokoma."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Ba esika ya kozwa ba apps etondi na masano oyo bakomi mpo na mikóló, bokundoli to bokɔnɔ bwa kobosana. Mingi esalemi malamu. Misusu ebakisi maloba ya lokuta ya bokolongono, ba ntango ya kosukisa oyo ekómisi lisano lokola ekzamɛ, to piblisite mpe kozwa makambo ya moto. Lokasa oyo epesi yo ndenge ya kotala app nyonso yo moko. Totyá te ba apps mosusu na molɔngɔ mpe tososolaka te mosusu.
 
-## What should I decide before choosing a dementia app?
+## Nasengeli koyeba nini liboso ya kopona app ya bokɔnɔ bwa kobosana?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Yeba liboso nini olingi ete app esala. « Lisano mpo na mama » ekoki koloba makambo ndenge na ndenge, mpe oyo ebongi mpo na mokano moko ekoki kozala mabe mpo na mosusu.
 
-| Goal | What it looks like | What to look for |
+| Mokano | Ezali ndenge nini | Luka nini |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Kolendisa malembe | Kokokanisa, kotya na molɔngɔ, masano ya pete, masano ya maloba | Makoki oyo okoki kobongola, bilili oyo etikala komonana, kozanga kokama |
+| Kobanzisa makambo ya kala | Bafɔtɔ ya kala, maloba oyo eyebani, miziki ya bolenge na bango | Bafɔtɔ na yo moko, mituna ya polele, kozanga mituna ya ekzamɛ |
+| Kokitisa motema | Bilili ya malembe, makelele ya kimya, kopema, bilili ya bozalisi | Kobanda mpe kotika na pete, eloko moko te ya kopela noki, kozanga makambo ya kokamwa |
+| Kozala elongo | Kosakana to kosolola elongo, na elongi to na video | Esalemi mpo na bato mibale, maloba mpo na kobimisa masolo |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Bolukiluki mingi oyo etali « kolendisa makanisi » mpo na bato oyo bazali kobika na bokɔnɔ bwa kobosana esalemaka mingi na bituluku oyo bato ya mayele batambwisaka, na masolo, masano ya maloba, masano ya pete, miziki mpe misala ya bokeli. [Botalisi ya Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) emonaki matomba mike na moyenne, kasi ekeseni kati na bolukiluki. Manaka ya ndenge wana, ya bato mingi mpe ndenge na ndenge, ezali te ndenge moko na app oyo moto asalelaka ye moko. Yango wana, talá app lokola mosala moko kati na misala ebele oyo bokoki kosala elongo.
 
-## How do I know if an app fits the person's abilities?
+## Nakoyeba ndenge nini soki app ekokani na makoki ya moto yango?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Talá ndenge azali koyoka mpe kosala, na esika ya kotala kaka nkombo ya bokɔnɔ to etape. Bato mibale na « etape moko » bakoki kokesana mingi na komona, koyoka, kosalela maboko, koloba mpe ndenge bazali komiyoka na ba écrans. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) elendisi kobatela makambo oyo moto alingaki kala mpe makoki na ye ya lelo, mpe kotya likebi na bosepeli, kasi te na kolonga.
 
-Signs of a good fit:
+Bilembo oyo elakisi ete ekokani malamu:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- abandaka to asanganaka na pete, kozanga kolendisa mingi;
+- aseki, alobi to ayebisi lisolo;
+- mabunga epesaka ye pasi te;
+- andimi kotika ntango esengeli.
 
-Signs it is a poor fit:
+Bilembo oyo elakisi ete ekokani te:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- alobi mbala na mbala « nakoki te » to « oyo ezali ya bozoba »;
+- ayebi te nini asengeli kofina;
+- amiyoki mabe, ayoki soni to atindikaka aparɛyi mosika;
+- esalaka kaka soki osali pene nyonso.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Komiyoka mabe ezali elembo, ezali te eloko ya kolekela makasi. Talá [nini kosala soki aboyi](/caregiving/when-they-say-no/). Mpo na makanisi mosusu oyo etali bitape, kasi te kaka ba apps, talá misala mpo na [etape ya ebandeli](/activities/early-stage/) mpe [etape ya suka](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Ezali na makambo nini ya bomoni nasengeli koluka to koboya?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Luká bomoni ya kimya, ya pete mpe mpo na bakolo, mpe boyá nyonso oyo ekɔtisaka kokama.
 
-| Look for | Be wary of |
+| Luká | Zalá na bokebi na |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Bilili mpe makomi ya minene, bokeseni ya malamu | Bililingi ya mike, ba écrans etondi mingi |
+| Likambo moko ya polele na écran moko | Ba boutons ebele, ba menu, to malako ebele |
+| Kozanga ntango ya kosukisa, to oyo okoki kozipa | Kotánga tango, lifuti mpo na mbangu, « longa tango na yo » |
+| Kozanga kotánga ba points, to eyano ya malembe | Ba points, bomoi, milongo ya kolonga, classement, « mbula ya bongo » |
+| Mabunga ezwamaka na kimya | Makelele ya mabe, bilembo ya X motane, maloba « Libunga » |
+| Bilili ya bakolo mpe ya bomoi ya mokolo na mokolo | Bilili ya bana to ya masano ya bana |
+| Esalaka kozanga internet, ekosenga te kokoma liboso ya kobanda | Esengeli kokoma nkombo, kokɔta to kozwa biloko liboso |
+| Kopema mpe kotika na pete | Ba fenêtres oyo etuni mpo na kokoba to kopesa makanisi na app |
+| Kozanga piblisite, ntalo ya polele ya mbala moko to abonnema | Piblisite, biloko ya kosomba na kati, masengi ya kosomba mbala na mbala |
+| Ezali pete mpo na moto mosusu kosangana | Ezali kaka mpo na moto moko, lolenge ya kobunda |
 
-Ads and purchase prompts are easy to tap by accident.
+Piblisite mpe masengi ya kosomba ekoki kofinamaka na libunga.
 
-## How do I check an app's privacy?
+## Ndenge nini nakoki kotala ndenge app ebatelaka makambo ya moto?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Talá makambo nini app ezwaka, ekabolaka yango na nani, mpe soki okoki kolongola yango. Liboso ya kokɔtisa yango:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Tangá bokuse ya kobatela makambo ya moto na esika ya ba apps.** [Eteni ya Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ya Google Play mpe [eteni ya makambo ya kobatela ya moto](https://support.apple.com/en-us/102399) ya App Store elakisaka ndenge ya makambo oyo app ekoki kozwa mpe kokabola. Bingumba nyonso mibale elobi ete basaleli ya ba apps bapesaka bango moko makambo oyo, yango wana ezali ebandeli, kasi te botalisi ya kokoka.
+2. **Tuná soki esengeli kokoma nkombo.** Soki app elakisaka kaka bilili to masano ya pete, mbala mosusu ezali na ntina te ya koyeba nkombo na yo, email to mokolo ya mbotama.
+3. **Talá ndingisa.** Lisano ya kokokanisa esengeli mpenza koyeba esika ozali, bato ya contact, mikro to bafɔtɔ na yo nyonso? Longolá nyonso oyo esengeli te.
+4. **Luká piblisite mpe bisaleli ya botalisi.** Bisaleli ya piblisite mpe ya kolanda ekoki kotinda makambo ya ndenge app esalelamaka epai ya bingumba mosusu.
+5. **Yebá esika bafɔtɔ ekendaka.** Soki obakisi bafɔtɔ ya libota, etikala na aparɛyi to ekendaka na serveur? Okoki kolongola yango?
+6. **Talá ndenge ya kolongola.** Luká na politiki ya kobatela makambo ya moto to na bokuse ya data ndenge ya kolongola makambo mpe compte. App oyo elobi ete makambo ekoki kolongolama te esengeli bokebi mingi, mingi mingi soki ebombi bafɔtɔ to makambo ya bokolongono.
+7. **Tangá politiki ya kobatela makambo ya moto** mpo na biyano ya polele: nini ezwamaka, mpo na nini, boumeli boni, mpe ekabolami na nani.
 
-### Does HIPAA protect information in dementia apps?
+### Boni, HIPAA ebatelaka makambo na ba apps ya bokɔnɔ bwa bokosana?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Mbala mingi te, mpe yango ekamwisaka bato ebele. Departema ya Bokolongono mpe Misala ya Bato ya États-Unis [elobaka](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ete HIPAA etalelaka ba plans ya bokolongono, mingi ya bato ya misala ya bokolongono, ba centres ya kokabola makambo ya bokolongono mpe baninga na bango ya mosala. Na makambo mingi, ebatelaka te makambo oyo okɔtisi na app mpo na kosalela yo moko, longola kaka soki ebongiseli oyo ezipami to moninga na yango ya mosala nde apesaki app. « App ya bokɔnɔ bwa kobosana » oyo ewuti na esika ya ba apps mbala mingi ezali libanda ya HIPAA, ata soki elobaka makambo ya bokolongono.
 
-### What protects health data in apps that HIPAA does not cover?
+### Nini ebatelaka makambo ya bokolongono na ba apps oyo HIPAA ezipaka te?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Mobeko ya FTC ya Health Breach Notification Rule ezipaka mingi na yango. Na 2024, FTC [esilisaki mbongwana](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) mpo na komonisa polele ete mobeko yango etalelaka ba apps ya bokolongono mpe mayele ya ndenge wana oyo HIPAA ezipaka te. « Kobebisama » ezali mpe kokabola makambo kozanga ndingisa, kasi te kaka koyiba na internet, mpe bingumba esengeli koyebisa bato oyo etali yango mpe FTC. Yango ezali libateli sima ya likambo mabe, kasi te elaka ete app akozwa kaka makambo oyo esengeli.
 
-## How should I read claims about research and evidence?
+## Ndenge nini nasengeli kotánga maloba ya bolukiluki mpe bilembo?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Tangá maloba ya bilembo malembe, mpe zalá na bokebi mingi na bilaka ya minene koleka. Mituna ya kotuna:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Nini mpenza bamekaki?** Bolukiluki ya manaka moko elakisi te ete masano nyonso na app esalaka ndenge moko.
+- **Banani bamekaki?** Mbano oyo ezwami epai ya mikóló ya nzoto kolongono ekoki kokokana te na moto oyo azali kobika na bokɔnɔ bwa kobosana.
+- **Bamekaki nini?** Kokoma malamu na lisano yango moko ekeseni na mbongwana na bomoi ya mokolo na mokolo, masolo, ndenge ya komiyoka to kokoka kosala makambo ye moko.
+- **Bolukiluki yango ezali makasi ndenge nini?** Bolukiluki ya ndenge ya RCT ekokanisaka etuluku oyo esalelaka app na etuluku mosusu oyo esalelaka yango te. Ezali lolenge ya malamu, kasi RCT moko ya moke to ya mokuse ezali te elembo. Luká bolukiluki ebele, oyo basaleli ya bolukiluki ya ndenge mosusu basali, oyo endimi likanisi moko.
+- **Elobi ete ekobongola bokɔnɔ yango?** Bolukiluki oyo emonisi bobongwana moke na ekzamɛ ezali te elembo ete app elekisaka malembe, epekisaka to esalisaka bokɔnɔ bwa bokosana.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Lokasa ya National Institute on Aging na [bokolongono ya makanisi mpo na mikóló](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) elobeli bolukiluki monene oyo NIH afutaki mpo na mateya ya makanisi oyo ebongisami, mpe na sima ekebisi batángi na maloba oyo elobi ete masano mosusu ya ordinatɛrɛ mpe ya internet ekoki kobongisa bokundoli mpe makanisi. Elobi ete bilembo ezali naino mingi te mpo na koloba ete ba apps ya mombongo ya mateya ya bongo ezali na bopusi ndenge moko na mateya oyo bamekaki na bolukiluki yango. Okoki kotánga makambo mosusu na lisolo na biso ya [masano ya bongo mpe bilembo](/brain-health/brain-games/) mpe [nini bolukiluki elobi mpo na kopekisa bokɔnɔ bwa kobosana](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Ndakisa nini ya polele ezali mpo na maloba ya lokuta?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Na sanza ya yambo 2016, FTC [eyebisaki boyokani](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) na basaleli ya Lumosity, manaka ya « mateya ya bongo ». FTC elobaki ete kompanyi yango etindaki, kozanga bilembo ya kokoka, ete masano na yango ekoki kopekisa kokita ya makanisi oyo ekómaka na mbula, mpe kobatela liboso ya bokɔnɔ ya makanisi ya moke, bokɔnɔ bwa kobosana mpe bokɔnɔ ya Alzheimer. Kompanyi endimaki kofuta $2 million mpe esengeli kozala na bilembo ya siansi ya malamu mpe ya kotyela motema liboso ya kotinda maloba ya ndenge wana na mikolo ekoya. Likambo oyo ezali bokundoli ya malamu ete maloba ya mombongo ezali te bilembo.
 
-### Which words are red flags?
+### Maloba nini esengeli kopesa bokebi?
 
-Be cautious when an app or ad says it:
+Zalá na bokebi soki app to piblisite elobi ete:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- « epekisaka », « ezongisaka », « etelemisaka » to « esilisaka » bokɔnɔ bwa bokosana to Alzheimer;
+- « emonisami na minganga » kasi elobi te bolukiluki nini, banani bazalaki na kati, mpe nini bamekaki;
+- epesaka « mbula ya bongo » to motuya ya bokundoli oyo emonisi lokola diagnostiiki;
+- ekoki « kopɛtola », « komatisa » to « koteya » bongo;
+- esalelaka litatoli ya bato lokola elembo.
 
-If you are unsure about a claim, ask the person's doctor.
+Soki ozali na ntembe na likambo moko, tuná minganga ya moto yango.
 
-## Where does Golden Moments fit?
+## Golden Moments ezali na esika nini?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments epesaka misala ya pete ya kosala elongo, kasi te ekzamɛ ya bokundoli, lisalisi ya mateya ya bongo to toli ya minganga. Masano na biso, lokola [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) mpe [Calm Breathing](/games/calm-breathing/), esalemi mpo na bosepeli mpe masolo. Epesaka te diagnostiiki, esalisaka te, epekisaka te, to emekaka te bokɔnɔ bwa kobosana, mpe totindi te makambo oyo etali bokundoli to makanisi.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Tosali mpe app ya ofele, [Golden Moments mpo na iPhone, iPad mpe Android](/app/). Ezali na masano ya malembe ya kokokanisa bilili na biteni ya minene, masano na bafɔtɔ ya libota oyo oponi yo moko mpe maboke ya bilili oyo esalaka kozanga internet, kozanga kokoma nkombo, piblisite, ntango ya kosukisa to kotánga ba points. Liste moko yango ekoki kosalelama: elembo ya App Store mpo na kobatela makambo ya moto elobi « Data Not Collected », mpe [politiki ya kobatela makambo ya moto ya app](/app-privacy/) elimboli esika bakopi ya bafɔtɔ ebombami.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Tolingi nde otala biso yo moko na esika ya kondima biso kaka. Salelá liste oyo ezali na lokasa oyo, tangá [lokasa na biso ya kobatela makambo ya moto](/privacy/) mpe [boyebisi na biso ya makambo ya minganga](/medical-disclaimer/), mpe tiká kosalela eloko nyonso, ata oyo ya biso, soki ekokani te na moto oyo ozali kobatela.
 
-## What is a sensible way to try a new app?
+## Ndenge nini ya malamu mpo na komeka app ya sika?
 
-Try it together for a couple of weeks and watch what happens.
+Meká yango elongo na boumeli ya baposo mibale mpe talá nini ekoleka.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Bongisá yango liboso** na kosalelaka [lisolo na biso ya kobongisa tableti mpe telefone](/caregiving/tablets-and-screens/), mpe bandá na nivo ya pete koleka.
+2. **Batélá ntango ya kosakana mokuse,** talá minyoko, masolo mpe kimya, mpe sukisá na eleko ya malamu.
+3. **Tiká yango soki epesaka pasi,** ata soki bato mingi balobi ete ezali malamu.

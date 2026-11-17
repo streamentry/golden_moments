@@ -1,35 +1,37 @@
 ---
-title: "Yeroo nama dementia wajjin jiraatu hojii didu ykn itti aaru"
-seoTitle: "Nama dementia hojii didu: maal gochuu qabdu"
-description: "Maaliif nama dementia wajjin jiraatu hojii didu ykn itti aaru, maal yaaluu, maal irraa of qusachuu, fi yeroo jijjiirama tasaa doktora barbaadu."
+title: "Yeroo namni dementia waliin jiraatu hojii didu ykn aaru"
+seoTitle: "Yeroo namni dementia waliin jiraatu hojii didu"
+description: "Maaliif namni dementia waliin jiraatu hojii diduu ykn aaruu danda’u, maal yaaluun akka danda’amu, maal irraa fagaachuu fi yoom dhibeen tasa kan doktora gaafatu ta’u."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Yeroo nama dementia wajjin jiraatu “lakki” jedhu, tasgabbaa’aa fudhadhaa,
-  booda deebi’ii yaalaa ykn wanta biraa dhiyeessaa. Diduun yeroo baay’ee sababa
-  qaba: hojichi ulfaataa ykn kan daa’imaaf fakkaata, dadhabbii, dhukkubbii,
-  beela, ykn sagalee baay’een isaan dhiphisa. Hin morkinaa, hin dirqisiisinaa.
-  Salphisaa, filannoo lama kennaa, ykn akka isin gargaaran gaafadhaa. Amala
-  tasaa ykn saffisaan jijjiiramu, keessumaa dhukkuba ykn qoricha haaraa booda,
-  battalumatti doktoraaf himaa.
+  Yeroo namni dementia waliin jiraatu «lakki» jedhu, tasgabbiin fudhadhaa;
+  yeroo biraa irra deebi’aa yaalaa ykn waan biraa dhiheessaa. Diduun yeroo
+  baay’ee sababa qaba: hojiin sun ulfaataa yookaan ijoolleessaaf fakkaachuu
+  danda’a, inni dadhabaa, dhukkubsataa, beela’aa, dheebotaa, ykn sagalee
+  baay’eedhaan jeeqamuu danda’a. Hin falminaa, hin dirqisiisinaa. Salphisaa,
+  filannoo lama dhiheessaa, ykn akka isin gargaaru gaafadhaa. Amalli tasa
+  jijjiiramu ykn saffisaan jijjiiramu, keessumaa yeroo dhibee daddarboo
+  yookaan qorichi haaraan booda yoo mul’ate, hatattamaan doktora gaafachuu
+  qaba.
 keyPoints:
-  - "“Lakki” jechuun deebii kabajamuu qabu dha, rakkoo mo’achuu qabnu miti."
-  - "Diduun yeroo baay’ee sababa qaba: hojichi ulfaataa, kan daa’imaaf fakkaatu, dadhabbii, dhukkuba, mijaa’aa ta’uu dhabuu, ykn wanti baay’een dhiphisuu."
-  - "Duubatti harkifadhaa, eegaa, booda ykn yeroo biraa, ykn bifa salphaa taasisanii deebi’anii yaalaa."
-  - "Akka isin gargaaran gaafachuun akka isaan agarsiisan gaafachuu caalaa gaarii dha."
-  - "Gonkumaa hin morkinaa, hin dirqisiisinaa, hin qoratinaa, hin sirreessinaa. Of ilaalaa: ariifachuu ykn nama cinaa dhiphisuu ta’a?"
-  - "Amala tasaa ykn saffisaan jijjiiramu, keessumaa dhukkuba ykn qoricha haaraa wajjin, battalumatti doktoraaf himaa."
+  - "«Lakki» jechuun deebii kabajamuu qabuudha, rakkoo mo’amuuf miti."
+  - "Diduun yeroo baay’ee sababa qaba: ulfaataa, ijoolleessaaf fakkaataa, dadhabina, dhukkuba, miira gaarii dhabuu, ykn jeeqama."
+  - "Duubatti deebi’aa, eegaa, yeroo biraa, yeroo adda ta’een, ykn bifa salphaa ta’een irra deebi’aa yaalaa."
+  - "Akka hojjetu gaafachuu irra, akka isin gargaaru gaafachuun caalaa hojjeta."
+  - "Gonkumaa hin falminaa, hin dirqisiisinaa, gaaffiin hin sakatta’inaa, hin sirreessinaa. Ofii keessan ariifachuu ykn itti dhihaachuu keessanis mirkaneeffadhaa."
+  - "Amalli tasa ykn saffisaan jijjiiramu, keessumaa dhibee daddarboo yookaan qorichoota haaraa waliin yoo dhufe, hatattamaan gara doktoraatti geessuu qaba."
 faq:
-  - q: "Hojii hunda dhiisuuf isaan gadhiisuun sirrii dhaa?"
-    a: "Eeyyee, guyyaa tokko tokko. Waliin taa’uu, muuziqaa dhaggeeffachuu ykn addunyaa ilaaluu qofti ga’uu danda’a. Yoo namni sun torban hedduuf wanta hundaa gammachuu dhabe, doktora isaaniitti himaa, sababni isaas miirri gadi bu’aa, dhukkubbii ykn rakkoon fayyaa biraa kan sanaan wal-qabate ta’uu danda’a."
-  - q: "Maaliif waan duraan jaallatan ni didu?"
-    a: "Hojiin durii amma dandeettii dementiaan ulfaate yoo barbaade nama dhiphisuu danda’a, namni sunis ni qaana’uu danda’a. Qaama hojichaa kan salphaa ta’e yaalaa, fakkeenyaaf huccuu hodhuu irra button garagalchuu, ykn biqiltuu dhaabuu irra suuraa dhaabaa ilaaluu."
-  - q: "Isaan amansiisuuf yaaluu qabaa?"
-    a: "Lakki. Nama waan dementiaan ulfaate akka hojjetu dhiibuun sababa jeequmsaa beekamaa dha. “Lakki” jedhu fudhadhaa, mata-duree jijjiiraa, booda ykn karaa biraan deebi’ii dhiyeessaa."
-  - q: "Yeroo kamitti jijjiiramni amalaa hatattamaa dha?"
-    a: "Yoo namni balaa keessa jiraate ykn mallattoon hatattamaa fayyaa jiraate, lakkoofsa yeroo hatattamaa naannoo keessanii bilbilaa. Wal-hin-beekuun tasaa ykn amalli sa’aatii ykn guyyoota keessatti saffisaan jijjiiramu, keessumaa ho’a, dhukkuba ykn qoricha haaraa wajjin, battalumatti doktora isaanii quunnamaa."
+  - q: "Guyyaa tokko tokkotti sochii hunda akka dhiisan eeyyamuu ni danda’amaa?"
+    a: "Eeyyee, guyyaa kamiyyuu irratti. Waliin taa’uu, muuziqaa dhaggeeffachuu, ykn addunyaa ilaaluun ga’aa ta’uu danda’a. Namni tokko torbanoota keessatti waan hunda gammaduu yoo dhiise, doktara isaanii itti himaa; miira gadhee, dhukkubbii ykn rakkoowwan fayyaa biroo akka hirmaatan ni danda’a."
+  - q: "Maaliif wantoota duraan jaallatan didu?"
+    a: "Hojii bashannanaa duraanii yeroo amma ogummaa dementia ulfaate gaafatu, namaaf nama nuffisiisaa ta’uu danda’a. Kutaa sochii sanatti salphaa ta’e yaalaa; fakkeenyaaf, huccuu hodhuu dhiisanii qabduu fooyuu, ykn biqiltuu dhaabuun dhiisanii suuraa biqiltuu ilaaluudha."
+  - q: "Akka eeyyaman amansiisuuf yaaluu qabaa?"
+    a: "Lakki. Nama dementia ulfeesse akka hojjatu dirqisiisuun jeeqama kakaasuudha beekamaa. «Lakki» jedhu fudhadhaa, mata duree jijjiiraa, yeroo biraa ykn karaa biraatiin irra deebi’aa dhiheessaa."
+  - q: "Yoom jijjiirraan amala balaa hatattamaa ta’a?"
+    a: "Namni tokko balaaf yoo saaxilame ykn mallattoo balaa fayyaa hatattamaa yoo agarsiise 911 bilbilaa. Dadhabbii sammuu tasa mul’atu yookaan amalli sa’aatii yookaan guyyaa muraasa keessatti saffisaan jijjiiramu, keessumaa ho’a qaamaa, dhibee daddarboo yookaan qoricha haaraa waliin yoo dhufe, hatattamaan doktora isaanii qunnamaa."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -51,87 +53,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Hunda qopheessitanii, tapha ykn adeemsa dhiyeessitanii “Lakki” jedhamtu. Ykn hojiin gaarii jalqabee, taabileetiin dhiibamee, dubbiin hamaan jedhamee xumurama. Kun nama abdii kutachiisa, garuu baay’ee baratamaa dha. Diduu fi aariin yeroo baay’ee ergaa dha, mata-jabeessummaa miti. Ergaan sun maal akka ta’e beekuun yeroo baay’ee wanta itti aanee yaaltan isiniif agarsiisa.
+Waan hunda qopheessitan, tapha yookaan deemsa dhiheessitan, «Lakki» jettu dhageessu. Yookaan hojiin sun gaariin eegalee taabileetiin achi darbatamee jecha qaraatiin xumuramuu danda’a. Kun nama abdii kutachiisa, garuu baay’ee kan mul’atudha. Diduun fi aaruun yeroo baay’ee ergaa dha, mata jabina miti. Ergaan sun maal akka ta’e hubachuun yeroo baay’ee waan itti aanu yaaluuf isin qajeelcha.
 
-## Maaliif nama dementia wajjin jiraatu hojii didaa?
+## Maaliif namni dementia waliin jiraatu hojii dida?
 
-Yeroo baay’ee sababni ni jira, namni sun jechaan ibsuu hin dandeenye illee. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) mormiin namni sun hojicha hojjechuu akka hin dandeenye ykn yaaluu akka sodaatu agarsiisuu akka danda’u ibsa. Sababoonni baratamoo:
+Yeroo baay’ee sababa qaba, namni sun jechootaan ibsuu yoo hin dandeenye illee. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) akka ibsetti, mormiin namni sun hojii sana hojjechuu hin dandeenye yookaan yaaluuf sodaatuu jechuun ta’uu danda’a. Sababoonni beekamoon of keessaa qabu:
 
-- **Ulfaataa itti dhaga’ama.** Hojichi amma dandeettii dementiaan ulfaate barbaada, nama duratti kufuun immoo nama qaanessa.
-- **Kan daa’imaaf fakkaata.** Namoonni gudda’an suuraa bifa kaartuunii, sagalee sirba fakkaatu, fi hojiiwwan daa’imaaf tolfaman ni hubatu.
-- **Dadhabbii.** Namoonni baay’een booda guyyaa humna xiqqaa qabu. [Hojiiwwan tasgabbaa’oo galgala dhiyoo](/caregiving/late-day-restlessness/) ilaalaa.
-- **Mijaa’aa ta’uu dhabuu qaamaa.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dhukkubbii, hirriba dhabuu, ilaaluu ykn dhaga’uu rakkachuu, garaa kaasuu rakkachuu (constipation), beela, dheebuu fi dhiibbaa biraa qorichaa haaraa (side effects) sababoota dhiphina ta’uu danda’an keessaa tarreessa.
-- **Wanti baay’een wal-bira ta’uu.** TV sagaleen guddaa, haasaa namoota hedduu, ykn kutaan namaan guutame nama dhiphisuu danda’a.
-- **Akka dhiibamanitti dhaga’amuu.** NIA nama waan Alzheimer’n baay’ee ulfaate hojjechuuf, ykn taateewwan ykn namoota yaadachuuf dhiibuun sababa aariitti akka ta’e ni ibsa.
-- **Miira gadi bu’aa.** Waan irratti fedhii dhabuun mallattoo gaddaa (depression) ta’uu danda’a, kunis doktoraaf dhiyeessuun gaarii dha.
-- **Dhugumatti hin barbaadu.** Namoonni gudda’an “lakki” jechuuf mirga qabu.
+- **Ulfaataa itti fakkaata.** Hojiin sun amma ogummaa dementia ulfeesse gaafata; nama fuulduraatti kufuun immoo nama qaaneessa.
+- **Ijoolleessaaf fakkaataa itti fakkaata.** Namoonni ga’een suuraa kataa fakkaatan, sagalee sirba ijoollee fakkaatuu fi hojii ijoolleef hojjetame fakkaatu hubatu.
+- **Dadhabina.** Namoonni baay’een guyyaa gara booda anniisaa xiqqaa qabaatu. [Sochiiwwan tasgabbaa’aa waaree booda](/caregiving/late-day-restlessness/) ilaalaa.
+- **Miira qaamaa gaarii dhabuu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dhukkubbii, hirriba dhabuu, arguuf ykn dhaga’uuf rakkachuu, garaa goguu, beela’uu, dheebuu fi miidhaa qorichoota haaraa akka sababoota dhiphinaa ta’uu danda’an tarreessa.
+- **Wanti baay’een yeruma tokko ta’aa jira.** Televijiiniin sagalee guddaadhaan taphatu, haasawni hedduun ykn kutaan namoonni itti baay’atan nama jeeqsuu danda’a.
+- **Dirqisiifamaa jira jedhee itti dhaga’amuu.** NIA hojii Alzheimeriin ulfeesse akka hojjetu dirqisiisuun, ykn taateewwan yookaan namoota akka yaadatu dirqisiisuun sababa jeeqamaa ta’uu akka danda’u ibsa.
+- **Miira gadhee.** Fedhii waan hundaaf dhabuu mallattoo gadda dhiphinaa ta’uu danda’a; kun doktora wajjin mari’achuu gaarii dha.
+- **Inni dhugumaan hin barbaadu.** Namoonni ga’een «lakki» jedhuurraa mirga qabu.
 
-## Yeroo “lakki” jedhan maal yaaluu qabdu?
+## Yeroo inni «lakki» jedhu maal yaaluun qaba?
 
-“Lakki” jedhu tasgabbaa’aa fudhadhaa, achiis wanta tokko jijjiiraa: yeroo, hojii, ulfaatina ykn akkaataa gaafattan.
+«Lakki» jedhu tasgabbiin fudhadhaa; sana booda waan tokko jijjiiraa: yeroo, hojii, salphina isaa, ykn akkaataa isin gaafattan.
 
-1. **Amma gadhiisaa.** “Rakkoo hin qabu. Akka tasaa booda.” Achiis nafa hin baafatin gara wanta biraatti darbaa.
-2. **Booda deebi’ii yaalaa.** Alzheimer's Association booda, ykn yeroo guyyaa biraatti deebi’anii yaaluu gorsa.
-3. **Xiqqeessaa.** Tapha guutuu irra wal-fakkeessuu tokko. Baaskeetii huccuu guutuu irra tawuulii tokko. Suuraa xiqqaa, filannoo xiqqaa, suuraawwan akka mul’atan eegaa.
-4. **Filannoo lama kennaa.** “Suuraa simbirroo ilaaluu barbaaddu moo muuziqaa dhaggeeffachuu?” Filannoon to’annoo deebisee kenna.
-5. **Dalagaa osoo hin ta’in gargaarsa gaafadhaa.** “Kana filuu na gargaartaa?” ykn “Halluun kamtu bareeda?” Nama barbaachisaa ta’uun qoramuu irraa baay’ee adda.
-6. **Ofii keessan jalqabaa.** Osoo hin gaafatin cinaa isaanii hojicha jalqabaa. Namoonni baay’een wanti tokko erga jalqabameen booda ni makamu; yoo hin makamne illee, yeroo waliin dabarsiteetta.
-7. **Wanta qaamaa ykn tasgabbeessu irratti jijjiiraa.** Adeemsa gabaabaa, muuziqaa, nyaata xiqqoo, huccuu maramuu, ykn boqonnaa [afuura tasgabbaa’aa](/games/calm-breathing/) waliin gochuu. NIA xiyyeeffannaa gara muuziqaa, kitaaba ykn adeemsaatti jijjiiruu gorsa.
-8. **Akkaataa isaaniitiin akka godhan eeyyamaa.** Yoo seeraa adda ta’ee taphachuu barbaadan, itti hordofaa. Alzheimer's Association jijjiiramuu danda’uu gorsa.
+1. **Ammaaf dhiisaa.** «Tole, yeroo biraa ta’a.» Sana booda aaduu malee gara waan biraatti darbaa.
+2. **Yeroo biraa irra deebi’aa yaalaa.** Alzheimer’s Association yeroo biraa, ykn guyyaa keessaa yeroo adda ta’een irra deebi’aa yaaluuf gorsa.
+3. **Xiqqeessaa.** Guutummaa tapha sanaa osoo hin taane walsimsiisa tokko. Guuboo huccuu guutuu osoo hin taane fooqii tokko. Suuraawwan muraasa, filannoo muraasa, suuraawwan ifatti hafan.
+4. **Filannoo lama dhiheessaa.** «Suuraa simbirrootaa ilaalu moo muuziqaa muraasa dhaggeeffachuu barbaadda?» Filannoon miira to’annoo deebisee kenna.
+5. **Osoo akka hojjatu hin gaafatin akka isin gargaaru gaafadhaa.** «Kanneen kana fooyuuf na gargaaruu dandeessaa?» ykn «Halluun kam akka gaarii fakkaatu natti himuu dandeessaa?» Nama barbaachisu ta’uun qoramuu irraa baay’ee adda.
+6. **Ofii keessan jalqabaa.** Osoo hin gaafatin isa bira taa’uun hojii sana jalqabaa. Namoonni baay’een wanti tokko duraanuu yeroo jalqabu itti makamu; yoo hin makamin illee, yeroo waliin dabarsitaniittu.
+7. **Gara waan qaamaa yookaan tasgabbeessuutti jijjiiraa.** Deemsa gabaabaa, muuziqaa, waan nyaatamu xiqqaa, huccuu maruu, ykn [hafuura tasgabbaa’aa](/games/calm-breathing/) waliin fudhachuu. NIA xiyyeeffannoo gara muuziqaa, kitaabaa yookaan deemsatti jijjiiruuf gorsa.
+8. **Akka inni barbaadutti haa hojjetu.** Yoo inni akka seerri jedhuun osoo hin taane karaa biraatiin taphachuu barbaade, isa wajjin deemi. Alzheimer’s Association akka nama jijjiiramuu danda’u gorsa.
 
-## Yeroo itti aaran maal jechuu qabdu?
+## Yeroo inni aaru maal jechuun qaba?
 
-Suuta jedhaa, sagalee gadi buusaa, amansiisaa. [Qajeelfamni Alzheimer's Association waa’ee jeequmsaa](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) duubatti harkifachuu fi eeyyama gaafachuu, jechoota tasgabbaa’aa fi gaarii fayyadamuu, fi filannoo qajeelfamaa lama kennuu gorsa. Jechoonni akkas fakkaatan:
+Saffisa hir’isaa, sagalee keessan gad buusaa, jajjabeessaa. [Qajeelfamni Alzheimer’s Association waa’ee jeeqamaa](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) duubatti deebi’uu fi hayyama gaafachuu, himoota tasgabbaa’aa fi gaarii fayyadamuu, akkasumas filannoo lama gidduutti filannoo qajeelfame dhiheessuu gorsa. Jechoonni haaluma kanaan deeman:
 
-- “Dhiifama, kun nama aarsa. Haa dhaabnu.”
-- “Gaarii hojjechaa jirta. Ani asuma jira.”
-- “Wanta biraa na gargaaruuf yeroo qabdaa?”
-- “Shaayii dhugnaa moo?”
+- «Dhiifama, kun nama aarsa. Haa dhaabnu.»
+- «Gaariitti deemaa jirta. Ani asumanin jira.»
+- «Waan biraa irratti akka na gargaaruu dandeessu yeroo qabdaa?»
+- «Moo qooda isaa shaayii dhugnaa?»
 
-Achiis hojicha gaaffii guddaa hin godhin xumuraa. [Gorsa haasaa](/caregiving/communication-tips/) keenya keessatti waa’ee maal jechuu qabdan caalaatti jira.
+Sana booda hojii sana osoo waan guddaa hin taasisiin dhaabaa. [Gorsa keenya waa’ee waliif dubbachuu](/caregiving/communication-tips/) irratti waan dabalataa jedhuu ni argama.
 
-## Maal irraa of qusachuu qabdu?
+## Maal irraa fagaachuu qabna?
 
-Deebiiwwan uumamaa tokko tokko wanta hammeessuu danda’u.
+Deebiiwwan uumamaa tokko tokko haala sana caalaa hammeessuu danda’u.
 
-- **Morkuu ykn dirqisiisuu.** “Kottu, tokko qofa” ykn “Ati kana jaallatta” jechuun yeroo baay’ee hin gargaaru.
-- **Gaaffii itti gaafachuu ykn sirreessuu.** “Kun maal akka ta’e beekta” ykn “Lakki, kun dogoggora” dhiibbaa dabala.
-- **Of irratti fudhachuu.** NIA kunuunsitoonni dhukkubni, nama sanaan osoo hin ta’in, jijjiirama kana akka fiduuf yaadachiisa.
-- **Nama cinaa dhiphisuu ykn ariifachuu.** Alzheimer's Association sagalee ol-kaasuu, sodaa agarsiisuu, nama dhiphisuu, qabuu, hamaa jechuu, tuffachuu ykn morkuu irraa, akkasumas sochii tasaa osoo hin argin godhamu irraa of qusachuu gorsa.
-- **Yakkamtummaa fayyadamuu.** “Kana hunda siif qopheesse” jechuun lamaanuu caalaatti gadi’aanaa taasisa.
-- **Maqaa itti moggaasuu.** “Mata-jabaa” ykn “nama rakkisaa” sababa dhugaa dhoksa, furuu immoo ulfaataa taasisa.
+- **Falmi’uu ykn dirqisiisuu.** «Mee, ammas si’a tokko qofa» yookaan «Kana jaallatta» jechuun yeroo baay’ee hin gargaare.
+- **Gaaffiin sakatta’uu ykn sirreessuu.** «Ati maal akka ta’e beekta» yookaan «Lakki, sun sirrii miti» jechuun dhiphina dabala.
+- **Waan dhuunfaa godhachuu.** NIA namoota kunuunsan akka yaadachiisutti, namicha osoo hin taane dhibeen kun jijjiirama kana fida.
+- **Itti dhihaachuu ykn ariifachuu.** Alzheimer’s Association sagalee ol kaasuudhaa, sodaa agarsiisuudhaa, golee cufuudhaa, itti dhihaachuudhaa, ofirraa ittisuudhaa, komachuu, dagachuu yookaan falmuudhaa fagaachuu, akkasumas fuula isaa duraa osoo inni hin argin tasa socho’uudhaa fagaachuuf gorsa.
+- **Yakkiitti fayyadamuu.** «Ani waan kana hunda siif qopheesse» jechuun lamaanuu miira gadhee isinitti dhaga’amisa.
+- **Maqaa kennuu.** «Mataa jabeessa» yookaan «nama rakkisaa» jechuun sababa dhugaa ni dhoksa; furmaata argachuunis ni ulfaata.
 
-## Diduun irra deddeebi’u maaliif akka ta’e akkamitti beekna?
+## Diduun irra deddeebi’ee yoo mul’ate sababni isaa maali akka ta’e akkamittan hubachuu danda’a?
 
-Torban tokko ykn lama xiqqoo galmeeffadhaa. NIA amala jijjiiramu hordofuun kunuunsitootaa fi dhiyeessitoota tajaajila fayyaa gargaaruun haalli sun akka beekamu fi sababni akka argamu akka danda’u jedha.
+Torban tokko yookaan lamaaf yaadannoo salphaa galmeessaa. NIA jijjiirama amala hordofuun namoota kunuunsanii fi ogeeyyii fayyaa akkaataa amala sanaa hubachuu fi sababni isaa maal akka ta’e adda baasuuf akka gargaaru ibsa.
 
-Kanneen kana galmeessaa:
+Waan kana barreessaa:
 
 - yeroo guyyaa;
-- wanta dhiyeessitan fi akkamitti akka gaafattan;
-- wanta naannoo keessan keessatti ta’aa ture (sagalee, keessummaa, TV);
-- akkamitti akka rafan, nyaatan fi dhugan, fi yeroo dhumaa mana fincaanii itti deeman;
-- qoricha haaraa ykn dhukkuba dhiyoo.
+- maal akka dhiheessitanii fi akkamitti akka gaafattan;
+- naannoo keessanitti maaltu ta’aa ture (sagalee, daawwattoota, televijiinii);
+- akkamitti akka rafan, nyaatanii fi dhugan, akkasumas yeroo dhumaaf mana fincaanii yeroo deemaniiru;
+- qorichoota haaraa yookaan dhibee dhiyoo dhufe kamiyyuu.
 
-Haalli yeroo baay’ee dafee mul’ata: diduun sa’aatii 4 galgala booda (4 p.m.) qofa, tapha tokko wajjin qofa, ykn TV yeroo banamu qofa. [Qajeelfamni amala dementia Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) salphaatti ni jedha: nama jijjiiruu hin dandeenyu, garuu amala keenya fi naannoo jijjiiruu dandeenya.
+Akkaataan yeroo baay’ee dafee mul’ata: diduun kan mul’atu yeroo hunda 16:00 booda qofa, tapha tokko irratti qofa, yookaan yeroo televijiiniin banamu qofa. [Qajeelfamni Family Caregiver Alliance waa’ee amala dementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gabaabumatti akkana jedha: nama sana jijjiiruu hin dandeenyu, garuu amala keenyaafi naannoo keenya jijjiiruu dandeenya.
 
-## Waa’ee diduu ykn aaruu yoomitti doktora haasofsiisuu qabdu?
+## Waa’ee diduu fi aaruutti yoom doktora waliin haasa’uu qabna?
 
-Yeroo amalli tasa, saffisaan, ykn mallattoo dhukkubaa wajjin jijjiiramu doktora haasofsiisaa. NIA jijjiiramni amalaa tasaa ykn saffisaan jijjiiramu, keessumaa yoo namni sun dhukkuba ykn jijjiirama qorichaa dhiyoo qabaate, battalumatti gara doktoraatti akka dhiyaatu jedha.
+Amalli yeroo tasa, saffisaan, ykn mallattoo dhukkubaa waliin jijjiiramu doktora waliin haasa’aa. NIA akka jedhetti, jijjiirraan amala tasa ykn saffisaan mul’atu, keessumaa namni sun dhibee daddarboo yoo qabaate yookaan qorichi dhiyoo jijjiirame yoo jiraate, hatattamaan doktora hubachiisuu qaba.
 
-Yoo kanneen armaan gadii argitan doktora isaanii dafaa quunnamaa:
+Yoo waan kana argaattan hatattamaan doktora isaanii qunnamaa:
 
-- wal-hin-beekuun tasaa ykn jijjiirama guddaan sa’aatii ykn guyyoota keessatti;
-- mallattoo dhukkubbii, fakkeenyaaf fuula qaanessuu, qaama tokko eeguu, ykn sochii rakkisaa haaraa;
-- ho’a ykn mallattoo dhukkuba biraa;
-- qoricha haaraa ykn kan jijjiirame, achiis amala jijjiirame;
-- waan hundaaf fedhii dhabuu, boo’uu ykn of dhoksuun torban lamaa ol turu;
-- nyaata ykn dhugaatii didu.
+- dadhabbiin sammuu tasa mul’atu yookaan jijjiirraan guddaan sa’aatii yookaan guyyaa muraasa keessatti dhufu;
+- mallattoowwan dhukkubbii, kan akka fuula dhiphinaa agarsiisuu, qaama tokko eeggachuu, ykn socho’uuf rakkachuun haaraan mul’achuu;
+- ho’a qaamaa ykn mallattoowwan dhibee daddarboo biroo;
+- qorichoota haaraa yookaan jijjiiramanii booda jijjiirraan amala dhufu;
+- wantoota hundaaf fedhii dhabuu, imimmaan bu’uu ykn ofirraa fagaachuun torban lamaa ol turuu;
+- nyaata yookaan dhugaatii diduu.
 
-Alzheimer's Association nama mallattoo amalaa qabu hundaaf, keessumaa yoo tasa mul’ate, ilaalcha fayyaa guutuu gorsa. Family Caregiver Alliance illee dursa doktora gaafachuu gorsa, sababni isaas rakkoon amalaa sababa fayyaa qabaachuu danda’a. Doktora ykn faarmaasii osoo hin gaafatin qoricha hin jalqabinaa, hin dhaabsiisinaa, hin jijjiiriinaa.
+Alzheimer’s Association nama mallattoo amala agarsiisu kamiyyuu, keessumaa yoo tasa mul’ate, qorannoo fayyaa guutuu akka argatu gorsa. Family Caregiver Alliance akkasumas duraan dursanii doktora waliin mari’achuu gorsa, sababni rakkoo amalaaf sababa fayyaa qabaachuu waan danda’uuf. Doktora yookaan ogeessa qorichaa waliin osoo hin mari’atin qoricha kamiyyuu hin jalqabin, hin dhaabin, hin jijjiirin.
 
-Yoo namni balaa keessa jiraate ykn mallattoon hatattamaa fayyaa jiraate, lakkoofsa yeroo hatattamaa naannoo keessanii bilbilaa. NIA nama bilbilaa fudhatuuf nama sun dementia akka qabu himuu gorsa.
+Namni kamiyyuu balaaf yoo saaxilame ykn mallattoowwan balaa fayyaa hatattamaa yoo jiraatan, 911 bilbilaa. NIA namni bilbila fudhatuuf namichi dementia akka qabu himuuf gorsa. Yeroo aariin gara gocha qaamaa ce’u tarkaanfiiwwan nageenya hatattamaa ilaalchisee, [qajeelfama keenya waa’ee aarii fi gocha balaa dementia keessatti](/caregiving/when-anger-becomes-aggression-with-dementia/) ilaalaa.
 
-## Waan tokkollee osoo hin hojjetin turuun sirrii dhaa?
+## Yoo homaa hin goone illee gaarii dhaa?
 
-Eeyyee. Guyyaa tokko tokko hojiin gaariin hojii dhabuu dha: waliin taa’uu, harka qabachuu, rekordii jaallatan dhaggeeffachuu, ykn foddaa irraa simbirroo ilaaluu. Kun hin kufuu miti. [Qajeelfama waliin taphachuu](/caregiving/how-to-play-together/) keenya keessatti waa’ee maaliif dafanii dhaabuun, ykn gonkumaa osoo hin jalqabin turuun filannoo sirrii ta’uu akka danda’u ibsa.
+Eeyyee. Guyyaa tokko tokko hojiin gaariin hojiin dhabuu dha: waliin taa’uu, harka walqabachuu, muuziqaa jaallatamaa dhaggeeffachuu, ykn foddaa keessa simbirroota ilaaluudha. Kun kufaatii miti. [Qajeelfamni keenya waa’ee waliin taphachuu](/caregiving/how-to-play-together/) maaliif dafee dhaabuun, ykn gonkumaa jalqabuu dhiisuun, murtoo sirrii ta’uu akka danda’u ibsa.

@@ -1,33 +1,33 @@
 ---
-title: "Activitats a l’aire lliure i de jardineria per a persones amb demència"
-seoTitle: "Jardineria i activitats a l’aire lliure per a la demència"
-description: "Jardineria i activitats a l’aire lliure per a persones amb demència, amb jardineres elevades, testos i consells per a la calor, el sol i caminar sense rumb."
+title: "Activitats a l'aire lliure i jardineria amb demència"
+seoTitle: "Jardineria i activitats a l'aire lliure amb demència"
+description: "Idees de jardineria i activitats a l'aire lliure per a persones que viuen amb demència, amb bancals elevats, testos i consells de seguretat."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  La jardineria i el temps a fora poden ser una activitat tranquil·la i coneguda per
-  a una persona que viu amb demència. Proveu de regar, plantar herbes en test,
-  treure les flors marcides o fer una passejada curta en un jardí tancat. Faci
-  servir jardineres elevades o una taula perquè ningú no s’hagi d’agenollar, eviti
-  les eines punxegudes i les plantes tòxiques, surti en la part més fresca del dia,
-  i quedi’s sempre amb la persona.
+  La jardineria i el temps a l'aire lliure poden ser una activitat tranquil·la
+  i familiar per a una persona que viu amb demència. Proveu de regar, plantar
+  herbes aromàtiques en testos, treure les flors pansides o fer una passejada
+  curta per un pati tancat. Feu servir bancals elevats o una taula perquè
+  ningú no s'hagi d'agenollar, eviteu eines afilades i plantes tòxiques, sortiu
+  a les hores més fresques del dia i quedeu sempre amb la persona.
 keyPoints:
-  - "Tasques senzilles de jardí, com regar, plantar llavors, olorar herbes i collir flors, es poden fer dempeus o asseguts."
-  - "Les jardineres elevades, els testos i una taula coberta acosten el jardí a l’alçada de la cintura i redueixen el risc de caigudes."
-  - "Eviti les eines punxegudes, les plantes espinoses o irritants i qualsevol cosa verinosa. Vigili que la terra no es confongui amb menjar."
-  - "La calor pot ser perillosa per a les persones grans. Surti d’hora o al vespre, porti aigua i ombra, i entri a l’interior al primer senyal de malestar."
-  - "Moltes persones que viuen amb demència caminen sense rumb en algun moment. Quedi’s amb la persona a fora i tingui a mà una foto recent i un document d’identitat."
+  - "Tasques senzilles de jardí com regar, sembrar llavors en testos, olorar herbes aromàtiques i collir flors es poden fer dret o assegut."
+  - "Els bancals elevats, els testos i una taula coberta porten el jardí a l'alçada de la cintura i redueixen el risc de caigudes."
+  - "Eviteu eines afilades, plantes amb espines o irritants i qualsevol planta verinosa. Vigileu que ningú no confongui la terra amb menjar."
+  - "La calor pot ser perillosa per a les persones grans. Sortiu d'hora al matí o al vespre, porteu aigua i ombra, i entreu a casa als primers senyals de malestar."
+  - "Moltes persones que viuen amb demència deambulen en algun moment. Quedeu amb la persona quan sigueu a fora i tingueu a mà una foto recent i un document d'identitat."
 faq:
   - q: "Quines activitats de jardineria pot fer una persona amb demència?"
-    a: "Regar les plantes, sembrar llavors en testos petits, olorar i tocar herbes, treure les flors marcides, collir verdures, fer arranjaments amb flors tallades i escombrar un camí són bones opcions. A dins, un test d’herbes a la finestra o una safata de terra en una taula coberta funciona bé. Triï la tasca segons el que la persona gaudia abans i pot fer còmodament ara."
-  - q: "Com mantinc una persona amb demència segura amb la calor?"
-    a: "Planifiqui el temps a fora per al matí d’hora o al vespre, mantingui-lo curt i ofereixi aigua sovint. Triï l’ombra, un barret d’ala ampla, roba lleugera i solta i protector solar. Les persones grans tenen més risc de malaltia per calor, i la confusió, el marejament o les nàusees poden ser senyals d’avís, així que entri i refredi’s de seguida si els nota."
-  - q: "Com podem sortir a fora si tendeix a caminar sense rumb?"
-    a: "Quedi’s amb la persona tot el temps, faci servir un jardí tancat amb tanca i una porta amb pestell, i asseguri’s que porti una polsera o targeta d’identificació. Tingui a mà una foto recent. Si la persona es perd, l’Alzheimer’s Association aconsella trucar al 911 si no es troba en 15 minuts."
-  - q: "I si no tenim jardí?"
-    a: "Uns quants testos en un porxo, una caixa de finestra, o una safata d’herbes a la taula de la cuina n’hi ha prou. També pot visitar un parc, un jardí públic o un hort comunitari. Seure a fora i escoltar els ocells també compta com a activitat a l’aire lliure."
+    a: "Regar les plantes, sembrar llavors en testos petits, olorar i tocar herbes aromàtiques, treure flors pansides, collir verdures, fer rams de flors tallades i escombrar un camí són bones opcions. A dins, un test d'herbes aromàtiques al marbre de la finestra o una safata amb terra sobre una taula coberta també van bé. Trieu la tasca segons el que la persona gaudia abans i el que pot fer còmodament ara."
+  - q: "Com puc protegir del calor una persona amb demència?"
+    a: "Planifiqueu el temps a l'aire lliure per a les hores més fresques del matí o del vespre, feu que sigui curt i oferiu aigua sovint. Busqueu l'ombra, un barret d'ala ampla, roba lleugera i ampla i crema solar. Les persones grans tenen més risc de patir malalties relacionades amb la calor, i la confusió, els marejos o les nàusees poden ser senyals d'avís; per això, entreu a casa i refresqueu-vos de seguida si els noteu."
+  - q: "Com podem sortir a fora si la persona tendeix a deambular?"
+    a: "Quedeu amb la persona en tot moment, feu servir un pati o jardí tancat amb un pany a la porta i assegureu-vos que porti una polsera identificativa o un document d'identitat. Tingueu a mà una foto recent. Si la persona desapareix, contacteu de seguida amb la policia local o els serveis d'emergència; no espereu un nombre fix de minuts. Expliqueu als equips d'emergència que la persona té demència, on se la va veure per última vegada i proporcioneu una foto recent."
+  - q: "Què podem fer si no tenim jardí?"
+    a: "Uns quants testos en un porxo, una jardinera a la finestra o una safata amb herbes aromàtiques a la taula de la cuina ja són suficients. També podeu visitar un parc, un jardí públic o un hort comunitari. Seure a fora i escoltar els ocells també és una activitat a l'aire lliure."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Per a moltes persones, el jardí és un dels llocs més familiars que coneixen. Cavar, regar i collir flors fan servir habilitats après fa molt de temps, i estar a fora porta aire fresc, sol i cant d’ocells. El National Institute on Aging enumera entre les activitats que les persones amb Alzheimer poden gaudir cuidar les plantes, plantar flors i verdures, i [parlar de com creixen les plantes](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Aquesta pàgina explica què provar, com fer el jardí més fàcil d’usar, i com estar segurs amb la calor, el sol i caminar sense rumb.
+Per a moltes persones, el jardí és un dels llocs més familiars que coneixen. Cavar, regar i collir flors fan servir habilitats apreses fa temps, i estar a fora aporta aire fresc, llum del sol i el cant dels ocells. El National Institute on Aging inclou tenir cura de les plantes, plantar flors i verdures, i [parlar de com creixen les plantes](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) entre les activitats que poden agradar a les persones amb Alzheimer. Aquesta pàgina explica què podeu provar, com fer que un jardí sigui més fàcil d'utilitzar i com mantenir la seguretat davant la calor, el sol i la deambulació.
 
-## Quines activitats a l’aire lliure i de jardineria funcionen bé?
+## Quines activitats a l'aire lliure i de jardineria van bé?
 
-Les millors tasques són senzilles, conegudes i es poden fer dempeus o asseguts. Triï segons el que la persona gaudia abans.
+Les millors tasques són senzilles, familiars i es poden fer dret o assegut. Trieu-les segons el que la persona gaudia abans.
 
 ### Al jardí
 
-1. **Regar.** Una regadora petita i lleugera o un broquet suau de mànega i unes quantes plantes a l’abast. Regar té un principi i un final clars i és difícil de fer malament.
-2. **Plantar llavors en testos.** L’Alzheimer’s Foundation of America (AFA) suggereix sembrar llavors en testos petits i [veure-les créixer](https://alzfdn.org/dementia-activity-gardening/). Les llavors grans, com mongetes, gira-sols o pèsols, són més fàcils de manipular.
-3. **Treure les flors marcides.** Llevar amb la mà les flors passades és una tasca suau i repetitiva. Triï plantes sense espines.
-4. **Collir verdures o herbes.** Els tomàquets cherry, les mongetes i les herbes són fàcils de collir i agradables de tastar. Porti-les a dins per fer-les servir a l’hora del dinar.
-5. **Olorar i tocar herbes.** El romaní, la menta i la lavanda tenen olors fortes i agradables. Freguí una fulla entre els dits i passi-la per davant del nas.
-6. **Escombrar un camí o un porxo.** Una escombra lleugera sobre una superfície plana i seca, si l’equilibri és estable.
-7. **Omplir un menjador d’ocells.** Després, segui’s plegat i miri qui ve de visita.
+1. **Regar.** Una regadora petita i lleugera o una mànega amb un broquet suau i uns quants testos a l'abast. Regar té un inici i un final clars i és difícil equivocar-se.
+2. **Sembrar llavors en testos.** L'Alzheimer's Foundation of America suggereix sembrar llavors en testos petits i [veure com creixen](https://alzfdn.org/dementia-activity-gardening/). Les llavors grans, com les de mongeta, gira-sol o pèsol, són més fàcils de manejar.
+3. **Treure les flors pansides.** Arrencar amb els dits les flors marcides és una tasca suau i repetitiva. Trieu plantes sense espines.
+4. **Collir verdures o herbes aromàtiques.** Els tomàquets cirerol, les mongetes i les herbes aromàtiques són fàcils de collir i agradables de tastar. Porteu-los a dins per fer-los servir a l'hora de dinar.
+5. **Olorar i tocar herbes aromàtiques.** El romaní, la menta i l'espígol tenen olors fortes i agradables. Fregueu una fulla entre els dits i acosteu-la-hi.
+6. **Escombrar un camí o un pati.** Una escombra lleugera sobre una superfície plana i seca, si la persona té bon equilibri.
+7. **Omplir una menjadora d'ocells.** Després, seieu plegats i mireu qui hi ve.
 
-### A dins, quan no es pot sortir
+### A dins, quan no és possible sortir
 
-- **Un jardí d’herbes a la finestra** de basílic, julivert o cebollina.
-- **Plantar en un tauló cobert.** L’AFA suggereix fer servir safates com les de cafeteria per mantenir la terra en un sol lloc i moure-la amb petits gots.
-- **Arranjaments de flors** amb flors tallades i verds del jardí o d’una botiga.
-- **Flors premsades** d’un ram, després enganxades en targetes. Vegi [art i manualitats](/activities/arts-and-crafts/) per a més idees.
-- **Fer sacs d’olor de lavanda o de rosa**, una altra idea de l’AFA que porta l’olor del jardí a dins.
+- **Un test d'herbes aromàtiques al marbre de la finestra** amb alfàbrega, julivert o cibulet.
+- **Plantar en una taula coberta.** L'AFA suggereix fer servir safates d'estil cafeteria per mantenir la terra en un sol lloc i moure la terra amb gots petits.
+- **Fer rams de flors** amb flors tallades i fulles del jardí o d'una botiga.
+- **Premsar flors** d'un ram i, més endavant, enganxar-les en targetes. Vegeu [arts i manualitats](/activities/arts-and-crafts/) per a més idees.
+- **Fer bossetes de lavanda o de rosa**, una altra idea de l'AFA que porta l'olor del jardí a dins de casa.
 
-### Sortir a passejar
+### Sortir una estona
 
-- **Una passejada curta** pel bloc, un parc o un centre de jardineria, a poc a poc i amb un lloc on seure.
-- **Seure a fora** en un porxo o un banc per escoltar els ocells i sentir la brisa. És una activitat completa per si mateixa.
-- **Visitar un jardí públic** en un moment tranquil del dia. El NHS explica que alguns llocs tenen jardins sensorials amb plantes perfumades, textures i fonts.
-- **Donar menjar als ànecs o mirar ocells** en un estany local, mantenint una distància segura de la vora de l’aigua.
+- **Una passejada curta** per l'illa, un parc o un centre de jardineria, a un ritme lent i amb un lloc per seure.
+- **Seure a fora** en un porxo o un banc per escoltar els ocells i sentir la brisa. Això ja és una activitat completa per si mateixa.
+- **Visitar un jardí públic** en una hora tranquil·la del dia. L'NHS explica que alguns llocs tenen jardins sensorials amb plantes aromàtiques, textures i elements d'aigua.
+- **Donar menjar als ànecs o observar els ocells** en un estany proper, mantenint una distància segura de la vora de l'aigua.
 
-## Com faig que un jardí sigui més fàcil d’usar?
+## Com puc fer que un jardí sigui més fàcil d'utilitzar?
 
-Porti el jardí fins a la persona, no al revés.
+Acosteu el jardí a la persona, i no a l'inrevés.
 
-- **Jardineres elevades o testos alts** a l’alçada de la cintura, perquè no calgui agenollar-se ni ajupir-se.
-- **Testos sobre una taula** per a les persones que fan servir cadira de rodes o prefereixen seure.
-- **Camins amples i plans**, sense pedres soltes ni mànegues travessades, per reduir el risc d’ensopegades.
-- **Seients amb braços i ombra** pel camí, perquè descansar sempre sigui una opció.
-- **Eines amb mànecs gruixuts i tous**, fàcils d’agafar. Eviti les podadores, els ganivets i qualsevol cosa punxeguda.
-- **Una zona tancada amb tanca i porta amb pestell** que la persona pugui explorar lliurement mentre vostè es queda a prop.
+- **Bancals elevats o jardiners alts**, a l'alçada de la cintura aproximadament, perquè no calgui agenollar-se ni inclinar-se.
+- **Testos sobre una taula** per a persones que fan servir cadira de rodes o prefereixen seure.
+- **Camins amples i plans**, sense pedres soltes ni mànegues travessades, per reduir el risc d'ensopegades.
+- **Seients amb braços i ombra** al llarg del recorregut, perquè descansar sempre sigui una opció.
+- **Eines amb mànecs gruixuts i suaus** que siguin fàcils d'agafar. Eviteu tisores de podar, ganivets i qualsevol eina afilada.
+- **Una zona tancada amb una porta amb pany** que la persona pugui explorar lliurement mentre vostè és a prop.
 
-## Quines plantes he d’evitar?
+## Quines plantes cal evitar?
 
-Triï plantes que siguin segures per tocar i, idealment, segures si es tasten. L’AFA aconsella fer servir plantes que no irritin la pell, comprovar les al·lèrgies, i vigilar de prop qualsevol persona que pugui confondre la terra amb menjar. Les recomanacions de seguretat domèstica del NIA inclouen retirar o tancar amb clau les plantes verinoses.
+Trieu plantes que siguin segures de tocar i, si és possible, segures si algú se les posa a la boca. L'AFA aconsella fer servir plantes que no acostumin a irritar la pell, comprovar si hi ha al·lèrgies i vigilar de prop qualsevol persona que pugui confondre la terra amb menjar. Els consells de seguretat a la llar del NIA inclouen treure o guardar sota clau les plantes verinoses.
 
-- Eviti les roses amb espines, els cactus i les plantes amb saba que irriti la pell.
-- Consulti un centre de toxicologia o un centre de jardineria local abans de plantar qualsevol planta que no conegui.
-- Els clàssics familiars poden despertar sensacions agradables. L’AFA esmenta les roses i el cactus de Nadal com a exemples. Triï varietats sense espines.
-- Guardi amb clau els fertilitzants, els pesticides i els herbicides, i no els faci servir en zones a l’abast de la persona.
+- Eviteu rosers amb espines, cactus i plantes amb saba que irriti la pell.
+- Si teniu dubtes sobre alguna planta, consulteu un centre de control de verins o un centre de jardineria local abans de plantar-la.
+- Les plantes conegudes i estimades poden despertar sensacions agradables. L'AFA esmenta les roses i el cactus de Nadal com a exemples. Trieu varietats sense espines.
+- Guardeu els adobs, els pesticides i els herbicides sota clau i no els feu servir en zones on la persona pugui arribar.
 
-## Com em mantinc segur amb la calor i el sol?
+## Com puc mantenir la seguretat amb la calor i el sol?
 
-Planifiqui el temps a fora segons el clima. El NIA explica que les persones grans tenen més risc de [malaltia per calor](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), en part perquè el cos s’adapta menys bé als canvis de temperatura i alguns medicaments afecten com el cos gestiona la calor.
+Planifiqueu el temps a l'aire lliure segons el temps que faci. El NIA explica que les persones grans tenen més risc de patir [malalties relacionades amb la calor](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), en part perquè el cos s'adapta pitjor als canvis de temperatura i alguns medicaments afecten la manera com el cos gestiona la calor.
 
-- **Surti d’hora o al vespre.** Eviti el mig del dia en els mesos càlids. Miri l’índex de calor, no només la temperatura.
-- **Ofereixi aigua sovint.** No esperi que la persona digui que té set. Eviti l’alcohol i les begudes amb cafeïna quan fa calor.
-- **Vesteixi la persona amb roba adequada.** Roba lleugera, de colors clars i solta, un barret d’ala ampla i ulleres de sol.
-- **Faci servir protector solar.** El NIA recomana un protector d’ampli espectre amb SPF 15 o superior, que es torni a aplicar durant el dia.
-- **Triï l’ombra.** Munti la taula de plantar sota un arbre o un parasol.
-- **Mantingui-ho curt.** Un breu temps a fora pot ser suficient, sobretot els dies calents.
-- **Vigili els senyals d’avís.** El NIA enumera el mal de cap, la confusió, el marejament o les nàusees com a possibles senyals de malaltia per calor. Una persona amb demència pot no dir que es troba malament, així que observi la cara i el comportament. Entri, refredi’s amb aigua i un drap fred, i demani ajut mèdic si no millora de pressa. El cop de calor, amb signes com el desmai, la confusió o la pell seca i enrogida, és una emergència mèdica: truqui al 911.
+- **Sortiu d'hora o al vespre.** Eviteu les hores centrals del dia en els mesos càlids. Consulteu l'índex de calor, no només la temperatura.
+- **Oferiu aigua sovint.** No espereu que la persona digui que té set. Eviteu l'alcohol i les begudes amb cafeïna quan fa calor.
+- **Vesteix-te adequadament.** Roba de colors clars i ampla, un barret d'ala ampla i ulleres de sol.
+- **Feu servir crema solar.** El NIA recomana una protecció d'ampli espectre amb FPS 15 o superior, reaplicada durant el dia.
+- **Busqueu l'ombra.** Col·loqueu la taula de jardineria sota un arbre o un para-sol.
+- **Feu que sigui curt.** Una estona breu a fora pot ser més que suficient, sobretot els dies càlids.
+- **Vigileu els senyals d'avís.** El NIA indica que el mal de cap, la confusió, els marejos o les nàusees poden ser senyals de malaltia per calor. Una persona amb demència potser no dirà que es troba malament, així que observeu la seva cara i el seu comportament. Entreu a casa, refresqueu-la amb aigua i un drap fresc, i busqueu ajuda mèdica si no millora ràpidament. El cop de calor, amb senyals com desmais, confusió o pell seca i enrogida, és una emergència mèdica: truqueu al 911.
 
-El fred també importa. A l’hivern, mantingui el temps a fora curt i asseguri’s que les mans i els peus es mantenen calents i secs.
+El fred també és important. A l'hivern, feu que el temps a fora sigui curt i assegureu-vos que les mans i els peus estiguin calents i secs.
 
-## Com gestiono les sortides sense rumb quan sortim?
+## Com puc gestionar la deambulació quan sortim a fora?
 
-Quedi’s amb la persona sempre que sigui a fora. L’Alzheimer’s Association diu que [sis de cada 10 persones que viuen amb demència](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) caminaran sense rumb almenys una vegada, i moltes ho fan més d’una. Pot passar en qualsevol fase.
+Quedeu amb la persona sempre que sigui a l'aire lliure. L'Alzheimer's Association diu que [sis de cada deu persones que viuen amb demència](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) deambularan almenys una vegada, i moltes ho faran més d'una vegada. Pot passar en qualsevol fase.
 
-Els [consells del NIA sobre caminar sense rumb i perdre’s](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) inclouen:
+Els [consells del NIA sobre la deambulació i perdre's](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) inclouen:
 
-- Asseguri’s que la persona porti una polsera d’identificació o mèdica amb el seu nom, adreça i el seu telèfon, o etiqueti la roba.
-- Tingui una foto o un vídeo recent de la persona.
-- Avisi els veïns que la persona pot caminar sense rumb.
-- Asseguri el jardí amb una tanca i una porta amb pestell.
-- No deixi sola una persona amb antecedents de caminar sense rumb.
+- Assegureu-vos que la persona porti un document d'identitat o una polsera mèdica amb el seu nom, la seva adreça i el vostre número de telèfon, o poseu etiquetes a la seva roba.
+- Tingueu una foto o un vídeo recent de la persona.
+- Feu saber als veïns que la persona pot deambular.
+- Assegureu el pati amb una tanca i una porta amb pany.
+- No deixeu sola una persona amb antecedents de deambulació.
 
-L’Alzheimer’s Association també suggereix crear espais a dins i a fora que es puguin explorar amb seguretat, i planificar activitats per a l’hora del dia en què és més probable la inquietud. Una passejada en un jardí segur i tancat pot encaixar bé amb la inquietud de final del dia. Vegi la nostra guia sobre [inquietud al final del dia](/caregiving/late-day-restlessness/).
+L'Alzheimer's Association també suggereix crear espais interiors i exteriors que es puguin explorar amb seguretat i planificar activitats per a l'hora del dia en què és més probable que hi hagi inquietud. Una passejada per un jardí segur i tancat pot anar bé per a la inquietud de final de dia. Vegeu la nostra guia sobre la [inquietud de final de dia](/caregiving/late-day-restlessness/).
 
-Si la persona es perd de veritat, l’Alzheimer’s Association aconsella buscar de seguida a la zona propera i trucar al 911 si no es troba en 15 minuts. Digui a la policia que la persona té demència.
+Si la persona desapareix, comproveu els llocs segurs propers mentre contacteu de seguida amb la policia local o els serveis d'emergència. No espereu un nombre fix de minuts abans d'avisar. Un [article del U.S. Department of Justice de 2021 sobre investigacions de persones desaparegudes](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) diu que els cossos policials no haurien d'exigir un període d'espera fix i inclou els símptomes semblants a la demència com un motiu d'alt risc. Els procediments locals per avisar poden variar. Expliqueu quan i on es va veure la persona per última vegada, què porta posat i proporcioneu una foto recent. Seguiu les indicacions dels equips d'emergència locals; no busqueu sola en llocs insegurs.
 
-## Com adapto la jardineria a mesura que canvien les coses?
+## Com puc adaptar la jardineria a mesura que les coses canvien?
 
-| Si això s’ha tornat difícil | Provi això en lloc |
+| Si això s'ha tornat difícil | Proveu això en lloc seu |
 | --- | --- |
-| Plantar tot un llit | Plantar una llavor en un test |
-| Arrencar herbes adventícies (distingir les males herbes de les plantes) | Regar, o treure les flors marcides evidents |
+| Plantar tot un bancal | Sembrar una llavor en un test |
+| Arrencar males herbes (distingir-les de les plantes) | Regar o treure flors pansides que es vegin clarament |
 | Caminar pel jardí | Seure a una taula amb una safata de terra i una planta |
-| Sortir a fora | Un test d’herbes a la taula de la cuina, o un seient prop d’una finestra oberta |
-| Fer qualsevol tasca | Seure a fora plegats, escoltant i mirant |
+| Sortir a fora | Un test d'herbes aromàtiques a la taula de la cuina o seure al costat d'una finestra oberta |
+| Fer qualsevol tasca | Seure plegats a fora, escoltant i mirant |
 
-Algunes persones prefereixen mirar com vostè treballa. El NIA explica que és correcte deixar que la persona simplement miri si això és el que li agrada.
+Algunes persones prefereixen mirar com ho feu vostè. El NIA assenyala que deixar que la persona simplement miri és correcte si és el que li agrada.
 
-## Quan hem d’entrar?
+## Quan és bon moment per entrar a casa?
 
-Entri quan la persona sembli cansada, acalorada, freda, inquieta o a punt de donar-ho per acabat. Deu minuts agradables són millors que una llarga tarda que acaba en angoixa. Parar aviat és un bon resultat.
+Entreu quan la persona sembli cansada, tingui calor, fred, estigui incòmoda o vulgui acabar. Deu minuts breus i agradables són millors que una tarda llarga que acabi amb malestar. Acabar abans d'hora és un bon resultat.
 
-## Porti el jardí a la pantalla
+## Porteu el jardí a dins amb la pantalla
 
-Els dies de pluja, [Classificar plegats](/games/sort-together/) té un cistell de jardí per classificar imatges, i [Targetes de conversa](/games/conversation-cards/) inclou preguntes obertes que poden portar a històries del jardí. Si entra de la calor amb la sensació de tenir pressa, [Respiració tranquil·la](/games/calm-breathing/) ofereix una pausa lenta i tranquil·la que pot compartir. Per a més idees basades en el tacte, l’olor i el so, vegi la nostra [guia d’activitats sensorials](/activities/sensory/).
+En dies de pluja, [Sort Together](/games/sort-together/) té una cistella de jardí per ordenar imatges, i [Conversation Cards](/games/conversation-cards/) inclou propostes obertes que poden portar a explicar històries del jardí. Si entreu de la calor i us sentiu atabalats, [Calm Breathing](/games/calm-breathing/) ofereix una pausa lenta i tranquil·la per compartir. Per a més idees basades en el tacte, l'olfacte i l'oïda, vegeu la nostra [guia d'activitats sensorials](/activities/sensory/).

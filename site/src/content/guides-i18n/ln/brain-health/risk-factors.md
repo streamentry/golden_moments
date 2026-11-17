@@ -1,33 +1,35 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Makambo 14 ya likama ya bokɔnɔ ya kobosana (Lancet)"
+seoTitle: "Makambo 14 ya likama ya bokɔnɔ ya kobosana (Lancet)"
+description: "Makambo 14 oyo ekoki kobongwana, oyo Komisi ya Lancet 2024 etángi, na eteni ya bomoi, oyo bolukiluki emonisi mpe oyo okoki kolobela na monganga."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Komisi ya Lancet 2024 etángi makambo 14 oyo ekoki kobongwana mpe ezwami na
+  boyokani na bokɔnɔ ya kobosana: kelasi moke, mokakatano ya koyoka, LDL
+  cholesterol ya likolo, mawa ya motema ya molai, kozoka na moto, kozanga
+  bomekoli ya nzoto, diabɛti, komela makaya, tension ya likolo, kilo mingi,
+  komela masanga mingi, kozala mosika ya bato, mbindo ya mopepe mpe
+  mikakatano ya miso oyo ebikisami te. Esika moko, ezwami na boyokani na pene
+  ya 45% ya makambo na mokili mobimba, kasi ezali te elaka mpo na moto moko
+  moko.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Makambo 14 oyo etaleli bomoi mobimba: moko na bolenge, zomi na katikati ya bomoi mpe misato na mikolo ya nsuka."
+  - "Mokakatano ya koyoka mpe LDL cholesterol ya likolo na katikati ya bomoi, moko na moko, ezwami na boyokani na pene ya 7% ya makambo ya bokɔnɔ ya kobosana na mokili mobimba; ezali kati na makambo oyo ezali na ndambo monene koleka."
+  - "Bapesanti oyo ezali botalisi ya bato ebele, na makanisi ete ezali ntina ya likambo. Boyokani mosusu ekoki kozala ntina ya likambo na ndambo kaka."
+  - "Mibu mpe makila ya libota, oyo moto akoki kobongola te, ezali mpe makambo ya minene ya likama. Kokitisa makambo 14 ya likama epesi te ndanga ete moto akokima bokɔnɔ ya kobosana."
+  - "Mingi ya matambe oyo etalelami, lokola kotala tension, koyoka mpe miso, ezali malamu mpo na bokolongono na ndenge mosusu mpe ezali malamu kolobela yango na monganga."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Makambo 14 ya likama ya bokɔnɔ ya kobosana oyo ekoki kobongwana ezali nini?"
+    a: "Komisi ya Lancet 2024 etángi kelasi moke, mokakatano ya koyoka, LDL cholesterol ya likolo, mawa ya motema ya molai, kozoka na moto, kozanga bomekoli ya nzoto, diabɛti, komela makaya, tension ya likolo, kilo mingi, komela masanga koleka ndelo, kozala mosika ya bato, mbindo ya mopepe mpe mikakatano ya miso oyo ebikisami te. Esika moko, ezwami na boyokani na pene ya ndambo ya makambo ya bokɔnɔ ya kobosana na mokili mobimba."
+  - q: "Likambo nini ya likama ya bokɔnɔ ya kobosana ezali na ntina mingi koleka?"
+    a: "Mpo na bato ya mokili mobimba, Komisi elobelaki ete mokakatano ya koyoka mpe LDL cholesterol ya likolo na katikati ya bomoi, moko na moko, ezwami na boyokani na pene ya 7% ya makambo, na sima ya kelasi moke mpe kozala mosika ya bato na pene ya 5% moko na moko. Makambo oyo ezali na ntina mingi mpo na moto moko ekotalela bokolongono na ye moko, yango wana monganga azali moto malamu mpo na kopesa litambwisi."
+  - q: "Makambo mibale ya sika ya likama ebakisamaki na 2024?"
+    a: "Iyo. Lapolo ya 2024 ebakisaki LDL (mabe) cholesterol ya likolo na katikati ya bomoi mpe mikakatano ya miso oyo ebikisami te na mikolo ya nsuka, likoló ya makambo 12 oyo etángamaki na 2020. Komisi emonisi ete ezwami na boyokani na pene ya 7% mpe 2% ya makambo ndenge na ndenge."
+  - q: "Mibu ya mbotama ezali likambo ya likama oyo ekoki kobongwana?"
+    a: "Te. Mibu ya mbotama ezali likambo ya likama oyo eyebani mingi mpo na bokɔnɔ ya Alzheimer, mpe ekoki kobongwana te. Makila ya libota mpe ezali na ndambo na yango. Makambo 14 oyo ezali na lokasa oyo ezali makambo oyo bolukiluki emonisi ete ekoki kobongwana."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +51,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Likambo ya likama ezali eloko oyo ezwami na boyokani na likoki ya monene ya kozwa bokɔnɔ moko. Ezali ntina ya likambo te na makambo nyonso, mpe kozala na yango elingi koloba te ete okokóma na bokɔnɔ ya kobosana. Lokasa oyo etángi makambo 14 ya likama ya bokɔnɔ ya kobosana oyo Komisi ya Lancet 2024 elobi ete ekoki kobongwana, oyo bolukiluki emonisi na ntina na yango, mpe oyo okoki kolobela na monganga.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Mpo na komona elilingi mobimba, na ndakisa oyo bomekoli minene emonisi, banda na [Bokoki ya kopekisa bokɔnɔ ya kobosana? Oyo bolukiluki elobi](/brain-health/can-dementia-be-prevented/). Oyo ezali sango ya mobimba, ezali toli ya monganga te; talá [liyebisi na biso ya makambo ya bokolongono](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Makambo 14 ya likama ya bokɔnɔ ya kobosana ezali nini?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Komisi ya Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0), ekomami na bato 27 ya bolukiluki na makambo ya bokɔnɔ ya kobosana, elobelaki ete makambo 14 ya likama oyo ekoki kobongwana esika moko ezali na boyokani na pene ya 45% ya makambo ya bokɔnɔ ya kobosana na mokili mobimba. Papesanti mpo na likambo moko na moko awa na nse ezali botalisi ya Komisi ya ndambo ya makambo na mokili mobimba oyo ezwami na boyokani na yango, ekangami na motuya ya mobimba. Mituya yango ekutana, mpo ete bato mingi bazalaka na makambo ya likama ebele na mbala moko, yango wana esangani na 45% kasi mingi koleka te.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Likambo ya likama | Eteni ya bomoi | Ndambo ya makambo | Oyo bolukiluki emonisi | Oyo okoki kosala |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Kelasi moke | Bolenge | 5% | Mibu moke ya kelasi ezwami na boyokani na likama ya monene. Kozala na misala ya makanisi na katikati ya bomoi emonani lokola eloko ya kobatela, ata mpo na bato oyo bayekolaki moke. | Kokoba koyekola mpe kosala makambo ya makanisi na mibu nyonso: kotánga, misala ya kobakisa, mateya, masano elongo na bato mosusu. |
+| Mokakatano ya koyoka | Katikati ya bomoi | 7% | Mokakatano ya koyoka oyo ebikisami te ezwami na boyokani na likama ya monene. Bolukiluki oyo elandi bato na boumeli ya ntango emonisi boyokani kati na kosalela bisaleli ya koyoka mpe likama ya moke. | Tika bayekola koyoka na yo. Tuná soki bisaleli ya koyoka ekoki kosalisa, mpe salelá yango soki epesami. Batelá matoyi na yo na makelele makasi. |
+| LDL cholesterol ya likolo | Katikati ya bomoi (kobanda pene ya mibu 40) | 7% | LDL cholesterol (« mabe ») ya likolo na katikati ya bomoi ezwami na boyokani na likama ya monene. Bolukiluki ya kotala emonisi boyokani kati na kosalela statines mpe likama ya moke, kasi bomekoli na mikolo ya nsuka emonisi yango te. | Tuná monganga na yo soki esengeli kotala cholesterol na yo mpe nini, soki ezali, osengeli kosala. |
+| Mawa ya motema ya molai | Katikati ya bomoi | 3% | Mawa ya motema ya molai ezwami na boyokani na likama ya monene. Na mikolo ya nsuka, ekoki mpe kozala elembo ya ebandeli ya bokɔnɔ ya kobosana. | Yebisá monganga soki ozali na mawa ya motema to ozangi posa ya makambo koleka baposo mibale. Mawa ya motema ya molai ekoki kobikisama. |
+| Kozoka na moto | Katikati ya bomoi | 3% | Kozoka na moto na mibu nyonso mpe na ntina nyonso, ata na masano ya kosimbana, ezwami na boyokani na likama ya monene. | Latá ekoti ya kobatela moto mpo na kotambola na velo mpe masano ya kosimbana. Tuná ndenge ya kopekisa kokweya. Pema mpe tika bátala yo nsima ya kozoka na moto. |
+| Kozanga bomekoli ya nzoto | Katikati ya bomoi | 2% | Bato oyo basalaka bomekoli ya nzoto mpe masano bazwaka bokɔnɔ ya kobosana moke. Bizaleli ya bomekoli ezali naino moke. | Tuná bomekoli nini ezali malamu mpo na yo, mpe luka oyo osepelaka na yango. Talá [lisungi na biso ya bomekoli ya nzoto](/brain-health/exercise/). |
+| Diabɛti | Katikati ya bomoi | 2% | Diabɛti, mingimingi soki ebandi na katikati ya bomoi to eumeli mingi, ezwami na boyokani na likama ya monene. | Tika bátala sukali ya makila. Soki ozali na diabɛti, salá elongo na ekipi na yo ya bokolongono mpo na kokamba yango na bobateli. |
+| Komela makaya | Katikati ya bomoi | 2% | Komela makaya ezwami na boyokani na likama ya monene. Bolukiluki emonisi ete bato oyo batiki komela makaya bazali na likama ya monene te lokola baoyo bakobi komela. | Tuná lisalisi mpo na kotika. Ezali na ntina kotika na mibu nyonso. |
+| Tension ya likolo | Katikati ya bomoi | 2% | Tension ya likolo na katikati ya bomoi ezwami na boyokani na likama ya monene. Bomekoli ya bankisi ya tension emonisi kokitisa moke ya likama ya bokɔnɔ ya kobosana to mikakatano ya makanisi. | Yebá mituya na yo. Komisi epesi likanisi ya motuya ya likoló ya 130 to na nse kobanda pene ya mibu 40; tuná mokano nini ebongi mpo na yo. |
+| Kilo mingi | Katikati ya bomoi | 1% | Kilo mingi na katikati ya bomoi ezwami na boyokani na likama ya monene, mpe ematisaka mpe likama ya diabɛti. | Tuná monganga na yo na ntina ya kilo ya malamu mpo na yo. Mikóló basengeli te kokita kilo na bilei ya makasi kozanga toli ya monganga. |
+| Komela masanga mingi | Katikati ya bomoi | 1% | Komela masanga mingi ezwami na boyokani na likama ya monene. Kokitisa komela soki omelaki mingi ezwami na boyokani na likama ya moke. | Tuná ndelo nini ezali malamu mpo na yo, mingimingi na bankisi na yo. |
+| Kozala mosika ya bato | Mikolo ya nsuka | 5% | Kozala na boyokani moke na bato ezwami na boyokani na likama ya monene. | Kobá boyokani na bato na ndenge oyo osepelaka na yango. Talá [lisungi na biso ya boyokani na bato](/brain-health/social-connection/). |
+| Mbindo ya mopepe | Mikolo ya nsuka | 3% | Kofanda na mbindo ya mopepe mingi ezwami na boyokani na likama ya monene. Bolukiluki emonisi boyokani kati na mopepe ya peto koleka mpe likama ya moke. | Ezali mingi likambo ya mibeko ya bato nyonso. Talá makebisi ya bosikisiki ya mopepe na esika na yo mpe kitisá ntango ya kozala libándá na mikolo ya mbindo makasi. |
+| Mikakatano ya miso oyo ebikisami te | Mikolo ya nsuka | 2% | Mikakatano ya miso oyo ebongisami te ezwami na boyokani na likama ya monene. Bolukiluki moko monene na États-Unis emonisi boyokani kati na lipaso ya cataracte mpe likama ya moke. | Salá bomekoli ya miso mbala na mbala. Tuná soki mikakatano lokola cataracte ekoki kobikisama. |
 
-## How should I read these percentages?
+## Ndenge nini nasengeli kotánga bapesanti oyo?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Na likebi. Lapolo ya Komisi moko emonisi makambo ebele oyo ezali malamu kobatela na makanisi:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Emonisi bato ebele, kasi moto moko te.** [Bokuse ya lapolo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ya University College London emonisi ete kokitisa likama esalaka mpo na bato ebele kasi epesi te ndanga ete moto moko akokima bokɔnɔ ya kobosana.
+- **Ezwami na makanisi ya ntina mpe mbano.** Bakomi baponaki kaka makambo oyo ezali na bilembeteli ya makasi, kasi balobi ete boyokani mosusu ekoki kozala ntina ya likambo na ndambo kaka.
+- **Ezali mituya ya mokili mobimba.** Mingi ya basango ewuti na mikili ya bozwi, mpe ndambo ya solo mpo na ekólo to lisanga moko ekoki kozala ndenge mosusu.
+- **Bapesanti ya mike ekoki kozala na ntina.** Likambo oyo ezwami na boyokani na 2% ya makambo na mokili mobimba etalelaka naino bato mingi mpenza.
 
-## Which risk factors were added in 2024?
+## Makambo nini ya likama ebakisamaki na 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Lapolo ya 2024 ebakisaki makambo mibale likoló ya 12 oyo etángamaki na 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **LDL cholesterol ya likolo na katikati ya bomoi**, oyo ezwami na boyokani na pene ya 7% ya makambo.
+- **Mikakatano ya miso oyo ebikisami te na mikolo ya nsuka**, oyo ezwami na boyokani na pene ya 2% ya makambo.
 
-## What risk factors cannot be changed?
+## Makambo nini ya likama ekoki kobongwana te?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging elobi ete [mibu ya mbotama ezali likambo ya likama oyo eyebani mingi mpo na bokɔnɔ ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), mpe moto moko te akoki kobongola yango. Makila ya libota mpe ezali na ndambo na yango; gène moko oyo eyebani mpo na kosala na likama ya Alzheimer ebéngami APOE. NIA ebakisi ete bato ya siansi bayebi naino te na mobimba nini epesaka bokɔnɔ ya Alzheimer mpo na bato mingi. Komisi ya Lancet emonisi ete makambo ya likama oyo ekoki kobongwana ekoki kokitisama ata soki moto azali na likama ya makila ya libota.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Lokola mibu mpe makila ya libota ezali na ndambo monene, bato mingi oyo bazali na makambo 14 ya likama te bakómaka kaka na bokɔnɔ ya kobosana. Ezali foti ya moto moko te.
 
-## What does the trial evidence say about changing these risks?
+## Bomekoli elobi nini na ntina ya kobongola makambo oyo ya likama?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Komona boyokani kati na likambo ya likama mpe bokɔnɔ ya kobosana ezali ndenge moko te na kolakisa ete kobongola yango ekitisa likama ya bokɔnɔ ya kobosana. Ndakisa mwa moke ya esika oyo bilembeteli ya bomekoli ezali:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Tension ya likolo.** Na bomekoli ya SPRINT MIND, mokano ya tension ya nse ekitisaki na ndenge ya polele mikakatano ya moke ya makanisi. Ekitisaki te na ndenge ya polele bokɔnɔ ya kobosana oyo ekanisami, kasi ekoki kozala ete bomekoli ezalaki moke mpo na komonisa yango ([SPRINT MIND na JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Bisaleli ya koyoka.** Komisi ya Lancet elobeli bomekoli ya mibu misato ya bisaleli ya koyoka oyo emonisi bopusi te na mobimba mpo na makanisi, kasi emonisi litomba mpo na etuluku ya bato oyo bazalaki na likama ya monene. Bolukiluki oyo elandi bato na boumeli ya ntango emonisi boyokani kati na kosalela bisaleli ya koyoka mpe likama ya moke. [Lisungi na biso ya koyoka](/brain-health/hearing/) ezali na makambo mosusu.
+- **Bomekoli ya nzoto.** National Institute on Aging elobi ete bilembeteli ya bomekoli ya minganga ekoki te mpo na koloba ete bomekoli ya nzoto ekoki kopekisa to kokitisa malembe mikakatano ya moke ya makanisi to bokɔnɔ ya Alzheimer, atako bolukiluki mosusu emonisi ete ekoki kosalisa na kokita ya makanisi oyo eyaka na mibu ([NIA na ntina ya kopekisa Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Bomekoli ya molai oyo ezelaka bokɔnɔ ya kobosana ebima ezali malembe mpe ezali na ntalo, yango wana mpo na makambo mingi bilembeteli ya malamu koleka ekokoba kowuta na bolukiluki oyo elandi bato na boumeli ya bambula. Bilembeteli yango ezali na ntina, kasi ezali na makasi moke koleka bomekoli ya komeka.
 
-## What about sleep and diet?
+## Bongo mpongi mpe bilei?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Komisi etalaki mpongi mpe bilei kasi ebakisaki yango te na molongo, mpo ete bilembeteli ezalaki makasi to ezalaki ndenge moko te mingi. Lisungi na biso mpo na [mpongi](/brain-health/sleep/) mpe [bilei](/brain-health/diet/) elimboli oyo eyebani.
 
-## Talk with a doctor
+## Lobá na monganga
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Kotalama ya mbula na mbula ezali ntango malamu mpo na kolobela makambo oyo. Okoki komema molongo oyo mpe kotuna:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Mituya na ngai ya tension, sukali ya makila mpe cholesterol ezali ndenge nini, mpe ezali oyo esengeli likebi?
+- Nasengeli kotala koyoka mpe miso na ngai?
+- Bomekoli ya nzoto oyo nasalaka ezali malamu mpe ekoki mpo na ngai?
+- Bankisi mosusu oyo nazali komela ekoki kosala na boyebi to makanisi?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Liboso ya kobongola bankisi, bilei, kokila bilei, bomekoli ya nzoto to bankisi ya kobakisa, lobá naino na monganga. Soki yo to moto oyo ozali kobatela azali na libulungano ya mbalakaka, bolembu na ngámbo moko, to mikakatano ya koloba, benga 911.

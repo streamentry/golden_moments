@@ -1,33 +1,33 @@
 ---
-title: "Attività per a demenza à esordiu giovanu: idee per adulti in età di travagliu"
-seoTitle: "Attività per a demenza à esordiu giovanu"
-description: "Attività per a demenza à esordiu giovanu, quandu i sintomi principianu prima di 65 anni: passatempi, uscite, musica di a so ghjuventù è sustegnu per i so cari."
+title: "Attività per a dimenza d’esordiu precoce"
+seoTitle: "Attività per a dimenza d’esordiu precoce"
+description: "Attività per a dimenza d’esordiu precoce, quandu i sintomi cumincianu nanzu à 65 anni: passatempi, surtite, musica di a so ghjuventù è sustegnu."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  A demenza à esordiu giovanu principia prima di 65 anni, spessu quandu a persona
-  travaglia sempre, guida o allevà i figlioli. Cunservate i so passatempi è e so
-  amicizie, sciglite uscite chì li sianu propiu à core, aduprate musica è fòto di
-  i so anni, è lasciateli decide i piani da elli stessi. I cumpagni è i figlioli
-  adulti anu ancu bisognu di sustegnu, è l'Alzheimer's Association organizza
-  gruppi ancu per elli.
+  A dimenza d’esordiu precoce cumincia nanzu à 65 anni, spessu mentre chì una
+  persona travaglia sempre, cunduce o cresce i figlioli. Cunservate i so
+  passatempi è e so amicizie, sceglite surtite chì li parenu e soie, aduprate
+  musica è fotò di i so propii anni, è lasciateli decide di i piani. I
+  partenarii è i figlioli adulti anu ancu bisognu di sustegnu, è l’Alzheimer’s
+  Association prupone gruppi per elli.
 keyPoints:
-  - "A demenza à esordiu giovanu principia prima di 65 anni. Spessu a persona sente chì a so età ùn currisponde micca à l'attività pruposte."
-  - "Lasciate à a persona decide ciò ch'ella vole fà, sia un passatempu o una uscita."
-  - "A musica, e fòto è i ricordi di l'età trà 20 è 50 anni sò spessu più significativu chè quelli di un'età più tarda."
-  - "Lasciate ch'ella resti attiva è in cumpagnia quandu vole, adattendu u ritmu piuttostu chè rimpiazzà l'attività stessa."
-  - "I parenti chì si piglianu cura di ella, soprattuttu i cumpagni è i figlioli adulti, ponu truvà aiutu in gruppi di sustegnu trà pari."
+  - "A dimenza d’esordiu precoce cumincia nanzu à 65 anni. Spessu, e persone sentenu chì a so età ùn currisponde micca à l’attività pruposte."
+  - "Lasciate a persona decide, da u passatempu à pruvà à a surtita da organizà."
+  - "A musica, e fotò è i ricordi di i so vinti à cinquant’anni sò spessu più significativi chè l’attività di a vita più tardi."
+  - "Rimanite attivi è suciali quandu a persona ne hà voglia, è adattate u ritmu invece di rimpiazzà l’attività."
+  - "E persone chì accudiscenu, in particulare i partenarii è i figlioli adulti, ponu truvà benefiziu in i gruppi di sustegnu trà pari."
 faq:
-  - q: "Chì hè a demenza à esordiu giovanu?"
-    a: "Hè una demenza chì principia prima di 65 anni. Sicondu l'Alzheimer's Association, si parla di forma giuvanile quandu affetta una persona sottu 65 anni. Hè menu cumuna chè a demenza chì principia à un'età più tarda, ma ùn hè micca rara, è l'esperienza pò esse assai diversa: a persona pò ancu travaglià, guidà è esse genitore."
-  - q: "Chì attività sò adatte à una persona cun demenza à esordiu giovanu?"
-    a: "Sò megliu l'attività chì currispondenu à a so vita adulta: un passatempu cunnisciutu, una passeggiata cun un amicu, un travagliu vuluntariu, cucinà qualcosa per a famiglia, musica di a so ghjuventù, o una visita à un locu chì li stà à core. Lasciateli sceglie, è adattate a durata è a cumpagnia piuttostu chè l'attività stessa."
-  - q: "Induve ponu truvà sustegnu un cumpagnu o un figliolu adultu?"
-    a: "L'Alzheimer's Association pruvede gruppi gratuiti di sustegnu per i parenti chì si piglianu cura, cumpresi gruppi pè quelli chì si piglianu cura di una persona cun demenza à esordiu giovanu. Pudete chjamà a so linea d'aiutu attiva 24 ore su 24 à u 800.272.3900 per dumandà infurmazioni nant'à i gruppi è e risorse dispunibuli."
-  - q: "Deve una persona cun demenza à esordiu giovanu cuntinuà à fà ciò ch'ella ama?"
-    a: "Iè, finchè hè sicuru è chì vole fàlu. I passatempi, a vita spirituale, l'eserciziu è u tempu in cumpagnia facenu tutti parte di una vita cumpleta. Adattate u locu, purtate cun ella una persona di cunfidenza, prevede delle pause, è firmate quandu l'attività ùn li dà più piace."
+  - q: "Chì ghjè a dimenza d’esordiu precoce?"
+    a: "Hè una dimenza chì cumincia nanzu à 65 anni. L’Alzheimer’s Association precisa chì l’Alzheimer hè cunsideratu d’esordiu in a ghjovana età quandu tocca una persona di menu di 65 anni. A dimenza d’esordiu precoce hè menu frequente chè quella d’esordiu tardivu, ma ùn hè micca rara, è l’esperienza hè spessu diversa: a persona pò sempre travaglià, cunduce è esse genitore."
+  - q: "Chì attività cunvenenu à una persona chì vive cù una dimenza d’esordiu precoce?"
+    a: "L’attività chì currispondenu à a so vita d’adultu funzionanu megliu: un passatempu cunnisciutu, una spassighjata cù un amicu, un mumentu di vuluntariatu, un piattu à preparà per a famiglia, musica di a so ghjuventù, o una visita in un locu ch’ella tene caru. Lasciatela sceglie, è adattate a durata è a cumpagnia piuttostu chè l’attività stessa."
+  - q: "Induve pò truvà sustegnu un partenariu o un figliolu adultu?"
+    a: "L’Alzheimer’s Association prupone gruppi di sustegnu gratuiti per e persone chì accudiscenu, cumpresi gruppi per e persone chì s’occupanu di qualchissia cù una dimenza d’esordiu in a ghjovana età. Pudete chjamà a so linea d’aiutu dispunibule à ogni ora, tutti i ghjorni, à u 800.272.3900 per dumandà infurmazioni nantu à i gruppi è e risorse."
+  - q: "Una persona chì vive cù una dimenza d’esordiu precoce deve sempre fà l’attività ch’ella li piaci?"
+    a: "Iè, finchè sò sicure è ch’ella ne hà voglia. I passatempi, e cumunità di fede, l’eserciziu è i mumenti suciali facenu tutti parte di una vita piena. Adattate u cuntestu, purtate un accumpagnatore è previste mumenti di riposu, è fermate quandu l’attività ùn face più piacè."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -46,45 +46,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-A maiò parte di l'infurmazioni nant'à a demenza partenu da u fattu chì a persona hà settanta o ottanta anni. Per una persona à a quale hè stata diagnosticata sta malatia in quarantina o cinquantina, a vita di ogni ghjornu hè assai diversa. Pò ancu travaglià, pagà un mutuu, allevà adulescenti o pigliassi cura di i so genitori. L'attività devenu dunque tene contu di sta vita adulta. Stu ghjuida vi spiega ciò chì cambia, ciò chì pudete pruvà, è induve i cumpagni è i figlioli adulti ponu truvà sustegnu.
+A maiò parte di l’infurmazioni nant’à a dimenza partenu da l’idea chì a persona hà settant’anni o uttant’anni. Per qualchissia à quale hè stata fatta una diagnosi in a quarantina o in a cinquantina, a vita di tutti i ghjorni hè diversa. A persona pò sempre avè un travagliu, un imprestitu per a casa, adulescenti in casa o un genitore da accudì. L’attività devenu tene contu di sta vita d’adultu. Sta guida spiega ciò chì cambia, ciò chì pudete pruvà, è induve i partenarii è i figlioli adulti ponu truvà sustegnu.
 
-## Chì hè a demenza à esordiu giovanu?
+## Chì ghjè a dimenza d’esordiu precoce?
 
-A demenza à esordiu giovanu hè una demenza chì principia prima di 65 anni, è si pò ancu chjamà demenza giuvanile. Sicondu u [blog di l'Alzheimer's Association](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/), si parla di forma giuvanile quandu affetta una persona sottu 65 anni, è chì pigliassi cura di una persona cusì ghjovana "purtà sfide particulari". I sintomi ponu esse simili à quelli di una demenza chì principia più tardi, ma e speranze, e rispunsabilità è a vita suciale di a persona ùn sò micca listesse.
+A dimenza d’esordiu precoce hè una dimenza chì cumincia nanzu à 65 anni, qualchì volta chjamata d’esordiu in a ghjovana età. U [blogu di l’Alzheimer’s Association](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) descrive l’Alzheimer cum’è d’esordiu in a ghjovana età quandu tocca una persona di menu di 65 anni, è precisa chì accudì una persona cusì ghjovana « vene cù sfide uniche ». I sintomi ponu esse listessi chè più tardi in a vita, ma l’aspettative, e rispunsabilità è a vita suciale di a persona ùn sò micca listesse.
 
-Siccomu hè menu cumuna, a persona pò aspettà più longu per ottene un diagnosticu, è e famiglie ponu sente ch'elle sò sole. Sapè ch'altri passanu a stessa cosa pò esse un gran sollievu.
+Cume hè menu frequente, e persone ponu aspittà più longu per avè una diagnosi, è e famiglie ponu avè l’impressione di ùn avè nimu cù quale parlà. Sapè chì d’altre persone vivenu a stessa esperienza pò spessu esse un sollievu.
 
-## Lascià à a persona u so postu in l'attività
+## Mantene l’adultu à u centru di l’attività
 
-A maiò parte di e persone cun demenza à esordiu giovanu ùn volenu micca esse trattate cum'è zitelli. Sicondu u [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), vale a pena adattà l'attività à ciò chì a persona pò ancu fà è ciò chì li piace. Per una persona in cinquantina, pudete pruvà:
+L’adulti chì vivenu cù una dimenza d’esordiu precoce ùn volenu di solitu micca esse trattati cum’è zitelli. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) cunsiglia d’adattà l’attività à ciò chì a persona pò sempre fà è apprezzà. Per qualchissia in a cinquantina, què pò vulè dì:
 
-- **Cunservà un passatempu cunnisciutu**, cum'è u travagliu di legnu, u sport, e carte, un gruppu di lettura o un coru, cun un pocu d'aiutu o in una seduta più corta.
-- **Andà à spassu o in bicicletta cun una persona di cunfidenza**, longu un itinerariu chì cunnosce bè.
-- **Cucinà un pranzu per a famiglia**, lasciendu ch'ella faccia e parte chì pò gestisce.
-- **Fà vuluntariatu o dà una manu**, in un rolu sceltu da ella, cum'è sistemà oggetti da dà o aiutà in una scola.
-- **Prugittà una visita** à un locu chì li stà à core, cun una persona di cunfidenza è un pianu simplice.
-- **Passà tempu cun nipoti, nipotine o altri parenti ghjovani**, scambiendu un ghjocu o facendu qualcosa inseme.
+- **Cunservà un passatempu cunnisciutu,** cum’è u travagliu di u legnu, u sport, e carte, un club di lettura o un coru, cù un pocu d’aiutu o una sessione più corta.
+- **Spassighjà o andà in bicicletta cù un accumpagnatore,** nantu à un percorsu ch’ella cunnosce bè.
+- **Preparà un pastu di famiglia,** lascendu à a persona fà e parte ch’ella pò gestisce.
+- **Fà vuluntariatu o dà un colpu di manu** in un rolu ch’ella sceglie, cum’è classificà doni o aiutà durante un avvenimentu in una scola.
+- **Organizà una surtita** in un locu impurtante per ella, cù un accumpagnatore è un prugramma simplice.
+- **Passà tempu cù i nipoti,** spartendu un ghjocu o un prughjettu.
 
-Lasciateli sceglie. Dumandà "Chì vulete fà sta dopu meziornu?" hè spessu più rispettosu chè sceglie à u so locu.
+Lasciate a persona sceglie. Dumandà « Chì vi piaceria di fà sta dopu meziornu? » hè più rispettosu chè sceglie per ella.
 
-## Aduprà a musica è i ricordi di i so anni
+## Aduprà musica è ricordi di i so propii anni
 
-A musica è e fòto di l'età trà a vintina è a quarantina ponu suscità sentimenti caldi è parlà cun più facilità. A nostra guida nant'à [l'attività cun a musica](/activities/music/) vi spiega cumu custruì una lista di canzoni, è quella nant'à [e reminiscenze](/activities/reminiscence/) cumu sparte fòto è ricordi senza interrugà. Per un ghjocu più adattatu à un adultu, pudete pruvà [e carte di cunversazione](/games/conversation-cards/), cun dumande aperte nant'à u travagliu, i viaghji, l'amici è a famiglia.
+A musica è e fotò di i vinti, trenta è quarant’anni di una persona ponu fà nasce sentimenti caldi è cunversazioni faciule. A nostra guida nantu à [l’attività cù a musica](/activities/music/) spiega cumu creà una lista di musica, è [l’attività di rimembranza](/activities/reminiscence/) mostranu cumu sparte fotò è ricordi senza fà un interrugatoriu. Per un ghjocu più d’adultu, pruvate [e carte di cunversazione](/games/conversation-cards/), cù dumande aperte nantu à u travagliu, i viaghji, l’amichi è a famiglia.
 
-Ancu e coppie di fòto fatte da e fòto di famiglia ponu funziunà bè, perchè rapprisentanu persone è lochi chì li sianu cari. [Coppie di fòto](/games/photo-pairs/) mantene e fòto in u navigatore nant'à quellu apparechju stessu.
+E coppie di fotò fatte cù fotò di famiglia ponu ancu funzionà bè, perchè l’imaghjini mostranu persone è lochi impurtanti per a persona. [Coppie di fotò](/games/photo-pairs/) mantene e fotò in u navigatore nant’à quellu apparechju.
 
-## U travagliu, a guida è a vita di ogni ghjornu
+## Travagliu, guida è vita di tutti i ghjorni
 
-Parechje persone cun demenza à esordiu giovanu travaglianu sempre, guidanu o si occupanu di i soldi. Ùn sò micca attività in u sensu abituale, ma influenzanu assai ciò chì a persona pò fà. Parlate cun u so duttore nant'à a sicurità in quantu à a guida è à u travagliu, è valutate inseme s'ella vole un pocu d'aiutu per e finanze o per l'appuntamentamenti. L'obbiettivu hè di prutege a so dignità, lasciendula sempre implicata quant'è vole.
+Parechje persone chì vivenu cù una dimenza d’esordiu precoce travaglianu sempre, cunducenu o gestiscenu i soldi. Ùn sò micca attività in u sensu abituale, ma influenzanu ciò chì a persona pò fà. Parlate cù u so duttore di a sicurità per a guida è u travagliu, è videte s’ella vole aiutu per e finanze o l’appuntamentu. U scopu hè di prutege a dignità mentre si mantene a persona implicata quant’ella vole.
 
-Per avè idee nant'à e rutine di ogni ghjornu è nant'à u stà attivu, vi pudete riferisce à [una rutina dolce di ogni ghjornu](/activities/daily-routine/) è à [i travaglii di casa cum'è attività](/activities/household-tasks/).
+Per cunsiglii nantu à e routine di tutti i ghjorni è nant’à u fattu di mantene si attivu, videte [una routine ghjurnalia dolce](/activities/daily-routine/) è [i travagli di casa cum’è attività](/activities/household-tasks/).
 
-## Sustegnu per i cumpagni è i figlioli adulti
+## Sustegnu per i partenarii è i figlioli adulti
 
-I cumpagni è i figlioli adulti ponu sente ch'elli sò soli assai spessu. Pigliassi cura d'una persona pò sente cum'è un secondu travagliu in più di quellu chì anu digià è di e so rispunsabilità famigliali. Sicondu l'articulu di u blog di l'Alzheimer's Association, i parenti chì participanu à gruppi pè a forma giuvanile anu trovu ch'elli sò stati utili sia per prublemi pratici, cum'è a prugittazione ghjuridica, sia per u solu fattu di sente ch'altri li capiscenu. L'Associazione organizza ancu gruppi gratuiti di sustegnu per i parenti chì si piglianu cura, cumpresi quelli specifichi pè a forma giuvanile, è certi si riuniscenu in linea u marti è u mercuri.
+I partenarii è i figlioli adulti si sentenu spessu soli. Accudisce pò dà l’impressione d’avè un secondu travagliu, in più di u travagliu è di a famiglia. L’articulu di u blogu di l’Alzheimer’s Association dice chì e persone chì accudiscenu in i gruppi per l’esordiu in a ghjovana età anu trovu sti gruppi utili per e quistioni pratiche, cum’è a pianificazione ghjuridica, è ancu simpliciamente per sente si capite. Precisa dinù chì l’Associazione prupone gruppi di sustegnu gratuiti per e persone chì accudiscenu, cumpresi gruppi per e persone chì s’occupanu di qualchissia cù una dimenza d’esordiu in a ghjovana età, è chì trè d’elli si riuniscenu in linea u marti è u mercuri.
 
-Per dumandà infurmazioni nant'à i gruppi, pudete chjamà a linea d'aiutu attiva 24 ore su 24 di l'Alzheimer's Association à u 800.272.3900. A nostra guida [pigliassi cura di sè quandu si piglia cura di l'altri](/caregiving/caregiver-self-care/) vi parla di riposu, di tempi di sollievu è di i segni di stanchezza troppu forte.
+Per dumandà infurmazioni nantu à i gruppi, chjamate a linea d’aiutu di l’Associazione, dispunibule à ogni ora, tutti i ghjorni, à u 800.272.3900. A nostra [guida nantu à piglià cura di sè quandu si accudisce](/caregiving/caregiver-self-care/) tratta di u riposu, di i mumenti di pausa è di i segni di spossatezza.
 
-## I stadi cuntinuanu à impurtà
+## I stadii contanu sempre
 
-U stadiu di a demenza in chì si trova a persona cuntinueghja sempre à indicà ciò chì pò aiutà. À l'iniziu, a maiò parte di e persone ponu fà e so attività abituale cun qualchi cambiamentu, è a nostra guida nant'à [l'attività in a prima fase](/activities/early-stage/) dà più idee. Quandu a malatia avanza, l'attività devenu più simplice è più sensoriale, cum'è spiegatu in [l'attività in a fase avanzata](/activities/late-stage/). Adattate l'attività à misura chì a persona cambia, è dumandatele ciò ch'ella vole ogni volta ch'ella pò risponde.
+U stadiu di a dimenza di a persona influenza sempre ciò chì pò aiutà. À l’iniziu, a maiò parte di e persone ponu fà e so attività abituale cù qualchì cambiamentu, è a nostra guida nantu à [l’attività in u stadiu iniziale](/activities/early-stage/) prupone più idee. Più tardi, l’attività diventanu più simplici è più sensoriali, cum’è discrittu in [l’attività in u stadiu avanzatu](/activities/late-stage/). Cambiate l’attività à misura chì a persona cambia, è dumandatele ciò ch’ella vole ogni volta ch’ella pò dilla.

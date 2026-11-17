@@ -1,32 +1,31 @@
 ---
-title: "Nîşanên destpêkê yên demansê û kengê herin cem bijîşk"
-seoTitle: "Nîşanên destpêkê yên demansê û kengê herin cem bijîşk"
-description: "Nîşanên destpêkê yên demansê, cudahiya wan ji pîrbûna asayî, sedemên ku dikarin bêne derman kirin û amadekirina ji bo hevdîtina bijîşk."
+title: "نیشانە سەرەتایییەکانی بێدەنگی و کاتێک پێویستە بۆ پزیشک بچیت"
+seoTitle: "نیشانە سەرەتایییەکانی بێدەنگی و کاتێک بچیت بۆ پزیشک"
+description: "نیشانە سەرەتایییە باوەکانی بێدەنگی، جیاوازیان لەگەڵ پیری بنەڕەتی، هۆکارە چارەسەرکراوەکانی کێشەی بیرکردنەوە، و ئامادەکاری بۆ سەردانی پزیشک."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Windabûna bîrê ku jiyana rojane asteng dike, zehmetiya di karên nas de, tevliheviya derbarê dem
-  an cih de, û guherînên di rewşa dil an biryardanê de dikarin nîşanên destpêkê yên demansê bin.
-  Gelek rewşên din jî, wek pirsgirêkên tîroîdê, kêmbûna vîtamîna B12, bandorên alîgir ên dermanan,
-  depresyon û pirsgirêkên xewê, dikarin guherînên wekhev çêbikin. Tenê bijîşkek jêhatî dikare
-  teşhîs bike. Tevliheviya ku ji nişka ve dest pê dike hewceyê lênihêrîna lezgîn e.
+  لەبیرچوونی کە کاریگەری لەسەر ژیانی ڕۆژانە هەیە، گرفت لە کارە ناسراوەکان، تێکچوونی هەست بە کات یان شوێن،
+  و گۆڕانکاری لە دڵخۆشی یان بڕیاردان دەتوانن نیشانە سەرەتایییەکانی بێدەنگی بن. زۆر بارودۆخی تر، وەک کێشەی تیڕۆید،
+  کەمبوونەوەی ڤیتامین B12، کاریگەری دەرمانی، خەمۆکی و کێشەی خەوتن، دەتوانن گۆڕانکاری وەک ئەمانە دروست بکەن.
+  تەنها پزیشکێکی پسپۆڕ دەتوانێت تێبینی بکات. تێکچوونی ناگهانی پێویستی بە چاودێریی فریاگوزاری هەیە.
 keyPoints:
-  - "Carinan jibîrkirin bi temen re asayî ye; guherînên ku jiyana rojane asteng dikin hêjayî kontrolkirinê ne."
-  - "Alzheimer's Association 10 nîşanên hişyariyê vedibêje, û ji bo her yekê guherîneke asayî ya bi temen re dide ber hev."
-  - "Pirsgirêkên tîroîdê, kêmbûna vîtamîna B12, bandorên alîgir ên dermanan, depresyon, enfeksiyon û pirsgirêkên xewê hemî dikarin bandorê li bîrê bikin, û hin ji wan dikarin bêne derman kirin."
-  - "Tenê bijîşkek jêhatî dikare demansê teşhîs bike; ceribandinên serhêl an xwe-ceribandin nikarin vê bikin."
-  - "Tevliheviya ku di nav çend demjimêr an rojan de ji nişka ve çêdibe dibe ku delirium be û hewceyê lênihêrîna bijîşkî ya lezgîn e."
+  - "لەبیرچوونی هەندێک جار لەگەڵ پیری ئاسایییە؛ گۆڕانکارییەک کە کاریگەری لەسەر ژیانی ڕۆژانە هەیە پێویستە پشکنین بکرێت."
+  - "کۆمەڵەی ئەلزهایمەر دەڵێت دە نیشانەی ئاگادارکردنەوە هەیە، هەر یەکێکیان لەگەڵ گۆڕانکارییەکی بنەڕەتیی پەیوەست بە پێری بەراورد دەکرێت."
+  - "کێشەی تیڕۆید، کەمبوونەوەی ڤیتامین B12، کاریگەری دەرمانی، خەمۆکی، تووشبوون و کێشەی خەوتن هەموویان دەتوانن کاریگەری لەسەر بیرکردنەوە هەبێت، و هەندێکیان چارەسەرکراون."
+  - "تەنها پزیشکێکی پسپۆڕ دەتوانێت بێدەنگی تێبینی بکات؛ تاقیکردنەوە و پرسنامەی سەرهێڵ ناتوانن."
+  - "تێکچوون کە بە شێوەیەکی ناگهانی، لە ماوەی چەند کاتژمێر یان چەند ڕۆژدا ڕوودەدات، لەوانەیە دلیریوم بێت و پێویستی بە چاودێریی پزیشکی فریاگوزاری هەیە."
 faq:
-  - q: "Gelo jibîrkirin beşeke asayî ya pîrbûnê ye?"
-    a: "Hinekî erê. National Institute on Aging dibêje ku carinan windakirina tiştan an jibîrkirina fatûreyekê bi gelemperî jibîrkirineke sivik e ku bi temen ve girêdayî ye. Demans beşeke asayî ya pîrbûnê nîne. Pirsgirêkên bîrê ku karên rojane yên wek ajotinê, bikaranîna telefonê an dîtina rêya malê zehmet dikin, hêjayî wê ne ku bi bijîşkekî re werin kontrol kirin."
-  - q: "Gelo pirsgirêkên bîrê dikarin ji tiştekî din ji bilî demansê werin?"
-    a: "Erê. National Institute on Aging di nav sedemên din de pirsgirêkên tîroîdê, gurçikan an kezebê, bandorên alîgir ên dermanan, depresyon û xeman, kêmbûna vîtamîna B12, bikaranîna zêde ya alkolê, pirsgirêkên xewê, enfeksiyon û birîndarîyên serî destnîşan dike. Hin ji van piştî dermankirinê dikarin baştir bibin, û ev yek ji sedemên ku kontrola bijîşkî girîng e."
-  - q: "Gelo ez dikarim li malê ji bo demansê ceribandinê bikim?"
-    a: "Na. Tenê bijîşkek jêhatî dikare demansê teşhîs bike, bi karanîna dîroka bijîşkî, muayeneya laşî, ceribandinên bîr û ramanê, ceribandinên laboratîfê û carinan şaneyên mêjî. Tewra ceribandinên kurt ên ku bijîşk bikar tînin jî bi serê xwe têrê nakin ji bo teşhîsa demansê."
-  - q: "Heke kesek ji nişka ve tevlihev bibe divê ez çi bikim?"
-    a: "Di cih de alîkariya bijîşkî bixwazin. Tevliheviya ji nişka ve dibe ku delirium be, ku VA wê wek rewşeke awarte ya bijîşkî vedibêje. Di cih de bangî dabînkerê lênihêrîna tenduristiyê ya wî kesî bikin an jî bangî 122 bikin, li cem wî bimînin, û dermanên ku ew bi kar tîne binivîsin."
+  - q: "ئایا لەبیرچوون بەشێکە لە پیری بنەڕەتی؟"
+    a: "هەندێک جار بەڵێ. ئینستیتیووتی نیشتیمانیی پیری دەڵێت لەبیرکردنی شتێک هەندێک جار یان لەبیرکردنی یارمەتی دارایی بەشێوەی ئاسایی ئەوە لەبیرچوونی سووک و پەیوەست بە پێرییە. بێدەنگی بەشێک نییە لە پیری بنەڕەتی. کێشەی بیرکردنەوە کە کارە ڕۆژانەکان وەک شوفێری، بەکارهێنانی مۆبایل یان دۆزینەوەی ڕێگەکە قورس دەکات، پێویستە لەگەڵ پزیشک بپشکنرێت."
+  - q: "ئایا دەتوانرێت کێشەی بیرکردنەوە لە شتێکی جیاواز لە بێدەنگی دروست بکرێت؟"
+    a: "بەڵێ. ئینستیتیووتی نیشتیمانیی پیری هۆکارەکان دەستنیشان دەکات وەک کێشەی تیڕۆید، گورچیلە یان جگەر، کاریگەری دەرمانی، خەمۆکی و بێئارامی، کەمبوونەوەی ڤیتامین B12، بەکارهێنانی زۆری ئەلکۆڵ، کێشەی خەوتن، تووشبوون و برینی سەری، لە نێوان شتەکانی تر. هەندێکیان دوای چارەسەر باشتر دەبن، بۆیە پشکنینی پزیشکی گرنگە."
+  - q: "ئایا دەتوانم لە ماڵەوە بێدەنگی تاقی بکەمەوە؟"
+    a: "نەخێر. تەنها پزیشکێکی پسپۆڕ دەتوانێت بێدەنگی تێبینی بکات، بە بەکارهێنانی مێژووی پزیشکی، پشکنینی جەستەیی، تاقیکردنەوەی بیرکردنەوە و بیرۆکە، تاقیکردنەوەی تاقیگە و هەندێک جار وێنەی مێشک. تەنانەت تاقیکردنەوە کورتەکان کە پزیشکان بەکاردەهێنن بە تەنها بەس نین بۆ تێبینیی بێدەنگی."
+  - q: "ئەگەر کەسێک بە شێوەیەکی ناگهانی تێکچوو بوو، چ بکەم؟"
+    a: "دەستبەجێ یارمەتی پزیشکی وەربگرە. تێکچوونی ناگهانی لەوانەیە دلیریوم بێت، کە ڤی ئەی وەسفی فریاگوزاری پزیشکی دەکات. دەستبەجێ پەیوەندی بە پزیشکی کەسەکە بکە یان 911 پەیوەندی بکە، لەگەڵی بمێنەوە، و هەر دەرمانێکی وەردەگرێت تۆمار بکە."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -54,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Dîtina guherînan di bîra we de, an jî di bîra kesekî ku hûn jê hez dikin de, dikare tirsnak be. Ev rûpel dikare ji we re bibe alîkar ku hûn biryar bidin kengê ji bo bijîşkê demekê diyar bikin û çawa ji bo wê hevdîtinê amade bibin. Ev rûpel nikare bêje ka kesek demansê heye an na. **Tenê bijîşkek jêhatî dikare demansê teşhîs bike**, û gelek rewşên ku pirsgirêkên bîrê çêdikin qet ne demans in. Ji kerema xwe pişta xwe bi ceribandinên serhêl an xwe-ceribandinan nesipêrin.
+تێبینی گۆڕانکاری لە بیرکردنەوەی خۆت، یان لە کەسێکی خۆشەویستت، دەتوانێت ترسناک بێت. ئەم پەڕەیە دەتوانێت یارمەتیت بدات بڕیار بدەیت کەی پێویستە سەردانی پزیشک بکەیت و چۆن ئامادە ببی بۆ سەردانەکە. ناتوانێت پێت بڵێت کەسێک بێدەنگی هەیە یان نەخێر. **تەنها پزیشکێکی پسپۆڕ دەتوانێت بێدەنگی تێبینی بکات**، و زۆر بارودۆخ کە کێشەی بیرکردنەوە دروست دەکەن بێدەنگی نین. تکایە پشت بە پرسنامە و تاقیکردنەوەی سەرهێڵ مەبەستە.
 
-## Nîşanên destpêkê yên demansê çi ne?
+## نیشانە سەرەتایییەکانی بێدەنگی چییە؟
 
-[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) 10 nîşanên destpêkê vedibêje. Ji bo berhevdanê, her yekê bi guherîneke asayî ya bi temen re dide ber hev. Bi gotinên me:
+[کۆمەڵەی ئەلزهایمەر](https://www.alz.org/alzheimers-dementia/10_signs) دە نیشانەی سەرەتایی دەستنیشان دەکات. هەر یەکێکیان لەگەڵ گۆڕانکارییەکی بنەڕەتیی پەیوەست بە پێری بەراورد دەکات. بە وشەی خۆمان:
 
-| Nîşana ku hêjayî kontrolkirinê ye | Bi gelemperî bi temen re asayîtir e |
+| نیشانەیەک کە پێویستە پشکنرێت | زۆرتر لەگەڵ پێری ئاسایییە |
 | --- | --- |
-| Windabûna bîrê ku jiyana rojane asteng dike, wek jibîrkirina bûyerên dawî an dubare û dubare pirsîna heman tiştî | Carinan jibîrkirina navekî an demekî û paşê bîranîn |
-| Zehmetiya di plansaziyê an çareserkirina pirsgirêkan de, wek şopandina reçeteyekê nas an şopandina fatûreyan | Carinan xeletiyek di fatûreyên malê de |
-| Zehmetiya di qedandina karên nas de li malê, li kar an li derve | Carinan hewcedariya bi alîkariyê ji bo sazkirina mîkropêlê an tomarkirina bernameyekê TVyê |
-| Ji bîrkirina dîrok, demsal an cihê ku hûn lê ne | Carinan şaş fêmkirina roja hefteyê û paşê rast dîtin |
-| Zehmetiya nû di texmînkirina dûrahiyê, xwendinê an cudakirina rengan de | Guherînên dîtinê ji ber kataraktê |
-| Pirsgirêkên nû bi peyvan re, wek sekinîna di nîvê axaftinê de an navlêkirina tiştan bi navekî şaş | Carinan zehmetiya dîtina peyva rast |
-| Danîna tiştan li cihên neasayî û nikaribin gavên xwe bişopînin | Carinan windakirina tiştan û dîtina wan bi şopandina gavan |
-| Biryardana nebaş, wek di mijarên pereyan an lênêrîna kesane de | Carinan dayîna biryareke nebaş |
-| Vekişîna ji hobî, kar an çalakiyên civakî | Carinan nexwestina beşdarbûna di bûyereke malbatî an civakî de |
-| Guherînên di rewşa dil an kesayetiyê de, wek tevlihevî, gumanbarî, tirs an xeman | Hebûna awayên berê yên kirina karan û acizbûn dema ku rûtînek tê guhertin |
+| لەبیرچوونی کە کاریگەری لەسەر ژیانی ڕۆژانە هەیە، وەک لەبیرکردنی ڕووداوە نوێیەکان یان پرسیاری هەمان شت دووبارە و دووبارە | هەندێک جار لەبیرکردنی ناو یان سەردانێک و دواتر بیرکردنەوەی |
+| گرفت لە پلاندانان یان چارەسەرکردنی کێشەکان، وەک شوێنکەوتنی چێشتێکی ناسراو یان چاودێریی پارەی ماڵ | هەندێک هەڵە لە پارەی ماڵ هەندێک جار |
+| قورسەتی تەواوکردنی کارە ناسراوەکان لە ماڵ، لە کار یان لە دەرەوە | هەندێک جار پێویستی بە یارمەتی هەیە بۆ ڕێکخستنی مایکڕۆوێڤ یان تۆمارکردنی بەرنامەی تەلەفزیۆن |
+| لەبیرکردنی ڕۆژ، وەرز یان شوێنێک کە تیایدا | هەڵەکردن لە ڕۆژی هەفتە و دواتر دۆزینەوەی |
+| گرفتێکی نوێ لە هەڵسەنگاندنی دووری، خوێندنەوە یان جیاکردنەوەی ڕەنگ | گۆڕانکاری لە بینین لەبەر کەتاراکت |
+| کێشەی نوێ لە وشەکان، وەک وەستان لە نێوان قسەکردن یان بانگکردنی شتەکان بە ناوی هەڵە | هەندێک جار گرفت لە دۆزینەوەی وشەی گونجاو |
+| دانانی شتەکان لە شوێنە نائاساییەکان و ناتوانیت بگەڕێیتەوە بۆ دۆزینەوەیان | هەندێک جار لەبیرکردنی شتێک و دۆزینەوەی بە گەڕانەوە |
+| بڕیاردانی خراپ، وەک لەبارەی پارە یان ڕووتکردنەوە | هەندێک جار بڕیاری خراپ |
+| دوورکەوتنەوە لە خۆشەویستییەکان، کار یان چالاکییە کۆمەڵایەتییەکان | هەندێک جار نەهاتووی بۆ بۆنە یان چالاکییە کۆمەڵایەتییەکان |
+| گۆڕانکاری لە دڵخۆشی یان کەسایەتی، وەک تێکچوون، گومان، ترس یان بێئارامی | هەندێک ڕێگەی دیاریکراو بۆ کارکردن و تووڕەبوون کاتێک ڕێکخستنێک تێکدەچێت |
 
-Tenê nîşanek bi serê xwe nayê wateya demansê. Ya girîng **guherînek e li gorî rewşa asayî ya wî kesî**, bi taybetî heke ew jiyana rojane zehmetir bike.
+یەک نیشانە بە تەنها واتای بێدەنگی نییە. گرنگە ئەوە بێت کە گۆڕانکارییەک لەوەی بۆ ئەو کەسە ئاسایییە، بە تایبەت ئەوەی ژیانی ڕۆژانە قورس دەکات.
 
-## Pîrbûna asayî ji demansê çawa cuda ye?
+## جیاوازی پیری بنەڕەتی لەگەڵ بێدەنگی چییە؟
 
-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) dibêje ku gelek kesên pîr dibînin ku tiştan hêdîtir bi bîr tînin, an carinan tiştan winda dikin an fatûreyekê ji bîr dikin. Ev bi gelemperî nîşanên jibîrkirineke sivik in. **Demans beşeke asayî ya pîrbûnê nîne.** Pirsgirêkên bîrê yên giran karên rojane zehmet dikin, wek ajotin, bikaranîna telefonê an dîtina rêya malê.
+[ئینستیتیووتی نیشتیمانیی پیری (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) دەڵێت زۆربەی کەسانی پێشەکی تێبینی دەکەن کە بیرکردنەوەی شتەکان خاوتر دەبێت، یان هەندێک جار شتێک لەبیر دەکەن یان یارمەتی دارایی لەبیر دەکەن. ئەمانە بە شێوەی ئاسایی نیشانەی لەبیرچوونی سووکن. **بێدەنگی بەشێک نییە لە پیری بنەڕەتی.** کێشەی بیرکردنەوەی گەورە کارە ڕۆژانەکان قورس دەکات، وەک شوفێری، بەکارهێنانی مۆبایل یان دۆزینەوەی ڕێگەکە.
 
-NIA pêşniyar dike ku bi bijîşkekî re were axaftin heke kesek:
+NIA پێشنیار دەکات لەگەڵ پزیشک قسە بکەیت ئەگەر کەسێک:
 
-- Dîsa û dîsa heman pirsan dipirse
-- Li cihên ku berê baş nas dikir winda dibe
-- Di şopandina reçete an rêwerzan de zehmetiyê dikişîne
-- Di derbarê dem, kes û cihan de bêtir tevlihev dibe
-- Dev ji lênêrîna xwe berdide, wek xwarina nebaş, neşûştin an tevgerên neewle
+- هەمان پرسیارەکان دووبارە و دووبارە دەپرسێت
+- لە شوێنەکان کە پێشووتر دەیناسی لە ڕێگە لادەچێت
+- گرفت لە شوێنکەوتنی چێشت یان ڕێنمایی هەیە
+- زیاتر تێکچوون لەبارەی کات، کەس و شوێن دەبێت
+- چاودێریی خۆی واز دەهێنێت، وەک خواردنی خراپ، نەشستن یان ڕەفتاری نەگونجاو
 
-Hin kesan **kêmasiya nasnameyî ya sivik (MCI)** heye. Ev tê wateya pirsgirêkên bîr an ramanê yên ji yên kesên din ên di heman temenî de zêdetir, lê ew hîn jî dikarin jiyana rojane birêve bibin. NIA dibêje ku MCI dibe ku nîşanek destpêkê ya Alzheimerê be, lê ne her kesê ku MCI heye wê pêş bikeve.
+هەندێک کەس **کەمکردنەوەی زانیاری دەروونی سووک (MCI)** هەیە. واتە کێشەی بیرکردنەوە یان بیرۆکەی زیاتر لە کەسانی هاوسن بێت، بەڵام هێشتا لە کارە ڕۆژانەکان بەڕێوە دەچن. NIA دەڵێت MCI لەوانەیە نیشانەی سەرەتاییی ئەلزهایمەر بێت، بەڵام هەموو کەسانی MCI پێی نەدەکەون.
 
-## Çi tiştên din dikarin bibe sedema pirsgirêkên bîrê?
+## چی تر دەتوانێت کێشەی بیرکردنەوە دروست بکات؟
 
-Gelek tiştên ji bilî demansê dikarin bandorê li bîrê bikin, û hin ji wan bi dermankirinê baştir dibin. NIA van destnîşan dike:
+زۆر شت لە جگە لە بێدەنگی دەتوانن کاریگەری لەسەر بیرکردنەوە هەبێت، و هەندێکیان لەگەڵ چارەسەر باشتر دەبن. NIA دەستنیشان دەکات:
 
-- **Pirsgirêkên tîroîdê, gurçikan an kezebê**
-- **Bandorên alîgir ên dermanan**
-- **Depresyon û xeman**
-- **Kêmbûna vîtamîna B12** an nexwarina xwarinên têr saxlem
-- **Pirsgirêkên xewê**
-- **Bikaranîna zêde ya alkol an dermanan**
-- **Enfeksiyon, pêlikên xwînê an tumor** di mejî de
-- **Birîndariya serî**, wek hejandin
-- **Stres an şîna mezin**, wek teqawidbûn an windakirina hevjînê
+- **کێشەی تیڕۆید، گورچیلە یان جگەر**
+- **کاریگەری دەرمانی**
+- **خەمۆکی و بێئارامی**
+- **کەمبوونەوەی ڤیتامین B12** یان نەخواردنی خواردنی تەندروست
+- **کێشەی خەوتن**
+- **بەکارهێنانی زۆری ئەلکۆڵ یان ماددە**
+- **تووشبوون، کڵۆتی خوێن یان گێڕەکان** لە مێشک
+- **برینی سەری**، وەک لەرزینی مێشک
+- **فشار یان خەمەکانی گەورە**، وەک تەقاعدبوون یان لەدەستدانی هاوسەر
 
-Pirsgirêkên bihîstin an dîtinê jî dikarin wek tevlihevî werin dîtin; li [rêbera me ya bihîstinê](/brain-health/hearing/) binêrin. Ev yek sedem e ku kontrola bijîşkî girîng e. Li gorî [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), bijîşk bi gelemperî ceribandinên xwînê dixwazin da ku pirsgirêkên tîroîdê, kêmbûna vîtamînan û enfeksiyonan kontrol bikin. Baştir [xewtin](/brain-health/sleep/) û dermankirina depresyonê jî hêjayî gotinê ne.
+کێشەی بیستن و بینینیش دەتوانن وەک تێکچوون پێشبینی بکرێن؛ سەیری [ڕێنمایی بیستن](/brain-health/hearing/) بکە. بۆیە پشکنینی پزیشکی گرنگە. بەپێی [کۆمەڵەی ئەلزهایمەر](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)، پزیشکان زۆربە جار تاقیکردنەوەی خوێن داوا دەکەن بۆ پشکنینی کێشەی تیڕۆید، کەمبوونەوەی ڤیتامین و تووشبوون. باشی [خەوتن](/brain-health/sleep/) و چارەسەرکردنی خەمۆکیش شایانی باسکردنن.
 
-## Tevliheviya ji nişka ve rewşeke awarte ye
+## تێکچوونی ناگهانی فریاگوزارییە
 
-**Tevliheviya ku zû dest pê dike, di nav çend demjimêr an rojan de, hewceyê lênihêrîna bijîşkî ya lezgîn e.** Dibe ku ev delirium be. [VA deliriumê](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) wek rewşeke awarte ya bijîşkî vedibêje û şîret dike ku di cih de bangî dabînkerê lênihêrîna tenduristiyê ya wî kesî bikin an jî bangî 122 bikin. Nîşanan di nav wan de hene:
+**تێکچوون کە بە خێرایی، لە ماوەی چەند کاتژمێر یان چەند ڕۆژدا ڕوودەدات، پێویستی بە چاودێریی پزیشکی فریاگوزاری هەیە.** لەوانەیە دلیریوم بێت. [ڤی ئەی دەڵێت دلیریوم](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) فریاگوزاری پزیشکییە و پێشنیار دەکات دەستبەجێ پەیوەندی بە پزیشکی کەسەکە بکەیت یان 911 پەیوەندی بکەیت. نیشانەکان:
 
-- Guherînên di şiyana ramana zelal de
-- Zehmetiya di balkişandinê de
-- Ramana bêserûber
-- Zêdetirî asayî xewêbûn, an jî bêaramî û tevgerên zêde
+- هەڵگەڕانەوە لە توانای بیرکردنەوەی ڕوون
+- گرفت لە سەرنجدان
+- بیرکردنەوەی ناڕێک
+- خەوتنی بێوێنە، یان بێئارامی و توندوتیژی بێوێنە
 
-Ev dikare ji bo her kesî çêbibe, tevî kesên ku jixwe bi demansê re dijîn. Li gorî [NHS](https://www.nhs.uk/symptoms/confusion/), sedemên gelemperî enfeksiyon in (enfeksiyonên rêyên mîzê li kesên pîr û kesên ku bi demansê re dijîn gelemperî ne), felc, kêmbûna şekirê xwînê li kesên bi şekirê, birîndariya serî û hin derman. Dema ku hûn li benda alîkariyê ne, li cem wî kesî bimînin û bi gotinên kurt û sade wî aram bikin. Gelek pirsan nepirsin, û dermanên ku ew bi kar tîne binivîsin.
+ئەمە دەتوانێت بۆ هەموو کەسێک ڕووبدات، لەوانەش کەسانی کە پێشووتر بێدەنگییان هەیە. بەپێی [NHS](https://www.nhs.uk/symptoms/confusion/)، هۆکارە باوەکان تووشبوون (تووشبوونی سیستمی میزەکە لە کەسانی پێشەکی و کەسانی بێدەنگی باون)، لەقەبوون، کەمبوونەوەی شەکرەی خوێن لە کەسانی شەکرە، برینی سەری و هەندێک دەرمانن. لە کاتی چاوەڕوانی یارمەتی، لەگەڵ کەسەکە بمێنەوە و بە وشەی کورت و سادە ئارامێکی بدە. پرسیاری زۆر مەکە، و هەر دەرمانێکی وەردەگرێت تۆمار بکە.
 
-## Ez çawa ji bo hevdîtina bijîşk amade bibim?
+## چۆن ئامادە ببی بۆ سەردانی پزیشک؟
 
-Hevdîtineke baş bi notên baş dest pê dike. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) pêşniyar dike ku hûn van tiştan bi xwe re bînin:
+سەردانێکی باش بە تێبینییە باشەکان دەست پێدەکات. [کۆمەڵەی ئەلزهایمەر](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) پێشنیار دەکات ئەم شتانە بهێنیت:
 
-1. **Lîsteyek ji guherînan** di bîr, rewşa dil û tevgerê de, bi mînakên taybetî û bi texmînî kengê dest pê kirine
-2. **Pirsgirêkên tenduristiyê yên berê û yên niha**, tevî dîroka malbatî ya pirsgirêkên bîrê heke hebe
-3. **Hemû dermanên bi reçete û bê reçete**
-4. **Her vîtamîn an pêvekên xwarinê**
-5. **Pirsên we**, wek ka dê kîjan ceribandin werin kirin, ew çiqas dem digirin û encam kengê tên
+1. **لیستی گۆڕانکارییەکان** لە بیرکردنەوە، دڵخۆشی و ڕەفتار، بە نموونەی دیار و کاتێکی نزیک کە دەستی پێکردووە
+2. **کێشەی تەندروستی پێشووتر و ئێستا**، لەوانەش مێژووی کەسایەتیی کێشەی بیرکردنەوە
+3. **هەموو دەرمانە پێناسەکراوەکان و ئەوانی بێ پێناسە**
+4. **هەر ڤیتامین یان پەڕاوێزێک**
+5. **پرسیارەکانت**، وەک چ تاقیکردنەوەیەک دەکرێت، چەند کات دەخایەنێت و کەی ئەنجامەکان دێن
 
-Her weha baş e ku endamekî malbatê an hevalek ku wî kesî baş nas dike bi we re were. [NIA rave dike](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) ku bijîşk dikarin hem ji wî kesî û hem jî ji endamekî malbatê derbarê tenduristî, dermanan, çalakiyên rojane û guherînên di tevgerê de bipirsin. Bijîşk her weha dikarin:
+هێنانەوەی ئەندامێکی خێزان یان هاوڕێی کە کەسەکە باش دەناسێتیش یارمەتی دەدات. [NIA ڕوون دەکاتەوە](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) کە پزیشکان لەوانەیە لە هەردوو کەسەکە و ئەندامێکی خێزان بپرسن لەبارەی تەندروستی، دەرمان، کارە ڕۆژانەکان و گۆڕانکاری لە ڕەفتار. پزیشکان لەوانەیە هەروەها:
 
-- Ceribandinên bîr, çareserkirina pirsgirêkan, baldarî, hejmartin û ziman bikin
-- Ceribandinên xwîn, mîzê û yên din bixwazin da ku sedemên din bibînin
-- Ji bo depresyonê an rewşên din ên tenduristiya derûnî kontrol bikin
-- Şaneyên mejî wek CT an MRI bixwazin
-- Kesekî bişînin cem pispor, wek bijîşkê gerîatrîk, neurolojîst, psîkîyatrîstê gerîatrîk an neuropsîkolojîst
+- تاقیکردنەوەی بیرکردنەوە، چارەسەرکردنی کێشە، سەرنجدان، ژماردن و زمانی بدەن
+- تاقیکردنەوەی خوێن، میز و تاقیکردنەوەی تر داوا بکەن بۆ دۆزینەوەی هۆکارەکانی تر
+- پشکنینی خەمۆکی یان بارودۆخی دەروونی تر بکەن
+- وێنەی مێشک وەک CT یان MRI داوا بکەن
+- ڕەوانەکردن بۆ پسپۆڕ، وەک پسپۆڕی پزیشکی پیری، دەرونی، دەرونی پیری یان پسپۆڕی دەرونی
 
-NIA destnîşan dike ku nirxandina nasnameyî beşek pêwîst a Serdana Salane ya Tenduristiyê ya Medicare ye, ku dikare demeke guncaw be ji bo anîna van fikaran. Tewra ceribandinên kurt ên ku bijîşk bikar tînin jî bi serê xwe têrê nakin ji bo teşhîsa demansê. Ew gavek destpêkê ne ber bi nirxandineke tevahîtir ve, û dibe ku teşhîs ji yekê zêdetir hevdîtinan bixwaze. NIA şîret dike ku kesên ku pirsgirêkên bîrê hene her 6 heta 12 mehan carekê vegerin cem bijîşk.
+NIA دەڵێت هەڵسەنگاندنی زانیاری دەروونی بەشێکە لە سەردانی ساڵانەی تەندروستیی مێدیکەیر، کە دەتوانێت کاتی باش بێت بۆ هەڵگرتنی دڵەڕاوکێ. تەنانەت تاقیکردنەوە کورتەکان کە پزیشکان بەکاردەهێنن بە تەنها بەس نین بۆ تێبینیی بێدەنگی. ئەمانە یەکەم هەنگاون بۆ هەڵسەنگاندنی تەواوتر، و تێبینی لەوانەیە زیاتر لە یەک سەردان پێویست بکات. NIA پێشنیار دەکات کەسانی کە کێشەی بیرکردنەوەیان هەیە هەر ٦ بۆ ١٢ مانگ جارێک بگەڕێنەوە بۆ پزیشک.
 
-## Bi nermî behsa mijarê bikin
+## هەڵگرتنی بابەتەکە بە شێوەیەکی نەرمی
 
-Heke hûn ji bo kesekî din ditirsin, demek aram û taybet hilbijêrin. Li ser tiştên taybetî yên ku we dîtine bipeyivin, wek xemeke ji bo tenduristiya wî kesî, ne wek rexnekirin. Pêşniyarkirina kontrolêke giştî dikare kêmtir tirsnak be. Wî kesî di biryaran de bihewînin û wekî mezinê ku ew e bi wî re bipeyivin. [Şîretên me yên ragihandinê](/caregiving/communication-tips/) dibe ku bibin alîkar.
+ئەگەر دڵەڕاوکێیت لە کەسێکی تر، کاتێکی ئارام و تایبەت هەڵبژێرە. لەبارەی شتە دیاریکراوەکان کە تێبینی کردووت کە قسە بکە، بە وەک نیگەرانیت بۆ تەندروستیان لەجیاتی ڕەخنە. پێشنیارکردنی پشکنینی گشتی لەوانەیە کەمتر دژوار بێت. کەسەکە لە بڕیاردانەکاندا بەشدار بکە و بە وەک گەورەیەک قسەی پێ بکە. [ڕێنمایی پەیوەندی](/caregiving/communication-tips/) لەوانەیە یارمەتیت بدات.
 
-## Bi bijîşkekî re bipeyivin
+## لەگەڵ پزیشک قسە بکە
 
-Heke hûn guherînên di bîr, raman, rewşa dil an şiyanên rojane de dibînin ku nû ne û berdewam dibin, ji bo bijîşkê malbatê demekê diyar bikin. Ji bo tevliheviya ji nişka ve, di cih de bangî 122 bikin an jî bangî dabînkerê lênihêrîna tenduristiyê ya wî kesî bikin. Zû kontrol kirin tê vê wateyê ku sedemên ku dikarin bêne derman kirin dikarin werin dîtin, û heke demans be jî, bêtir dem heye ji bo plansaziyê û dîtina piştgiriyê. Di vê pêvajoyê de li xwe jî binêrin; li [rêbera me ya lênêrîna xwe ya ji bo kesên lênêrînê dikin](/caregiving/caregiver-self-care/) binêrin.
+ئەگەر تێبینی گۆڕانکاری لە بیرکردنەوە، بیرۆکە، دڵخۆشی یان تواناکانی ڕۆژانەت کرد کە نوێن و بەردەوامن، سەردانی پزیشکی سەرەتایی بکە. بۆ تێکچوونی ناگهانی، دەستبەجێ 911 یان پزیشکی کەسەکە پەیوەندی بکە. پشکنینی زوو واتە دۆزینەوەی هۆکارە چارەسەرکراوەکان و، ئەگەر بێدەنگی بوو، کاتێکی زیاتر بۆ پلاندانان و دۆزینەوەی پشتگیری. خۆتیش لە ئەم ماوەیەدا چاودێری بکە؛ سەیری [ڕێنمایی چاودێریی خۆت](/caregiving/caregiver-self-care/) بکە.
 
-Ev rûpel agahdariya giştî ye, ne şîreta bijîşkî ye. Li [agahdariya me ya bijîşkî](/medical-disclaimer/) binêrin.
+ئەم پەڕەیە زانیاری گشتییە، نەک ڕاوێژکاری پزیشکی. سەیری [ڕەخنەی پزیشکی](/medical-disclaimer/) بکە.

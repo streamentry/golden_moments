@@ -1,37 +1,37 @@
 ---
-title: "Manawi Tiyang ingkang Gesang kaliyan Demensia Bola-bali Nyuwun Wangsul"
-seoTitle: "Demensia Bola-bali Nyuwun Wangsul: Dhawuh Punapa"
-description: "Kenging punapa tiyang demensia nyuwun wangsul senajan sampun wonten griya, punapa ingkang kedah dipunaturaken, kegiatan nentremaken, lan njagi keslametanipun."
+title: "Nalika Wong sing Urip karo Demensia Kerep Njaluk Mulih"
+seoTitle: "Demensia Kerep Njaluk Mulih: Apa sing Bisa Diucapake"
+description: "Napa wong sing urip karo demensia njaluk mulih sanajan wis ana omah, apa sing bisa diucapake, kagiyatan sing bisa nenangake, lan carane njaga supaya tetep aman."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Manawi tiyang ingkang gesang kaliyan demensia bola-bali nyuwun wangsul,
-  “griya” asring tegesipun raos aman utawi papan saking jaman rumiyin, sanes
-  bangunan. Boten sah mbantah manawi piyambakipun sampun wonten griya. Mangertosi
-  raosipun, ngayemaken bilih piyambakipun aman, tanglet bab griyanipun, lajeng
-  alon-alon ngajak dhateng foto, musik, dhaharan alit, mlampah-mlampah, utawi
-  pakaryan gampil. Priksa manawi ngelih, ngelak, kedah dhateng jamban, utawi
-  sakit. Manawi wiwitipun dumadakan, telpun dokteripun.
+  Nalika wong sing urip karo demensia kerep njaluk mulih, "omah" asring
+  tegese rasa aman utawa papan saka biyen, dudu bangunan. Aja mbantah yen
+  dheweke wis ana omah. Akeh-akehi rasa sing dirasakake, yakinke yen dheweke
+  aman, takona bab omah, banjur alon-alon alih menyang foto, musik, cemilan,
+  mlaku-mlaku sedhela, utawa tugas sing prasaja. Priksa apa dheweke luwe,
+  ngelak, perlu menyang jedhing, utawa lara. Yen kedadeyan iki dumadakan,
+  hubungi dhoktere.
 keyPoints:
-  - "“Kula badhe wangsul” asring tegesipun “kula boten ngraos aman utawi tentrem”, sanes nyuwun alamat."
-  - "Mbantah utawi mbuktekaken manawi piyambakipun sampun wonten griya limrahipun damel gelisahipun tambah. Mangsuli raosipun, sanes tembungipun."
-  - "Aturi piyambakipun nyariyosaken bab griyanipun, lajeng tawisaken foto, musik, dhaharan alit, mlampah-mlampah, utawi pakaryan gampil."
-  - "Priksa punapa wonten ingkang saged dipunbeneraken: ngelih, ngelak, kedah dhateng jamban, sakit, benter utawi asrep sanget, swanten rame, kesel."
-  - "Manawi kedadosan saben sonten, menika saged sundowning; jadwal ingkang tetep lan padhang ingkang cekap saged mbiyantu."
-  - "Rencanakaken keslametan manawi piyambakipun badhe medal saking griya, lan telpun dokter manawi wonten owah-owahan ingkang dumadakan."
+  - "\"Aku arep mulih\" asring tegese \"aku ora rumangsa aman utawa tentrem,\" dudu panjaluk alamat."
+  - "Mbantah utawa mbuktekake yen dheweke wis ana omah biasane malah ndadekake susah atine saya tambah. Wangsulana rasa sing dirasakake."
+  - "Ajak dheweke crita bab omah, banjur tawakake foto, musik, cemilan, mlaku-mlaku sedhela, utawa tugas sing prasaja."
+  - "Priksa apa ana sing bisa dibenerake: luwe, ngelak, perlu menyang jedhing, lara, kepanasen utawa kadhemen, rame, utawa kesel."
+  - "Yen kedadeyan iki saben sore, bisa uga ana gegayutane karo sundowning; rutinitas sing ajeg lan cahya sing cukup bisa mbantu."
+  - "Rencanakna langkah-langkah keamanan yen dheweke nyoba lunga, lan hubungi dhoktere yen ana owah-owahan sing dumadakan."
 faq:
-  - q: "Kenging punapa ibu kula ingkang gadhah demensia bola-bali nyuwun wangsul, senajan sampun wonten griya?"
-    a: "Demensia saged damel ruangan ingkang sampun akrab karaos asing, lan tiyang kadhang ngraos manawi piyambakipun wonten ing jaman ingkang langkung rumiyin. “Griya” saged tegesipun griya nalika alit, utawi namung raos aman lan sekeca. Mangsuli raos menika limrahipun langkung sae tinimbang ngandhani piyambakipun wonten pundi."
-  - q: "Kula kedah ngendika punapa manawi piyambakipun nyuwun wangsul?"
-    a: "Cobi ngendika “Panjenengan aman wonten ing mriki, lan kula tetep nunggil panjenengan”, lajeng “Mangga kula dipuncariyosi bab griya panjenengan.” Mirengaken, paringi foto utawi lagu, lan tawisaken unjukan utawi mlampah-mlampah sekedhap. Singkiri ngendika “Panjenengan sampun wonten griya” kados mbenerake, amargi saged karaos kados dipunwuningi lepat."
-  - q: "Punapa saged ngendika manawi mangké kita wangsul?"
-    a: "Kulawarga lan lembaga demensia beda pamanggihipun bab menika. Kathah ingkang miwiti kanthi panglipur ingkang jujur lan ngalihaken kawigatosan, lan nyimpen ketidakjujuran ingkang alus kangge wekdal ingkang leres-leres namung badhe damel gelisah ingkang boten saged dipunlampahi piyambakipun. Punapa kemawon pilihan panjenengan, tansah alus lan tetep sami, lan ampun nate ngenyek raos kasunyatanipun piyambakipun."
-  - q: "Kados pundi manawi piyambakipun nyobi medal saking griya?"
-    a: "Tetep tenang lan tindak sesarengan, sampun dipuntahan; mlampah sekedhap asring ngredhaken kepinginipun. Samekta keslametan saderengipun, kadosta gelang identitas, lonceng ing lawang, lan foto ingkang énggal. Manawi piyambakipun ical, enggal wiwiti madosi, lan manawi dereng pinanggih sasampunipun 15 menit, telpun nomer darurat ing wewengkon panjenengan, lan aturi manawi tiyang menika gadhah demensia."
-  - q: "Kapan kedah nelpun dokter?"
-    a: "Enggal telpun dokteripun manawi nyuwun wangsul utawi bingung menika wiwit dumadakan utawi tambah awrat sanget ing wekdal pinten-pinten jam utawi dinten, langkung-langkung manawi sesarengan kaliyan demam, obat énggal, utawi tandha infeksi saluran kemih. Bingung ingkang dumadakan saged delirium, ingkang mbetahaken pitulungan enggal. Manawi wonten tiyang ingkang bebaya, telpun nomer darurat ing wewengkon panjenengan."
+  - q: "Napa ibu kula sing urip karo demensia kerep njaluk mulih sanajan wis ana omah?"
+    a: "Demensia bisa ndadekake kamar sing wis akrab krasa aneh, lan wong kadhang rumangsa ana ing wektu urip sing kepungkur. \"Omah\" bisa uga tegese omah nalika isih cilik utawa mung rasa aman lan nyaman. Nanggepi rasa iku biasane luwih migunani tinimbang nuduhake dheweke saiki ana ing ngendi."
+  - q: "Apa sing kudune tak ucapake nalika dheweke njaluk mulih?"
+    a: "Coba ucapna \"Sampeyan aman ing kene, lan aku tetep karo sampeyan,\" banjur \"Critakna bab omah sampeyan.\" Rungokna, nuduhake foto utawa lagu, lan tawakake ngombe utawa mlaku-mlaku sedhela. Aja ngucap \"Sampeyan wis ana omah\" minangka koreksi, amarga bisa krasa kaya dibilangi yen dheweke salah."
+  - q: "Apa ora apa-apa yen matur bakal mulih mengko?"
+    a: "Kulawarga lan organisasi demensia duwe pandangan sing beda-beda bab iki. Akeh sing miwiti kanthi panglipur sing jujur lan alihan sing alus, lan mung nggunakake tembung sing ora sakabehe jujur nalika kahanan tartamtu yen bebener mung bakal ndadekake susah ati sing ora bisa ditanggulangi. Apa wae sing sampeyan pilih, tetepana welas asih lan ajeg, lan aja ngece rasa kasunyatane dheweke."
+  - q: "Piye yen dheweke nyoba metu saka omah?"
+    a: "Tetep tenang lan mlaku bareng dheweke tinimbang ngalangi; mlaku-mlaku sedhela asring bisa ngenthengake rasa kepengin lunga iku. Siapna langkah-langkah keamanan luwih dhisik, kayata gelang identitas, lonceng lawang, lan foto sing isih anyar. Yen wong sing sampeyan rawat ilang, priksa papan-papan aman sing cedhak nalika enggal hubungi polisi lokal utawa layanan darurat. Aja ngenteni sawetara menit tartamtu sadurunge nglaporake."
+  - q: "Kapan aku kudu nelpon dhokter?"
+    a: "Enggal hubungi dhoktere yen panjaluk mulih utawa bingunge dumadakan utawa saya parah sajrone sawetara jam utawa dina, utamane yen ana demam, obat anyar, utawa tandha-tandha infeksi saluran kemih. Bingung sing dumadakan bisa uga minangka delirium, sing mbutuhake penanganan enggal. Telpon 911 yen ana wong sing ana ing bebaya."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -51,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -68,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-“Kula badhe wangsul.” Kangge kathah kulawarga, menika salah satunggaling ukara ingkang paling awrat dipunmirengaken, langkung-langkung manawi tiyang ingkang panjenengan rawat lenggah wonten ing ruang tamunipun piyambak. Menika limrah, saged kedadosan ing tahap menapa kemawon saking demensia, lan wonten cara ingkang tentrem saha praktis kangge mangsuli. Kaca menika njelasaken punapa ingkang asring dipuntegesi saking tembung-tembung menika, punapa ingkang saged dipunaturaken, kegiatan ingkang saged mbiyantu ing wekdal menika, lan kados pundi njagi keslametan.
+"Aku arep mulih." Kanggo akeh kulawarga, iki minangka salah siji bab sing paling abot kanggo dirungokake, utamane nalika wong sing sampeyan rawat lagi lungguh ing ruang tamu omahe dhewe. Iki lumrah, bisa kedadeyan ing tahap demensia apa wae, lan ana cara nanggepi sing tenang lan praktis. Kaca iki nerangake apa sing asring dimaksud saka tembung kasebut, apa sing bisa diucapake, kagiyatan sing bisa mbantu ing wektu iku, lan carane tetep aman.
 
-## Kenging punapa tiyang ingkang gesang kaliyan demensia bola-bali nyuwun wangsul?
+## Napa wong sing urip karo demensia kerep njaluk mulih?
 
-Limrahipun, “griya” menika langkung dados raos tinimbang papan. Alzheimer's Society nggambaraken menika minangka raos sekeca lan aman, utawi griya saking jaman rumiyin, sanes griya ingkang sapunika dipunenggeni. Demensia saged damel ruangan ingkang sampun akrab katingal asing, lan tiyang saged ngraos manawi piyambakipun gesang ing jaman ingkang langkung rumiyin, nalika griya menika griya nalika alit utawi papan panjenenganipun ngrawat putra-putranipun.
+Biasane, "omah" luwih minangka rasa tinimbang papan. Alzheimer's Society nerangake iki minangka rasa nyaman lan aman, utawa omah saka biyen, dudu bangunan iku dhewe. Demensia bisa ndadekake kamar sing wis akrab katon aneh, lan wong bisa rumangsa lagi urip ing wektu sing kepungkur, nalika omah tegese omah nalika isih cilik utawa papan nalika dheweke nggedhekake anak-anake.
 
-Tembung-tembung menika ugi saged dados tandha manawi wonten sanes ingkang boten sae sapunika: piyambakipun ngelih, ngelak, kedah dhateng jamban, sakit, benter utawi asrep sanget, kesel, sepi, ajrih, utawi kewalahan dening swanten ingkang rame. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) nyebataken sakit, swanten rame, sepi, owah-owahan jadwal, lan obat-obatan among sabab gelisah.
+Tembung kasebut uga bisa dadi tandha yen ana bab liya sing lagi ora kepenak saiki: dheweke luwe, ngelak, perlu menyang jedhing, lara, kepanasen utawa kadhemen, kesel, kesepian, wedi, utawa kewalahan amarga rame. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) nyebutake lara, rame, rasa kesepian, owah-owahan rutinitas, lan obat-obatan minangka sawetara panyebab gelisah.
 
-## Kula kedah ngendika punapa manawi piyambakipun nyuwun wangsul?
+## Apa sing kudune tak ucapake nalika dheweke njaluk mulih?
 
-Mangsuli raosipun, sanes tembungipun. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) maringi pamrayogi supados boten nyobi ngyakinaken tiyang menika bilih piyambakipun lepat: raosipun menika nyata, dados wangsulana rumiyin kanthi panglipur lan ngayemaken, lajeng alon-alon ngalihaken kawigatosanipun.
+Wangsulana rasa sing dirasakake, dudu tembung-tembunge. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) menehi saran supaya ora nyoba ngyakinake wong kasebut yen dheweke salah: rasa sing dirasakake iku nyata, mula wangsulana luwih dhisik kanthi panglipur lan keyakinan, banjur alon-alon alihna perhatian.
 
-Ukara ingkang asring mbiyantu:
+Ukara sing asring bisa mbantu:
 
-- **Nyebataken raosipun.** “Kados-kados panjenengan kangen dhateng griya.”
-- **Ngayemaken.** “Panjenengan aman wonten ing mriki, lan kula tetep nunggil panjenengan.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) maringi pamrayogi tembung ingkang prasaja “Panjenengan aman wonten ing mriki.”
-- **Ngundang kenangan.** “Mangga kula dipuncariyosi bab griya panjenengan. Pawonipun kados pundi?” Tanglet bab jaman ingkang sampun tebih limrahipun langkung sekeca tinimbang pitakenan bab dinten menika.
-- **Tawisaken satunggal bab sesarengan.** “Ngunjuk teh rumiyin, mangga,” utawi “Panjenengan kersa mbiyantu kula nlipet anduk menika?”
+- **Sebutna rasa sing dirasakake.** "Katon e sampeyan kangen omah."
+- **Yakinke.** "Sampeyan aman ing kene, lan aku tetep karo sampeyan." [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) nyaranake tembung sing prasaja, "Sampeyan aman ing kene."
+- **Ajak ngeling-eling.** "Critakna bab omah sampeyan. Pawon sampeyan biyen kaya apa?" Takon bab kenangan sing wis suwe biasane luwih nyaman tinimbang pitakonan bab dina iki.
+- **Tawakake nindakake soko bareng.** "Ayo ngombe teh dhisik," utawa "Sampeyan gelem nulungi aku nglempit andhuk iki?"
 
-Swanten ingkang anget lan tangan ing lengen, manawi piyambakipun remen dipunsentuh, saged ngandharaken langkung kathah tinimbang tembung.
+Nada swara sing anget lan sentuhan alon ing lengen, yen dheweke seneng disentuh, bisa luwih migunani tinimbang tembung.
 
-## Punapa ingkang kedah dipunsingkiri?
+## Apa sing kudune diendhani?
 
-- **Mbantah utawi nerangaken.** “Panjenengan sapunika manggen wonten mriki” utawi “Menika sampun 40 taun dados griya panjenengan” nyuwun piyambakipun nampi bab ingkang awrat dipuntampi dening demensia, lan saged karaos kados dipunwuningi lepat.
-- **Takon kados nguji.** “Panjenengan boten eling?” utawi “Alamatipun pundi?” tambah awratipun.
-- **Nutup lawang kanthi duka.** Manawi piyambakipun badhe medal, tetep tenang lan tindak sesarengan. Mlampah sekedhap sesarengan asring ngredhaken kepinginipun.
-- **Kesesa.** Paringi piyambakipun wekdal ngandharaken bab griyanipun saderengipun ngewahi topik.
+- **Mbantah utawa njlentrehake.** "Sampeyan saiki manggon ing kene" utawa "Iki wis dadi omah sampeyan suwene patang puluh taun" njaluk dheweke nampa soko sing angel ditampa amarga demensia, lan bisa krasa kaya dibilangi yen dheweke salah.
+- **Nguji eling-elingane.** "Lha kok ora eling?" utawa "Alamate ngendi?" malah nambah tekanan.
+- **Ngalangi lawang kanthi nesu.** Yen dheweke arep metu, tetep tenang lan mlaku bareng. Mlaku-mlaku sedhela bareng asring bisa ngenthengake rasa kepengin lunga iku.
+- **Kesusu.** Wenehana wektu kanggo crita bab omah sadurunge sampeyan ngganti topik.
 
-## Kegiatan ingkang saged mbiyantu ing wekdal menika
+## Kagiyatan sing bisa mbantu ing wektu iku
 
-Sasampunipun panjenengan mangertosi raosipun, kegiatan ingkang tentrem lan akrab saged ngalihaken kawigatosan tanpa ngremehaken raosipun.
+Sawise sampeyan ngakoni rasa sing dirasakake, kagiyatan sing tenang lan akrab bisa ngalihake perhatian tanpa nglirwakake rasa kasebut.
 
-1. **Mirsani foto griya lan kulawarga.** Mbikak kaca-kaca lan paring tanggapan (“Mirsani taman menika”) sanes takon. Wonten ing telepon utawi tablet, [Pasangan foto](/games/photo-pairs/) ndadosaken foto kulawarga panjenengan piyambak dados dolanan nyocogaken ingkang alus, lan foto-foto menika tetep wonten ing piranti panjenengan.
-2. **Rembagan bab griya.** [Kertu rembagan](/games/conversation-cards/) maringi pitakenan terbuka bab griya, pawon, tangga, lan dinten riyaya, tanpa wangsulan ingkang leres utawi lepat.
-3. **Setelaken musik ingkang dipunremeni.** National Institute on Aging nyebataken musik ingkang nentremaken among cara kangge ngredhaken gelisah. Mangga mirsani [kegiatan musik](/activities/music/) kawula.
-4. **Dhahar alit utawi ngunjuk.** Ngelih lan ngelak saged katingal kados boten tenang. Teh setunggal cangkir utawi dhaharan kesenengan ugi dados adat alit kangge ngraos wonten griya.
-5. **Mlampah-mlampah utawi lenggah ing njawi.** Obah lan cahya siang mbiyantu, langkung-langkung ing wekdal ingkang langkung enjing.
-6. **Paringi pakaryan ingkang akrab.** Nlipet sandhangan, milah-milah sendok, utawi nyirami tanduran saged mbalekaken raos ngurus griya.
-7. **Alonaken sedaya.** Pejahaken TV, kirangi swanten lan cahya ingkang nyilaw, lan cobi ngaso sesarengan kanthi [ambegan tentrem](/games/calm-breathing/).
+1. **Deloken foto omah lan kulawarga.** Bukak foto-fotone lan wenehana komentar ("Deloken kebone kuwi") tinimbang takon-takon. Ing ponsel utawa tablet, [Photo pairs](/games/photo-pairs/) ngowahi foto kulawarga sampeyan dadi dolanan cocog-cocogan sing alus, lan foto-fotone tetep ana ing piranti sampeyan.
+2. **Ngomong bab omah.** [Conversation cards](/games/conversation-cards/) nyedhiyakake pitakonan sing mbukak crita bab omah, pawon, tangga, lan dina-dina riyaya, tanpa jawaban sing bener utawa salah.
+3. **Puterna musik sing disenengi.** National Institute on Aging nyebutake musik sing nenangake minangka salah siji cara kanggo ngedhunake rasa gelisah. Deleng [kagiyatan musik](/activities/music/) kita.
+4. **Wenehana cemilan utawa ngombe.** Luwe lan ngelak bisa katon kaya rasa ora kepenak. Secangkir teh utawa cemilan sing disenengi uga bisa dadi ritual cilik sing ndadekake rumangsa ana ing omah.
+5. **Mlaku-mlaku utawa lungguh ing njaba.** Obah lan cahya srengenge bisa mbantu, utamane ing wayah awan.
+6. **Wenehana tugas sing wis akrab.** Nglempit umbah-umbah, nata sendok garpu, utawa nyirami tanduran bisa mbalekake rasa kaya lagi ngurusi omah.
+7. **Alon-alonake kabeh.** Pateni TV, suda swara lan cahya sing silau, lan coba ngaso bareng kanthi [ambegan sing tenang](/games/calm-breathing/).
 
-Manawi satunggal gagasan boten cocog, cobi sanesipun mangké. Lenggah sesarengan kanthi tenang ugi dados pungkasan ingkang sae.
+Yen siji cara ora cocog, coba cara liya mengko. Lungguh kanthi tenang bebarengan uga wis dadi asil sing apik.
 
-## Priksa sabab ingkang saged dipunbeneraken
+## Priksa apa ana sabab sing bisa dibenerake
 
-| Priksa | Punapa ingkang saged dipuncobi |
+| Priksa | Sing bisa dicoba |
 | --- | --- |
-| Ngelih utawi ngelak | Paringi unjukan lan dhaharan alit |
-| Kedah dhateng jamban | Tawisaken dhateng jamban, kanthi tenang lan boten gegeran |
-| Sakit utawi boten kepenak | Madosi tandha kadosta nyengir, nyekeli bagian badan, utawi konstipasi, lan aturi dokteripun |
-| Benter utawi asrep sanget | Ewahi sandhangan utawi suhu ruangan |
-| Swanten rame utawi kathah tiyang | Pindhah dhateng ruangan ingkang langkung sepi, pejahaken TV |
-| Kesel utawi kathah sanget rangsangan | Ngaso, kurangi padhanging ruangan, setelaken musik ingkang alus |
-| Sonten | Mirsani bagian sundowning ing ngandhap |
+| Luwe utawa ngelak | Tawakake ngombe lan cemilan cilik |
+| Perlu menyang jedhing | Tawakake menyang jedhing, kanthi tenang lan tanpa rame |
+| Lara utawa ora kepenak | Priksa tandha-tandha kayata mringis, nyekeli bagean awak, utawa konstipasi, banjur kandhakna marang dhoktere |
+| Kepanasen utawa kadhemen | Atur lapisan sandhangan utawa suhu kamar |
+| Rame utawa akeh wong | Pindhah menyang kamar sing luwih sepi, pateni TV |
+| Kesel utawa kakehan rangsangan | Ajak ngaso, redupake kamar, puterna musik alus |
+| Sore | Deleng bagean bab sundowning ing ngisor iki |
 
-Alzheimer's Society maringi pamrayogi supados nyerat cathetan cekak kapan nyuwun wangsul menika kedadosan, kadosta sakderengipun dhahar, sasampunipun wonten tamu, utawi nalika surup. Pola ingkang katingal ndadosaken rencana langkung gampil.
+Alzheimer's Society nyaranake supaya nyathet kapan panjaluk mulih iki kedadeyan, kayata sadurunge mangan, sawise ana tamu, utawa nalika srengenge arep surup. Pola sing katon bisa mbantu ngrencanakake luwih dhisik.
 
-## Punapa saged ngendika ingkang boten sakleresipun kanthi alus?
+## Apa ora apa-apa yen matur ora sakabehe jujur?
 
-Menika pitakenan ingkang leres-leres dipunperdebataken, lan kulawarga ingkang sae manggihaken wangsulan ingkang beda. Alzheimer's Society ngandika manawi boten wonten satunggal wangsulan ingkang leres: ketidakjujuran saged damel sawetawis tiyang langkung curiga, dados mutusna punapa ingkang paling sae kangge piyambakipun lan tetep sami. Ing Penn Memory Center, pamanggihipun ko-direktur inggih menika kajujuran dados dhasar, lan ketidakjujuran ingkang alus namung pantes manawi tiyang menika boten saged mangertosi satunggaling bab ingkang leres, lan panjenengan boten pareng ngenyek kasunyatanipun.
+Iki minangka perkara sing kerep dadi bahan rembugan, lan kulawarga sing apik-apik bisa wae duwe pilihan sing beda. Alzheimer's Society kandha yen ora ana jawaban siji sing bener kanggo kabeh: tembung sing ora jujur bisa ndadekake sawetara wong dadi luwih curiga, mula pilihna apa sing paling apik kanggo wong kasebut lan tetep ajeg. Ing Penn Memory Center, pandangan salah siji direktur bareng yaiku kejujuran dadi dhasar, lan tembung sing ora sakabehe jujur bisa ditampa mung nalika wong kasebut ora bisa ngolah bebener tartamtu, lan sampeyan ora kena ngece rasa kasunyatane.
 
-Kathah ingkang ngrawat manggihaken manawi dalan tengah migunani: panglipur ingkang jujur lan ngalihaken kawigatosan rumiyin (“Dalu menika kita wonten mriki, lan kula wonten celak panjenengan”), tanpa mbantah bab griya wonten pundi.
+Akeh sing ngrumat nemokake dalan tengah sing bisa ditindakake: panglipur sing jujur lan alihan luwih dhisik ("Dina iki awake dhewe nginep ing kene wae, lan aku ana ing kene karo sampeyan"), tanpa mbantah bab omah iku ana ing ngendi.
 
-## Kados pundi manawi kedadosan saben siang utawi sonten?
+## Piye yen kedadeyan iki saben sore utawa bengi?
 
-Gelisah ingkang wiwit utawi tambah ing sonten asring dipunsebut sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) maringi pamrayogi jadwal ingkang tetep, srengenge lan kegiatan saben dinten, boten kathah tilem siang ing wekdal telat, lan boten kopi utawi alkohol ing sonten. Nyumet lampu sakderengipun surup ugi saged mbiyantu. Pandhuan kawula bab [kegiatan tentrem ing sonten](/caregiving/late-day-restlessness/) gadhah katrangan langkung kathah.
+Rasa ora kepenak sing wiwit utawa saya tambah ing wayah sore asring diarani sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) nyaranake jadwal sing ajeg, cahya srengenge lan kagiyatan saben dina, nyuda turu awan ing wayah sore, lan ora ngonsumsi kafein utawa alkohol ing wayah sore utawa bengi. Nguripake lampu sadurunge peteng uga bisa mbantu. Pandhuan kita bab [kagiyatan sore sing tenang](/caregiving/late-day-restlessness/) nduweni katrangan liyane.
 
-## Njagi keslametanipun manawi piyambakipun nyobi medal
+## Njaga supaya tetep aman yen dheweke nyoba lunga
 
-Nyuwun wangsul saged ndadosaken mlampah tanpa tujuan. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ngira-ira manawi nem saking sedasa tiyang ingkang gesang kaliyan demensia badhe mlampah tanpa tujuan paling boten satunggal wekdal.
+Njaluk mulih bisa ndadekake wong mlaku lunga tanpa tujuan. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ngira yen enem saka sepuluh wong sing urip karo demensia bakal mlaku lunga tanpa tujuan paling ora sepisan.
 
-**Samekta saderengipun:**
+**Siapna luwih dhisik:**
 
-- Gelang identitas utawi medis kaliyan nama lan nomer telepon panjenengan, saha label wonten ing sandhanganipun. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) nyebataken program MedicAlert lan Safe and Found saking Alzheimer's Association, ingkang saged mbetahaken biaya. Layanan ingkang sami wonten ing wewengkon panjenengan saged dipuntakenaken dhateng lembaga Alzheimer utawi demensia setempat.
-- Lonceng utawi alarm ing lawang, lan kunci ingkang dipunpasang inggil utawi andhap. Ampun nate nguncekaken tiyang menika piyambakan.
-- Foto ingkang énggal lan celak, saha daftar papan ingkang saged dipuntindaki, kadosta griya ingkang rumiyin utawi papan makarya.
-- Wartosaken dhateng tangga ingkang dipunpitados, lan paringi nomer panjenengan.
+- Gelang identitas utawa medis kanthi jenenge lan nomer telpon sampeyan, lan label ing sandhangane. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) nyebutake program MedicAlert lan Safe and Found saka Alzheimer's Association, sing bisa uga mbutuhake biaya.
+- Lonceng utawa weker lawang, lan kunci sing dipasang ing dhuwur utawa ngisor. Aja tau ngunci wong kasebut dhewekan ing njero.
+- Foto close-up sing isih anyar, lan dhaptar papan sing bisa uga dituju, kayata omah utawa papan kerja biyen.
+- Kandhakna marang tangga sing dipercaya, lan wenehana nomer telpon sampeyan.
 
-**Manawi piyambakipun ical:** enggal wiwiti madosi; Alzheimer's Association nyebataken manawi kathah tiyang pinanggih ing jarak 1.5 mil. Manawi dereng pinanggih sasampunipun 15 menit, telpun nomer darurat ing wewengkon panjenengan lan aturi manawi tiyang menika gadhah demensia. Telpun nomer menika enggal manawi wonten tiyang ingkang bebaya.
+**Yen dheweke ilang:** priksa papan-papan aman sing cedhak nalika enggal hubungi polisi lokal utawa layanan darurat. Aja ngenteni sawetara menit tartamtu sadurunge nglaporake. [Artikel jurnal U.S. Department of Justice taun 2021 babagan investigasi wong ilang](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) nyebutake yen lembaga penegak hukum ora kudu njaluk wektu tunggu tartamtu; artikel kasebut uga nyebutake gejala sing padha karo demensia minangka perkara sing dadi keprihatinan risiko dhuwur. Tata cara nglaporake ing saben daerah bisa beda-beda. Kandhakna marang petugas yen wong kasebut urip karo demensia, wenehana lokasi pungkasan sing dingerteni lan foto sing isih anyar, banjur turuti pandhuane. Yen ana wong liya sing bisa nulungi, jaluk supaya tetep cedhak telpon. Aja nggoleki dhewe ing papan sing ora aman.
 
-## Kapan kedah nelpun dokter?
+## Kapan aku kudu nelpon dhokter?
 
-Enggal telpun dokteripun manawi nyuwun wangsul utawi bingung menika wiwit dumadakan, utawi tambah awrat sanget ing wekdal pinten-pinten jam utawi dinten. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ngandika manawi tindak-tanduk ingkang dumadakan utawi cepet ewah, langkung-langkung sasampunipun infeksi utawi ewah obat, kedah enggal dipunpriksa. Bingung ingkang dumadakan saged delirium, ingkang miturut [NHS](https://www.nhs.uk/symptoms/confusion/) mbetahaken pitulungan enggal; infeksi saluran kemih menika sabab ingkang limrah ing tiyang sepuh.
+Enggal hubungi dhoktere yen panjaluk mulih utawa bingunge dumadakan, utawa saya parah sajrone sawetara jam utawa dina. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nyebutake yen prilaku sing owah dumadakan utawa cepet banget, utamane sawise infeksi utawa owah-owahan obat, kudu langsung dipriksa. Bingung sing dumadakan bisa uga minangka delirium, sing miturut [NHS](https://www.nhs.uk/symptoms/confusion/) mbutuhake pitulungan enggal; infeksi saluran kemih minangka salah siji panyebab sing umum ing wong tuwa.
 
-Migunani ugi manawi panjenengan nyariyosaken pola ingkang tetep wonten ing pamriksa ingkang badhe rawuh, amargi sakit, raos sedhih, kesulitan tilem, utawi efek samping obat sedaya saged gadhah peran.
+Uga becik kanggo nyritakake pola sing terus-terusan ing janjian sabanjure, amarga lara, rasa sedhih, masalah turu, utawa efek samping obat bisa uga nduweni pengaruh.

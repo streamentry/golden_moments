@@ -1,33 +1,34 @@
 ---
-title: "Les tâches ménagères comme activités pour les personnes atteintes de démence"
-seoTitle: "Activités ménagères et démence : les gestes du quotidien"
-description: "Plier, trier, mettre la table, cuisiner simplement : des tâches ménagères qui ont du sens pour une personne atteinte de démence, et comment les adapter sans danger."
+title: "Tâches ménagères : des activités du quotidien"
+seoTitle: "Activités ménagères et maladie d’Alzheimer"
+description: "Plier, trier, mettre la table et cuisiner simplement peuvent être des activités porteuses de sens. Comment les organiser, les adapter et veiller à la sécurité."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Les tâches du quotidien, comme plier des serviettes, trier des chaussettes,
-  mettre la table, essuyer un plan de travail, arroser des plantes ou aider à
-  cuisiner simplement, peuvent donner à une personne atteinte de démence une
-  vraie façon d’aider. Choisissez des tâches qu’elle connaît, découpez-les en
-  une étape à la fois, écartez les dangers tranchants ou brûlants, et
-  valorisez la participation plutôt que le « bien fait ».
+  Les tâches de tous les jours, comme plier les serviettes, trier les chaussettes,
+  mettre la table, essuyer les plans de travail, arroser les plantes et aider à
+  préparer des repas simples, peuvent offrir à une personne vivant avec une maladie
+  d’Alzheimer ou une maladie apparentée une vraie façon de participer. Choisissez
+  des tâches qu’elle connaît, décomposez-les en une seule étape à la fois, retirez
+  les objets coupants ou les sources de chaleur, et valorisez sa participation
+  plutôt que le fait de « bien faire ».
 keyPoints:
-  - "Les tâches familières peuvent aider la personne à se sentir utile et partie prenante de la maison, ce qui compte souvent plus que la qualité du travail."
-  - "Découpez chaque tâche en étapes uniques, montrez plutôt que de dire, et reprenez discrètement toute étape devenue difficile."
-  - "Rangez sous clé les couteaux, les produits ménagers et les capsules de lessive, et ajoutez des cache-boutons de cuisinière ou un arrêt automatique avant de cuisiner ensemble."
-  - "Il n’est pas nécessaire de replier les serviettes devant la personne. S’il faut refaire quelque chose, faites-le plus tard, hors de sa vue."
-  - "Si une tâche provoque de la frustration, passez à une étape plus facile, réessayez une autre fois, ou simplement asseyez-vous ensemble."
+  - "Les tâches familières peuvent aider la personne à se sentir utile et à faire partie du foyer, ce qui compte souvent plus que la façon dont la tâche est accomplie."
+  - "Décomposez chaque tâche en étapes simples, montrez plutôt que d’expliquer, et prenez discrètement le relais pour toute étape devenue difficile."
+  - "Rangez les couteaux, les produits d’entretien et les capsules de lessive sous clé, et ajoutez des protections sur les boutons de la cuisinière ou un dispositif d’arrêt automatique avant de cuisiner ensemble."
+  - "Les serviettes pliées n’ont pas besoin d’être repliées devant la personne. Si vous devez refaire quelque chose, faites-le plus tard, hors de sa vue."
+  - "Si une tâche provoque de la frustration, passez à une étape plus simple, réessayez à un autre moment ou restez simplement ensemble."
 faq:
-  - q: "Quelles tâches ménagères une personne atteinte de démence peut-elle encore faire ?"
-    a: "Beaucoup de personnes peuvent encore plier du linge, assortir des chaussettes, trier des couverts, mettre la table, essuyer un plan de travail, épousseter, balayer, arroser des plantes ou remuer un saladier de pâte. Choisissez des tâches que la personne faisait autrefois et adaptez-les à ce qu’elle peut faire aujourd’hui. Aux stades plus avancés, un seul geste répété, comme lisser des serviettes, peut suffire."
-  - q: "Une personne atteinte de démence peut-elle aider en cuisine sans danger ?"
-    a: "Elle le peut, avec une surveillance proche et une bonne organisation. Gardez hors de portée les couteaux, les produits ménagers et tout ce qui est chaud, utilisez des cache-boutons de cuisinière ou un arrêt automatique, et confiez-lui une tâche sans danger, comme laver des légumes, remuer ou disposer des assiettes. Ne la laissez jamais seule avec la cuisinière allumée."
-  - q: "Et s’ils plient mal ou font du désordre ?"
-    a: "Laissez faire. Le but est le temps passé ensemble et le sentiment d’être utile, pas un résultat parfait. Si quelque chose doit vraiment être refait, attendez plus tard et faites-le quand la personne ne regarde pas, pour qu’elle ne se sente pas corrigée."
-  - q: "Et s’ils refusent d’aider ?"
-    a: "Un non peut signifier que la tâche semble trop difficile, trop confuse ou trop fatigante pour le moment. N’insistez pas. Essayez une version plus simple, invitez la personne à vous tenir compagnie, ou redemandez à un meilleur moment de la journée."
+  - q: "À quelles tâches ménagères une personne vivant avec une maladie d’Alzheimer ou une maladie apparentée peut-elle encore participer ?"
+    a: "Beaucoup de personnes peuvent encore plier le linge, assortir les chaussettes, trier les couverts, mettre la table, essuyer un plan de travail, dépoussiérer, balayer, arroser les plantes ou mélanger une pâte. Choisissez des tâches que la personne faisait par le passé et adaptez-les à ce qu’elle peut faire aujourd’hui. À des stades plus avancés, un seul geste répété, comme lisser des serviettes, peut suffire."
+  - q: "Est-ce sans danger pour une personne vivant avec une maladie d’Alzheimer ou une maladie apparentée d’aider en cuisine ?"
+    a: "Cela peut l’être, avec une supervision attentive et une bonne préparation. Gardez les couteaux, les produits d’entretien et tout ce qui est chaud hors de portée, utilisez des protections sur les boutons de la cuisinière ou un dispositif d’arrêt automatique, et confiez à la personne une tâche sécuritaire, comme laver des légumes, mélanger ou disposer les assiettes. Ne la laissez jamais seule lorsque la cuisinière est allumée."
+  - q: "Et si elle plie mal les choses ou fait du désordre ?"
+    a: "Laissez faire. L’objectif est de passer un moment ensemble et de donner à la personne le sentiment d’être utile, pas d’obtenir un résultat parfait. Si quelque chose doit vraiment être refait, attendez plus tard et faites-le quand la personne ne regarde pas, afin qu’elle n’ait pas l’impression d’être reprise."
+  - q: "Et si elle refuse d’aider ?"
+    a: "Un refus peut signifier que la tâche lui semble trop difficile, déroutante ou fatigante pour le moment. N’insistez pas. Proposez une version plus simple, invitez-la à vous tenir compagnie ou demandez-lui à nouveau à un moment de la journée plus propice."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -44,117 +45,116 @@ sources:
 relatedGames: [sort-together, picture-pairs, conversation-cards]
 related: [activities/daily-routine, activities/middle-stage, activities/for-men, caregiving/when-they-say-no, caregiving/how-to-play-together]
 health: false
-
 ---
 
-Beaucoup de personnes atteintes de démence ont passé des dizaines d’années à tenir une maison, à élever une famille ou à garder un lieu de travail en ordre. Se voir demander de l’aide pour de vraies tâches peut dire « vous faites toujours partie de cette maison » comme peu d’autres activités. Cette page présente les tâches qui fonctionnent en général, comment les préparer, comment les adapter quand les capacités changent, et comment garder la cuisine et la buanderie sûres.
+Beaucoup de personnes vivant avec une maladie d’Alzheimer ou une maladie apparentée ont passé des décennies à tenir un foyer, à élever une famille ou à garder un lieu de travail organisé. Leur proposer d’aider à de vraies tâches ménagères peut leur dire « vous faites toujours partie de ce foyer » d’une façon que peu d’autres activités permettent. Cette page présente les tâches qui fonctionnent souvent bien, comment les préparer, comment les adapter au fil des changements et comment assurer la sécurité dans la cuisine et la buanderie.
 
-## Pourquoi les tâches ménagères font-elles de bonnes activités ?
+## Pourquoi les tâches du quotidien fonctionnent-elles bien comme activités ?
 
-Les tâches fonctionnent parce qu’elles sont familières et qu’elles ont un but clair. Le National Institute on Aging range laver la vaisselle, mettre la table, balayer, épousseter, trier le courrier, plier le linge et trier le recyclage parmi les [activités quotidiennes que les personnes atteintes de la maladie d’Alzheimer peuvent apprécier](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). L’Alzheimer’s Association note que des tâches comme mettre la table peuvent aider une personne à [se sentir un membre précieux de la maison](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Les tâches ménagères fonctionnent bien parce qu’elles sont familières et qu’elles ont un but clair. Le National Institute on Aging mentionne laver la vaisselle, mettre la table, balayer, dépoussiérer, trier le courrier, plier le linge et trier les matières recyclables parmi les [activités quotidiennes que les personnes vivant avec la maladie d’Alzheimer peuvent apprécier](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). L’Alzheimer’s Association souligne que des tâches comme mettre la table peuvent aider une personne à [se sentir comme un membre important du foyer](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-Une tâche porte aussi sa propre raison de commencer. « Tu peux m’aider avec ces serviettes ? » est plus facile à accepter que « Tu veux faire une activité ? »
+Une tâche ménagère porte aussi en elle sa propre raison de commencer. « Pourriez-vous m’aider avec ces serviettes ? » est plus facile à accepter que « Voulez-vous faire une activité ? ».
 
 ## Quelles tâches ménagères essayer ?
 
-Commencez par des tâches que la personne faisait autrefois, puis adaptez-les à ce qu’elle peut faire aujourd’hui.
+Commencez par des tâches que la personne faisait auparavant, puis adaptez-les à ce qu’elle peut faire aujourd’hui.
 
-### Linge et draps
+### Linge et textiles
 
-- **Plier des serviettes et des gants de toilette.** Donnez une corbeille de petits objets plats. Les serviettes pardonnent tout : il n’y a pas de mauvaise façon d’en plier une.
-- **Assortir des chaussettes.** Posez un tas mélangé sur la table. Si les paires deviennent difficiles à repérer, n’utilisez que deux ou trois couleurs très différentes.
-- **Lisser et empiler.** Des serviettes de table, des taies d’oreiller ou des torchons peuvent être lissés à plat et empilés. Cela convient bien plus tard, quand plier est devenu trop d’étapes.
+- **Plier les serviettes et les débarbouillettes.** Donnez-lui un panier de petits articles plats. Les serviettes sont faciles à plier : il n’y a pas de mauvaise façon de le faire.
+- **Assortir les chaussettes.** Déposez un tas mélangé sur la table. Si les paires deviennent difficiles à repérer, utilisez seulement deux ou trois couleurs très différentes.
+- **Lisser et empiler.** Les serviettes de table, les taies d’oreiller ou les linges à vaisselle peuvent être lissés à plat et empilés. Cela fonctionne bien plus tard, lorsque plier demande trop d’étapes.
 
 ### Table et cuisine
 
-- **Mettre la table.** Disposez un couvert comme modèle et laissez la personne le copier. Si c’est trop, donnez un objet à la fois : « Voici une fourchette pour chaque assiette. »
-- **Trier les couverts.** Mélangez des fourchettes, des cuillères et des couteaux à beurre propres dans un bac et triez-les dans un plateau compartimenté. Laissez de côté les couteaux tranchants.
-- **Essuyer la vaisselle.** De la vaisselle en plastique ou incassable et un torchon doux en font un travail sans danger.
-- **Essuyer la table ou les plans de travail.** Un chiffon humide et une surface dégagée. L’Alzheimer’s Association suggère de proposer un chiffon si quelqu’un frotte déjà la table de la main, pour transformer un geste d’agitation en geste utile.
+- **Mettre la table.** Préparez un couvert comme modèle et laissez la personne le reproduire. Si c’est trop, donnez un seul objet à la fois : « Voici une fourchette pour chaque assiette. »
+- **Trier les couverts.** Mélangez des fourchettes, des cuillères et des couteaux à beurre propres dans un bac, puis triez-les dans un range-couverts. Laissez de côté les couteaux coupants.
+- **Essuyer la vaisselle.** De la vaisselle en plastique ou incassable et un linge doux en font une tâche sécuritaire.
+- **Essuyer la table ou les plans de travail.** Un linge humide et une surface dégagée. L’Alzheimer’s Association suggère de proposer un linge si une personne frotte déjà la table avec sa main, afin de transformer un geste d’agitation en une action utile.
 
 ### Dans la maison
 
-- **Épousseter.** Un plumeau doux et quelques surfaces solides, comme une table basse ou une bibliothèque.
-- **Trier le courrier.** Donnez les publicités et les catalogues à trier en tas : garder, recycler, ouvrir plus tard. Gardez ailleurs les vraies factures et les chèques.
-- **Trier le recyclage.** Des boîtes, des bouteilles et du papier propres dans des bacs séparés.
-- **Balayer.** Un petit balai sur une terrasse ou un sol de cuisine, si l’équilibre est stable.
-- **Arroser des plantes.** Un petit arrosoir léger et quelques plantes à portée de main.
+- **Dépoussiérer.** Un plumeau doux et quelques surfaces solides, comme une table basse ou une étagère.
+- **Trier le courrier.** Donnez-lui du courrier publicitaire et des catalogues à trier en piles : à garder, à recycler, à ouvrir plus tard. Gardez les vraies factures et les chèques ailleurs.
+- **Trier le recyclage.** Des canettes, des bouteilles et du papier propres dans des bacs séparés.
+- **Balayer.** Un petit balai sur un patio ou un plancher de cuisine, si l’équilibre de la personne est stable.
+- **Arroser les plantes.** Un petit arrosoir léger et quelques plantes faciles à atteindre.
 
-### Cuisine simple sous surveillance
+### Cuisine simple avec supervision
 
-Cuisiner peut faire revenir des sentiments forts et agréables. Le NIA suggère de laisser la personne rassembler les ingrédients, mesurer, mélanger et verser, ou simplement expliquer à quelqu’un d’autre comment faire une recette qu’elle aime. Parmi les bonnes tâches :
+Cuisiner peut raviver des souvenirs agréables et marquants. Le NIA suggère de laisser la personne rassembler les ingrédients, mesurer, mélanger et verser, ou simplement expliquer à quelqu’un d’autre comment préparer une recette préférée. Voici de bonnes tâches :
 
 - laver des légumes ou des fruits
-- remuer une pâte ou une salade froide
+- mélanger une pâte ou une salade froide
 - déchirer de la laitue
-- beurrer une tartine avec un couteau à bout rond
-- disposer de la pâte à biscuits sur une plaque
-- mettre la garniture sur une pizza
+- beurrer une rôtie avec un couteau non coupant
+- déposer de la pâte à biscuits sur une plaque
+- garnir une pizza
 
-Si mesurer devient difficile, l’Alzheimer’s Association suggère que vous terminiez la mesure, puis que vous confiiez une autre étape, comme remuer.
+Si mesurer devient difficile, l’Alzheimer’s Association suggère de faire vous-même les mesures, puis de confier une autre étape, comme mélanger.
 
-## Comment préparer une tâche pour qu’elle se passe bien ?
+## Comment préparer une tâche pour que tout se passe bien ?
 
-1. **Choisissez le bon moment.** Prenez un moment de la journée où la personne est en général reposée et calme. Pour beaucoup, c’est le matin.
-2. **Dégagez l’espace.** Une tâche, une surface, rien d’autre sur la table.
-3. **Invitez, ne confiez pas.** « Un coup de main avec ça me serait utile » marche mieux que « C’est l’heure de plier le linge ».
-4. **Montrez le premier geste.** Pliez lentement une serviette, puis tendez la suivante. Montrer est plus clair qu’expliquer.
-5. **Donnez une étape à la fois.** Trop de consignes d’un coup peuvent submerger. Attendez qu’une étape soit finie avant de nommer la suivante.
-6. **Travaillez côte à côte.** Faire le même travail l’un à côté de l’autre, c’est de la compagnie, pas de la surveillance.
-7. **Parlez de la tâche, pas du résultat.** « Elles sont si douces » ou « Parlez-moi de la façon dont vous aimiez ranger le placard à linge » invite à la conversation sans tester personne.
+1. **Choisissez le bon moment.** Privilégiez un moment de la journée où la personne est habituellement reposée et calme. Pour beaucoup de personnes, c’est le matin.
+2. **Dégagez l’espace.** Une seule tâche, une seule surface, rien de plus sur la table.
+3. **Invitez, ne donnez pas d’ordre.** « J’aurais besoin d’un coup de main pour ceci » fonctionne mieux que « C’est le moment de plier le linge ».
+4. **Montrez le premier geste.** Pliez une serviette lentement, puis donnez la suivante. Montrer est plus clair qu’expliquer.
+5. **Donnez une étape à la fois.** Trop d’indications en même temps peuvent être déroutantes. Attendez qu’une étape soit terminée avant de nommer la suivante.
+6. **Travaillez côte à côte.** Faire la même tâche l’un à côté de l’autre donne un sentiment de compagnie, pas de surveillance.
+7. **Parlez de la tâche, pas du résultat.** « Elles sont si douces » ou « Comment aimiez-vous ranger le placard à linge ? » invite à la conversation sans mettre la personne à l’épreuve.
 
-## Comment adapter les tâches quand les capacités changent ?
+## Comment adapter les tâches à mesure que les capacités changent ?
 
-Les capacités évoluent avec le temps, et même d’un jour à l’autre. L’Alzheimer’s Association suggère d’aller vers des tâches plus simples et plus répétitives à mesure que la maladie progresse.
+Les capacités évoluent avec le temps et même d’un jour à l’autre. L’Alzheimer’s Association suggère de passer à des tâches plus simples et plus répétitives à mesure que la maladie progresse.
 
-| Si cela est devenu difficile | Essayez plutôt |
+| Si cela est devenu difficile | Essayez plutôt ceci |
 | --- | --- |
-| Plier de grands draps | Plier des gants de toilette ou lisser des serviettes de table |
-| Mettre une table complète | Poser une serviette à chaque place |
-| Trier le courrier par catégories | Empiler des enveloppes en un seul tas |
-| Suivre une recette | Remuer, ou regarder et goûter pendant que vous cuisinez |
-| Balayer tout un sol | Essuyer une petite table |
-| Faire la tâche tout court | S’asseoir avec vous et vous tenir compagnie pendant que vous la faites |
+| Plier de grands draps | Plier des débarbouillettes ou lisser des serviettes de table |
+| Mettre toute la table | Placer une serviette à chaque place |
+| Trier le courrier par catégories | Empiler les enveloppes en une seule pile |
+| Suivre une recette | Mélanger, ou regarder et goûter pendant que vous cuisinez |
+| Balayer tout un plancher | Essuyer une petite table |
+| Faire la tâche | Rester avec vous et vous tenir compagnie pendant que vous la faites |
 
-Regarder compte. Le NIA note que certaines personnes aiment simplement regarder, et que c’est une très bonne façon de participer.
+Regarder compte aussi. Le NIA indique que certaines personnes aiment simplement regarder, et que c’est une bonne façon de participer.
 
-## Comment garder les tâches ménagères sans danger ?
+## Comment assurer la sécurité pendant les tâches ménagères ?
 
-La sécurité passe avant tout, surtout en cuisine. Les [conseils de sécurité à domicile du NIA pour les aidants](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) comprennent :
+La sécurité passe avant tout, surtout dans la cuisine. Les [conseils de sécurité à la maison pour les personnes qui accompagnent une personne vivant avec la maladie d’Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) du NIA comprennent :
 
-- Rangez sous clé ou retirez les produits ménagers, y compris les capsules de lessive, qui peuvent ressembler à des bonbons.
-- Rangez les couteaux, les ciseaux et les outils électriques dans un endroit fermé à clé.
-- Ajoutez des cache-boutons et un arrêt automatique à la cuisinière.
-- Placez des panneaux « Stop » ou « Très chaud » près du four, du grille-pain et du fer à repasser, de façon à ce qu’ils ne puissent pas prendre feu.
-- Réglez le chauffe-eau à 120 °F (environ 49 °C) pour réduire le risque de brûlure.
-- Retirez les fruits artificiels et les magnets en forme d’aliments, qui peuvent sembler comestibles.
+- Ranger sous clé ou retirer les produits d’entretien, y compris les capsules de lessive, qui peuvent ressembler à des bonbons.
+- Ranger les couteaux, les ciseaux et les outils électriques dans un endroit verrouillé.
+- Ajouter des protections sur les boutons de la cuisinière et un dispositif d’arrêt automatique.
+- Placer des affiches « Arrêt » ou « Très chaud » près du four, du grille-pain et du fer à repasser, en les installant de façon qu’elles ne puissent pas prendre feu.
+- Régler le chauffe-eau à 120°F pour réduire le risque de brûlure.
+- Retirer les faux fruits et les aimants en forme d’aliments, qui peuvent sembler comestibles.
 
-Quelques habitudes pratiques de plus aident :
+Quelques habitudes pratiques supplémentaires peuvent aider :
 
-- Restez dans la pièce dès que la cuisinière, le four ou un outil tranchant est utilisé.
+- Restez dans la pièce chaque fois que la cuisinière, le four ou un outil coupant est utilisé.
 - Utilisez de la vaisselle incassable pour essuyer et mettre la table.
-- Gardez les sols secs et dégagés pendant que vous balayez ou lavez.
-- Si la personne utilisait des outils, l’Alzheimer’s Association suggère de retirer les objets dangereux de l’atelier pour qu’une tâche sans risque, comme poncer un morceau de bois, reste possible.
+- Gardez les planchers secs et dégagés pendant que vous balayez ou lavez.
+- Si la personne utilisait des outils autrefois, l’Alzheimer’s Association suggère de retirer les objets dangereux de l’atelier afin qu’une tâche sécuritaire, comme poncer un morceau de bois, reste possible.
 
-## Et s’ils le font « mal » ?
+## Et si la tâche n’est pas faite « correctement » ?
 
-Laissez couler. Une serviette pliée en trois au lieu de deux reste une serviette pliée. L’Alzheimer’s Association le dit simplement : ce qui compte, c’est de passer du temps ensemble et que la personne se sente utile, pas que les serviettes soient pliées dans les règles. Si quelque chose doit vraiment être refait, attendez plus tard et faites-le hors de sa vue.
+Laissez passer. Une serviette pliée en trois au lieu d’être pliée en deux reste une serviette pliée. L’Alzheimer’s Association le dit simplement : l’important est de passer du temps ensemble et que la personne se sente utile, pas que les serviettes soient pliées parfaitement. Si quelque chose doit vraiment être refait, attendez plus tard et faites-le hors de sa vue.
 
-Corriger sur le moment peut transformer un travail agréable en rappel de ce qui a été perdu. « Merci, c’est une grande aide » est presque toujours la bonne chose à dire.
+Reprendre la personne sur le moment peut transformer une tâche agréable en rappel de ce qui a été perdu. « Merci, c’est une grande aide » est presque toujours la bonne chose à dire.
 
-## Quand s’arrêter ?
+## Quand faut-il arrêter ?
 
-Arrêtez ou changez dès que vous voyez des signes de frustration, de fatigue ou de perte d’intérêt. Terminer plus tôt est une bonne issue, pas un échec. Vous pouvez :
+Arrêtez ou changez d’activité lorsque vous remarquez des signes de frustration, de fatigue ou de perte d’intérêt. Arrêter plus tôt est une bonne chose, pas un échec. Vous pouvez :
 
-- passer à une étape plus facile
-- passer à quelque chose de reposant, comme de la musique ou une tasse de café
+- passer à une étape plus simple
+- choisir quelque chose de plus calme, comme de la musique ou une tasse de café
 - réessayer plus tard ou un autre jour
-- simplement vous asseoir ensemble
+- simplement rester ensemble
 
-Si la personne dit non, n’insistez pas. Voir [que faire quand la personne dit non](/caregiving/when-they-say-no/) pour des façons douces de réagir.
+Si la personne dit non, n’insistez pas. Consultez [que faire quand la personne dit non](/caregiving/when-they-say-no/) pour des façons douces de réagir.
 
-## Quelques extras sans effort pour un moment plus calme
+## Des idées simples pour un moment plus calme
 
-Quand les tâches physiques ne sont pas possibles, trier et associer peut se faire assis. [Trier ensemble](/games/sort-together/) permet de toucher des images pour les ranger dans des paniers de cuisine ou de jardin, et [Paires d’images](/games/picture-pairs/) est un jeu d’association tout en douceur avec de grandes images et sans minuteur. [Cartes de conversation](/games/conversation-cards/) propose des questions ouvertes sur la maison et la famille qui s’accordent bien avec un café après le travail.
+Lorsque les tâches physiques ne sont pas possibles, trier et assortir peut encore se faire en position assise. [Sort Together](/games/sort-together/) permet de toucher des images pour les placer dans des paniers de cuisine ou de jardin, et [Picture Pairs](/games/picture-pairs/) est un jeu d’association doux, avec de grandes images et sans chronomètre. [Conversation Cards](/games/conversation-cards/) propose des questions ouvertes sur la maison et la famille, qui accompagnent bien un café une fois la tâche terminée.
 
-Pour savoir comment intégrer les tâches à la journée, voir notre guide d’une [routine quotidienne apaisée](/activities/daily-routine/). Pour d’autres idées selon le stade, voir les [activités pour le stade intermédiaire](/activities/middle-stage/).
+Pour savoir comment intégrer les tâches ménagères à la journée, consultez notre guide sur une [routine quotidienne apaisante](/activities/daily-routine/). Pour d’autres idées selon le stade, consultez les [activités pour le stade intermédiaire](/activities/middle-stage/).

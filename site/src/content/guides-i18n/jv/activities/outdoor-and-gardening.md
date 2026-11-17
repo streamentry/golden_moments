@@ -1,33 +1,33 @@
 ---
-title: "Kegiatan Nandur lan Wonten Njawi kangge Demensia"
-seoTitle: "Kegiatan Nandur lan Njawi kangge Demensia"
-description: "Gagasan kegiatan nandur lan wonten njawi kangge tiyang demensia, kaliyan bedhengan inggil, pot, lan pitedah kaslametan nalika panas, srengenge, lan ical."
+title: "Kegiatan Kebon lan Njaba kanggo Wong Urip karo Demensia"
+seoTitle: "Kegiatan Kebon lan Njaba kanggo Demensia"
+description: "Gagasan kegiatan kebon lan njaba omah kanggo wong sing urip karo demensia, kanthi kebon dhuwur, pot, lan tips aman saka panas, srengenge, lan kluyuran."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Nandur lan wekdal wonten njawi saged dados kegiatan ingkang tentrem lan sampun
-  dipunkenal kangge tiyang ingkang gesang kaliyan demensia. Cobi nyiram, nandur
-  bumbu ing pot, mutusi kembang ingkang sampun layu, utawi mlampah sekedhap wonten
-  pekarangan ingkang wonten pagernipun. Ginakna bedhengan inggil utawi meja supados
-  boten kedah jengkeng, singkirna piranti landhep lan tanduran ingkang ngracun,
-  medal wonten wekdal ingkang langkung sejuk, lan tansah nunggil tiyang menika.
+  Ngrewangi kebon lan ngentekake wektu ing njaba bisa dadi kegiatan sing
+  ayem lan akrab kanggo wong sing urip karo demensia. Coba nyirami tanduran,
+  nandur jamu ing pot, mbuwang kembang sing wis alum, utawa mlaku-mlaku sedhela
+  ing plataran sing dipageri. Gunakake kebon dhuwur utawa meja supaya ora ana
+  sing kudu jongkok, aja nganggo piranti landhep lan tanduran beracun, metu ing
+  wektu sing luwih adhem, lan tansah setunggal karo wong kasebut.
 keyPoints:
-  - "Pakaryan taman ingkang gampil kadosta nyiram, nandur wiji ing pot, ngambu bumbu, lan methik kembang saged dipuntindakaken kanthi ngadeg utawi lenggah."
-  - "Bedhengan inggil, pot, lan meja ingkang dipunsungkemi ndadosaken taman wonten inggil bangkekan lan nyuda bebaya tiba."
-  - "Singkirna piranti landhep, tanduran ingkang wonten eri utawi damel gatel, lan sedaya ingkang ngracun. Jagi supados lemah boten dipunsalah kaprah dados panganan."
-  - "Panas saged mbebayani kangge tiyang sepuh. Medal enjing utawi sonten, bekta toya lan papan teduh, lan lebet manawi wiwit wonten raos boten sekeca."
-  - "Kathah tiyang ingkang gesang kaliyan demensia ical ing sawetawis wekdal. Tetep nunggil piyambakipun wonten njawi lan siyaga foto énggal saha tandha pengenal."
+  - "Tugas kebon sing prasaja kayata nyirami tanduran, nandur wiji, ngambung jamu, lan methik kembang bisa ditindakake kanthi ngadeg utawa lungguh."
+  - "Kebon dhuwur, pot, lan meja sing ditutupi ndadekake kebon ana ing dhuwure bangkekan lan nyuda risiko tiba."
+  - "Aja nganggo piranti landhep, tanduran eri utawa sing bisa gawe iritasi, lan apa wae sing beracun. Awas, lemah aja nganti dikira panganan."
+  - "Panas bisa mbebayani kanggo wong tuwa. Metua esuk utawa sore, nggawa banyu lan papan eyup, lan mlebu omah sanalika ana tandha ora kepenak."
+  - "Akeh wong sing urip karo demensia bisa kluyuran ing sawijining wektu. Tansah setunggal karo wong kasebut nalika ana ing njaba lan siyapake foto anyar lan tandha pangenal."
 faq:
-  - q: "Kegiatan nandur punapa ingkang saged dipuntindakaken tiyang ingkang gadhah demensia?"
-    a: "Nyiram tanduran, nandur wiji ing pot alit, ngambu lan ngraba bumbu, mutusi kembang ingkang sampun layu, methik sayur, nata kembang ingkang dipunpotong, lan nyapu margi kalebet pilihan ingkang sae. Wonten ing njero griya, pot bumbu wonten ing jendhela utawi nampan lemah wonten ing meja ingkang dipunsungkemi sampun cekap. Pilih pakaryan miturut ingkang rumiyin dipunremeni lan sapunika taksih saged dipuntindakaken kanthi sekeca."
-  - q: "Kados pundi njagi tiyang ingkang gadhah demensia supados aman nalika panas?"
-    a: "Rencanakaken wekdal wonten njawi nalika enjing utawi sonten ingkang langkung sejuk, ingkang cekak, lan asring ngaturi toya. Pilih papan teduh, topi ingkang wiyar, sandhangan ingkang entheng lan longgar, lan krim pelindung srengenge. Tiyang sepuh langkung gampil kenging gerah amargi panas, lan bingung, kliyengan, utawi mual saged dados tandha pangéling-éling, dados manawi katingal, enggal lebet lan didhinginaken."
-  - q: "Kados pundi saged medal manawi piyambakipun gadhah kebiasaan ical?"
-    a: "Tetep nunggil piyambakipun salawasipun, ginakna pekarangan utawi taman ingkang wonten pagernipun lan gerbangipun wonten kunci, lan priksa manawi piyambakipun ngagem gelang pengenal utawi nggawa tandha pengenal. Siyagakaken foto énggal. Manawi tiyang menika ical, Alzheimer's Association nyaranaken nelpun nomer darurat ing wewengkon panjenengan manawi dereng pinanggih sasampunipun 15 menit."
-  - q: "Kados pundi manawi kita boten gadhah taman?"
-    a: "Sawetawis pot wonten teras, kothak tanduran wonten jendhela, utawi nampan bumbu wonten meja dapur sampun cekap. Panjenengan ugi saged tindak dhateng taman kutha, taman umum, utawi taman masarakat. Lenggah wonten njawi lan mirengaken swanten manuk ugi kalebet kegiatan wonten njawi."
+  - q: "Kegiatan kebon apa sing bisa ditindakake wong sing urip karo demensia?"
+    a: "Nyirami tanduran, nandur wiji ing pot cilik, ngambung lan ndemek jamu, mbuwang kembang sing wis alum, methik sayuran, nata kembang potong, lan nyapu dalan iku kabeh pilihan sing apik. Ing njero omah, pot jamu ing ambang jendhela utawa baki lemah ing meja sing ditutupi uga bisa. Pilihen tugas miturut apa sing biyen disenengi wong kasebut lan sing saiki isih bisa ditindakake kanthi kepenak."
+  - q: "Kepiye carane njaga wong sing urip karo demensia tetep aman nalika panas?"
+    a: "Rencanakna wektu ing njaba nalika esuk utawa sore sing luwih adhem, aja suwe-suwe, lan asringna nawani banyu. Pilihen papan eyup, topi pinggiran amba, sandhangan entheng sing longgar, lan tabir surya. Wong tuwa nduweni risiko luwih dhuwur kena lara amarga panas, lan kebingungan, mumet, utawa mual bisa dadi tandha peringatan, mula enggal mlebu omah lan adhemna awak yen Panjenengan weruh tandha-tandha kasebut."
+  - q: "Kepiye carane metu omah yen wong kasebut kerep kluyuran?"
+    a: "Tansah setunggal karo wong kasebut sakabehe wektu, gunakake plataran utawa kebon sing dipageri kanthi lawang sing dikancing, lan pesthekake wong kasebut nganggo gelang tandha pangenal utawa nggawa tandha pangenal. Siyapake foto anyar. Yen wong kasebut ilang, enggal hubungi polisi utawa layanan darurat setempat; aja ngenteni sawetara menit tartamtu. Kandhanana petugas yen wong kasebut urip karo demensia, ing ngendi pungkasan katon, lan wenehana foto anyar."
+  - q: "Kepiye yen kita ora duwe kebon?"
+    a: "Sawetara pot ing teras, kothak tanduran ing jendhela, utawa baki jamu ing meja pawon wis cukup. Panjenengan uga bisa marani taman, taman umum, utawa kebon komunitas. Lungguh ing njaba lan ngrungokake swara manuk uga kalebu kegiatan ing njaba omah."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Kangge kathah tiyang, taman menika salah satunggaling papan ingkang paling dipunkenal. Ngeduk, nyiram, lan methik kembang ngginakaken kaprigelan ingkang sampun dipunsinau dangu, lan wonten njawi ndadosaken hawa seger, sorot srengenge, lan swanten manuk. National Institute on Aging nyebataken ngrimati tanduran, nandur kembang lan sayur, saha [rembagan bab kados pundi tanduran menika tuwuh](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kalebet kegiatan ingkang saged dipunremeni tiyang ingkang gadhah Alzheimer. Kaca menika ngandharaken punapa ingkang saged dipuncobi, cara nggampilaken taman, lan cara njagi kaslametan nalika panas, srengenge, lan ical.
+Kanggo akeh wong, kebon iku salah siji panggonan sing paling akrab. Nggali, nyirami, lan methik kembang nggunakake katrampilan sing wis disinaoni biyen, lan ana ing njaba nggawa hawa seger, cahya srengenge, lan swara manuk. National Institute on Aging nyebutake ngrawat tanduran, nandur kembang lan sayuran, sarta [ngrembug kepiye tanduran tuwuh](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) minangka kegiatan sing bisa disenengi wong sing urip karo Alzheimer. Kaca iki ngrembug apa sing bisa dicoba, kepiye carane nggawe kebon luwih gampang digunakake, lan kepiye carane tetep aman saka panas, srengenge, lan kluyuran.
 
-## Kegiatan nandur lan wonten njawi punapa ingkang cocog?
+## Kegiatan njaba lan kebon apa sing bisa mlaku kanthi apik?
 
-Pakaryan ingkang paling sae inggih menika ingkang prasaja, sampun dipunkenal, lan saged dipuntindakaken kanthi ngadeg utawi lenggah. Pilih miturut ingkang rumiyin dipunremeni piyambakipun.
+Tugas sing paling apik yaiku sing prasaja, akrab, lan bisa ditindakake kanthi ngadeg utawa lungguh. Pilihen adhedhasar apa sing biyen disenengi wong kasebut.
 
-### Wonten ing taman
+### Ing kebon
 
-1. **Nyiram.** Kendhi siram ingkang alit lan entheng utawi pucuk selang ingkang alus, lan sawetawis pot ingkang kapanggih. Nyiram gadhah wiwitan lan pungkasan ingkang cetha, lan boten gampil lepat.
-2. **Nandur wiji ing pot.** Alzheimer's Foundation of America nyaranaken nandur wiji ing pot alit lan [mirsani tuwuhipun](https://alzfdn.org/dementia-activity-gardening/). Wiji ageng kados kacang, kembang srengéngé, utawi kacang polong langkung gampil dipungepok.
-3. **Mutusi kembang ingkang sampun layu.** Nyuwil kembang ingkang layu kanthi tangan menika pakaryan ingkang alus lan bola-bali. Pilih tanduran ingkang boten wonten eri.
-4. **Methik sayur utawi bumbu.** Tomat alit, kacang, lan bumbu gampil dipunpethik lan eca dipuncicipi. Bektanipun lebet kangge dipunginakaken nalika dhahar siyang.
-5. **Ngambu lan ngraba bumbu.** Rosemary, mint, lan lavender gadhah ambu ingkang kiyat lan nyenengaken. Usap godhongipun ing antawis driji, lajeng paringaken dhateng piyambakipun.
-6. **Nyapu margi utawi teras.** Sapu ingkang entheng ing lumahing ingkang rata lan garing, manawi imbanganipun taksih mantep.
-7. **Ngisi papan dhahar manuk.** Lajeng lenggah sesarengan lan mirsani sinten ingkang rawuh.
+1. **Nyirami.** Gembor cilik lan entheng utawa selang kanthi muncung sing alon, lan sawetara pot sing gampang digayuh. Nyirami nduweni wiwitan lan pungkasan sing cetha lan angel salah.
+2. **Nandur wiji ing pot.** Alzheimer's Foundation of America nyaranake nandur wiji ing pot cilik lan [ndeleng tuwuhe](https://alzfdn.org/dementia-activity-gardening/). Wiji gedhe kayata kacang buncis, kembang srengenge, utawa kacang polong luwih gampang dicekel.
+3. **Mbuwang kembang sing wis alum.** Njupuk kembang sing wis alum nganggo tangan minangka tugas sing alus lan bola-bali. Pilihen tanduran tanpa eri.
+4. **Methik sayuran utawa jamu.** Tomat ceri, buncis, lan jamu gampang dipethik lan enak dirasakake. Gawa mlebu omah kanggo digunakake nalika nedha awan.
+5. **Ngambung lan ndemek jamu.** Rosemary, mint, lan lavender nduweni ambu sing kuwat lan nyenengake. Gosok godhonge alon-alon ing antarane driji banjur ambungna.
+6. **Nyapu dalan utawa teras.** Sapu entheng ing permukaan sing rata lan garing, yen imbange isih ajeg.
+7. **Ngisi papan pakan manuk.** Banjur lungguha bebarengan lan delengen sapa sing teka.
 
-### Wonten ing njero griya, manawi boten saged medal
+### Ing njero omah, nalika ora bisa metu
 
-- **Taman bumbu wonten jendhela** isi kemangi, peterseli, utawi kuchai.
-- **Nandur ing pot wonten meja ingkang dipunsungkemi.** AFA nyaranaken nampan kados nampan kantin supados lemah tetep wonten satunggal papan, lan mindhah lemah kanthi cangkir alit.
-- **Nata kembang** kanthi kembang lan godhong ingkang dipunpotong saking pekarangan utawi toko.
-- **Kembang ingkang dipunpres** saking buket, lajeng dipunlebetaken wonten kertu. Mirsani [kerajinan lan seni](/activities/arts-and-crafts/) kangge langkung kathah.
-- **Damel kantong wangi lavender utawi mawar**, gagasan AFA sanes ingkang njagi ambunipun taman wonten njero griya.
+- **Kebon jamu ing ambang jendhela** kanthi basil, parsley, utawa chives.
+- **Nandur ing meja sing ditutupi.** AFA nyaranake nggunakake baki gaya kantin supaya lemah ora nyebar lan mindhah lemah nganggo cangkir cilik.
+- **Nata kembang** nganggo kembang potong lan godhong saka pekarangan utawa toko.
+- **Kembang kering sing dipencet** saka rangkaian kembang, sing mengko bisa ditempelake ing kertu. Delengen [seni lan kerajinan](/activities/arts-and-crafts/) kanggo gagasan liyane.
+- **Gawe sachet lavender utawa mawar**, gagasan liyane saka AFA supaya ambune kebon tetep ana ing njero omah.
 
-### Medal lan tindak-tindak
+### Metu lan dolan-dolan
 
-- **Mlampah cekak** ngubengi blok, taman, utawi toko tanduran, kanthi alon lan wonten papan kangge lenggah.
-- **Lenggah wonten njawi** wonten teras utawi bangku kangge mirengaken manuk lan ngraosaken angin. Menika sampun kegiatan ingkang lengkap.
-- **Tindak dhateng taman umum** ing wekdal ingkang sepi. NHS nyariyosaken bilih sawetawis papan gadhah taman pangrasa kaliyan tanduran wangi, rupi-rupi permukaan, lan banyu.
-- **Maringi pakan bebek utawi mirsani manuk** wonten blumbang ing sacelakipun, kanthi njagi jarak ingkang aman saking pinggiring toya.
+- **Mlaku-mlaku sedhela** ngubengi blok, taman, utawa toko tanduran, kanthi alon lan ana papan kanggo ngaso.
+- **Lungguh ing njaba** ing teras utawa bangku kanggo ngrungokake swara manuk lan ngrasakake angin sepoi-sepoi. Iki wis dadi kegiatan sing lengkap.
+- **Marani taman umum** nalika wektu sing sepi. NHS nyebutake yen sawetara papan duwe taman sensori kanthi tanduran wangi, tekstur, lan unsur banyu.
+- **Menehi pangan bebek utawa ndeleng manuk** ing blumbang cedhak, kanthi njaga jarak aman saka pinggir banyu.
 
-## Kados pundi nggampilaken taman?
+## Kepiye carane nggawe kebon luwih gampang digunakake?
 
-Bektakaken taman dhateng piyambakipun, sanes kosok wangsulipun.
+Gawa kebon nyedhaki wong kasebut, dudu suwalike.
 
-- **Bedhengan inggil utawi pot jangkung** kanthi inggil kira-kira bangkekan ndadosaken boten kedah jengkeng utawi mbungkuk.
-- **Pot wonten ing meja** cocog kangge tiyang ingkang ngginakaken kursi roda utawi langkung remen lenggah.
-- **Margi ingkang wiyar lan rata** tanpa watu ingkang culika utawi selang ingkang katutup nyuda bebaya kesandhung.
-- **Kursi ingkang wonten sandharanipun lan papan teduh** wonten ing margi, supados ngaso tansah dados pilihan.
-- **Piranti ingkang gagangipun kandel lan alus** supados gampil dipungepok. Ampun ngginakaken gunting pangkas, piso, lan sedaya ingkang landhep.
-- **Papan ingkang wonten pagernipun lan gerbangipun dipunkunci** ingkang saged dipunjajah piyambakipun kanthi bebas nalika panjenengan tetep wonten sacelakipun.
+- **Kebon dhuwur utawa pot dhuwur** kira-kira sakdhuwure bangkekan supaya ora perlu jongkok utawa mbungkuk.
+- **Pot ing meja** cocog kanggo wong sing nggunakake kursi rodha utawa luwih seneng lungguh.
+- **Dalan sing amba lan rata** tanpa watu longgar utawa selang sing ngliwati dalan bisa nyuda risiko kesandhung.
+- **Kursi kanthi sandaran tangan lan papan eyup** ing sadawane dalan, supaya ngaso tansah bisa dadi pilihan.
+- **Piranti kanthi gagang kandel lan empuk** sing gampang dicekel. Aja nganggo gunting pangkas, peso, lan piranti landhep liyane.
+- **Area sing dipageri kanthi lawang sing dikancing** supaya wong kasebut bisa njelajah kanthi bebas nalika Panjenengan tetep cedhak.
 
-## Tanduran punapa ingkang kedah dipunsingkiri?
+## Tanduran apa sing kudu dihindari?
 
-Pilih tanduran ingkang aman dipunpegang lan, langkung sae, aman manawi kecicipan. AFA nyaranaken ngginakaken tanduran ingkang limrahipun boten damel gatel kulit, mriksa alergi, lan mirsani kanthi saestu tiyang ingkang saged salah kaprah nganggep lemah dados panganan. Pitedah kaslametan griya saking NIA kalebet nyingkiraken utawi ngunci tanduran ingkang ngracun.
+Pilih tanduran sing aman kanggo didemek lan, luwih becik maneh, aman yen ora sengaja dicicipi. AFA menehi saran supaya nggunakake tanduran sing ora umum gawe iritasi kulit, mriksa alergi, lan ngawasi kanthi tliti sapa wae sing bisa salah ngira lemah minangka panganan. Saran keamanan omah saka NIA kalebu nyingkirake utawa ngunci tanduran beracun.
 
-- Singkirna mawar ingkang wonten eri, kaktus, lan tanduran ingkang getahipun damel gatel kulit.
-- Priksa tanduran ingkang panjenengan boten yakin, dhateng pusat pangaturan racun utawi toko tanduran ing wewengkon panjenengan, sadèrèng nandur.
-- Tanduran kesenengan ingkang sampun dipunkenal saged mbangkitaken raos ingkang nyenengaken. AFA nyebataken mawar lan kaktus Natal (Christmas cactus) minangka tuladha. Pilih jinis ingkang boten wonten eri.
-- Simpen pupuk, obat hama, lan obat suket ingkang dipunkunci, lan ampun dipunginakaken wonten papan ingkang kenging dipungayuh piyambakipun.
+- Aja nganggo mawar eri, kaktus, lan tanduran kanthi getah sing bisa gawe iritasi kulit.
+- Priksa tanduran sing durung mesthi aman menyang pusat informasi racun utawa toko tanduran setempat sadurunge ditandur.
+- Tanduran favorit sing akrab bisa nggawa rasa seneng maneh. AFA nyebutake mawar lan kaktus Natal minangka conto. Pilihen jinis tanpa eri.
+- Simpen pupuk, pestisida, lan obat suket ing papan sing dikunci, lan aja digunakake ing area sing bisa digayuh wong kasebut.
 
-## Kados pundi njagi kaslametan nalika panas lan srengenge?
+## Kepiye carane tetep aman saka panas lan srengenge?
 
-Rencanakaken wekdal wonten njawi miturut cuaca. NIA ngandharaken bilih tiyang sepuh langkung gampil kenging [gerah amargi panas](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), sawetawis amargi badan boten sae anggenipun nyesuaiaken dhateng ewah-ewahan suhu lan sawetawis obat nyebabaken cara badan nanggapi panas.
+Atur wektu ing njaba miturut cuaca. NIA nerangake yen wong tuwa nduweni risiko luwih dhuwur kena [lara amarga panas](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), salah sijine amarga awake ora gampang nyetel owah-owahan suhu lan sawetara obat bisa mengaruhi cara awak nangani panas.
 
-- **Medal enjing utawi sonten.** Singkiri siyang ing mangsa panas. Priksa indeks panas, sanes namung suhunipun.
-- **Asring ngaturi toya.** Ampun enteni piyambakipun ngandika ngelak. Singkiri alkohol lan unjukan ingkang wonten kafeinipun nalika panas.
-- **Ngagem sandhangan ingkang cocog.** Warni cerah, longgar, topi ingkang wiyar, lan kacamata hitam.
-- **Ngginakaken krim pelindung srengenge.** NIA nyaranaken ingkang spektrum wiyar kanthi SPF 15 utawi langkung inggil, dipunoleskaken malih ing salebeting dinten.
-- **Pilih papan teduh.** Pasang meja tanem ing sangandhaping wit utawi payung.
-- **Nglampahi sekedhap.** Wekdal cekak wonten njawi saged sampun cekap, langkung-langkung nalika dinten panas.
-- **Mirsani tandha pangéling-éling.** NIA nyebataken sirah nyeri, bingung, kliyengan, utawi mual minangka tandha gerah amargi panas. Tiyang ingkang gadhah demensia saged boten ngandhani panjenengan manawi piyambakipun boten sekeca, dados mirsania pasuryan lan tindak-tanduknipun. Lebeta, dhinginna kanthi toya lan kain atis, lan madosa pitulungan medis manawi boten enggal saé. Sengat panas, kanthi tandha kadosta semaput, bingung, utawi kulit garing lan abrit, menika darurat medis: telpun nomer darurat ing wewengkon panjenengan.
+- **Metua esuk utawa sore.** Aja metu ing tengah dina nalika wulan panas. Priksa indeks panas, ora mung suhu wae.
+- **Asringna nawani banyu.** Aja ngenteni wong kasebut kandha yen ngelak. Aja ngombe alkohol lan ombenan berkafein nalika panas.
+- **Nganggoa sandhangan sing cocog.** Sandhangan warna entheng lan longgar, topi pinggiran amba, lan kacamata ireng.
+- **Gunakake tabir surya.** NIA nyaranake tabir surya spektrum luas SPF 15 utawa luwih dhuwur, lan diolesi maneh sajrone dina.
+- **Pilih papan eyup.** Selehake meja nandur ing ngisor wit utawa payung.
+- **Aja suwe-suwe.** Wektu sedhela ing njaba bisa uga wis cukup, utamane ing dina sing panas.
+- **Gatekna tandha peringatan.** NIA nyebutake sirah mumet, kebingungan, mumet, utawa mual minangka tandha sing bisa nuduhake lara amarga panas. Wong sing urip karo demensia bisa uga ora kandha yen awake ora kepenak, mula gatekna rai lan prilakune. Mlebu omah, adhemna awak nganggo banyu lan kain adhem, lan golek pitulungan medis yen kahanane ora enggal mendingan. Sengatan panas, kanthi tandha kayata semaput, kebingungan, utawa kulit garing lan abang, minangka kahanan darurat medis: telpon 911.
 
-Cuaca atis ugi wigati. Nalika mangsa atis, cekakna wekdal wonten njawi lan priksa supados tangan lan suku tetep anget lan garing.
+Cuaca adhem uga penting. Ing mangsa adhem, wektu ing njaba kudu cekak lan pesthekake tangan lan sikil tetep anget lan garing.
 
-## Kados pundi nanggulangi ical manawi kita medal?
+## Kepiye carane nangani kluyuran nalika kita ana ing njaba?
 
-Tetep nunggil piyambakipun salebeting wonten njawi. Alzheimer's Association ngandika bilih [enem saking sedasa tiyang ingkang gesang kaliyan demensia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) badhe ical sakwanten-wanten, lan kathah ingkang ngalami langkung saking sepisan. Menika saged kedadosan ing tahap menapa kemawon.
+Tansah setunggal karo wong kasebut saben ana ing njaba. Alzheimer's Association nyebutake [enem saka 10 wong sing urip karo demensia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) bakal kluyuran paling ora sepisan, lan akeh sing ngalami luwih saka sepisan. Iki bisa kedadeyan ing tahap apa wae.
 
-[Pitedah bab ical lan kesasar](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) saking NIA kalebet:
+[Saran NIA babagan kluyuran lan kesasar](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) kalebu:
 
-- Priksa supados piyambakipun ngagem gelang pengenal utawi gelang medis kaliyan asmanipun, alamat, lan nomer telepon panjenengan, utawi paringi label wonten sandhanganipun.
-- Simpen foto utawi video énggal tiyang menika.
-- Aturi tangga-tepalih mangertos bilih piyambakipun saged ical.
-- Amanaken pekarangan kanthi pager lan gerbang ingkang dipunkunci.
-- Ampun nilar tiyang ingkang nate ical piyambakan.
+- Pesthekake wong kasebut nganggo tandha pangenal utawa gelang medis kanthi jeneng, alamat, lan nomer telpon Panjenengan, utawa labeli sandhangane.
+- Simpen foto utawa video anyar saka wong kasebut.
+- Kandhanana tangga yen wong kasebut bisa kluyuran.
+- Amanake plataran nganggo pager lan lawang sing dikunci.
+- Aja ninggal wong sing duwe riwayat kluyuran tanpa pengawasan.
 
-Alzheimer's Association ugi nyaranaken damel papan wonten njero lan njawi ingkang saged dipunjajah kanthi aman, lan ngrencanakaken kegiatan nalika wekdal ingkang paling asring gelisah. Mlampah wonten taman ingkang aman lan wonten pagernipun saged cocog kangge gelisah wonten wekdal sonten. Mirsani pandhuan kawula bab [gelisah ing wekdal sonten](/caregiving/late-day-restlessness/).
+Alzheimer's Association uga nyaranake nggawe area njero lan njaba omah sing bisa dijelajah kanthi aman, lan ngrencanakake kegiatan ing wektu nalika rasa gelisah paling kerep muncul. Mlaku-mlaku ing kebon sing aman lan ditutup pager bisa cocog kanggo rasa gelisah ing pungkasan dina. Delengen pandhuan kita babagan [rasa gelisah ing pungkasan dina](/caregiving/late-day-restlessness/).
 
-Manawi tiyang menika leres-leres ical, Alzheimer's Association nyaranaken madosi wonten sacelakipun enggal-enggal lan nelpun nomer darurat ing wewengkon panjenengan manawi dereng pinanggih sasampunipun 15 menit. Aturi polisi bilih tiyang menika gadhah demensia.
+Yen wong kasebut ilang, priksa papan sing aman ing sacedhake nalika enggal ngubungi polisi utawa layanan darurat setempat. Aja ngenteni sawetara menit tartamtu sadurunge nglaporake. [Artikel jurnal U.S. Department of Justice taun 2021 babagan investigasi wong ilang](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) nyebutake yen lembaga penegak hukum ora kudu mbutuhake wektu tunggu tartamtu lan nyebutake gejala sing mirip demensia minangka perkara risiko dhuwur. Tata cara pelaporan setempat bisa beda-beda. Kandhanana kapan lan ing ngendi wong kasebut pungkasan katon, apa sing dienggo, lan wenehana foto anyar. Tindakake pandhuan petugas setempat; aja nggoleki dhewe ing papan sing ora aman.
 
-## Kados pundi nyesuaiaken nandur manawi kahanan ewah?
+## Kepiye carane nyetel kegiatan kebon nalika kahanan owah?
 
-| Manawi menika sampun awrat | Cobi menika |
+| Yen iki wis dadi angel | Coba iki minangka gantine |
 | --- | --- |
-| Nandur sabedhengan | Nandur setunggal wiji ing setunggal pot |
-| Nyiangi suket (mbedakaken suket kaliyan tanduran) | Nyiram, utawi mutusi kembang layu ingkang cetha |
-| Mlampah ngubengi taman | Lenggah wonten meja kaliyan nampan lemah lan setunggal tanduran |
-| Medal saking griya | Pot bumbu wonten meja dapur, utawi kursi celak jendhela ingkang kabikak |
-| Nindakaken pakaryan menapa kemawon | Lenggah wonten njawi sesarengan, mirengaken lan mirsani |
+| Nandur sak bedengan | Nandur siji wiji ing siji pot |
+| Matuni suket (bedakake suket karo tanduran) | Nyirami, utawa mbuwang kembang alum sing katon cetha |
+| Mlaku ngubengi kebon | Lungguh ing meja kanthi baki lemah lan tanduran |
+| Metu omah | Pot jamu ing meja pawon, utawa lungguh ing cedhak jendhela sing mbukak |
+| Nindakake tugas apa wae | Lungguh bebarengan ing njaba, ngrungokake lan ndeleng |
 
-Sawetawis tiyang langkung remen mirsani panjenengan nyambut damel. NIA nyariyosaken bilih ngidinaken tiyang namung mirsani menika sae manawi menika ingkang dipunremeni.
+Sawetara wong luwih seneng ndeleng Panjenengan kerja. NIA nyebutake yen ngidini wong kasebut mung ndeleng iku ora apa-apa yen kuwi sing disenengi.
 
-## Kapan kedah lebet?
+## Kapan wektune kudu mlebu omah?
 
-Lebet manawi tiyang menika katingal sayah, gerah, atis, boten sekeca, utawi sampun kepéngin rampung. Sepuluh menit ingkang cekak lan nyenengaken langkung sae tinimbang siyang ingkang dangu lan pungkasanipun damel susah. Mandheg langkung rumiyin menika asil ingkang sae.
+Mlebua nalika wong kasebut katon kesel, kepanasan, kademen, ora kepenak, utawa wis siyap rampung. Sepuluh menit singkat lan nyenengake luwih becik tinimbang sore sing suwe lan pungkasane gawe susah. Mungkasi luwih awal iku asil sing apik.
 
-## Bektakaken taman dhateng njero griya lumantar layar
+## Nggawa swasana kebon menyang layar
 
-Nalika jawah, [Milah-milah sesarengan](/games/sort-together/) gadhah kranjang taman kangge milah gambar, lan [Kertu rembagan](/games/conversation-cards/) kalebet pitakenan wiyar ingkang saged nuntun dhateng cariyos bab taman. Manawi panjenengan lebet saking panas kanthi kesesa, [Ambegan tentrem](/games/calm-breathing/) maringi ngaso ingkang alon lan sepi ingkang saged dipunlampahi sesarengan. Kangge gagasan langkung kathah ingkang dipundasari pangrasa, ambu, lan swanten, mirsani [pandhuan kegiatan pangrasa](/activities/sensory/).
+Ing dina udan, [Sort Together](/games/sort-together/) nduweni kranjang kebon kanggo ngurutake gambar, lan [Conversation Cards](/games/conversation-cards/) kalebu pitakonan mbukak sing bisa nuwuhake crita babagan kebon. Yen Panjenengan mlebu saka panas kanthi rasa kesusu, [Calm Breathing](/games/calm-breathing/) nawakake wektu ngaso sing alon lan tentrem sing bisa ditindakake bebarengan. Kanggo gagasan liyane sing adhedhasar demek, ambu, lan swara, delengen [pandhuan kegiatan sensori](/activities/sensory/) kita.

@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Zviitiko zveDementia yepakati"
+seoTitle: "Zviitiko zveDementia yepakati: Mazano ari nyore"
+description: "Zviitiko zviri nyore zvepadanho repakati redementia: mabasa epamba, mimhanzi, mifananidzo nemitambo iri nyore, nematanho ekugadzirira nekupa rubatsiro."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Padanho repakati redementia, zviitiko zvinonyatsoshanda ndizvo zvipfupi,
+  zvakajairika uye zvakakamurwa kuita nhanho imwe panguva: kupeta hembe,
+  kurongedza masokisi, kugeza ndiro, kuimba, kufamba pamwe chete, maalbum
+  emifananidzo nemitambo iri nyore yemifananidzo. Gadzirirai zvinhu, ratidzai
+  nhanho yokutanga, torai nhanho dzakaoma uye ipai chiitiko chacho chinangwa.
+  Mirai kana chisisafadzi.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Mabasa epamba akajairika anowanzo shanda zvakanaka nekuti anoita kuti munhu anzwe achibatsira uye achiremekedzwa semunhu mukuru."
+  - "Ratidzai pane kutsanangura, ipai nhanho imwe panguva, uye ipai sarudzo mbiri dziri nyore pane kubvunza mibvunzo yakavhurika."
+  - "Batai basa rakaoma kupfuura ose kuitira kuti munhu wamunotarisira aite chikamu chinofadza."
+  - "Kusagadzikana kana kufamba-famba kazhinji kunogona kureva kuti munhu anoda chinhu chekuita. Ipai chiitiko chinoenderana nazvo pane kungoti kwete."
+  - "Kutarisa, kubatsira zvishoma, kana kumira nguva isati yakwana zvese zvakanaka."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Ndezvipi zviitiko zvakanaka zvepadanho repakati redementia?"
+    a: "Zviitiko zvipfupi, zvakajairika, uye zvinoshandisa maoko kazhinji ndizvo zvinoshanda zvakanaka: kupeta matauro, kuenzanisa masokisi, kugeza ndiro, kugadzira tafura, kuimba nziyo dzekare dzinodiwa, kufamba pamwe chete, kutarisa maalbum emifananidzo nemitambo iri nyore yemifananidzo. Kamurai chiitiko chimwe nechimwe kuita nhanho imwe panguva uye zviitei pamwe chete."
+  - q: "Ndingabatsira sei munhu ane dementia kutanga chiitiko?"
+    a: "Ivai nezvinhu zvese zvakagadzirirwa, mobva matanga chiitiko imi uye mokoka munhu wacho kuti abatsire: ‘Mungandibatsirawo here nematauro aya?’ Vanhu vazhinji vanoda kubatanidzwa asi vanogona kuona zvakaoma kutanga. Kuratidza nhanho yokutanga kazhinji kunoshanda zviri nani pane kuitsanangura."
+  - q: "Ndinoitei kana munhu wacho achiramba achiita chinhu chimwe chete kakawanda?"
+    a: "Kudzokorora kazhinji hakuna ngozi uye kunogona kuratidza kuti munhu anoda kunzwa aine zvaari kuita kana kuti anoda kusimbiswa. Pane kumugadzirisa, ipai chiitiko chinoenderana nezvaari kuita, sekupa dengu rematauro madiki ekupeta kana kuimba rwiyo pamwe chete."
+  - q: "Ko kana akaita chiitiko chacho zvisiri izvo?"
+    a: "Kana zvisina ngozi, regai zvidaro. Matauro akapetwa nenzira yakasiyana kana zvipunu zvakaiswa panzvimbo isiri iyo hazvina basa. Kumugadzirisa kunogona kunzwika sekushoropodzwa, asi kumurega achizviita nenzira yake kunogona kumubatsira kunzwa achikwanisa uye achibatsira."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Padanho repakati redementia kazhinji ndipo panotora nguva yakareba, uye ndipo panotanga kudiwa rubatsiro rwechokwadi pazviitiko. Mashoko anogona kunetsa kubuda, nhanho dzemabasa dzinogona kuvhiringika, uye kutanga chinhu chipi nechipi kunogona kunzwa kwakaoma. Asi chido chekubatsira uye chekubatanidzwa kazhinji chinoramba chiripo. Nekugadzirira zvishoma, munhu ari padanho repakati redementia anogona kuramba achifarira zvinhu zvakawanda, kunyanya mabasa akajairika, mimhanzi nemifananidzo zvichiitwa pamwe chete nemi.
 
-## What activities work well in middle-stage dementia?
+## Ndezvipi zviitiko zvinoshanda zvakanaka padanho repakati redementia?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Zviitiko zvipfupi, zvakajairika, zvinoshandisa maoko uye zvakakamurwa kuita nhanho imwe panguva ndizvo zvinoshanda zvakanaka. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) inoti hamufaniri kugadzira zvinhu zvitsva zvekuita: zviitiko zvinogona kuva chikamu chehupenyu hwezuva nezuva, sekubika pamwe chete, kurima gadheni, kuteerera mimhanzi kana kufamba.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inocherekedza kuti vanhu vari padanho iri vanowanzo va nechido chakasimba chekunzwa vaine chinangwa kana chekuchengeta chimwe chinhu, uye vanoda rubatsiro pakutanga kana kuenderera mberi nezviitiko. Rondedzero yayo yezviitiko zvepadanho repakati inosanganisira kupeta hembe, kugeza ndiro, kurongedza masokisi, maekisesaizi ari nyore, kutamba uchiteerera mimhanzi yakajairika, kufamba pamwe chete, kuimba pamwe chete, kupenda kuri nyore uye kutarisa maalbum emifananidzo.
 
-## How do you set up an activity so it works?
+## Mungagadzirisa sei chiitiko kuti chibudirire?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Zviitiko zvakawanda zvinobudirira kana kukundikana pakugadzirira kwacho. Maitiro aya, anotorwa ku[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) neku[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), anobatsira zvikuru:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Chengetai nzvimbo yacho yakachena.** Dzimai TV, vharai gonhi uye budisai chete zvinhu zvinodiwa pachikamu ichocho.
+2. **Tangai imi.** Tangai kupeta kana kukurunga, mobva makoka munhu wacho: “Mungandibatsira here neizvi?”
+3. **Ratidzai, mobva mamirira.** Ratidzai nhanho imwe chete. Nongedzai kana kutungamira neruoko, semuenzaniso kuratidza panofanira kuiswa ndiro.
+4. **Ipai nhanho imwe panguva.** “Petai nepakati” zviri nyore pane kuti “petai izvi mozvirongedza nemavara.”
+5. **Ipai sarudzo mbiri, kwete mibvunzo yakavhurika.** “Matauro ebhuruu kana machena?” zviri nyore kupindura pane kuti “Munoda kuita chii?”
+6. **Itai imi chikamu chakaoma.** Imi muyere, ivo vokurunga. Imi musunge shinda, ivo voimonerera.
+7. **Ipai chikonzero.** “Mapepa aya ndeemabiko eSvondo” zvinoita kuti basa racho rinzwe riine chinangwa.
+8. **Regai vatarise kana vachida.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inocherekedza kuti kungotarisa chete kunogonawo kufadza.
 
-## Activity ideas for the middle stage
+## Mazano ezviitiko zvepadanho repakati
 
-### Useful jobs
+### Mabasa anobatsira
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Kupeta matauro nematauro madiki.** Zvinhu zvidiki, zvakati sandara ndizvo zviri nyore. Dengu rematauro madiki anodziya rinogona kupetwa, kutsvedzerwa nemaoko uye kupetwazve.
+- **Kuenzanisa masokisi.** Tangai nemapeya mashoma akasiyana zvikuru. Kuronga nemavara chete zvakakwanawo.
+- **Kugeza kana kupukuta ndiro dzisingaputsike.** Mvura inodziya ine sipo inofadza pamaoko. Kupukuta wakagara pasi kunorerutsira makumbo.
+- **Kugadzira tafura.** Ipai chinhu chimwe cherudzi rumwe panguva, uye gadzirai nzvimbo imwe imi semuenzaniso.
+- **Kubatsira pakubika.** Kusuka mbatatisi, kubvarura lettuce kana kukurunga mundiro. Imi mubate mapanga nekupisa.
+- **Kutsvaira, kupukuta guruva kana kupukuta.** Jira retafura, mutsvairo wakareruka wepavharanda.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Onai [mabasa epamba](/activities/household-tasks/) kuti muwane mamwe mazano.
 
-### Music and movement
+### Mimhanzi nekufamba-famba
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Kuimba nziyo dzekare dzinodiwa.** Tangai kuimba imi; vanhu vazhinji vanobatana panziyo dzavanga vachiziva kwemakumi emakore. Onai [zviitiko zvemimhanzi](/activities/music/).
+- **Kutamba makasununguka.** Zunungukai, omberai maoko kana fambai sezvamunonzwa zvakanaka. Kuita makagara pasi zvakakwana.
+- **Kukandirana bharumu.** Rinofamba zvishoma nezvishoma uye zviri nyore kuribata makagara pachigaro.
+- **Kufamba pamwe chete.** Fambai nzira pfupi, yakajairika pamwe chete, makabatana nemaoko kana zvichibatsira.
 
-### Pictures and stories
+### Mifananidzo nenyaya
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Kutarisa album yemifananidzo.** Taurai nezvamunoona pane kubvunza mibvunzo: “Tarirai mota iya. Ndiudzei nezvayo.” Onai [zviitiko zvekuyeuka](/activities/reminiscence/).
+- **Kushandisa makadhi ekukurukura.** [Makadhi ekukurukura](/games/conversation-cards/) anobatanidza mufananidzo nemubvunzo wakavhurika, usina bvunzo.
+- **Kuona firimu rekare pamwe chete.** Sarudzai rakajairika, garai pedyo uye imbomirai kuti muzorore.
 
-### Simple, pressure-free games
+### Mitambo iri nyore, isina kumanikidza
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Picture pairs nemifananidzo yakatariswa.** [Picture pairs](/games/picture-pairs/) inoita kuti mifananidzo irambe ichionekwa, saka inotarisa pakuona, kwete kuyeuka.
+- **Find the same.** [Find the same](/games/find-the-same/) inoratidza mufananidzo mumwe chete uye sarudzo mbiri kusvika ina chete.
+- **Sort together.** [Sort together](/games/sort-together/) yakafanana nekuronga hembe pachiratidziro: baya mufananidzo, wobva wabaya dengu rawo.
+- **Picture bingo.** [Picture bingo](/games/picture-bingo/) inoshanda zvakanaka pakuungana kwemhuri nemapoka.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Kana mutambo ukatanga kukonzera kushushikana, mirai moita chimwe chinhu. Onai [matambiro amungaita pamwe chete](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Kushandura kusagadzikana kuva chiitiko
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Kusagadzikana kana kudzokorora kazhinji kune chikonzero. Family Caregiver Alliance inotaura kuti munhu anoramba achiburitsa hembe muwadhiropu anogona kunge achiedza kuzadzisa chido chekunzwa aine zvaari kuita uye achibatsira. Alzheimer's Association inokurudzira kutungamirira simba iroro kuchiitiko chinoenderana nazvo, pane kuchimisa.
 
-| What you see | Something to offer |
+| Zvamuona | Zvamungapa |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Kukwesha kana kubata-bata tafura | Jira rakanyorova uye kukumbira kupukuta tafura |
+| Makumbo asina kugadzikana kana kurova-rova | Mimhanzi ine mutinhimira wakajeka wekurova kana kuombera maoko pamwe nayo |
+| Kuburitsa zvinhu mumadhirowa kana muwadhiropu | Dengu rehembe kana matauro madiki ekupeta nekuronga |
+| Kubvunza mubvunzo mumwe chete kakawanda | Kusimbisa, mobva maimba rwiyo kana kuita basa diki pamwe chete |
+| Kufamba-famba | Kufamba pamwe chete, kana basa rinosanganisira kutakura zvinhu |
+| Kusagadzikana masikati kwava kunopera | Basa rakanyarara, rakajairika muchiedza chakanaka; onai [kusagadzikana kwemasikati kunopera](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Nguva yekumira kana kuchinja
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Mirai kana maona zviratidzo zvekuneta, kushushikana, kunyara kana kufinhwa, sekutamba-tamba, kuunyana kumeso, kusundira zvinhu kure kana kuti “Handikwanise.” Alzheimer's Association inokurudzira kuedza zvakare panguva yakasiyana yezuva kana kuita kuti chiitiko chive nyore. Musamanikidza. Kuramba kunogona kubva pakutya kana kuti basa racho ringave rakaoma; onai [pavanoti kwete](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Kupedza nguva isati yakwana zvakakwana. Kungogara pamwe chete muchinwa tii zvakakwanawo. Sezvo kugona kuchichinja, mazano ari mu[zviitiko zvepadanho rekupedzisira](/activities/late-stage/) anogona kukodzera zviri nani, uye [zviitiko 101](/activities/ideas/) zvine mamwe mazhinji ekuedza.

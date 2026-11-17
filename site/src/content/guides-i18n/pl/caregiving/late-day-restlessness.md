@@ -1,35 +1,35 @@
 ---
-title: "Zespół zachodzącego słońca: spokojne zajęcia późnym popołudniem"
-seoTitle: "Zespół zachodzącego słońca: spokojne zajęcia po południu"
-description: "Łagodny rytm dnia, zmiany w pokoju i spokojne zajęcia, które mogą złagodzić wieczorny niepokój w demencji, oraz kiedy zgłosić się do lekarza."
+title: "Niepokój o zmierzchu: spokojne popołudnia przy demencji"
+seoTitle: "Niepokój o zmierzchu: spokojne popołudnia"
+description: "Łagodne rytuały, zmiany w domu i spokojne zajęcia, które mogą złagodzić wieczorny niepokój przy demencji, oraz kiedy skontaktować się z lekarzem."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Zespół zachodzącego słońca to niepokój, splątanie lub drażliwość, które
-  zaczynają się albo nasilają późnym popołudniem lub wieczorem. Pomóc mogą
-  m.in. stały rytm dnia, światło dzienne i aktywność w pierwszej połowie dnia,
-  mniej drzemek pod wieczór, mniej kofeiny, jasne światło w domu przed
-  zmierzchem, spokojniejszy dom i spokojne zajęcia, takie jak muzyka, zdjęcia
-  czy składanie prania. Nowe lub nasilające się objawy wymagają konsultacji z
-  lekarzem.
+  Niepokój o zmierzchu to pobudzenie, dezorientacja lub drażliwość, które
+  pojawiają się lub nasilają późnym popołudniem albo wieczorem. Mogą pomóc
+  praktyczne kroki: stały rytm dnia, światło dzienne i aktywność wcześniej w
+  ciągu dnia, mniej późnych drzemek, mniej kofeiny, jasne światło w domu przed
+  zmierzchem, spokojniejsze otoczenie oraz łagodne zajęcia, takie jak muzyka,
+  zdjęcia czy składanie prania. Nowe lub nasilające się objawy wymagają
+  konsultacji z lekarzem.
 keyPoints:
-  - "Zespół zachodzącego słońca to niepokój lub splątanie, które zaczynają się albo nasilają, gdy gaśnie dzienne światło."
-  - "Wymagające zadania, wyjścia i kąpiel zaplanuj na rano lub wczesne popołudnie."
-  - "Dzienne światło, codzienny spacer, mniej drzemek pod wieczór i mniej kofeiny po południu mogą sprawić, że wieczory będą spokojniejsze."
-  - "Zapal światła przed zmierzchem, ogranicz hałas i przejdź do spokojnych, znajomych zajęć."
-  - "Prowadź dziennik, by wychwycić czynniki wyzwalające, i zachowaj spokój oraz pocieszaj, gdy zaczyna się niepokój."
-  - "Zgłoś się do lekarza z nowymi lub nasilającymi się objawami: ból, infekcja lub leki mogą mieć w tym udział."
+  - "Niepokój o zmierzchu oznacza pobudzenie lub dezorientację, które zaczynają się lub nasilają wraz ze zmierzchem."
+  - "Wymagające zadania, wyjścia i kąpiel warto zaplanować na rano lub wczesne popołudnie."
+  - "Światło dzienne, codzienny spacer, mniej późnych drzemek i mniej kofeiny pod koniec dnia mogą sprawić, że wieczory przebiegną spokojniej."
+  - "Przed zmierzchem włącz światła w domu, ogranicz hałas i przejdź do spokojnych, znanych zajęć."
+  - "Prowadź notatki, aby zauważyć wyzwalacze, i zachowaj spokój oraz wspierającą postawę, gdy pojawi się niepokój."
+  - "Skontaktuj się z lekarzem w razie nowych lub nasilających się objawów: ból, infekcja lub leki mogą mieć na nie wpływ."
 faq:
-  - q: "O jakiej porze dnia zwykle występuje zespół zachodzącego słońca?"
-    a: "Zwykle zaczyna się albo nasila późnym popołudniem lub wczesnym wieczorem, gdy gaśnie dzienne światło. Dokładna pora bywa różna u różnych osób, dlatego może pomóc krótki dziennik prowadzony przez tydzień lub dwa."
-  - q: "Jakie zajęcia pomagają przy zespole zachodzącego słońca?"
-    a: "Późnym popołudniem najlepiej sprawdzają się spokojne, znajome zajęcia, które nie wymagają wysiłku: kojąca muzyka, oglądanie zdjęć, ulubiony program lub film, składanie prania, krótki spacer albo wspólna przekąska. Nowe lub wymagające zajęcia zostaw na wcześniejszą porę dnia."
-  - q: "Czy zespół zachodzącego słońca może oznaczać problem medyczny?"
-    a: "Mogą go nasilać problemy zdrowotne, takie jak ból, infekcje (np. zakażenie układu moczowego), kłopoty ze snem albo skutki uboczne leków. Jeśli niepokój jest nowy, nagły lub się nasila, skontaktuj się z lekarzem bliskiej osoby."
-  - q: "Czy pytać lekarza o lek na zespół zachodzącego słońca?"
-    a: "To rozmowa do przeprowadzenia z lekarzem. Alzheimer’s Association podaje, że zwykle w pierwszej kolejności preferuje się metody niefarmakologiczne, a każdy lek na wieczorne pobudzenie należy rozważać dopiero po zważeniu ryzyka i korzyści. Ten poradnik nie udziela porad dotyczących leków."
+  - q: "O której porze dnia zwykle pojawia się niepokój o zmierzchu?"
+    a: "Zazwyczaj zaczyna się lub nasila późnym popołudniem albo wczesnym wieczorem, gdy zapada zmrok. Dokładna pora jest różna u różnych osób, dlatego prowadzenie krótkich notatek przez tydzień lub dwa może pomóc."
+  - q: "Jakie zajęcia pomagają przy niepokoju o zmierzchu?"
+    a: "Późnym popołudniem najlepiej sprawdzają się spokojne, znane i niewymagające zajęcia: kojąca muzyka, oglądanie zdjęć, ulubiony program telewizyjny lub film, składanie prania, krótki spacer albo wspólna przekąska. Nowe lub trudniejsze zajęcia lepiej zostawić na wcześniejszą porę dnia."
+  - q: "Czy niepokój o zmierzchu może być oznaką problemu zdrowotnego?"
+    a: "Może się nasilać z powodu problemów zdrowotnych, takich jak ból, infekcje (na przykład infekcje dróg moczowych), problemy ze snem lub działania niepożądane leków. Jeśli niepokój jest nowy, nagły lub narasta, skontaktuj się z lekarzem osoby, którą się opiekujesz."
+  - q: "Czy warto zapytać lekarza o leki na niepokój o zmierzchu?"
+    a: "To rozmowa do przeprowadzenia z lekarzem. Alzheimer’s Association podaje, że zazwyczaj w pierwszej kolejności zaleca się metody niefarmakologiczne i że każdy lek na wieczorne pobudzenie powinien być rozważany dopiero po ocenieniu ryzyka i korzyści. Ta strona nie zawiera porad dotyczących leków."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Wiele rodzin zauważa ten sam schemat: poranki są dość spokojne, ale w miarę upływu popołudnia osoba z demencją staje się niespokojna, lękliwa, splątana lub drażliwa. Może krążyć po pokoju, prosić, by „wrócić do domu”, choć jest w domu, albo łatwo się denerwować. Nazywa się to często zespołem zachodzącego słońca.
+Wiele rodzin zauważa podobny schemat: poranki przebiegają dość spokojnie, ale w miarę upływu popołudnia osoba żyjąca z demencją staje się niespokojna, zaniepokojona, zdezorientowana lub drażliwa. Może chodzić w tę i z powrotem, prosić, by „wrócić do domu”, nawet gdy jest w domu, albo łatwo się denerwować. Zjawisko to często nazywa się niepokojem o zmierzchu.
 
-Nie ma jednego rozwiązania, ale zmiany w rytmie dnia, w pokoju i w rodzaju proponowanych zajęć mogą sprawić, że późne popołudnia będą spokojniejsze. Ten poradnik zbiera praktyczne, niemedyczne pomysły z National Institute on Aging i Alzheimer’s Association. To nie jest porada medyczna. Jeśli objawy są nowe, nagłe lub się nasilają, porozmawiaj z lekarzem bliskiej osoby.
+Nie ma jednego rozwiązania, ale zmiany w rytmie dnia, otoczeniu i rodzaju proponowanych zajęć mogą sprawić, że późne popołudnia będą spokojniejsze. Na tej stronie zebrano praktyczne, niemedyczne wskazówki z National Institute on Aging i Alzheimer’s Association. To nie są porady medyczne. Jeśli objawy są nowe, nagłe lub nasilają się, porozmawiaj z lekarzem osoby, którą się opiekujesz.
 
-## Czym jest zespół zachodzącego słońca?
+## Czym jest niepokój o zmierzchu?
 
-Zespół zachodzącego słońca to niepokój, pobudzenie, drażliwość lub splątanie, które zaczynają się albo nasilają, gdy gaśnie dzienne światło, późnym popołudniem lub wczesnym wieczorem. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) zauważa, że nadmierne zmęczenie może nasilać późnodzienny niepokój.
+Niepokój o zmierzchu to pobudzenie, wzburzenie, drażliwość lub dezorientacja, które zaczynają się lub nasilają wraz ze zmierzchem, późnym popołudniem albo wczesnym wieczorem. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) zwraca uwagę, że nadmierne zmęczenie może nasilać pobudzenie pod koniec dnia.
 
-## Co może nasilać niepokój późnym popołudniem?
+## Co może nasilać niepokój pod koniec dnia?
 
-Przyczyn może być kilka, często działają razem. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) wymienia takie czynniki jak:
+Może na to wpływać kilka czynników, często jednocześnie. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) wymienia między innymi:
 
-- wyczerpanie po pełnym dniu;
-- nowe lub mylące otoczenie;
-- rozregulowany „zegar biologiczny”, przez który osoba jest śpiąca w dzień i przytomna w nocy;
-- słabe światło i cienie, które mogą dezorientować;
-- wyczuwanie stresu lub frustracji u ludzi wokół;
-- mniejsza potrzeba snu, częsta u osób starszych.
+- wyczerpanie po całym dniu;
+- nowe lub dezorientujące otoczenie;
+- zaburzony „wewnętrzny zegar biologiczny”, przez który osoba może być senna w dzień i pobudzona w nocy;
+- słabe światło i cienie, które mogą wprowadzać zamieszanie;
+- odbieranie stresu lub frustracji osób w pobliżu;
+- mniejszą potrzebę snu, co jest częste u osób starszych.
 
-NIA dodaje ogólniejsze przyczyny pobudzenia, w tym ból, depresję lub stres, zbyt mało odpoczynku, zaparcia, zbyt dużo hałasu lub zbyt wiele osób wokół oraz niektóre leki lub interakcje leków.
+NIA wskazuje też ogólne przyczyny pobudzenia, w tym ból, depresję lub stres, zbyt mało odpoczynku, zaparcia, zbyt dużo hałasu lub zbyt wiele osób wokół, a także niektóre leki lub interakcje między lekami.
 
-## Jak zaplanować dzień, żeby wieczory były spokojniejsze?
+## Jak zaplanować dzień, aby wieczory były spokojniejsze?
 
-Przenieś wymagające rzeczy na wcześniejszą porę, a późne popołudnie niech będzie łagodne i przewidywalne. Zarówno NIA, jak i Alzheimer’s Association zalecają regularny rytm dnia. Przykładowy dzień do dostosowania do własnych potrzeb:
+Wymagające sprawy warto przenieść na wcześniejszą porę, a późne popołudnie uczynić łagodnym i przewidywalnym. Zarówno NIA, jak i Alzheimer’s Association zalecają stały rytm dnia. Przykładowy plan, który można dostosować do własnych potrzeb:
 
 | Pora | Co może pomóc |
 | --- | --- |
-| Rano | Wizyty, kąpiel, wyjścia i każde zadanie wymagające wysiłku, gdy wiele osób jest najbardziej przytomnych |
-| Przedpołudnie | Czas na dworze lub przy słonecznym oknie; spacer albo inna aktywność |
-| Południe | Większy obiad (Alzheimer’s Association proponuje obfitszy obiad i lżejszy posiłek wieczorem) |
-| Wczesne popołudnie | Odpoczynek w razie potrzeby, ale bez długich drzemek późno w ciągu dnia |
-| Środek i późne popołudnie | Spokojne, znajome zajęcia; przekąska i napój; bez kofeiny |
-| Przed zmierzchem | Zapal światła w domu i zasuń zasłony, zanim się ściemni |
+| Rano | Wizyty, kąpiel, wyjścia i wszelkie zadania wymagające wysiłku, gdy wiele osób ma najwięcej sił |
+| Późny poranek | Czas na zewnątrz lub przy słonecznym oknie; spacer lub inna aktywność |
+| Południe | Obfitszy obiad (Alzheimer’s Association sugeruje większy obiad i lżejszy posiłek wieczorem) |
+| Wczesne popołudnie | Odpoczynek w razie potrzeby, ale bez długich drzemek późnym popołudniem |
+| Środek i koniec popołudnia | Spokojne, znane zajęcia; przekąska i napój; bez kofeiny |
+| Przed zmierzchem | Włącz światła w domu i zasuń zasłony, zanim zrobi się ciemno |
 | Wieczór | Lżejszy posiłek, cicha muzyka, mało bodźców, stały rytuał przed snem |
 
-Kilka konkretnych punktów ze źródeł:
+Kilka konkretnych wskazówek ze źródeł:
 
-- **Światło dzienne.** NIA proponuje zaplanować codziennie czas na dworze lub przy oknie, by złapać trochę słońca.
-- **Codzienny ruch, ale nie za dużo.** Według NIA warto codziennie być aktywnym fizycznie, nie planując zbyt wielu zajęć.
-- **Napoje późną porą.** Unikaj alkoholu i napojów z kofeiną, takich jak kawa czy cola, późno w ciągu dnia (NIA). Alzheimer’s Association wspomina też o nikotynie.
-- **Drzemki.** Zniechęcaj do długich drzemek i przysypiania późno w ciągu dnia (NIA). Alzheimer’s Association radzi ograniczać drzemki w ciągu dnia, jeśli problemem jest sen w nocy.
+- **Światło dzienne.** NIA sugeruje, aby każdego dnia zapewnić czas na zewnątrz lub przy oknie w świetle słonecznym.
+- **Codzienny ruch, ale bez przesady.** NIA zaleca codzienną aktywność fizyczną, ale bez planowania zbyt wielu zajęć.
+- **Napoje pod koniec dnia.** Późnym popołudniem i wieczorem unikaj alkoholu oraz napojów z kofeiną, takich jak kawa czy cola (NIA). Alzheimer’s Association wspomina także o nikotynie.
+- **Drzemki.** Ogranicz długie drzemki i przysypianie późnym popołudniem (NIA). Alzheimer’s Association sugeruje ograniczenie drzemek w ciągu dnia, jeśli pojawiają się problemy ze snem w nocy.
 
-Więcej o budowaniu stałego dnia znajdziesz w poradniku o [zajęciach w codziennym rytmie dnia](/activities/daily-routine/).
+Więcej wskazówek o budowaniu stałego rytmu dnia znajdziesz w artykule [codzienny rytm dnia](/activities/daily-routine/).
 
-## Jak uspokoić dom późnym popołudniem?
+## Jak sprawić, by dom był spokojniejszy późnym popołudniem?
 
-Ogranicz hałas, dodaj światła i trzymaj blisko znajome rzeczy.
+Ogranicz hałas, doświetl pomieszczenia i trzymaj w pobliżu znane przedmioty.
 
-- **Jasne, równe oświetlenie.** Alzheimer’s Association zaleca, by wieczorem w domu było dobrze oświetlone. Oświetl pomieszczenie, zanim pojawią się cienie.
-- **Mniej hałasu.** Wyłącz lub ścisz telewizor i radio oraz ogranicz odwiedziny lub gwarne domowe prace o tej porze. Alzheimer’s Association proponuje zmniejszyć wieczorne bodźce, takie jak telewizja, prace domowe i głośna muzyka.
-- **Znajome pocieszenia.** NIA proponuje kojącą muzykę i trzymanie w domu ukochanych przedmiotów i zdjęć.
-- **Sprawdzenie komfortu.** Alzheimer’s Association zaleca sprawdzić, czy nie dokucza ból, głód, pragnienie, zaparcie, pełny pęcherz, zmęczenie, infekcja lub podrażnienie skóry, i utrzymywać w pokoju wygodną temperaturę.
-- **Twój nastrój.** Ludzie wyczuwają stres. NIA radzi zwolnić i spróbować się odprężyć, jeśli Twoje własne zmartwienia mogą dokładać napięcia.
+- **Jasne, równomierne oświetlenie.** Alzheimer’s Association zaleca dobre oświetlenie domu wieczorem. Włącz światła, zanim pojawią się cienie.
+- **Mniej hałasu.** Wycisz lub wyłącz telewizor i radio, a także ogranicz wizyty i głośne domowe zajęcia o tej porze. Alzheimer’s Association sugeruje zmniejszenie liczby bodźców wieczorem, takich jak telewizja, obowiązki domowe i głośna muzyka.
+- **Znane, kojące rzeczy.** NIA sugeruje spokojną muzykę oraz trzymanie w domu lubianych przedmiotów i zdjęć.
+- **Sprawdzenie komfortu.** Alzheimer’s Association zaleca sprawdzenie, czy osoba nie odczuwa bólu, głodu, pragnienia, zaparcia, parcia na pęcherz, zmęczenia, objawów infekcji lub podrażnienia skóry, a także utrzymanie wygodnej temperatury w pomieszczeniu.
+- **Twój nastrój.** Osoby wokół wyczuwają stres. NIA sugeruje, aby zwolnić tempo i spróbować się uspokoić, jeśli Twoje zmartwienia mogą zwiększać napięcie.
 
 ## Jakie spokojne zajęcia możemy robić późnym popołudniem?
 
-Wybieraj zajęcia znajome, niespieszne i łatwe do przerwania. Alzheimer’s Association proponuje kojące zajęcia, takie jak spokojna muzyka, zdjęcia albo ulubiony film, oraz wspólny spacer, by złagodzić niepokój. NIA proponuje przekąskę lub napój, ulubiony program telewizyjny, muzykę, spacer, czytanie albo prostą domową czynność, jak składanie prania.
+Wybieraj zajęcia znane, wykonywane bez pośpiechu i łatwe do przerwania. Alzheimer’s Association sugeruje kojące zajęcia, takie jak spokojna muzyka, oglądanie zdjęć lub ulubionego filmu, a także wspólny spacer, aby złagodzić niepokój. NIA proponuje przekąskę lub napój, ulubiony program telewizyjny, muzykę, spacer, czytanie albo proste domowe zajęcie, takie jak składanie prania.
 
 Pomysły do wypróbowania:
 
-1. **Złóżcie razem pranie.** NIA proponuje taką prostą domową czynność. Ręczniki łatwo ułożyć, a zadanie ma wyraźny koniec.
-2. **Puść ulubioną muzykę.** Znajome piosenki z młodości, cicho. Nucenie się liczy. Więcej pomysłów w [zajęciach muzycznych](/activities/music/).
-3. **Obejrzyjcie zdjęcia.** Album ze zdjęciami albo kilka rodzinnych zdjęć w [Parach zdjęć](/games/photo-pairs/) z pozostawionymi na widoku obrazkami mogą prowadzić do cichej rozmowy.
-4. **Wyjdźcie na krótki spacer.** Po ogrodzie, po osiedlu albo po korytarzu, zanim się ściemni.
-5. **Zjedzcie razem przekąskę i napijcie się czegoś.** Czegoś prostego, ciepłego i bez kofeiny, wspólnie przy stole.
-6. **Łagodne dopasowywanie.** [Pary obrazków](/games/picture-pairs/) z czterema kafelkami i widocznymi obrazkami łatwo zacząć i łatwo przerwać.
-7. **Kolorowanie.** [Kolorowanki](/games/coloring/) na ekranie lub na wydrukowanej kartce, bez celu ukończenia.
-8. **Oglądanie i rozmowa.** [Karty do rozmowy](/games/conversation-cards/) pokazują obrazek i otwartą podpowiedź. Samo patrzenie wystarczy.
-9. **Chwila oddechu.** [Spokojny oddech](/games/calm-breathing/) to powolna, cicha przerwa, którą można zacząć i zakończyć w dowolnej chwili.
-10. **Zajęcia dla rąk.** Sortowanie guzików lub skarpetek, gładzenie miękkiego koca albo trzymanie znajomego przedmiotu. Zobacz [zajęcia sensoryczne](/activities/sensory/).
+1. **Wspólne składanie prania.** NIA sugeruje tego typu proste zajęcie domowe. Ręczniki łatwo się składa, a zadanie ma wyraźny koniec.
+2. **Ulubiona muzyka.** Znane utwory z młodszych lat, odtwarzane cicho. Podśpiewywanie też się liczy. Więcej pomysłów znajdziesz w artykule [zajęcia muzyczne](/activities/music/).
+3. **Oglądanie zdjęć.** Album ze zdjęciami lub kilka rodzinnych fotografii w [Parach ze zdjęć](/games/photo-pairs/) z odkrytymi obrazkami może zachęcić do spokojnej rozmowy.
+4. **Krótki spacer.** Po ogrodzie, wokół domu lub korytarzem, zanim zrobi się ciemno.
+5. **Wspólna przekąska i napój.** Coś prostego, ciepłego i bez kofeiny, przy wspólnym stole.
+6. **Łagodne dopasowywanie.** [Pary obrazków](/games/picture-pairs/) z czterema odkrytymi kafelkami łatwo zacząć i łatwo przerwać.
+7. **Kolorowanie.** [Kolorowanie](/games/coloring/) na ekranie lub na wydrukowanej kartce, bez celu, by koniecznie skończyć.
+8. **Oglądanie i rozmowa.** [Karty do rozmowy](/games/conversation-cards/) zawierają obrazek i otwarte pytanie. Samo oglądanie w zupełności wystarczy.
+9. **Chwila na oddech.** [Spokojny oddech](/games/calm-breathing/) to powolna, cicha przerwa, którą można zacząć i zakończyć w dowolnym momencie.
+10. **Zajęcia manualne.** Sortowanie guzików lub skarpet, wygładzanie miękkiego koca albo trzymanie znanego przedmiotu. Zobacz [zajęcia sensoryczne](/activities/sensory/).
 
-Unikaj nowych gier, ruchliwych wyjść i wszystkiego, co wymaga dużo pamięci lub koncentracji późno w ciągu dnia. Zostaw to na rano.
+Unikaj nowych gier, pełnych bodźców wyjść i wszystkiego, co późnym popołudniem wymaga dużo pamięci lub skupienia. Takie zajęcia lepiej zostawić na rano.
 
-## Co robić, gdy zaczyna się niepokój?
+## Co robić, gdy pojawi się niepokój?
 
-Zachowaj spokój, uspokajaj i łagodnie zmieniaj kierunek. NIA proponuje mówić spokojnie, słuchać obaw bliskiej osoby, unikać sporów, zapewniać ją, że jest bezpieczna, i dotykać delikatnie, jeśli to pomaga. Potem spróbuj odwrócić uwagę: przekąską, napojem, muzyką lub spacerem.
+Zachowaj spokój, okaż wsparcie i delikatnie przekieruj uwagę. NIA radzi mówić spokojnie, wysłuchać obaw tej osoby, unikać kłótni, zapewnić ją, że jest bezpieczna, i użyć delikatnego dotyku, jeśli to pomaga. Następnie spróbuj odwrócić uwagę: przekąską, napojem, muzyką lub spacerem.
 
-Alzheimer’s Association proponuje zwroty takie jak „Nic ci tu nie grozi” i „Przykro mi, że coś cię denerwuje” oraz radzi dodać światła, zwolnić i ograniczyć bodźce. Nie osaczaj osoby, nie otaczaj jej tłumem, nie przytrzymuj jej siłą i nie spieraj się z nią.
+Alzheimer’s Association sugeruje zwroty takie jak „Jesteś tu bezpieczny” i „Przykro mi, że tak się czujesz” oraz radzi doświetlić pomieszczenie, zwolnić tempo i ograniczyć bodźce. Nie należy zastawiać drogi, napierać, przytrzymywać osoby ani się z nią kłócić.
 
-Jeśli osoba staje się agresywna, NIA radzi zachować bezpieczną odległość, dopóki zachowanie nie ustąpi. W nagłym wypadku zadzwoń pod numer alarmowy 112 i powiedz, że osoba ma demencję.
+Jeśli osoba staje się agresywna, NIA radzi zachować bezpieczną odległość, dopóki zachowanie nie ustąpi. W nagłym wypadku zadzwoń pod 911 i wyjaśnij, że osoba ma demencję. Nasz [przewodnik o reagowaniu na złość i agresję](/caregiving/when-anger-becomes-aggression-with-dementia/) opisuje, jak zadbać o natychmiastowe bezpieczeństwo i co zrobić później.
 
-Nasze poradniki o [komunikacji](/caregiving/communication-tips/) i o tym, [co robić, gdy bliska osoba odmawia](/caregiving/when-they-say-no/), mówią więcej o uspokajających słowach.
+W naszych przewodnikach o [komunikacji](/caregiving/communication-tips/) i o tym, [co zrobić, gdy osoba mówi „nie”](/caregiving/when-they-say-no/), znajdziesz więcej wskazówek dotyczących uspokajających słów.
 
-## Jak znaleźć czynniki wyzwalające?
+## Jak rozpoznać wyzwalacze?
 
-Prowadź krótki dziennik przez tydzień lub dwa. Alzheimer’s Association zaleca śledzić, co dzieje się przed epizodami zespołu zachodzącego słońca, by wychwycić czynniki wyzwalające. Zapisuj, o której zaczął się niepokój, co działo się w ciągu poprzedniej godziny, drzemki, posiłki i napoje, wizyty, hałas i światło. Zabierz dziennik do lekarza. NIA zauważa, że notowanie zmian w zachowaniu może pomóc opiekunom i personelowi medycznemu dostrzec wzorzec.
+Prowadź krótkie notatki przez tydzień lub dwa. Alzheimer’s Association zaleca zapisywanie, co dzieje się przed epizodami niepokoju o zmierzchu, aby rozpoznać wyzwalacze. Zanotuj godzinę, o której zaczął się niepokój, co działo się w ciągu poprzedniej godziny, drzemki, posiłki i napoje, wizyty, hałas i oświetlenie. Zabierz te notatki na wizytę lekarską. NIA zauważa, że śledzenie zmian w zachowaniu może pomóc opiekunom i personelowi medycznemu dostrzec schemat.
 
-## Kiedy zadzwonić do lekarza w sprawie zespołu zachodzącego słońca?
+## Kiedy skontaktować się z lekarzem w sprawie niepokoju o zmierzchu?
 
-Skontaktuj się z lekarzem bliskiej osoby, jeśli niepokój jest nowy, nagle się nasilił albo towarzyszą mu inne zmiany. NIA podaje, że nagłe lub szybko zmieniające się zachowanie, zwłaszcza po infekcji albo niedawnej zmianie leków, należy natychmiast zgłosić lekarzowi.
+Skontaktuj się z lekarzem osoby, którą się opiekujesz, jeśli niepokój jest nowy, nagle się nasilił lub towarzyszą mu inne zmiany. NIA podaje, że nagłe lub szybko zmieniające się zmiany w zachowaniu, zwłaszcza po infekcji lub niedawnych zmianach w lekach, należy niezwłocznie zgłosić lekarzowi.
 
-Poproś lekarza o sprawdzenie rzeczy, które mogą utrudniać wieczory. Alzheimer’s Association wymienia problemy fizyczne, takie jak zakażenia układu moczowego, nietrzymanie moczu, zespół niespokojnych nóg i bezdech senny, i radzi zapytać, o jakich porach dnia najlepiej przyjmować poszczególne leki. NIA wymienia ból, zaparcia oraz skutki uboczne lub interakcje leków wśród możliwych przyczyn pobudzenia.
+Poproś lekarza o sprawdzenie czynników, które mogą utrudniać wieczory. Alzheimer’s Association wymienia problemy zdrowotne, takie jak infekcje dróg moczowych, nietrzymanie moczu, zespół niespokojnych nóg i bezdech senny, i sugeruje zapytanie, o której porze dnia najlepiej przyjmować poszczególne leki. NIA wymienia ból, zaparcia oraz działania niepożądane leków lub interakcje między nimi jako możliwe przyczyny pobudzenia.
 
-Alzheimer’s Association podaje, że przy problemach ze snem związanych z chorobą Alzheimera zwykle preferuje się metody niefarmakologiczne, a lek na późnodzienne pobudzenie należy rozważać tylko wtedy, gdy one zawiodą, po zważeniu ryzyka i korzyści. Ta decyzja należy do lekarza. Nie zaczynaj, nie przerywaj ani nie zmieniaj żadnego leku, środka nasennego ani suplementu bez porady lekarza.
+Alzheimer’s Association podaje, że w przypadku problemów ze snem związanych z chorobą Alzheimera zazwyczaj w pierwszej kolejności zaleca się metody niefarmakologiczne, a leki na wieczorne pobudzenie warto rozważyć dopiero wtedy, gdy te metody nie przynoszą poprawy, po ocenieniu ryzyka i korzyści. Taka decyzja należy do lekarza. Nie należy rozpoczynać, przerywać ani zmieniać stosowania żadnych leków, środków nasennych ani suplementów bez konsultacji medycznej.
 
-## Jak przetrwać wieczory jako opiekun?
+## Jak samodzielnie przetrwać wieczory?
 
-Późne popołudnia bywają najtrudniejszą porą dnia opiekuna. Jeśli możesz, poproś członka rodziny, przyjaciela albo płatnego pomocnika, by przejął późne popołudnie kilka dni w tygodniu, choćby na godzinę. Nasz poradnik o [dbaniu o siebie jako opiekun](/caregiving/caregiver-self-care/) wymienia formy opieki wytchnieniowej i bezpłatną całodobową infolinię Alzheimer’s Association (usługa amerykańska; w Polsce zapytaj w Polskim Towarzystwie Alzheimerowskim lub ośrodku pomocy społecznej).
+Późne popołudnia mogą być najtrudniejszą porą dnia dla osoby opiekującej się bliskim. Jeśli to możliwe, poproś członka rodziny, przyjaciela lub opiekuna o wsparcie późnym popołudniem przez kilka dni w tygodniu, choćby na godzinę. Nasz przewodnik o [dbaniu o siebie jako opiekun](/caregiving/caregiver-self-care/) zawiera informacje o formach wytchnienia i bezpłatnej całodobowej infolinii Alzheimer’s Association.

@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Mitambo Yekurangarira Iri Nyoro yeDementia"
+seoTitle: "Mitambo Yekurangarira Iri Nyoro yeDementia"
+description: "Mitambo yemifananidzo nemakadhi yevakuru vanorarama nedementia, uye matambiro ayo pasina anonzwa sekunge ari kuongororwa: mifananidzo yakatarisa kumusoro, mapeya mashoma, pasina zvibodzwa."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Mitambo yekurangarira yevakuru vanorarama nedementia inonyatsoshanda kana
+  isingavimbi nekurangarira. Tambai mitambo yekufananidza mifananidzo yakatarisa
+  kumusoro, shandisai mataira mana kusvika matanhatu, tambai semuboka uye
+  siyai zvibodzwa. Kuziva mufananidzo kuri nyore pane kurangarira usiri
+  kuuona, saka sarudzai mitambo inochengeta zvese zviri pachena. Chinangwa
+  ndechekunakidzwa, kwete mhedzisiro.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Mitambo yekurangarira yakajairika inovanza makadhi, izvo zvinoedza chaizvo zvinonetsa nedementia. Siyai mifananidzo yakatarisa kumusoro."
+  - "Zvidimbu zvishoma, mifananidzo mikuru uye sarudzo imwe panguva zvinoita kuti mutambo unakidze."
+  - "Tambai semuboka, chinjai kubatsirana uye siyai zvibodzwa. Hapana anofanira kumanikidzwa kupindura."
+  - "Hapana mutambo wekurangarira wakaratidzwa kuti unorapa, unononotsa kana kumisa dementia. Tambai nekuti inguva yakanaka yekuva pamwe chete."
+  - "Mirai mutambo uchiri kunakidza. Kutaura nezvemifananidzo mhedzisiro yakanaka."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Ndeupi mutambo wekurangarira wakanaka kune munhu anorarama nedementia?"
+    a: "Mutambo wekufananidza une mifananidzo mikuru, inozivikanwa, inogona kuramba yakatarisa kumusoro, sePicture pairs yakaiswa pamataira mana kana matanhatu. Kuwana mufananidzo wakafanana newauri kuona kunofadza pasina kuedza kurangarira kwenguva pfupi. Find the same iri nyore kudarika, paine mufananidzo mumwe wekufananidza kubva pasarudzo mbiri kusvika ina."
+  - q: "Mitambo yekurangarira inobatsira here dementia?"
+    a: "Hapana mutambo wekurangarira wakaratidzwa kuti unorapa, unononotsa kana kumisa dementia; ongororo yeCochrane yakaona kuti humbowo pamusoro pekudzidzisa uropi pakombuta hushoma zvekuti hazvigone kutaurwa kana huchidzivirira dementia. Mitambo inogona kuramba iri nzira inodziya yekupedza nguva muri pamwe chete. Isarudzei kuti munakidzwe uye muve pamwe chete."
+  - q: "Ndinofanira kutamba Concentration yakajairika nemunhu anorarama nedementia here?"
+    a: "Pakutanga, vamwe vanhu vanogona kuifarira, kunyanya kana makadhi ari mashoma. Kana kurangarira pakanga pakaiswa makadhi kukatanga kukonzera kushushikana, shandurai makadhi akatarise kumusoro mobva matsvaga mapeya muri pamwe chete. Izvi zvinochengeta kufananidza asi zvinobvisa kuedzwa kwekurangarira."
+  - q: "Ndeipi mitambo yekurangarira yakanaka yevakuru vari muboka?"
+    a: "Picture bingo ine anoshevedza ari pachiratidziro, kupedzisa zvirevo zvinozivikanwa pamwe chete, uye makadhi ekukurukurirana zvinoshanda mumapoka. Tambai kusvika makadhi ese azara uye musadoma anenge apindura, kuti hapana anonzwa ari oga."
+  - q: "Pane mitambo yemahara yekurangarira yevakuru painternet here?"
+    a: "Hongu. Mitambo iri pasaiti ino, kusanganisira Picture pairs, Find the same, Photo pairs nePicture puzzle, ndeyemahara, haidi kunyoresa uye inoshanda pamafoni, matablet nemakombuta. Hapana ine nguva inoverengwa kana zvibodzwa."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Kana mukatsvaga “mitambo yekurangarira yevakuru”, yakawanda yamunoona yakagadzirirwa vanhu vanoda kurovedza pfungwa: makadhi akavanzwa, nguva inoverengwa ichidzika, nhanho nezvibodzwa. Kune munhu anorarama nedementia, zvinhu izvi zvinoshandura mutambo kuva muedzo wechinhu chinenge chaoma. Mitambo imwe cheteyo inogona kutambwa nenzira iri nyoro. Peji rino rinoratidza kuti sei, uye rinonyora mitambo inoshanda zvakanaka padanho rega rega.
 
-## Why do classic memory games frustrate people with dementia?
+## Nei mitambo yekurangarira yakajairika ichishungurudza vanhu vanorarama nedementia?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Nekuti inovimba nekuchengeta ruzivo rutsva mupfungwa, izvo kazhinji ndizvo zvinotanga kunetsa neAlzheimer's, chikonzero chinonyanyozivikanwa chedementia. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) inoti chiratidzo chekutanga chinonyanya kuonekwa cheAlzheimer's kunetseka kurangarira ruzivo ruchangodzidzwa. MuConcentration yakajairika, munovhura makadhi maviri, morangarira paanga ari, mozvishandisa papfuura miniti. Irworwo ruzivo rutsva, rwakachengetwa uye rwunofanira kurangarirwa.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Kana mukawedzera nguva inoverengwa, zvibodzwa kana ruzha rwekupindura zvisiri izvo, munhu anoyeuchidzwa nezvaasingakwanise kuita, pamberi pemunhu waanoda. Vanhu vazhinji vanobva vangorega kuda kutamba.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Kuziva chinhu chaunogona kuona ibasa rakasiyana uye kazhinji riri nyore. Kunongedzera kukapu yetii yechipiri kana dzose dziri mbiri dziri pachena kunofadza. Saka zano nderekuchengeta kufananidza asi kubvisa kuedzwa kwekurangarira.
 
-## How do you make a memory game gentle?
+## Munoitisa sei kuti mutambo wekurangarira uve munyoro?
 
-These adjustments work for card games, board games and games on a screen.
+Kuchinja uku kunoshanda pamitambo yemakadhi, mitambo yebhodhi nemitambo iri pachiratidziro.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Siyai mifananidzo yakatarisa kumusoro.** Kufananidza mifananidzo yamunogona kuona ichiri mutambo chaiwo, uye kazhinji unogutsa.
+2. **Shandisai zvidimbu zvishoma.** Tangai nemapeya maviri kana matatu. Wedzerai zvimwe chete kana zvichiita sezviri nyore uye vachida zvimwe.
+3. **Sarudzai mifananidzo mikuru, inozivikanwa, yevakuru.** Kapu yetii, ruva rezuva, chikepe. Kwete makatuni, uye kwete mifananidzo yakazara zvinhu zvakawanda.
+4. **Tambai semuboka.** “Ngatitsvagei imbwa” panzvimbo pe“ndeyako kutamba.” Chinjai kunongedzera nekubatsirana.
+5. **Siyai zvibodzwa.** Hapana anofanira kukunda. Kana mumwe munhu akabvunza, kungoti “tazviita” zvakakwana.
+6. **Musamhanyise nguva.** Hapana nguva inoverengwa, uye hapana kukurumidza pakati pekutamba.
+7. **Taurai nezvemifananidzo.** “Tarirai chikepe ichocho. Makambokwira chikepe here?” Kukurukurirana kazhinji ndicho chikamu chinonyanya kunaka.
+8. **Mirai panguva yakanaka.** Pedzisai mushure mekufananidza, zvichiri kunakidza.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inopa zano rakafanana: sarudzai chiitiko chinoenderana nezvinogona kuitwa nemunhu, tarisai kana pane kushushikana, uye muone kuti anonzwa abudirira.
 
-## Gentle memory and matching games to try
+## Mitambo yekurangarira nekufananidza iri nyoro yekuedza
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (kufananidza mifananidzo iri pachena)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) mutambo wekufananidza une mifananidzo mikuru nemataira 4 kusvika 12. Mifananidzo inogona kuramba ichioneka, saka chinangwa ndechekuwana mapeya akafanana, kwete kurangarira paanga ari. Tangai nemataira mana. Kune munhu ari padanho rekutanga anofarira dambudziko rakati kurei, munogona kushandura kuenda ku**Mifananidzo yakavanzwa**, asi dzokerai pakuratidza mifananidzo pakarepo pazvinorega kunakidza.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) inoratidza mufananidzo mumwe kumusoro uye sarudzo mbiri kusvika ina pasi. Tinya unofanana nawo. Ndiwo mutambo wekufananidza uri nyore kupfuura yese pasaiti ino uye wakakodzera vanhu vanoona grid yakazara yakawandisa, kusanganisira vazhinji vari pamatanho ekupedzisira vane mumwe munhu parutivi pavo.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (mutambo wekurangarira nemifananidzo yemhuri)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) inoshandura mifananidzo yamasarudza kuita mutambo wekufananidza: imbwa, gadheni, imba yepadziva. Zviso nenzvimbo zvinozivikanwa zvinowanzomutsa kukurukurirana kupfuura mufananidzo upi zvawo wakajairika. Mifananidzo inoramba iri mubrowser yenyu uye haimbotumirwi kumwe.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) inokukumbirai kuisa mufananidzo wega wega mudengu rawo, sekicheni kana gadheni. Kuronga kunoshandisa ruzivo rwagara ruchizivikanwa nezvekushanda kwenyika, kwete kurangarira kwenguva pfupi.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) inocheka mufananidzo kuita zvidimbu 4 kana 9. Tinya zvidimbu zviviri kuti zvichinjane nzvimbo kusvika mufananidzo wapera. Mufananidzo wakazara unoramba uri pachiratidziro segwara.
 
-### Real cards on the table
+### Makadhi chaiwo patafura
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Hamudi chiratidziro. Bvisai mapeya akafanana mumadeck maviri emakadhi kana mumakadhi emifananidzo. Aisei akatarisa kumusoro mumitsara miviri motsvaga mapeya muri pamwe chete. Gare gare, rongekai nemuvara kana nerudzi panzvimbo. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inonyora mitambo yemakadhi neyebhodhi pakati pezviitiko zvepadanho rekutanga.
 
-## Which memory games suit each stage?
+## Ndeipi mitambo yekurangarira inokodzera danho rega rega?
 
-Stages are loose labels. Go by what the person enjoys today.
+Matanho mazita akasununguka. Tevedzerai zvinonakidza munhu nhasi.
 
-| Stage | Games that often fit | How to set them up |
+| Danho | Mitambo inowanzokodzera | Maitiro ekuiisa |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Rekutanga | Picture pairs, Photo pairs, Picture puzzle ine zvidimbu 9, mitambo yemakadhi inozivikanwa | Muregei asarudze. Mataira anogona kuvharwa kana vachifarira; siyai zvibodzwa kana zvichivanetsa |
+| Repakati | Picture pairs ine mataira 4 kusvika 6 akatarisa kumusoro, Find the same, Sort together | Mifananidzo inogara ichioneka. Garai parutivi pavo mochinjana kubatsirana |
+| Rekupedzisira | Find the same ine sarudzo 2, kutarisa mufananidzo mumwe mukuru muri pamwe chete | Nguva pfupi. Imi batirai tablet; ivo vanonongedzera, kana kungotarisa nekuteerera |
 
-## Do memory games help with dementia?
+## Mitambo yekurangarira inobatsira here nedementia?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Hapana mutambo wekurangarira wakaratidzwa kuti unorapa, unononotsa kana kumisa dementia. [Ongororo yeCochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) pamusoro pekudzidzisa uropi pakombuta kune vanhu vane matambudziko madiki ekuziva yakaona humbowo hushoma zvekuti hazvigone kutaurwa kana huchidzivirira dementia. Gwaro redu pamusoro pe[mitambo yeuropi nedementia](/brain-health/brain-games/) rinotsanangura zvinoratidzwa nezvidzidzo nezvisingaratidzwe.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Ichi hachisi chikonzero chekusiya mitambo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) inokurudzira kutarisa kunakidzwa, kwete kubudirira. Maminitsi gumi ekufananidza mifananidzo nekutaura nezvayo anogona kuva chikamu chakanaka chezuva.
 
-## What about memory games for seniors without dementia?
+## Ko mitambo yekurangarira yevakuru vasina dementia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Kana munhu mukuru asina matambudziko ekurangarira achifarira mapuzzle ane nguva, zvibodzwa nematanho akaoma, hapana chakaipa nazvo. Asi musavimbe nazvo kuti zvinodzivirira dementia; hapana mutambo wakaratidzwa kuti unodaro. Mhando dziri nyoro dziri pamusoro dzinoshandawo zvakanaka kana zvizvarwa zvichitamba pamwe chete: sekuru kana mbuya vanorarama nedementia nemuzukuru mudiki vanogona kufananidza mifananidzo semuboka, pasina anenge achiongororwa.
 
-## When should you stop or change the game?
+## Munofanira kumira rini kana kuchinja mutambo?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Kugomera, kusundira tablet kure, kuti “handikwanise” kana kutaridzika kunetseka zvese zviratidzo zvekuti zviitei nyore kana kumira. Edzai mataira mashoma, shandurai mifananidzo akatarise kumusoro, chinjirai ku[Find the same](/games/find-the-same/), kana kungotarisa mifananidzo muchitaura. Kana vasingadi kutamba zvachose, hazvina kuipa. Gwaro redu pamusoro pe[matambiro amunoita pamwe chete](/caregiving/how-to-play-together/) rine mamwe mazano pamusoro pekumhanya kwemutambo nekubatsira.

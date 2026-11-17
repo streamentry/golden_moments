@@ -1,31 +1,37 @@
 ---
-title: "Autocura de la persona cuidadora: descans, suport i senyals d’esgotament"
-seoTitle: "Autocura per a persones cuidadores de demència"
-description: "Senyals d’esgotament de la persona cuidadora, com trobar descans i suport, i línies d’ajuda gratuïtes als Estats Units, com l’Alzheimer’s Association."
+title: "Cuidar-se en tenir cura: descans, suport i desgast"
+seoTitle: "Autocura en la demència: descans i suport"
+description: "Senyals de desgast, com trobar descans i grups de suport, i telèfons gratuïts als EUA, com la línia 24/7 de l'Alzheimer's Association i l'Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Cuidar algú amb demència és difícil, i cuidar-se un mateix és part de la feina. Vigili els senyals d’alerta, com l’esgotament, la irritabilitat, el son dolent i l’allunyament dels amics. Demani ajuda concreta, faci servir l’atenció de respir i uneixi’s a un grup de suport. L’ajuda gratuïta als Estats Units inclou la línia d’ajuda 24/7 de l’Alzheimer’s Association, al 1-800-272-3900, i l’Eldercare Locator, al 1-800-677-1116.
+  Tenir cura d'una persona que viu amb demència és dur, i cuidar-se un mateix
+  també forma part de la tasca. Estigui atent als senyals d'avís com
+  l'esgotament, la irritabilitat, el mal son i l'aïllament dels amics. Demani
+  ajuda concreta, faci servir el descans temporal i uneixi's a un grup de
+  suport. Als EUA hi ha ajuda gratuïta, com la línia d'ajuda 24/7 de
+  l'Alzheimer's Association al 1-800-272-3900 i l'Eldercare Locator al
+  1-800-677-1116.
 keyPoints:
-  - "L’esgotament sovint es manifesta com a cansament, irritabilitat, son dolent, tristesa i abandonament de la pròpia salut."
-  - "L’atenció de respir li dona un descans, des d’unes quantes hores fins a diverses setmanes, a casa o en un centre assistencial."
-  - "Demani ajuda per tasques concretes; molta gent vol ajudar però no sap com."
-  - "La línia d’ajuda 24/7 de l’Alzheimer’s Association (1-800-272-3900) ofereix suport gratuït i confidencial a qualsevol hora."
-  - "L’Eldercare Locator (1-800-677-1116) la connecta amb serveis locals, inclosa la seva Area Agency on Aging."
-  - "Si se sent en crisi, truqui o envii un SMS al 988. En cas d’emergència, truqui al 112 (a Europa) o al 911 (als Estats Units)."
+  - "El desgast sovint es manifesta amb esgotament, irritabilitat, mal son, tristesa i descuidar la pròpia salut."
+  - "El descans temporal li dona un respir, des d'unes poques hores fins a diverses setmanes, a casa o en un centre."
+  - "Demani ajuda per a tasques concretes; moltes persones volen ajudar però no saben com."
+  - "La línia d'ajuda 24/7 de l'Alzheimer's Association (1-800-272-3900) ofereix suport gratuït i confidencial en qualsevol moment."
+  - "L'Eldercare Locator (1-800-677-1116) el posa en contacte amb serveis locals, inclosa la seva Agència d'Àrea sobre l'Envelliment."
+  - "Si se sent en una situació de crisi, truqui o enviï un missatge al 988. En una emergència, truqui al 911."
 faq:
-  - q: "Quins són els senyals d’esgotament de la persona cuidadora?"
-    a: "Els senyals habituals inclouen sentir esgotament, aclaparament o ansietat, enfadar-se o impacientar-se fàcilment, tenir dificultats per dormir, sentir tristesa o desesperança, allunyar-se dels amics, tenir mals de cap o dolors freqüents, i saltar-se els propis àpats, l’exercici o les revisions mèdiques. Si aquests senyals es repeteixen, consulti el seu metge."
-  - q: "Com trobo un servei de respir a prop de casa?"
-    a: "Comenci per l’Eldercare Locator (1-800-677-1116 o eldercare.acl.gov) per arribar a la seva Area Agency on Aging local, a l’ARCH National Respite Locator Service, o a la línia d’ajuda de l’Alzheimer’s Association al 1-800-272-3900. La família, els amics i els voluntaris també poden oferir respir."
-  - q: "Medicare paga l’atenció de respir?"
-    a: "Per a una persona que rep atenció de fi de vida (hospice), Medicare cobreix la major part del cost de fins a cinc dies consecutius de respir en un hospital o en un centre d’infermeria qualificat, segons el National Institute on Aging. La majoria d’assegurances privades de salut no cobreixen el respir; Medicaid i alguns plans d’assegurança de cures de llarga durada poden ajudar."
-  - q: "La línia d’ajuda de l’Alzheimer’s Association és realment gratuïta i funciona de nit?"
-    a: "Sí. L’Alzheimer’s Association diu que la seva línia d’ajuda al 1-800-272-3900 és gratuïta, confidencial i té personal les 24 hores, els 365 dies de l’any, amb ajuda disponible en molts idiomes. Marqui el 711 per al servei de relleu."
-  - q: "És egoista prendre’s un descans de la cura?"
-    a: "No. El descans li permet continuar cuidant, i l’atenció de respir també pot canviar la companyia i l’activitat de la persona a qui cuida. Moltes persones cuidadores després diuen que haurien volgut demanar ajuda abans."
+  - q: "Quins són els senyals de desgast de la persona cuidadora?"
+    a: "Els senyals habituals inclouen sentir-se esgotat, desbordat o ansiós, enfadar-se o impacientar-se fàcilment, problemes per dormir, sentir-se trist o sense esperança, allunyar-se dels amics, mals de cap o dolor freqüents, i saltar-se els propis àpats, l'exercici o les visites mèdiques. Si senyals com aquests es donen regularment, parli'n amb el seu metge."
+  - q: "Com puc trobar un servei de descans temporal a prop meu?"
+    a: "Comenci amb l'Eldercare Locator (1-800-677-1116 o eldercare.acl.gov) per contactar amb la seva Agència d'Àrea sobre l'Envelliment local, el servei de localització de descans ARCH, o la línia d'ajuda de l'Alzheimer's Association al 1-800-272-3900. La família, els amics i les persones voluntàries també poden oferir descans."
+  - q: "Medicare paga el descans temporal?"
+    a: "Per a una persona que rep cures pal·liatives, Medicare cobreix la major part del cost de fins a cinc dies consecutius de descans temporal en un hospital o en un centre d'infermeria especialitzada, segons el National Institute on Aging. La majoria d'assegurances mèdiques privades no cobreixen el descans temporal; Medicaid i alguns plans d'assegurança de cures de llarga durada poden ajudar."
+  - q: "La línia d'ajuda de l'Alzheimer's Association és realment gratuïta i està disponible a la nit?"
+    a: "Sí. L'Alzheimer's Association indica que la seva línia d'ajuda al 1-800-272-3900 és gratuïta, confidencial i està atesa les vint-i-quatre hores del dia, els 365 dies de l'any, amb ajuda disponible en molts idiomes. Marqui el 711 per a un servei de retransmissió."
+  - q: "És egoista fer una pausa de tenir cura?"
+    a: "No. Descansar l'ajuda a continuar tenint cura, i el descans temporal també pot donar a la persona que cuida un canvi de companyia i d'activitat. Moltes persones cuidadores diuen més endavant que tant de bo haguessin demanat ajuda abans."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -62,91 +68,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-Si cuida algú que viu amb demència, probablement llegeix això a última hora, amb el cap ple i una llista de coses pendents. És normal. Cuidar-se no és un luxe ni una recompensa per acabar-ho tot. És el que permet seguir endavant.
+Si té cura d'una persona que viu amb demència, és probable que estigui llegint això tard, cansat i amb una llista de coses pendents. És normal. Cuidar-se un mateix no és un luxe ni una recompensa per haver-ho acabat tot. És el que li permet continuar.
 
-Aquesta pàgina explica els senyals d’alerta de l’esgotament, com aconseguir un descans de debò, on trobar suport i les línies d’ajuda gratuïtes dels Estats Units a les quals es pot trucar avui mateix.
+Aquesta pàgina tracta dels senyals d'avís de desgast, de com aconseguir una pausa de veritat, d'on trobar suport i dels telèfons gratuïts als EUA als quals pot trucar avui.
 
-## Quins són els senyals d’esgotament de la persona cuidadora?
+## Quins són els senyals de desgast de la persona cuidadora?
 
-L’esgotament sovint arriba a poc a poc, així que convé conèixer els propis senyals d’alerta. El [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) enumera els senyals d’estrès de la persona cuidadora, entre els quals:
+El desgast sovint arriba a poc a poc, per això és útil conèixer els seus propis senyals d'avís. El [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) enumera senyals d'estrès en les persones cuidadores, com ara:
 
-- sentir esgotament, aclaparament o ansietat;
+- sentir-se esgotat, desbordat o ansiós;
 - enfadar-se o impacientar-se fàcilment;
 - sentir-se sol o desconnectat dels altres;
-- tenir dificultats per dormir, o no dormir prou;
-- sentir tristesa o desesperança, o perdre l’interès per les coses que abans agradaven;
-- mals de cap, dolors o altres problemes físics freqüents;
-- no tenir temps per fer exercici o per preparar-se un menjar saludable;
+- tenir problemes per dormir, o no dormir prou;
+- sentir-se trist o sense esperança, o perdre l'interès per coses que abans gaudia;
+- tenir mals de cap, dolor o altres problemes físics freqüents;
+- no tenir temps per fer exercici o preparar-se menjar saludable;
 - saltar-se la dutxa o altres cures personals;
-- fer mal ús de l’alcohol o de drogues, inclosos els medicaments amb recepta.
+- fer un ús inadequat d'alcohol o drogues, inclosos els medicaments amb recepta.
 
-L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) afegeix senyals com la negació de la malaltia, l’enuig amb la persona («només és tossut»), l’ansietat pel futur, la dificultat per concentrar-se i els problemes de salut que passen factura. Aconsella parlar amb el metge si es noten senyals com aquests de manera regular.
+L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) afegeix senyals com la negació de la malaltia, l'enuig amb la persona («només es fa el tossut»), l'ansietat pel futur, dificultats per concentrar-se i problemes de salut que passen factura. Aconsella parlar amb el metge si té senyals com aquests amb regularitat.
 
-El consell del NIA és no esperar a estar completament aclaparat. Noti aviat els seus senyals i actuï en conseqüència.
+El consell del NIA és no esperar fins a estar completament desbordat. Reconegui els senyals aviat i actuï.
 
 ## Què puc fer avui, en cinc minuts?
 
-Les pauses petites compten. Cap d’aquestes coses no soluciona l’esgotament, però poden ajudar a passar una tarda difícil.
+Les pauses petites també compten. Cap d'aquestes coses soluciona el desgast, però poden ajudar-lo a superar una tarda difícil.
 
-- **Surti a fora.** Segui al porxo o camini fins a la bústia mentre la persona està segura i tranquil·la.
-- **Respiri lentament.** Unes quantes respiracions lentes abans de respondre una pregunta difícil. També pot compartir una pausa de [respiració tranquil·la](/games/calm-breathing/) amb la persona a qui cuida.
-- **Begui aigua i mengi alguna cosa.** És fàcil oblidar els propis àpats.
-- **Envii un missatge a un amic.** No per demanar res, només per connectar.
-- **Dir-se alguna cosa amable.** La [guia del NIA per cuidar-se](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggereix frases com «Faig el que puc», «No sóc perfecte, i no passa res», i «Gaudiré dels moments en què puguem estar junts en pau».
+- **Surti una estona.** Segui al porxo o camini fins a la bústia mentre la persona està segura i tranquil·la.
+- **Respiri a poc a poc.** Faci unes quantes respiracions lentes abans de respondre una pregunta difícil. També pot compartir una pausa de [Respiració tranquil·la](/games/calm-breathing/) amb la persona que cuida.
+- **Begui una mica d'aigua i mengi alguna cosa.** És fàcil oblidar-se dels propis àpats.
+- **Enviï un missatge a una amistat.** No per demanar res, només per connectar.
+- **Digui's alguna cosa amable.** La [guia del NIA per cuidar-se un mateix](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggereix frases com «Ho faig tan bé com puc», «No sóc perfecte, i està bé» i «Gaudiré dels moments en què podem estar junts en pau».
 
-## Què és l’atenció de respir i com es demana?
+## Què és el descans temporal i com el puc aconseguir?
 
-L’atenció de respir és atenció de curta durada per a la persona a qui cuida, perquè vostè pugui descansar. La [pàgina del NIA sobre l’atenció de respir](https://www.nia.nih.gov/health/caregiving/what-respite-care) explica que pot durar des d’unes quantes hores fins a diverses setmanes i que pot ser a casa, en un centre sanitari o en un centre de dia per a adults.
+El descans temporal és una atenció de curta durada per a la persona que cuida, perquè vostè pugui descansar. La [pàgina del NIA sobre el descans temporal](https://www.nia.nih.gov/health/caregiving/what-respite-care) explica que pot durar des d'unes poques hores fins a diverses setmanes i pot tenir lloc a casa, en un centre sanitari o en un centre de dia per a adults.
 
-L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) descriu els tipus més habituals:
+L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) descriu tipus habituals:
 
 | Tipus | Què és |
 | --- | --- |
-| Ajuda a casa | Una amistat, un familiar, un voluntari o un acompanyant o auxiliar remunerat va a casa |
-| Centre de dia per a adults | Activitats planificades, com música i art, en un grup segur; sovint s’ofereixen transport i àpats |
-| Estada de nit o de curta durada | Una comunitat d’atenció de llarga durada cuida la persona durant una nit, uns quants dies o unes setmanes |
+| Ajuda a casa | Un amic, un familiar, una persona voluntària o un acompanyant o assistent remunerat ve a casa |
+| Centre de dia per a adults | Activitats planificades, com música i art, en un entorn grupal segur; sovint s'ofereixen transport i àpats |
+| Estada nocturna o breu | Una comunitat de cures de llarga durada té cura de la persona durant una nit, uns dies o unes setmanes |
 
-**Qui paga?** Segons el NIA, el respir de la família, els amics o els voluntaris pot no costar res. Els serveis professionals cobren per hora o per dia. Per a una persona que rep atenció de fi de vida (hospice), Medicare cobreix la major part del cost de fins a cinc dies consecutius de respir en un hospital o en un centre d’infermeria qualificat. Medicaid pot ajudar. La majoria d’assegurances privades de salut no cobreixen el respir, tot i que alguns plans d’assegurança de cures de llarga durada sí.
+**Qui ho paga?** Segons el NIA, el descans que ofereixen la família, els amics o les persones voluntàries pot no tenir cap cost. Els serveis professionals cobren per hora o per dia. Per a una persona que rep cures pal·liatives, Medicare cobreix la major part del cost de fins a cinc dies consecutius de descans en un hospital o en un centre d'infermeria especialitzada. Medicaid pot ajudar. La majoria d'assegurances mèdiques privades no cobreixen el descans temporal, tot i que alguns plans d'assegurança de cures de llarga durada sí que ho fan.
 
-**Consell:** L’Alzheimer’s Association suggereix provar els serveis de respir en una situació que no sigui d’emergència, perquè estiguin preparats si de cop necessita ajuda.
+**Consell:** L'Alzheimer's Association suggereix provar els proveïdors de descans temporal en una situació que no sigui d'emergència, perquè estiguin preparats si de sobte necessita ajuda.
 
 ## On puc trobar ajuda a prop meu?
 
-Diversos serveis gratuïts dels Estats Units poden indicar-li l’ajuda local.
+Diversos serveis gratuïts dels EUA poden orientar-lo cap a l'ajuda local.
 
-- **Línia d’ajuda 24/7 de l’Alzheimer’s Association: 1-800-272-3900.** La [línia d’ajuda](https://www.alz.org/help-support/resources/helpline) és gratuïta i confidencial, amb personal les 24 hores, tots els dies de l’any, i amb ajuda en més de 200 idiomes a través de personal bilingüe o d’intèrprets. Marqui el 711 per al servei de relleu. Pot parlar dels canvis de conducta, de l’estrès de la persona cuidadora, de les opcions de respir, dels programes locals i de més coses, i demanar una conversa més llarga amb un consultor d’atenció. El personal no dona consells mèdics.
-- **Eldercare Locator: 1-800-677-1116.** L’[Eldercare Locator](https://eldercare.acl.gov/), un servei públic de l’Administration for Community Living, la connecta amb serveis per a persones grans i les seves famílies. Pot trucar, enviar un SMS, xatejar en línia o escriure un correu al personal format, o cercar per ubicació. Pot indicar-li la seva Area Agency on Aging local.
-- **ARCH National Respite Locator Service.** El [localitzador de respir d’ARCH](https://archrespite.org/caregiver-resources/respitelocator/) ajuda a trobar serveis de respir per estat, i suggereix contactar primer amb la seva State Respite Coalition o amb el programa Lifespan Respite, si el seu estat en té. ARCH assenyala que no revisa els proveïdors, així que revisi vostè mateix la seva experiència i els seus antecedents.
+- **Línia d'ajuda 24/7 de l'Alzheimer's Association: 1-800-272-3900.** La [línia d'ajuda](https://www.alz.org/help-support/resources/helpline) és gratuïta i confidencial, està atesa a totes hores tots els dies de l'any, amb ajuda en més de 200 idiomes a través de personal bilingüe o intèrprets. Marqui el 711 per a un servei de retransmissió. Hi pot parlar sobre canvis de conducta, estrès de la persona cuidadora, opcions de descans, programes locals i molt més, i demanar una conversa més llarga amb una persona consultora d'atenció. El personal no ofereix consells mèdics.
+- **Eldercare Locator: 1-800-677-1116.** L'[Eldercare Locator](https://eldercare.acl.gov/), un servei públic de l'Administration for Community Living, el posa en contacte amb serveis per a persones grans i les seves famílies. Pot trucar, enviar un missatge de text, xatejar en línia o enviar un correu electrònic a personal format, o fer una cerca per ubicació. Li pot indicar la seva Agència d'Àrea sobre l'Envelliment local.
+- **Servei de localització de descans ARCH.** El [localitzador de descans d'ARCH](https://archrespite.org/caregiver-resources/respitelocator/) l'ajuda a trobar proveïdors de descans temporal per estat i suggereix contactar primer amb la Coalició Estatal de Descans o el programa Lifespan Respite si el seu estat en té. ARCH indica que no verifica els proveïdors, així que revisi vostè mateix la seva experiència i trajectòria.
 
-## Com trobo un grup de suport?
+## Com puc trobar un grup de suport?
 
-Demani-ho a la línia d’ajuda o busqui en línia grups a prop seu. L’[Alzheimer’s Association](https://www.alz.org/help-support/community/support-groups) organitza grups de suport per a persones cuidadores i per a persones que viuen amb demència, presencials i en línia, dirigits per facilitadors formats. Molts llocs també ofereixen grups especialitzats, per exemple per a persones cuidadores adultes o per a persones que viuen amb Alzheimer d’inici precoç o en una etapa inicial. També acull ALZConnected, una comunitat en línia gratuïta on les persones cuidadores comparteixen consells.
+Demani-ho a la línia d'ajuda o cerqui grups a prop seu en línia. L'Alzheimer's Association [ofereix grups de suport](https://www.alz.org/help-support/community/support-groups) per a persones cuidadores i persones que viuen amb demència, presencials i en línia, guiats per facilitadors formats. En molts llocs també hi ha grups especialitzats, per exemple per a cuidadores i cuidadors adults o per a persones que viuen amb Alzheimer d'inici precoç o en fase inicial. També acull ALZConnected, una comunitat en línia gratuïta on les persones cuidadores comparteixen consells.
 
-Els grups de suport poden ser un lloc per desfogar-se sense ser jutjat, rebre consells pràctics de persones que hi han passat i sentir-se menys sol. Si el primer grup no li encaixa, en pot provar un altre.
+Els grups de suport poden ser un espai per desfogar-se sense judicis, recollir consells pràctics de persones que hi han passat i sentir-se menys sol. Si el primer grup no li va bé, provi'n un altre.
 
-## Com demano ajuda a la família i als amics?
+## Com puc demanar ajuda a la família i als amics?
 
 Sigui concret. Moltes persones volen ajudar però no saben què oferir. El NIA suggereix:
 
-- **Tingui una llista** de tasques que altres podrien assumir, i deixi que la gent triï.
-- **Comenci de mica en mica** si demanar costa.
-- **Ajusti la tasca a la persona.** El cosí a qui li agrada cuinar porta el sopar els dijous. El veí que se’n surt bé amb els formularis ajuda amb els papers.
-- **Enviï un missatge o un correu** si demanar cara a cara li resulta incòmode.
-- **Prepari una resposta** per quan algú s’ofereixi: «Gràcies per preguntar. Això és el que pot fer.»
-- **Esperi algun no** i intenti no prendre-s’ho personalment.
+- **Fer una llista** de tasques que altres podrien assumir i deixar que cadascú triï.
+- **Començar petit** si li costa demanar-ho.
+- **Adaptar la tasca a la persona.** El cosí a qui li agrada cuinar porta el sopar els dijous. La veïna que se'n surt bé amb el tràmit ajuda amb la paperassa.
+- **Enviar un missatge o un correu electrònic** si demanar-ho cara a cara li resulta incòmode.
+- **Preparar una resposta** per quan algú s'ofereixi: «Gràcies per preguntar-ho. Això és el que pots fer».
+- **Comptar amb algun no** i intentar no prendre-s'ho com una cosa personal.
 
-Altres idees: demanar a algú que es quedi amb la persona una tarda a la setmana, que la porti a fer una petita sortida, o que la visiti i jugui un joc junts. La nostra [guia per jugar plegats](/caregiving/how-to-play-together/) és fàcil de compartir amb les visites.
+Altres idees: demanar a algú que es quedi amb la persona una tarda a la setmana, que la porti a fer una sortida curta o que vingui de visita i jugui una estona. La nostra [guia per jugar plegats](/caregiving/how-to-play-together/) és fàcil de compartir amb les visites.
 
-## I si em passa alguna cosa?
+## I si em passés alguna cosa a mi?
 
-Prepari ara un pla de recanvi senzill. El NIA suggereix decidir amb la família o amb amics propers qui hi podria entrar, i tenir una llibreta amb els números d’emergència, els medicaments, els consells de conducta que funcionen i les activitats preferides. L’Alzheimer’s Association també recomana tenir a l’abast els contactes mèdics de la persona i una llista de medicaments actualitzada.
+Faci ara un pla senzill de suport. El NIA suggereix decidir amb la família o les amistats properes qui agafaria el relleu, i tenir una llibreta amb números d'emergència, medicaments, consells de conducta que funcionen i activitats preferides. L'Alzheimer's Association també recomana tenir a mà els contactes mèdics de la persona i una llista actualitzada de medicaments.
 
-## Quan he de demanar ajuda professional o urgent?
+## Quan he de buscar ajuda professional o urgent?
 
-Parli amb el seu metge si els senyals d’estrès són habituals, si nota símptomes de depressió o si li costa afrontar-ho. Digui al metge que és persona cuidadora. El NIA assenyala que els consellers i els treballadors socials poden ajudar amb els sentiments difícils i la planificació, i que Medicare, Medicaid i algunes assegurances privades poden cobrir alguns costos de salut mental.
+Parli amb el seu metge si els senyals d'estrès són habituals, si se sent deprimit o si li costa gestionar la situació. Expliqui-li que és una persona cuidadora. El NIA assenyala que els professionals de l'assessorament i els treballadors socials poden ajudar amb les emocions difícils i la planificació, i que Medicare, Medicaid i algunes assegurances privades poden cobrir part dels costos de salut mental.
 
-Si se sent en crisi o té pensaments de fer-se mal, truqui o envii un SMS al [988](https://988lifeline.org/), la línia d’ajuda 988 Suicide & Crisis Lifeline dels Estats Units, gratuïta i disponible les 24 hores. Si algú està en perill immediat, truqui al 112 (a Europa) o al 911 (als Estats Units).
+Si se sent en una situació de crisi o té pensaments de fer-se mal, truqui o enviï un missatge al 988 per contactar amb la [988 Suicide & Crisis Lifeline](https://988lifeline.org/), un servei gratuït disponible les vint-i-quatre hores del dia, els set dies de la setmana. Si algú corre un perill immediat, truqui al 911.
 
-## Les activitats compartides també poden donar-li un descans?
+## Les activitats compartides també em poden donar una pausa?
 
-A vegades, sí. Una activitat tranquil·la que tots dos gaudeixen pot ser una part més suau del dia, tant per a vostè com per a la persona a qui cuida: escoltar cançons antigues, mirar fotos, o un joc com les [Targetes de conversa](/games/conversation-cards/) que no necessita respostes correctes. Si a la persona li agrada la companyia, una sessió en grup amb el [Bingo d’imatges](/games/picture-bingo/) en un centre per a persones grans o en un programa de dia per a adults pot donar-li una hora de descans. Vegi les [activitats per a grups de residències](/activities/care-home-groups/) per tenir idees.
+A vegades. Una activitat tranquil·la que tots dos gaudiu pot fer que una part del dia sigui més suau, tant per a vostè com per a la persona que cuida: escoltar cançons d'abans, mirar fotos o un joc com [Targetes de conversa](/games/conversation-cards/) que no requereix respostes encertades. Si a la persona li agrada la companyia, una sessió en grup amb [Bingo d'imatges](/games/picture-bingo/) en un centre de dia o un programa per a adults pot donar-li una hora de descans. Consulteu [activitats per a grups en residències](/activities/care-home-groups/) per trobar idees.

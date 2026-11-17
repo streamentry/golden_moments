@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Mapuzzle kwa Anthu Amene Ali ndi Matenda a Kuiwala"
+seoTitle: "Mapuzzle kwa Matenda a Kuiwala"
+description: "Momwe mungasankhire mapuzzle a zithunzi, a mawu ndi a pa intaneti kwa munthu amene ali ndi matenda a kuiwala: kukula kwa zidutswa, zithunzi ndi kusewera limodzi."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Puzzle yabwino kwa munthu amene ali ndi matenda a kuiwala ndi yomwe angathe
+  kuimaliza mothandizidwa pangʼono ndikusangalala nayo. Sankhani mapuzzle a
+  zithunzi okhala ndi zidutswa zochepa komanso zazikulu komanso chithunzi
+  chomveka cha munthu wamkulu, ikani chithunzi cha bokosi pamalo oonekera, ndipo
+  yambani ndi kusanja zidutswa za mʼmphepete. Mapuzzle a mawu amafunika zilembo
+  zazikulu. Mapuzzle osavuta a pa intaneti okhala ndi zidutswa zinayi amayenera
+  anthu amene ali pakati pa matendawa. Lekani pamene mukusangalalabe.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Sankhani potengera momwe zikuyendera, osati dzina la gawo la matenda: ngati puzzle ikuoneka yovuta, yesani yokhala ndi zidutswa zochepa."
+  - "Zidutswa zazikulu komanso zolimba ndi chithunzi chomveka chokhala ndi mitundu yosiyana zimakhala zosavuta kusiyana ndi zidutswa zazingʼono ndi thambo lalikulu."
+  - "Zithunzi za anthu akulu nʼzofunika. Minda, makhitchini, magalimoto ndi nyama, osati zithunzi za makatuni."
+  - "Kuchita limodzi ndicho cholinga. Perekani zidutswa, sanjani za mʼmphepete, ndipo ikani chivindikiro cha bokosi pamalo oonekera."
+  - "Mapuzzle osakira mawu a zilembo zazikulu ndi mapuzzle osavuta a pa intaneti okhala ndi zidutswa zinayi kapena zisanu ndi zinayi amapezeka kwaulere patsamba lino."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Kodi zidutswa zingati za puzzle ndi zoyenera munthu amene ali ndi matenda a kuiwala?"
+    a: "Palibe nambala imodzi yokha yoyenera. Munthu amene ankakonda mapuzzle a zidutswa chikwi chimodzi angakhalebe kusangalala ndi mazana ochepa kumayambiriro kwa matendawa, pomwe ena amasangalala ndi zidutswa zazikulu khumi ndi ziwiri zokha. Ngati puzzle ikuoneka yovuta kapena ikukhumudwitsa, sankhani yokhala ndi zidutswa zochepa. Puzzle yathu ya Picture puzzle pa intaneti ili ndi zidutswa zinayi kapena zisanu ndi zinayi."
+  - q: "Kodi mapuzzle a zithunzi ndi abwino kwa anthu amene ali ndi matenda a kuiwala?"
+    a: "Anthu ambiri amawasangalala, makamaka ngati ankakonda mapuzzle mʼmbuyomu. Puzzle imapereka kanthu koti manja agwire, cholinga chomveka komanso chithunzi choti mucheze nacho. Palibe puzzle imene yaonetsedwa kuti imachiza kapena kuchepetsa matenda a kuiwala, choncho sankhani chifukwa chosangalala komanso kukhala limodzi."
+  - q: "Kodi ndingachite chiyani munthu akalephera kupanga puzzle ya zithunzi?"
+    a: "Ipangitseni kukhala yosavuta ndipo inuyo chitani zambiri: perekani chidutswa chimodzi panthawi imodzi, kapena musiyire zidutswa zomaliza zochepa zokha. Yesani puzzle ya pa intaneti yokhala ndi zidutswa zinayi, kusanja zidutswa potengera mtundu, kapena kungoyangʼana chithunzi chomalizidwa limodzi."
+  - q: "Kodi mawu ophatikiza (crosswords) ndi osakira mawu ndi oyenera anthu amene ali ndi matenda a kuiwala?"
+    a: "Angakhale oyenera kumayambiriro kwa matendawa, ngati ali ndi zilembo zazikulu. Mapuzzle osakira mawu omwe mawu amapezeka molunjika ndi motsika okha ndi osavuta kuposa omwe ali ndi mawu opita chamʼmbali kapena chamʼmbuyo. Werengani malangizo kapena mndandanda wa mawu mokweza ndipo chitani limodzi."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Puzzle ya zithunzi yotambasulidwa patebulo la mʼchipinda chodyera ndi imodzi mwa njira zosavuta zogwirira ntchito limodzi. Mukhoza kukhala limodzi osafunikira kuyankhula kwambiri, chithunzicho chimakupatsani nkhani yochezera, ndipo kuyika chidutswa chomaliza kumakhala kosangalatsa. Komabe, mapuzzle amafunika kusintha pamene matenda a kuiwala akusintha. Puzzle yovuta kwambiri imatha kusintha masana abwino kukhala okhumudwitsa. Tsamba ili likufotokoza momwe mungasankhire ndi kukonzera mapuzzle a zithunzi, a mawu ndi osavuta a pa intaneti, komanso zomwe mungachite akayamba kuvuta.
 
-## Are puzzles good for people with dementia?
+## Kodi mapuzzle ndi abwino kwa anthu amene ali ndi matenda a kuiwala?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Anthu ambiri amawasangalala, makamaka amene ankakonda kupanga mapuzzle kale. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) imatchula mapuzzle osakira mawu, masewera a makhadi ndi masewera a pa bolodi ngati zina mwa zochitika zoyenera kumayambiriro kwa matendawa, ndipo [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) imatchulanso masewera ndi mapuzzle a pa intaneti pa tabuleti ngati njira imodzi yokhalira otanganidwa.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Mapuzzle si mankhwala. Palibe puzzle imene yaonetsedwa kuti imachedwetsa kapena kuyimitsa matenda a kuiwala; tsamba lathu la [masewera a ubongo ndi matenda a kuiwala](/brain-health/brain-games/) likufotokoza kafukufuku wake. Chifukwa chopangira puzzle ndi chakuti ikhoza kukhala nthawi yosangalatsa komanso yokopa kuchita limodzi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) imafotokoza mwachidule kuti: yangʼanani pa kusangalala, osati pa zomwe mwakwaniritsa.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kodi mungasankhire bwanji puzzle ya zithunzi kwa munthu amene ali ndi matenda a kuiwala?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Sankhani potengera zomwe munthuyo amakonda komanso momwe puzzle yomaliza inayendera, osati dzina la gawo la matendawa.
 
-### Number of pieces
+### Chiwerengero cha zidutswa
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Palibe chiwerengero choyenera chokha. Munthu amene wakhala akukonda mapuzzle moyo wake wonse angakhalebe kusangalala ndi zidutswa mazana ochepa kumayambiriro, pomwe wina amasangalala ndi khumi ndi ziwiri zokha. Lamulo lothandiza ndi ili: ngati puzzle yomaliza inkaoneka yovuta, sankhani yokhala ndi pafupifupi theka la zidutswazo. Ngati inatha mofulumira ndipo munthuyo ankafuna ina, onjezerani pangʼono.
 
-### Piece size and feel
+### Kukula ndi momwe zidutswa zilili
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Zidutswa zazikulu** zimakhala zosavuta kuziona, kuzinyamula ndi kuzitembenuza.
+- **Zidutswa zokhuthala komanso zolimba** zimakhala pamalo amodzi ndipo sizivuta ngakhale zitagwa.
+- **Pamwamba posawala kwambiri** kumachepetsa kunyezimira kwa nyale kapena dzuwa.
+- **Pewani zidutswa zazingʼono** ngati munthuyo angayambe kuyika zinthu mʼkamwa, zomwe zingachitike matenda akafika patali.
 
-### The picture
+### Chithunzi
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Zithunzi za anthu akulu.** Minda, makhitchini, magalimoto akale, nyama za pafamu, tauni ya mʼmbali mwa nyanja, kapena masewera omwe amakonda. Osati zithunzi za makatuni kapena chilichonse chooneka ngati chidole cha ana.
+- **Malo a mitundu yosiyana.** Khola lofiira, bwato labuluu ndi munda wobiriwira zimakhala zosavuta kuposa thambo lomwe limatenga theka la puzzle.
+- **Zodziwika komanso zaumwini.** Chithunzi cha malo omwe anakhalako kapena chinthu chomwe ankachikonda chimakupatsani nkhani zambiri zochezera. Malo ena osindikizira zithunzi angasinthe chithunzi cha banja kukhala puzzle.
 
-## How do you do a puzzle together?
+## Kodi mungapange bwanji puzzle limodzi?
 
-Set it up so the person can get straight to the enjoyable part.
+Konzani zinthu mʼnjira yoti munthuyo ayambe nthawi yomweyo gawo losangalatsa.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Sankhani malo abwino.** Kuwala kokwanira, mpando wokhala ndi zogwirira, ndi tebulo kapena thireyi pomwe puzzle ingakhalepo.
+2. **Ikani chivindikiro cha bokosi** pamalo pomwe nonse mungachione.
+3. **Tembenuzani zidutswa zonse kuti zionekere** musanayambe.
+4. **Sanjani zidutswa za mʼmphepete** nokha, kapena malizani mʼmphepete kaye ndikumusiyira pakati.
+5. **Ikani zidutswa mʼmagulu potengera mtundu** mʼmathireyi kapena mʼmbale zosaya.
+6. **Perekani chidutswa chimodzi panthawi imodzi** ngati muluwo ukuoneka waukulu kwambiri. “Ndikuganiza kuti ichi ndi cha khola.”
+7. **Chezani za chithunzi,** osati za momwe mukupitira patsogolo. “Ichi chikuoneka ngati bwato lomwe bambo anga anali nalo.”
+8. **Siyani puzzle pamalo pomwepo.** Mutha kubwereranso masiku angapo. Palibe chifukwa chofulumira.
+9. **Lekani pa nthawi yabwino,** chidutswa chikalowa bwino, pamene mukusangalalabe.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) imalangiza kuthandiza munthuyo kuyamba, kuyangʼana ngati akukhumudwa, ndikumulola kungoyangʼana ngati izo zikumusangalatsa. Kungoyangʼana inuyo mukuyika zidutswa ndikusonyeza pomwe china chingalowe, ndi kutengapo mbali.
 
-## Easy online puzzles
+## Mapuzzle osavuta a pa intaneti
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Puzzle ya pa tabuleti ili ndi ubwino wake: palibe zidutswa zotayika, zithunzi zazikulu zomwe zimadzaza chinsalu, ndipo palibe tebulo loti muchotsepo zinthu.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+[Picture puzzle](/games/picture-puzzle/) yathu yaulere imadula chithunzi kukhala zidutswa zinayi kapena zisanu ndi zinayi. Dinani zidutswa ziwiri kuti musinthane malo mpaka chithunzi chikhale chathunthu. Chithunzi chathunthu chimakhala pa chinsalu ngati chitsogozo, palibe nthawi yowerengera, ndipo mutha kusiya nthawi iliyonse. Zidutswa zinayi zimayenera anthu ambiri amene ali pakati pa matendawa akakhala ndi munthu wowathandiza pafupi.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Kuti musewere mosavuta kwambiri ndi zithunzi, yesani [Find the same](/games/find-the-same/), pomwe mumadina chithunzi chofanana ndi chomwe chili pamwamba, kapena [Sort together](/games/sort-together/), pomwe zithunzi zimayikidwa mʼmadengu monga khitchini kapena munda.
 
-## Word puzzles: word searches and crosswords
+## Mapuzzle a mawu: osakira mawu ndi mawu ophatikiza
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Mapuzzle a mawu amayenera anthu amene nthawi zonse ankawasangalala, makamaka kumayambiriro kwa matenda a kuiwala.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Osakira mawu a zilembo zazikulu.** [Word search](/games/word-search/) yathu yaulere imagwiritsa ntchito zilembo zazikulu ndi mawu ochepa okha, omwe amapezeka molunjika ndi motsika, osati chamʼmbali kapena chamʼmbuyo. Mutha kusewera pa chinsalu kapena kusindikiza.
+- **Werengani mndandanda mokweza.** Munthu mmodzi amawerenga liwu, winayo amalifunafuna. Kuzungulira chilembo choyamba chokha ndi kwabwino.
+- **Mawu ophatikiza a zilembo zazikulu** ochokera mʼmabuku a mapuzzle angathandize kumayambiriro. Werengani malangizo mokweza, gwiritsani ntchito cholembera chimodzi limodzi ndipo lembani mayankho limodzi. Mawu ophatikiza osavuta okhala ndi mutu umodzi ndi abwino kuposa ovuta.
+- **Chezani za mawuwo.** “Munda” ukhoza kuyambitsa kucheza kwa mphindi khumi zokhudza tomato.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Kuti mupeze zochitika zambiri za pa pepala komanso momwe mungazisindikizire kuti zikhale zosavuta kuziona ndi kuzigwira, onani [zochitika zaulere zosindikizidwa za anthu amene ali ndi matenda a kuiwala](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Kodi ndi mapuzzle ati amene amayenera magawo osiyanasiyana a matendawa?
 
-Stages overlap, and good and hard days are normal.
+Magawo a matendawa amasinthana, ndipo kukhala ndi masiku abwino ndi ovuta ndi chinthu chodziwika.
 
-| Stage | Puzzles that often fit | Your role |
+| Gawo | Mapuzzle omwe nthawi zambiri amayenera | Udindo wanu |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Kumayambiriro | Mapuzzle a zithunzi odziwika okhala ndi zidutswa zochepa kuposa kale, mawu ophatikiza ndi osakira mawu a zilembo zazikulu, mapuzzle a pa intaneti okhala ndi zidutswa zisanu ndi zinayi | Wothandizana naye: muloleni kusankha, thandizani akafunsa |
+| Pakati | Mapuzzle a zithunzi okhala ndi zidutswa zazikulu pafupifupi khumi ndi ziwiri, mapuzzle a pa intaneti okhala ndi zidutswa zinayi, osakira mawu owerengedwa limodzi mokweza | Konzani, sanjani zidutswa, perekani chimodzi panthawi imodzi |
+| Pambuyo pake | Kuyangʼana chithunzi chomalizidwa limodzi, Find the same yokhala ndi zithunzi ziwiri, kugwira zidutswa zazikulu zochepa | Bweretsani kwa iwo; kukhala nanu limodzi ndicho chochitika |
 
-## When should you make a puzzle easier, or stop?
+## Kodi ndi liti pamene muyenera kupangitsa puzzle kukhala yosavuta, kapena kusiya?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Yangʼanani zizindikiro monga kupuma mokweza, kukankhira zidutswa kutali, kunena mobwerezabwereza kuti “Sindingathe” kapena maonekedwe a nkhawa. Izi ndi zizindikiro zosinthira njira, osati kukakamiza kupitiriza.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Ipangitseni kukhala yaingʼono.** Zidutswa zochepa, kapena musiyire zomaliza zochepa zokha.
+- **Chitani zambiri nokha** ndipo muwapatse mwayi wothandiza pa zinthu zosavuta.
+- **Sinthani kukhala china chapafupi:** kusanja zidutswa potengera mtundu, puzzle ya pa intaneti yokhala ndi zidutswa zinayi, kapena [kupaka utoto](/games/coloring/).
+- **Lekani.** Isiyani pamenepo ndipo mumwe tiyi. Mutha kubwereranso tsiku lina, kapena ayi.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ngati mapuzzle ayamba kuoneka ngati chikumbutso cha zomwe zili zovuta, ndi bwino kuwasiya. Pali njira zambiri zokhalira ndi nthawi yabwino limodzi; tsamba lathu la [malingaliro 101 a zochitika](/activities/ideas/) ndi malo abwino oyambira.

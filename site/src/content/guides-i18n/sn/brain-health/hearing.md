@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Kusanzwa Zvakanaka neNjodzi yeDementia"
+seoTitle: "Kusanzwa Zvakanaka neDementia: Zvinoratidzwa"
+description: "Nei kusanzwa zvakanaka kuri njodzi huru yedementia, zvakawanikwa muongororo yeACHIEVE yemidziyo yekubatsira kunzwa, uye nzira yekuongororwa."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Komisheni yeLancet ya2024 inoti kusanzwa zvakanaka ndechimwe chezvinhu zvikuru zvinogona
+  kuchinjwa zvine chekuita nenjodzi yedementia. Muongororo yeACHIEVE, midziyo yekubatsira kunzwa
+  haina kunonotsa kudzikira kwekufunga kwevanhu vose, asi boka diki raiva nenjodzi huru rakaona
+  kudzikira kushoma. Midziyo yekubatsira kunzwa inobatsira pakukurukurirana uye muupenyu hwezuva
+  nezuva zvakadaro. Endai munoongororwa kunzwa, fungai nezvemidziyo inotengwa nechiremba kana
+  isingade gwaro rechiremba, uye taurai nachiremba.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Komisheni yeLancet inofungidzira kuti kusanzwa zvakanaka kunokonzera ingangoita 7% yedementia pasi rose, chikamu chakakura pamwe chete nezvimwe pakati pezvinhu 14."
+  - "Muongororo yeACHIEVE yevakuru 977, midziyo yekubatsira kunzwa haina kuchinja kudzikira kwekufunga mumakore matatu kuvanhu vose."
+  - "Muboka diki raiva nenjodzi huru mukati meACHIEVE, kudzikira kwekufunga kwainge kwakaderera ne48% kune vaishandisa midziyo yekubatsira kunzwa; izvi zvinoda kusimbiswa."
+  - "Kubva muna October 2022, vakuru vemuUS vanofunga kuti vane dambudziko rekusanzwa zvakanaka rakapfava kana riri pakati nepakati vanogona kutenga midziyo yekubatsira kunzwa inotarisirwa neFDA muzvitoro vasina gwaro rechiremba."
+  - "Kusaona zvakanaka kusina kurapwa kwakawedzerwa senjodzi yedementia muna 2024, saka kuongororwa kwemaziso kwakakoshawo."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Midziyo yekubatsira kunzwa inodzivirira dementia here?"
+    a: "Izvozvo hazvisati zvasimbiswa. Ongororo yeACHIEVE haina kuona shanduko pakudzikira kwekufunga mumakore matatu kuvanhu vose, kunyange hazvo rimwe boka raiva nenjodzi huru rakaita zviri nani. Zvakadaro, midziyo yekubatsira kunzwa inokodzera kufungwa nezvayo nokuti inoita kuti kukurukurirana, kuchengeteka uye upenyu hwezuva nezuva zvive nyore."
+  - q: "Ndiani anogona kutenga midziyo yekubatsira kunzwa isingade gwaro rechiremba?"
+    a: "FDA inobvumira vakuru vane makore 18 zvichikwira vanofunga kuti vane dambudziko rekusanzwa zvakanaka rakapfava kana riri pakati nepakati kutenga midziyo iyi muzvitoro kana paindaneti vasina gwaro rechiremba. Haina kuitirwa avo vane dambudziko rekusanzwa zvakanaka rakakura. Munhu ane marwadzo munzeve, mvura inobuda munzeve, dzungu kana shanduko dzinongoerekana dzaitika pakunzwa anofanira kuona chiremba kutanga."
+  - q: "Kusanzwa zvakanaka kunogona kuita sekunge dementia here?"
+    a: "Dzimwe nguva hongu. National Institute on Aging inoti vakuru vasinganzwe zvakanaka dzimwe nguva vanogona kufungirwa zvisiri izvo kuti vakavhiringika kana kuti havadi kubatsira. Kuongororwa kunzwa idanho rakanaka kana munhu achiratidza kusada kusangana nevamwe kana kuti ari kupotsa zvinotaurwa."
+  - q: "Vakuru vanofanira kuongororwa maziso kakawanda sei?"
+    a: "National Institute on Aging inopa zano rekuongororwa maziso zvakadzama gore rimwe kana maviri oga oga mushure memakore 60, kana sezvinokurudzirwa nenyanzvi yenyu yemaziso. Vanhu vane chirwere cheshuga kana BP yakakwira vanowanzoda kuongororwa kanenge kamwe pagore."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Kusanzwa zvakanaka kunowanzoitika muupenyu hwevanhu vakura, uye vatsvakurudzi vanokutora sechinhu chakakosha chine chekuita nenjodzi yedementia. Izvi hazvirevi kuti midziyo yekubatsira kunzwa ndiyo nzira yakasimbiswa yekudzivirira dementia; ongororo huru yakaitwa kusvika pari zvino yakapa mhinduro dzakasiyana. Peji rino rinotsanangura zvinoratidzwa netsvakurudzo, nzira yekuongororwa kunzwa, kuti midziyo yekubatsira kunzwa isingade gwaro rechiremba muUS chii, uye kuti mungaita sei kuti kukurukurirana kuve nyore.
 
-## Why does hearing matter for brain health?
+## Nei kunzwa kuchikosha pautano hwepfungwa?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Kusanzwa zvakanaka kunobatanidzwa nenjodzi yakakura yedementia. [Komisheni yeLancet ya2024](https://doi.org/10.1016/S0140-6736(24)01296-0) inofungidzira kuti kunokonzera ingangoita 7% yedementia pasi rose. Izvi zvinoita kuti kuenzane necholesterol yeLDL yakakwira sechikamu chikuru pakati pezvinhu 14 zvinogona kuchinjwa zviri mumufananidzo weKomisheni, maererano ne[pfupiso yeUCL yemushumo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Zvakawanikwa zvikuru neKomisheni:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Njodzi yakakura kana munhu asinganzwe zvakanaka.** Muongororo yayo yakabatanidza zvidzidzo zvitanhatu zvemhando yepamusoro, vanhu vaisanzwa zvakanaka vaiva nenjodzi yedementia ingangoita 37% yakakwirira kupfuura vanhu vainzwa zvakanaka.
+- **Kana kusanzwa kwakanyanya, njodzi inowedzerawo.** Zvidzidzo zvakatarisa kuoma kwedambudziko zvakaona kuti njodzi yaikwira kana kunzwa kwaiipa.
+- **Zvikonzero zvinogoneka, asi hazvisati zvasimbiswa.** Pfungwa dzinosanganisira kusurukirwa nekuzvitsaura, kuora mwoyo, kushomeka kwezvinomutsa pfungwa, uye kushanda nesimba kwakawedzerwa kunodiwa pakuteerera.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Kusanzwa zvakanaka kunowanzoitika. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) inoti ingangoita chikamu chimwe muzvitatu chevakuru vane dambudziko iri, uye mukana uyu unowedzera munhu paanokura.
 
-## What did the ACHIEVE hearing aid trial find?
+## Ongororo yeACHIEVE yemidziyo yekubatsira kunzwa yakawanei?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE ndiyo yaiva ongororo yekutanga yakasarudzwa nehurongwa (randomized trial) pamusoro pemidziyo yekubatsira kunzwa nekudzikira kwekufunga. Zvakawanikwa mairi zvinowanzotaurwa zvisiri izvo, saka hezvino zvinyorwa kubva ku[mushumo wakaburitswa weongororo](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Vakapinda muongororo:** Vakuru 977 vane makore 70 kusvika 84 vaiva nekusanzwa zvakanaka kusina kurapwa uye vasina matambudziko makuru ekufunga, munzvimbo ina dzenharaunda muUS.
+- **Zvakaenzaniswa:** Hafu yakapiwa midziyo yekubatsira kunzwa pamwe nezvirongwa zvekupa mazano nenyanzvi yekunzwa (audiologist). Imwe hafu yakapiwa chirongwa chekudzidzisa nezveutano hwekuchembera zvakanaka.
+- **Mhedzisiro huru:** Mushure memakore matatu, pakanga **pasina musiyano** mukudzikira kwekufunga pakati pemapoka maviri aya kuvanhu vose.
+- **Mhedzisiro yeboka diki:** Ongororo iyi yakatora vanhu kubva kunzvimbo mbiri. Vanhu 238 vakabva muongororo refu yehutano hwemwoyo (ARIC), uye seboka vaiva nenjodzi huru yekudzikira kwekufunga. Muboka iri, kudzikira kwekufunga kwainge kwakaderera ne**48%** kune vaishandisa midziyo yekubatsira kunzwa. Pakati pevazvipiri 739 vaibva munharaunda vaiva neutano hwakanaka, pakanga pasina shanduko yakajeka.
 
-How to read this honestly:
+Nzira yekuverenga izvi zvakanaka:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Mhinduro huru yaiva yekuti pakanga pasina shanduko.
+- Zvakawanikwa muboka diki zvakanga zvarongwa kare, asi zvakabva muongororo yechipiri yeboka diki. Zvinoda kusimbiswa mune dzimwe ongororo.
+- Vatori vechikamu vaiziva kuti vaiva muchirongwa chipi, uye izvi zvinogona kukanganisa mhinduro.
+- Komisheni yeLancet inoona humbowo huchiratidza kuti midziyo yekubatsira kunzwa inoita seinonyanya kubatsira vanhu vane kusanzwa zvakanaka pamwe nedzimwe njodzi dzedementia.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Mhedziso yacho ndeyekuti midziyo yekubatsira kunzwa haisi nzira yakasimbiswa yekudzivirira dementia. Asi inobatsira vanhu kunzwa, kutora chikamu muhurukuro uye kuramba vakabatana nevamwe, uye chikonzero ichocho choga chakakwana kuti munhu afunge nezvayo.
 
-## How do I know if hearing should be checked?
+## Ndingaziva sei kana kunzwa kuchifanira kuongororwa?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA inopa zano rekuona chiremba kana imi kana munhu wamunochengetera:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Achinetseka kunzwisisa vanhu parunhare
+- Achiona zvakaoma kutevera hurukuro kana vanhu vaviri kana kupfuura vachitaura
+- Achigara achikumbira vanhu kuti vadzokorore zvavataura
+- Achikwidza ruzha rweTV zvekuti vamwe vanonyunyuta
+- Achinetseka kunzwisisa kutaura kana paine ruzha rwuri pedyo
+- Achifunga kuti vamwe vanhu vanoita sekunge vari kungungurudza
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Tangai nachiremba wekutanga, anogona kukutumirai kunyanzvi yekunzwa (audiologist) kana kuna chiremba wenzeve, mhino nehuro. Kuvharika kwenzeve netsvina yenzeve ndicho chimwe chikonzero chinowanzoitika chekurasikirwa nekunzwa icho chiremba anogona kuongorora. **Kurasikirwa nekunzwa kunongoerekana kwaitika idambudziko rinoda kurapwa nekukurumidza**, uye NIA inopa zano rekuona chiremba pakarepo.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Kusanzwa zvakanaka kunogona kuvhiringidzwa nekuvhiringika. NIA inoti vakuru vasinganzwe zvakanaka dzimwe nguva vanofungirwa zvisiri izvo kuti vakavhiringika, havapinduri kana kuti havadi kubatsira. Kana munhu wamunoda achiratidza kusada kusangana nevamwe kana kuti ari kupotsa zvinotaurwa, kuongororwa kunzwa idanho rakanaka rekutanga.
 
-## What are over-the-counter hearing aids?
+## Midziyo yekubatsira kunzwa isingade gwaro rechiremba chii?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Kubva muna October 17, 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) yakabvumira rudzi rwemidziyo yekubatsira kunzwa inotengwa pasina gwaro rechiremba (OTC). Heino misiyano yayo nemidziyo inotengwa negwaro rechiremba:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Chinhu | Midziyo yeOTC | Midziyo inotengwa negwaro rechiremba |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Yakanakira ani | Vakuru vane makore 18 zvichikwira vanofunga kuti vane dambudziko rekusanzwa zvakanaka rakapfava kana riri pakati nepakati | Dambudziko ripi neripi rekusanzwa, zera ripi neripi |
+| Kuinowana kupi | Muzvitoro kana paindaneti, hapana kuongororwa kana gwaro rechiremba rinodiwa | Kuburikidza nenyanzvi yezvekunzwa ine mvumo |
+| Kugadzirisa | Munogadzirisa marongero mega, kazhinji neapp | Nyanzvi ndiyo inoigadzirisa zvinoenderana nekunzwa kwenyu |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA inoti midziyo yeOTC haina kuitirwa avo vane dambudziko rekusanzwa zvakanaka rakakura kana rakanyanya. Inopa zano rekuona chiremba, zviri nani chiremba wenzeve, mhino nehuro, musati matenga kana muine:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Marwadzo kana kusagadzikana munzeve
+- Mvura, urwa kana ropa rakabuda munzeve mumwedzi mitanhatu yapfuura
+- Shanduko dzekunzwa dzinongoerekana dzaitika kana dzinouya dzichienda
+- Kunzwa kwakaipa mune imwe nzeve, kana kurira mune imwe nzeve chete
+- Dzungu
+- Tsvina yenzeve yakawanda
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Kujaira kushandisa midziyo yekubatsira kunzwa kunoda kudzidzira, saka tarisai mutemo wekudzosera musati matenga, sezvinokurudzirwa neFDA. NIA inopa zano rekubvunza kana inishuwarenzi yenyu ichibhadhara chikamu chemutengo. Kune munhu ari kurarama nedementia, nyanzvi yekunzwa inogona kubatsira kusarudza rudzi rwemudziyo nekugadzirisa kuchava nyore kubata zuva nezuva.
 
-## How can I talk more easily with someone who has hearing loss?
+## Ndingaita sei kuti kukurukurirana kuve nyore nemunhu asiri kunzwa zvakanaka?
 
-The NIA suggests:
+NIA inopa mazano anotevera:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Tarisai munhu wacho uye chengetai maziso enyu akatarisana**, panzvimbo pane chiedza chakanaka, kuti aone miromo yenyu nezviratidzo zvechiso chenyu.
+2. **Tsvagai nzvimbo yakanyarara.** Dzimai TV kana endai kure neruzha.
+3. **Taurai zvishoma zvine ruzha, asi musashevedzere.** Taurai zvakasununguka uye pamhanyiro yakakodzera.
+4. **Musavhare muromo wenyu.** Musadye, musatsenga chingamu kana kuvhara muromo wenyu muchitaura.
+5. **Dudzai neimwe nzira pane kungodzokorora** kana chimwe chinhu chisina kunzwika.
+6. **Munhu mumwe panguva.** Muboka, itai chokwadi chekuti munhu wacho anosanganisirwa.
+7. **Ivai nemoyo murefu uye bvunzai kuti mungabatsira sei.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Mazano aya anoshanda zvakanaka pamwe chete ne[mazano edu ekukurukurirana nemunhu ane dementia](/caregiving/communication-tips/). Zviitwa zvinoshandisa mifananidzo zvinoderedzawo kumanikidzwa pakuteerera. [Picture Pairs](/games/picture-pairs/) ne[Conversation Cards](/games/conversation-cards/) zvinoshanda kuburikidza nezvamunoona, uye [Finish the Saying](/games/finish-the-saying/) zvinokutenderai kuratidza magumo panzvimbo pekuataura. Kana zviri zvekufona, onai gwara redu re[kufona parunhare kana pavhidhiyo](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Kuona kunokoshawo
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Muna 2024 Komisheni yeLancet yakawedzera kusaona zvakanaka kusina kurapwa senjodzi itsva. Pfupiso yeUCL inoti izvi zvinokonzera ingangoita 2% yezviitiko zvedementia, uye Komisheni inokurudzira kuti kuongororwa nekurapwa kwematambudziko ekuona kuwanikwe kune vose. [NIA inopa zano](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) rekuongororwa maziso zvakadzama gore rimwe kana maviri oga oga mushure memakore 60, uye kuongororawo magirazi amunoshandisa. Kunyangwe shanduko diki pakuona dzinogona kuwedzera njodzi yekudonha.
 
-## Talk with a doctor
+## Taurai nachiremba
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Bvunzai chiremba nezvekuongororwa kunzwa nekuona kana mukaona chero zviratidzo zviri pamusoro. Tsvakai rubatsiro nekukurumidza kana munhu akangoerekana asisanzwe zvakanaka, aine marwadzo munzeve, kana paine mvura inobuda munzeve. Kana muchichengetera munhu ari kurarama nedementia, udzai chiremba wake nezveshanduko pakunzwa kana pakuona, nokuti izvi zvinogona kukanganisa manzwiro, kuchengeteka uye kuti munhu wacho anogona kutora chikamu sei.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Peji rino ruzivo rwepamusoro-soro, harisi zano rekurapwa. Onai [chiziviso chedu chezvekurapwa](/medical-disclaimer/). Verengai zvimwe nezve[kubatana nevamwe uye utano hwepfungwa](/brain-health/social-connection/).

@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Zochita za Nyimbo kwa Anthu Okhala ndi Dementia"
+seoTitle: "Zochita za Nyimbo pa Dementia: Mndandanda ndi Malingaliro"
+description: "Momwe mungasangalalire nyimbo ndi munthu wokhala ndi dementia: mndandanda wa nyimbo, zochita 15 zosavuta, ndi malangizo a nthawi zonse."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Nyimbo ndi imodzi mwa zinthu zosavuta kugawana ndi munthu wokhala ndi dementia.
+  Pangani mndandanda wa nyimbo zimene zimamukumbutsa, zochokera pa nyimbo za ali
+  wamng'ono, chipembedzo chake ndi za banja, muzikitsani popanda zotsatsa kapena
+  phokoso loyipa, ndipo imbirani, gwedezani manja, gwedezani thupi kapena
+  mverani limodzi. Sankhani nyimbo zosangalatsa kapena zabata malinga ndi
+  mmene zilili, sungani mawu mofatsa, ndipo lekani ngati nyimbo ikuthetsa mtima.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Nyimbo zimene zimamukumbutsa zimagwira bwino kwambiri: nyimbo zimene ankakonda ali wamng'ono, komanso za chipembedzo, chikhalidwe ndi zochitika za banja."
+  - "Sewetsani chinthu chimodzi nthawi imodzi, popanda zotsatsa komanso TV itazimitsidwa."
+  - "Kuimba, kugwedeza manja, kugwedeza thupi ndi kungomvera zonse ndi njira zolowererapo."
+  - "Gwiritsani ntchito nyimbo zabata kuti mutonthoze mtima komanso zosangalatsa kuti mukweze mmene akumvera, ndipo onani mmene munthu akuyankhira."
+  - "Kafukufuku wa maphunziro okhazikika a nyimbo ndi ochepa; tikupangira nyimbo ngati njira yosangalatsa yogawanirana, osati mankhwala."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Ndi mtundu wanji wa nyimbo umene ndi wabwino kwa munthu wokhala ndi dementia?"
+    a: "Nyimbo zimene munthu amadziwa ndi kukonda kwa nthawi yaitali, nthawi zambiri zochokera pa unyamata wake, komanso za chipembedzo, chikhalidwe ndi zikondwerero za banja. Ngati n'kutheka, muloleni asankhe. Onani nkhope ndi thupi lake kuti mudziwe zimene akusangalala nazo, ndipo siyani chilichonse chomwe chikuwoneka kuti chikumsokoneza mtima."
+  - q: "Kodi ndigwiritse ntchito mahedifoni?"
+    a: "Anthu ena amasangalala ndi mahedifoni chifukwa amathetsa phokoso, koma ena amawaona kuti ndi osamasuka kapena osamvetsa. Yambani ndi sipika kuti mumvere limodzi. Ngati mugwiritsa ntchito mahedifoni, sungani mawu otsika ndipo khalani pafupi naye."
+  - q: "Kodi nyimbo zingathandize pa kusakhazikika kapena kupsinjika?"
+    a: "Nyimbo zabata, zimene zimamukumbutsa zingathandize kupanga mtendere, ndipo Alzheimer's Association imalangiza kugwiritsa ntchito nyimbo kuti mupange mmene mukufuna. Sizigwira nthawi zonse. Ngati munthu akusautsidwa, onaninso ngati pali ululu, njala, phokoso kapena kutopa."
+  - q: "Kodi anthu okhala ndi dementia ya pa gawo lomaliza angasangalalebenso ndi nyimbo?"
+    a: "Ambiri amatha. Alzheimer's Association imanena kuti munthu pa gawo lomaliza atha kupitiriza kugwedeza thupi kapena kuimba limodzi nyimbo ya ubwana wake. Khalani pafupi, seweretsani nyimbo mofatsa ndipo gwirani dzanja lake kapena gwedezani thupi limodzi."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Nyimbo ndi imodzi mwa zinthu zosavuta zimene mungagawane ndi munthu wokhala ndi dementia. Sizifuna chilichonse: palibe mayankho olondola, palibe masitepe otsatira. Nyimbo imene imamukumbutsa ingabweretse kumwetulira, kugwedeza phazi kapena kuimba mawu ochepa, ngakhale pa tsiku limene kuyankhulana kuli kovuta. Chofunika ndi nyimbo yoyenera kwa munthu ameneyu komanso nthawi yabata yoiseŵetsa.
 
-## What music activities work for people with dementia?
+## Ndi zochita zanji za nyimbo zimene zimagwira bwino kwa anthu okhala ndi dementia?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Kumvera, kuimba, kugwedeza manja, kugwedeza thupi ndi kuyankhula za nyimbo zonse zimagwira bwino. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) imalangiza kuseŵetsa nyimbo, kuyankhula za nyimbo ndi woimba, kuimba kapena kuvina nyimbo zodziwika bwino, komanso kupita ku makonsati kapena mapulogalamu a nyimbo m'dera lanu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ikuwonjezera kuti mayendedwe monga kugwedeza manja kapena kuvina angathandize kusangalala, komanso kuti nyimbo zingakhale njira yolumikizirana mawu akavuta.
 
-## How do you build a personal playlist?
+## Mumapanga bwanji mndandanda wa nyimbo wamunthu payekha?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Chinthu chothandiza kwambiri chimene mungapange ndi mndandanda wa nyimbo zimene zili ndi tanthauzo kwa munthu ameneyu. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nawonso imatsindika nyimbo zimene zili ndi tanthauzo. Nayi njira yosavuta yopangira.
 
-### Start with their life
+### Yambani ndi moyo wake
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Unyamata wake.** Ganizirani zimene zinali pa wailesi, pa maphwando ndi m'mafilimu ali wamng'ono.
+- **Nthawi zofunika.** Nyimbo za pa ukwati wake, kuvina koyamba, kapena chimbale chokondedwa cha paulendo wa banja.
+- **Chipembedzo ndi chikhalidwe.** Nyimbo zachipembedzo, zachigospel, zachipembedzo, kapena nyimbo za chinenero choyamba.
+- **Ntchito ndi utumiki.** Nyimbo za magulu, nyimbo za ntchito, kapena nyimbo zokhudzana ndi nthawi ya usilikali.
+- **Zimene banja limakumbukira.** Afunseni abale, ana ndi abwenzi akale zimene ankaseŵetsa kapena kuimba nthawi zonse.
 
-### Think in genres, not just songs
+### Ganizirani za mitundu, osati nyimbo zokha
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ngati simukudziwa kumene muyambe, yesani mphindi zochepa za chilichonse mwa izi ndipo onani mmene akuyankhira: big band ndi swing, doo-wop, Motown ndi soul, rock and roll yoyambirira, country ndi western, bluegrass, gospel ndi nyimbo zachipembedzo, Broadway show tunes, jazz standards, nyimbo za ku Latin monga boleros kapena mariachi, polka, folk ndi classical. Sungani zimene zimabweretsa kumwetulira kapena kugwedeza phazi; siyani zimene zimabweretsa nkhope yosangalala.
 
-### Make it easy to play
+### Pangani kuti zikhale zosavuta kuseŵetsa
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Palibe zotsatsa.** Alzheimer's Association ikuchenjeza kuti zotsatsa zingasokoneze. Gwiritsani ntchito nyimbo zosungidwa, ma CD, ma rekodi kapena ntchito yopanda zotsatsa.
+- **Chida chimodzi chosavuta.** Sipika yokhala ndi batani lalikulu, kapena mndandanda wa nyimbo wosungidwa wokonzeka, kuti aliyense athe kuyamba.
+- **Mndandanda iwiri yaifupi.** Mndandanda wabata wotonthoza mtima komanso mndandanda wosangalatsa woukitsa mmene akumvera.
+- **Lembani.** Lembani dzina la munthuyo ndi kuti "nyimbo zokondedwa" pa chidacho kuti banja loyendera ndi ogwira ntchito m'nyumba yosamalira azigwiritsanso ntchito.
 
-## 15 music activities to try
+## Zochita 15 za nyimbo zoyesera
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Mverani limodzi.** Khalani pambali ndi pambali popanda china chilichonse. Kungomvera ndi ntchito yokwanira.
+2. **Imbirani limodzi.** Yambani kuimba nokha. Kuunzira kapena kutchula mawu m'malomo kumathandizanso.
+3. **Gwedezani manja kapena phazi.** Menyani mawondo, gwedezani patebulo, kapena gwiritsani ntchito ng'oma yaing'ono kapena chinthu chogwedeza.
+4. **Vina mochenjera.** Gwirani manja ndi kugwedeza thupi kukhitchini, kapena vinani mutakhala, kusuntha manja pamodzi.
+5. **Vina ndi zovala zopepuka.** Pindulani zovala zopepuka mogwirizana ndi nyimbo, mutayimirira kapena mutakhala.
+6. **Yankhulani za nyimbo.** Apemphe, osati kumuyesa: "Izi zikukumbutsa malo ovina. Ndiuzeni za maphwando ovina." Musamufunse "Kodi mukukumbukira nyimboyi?"
+7. **Sewetsani chimbale chonse.** Ikani rekodi imene ankakonda, kuyambira mpaka kumapeto, ndi khofi.
+8. **Onani zokutira za ma albamu.** Zokutira zakale za ma rekodi ndi zabwino poyankhula za zovala, magalimoto ndi nkhope.
+9. **Onani filimu ya nyimbo.** Filimu ya nyimbo kapena konsati kuchokera nthawi yake ndi yabwino madzulo. Imitsani kuti mupume.
+10. **Sewetsani chida chimene amadziwa.** Woyimba piyano kapena gitala wakale angasangalale kuseŵetsa pang'ono. Pambuyo pake, kuseŵetsa nyimbo zochepa pamodzi n'kokwanira.
+11. **Nyimbo pamene mukugwira ntchito.** Sewetsani nyimbo zokondedwa pamene mukupinda zovala kapena kukonza tebulo.
+12. **Nyimbo ya m'mawa.** Yambani tsiku lililonse ndi nyimbo yomweyo yosangalatsa ngati gawo la ndondomeko.
+13. **Imbirani nyimbo zachipembedzo.** Sewetsani nyimbo za chipembedzo chake ndipo imbani pamodzi.
+14. **Lowani gulu loyimba.** NHS imanena kuti magulu oyimba ndi abwino pa mmene akumvera ndi thanzi lawo. Funsani mdera lanu za makwaya oyanjana ndi dementia.
+15. **Pitani kumvetsera nyimbo zamoyo.** Konsati yaifupi ya mdera lanu kapena gulu la nyimbo panja. Khalani pafupi ndi khomo lotulukira ndipo chokani nthawi iliyonse yomwe mukufuna.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Pazochita zofatsa za mawu ndi mawu odziwika bwino, yesani [malizitsani mawu](/games/finish-the-saying/), kumene mungasonetse mathero nthawi zonse.
 
-## Matching music to the moment
+## Kugwirizanitsa nyimbo ndi mmene zilili
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association imalangiza kugwiritsa ntchito nyimbo kuti mupange mmene mukufuna: nyimbo zabata kuti pakhale mtendere, komanso nyimbo yosangalatsa ya unyamata wake kuti akweze mmene akumvera.
 
-| Moment | Try | Tip |
+| Mmene zilili | Yesani | Malangizo |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Kudzuka | Nyimbo imene imamukumbutsa, yosangalatsa | Nyimbo yomweyo mmawa iliyonse imakhala chizindikiro chofatsa |
+| Ntchito zapakhomo | Nyimbo zokondedwa zosangalatsa | Nyimbo zingapangitse ntchito kukhala ngati mnzako |
+| Chakudya | Nyimbo zofatsa zosayimba mawu | Ikhale yotsika kuti isasokoneze kudya |
+| Madzulo | Nyimbo zabata, zimene zimamukumbutsa, m'kuwala kwabwino | Onani [kusakhazikika madzulo](/caregiving/late-day-restlessness/) |
+| Usiku wogona | Nyimbo zofatsa, zotsika | Chepetsani mawu ndi kuwala limodzi |
+| Gawo lomaliza | Nyimbo zimene amakonda kwambiri, zofatsa kwambiri | Khalani pafupi ndipo gwirani dzanja |
 
-## Tips for a good experience
+## Malangizo a zochitika zabwino
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Zimitsani phokoso lina.** Alzheimer's Association imalangiza kutseka mazenera ndi zitseko komanso kuzimitsa TV kuti nyimbo ikhale phokoso lokhalo.
+- **Sungani mawu mofatsa.** Nyimbo ikhale yosamasula, osati yaphokoso. Ngati munthu amagwiritsa ntchito mahedifoni othandizira kumva, onetsetsani kuti ali ndi m'makutu ndipo akugwira ntchito; onani [kumva](/brain-health/hearing/).
+- **Onani ngati pali zinthu zokhudza chisoni.** Nyimbo zina zingakumbutse chisoni, nkhondo kapena kutaya. Ngati nyimbo ikuthetsa mtima, mutonthoze ndipo isintheni.
+- **Muloleni atsogolere.** Ngati n'kutheka, muloleni munthu asankhe nyimbo, ndipo landirani ayi.
+- **Lekani nthawi iliyonse.** Mphindi zisanu za nyimbo ndi ntchito yabwino. Momwemonso kuzimitsa ndi kukhala chete.
 
-## What does the research say about music and dementia?
+## Kafukufuku amanena chiyani za nyimbo ndi dementia?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Umboni ndi wochepa. [Kafukufuku wa Cochrane wa 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) anayang'ana maphunziro 30 a maphunziro okhazikika a nyimbo, ambiri omwe anali a magulu m'nyumba za okalamba. Anapeza kuti maphunzirowa mwina amathandiza pang'ono kuchepetsa zizindikiro za kupsinjika mtima poyerekeza ndi chisamaliro chachizolowezi, koma sanapeze zotsatira zomveka pa kusakhazikika, mmene akumvera kapena pa kuganiza ndi kukumbukira, ndipo panalibe zotsatira zimene zinapitirira pambuyo pa maphunziro.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Timagawana nyimbo chifukwa ndi njira yosangalatsa, yosapondereza yogonera limodzi, osati ngati mankhwala. Pa zochitika za magulu, onani [zochitika za magulu m'nyumba yosamalira](/activities/care-home-groups/); pogwiritsa ntchito nyimbo pamodzi ndi zithunzi ndi nkhani, onani [zochitika zokumbukira](/activities/reminiscence/).

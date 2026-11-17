@@ -1,36 +1,36 @@
 ---
-title: "Çawa bi kesekî ku demans heye re lîstikan bilîzin"
-seoTitle: "Çawa bi kesekî ku demans heye re lîstikan bilîzin"
-description: "Rêberek pratîk ji bo lîstina bi kesekî ku demans heye re: amadekarî, leza lîstinê, rastnekirina şaşiyan, hêsankirin û zanîna dema rawestanê."
+title: "Bi kesê ku demans heye re çawa lîstikan bilîzin"
+seoTitle: "Bi kesê ku demans heye re çawa lîstikan bilîzin"
+description: "Rêberek pratîk ji bo lîstina bi kesê ku bi demansê dijî re: amadekarî, leza lîstinê, rastnekirin, hêsankirin û zanîna dema rawestanê."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Lîstikê wekî dema bi hev re bibînin, ne wekî ceribandinê. Demeke aram a rojê
-  hilbijêrin, li jûreyeke bêdeng li kêlek hev rûnin û lîstikeke sade pêşniyar
-  bikin. Bila mirovê ku hûn lê dinêrin leza lîstinê diyar bike, şaşiyên ne
-  girîng rast nekin, di yekem nîşana tengaviyê de lîstikê hêsantir bikin û
-  wêneyan bikin destpêkeke sohbetê. Dema ku hê jî xweş e, rawestin. Zû
-  rawestan, an jî bi hev re temaşe kirin, encameke baş e.
+  Lîstikê wekî demeke hevpar bibînin, ne wekî ceribandinê. Demeke aram a rojê
+  hilbijêrin, li odeyeke bêdeng li kêleka hev rûnin û lîstikek hêsan pêşniyar
+  bikin. Bila kes leza lîstinê diyar bike, xeletiyên nezerar rast nekin,
+  di nîşana yekem a tengasiyê de lîstikê hêsantir bikin û wêneyan bibin destpêkek
+  ji bo axaftinê. Dema ku hîn jî xweş e, rawestin. Zû rawestan, an jî bi hev re
+  temaşe kirin, encamek baş e.
 keyPoints:
-  - "Armanc kêf û têkilî ye, ne qedandin an jî dîtina bersivên rast."
-  - "Berî destpêkirinê amade bibin: jûreyeke bêdeng, ronahiya baş, berçavk û amûrên bihîstinê li xwe bin, televîzyon girtî be û lîstikek amade be."
-  - "Şaşiyên ne girîng rast nekin. Bibêjin «Werin em bi vî awayî biceribînin» an jî bi hêsanî berdewam bikin."
-  - "Berî ku acizbûn zêde bibe, lîstikê hêsantir bikin: kêmtir wêne, kêmtir bijarte, wêneyên xuya."
-  - "Wêneyan wekî destpêkeke çîrokan bi kar bînin û «Ji min re li ser vê bêje...» bipirsin, ne «Tê bîra te...?»."
-  - "Di yekem nîşanên westîn an bêhntengiyê de rawestin. Zû rawestan serkeftin e, ne têkçûn."
+  - "Armanc kêf û girêdan e, ne qedandin an rast bersivdan."
+  - "Pêşî amade bikin: odeyeke bêdeng, ronahiya baş, berçavk û amûrên bihîstinê li ser, TV girtî, lîstikek amade."
+  - "Xeletiyên nezerar rast nekin. Bibêjin «Werin em wisa biceribînin» an jî tenê berdewam bikin."
+  - "Berî ku acizbûn zêde bibe lîstikê hêsantir bikin: kêmtir wêne, kêmtir bijarte, wêneyên xuya."
+  - "Wêneyan wekî destpêkek ji bo çîrokan bi kar bînin û li şûna «Tê bîra te...?», «Ji min re behsa... bike» bipirsin."
+  - "Di nîşanên yekem ên westandinê an nerehetiyê de rawestin. Zû rawestan serkeftinek e, ne têkçûn."
 faq:
-  - q: "Divê em çiqas dem lîstikê bilîzin?"
-    a: "Demeke rast a diyarkirî tune. Ji bo gelek kesan, çend deqe bes in, û hin rojan jî carekê bes e. Li şûna ku li demjimêrê mêze bikin, li mirovê ku hûn lê dinêrin mêze bikin û dema ku ew hê jî aram xuya dike rawestin."
-  - q: "Divê ez bihêlim ew bi ser bikeve an jî wisa bikim ku min şaşiyan nedîtine?"
-    a: "Di lîstikeke hevbeş û bê zext de tiştekî ji bo serketin an windakirinê tune. Heke şaşiyek mirov aciz neke, guh nedinê. Heke xuya dike ku ew aciz dibe, bêyî ku hûn balê bikişînin ser wê, bi aramî alîkariyê bikin an jî lîstikê hêsantir bikin."
-  - q: "Eger ew tercîh bike ku li min temaşe bike çi?"
-    a: "Ev baş e. Enstîtuya Neteweyî ya Pîrbûnê pêşniyar dike ku heke mirov ji temaşekirinê bêtir kêfê digire, bila ew bi tenê temaşe bike. Li ser tiştên ku hûn dibînin bipeyivin û gava ku ew bixwaze vexwînin ku nîşan bide an bijarte bike."
+  - q: "Divê em çiqas dirêj lîstikê bilîzin?"
+    a: "Dirêjahiya rast tune ye. Ji bo gelek kesan, çend deqe bes in, û hin rojan jî tenê carekê lîstin têr e. Li şûna demjimêrê, li kesê temaşe bikin û dema ku ew hîn aram xuya dike rawestin."
+  - q: "Gelo divê ez bihêlim ew bi ser bikeve an jî xeletiyan nebînim?"
+    a: "Di lîstikek hevpar û bê zext de tiştek ji bo serketin an windakirinê tune ye. Heke xeletiyek kes aciz neke, wê bihêlin. Heke xuya dike ku ew aciz dibe, bêyî ku hûn nîşan bidin, bi aramî alîkariyê bikin an jî lîstikê hêsantir bikin."
+  - q: "Heke ew tercîh bike ku temaşe bike dema ez dilîzim çi?"
+    a: "Ev baş e. National Institute on Aging pêşniyar dike ku heke kes ji temaşekirinê bêtir kêfê digire, bila ew tenê temaşe bike. Li ser tiştên ku hûn dibînin biaxivin û kengî bixwaze wî vexwînin ku nîşan bide an bijarteyek bike."
   - q: "Gelo ev lîstik rêyek in ji bo ceribandina bîrê?"
-    a: "Na. Lîstikên me çalakiyên sade û hevbeş in ji bo kêf û sohbetê. Ew ne ceribandina bîrê ne, tiştekî napîvin û ne dermankirina demansê ne."
-  - q: "Ji bo destpêkirinê kîjan lîstik çêtir e?"
-    a: "Bi lîstika herî sade ya ku li gorî mirov e dest pê bikin. Picture Pairs bi 4 perçeyan û wêneyên xuya, an jî Find the Same bi 2 bijartan, destpêkên nerm in. Heke mirov ji axaftinê bêtir ji destdanê kêfê digire, Conversation Cards baş dixebitin."
+    a: "Na. Lîstikên me çalakiyên hevpar û hêsan in ji bo kêf û axaftinê. Ew ne ceribandina bîrê ne, tiştekî napîvin û ne dermankirina demansê ne."
+  - q: "Kîjan lîstik ji bo destpêkirinê çêtirîn e?"
+    a: "Bi ya herî hêsan a ku li kesê diguncê dest pê bikin. Picture Pairs bi çar perçeyan û wêneyên xuya, an jî Find the Same bi du bijartan, destpêkên nerm in. Heke kes ji axaftinê bêtir ji lêdanê hez dike, Conversation Cards baş dixebitin."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -49,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-Lîstikeke baş bi kesekî ku demans heye re mîna pêşbaziyekê nabe. Ew mîna du kesên ku li kêleka hev rûniştine, nîşanî wêneyan didin, bi gotinekê dikenin û li ser tiştên ku derdikevin holê diaxivin xuya dike. Lîstik tenê sedemek e ji bo ku hûn demê bi hev re derbas bikin.
+Lîstikek baş bi kesê ku bi demansê dijî re wekî pêşbaziyekê nîn e. Ew wekî du kesan e ku nêzîkî hev rûniştine, li wêneyan nîşan didin, bi gotinekê dikenin û li ser her tiştê ku derdikeve diaxivin. Lîstik tenê sedemek e ji bo ku dem bi hev re derbas bibe.
 
-Ev rêber behsa amadekariyê dike, çawa leza lîstikê diyar bikin, gava tiştek «şaş» diçe çi bêjin, çawa her lîstikekê hêsantir an hinekî dijwartir bikin, çawa wê bikin sohbetê û çawa bizanin kengê rawestin. Ev ji bo [lîstikên me](/games/) û her weha ji bo kart, puzzle û lîstikên maseyê yên ku jixwe li cem we hene jî dixebite.
+Ev rêber rave dike ka meriv çawa amade dibe, çawa leza lîstikê digire, dema ku tiştek «şaş» diçe meriv çi dibêje, meriv çawa her lîstikê hêsantir an hinekî dijwartir dike, meriv çawa wê vediguherîne axaftinê û meriv çawa dizane kengî raweste. Ev ji bo [lîstikên me](/games/) û ji bo kart, puzzle û lîstikên maseyê yên ku we berê hene jî derbasdar e.
 
-## Awayê çêtirîn ji bo lîstina bi kesekî ku demans heye re çi ye?
+## Rêya çêtirîn ji bo lîstina bi kesê ku demans heye re çi ye?
 
-Li şûna serkeftinê, li ser kêfê bisekinin. Ev şîreta sereke ya [rêbernameya Alzheimer’s Association li ser çalakiyan](https://www.alz.org/help-support/caregiving/daily-care/activities) e: li ser jêhatîyên ku mirov hê jî xwedî ye ava bikin, ji bo destpêkirinê alîkariya wî bikin, beşên dijwar bixwe biqedînin û çalakiyên ne zirardar rexne nekin an rast nekin.
+Li şûna serkeftinê, bala xwe bidin kêfê. Ev şîreta sereke ye di [rêbernameya Alzheimer’s Association ya li ser çalakiyan](https://www.alz.org/help-support/caregiving/daily-care/activities) de: li ser jêhatîbûnên ku kes hîn jî xwedî wan e ava bikin, alîkariya wan bikin ku dest pê bikin, beşên dijwar bi xwe biqedînin û çalakiyên nezerar rexne nekin an rast nekin.
 
 Di pratîkê de ev tê wateya:
 
-- **Li kêleka wî rûnin, ne li beramberî wî.** Gava hûn li kêlek hev in, hûn her du dikarin ekran an maseyê bibînin û alîkarî wekî xebata hevbeş tê hîs kirin, ne wekî çavdêrî.
-- **Di carekê de yek lîstik pêşniyar bikin.** Menuyek bijartan dikare berî destpêkirinê wekî ceribandinê were hîs kirin.
-- **Li gorî wî bimeşin.** Heke ew dixwaze bi rêza xwe li wêneyan bixe, deh deqeyan li ser wêneyekî biaxive an jî piştî du gavan raweste, lîstika îro ev e.
-- **Demên xweş bijmêrin, ne gerên qedandî.** Kenek, çîrokek an nîv saetek aram ew encam e ku hûn lê digerin.
+- **Li kêleka wan rûnin, ne li hember.** Dema ku hûn li kêleka hev in, hûn her du dikarin ekranê an maseyê bibînin, û alîkarî wekî hevkarîyê tê hîskirin, ne wekî çavdêrî.
+- **Di carekê de lîstikek pêşniyar bikin.** Lîsteyeke bijartan dikare berî ku tiştek dest pê bike wekî ceribandinê bê hîskirin.
+- **Li gorî wan biçin.** Heke ew dixwazin bi rêza xwe li wêneyan bitikînin, deh deqeyan li ser wêneyekî biaxivin, an jî piştî du gavan rawestin, ev îro lîstik e.
+- **Li şûna geryên qedandî, demên xweş bijmêrin.** Kenek, çîrokek an nîv saetek aram ew encam e ku hûn lê digerin.
 
-## Berî destpêkirinê çawa amade bikim?
+## Berî ku em dest pê bikin ez çawa amade bikim?
 
-Çend deqeyên amadekariyê piraniya acizbûnên ku mirov bi gelemperî dixin stûyê lîstikê bi xwe, asteng dikin.
+Çend deqeyên amadekariyê piraniya acizbûnê rê li ber digirin ku mirov bi gelemperî suçê dixe stûyê lîstikê.
 
-1. **Dema wî ya çêtirîn a rojê hilbijêrin.** [Rêbernameya Enstîtuya Neteweyî ya Pîrbûnê (NIA) li ser lihevanîna çalakiyan](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pêşniyar dike ku çalakî ji bo dema rojê ku mirov di rewşa xwe ya baştir de ye werin plankirin. Ji bo gelek kesan ev nîvê sibê ye. Dawiya piştî nîvro gelek caran dijwartir e; li [çalakiyên aram ên dawiya rojê](/caregiving/late-day-restlessness/) binêrin.
-2. **Jûreyê bêdeng bikin.** Televîzyon û radyoyê bigirin û heke gengaz be derî bigirin. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) pêşniyar dike ku berî ku hûn hewl bidin bipeyivin, deng û bala belavker kêm bikin.
-3. **Pêşî rehetî kontrol bikin.** Vexwarinek li nêzîk, berî destpêkirinê serdana serşokê, kursiyek rehet, û berçavk û amûrên bihîstinê li xwe bin.
-4. **Cihê baş ronî bikin.** Ronahiya geş û yekreng, bêyî ronahiya zêde li ser ekranê, dîtina wêneyan hêsantir dike.
-5. **Berî ku hûn rûnin lîstikê amade bikin.** Wê vekin, mîhengan hilbijêrin û dengê saz bikin. Paşê ekranê ber bi wî ve bizivirînin. Ji bo şîretên li ser tabletê, li [amadekirina tablet an telefonê](/caregiving/tablets-and-screens/) binêrin.
-6. **Amûrê bi cih bikin.** Standek an kîsikek ku tabletê rast digire tê wê wateyê ku ne hewce ye kesek wê bigire, û nîşandan hêsantir dibe.
+1. **Dema wan a herî baş a rojê hilbijêrin.** [Rêbernameya National Institute on Aging (NIA) ya li ser guherandina çalakiyan](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pêşniyar dike ku derketin û çalakî ji bo dema rojê were plan kirin ku kes di rewşa xwe ya herî baş de ye. Ji bo gelek kesan ev nîvê sibehê ye. Dawiya piştî nîvro bi gelemperî dijwartir e; li [çalakiyên aram ên dawiya piştî nîvro](/caregiving/late-day-restlessness/) binêrin.
+2. **Odeyê bêdeng bikin.** Heke gengaz be TV û radyoyê bigirin û derî bigirin. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) pêşniyar dike ku berî ku hûn hewl bidin biaxivin, deng û balkişandinan kêm bikin.
+3. **Pêşî rehetiyê kontrol bikin.** Vexwarinek li nêzîk, serdaneke berê ya ser tuwaletê, kursiyeke rehet, û berçavk û amûrên bihîstinê li ser.
+4. **Cihê baş ronî bikin.** Ronahiya geş û yeksan bêyî ronahiya li ser ekranê dîtina wêneyan hêsantir dike.
+5. **Berî ku hûn rûnin lîstikê amade bikin.** Wê vekin, mîhengan hilbijêrin û dengê bi xwe saz bikin. Paşê ekranê ber bi wan ve bizivirînin. Ji bo şîretên li ser tabletê, li [amadekirina tablet an têlefonê](/caregiving/tablets-and-screens/) binêrin.
+6. **Amûrê bilind bikin.** Standek an qapek ku tabletê rast digire tê wateya ku kes neçar nake wê bigire, û nîşandan hêsantir dibe.
 
-## Çawa bêyî zext vexwendinê bikim?
+## Ez çawa wan bê zext vexwînim?
 
-Vexwendinê xwerû û hêsan ji bo redkirinê bikin. Hin gotinên ku bi gelemperî baş dixebitin:
+Vexwendinê bêhemd û hêsan ji bo redkirinê bikin. Hin gotin hene ku bi gelemperî baş tên qebûlkirin:
 
-- «Min çend wêneyên baxçê dîtin. Tu dixwazî bi min re li wan mêze bikî?»
-- «Tu dikarî di vê puzzleê de alîkariya min bikî? Ez li ser asê mane.»
-- «Îro tu kulîlkan dixwazî an jî çivîkan?» (bijarteka di navbera du tiştan de ji pirseke vekirî hêsantir e)
-- «Ez ji bo xwişka te kartê çêdikim. Divê ev reng kîjan be?»
+- «Min hin wêneyên baxçeyê dîtin. Tu dixwazî bi min re li wan binêrî?»
+- «Tu dikarî di vê puzzleyê de alîkariya min bikî? Ez asê me. »
+- «Tu îro kulîlkan dixwazî an jî çûkan?» (bijartek ji duyan ji pirseke vekirî hêsantir e)
+- «Ez ji bo xwişka te qertekê çêdikim. Divê ev çi reng be?»
 
-Alzheimer’s Association pêşniyar dike ku armanca çalakiyekê were ravekirin, wek mînak çêkirina kartekê ji bo hevalekî, ji ber ku sedemek wateyê dide wê. Xwestina alîkariyê jî dixebite ji ber ku dihêle mirov xwe bikêrhatî hîs bike.
+Alzheimer’s Association pêşniyar dike ku armanca çalakiyekê were ravekirin, wek mînak çêkirina qertekê ji bo hevalekî, ji ber ku sedemek wateyê dide wê. Xwestina alîkariyê jî baş dixebite ji ber ku dihêle kes xwe bikêrhatî hîs bike.
 
-Heke ew dibêje na, wê qebûl bikin. Paşê dîsa biceribînin an jî tiştekî cûda pêşniyar bikin. Rêbera me li ser [gava ew dibêje na çi bikin](/caregiving/when-they-say-no/) bêtir rave dike.
+Heke ew dibêjin na, qebûl bikin. Paşê dîsa biceribînin an jî tiştekî din pêşniyar bikin. Rêbera me ya li ser [dema ku ew dibêjin na çi bikin](/caregiving/when-they-say-no/) bêtir şîretan dide.
 
-## Divê lîstik çiqas dirêj be û divê em çiqas bilez bilîzin?
+## Divê lîstik çiqas bidome, û divê em çiqas bilez herin?
 
-Bila mirov leza lîstinê diyar bike û ji bo demên kurt plan bikin. Ji bo lîstikeke hevbeş tu dirêjahiya îdeal a li ser bingeha delîlan tune. Du heta pênc deqeyên aram dikarin çalakiyek temam bin.
+Bila kes leza lîstinê diyar bike, û ji bo danişînên kurt plan bikin. Ji bo lîstikek hevpar dirêjahiya îdeal a li ser bingeha delîlan tune ye. Du heta pênc deqeyên aram dikarin bibin çalakiyek temam.
 
-- **Ji ya ku xwezayî tê hîs kirin bêtir bisekinin.** NIA şîret dike ku ji bo bersivê bêtir dem were dayîn û hewl were dayîn ku navber neyê birîn. Berî ku hûn alîkariyê bikin, di serê xwe de heta deh bijmêrin.
-- **Di carekê de gavek.** Talîmateke yekane û kurt bidin («Li wêneyekî bixe»), paşê bisekinin. Li şûna ravekirinê, nîşan bidin: nîşan bidin ku li ku derê bixe.
-- **Bi azadî rawestin.** Heke ew ji bo axaftina li ser wêneyekî disekine, lîstik dikare bisekine. Ne hewce ye ku bilez bikin.
-- **Bila ew temaşe bike.** NIA dibêje ku hin kes tercîh dikin temaşe bikin, û ev bijarteke derbasdar e.
+- **Ji ya ku xwezayî tê hê bêtir bisekinin.** NIA şîret dike ku ji bo bersivdayînê bêtir dem were dayîn û hewl were dayîn ku navber nebe. Berî ku alîkariyê bikin, di serê xwe de heta deh bijmêrin.
+- **Di carekê de gavek.** Rêwerzek kurt û yekane bidin («Li wêneyekî bitikîne»), paşê bisekinin. Li şûna ravekirinê nîşan bidin: nîşan bidin ka li ku derê bitikîne.
+- **Bi azadî rawestin.** Heke ew ji bo axaftina li ser wêneyekî radiwestin, lîstik dikare li bendê bimîne. Ne hewce ye ku lez bikin.
+- **Bila ew temaşe bikin.** NIA dibêje ku hin kes tercîh dikin temaşe bikin, û ev bijartek derbasdar e.
 
-## Divê ez bersivên şaş rast bikim?
+## Gelo divê ez bersivên şaş rast bikim?
 
-Na. Rastkirina kesekî dîsa û dîsa jê re dibêje ku ew têk diçe, her çend niyeta we baş be jî. Alzheimer’s Association şîret dike ku çalakiyên ne zirardar neyên rexne kirin an rast kirin. Di lîstikekê de, hema hema her şaşiyek ne zirardar e.
+Na. Rastkirina kesekî dîsa û dîsa bi nermî jî, heta dema ku hûn baş difikirin, jê re dibêje ku ew têk diçe. Alzheimer’s Association şîret dike ku çalakiyên nezerar neyên rexnekirin an rastkirin. Di lîstikekê de, hema hema her xeletiyek nezerar e.
 
-| Li şûna vê | Vê biceribînin |
+| Li şûna vê | Biceribînin |
 | --- | --- |
-| «Na, ev şaş e.» | «Werin em bi vî awayî biceribînin.» (mînakek ku NIA dide) |
-| «Ev ne li hev in. Dîsa mêze bike.» | Tiştekî nebêjin û gera din bistînin, an jî «Ax, ev her du sor in.» |
-| «Tê bîra te ev kî ye?» | «Ji min re li ser vê wêneyê bêje.» |
-| «Te berê ev kiribû.» | «Ev yek baş e. Werin em dîsa bikin.» |
-| «De, tu vê dizanî.» | «Tu dixwazî ez dawiya wê nîşan bidim?» |
+| «Na, ev şaş e.» | «Werin em wisa biceribînin.» (mînaka ku NIA dide) |
+| «Ev ne lihevhatî ye. Dîsa binêre.» | Tiştek nebêjin û gera din bigirin, an jî «A, ev her du sor in.» |
+| «Tê bîra te ev kî ye?» | «Ji min re behsa vê wêneyê bike.» |
+| «Te ew berê kiribû.» | «Ev yek baş e. Werin em dîsa bikin.» |
+| «De were, tu vê dizanî.» | «Tu dixwazî ez dawiyê nîşan bidim?» |
 
-Heke şaşiyek bi eşkereyî wî aciz dike, bi aramî alîkariyê bikin. Nîşanî wêneya rast bidin, bixwe gava xwe bavêjin, an jî di gera din de lîstikê hêsantir bikin. Heke dawiya gotinekê bi awayekî kêfxweş şaş derkeve, bi hev re bikenin. Dibe ku dawiya wî çêtir be.
+Heke xeletiyek eşkere wan aciz dike, bi bêdengî alîkariyê bikin. Li wêneya rast nîşan bidin, bi xwe geryekê bigirin, an jî di gera din de lîstikê hêsantir bikin. Heke gotinek bi dawiya şaş a kêfxweş biqede, bi hev re bikin. Dibe ku dawiya wan çêtir be.
 
-## Çawa lîstikekê hêsantir an dijwartir bikim?
+## Ez çawa lîstikekê hêsantir an dijwartir bikim?
 
-Lîstikê li gorî rewşa mirov di wê rojê de biguherînin, ne li gorî navê qonaxekê. Dibe ku heman mirov êvarê guhertoyeke hêsantir ji sibê hewce bike. Şîreta yekem a NIA ev e ku çalakî li gorî tiştên ku mirov dikare bike were hilbijartin û piştrast were kirin ku ew xwe serkeftî hîs dike.
+Lîstikê li gorî kesê di wê rojê de biguncînin, ne li gorî etîketeke qonaxê. Dibe ku heman kes êvarê ji sibehê guhertoyeke hêsantir hewce bike. Şîreta yekem a NIA ev e ku çalakî li gorî tiştên ku kes dikare bike were guncandin û were piştrast kirin ku ew xwe serkeftî hîs dike.
 
-| Lîstik | Wê hêsantir bikin | Wê hinekî dijwartir bikin |
+| Lîstik | Wê hêsantir bikin | Hinekî dijwartir bikin |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Bi 4 perçeyan dest pê bikin û wêneyan xuya bihêlin | Bêtir perçe, an jî heke rehet be wêneyan veşêrin |
-| [Find the Same](/games/find-the-same/) | 2 bijarte | Heta 4 bijarte |
-| [Sort Together](/games/sort-together/) | Hûn wêneyê digirin, ew nîşanî selikê dide | Ew bixwe hem li wêneyê hem li selikê dixe |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 perçe, pêşî li ser wêneya tevahî biaxivin | 9 perçe |
-| [Finish the Saying](/games/finish-the-saying/) | Dawiyê nîşan bidin, paşê bi hev re bibêjin | Bila ew berî destdanê dawiya wê bibêje |
-| [Word Search](/games/word-search/) | Wê çap bikin, bi hev re li peyvekê bigerin, nîşanî tîpa yekem bidin | Bila ew peyva din a ji bo dîtinê hilbijêre |
+| [Picture Pairs](/games/picture-pairs/) | Bi çar perçeyan dest pê bikin û wêneyan xuya bihêlin | Bêtir perçe, an jî heke rehet e wêneyan veşêrin |
+| [Find the Same](/games/find-the-same/) | Du bijarte | Heta çar bijarte |
+| [Sort Together](/games/sort-together/) | Hûn wêneyê digirin, ew nîşanî selikê dide | Ew bi xwe hem li wêneyê hem li selikê ditikîne |
+| [Picture Puzzle](/games/picture-puzzle/) | Çar perçe, pêşî li ser tevahiya wêneyê biaxivin | Neh perçe |
+| [Finish the Saying](/games/finish-the-saying/) | Dawiyê nîşan bidin, paşê bi hev re bibêjin | Bila ew berî tikandinê dawiyê bibêje |
+| [Word Search](/games/word-search/) | Wê çap bikin, bi hev re li peyvekê bigerin, nîşanî tîpa wê ya yekem bidin | Bila ew peyva din a ji bo dîtinê hilbijêre |
 | [Coloring](/games/coloring/) | Hûn du rengan hilbijêrin, ew di navbera wan de hilbijêre | Ew hemû rengan hilbijêre |
-| [Conversation Cards](/games/conversation-cards/) | Bi tenê bi hev re li wêneyê mêze bikin | Pirsên vekirî yên li ser kartê bi kar bînin |
-| [Photo Pairs](/games/photo-pairs/) | Çend wêneyên malbatê yên pir hezkirî | Bêtir wêne lê zêde bikin |
-| [Picture Bingo](/games/picture-bingo/) | Alîkarek li kêleka her lîstikvanekî rûne | Lîstikvan bixwe kartên xwe nîşan bikin |
-| [Calm Breathing](/games/calm-breathing/) | Bi tenê rûnin û bi hev re temaşe bikin | Bi hêdîkî bi hev re bêhna xwe bigirin û berdin |
+| [Conversation Cards](/games/conversation-cards/) | Tenê bi hev re li wêneyê binêrin | Pirsên vekirî yên li ser qertê bi kar bînin |
+| [Photo Pairs](/games/photo-pairs/) | Çend wêneyên malbatê yên pir hezkirî | Bêtir wêneyan lê zêde bikin |
+| [Picture Bingo](/games/picture-bingo/) | Li kêleka her lîstikvanekî alîkarek rûne | Lîstikvan bi xwe qertên xwe nîşan bikin |
+| [Calm Breathing](/games/calm-breathing/) | Tenê rûnin û bi hev re temaşe bikin | Bi hêdî bi hev re bêhna xwe bidin û bistînin |
 
-Nîşanên ku lîstik pir dijwar e: rawestanên dirêj ên ku ji fikrekê bêtir xemyar xuya dikin, dubarekirina «ez nikarim», dûrxistina amûrê, an şaşiyên ku wî aciz dikin. Nîşanên ku dibe lîstik pir hêsan be: bêhntengî, an jî gotina wî ku ev zarokatî ye. Heke wusa bibe, wê rêz bikin û derbasî tiştekî bibin ku bêtir ji bo mezinan tê hîs kirin, wek lêgerîna peyvan, puzzleeke ji wêneyekî rastîn, an jî axaftina li ser wêneyekî ji karê wî yê berê.
+Nîşanên ku lîstik pir dijwar e: rawestanên dirêj ên ku ji fikirkirinê bêtir xemgîn xuya dikin, dubarekirina «Ez nikarim», paşxistina amûrê, an xeletiyên ku wan aciz dikin. Nîşanên ku dibe lîstik pir hêsan be: bêhntengî, an jî gotina wan ku ew zarokanî ye. Heke wusa bibe, rêzê lê bigirin û derbasî tiştekî bibin ku mezintir tê hîskirin, wek peyvdîtinê, puzzleyeke ji wêneyekî rast, an jî axaftina li ser wêneyekî ji karê wan ê berê.
 
-## Çawa lîstikê bikim destpêkeke sohbetê?
+## Ez çawa lîstikê vediguherînim axaftinê?
 
-Her wêneyekî wekî vexwendinek ji bo axaftinê bi kar bînin û tiştê ku ew dibêje wekî bersiveke baş bibînin. Ji bo gelek malbatan, ev beşa herî xweş a lîstinê ye.
+Her wêneyekê wekî vexwendinek ji bo axaftinê bi kar bînin, û her tiştê ku ew dibêjin wekî bersivek baş bibînin. Ji bo gelek malbatan, ev beşa herî xweş a lîstinê ye.
 
-- **Pirsên vekirî bêyî bersiva şaş bipirsin.** «Tu çi dibînî?» «Tu kîjanê hez dikî?» «Ji min re li ser metbexeke wekî vê bêje.»
-- **Pêşî xwe parve bikin.** «Dapîra min jî kûçikek wekî vê hebû.» Çîroka we ji bo wî parvekirina çîrokekê hêsantir dike.
-- **Li pey axaftinê bimeşin.** Heke wêneyekî erebeyê dibe sedema çîrokeke li ser rêwîtiyekê, wê demê çîrok bixwe çalakî ye. Lîstikê rawestiyayî bihêlin.
-- **Rastiya çîrokê kontrol nekin.** Di bîranînan de, sohbeteke xweş ji hûrgiliyên rast girîngtir e. Heke çîrok ji cara borî cuda be, ji guhertoya nû kêfê bistînin.
-- **Pêşniyarên amade bi kar bînin.** [Finish the Saying](/games/finish-the-saying/) piştî her gotinê bi pêşniyarek ji bo axaftinê berdewam dike, û [Conversation Cards](/games/conversation-cards/) tam ji bo vê hatine çêkirin. [Photo Pairs](/games/photo-pairs/) wêneyên malbata we bi kar tîne, ku gelek caran çîrokên pir xweş derdixin holê.
+- **Pirsên vekirî yên bê bersiva şaş bipirsin.** «Tu çi dibînî?» «Kîjan ji te re xweştir e?» «Ji min re behsa metbexeke wiha bike.»
+- **Pêşî xwe parve bikin.** «Dapîra min jî kûçikekî wiha hebû.» Çîroka we ji wan re hêsantir dike ku ya xwe parve bikin.
+- **Li pey mijara nû herin.** Heke wêneyekî erebeyê dibe sedema çîrokekê li ser rêwîtiyekê, çîrok bixwe çalakî ye. Lîstikê li bendê bihêlin.
+- **Rastiya çîrokê kontrol nekin.** Di bîranînan de, axaftinek xweş ji hûrguliyên rast girîngtir e. Heke çîrok ji cara borî cuda be, ji guhertoya nû kêfê bistînin.
+- **Pirsên amade bi kar bînin.** [Finish the Saying](/games/finish-the-saying/) piştî her gotinê pirsek ji bo axaftinê tîne, û [Conversation Cards](/games/conversation-cards/) bi taybetî ji bo vê hatine çêkirin. [Photo Pairs](/games/photo-pairs/) wêneyên malbata we bi kar tîne, ku bi gelemperî çîrokên herî dewlemend derdixin holê.
 
 Bêtir raman di rêberên me yên li ser [çalakiyên bîranînê](/activities/reminiscence/) û [şîretên ragihandinê](/caregiving/communication-tips/) de hene.
 
-## Kengê divê em rawestin?
+## Kengî divê em rawestin?
 
-Di yekem nîşanên westîn an bêhntengiyê de rawestin, û heke gengaz be hinekî berê. Alzheimer’s Association şîret dike ku gava bal kêm dibe an acizbûn zêde dibe, çalakî were rawestandin an guhartin.
+Di nîşanên yekem ên westandinê an nerehetiyê de rawestin, û heke gengaz be hinekî berê. Alzheimer’s Association şîret dike ku dema baldariyê kêm dibe an acizbûn zêde dibe, çalakî were rawestandin an guhertin.
 
-Bala xwe bidin van tiştan:
+Bala xwe bidin van nîşanan:
 
-- esnê kişandin, ketina milan an dûrketina çavan ji ekranê;
-- bêaramiya laş, rabûn an xwestina çûyînê;
-- kuxîn, bersivên kurt an «ez di vê de ne baş im»;
-- bi awayekî ketober li ekranê xistin an dûrxistina amûrê;
-- hêstir, hêrsbûn an guherîneke ji nişka ve di rewşa giyanî de.
+- baxdan, şilbûn an çavên ku ji ekranê dûr dikevin;
+- bêhntengî, rabûn an xwestina çûyînê;
+- axîn, bersivên kurt, an «Ez di vê de ne baş im»;
+- bi kêfî lêdan an paşxistina amûrê;
+- hêsir, hêrsbûn an guherîneke ji nişka ve di rewşa giyanî de.
 
 Çawa baş rawestin:
 
-- **Bi tiştekî hêsan bi dawî bikin.** Lihevhatinek dawî ya ku ew dikare bike, an jî wêneyek dawî ji bo mêzekirinê.
-- **Sedemê bidin ser xwe.** «Ez hewceyê çayekê me. Em li vir rawestin?» ti nîşaneyê nade ku wî nebaş kiriye.
-- **Derbasî tiştekî laşî an aramker bibin.** Meşeke kurt, tiştekî sivik ji bo xwarinê, qatkirina cilan an muzîk.
-- **Tiştekî germ bibêjin.** «Min ji kirina vê bi te re kêf girt.» Pesindan ne ji bo «rast kirinê» ye, lê ji bo kêfa dema bi hev re ye.
+- **Bi tiştekî hêsan bi dawî bikin.** Yek lihevhatina dawî ya ku ew dikarin bikin, an wêneyekî dawî ji bo temaşekirinê.
+- **Sedemê bi xwe ve girê bidin.** «Ez hewcedarê fincaneke çayê me. Em li vir rawestin?» nahêle ku wisa bê hîskirin ku ew nebaş kiriye.
+- **Derbasî tiştekî laşî an aramker bibin.** Meşeke kurt, tiştekî xwarinê, qatkirina destmalan an muzîk.
+- **Tiştekî germ bibêjin.** «Min ji kirina vê bi te re kêf girt.» Ne pesnê «rast kirinê», tenê kêfa ji dema hevpar.
 
-Zû rawestan, guhartina planan an dev ji lîstikê berdan û bi tenê rûniştina bi hev re jî hemû encamên baş in.
+Zû rawestan, guhertina planan, an dev ji lîstikê berdan û tenê bi hev re rûniştin hemû encamên baş in.
 
-## Gelo em dikarin di komê de an jî bi banga vîdyoyî bilîzin?
+## Gelo em dikarin di komê de an jî bi bangeke vîdyoyê bilîzin?
 
-Erê, bi hinekî amadekariya zêde. Di komê de, hejmara kesan kêm bihêlin, alîkaran li kêleka kesên ku hewcedariya wan heye rûnin û lîstikek bi balkişandineke hevbeş a zelal hilbijêrin. [Picture Bingo](/games/picture-bingo/) kartên çapkirî û gazîkerek li ser ekranê ji bo koman heye. Ji bo bêtir agahiyan li [çalakiyên ji bo komên li navendên lênihêrînê](/activities/care-home-groups/) binêrin.
+Erê, bi hinekî amadekariya zêde. Di komê de, wê bi çend kesan re bihêlin, alîkaran li kêleka kesên ku hewcedariya wan pê heye rûnin, û lîstikek bi balkişandineke hevpar a zelal hilbijêrin. [Picture Bingo](/games/picture-bingo/) ji bo koman qertên çapkirî û gazîkerek li ser ekranê heye. Ji bo bêtir agahiyan li [çalakiyên ji bo komên li mala lênêrînê](/activities/care-home-groups/) binêrin.
 
-Di banga vîdyoyî de, kesê ku li ser bangê ye dikare wêneyekî rave bike dema ku kesekî li odeyê nîşan dide û li ekranê dixe. Bangan kurt û nas bihêlin. Rêbera me ya li ser [banga telefon û vîdyoyê](/activities/phone-and-video-calls/) bêtir şîretan dide.
+Di banga vîdyoyê de, kesê ku di bangê de ye dikare wêneyekî rave bike dema ku kesê li odeyê nîşan dide û lê dixe. Bangan kurt û nas bihêlin. Rêbera me ya li ser [bangên telefonê û vîdyoyê](/activities/phone-and-video-calls/) bêtir şîretan heye.
 
-## Eger lîstikek bi tevahî nexebite çi?
+## Heke lîstikek bi tevahî nexebite çi?
 
-Hin roj ti tişt baş naçe, û ev ne nîşana we û ne jî ya wî ye. Lîstikê deyne aliyekî û di demeke din a rojê de, bi lîstikeke din an jî bê lîstik dîsa biceribînin. Gelek çalakiyên baş ti têkiliya wan bi ekranan re tune: muzîk, qatkirina destmalan, mêzekirina li albûmeke wêneyan an jî meşeke kurt. Ji bo bêtir ramanan li [ramanên ji bo çalakiyan](/activities/ideas/) binêrin.
+Hin rojan tiştek naçe serî, û ev ne nîşana têkçûna we ye û ne ya wan jî. Lîstikê deynin aliyekî û di demeke din a rojê de, bi lîstikekî din an jî bêyî lîstikê dîsa biceribînin. Gelek çalakiyên baş ti têkiliya wan bi ekranan re tune: muzîk, qatkirina destmalan, li albûma wêneyan mêze kirin, an meşeke kurt. Ji bo bêtir ramanan li [ramanên çalakiyan](/activities/ideas/) binêrin.

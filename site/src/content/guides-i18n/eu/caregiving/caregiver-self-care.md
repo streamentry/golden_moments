@@ -1,36 +1,36 @@
 ---
 title: "Zaintzaileen autolaguntza: atsedenaldia eta laguntza"
-seoTitle: "Dementzia-zaintzailearen autolaguntza eta laguntza"
-description: "Zaintzaileen nekeen seinaleak, atsedenaldia eta laguntza-taldeak nola aurkitu, eta AEBetako doako laguntza-telefonoak, Alzheimer’s Association 24/7 Helpline eta Eldercare Locator barne."
+seoTitle: "Dementzia zaintzailearen autolaguntza eta atsedenaldia"
+description: "Zaintzailearen neke-zantzuak, atseden-zaintza eta laguntza-taldeak nola aurkitu, eta AEBetako doako telefonoak, besteak beste, Alzheimer's Association 24/7 Helpline eta Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Dementzia duen pertsona bat zaintzea lan gogorra da, eta zure buruaz
-  arduratzea lan horren parte da. Erne egon seinale hauei: nekea, suminkortasuna,
+  Dementzia duen pertsona bat zaintzea lan gogorra da, eta zeure burua zaintzea
+  lan horren parte da. Erreparatu abisu-zeinuei, hala nola nekea, suminkortasuna,
   lo txarra eta lagunengandik urruntzea. Eskatu laguntza zehatza, erabili
-  atsedenaldi-zerbitzuak eta batu laguntza-talde batera. AEBetan doako laguntza
-  dago: Alzheimer’s Association 24/7 Helpline (1-800-272-3900) eta Eldercare
-  Locator (1-800-677-1116).
+  atseden-zaintza eta batu laguntza-talde batera. AEBetan doako laguntza
+  honakoa da: Alzheimer's Association 24/7 Helpline, 1-800-272-3900 zenbakian,
+  eta Eldercare Locator, 1-800-677-1116 zenbakian.
 keyPoints:
-  - "Nekeak nekea, suminkortasuna, lo txarra, tristura eta zure osasun-arreta alde batera uztea ekar ditzake."
-  - "Atsedenaldi-zerbitzuek atseden hartzeko aukera ematen dizute, ordu gutxi batzuetatik aste batzuetara, etxean edo zaintza-zentro batean."
-  - "Eskatu laguntza zeregin zehatzetarako; askok lagundu nahi dute, baina ez dakite nola."
-  - "Alzheimer’s Association 24/7 Helpline (1-800-272-3900) doako eta konfidentziala den laguntza eskaintzen du, edozein ordutan."
-  - "Eldercare Locator (1-800-677-1116) tokiko zerbitzuetara bideratzen zaitu, zure Area Agency on Aging erakundera barne."
-  - "Krisian bazaude, deitu edo idatzi 988 zenbakira. Larrialdi batean, deitu 112ra."
+  - "Zaintzailearen nekea sarritan honela agertzen da: akidura, suminkortasuna, lo txarra, tristura eta norberaren osasun-zainketa alde batera uztea."
+  - "Atseden-zaintzak atsedenaldi bat ematen dizu, ordu batzuetatik aste batzuetara, etxean edo zainketa-ingurune batean."
+  - "Eskatu laguntza zeregin zehatzetarako; jende askok lagundu nahi du, baina ez daki nola."
+  - "Alzheimer's Association 24/7 Helpline telefonoak (1-800-272-3900) doako laguntza konfidentziala eskaintzen du edozein ordutan."
+  - "Eldercare Locator-ek (1-800-677-1116) tokiko zerbitzuekin jartzen zaitu harremanetan, zure Area Agency on Aging barne."
+  - "Krisi-egoeran bazaude, deitu edo bidali mezu bat 988 zenbakira. Larrialdi batean, deitu 911ra."
 faq:
-  - q: "Zeintzuk dira zaintzailearen nekeen seinaleak?"
-    a: "Ohiko seinaleak hauek dira: nekatuta, gainezka edo urduri sentitzea, erraz haserretzea edo pazientzia galtzea, lo egiteko arazoak, triste edo itxaropenik gabe sentitzea, lagunengandik urruntzea, buruko minak edo bestelako minak maiz izatea, eta zure otorduak, ariketa fisikoa edo osasun-arreta alde batera uztea. Halako seinaleak maiz agertzen badira, hitz egin zure medikuarekin."
-  - q: "Nola aurki dezaket atsedenaldi-zerbitzua nire inguruan?"
-    a: "Hasi Eldercare Locator zerbitzuarekin (1-800-677-1116 edo eldercare.acl.gov) zure tokiko Area Agency on Aging erakundera iristeko, ARCH National Respite Locator Service zerbitzuarekin edo Alzheimer’s Association Helpline telefonoarekin (1-800-272-3900). Familiak, lagunek eta boluntarioek ere eman dezakete atsedenaldia."
-  - q: "Medicarek atsedenaldi-zerbitzuak ordaintzen al ditu?"
-    a: "Hospizio-arreta jasotzen ari den pertsona baten kasuan, Medicarek atsedenaldi-zerbitzuaren kostu gehiena estaltzen du, jarraian bost egun arte, ospitale batean edo erizaintza-trebetasuneko zentro batean, National Institute on Aging erakundearen arabera. Osasun-aseguru pribatu gehienek ez dituzte atsedenaldiak estaltzen; Medicaid programak eta epe luzeko zaintza-aseguru batzuek lagun dezakete."
-  - q: "Alzheimer’s Association Helpline benetan doakoa al da eta gauez ere erabilgarri?"
-    a: "Bai. Alzheimer’s Association erakundeak dio 1-800-272-3900 zenbakiko Helpline doakoa eta konfidentziala dela, eta urteko 365 egunetan, eguneko 24 orduetan dagoela eskuragarri, hizkuntza askotan laguntza emanez. Markatu 711 errelebo-zerbitzu baterako."
-  - q: "Berekoia al da zaintzatik atseden hartzea?"
-    a: "Ez. Atsedenak zaintzen jarraitzen laguntzen dizu, eta atsedenaldiak zaintzen duzun pertsonari ere konpainia eta jarduera aldaketa bat eman diezaioke. Zaintzaile askok geroago diote lehenago laguntza eskatu izana nahiko luketela."
+  - q: "Zeintzuk dira zaintzailearen nekearen zantzuak?"
+    a: "Zantzu ohikoen artean daude nekatuta, gainezka edo urduri sentitzea, erraz haserretzea edo pazientzia galtzea, lo egiteko arazoak, triste edo itxaropenik gabe sentitzea, lagunengandik urruntzea, buruko min edo min ugari izatea, eta norberaren otorduak, ariketa fisikoa edo mediku-arreta alde batera uztea. Horrelako zantzuak maiz gertatzen badira, hitz egin zure medikuarekin."
+  - q: "Nola aurki dezaket atseden-zaintza nire inguruan?"
+    a: "Hasi Eldercare Locator-etik (1-800-677-1116 edo eldercare.acl.gov) zure tokiko Area Agency on Aging-era iristeko, ARCH National Respite Locator Service-tik edo Alzheimer's Association Helpline-tik, 1-800-272-3900 zenbakian. Senideek, lagunek eta boluntarioek ere atsedenaldia eman dezakete."
+  - q: "Medicare-k atseden-zaintza ordaintzen al du?"
+    a: "Hospizio-zainketak jasotzen dituen pertsona baten kasuan, Medicare-k atseden-zaintzaren kostu gehiena estaltzen du, jarraian bost egunera arte ospitale batean edo trebetasun-mailako erizaintza-zentro batean, National Institute on Aging-en arabera. Osasun-aseguru pribatu gehienek ez dute atseden-zaintza estaltzen; Medicaid-ek eta epe luzerako zainketarako aseguru-plan batzuek lagun dezakete."
+  - q: "Alzheimer's Association Helpline benetan doakoa al da eta gauez ere eskuragarri al dago?"
+    a: "Bai. Alzheimer's Association-ek dio 1-800-272-3900 zenbakiko bere Helpline doakoa eta konfidentziala dela, eta urteko egun guztietan, eguneko ordu guztietan, langileak dituela; laguntza hizkuntza askotan eskaintzen da. Markatu 711 errelebo-zerbitzu baterako."
+  - q: "Berekoia al da zaintzatik atsedenaldi bat hartzea?"
+    a: "Ez. Atsedenak zaintzen jarraitzen laguntzen dizu, eta atseden-zaintzak zaintzen duzun pertsonari ere konpainia- eta jarduera-aldaketa bat eman diezaioke. Zaintzaile askok geroago esaten dute lehenago laguntza eskatu izan balute hobeto izango zela."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-Dementzia duen pertsona bat zaintzen ari bazara, ziur aski orri hau berandu irakurtzen ari zara, nekatuta, eta egin gabeko gauzen zerrenda batekin. Normala da. Zure buruaz arduratzea ez da luxu bat, ezta dena amaitzeagatik jasotzen den sari bat ere. Aurrera jarraitzen laguntzen dizuna da.
+Dementzia duen pertsona bat zaintzen ari bazara, ziurrenik orrialde hau berandu irakurtzen ari zara, nekatuta eta egin gabe utzi dituzun gauzen zerrenda batekin. Normala da. Zeure burua zaintzea ez da luxu bat, ezta dena amaitzeagatik jasotzen den sari bat ere. Aurrera jarraitzea ahalbidetzen dizuna da.
 
-Orri honetan nekeen abisu-seinaleak, benetako atseden bat nola hartu, laguntza non aurkitu eta gaur bertan dei ditzakezun AEBetako doako laguntza-telefonoak aurkituko dituzu.
+Orrialde honetan, nekearen abisu-zeinuak, benetako atsedenaldi bat nola lortu, laguntza non aurkitu eta gaur bertan deitu ditzakezun AEBetako doako telefonoak azaltzen dira.
 
-## Zeintzuk dira zaintzailearen nekeen seinaleak?
+## Zeintzuk dira zaintzailearen nekearen zantzuak?
 
-Nekeak poliki-poliki iristen dira askotan; horregatik, lagungarria da zure abisu-seinaleak ezagutzea. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) erakundeak zaintzailearen estresaren seinale hauek aipatzen ditu:
+Nekea sarritan poliki-poliki agertzen da; horregatik, lagungarria da zure abisu-zeinuak ezagutzea. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) erakundeak zaintzailearen estresaren zantzu hauek zerrendatzen ditu:
 
 - nekatuta, gainezka edo urduri sentitzea;
 - erraz haserretzea edo pazientzia galtzea;
 - bakarrik edo besteengandik urrunduta sentitzea;
-- lo egiteko arazoak izatea, edo behar adina ez lo egitea;
+- lo egiteko arazoak izatea, edo nahikoa lo ez egitea;
 - triste edo itxaropenik gabe sentitzea, edo lehen gustatzen zitzaizkizun gauzekiko interesa galtzea;
-- buruko minak, minak edo bestelako arazo fisikoak maiz izatea;
-- ariketa fisikoa egiteko edo osasuntsu jateko denborarik ez izatea;
-- dutxak edo bestelako norberaren zainketa alde batera uztea;
-- alkohola edo drogak gaizki erabiltzea, errezetadun sendagaiak barne.
+- maiz buruko minak, minak edo beste arazo fisiko batzuk izatea;
+- ariketa fisikoa egiteko edo zeuretzat janari osasungarria prestatzeko denborarik ez izatea;
+- dutxatzea edo beste norberaren zainketa batzuk alde batera uztea;
+- alkohola edo drogak gaizki erabiltzea, errezetatutako sendagaiak barne.
 
-[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) erakundeak beste seinale batzuk ere gehitzen ditu, hala nola gaixotasunaren aurrean ukazioa, zaintzen duzun pertsonarekiko haserrea («tematia da»), etorkizunarekiko antsietatea, kontzentratzeko zailtasunak eta osasun-arazoen eragina. Halako seinaleak maiz izanez gero, medikuarekin hitz egitea gomendatzen du.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) erakundeak beste zantzu batzuk ere gehitzen ditu, hala nola gaixotasuna ukatzea, zaintzen duzun pertsonarekiko haserrea («burugogorra izaten ari da, besterik ez»), etorkizunarekiko antsietatea, kontzentratzeko zailtasunak eta osasun-arazoek eragindako zama. Horrelako zantzuak maiz izaten badituzu, medikuarekin hitz egitea gomendatzen du.
 
-NIAren aholkua da ez itxarotea erabat gainezka egon arte. Antzeman zure seinaleak goiz eta hartu neurriak.
+NIAren aholkua da ez itxarotea erabat gainezka egon arte. Antzeman zure zantzuak garaiz eta hartu neurriak.
 
 ## Zer egin dezaket gaur, bost minututan?
 
-Atsedenaldi txikiek ere balio dute. Hauetako batek ere ez ditu nekeak konpontzen, baina arratsalde zail bat gainditzen lagun dezake.
+Atsedenaldi txikiek ere balio dute. Horietako ezeinek konpontzen du nekea, baina arratsalde zail bat gainditzen lagun zaitzakete.
 
-- **Atera kanpora.** Eseri atarian edo joan postontziraino, zaintzen duzun pertsona seguru eta lasai dagoen bitartean.
-- **Arnasa hartu poliki.** Hartu arnasa poliki galdera zail bati erantzun aurretik. [Arnasa Lasai Hartzea](/games/calm-breathing/) pausoa ere parteka dezakezu zaintzen duzun pertsonarekin.
-- **Edan ura eta jan zerbait.** Erraza da zure otorduak ahaztea.
-- **Bidali mezu bat lagun bati.** Ez ezer eskatzeko, konektatzeko baizik.
-- **Esan zerbait atsegina zeure buruari.** NIAren [zeure burua zaintzeko gida](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) honelako esaldiak iradokitzen ditu: «Ahal dudan onena egiten ari naiz», «Ez naiz perfektua, eta ondo dago», eta «Elkarrekin lasai egon gaitezkeen uneak gozatu egingo ditut».
+- **Atera kanpora.** Eseri atarian edo joan postontziraino, zaintzen duzun pertsona lasai eta seguru badago.
+- **Arnasa hartu poliki.** Hartu arnasa poliki-piki galdera zail bati erantzun aurretik. [Arnasketa lasaia](/games/calm-breathing/) pausatxo bat ere parteka dezakezu zaintzen duzun pertsonarekin.
+- **Edateko ura hartu eta zerbait jan.** Erraza da norberaren otorduak ahaztea.
+- **Bidali mezu bat lagun bati.** Ez ezer eskatzeko, konektatzeko besterik ez.
+- **Esan zerbait atsegina zeure buruari.** NIAren [zeure burua zaintzeko gida](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) honelako esaldiak erabiltzea iradokitzen du: «Ahal dudan guztia egiten ari naiz», «Ez naiz perfektua, eta ez dago horren gaizki» eta «Bakean elkarrekin egon gaitezkeen uneak gozatuko ditut».
 
-## Zer da atsedenaldi-zerbitzua, eta nola lor dezaket?
+## Zer da atseden-zaintza, eta nola lor dezaket?
 
-Atsedenaldi-zerbitzua zaintzen duzun pertsonarentzako epe laburreko arreta da, zuk atseden hartu ahal izateko. NIAren [atsedenaldi-zerbitzuei buruzko orriak](https://www.nia.nih.gov/health/caregiving/what-respite-care) azaltzen du ordu gutxi batzuetatik aste batzuetara iraun dezakeela, eta etxean, osasun-zentro batean edo eguneko zentro batean eman daitekeela.
+Atseden-zaintza zaintzen duzun pertsonarentzako epe laburreko arreta da, zuk atseden hartu ahal izateko. NIAren [atseden-zaintzari buruzko orriak](https://www.nia.nih.gov/health/caregiving/what-respite-care) azaltzen du ordu batzuetatik aste batzuetara iraun dezakeela, eta etxean, osasun-zentro batean edo eguneko zentro batean eman daitekeela.
 
-[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) erakundeak ohiko mota hauek deskribatzen ditu:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) erakundeak ohiko mota hauek deskribatzen ditu:
 
-| Mota | Zer da |
+| Mota | Zer den |
 | --- | --- |
-| Etxeko laguntza | Lagun, senide, boluntario edo ordainpeko laguntzaile bat etxera etortzen da |
-| Eguneko zentroa | Talde seguru batean antolatutako jarduerak, hala nola musika eta artea; garraioa eta otorduak maiz eskaintzen dira |
-| Gau bateko edo egonaldi laburreko arreta | Epe luzeko zaintza-komunitate batek pertsona zaintzen du gau batez, egun gutxi batzuetan edo aste batzuetan |
+| Etxeko laguntza | Lagun, senide, boluntario edo ordainpeko laguntzaile edo zaintzaile bat etxera etortzen da |
+| Eguneko zentroa | Musika eta artea bezalako jarduera planifikatuak talde-ingurune seguru batean; garraioa eta otorduak eskaintzen dira askotan |
+| Gau bateko egonaldia edo egonaldi laburra | Epe luzerako zainketa-komunitate batek pertsona zaintzen du gau batez, egun batzuetan edo aste batzuetan |
 
-**Nork ordaintzen du?** NIAren arabera, familiak, lagunek edo boluntarioek emandako atsedenaldiak ez du ezer kostatu behar. Zerbitzu profesionalek orduko edo eguneko kobratzen dute. Hospizio-arreta jasotzen ari den pertsona baten kasuan, Medicarek atsedenaldiaren kostu gehiena estaltzen du, jarraian bost egun arte, ospitale batean edo erizaintza-trebetasuneko zentro batean. Medicaid programak lagun dezake. Osasun-aseguru pribatu gehienek ez dituzte atsedenaldiak estaltzen, nahiz eta epe luzeko zaintza-aseguru batzuek bai.
+**Nork ordaintzen du?** NIAren arabera, senideek, lagunek edo boluntarioek emandako atseden-zaintzak agian ez du ezer kostatuko. Zerbitzu profesionalek orduko edo eguneko kobratzen dute. Hospizio-zainketak jasotzen dituen pertsona baten kasuan, Medicare-k atseden-zaintzaren kostu gehiena estaltzen du, jarraian bost egunera arte ospitale batean edo trebetasun-mailako erizaintza-zentro batean. Medicaid-ek lagun dezake. Osasun-aseguru pribatu gehienek ez dute atseden-zaintza estaltzen, baina epe luzerako zainketarako aseguru-plan batzuek bai.
 
-**Aholkua:** Alzheimer’s Association erakundeak gomendatzen du atsedenaldi-hornitzaileak larrialdirik gabeko egoera batean probatzea, bat-batean laguntza behar baduzu prest egon daitezen.
+**Aholkua:** Alzheimer's Association-ek iradokitzen du atseden-zaintza hornitzaileak larrialdi-egoerarik gabeko une batean probatzea, bat-batean laguntza behar baduzu prest egon daitezen.
 
 ## Non aurki dezaket laguntza nire inguruan?
 
-AEBetako doako zerbitzu batzuek tokiko laguntzarako bidea erakuts diezazukete.
+AEBetako doako zerbitzu batzuek tokiko laguntzara bidera zaitzakete.
 
-- **Alzheimer’s Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) doakoa eta konfidentziala da, urteko egun guztietan eta ordu guztietan eskuragarri, eta 200 hizkuntza baino gehiagotan eskaintzen du laguntza, langile elebidunen edo interpreteen bidez. Markatu 711 errelebo-zerbitzu baterako. Portaera-aldaketei, zaintzailearen estresari, atsedenaldi-aukerari, tokiko programei eta gehiagori buruz hitz egin dezakezu, eta arreta-aholkulari batekin elkarrizketa luzeagoa eskatu. Langileek ez dute aholku medikorik ematen.
-- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) Administration for Community Living erakundearen zerbitzu publikoa da, eta adineko pertsonentzako eta haien familientzako zerbitzuetara konektatzen zaitu. Deitu, testu-mezua bidali, sarean txateatu edo posta elektronikoz idatz diezaiokezu trebatutako langileei, edo kokapenaren arabera bilatu. Zure tokiko Area Agency on Aging erakundera bidera zaitzake.
-- **ARCH National Respite Locator Service.** [ARCH atsedenaldi-bilatzaileak](https://archrespite.org/caregiver-resources/respitelocator/) atsedenaldi-hornitzaileak estatuaren arabera aurkitzen laguntzen du, eta zure estatuak baldin badu, lehenik zure State Respite Coalition edo Lifespan Respite programarekin harremanetan jartzea iradokitzen du. ARCHek adierazten du ez dituela hornitzaileak egiaztatzen; beraz, berrikusi zuk haien esperientzia eta aurrekariak.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) doakoa eta konfidentziala da, urteko egun guztietan, eguneko ordu guztietan langileekin, eta berrehun hizkuntza baino gehiagotan eskaintzen du laguntza, elebidun langileen edo interpreteen bidez. Markatu 711 errelebo-zerbitzu baterako. Jokabide-aldaketei, zaintzailearen estresari, atseden-aukerak, tokiko programei eta beste gai batzuei buruz hitz egin dezakezu, eta zainketa-aholkulari batekin elkarrizketa luzeagoa eskatu. Langileek ez dute aholku medikorik ematen.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Living erakundearen zerbitzu publikoa, adineko pertsonentzako eta haien familientzako zerbitzuekin jartzen zaitu harremanetan. Deitu, testu-mezua bidali, sarean txateatu edo mezu elektronikoa bidal diezaiokezu trebaturiko langileei, edo kokapenaren arabera bilatu. Zure tokiko Area Agency on Aging-era bidera zaitzake.
+- **ARCH National Respite Locator Service.** [ARCH atseden-zaintzaren bilatzaileak](https://archrespite.org/caregiver-resources/respitelocator/) atseden-zaintzako hornitzaileak estatuka aurkitzen laguntzen dizu, eta zure estatuan badago, lehenik zure State Respite Coalition edo Lifespan Respite programarekin harremanetan jartzea iradokitzen du. ARCH-ek ohartarazten du ez dituela hornitzaileak egiaztatzen; beraz, berrikusi zuk zeuk haien esperientzia eta aurrekariak.
 
 ## Nola aurki dezaket laguntza-talde bat?
 
-Galdetu Helpline telefonora edo bilatu sarean zure inguruko taldeak. Alzheimer’s Association erakundeak [laguntza-taldeak antolatzen ditu](https://www.alz.org/help-support/community/support-groups) zaintzaileentzat eta dementzia duten pertsonentzat, aurrez aurre eta sarean, trebatutako dinamizatzaileekin. Leku askotan talde espezializatuak ere eskaintzen dira, adibidez helduen zaintzaileentzat edo hasiera goiztiarreko edo hasierako faseko Alzheimerra duten pertsonentzat. Halaber, ALZConnected ostatatzen du, zaintzaileek aholkuak partekatzeko doako sareko komunitatea.
+Galdetu Helpline-era edo bilatu sarean zure inguruko taldeak. Alzheimer's Association-ek [laguntza-taldeak antolatzen ditu](https://www.alz.org/help-support/community/support-groups) zaintzaileentzat eta dementzia duten pertsonentzat, aurrez aurre eta sarean, trebaturiko dinamizatzaileekin. Toki askotan talde espezializatuak ere eskaintzen dira, adibidez, heldu zaintzaileentzat edo hasiera goiztiarreko edo hasierako faseko Alzheimerra duten pertsonentzat. ALZConnected ere badu, zaintzaileek aholkuak partekatzeko doako sareko komunitate bat.
 
-Laguntza-taldeak epairik gabe deskargatzeko, han egon direnen aholku praktikoak jasotzeko eta bakarrik ez zaudela sentitzeko leku bat izan daitezke. Lehen taldea egokia ez bada, probatu beste bat.
+Laguntza-taldeak epaitua izan gabe deskargatzeko, han egon diren pertsonen aholku praktikoak jasotzeko eta hain bakarrik ez sentitzeko leku bat izan daitezke. Lehen taldea egokia ez bada, probatu beste batekin.
 
 ## Nola eskatu laguntza familiari eta lagunei?
 
-Izan zehatza. Askok lagundu nahi dute, baina ez dakite zer eskaini. NIAk honako hau iradokitzen du:
+Izan zehatza. Jende askok lagundu nahi du, baina ez daki zer eskaini. NIAk honakoa iradokitzen du:
 
-- **Egin zerrenda bat** besteek har ditzaketen zereginekin, eta utzi pertsonei aukeratzen.
-- **Hasi txiki** eskatzea zaila egiten bazaizu.
-- **Egokitu zeregina pertsonari.** Sukaldatzea gustuko duen lehengusuak afaria ekartzen du ostegunero. Inprimakiekin trebea den bizilagunak paper-lanean laguntzen du.
-- **Bidali testu-mezua edo posta elektronikoa** aurrez aurre eskatzea deserosoa bada.
-- **Prestatu erantzun bat** norbaitek laguntza eskaintzen duenean: «Eskerrik asko galdetzeagatik. Hona hemen zer egin dezakezun».
-- **Onartu ezezko batzuk etorriko direla** eta saiatu pertsonalki ez hartzen.
+- **Egin zerrenda bat** besteek har ditzaketen zereginekin, eta utzi jendeari aukeratzen.
+- **Hasi txiki** eskatzea zaila iruditzen bazaizu.
+- **Egokitu zeregina pertsonari.** Sukaldatzea gustuko duen lehengusinak afaria ekartzen du ostegunero. Tramiteak ondo egiten dituen bizilagunak paper-lanetan laguntzen du.
+- **Bidali testu-mezua edo mezu elektronikoa** aurrez aurre eskatzea deserosoa bazaizu.
+- **Prestatu erantzun bat** norbaitek laguntza eskaintzen duenean: «Eskerrik asko galdetzeagatik. Hauxe egin dezakezu».
+- **Espero ez batzuk** eta saiatu ez pertsonalki hartzen.
 
-Beste ideia batzuk: eskatu norbaiti zaintzen duzun pertsonarekin egoteko astean arratsalde batean, ibilaldi labur batera eramateko, edo bisitan etortzeko eta elkarrekin joko batean aritzeko. Gure [elkarrekin jolasteko gida](/caregiving/how-to-play-together/) erraza da bisitariekin partekatzeko.
+Beste ideia batzuk: eskatu norbaiti zaintzen duzun pertsonarekin egoteko astean arratsalde batez, ibilaldi labur batera eramateko, edo bisitan etortzeko eta elkarrekin joko batean aritzeko. Gure [elkarrekin jolasteko gida](/caregiving/how-to-play-together/) erraza da bisitariekin partekatzeko.
 
 ## Zer gertatuko litzateke niri zerbait gertatuko balitzait?
 
-Egin ordezko plan sinple bat orain. NIAk gomendatzen du familiarekin edo lagun hurbilekin erabakitzea nork hartuko lukeen ardura, eta koaderno batean gordetzea larrialdiko zenbakiak, sendagaiak, funtzionatzen duten portaera-aholkuak eta jarduera gogokoenak. Alzheimer’s Association erakundeak ere gomendatzen du pertsonaren osasun-kontaktuak eta eguneratutako sendagaien zerrenda erraz aurkitzeko moduan gordetzea.
+Egin orain ordezko plan sinple bat. NIAk iradokitzen du familiarekin edo lagun hurbilekin erabakitzea nork hartuko lukeen zure lekua, eta koaderno bat edukitzea larrialdietarako zenbakiekin, sendagaiekin, balio duten jokabide-aholkuekin eta gogoko jarduerekin. Alzheimer's Association-ek ere gomendatzen du zaintzen duzun pertsonaren mediku-kontaktuak eta eguneratutako sendagaien zerrenda erraz aurkitzeko moduan edukitzea.
 
-## Noiz eskatu behar dut laguntza profesionala edo premiazkoa?
+## Noiz bilatu behar dut laguntza profesionala edo premiazkoa?
 
-Hitz egin zure medikuarekin estres-seinaleak ohikoak badira, deprimituta sentitzen bazara edo egoerari aurre egiteko zailtasunak badituzu. Esan medikuari zaintzaile zarela. NIAk adierazten du aholkulariek eta gizarte-langileek lagun dezaketela sentimendu zailak kudeatzen eta planifikatzen, eta Medicarek, Medicaid programak eta aseguru pribatu batzuek osasun mentaleko kostu batzuk estal ditzaketela.
+Hitz egin zure medikuarekin estresaren zantzuak ohikoak badira, deprimituta sentituz gero edo aurre egitea zaila egiten bazaizu. Esan zure medikuari zaintzailea zarela. NIAk adierazten du aholkulariek eta gizarte-langileek lagun dezaketela sentimendu zailak eta plangintza kudeatzen, eta Medicare-k, Medicaid-ek eta aseguru pribatu batzuek osasun mentaleko kostu batzuk estal ditzaketela.
 
-Krisian bazaude edo zure buruari kalte egiteko pentsamenduak badituzu, deitu edo idatzi 988 zenbakira [988 Suicide & Crisis Lifeline](https://988lifeline.org/) lerrora iristeko; doakoa da eta 24 orduz, aste osoan dago eskuragarri. Norbait berehalako arriskuan badago, deitu 112ra.
+Krisi-egoeran bazaude edo zeure buruari kalte egiteko pentsamenduak badituzu, deitu edo bidali mezu bat 988 zenbakira [988 Suicide & Crisis Lifeline](https://988lifeline.org/) telefonora iristeko; doakoa da eta eguneko ordu guztietan, asteko egun guztietan eskuragarri dago. Norbait berehalako arriskuan badago, deitu 911ra.
 
-## Elkarrekin egindako jarduerek atseden ematen al didate?
+## Elkarrekin egindako jarduerek atsedenaldi bat eman diezadakete niri ere?
 
-Batzuetan bai. Biei gustatzen zaizuen jarduera lasai batek egunaren zati leunagoa izan dezake zuretzat eta zaintzen duzun pertsonarentzat: abesti zaharrak entzutea, argazkiak ikustea, edo erantzun zuzenik behar ez duen [Elkarrizketa Txartelak](/games/conversation-cards/) bezalako joko bat. Pertsonak konpainia gustuko badu, adinekoentzako zentro batean edo eguneko programa batean [Irudi Bingoa](/games/picture-bingo/) talde-saio batek atsedenaldi-ordubete eman diezazuke. Begiratu [zahar-etxeetako taldeentzako jarduerak](/activities/care-home-groups/) ideiak ikusteko.
+Batzuetan. Biei gustatzen zaizuen jarduera lasai bat eguneko une samurragoa izan daiteke zuretzat eta baita zaintzen duzun pertsonarentzat ere: abesti zaharrak entzutea, argazkiak begiratzea edo erantzun zuzenik behar ez duen [Elkarrizketa-txartelak](/games/conversation-cards/) bezalako jolas bat. Pertsonak konpainia gustuko badu, adinekoentzako zentro batean edo eguneko programa batean [Irudi-bingoa](/games/picture-bingo/) talde-saio bat egiteak ordu bateko atsedenaldia eman diezazuke. Ikusi ideiak [zaintza-etxeetako taldeentzako jardueretan](/activities/care-home-groups/).

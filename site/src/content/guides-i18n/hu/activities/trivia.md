@@ -1,34 +1,28 @@
 ---
-title: "Könnyű kvíz demenciával élő időseknek, nyomás nélkül"
-seoTitle: "Könnyű kvíz demenciával élő időseknek: 50 kérdés"
-description: "50 könnyű kvízkérdés demenciával élő időseknek, válaszlehetőségekkel és beszélgetési pontokkal, valamint tippek, hogy senki ne érezze magát vizsgáztatva vagy kirekesztve."
+title: "Könnyű kvíz időseknek demenciával, nyomás nélkül"
+seoTitle: "Kvízkérdések időseknek demenciával, válaszokkal"
+description: "50 könnyű kvízkérdés demenciával élő időseknek válaszlehetőségekkel és beszélgetési ötletekkel, plusz tanácsok, hogyan játsszátok, hogy senki se érezze magát rosszul."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A könnyű kvíz demenciával élő időseknek akkor működik, ha beszélgetésnek érződik,
-  nem vizsgának. Régen tanult dolgokról kérdezzen, például régi dalokról,
-  közmondásokról, ünnepekről és a mindennapi életről, és mindig kínáljon két vagy
-  három választási lehetőséget. Adja meg a választ szívesen, soha ne tegyen ki
-  senkit a figyelem középpontjába, hagyja el a pontozást, és minden választ
-  használjon egy történet elindítására. A „Ez vagy az?” kérdések, amelyekre nincs
-  rossz válasz, a későbbi szakaszba illenek.
+  A demenciával élő időseknek szóló könnyű kvíz akkor működik jól, ha inkább beszélgetésnek érződik, mint feleltetésnek. Olyan dolgokról kérdezz, amelyeket régen tanultak meg, például régi dalokról, szólásokról, ünnepekről és a mindennapi életről, és mindig adj két vagy három választási lehetőséget. A helyes választ nyugodtan mondd el, senkit ne állíts külön a középpontba, ne tarts pontszámot, és minden válaszból indíts egy történetet. A későbbi szakaszokban jól működnek az olyan „ez vagy az” kérdések, amelyekre nincs rossz válasz.
 keyPoints:
-  - "Kérdezzen régóta ismerős dolgokról: dalokról, közmondásokról, ünnepekről, ételekről és a sok évvel ezelőtti mindennapi életről."
-  - "Kínáljon két vagy három választási lehetőséget, hogy a választ fel lehessen ismerni, ne fejből kelljen felidézni."
-  - "Mondja ki a választ melegen, és lépjen tovább. Minden tipp, amely egy történetet indít el, jó tipp."
-  - "Nincs pont, nincs versengő csapat, és nem szólítunk ki egy embert. A válaszok az egész teremtől jöjjenek."
-  - "Ha a válaszok közötti választás nehézzé válik, váltson olyan „ez vagy az?” kérdésekre, amelyekre nincs helyes válasz."
+  - "Olyan dolgokról kérdezz, amelyek régóta ismerősek: dalok, szólások, ünnepek, ételek és a mindennapi élet régebbi évekből."
+  - "Adj két vagy három választási lehetőséget, hogy a választ felismerni lehessen, ne felidézni kelljen."
+  - "Mondd el a választ kedvesen, aztán lépj tovább. Minden találgatás, amelyből történet lesz, jó találgatás."
+  - "Ne legyen pontszám, ne legyen versengés csapatok között, ne szólíts fel egyetlen embert sem. Hagyd, hogy a válaszok a társaság minden tagjától érkezzenek."
+  - "Ha egyre nehezebb dönteni a válaszok között, válts olyan „ez vagy az” kérdésekre, amelyekre nincs helyes válasz."
 faq:
-  - q: "Jó tevékenység a kvíz demenciával élő embereknek?"
-    a: "Lehet, ha gyengéden vezetik. Az Alzheimer's Foundation of America a korai szakasz tevékenységei között sorolja fel a kvízt. Régóta ismerős témákról kérdezzen, kínáljon választási lehetőségeket, soha ne tegyen egy személyt kellemetlen helyzetbe, és a válaszokat tekintse a beszélgetés kapujának, ne vizsgának."
-  - q: "Milyen témák működnek a legjobban demenciás kvízen?"
-    a: "A régen tanult dolgok működnek általában a legjobban: a személy fiatalkorának népszerű dalai és énekesei, ismerős közmondások, ünnepek, ételek, sportok és a mindennapi élet, például a tejeskocsi és a tárcsás telefon. Kerülje a friss híreket és mindent, ami arra épül, hogy a foglalkozás elején elhangzott valamit megjegyezzenek."
-  - q: "Hogyan vezessek kvízt idősotthonban úgy, hogy senkit ne zavarjak meg?"
-    a: "Olvassa fel minden kérdést az egész csoportnak, mutassa vagy mondja el a válaszlehetőségeket, és üdvözöljön minden választ bárkitől. Ne szólítson ki egyéneket, és ne vezessen pontszámot. Mosolyogva mondja ki a választ, bármi volt is a tipp, és tegyen fel egy követő kérdést, például: „Ki volt itt már autós moziban?”, hogy történetek legyenek belőle."
-  - q: "Mit tehetek a kvíz helyett a későbbi szakaszban?"
-    a: "Váltson olyan kérdésekre, amelyekre nincs rossz válasz, például: „Kávé vagy tea?” vagy „Tengerpart vagy hegyek?”, és közösen fejezzenek be ismerős közmondásokat vagy dalokat. Jól működik az is, ha képeket néznek és együtt írják le őket."
+  - q: "Jó foglalatosság-e a kvíz demenciával élő embereknek?"
+    a: "Lehet az, ha nyugodtan vezetik. Az Alzheimer's Foundation of America a kvízt a korai szakaszhoz ajánlott foglalatosságok között említi. Olyan témákról kérdezz, amelyek régóta ismerősek, adj választási lehetőségeket, soha ne állíts külön egyetlen embert sem a középpontba, és a válaszokat tekintsd a beszélgetés indítékának, ne feleltetésnek."
+  - q: "Mely témák működnek a legjobban demenciával kapcsolatos kvízeknél?"
+    a: "A legjobban általában azok működnek, amelyeket régen tanultak meg: népszerű dalok és énekesek a személy fiatalkorából, ismerős szólások, ünnepek, ételek, sportok, valamint a mindennapi élet, például a házhoz szállított tej vagy a forgótárcsás telefonok. Kerüld az aktuális híreket és mindent, amit a beszélgetés korábbi részéből kellene felidézni."
+  - q: "Hogyan vezessek kvízt idősek otthonában úgy, hogy senkit ne hozzak kellemetlen helyzetbe?"
+    a: "Olvasd fel minden kérdést az egész csoportnak, mutasd vagy mondd el a választási lehetőségeket, és fogadd örömmel a válaszokat bárkitől. Ne szólíts fel egyes embereket, és ne tarts pontszámot. A tippeléstől függetlenül mosolyogva mondd el a választ, majd tegyél fel egy következő kérdést, például: „Ki járt már moziban az autójából?”, hogy a válasz történetekké alakuljon."
+  - q: "Mit tehetek kvíz helyett a későbbi szakaszokban?"
+    a: "Válts olyan kérdésekre, amelyekre nincs rossz válasz, például: „Kávé vagy tea?” vagy „Tengerpart vagy hegyek?”, és közösen fejezzetek be ismerős szólásokat vagy dalokat. Jól működik az is, ha képeket néztek, és közösen beszéltek róluk."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -47,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-A kvíz az egyik legkeresettebb csoportos tevékenység idősotthonokban és nappali programokban, és sok család a konyhaasztalnál is játssza. Ha a szokásos módon játsszák, pontokkal és egyetlen válaszolóval, a demenciával élő személy könnyen úgy érezheti, hogy a figyelem középpontjába került. Gyengéden vezetve viszont élénk módja annak, hogy történeteket halljanak. Alább 50 könnyű kérdés található válaszlehetőségekkel és egy-egy beszélgetési témával, majd az, hogyan vezessen egy alkalmat.
+A kvíz az egyik leggyakrabban kért közös foglalatosság idősek otthonaiban és nappali ellátóhelyeken, és sok család a konyhaasztalnál is játszik ilyet. A szokásos módon, pontszámokkal és úgy, hogy egyetlen ember felel, olyannak érezheti valaki, aki demenciában él, mintha kihívnák. Ha nyugodtan vezetik, élénk módja lehet annak, hogy történeteket halljatok. Az alábbiakban ötven könnyű kérdést találsz válaszlehetőségekkel és minden egyes kérdéshez egy beszélgetési ötlettel, majd azt, hogyan tarts egy kvízalkalmat.
 
-## Hogyan működjön a kvíz demenciával élő személy számára?
+## Hogyan működik jól a kvíz demenciával élő személy számára?
 
-Arról szóljon, hogy felismerjenek és felidézzenek régi dolgokat, és minden választ szívesen fogadjanak.
+Arról szóljon, hogy felismerjék és felidézzék a régen tanult dolgokat, és minden válasz legyen szívesen látott.
 
-1. **Kérdezzen a távoli múltról.** Az [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) szerint az Alzheimer-kór leggyakoribb korai tünete az, hogy nehezen emlékeznek az újonnan megtanult információra. A dalok, közmondások és az évtizedekkel ezelőtti mindennapi élet gyakran könnyebb terep.
-2. **Mindig adjon választási lehetőségeket.** A helyes választ két vagy három közül kiválasztani sokkal könnyebb, mint a semmiből előhívni.
-3. **Olvassa fel a kérdéseket, és mutassa nagy betűvel.** Egy tábla vagy egy felemelt táblagép segít azoknak, akik rosszabbul hallanak.
-4. **Adja meg a választ szívesen.** Ha senki sem tudja, mondja ki melegen, és lépjen tovább. Soha ne mondjon olyat, hogy „Ugyan, ezt tudja.”
-5. **Ne vezessen pontszámot.** Sem egyéneknek, sem asztaloknak. Ha az emberek számot akarnak, tartsanak egy csoportos összesítést.
-6. **Soha ne szólítson ki egy személyt.** Hagyja, hogy bárki válaszoljon. Egy az egyben válaszoljanak együtt: „Szerintem a zongora. Ön mit gondol?”
-7. **Használja a beszélgetési pontot.** A válasz a kezdet, nem a vég. A történetek a valódi cél.
-8. **Tartsa rövidre.** Tíz kérdés, köztük történetekkel, bőven elég.
+1. **A távoli múltról kérdezz.** Az [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) szerint az Alzheimer-kór leggyakoribb korai tünete a frissen tanult információk felidézésének nehézsége. A több évtizeddel ezelőtti dalok, szólások és a mindennapi élet gyakran könnyebb terep.
+2. **Mindig adj választási lehetőségeket.** Két vagy három lehetőség közül kiválasztani sokkal könnyebb, mint semmiből előhozni a választ.
+3. **Olvasd fel a kérdéseket hangosan, és mutasd nagyban.** Egy fali tábla vagy feltartott tablet segít azoknak, akik nehezebben hallanak.
+4. **A választ nyugodtan mondd el.** Ha senki sem tudja, kedvesen mondd el, aztán lépj tovább. Soha ne így: „Gyerünk, tudod ezt.”
+5. **Ne legyen pontszám.** Se egyénenként, se asztalonként. Ha valakinek fontos egy szám, vezess egy közös csoportösszeget.
+6. **Soha ne szólíts fel egyetlen embert sem.** Hagyd, hogy bárki válaszolhasson. Ketten játszva együtt válaszoljatok: „Szerintem zongora. Te mit gondolsz?”
+7. **Használd a beszélgetési ötletet.** A válasz a kezdet, nem a vége. A történetek a valódi cél.
+8. **Tartsd röviden.** Tíz kérdés, közben történetekkel, bőven elég.
 
-A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) egyszerűen fogalmazza meg az alapszabályt: figyeljen a frusztráció jeleire, és biztosítsa, hogy a személy sikerélményt érezzen. Az [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a korai szakasz tevékenységei között sorolja fel a kvízt. A középső szakaszban tartsa meg a két választási lehetőséget, és támaszkodjon a beszélgetési pontokra. Később váltson az alább szereplő „ez vagy az?” kérdésekre.
+A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) így fogalmazza meg az alapvető szabályt: figyeld a frusztráció jeleit, és ügyelj arra, hogy a személy sikerélményt érezzen. Az [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a kvízt a korai szakaszhoz ajánlott foglalatosságok között sorolja fel. A középső szakaszban maradj a két választási lehetőségnél, és támaszkodj a beszélgetési ötletekre. Később térj át az alább található „ez vagy az” kérdésekre.
 
 ## Zenei és szórakoztató kvíz
 
-A helyes válasz **félkövérrel** van jelölve. Szabja ezeket a személyhez: aki a Motown-zene mellett nőtt fel, mást szeretne hallani, mint aki a big bandek idejében.
+A helyes válasz **félkövérrel** szerepel. Szabd a kérdéseket az adott személyhez: annak, aki Motownnal nőtt fel, más énekesek kellenek, mint annak, aki a nagyzenekarokat szerette.
 
-| Kérdés | Válaszlehetőségek | Erről beszéljünk |
+| Kérdés | Lehetőségek | Beszélgetési téma |
 | --- | --- | --- |
-| Kit neveztek a rock and roll királyának? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Látták valaha Elvist a tévében? |
-| Melyik énekest becézték „Ol’ Blue Eyes”-nak? | Dean Martin, **Frank Sinatra**, Perry Como | Melyik Sinatra-dal tetszik a legjobban? |
-| Bing Crosby egy fehér… -ről álmodott. | **karácsonyról**, esküvőről, házról | Énekeljenek együtt egy sort |
-| Louis Armstrong ezt énekelte: „Milyen csodálatos…”? | nap, **világ**, élet | Mi teszi Önnek csodálatossá a világot? |
-| Judy Garland melyik filmben énekelte az „Over the Rainbow” dalt? | **The Wizard of Oz**, Gone with the Wind, Singin’ in the Rain | Hol látták kedvenc filmjeiket? |
-| Ki játszotta Lucyt az „I Love Lucy” című sorozatban? | **Lucille Ball**, Doris Day, Betty White | Milyen műsorokat néztek együtt a családban? |
-| Melyik cowboy lovát hívták Triggernek? | **Roy Rogers**, Gene Autry, John Wayne | Játszottak cowboyt gyerekkorukban? |
-| Ki vezette 30 évig a „The Tonight Show”-t? | Ed Sullivan, **Johnny Carson**, Bob Hope | Későn ébren maradtak, hogy tévét nézzenek? |
-| Melyik hangszernek van 88 billentyűje? | gitár, **zongora**, trombita | Játszott valaki a családjukban? |
-| Melyik táncot számolják egy-kettő-három, egy-kettő-három ritmusban? | **keringő**, twist, tangó | Hol táncoltak régen? |
+| Kit neveztek a rock and roll királyának? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Láttad valaha Elvist a televízióban? |
+| Melyik énekest becézték Ol' Blue Eyes-nak? | Dean Martin, **Frank Sinatra**, Perry Como | Melyik Sinatra-dalt szereted a legjobban? |
+| Bing Crosby arról álmodott, hogy fehér legyen a... | **karácsony**, esküvő, ház | Énekeljetek el közösen egy sort |
+| Louis Armstrong ezt énekelte: „What a Wonderful...” | Day, **World**, Life | Számodra mi teszi csodálatossá a világot? |
+| A „Over the Rainbow”-t Judy Garland melyik filmben énekelte? | **Óz, a csodák csodája**, Elfújta a szél, Ének az esőben | Hol láttad a kedvenc filmedet? |
+| Ki játszotta Lucy szerepét az „I Love Lucy” sorozatban? | **Lucille Ball**, Doris Day, Betty White | Milyen műsorokat nézett együtt a családod? |
+| Melyik cowboy lova Trigger volt? | **Roy Rogers**, Gene Autry, John Wayne | Játszottál gyerekkorodban cowboyt? |
+| Ki vezette harminc éven át a „The Tonight Show”-t? | Ed Sullivan, **Johnny Carson**, Bob Hope | Maradtál valaha későn televíziót nézni? |
+| Melyik hangszernek van 88 billentyűje? | Gitár, **zongora**, trombita | Volt valaki a családban, aki játszott? |
+| Melyik táncot számolják így: egy-kettő-három, egy-kettő-három? | **keringő**, twist, tangó | Hová jártál táncolni? |
 
-További zenei tudnivalókért lásd a [demenciás zenei tevékenységeket](/activities/music/).
+A zenéről további ötleteket találsz itt: [zenei foglalatosságok demenciában](/activities/music/).
 
-## Mindennapi élet kvíz
+## A mindennapi élet kvíze
 
-| Kérdés | Válaszlehetőségek | Erről beszéljünk |
+| Kérdés | Lehetőségek | Beszélgetési téma |
 | --- | --- | --- |
-| Hűtőszekrények előtt sok otthonban egy… -ben tartották hidegen az ételt. | **jégszekrényben**, sütőben, padlásban | Ki hozta a jeget? |
-| Ki hozta üvegpalackokban a tejet az ajtóhoz? | a postás, **a tejesember**, az újságkihordó | Mi más érkezett még házhoz? |
-| Hogyan tárcsáztak tárcsás telefonon? | gombokat nyomva, **a tárcsát tekerve**, beszélve hozzá | Meséljen a telefonról az otthonukban |
-| Melyik cég gyártotta a Model T autót? | **Ford**, Chevrolet, Buick | Meséljen egy autóról, amelyet szeretett |
-| Hol találna egy üdítőpultos fiatalembert? | **üdítőpultnál**, pékségben, banknál | Mit rendelt a pultnál? |
-| Melyik játék egy fémrugó, amely le tud lépdelni a lépcsőn? | jojó, **Slinky**, hula-hoop | Milyen játékokat szerettek? |
-| A drive-in olyan hely volt, ahol… -t lehetett nézni. | **filmeket az autójukból**, meccseket, felvonulásokat | Kivel mentek? |
-| Kinek az arca van az egydolláros bankjegyen? | Lincoln, **George Washington**, Jefferson | Mit lehetett akkoriban egy dollárért venni? |
-| Kinek az arca van a centes érmén? | **Abraham Lincoln**, Washington, Franklin | Gyűjtötték akkoriban a fillért egy üvegben? |
-| Általában milyen színű az iskolabusz? | piros, **sárga**, kék | Hogyan jártak iskolába? |
+| A hűtőszekrények előtt sok otthonban ebben tartották hidegen az ételt: | **jégszekrény**, kemence, padlás | Ki szállította a jeget? |
+| Ki hozta a tejet az ajtóhoz üvegpalackban? | A postás, **a tejesember**, az újságkihordó | Mi mást szállítottak házhoz? |
+| Hogyan tárcsáztál forgótárcsás telefonon? | Gombokat nyomva, **egy tárcsát forgatva**, hozzá beszélve | Mesélj arról a telefonról, ami a házatokban volt |
+| Melyik cég gyártotta a Model T autót? | **Ford**, Chevrolet, Buick | Mesélj egy autóról, ami tetszett neked |
+| Hol találtál volna „soda jerk”-et? | **Egy italbárpultnál**, pékségben, bankban | Mit rendeltél a pultnál? |
+| Melyik játék egy fémrugó, amely képes lemenni a lépcsőn? | Jojo, **Slinky**, hulahopp | Melyik játékot szeretted nagyon? |
+| A drive-in az a hely volt, ahol... néztek | **filmeket az autóból**, baseballmeccseket, felvonulásokat | Kivel mentél? |
+| Ki látható az egydolláros bankjegyen? | Lincoln, **George Washington**, Jefferson | Mit lehetett venni egy dollárért akkoriban? |
+| Ki látható az egycentes érmén? | **Abraham Lincoln**, Washington, Franklin | Gyűjtöttél akkoriban egycenteseket egy befőttesüvegben? |
+| Milyen színű általában egy iskolabusz? | Piros, **sárga**, kék | Hogyan jutottál iskolába? |
 
 ## Ünnepek, természet és helyek
 
-| Kérdés | Válaszlehetőségek | Erről beszéljünk |
+| Kérdés | Lehetőségek | Beszélgetési téma |
 | --- | --- | --- |
-| Melyik ünnep november negyedik csütörtökén van? | a Munka ünnepe, **Hálaadásnap**, Emléknap | Mi volt mindig az asztalukon? |
-| Melyik ünnepre készítenek töklámpást? | **Halloween**, Húsvét, Karácsony | Meséljen a Halloweenről ott, ahol felnőtt |
-| A július negyedikei ünnep a … nyilatkozatát ünnepli. | Jogok, **Függetlenség**, Szabadság | Hol nézték a tűzijátékot? |
-| Melyik hónapban van az anyák napja? | április, **május**, június | Hogyan ünnepelt a családjuk? |
-| Hány csillag van az amerikai zászlón? | 48, **50**, 52 | 1959-ig 48 csillag volt a zászlón. Bármelyik válasz jó emléket idézhet |
-| Melyik óceán van a keleti parton? | Csendes-óceán, **Atlanti-óceán**, Jeges-tenger | Voltak valaha a tengerparton? |
-| Melyik városban áll a Szabadság-szobor? | Boston, **New York**, Philadelphia | Jártak már New Yorkban? |
-| Mit készítenek a méhek? | tej, **méz**, selyem | Méz a pirítóson vagy a teában? |
-| Hogyan hívják a kis tehenet? | csikó, **borjú**, kecskegida | Éltek valaha farm közelében? |
-| Melyik magas, sárga virág híres arról, hogy a nap felé fordul? | rózsa, **napraforgó**, tulipán | Mi nőtt a kertjükben? |
-| Hány napos egy szökőév? | 365, **366**, 360 | Meséljen egy emlékezetes születésnapról |
-| Melyik évszak jön a tél után? | ősz, **tavasz**, nyár | Melyik az Ön kedvenc évszaka? |
+| Melyik ünnep van november negyedik csütörtökjén? | Munka ünnepe, **Hálaadás napja**, Emlékezet napja | Mi volt mindig az asztalotokon? |
+| Milyen ünnepre készülnek a töklámpások? | **Halloween**, Húsvét, Karácsony | Mesélj a Halloweeneről ott, ahol felnőttél |
+| Július negyedike a Függetlenségi... aláírását ünnepli | jogokról, **nyilatkozatról**, szabadságról | Hol nézted a tűzijátékot? |
+| Melyik hónapban van az anyák napja? | Áprilisban, **májusban**, júniusban | Hogyan ünnepeltetek a családban? |
+| Hány csillag van az amerikai zászlón? | 48, **50**, 52 | A zászlón 1959-ig 48 csillag volt. Bármelyik válasz lehet jó emlék |
+| Melyik óceán van a keleti parton? | Csendes-óceán, **Atlanti-óceán**, Jeges-tenger | Jártál már tengerparton? |
+| Melyik városban van a Szabadság-szobor? | Bostonban, **New Yorkban**, Philadelphiában | Jártál már New Yorkban? |
+| Mit készítenek a méhek? | Tejet, **mézet**, selymet | Mézet pirítósra vagy teába? |
+| A tehén kicsinye a... | csikó, **borjú**, gida | Éltél valaha egy farm közelében? |
+| Melyik magas, sárga virág híres arról, hogy a nap felé fordul? | Rózsa, **napraforgó**, tulipán | Mi nőtt a kertetekben? |
+| Hány nap van egy szökőévben? | 365, **366**, 360 | Mesélj egy születésnapról, amire emlékszel |
+| Melyik évszak következik a tél után? | Ősz, **tavasz**, nyár | Melyik a kedvenc évszakod? |
 
-## Étel- és sportkvíz
+## Ételek és sportok kvíze
 
-| Kérdés | Válaszlehetőségek | Erről beszéljünk |
+| Kérdés | Lehetőségek | Beszélgetési téma |
 | --- | --- | --- |
-| A mazsola szárított… | szilva, **szőlő**, cseresznye | Tettek mazsolát az uzsonnásdobozba? |
-| Az aszalt szilva szárított… | **szilva**, füge, alma | Ki szerette az aszalt szilvát a családban? |
-| A mogyoróvaj és… | **lekvár**, sajt, sonka | Ropogós vagy krémes? |
-| A guacamole főleg … -ből készül. | borsó, **avokádó**, uborka | Milyen mártásokat tálaltak a partikon? |
-| Melyik pite a hálaadásnapi kedvenc? | **tökös pite**, citromos, cseresznyés | Melyik pitét készítették? |
-| Hány játékos van egy baseball-csapatból a pályán? | 7, **9**, 11 | Melyik csapatnak szurkoltak? |
-| Hány strike kell a baseballban egy outhoz? | kettő, **három**, négy | Játszottak valaha labdajátékot? |
-| Babe Ruth melyik sportággal volt híres? | boksz, **baseball**, golf | Jártak meccsekre? |
-| Hány lyuk van egy szabványos golfpályán? | 9, **18**, 24 | Játszottak már golfot vagy minigolfot? |
-| Melyik sportágban szerzünk touchdownt? | **amerikai futball**, jégkorong, kosárlabda | Ki nézte az amerikai futballt otthon? |
+| A mazsola szárított... | Szilva, **szőlő**, cseresznye | Csomagoltál mazsolát tízóraira? |
+| Az aszalt szilva szárított... | **szilva**, füge, alma | Ki szerette a családban az aszalt szilvát? |
+| Mogyoróvaj és... | **lekvár**, sajt, sonka | Ropogós vagy krémes? |
+| A guacamole főként ebből készül: | Borsó, **avokádó**, uborka | Milyen mártogatósok kerültek elő bulikon? |
+| Melyik pite a Hálaadás kedvence? | **sütőtökpite**, citrompite, meggyes pite | Melyik pitét sütötted? |
+| Hány játékos van egy baseballcsapatban a pályán? | 7, **9**, 11 | Melyik csapatnak szurkoltál? |
+| Hány strike-nál kell kifutni baseballban? | Kettőnél, **háromnál**, négynél | Játszottál valaha labdázni? |
+| Babe Ruth melyik sportról volt híres? | Boksz, **baseball**, golf | Jártál valaha baseballmeccsre? |
+| Hány lyuk van egy szokásos golfpályán? | 9, **18**, 24 | Játszottál valaha golfot vagy minigolfot? |
+| Melyik sportban szereznek touchdown-t? | **amerikai futball**, jégkorong, kosárlabda | Ki nézte az amerikai futballt nálatok? |
 
-## Ismerős közmondások
+## Ismerős szólások
 
-Egy közmondás befejezése a régen tanult nyelvi tudásra épül, és gyakran könnyen megy. A [Fejezze be a mondást](/games/finish-the-saying/) játékunkban sokkal több van, egy érintéssel bármelyik befejezés megmutatható.
+Egy szólás befejezése régen megtanult nyelvi ismeretekre épül, és gyakran könnyen megy. A [Fejezd be a szólást](/games/finish-the-saying/) játékunkban még sok van, koppintással bármelyik befejezés megmutatható.
 
-| Közmondás | Válaszlehetőségek | Erről beszéljünk |
+| Szólás | Lehetőségek | Beszélgetési téma |
 | --- | --- | --- |
-| Egy alma naponta, és távol marad az… | **orvos**, eső, macska | Ki mondta ezt Önnek régen? |
-| A korán kelő madár elkapja a… | busz, **férget**, vonat | Reggeli ember? |
-| Ne számolja a csirkéit, mielőtt… | **kikelnek**, alszanak, énekelnek | Tartottak csirkét a családjukban? |
-| A megtakarított fillér is… | **megkeresett**, elveszett, elköltött fillér | Ki volt a takarékos a családban? |
-| Otthon az, ahol a… | **szív van**, kert van, konyha van | Mitől érzi úgy egy hely, hogy otthon van? |
-| Jobb későn, mint… | korán, **soha**, bocsánat | Ki késett mindig? |
-| Minden felhőnek van ezüst… | **szegélye**, kanala, pénze | Meséljen egy szerencsés pillanatról |
-| A tettek hangosabban beszélnek, mint a… | **szavak**, zene, mennydörgés | Meséljen valakiről, aki ezt mondta |
+| Egy alma naponta távol tartja az... | **orvost**, esőt, macskát | Ki mondta ezt neked? |
+| A korán kelő madár kapja meg a... | buszt, **férget**, vonatot | Korán kelő típus vagy? |
+| Ne számold a tyúkjaidat, mielőtt... | **kikelnének**, aludnának, énekelnének | Tartott a családod tyúkokat? |
+| Ami a fillér, az a... | **márka**, a félnél is több, a vége | Ki volt a takarékos a családban? |
+| Otthon az, ahol a... | kert van, **szív van**, konyha van | Mi tesz egy helyet igazi otthonná? |
+| Jobb későn, mint... | korán, **soha**, elnézést kérni | Ki volt mindig késésben? |
+| Minden felhőnek van ezüst... | **szegélye**, kanala, érméje | Mesélj egy szerencsés fordulatról |
+| A tettek többet mondanak, mint a... | **szavak**, a zene, a mennydörgés | Mesélj valakiről, aki ezt mondta |
 
-## „Ez vagy az?” kérdések, amelyekre nincs rossz válasz
+## „Ez vagy az” kérdések, amelyekre nincs rossz válasz
 
-Ezek minden szakaszba illenek, a későbbibe is, mert nincs mit eltalálni. Kérdezzen, hallgasson, és mondja el a saját válaszát is.
+Ezek minden szakaszban jók, a későbbiekben is, mert nincs mit elrontani. Kérdezz, hallgasd meg, és a saját válaszodat is mondd el.
 
 - Kávé vagy tea?
 - Tengerpart vagy hegyek?
 - Kutyák vagy macskák?
 - Nyár vagy tél?
-- Pite vagy torta?
+- Pite vagy sütemény?
 - Táncolni vagy nézni?
-- Napkelte vagy naplemente?
-- Elülső tornác vagy hátsó kert?
+- Napkelte vagy napnyugta?
+- Előkert vagy hátsó kert?
 - Rádió vagy lemezek?
 - Palacsinta vagy tojás?
-- Rózsák vagy margaréták?
-- Vonatút vagy autós út?
+- Rózsák vagy százszorszépek?
+- Vonattal utazni vagy autóval menni?
 
-A képekhez kapcsolódó beszélgetésindító kérdésekért próbálja ki nyomtatható [beszélgetőkártyáinkat](/games/conversation-cards/).
+Képekhez kapcsolódó beszélgetési ötletekért próbáld ki nyomtatható [Beszélgetésindító kártyáinkat](/games/conversation-cards/).
 
-## Hogyan vezessen kvízalkalmat idősotthonban vagy csoportban?
+## Hogyan tarts kvízalkalmat idősek otthonában vagy csoportban?
 
-1. **Úgy üljenek le, hogy mindenki lássa és hallja.** Hallókészülék be, szemüveg fel, a tévé ki.
-2. **Beszélgetésként mutassa be.** „Van néhány kérdésem a régi időkről, és biztos többet tudnak, mint én.”
-3. **Minden kérdést kétszer olvasson fel, és a válaszlehetőségeket nagy betűvel mutassa.**
-4. **Üdvözöljön választ a terem bármely részéből.** Ismételje meg a jó válaszokat, hogy mindenki hallja őket.
-5. **Mondja ki a választ mindenkinek,** majd tegye fel a beszélgetési pontot az egész csoportnak.
-6. **Kövesse a lendületet.** Ha egy kérdés tíz perc történeteket indít el, hagyja.
-7. **Zárjon egy dallal vagy egy „ez vagy az?” körrel,** hogy mindenki valami könnyűvel fejezze be.
+1. **Ültess úgy, hogy mindenki lásson és halljon.** Hallókészülék bent, szemüveg felvéve, a tévé kikapcsolva.
+2. **Mutasd be beszélgetésként.** „Van néhány kérdésem a régi időkről, és fogadok, hogy többet tudtok, mint én.”
+3. **Olvasd fel minden kérdést kétszer, és a választási lehetőségeket mutasd nagyban.**
+4. **Fogadj örömmel válaszokat bárhonnan a teremből.** Ismételd el a jó válaszokat, hogy mindenki hallja.
+5. **Mondd el a választ mindenkinek,** aztán tedd fel a beszélgetési témát a társaságnak.
+6. **Kövesd az érdeklődést.** Ha egy kérdésből tíz percnyi történet lesz, hagyd.
+7. **Zárj egy dallal vagy egy „ez vagy az” körrel,** hogy mindenki könnyű dologgal fejezze be.
 
-A többi csoportos formáról, köztük a képes bingóról és a közös éneklésről, lásd: [csoportos tevékenységek gondozóotthonoknak](/activities/care-home-groups/).
+Más csoportos formátumokról, például képes bingóról és közös éneklésről lásd: [csoportos foglalatosságok idősek otthonában](/activities/care-home-groups/).
 
-## Mikor változtasson a tervön?
+## Mikor érdemes változtatni a terven?
 
-Ha valaki aggódónak látszik, elcsendesedik, vagy többször is azt mondja, hogy „Nem tudom”, könnyítsen: térjen át két választási lehetőségre, válaszoljanak együtt, vagy váltson „ez vagy az?” kérdésekre. Ha a csoport inkább egész délután egyetlen kérdésről beszélgetne, az sikernek számít. A cél sosem a helyes válasz volt. Az idő jó társaságban.
+Ha valaki bizonytalannak tűnik, elcsendesedik, vagy többször is azt mondja, hogy „Nem tudom”, könnyíts: térj vissza két választási lehetőségre, válaszoljatok együtt, vagy váltson át „ez vagy az” kérdésekre. Ha a csoport inkább egyetlen kérdésről beszélgetne egész délután, az is siker. A cél soha nem a helyes válaszok voltak. Hanem az idő, amit együtt, jó társaságban tölthettek.

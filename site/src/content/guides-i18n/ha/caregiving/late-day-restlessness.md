@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Ayyuka Masu Natsuwa na Ƙarshen Yamma"
-seoTitle: "Sundowning: Ayyuka Masu Natsuwa na Ƙarshen Yamma"
-description: "Tsare-tsare masu laushi, canje-canjen ɗaki da ayyuka masu natsuwa da za su iya sauƙaƙa rashin natsuwa na ƙarshen yamma a mantuwa, da lokacin kiran likita."
+title: "Sundowning: Ayyuka masu natsuwa a ƙarshen yamma ga masu fama da hauhawar kwakwalwa"
+seoTitle: "Sundowning: Ayyuka masu natsuwa a ƙarshen yamma"
+description: "Hanyoyin yau da kullun masu natsuwa, canjin wurin zama da ayyuka masu natsuwa waɗanda na iya rage tashin hankali na ƙarshen yini a cikin hauhawar kwakwalwa, tare da lokacin kiran likita game da sabbin alamomi ko alamomin da suka ƙara tsananta."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning shi ne rashin natsuwa, ruɗewa ko jin haushi da ke farawa ko ƙaruwa a
-  ƙarshen yamma ko maraice. Matakai masu amfani da za su iya taimakawa sun haɗa da
-  tsayayyen tsarin yini, hasken rana da aiki da wuri a cikin yini, ƙarancin barci a
-  ƙarshen yamma, ƙarancin kafeyin, fitilu masu haske a cikin gida kafin magariba,
-  gida mai natsuwa, da ayyuka masu natsuwa kamar kiɗa, hotuna ko naɗe tufafi. Sababbin
-  alamu ko masu ƙaruwa suna buƙatar likita ya duba su.
+  Sundowning ita ce tashin hankali, rudani ko fushi da ke farawa ko ya ƙara
+  tsananta a ƙarshen yamma. Matakan da suka dace da na iya taimakawa sun haɗa da
+  kasancewa da tsare-tsaren yau da kullun, rana da ayyuka da wuri a rana, rage
+  yin barci da yawa a ƙarshen yini, rage sinadarin kafin da ake sha, kunna fitilun
+  cikin gida kafin dare, rage hayaniya a gida, da ayyuka masu natsuwa kamar
+  kiɗa, hotuna ko nadawa tufafi. Sabbin alamomi ko alamomin da suka ƙara tsananta
+  suna buƙatar duba likita.
 keyPoints:
-  - "Sundowning yana nufin rashin natsuwa ko ruɗewa da ke farawa ko ƙaruwa yayin da hasken rana yake dusashewa."
-  - "Ku sanya ayyuka masu nauyi, fita da wanka da safe ko da wuri bayan rana ta ɗaga."
-  - "Hasken rana, tafiya kowace rana, ƙarancin barci a ƙarshen yamma da ƙarancin kafeyin a ƙarshen rana na iya taimakawa maraice su tafi cikin sauƙi."
-  - "Ku kunna fitilu kafin magariba, ku rage hayaniya, ku koma ayyuka masu natsuwa da aka saba da su."
-  - "Ku riƙe rubutu don gano abubuwan da ke tayar da shi, kuma ku natsu ku ba da tabbaci idan rashin natsuwa ya fara."
-  - "Ku ga likita idan alamu sababbi ne ko suna ƙaruwa: ciwo, kamuwa da cuta ko magunguna na iya taka rawa."
+  - "Sundowning yana nufin tashin hankali ko rudani da ke farawa ko ya ƙara tsananta yayin da hasken rana ke raguwa."
+  - "Sa ayyukan da ke da nauyi, fita waje da wanka a safiya ko farkon rana."
+  - "Hasken rana, tafiya kowace rana, rage yin barci da yawa a ƙarshen yini da rage sinadarin kafin da ake sha a ƙarshen yini na iya taimakawa maraice su tafi lafiya."
+  - "Kunna fitilun kafin dare, rage hayaniya, kuma ka koma kan ayyuka masu natsuwa da aka saba."
+  - "Riƙe rubutu don gane abubuwan da ke haifar da shi, kuma ka kasance da natsuwa da ta'aziyya lokacin da tashin hankali ya fara."
+  - "Ka je wurin likita don sabbin alamomi ko alamomin da suka ƙara tsananta: zafi, kamuwa da cuta ko magunguna na iya taka rawa."
 faq:
-  - q: "Wane lokaci na yini sundowning yakan faru?"
-    a: "Yawanci yana farawa ko ƙaruwa a ƙarshen yamma ko farkon maraice, yayin da hasken rana yake dusashewa. Daidai lokacin yana bambanta daga mutum zuwa mutum, shi ya sa riƙe ɗan rubutu na mako ɗaya ko biyu zai iya taimakawa."
-  - q: "Waɗanne ayyuka ne suke taimakawa da sundowning?"
-    a: "Ayyuka masu natsuwa, sananne, marasa nauyi yawanci su ne suka fi aiki a ƙarshen yamma: kiɗa mai kwantar da hankali, kallon hotuna, shirin talabijin ko fim da yake so, naɗe tufafi, ɗan tafiya, ko abun ciye-ciye tare. Ku ajiye sababbin ayyuka ko masu ƙalubale don da wuri a cikin yini."
-  - q: "Sundowning na iya zama alamar wani abu na likita?"
-    a: "Matsalolin lafiya kamar ciwo, kamuwa da cuta kamar na hanyar fitsari, matsalolin barci ko illolin magunguna na iya ƙara ta. Idan rashin natsuwa sabo ne, kwatsam ko yana ƙaruwa, ku tuntuɓi likitan mutumin."
-  - q: "Ya kamata in tambayi likita game da magani don sundowning?"
-    a: "Wannan tattaunawa ce da za a yi da likita. Alzheimer’s Association ta ce gabaɗaya ana fi son hanyoyin da ba magani ba da farko, kuma ya kamata a yi la’akari da kowane magani na rashin natsuwa na maraice ne kawai bayan an auna haɗari da fa’ida. Wannan shafi ba ya ba da shawarar magani."
+  - q: "A wane lokaci na yini sundowning yakan faru?"
+    a: "Yawanci yana farawa ko ya ƙara tsananta a ƙarshen yamma ko farkon maraice, yayin da hasken rana ke raguwa. Lokacin daidai yana bambanta daga mutum zuwa mutum, shi ya sa riƙe ɗan rubutu na mako ɗaya ko biyu na iya taimakawa."
+  - q: "Wadanne ayyuka ne suke taimakawa da sundowning?"
+    a: "Ayyuka masu natsuwa, da aka saba da su, kuma ba su da wahala sun fi dacewa a ƙarshen yamma: kiɗan kwantar da hankali, kallon hotuna, shirin talabijin ko fim da aka fi so, nadawa tufafi, ɗan tafiya, ko cin abun ciye-ciye tare. Ajiye sabbin ayyuka ko ayyukan da ke da wahala don farkon rana."
+  - q: "Zai iya samun sundowning ya kasance alama ce ta wata matsalar lafiya?"
+    a: "Zai iya ƙaruwa saboda matsalolin lafiya kamar zafi, kamuwa da cututtuka kamar ciwon mafitsara, matsalolin barci ko illolin magunguna. Idan tashin hankali ya kasance sabon abu, ya faru ba zato ba tsammani ko yana ƙara tsananta, ka tuntuɓi likitan wannan mutumin."
+  - q: "Ya kamata in nemi likita game da magani don sundowning?"
+    a: "Wannan tattaunawa ce da za a yi da likita. Ƙungiyar Alzheimer ta ce gabaɗaya ana fifita hanyoyin da ba magani ba a farko, kuma cewa duk wani magani don tashin hankali na maraice ya kamata a yi la'akari da shi ne kawai bayan an auna haɗari da fa'ida. Wannan shafi ba ya ba da shawarar magani."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Iyalai da yawa suna lura da tsari ɗaya: safiya tana da natsuwa sosai, amma yayin da la’asar take ci gaba, mai rayuwa da mantuwa yana zama marar natsuwa, mai damuwa, mai ruɗewa ko mai saurin jin haushi. Yana iya yawo, ya roƙi “a tafi gida” ko da yana gida, ko ya ɓata rai da sauƙi. Ana kiran wannan sau da yawa sundowning.
+Iyalai da yawa suna lura da wannan yanayin guda: safiya ta daɗe ba ta da matsala, amma yayin da rana ta ƙare, mutumin da ke fama da hauhawar kwakwalwa yana samun tashin hankali, damuwa, rudani ko fushi. Zai iya yin tafiya zuwa gaba da baya, ya nemi "tafi gida" ko da yana gida, ko ya fusata da sauƙi. Wannan ana yawan kiransa sundowning.
 
-Babu gyara ɗaya, amma canje-canje a yanayin yini, ɗaki da irin ayyukan da kuke bayarwa na iya sa ƙarshen yamma ya fi natsuwa. Wannan shafi yana tattara shawarwari masu amfani, marasa na likita, daga National Institute on Aging da Alzheimer’s Association. Ba shawarar likita ba ce. Idan alamu sababbi ne, kwatsam ko suna ƙaruwa, ku yi magana da likitan mutumin.
+Babu wata hanya guda da za ta gyara shi, amma canje-canje a yadda rana take gudana, a cikin daki da kuma irin ayyukan da kuke bayarwa na iya sa ƙarshen yamma su zama masu natsuwa. Wannan shafi ya tattara ra'ayoyi masu amfani, ba na likitanci ba daga Cibiyar Al'umma ta Kasa kan Tsofaffi da Ƙungiyar Alzheimer. Ba shawarar likitanci ba ne. Idan alamomi sabbi ne, sun faru ba zato ba tsammani ko suna ƙara tsananta, ku yi magana da likitan wannan mutumin.
 
 ## Mene ne sundowning?
 
-Sundowning shi ne rashin natsuwa, tashin hankali, jin haushi ko ruɗewa da ke farawa ko ƙaruwa yayin da hasken rana yake dusashewa, a ƙarshen yamma ko farkon maraice. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ta lura cewa gajiya da yawa na iya ƙara rashin natsuwa na ƙarshen yini.
+Sundowning shi ne tashin hankali, fargaba, fushi ko rudani da ke farawa ko ya ƙara tsananta yayin da hasken rana ke raguwa, a ƙarshen yamma ko farkon maraice. [Cibiyar Al'umma ta Kasa kan Tsofaffi (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ta lura cewa gajiya sosai na iya ƙara tashin hankali na ƙarshen yini.
 
-## Me zai iya ƙara rashin natsuwa na ƙarshen yini?
+## Mene ne zai iya sa tashin hankali na ƙarshen yini ya ƙara tsananta?
 
-Abubuwa da yawa na iya taimakawa, sau da yawa a lokaci guda. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ta lissafa abubuwa kamar:
+Abubuwa da yawa na iya taimakawa, sau da yawa tare. [Ƙungiyar Alzheimer](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ta jera abubuwa kamar:
 
-- gajiya bayan yini cike;
-- sababbin wurare ko masu ruɗarwa;
-- “agogon jiki na ciki” da bai daidaita ba, yana barin mutum da barci da rana da farke da dare;
-- ƙarancin haske da inuwa, waɗanda za su iya ruɗarwa;
-- ɗaukar damuwa ko takaici daga mutanen da ke kewaye da shi;
-- buƙatar ƙarancin barci, wanda ya zama ruwan dare ga tsofaffi.
+- gajiya bayan yini mai nauyi;
+- sabbin wurare ko wuraren da ba su daidai da al'ada;
+- "agogon jikin ciki" da ba ya daidai, wanda ke sa mutum ya yi barci da rana ya farka da dare;
+- ƙarancin haske da inuwa, waɗanda za su iya rikitarwa;
+- ɗaukar damuwa ko fushi daga mutanen da ke kusa da ku;
+- buƙatar barci kaɗan, wanda ke faruwa a cikin tsofaffi.
 
-NIA ta ƙara abubuwan da ke haddasa tashin hankali gabaɗaya, har da ciwo, baƙin ciki ko damuwa, ƙarancin hutu, maƙarƙashiya, hayaniya da yawa ko mutane da yawa, da wasu magunguna ko haɗuwar magunguna.
+NIA ta ƙara dalilan fargaba gabaɗaya, ciki har da zafi, damuwa ko tsananin damuwa, ƙarancin hutu, maƙarƙashiya, hayaniya da yawa ko mutane da yawa, da wasu magunguna ko haɗin magunguna.
 
-## Ta yaya zan tsara yini don maraice su fi natsuwa?
+## Ta yaya zan tsara yini don sa maraice su kasance masu natsuwa?
 
-Ku tura ayyuka masu nauyi zuwa da wuri ku riƙe ƙarshen yamma a laushi kuma mai sauƙin hasashe. Duka NIA da Alzheimer’s Association suna ba da shawarar tsari na yau da kullum. Ga misalin yini, don ku daidaita da naku:
+Sa abubuwan da ke da nauyi a farkon rana kuma ka sa ƙarshen yamma ya kasance mai natsuwa kuma abin dogara. NIA da Ƙungiyar Alzheimer duk suna ba da shawarar kasancewa da tsari na yau da kullun. Misalin yini, don daidaita da naku:
 
-| Lokaci | Abin da zai iya taimakawa |
+| Lokaci | Abin da na iya taimakawa |
 | --- | --- |
-| Safiya | Alƙawura, wanka, fita da duk aikin da yake buƙatar ƙoƙari, lokacin da mutane da yawa suke a farke sosai |
-| Ƙarshen safiya | Lokaci a waje ko kusa da taga mai rana; tafiya ko wani aiki |
-| Tsakar rana | Abincin rana mafi girma (Alzheimer’s Association ta ba da shawarar abincin rana mai girma da abincin dare mai sauƙi) |
-| Farkon la’asar | Hutu idan ana buƙata, amma ku guji dogon barci a ƙarshen yini |
-| La’asar zuwa ƙarshen yamma | Ayyuka masu natsuwa, sananne; abun ciye-ciye da abin sha; babu kafeyin |
-| Kafin magariba | Ku kunna fitilu a cikin gida ku rufe labule kafin duhu ya yi |
-| Maraice | Abinci mai sauƙi, kiɗa mai natsuwa, ƙarancin motsa hankali, tsayayyen tsarin kwanciya barci |
+| Safiya | Lokacin duba asibiti, wanka, fita waje da duk wani aiki da ke da nauyi, lokacin da mutane da yawa suke cikin wayewa |
+| Farkon rana | Lokaci a waje ko kusa da tagar da ke da rana; tafiya ko wani aiki |
+| Tsakar rana | Babban abincin rana (Ƙungiyar Alzheimer ta ba da shawarar babban abincin rana da abincin maraice mai sauƙi) |
+| Farkon rana zuwa tsakar rana | Hutu idan ana buƙata, amma a guji yin barci mai tsawo a ƙarshen yini |
+| Tsakar rana zuwa ƙarshen yamma | Ayyuka masu natsuwa da aka saba; abun ciye-ciye da abin sha; babu kafin |
+| Kafin dare | Kunna fitilun cikin gida kuma rufe labule kafin ya yi duhu |
+| Maraice | Abincin maraice mai sauƙi, kiɗan shiru, ƙarancin abubuwan motsa hankali, tsari na yau da kullun na lokacin kwanciya barci |
 
-Wasu takamaiman batutuwa daga tushen:
+Wasu bayanai daga kafofin:
 
-- **Hasken rana.** NIA tana ba da shawarar a tsara lokaci a waje ko kusa da taga don hasken rana kowace rana.
-- **Motsi kowace rana, amma ba da yawa ba.** Ku yi niyyar yin aiki da jiki kowace rana ba tare da tsara ayyuka da yawa ba, in ji NIA.
-- **Abubuwan sha na ƙarshen yini.** Ku guji giya da abubuwan sha masu kafeyin, kamar kofi ko cola, a ƙarshen rana (NIA). Alzheimer’s Association ta ambaci nicotine ma.
-- **Barci da rana.** Ku hana dogon barci da gyangyaɗi a ƙarshen yamma (NIA). Alzheimer’s Association ta ba da shawarar a iyakance barcin rana idan barcin dare matsala ce.
+- **Hasken rana.** NIA ta ba da shawarar samar da lokaci a waje ko kusa da taga don samun hasken rana kowace rana.
+- **Motsa jiki kowace rana, amma ba da yawa ba.** NIA ta ce ka kasance da motsa jiki kowace rana ba tare da shirya ayyuka da yawa ba.
+- **Abubuwan sha na ƙarshen yini.** Ka guji giya da abubuwan sha masu kafin, kamar kofi ko cola, a ƙarshen yini (NIA). Ƙungiyar Alzheimer ta kuma ambaci taba.
+- **Barci.** Ka hana yin barci mai tsawo da yin barci a ƙarshen yini (NIA). Ƙungiyar Alzheimer ta ba da shawarar iyakance yin barci da rana idan barcin dare yana da matsala.
 
-Don ƙarin bayani kan gina tsayayyen yini, ku duba [ayyukan tsarin yini](/activities/daily-routine/).
+Don ƙarin bayani game da gina yini mai tsari, duba [ayyukan yau da kullun](/activities/daily-routine/).
 
-## Ta yaya zan sa gida ya zama mai natsuwa a ƙarshen yamma?
+## Ta yaya zan sa gida ya kasance mai natsuwa a ƙarshen yamma?
 
-Ku rage hayaniya, ku ƙara haske kuma ku riƙe abubuwan da aka saba da su kusa.
+Rage hayaniya, ƙara haske kuma ajiye abubuwan da aka saba kusa.
 
-- **Haske mai ƙarfi, daidai.** Alzheimer’s Association tana ba da shawarar a riƙe gida da haske sosai da maraice. Ku haskaka wurin kafin inuwa ta bayyana.
-- **Ƙarancin hayaniya.** Ku kashe ko rage talabijin da rediyo, ku iyakance baƙi ko ayyukan gida masu cunkoso a wannan lokacin. Alzheimer’s Association tana ba da shawarar rage motsa hankali na maraice kamar talabijin, ayyukan gida da kiɗa mai ƙarfi.
-- **Abubuwan jin daɗi da aka saba da su.** NIA tana ba da shawarar kiɗa mai kwantar da hankali da riƙe abubuwa da hotuna da ake ƙauna a kewayen gida.
-- **Duba jin daɗi.** Alzheimer’s Association tana ba da shawarar a duba ciwo, yunwa, ƙishirwa, maƙarƙashiya, mafitsara mai cike, gajiya, kamuwa da cuta da ɓacin fata, a riƙe ɗaki a zafin da ya dace.
-- **Yanayinku.** Mutane suna ɗaukar damuwa. NIA tana ba da shawarar a rage gudu a yi ƙoƙarin hutawa idan damuwarku na iya ƙara tashin hankali.
+- **Fitilu masu haske da daidaito.** Ƙungiyar Alzheimer ta ba da shawarar kiyaye gidan da haske sosai da maraice. Ka kunna haske kafin inuwa ta bayyana.
+- **Hayaniya kaɗan.** Kashe ko rage talabijin da rediyo, kuma iyakance baƙi ko manyan ayyukan gida a wannan lokacin. Ƙungiyar Alzheimer ta ba da shawarar rage abubuwan motsa hankali na maraice kamar talabijin, aikin gida da kiɗan da ke da ƙara.
+- **Abubuwan ta'aziyya da aka saba.** NIA ta ba da shawarar kiɗan kwantar da hankali da ajiye abubuwan da aka fi so da hotuna a gida.
+- **Duba jin daɗi.** Ƙungiyar Alzheimer ta ba da shawarar duba zafi, yunwa, ƙishirwa, maƙarƙashiya, cikar mafitsara, gajiya, kamuwa da cuta da fushi na fata, da kuma kiyaye dakin da zafin da ya dace.
+- **Yanayin kanka.** Mutane suna ɗaukar damuwa. NIA ta ba da shawarar rage sauri kuma ka yi ƙoƙarin natsu idan damuwarka na iya ƙara matsalar.
 
-## Waɗanne ayyuka masu natsuwa za mu iya yi a ƙarshen yamma?
+## Wadanne ayyuka masu natsuwa za mu iya yi a ƙarshen yamma?
 
-Ku zaɓi ayyuka da aka saba da su, marasa gaggawa kuma masu sauƙin tsayawa. Alzheimer’s Association tana ba da shawarar ayyuka masu kwantar da hankali kamar kiɗa mai natsuwa, hotuna ko fim da yake so, da tafiya tare don sauƙaƙa rashin natsuwa. NIA tana ba da shawarar abun ciye-ciye ko abin sha, shirin talabijin da yake so, kiɗa, tafiya, karatu, ko sauƙaƙen aikin gida kamar naɗe tufafi.
+Zaɓi ayyuka da aka saba, ba sa hanzari kuma ana iya dakatar da su da sauƙi. Ƙungiyar Alzheimer ta ba da shawarar ayyuka masu natsuwa kamar kiɗan shiru, hotuna ko fim da aka fi so, da tafiya tare don rage tashin hankali. NIA ta ba da shawarar abun ciye-ciye ko abin sha, shirin talabijin da aka fi so, kiɗa, tafiya, karatu, ko aiki mai sauƙi na gida kamar nadawa tufafi.
 
-Shawarwarin da za a gwada:
+Ra'ayoyin da za a gwada:
 
-1. **Ku naɗe tufafi tare.** NIA tana ba da shawarar irin wannan sauƙaƙen aikin gida. Tawul suna da sauƙin riƙewa, kuma aikin yana da ƙarshe bayyananne.
-2. **Ku saka kiɗan da yake so.** Waƙoƙin da aka saba da su daga ƙuruciyarsa, a ƙaramar murya. Yin humming tare yana ƙidayuwa. Ƙarin shawarwari a [ayyukan kiɗa](/activities/music/).
-3. **Ku kalli hotuna.** Kundin hotuna, ko ’yan hotunan iyali a [Haɗa hotunan kanku](/games/photo-pairs/) da hotuna a bayyane, na iya kai wa ga hira mai natsuwa.
-4. **Ku yi ɗan gajeren tafiya.** A cikin lambu, kewayen gida ko hanyar gida, kafin duhu ya yi.
-5. **Ku raba abun ciye-ciye da abin sha.** Wani abu mai sauƙi, mai ɗumi, marar kafeyin, a teburi tare.
-6. **Haɗawa mai laushi.** [Haɗa hotuna biyu-biyu](/games/picture-pairs/) da tayal huɗu da hotuna a bayyane yana da sauƙin farawa da tsayawa.
-7. **Canza launi.** [Shafukan canza launi](/games/coloring/) a kan allo ko takarda da aka buga, ba tare da manufar kammalawa ba.
-8. **Kallo da magana.** [Katunan hira](/games/conversation-cards/) suna ba da hoto da buɗaɗɗiyar tambaya. Kallo kawai ya isa.
-9. **Hutun numfashi.** [Numfashi cikin natsuwa](/games/calm-breathing/) hutu ne mai jinkiri, mai shiru da kuke farawa kuma kuke tsayarwa da kanku.
-10. **Ayyukan hannu.** Rarraba maɓallai ko safa, gyara bargo mai laushi, ko riƙe wani abu da aka saba da shi. Ku duba [ayyukan hankulan jiki](/activities/sensory/).
+1. **Nadawa tufafi tare.** NIA ta ba da shawarar wannan irin aiki mai sauƙi na gida. Towel suna da sauƙin riƙewa, kuma aikin yana da ƙarshen bayyananne.
+2. **Kunna kiɗa da aka fi so.** Waƙoƙin da aka saba daga shekarun ƙuruciya, da ƙananan murya. Rera waƙa a ƙarƙashin baki yana ƙirga. Ƙarin ra'ayoyi a cikin [ayyukan kiɗa](/activities/music/).
+3. **Kallon hotuna.** Album na hotuna, ko ƴan hotunan iyali a cikin [Photo Pairs](/games/photo-pairs/) tare da barin hotuna a bayyane, na iya haifar da tattaunawa mai natsuwa.
+4. **Ɗan tafiya.** Kewaye da lambun, titi ko hanyar gida, kafin ya yi duhu.
+5. **Raba abun ciye-ciye da abin sha.** Abu mai sauƙi, dumi kuma ba shi da kafin, a tebur tare.
+6. **Daidaita masu sauƙi.** [Picture Pairs](/games/picture-pairs/) tare da fale-falen hudu da hotuna a bayyane suna da sauƙin farawa kuma suna da sauƙin dakatarwa.
+7. **Zanawa.** [Coloring](/games/coloring/) a kan allo ko a kan takarda da aka buga, ba tare da manufar kammalawa ba.
+8. **Kallo da magana.** [Conversation Cards](/games/conversation-cards/) suna ba da hoto da tambaya mai buɗewa. Kallon kawai ya isa.
+9. **Hutu na numfashi.** [Calm Breathing](/games/calm-breathing/) hutu ne mai natsuwa da hankali da kuke farawa kuma kuke dakatarwa da kanku.
+10. **Ayyukan hannu.** Tsara maɓallan kullewa ko safa, share bargo mai laushi, ko riƙe wani abu da aka saba. Duba [ayyukan ji](/activities/sensory/).
 
-Ku guji sababbin wasanni, fita masu cunkoso da duk abin da yake buƙatar ƙwaƙwalwa ko natsuwar tunani da yawa a ƙarshen yini. Ku ajiye waɗannan don safiya.
+Ka guji sabbin wasanni, fita waje masu yawa da duk abin da ke buƙatar ƙwaƙwalwa ko hankali sosai a ƙarshen yini. Ajiye waɗannan don safiya.
 
-## Me zan yi idan rashin natsuwa ya fara?
+## Me ya kamata in yi lokacin da tashin hankali ya fara?
 
-Ku natsu, ku ba da tabbaci, kuma ku karkatar da hankali a hankali. NIA tana ba da shawarar yin magana cikin natsuwa, sauraron damuwar mutumin, guje wa jayayya, tabbatar masa yana cikin aminci, da amfani da taɓawa mai laushi idan yana taimakawa. Sannan ku gwada karkatar da hankali: abun ciye-ciye, abin sha, kiɗa ko tafiya.
+Ka kasance da natsuwa, ka ba da ta'aziyya, kuma ka kai hankali da hankali. NIA ta ba da shawarar yin magana a hankali, sauraron damuwar wannan mutumin, guje wa gardama, ba shi tabbacin cewa yana lafiya, da kuma amfani da taɓawa mai laushi idan yana taimakawa. Sa'an nan ka gwada ɗaukar hankalinsa: abun ciye-ciye, abin sha, kiɗa ko tafiya.
 
-Alzheimer’s Association tana ba da shawarar kalmomi kamar “Kuna cikin aminci a nan” da “Ina baƙin cikin cewa kun ɓata rai,” kuma tana ba da shawarar ƙara haske, rage gudu da iyakance motsa hankali. Kada ku mamaye, ku cunkushe ko ku riƙe mutumin da ƙarfi, ko ku yi jayayya da shi.
+Ƙungiyar Alzheimer ta ba da shawarar furuci kamar "Kana cikin aminci a nan" da "Yi haƙuri da abin da kake ji," kuma ta ba da shawarar ƙara haske, rage sauri da iyakance abubuwan motsa hankali. Kada ka keɓe wannan mutumin, ka tursasa shi ko ka hana shi motsi, ko ka yi gardama da shi.
 
-Idan mutumin ya zama mai tashin hankali, NIA tana ba da shawarar a tsaya a nesa mai aminci har sai ɗabi’ar ta tsaya. A gaggawa, ku kira lambar gaggawa ta yankinku ku bayyana cewa mutumin yana da mantuwa.
+Idan wannan mutumin ya zama mai tayar da hankali, NIA ta ba da shawarar a tsaya nesa har sai halin ya tsaya. A cikin gaggawa, kira 911 kuma ka bayyana cewa wannan mutumin yana fama da hauhawar kwakwalwa. Jagorarmu game da [martani ga fushi da tayar da hankali](/caregiving/when-anger-becomes-aggression-with-dementia/) ta ƙunshi aminci na gaggawa da abin da za a yi bayan haka.
 
-Jagororinmu kan [sadarwa](/caregiving/communication-tips/) da [abin da za a yi idan ya ce a’a](/caregiving/when-they-say-no/) suna da ƙarin bayani kan kalmomin kwantar da hankali.
+Jagororinmu game da [sadarwa](/caregiving/communication-tips/) da [abin da za a yi idan suka ce a'a](/caregiving/when-they-say-no/) suna da ƙarin bayani game da kalmomin natsuwa.
 
-## Ta yaya zan gano abubuwan da ke tayar da shi?
+## Ta yaya zan gano abubuwan da ke haifar da shi?
 
-Ku riƙe ɗan rubutu na mako ɗaya ko biyu. Alzheimer’s Association tana ba da shawarar bin diddigin abin da yake faruwa kafin lokutan sundowning don gano abubuwan da ke tayar da shi. Ku rubuta lokacin da rashin natsuwa ya fara, abin da ya faru a sa’ar da ta gabata, barci, abinci da abubuwan sha, baƙi, hayaniya da haske. Ku kawo rubutun wurin likita. NIA ta lura cewa bin diddigin canje-canjen ɗabi’a na iya taimaka wa masu kulawa da ma’aikatan lafiya su gane tsari.
+Riƙe ɗan rubutu na mako ɗaya ko biyu. Ƙungiyar Alzheimer ta ba da shawarar bin diddigin abin da ke faruwa kafin lokutan sundowning don gano abubuwan da ke haifar da shi. Rubuta lokacin da tashin hankali ya fara, abin da ya faru a cikin sa'a guda kafin shi, barci, abinci da abubuwan sha, baƙi, hayaniya da haske. Kai rubutun ga likita. NIA ta lura cewa bin diddigin canje-canje a halayya na iya taimaka wa masu kula da lafiya da ma'aikatan lafiya su gane tsarin.
 
 ## Yaushe zan kira likita game da sundowning?
 
-Ku tuntuɓi likitan mutumin idan rashin natsuwa sabo ne, ya ƙaru kwatsam, ko yana zuwa da wasu canje-canje. NIA ta ce a kai canje-canjen ɗabi’a da suka zo kwatsam ko suke canzawa da sauri ga likita nan da nan, musamman bayan kamuwa da cuta ko canjin magani na kwanan nan.
+Ka tuntuɓi likitan wannan mutumin idan tashin hankali sabo ne, ya ƙara tsananta ba zato ba tsammani, ko ya zo tare da wasu canje-canje. NIA ta ce canje-canje na ba zato ba tsammani ko canje-canje masu sauri a halayya, musamman bayan kamuwa da cuta ko canje-canje na kwanan nan a magunguna, ya kamata a kai wa likita nan da nan.
 
-Ku roƙi likita ya duba abubuwan da za su iya sa maraice su yi wuya. Alzheimer’s Association ta ambaci matsalolin jiki kamar kamuwa da cutar hanyar fitsari, rashin iya riƙe fitsari, ƙafafu marasa natsuwa da apnea na barci, kuma tana ba da shawarar a tambayi waɗanne lokutan yini ne suka fi dacewa da kowane magani. NIA ta lissafa ciwo, maƙarƙashiya da illolin magani ko haɗuwar magunguna cikin abubuwan da za su iya haddasa tashin hankali.
+Ka nemi likita ya duba abubuwan da za su iya sa maraice su yi wahala. Ƙungiyar Alzheimer ta ambaci matsalolin jiki kamar kamuwa da cutar mafitsara, rashin iko da fitsari, ciwon ƙafa mai tafiya da ciwon barci, kuma ta ba da shawarar a tambaya waɗanne lokuta na rana ne suka fi dacewa ga kowane magani. NIA ta jera zafi, maƙarƙashiya da illolin magunguna ko haɗin su a cikin yiwuwar dalilan fargaba.
 
-Alzheimer’s Association ta ce gabaɗaya ana fi son hanyoyin da ba magani ba don matsalolin barci masu alaƙa da Alzheimer, kuma a yi la’akari da magani na tashin hankali na ƙarshen yini ne kawai idan waɗannan sun gaza, bayan an auna haɗari da fa’ida. Wannan shawara na likita ne. Kada ku fara, ku daina ko ku canza kowane magani, na taimakon barci ko ƙari ba tare da shawarar likita ba.
+Ƙungiyar Alzheimer ta ce gabaɗaya ana fifita hanyoyin da ba magani ba don matsalolin barci da ke da alaƙa da Alzheimer, kuma cewa magani don tashin hankali na ƙarshen yini ya kamata a yi la'akari da shi ne kawai idan waɗannan sun gaza, bayan an auna haɗari da fa'ida. Wannan shawara na likita ce. Kada ka fara, ka dakatar ko ka canza kowane magani, maganin barci ko kari ba tare da shawarar likita ba.
 
-## Ta yaya zan wuce maraice da kaina?
+## Ta yaya zan shawo kan maraice da kaina?
 
-Ƙarshen yamma na iya zama mafi wuyar ɓangaren yinin mai kulawa. Idan za ku iya, ku roƙi ɗan’uwa, aboki ko mai taimako da ake biya ya ɗauki ƙarshen yamma kwanaki kaɗan a mako, ko da na sa’a ɗaya ne. Jagorarmu ta [kula da kanku a matsayin mai kulawa](/caregiving/caregiver-self-care/) tana lissafa zaɓuɓɓukan hutu da layin taimakon mantuwa na ƙasarku, idan akwai.
+Karshen yamma na iya zama mafi wahala a lokacin yini ga mai kula da lafiya. Idan za ka iya, nemi wani memba na iyali, aboki ko ma'aikaci da aka biya don ɗaukar ƙarshen yamma wasu kwanaki a mako, ko da na sa'a ɗaya ne. Jagorarmu game da [kula da kai na mai kula da lafiya](/caregiving/caregiver-self-care/) ta lissafa zaɓuɓɓukan taimako na ɗan lokaci da Lambar Taimako ta 24/7 ta Ƙungiyar Alzheimer kyauta.

@@ -1,35 +1,35 @@
 ---
-title: "Dementzia duen pertsonak jarduera bat egiteari uko egiten dionean"
+title: "Dementzia duen pertsonak jarduera bati uko egitean"
 seoTitle: "Dementzia duen pertsonak jarduerari uko egitean"
-description: "Zergatik uko egin edo haserretu daitekeen dementzia duen pertsona bat jarduera batekin, zer probatu, zer saihestu eta noiz deitu medikuari."
+description: "Zergatik uko egin edo haserretu daitekeen dementzia duen pertsona jarduera batekin, zer probatu, zer saihestu eta noiz joan medikuarengana."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Dementzia duen norbaitek ezetz dioenean, onartu lasai eta saiatu berriro
-  geroago edo eskaini beste zerbait. Uko egiteak arrazoiren bat izan ohi du:
-  zeregina zail edo umeentzakoegia iruditzen zaio, nekatuta dago, mina du,
-  gose da edo zaratarekin gainezka sentitzen da. Ez eztabaidatu eta ez
-  behartu. Sinplifikatu, eskaini bi aukera edo eskatu laguntza. Bat-bateko
-  aldaketek edo azkar aldatzen den jokabideak, batez ere infekzio edo
-  botika berri baten ondoren, medikuarengana eraman behar dute berehala.
+  Dementzia duen norbaitek ezetz esaten duenean, onartu lasai eta saiatu berriro
+  geroago edo eskaini beste zerbait. Uko egiteak arrazoi bat izan ohi du:
+  zeregina zaila edo umeentzakoa iruditzen zaio, nekatuta dago, mina du, gose
+  edo egarri da, edo zaratarekin gainezka sentitzen da. Ez eztabaidatu eta ez
+  behartu. Sinplifikatu, eskaini bi aukera edo eskatu laguntza. Bat-bateko edo
+  azkar aldatzen den jokabideak, batez ere infekzio baten edo botika berri baten
+  ondoren, medikuaren arreta behar du berehala.
 keyPoints:
   - "«Ez» bat errespetatu beharreko erantzuna da, ez gainditu beharreko arazo bat."
-  - "Uko egiteak kausa bat izan ohi du: zailegia, umeentzakoegia, nekea, ondoezik egotea, deseroso egotea edo gainezka egotea."
-  - "Atzera egin, itxaron eta saiatu geroago, beste une batean edo bertsio errazago batekin."
-  - "Haien laguntza eskatzeak hobeto funtzionatzen du zerbait egitea eskatzea baino."
-  - "Ez eztabaidatu, ez behartu, ez galdetu eta ez zuzendu. Begiratu zeure buruari, ea presaka edo gehiegi hurbiltzen ari zaren."
-  - "Bat-bateko jokabide-aldaketak edo azkar aldatzen direnak, batez ere infekzio edo botika berriekin, berehala kontsultatu behar dira medikuarekin."
+  - "Uko egiteak kausa bat izan ohi du: zaila, umeentzakoa, nekea, ondoezik egotea, deseroso egotea edo gainezka sentitzea."
+  - "Urrundu, itxaron eta saiatu geroago, beste une batean edo bertsio errazago batekin."
+  - "Haren laguntza eskatzeak hobeto funtzionatzen du jarduera egitea eskatzeak baino."
+  - "Ez eztabaidatu, ez behartu, ez galdetu eta ez zuzendu. Begiratu ea zu presaka edo gainetik ari zaren."
+  - "Bat-bateko edo azkar aldatzen den jokabidea, batez ere infekzioarekin edo botika berriekin, berehala eraman behar zaio medikuari."
 faq:
   - q: "Ondo al dago jarduerak erabat alde batera uztea?"
-    a: "Bai, edozein egunetan. Elkarrekin eseri, musika entzun edo ingurua begiratzea nahikoa izan daiteke. Norbaitek asteetan ezer disfrutatzeari uzten badio, aipatu medikuari; aldarte baxua, mina edo beste osasun-arazo batzuk egon daitezke tartean."
-  - q: "Zergatik uko egiten diote lehen maite zituzten gauzei?"
-    a: "Antzinako zaletasun bat frustragarria izan daiteke orain dementziak zaildu dituen trebetasunak eskatzen dituenean, eta pertsonak lotsa senti dezake. Saiatu jarduera beraren zati errazago batekin, adibidez botoiak sailkatzen josi beharrean, edo lorategiko irudiak ikusten landatu beharrean."
-  - q: "Saiatu behar al naiz konbentzitzen?"
-    a: "Ez. Norbait dementziak zaildu duen zerbait egitera bultzatzea ezaguna da haserrea pizteko arrazoitzat. Onartu eza, aldatu gaia eta eskaini berriro geroago edo beste modu batean."
+    a: "Bai, edozein egunetan. Elkarrekin eseri, musika entzun edo ingurua begiratzea nahikoa izan daiteke. Norbaitek asteetan zehar ezer gozatzeari uzten badio, aipatu medikuari; umore baxua, mina edo beste osasun-arazo batzuk egoeraren parte izan daitezkeelako."
+  - q: "Zergatik uko egiten die lehen maite zituen gauzei?"
+    a: "Zaletasun zahar bat frustragarria izan daiteke dementziak zaildu dituen trebetasunak behar dituenean, eta pertsonak lotsa senti dezake. Saiatu jarduera bereko zati errazago batekin, adibidez, josi beharrean botoiak sailkatzen, edo landatu beharrean lorategiko argazkiak begiratzen."
+  - q: "Konbentzitzen saiatu beharko nuke?"
+    a: "Ez. Dementziak zaildu duen zerbait egitera bultzatzea asaldurarako eragile ezaguna da. Onartu eza, aldatu gaia eta eskaini berriro geroago edo beste modu batean."
   - q: "Noiz da jokabide-aldaketa bat larrialdia?"
-    a: "Deitu 112ra norbait arriskuan badago edo larrialdi mediko baten zantzuak baditu. Bat-bateko nahasmendurako edo ordu edo egun gutxitan azkar aldatzen den jokabiderako, batez ere sukarra, infekzioa edo botika berri bat badago, jarri harremanetan berehala medikuarekin."
+    a: "Deitu 911ra norbait arriskuan badago edo larrialdi mediko baten zantzuak baditu. Bat-bateko nahasmendurako edo ordu edo egun gutxitan azkar aldatzen den jokabiderako, batez ere sukarrarekin, infekzioarekin edo botika berri batekin, jarri harremanetan berehala haren medikuarekin."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -51,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Dena prestatzen duzu, joko bat edo paseo bat eskaintzen duzu, eta «Ez» entzuten duzu. Edo jarduera ondo hasten da eta tableta alde batera bultzatuta eta hitz zakar batekin amaitzen da. Gogorra da, eta oso ohikoa da. Uko egitea eta frustrazioa mezu bat izan ohi dira, ez tematasuna. Mezua zein den ulertzen saiatzeak askotan erakusten du zer probatu hurrena.
+Dena prestatzen duzu, joko bat edo paseo bat proposatzen duzu, eta «Ez» entzuten duzu. Edo jarduera ondo hasten da eta, azkenean, tableta baztertuta eta hitz zakar batekin amaitzen da. Desanimagarria da, eta oso ohikoa. Uko egitea eta frustrazioa mezu bat izan ohi dira, ez burugogorkeria. Mezua zein den ulertzen saiatzeak askotan erakusten du zer probatu hurrena.
 
-## Zergatik uko egiten diote dementzia duten pertsonek jarduerei?
+## Zergatik uko egiten die dementzia duen pertsonak jarduerei?
 
-Normalean arrazoiren bat egoten da, nahiz eta pertsonak ezin duen hitzez adierazi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) erakundeak dio erresistentziak pertsonak ezin duela zeregina egin edo saiatzeko beldur dela adieraz dezakeela. Ohiko kausak hauek dira:
+Normalean arrazoi bat egoten da, nahiz eta pertsonak ezin izan hitzez azaldu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) elkarteak dio erresistentziak esan nahi dezakeela pertsonak ezin duela zeregina egin edo saiatzeko beldur dela. Ohiko arrazoiak hauek dira:
 
-- **Zailegia iruditzen zaio.** Jarduerak orain dementziak zaildu dituen trebetasunak eskatzen ditu, eta norbaiten aurrean huts egitea lotsagarria da.
-- **Umeentzakoegia iruditzen zaio.** Helduek marrazki bizidunetako irudiak, haurrentzako tonuak eta haurrentzat egindako itxura duten jarduerak antzematen dituzte.
-- **Nekea.** Pertsona askok energia gutxiago dute egunaren amaieran. Ikus [arratsalde amaierako jarduera lasaiak](/caregiving/late-day-restlessness/).
-- **Deserosotasun fisikoa.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) erakundeak mina, lo falta, ikusteko edo entzuteko zailtasunak, idorreria, gosea, egarria eta botika berrien albo-ondorioak aipatzen ditu ondoezaren kausa posible gisa.
-- **Gehiegi gertatzen ari da.** Telebista ozenak, hainbat elkarrizketak edo jendez betetako gela batek gainezka egin dezakete.
-- **Bultzatuta sentitzea.** NIAk dio Alzheimer gaixotasunak oso zaildu duen zerbait egitera bultzatzea, edo gertaerak edo pertsonak gogoratzera behartzea, haserrearen kausa izan daitekeela.
-- **Aldarte baxua.** Gauzekiko interesa galtzea depresioaren zantzua izan daiteke, eta komeni da medikuarekin aipatu.
-- **Besterik gabe, ez du nahi.** Helduek badute ezetz esateko eskubidea.
+- **Zaila iruditzen zaio.** Jarduerak orain dementziak zaildu dituen trebetasunak eskatzen ditu, eta norbaiten aurrean huts egitea lotsagarria da.
+- **Umeentzakoa iruditzen zaio.** Helduak konturatzen dira marrazki bizidunak, haur-kantuen moduko ahotsak edo haurrentzat egindakoak diruditen jarduerak daudenean.
+- **Nekea.** Pertsona askok energia gutxiago izaten dute egunaren amaieran. Ikus [arratsalde amaierako jarduera lasaiak](/caregiving/late-day-restlessness/).
+- **Ezgaitasun fisikoa.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) erakundeak mina, lo falta, ikusteko edo entzuteko zailtasunak, idorreria, gosea, egarria eta botika berrien bigarren mailako ondorioak aipatzen ditu ondoezaren kausa posible gisa.
+- **Gehiegi dagoenean inguruan.** Telebista ozen batek, hainbat elkarrizketak edo gela jendetsu batek gainezka senti arazi dezakete.
+- **Bultzatuta sentitzea.** NIAk dio asalduraren kausak izan daitezkeela Alzheimer gaixotasunak oso zaildu duen zerbait egitera bultzatzea, edo gertakariak edo pertsonak gogoratzera behartzea.
+- **Umore baxua.** Gauzekiko interesa galtzea depresioaren seinale izan daiteke, eta komeni da medikuari azaltzea.
+- **Besterik gabe, ez du nahi.** Heldu batek ezetz esateko eskubidea du.
 
-## Zer probatu behar dut ezetz dioenean?
+## Zer probatu beharko nuke ezetz esaten duenean?
 
 Onartu eza lasai, eta gero aldatu zerbait: unea, jarduera, zailtasuna edo eskatzeko modua.
 
-1. **Utzi oraingoz.** «Ondo da. Agian geroago». Gero, jarraitu beste zerbaitekin hasperenik egin gabe.
-2. **Saiatu berriro geroago.** Alzheimer's Association erakundeak geroago edo eguneko beste une batean berriro saiatzea iradokitzen du.
-3. **Txikiago egin.** Parekatze bat joko oso baten ordez. Eskuoihal bat arropa-saskiaren ordez. Irudi gutxiago, aukera gutxiago, irudiak ikusgai utzita.
-4. **Eskaini bi aukera.** «Txorien irudiak ikusi nahi dituzu ala musika pixka bat entzun?». Aukera batek kontrol-sentsazioa itzultzen lagun dezake.
-5. **Eskatu laguntza, ez emaitza.** «Hauek sailkatzen lagunduko didazu?» edo «Esango al didazu zein kolore geratzen den hobekien?». Beharrezkoa sentitzea oso desberdina da proban jartzea baino.
-6. **Hasi zuk zeuk.** Hasi jarduera haien ondoan, ezer eskatu gabe. Pertsona askok bat egiten dute zerbait gertatzen ari denean, eta bat egiten ez badute ere, elkarrekin denbora eman duzue.
-7. **Aldatu zerbait fisiko edo lasaigarrira.** Paseo labur bat, musika, mokadu bat, arropa tolestea edo elkarrekin egindako [arnasketa lasai](/games/calm-breathing/) une bat. NIAk arreta musikara, liburu batera edo paseo batera bideratzea iradokitzen du.
-8. **Utzi bere erara egiten.** Arauak esaten dutenetik bestera jokatu nahi badute, jarraitu haiekin. Alzheimer's Association erakundeak malgua izatea gomendatzen du.
+1. **Utzi oraingoz.** «Ondo dago. Agian geroago.» Gero, jarraitu beste zerbaitekin, hasperenik egin gabe.
+2. **Saiatu berriro geroago.** Alzheimer's Association elkarteak iradokitzen du geroago berriro saiatzea, edo eguneko beste une batean.
+3. **Egin txikiagoa.** Joko oso baten ordez, parekatze bat. Arropa-saskiaren ordez, eskuoihal bat. Argazki gutxiago, aukera gutxiago, argazkiak ikusgai utzita.
+4. **Eskaini bi aukera.** «Txorien argazkiak ikusi nahi dituzu ala musika pixka bat entzun?» Aukera batek kontrol-sentsazioa itzultzen lagun dezake.
+5. **Eskatu laguntza, ez jarduera egitea.** «Hauek sailkatzen lagunduko didazu?» edo «Esango al didazu zein kolore geratzen den hobekien?» Beharra sentitzea oso desberdina da proban jartzea sentitzea baino.
+6. **Hasi zuk zeuk.** Hasi jarduera haren ondoan, ezer eskatu gabe. Pertsona asko bat egiten dute zerbait martxan dagoenean; eta bat egiten ez badute ere, denbora elkarrekin eman duzue.
+7. **Aldatu zerbait fisiko edo lasaigarrira.** Paseo labur bat, musika, mokadu bat, arropa tolestea edo elkarrekin [arnasketa lasai](/games/calm-breathing/) une bat egitea. NIAk iradokitzen du arreta musikara, liburu batera edo paseo batera bideratzea.
+8. **Utzi bere erara egiten.** Arauek esaten dutenetik bestelako moduan jokatu nahi badu, jarraitu haren erritmora. Alzheimer's Association elkarteak malgua izatea gomendatzen du.
 
-## Zer esan behar dut frustrazioa agertzen denean?
+## Zer esan beharko nuke frustratzen denean?
 
-Moteldu, jaitsi ahotsa eta lasaitu. [Haserreari buruzko Alzheimer's Association gida](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)k atzera egitea eta baimena eskatzea iradokitzen du, adierazpen lasai eta positiboak erabiltzea, eta bi aukeren arteko aukera gidatu bat eskaintzea. Ildo horretako esaldiak:
+Moteldu, jaitsi ahotsa eta lasaitu. [Asaldurari buruzko Alzheimer's Association gida](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) delakoak urruntzea eta baimena eskatzea iradokitzen du, adierazpen lasai eta positiboak erabiltzea, eta bi aukeren arteko hautaketa gidatu bat eskaintzea. Ildo horretako esaldiak:
 
-- «Sentitzen dut, hau nekagarria da. Utz dezagun».
-- «Ondo ari zara. Hemen nago zure ondoan».
-- «Denbora duzu beste zerbaitetan laguntzeko?»
-- «Nahiago duzu te bat hartu?».
+- «Sentitzen dut, hau gogorra ari da. Uts dezagun.»
+- «Ondo zoaz. Hemen nago zure ondoan.»
+- «Beste zerbaitetan laguntzeko astirik al duzu?»
+- «Te bat hartu nahi dugu horren ordez?»
 
-Gero, amaitu jarduera arazorik gabe. Gure [komunikazio-aholkuetan](/caregiving/communication-tips/) gehiago aurkituko duzu zer esan jakiteko.
+Gero, amaitu jarduera handirik egin gabe. Gure [komunikazio-aholkuetan](/caregiving/communication-tips/) gehiago aurkituko duzu zer esanari buruz.
 
-## Zer saihestu behar dut?
+## Zer saihestu beharko nuke?
 
-Erreakzio natural batzuek egoera okerrera egin dezakete.
+Erreakzio natural batzuek egoera okertzeko joera izan ohi dute.
 
-- **Eztabaidatzea edo behartzea.** «Ea, beste bat bakarrik» edo «Hau asko gustatzen zaizu» esateak gutxitan laguntzen du.
+- **Eztabaidatzea edo behartzea.** «Tira, beste bat bakarrik» edo «Asko gustatzen zitzaizun hau» esateak gutxitan laguntzen du.
 - **Galdetzea edo zuzentzea.** «Badakizu zer den hau» edo «Ez, hori ez da zuzena» esateak presioa gehitzen du.
-- **Pertsonaltzat hartzea.** NIAk gogorarazten du gaixotasunak eragiten dituela aldaketa horiek, ez pertsonak.
-- **Gehiegi hurbiltzea edo presaka ibiltzea.** Alzheimer's Association erakundeak gomendatzen du ez oihukatzea, ez alarma erakustea, ez izkinatzea, ez gehiegi hurbiltzea, ez eustea, ez kritikatzea, ez ezikusiarena egitea eta ez eztabaidatzea, eta pertsonaren ikusmen-eremutik kanpoko mugimendu bortitzak saihestea.
-- **Errua erabiltzea.** «Hau dena zuretzat prestatu dut» esateak biei uzten digu okerrago sentituta.
-- **Etiketatzea.** «Tematia» edo «zaila» esateak benetako arrazoia ezkutatzen du eta konpontzea zailtzen du.
+- **Pertsonalki hartzea.** NIAk gogorarazten du gaixotasunak eragiten dituela aldaketa horiek, ez pertsonak.
+- **Gainetik egotea edo presaka ibiltzea.** Alzheimer's Association elkarteak gomendatzen du ez oihukatzea, ez alarmatzea, ez baztertzea, ez gainetik egotea, ez eustea, ez kritikatzea, ez alde batera uztea eta ez pertsonarekin eztabaidatzea; halaber, saihestu haren ikus-eremutik kanpoko mugimendu bat-batekoak.
+- **Errua sentitzea eragitea.** «Hau dena zuretzat prestatu dut» esateak biok okerrago senti arazten gaitu.
+- **Etiketak jartzea.** «Burugogorra» edo «zaila» esateak benetako arrazoia ezkutatzen du eta konpontzea zailtzen du.
 
 ## Nola jakin dezaket zer dagoen behin eta berrizko ukoen atzean?
 
-Idatzi ohar sinple bat astebete edo bi astez. NIAk dio jokabide-aldaketen jarraipena egiteak zaintzaileei eta osasun-arloko profesionalei lagun diezaiekeela eredua antzematen eta kausa ulertzen.
+Hartu ohar soil bat aste batean edo bitan. NIAk dio jokabide-aldaketen jarraipena egiteak lagun diezaiekeela zaintzaileei eta osasun-profesionalei eredua antzematen eta kausa ulertzen.
 
 Idatzi:
 
 - eguneko ordua;
 - zer eskaini zenuen eta nola eskatu zenuen;
-- zer gertatzen ari zen inguruan (zarata, bisitariak, telebista);
-- nola lo egin zuen, jan eta edan, eta noiz joan zen azkenekoz komuneraino;
-- botika berriren bat edo azkenaldiko gaixotasunen bat.
+- inguruan zer gertatzen ari zen (zarata, bisitariak, telebista);
+- nola lo egin zuen, zer jan eta edan zuen, eta noiz joan zen azkenekoz komenera;
+- botika berririk edo azkenaldiko gaixotasunik ba ote zegoen.
 
-Ereduak askotan azkar agertzen dira: arratsaldeko 4etatik aurrera bakarrik gertatzen diren ukoak, joko jakin batekin bakarrik, edo telebista piztuta dagoenean bakarrik. Family Caregiver Alliance erakundearen [dementziaren jokabideei buruzko gida](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)k honela dio: ezin dugu pertsona aldatu, baina bai gure jokabidea eta ingurunea.
+Askotan ereduak azkar agertzen dira: 16:00etatik aurrera bakarrik gertatzen diren ukoak, joko jakin batekin bakarrik, edo telebista piztuta dagoenean bakarrik. Family Caregiver Alliance elkartearen [dementziaren jokabideei buruzko gidak](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) honela dio: ezin dugu pertsona aldatu, baina bai gure jokabidea eta ingurunea.
 
-## Noiz hitz egin behar dut medikuarekin uko egiteari edo frustrazioari buruz?
+## Noiz hitz egin beharko nuke medikuarekin uko egiteari edo frustrazioari buruz?
 
-Hitz egin medikuarekin jokabidea bat-batean, azkar edo gaixotasun-zantzuekin batera aldatzen denean. NIAk dio jokabidean bat-bateko aldaketak edo azkar aldatzen direnak, batez ere pertsonak infekzio bat izan badu edo botiketan aldaketak izan baditu, berehala jakinarazi behar zaizkiola medikuari.
+Hitz egin medikuarekin jokabidea bat-batean, azkar edo gaixotasun-zantzuekin batera aldatzen denean. NIAk dio jokabidean bat-bateko edo azkar aldatzen diren aldaketak, batez ere pertsonak infekzio bat izan badu edo azkenaldian botikak aldatu bazaizkio, berehala jakinarazi behar zaizkiola medikuari.
 
-Jarri harremanetan berehala medikuarekin hauetako bat ikusten baduzu:
+Jarri harremanetan berehala haren medikuarekin hauetako bat nabaritzen baduzu:
 
-- bat-bateko nahasmena edo ordu edo egun gutxitan aldaketa handia;
-- min-zantzuak, hala nola keinuak egitea, gorputzeko atal bat babestea edo mugitzeko zailtasun berria;
+- bat-bateko nahasmendua edo ordu edo egun gutxitan aldaketa handia;
+- min-zantzuak, hala nola keinuak egitea, gorputzaren zati bat babestea edo mugitzeko zailtasun berriak;
 - sukarra edo infekzio baten beste zantzu batzuk;
-- botika berriak edo aldatutako botikak, eta ondoren jokabidean aldaketa bat;
-- ia guztiarekiko interesa galtzea, negar gogoa edo erretiratzea, aste pare bat baino gehiago irauten badu;
+- botika berriak edo aldatutako botikak, eta ondoren jokabide-aldaketa bat;
+- ia guztiarekiko interesa galtzea, negar egiteko gogoa edo aste pare bat baino gehiagoz irauten duen bakartzea;
 - jateari edo edateari uko egitea.
 
-Alzheimer's Association erakundeak azterketa mediko osoa gomendatzen du jokabide-sintomak dituen edozein pertsonarentzat, batez ere bat-batean agertzen direnean. Family Caregiver Alliance erakundeak ere lehenik medikuarekin egiaztatzea gomendatzen du, jokabide-arazoek kausa mediko bat izan dezaketelako. Ez hasi, ez utzi eta ez aldatu botikarik mediku edo farmazialari batekin hitz egin gabe.
+Alzheimer's Association elkarteak gomendatzen du jokabide-sintomak dituen edozein pertsonari azterketa mediko osoa egitea, batez ere bat-batean agertzen direnean. Family Caregiver Alliance elkarteak ere gomendatzen du lehenik medikuarekin egiaztatzea, jokabide-arazoek kausa mediko bat izan dezaketelako. Ez hasi, ez utzi eta ez aldatu botikarik medikuarekin edo farmazialariarekin hitz egin gabe.
 
-Norbaitek arriskuan badago edo larrialdi mediko baten zantzuak badaude, deitu 112ra. NIAk iradokitzen du larrialdi-zentrora deitzean pertsonak dementzia duela esatea.
+Norbaitek arriskuan badago edo larrialdi mediko baten zantzuak badaude, deitu 911ra. NIAk iradokitzen du dei-hartzaileari pertsonak dementzia duela esatea. Haserrea fisiko bihurtzen denean berehala segurtasunerako eman beharreko urratsei buruz, ikus gure [dementziarekin lotutako haserreari eta oldarkortasunari buruzko gida](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
 ## Ondo al dago ezer ez egitea?
 
-Bai. Egun batzuetan jarduerarik onena jarduerarik ez egitea da: elkarrekin eseri, eskuak hartu, disko gogokoen bat entzun edo leihotik txoriak begiratu. Hori ez da porrota. Gure [elkarrekin jolasteko gida](/caregiving/how-to-play-together/)k azaltzen du zergatik izan daitekeen erabaki egokia goiz amaitzea, edo ez hastea ere.
+Bai. Egun batzuetan jarduerarik onena jarduerarik ez izatea da: elkarrekin eseri, eskutik heldu, gustuko disko bat entzun edo leihotik txoriak begiratu. Hori ez da porrot bat. Gure [elkarrekin jolasteko gidak](/caregiving/how-to-play-together/) azaltzen du zergatik izan daitekeen erabaki egokia goiz amaitzea, edo inoiz ez hastea.

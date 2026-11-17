@@ -1,35 +1,37 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Kodi matenda a kuiwala angapewedwe?"
+seoTitle: "Kodi matenda a kuiwala angapewedwe?"
+description: "Zomwe Lipoti la Lancet la 2024 ndi kafukufuku wina anapeza pa kuchepetsa chiopsezo cha matenda a kuiwala, zomwe sanapeze, ndi zomwe mungakambirane ndi dokotala."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Palibe amene angalonjeze kupewa matenda a kuiwala. Lipoti la Lancet la 2024
+  linafotokoza kuti pafupifupi theka la milandu ya matenda a kuiwala padziko
+  lonse ikugwirizana ndi zinthu 14 zomwe zingathe kusinthidwa, monga kuthamanga
+  kwa magazi, kutayika kwa makutu komanso kusachita zinthu zolimbitsa thupi.
+  Mayesero a kafukufuku amasonyeza kusintha kochepa pa mayeso a kuganiza, osati
+  umboni wakuti milandu ya matenda a kuiwala imachepa. Anthu ambiri amene
+  amachita zinthu zonse “moyenera” amapezekabe ndi matenda a kuiwala, ndipo si
+  kulakwa kwa wina aliyense.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lipoti la Lancet la 2024 linagwirizanitsa pafupifupi 45% ya milandu ya matenda a kuiwala padziko lonse ndi zinthu 14 zomwe zingathe kusinthidwa. Ichi ndi chiwerengero cha anthu onse, osati lonjezo kwa munthu payekha."
+  - "Kuchepetsa chiopsezo kumatanthauza kuchepetsa mwayi mu gulu lonse la anthu. Sizikutanthauza kuti munthu wina aliyense angapewe matenda a kuiwala."
+  - "Mayesero akuluakulu monga FINGER, US POINTER ndi SPRINT MIND anapeza phindu lochepa pa mayeso a kuganiza kapena pa mavuto ochepa a kuzindikira, koma palibe amene anatsimikizira kuti njira ya moyo imapewa matenda a kuiwala."
+  - "Ukalamba ndi chimodzi mwa zinthu zazikulu zodziwika zomwe zimawonjezera chiopsezo cha matenda a Alzheimer, ndipo sichingasinthidwe. Anthu ambiri okhala ndi zizolowezi zabwino zaumoyo amapezekabe ndi matenda a kuiwala."
+  - "Njira zomwe zimafufuzidwa kwambiri, monga kuthana ndi kuthamanga kwa magazi, kugwiritsa ntchito zida zothandizira kumva komanso kukhala wotakataka, ndi zoyenera kukambirana ndi dokotala chifukwa zimathandizanso pa thanzi m’njira zina."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Kodi matenda a kuiwala angapewedwe?"
+    a: "Palibe njira yotsimikizika yopewera matenda a kuiwala kwa munthu aliyense payekha. Kafukufuku amasonyeza kuti kuchepetsa zinthu zina zowonjezera chiopsezo, monga kuthamanga kwa magazi, kutayika kwa makutu kosasamalidwa komanso kusuta, kungachepetse mwayi wa matenda a kuiwala mu gulu lonse la anthu kapena kuchedwetsa nthawi imene angayambire. Awa ndi mwayi chabe, osati malonjezo."
+  - q: "Kodi chiwerengero cha 45% chochokera ku Lipoti la Lancet chimatanthauza chiyani?"
+    a: "Lipoti la Lancet la 2024 linafotokoza kuti pafupifupi 45% ya milandu ya matenda a kuiwala padziko lonse ikugwirizana ndi zinthu 14 zomwe, mwachiphunzitso, zingathe kusinthidwa. Chiwerengerochi chimaganiza kuti zinthuzo zimayambitsa matenda a kuiwala, ndipo olemba amatchula kuti maubale ena angakhale osakwanira kwathunthu pa chifukwa chake. Chimafotokoza za magulu onse a anthu ndipo sichikuuza chiopsezo cha munthu aliyense payekha."
+  - q: "Ngati kholo langa linali ndi moyo wathanzi, n’chifukwa chiyani linadwala matenda a kuiwala?"
+    a: "Ukalamba, majini komanso zinthu zambiri zimene palibe amene angazilamulire zimakhala ndi gawo lalikulu pa matenda a kuiwala. Olemba a Lipoti la Lancet amatchula kuti kuchepetsa chiopsezo mu gulu lonse la anthu sikutsimikizira kuti munthu aliyense adzapewe matenda a kuiwala. Kupezeka ndi matendawa si chizindikiro chakuti wina wake analephera."
+  - q: "Kodi n’zochedwa kuchepetsa chiopsezo cha matenda a kuiwala pambuyo pa zaka 65?"
+    a: "Lipoti la Lancet limati sikunachedwe kapena kukhalira msanga kuchepetsa chiopsezo, ngakhale kuti umboni wambiri umakhudza zaka za pakati pa moyo. Kuthana ndi mavuto a kumva ndi kuona, kukhala wotakataka komanso kukhalabe pa ubale ndi anthu ndi zitsanzo za njira za pambuyo pake pa moyo zomwe zinafufuzidwa. Kambiranani ndi dokotala za zomwe zikugwirizana ndi thanzi lanu."
+  - q: "Kodi masewera a ubongo kapena zakudya zapadera zimapewa matenda a kuiwala?"
+    a: "Palibe masewera, chakudya, mankhwala owonjezera kapena njira ya zakudya yomwe yatsimikiziridwa kupewa matenda a kuiwala. Kuyesera kwa zaka zitatu kwa zakudya za MIND kunapeza kuti palibe kusiyana kwakukulu pa kuganiza poyerekeza ndi zakudya zina, ndipo mapulogalamu a malonda ophunzitsira ubongo sanasonyezedwe kuti ali ndi zotsatira zomwe zimapezeka m’mayesero a kafukufuku."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +65,139 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ngati mukusamalira munthu amene ali ndi matenda a kuiwala, kapena mwaonapo kholo lanu likukhala ndi matendawa, mwina mwadzifunsapo ngati akanatha kupewedwa, komanso ngati inu mungathe kudziteteza. Tsambali likufotokoza zomwe kafukufuku amanenadi, m’mawu omveka bwino. Yankho lalifupi ndi lakuti: palibe amene angalonjeze kupewa matenda a kuiwala, koma kafukufuku amasonyeza kuti zina mwa zinthu zowonjezera chiopsezo zitha kuchepetsedwa, ndipo kuzichepetsa mu gulu lonse la anthu kungachititse kuti anthu ochepa adwale matenda a kuiwala kapena awadwale mochedwa.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Izi ndi zambiri zachidziwitso, osati malangizo a zachipatala. Chonde werengani [chidziwitso chathu cha zachipatala](/medical-disclaimer/) ndipo kambiranani ndi dokotala za thanzi lanu.
 
-## Can dementia be prevented?
+## Kodi matenda a kuiwala angapewedwe?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Palibe njira yotsimikizika yopewera matenda a kuiwala kwa munthu aliyense payekha. National Institute on Aging (NIA) imati ngakhale
+[palibe chomwe chatsimikiziridwa mpaka pano chopewera matenda a Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+ofufuza apeza njira zina zolonjeza ndipo akuphunzira zomwe zingathandize kapena zosathandiza.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Zomwe kafukufuku *amasonyeza* ndi zakuti zinthu zina zaumoyo ndi zizolowezi zimagwirizana ndi mwayi wokulirapo wa matenda a kuiwala. Zinthu zimenezi zikakhala zochepa mu gulu lonse la anthu, anthu ochepa angadwale matenda a kuiwala, kapena angawadwale mochedwa pa moyo wawo. Izi ndi zosiyana kwambiri ndi lonjezo.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Chizindikiro chimodzi cholimbikitsa: Lipoti la Lancet la 2024 linanena kuti m’mayiko ena olemera, kuphatikizapo US ndi UK, gawo la anthu achikulire omwe ali ndi matenda a kuiwala latsika. Olemba akuganiza kuti izi mwina zachitika mwa zina chifukwa cha maphunziro abwino, chisamaliro chaumoyo chabwino komanso kuwonongeka kochepa kwa mitsempha ya magazi pa moyo wonse, malinga ndi
+[chidule cha University College London cha lipotilo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Kodi Lipoti la Lancet la 2024 linapeza chiyani?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
+Bungwe la Lancet Commission pa kupewa, kulowererapo ndi chisamaliro cha matenda a kuiwala ndi gulu la ofufuza 27 a matenda a kuiwala omwe amawunikanso umboni zaka zingapo zilizonse. Lipoti lawo la 2024 linatchula **zinthu 14 zowonjezera chiopsezo** zomwe zingathe kusinthidwa, ndipo linafotokoza kuti pamodzi zimakhala ndi gawo la **pafupifupi theka (pafupifupi 45%) la milandu ya matenda a kuiwala padziko lonse**. M’mawu a olemba, milandu imeneyi *mwachiphunzitso* ingapewedwe kapena kuchedwetsedwa ngati zinthuzo zitachotsedwa
 ([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Zinthu 14, zogawidwa malinga ndi nthawi ya moyo imene umboni uli wamphamvu:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Ubwana:** maphunziro ochepa.
+- **Zaka za pakati pa moyo (pafupifupi zaka 40 mpaka 65):** kutayika kwa makutu, LDL cholesterol (“yoipa”) yambiri, kukhumudwa, kuvulala mutu, kusachita zinthu zolimbitsa thupi, matenda a shuga, kusuta, kuthamanga kwa magazi, kunenepa kwambiri, komanso kumwa mowa kwambiri.
+- **Moyo wakutsogolo:** kudzipatula kwa anthu, kuipitsidwa kwa mpweya, komanso kutayika kwa maso kosasamalidwa.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Zinthu ziwiri zatsopano zomwe zinawonjezedwa mu 2024 ndi LDL cholesterol yambiri ndi kutayika kwa maso kosasamalidwa. Zinthu zomwe zinagwirizana ndi gawo lalikulu la milandu zinali kutayika kwa makutu ndi LDL cholesterol yambiri (chilichonse pafupifupi 7%), kenako maphunziro ochepa ndi kudzipatula kwa anthu (chilichonse pafupifupi 5%).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Chitsogozo chathu cha zinthu zowonjezera chiopsezo](/brain-health/risk-factors/) chimafotokoza zonse 14 patebulo, ndi zomwe kafukufuku amagwirizanitsa komanso zomwe mungachite.
 
-### What the 45% figure does not mean
+### Zomwe chiwerengero cha 45% sichikutanthauza
 
-It is easy to misread this number, so it helps to be precise:
+N’zosavuta kumvetsa molakwika nambala imeneyi, choncho n’kothandiza kufotokoza momveka:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ndi chiwerengero cha anthu onse.** Chimafotokoza milandu ya matenda a kuiwala padziko lonse, osati mwayi wanu kapena wa kholo lanu.
+- **Chimaganiza za chifukwa ndi zotsatira.** Olemba amati anaphatikizapo zinthu zokha zomwe zili ndi umboni wokhutiritsa, koma maubale ena angakhale osakwanira kwathunthu pa chifukwa chake. Mwachitsanzo, kukhumudwa pa moyo wakutsogolo nthawi zina kungakhale chizindikiro choyambirira cha matenda a kuiwala osati chifukwa chake.
+- **Sichitsimikizira chilichonse kwa munthu mmodzi.** Chidule cha UCL chikunena kuti kuchepetsa chiopsezo kumagwira ntchito pa mlingo wa gulu lonse la anthu ndipo sikutsimikizira kuti munthu aliyense adzapewe matenda a kuiwala.
+- **Theka lina silikufotokozedwa ndi zinthuzi.** Ukalamba, majini ndi zifukwa zomwe asayansi sanazimvetsetsebe zimapanga gawo lotsalalo.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Kodi pali kusiyana kotani pakati pa “kuchepetsa chiopsezo” ndi “kupewa”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Kuchepetsa chiopsezo** kumatanthauza kuchepetsa mwayi. Ngati gulu lalikulu la anthu litachepetsa kuthamanga kwa magazi awo, ochepa mwa iwo angadwale matenda a kuiwala m’zaka zambiri kuposa momwe zikanakhalira. Anthu ena m’gululo adzawadwalabe.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Kupewa** kumatanthauza kuletsa kuti chinachake chisachitike n’komwe. Pa nkhani ya matenda a kuiwala, kafukufuku sangathe kulonjeza zimenezi kwa munthu aliyense lero.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ofufuza amakambanso za **kuchedwetsa**. Lipoti la Lancet likunena kuti pali umboni watsopano wosonyeza kuti kuchepetsa chiopsezo kungachedwetse nthawi imene matenda a kuiwala amayambira ndikuchepetsa nthawi imene munthu amakhala ndi thanzi lofooka. Ngakhale kuchedwa kwa zaka zochepa kungakhale kofunika kwambiri kwa munthu ndi banja lake.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Pa tsambali, timagwiritsa ntchito mawu akuti “kuchepetsa chiopsezo” ndi “zolumikizidwa ndi” mwadala. Mukawona chinthu, mankhwala owonjezera kapena pulogalamu ikulonjeza “kupewa Alzheimer”, samalani. NIA imalangiza kufunsa dokotala musanayese piritsi lililonse kapena chithandizo chilichonse chomwe chikulonjeza kupewa Alzheimer, chifukwa zinthu zotere zingakhale zoopsa, kuwononga ndalama, kapena zonse ziwiri.
 
-## What have large trials found?
+## Kodi mayesero akuluakulu apeza chiyani?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Kafukufuku wowonera (omwe amawona zomwe zimachitika kwa anthu pakapita nthawi) amatha kusonyeza maubale. Mayesero osankhidwa mwachisawawa, pomwe anthu amapatsidwa pulogalamu kapena gulu loyerekeza mwamwayi, ndi mayeso amphamvu kwambiri. Nazi zomwe mayesero ena odziwika bwino anapeza.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Kafukufuku wa FINGER anaphatikizapo akuluakulu 1,260 azaka 60 mpaka 77 omwe anali ndi chiopsezo chachikulu cha matenda a kuiwala. Theka linalandira pulogalamu ya zaka ziwiri ya malangizo a zakudya, zolimbitsa thupi, masewera a ubongo pa kompyuta komanso kuyang’anira thanzi la mtima ndi mitsempha ya magazi; theka lina linalandira malangizo wamba a zaumoyo. Gulu la pulogalamulo linachita bwino pang’ono pa mayeso a kagulu ka kuganiza, kusiyana kochepa koma kotsimikizika pa ziwerengero
+([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Kuyeseraku kunayeza zotsatira za mayeso, osati kuzindikira matenda a kuiwala.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER inaphatikizapo akuluakulu 2,111 azaka 60 mpaka 79 omwe sanali ochita zambiri, anali ndi zakudya zosakhala zathanzi komanso anali ndi zinthu zina zowonjezera chiopsezo. Magulu onse awiri analimbikitsidwa kukhala otakataka mwakuthupi ndi mwaganizo, kudya bwino, kukhalabe pa ubale ndi anthu komanso kuyang’anira thanzi la mtima. Gulu limodzi linalandira pulogalamu yokonzedwa bwino ndi yolangizidwa; lina linadzitsogolera lokha. M’zaka ziwiri, zotsatira za mayeso a kuganiza zinawongokera **m’magulu onse awiri**, ndipo pang’ono kwambiri m’gulu lokonzedwa bwino
+([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Olemba amati kufufuza kowonjezera kukufunika kuti adziwe ngati kusiyanaku kuli kofunika pa moyo wa tsiku ndi tsiku. Popeza panalibe gulu “losachita chilichonse”, kuyeseraku sikungathe kunena kuti pulogalamu iliyonse inathandiza bwanji poyerekeza ndi kusasintha kulikonse.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (kuthamanga kwa magazi)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
+SPRINT MIND inafufuza akuluakulu 9,361 ku US azaka 50 ndi kupitirira omwe anali ndi kuthamanga kwa magazi. Anapatsidwa cholinga chochepetsa kuthamanga kwa magazi (nambala yapamwamba pansi pa 120) kapena cholinga chokhazikika (pansi pa 140). Cholinga chochepetsacho chinachepetsa kwambiri **mavuto ochepa a kuzindikira**, gawo la mavuto a kukumbukira ndi kuganiza lomwe lingabwere matenda a kuiwala asanafike. Pa **matenda a kuiwala otheka**, panali milandu yochepa m’gulu la cholinga chochepa, koma kusiyanaku sikunali kotsimikizika pa ziwerengero. Kuyeseraku kunayimitsidwa msanga ndipo kunali ndi milandu yochepa ya matenda a kuiwala kuposa momwe amayembekezera, choncho mwina kunali kochepa kwambiri kuyankha funsoli
 ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Zomwe kuwunika kwa kafukufuku kumasonyeza
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
+Kuwunika kwa Cochrane kwa 2021 kunaphatikiza mayesero akuluakulu asanu ndi anayi a mapulogalamu omwe amayang’ana zinthu zingapo zowonjezera chiopsezo nthawi imodzi, ndi anthu opitirira 18,000. Kunapeza phindu lochepa pa mayeso a kuganiza, koma **palibe kusiyana koonekeratu pa kuchuluka kwa anthu omwe anadwala matenda a kuiwala** m’mayesero awiri omwe anayeza zimenezo
 ([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Kuwunika kwa 2017 ndi National Academies of Sciences, Engineering, and Medicine, komwe kunafotokozedwa mwachidule ndi NIA, kunapeza umboni “wolimbikitsa koma wosatsimikizika” pa njira zitatu: kuyang’anira kuthamanga kwa magazi, kuchulukitsa zochita zolimbitsa thupi, komanso kuphunzitsa ubongo.
 
-## Does it matter when you start?
+## Kodi nthawi imene muyamba imakhala yofunika?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Malangizo a Lipoti la Lancet ndi oti muchepetse zinthu zowonjezera chiopsezo mwamsanga momwe mungathere ndikuzisunga zili zochepa nthawi yonse yomwe mungathe: “msanga ndi bwino” ndipo “motalika ndi bwino.” Limatinso sikunachedwe kapena kukhalira msanga kuchepetsa chiopsezo. Umboni wambiri umakhudza zaka za pakati pa moyo, pafupifupi zaka 40 mpaka 65, koma zinthu zina, monga kutayika kwa maso ndi kudzipatula kwa anthu, ndi zowonjezera chiopsezo za moyo wakutsogolo zomwe kuchitapo kanthu kungakhalebe koyenera.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Lipotilo limati tsopano pali umboni wamphamvu wosonyeza kuti kukumana ndi chiopsezo kwa nthawi yaitali kumakhala ndi zotsatira zazikulu. Mwachitsanzo, matenda a shuga omwe amayamba zaka za pakati pa moyo amaoneka kuti ndi ofunika kwambiri kuposa omwe amayamba mochedwa.
 
-## Is dementia risk the same for everyone?
+## Kodi chiopsezo cha matenda a kuiwala ndi chofanana kwa aliyense?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ayi. Bungweli linapeza kuti anthu m’mayiko opeza ndalama zochepa ndi zapakati, anthu ochokera m’magulu ang’onoang’ono komanso anthu osauka nthawi zambiri amakhala ndi zinthu zambiri zowonjezera chiopsezozi, choncho matenda a kuiwala amakonda kuyamba ali aang’ono. Zinthu zambiri zowonjezera chiopsezo zimagwirizana ndi mikhalidwe imene anthu sanasankhe, monga ubwino wa maphunziro omwe analandira ali ana, mpweya wa kumalo kumene amakhala, komanso ngati chakudya chathanzi chimapezeka mosavuta ndi pamtengo wokwanira.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+N’chifukwa chake malangizo a Bungweli amalunjika kwa maboma monga momwe amalunjikira kwa anthu payekha: maphunziro abwino kwa ana onse, mpweya waukhondo, njira zochepetsera kusuta, shuga ndi mchere wochepa m’zakudya zomwe zimagulitsidwa m’masitolo ndi malo odyera, komanso zida zothandizira kumva kwa aliyense amene akuzifuna. Khama la munthu payekha ndi lofunika, koma dziko limene anthu amakhalamo nalonso ndi lofunika. Ichi ndi chifukwa chinanso chosapatsa mlandu munthu aliyense chifukwa chodwala matendawa.
 
-## What are the honest limits of this research?
+## Kodi malire oona a kafukufukuyu ndi ati?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Matenda a kuiwala amatenga zaka zambiri kukula**, koma mayesero ambiri amatenga zaka ziwiri mpaka zisanu. Kuyeza matendawa eni eni, osati zotsatira za mayeso zokha, kumafuna kafukufuku wautali kwambiri komanso wokhala ndi anthu ambiri.
+- **Mayesero ambiri amayeza mayeso a kuganiza.** Kuwongolera kochepa pa mayeso sikutanthauza kuti anthu ochepa adzadwala matenda a kuiwala kapena kuti moyo wa tsiku ndi tsiku udzakhala wosavuta.
+- **Odzipereka nthawi zambiri amakhala athanzi** komanso ophunzira bwino kuposa anthu ambiri. Lipoti la Lancet limatchula kuti umboni wambiri umabwerabe kuchokera m’mayiko olemera ndipo magulu ang’onoang’ono sakuyimiridwa mokwanira.
+- **Maubale ena amayenda mbali zonse ziwiri.** Kusachita zambiri kapena kusacheza ndi anthu kungakhale zotsatira zoyambirira za matenda a kuiwala, osati chifukwa chake chokha.
+- **Mayesero a zakudya mpaka pano akhumudwitsa.** Kuyesera kwa zaka zitatu kwa zakudya za MIND kunapeza kuti palibe kusiyana kwakukulu pa kuganiza poyerekeza ndi zakudya zina. Onani [chitsogozo chathu cha zakudya](/brain-health/diet/).
+- **Masewera a ubongo sanatsimikizidwe kupewa matenda a kuiwala.** Onani chitsogozo chathu cha [masewera a ubongo ndi matenda a kuiwala](/brain-health/brain-games/).
+- **Kusala kudya kuli ndi umboni wochepa kwambiri mwa anthu**, ndipo kungakhale koopsa kwa akuluakulu. Onani [chitsogozo chathu cha kusala kudya](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Ngati munthu anachita zonse “moyenera”, n’chifukwa chiyani anadwalabe matenda a kuiwala?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Chifukwa matenda a kuiwala si zotsatira za zosankha zokha. NIA imati
+[ukalamba ndi chimodzi mwa zinthu zazikulu zodziwika zomwe zimawonjezera chiopsezo cha Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ndipo palibe amene angasinthe zimenezi. Majini amakhala ndi gawo. Ndipo asayansi sanamvetsetsebe kwathunthu zomwe zimayambitsa Alzheimer mwa anthu ambiri. Ngakhale zinthu zonse 14 zowonjezera chiopsezo zitachotsedwa, chiwerengero cha Lipoti la Lancet chimasiya opitirira theka la milandu osafotokozedwa.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Choncho, ngati mukusamalira munthu amene ankalimbitsa thupi, ankadya bwino, sanasutepo ndipo anadwalabe matenda a kuiwala, palibe chomwe chinalakwika mbali yake, kapena mbali yanu. Ngati inuyo mukukhala ndi matenda a kuiwala, si kulakwa kwanu. Kudzimva wolakwa n’kofala m’mabanja, koma si koyenera. Chofunika tsopano ndi chitonthozo, ubale ndi masiku abwino, ndipo [maganizo athu a zochitika](/activities/ideas/) ndi [chitsogozo chathu cha kudzisamalira kwa osamalira](/caregiving/caregiver-self-care/) ndi malo abwino oyambira.
 
-## What steps can you talk over with a doctor?
+## Ndi njira ziti zomwe mungakambirane ndi dokotala?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Awa ndi madera omwe amafufuzidwa kwambiri. Ndi oyenera kuwakambirana pa nthawi yoyezetsa thanzi chifukwa ambiri mwa iwo amathandizanso thanzi la mtima, malingaliro ndi kudziyimira pawokha, ziribe kanthu zotsatira zake pa matenda a kuiwala.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Kuthamanga kwa magazi.** Funsani kuti manambala anu ndi otani komanso cholinga choyenera kwa inu. Lipoti la Lancet limalimbikitsa kuyesetsa kuti nambala yapamwamba ikhale 130 kapena pansi pake kuyambira pafupifupi zaka 40, koma cholinga choyenera kwa munthu wachikulire chimadalira thanzi lake lonse.
+2. **Kumva.** Funsani kuti muyezetsedwe makutu, komanso ngati zida zothandizira kumva zingathandize. [Chitsogozo chathu cha kumva](/brain-health/hearing/) chikufotokoza kafukufuku.
+3. **Kuona.** Muziyezetsa maso nthawi zonse ndipo funsani ngati mavuto monga ng’ala angathandizidwe.
+4. **Cholesterol.** Funsani ngati LDL cholesterol yanu iyenera kuyesedwa komanso ngati pali chilichonse chomwe chiyenera kusintha.
+5. **Shuga m’magazi.** Ngati muli ndi matenda a shuga, funsani momwe mungayendetsere motetezeka.
+6. **Malingaliro.** Kukhumudwa n’kofala ndipo kumathandizika. Uzani dokotala ngati mwakhala mukumva chisoni kapena mwataya chidwi pa zinthu kwa milungu yopitirira iwiri.
+7. **Kusuta ndi mowa.** Funsani za thandizo loleka kusuta komanso za malire otetezeka a mowa.
+8. **Kuyenda ndi kuchita zinthu.** Funsani kuti ndi zochita ziti zomwe ndi zotetezeka kwa inu. [Chitsogozo chathu cha zolimbitsa thupi](/brain-health/exercise/) chili ndi maganizo.
+9. **Kuteteza mutu.** Valani chisoti mukamakwera njinga kapena mukamasewera masewera olimbana, ndipo funsani za kupewa kugwa.
+10. **Kukhalabe pa ubale ndi anthu.** Nthawi ndi anthu ena ndi gawo la moyo wathanzi. Onani chitsogozo chathu cha [ubale ndi anthu](/brain-health/social-connection/), komanso [kugona](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Musanayambe kusintha mankhwala, zakudya, mankhwala owonjezera, kusala kudya kapena zolimbitsa thupi, kambiranani ndi dokotala wanu kaye, makamaka ngati muli ndi matenda a mtima, matenda a shuga, mbiri ya kugwa, kapena mukukhala kale ndi matenda a kuiwala.
 
-## Talk with a doctor
+## Kambiranani ndi dokotala
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ngati mwaona kusintha pa kukumbukira kapena kuganiza komwe kukukudetsani nkhawa, mwa inu kapena munthu wina, pangani nthawi yokumana ndi dokotala. NIA imati
+[mavuto a kukumbukira angakhale ndi zifukwa zina](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+monga zotsatira za mankhwala, mavuto a chithokomiro, kukhumudwa kapena kuchepa kwa vitamini B12, ndipo ena mwa mavutowa amatha akachiza chomwe chimawayambitsa. [Chitsogozo chathu cha zizindikiro zochenjeza](/brain-health/warning-signs/) chikufotokoza zomwe mungayang’ane.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Funsani thandizo mwachangu** pakakhala kusintha kwadzidzidzi: chisokonezo chodzidzimutsa, kufooka kapena dzanzi mbali imodzi ya thupi, kuvutika kuyankhula, kapena kupweteka mutu kwambiri kungakhale zizindikiro za sitiroko kapena vuto lina ladzidzidzi. Imbani 911.
 
-## Where Golden Moments fits
+## Udindo wa Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments imapereka zochitika zosavuta zochitira limodzi, monga
+[makhadi oyambitsira kukambirana](/games/conversation-cards/),
+[picture bingo](/games/picture-bingo/) ndi
+[kupuma modekha](/games/calm-breathing/). Ndi zosangalatsa komanso nthawi yocheza limodzi. Si chithandizo, ndipo sizimapewa kapena kuchepetsa matenda a kuiwala.

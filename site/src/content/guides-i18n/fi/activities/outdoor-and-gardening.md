@@ -1,33 +1,33 @@
 ---
-title: "Ulkoilu- ja puutarhatoiminnat dementiaa sairastaville"
-seoTitle: "Puutarha- ja ulkoilutoiminnat dementiaan"
-description: "Puutarha- ja ulkoilutoimintaideoita dementiaa sairastaville: kohotetut penkit, ruukkupuutarha ja turvallisuusvinkit kuumuuteen, aurinkoon ja harhailuun."
+title: "Ulkoilu- ja puutarhatoiminta muistisairaalle"
+seoTitle: "Puutarha ja ulkoilu muistisairauden kanssa"
+description: "Puutarha- ja ulkoiluideoita muistisairasta ihmistä varten, kuten korotetut penkit, ruukkupuutarha ja vinkkejä helteeltä, auringolta ja harhailulta suojaamiseen."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Puutarhanhoito ja aika ulkona voivat olla rauhallinen ja tuttu toiminta
-  dementiaa sairastavalle. Kokeilkaa kastelua, yrttien istuttamista ruukkuun,
-  kukkien kitkemistä tai lyhyttä kävelyä aidatulla pihalla. Käyttäkää kohotettuja
-  penkkejä tai pöytää, jotta kenenkään ei tarvitse polvistua, välttäkää teräviä
-  työkaluja ja myrkyllisiä kasveja, menkää ulos päivän viileämpään aikaan ja
-  pysykää aina henkilön kanssa.
+  Puutarhanhoito ja ulkona olo voivat olla rauhallista ja tuttua tekemistä
+  muistisairaalle ihmiselle. Voitte kokeilla kastelua, yrttien istuttamista
+  ruukkuihin, kuihtuneiden kukkien nyppimistä tai lyhyttä kävelyä aidatulla
+  pihalla. Käyttäkää korotettuja penkkejä tai pöytää, jotta kenenkään ei
+  tarvitse polvistua. Välttäkää teräviä työkaluja ja myrkyllisiä kasveja,
+  menkää ulos päivän viileimpään aikaan ja pysykää aina henkilön seurassa.
 keyPoints:
-  - "Yksinkertaiset puutarhatehtävät, kuten kastelu, siementen istuttaminen ruukkuun, yrttien tuoksuttelu ja kukkien poimiminen, voidaan tehdä seisten tai istuen."
-  - "Kohotetut penkit, ruukut ja katettu pöytä tuovat puutarhan vyötärön korkeudelle ja pienentävät kaatumisriskiä."
-  - "Vältä teräviä työkaluja, piikikkäitä tai ärsyttäviä kasveja sekä myrkyllisiä kasveja. Varmista, ettei multaa sekoiteta ruoaksi."
-  - "Kuumuus voi olla vaarallista iäkkäille. Menkää ulos aikaisin tai myöhään, tuokaa vettä ja varjoa ja palatkaa sisälle heti, kun ensimmäisiä epämukavuuden merkkejä ilmenee."
-  - "Monet dementiaa sairastavat harhailevat jossain vaiheessa. Pysykää ulkona henkilön kanssa ja pitäkää käsillä tuore valokuva ja henkilöllisyystodistus."
+  - "Yksinkertaiset puutarhatyöt, kuten kastelu, siementen istutus, yrttien tuoksuttelu ja kukkien poimiminen, onnistuvat seisten tai istuen."
+  - "Korotetut penkit, ruukut ja katettu pöytä tuovat puutarhan vyötärön korkeudelle ja vähentävät kaatumisriskiä."
+  - "Välttäkää teräviä työkaluja, piikikkäitä tai ihoa ärsyttäviä kasveja ja kaikkea myrkyllistä. Huomatkaa, ettei multaa luulla ruoaksi."
+  - "Helteet voivat olla vaarallisia ikääntyneille. Menkää ulos aikaisin tai myöhään, pitäkää vettä ja varjoa saatavilla ja tulkaa sisälle heti, jos ilmenee epämukavuutta."
+  - "Monet muistisairaat ihmiset harhailevat jossain vaiheessa. Pysykää henkilön seurassa ulkona ja pitäkää tuore valokuva sekä henkilöllisyystodistus helposti saatavilla."
 faq:
-  - q: "Mitä puutarhatoimintoja dementiaa sairastava voi tehdä?"
-    a: "Kastelu, siementen istuttaminen pieniin ruukkuihin, yrttien tuoksuttelu ja koskettelu, kukkien kitkeminen, vihannesten poimiminen, leikkokukkien asettelu ja polun lakaiseminen ovat kaikki hyviä valintoja. Sisällä yrttiruukku ikkunalaudalla tai multalaatikko katetulla pöydällä toimii hyvin. Valitkaa tehtävä sen mukaan, mistä henkilö piti ennen ja mihin hän pystyy nyt mukavasti."
-  - q: "Miten pidän dementiaa sairastavan turvassa kuumuudessa?"
-    a: "Suunnitelkaa ulkoilu viileään aamuun tai iltaan, pitäkää se lyhyenä ja tarjotkaa vettä usein. Valitkaa varjo, leveälierinen hattu, kevyet löyhät vaatteet ja aurinkovoide. Iäkkäillä on suurempi riski kuumuussairauksiin, ja sekavuus, huimaus tai pahoinvointi voivat olla varoitusmerkkejä. Jos huomaatte niitä, menkää heti sisälle ja viilentykää."
-  - q: "Miten voimme mennä ulos, jos hänellä on taipumus harhailla?"
-    a: "Olkaa henkilön kanssa koko ajan, käyttäkää aidattua pihaa tai puutarhaa, jonka portti on lukittava, ja varmistakaa, että hänellä on henkilöllisyysranneke tai henkilöllisyystodistus mukana. Pitäkää käsillä tuore valokuva. Jos henkilö katoaa, Alzheimer’s Association neuvoo soittamaan hätänumeroon 911, jos hänet ei löydetä 15 minuutin kuluessa."
+  - q: "Mitä puutarhatöitä muistisairas ihminen voi tehdä?"
+    a: "Kasvien kastelu, siementen istutus pieniin ruukkuihin, yrttien tuoksuttelu ja koskettelu, kuihtuneiden kukkien nyppiminen, vihannesten poimiminen, leikattujen kukkien asettelu ja polun lakaiseminen sopivat kaikki hyvin. Sisällä voi hoitaa ikkunalaudalla oleva yrttiruukkua tai työskennellä multavatilla katetun pöydän ääressä. Valitkaa tehtävä sen mukaan, mistä henkilö on aiemmin pitänyt ja mitä hän jaksaa tehdä nyt mukavasti."
+  - q: "Miten suojaan muistisairaan ihmisen kuumuudelta?"
+    a: "Suunnitelkaa ulkoilu viileään aikaan aikaisin aamulla tai illalla, pitäkää se lyhyenä ja tarjotkaa vettä usein. Valitkaa varjoisa paikka, lierihattu, kevyet väljät vaatteet ja aurinkovoide. Ikääntyneillä on suurempi riski sairastua kuumuuden vaikutuksista, ja sekavuus, huimaus tai pahoinvointi voivat olla varoitusmerkkejä. Menkää siis sisälle ja viilentykää heti, jos huomaatte niitä."
+  - q: "Miten voimme ulkoilla, jos hänellä on taipumus harhailla?"
+    a: "Pysykää henkilön seurassa koko ajan, käyttäkää aidattua pihaa tai puutarhaa, jonka portti pysyy lukittuna, ja varmistakaa, että hänellä on henkilöllisyysranneke tai henkilöllisyystodistus mukana. Pitäkää tuore valokuva helposti saatavilla. Jos henkilö katoaa, ottakaa viipymättä yhteyttä paikalliseen poliisiin tai hätäpalveluihin, älkääkä odottakaa tiettyä minuuttimäärää. Kertokaa auttajille, että henkilöllä on muistisairaus, missä hänet nähtiin viimeksi, ja toimittakaa tuore valokuva."
   - q: "Entä jos meillä ei ole puutarhaa?"
-    a: "Muutama ruukku verannalla, ikkunalaatikko tai yrttitarjotin keittiön pöydällä riittää. Voitte myös käydä puistossa, julkisessa puutarhassa tai yhteisöpuutarhassa. Istuminen ulkona ja lintujen kuunteleminen lasketaan myös ulkoilutoimintaan."
+    a: "Muutama ruukku kuistilla, parvekelaatikko tai yrttivati keittiön pöydällä riittää hyvin. Voitte myös käydä puistossa, julkisessa puutarhassa tai yhteisöpuutarhassa. Ulkona istuminen ja lintujen laulun kuunteleminen on myös ulkoilua."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Monille puutarha on yksi tutuimmista paikoista. Kaivaminen, kastelu ja kukkien poimiminen käyttävät taitoja, jotka on opittu kauan sitten, ja ulkona oleminen tuo raikkaan ilman, auringonvalon ja lintujen laulun. National Institute on Aging luettelee kasvien hoidon, kukkien ja vihannesten istuttamisen sekä [keskustelun siitä, miten kasvit kasvavat](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) toimiksi, joista Alzheimerin tautia sairastavat voivat pitää. Tämä sivu kertoo, mitä kokeilla, miten puutarhaa voi helpottaa käyttää ja miten pysytään turvassa kuumuudessa, auringossa ja harhailun varalta.
+Monille ihmisille puutarha on yksi tutuimmista paikoista. Kaivaminen, kastelu ja kukkien poimiminen hyödyntävät kauan sitten opittuja taitoja, ja ulkona olo tuo mukanaan raitista ilmaa, auringonvaloa ja lintujen laulua. National Institute on Aging mainitsee kasveista huolehtimisen, kukkien ja vihannesten istuttamisen sekä [keskustelun kasvien kasvusta](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) tekemisinä, joista Alzheimerin tautia sairastavat ihmiset voivat nauttia. Tällä sivulla kerrotaan, mitä kannattaa kokeilla, miten puutarhasta voi tehdä helpomman käyttää ja miten pysyä turvassa helteellä, auringossa ja harhailutilanteissa.
 
-## Mitkä ulkoilu- ja puutarhatoiminnat toimivat hyvin?
+## Millaiset ulkoilu- ja puutarhatekemiset sopivat hyvin?
 
-Parhaat tehtävät ovat yksinkertaisia, tuttuja ja tehtävissä seisten tai istuen. Valitkaa sen mukaan, mistä henkilö piti ennen.
+Parhaiten sopivat tehtävät ovat yksinkertaisia ja tuttuja, ja ne voi tehdä seisten tai istuen. Valitkaa tekeminen sen mukaan, mistä henkilö on aiemmin pitänyt.
 
 ### Puutarhassa
 
-1. **Kastelu.** Pieni, kevyt kastelukannu tai kevyt letkunsuutin ja muutama ruukku ulottuvilla. Kastelulla on selvä alku ja loppu, eikä sitä ole helppo tehdä väärin.
-2. **Siementen istuttaminen ruukkuihin.** AFA ehdottaa siementen istuttamista pieniin ruukkuihin ja [kasvun seuraamista](https://alzfdn.org/dementia-activity-gardening/). Suuret siemenet, kuten pavut, auringonkukat tai herneet, ovat helpompia käsitellä.
-3. **Kuolleiden kukkien poistaminen.** Haalistuneiden kukintojen nipistäminen käsin on lempeä ja toistuva tehtävä. Valitkaa kasvit, joissa ei ole piikkejä.
-4. **Vihannesten tai yrttien poiminta.** Kirsikkatomaatit, pavut ja yrtit ovat helppoja poimia ja hyviä maistaa. Tuokaa ne sisälle käytettäviksi lounaalle.
-5. **Yrttien tuoksuttelu ja koskettelu.** Rosmariini, minttu ja laventeli tuoksuvat voimakkaasti ja miellyttävästi. Hiertäkää lehteä sormienne välissä ja antakaa sen kiertää kädestä kääteen.
-6. **Polun tai terassin lakaiseminen.** Kevyt luuta tasaisella, kuivalla pinnalla, jos tasapaino on vakaa.
-7. **Linturuokinnan täyttäminen.** Sitten istukaa yhdessä ja katsokaa, kuka tulee vierailulle.
+1. **Kastelu.** Kevyt, pieni kastelukannu tai hellävarainen letkusuutin ja muutama helposti ulottuvilla oleva ruukku. Kastelussa on selkeä alku ja loppu, ja siinä on vaikea epäonnistua.
+2. **Siementen istutus ruukkuihin.** Alzheimer’s Foundation of America ehdottaa siementen istuttamista pieniin ruukkuihin ja [niiden kasvun seuraamista](https://alzfdn.org/dementia-activity-gardening/). Suuret siemenet, kuten pavut, auringonkukat tai herneet, ovat helpompia käsitellä.
+3. **Kuihtuneiden kukkien nyppiminen.** Lakastuneiden kukkien irrottaminen sormin on lempeää, toistuvaa tekemistä. Valitkaa kasveja, joissa ei ole piikkejä.
+4. **Vihannesten tai yrttien poimiminen.** Kirsikkatomaatit, pavut ja yrtit on helppo poimia ja mukava maistaa. Tuokaa ne sisälle lounaaksi.
+5. **Yrttien tuoksuttelu ja koskettelu.** Rosmariinissa, mintussa ja laventelissa on voimakas, miellyttävä tuoksu. Hierokaa lehteä sormien välissä ja ojentakaa se henkilölle tuoksuteltavaksi.
+6. **Polun tai terassin lakaiseminen.** Kevyt harja tasaisella, kuivalla pinnalla, jos tasapaino on vakaa.
+7. **Lintujen ruokinta-automaatin täyttäminen.** Istukaa sitten yhdessä katsomaan, ketkä tulevat vierailulle.
 
-### Sisällä, kun ulos meneminen ei onnistu
+### Sisällä, kun ulos ei pääse
 
-- **Yrttipuutarha ikkunalaudalla** basilikalle, persiljalle tai ruohosipulille.
-- **Ruukkuistutus katetulla pöydällä.** AFA ehdottaa ruokalatyyppisten tarjottimien käyttöä, jotta multa pysyy yhdessä paikassa, ja multaa siirrellään pienillä kupeilla.
-- **Kukka-asetelmat** puutarhan tai kauppojen leikkokukista ja vihreistä.
-- **Puristetut kukat** kimpusta, myöhemmin liimattuina kortteihin. Lisää [taide- ja käsityöt](/activities/arts-and-crafts/) -sivulla.
-- **Laventeli- tai ruusupussien tekeminen.** AFA:n toinen idea, joka tuo puutarhan tuoksun sisälle.
+- **Ikkunalaudan yrttipuutarha**, jossa kasvaa basilikaa, persiljaa tai ruohosipulia.
+- **Istuttaminen katetun pöydän ääressä.** AFA ehdottaa tarjottimien käyttöä, jotta multa pysyy koossa, ja multaa voi siirtää pienillä kupeilla.
+- **Kukkien asettelu** pihalta tai ruokakaupasta tuoduista leikkokukista ja vihreistä oksista.
+- **Kukkien kuivaus ja prässäys** kukkakimpusta ja myöhemmin liimaaminen korteiksi. Katso lisää sivulta [askartelu ja käsillä tekeminen](/activities/arts-and-crafts/).
+- **Laventeli- tai ruusutuoksupussien tekeminen**, mikä on myös AFA:n ehdotus puutarhan tuoksujen tuomiseksi sisälle.
 
-### Ulos ja liikkeelle
+### Retket lähiympäristöön
 
-- **Lyhyt kävely** korttelin ympäri, puistossa tai puutarhamyymälässä, hitaasti ja paikassa, jossa voi istua.
-- **Istuminen ulkona** verannalla tai penkillä lintujen kuuntelemiseksi ja tuulen tuntemiseksi. Se on sellaisenaan täysi toiminta.
-- **Julkisessa puutarhassa vierailu** hiljaisena vuorokauden aikana. NHS huomauttaa, että joillakin paikoilla on aistipuutarhoja, joissa on tuoksuvia kasveja, erilaisia pintoja ja vesiominaisuuksia.
-- **Ankkojen ruokkiminen tai lintujen katselu** paikallisessa lammessa, turvallisen etäisyyden päässä vedenreunasta.
+- **Lyhyt kävely** korttelin ympäri, puistossa tai puutarhamyymälässä rauhallista vauhtia ja niin, että istumapaikka on saatavilla.
+- **Ulkona istuminen** kuistilla tai penkillä lintujen laulua kuunnellen ja tuulta tuntien. Tämäkin on jo itsessään tekemistä.
+- **Käynti julkisessa puutarhassa** hiljaisena aikaan päivästä. NHS huomauttaa, että joissakin paikoissa on aistipuutarhoja, joissa on tuoksuvia kasveja, erilaisia pintoja ja vesiaiheita.
+- **Sorsien ruokkiminen tai lintujen katselu** paikallisella lammella, turvallisen välimatkan päässä veden reunasta.
 
-## Miten puutarhasta tehdään helpommin käytettävä?
+## Miten puutarhasta voi tehdä helpomman käyttää?
 
-Tuokaa puutarha henkilön luokse, ei toisinpäin.
+Tuokaa puutarha henkilön luo, ei toisin päin.
 
-- **Kohotetut penkit tai korkeat ruukut,** noin vyötärön korkeudella, jolloin kenenkään ei tarvitse polvistua tai kumartua.
-- **Ruukut pöydällä** sopivat henkilölle, joka käyttää pyörätuolia tai haluaa mieluummin istua.
-- **Leveät, tasaiset polut,** joilla ei ole irtokiviä tai letkuja, vähentävät kompastumisriskiä.
-- **Penkit käsinojilla ja varjolla** matkan varrella, jotta lepääminen on aina mahdollista.
-- **Työkalut paksuilla, pehmeillä kahvoilla,** joita on helppo pitää. Jättäkää oksasakset, veitset ja kaikki terävä pois.
-- **Aidattu alue lukittavalla portilla,** jota henkilö voi tutkia vapaasti, kun te olette lähellä.
+- **Korotetut penkit tai korkeat istutuslaatikot** noin vyötärön korkeudella tarkoittavat, ettei tarvitse polvistua tai kumartua.
+- **Ruukut pöydällä** sopivat ihmiselle, joka käyttää pyörätuolia tai haluaa mieluummin istua.
+- **Leveät ja tasaiset polut**, joilla ei ole irtokiviä tai poikittain lojuvia letkuja, vähentävät kompastumisriskiä.
+- **Istuimet, joissa on käsinojat, ja varjoa** matkan varrella, jotta levähtäminen on aina mahdollista.
+- **Työkalut, joissa on paksu ja pehmeä kahva** ja joista on helppo pitää kiinni. Jättäkää oksasakset, veitset ja kaikki terävät välineet pois.
+- **Aidattu alue, jossa on portti ja salpa** ja jossa henkilö voi liikkua vapaasti, kun pysytte lähellä.
 
 ## Mitä kasveja kannattaa välttää?
 
-Valitkaa kasveja, jotka ovat turvallisia koskettaa ja mieluiten turvallisia maistaa. AFA neuvoo käyttämään kasveja, jotka eivät yleensä ärsytä ihoa, tarkistamaan allergiat ja seuraamaan tarkasti ketään, joka saattaa sekoittaa mullan ruoaksi. NIA:n kotiturvallisuusohjeisiin kuuluu myrkyllisten kasvien poistaminen tai lukitseminen pois.
+Valitkaa kasveja, joita on turvallista koskea ja mieluiten myös turvallista maistaa vahingossa. AFA neuvoo valitsemaan kasveja, jotka eivät tavallisesti ärsytä ihoa, tarkistamaan mahdolliset allergiat ja seuraamaan tarkasti, jos joku saattaa luulla multaa ruoaksi. NIA:n kotiturvallisuusohjeisiin kuuluu myös myrkyllisten kasvien poistaminen tai lukitseminen pois ulottuvilta.
 
-- Välttäkää piikkisiä ruusuja, kaktuksia ja kasveja, joiden mahla ärsyttää ihoa.
-- Tarkistakaa kasvi, jonka lajista ette ole varmoja, myrkytystietokeskuksesta tai paikallisesta puutarhamyymälästä ennen istuttamista.
-- Tutut suosikit voivat herättää miellyttäviä tunteita. AFA mainitsee esimerkkeinä ruusut ja joulukaktuksen. Valitkaa piikittömiä lajikkeita.
-- Pitäkää lannoitteet, torjunta-aineet ja rikkakasvimyrkyt lukittuna, eivätkä ne saa olla henkilön ulottuvilla.
+- Välttäkää piikikkäitä ruusuja, kaktuksia ja kasveja, joiden mahla ärsyttää ihoa.
+- Tarkistakaa kasvi, josta ette ole varmoja, myrkytystietokeskuksesta tai paikallisesta puutarhamyymälästä ennen istuttamista.
+- Tutut suosikkikasvit voivat herättää mukavia muistoja. AFA mainitsee esimerkkeinä ruusut ja joulukaktuksen. Valitkaa piikittömiä lajikkeita.
+- Pitäkää lannoitteet, torjunta-aineet ja rikkakasvimyrkyt lukittuina, älkääkä käyttäkö niitä alueilla, joille henkilö ylettää.
 
-## Miten pysyn turvassa kuumuudessa ja auringossa?
+## Miten suojaudumme kuumuudelta ja auringolta?
 
-Suunnitelkaa ulkoilu säätilan mukaan. NIA selittää, että iäkkäillä on suurempi riski [kuumuuteen liittyviin sairauksiin](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), osittain siksi, että keho sopeutuu lämpötilan muutoksiin huonommin ja jotkin lääkkeet vaikuttavat siihen, miten keho käsittelee lämpöä.
+Suunnitelkaa ulkoilu sään mukaan. NIA kertoo, että ikääntyneillä on suurempi riski saada [kuumuuteen liittyviä oireita](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults). Tämä johtuu osittain siitä, että keho sopeutuu lämpötilan muutoksiin heikommin ja jotkin lääkkeet vaikuttavat siihen, miten keho sietää kuumuutta.
 
-- **Menkää ulos aikaisin tai myöhään.** Välttäkää lämpimien kuukausien keskipäivää. Tarkistakaa lämpöindeksi, ei pelkkää lämpötilaa.
-- **Tarjotkaa vettä usein.** Älkää odottako, että henkilö sanoo olevansa janoinen. Välttäkää alkoholia ja kofeiinipitoisia juomia kuumalla säällä.
-- **Pukeutukaa sään mukaan.** Vaaleat, löysät vaatteet, leveälierinen hattu ja aurinkolasit.
-- **Käyttäkää aurinkovoidetta.** NIA suosittelee laajakirjoista suojakerrointa 15 tai enemmän, ja sitä uusitaan päivän aikana.
-- **Valitkaa varjo.** Asettakaa ruukkupöytä puun tai sateenvarjon alle.
-- **Pitäkää lyhyenä.** Lyhyt jakso ulkona voi riittää, erityisesti lämpiminä päivinä.
-- **Tarkkailkaa varoitusmerkkejä.** NIA luettelee päänsäryn, sekavuuden, huimauksen ja pahoinvoinnin mahdollisiksi kuumuussairauden merkeiksi. Dementiaa sairastava ei ehkä kerro, ettei voi hyvin, joten seuratkaa hänen kasvojaan ja käyttäytymistään. Menkää sisälle, viilentäkää vedellä ja viileällä liinalla ja hakeutukaa lääkärin hoitoon, jos vointi ei parane nopeasti. Lämpöhalvaus, jonka merkkejä ovat pyörtyminen, sekavuus tai kuiva ja punainen iho, on hätätilanne: soittakaa 911.
+- **Menkää ulos aikaisin tai myöhään.** Välttäkää päivän kuuminta aikaa lämpiminä kuukausina. Tarkistakaa helleindeksi, ei vain lämpötila.
+- **Tarjotkaa vettä usein.** Älkää odottako, että henkilö sanoo olevansa janoinen. Välttäkää alkoholia ja kofeiinipitoisia juomia helteellä.
+- **Pukeutukaa sään mukaan.** Vaaleat, väljät vaatteet, lierihattu ja aurinkolasit.
+- **Käyttäkää aurinkovoidetta.** NIA suosittelee laajakirjoista aurinkovoidetta, jonka suojakerroin on vähintään SPF 15, ja sen lisäämistä päivän aikana.
+- **Valitkaa varjo.** Laittakaa istutuspöytä puun tai päivänvarjon alle.
+- **Pitäkää ulkoilu lyhyenä.** Lyhytkin hetki ulkona voi riittää, etenkin lämpiminä päivinä.
+- **Tarkkailkaa varoitusmerkkejä.** NIA mainitsee päänsäryn, sekavuuden, huimauksen ja pahoinvoinnin mahdollisina kuumuussairauden merkkeinä. Muistisairas ihminen ei välttämättä kerro voivansa huonosti, joten tarkkailkaa kasvoja ja käytöstä. Menkää sisälle, viilentäkää vettä juomalla ja viileällä liinalla ja hakeutukaa hoitoon, jos vointi ei parane nopeasti. Lämpöhalvaus, jonka merkkejä voivat olla pyörtyminen, sekavuus tai kuiva ja punoittava iho, on lääketieteellinen hätätilanne: soittakaa numeroon 911.
 
-Myös kylmä sää vaikuttaa. Talvella pitäkää ulkoilu lyhyenä ja varmistakaa, että kädet ja jalat pysyvät lämpiminä ja kuivina.
+Myös kylmä sää on hyvä huomioida. Talvella pitäkää ulkoilu lyhyenä ja varmistakaa, että kädet ja jalat pysyvät lämpiminä ja kuivina.
 
-## Miten hoidan harhailun, kun menemme ulos?
+## Miten toimimme ulkona, jos harhailua esiintyy?
 
-Olkaa henkilön kanssa aina, kun hän on ulkona. Alzheimer’s Association sanoo, että [kuusi ihmistä 10:stä](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) dementiaa sairastavista harhailee ainakin kerran, ja monet tekevät sitä useammin kuin kerran. Sitä voi esiintyä missä tahansa vaiheessa.
+Pysykää henkilön seurassa aina, kun hän on ulkona. Alzheimer’s Associationin mukaan [kuusi 10:stä muistisairasta ihmisestä](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) harhailee ainakin kerran, ja monet useammin. Sitä voi tapahtua sairauden missä vaiheessa tahansa.
 
-NIA:n [vinkit harhailuun ja eksymiseen](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) sisältävät seuraavaa:
+NIA:n [vinkkeihin harhailua ja eksymistä varten](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) kuuluvat seuraavat:
 
-- Varmistakaa, että henkilöllä on henkilöllisyys- tai lääketieteellinen ranneke, jossa on nimi, osoite ja teidän puhelinnumeronne, tai merkitkää hänen vaatteensa.
-- Pitäkää tuore valokuva tai video henkilöstä.
+- Varmistakaa, että henkilöllä on henkilöllisyys- tai lääketieteellinen ranneke, jossa on hänen nimensä, osoitteensa ja puhelinnumeronne, tai nimikoikaa hänen vaatteensa.
+- Pitäkää henkilöstä tuore valokuva tai video.
 - Kertokaa naapureille, että henkilö saattaa harhailla.
-- Turvatkaa piha aidalla ja lukitulla portilla.
-- Älkää jättäkö harhailutaipumuksen omaavaa henkilöä yksin.
+- Turvatkaa piha aidalla ja lukittavalla portilla.
+- Älkää jättäkö ilman valvontaa henkilöä, joka on aiemmin harhaillut.
 
-Alzheimer’s Association ehdottaa myös turvallisesti tutkittavien sisä- ja ulkoalueiden luomista sekä toiminnan suunnittelua ajalle, jolloin levottomuutta esiintyy eniten. Turvallisessa, suljetussa puutarhassa kävely voi sopia hyvin iltaisin ilmenevään levottomuuteen. Katso oppaamme [iltaisin ilmenevä levottomuus](/caregiving/late-day-restlessness/).
+Alzheimer’s Association ehdottaa myös sisä- ja ulkotilojen luomista, joissa on turvallista liikkua, sekä tekemisten suunnittelua siihen aikaan päivästä, jolloin levottomuutta esiintyy todennäköisimmin. Kävely turvallisessa, aidatussa puutarhassa voi sopia hyvin illan levottomuuteen. Katso lisää oppaastamme [illan levottomuudesta](/caregiving/late-day-restlessness/).
 
-Jos henkilö katoaa, Alzheimer’s Association neuvoo etsimään lähialueelta heti ja soittamaan 911, jos häntä ei löydetä 15 minuutin kuluessa. Kertokaa poliisille, että henkilöllä on dementia.
+Jos henkilö katoaa, tarkistakaa läheiset turvalliset paikat samalla kun otatte viipymättä yhteyttä paikalliseen poliisiin tai hätäpalveluihin. Älkää odottako tiettyä minuuttimäärää ennen ilmoituksen tekemistä. Vuonna 2021 julkaistussa [Yhdysvaltain oikeusministeriön artikkelissa kadonneiden henkilöiden etsinnöistä](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) todetaan, ettei viranomaisten tulisi vaatia kiinteää odotusaikaa, ja siinä mainitaan muistisairausoireet suuren riskin tekijänä. Paikalliset ilmoituskäytännöt vaihtelevat. Kertokaa, milloin ja missä henkilö nähtiin viimeksi, mitä hänellä on yllään, ja toimittakaa tuore valokuva. Noudattakaa paikallisten auttajien ohjeita, älkääkä etsikö yksin vaarallisista paikoista.
 
-## Miten sovitan puutarhanhoitoa muutosten myötä?
+## Miten puutarhatöitä voi mukauttaa, kun tilanne muuttuu?
 
-| Jos tämä on käynyt vaikeaksi | Kokeilkaa tämän sijaan |
+| Jos tämä on muuttunut vaikeaksi | Kokeilkaa tätä sen sijaan |
 | --- | --- |
-| Koko penkin istuttaminen | Yhden siemenen istuttaminen yhteen ruukkuun |
-| Rikkaruohojen kitkeminen (rikkaruohojen erottaminen kasveista) | Kastelu tai selvästi haalistuneiden kukintojen poistaminen |
-| Puutarhassa kävely | Istuminen pöydän ääressä, jossa on multatarjotin ja kasvi |
-| Ulos meneminen ylipäätään | Yrttiruukku keittiön pöydällä tai istuin auki olevan ikkunan vieressä |
-| Minkä tahansa tehtävän tekeminen | Istuminen yhdessä ulkona, kuunteleminen ja katseleminen |
+| Koko istutuspenkin istuttaminen | Yhden siemenen istuttaminen yhteen ruukkuun |
+| Kitkeminen (rikkakasvien erottaminen muista kasveista) | Kastelu tai selvästi lakastuneiden kukkien nyppiminen |
+| Puutarhassa kävely | Istuminen pöydän ääressä, jossa on multavati ja kasvi |
+| Ulkoilu ylipäätään | Yrttiruukku keittiön pöydällä tai istuminen avoimen ikkunan äärellä |
+| Mikä tahansa tehtävä | Ulkona yhdessä istuminen, kuunteleminen ja katselu |
 
-Jotkut haluavat mieluummin katsella, kun te työskentelette. NIA huomauttaa, että on hyvä, jos henkilö saa vain katsella, jos se on hänen mieleistään.
+Jotkut ihmiset mieluummin seuraavat, kun teette työtä. NIA toteaa, että henkilön on hyvä antaa vain katsella, jos siitä hän nauttii.
 
-## Milloin meidän pitäisi mennä sisälle?
+## Milloin on hyvä siirtyä sisälle?
 
-Menkää sisälle, kun henkilö näyttää väsyneeltä, kuumalta, kylmältä, levottomalta tai valmiilta lopettamaan. Lyhyt, mukava kymmenen minuuttia on parempi kuin pitkä iltapäivä, joka päättyy ahdistukseen. Aikainen lopettaminen on hyvä lopputulos.
+Menkää sisälle, kun henkilö näyttää väsyneeltä, kuumissaan olevalta, palelavalta, levottomalta tai valmiilta lopettamaan. Lyhyt, miellyttävä kymmenen minuuttia on parempi kuin pitkä iltapäivä, joka päättyy ahdistukseen. Aikainen lopettaminen on hyvä lopputulos.
 
-## Tuo puutarha sisälle näytölle
+## Tuo puutarha sisälle ruudulle
 
-Sateisina päivinä [Lajitelkaa yhdessä](/games/sort-together/) -pelissä on puutarhakori kuvien lajitteluun, ja [Keskustelukortit](/games/conversation-cards/) sisältää avoimia kehotuksia, jotka voivat johdattaa puutarhatarinoihin. Jos tulette kuumuudesta sisälle kiireisinä, [Rauhallinen hengitys](/games/calm-breathing/) tarjoaa hitaan, hiljaisen tauon, jonka voitte jakaa. Lisää ideoita, jotka perustuvat kosketukseen, tuoksuihin ja ääniin, löydätte [aistitoimintojen oppaasta](/activities/sensory/).
+Sateisina päivinä [Lajitellaan yhdessä](/games/sort-together/) -pelissä on puutarhakori kuvien lajitteluun, ja [Keskustelukortit](/games/conversation-cards/) sisältävät avoimia kysymyksiä, joista voi syntyä puutarhamuistoja. Jos helteeltä sisälle tulo tuntuu kiireiseltä, [Rauhallinen hengitys](/games/calm-breathing/) tarjoaa rauhallisen hetken, jonka voitte jakaa yhdessä. Lisää ideoita kosketukseen, tuoksuihin ja ääniin perustuvasta tekemisestä löydät [aistitoimintaoppaastamme](/activities/sensory/).

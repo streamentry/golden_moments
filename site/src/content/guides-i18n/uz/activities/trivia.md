@@ -1,33 +1,34 @@
 ---
-title: "Demensiyali keksalar uchun bosimsiz oddiy viktorina"
-seoTitle: "Demensiya uchun oddiy viktorina: 42 ta savol"
-description: "Demensiyali keksalar uchun javob variantli 42 ta oddiy viktorina savoli va hech kim sinalayotgandek his qilmasligi uchun oʻtkazish yoʻli."
+title: "Demansli keksalar uchun bosimsiz oson viktorina"
+seoTitle: "Demansli keksalar uchun viktorina savollari va javoblar"
+description: "Demansli keksalar uchun 50 ta oson viktorina savoli, javob variantlari va suhbat mavzulari hamda viktorinani hech kim sinovda emasdek o‘tkazish bo‘yicha maslahatlar."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Demensiyali keksalar uchun oddiy viktorina u imtihon emas, suhbat kabi
-  tuyulganda ishlaydi. Qadim oʻrganilgan narsalar haqida soʻrang: eski
-  qoʻshiqlar, maqollar, bayramlar va kundalik hayot. Doim ikki-uch variant
-  taklif qiling. Javobni oʻzingiz bemalol ayting, hech kimni alohida ajratmang,
-  hisobni qoldiring va har bir javobdan hikoya boshlash uchun foydalaning.
-  Toʻgʻri javobi yoʻq «buni yoki uni» savollari keyingi bosqichlarga mos.
+  Demansli keksalar uchun oson viktorina sinov emas, suhbat kabi tuyulganda
+  yaxshi natija beradi. Uzoq vaqtdan beri tanish bo‘lgan narsalar — eski
+  qo‘shiqlar, maqollar, bayramlar va kundalik hayot haqida so‘rang va har doim
+  ikki yoki uchta variant taklif qiling. Javobni iliq ohangda ayting, hech kimni
+  alohida ajratmang, ball qo‘ymang va har bir javobni hikoyaga aylantiring.
+  Keyingi bosqichlarda noto‘g‘ri javobi bo‘lmagan «shu yoki bu» savollari
+  ko‘proq mos keladi.
 keyPoints:
-  - "Uzoq vaqtdan beri tanish narsalar haqida soʻrang: qoʻshiqlar, maqollar, bayramlar, taomlar va yillar oldingi kundalik hayot."
-  - "Ikki-uch variant taklif qiling, shunda javobni eslab topishdan koʻra tanib olish mumkin boʻladi."
-  - "Javobni iliq ayting va davom eting. Hikoya boshlab beradigan har qanday taxmin yaxshi taxmin."
-  - "Ochko yoʻq, tezlikda musobaqalashadigan jamoalar yoʻq, bitta odamni chaqirish yoʻq. Javoblar butun xonadan kelsin."
-  - "Javoblar orasidan tanlash qiyinlashganda, toʻgʻri javobi yoʻq «buni yoki uni» savollariga oʻting."
+  - "Uzoq vaqtdan beri tanish mavzular haqida so‘rang: qo‘shiqlar, maqollar, bayramlar, taomlar va ko‘p yillar avvalgi kundalik hayot."
+  - "Javobni eslab topish emas, tanib olish oson bo‘lishi uchun ikki yoki uchta variant taklif qiling."
+  - "Javobni iliq ohangda ayting va davom eting. Hikoyani boshlab bergan har qanday taxmin — yaxshi taxmin."
+  - "Ball yo‘q, jamoalar o‘rtasida poyga yo‘q, bir kishini chaqirib savol berish yo‘q. Javoblar butun xonadan kelishiga yo‘l qo‘ying."
+  - "Javoblar orasidan tanlash qiyinlashganda, to‘g‘ri javobi bo‘lmagan «shu yoki bu» savollariga o‘ting."
 faq:
-  - q: "Viktorina demensiyali insonlar uchun yaxshi mashgʻulotmi?"
-    a: "Yumshoq oʻtkazilsa, shunday boʻlishi mumkin. Amerika Alsgeymer jamgʻarmasi viktorinani erta bosqich mashgʻulotlari qatoriga kiritadi. Savollarni uzoq vaqtdan beri tanish mavzularda saqlang, variantlar taklif qiling, hech kimni noqulay ahvolga qoʻymang va javoblarni imtihon emas, suhbatga kirish yoʻli deb biling."
-  - q: "Demensiya viktorinasi uchun qaysi mavzular eng yaxshi ishlaydi?"
-    a: "Uzoq vaqt oldin oʻrganilgan narsalar odatda eng yaxshi ishlaydi: insonning yoshligidagi mashhur qoʻshiqlar va xonandalar, tanish maqollar, bayramlar, taomlar, sport va disk telefon yoki tandirda non yopish kabi kundalik hayot. Yangi xabarlardan va mashgʻulotning oldingi qismidan biror narsani eslashni talab qiladigan narsalardan saqlaning."
-  - q: "Parvarish uyida hech kimni xijolat qilmasdan viktorinani qanday oʻtkazaman?"
-    a: "Har bir savolni butun guruhga oʻqing, variantlarni koʻrsating yoki ayting va har kimning javobini qabul qiling. Alohida odamlarni chaqirmang va hisob yuritmang. Nima taxmin qilinganidan qat’i nazar, javobni tabassum bilan ayting va uni hikoyalarga aylantirish uchun «Bu yerda kim bozorga borishni yaxshi koʻrardi?» kabi qoʻshimcha savol bering."
-  - q: "Keyingi bosqichlarda viktorinaning oʻrniga nima qilsam boʻladi?"
-    a: "Toʻgʻri javobi yoʻq savollarga, masalan, «Choy yoki kofe?» yoki «Dengiz boʻyi yoki togʻ?» savollariga hamda tanish maqol yoki qoʻshiqlarni birga tugatishga oʻting. Rasmlarni koʻrib, ularni birga tasvirlash ham yaxshi ishlaydi."
+  - q: "Viktorina demans bilan yashayotgan odamlar uchun yaxshi mashg‘ulotmi?"
+    a: "Ha, agar u yumshoq tarzda o‘tkazilsa, bo‘lishi mumkin. Alzheimer's Foundation of America viktorinani dastlabki bosqichdagi mashg‘ulotlar qatoriga kiritadi. Savollarni uzoq vaqtdan beri tanish mavzularda saqlang, variantlar taklif qiling, hech qachon bir kishini qiyin ahvolga qo‘ymang va javoblarni sinov emas, suhbat boshlash usuli sifatida qabul qiling."
+  - q: "Demansli odamlar uchun viktorinada qaysi mavzular eng mos keladi?"
+    a: "Odatda uzoq vaqt oldin o‘rganilgan narsalar eng yaxshi mos keladi: inson yoshligidagi mashhur qo‘shiqlar va qo‘shiqchilar, tanish maqollar, bayramlar, taomlar, sport turlari hamda sut yetkazib berish yoki aylantirib teriladigan telefonlar kabi kundalik hayot. So‘nggi yangiliklardan va mashg‘ulot davomida oldin aytilgan narsani eslab qolishni talab qiladigan savollardan voz keching."
+  - q: "Qariyalar uyida yoki guruhda hech kimni xijolat qilmasdan viktorinani qanday o‘tkazaman?"
+    a: "Har bir savolni butun guruhga o‘qing, variantlarni ko‘rsating yoki ayting va har kimdan javob kutib oling. Ayrim odamlarni chaqirmang va ball hisoblamang. Qanday taxmin aytilishidan qat’i nazar, javobni tabassum bilan ayting va uni hikoyalarga aylantirish uchun «Bu yerda kimdir avtomobildan tomosha qilinadigan kinoteatrga borganmi?» kabi qo‘shimcha savol bering."
+  - q: "Keyingi bosqichlarda viktorina o‘rniga nima qilishim mumkin?"
+    a: "«Qahva yoki choy?» yoki «Dengiz bo‘yi yoki tog‘lar?» kabi noto‘g‘ri javobi bo‘lmagan savollarga hamda tanish maqollar yoki qo‘shiqlarni birga yakunlashga o‘ting. Rasmlarga qarab, ularni birga tasvirlab berish ham yaxshi natija beradi."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,128 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Viktorina parvarish uylari va kunduzgi dasturlarda eng koʻp soʻraladigan guruh mashgʻulotlaridan biri, koʻp oilalar uni oshxona stolida ham oʻynaydi. Odatdagi usulda, ochko bilan va bitta odam javob beradigan tarzda oʻtkazilsa, demensiyali insonni noqulay ahvolga qoʻyishi mumkin. Yumshoq oʻtkazilsa, bu hikoyalarni eshitishning jonli usuli. Quyida javob variantlari va har biri uchun suhbat mavzusi bilan 42 ta oddiy savol, soʻngra mashgʻulotni qanday oʻtkazish haqida gap boradi. Savollar umumiy tanish narsalarga asoslangan; ularni oʻz oilangiz, hududingiz va insonning hayotiga moslang.
+Viktorina qariyalar uylari va kunduzgi dasturlarda eng ko‘p so‘raladigan guruh mashg‘ulotlaridan biridir, ko‘plab oilalar esa uni uy oshxonasidagi dasturxon atrofida ham o‘ynashadi. Odatdagidek, ball qo‘yib va bitta kishi javob berib o‘tkazilsa, bu demans bilan yashayotgan odamni qiyin ahvolga solishi mumkin. Yumshoq tarzda o‘tkazilsa, u hikoyalarni eshitish uchun jonli imkoniyatga aylanadi. Quyida javob variantlari va har biri uchun suhbat mavzusi berilgan 50 ta oson savol, shundan so‘ng esa mashg‘ulotni qanday o‘tkazish bo‘yicha maslahatlar keltirilgan.
 
-## Demensiyali inson uchun viktorinani qanday ishlatish mumkin?
+## Demans bilan yashayotgan odam uchun viktorinani qanday moslashtirish mumkin?
 
-Uni qadim vaqtdagi narsalarni tanish va eslash haqida qiling va har bir javobni qabul qiling.
+Uni uzoq yillardan beri tanish narsalarni tanib olish va esga olishga qaratib, har bir javobni xushmuomala qabul qiling.
 
-1. **Uzoq oʻtmish haqida soʻrang.** [Alsgeymer assotsiatsiyasi](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) Alsgeymerning eng keng tarqalgan erta belgisi yangi oʻrganilgan ma’lumotni eslashdagi qiyinchilik ekanini aytadi. Oʻnlab yillar oldingi qoʻshiqlar, maqollar va kundalik hayot koʻpincha osonroq zamin.
-2. **Doim variantlar bering.** Ikki-uch variantdan toʻgʻrisini tanlash hech narsadan oʻzi topishdan ancha oson.
-3. **Savollarni ovoz chiqarib oʻqing va katta qilib koʻrsating.** Doska yoki koʻtarib turilgan planshet yaxshi eshitmaydigan odamlarga yordam beradi.
-4. **Javobni bemalol ayting.** Hech kim bilmasa, iliq ayting va davom eting. Hech qachon «Qani, siz bilasiz-ku» demang.
-5. **Hisob yoʻq.** Alohida odamlar uchun ham, stollar uchun ham. Odamlar raqam xohlasa, bitta umumiy hisob yuriting.
-6. **Hech qachon bitta odamni chaqirmang.** Javob istalgan kishidan kelsin. Yakkama-yakka suhbatda birga javob bering: «Menimcha, pianino. Siz nima deb oʻylaysiz?»
-7. **Suhbat mavzusidan foydalaning.** Javob boshlanish, oxiri emas. Haqiqiy maqsad hikoyalar.
-8. **Qisqa qiling.** Orada hikoyalar bilan oʻnta savol yetarli.
+1. **Uzoq o‘tmish haqida so‘rang.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ma’lumotiga ko‘ra, Altsgeymerning eng ko‘p uchraydigan dastlabki belgisi — yaqinda o‘rganilgan ma’lumotni eslab qolishda qiyinchilik. O‘nlab yillar avvalgi qo‘shiqlar, maqollar va kundalik hayot ko‘pincha osonroq mavzu bo‘ladi.
+2. **Har doim variantlar bering.** Javobni o‘zi topib aytishdan ko‘ra, ikki yoki uchta variant ichidan to‘g‘risini tanlash ancha oson.
+3. **Savollarni ovoz chiqarib o‘qing va katta qilib ko‘rsating.** Doska yoki yuqoriga ko‘tarib ko‘rsatilgan planshet yaxshi eshitmaydigan odamlarga yordam beradi.
+4. **Javobni bemalol ayting.** Hech kim bilmasa, uni iliq ohangda ayting va davom eting. Hech qachon «Qo‘ying-e, buni bilasizku» demang.
+5. **Ball qo‘ymang.** Ayrim odamlar uchun ham, stollar uchun ham emas. Agar odamlar son ko‘rishni xohlasa, bitta umumiy guruh natijasini saqlang.
+6. **Hech qachon bitta kishini chaqirib savol bermang.** Javoblar har kimdan kelishiga yo‘l qo‘ying. Bir kishi bilan o‘tirganda esa, birga javob bering: «Menimcha, bu pianino. Siz nima deb o‘ylaysiz?»
+7. **Suhbat uchun berilgan mavzudan foydalaning.** Javob — oxiri emas, boshi. Asosiy maqsad — hikoyalar.
+8. **Qisqa qiling.** O‘rtasida hikoyalar bilan o‘nta savol yetarli.
 
-[Milliy qarilik instituti](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) asosiy qoidani oddiy aytadi: asabiylashish belgilariga e’tibor bering va inson oʻzini muvaffaqiyatli his qilishiga ishonch hosil qiling. [Amerika Alsgeymer jamgʻarmasi](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) viktorinani erta bosqich mashgʻulotlari qatoriga kiritadi. Oʻrta bosqichda ikki variantda qoling va suhbat mavzularidan koʻproq foydalaning. Keyinroq pastdagi «buni yoki uni» savollariga oʻting.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) asosiy qoidani juda sodda ifodalaydi: asabiylashish belgilariga e’tibor bering va odam o‘zini muvaffaqiyatli his qilishini ta’minlang. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) viktorinani dastlabki bosqichdagi mashg‘ulotlar qatoriga kiritadi. O‘rta bosqichda ikkita variant bilan cheklaning va suhbat mavzulariga ko‘proq tayaning. Keyinroq esa quyida keltirilgan «shu yoki bu» savollariga o‘ting.
 
-## Musiqa va koʻngilochar viktorina
+## Musiqa va ko‘ngilochar viktorina
 
-Javob **qalin** yozilgan. Savollarni insonga moslang: bir odam bir xil qoʻshiqlar bilan oʻsgan, boshqasi butunlay boshqalari bilan.
-
-| Savol | Variantlar | Suhbat mavzusi |
-| --- | --- | --- |
-| Qaysi milliy cholgʻu ikki simli? | Doira, **dutor**, nay | Dutor ovozini qayerda eshitgansiz? |
-| Qaysi cholgʻu aylana shaklida va qoʻl bilan urib chalinadi? | **Doira**, dutor, skripka | Toʻylarda doira qanday chalinardi? |
-| Qaysi cholgʻu puflab chalinadi? | Doira, dutor, **nay** | Bu cholgʻuni chalgan odamni bilarmidingiz? |
-| Qaysi cholgʻu kamon bilan chalinadi? | **Skripka**, nay, doira | Toʻylarda qanday cholgʻular chalinardi? |
-| Alla — bu qanday qoʻshiq? | Bayram qoʻshigʻi, **chaqaloqni uxlatish uchun aytiladigan**, mehnat qoʻshigʻi | Bolalikda sizga kim alla aytardi? |
-| «Yor-yor» qaysi marosimda aytiladigan qoʻshiq? | Maktabda, **toʻyda**, bozorda | Toʻyda qanday qoʻshiqlar aytilardi? |
-| Qaysi qush qoʻshiqchi qush sifatida mashhur? | **Bulbul**, boyoʻgʻli, qarga | Qush sayrashi sizga nimani eslatadi? |
-| Alisher Navoiy kim boʻlgan? | **Shoir**, rassom, uchuvchi | Navoiyning biror baytini bilasizmi? |
-| Qaysi cholgʻuda 88 ta tugma bor? | Gitara, **pianino**, karnay | Oilangizda kimdir chalarmidi? |
-| Qaysi raqs «bir-ikki-uch, bir-ikki-uch» deb sanaladi? | **Vals**, tvist, tango | Qayerda raqsga tushgansiz? |
-
-Musiqa haqida koʻproq ma’lumot uchun [demensiya uchun musiqa mashgʻulotlari](/activities/music/) sahifasiga qarang.
-
-## Kundalik hayot viktorinasi
+Javob **qalin** qilib ko‘rsatilgan. Bu savollarni odamga moslang: Motown musiqasi ostida ulg‘aygan kishi bilan katta orkestr musiqasi ostida ulg‘aygan kishi turli qo‘shiqchilarni xohlaydi.
 
 | Savol | Variantlar | Suhbat mavzusi |
 | --- | --- | --- |
-| Oʻzbek nonlari qaysi pechda pishiriladi? | **Tandirda**, muzlatgichda, qozonda | Tandir nonining hidini eslaysizmi? |
-| Qaysi taom asosan guruch, sabzi va goʻshtdan tayyorlanadi? | Manti, **palov (osh)**, shoʻrva | Oilangizda palovni kim pishirardi? |
-| Disk telefonda raqamni qanday terardingiz? | Tugmalarni bosib, **diskni aylantirib**, unga gapirib | Uyingizdagi telefon haqida gapirib bering |
-| Ipakni qaysi hasharot beradi? | **Ipak qurti**, asalari, qoʻngʻiz | Ipak matodan biror narsa kiyganmisiz? |
-| Kiyimni silliqlash uchun nima ishlatiladi? | Taroq, **dazmol**, supurgi | Uyda dazmolni kim koʻproq ishlatardi? |
-| Ip bilan havoga uchiriladigan oʻyinchoq qaysi? | **Varrak**, qoʻgʻirchoq, aylanma | Bolaligingizda qanday oʻyinlar oʻynardingiz? |
-| Choyxonada koʻpincha nima ichiladi? | Sut, **choy**, sharbat | Kim bilan choyxonaga borardingiz? |
-| Qatiq nimadan tayyorlanadi? | **Sutdan**, uzumdan, guruchdan | Qatiqni uyda kim tayyorlardi? |
-| Oʻzbekistonning poytaxti qaysi shahar? | Samarqand, **Toshkent**, Buxoro | Toshkentda boʻlganmisiz? |
-| Svetoforda qaysi rang «toʻxta» degani? | Yashil, **qizil**, koʻk | Maktabga qanday borardingiz? |
+| Rok-n-roll qiroli deb kim atalgan? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Elvisni televizorda ko‘rganmisiz? |
+| Qaysi qo‘shiqchiga «Ol' Blue Eyes» laqabi berilgan? | Dean Martin, **Frank Sinatra**, Perry Como | Sinatra ijrosidagi qaysi qo‘shiq sizga eng yoqadi? |
+| Bing Crosby oq rangli nimani orzu qilgan? | **Rojdestvo**, to‘y, uy | Birga bir misra kuylab ko‘ring |
+| Louis Armstrong «What a Wonderful...» qo‘shig‘ini kuylagan | Day, **World**, Life | Siz uchun dunyoni ajoyib qiladigan narsa nima? |
+| Judy Garland «Over the Rainbow» qo‘shig‘ini qaysi filmda kuylagan? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Sevimli filmlaringizni qayerda tomosha qilganingizni eslaysizmi? |
+| «I Love Lucy» serialida Lucy rolini kim ijro etgan? | **Lucille Ball**, Doris Day, Betty White | Oilangiz birga qaysi ko‘rsatuvlarni tomosha qilardi? |
+| Qaysi kovboy Trigger ismli ot minardi? | **Roy Rogers**, Gene Autry, John Wayne | Bolaligingizda kovboylar o‘yinini o‘ynaganmisiz? |
+| «The Tonight Show» dasturini o‘ttiz yil davomida kim olib borgan? | Ed Sullivan, **Johnny Carson**, Bob Hope | Televizor ko‘rish uchun kechga qoldirib o‘tirganmisiz? |
+| Qaysi cholg‘u asbobida sakson sakkizta klavish bor? | Gitara, **pianino**, karnay | Oilangizda kimdir musiqa chalganmi? |
+| Qaysi raqs bir-ikki-uch, bir-ikki-uch deb sanaladi? | **Vals**, tvist, tango | Raqsga qayerga borardingiz? |
+
+Musiqa haqida ko‘proq ma’lumot uchun [demans uchun musiqa mashg‘ulotlari](/activities/music/) sahifasiga qarang.
+
+## Kundalik hayot bo‘yicha viktorina
+
+| Savol | Variantlar | Suhbat mavzusi |
+| --- | --- | --- |
+| Muzlatkichlar bo‘lmaganda, ko‘p uylarda oziq-ovqat nimada sovuq saqlangan? | **Muzxona qutisi**, pech, chordoq | Muzni kim yetkazib berardi? |
+| Shisha idishdagi sutni eshikka kim olib kelardi? | Pochta xodimi, **sutchilik**, gazeta tarqatuvchi bola | Uyga yana nimalar yetkazib berilardi? |
+| Aylantirib teriladigan telefonni qanday terishardi? | Tugmalarni bosib, **g‘ildirakni aylantirib**, unga gapirib | Uyingizdagi telefon haqida gapirib bering |
+| Model T avtomobilini qaysi kompaniya ishlab chiqargan? | **Ford**, Chevrolet, Buick | Sizga yoqqan avtomobil haqida gapirib bering |
+| Soda tayyorlab beruvchini qayerda topish mumkin edi? | **Soda favvorasi**, novvoyxona, bank | Peshtaxta oldida nima buyurtma qilardingiz? |
+| Zinadan pastga yurib tusha oladigan metall prujinali o‘yinchoqning nomi nima? | Yo-yo, **Slinky**, hula hoop | Qaysi o‘yinchoqlarni yaxshi ko‘rardingiz? |
+| Avtomobildan tomosha qilinadigan kinoteatr nima ko‘rish uchun joy edi? | **Avtomobilingizdan filmlar**, beysbol o‘yinlari, paradlar | Kim bilan borardingiz? |
+| Bir dollarlik banknotada kimning yuzi bor? | Lincoln, **George Washington**, Jefferson | O‘sha paytlarda bir dollarga nima sotib olish mumkin edi? |
+| Bir sentlik tangada kimning yuzi bor? | **Abraham Lincoln**, Washington, Franklin | O‘sha paytlarda sentlarni banka ichiga yig‘ganmisiz? |
+| Maktab avtobusi odatda qanday rangda bo‘ladi? | Qizil, **sariq**, ko‘k | Maktabga qanday borardingiz? |
 
 ## Bayramlar, tabiat va joylar
 
 | Savol | Variantlar | Suhbat mavzusi |
 | --- | --- | --- |
-| Navruz bayrami qaysi faslda nishonlanadi? | Kuzda, qishda, **bahorda** | Navruzda dasturxoningizda nima boʻlardi? |
-| Navruzda koʻpincha qaysi taom tayyorlanadi? | Manti, **sumalak**, shoʻrva | Sumalak haqida gapirib bering |
-| Oʻzbekiston Mustaqillik kuni qaysi oyda nishonlanadi? | Mart, **sentyabr**, dekabr | Bayram kuni qayerda boʻlardingiz? |
-| Ramazon oyidan keyin qaysi bayram nishonlanadi? | **Roʻza hayiti**, Navruz, Mustaqillik kuni | Hayitda oilangiz qanday yigʻilardi? |
-| Oʻzbekiston bayrogʻining yuqori chizigʻi qaysi rangda? | **Havorang**, qizil, sariq | Bayroqni qayerda koʻrgansiz? |
-| Qaysi daryo Oʻzbekiston hududidan oqib oʻtadi? | **Amudaryo**, Volga, Nil | Daryo boʻyida boʻlganmisiz? |
-| Registon maydoni qaysi shaharda? | Qarshi, **Samarqand**, Namangan | Samarqandga borganmisiz? |
-| Asalari nima yasaydi? | Sut, **asal**, ipak | Asalni nonga surtasizmi yoki choyga solasizmi? |
-| Sigirning bolasi nima deyiladi? | Qulun, **buzoq**, qoʻzichoq | Qishloqqa yaqin yashaganmisiz? |
-| Quyoshga qarab buriladigan baland sariq gul qaysi? | Atirgul, **kungaboqar**, lola | Bogʻingizda nima oʻsardi? |
-| Kabisa yilida necha kun bor? | 365, **366**, 360 | Eslab qolgan tugʻilgan kuningiz haqida gapirib bering |
+| Qaysi bayram noyabr oyining to‘rtinchi payshanbasiga to‘g‘ri keladi? | Labor Day, **Thanksgiving**, Memorial Day | Dasturxoningizda har doim nima bo‘lardi? |
+| Jack-o'-lantern chiroqlari qaysi bayram uchun yasaladi? | **Halloween**, Easter, Christmas | O‘sgan joyingizda Halloween qanday o‘tganini aytib bering |
+| To‘rtinchi iyul qaysi hujjat e’lon qilinganini nishonlaydi? | Rights, **Independence**, Freedom | Mushakbozlikni qayerda tomosha qilardingiz? |
+| Onalar kuni qaysi oyda bo‘ladi? | April, **May**, June | Oilangiz uni qanday nishonlardi? |
+| Amerika bayrog‘ida nechta yulduz bor? | 48, **50**, 52 | Bayroqda 1959-yilgacha 48 ta yulduz bor edi. Ikkala javob ham yaxshi xotira bo‘lishi mumkin |
+| Sharqiy sohil bo‘yida qaysi okean bor? | Pacific, **Atlantic**, Arctic | Dengiz bo‘yiga borganmisiz? |
+| Ozodlik haykali qaysi shaharda joylashgan? | Boston, **New York**, Philadelphia | Nyu-Yorkda bo‘lganmisiz? |
+| Asalarilar nima yasaydi? | Sut, **asal**, ipak | Tost ustiga asalmi yoki choyga? |
+| Sigir bolasiga nima deyiladi? | Foal, **buzoqlar**, kid | Qachondir ferma yaqinida yashaganmisiz? |
+| Quyosh tomonga burilishi bilan mashhur bo‘lgan baland sariq gul qaysi? | Atirgul, **kungaboqar**, lola | Bog‘ingizda nimalar o‘sardi? |
+| Kabisa yilida necha kun bor? | 365, **366**, 360 | Esingizda qolgan tug‘ilgan kun haqida gapirib bering |
 | Qishdan keyin qaysi fasl keladi? | Kuz, **bahor**, yoz | Sevimli faslingiz qaysi? |
 
-## Taom va sport viktorinasi
+## Taom va sport bo‘yicha viktorina
 
 | Savol | Variantlar | Suhbat mavzusi |
 | --- | --- | --- |
-| Mayiz nimaning quritilgani? | Olxoʻri, **uzum**, gilos | Mayizni tushlikka solib berarmidingiz? |
-| Qaysi mevaning ichida bitta katta danak boʻladi? | Olma, **oʻrik**, uzum | Oʻrik daraxti ostida oʻtirganmisiz? |
-| Tandirda pishiriladigan, ichida goʻshti bor yopma qaysi? | Manti, **samsa**, chuchvara | Eng yaxshi samsani kim pishirardi? |
-| Achichuk qaysi sabzavotlardan tayyorlanadi? | **Pomidor va piyoz**, sabzi va karam, kartoshka va sarimsoq | Dasturxonda yana qanday salatlar boʻlardi? |
-| Oshqovoq qaysi rangda? | Koʻk, **toʻq sariq**, qora | Qovoqdan nima pishirardingiz? |
-| Futbol jamoasida maydonda nechta oʻyinchi boʻladi? | 9, **11**, 13 | Qaysi jamoani qoʻllardingiz? |
-| Futbolda gol qayerga kiritiladi? | **Darvozaga**, savatga, halqaga | Futbol oʻynaganmisiz? |
-| Qaysi biri Oʻzbekistonning milliy sport turi? | Golf, **kurash**, xokkey | Kurash tushishni koʻrganmisiz? |
-| Shaxmat taxtasida nechta katak bor? | 36, **64**, 100 | Shaxmat oʻynaganmisiz? |
-| Qaysi sportda toʻp savatga tashlanadi? | Xokkey, **basketbol**, suzish | Uyingizda kim sport tomosha qilardi? |
+| Mayiz quritilgan nima? | Olxo‘ri, **uzum**, olcha | Tushlikka mayiz solib qo‘yganmisiz? |
+| Quritilgan olxo‘ri qanday meva? | **Olxo‘ri**, anjir, olma | Oilangizda quritilgan olxo‘rini kim yaxshi ko‘rardi? |
+| Yong‘oq moyi va... | **jelem**, pishloq, dudlangan go‘sht | Mayda bo‘lakchali yoki silliq? |
+| Guakamole asosan nimadan tayyorlanadi? | No‘xat, **avokado**, bodring | Bazmlarda qanday gazaklar tortilardi? |
+| Thanksgiving bayramida qaysi pirog ko‘p tortiladi? | **Qovoqli**, limonli, olchali | Qaysi pirogni pishirardingiz? |
+| Beysbol jamoasidan maydonda nechta o‘yinchi bo‘ladi? | 7, **9**, 11 | Qaysi jamoani qo‘llab-quvvatlagansiz? |
+| Beysbolda nechta strike out hisoblanadi? | Ikki, **uch**, to‘rt | Hech o‘ynaganmisiz? |
+| Babe Ruth qaysi sport turi bilan mashhur bo‘lgan? | Boks, **beysbol**, golf | Beysbol o‘yinlariga borganmisiz? |
+| Oddiy golf maydonida nechta teshik bo‘ladi? | 9, **18**, 24 | Golf yoki mini-golf o‘ynaganmisiz? |
+| Qaysi sport turida touchdown ochkosi olinadi? | **Amerika futboli**, xokkey, basketbol | Uyingizda Amerika futbolini kim tomosha qilardi? |
 
 ## Tanish maqollar
 
-Maqolni tugatish uzoq vaqt oldin oʻrganilgan tilga tayanadi va koʻpincha oson chiqadi. Maqollar oila va hududga qarab farq qiladi, shuning uchun bu yerga tayyor roʻyxat qoʻymadik: oʻzingiz yoki insonning oʻzi biladigan maqollarni tanlang. Bizning [Maqolni tugatish](/games/finish-the-saying/) oʻyinimizda koʻproq misollar bor, har qanday oxirini koʻrsatish uchun bosish mumkin.
+Maqolni yakunlash uzoq vaqt oldin o‘rganilgan tilga tayanganligi sababli ko‘pincha oson keladi. Bizning [Maqolni yakunlang](/games/finish-the-saying/) o‘yinimizda har qanday yakunini ko‘rsatish uchun bosish mumkin bo‘lgan yana ko‘plab maqollar bor.
 
-- Maqolning birinchi yarmini ayting va oxirgi soʻzdan oldin pauza qiling.
-- Kerak boʻlsa, ikki-uch variant taklif qiling yoki oxirini birga ayting.
-- Kimdir boshqacha tugatsa, bundan zavqlaning va «Bu maqolni sizga kim aytardi?» deb soʻrang.
+| Maqol | Variantlar | Suhbat mavzusi |
+| --- | --- | --- |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Buni sizga kim aytib turardi? |
+| The early bird catches the... | Bus, **worm**, train | Siz erta turadigan odammisiz? |
+| Don't count your chickens before they... | **Hatch**, sleep, sing | Oilangiz tovuq boqganmi? |
+| A penny saved is a penny... | **Earned**, lost, spent | Oilangizda tejamkor kim edi? |
+| Home is where the... | Garden is, **heart is**, kitchen is | Bir joyni uydek his qildiradigan narsa nima? |
+| Better late than... | Early, **never**, sorry | Kim har doim kechikardi? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Omadli bir voqea haqida gapirib bering |
+| Actions speak louder than... | **Words**, music, thunder | Buni aytgan odam haqida gapirib bering |
 
-## Toʻgʻri javobi yoʻq «buni yoki uni» savollari
+## Noto‘g‘ri javobi bo‘lmagan «shu yoki bu» savollari
 
-Bular har bir bosqichga, shu jumladan keyingi bosqichlarga ham mos, chunki toʻgʻri topadigan narsa yoʻq. Soʻrang, tinglang va oʻz javobingizni ham ayting.
+Bu savollar har bir bosqichga, jumladan keyingi bosqichlarga ham mos keladi, chunki bu yerda noto‘g‘ri javob yo‘q. So‘rang, tinglang va o‘z javobingizni ham ayting.
 
-- Choy yoki kofe?
-- Dengiz boʻyi yoki togʻ?
-- It yoki mushuk?
+- Qahva yoki choy?
+- Dengiz bo‘yi yoki tog‘lar?
+- Itlar yoki mushuklar?
 - Yoz yoki qish?
-- Tort yoki pishiriq?
+- Pirog yoki tort?
 - Raqsga tushish yoki tomosha qilish?
-- Quyosh chiqishi yoki botishi?
-- Ayvon yoki hovli?
-- Radio yoki plastinka?
-- Blin yoki tuxum?
-- Atirgul yoki moychechak?
-- Poyezdda sayohat yoki mashinada sayohat?
+- Quyosh chiqishi yoki quyosh botishi?
+- Old ayvon yoki orqa hovli?
+- Radio yoki plastinkalar?
+- Quymoq yoki tuxum?
+- Atirgullar yoki romashkalar?
+- Poyezd safari yoki avtomobil safari?
 
-Rasmlar bilan boradigan suhbat savollari uchun chop etiladigan [Suhbat kartalari](/games/conversation-cards/)ni sinab koʻring.
+Rasmlar bilan birga ishlatiladigan suhbat savollari uchun bosib chiqariladigan [Suhbat kartalari](/games/conversation-cards/)ni sinab ko‘ring.
 
-## Parvarish uyida yoki guruhda viktorina mashgʻulotini qanday oʻtkazish kerak?
+## Qariyalar uyida yoki guruhda viktorina mashg‘ulotini qanday o‘tkazish kerak?
 
-1. **Odamlarni koʻrib va eshitib oladigan qilib oʻtqazing.** Eshitish apparatlari taqilgan, koʻzoynak kiyilgan, televizor oʻchirilgan boʻlsin.
-2. **Uni suhbat sifatida tanishtiring.** «Qadimgi kunlar haqida bir necha savolim bor, sizlar mendan koʻproq bilsangiz kerak.»
-3. **Har bir savolni ikki marta oʻqing va variantlarni katta qilib koʻrsating.**
-4. **Xonaning istalgan joyidan javobni qabul qiling.** Yaxshi javoblarni takrorlang, hamma eshitsin.
-5. **Javobni hamma uchun ayting,** keyin suhbat mavzusini xonaga soʻrang.
-6. **Gʻayratga ergashing.** Bitta savol oʻn daqiqalik hikoyalarni boshlasa, qoʻya turing.
-7. **Qoʻshiq yoki «buni yoki uni» davrasi bilan tugating,** shunda hamma oson narsa bilan yakunlaydi.
+1. **Odamlarni ko‘rib va eshitib oladigan qilib o‘tqazing.** Eshitish apparatlari taqilgan, ko‘zoynaklar taqilgan, televizor o‘chirilgan bo‘lsin.
+2. **Uni suhbat sifatida tanishtiring.** «Menda eski kunlar haqida bir nechta savol bor, sizlar mendan ko‘ra ko‘proq bilasiz deb o‘ylayman.»
+3. **Har bir savolni ikki marta o‘qing va variantlarni katta qilib ko‘rsating.**
+4. **Xonaning istalgan joyidan kelgan javoblarni qabul qiling.** Yaxshi javoblarni hamma eshitishi uchun takrorlang.
+5. **Javobni hammaga ayting,** so‘ng suhbat uchun berilgan savolni xonadagi hammaga bering.
+6. **Kayfiyatga ergashing.** Agar bitta savol o‘n daqiqalik hikoyalarga sabab bo‘lsa, to‘xtatmang.
+7. **Hamma oson bir narsa bilan yakunlashi uchun** oxirida qo‘shiq ayting yoki «shu yoki bu» savollari turini o‘tkazing.
 
-Boshqa guruh shakllari, shu jumladan rasmli bingo va birga qoʻshiq aytish uchun [parvarish uylari uchun guruh mashgʻulotlari](/activities/care-home-groups/) sahifasiga qarang.
+Rasmli bingo va birga qo‘shiq aytish kabi boshqa guruh shakllari uchun [qariyalar uylari uchun guruh mashg‘ulotlari](/activities/care-home-groups/) sahifasiga qarang.
 
-## Rejani qachon oʻzgartirish kerak
+## Qachon rejasini o‘zgartirish kerak
 
-Kimdir xavotirli koʻrinsa, jim qolsa yoki bir martadan koʻp «Bilmayman» desa, osonlashtiring: ikki variantga tushing, birga javob bering yoki «buni yoki uni» savollariga oʻting. Guruh butun tushdan keyin bitta savol haqida gaplashishni afzal koʻrsa, bu muvaffaqiyat. Maqsad hech qachon toʻgʻri javoblar emas edi. Maqsad yaxshi hamrohlikda vaqt oʻtkazish edi.
+Agar kimdir xavotirli ko‘rinsa, jim bo‘lib qolsa yoki bir necha marta «Bilmayman» desa, uni osonlashtiring: ikkita variantga tushiring, birga javob bering yoki «shu yoki bu» savollariga o‘ting. Agar guruh bir savol haqida butun tushlik vaqtini suhbatlashib o‘tkazishni xohlasa, bu ham muvaffaqiyat. Maqsad hech qachon faqat to‘g‘ri javoblar bo‘lmagan. Maqsad — yaxshi davrada birga o‘tkazilgan vaqt edi.

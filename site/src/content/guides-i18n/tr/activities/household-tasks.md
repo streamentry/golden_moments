@@ -1,32 +1,32 @@
 ---
-title: "Demansı Olan Kişiler İçin Etkinlik Olarak Ev İşleri"
-seoTitle: "Demans İçin Ev İşi Etkinlikleri: Günlük Görevler"
-description: "Katlamak, ayırmak, sofra kurmak ve basit yemek yapmak, demansla yaşayan kişiler için anlamlı etkinlikler olabilir. Nasıl hazırlanır, uyarlanır ve güvenli tutulur."
+title: "Demansla Yaşayanlar İçin Ev İşleri Etkinlikleri"
+seoTitle: "Demans İçin Ev Etkinlikleri: Günlük İşler"
+description: "Havlu katlamak, çorap eşleştirmek, sofra kurmak ve basit yemek yapmak, demansla yaşayan kişiler için anlamlı etkinlikler olabilir. Nasıl kurulur, nasıl uyarlanır ve nasıl güvenli tutulur."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Havlu katlamak, çorapları ayırmak, sofra kurmak, tezgâhı silmek, çiçekleri
-  sulamak ve basit yemeklere yardım etmek gibi günlük işler, demansla yaşayan
-  kişiye gerçekten yardımcı olma imkânı verebilir. Bildiği işleri seçin,
-  her işi tek adımlara bölün, keskin ya da sıcak tehlikeleri ortadan kaldırın
-  ve “doğru” yapmaktan çok katılmaya değer verin.
+  Havlu katlamak, çorap eşleştirmek, sofra kurmak, tezgah silmek, çiçek
+  sulamak ve basit yemek yapmaya yardım etmek gibi günlük ev işleri, demansla
+  yaşayan bir kişiye gerçekten yardım etme fırsatı verebilir. Bildiği işleri
+  seçin, her seferinde tek adıma bölün, keskin veya sıcak tehlikeleri
+  uzaklaştırın ve işi "doğru" yapmaktan çok katılmayı değerli görün.
 keyPoints:
-  - "Tanıdık işler, kişinin kendini işe yarar ve evin bir parçası hissetmesine yardımcı olabilir; bu da çoğu zaman işin ne kadar iyi yapıldığından daha önemlidir."
-  - "Her işi tek adımlara bölün, anlatmak yerine gösterin ve zorlaşan adımı sessizce siz devralın."
-  - "Birlikte yemek yapmadan önce bıçakları, temizlik ürünlerini ve deterjan kapsüllerini kilitleyin; ocak düğmesi kapakları ya da otomatik kapanma düzeneği ekleyin."
-  - "Katlanmış havluları kişinin önünde yeniden katlamayın. Bir şeyi yeniden yapmanız gerekiyorsa, daha sonra ve göremeyeceği bir yerde yapın."
-  - "Bir iş sinirlilik yaratıyorsa daha kolay bir adıma geçin, başka bir zaman yeniden deneyin ya da sadece birlikte oturun."
+  - "Tanıdık ev işleri, bir kişinin kendini yararlı ve evin parçası hissetmesine yardımcı olabilir; bu çoğu zaman işin ne kadar iyi yapıldığından daha önemlidir."
+  - "Her görevi tek adımlara bölün, anlatmak yerine gösterin ve zorlaştığı adımları sessizce siz devralın."
+  - "Bıçakları, temizlik ürünlerini ve deterjan kapsüllerini kilitli tutun; yemek yapmadan önce ocak düğme kapakları veya otomatik kapanma ekleyin."
+  - "Katlanan havluların onun önünde yeniden katlanması gerekmez. Bir şeyi yeniden yapmanız gerekiyorsa, daha sonra ve onun görmediği yerde yapın."
+  - "Bir iş sıkıntı veriyorsa, daha kolay bir adıma geçin, başka bir zaman yeniden deneyin ya da sadece yan yana oturun."
 faq:
-  - q: "Demansı olan biri hangi ev işlerine hâlâ yardım edebilir?"
-    a: "Pek çok kişi hâlâ çamaşır katlayabilir, çorapları eşleştirebilir, çatal-kaşıkları ayırabilir, sofra kurabilir, tezgâhı silebilir, toz alabilir, süpürebilir, çiçekleri sulayabilir ya da bir kâse hamuru karıştırabilir. Kişinin geçmişte yaptığı işleri seçin ve şimdi yapabildiklerine uyarlayın. Daha sonraki evrelerde, peçeteleri düzeltmek gibi tek bir tekrarlayan hareket yeterli olabilir."
+  - q: "Demansı olan bir kişi hâlâ hangi ev işlerine yardım edebilir?"
+    a: "Birçok kişi çamaşır katlamaya, çorap eşleştirmeye, çatal kaşık bıçak ayırmaya, sofra kurmaya, tezgah silmeye, toz almaya, süpürmeye, çiçek sulamaya veya bir kâse hamuru karıştırmaya devam edebilir. Kişinin geçmişte yaptığı işleri seçin ve bugün yapabileceklerine göre eşleştirin. Daha sonraki evrelerde, peçeteleri düzleştirmek gibi tek bir tekrarlı hareket bile yeterli olabilir."
   - q: "Demansı olan birinin mutfakta yardım etmesi güvenli mi?"
-    a: "Yakın gözetim ve doğru düzenle olabilir. Bıçakları, temizlik ürünlerini ve sıcak her şeyi erişemeyeceği yerde tutun, ocak düğmesi kapakları ya da otomatik kapanma düzeneği kullanın ve kişiye sebze yıkamak, karıştırmak ya da tabakları dizmek gibi güvenli bir iş verin. Ocak açıkken onu asla yalnız bırakmayın."
-  - q: "Yanlış katlarsa ya da ortalığı dağıtırsa ne olur?"
-    a: "Bırakın. Amaç birlikte zaman geçirmek ve işe yarama duygusu, kusursuz bir sonuç değil. Bir şeyin gerçekten yeniden yapılması gerekiyorsa, sonraya bırakın ve kişi bakmazken yapın; böylece düzeltilmiş hissetmez."
+    a: "Yakın gözetim ve doğru düzen ile olabilir. Bıçakları, temizlik ürünlerini ve sıcak her şeyi erişimden uzak tutun, ocak düğme kapakları veya otomatik kapanma kullanın ve kişiye sebze yıkamak, karıştırmak veya tabak çıkarmak gibi güvenli bir iş verin. Ocağı açıkken onu hiç yalnız bırakmayın."
+  - q: "Yanlış katlarlarsa veya dağınıklık yaparlarsa ne olur?"
+    a: "Olsun. Amaç birlikte zaman geçirmek ve yararlı hissetmektir, mükemmel bir sonuç değil. Bir şey gerçekten yeniden yapılması gerekiyorsa, daha sonra ve kişi izlemiyorken yapın, böylece kendini düzeltilmiş hissetmez."
   - q: "Yardım etmeyi reddederse ne olur?"
-    a: "Bir hayır, işin şu anda çok zor, kafa karıştırıcı ya da yorucu geldiği anlamına gelebilir. Zorlamayın. Daha basit bir sürüm deneyin, bunun yerine size eşlik etmesini önerin ya da günün daha uygun bir saatinde yeniden sorun."
+    a: "Bir hayır, işin şu an çok zor, kafa karıştırıcı veya yorucu geldiğine işaret edebilir. Zorlamayın. Daha basit bir sürüm deneyin, onu yerine yanınızda oturmaya davet edin ya da günün daha iyi bir saatinde yeniden sorun."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,143 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Demansla yaşayan pek çok kişi onlarca yıl bir evi çekip çevirdi, çocuk büyüttü ya da bir iş yerini düzenli tuttu. Gerçek ev işlerinde yardım istenmesi, çok az etkinliğin söyleyebildiği şeyi söyleyebilir: “Hâlâ bu evin bir parçasısın.” Bu sayfa hangi işlerin işe yaradığını, nasıl hazırlanacağını, durumlar değiştikçe nasıl uyarlanacağını ve mutfağı ve çamaşır odasını nasıl güvenli tutacağınızı ele alır.
+Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
 
-## Günlük işler neden etkinlik olarak iyi çalışır?
+Demansla yaşayan birçok kişi on yıllarca ev yönetti, aile büyüttü veya bir iş yerini düzenli tuttu. Gerçek ev işlerine yardım etmesi istenmesi, başka etkinliklerin çoğu zaman yapamadığı kadar güçlü bir şekilde "hâlâ bu evin bir parçasısın" diyebilir. Bu sayfa hangi işlerin genellikle işe yaradığını, nasıl kurulacağını, değişen koşullara nasıl uyarlanacağını ve mutfağı ile çamaşır odasını nasıl güvenli tutacağınızı anlatır.
 
-İşler, tanıdık oldukları ve net bir amaçları olduğu için işe yarar. National Institute on Aging; bulaşık yıkamak, sofra kurmak, süpürmek, toz almak, postayı ayırmak, çamaşır katlamak ve geri dönüşümü ayırmayı, [Alzheimer hastalığı olan kişilerin keyif alabileceği günlük etkinlikler](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) arasında sayıyor. Alzheimer's Association, sofra kurmak gibi işlerin kişinin [evin değerli bir parçası olduğunu hissetmesine](https://www.alz.org/help-support/caregiving/daily-care/activities) yardımcı olabileceğini belirtiyor.
+## Why do everyday chores work well as activities?
 
-Bir iş, kendi başlama nedenini de beraberinde getirir. “Şu havlulara yardım eder misin?” sorusuna evet demek, “Bir etkinlik yapmak ister misin?” sorusuna evet demekten daha kolaydır.
+Ev işleri işe yarar çünkü tanıdık ve açık bir amacı vardır. Ulusal Yaşlanma Enstitüsü (NIA), bulaşık yıkamayı, sofra kurmayı, süpürmeyi, toz almayı, postayı ayırmayı, çamaşır katlamayı ve geri dönüşümü ayırmayı [Alzheimer'lı kişilerin keyif alabileceği günlük etkinlikler](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) arasında sayar. Alzheimer Derneği, sofra kurmak gibi işlerin bir kişinin [kendini evin değerli bir parçası olarak hissetmesine](https://www.alz.org/help-support/caregiving/daily-care/activities) yardımcı olabileceğini belirtir.
 
-## Hangi ev işlerini denemek iyi olur?
+A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
 
-Kişinin geçmişte yaptığı işlerle başlayın, sonra bugün yapabildiklerine uyarlayın.
+Bir ev işi başlamak için kendi nedenini de beraberinde getirir. "Bu havlulara yardım eder misin?" demek, "Bir etkinlik yapmak ister misin?" demekten evet demesi daha kolaydır.
 
-### Çamaşır ve çarşaflar
+## Which household tasks are good to try?
 
-- **Havluları ve el bezlerini katlamak.** Küçük, düz parçalardan oluşan bir sepet verin. Havlular hoşgörülüdür: bir havluyu katlamanın yanlış bir yolu yoktur.
-- **Çorapları eşleştirmek.** Masaya karışık bir yığın koyun. Çiftleri fark etmek zorlaşırsa yalnızca iki üç çok farklı renk kullanın.
-- **Düzeltmek ve üst üste dizmek.** Peçeteler, yastık kılıfları ya da mutfak havluları düzeltilip üst üste dizilebilir. Katlamak çok fazla adım gerektirmeye başladığında, daha sonraki dönemde iyi işler.
+Hangi ev işleri denemeye değer?
 
-### Sofra ve mutfak
+Start with tasks the person did in the past, then match them to what they can do today.
 
-- **Sofra kurmak.** Örnek olarak bir kişilik takımı yerleştirin ve kişinin kopyalamasına izin verin. Bu fazla gelirse bir seferde bir şey verin: “Her tabağa bir çatal.”
-- **Çatal-kaşıkları ayırmak.** Temiz çatalları, kaşıkları ve tereyağı bıçaklarını bir kapta karıştırın ve bölmeli bir tepsiye ayırın. Keskin bıçakları dışarıda bırakın.
-- **Bulaşık kurulamak.** Plastik ya da kırılmaz tabaklar ve yumuşak bir bez bunu güvenli bir iş yapar.
-- **Masayı ya da tezgâhları silmek.** Nemli bir bez ve boş bir yüzey. Alzheimer's Association, biri zaten eliyle masayı ovuyorsa ona bir bez uzatmayı öneriyor; böylece huzursuz bir hareket yararlı bir harekete dönüşür.
+Kişinin geçmişte yaptığı işlerle başlayın, sonra bugün yapabileceklerine göre eşleştirin.
 
-### Evin çevresinde
+### Laundry and linens
 
-- **Toz almak.** Yumuşak bir toz bezi ve sehpa ya da kitaplık gibi birkaç sağlam yüzey.
-- **Postayı ayırmak.** Reklam postalarını ve katalogları yığınlara ayırmak için verin: sakla, geri dönüşüme at, sonra aç. Gerçek faturaları ve çekleri başka bir yerde tutun.
-- **Geri dönüşümü ayırmak.** Temiz kutuları, şişeleri ve kâğıtları ayrı kutulara koymak.
-- **Süpürmek.** Dengesi sağlamsa, bir veranda ya da mutfak zemininde küçük bir süpürge.
-- **Çiçekleri sulamak.** Küçük, hafif bir sulama kabı ve kolay erişilen birkaç bitki.
+**Havlu ve bez katlama.** Küçük, düz eşyalardan oluşan bir sepet verin. Havlular affedicidir: onu katlamanın yanlış bir yolu yoktur.
 
-### Gözetim altında basit yemek yapma
+**Çorap eşleştirme.** Karışık bir yığını masaya koyun. Eşleri bulmak zorlaşırsa, yalnızca çok farklı iki veya üç renk kullanın.
 
-Yemek yapmak güçlü, hoş duyguları geri getirebilir. NIA, kişinin malzemeleri toplamasına, ölçmesine, karıştırmasına ve dökmesine izin vermeyi ya da sadece başka birine sevdiği bir tarifi nasıl yapacağını anlatmasını öneriyor. İyi işler şunlardır:
+**Düzleştirme ve istifleme.** Peçeteler, yastık kılıfları veya mutfak havluları düzleştirilip istiflenebilir. Katlama çok adımlı hale geldiğinde, daha sonraki dönemlerde iyi işler.
 
-- sebze ya da meyve yıkamak
-- hamur ya da soğuk bir salata karıştırmak
-- marulu elle koparmak
-- keskin olmayan bir bıçakla ekmeğe tereyağı sürmek
-- kurabiye hamurunu tepsiye koymak
-- pizzanın üzerine malzeme koymak
+### Table and kitchen
 
-Ölçmek zorlaşırsa Alzheimer's Association, ölçme işini sizin bitirmenizi ve sonra karıştırmak gibi başka bir adımı vermenizi öneriyor.
+**Sofra kurma.** Bir yer düzenini model olarak serin ve kişinin kopyalamasına izin verin. Bu çok fazlaysa, her seferinde tek bir eşya verin: "Her tabağa bir çatal."
 
-## Bir işin iyi gitmesi için nasıl hazırlık yaparım?
+**Çatal kaşık bıçak ayırtma.** Temiz çatal, kaşık ve tereyağı bıçaklarını bir leğende karıştırın ve bölmeli bir tepsiye ayırın. Keskin bıçakları dışarıda bırakın.
 
-1. **Doğru zamanı seçin.** Kişinin genellikle dinlenmiş ve sakin olduğu bir zamanı seçin. Pek çok kişi için bu sabahtır.
-2. **Alanı boşaltın.** Bir iş, bir yüzey, masada fazladan hiçbir şey yok.
-3. **Davet edin, görev vermeyin.** “Şunlara bir elin lazım” demek, “Çamaşır katlama zamanı” demekten daha iyi sonuç verir.
-4. **İlkini gösterin.** Bir havluyu yavaşça katlayın, sonra bir sonrakini uzatın. Göstermek, açıklamaktan daha nettir.
-5. **Bir seferde bir adım verin.** Aynı anda çok fazla yönerge bunaltabilir. Bir sonraki adımı söylemeden önce birinin bitmesini bekleyin.
-6. **Yan yana çalışın.** Aynı işi yan yana yapmak gözetim değil, arkadaşlık gibi hissettirir.
-7. **Sonuçla değil, işle ilgili konuşun.** “Bunlar çok yumuşak” ya da “Çamaşır dolabını nasıl düzenli tutmayı severdin, anlat bana” kimseyi sınamadan sohbeti davet eder.
+**Bulaşık kurutma.** Plastik veya kırılmaz tabaklar ve yumuşak bir havlu bunu güvenli bir iş yapar.
 
-## Yetenekler değiştikçe işleri nasıl uyarlarım?
+**Masa veya tezgah silme.** Nemli bir bez ve temiz bir yüzey. Alzheimer Derneği, biri zaten masayı eliyle ovuyorsa bir bez vermeyi önerir; bu, huzursuz bir hareketi yararlı bir işe dönüştürür.
 
-Yetenekler zamanla, hatta günden güne değişir. Alzheimer's Association, hastalık ilerledikçe daha basit, daha tekrarlayan işlere geçmeyi öneriyor.
+### Around the house
+
+**Toz alma.** Yumuşak bir toz bezi ve birkaç sağlam yüzey, örneğin bir sehpa veya kitaplık.
+
+**Postayı ayırtma.** Atık postayı ve katalogları yığınlar halinde ayırmak için verin: sakla, geri dönüştür, daha sonra aç. Gerçek faturaları ve çekleri başka yerde tutun.
+
+**Geri dönüşümü ayırtma.** Temiz kutular, şişeler ve kâğıtları ayrı kutulara.
+
+**Süpürme.** Denge sağlam ise, veranda veya mutfak zemininde küçük bir süpürge.
+
+**Çiçek sulama.** Küçük, hafif bir sulama kabı ve kolay erişilebilen birkaç bitki.
+
+### Simple cooking with supervision
+
+Yemek yapmak güçlü ve hoş duyguları geri getirebilir. NIA, kişinin malzemeleri toplamasına, ölçmesine, karıştırmasına ve dökmesine izin vermeyi veya yalnızca başkasına sevilen bir tarifi nasıl yapacağını anlatmasını önerir. İyi işler şunları içerir:
+
+- sebze veya meyve yıkamak
+- hamur veya soğuk salata karıştırmak
+- marul yırtmak
+- keskin olmayan bıçakla tost yağlamak
+- bir tepsiye kurabiye hamuru koymak
+- pizzaya malzeme koymak
+
+Ölçmek zorlaşırsa, Alzheimer Derneği ölçmeyi sizin bitirmenizi ve sonra karıştırmak gibi farklı bir adımı devretmenizi önerir.
+
+## How do I set up a chore so it goes well?
+
+Bir işi iyi gitmesi için nasıl kurarım?
+
+1. **Doğru zamanı seçin.** Kişinin genellikle dinlenmiş ve sakin olduğu günün bir bölümünü seçin. Birçok kişi için bu sabahdır.
+2. **Alanı temizleyin.** Tek iş, tek yüzey, masada fazladan hiçbir şey.
+3. **Davet edin, görevlendirmeyin.** "Bunlara bir el atsan iyi olur" demek, "Çamaşır katlama zamanı" demekten daha iyi işler.
+4. **İlkini gösterin.** Bir havluyu yavaşça katlayın, sonra sıradakini verin. Göstermek, açıklamaktan daha nettir.
+5. **Her seferinde tek adım verin.** Aynı anda çok fazla yönerge bunaltabilir. Bir sonraki adımı söylemeden önce bir adımın bitmesini bekleyin.
+6. **Yan yana çalışın.** Aynı işi birbirinizin yanında yapmak, gözetim gibi değil, arkadaşlık gibi hissettirir.
+7. **İş hakkında konuşun, sonuç hakkında değil.** "Bunlar ne kadar yumuşak" veya "Çarşaf dolabını nasıl düzenlemeyi seversin, anlat" demek, kimseyi sınamadan sohbeti davet eder.
+
+## How do I adapt chores as abilities change?
+
+Yetenekler değiştikçe işleri nasıl uyarlarım?
+
+Yetenekler zamanla ve hatta günden güne değişir. Alzheimer Derneği, hastalık ilerledikçe daha basit, daha tekrarlı işlere yönelmeyi önerir.
 
 | Bu zorlaştıysa | Bunun yerine şunu deneyin |
 | --- | --- |
-| Büyük çarşafları katlamak | El bezlerini katlamak ya da peçeteleri düzeltmek |
-| Tam bir sofra kurmak | Her koltuğun önüne bir peçete koymak |
-| Postayı kategorilere ayırmak | Zarfları tek bir yığına dizmek |
-| Bir tarifi izlemek | Karıştırmak ya da siz pişirirken izlemek ve tatmak |
-| Bütün bir zemini süpürmek | Küçük bir masayı silmek |
-| İşi yapmak | Siz yaparken yanınızda oturmak ve size eşlik etmek |
+| Büyük çarşaflar katlamak | Bezleri katlamak veya peçeteleri düzleştirmek |
+| Tam sofra kurmak | Her koltuğa bir peçete koymak |
+| Postayı kategorilere ayırmak | Zarfları tek bir yığın halinde istiflemek |
+| Tarif takip etmek | Karıştırmak ya da siz pişirirken izlemek ve tatmak |
+| Bütün zemini süpürmek | Tek küçük bir masayı silmek |
+| İşi yapmak bile | Siz yaparken yanınızda oturup size eşlik etmek |
 
-İzlemek de sayılır. NIA, bazı kişilerin sadece izlemekten keyif aldığını ve bunun katılmanın güzel bir yolu olduğunu belirtiyor.
+İzlemek de sayılır. NIA, bazı kişilerin yalnızca izlemekten keyif aldığını ve bunun katılmak için iyi bir yol olduğunu belirtir.
 
-## Ev işlerini nasıl güvenli tutarım?
+## How do I keep household tasks safe?
 
-Güvenlik önce gelir, özellikle mutfakta. NIA'nın [Alzheimer bakım verenleri için ev güvenliği ipuçları](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) şunları içerir:
+Ev işlerini nasıl güvenli tutarım?
 
-- Şeker gibi görünebilen çamaşır deterjanı kapsülleri dahil temizlik ürünlerini kilitleyin ya da kaldırın.
-- Bıçakları, makasları ve elektrikli aletleri kilitli bir yerde saklayın.
+Güvenlik önceliklidir, özellikle mutfakta. NIA'nın [Alzheimer bakıcıları için ev güvenliği ipuçları](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) şunları içerir:
+
+- Temizlik ürünlerini kilitleyin veya uzaklaştırın; şeker gibi görünebilen çamaşır deterjanı kapsülleri de dahil.
+- Bıçakları, makasları ve elektrikli aletleri kilitli bir alanda saklayın.
 - Ocağa güvenlik düğmeleri ve otomatik kapanma anahtarı ekleyin.
-- Fırının, ekmek kızartma makinesinin ve ütünün yanına “Dur” ya da “Çok sıcak” işaretleri koyun; yanmayacak biçimde yerleştirilsin.
-- Haşlanma riskini azaltmak için sıcak su sistemini (şofben, kombi ya da termosifon) 120°F'ye (yaklaşık 49 °C) ayarlayın.
-- Yenilebilir gibi görünebilecek yapay meyveleri ve yiyecek biçimli mıknatısları kaldırın.
+- Fırın, tost makinesi ve ütü yakınına "Dur" veya "Çok sıcak" tabelaları koyun; alev almayacak şekilde yerleştirin.
+- Haşlanma riskini azaltmak için su ısıtıcısını 120°F'ye ayarlayın.
+- Yenilebilir görünebilen yapay meyveleri ve yiyecek şeklindeki mıknatısları kaldırın.
 
 Birkaç pratik alışkanlık daha yardımcı olur:
 
-- Ocak, fırın ya da keskin bir alet kullanılırken odada kalın.
-- Kurulama ve sofra kurma için kırılmaz tabaklar kullanın.
-- Süpürürken ya da paspas yaparken zeminleri kuru ve boş tutun.
-- Kişi eskiden aletler kullandıysa Alzheimer's Association, atölyedeki tehlikeli nesnelerin kaldırılmasını öneriyor; böylece bir ahşap parçasını zımparalamak gibi güvenli bir iş hâlâ keyifle yapılabilir.
+- Ocak, fırın veya keskin bir alet kullanılırken odada kalın.
+- Kurutma ve sofra kurma için kırılmaz tabaklar kullanın.
+- Süpürürken veya paspas yaparken zeminleri kuru ve boş tutun.
+- Kişi eskiden alet kullanıyorsa, Alzheimer Derneği atölyeden tehlikeli eşyaları kaldırmayı önerir; böylece tahta parçası zımparalamak gibi güvenli bir işten hâlâ keyif alınabilir.
 
-## “Yanlış” yaparsa ne olur?
+## What if they do it "wrong"?
 
-Bırakın. Yarıya değil de üçe katlanmış bir havlu hâlâ katlanmış bir havludur. Alzheimer's Association bunu açıkça söylüyor: önemli olan birlikte vakit geçirmek ve kişinin kendini işe yarar hissetmesidir; havluların düzgün katlanıp katlanmadığı değil. Bir şeyin gerçekten yeniden yapılması gerekiyorsa sonraya bırakın ve göz önünden uzakta yapın.
+"Yanlış" yaparlarsa ne olur?
 
-O anda düzeltmek, hoş bir işi kaybedilenlerin bir hatırlatıcısına dönüştürebilir. “Teşekkürler, çok yardımcı oldun” hemen her zaman söylenecek en doğru şeydir.
+Gözden çıkarın. Yarım yerine üçte bir katlanmış bir havlu yine de katlanmış bir havludur. Alzheimer Derneği bunu açıkça söyler: önemli olan birlikte zaman geçirmek ve kişinin kendini yararlı hissetmesidir, havluların düzgün katlanıp katlanmadığı değil. Bir şey gerçekten yeniden yapılmalıysa, daha sonra ve görünmeyen bir yerde yapın.
 
-## Ne zaman durmalıyız?
+Anında düzeltmek hoş bir işi, kaybedilenin hatırlatıcısına çevirebilir. "Teşekkür ederim, bu büyük bir yardım" demek neredeyse her zaman doğru sözdür.
 
-Sinirlilik, yorgunluk ya da ilgi kaybı belirtileri gördüğünüzde durun ya da değiştirin. Erken bitirmek bir başarısızlık değil, iyi bir sonuçtur. Şunları yapabilirsiniz:
+## When should we stop?
+
+Ne zaman durmalıyız?
+
+Sıkıntı, yorgunluk veya ilgi kaybı belirtileri gördüğünüzde durun veya değiştirin. Erken bitirmek kötü bir sonuç değil, iyi bir sonuçtur. Şunları yapabilirsiniz:
 
 - daha kolay bir adıma geçmek
-- müzik ya da bir fincan kahve gibi dinlendirici bir şeye geçmek
-- sonra ya da başka bir gün yeniden denemek
-- sadece birlikte oturmak
+- müzik veya bir fincan kahve gibi dinlendirici bir şeye geçmek
+- daha sonra veya başka bir gün yeniden denemek
+- sadece yan yana oturmak
 
-Kişi hayır derse zorlamayın. Nazik yanıt yolları için [hayır dediklerinde ne yapmalı](/caregiving/when-they-say-no/) sayfasına bakın.
+Kişi hayır derse, zorlamayın. Nazikçe nasıl yanıt vereceğiniz için [hayır dediklerinde ne yapılacağı](/caregiving/when-they-say-no/) sayfasına bakın.
 
-## Daha sakin bir an için düşük eforlu ekler
+## Low-effort extras for a quieter moment
 
-Fiziksel işler mümkün olmadığında, ayırma ve eşleştirme yine de oturarak yapılabilir. [Birlikte ayıralım](/games/sort-together/), resimlere dokunup onları mutfak ya da bahçe sepetlerine ayırmanızı sağlar; [Resim eşleştirme](/games/picture-pairs/) ise büyük resimli, süresiz nazik bir eşleştirme oyunudur. [Sohbet kartları](/games/conversation-cards/), iş bittikten sonra bir kahveyle çok iyi giden ev ve aile üzerine açık sorular içerir.
+Daha sessiz bir an için düşük çabalı ekler
 
-İşleri güne yerleştirmeye yardım için [sakin bir günlük düzen](/activities/daily-routine/) rehberimize bakın. Evrelere göre daha fazla fikir için [orta evre etkinliklerine](/activities/middle-stage/) bakın.
+Fiziksel ev işleri mümkün olmadığında, ayırtma ve eşleştirme hâlâ oturarak yapılabilir. [Sort Together](/games/sort-together/) ile resimleri mutfak veya bahçe sepetlerine dokunarak yerleştirebilir, [Picture Pairs](/games/picture-pairs/) büyük resimler ve zamanlayıcı olmadan nazik bir eşleştirme oyunudur. [Conversation Cards](/games/conversation-cards/) iş bittikten sonra bir kahveyle iyi giden, ev ve aile hakkında açık uçlu sorular içerir.
+
+Ev işlerini güne yerleştirme konusunda yardım için [sakin bir günlük rutin](/activities/daily-routine/) rehberimize bakın. Evreye göre daha fazla fikir için [orta evre etkinlikleri](/activities/middle-stage/) sayfasına bakın.

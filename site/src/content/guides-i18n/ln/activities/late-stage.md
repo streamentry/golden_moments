@@ -1,32 +1,34 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Misala mpo na bokono ya kobosana ya suka"
+seoTitle: "Misala mpo na bokono ya kobosana ya suka: mbeto mpe kiti"
+description: "Misala ya malembe mpo na bokono ya kobosana ya suka, ata moto azali na mbeto to na kiti: miziki, kosimba, kotánga na mongongo makasi mpe kozala elongo, na makebisi ya libateli."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Na etape ya suka ya bokono ya kobosana, misala etali mingi mayoki mpe kozala
+  na yo pembeni: kobɛta miziki oyo alingaka, kosimba lobɔkɔ, kopakola lobɔkɔ na
+  malembe, kotánga na mongongo makasi, kotala bafɔtɔ, koyoka makelele ya
+  bozalisi mpe kovanda pembeni ya lininisa to na libándá. Misala oyo ekoki
+  kosalema na mbeto to na kiti. Bósala yango na mwa ntango moke, bótala elongi
+  mpe mabɔkɔ mpo na komona soki azali malamu, mpe bókanisa ete kozala pembeni
+  na ye ezali yango moko mosala.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Boyokani ekoki naino kozala. Na etape ya suka, mokili emonanaka mingi na nzela ya mayoki."
+  - "Miziki, kosimba na malembe, mongongo ya boyebi mpe biloko ya pɛtɛɛ ya kosimba ekoki kokóma epai ya bato ntango maloba mazali lisusu te."
+  - "Pene na likanisi nyonso awa ekoki kosalema mpo na moto oyo azali na mbeto to na kiti."
+  - "Bótala elongi, mabɔkɔ mpe kopema mpo na komona soki azali malamu to azali koyoka mpasi, mpe bótika soki elembo ya mpasi emonani."
+  - "Bóboya biloko ya mike mpe bópesa bilei to mayi kaka soki ekipi ya bokengeli elobi ete ezali malamu, mpo ete komela ekoki kokóma likama."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Misala nini tokoki kosala na moto oyo azali na bokono ya bokosana ya suka mpe azali na mbeto?"
+    a: "Bóbɛta miziki oyo alingaka, bósimba lobɔkɔ na ye, bópakola lobɔkɔ na ye na malembe na krɛ́mɛ, bótánga na mongongo makasi buku to losambo oyo alingaka, bólakisa ye bafɔtɔ, to bóbɛta makelele ya malembe ya bozalisi. Bófungola rideaux mpo ete amona libándá. Ntango mokuse mpe ya kimia, na likambo moko na mbala moko, esalaka malamu mingi."
+  - q: "Bato oyo bazali na bokono ya bokosana ya suka bakoki naino kosepela na miziki?"
+    a: "Mingi bakoki. Alzheimer's Association elobi ete ata na etape ya suka, moto akoki kobɛta rythme to koyemba elongo na nzembo ya bolenge na ye. Bópona miziki oyo alingaki tango azalaki elenge mpe bótia mongongo na malembe."
+  - q: "Ndenge nini nakoki koyeba soki azali kosepela na mosala?"
+    a: "Bótala bilembo ya mike: mapeka ya kimia, elongi ya malembe, kotala na miso, koyemba na mongongo ya malembe, kofina lobɔkɔ to kopema na malembe. Kosala elongi ya mpasi, komipesa mosika, kozanga kimia to kolela ekoki kolakisa mpasi to kozanga esengo. Soki bomoni yango, bótika mpe bóyebisa ekipi ya bokengeli soki ekobi."
+  - q: "Ezali na tina nakende kotala ye soki ayebi ngai lisusu te?"
+    a: "Iyo. National Institute on Aging elobi ete kozala kaka pembeni ekoki kopesa kimia, mpe ete kosimba, miziki mpe masolo ekoki naino kopesa esengo na bokono ya bokosana ya makasi. Mongongo mpe kosimba na yo ekoki kozala ya boyebi ata soki nkombo na yo eyebani lisusu te."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +50,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Na etape ya suka ya bokono ya kobosana, moto akoki koloba moke mpenza, kozala na posa ya lisalisi mpo na misala nyonso ya mokolo na mokolo mpe kolekisa mingi ya mokolo na mbeto to na kiti. Ekoki komonana lokola eloko moko te etikali mpo na kosala elongo. Kasi ezali. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) elobi ete ndambo ya moto yango ekoki naino kotikala, mpe ete na etape oyo mokili emonanaka mingi na nzela ya mayoki. Miziki, kosimba, mongongo ya boyebi mpe kozala na yo na kimia pembeni na ye ekoki naino komema esengo mpe mwa bantango ya boyokani.
 
-## What activities help in late-stage dementia?
+## Misala nini esalisaka na bokono ya kobosana ya suka?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Misala ya pɛtɛɛ ya mayoki mpe kozala elongo na kimia esalisaka mingi na etape ya suka. Alzheimer's Association elobi ete bóbɛta miziki oyo alingaka, bótánga biteni ya babuku ya ntina, bópakola krɛ́mɛ ya nsolo oyo alingaka na poso, mpe bóvanda libándá elongo na mokolo ya malamu. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ebakisi koyebisa masolo, kolakisa bafɔtɔ, kosimba na malembe to kopakola nzoto na malembe, mpe miziki, makelele ya mpɛmbɛ to makelele ya bozalisi, mpe elobi ete kozala na yo kaka pembeni ekoki kopesa kimia.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) elobi ete bato na etape ya suka bazalaka mbala mingi na posa makasi ya kosimba eloko pembeni na bango mpo na kozwa esengo, mpe epesi makanisi ya misala ya pɛtɛɛ ya mayoki, konyangisa nzoto na malembe, kobalusa esika ya molayi, miziki, botali ya banyama, kosimbana mpe mosala ya mabɔkɔ ya ndenge ya ofele.
 
-## Activities for someone in bed or a chair
+## Misala mpo na moto oyo azali na mbeto to na kiti
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Bóbɛta miziki na ye.** Bópona nzembo ya tango azalaki elenge, ya kondima na ye to ya libota na ye. Bótia mongongo na malembe mpe bóvanda pembeni. Ata sikoyo, bato mosusu babɛtaka mosapi to bayembaka na mongongo ya malembe. Bótala [misala ya miziki](/activities/music/).
+2. **Bósimba lobɔkɔ.** Kosimba kaka lobɔkɔ, na kopakola mosapi monene na malembe, ezali mosala. Bóloba liboso oyo bozali kosala.
+3. **Bópakola lobɔkɔ na malembe.** Bóya krɛ́mɛ moke na mabɔkɔ na bino mpe bópakola longwa na poignet tii na nsuka ya misapi. Bópona krɛ́mɛ ezanga nsolo, to nsolo oyo alingaki soki poso na ye endimaka yango.
+4. **Bótánga na mongongo makasi.** Poeme oyo alingaka, eteni ya buku oyo alingaka mingi, mokapo ya kondima to lokasa ya masano. Rythme ya mongongo na yo ezali na ntina koleka maloba.
+5. **Bóyebisa lisolo.** Bóloba mpo na mobembo ya libota to mokolo ya libala na bango. Esengeli te ete apesa biyano.
+6. **Bólakisa bafɔtɔ.** Bósimba fɔtɔ moko ya monene na mbala moko na nivo ya miso mpe bólobela yango na boboto. Bóboya kotuna nani azali na kati.
+7. **Bópesa eloko ya pɛtɛɛ ya kosimba.** Elinge oyo ebongisami, eteni ya molato ya pɛtɛɛ to nyama ya molato. NIA epesi likanisi ya kopesa moto elinge ya kosimba ntango bazali kobalola ye, mpo ete akanga bino to biloko te.
+8. **Bóbɛta makelele ya bozalisi.** Mvula, mbonge ya mai to loyembo ya bandɛkɛ na mongongo ya moke ekoki kokitisa makelele ya ndako.
+9. **Bómema libándá na kati.** Bófungola rideaux, bótia esika ya kolia bandɛkɛ libándá ya lininisa, to bómema mwa bafololo to nkasa ya sika mpo na kotala mpe kosimba.
+10. **Bókende libándá.** Soki moto akoki kovanda na kiti ya mabulu, mwa miniti na nse ya elili na mokolo ya malamu ekoki kozala kitoko.
+11. **Bósanola suki na ye to bópesa elinge ya molunge.** Kobongisa nzoto na malembe mpe elinge ya molunge mpo na mabɔkɔ mpe elongi ekoki kopesa mawi ya boboto.
+12. **Bóningana na malembe elongo na miziki.** Bóbalusa esika ya molayi ya pɛtɛɛ elongo, to bóningisa mabɔkɔ na rythme ya nzembo. Mpo na konyangisa mpe kobalola misisa, bótuna liboso fisioterapeuta to munganga-nsɔ́i alakisa bino ndenge ya kobatela.
+13. **Bósala mosala ya mabɔkɔ ya ndenge ya ofele.** Bópakola langi ezanga likama na lokasa monene na éponge to na lobɔkɔ, na litambwisi ya lobɔkɔ na bino. Ezali na mbano ya malamu te.
+14. **Bóyamba botali ya banyama.** Nyama ya kimia na mbeto to na mapeka, soki moto alingaki banyama mpe esika yango endimi.
+15. **Bópema na malembe elongo.** Bóvanda pembeni mpe bópema na malembe, na mongongo oyo ekoki koyokana. [Kopema na kimia](/games/calm-breathing/) ekoki kosalisa bino mibale, mpe bino nde bobandi mpe botiki.
+16. **Bózala kaka pembeni.** Bóvanda pene, bóyemba na mongongo ya malembe, bósala tricot to bótánga na kimia. Kozala pembeni ekoki.
 
-## How to share an activity at this stage
+## Ndenge ya kosala mosala elongo na etape oyo
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Bópusana longwa liboso.** Bóloba nkombo na ye mpe nkombo na bino, mpe bóloba na malembe mpe na boboto liboso ya kosimba ye.
+- **Bópesa eloko moko na mbala moko.** Bókanga televizyó liboso ya kobɛta miziki. Bósala na liyoko moko na mbala moko.
+- **Bótia yango mokuse.** Mwa miniti ekoki kokoka. Bantango mokuse mingi na mokolo ezali malamu koleka eteni moko molai.
+- **Bósala ete azala malamu liboso.** Bótala soki moto asimbami malamu. NIA epesi likanisi ya planche ya mapeka mpo na kopesa mabɔkɔ esika ya kopema mpe kosimba nzoto ya likoló ntango avandi.
+- **Bótala eyano na ye.** Mabɔkɔ ya kimia, elongi ya malembe, kotala na miso to koyemba na mongongo ya malembe ekoki kolakisa esengo. NIA elobi ete kolela, kosala elongi ya mpasi, kobatela eteni moko ya nzoto to kozanga kimia ya mbalakaka ekoki kozala bilembo ya mpasi. Bótika, mpe bóyebisa ekipi ya bokengeli.
 
-## A quick guide by sense
+## Lisalisi ya noki kolanda liyoko
 
-| Sense | Ideas | Take care |
+| Liyoko | Makanisi | Bókeba |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Koyoka | Miziki oyo alingaka, mongongo na yo ntango ozali kotánga, makelele ya bozalisi | Bótia mongongo na nse; likambo moko na mbala moko |
+| Kosimba | Kopakola lobɔkɔ, kosimba mabɔkɔ, elamba ya pɛtɛɛ, elinge ya molunge | Bótuna to bóyebisa liboso; bótala soki poso ezali na mpota to epasuki te |
+| Komona | Bafɔtɔ, bafololo, kotalela libándá na lininisa, video ya malembe ya bozalisi | Bósimba biloko na nivo ya miso; pole ya malamu, kongɛnga te |
+| Konusa | Krɛ́mɛ oyo alingaka, bafololo ya sika, káwa oyo ezali kosala pene | Bóboya nsolo makasi; bótala alergie mpe kopema |
+| Komeka | Mwa elengi ya eloko oyo alingaka | Bópesa kaka bilei mpe ndenge oyo ekipi ya bokengeli elobi ete ezali malamu |
 
-## Safety at this stage
+## Libateli na etape oyo
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Komela ekoki kokóma mpasi na etape ya suka, mpe NIA ekebisi ete yango ematisaka likama ya kokangwa na bilei. Bótika biloko ya mike te pene na ye, mpe bópesa bilei to mayi kaka na ndenge mpe na banzela oyo ekipi ya bokengeli endimi. Bótala poso na malembe ntango ya misala ya kosimba, mpo ete poso ekoki kopasuka to kobima na pete. Mpo na mayele mosusu ya misala ya mayoki na libateli, bótala [misala ya mayoki](/activities/sensory/).
 
-## Looking after yourself too
+## Kobatela mpe yo moko
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Kobatela moto na etape ya suka esengaka makasi ya nzoto mpe ya makanisi, ezala na ndako to ntango ya botali na ndako ya kobatela. Baekipi ya hospice mpe ya lisalisi ya kopesa esengo ekoki kosalisa mpo na esengo, lisungi mpe mabongisi, mpe NIA etángi bango lokola esika ya lisalisi. Botali ya mokuse mpe ya kimia ezali na tina; bótala [kotala moto oyo azali na bokono ya kobosana](/activities/visiting/). Soki ozali kotambwisa masanga, [misala ya masanga na ndako ya kobatela](/activities/care-home-groups/) ezali na makanisi mpo na kobongola misala. Mpe bótánga [komibatela lokola mobateli](/caregiving/caregiver-self-care/): kopema ezali eteni ya kobatela malamu.

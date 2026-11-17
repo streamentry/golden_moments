@@ -1,35 +1,35 @@
 ---
-title: "Resah Lewat Petang: Aktiviti Tenang untuk Orang dengan Demensia"
-seoTitle: "Resah Lewat Petang (Sundowning): Aktiviti Tenang"
-description: "Rutin lembut, perubahan bilik dan aktiviti tenang yang mungkin meredakan resah lewat petang dalam demensia, serta bila perlu menghubungi doktor."
+title: "Sundowning: Aktiviti Tenang Lewat Petang untuk Demensia"
+seoTitle: "Sundowning: Aktiviti Tenang Lewat Petang"
+description: "Rutin lembut, perubahan bilik dan aktiviti tenang yang mungkin meredakan keresahan lewat hari akibat demensia, serta bila perlu hubungi doktor."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Resah lewat petang (sundowning) ialah rasa resah, keliru atau mudah marah yang
-  bermula atau bertambah teruk pada lewat petang atau waktu malam. Langkah
-  praktikal yang mungkin membantu termasuk rutin harian yang tetap, cahaya
-  siang dan aktiviti lebih awal dalam hari, kurang tidur lewat hari, kurang
-  kafein, lampu dalam rumah yang terang sebelum senja, rumah yang lebih tenang,
-  dan aktiviti tenang seperti muzik, foto atau melipat pakaian. Gejala baharu
-  atau yang bertambah teruk perlu diperiksa oleh doktor.
+  Sundowning ialah keresahan, kekeliruan atau mudah marah yang bermula atau
+  menjadi lebih teruk pada lewat petang atau waktu malam. Langkah praktikal
+  yang mungkin membantu termasuk rutin harian yang tetap, cahaya siang dan
+  aktiviti lebih awal pada hari itu, kurang tidur sekejap lewat hari, kurang
+  kafein, lampu dalaman yang terang sebelum senja, rumah yang lebih tenang,
+  serta aktiviti yang menenangkan seperti muzik, foto atau melipat pakaian.
+  Gejala baharu atau yang semakin teruk perlu diperiksa oleh doktor.
 keyPoints:
-  - "Resah lewat petang bermaksud rasa resah atau keliru yang bermula atau bertambah teruk apabila cahaya siang pudar."
-  - "Letakkan tugasan yang memenatkan, berjalan keluar dan mandi pada waktu pagi atau awal tengah hari."
-  - "Cahaya siang, berjalan setiap hari, kurang tidur lewat hari dan kurang kafein lewat hari mungkin membantu waktu petang berjalan lebih lancar."
-  - "Pasang lampu sebelum senja, kurangkan bunyi bising, dan beralih kepada aktiviti yang tenang dan biasa."
-  - "Simpan catatan untuk mengesan pencetus, dan kekal tenang serta menenangkan apabila rasa resah bermula."
-  - "Berjumpa doktor untuk gejala baharu atau yang bertambah teruk: sakit, jangkitan atau ubat boleh memainkan peranan."
+  - "Sundowning bermaksud keresahan atau kekeliruan yang bermula atau menjadi lebih teruk apabila cahaya siang semakin malap."
+  - "Lakukan tugasan yang memerlukan banyak tenaga, keluar rumah dan mandi pada waktu pagi atau awal petang."
+  - "Cahaya siang, berjalan setiap hari, kurang tidur sekejap lewat hari dan kurang kafein lewat hari mungkin membantu waktu malam menjadi lebih tenang."
+  - "Pasang lampu sebelum senja, kurangkan bunyi bising, dan tukar kepada aktiviti yang tenang serta biasa."
+  - "Catat nota ringkas untuk mengenal pasti pencetus, dan kekal tenang serta meyakinkan apabila keresahan bermula."
+  - "Jumpa doktor jika ada gejala baharu atau semakin teruk: kesakitan, jangkitan atau ubat-ubatan boleh memainkan peranan."
 faq:
-  - q: "Pada waktu apakah resah lewat petang biasanya berlaku?"
-    a: "Ia biasanya bermula atau bertambah teruk pada lewat petang atau awal malam, apabila cahaya siang pudar. Masa tepatnya berbeza antara seorang dengan seorang, itulah sebabnya menyimpan catatan ringkas selama seminggu atau dua boleh membantu."
-  - q: "Apakah aktiviti yang membantu resah lewat petang?"
-    a: "Aktiviti yang tenang, biasa dan tidak memenatkan cenderung paling berkesan pada lewat petang: muzik yang menenangkan, melihat foto, rancangan televisyen atau filem kegemaran, melipat pakaian, berjalan sebentar, atau makan snek bersama. Simpan aktiviti baharu atau yang mencabar untuk waktu lebih awal dalam hari."
-  - q: "Bolehkah resah lewat petang menjadi tanda sesuatu yang bersifat perubatan?"
-    a: "Ia boleh bertambah teruk akibat masalah kesihatan seperti sakit, jangkitan seperti jangkitan saluran kencing, masalah tidur atau kesan sampingan ubat. Jika rasa resah itu baharu, tiba-tiba atau bertambah teruk, hubungi doktor orang itu."
-  - q: "Patutkah saya bertanya doktor tentang ubat untuk resah lewat petang?"
-    a: "Itu perbualan yang perlu dibuat dengan doktor. Alzheimer's Association menyatakan pendekatan tanpa ubat secara amnya diutamakan dahulu, dan sebarang ubat untuk resah waktu malam hanya patut dipertimbangkan selepas menimbang risiko dan manfaat. Halaman ini tidak memberi nasihat tentang ubat."
+  - q: "Pada waktu apa sundowning biasanya berlaku?"
+    a: "Ia biasanya bermula atau menjadi lebih teruk pada lewat petang atau awal malam, apabila cahaya siang semakin malap. Masa yang tepat berbeza bagi setiap orang. Sebab itu, mencatat nota ringkas selama seminggu atau dua minggu boleh membantu."
+  - q: "Aktiviti apa yang membantu dengan sundowning?"
+    a: "Aktiviti yang tenang, biasa dan tidak memenatkan biasanya paling sesuai pada lewat petang: muzik yang menenangkan, melihat foto, rancangan TV atau filem kegemaran, melipat pakaian, berjalan sekejap, atau menikmati snek bersama. Simpan aktiviti baharu atau mencabar untuk waktu yang lebih awal pada hari itu."
+  - q: "Bolehkah sundowning menjadi tanda sesuatu masalah kesihatan?"
+    a: "Keadaan ini boleh menjadi lebih teruk disebabkan masalah kesihatan seperti kesakitan, jangkitan seperti jangkitan saluran kencing, masalah tidur atau kesan sampingan ubat. Jika keresahan baharu, berlaku secara tiba-tiba atau semakin teruk, hubungi doktor orang yang anda jaga."
+  - q: "Perlukah saya bertanya kepada doktor tentang ubat untuk sundowning?"
+    a: "Itu ialah perbincangan yang perlu dilakukan bersama doktor. Alzheimer's Association menyatakan bahawa pendekatan bukan ubat biasanya diutamakan dahulu, dan apa-apa ubat untuk kegelisahan waktu malam hanya perlu dipertimbangkan selepas menilai risiko dan manfaat. Halaman ini tidak memberikan nasihat tentang ubat."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Ramai keluarga perasan corak yang sama: pagi agak tenang, tetapi apabila petang berlalu, orang yang hidup dengan demensia menjadi resah, cemas, keliru atau mudah marah. Dia mungkin berjalan ke sana sini, meminta untuk "pulang ke rumah" walaupun dia berada di rumah, atau mudah terganggu perasaan. Ini sering dipanggil resah lewat petang atau "sundowning".
+Ramai ahli keluarga perasan corak yang sama: waktu pagi agak tenang, tetapi apabila petang berlarutan, orang yang hidup dengan demensia menjadi resah, cemas, keliru atau mudah marah. Mereka mungkin mundar-mandir, meminta untuk “pulang ke rumah” walaupun sudah berada di rumah, atau mudah tersinggung. Keadaan ini sering dipanggil sundowning.
 
-Tiada satu penyelesaian, tetapi perubahan pada rentak hari, bilik dan jenis aktiviti yang anda tawarkan mungkin menjadikan lewat petang lebih tenang. Halaman ini mengumpulkan idea praktikal yang bukan perubatan daripada National Institute on Aging dan Alzheimer's Association. Ia bukan nasihat perubatan. Jika gejala baharu, tiba-tiba atau bertambah teruk, bincang dengan doktor orang itu.
+Tiada satu penyelesaian yang sesuai untuk semua, tetapi perubahan pada rentak harian, suasana bilik dan jenis aktiviti yang anda tawarkan mungkin membantu menjadikan lewat petang lebih tenang. Halaman ini mengumpulkan idea praktikal yang bukan berbentuk perubatan daripada National Institute on Aging dan Alzheimer's Association. Ia bukan nasihat perubatan. Jika gejala baharu, berlaku secara tiba-tiba atau semakin teruk, berbincanglah dengan doktor orang yang anda jaga.
 
-## Apakah resah lewat petang?
+## Apakah itu sundowning?
 
-Resah lewat petang ialah rasa resah, gelisah, mudah marah atau keliru yang bermula atau bertambah teruk apabila cahaya siang pudar, pada lewat petang atau awal malam. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) menyatakan bahawa terlalu letih boleh meningkatkan rasa resah lewat hari.
+Sundowning ialah keresahan, kegelisahan, mudah marah atau kekeliruan yang bermula atau menjadi lebih teruk apabila cahaya siang semakin malap, pada lewat petang atau awal malam. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) menyatakan bahawa rasa terlalu letih boleh meningkatkan keresahan lewat hari.
 
-## Apakah yang boleh menambah teruk rasa resah lewat petang?
+## Apa yang boleh memburukkan keresahan lewat hari?
 
-Beberapa perkara mungkin menyumbang, selalunya bersama-sama. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) menyenaraikan faktor seperti:
+Beberapa perkara mungkin menyumbang kepada keadaan ini, selalunya secara serentak. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) menyenaraikan faktor seperti:
 
-- keletihan selepas hari yang sibuk;
-- persekitaran yang baharu atau mengelirukan;
-- "jam badan dalaman" yang tidak selaras, menyebabkan orang itu mengantuk pada siang hari dan berjaga pada waktu malam;
-- cahaya yang malap dan bayang-bayang, yang boleh mengelirukan;
-- menangkap tekanan atau rasa kecewa daripada orang di sekelilingnya;
-- memerlukan kurang tidur, yang biasa pada warga emas.
+- keletihan selepas seharian penuh;
+- persekitaran baharu atau mengelirukan;
+- “jam badan dalaman” yang tidak selaras, menyebabkan orang itu mengantuk pada waktu siang dan berjaga pada waktu malam;
+- cahaya malap dan bayang-bayang, yang boleh mengelirukan;
+- menerima kesan tekanan atau rasa kecewa daripada orang di sekeliling;
+- keperluan tidur yang berkurangan, yang biasa berlaku pada orang dewasa yang lebih berusia.
 
-NIA menambah punca keresahan secara lebih umum, termasuk sakit, kemurungan atau tekanan, kurang rehat, sembelit, terlalu banyak bunyi bising atau terlalu ramai orang, dan ubat atau interaksi ubat tertentu.
+NIA turut menyebut punca kegelisahan secara umum, termasuk kesakitan, kemurungan atau tekanan, kurang rehat, sembelit, terlalu banyak bunyi bising atau terlalu ramai orang, serta ubat tertentu atau interaksi antara ubat.
 
-## Bagaimanakah saya boleh merancang hari supaya waktu petang lebih tenang?
+## Bagaimana saya boleh merancang hari supaya waktu malam lebih tenang?
 
-Alihkan perkara yang memenatkan lebih awal dan pastikan lewat petang lembut dan boleh dijangka. Kedua-dua NIA dan Alzheimer's Association mengesyorkan rutin yang tetap. Contoh hari untuk disesuaikan dengan hari anda sendiri:
+Alihkan perkara yang memerlukan banyak tenaga ke waktu yang lebih awal dan pastikan lewat petang bersifat lembut serta boleh dijangka. Kedua-dua NIA dan Alzheimer's Association mengesyorkan rutin harian yang tetap. Berikut contoh jadual yang boleh diubah suai mengikut keadaan anda:
 
-| Waktu | Apa yang mungkin membantu |
+| Masa | Apa yang mungkin membantu |
 | --- | --- |
-| Pagi | Temu janji, mandi, berjalan keluar dan sebarang tugasan yang memerlukan usaha, ketika ramai orang paling cergas |
-| Lewat pagi | Masa di luar atau di tepi tingkap yang cerah; berjalan atau aktiviti lain |
-| Tengah hari | Makan tengah hari yang lebih besar (Alzheimer's Association mencadangkan makan tengah hari yang lebih besar dan makan malam yang lebih ringan) |
-| Awal petang | Berehat jika perlu, tetapi elakkan tidur panjang lewat hari |
-| Pertengahan hingga lewat petang | Aktiviti yang tenang dan biasa; snek dan minuman; tiada kafein |
-| Sebelum senja | Pasang lampu dalam rumah dan tutup langsir sebelum gelap |
-| Malam | Makanan yang lebih ringan, muzik yang senyap, rangsangan yang rendah, rutin sebelum tidur yang tetap |
+| Pagi | Temu janji, mandi, keluar rumah dan apa-apa tugasan yang memerlukan usaha, ketika ramai orang paling segar |
+| Lewat pagi | Masa di luar rumah atau di tepi tingkap yang cerah; berjalan atau melakukan aktiviti lain |
+| Tengah hari | Makan tengah hari yang lebih berat (Alzheimer's Association mencadangkan makan tengah hari yang lebih besar dan makan malam yang lebih ringan) |
+| Awal petang | Berehat jika perlu, tetapi elakkan tidur sekejap yang lama lewat hari |
+| Pertengahan hingga lewat petang | Aktiviti yang tenang dan biasa; snek dan minuman; tanpa kafein |
+| Sebelum senja | Pasang lampu dalaman dan tutup langsir sebelum hari menjadi gelap |
+| Malam | Makan malam yang lebih ringan, muzik perlahan, kurang rangsangan, rutin waktu tidur yang tetap |
 
-Beberapa perkara khusus daripada sumber:
+Beberapa perkara khusus daripada sumber tersebut:
 
-- **Cahaya siang.** NIA mencadangkan mengatur masa di luar atau di tepi tingkap untuk mendapat cahaya matahari setiap hari.
-- **Pergerakan setiap hari, tetapi tidak terlalu banyak.** Cuba aktif secara fizikal setiap hari tanpa merancang terlalu banyak aktiviti, kata NIA.
-- **Minuman lewat hari.** Elakkan alkohol dan minuman berkafein, seperti kopi atau minuman kola, lewat hari (NIA). Alzheimer's Association juga menyebut nikotin.
-- **Tidur sebentar.** Jangan galakkan tidur panjang dan mengantuk lewat hari (NIA). Alzheimer's Association mencadangkan menghadkan tidur siang jika tidur malam menjadi masalah.
+- **Cahaya siang.** NIA mencadangkan meluangkan masa di luar rumah atau di tepi tingkap untuk mendapatkan cahaya matahari setiap hari.
+- **Pergerakan harian, tetapi tidak berlebihan.** Usahakan untuk bergerak aktif setiap hari tanpa merancang terlalu banyak aktiviti, kata NIA.
+- **Minuman lewat hari.** Elakkan alkohol dan minuman berkafein, seperti kopi atau kola, lewat hari (NIA). Alzheimer's Association turut menyebut nikotin.
+- **Tidur sekejap.** Elakkan tidur sekejap yang lama dan terlelap lewat hari (NIA). Alzheimer's Association mencadangkan menghadkan tidur sekejap pada waktu siang jika tidur malam bermasalah.
 
-Untuk lebih banyak tentang membina hari yang tetap, lihat [aktiviti rutin harian](/activities/daily-routine/).
+Untuk maklumat lanjut tentang membina hari yang lebih teratur, lihat [aktiviti rutin harian](/activities/daily-routine/).
 
-## Bagaimanakah saya boleh menjadikan rumah lebih tenang pada lewat petang?
+## Bagaimana saya boleh menjadikan rumah lebih tenang pada lewat petang?
 
-Kurangkan bunyi bising, tambah cahaya dan dekatkan barang yang biasa.
+Kurangkan bunyi bising, tambah cahaya dan pastikan barang yang biasa berada berdekatan.
 
-- **Pencahayaan yang terang dan sekata.** Alzheimer's Association mengesyorkan memastikan rumah terang pada waktu malam. Terangkan ruang sebelum bayang-bayang muncul.
-- **Kurang bunyi bising.** Matikan atau perlahankan televisyen dan radio, dan hadkan pelawat atau kerja rumah yang sibuk pada waktu ini. Alzheimer's Association mencadangkan mengurangkan rangsangan malam seperti televisyen, kerja rumah dan muzik yang kuat.
-- **Keselesaan yang biasa.** NIA mencadangkan muzik yang menenangkan dan menyimpan barang dan foto yang disayangi di sekitar rumah.
-- **Semakan keselesaan.** Alzheimer's Association mengesyorkan memeriksa sakit, lapar, dahaga, sembelit, pundi kencing yang penuh, keletihan, jangkitan dan kerengsaan kulit, serta memastikan suhu bilik selesa.
-- **Mood anda sendiri.** Orang dapat menangkap tekanan. NIA mencadangkan memperlahankan diri dan cuba bertenang jika kebimbangan anda sendiri mungkin menambah ketegangan.
+- **Pencahayaan yang terang dan sekata.** Alzheimer's Association mengesyorkan supaya rumah sentiasa terang pada waktu malam. Nyalakan lampu sebelum bayang-bayang muncul.
+- **Kurangkan bunyi bising.** Matikan atau perlahankan TV dan radio, dan hadkan tetamu atau kerja rumah yang sibuk pada waktu ini. Alzheimer's Association mencadangkan mengurangkan rangsangan pada waktu malam seperti TV, kerja rumah dan muzik yang kuat.
+- **Keselesaan yang biasa.** NIA mencadangkan muzik yang menenangkan serta menyimpan objek dan foto kesayangan di sekitar rumah.
+- **Semakan keselesaan.** Alzheimer's Association mengesyorkan agar anda menyemak sama ada ada kesakitan, lapar, dahaga, sembelit, pundi kencing penuh, keletihan, jangkitan dan kerengsaan kulit, serta memastikan suhu bilik selesa.
+- **Perasaan anda sendiri.** Orang lain boleh terkesan dengan tekanan. NIA mencadangkan agar anda memperlahankan rentak dan cuba bertenang jika kebimbangan anda sendiri mungkin menambah ketegangan.
 
-## Apakah aktiviti tenang yang boleh kami lakukan pada lewat petang?
+## Aktiviti tenang apa yang boleh kita lakukan pada lewat petang?
 
-Pilih aktiviti yang biasa, tidak tergesa-gesa dan mudah dihentikan. Alzheimer's Association mencadangkan aktiviti yang menenangkan seperti muzik yang tenang, foto atau filem kegemaran, dan berjalan bersama untuk meredakan rasa resah. NIA mencadangkan snek atau minuman, rancangan televisyen kegemaran, muzik, berjalan, membaca, atau tugasan rumah yang mudah seperti melipat pakaian.
+Pilih aktiviti yang biasa, tidak tergesa-gesa dan mudah dihentikan. Alzheimer's Association mencadangkan aktiviti yang menenangkan seperti muzik perlahan, melihat foto atau menonton filem kegemaran, serta berjalan bersama untuk meredakan keresahan. NIA mencadangkan snek atau minuman, rancangan TV kegemaran, muzik, berjalan, membaca, atau kerja rumah yang mudah seperti melipat pakaian.
 
 Idea untuk dicuba:
 
-1. **Lipat pakaian bersama.** NIA mencadangkan tugasan rumah yang mudah seperti ini. Tuala mudah dikendalikan, dan tugasan itu mempunyai pengakhiran yang jelas.
-2. **Pasang muzik kegemaran.** Lagu yang biasa dari zaman mudanya, pada kelantangan rendah. Mendengung bersama pun dikira. Lebih banyak idea dalam [aktiviti muzik](/activities/music/).
-3. **Lihat foto.** Album foto, atau beberapa gambar keluarga dalam [Pasangan foto](/games/photo-pairs/) dengan gambar dibiarkan kelihatan, boleh membawa kepada perbualan yang tenang.
-4. **Berjalan sebentar.** Di sekitar kebun, kawasan perumahan atau koridor, sebelum hari gelap.
-5. **Kongsi snek dan minuman.** Sesuatu yang mudah, suam dan tanpa kafein, di meja bersama-sama.
-6. **Padanan yang lembut.** [Pasangan gambar](/games/picture-pairs/) dengan empat jubin dan gambar kelihatan mudah dimulakan dan mudah dihentikan.
-7. **Mewarna.** [Mewarna](/games/coloring/) di skrin atau pada halaman bercetak, tanpa matlamat untuk menyiapkannya.
-8. **Melihat dan berbual.** [Kad perbualan](/games/conversation-cards/) menawarkan gambar dan pertanyaan terbuka. Sekadar melihat pun sudah cukup.
-9. **Jeda pernafasan.** [Pernafasan tenang](/games/calm-breathing/) ialah jeda yang perlahan dan senyap yang anda mulakan dan hentikan sendiri.
-10. **Tugasan tangan.** Mengasingkan butang atau stoking, melicinkan selimut yang lembut, atau memegang benda yang biasa. Lihat [aktiviti deria](/activities/sensory/).
+1. **Melipat pakaian bersama.** NIA mencadangkan kerja rumah mudah seperti ini. Tuala mudah dipegang, dan tugasan ini mempunyai pengakhiran yang jelas.
+2. **Mainkan muzik kegemaran.** Lagu-lagu yang biasa dari zaman muda mereka, pada kelantangan rendah. Bersama-sama bersenandung juga sudah memadai. Lebih banyak idea dalam [aktiviti muzik](/activities/music/).
+3. **Lihat foto.** Album foto, atau beberapa gambar keluarga dalam [Padanan Foto](/games/photo-pairs/) dengan gambar dibiarkan kelihatan, boleh membawa kepada perbualan yang tenang.
+4. **Berjalan sekejap.** Di sekitar taman, kawasan kejiranan atau lorong, sebelum hari menjadi gelap.
+5. **Nikmati snek dan minuman bersama.** Sesuatu yang ringkas, suam dan tanpa kafein, di meja bersama-sama.
+6. **Padanan yang lembut.** [Padanan Gambar](/games/picture-pairs/) dengan empat jubin dan gambar kelihatan mudah dimulakan dan mudah dihentikan.
+7. **Mewarna.** [Mewarna](/games/coloring/) pada skrin atau pada halaman bercetak, tanpa matlamat untuk menyiapkannya.
+8. **Melihat dan berbual.** [Kad Perbualan](/games/conversation-cards/) menyediakan gambar dan soalan terbuka. Sekadar melihat pun sudah memadai.
+9. **Henti seketika untuk bernafas.** [Pernafasan Tenang](/games/calm-breathing/) ialah jeda yang perlahan dan tenang yang anda mulakan dan hentikan sendiri.
+10. **Aktiviti menggunakan tangan.** Mengasingkan butang atau stokin, melicinkan selimut lembut, atau memegang objek yang biasa. Lihat [aktiviti deria](/activities/sensory/).
 
-Elakkan permainan baharu, berjalan keluar yang sibuk dan apa-apa yang memerlukan banyak ingatan atau tumpuan pada lewat hari. Simpan itu untuk waktu pagi.
+Elakkan permainan baharu, aktiviti keluar yang sibuk dan apa-apa yang banyak memerlukan ingatan atau tumpuan lewat hari. Simpan aktiviti tersebut untuk waktu pagi.
 
-## Apakah yang patut saya lakukan apabila rasa resah bermula?
+## Apa yang perlu saya lakukan apabila keresahan bermula?
 
-Kekal tenang, menenangkan dan alihkan perhatian dengan lembut. NIA mencadangkan bercakap dengan tenang, mendengar kebimbangan orang itu, mengelakkan pertengkaran, meyakinkannya bahawa dia selamat, dan menggunakan sentuhan yang lembut jika ia membantu. Kemudian cuba pengalihan perhatian: snek, minuman, muzik atau berjalan.
+Kekal tenang, beri keyakinan, dan alihkan perhatian dengan lembut. NIA mencadangkan bercakap dengan tenang, mendengar kebimbangan orang itu, mengelakkan pertengkaran, meyakinkan mereka bahawa mereka selamat, dan menggunakan sentuhan lembut jika ia membantu. Kemudian cuba alihkan perhatian: snek, minuman, muzik atau berjalan.
 
-Alzheimer's Association mencadangkan ayat seperti "Awak selamat di sini" dan "Saya minta maaf awak berasa susah hati," dan menasihatkan menambah cahaya, memperlahankan diri dan menghadkan rangsangan. Jangan menyudutkan, menyesakkan atau menahan orang itu, atau berbalah dengannya.
+Alzheimer's Association mencadangkan ayat seperti “Anda selamat di sini” dan “Saya minta maaf kerana anda berasa sedih”, dan menasihatkan supaya menambah cahaya, memperlahankan rentak dan mengehadkan rangsangan. Jangan memojokkan, menghimpit atau menahan orang itu, dan jangan bertengkar dengan mereka.
 
-Jika orang itu menjadi agresif, NIA menasihatkan agar kekal pada jarak yang selamat sehingga tingkah laku itu berhenti. Dalam kecemasan, hubungi nombor kecemasan tempatan anda dan terangkan bahawa orang itu menghidap demensia.
+Jika orang itu menjadi agresif, NIA menasihatkan supaya berada pada jarak yang selamat sehingga tingkah laku itu berhenti. Dalam keadaan kecemasan, hubungi 911 dan jelaskan bahawa orang itu hidup dengan demensia. [Panduan kami tentang cara bertindak balas terhadap kemarahan dan tingkah laku agresif](/caregiving/when-anger-becomes-aggression-with-dementia/) merangkumi keselamatan segera dan apa yang perlu dilakukan selepas itu.
 
-Panduan kami tentang [komunikasi](/caregiving/communication-tips/) dan [apa yang perlu dibuat apabila mereka berkata tidak](/caregiving/when-they-say-no/) mempunyai lebih banyak tentang kata-kata yang menenangkan.
+Panduan kami tentang [komunikasi](/caregiving/communication-tips/) dan [apa yang perlu dilakukan apabila mereka berkata tidak](/caregiving/when-they-say-no/) mengandungi lebih banyak maklumat tentang kata-kata yang menenangkan.
 
-## Bagaimanakah saya mencari pencetus?
+## Bagaimana saya boleh mengenal pasti pencetus?
 
-Simpan catatan ringkas selama seminggu atau dua. Alzheimer's Association mengesyorkan menjejaki apa yang berlaku sebelum episod resah lewat petang untuk mengenal pasti pencetus. Catat masa rasa resah bermula, apa yang berlaku sejam sebelumnya, tidur sebentar, makanan dan minuman, pelawat, bunyi bising dan cahaya. Bawa catatan itu kepada doktor. NIA menyatakan bahawa menjejaki perubahan tingkah laku boleh membantu penjaga dan penyedia penjagaan kesihatan mengenali sesuatu corak.
+Catat nota ringkas selama seminggu atau dua minggu. Alzheimer's Association mengesyorkan agar anda merekodkan apa yang berlaku sebelum episod sundowning untuk mengenal pasti pencetus. Catat masa keresahan bermula, apa yang berlaku dalam sejam sebelumnya, tidur sekejap, waktu makan dan minum, tetamu, bunyi bising dan cahaya. Bawa catatan ini kepada doktor. NIA menyatakan bahawa mencatat perubahan tingkah laku boleh membantu penjaga dan penyedia penjagaan kesihatan mengenal pasti corak.
 
-## Bila saya patut menghubungi doktor tentang resah lewat petang?
+## Bila saya perlu menghubungi doktor tentang sundowning?
 
-Hubungi doktor orang itu jika rasa resah itu baharu, tiba-tiba bertambah teruk, atau disertai perubahan lain. NIA menyatakan bahawa perubahan tingkah laku yang tiba-tiba atau berubah dengan cepat, terutamanya selepas jangkitan atau perubahan ubat baru-baru ini, patut dimaklumkan kepada doktor dengan segera.
+Hubungi doktor orang yang anda jaga jika keresahan baharu, tiba-tiba menjadi lebih teruk, atau disertai perubahan lain. NIA menyatakan bahawa perubahan tingkah laku yang tiba-tiba atau berubah-ubah dengan cepat, terutama selepas jangkitan atau perubahan ubat baru-baru ini, perlu dimaklumkan kepada doktor dengan segera.
 
-Minta doktor memeriksa perkara yang boleh menyukarkan waktu petang. Alzheimer's Association menyebut masalah fizikal seperti jangkitan saluran kencing, tidak dapat menahan kencing, sindrom kaki resah dan apnea tidur, dan mencadangkan bertanya waktu mana dalam sehari yang terbaik untuk setiap ubat. NIA menyenaraikan sakit, sembelit dan kesan sampingan atau interaksi ubat antara punca keresahan yang mungkin.
+Minta doktor menyemak perkara yang boleh menjadikan waktu malam lebih sukar. Alzheimer's Association menyebut masalah fizikal seperti jangkitan saluran kencing, inkontinens, sindrom kaki resah dan apnea tidur, dan mencadangkan agar anda bertanya waktu yang paling sesuai pada hari itu untuk setiap ubat. NIA menyenaraikan kesakitan, sembelit dan kesan sampingan atau interaksi ubat antara punca kegelisahan yang mungkin.
 
-Alzheimer's Association menyatakan pendekatan tanpa ubat secara amnya diutamakan untuk masalah tidur yang berkaitan dengan Alzheimer, dan ubat untuk resah lewat hari hanya patut dipertimbangkan jika pendekatan itu gagal, selepas menimbang risiko dan manfaat. Keputusan itu terletak pada doktor. Jangan mula, henti atau tukar sebarang ubat, pembantu tidur atau suplemen tanpa nasihat perubatan.
+Alzheimer's Association menyatakan bahawa pendekatan bukan ubat biasanya diutamakan untuk masalah tidur yang dikaitkan dengan Alzheimer, dan ubat untuk kegelisahan lewat hari hanya perlu dipertimbangkan jika pendekatan tersebut tidak berjaya, selepas menilai risiko dan manfaat. Keputusan itu perlu dibuat bersama doktor. Jangan mula, berhenti atau mengubah apa-apa ubat, bantuan tidur atau suplemen tanpa nasihat perubatan.
 
-## Bagaimanakah saya melalui waktu petang sendiri?
+## Bagaimana saya sendiri boleh mengharungi waktu malam?
 
-Lewat petang boleh menjadi bahagian paling sukar dalam hari seorang penjaga. Jika boleh, minta ahli keluarga, rakan atau pembantu berbayar menggantikan anda pada lewat petang beberapa hari seminggu, walaupun sejam. Panduan kami tentang [penjagaan diri untuk penjaga](/caregiving/caregiver-self-care/) menyenaraikan pilihan penjagaan sementara dan talian bantuan demensia percuma, seperti Talian Bantuan 24/7 Alzheimer's Association di Amerika Syarikat. Tanya juga tentang talian bantuan demensia di negara anda.
+Lewat petang boleh menjadi bahagian paling mencabar dalam hari seorang penjaga. Jika boleh, minta ahli keluarga, rakan atau pembantu berbayar untuk membantu pada lewat petang beberapa hari dalam seminggu, walaupun hanya selama sejam. Panduan kami tentang [penjagaan diri untuk penjaga](/caregiving/caregiver-self-care/) menyenaraikan pilihan rehat sementara dan Talian Bantuan 24/7 Alzheimer's Association yang percuma.

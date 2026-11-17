@@ -1,33 +1,33 @@
 ---
-title: "Kerja Rumah sebagai Aktiviti untuk Orang dengan Demensia"
-seoTitle: "Aktiviti Kerja Rumah untuk Demensia: Tugas Harian"
-description: "Melipat, mengasingkan, menyusun meja dan memasak ringkas boleh menjadi aktiviti bermakna untuk demensia. Cara menyediakan, menyesuaikan dan menjaga keselamatan."
+title: "Tugas Rumah untuk Orang yang Hidup dengan Demensia"
+seoTitle: "Aktiviti Rumah untuk Demensia: Tugas Harian"
+description: "Melipat, menyusun, mengemas meja dan memasak mudah boleh menjadi aktiviti bermakna. Cara menyediakannya, menyesuaikannya dan menjaga keselamatan."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kerja rumah harian seperti melipat tuala, mengasingkan stoking, menyusun meja,
-  mengelap kaunter, menyiram pokok dan membantu memasak ringkas boleh memberi
-  orang yang hidup dengan demensia cara yang sebenar untuk membantu. Pilih tugas
-  yang mereka kenali, pecahkan kepada satu langkah pada satu masa, jauhkan
-  bahaya seperti benda tajam atau panas, dan hargai penyertaan mereka lebih
-  daripada hasil yang “betul”.
+  Kerja harian seperti melipat tuala, menyusun stoking, mengemas meja,
+  mengelap kaunter, menyiram pokok dan membantu memasak hidangan mudah boleh
+  memberi orang yang hidup dengan demensia cara sebenar untuk membantu. Pilih
+  tugas yang mereka kenali, bahagikan kepada satu langkah pada satu masa,
+  jauhkan bahaya tajam atau panas, dan hargai penyertaan mereka lebih daripada
+  melakukannya dengan “betul”.
 keyPoints:
-  - "Kerja rumah yang biasa dilakukan boleh membuat seseorang berasa berguna dan menjadi sebahagian daripada isi rumah, yang selalunya lebih penting daripada sebaik mana kerja itu disiapkan."
-  - "Pecahkan setiap tugas kepada langkah tunggal, tunjukkan dan bukan sekadar beritahu, dan ambil alih dengan tenang mana-mana langkah yang sudah menjadi sukar."
-  - "Kunci pisau, bahan pencuci dan kapsul detergen, serta pasang penutup tombol dapur atau penutup automatik sebelum memasak bersama."
-  - "Tuala yang sudah dilipat tidak perlu dilipat semula di hadapan orang itu. Jika anda terpaksa membetulkannya, lakukan kemudian dan di luar pandangan."
-  - "Jika sesuatu tugas menyebabkan kekecewaan, tukar kepada langkah yang lebih mudah, cuba lagi pada masa lain, atau sekadar duduk bersama."
+  - "Kerja rumah yang biasa boleh membantu seseorang berasa berguna dan sebahagian daripada isi rumah, dan ini sering lebih penting daripada seberapa baik tugas itu dilakukan."
+  - "Bahagikan setiap tugas kepada langkah-langkah tunggal, tunjukkan cara melakukannya daripada hanya memberitahu, dan ambil alih dengan senyap mana-mana langkah yang sudah menjadi sukar."
+  - "Kunci pisau, bahan pencuci dan pod detergen, dan pasang penutup tombol dapur atau suis tutup automatik sebelum memasak bersama."
+  - "Tuala yang sudah dilipat tidak perlu dilipat semula di hadapan orang itu. Jika anda perlu membetulkannya, lakukan kemudian dan tanpa dilihat olehnya."
+  - "Jika sesuatu tugas membawa rasa kecewa, tukar kepada langkah yang lebih mudah, cuba lagi pada masa lain, atau duduk bersama sahaja."
 faq:
   - q: "Apakah kerja rumah yang masih boleh dibantu oleh orang yang hidup dengan demensia?"
-    a: "Ramai yang masih boleh melipat pakaian, memadankan stoking, mengasingkan sudu garpu, menyusun meja, mengelap kaunter, mengelap habuk, menyapu, menyiram pokok atau mengacau semangkuk adunan. Pilih tugas yang pernah dilakukan oleh orang itu dahulu dan padankan dengan apa yang mampu dilakukannya sekarang. Pada peringkat lewat, satu gerakan berulang, seperti melicinkan napkin, mungkin sudah memadai."
-  - q: "Adakah selamat untuk orang yang hidup dengan demensia membantu di dapur?"
-    a: "Boleh, dengan pengawasan rapi dan persediaan yang betul. Jauhkan pisau, bahan pencuci dan apa-apa yang panas daripada jangkauan, gunakan penutup tombol dapur atau penutup automatik, dan beri orang itu tugas yang selamat seperti membasuh sayur, mengacau atau menyusun pinggan. Jangan sekali-kali tinggalkan mereka bersendirian apabila dapur sedang dipasang."
-  - q: "Bagaimana jika mereka melipat dengan cara yang salah atau menyepahkan?"
-    a: "Biarkan sahaja. Tujuannya ialah masa bersama dan perasaan berguna, bukan hasil yang sempurna. Jika sesuatu benar-benar perlu dibuat semula, tunggu sehingga kemudian dan lakukannya apabila orang itu tidak memerhati, supaya mereka tidak berasa ditegur."
+    a: "Ramai orang masih boleh melipat pakaian, memadankan stoking, menyusun kutleri, mengemas meja, mengelap kaunter, membersihkan habuk, menyapu, menyiram pokok atau mengacau adunan. Pilih tugas yang pernah dilakukan oleh orang itu dahulu dan sesuaikan dengan apa yang boleh dilakukannya sekarang. Pada peringkat kemudian, satu pergerakan berulang, seperti meratakan napkin, mungkin sudah mencukupi."
+  - q: "Adakah selamat untuk seseorang yang hidup dengan demensia membantu di dapur?"
+    a: "Boleh, dengan pengawasan rapi dan persediaan yang sesuai. Jauhkan pisau, bahan pencuci dan apa-apa yang panas daripada capaian, gunakan penutup tombol dapur atau suis tutup automatik, dan berikan tugas yang selamat seperti membasuh sayur, mengacau atau menyusun pinggan. Jangan tinggalkan orang itu bersendirian apabila dapur sedang digunakan."
+  - q: "Bagaimana jika mereka melipat dengan salah atau membuat sepah?"
+    a: "Biarkan sahaja. Tujuannya ialah masa bersama dan rasa berguna, bukan hasil yang sempurna. Jika sesuatu benar-benar perlu diperbetulkan, tunggu sehingga kemudian dan lakukan apabila orang itu tidak melihat, supaya dia tidak berasa ditegur."
   - q: "Bagaimana jika mereka enggan membantu?"
-    a: "Penolakan mungkin bermakna tugas itu terasa terlalu sukar, mengelirukan atau memenatkan pada masa itu. Jangan memaksa. Cuba versi yang lebih mudah, pelawa mereka menemani anda sebaliknya, atau tanya lagi pada waktu yang lebih sesuai dalam sehari."
+    a: "Jawapan tidak mungkin bermaksud tugas itu terasa terlalu sukar, mengelirukan atau memenatkan pada masa itu. Jangan memaksa. Cuba versi yang lebih mudah, ajak mereka menemani anda sahaja, atau tanya lagi pada waktu yang lebih sesuai."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Ramai orang yang hidup dengan demensia telah berpuluh tahun menguruskan rumah, membesarkan keluarga atau menjaga kerapian tempat kerja. Diminta membantu melakukan kerja rumah yang sebenar boleh menyampaikan mesej “anda masih sebahagian daripada isi rumah ini” dengan cara yang jarang dapat dilakukan oleh aktiviti lain. Halaman ini membincangkan tugas yang biasanya sesuai, cara menyediakannya, cara menyesuaikannya apabila keadaan berubah, dan cara memastikan dapur serta bilik dobi selamat.
+Ramai orang yang hidup dengan demensia pernah menguruskan rumah, membesarkan keluarga atau menjaga susunan di tempat kerja selama beberapa dekad. Apabila mereka diajak membantu dengan kerja rumah yang sebenar, ia boleh menyampaikan maksud “anda masih sebahagian daripada isi rumah ini” dengan cara yang sukar ditandingi oleh aktiviti lain. Halaman ini menerangkan tugas yang biasanya sesuai, cara menyediakannya, cara menyesuaikannya apabila keadaan berubah, dan cara menjaga keselamatan di dapur serta ruang dobi.
 
-## Mengapakah kerja rumah harian sesuai sebagai aktiviti?
+## Mengapa kerja harian sesuai sebagai aktiviti?
 
-Kerja rumah sesuai kerana ia biasa dilakukan dan ada tujuan yang jelas. National Institute on Aging menyenaraikan membasuh pinggan, menyusun meja, menyapu, mengelap habuk, mengasingkan surat, melipat pakaian dan mengasingkan bahan kitar semula antara [aktiviti harian yang mungkin dinikmati oleh orang yang menghidap Alzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association menyatakan bahawa tugas seperti menyusun meja boleh membantu seseorang [berasa dirinya ahli isi rumah yang dihargai](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Kerja harian sesuai kerana ia biasa dan mempunyai tujuan yang jelas. National Institute on Aging menyenaraikan membasuh pinggan, mengemas meja, menyapu, membersihkan habuk, menyusun surat, melipat pakaian dan mengasingkan bahan kitar semula antara [aktiviti harian yang mungkin disukai oleh orang yang hidup dengan Alzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer’s Association menyatakan bahawa tugas seperti mengemas meja boleh membantu seseorang [berasa seperti ahli isi rumah yang dihargai](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-Kerja rumah juga datang dengan sebab tersendiri untuk bermula. “Boleh tolong saya dengan tuala-tuala ini?” lebih mudah dijawab “boleh” berbanding “Mahu buat aktiviti?”
+Kerja harian juga datang dengan sebab tersendiri untuk bermula. “Boleh tolong saya dengan tuala ini?” lebih mudah untuk dijawab “ya” berbanding “Adakah anda mahu melakukan satu aktiviti?”
 
 ## Tugas rumah yang manakah baik untuk dicuba?
 
-Mulakan dengan tugas yang pernah dilakukan oleh orang itu dahulu, kemudian padankan dengan apa yang mampu dilakukannya hari ini.
+Mulakan dengan tugas yang pernah dilakukan oleh orang itu dahulu, kemudian sesuaikan dengan apa yang boleh dilakukannya hari ini.
 
-### Dobi dan kain linen
+### Dobi dan linen
 
-- **Melipat tuala dan tuala muka.** Hulurkan sebakul barang kecil yang rata. Tuala mudah dilipat: tiada cara yang salah untuk melipatnya.
-- **Memadankan stoking.** Letakkan longgokan stoking bercampur di atas meja. Jika pasangan sukar dikenal pasti, gunakan hanya dua atau tiga warna yang sangat berbeza.
-- **Melicinkan dan menyusun.** Napkin, sarung bantal atau kain pengelap pinggan boleh dilicinkan dan disusun bertindan. Ini sesuai pada peringkat lewat, apabila melipat sudah terlalu banyak langkah.
+- **Melipat tuala dan kain lap.** Berikan satu bakul berisi barang kecil dan rata. Tuala mudah dilipat: tiada cara yang salah untuk melipatnya.
+- **Memadankan stoking.** Letakkan longgokan stoking yang bercampur di atas meja. Jika pasangan sukar dikenal pasti, gunakan hanya dua atau tiga warna yang sangat berbeza.
+- **Meratakan dan menyusun.** Napkin, sarung bantal atau kain dapur boleh diratakan dan disusun. Ini sesuai pada peringkat kemudian, apabila melipat sudah melibatkan terlalu banyak langkah.
 
 ### Meja dan dapur
 
-- **Menyusun meja.** Letakkan satu set tempat makan sebagai contoh dan biarkan orang itu menirunya. Jika terlalu sukar, hulurkan satu barang pada satu masa: “Ini garpu untuk setiap pinggan.”
-- **Mengasingkan sudu garpu.** Campurkan garpu, sudu dan pisau mentega yang bersih dalam sebuah bekas dan asingkan ke dalam dulang berpetak. Jangan sertakan pisau tajam.
-- **Mengelap pinggan mangkuk.** Pinggan plastik atau yang tidak mudah pecah dan sehelai kain lembut menjadikan ini tugas yang selamat.
-- **Mengelap meja atau kaunter.** Sehelai kain lembap dan permukaan yang kosong. Alzheimer's Association mencadangkan menghulurkan kain jika seseorang sudah menggosok meja dengan tangannya, supaya gerakan yang gelisah itu bertukar menjadi sesuatu yang berguna.
+- **Mengemas meja.** Sediakan satu set meja sebagai contoh dan biarkan orang itu menirunya. Jika itu terlalu banyak, berikan satu barang pada satu masa: “Ini garpu untuk setiap pinggan.”
+- **Menyusun kutleri.** Campurkan garpu, sudu dan pisau mentega yang bersih di dalam bekas dan asingkan ke dalam dulang berbahagi. Jangan sertakan pisau tajam.
+- **Mengeringkan pinggan.** Pinggan plastik atau pinggan yang tidak mudah pecah dan tuala lembut menjadikan ini tugas yang selamat.
+- **Mengelap meja atau kaunter.** Gunakan kain lembap dan permukaan yang kosong. Alzheimer’s Association mencadangkan agar anda memberikan kain jika seseorang sudah menggosok meja dengan tangannya, sekali gus menukar pergerakan gelisah kepada sesuatu yang berguna.
 
-### Di sekeliling rumah
+### Sekitar rumah
 
-- **Mengelap habuk.** Pengebas habuk yang lembut dan beberapa permukaan yang kukuh, seperti meja kopi atau rak buku.
-- **Mengasingkan surat.** Hulurkan surat iklan dan katalog untuk diasingkan kepada beberapa longgokan: simpan, kitar semula, buka kemudian. Simpan bil dan cek yang sebenar di tempat lain.
-- **Mengasingkan bahan kitar semula.** Tin, botol dan kertas yang bersih ke dalam bekas yang berasingan.
-- **Menyapu.** Penyapu kecil di anjung atau lantai dapur, jika keseimbangannya masih stabil.
-- **Menyiram pokok.** Sebuah penyiram kecil yang ringan dan beberapa pokok yang mudah dicapai.
+- **Membersihkan habuk.** Gunakan pemadam habuk lembut dan beberapa permukaan kukuh, seperti meja kopi atau rak buku.
+- **Menyusun surat.** Berikan surat iklan dan katalog untuk diasingkan kepada beberapa longgokan: simpan, kitar semula, buka kemudian. Simpan bil sebenar dan cek di tempat lain.
+- **Mengasingkan bahan kitar semula.** Masukkan tin, botol dan kertas yang bersih ke dalam tong berasingan.
+- **Menyapu.** Gunakan penyapu kecil di patio atau lantai dapur, jika keseimbangan badan stabil.
+- **Menyiram pokok.** Gunakan penyiram yang kecil dan ringan serta beberapa pokok yang mudah dicapai.
 
-### Memasak ringkas dengan pengawasan
+### Memasak hidangan mudah dengan pengawasan
 
-Memasak boleh membangkitkan perasaan yang kuat dan menyenangkan. NIA mencadangkan membiarkan orang itu mengumpulkan bahan, menyukat, mengacau dan menuang, atau sekadar memberitahu orang lain cara membuat resipi kegemarannya. Tugas yang baik termasuk:
+Memasak boleh membawa kembali perasaan yang kuat dan menyenangkan. NIA mencadangkan agar orang itu dibenarkan mengumpulkan bahan, menyukat, mengacau dan menuang, atau sekadar memberitahu orang lain cara membuat resipi kegemaran. Tugas yang sesuai termasuk:
 
 - membasuh sayur atau buah
 - mengacau adunan atau salad sejuk
-- mengoyak daun salad
+- mengoyakkan daun salad
 - menyapu mentega pada roti bakar dengan pisau tumpul
-- meletakkan doh biskut di atas dulang
-- meletakkan topping pada piza
+- menyusun doh biskut di atas dulang
+- meletakkan bahan hiasan pada piza
 
-Jika menyukat sudah menjadi sukar, Alzheimer's Association mencadangkan anda menyiapkan sukatan itu dan kemudian menyerahkan langkah lain, seperti mengacau.
+Jika menyukat menjadi sukar, Alzheimer’s Association mencadangkan anda menyelesaikan langkah menyukat dahulu, kemudian berikan langkah lain, seperti mengacau.
 
-## Bagaimanakah saya menyediakan tugas supaya ia berjalan lancar?
+## Bagaimana saya menyediakan kerja supaya ia berjalan lancar?
 
-1. **Pilih masa yang sesuai.** Pilih bahagian hari apabila orang itu biasanya berehat dan tenang. Bagi ramai orang, ini ialah waktu pagi.
-2. **Kosongkan ruang.** Satu tugas, satu permukaan, tiada apa-apa lagi di atas meja.
-3. **Pelawa, jangan beri tugas.** “Saya perlukan bantuan dengan ini” lebih berkesan daripada “Sudah tiba masanya melipat pakaian.”
-4. **Tunjukkan yang pertama.** Lipat satu tuala perlahan-lahan, kemudian hulurkan yang seterusnya. Menunjukkan lebih jelas daripada menerangkan.
-5. **Beri satu langkah pada satu masa.** Terlalu banyak arahan serentak boleh membingungkan. Tunggu satu langkah selesai sebelum menyebut yang seterusnya.
-6. **Bekerja bersebelahan.** Melakukan kerja yang sama bersebelahan terasa seperti berteman, bukan diawasi.
-7. **Bercakap tentang tugas itu, bukan hasilnya.** “Tuala ini sangat lembut” atau “Ceritakan bagaimana anda suka menyimpan almari kain” menjemput perbualan tanpa menguji sesiapa.
+1. **Pilih waktu yang sesuai.** Pilih waktu dalam sehari apabila orang itu biasanya cukup rehat dan tenang. Bagi ramai orang, ini adalah waktu pagi.
+2. **Kosongkan ruang.** Satu tugas, satu permukaan, tiada barang lain di atas meja.
+3. **Ajak, bukan arahkan.** “Saya perlukan sedikit bantuan dengan ini” lebih berkesan daripada “Sudah tiba masa untuk melipat pakaian.”
+4. **Tunjukkan yang pertama.** Lipat satu tuala dengan perlahan, kemudian berikan yang seterusnya. Menunjukkan lebih jelas daripada menerangkan.
+5. **Berikan satu langkah pada satu masa.** Terlalu banyak arahan sekali gus boleh mengelirukan. Tunggu satu langkah selesai sebelum menyebut langkah seterusnya.
+6. **Buat bersama sebelah menyebelah.** Melakukan tugas yang sama bersebelahan terasa seperti teman, bukan pengawasan.
+7. **Bercakap tentang tugas itu, bukan hasilnya.** “Tuala ini lembut” atau “Ceritakan bagaimana anda suka menyusun almari linen dahulu” menggalakkan perbualan tanpa menguji sesiapa.
 
-## Bagaimanakah saya menyesuaikan kerja rumah apabila kebolehan berubah?
+## Bagaimana saya menyesuaikan kerja rumah apabila keupayaan berubah?
 
-Kebolehan berubah dari semasa ke semasa dan juga dari hari ke hari. Alzheimer's Association mencadangkan beralih kepada tugas yang lebih mudah dan lebih berulang apabila penyakit itu berkembang.
+Keupayaan boleh berubah dari semasa ke semasa dan juga dari sehari ke sehari. Alzheimer’s Association mencadangkan agar tugas diubah kepada yang lebih mudah dan lebih berulang apabila keadaan semakin berubah.
 
-| Jika ini sudah menjadi sukar | Cuba ini sebagai ganti |
+| Jika ini sudah menjadi sukar | Cuba ini pula |
 | --- | --- |
-| Melipat cadar yang besar | Melipat tuala muka atau melicinkan napkin |
-| Menyusun meja penuh | Meletakkan satu napkin di setiap tempat duduk |
-| Mengasingkan surat mengikut kategori | Menyusun sampul surat dalam satu longgokan |
-| Mengikut resipi | Mengacau, atau memerhati dan merasa semasa anda memasak |
+| Melipat cadar besar | Melipat kain lap atau meratakan napkin |
+| Mengemas satu set meja penuh | Meletakkan satu napkin di setiap tempat duduk |
+| Menyusun surat mengikut kategori | Menyusun sampul surat dalam satu longgokan |
+| Mengikuti resipi | Mengacau, atau memerhati dan merasa sementara anda memasak |
 | Menyapu seluruh lantai | Mengelap satu meja kecil |
-| Melakukan tugas itu sama sekali | Duduk bersama anda dan menemani anda semasa anda melakukannya |
+| Melakukan tugas itu langsung | Duduk bersama anda dan menemani anda sementara anda melakukannya |
 
-Memerhati juga dikira. NIA menyatakan bahawa sesetengah orang sekadar suka memerhati, dan itu cara mengambil bahagian yang baik.
+Memerhati juga dikira. NIA menyatakan bahawa sesetengah orang hanya suka memerhati, dan itu adalah cara yang baik untuk turut serta.
 
-## Bagaimanakah saya menjaga keselamatan semasa melakukan kerja rumah?
+## Bagaimana saya menjaga keselamatan semasa melakukan tugas rumah?
 
-Keselamatan didahulukan, terutamanya di dapur. [Petua keselamatan rumah untuk penjaga orang yang menghidap Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) daripada NIA termasuk:
+Keselamatan didahulukan, terutamanya di dapur. [Petua keselamatan di rumah untuk penjaga orang yang hidup dengan Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) daripada NIA termasuk:
 
-- Kunci atau alihkan bahan pencuci, termasuk kapsul detergen dobi, yang boleh kelihatan seperti gula-gula.
-- Simpan pisau, gunting dan peralatan elektrik di tempat yang berkunci.
-- Pasang tombol keselamatan dan suis penutup automatik pada dapur.
-- Letakkan tanda “Berhenti” atau “Sangat panas” berhampiran ketuhar, pemanggang roti dan seterika, di tempat yang tidak boleh terbakar.
-- Tetapkan pemanas air pada 120°F (kira-kira 49°C) untuk mengurangkan risiko melecur.
-- Alihkan buah tiruan dan magnet berbentuk makanan, yang mungkin kelihatan seperti boleh dimakan.
+- Kunci atau alihkan bahan pencuci, termasuk pod detergen pakaian, yang boleh kelihatan seperti gula-gula.
+- Simpan pisau, gunting dan alat berkuasa di kawasan berkunci.
+- Pasang tombol keselamatan dan suis tutup automatik pada dapur.
+- Letakkan tanda “Berhenti” atau “Sangat panas” berhampiran ketuhar, pembakar roti dan seterika, pada kedudukan yang tidak boleh menyebabkan kebakaran.
+- Tetapkan pemanas air kepada 120°F untuk mengurangkan risiko melecur.
+- Alihkan buah tiruan dan magnet berbentuk makanan, yang mungkin kelihatan boleh dimakan.
 
-Beberapa amalan praktikal lain turut membantu:
+Beberapa tabiat praktikal lain juga membantu:
 
-- Sentiasa berada dalam bilik apabila dapur, ketuhar atau alat tajam sedang digunakan.
-- Gunakan pinggan mangkuk yang tidak mudah pecah untuk mengelap dan menyusun meja.
-- Pastikan lantai kering dan bersih semasa menyapu atau mengemop.
-- Jika orang itu pernah menggunakan perkakas, Alzheimer's Association mencadangkan mengalihkan barang berbahaya dari bengkel supaya tugas yang selamat, seperti mengamplas sekeping kayu, masih dapat dinikmati.
+- Kekal berada di dalam bilik apabila dapur, ketuhar atau alat tajam sedang digunakan.
+- Gunakan pinggan yang tidak mudah pecah untuk mengeringkan dan mengemas meja.
+- Pastikan lantai kering dan tidak berselerak semasa menyapu atau mengemop.
+- Jika orang itu pernah menggunakan alat, Alzheimer’s Association mencadangkan agar barang berbahaya dialihkan daripada bengkel supaya tugas yang selamat, seperti mengempelas sekeping kayu, masih boleh dinikmati.
 
 ## Bagaimana jika mereka melakukannya dengan “salah”?
 
-Biarkan sahaja. Tuala yang dilipat tiga dan bukan dua masih tuala yang sudah dilipat. Alzheimer's Association menyatakannya dengan jelas: yang penting ialah meluangkan masa bersama dan orang itu berasa berguna, bukan sama ada tuala itu dilipat dengan betul. Jika sesuatu benar-benar mesti dibuat semula, tunggu sehingga kemudian dan lakukannya di luar pandangan.
+Biarkan sahaja. Tuala yang dilipat tiga bahagian dan bukannya dua bahagian tetap tuala yang sudah dilipat. Alzheimer’s Association menyatakannya dengan jelas: yang penting ialah masa yang diluangkan bersama dan perasaan orang itu bahawa dia berguna, bukan sama ada tuala itu dilipat dengan sempurna. Jika sesuatu benar-benar perlu diperbetulkan, tunggu sehingga kemudian dan lakukan tanpa dilihat olehnya.
 
-Membetulkan pada saat itu boleh menukar tugas yang menyenangkan menjadi peringatan tentang apa yang telah hilang. “Terima kasih, itu sangat membantu” hampir selalu menjadi kata-kata yang tepat.
+Membetulkan pada saat itu boleh mengubah tugas yang menyenangkan menjadi peringatan tentang apa yang telah hilang. “Terima kasih, ini sangat membantu” hampir selalu merupakan perkara yang sesuai untuk dikatakan.
 
-## Bilakah kita patut berhenti?
+## Bila kita patut berhenti?
 
-Berhenti atau tukar apabila anda melihat tanda kekecewaan, keletihan atau hilang minat. Berhenti awal ialah hasil yang baik, bukan kegagalan. Anda boleh:
+Berhenti atau tukar apabila anda melihat tanda-tanda kecewa, letih atau hilang minat. Menamatkan lebih awal ialah hasil yang baik, bukan kegagalan. Anda boleh:
 
 - bertukar kepada langkah yang lebih mudah
 - beralih kepada sesuatu yang menenangkan, seperti muzik atau secawan kopi
 - cuba lagi kemudian atau pada hari lain
-- sekadar duduk bersama
+- duduk bersama sahaja
 
-Jika orang itu berkata tidak, jangan memaksa. Lihat [apa yang perlu dilakukan apabila mereka berkata tidak](/caregiving/when-they-say-no/) untuk cara yang lembut untuk bertindak balas.
+Jika orang itu berkata tidak, jangan memaksa. Lihat [apa yang boleh dilakukan apabila mereka berkata tidak](/caregiving/when-they-say-no/) untuk cara-cara lembut memberi respons.
 
-## Tambahan yang tidak memerlukan banyak usaha untuk saat yang lebih tenang
+## Pilihan mudah untuk waktu yang lebih tenang
 
-Apabila kerja fizikal tidak dapat dilakukan, mengasingkan dan memadankan masih boleh dilakukan sambil duduk. [Asingkan Bersama](/games/sort-together/) membolehkan anda mengetik gambar ke dalam bakul dapur atau taman, dan [Pasangan Gambar](/games/picture-pairs/) ialah permainan memadankan yang lembut dengan gambar besar dan tanpa pemasa. [Kad Perbualan](/games/conversation-cards/) mempunyai cadangan terbuka tentang rumah dan keluarga yang sesuai dinikmati bersama secawan kopi selepas kerja selesai.
+Apabila kerja fizikal tidak sesuai, menyusun dan memadankan masih boleh dilakukan sambil duduk. [Sort Together](/games/sort-together/) membolehkan anda mengetik gambar ke dalam bakul dapur atau taman, dan [Picture Pairs](/games/picture-pairs/) ialah permainan memadankan yang lembut dengan gambar besar dan tanpa pemasa. [Conversation Cards](/games/conversation-cards/) mempunyai soalan terbuka tentang rumah dan keluarga yang sesuai untuk ditemani secawan kopi selepas tugasan selesai.
 
-Untuk bantuan memuatkan kerja rumah dalam hari anda, lihat panduan kami tentang [rutin harian yang tenang](/activities/daily-routine/). Untuk lebih banyak idea mengikut peringkat, lihat [aktiviti peringkat pertengahan](/activities/middle-stage/).
+Untuk bantuan memasukkan kerja rumah ke dalam rutin harian, lihat panduan kami tentang [rutin harian yang tenang](/activities/daily-routine/). Untuk lebih banyak idea mengikut peringkat, lihat [aktiviti peringkat pertengahan](/activities/middle-stage/).

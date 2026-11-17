@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Ndenge ya kosakana na moto ya kobosana makambo"
+seoTitle: "Ndenge ya kosakana na moto ya kobosana makambo"
+description: "Litambwisi mpo na kosakana na moto ya bokono ya kobosana makambo: kobongisa esika, kotambola malembe, kobongola te mabunga, mpe koyeba ntango ya kotika."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Talá lisano lokola ntango ya kozala elongo, kasi te lokola ekzame. Poná
+  ntango ya kimya na mokolo, vanda pembeni na ye na ndako ya kimya, mpe pesá
+  lisano moko ya pete. Tiká moto yango apesa mbangu na ye moko, kobongola te
+  mabunga oyo ezali mabe te, komisa lisano pete soki omoni ete ezali kokóma
+  mpasi, mpe salelá bilili mpo na kobanda masolo. Tiká wana ezali naino malamu.
+  Kosukisa liboso, to kotala kaka elongo, ezali mbano ya malamu.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Mokano ezali kosepela mpe kozala pene, kasi te kosilisa to kozwa biyano ya malamu."
+  - "Bongisá liboso: ndako ya kimya, pole ya malamu, maneti mpe bisaleli ya koyoka elatá, televizyó ekangami, lisano moko ebongisami."
+  - "Kobongola te mabunga oyo ezali mabe te. Loba « Tómeka ndenge oyo » to kokoba kaka."
+  - "Komisa lisano pete liboso ete moto ayoka nkele: bilili moke, baponami moke, bilili etikalá polele."
+  - "Salelá bilili lokola ebandeli ya masolo na « Yebisa ngai mpo na… » na esika ya « Ozali kobosana te…? »"
+  - "Tiká na bilembo ya liboso ya kolemba to ya komitungisa. Kotika liboso ezali elonga, kasi te kobunga."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Tosengeli kosakana boumeli boni?"
+    a: "Boumeli ya malamu ezali te. Mpo na bato mingi, miniti mike ekoki, mpe mikolo mosusu lizembo moko ekoki. Talá moto yango, kasi te ngonga, mpe tiká wana azali naino kimya."
+  - q: "Nasengeli kotika ye alonga to kosala lokola namoni mabunga te?"
+    a: "Na lisano ya elongo oyo ezali na mpasi te, eloko ya kolonga to ya kobunga ezali te. Soki libunga etungisi moto te, tiká yango. Soki emonani ete etungisi ye, salisá na kimya to komisa lisano pete kozanga kolakisa yango."
+  - q: "Soki alingi kotala ngai kosakana nde?"
+    a: "Ezali malamu. National Institute on Aging epesi likanisi ya kotika moto atala kaka soki emonani ete asepelaka na yango mingi. Lobá mpo na oyo bozali komona mpe benga ye atonga to apona ntango nyonso alingi."
+  - q: "Masano oyo ezali lolenge ya komeka bokoki ya kobosana makambo?"
+    a: "Te. Masano na biso ezali misala ya pete ya kosala elongo mpo na kosepela mpe masolo. Ezali ekzame ya bokoki ya kobosana makambo te, emekaka eloko te, mpe ezali kisi ya bokono ya kobosana makambo te."
+  - q: "Lisano nini eleki malamu mpo na kobanda?"
+    a: "Bandá na lisano oyo eleki pete mpe ekokani na moto yango. Picture Pairs na bilili minei oyo etikalá polele, to Find the Same na baponami mibale, ezali ebandeli ya malembe. Conversation Cards ebongi malamu soki moto yango alingaka koloba mingi koleka kotonga."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Lisano ya malamu na moto oyo azali na bokono ya kobosana makambo emonanaka te lokola momekano. Emonanaka lokola bato mibale bavandi pene, batongi bilili, baseki na lisese moko, mpe balobi na nyonso oyo eyaka. Lisano ezali kaka ntina ya kolekisa ntango elongo.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Litambwisi oyo elobeli ndenge ya kobongisa esika, ndenge ya kotambola na lisano, oyo ya koloba soki eloko moko ekendeki « mabe », ndenge ya kokomisa lisano nyonso pete to mwa mpasi, ndenge ya kobongola yango masolo, mpe ndenge ya koyeba ntango ya kotika. Ekoki kosalema mpo na [masano na biso](/games/) mpe mpo na bakarte, bapasolo mpe masano ya mesa oyo ozali na yango.
 
-## What is the best way to play a game with someone who has dementia?
+## Ndenge nini eleki malamu ya kosakana na moto oyo azali na bokono ya kobosana makambo?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Tyá makanisi na kosepela, kasi te na kolonga. Yango nde toli ya ntina uta na [litambwisi ya Alzheimer’s Association mpo na misala](https://www.alz.org/help-support/caregiving/daily-care/activities): tungisa makoki oyo moto azali naino na yango, salisá ye mpo na kobanda, silisá biteni ya mpasi na esika na ye, mpe kopamela to kobongola te misala oyo ezali mabe te.
 
-In practice that means:
+Na ndenge ya kosala, yango elingi koloba:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Vanda pembeni na ye, kasi te liboso na ye.** Soki bovandi pembeni, bino nyonso mibale bokoki komona ekran to mesa, mpe kosalisa emonanaka lokola mosala ya elongo, kasi te lokola bokéngeli.
+- **Pesá lisano moko na mbala moko.** Lisiti ya baponami ekoki komonana lokola ekzame liboso ete eloko nyonso ebanda.
+- **Landa ndenge na ye.** Soki alingi kotonga bilili na molɔngɔ na ye moko, kolobela elili moko miniti zomi, to kotika sima ya mbala mibale, yango nde lisano ya lelo.
+- **Tangá bantango ya malamu, kasi te bazembo oyo esilá.** Limemya, lisolo to ndambo ya ngonga ya kimya ezali mbano oyo ozali koluka.
 
-## How do I set up before we start?
+## Ndenge nini ya kobongisa liboso tobanda?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Kobongisa mwa miniti ekoki kopekisa mingi ya mitungisi oyo bato bapesaka lisano foti.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Poná ntango ya malamu mpo na ye na mokolo.** [Litambwisi ya National Institute on Aging (NIA) mpo na kobongola misala](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) epesi likanisi ya kobongisa misala mpo na ntango ya mokolo oyo moto azali na makoki na ye ya malamu. Mpo na bato mingi, ezali na ntongo ya katikati. Nsima ya midi ekoki kozala mpasi mingi; talá [misala ya kimya nsima ya midi](/caregiving/late-day-restlessness/).
+2. **Komisa ndako kimya.** Kangá televizyó mpe radio mpe kangá ekuke soki ekoki. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) epesi likanisi ya kokitisa makelele mpe biloko oyo ebebisaka makanisi liboso ya komeka koloba.
+3. **Talá liboso soki azali malamu.** Mai pene, kokende na kabiné liboso, kiti ya malamu, mpe maneti mpe bisaleli ya koyoka elatá.
+4. **Pesá pole ya malamu.** Pole ya makasi mpe ya ndenge moko, kozanga kongenga na ekran, esalisaka mpo na komona bilili malamu.
+5. **Bongisá lisano liboso ovanda.** Fungolá yango, poná baparamɛtrɛ mpe tyá mongongo yo moko. Na nsima balolá ekran epai na ye. Mpo na batoli mpo na tablɛti, talá [ndenge ya kobongisa tablɛti to telefone](/caregiving/tablets-and-screens/).
+6. **Simba aparɛyi etɛlɛmi.** Esimbi to ebɔmbɔ oyo esimbaka tablɛti etɛlɛmi esalaka ete moto moko te asengeli kosimba yango, mpe ezali pete mpo na kotonga.
 
-## How do I invite them without pressure?
+## Ndenge nini ya kobenga ye kozanga kotinda mpasi?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Salá libyangi ya pete mpe oyo ekoki koboyama na pete. Maloba mosusu oyo ekoki kokende malamu:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- « Namoni bilili ya elanga. Olingi kotala yango elongo na ngai? »
+- « Okoki kosalisa ngai na pasolo oyo? Nakangami. »
+- « Olingi bafololo to bandeke lelo? » (kopona kati na mibale ezali pete koleka motuna ya polele)
+- « Nazali kosala karte mpo na ndeko na yo ya mwasi. Langi nini totya awa? »
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer’s Association epesi likanisi ya kolimbola ntina ya mosala, lokola kosala karte mpo na moninga, mpo ete ntina epesaka yango motuya. Kosɛnga lisalisi esalaka mpe malamu mpo ete epesaka moto yango makanisi ya kozala na tina.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Soki alobi te, ndima yango. Meká lisusu na sima to pesá eloko mosusu. Litambwisi na biso mpo na [oyo ya kosala soki alobi te](/caregiving/when-they-say-no/) elobeli yango lisusu.
 
-## How long should a game last, and how fast should we go?
+## Lisano esengeli kozala molai boni, mpe tosengeli kotambola mbangu boni?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Tiká moto yango apesa mbangu, mpe bongisá bantango ya mokuse. Momekano ya boumeli ya malamu mpo na lisano ya elongo ezali te. Miniti mibale kino mitano ya kimya ekoki kozala mosala ya mobimba.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Zela molai koleka ndenge omonaka.** NIA epesi toli ya kopesa ntango mingi mpo na moto ayanola mpe komeka kokata maloba na ye te. Tangá kino zomi na motema liboso ya kosalisa.
+- **Etape moko na mbala moko.** Pesá litindiki moko ya mokuse (« Tonga elili »), na nsima zela. Lakisá na esika ya kolimbola: tongá esika ya kotonga.
+- **Pema na bonsomi.** Soki atelemi mpo na kolobela elili moko, lisano ekoki kozela. Kobangu ezali na ntina te.
+- **Tiká ye atala.** NIA elobi ete bato mosusu balingaka kotala, mpe yango ezali boponi ya malamu.
 
-## Should I correct wrong answers?
+## Nasengeli kobongola biyano ya mabe?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Te. Kobongola moto mbala na mbala na malembe emonisaka ye ete azali kobunga, ata soki ozali na makanisi ya malamu. Alzheimer’s Association epesi toli ya kopamela to kobongola te misala oyo ezali mabe te. Na lisano, mabunga mingi ezali mabe te.
 
-| Instead of | Try |
+| Na esika ya | Meká |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| « Te, ezali mabe. » | « Tómeka ndenge oyo. » (ndakisa oyo NIA epesaka) |
+| « Ezali ndenge moko te. Talá lisusu. » | Koloba eloko te mpe kozwa eteni na yo, to « Oh, nyonso mibale ezali motane. » |
+| « Ozali kobosana te moto oyo ezali nani? » | « Yebisa ngai mpo na elili oyo. » |
+| « Osalaki yango deja. » | « Oyo ezali malamu. Tósala yango lisusu. » |
+| « Yaka, oyebi oyo. » | « Olingi nalakisa suka? » |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Soki libunga moko emonani ete etungisi ye mingi, salisá na kimya. Tongá elili ya malamu, salá eteni na yo moko, to komisa lisano pete na lizembo oyo elandi. Soki lisese esuki na ndenge ya kosekisa, seká elongo. Suka na ye ekoki kozala malamu mingi.
 
-## How do I make a game easier or harder?
+## Ndenge nini ya kokomisa lisano pete to mwa mpasi?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Bongisá lisano mpo na moto yango na mokolo wana, kasi te mpo na etiketi ya nivo. Moto moko akoki kozala na posa ya ndenge ya pete mingi na mpokwa koleka na ntongo. Toli ya liboso ya NIA ezali ya kokokanisa mosala na oyo moto akoki kosala mpe kosala ete ayoka ete azali kolonga.
 
-| Game | Make it easier | Make it a little harder |
+| Lisano | Komisa pete | Komisa mwa mpasi |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Bandá na bilili 4 mpe tiká bilili polele | Bakisa bilili, to bomba bilili soki yango ezali malamu |
+| [Find the Same](/games/find-the-same/) | Baponami 2 | Kino baponami 4 |
+| [Sort Together](/games/sort-together/) | Yo simba elili, ye atonga ekɔtɔ | Ye atonga elili mpe ekɔtɔ ye moko |
+| [Picture Puzzle](/games/picture-puzzle/) | Biteni 4, lobelá liboso elili mobimba | Biteni 9 |
+| [Finish the Saying](/games/finish-the-saying/) | Lakisá suka, na nsima loba yango elongo | Tiká ye aloba suka liboso ya kotonga |
+| [Word Search](/games/word-search/) | Imprimá yango, luka liloba moko elongo, tongá lɛtrɛ na yango ya liboso | Tiká ye apona liloba oyo elandi ya koluka |
+| [Coloring](/games/coloring/) | Yo pona balangi mibale, ye apona moko kati na yango | Ye apona balangi nyonso |
+| [Conversation Cards](/games/conversation-cards/) | Talá kaka elili elongo | Salelá mituna ya polele oyo ezali na karte |
+| [Photo Pairs](/games/photo-pairs/) | Bafoto mike ya libota oyo balingaka mingi | Bakisa bafoto mosusu |
+| [Picture Bingo](/games/picture-bingo/) | Mosalisi avandi pembeni ya mosani mokomoko | Basani batyá bilembo na bakarte na bango moko |
+| [Calm Breathing](/games/calm-breathing/) | Vanda mpe talá yango elongo | Pema malembe elongo |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Bilembo oyo elakisi ete lisano ezali mpasi mingi: kopema molai oyo emonani lokola mitungisi, kasi te lokola kokanisa, koloba mbala na mbala « Nakoki te », kotinda aparɛyi mosika, to mabunga oyo etungisi ye. Bilembo oyo ekoki kolakisa ete ezali pete mingi: kolemba, to koloba ete ezali lokola mpo na bana. Soki bongo, ndima yango mpe kɔtá na eloko mosusu oyo emonani lokola ya mikóló, lokola boluki ya maloba, pasolo ya foto ya solo, to kolobela elili ya mosala na ye ya kala.
 
-## How do I turn a game into a conversation?
+## Ndenge nini ya kobongola lisano masolo?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Salelá elili mokomoko lokola libyangi ya koloba, mpe zwá nyonso oyo alobi lokola eyano ya malamu. Mpo na mabota mingi, yango nde eteni ya malamu koleka na kosakana.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Tuná mituna ya polele, oyo ezali na eyano ya mabe te.** « Ozali komona nini? » « Nini olingi? » « Yebisa ngai mpo na kikuku lokola oyo. »
+- **Bandá na koloba yo moko.** « Nkaka na ngai ya mwasi azalaki na mbwa lokola oyo. » Lisolo na yo ekomisaka pete mpo na ye aloba moko.
+- **Landa ndenge lisolo ekendeki.** Soki elili ya motuka ememi na lisolo ya mobembo, lisolo yango nde mosala. Tiká lisano etɛlɛmi.
+- **Kotala soki makambo ezali solo te.** Na bokundoli ya makambo ya kala, masolo ya esengo ezali na tina koleka makambo ya sikisiki. Soki lisolo ebongwani uta na mbala eleki, sepela na ndenge ya sika.
+- **Salelá mituna oyo ezali na lisano.** [Finish the Saying](/games/finish-the-saying/) elandaka lisese mokomoko na motuna mpo na masolo, mpe [Conversation Cards](/games/conversation-cards/) esalemi mpo na yango. [Photo Pairs](/games/photo-pairs/) esalelaka bafoto ya libota na bino moko, oyo mbala mingi ebimisaka masolo ya kitoko.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Makanisi mosusu ezali na batambwisi na biso mpo na [misala ya bokundoli ya makambo ya kala](/activities/reminiscence/) mpe [batoli mpo na kosolola](/caregiving/communication-tips/).
 
-## When should we stop?
+## Ntango nini tosengeli kotika?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Tiká na bilembo ya liboso ya kolemba to ya komitungisa, mpe malamu koleka mwa liboso. Alzheimer’s Association epesi toli ya kotika to kobongola mosala soki likebi ekiti to soki nkele ebimi.
 
-Watch for:
+Talá:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- kopema monene, kokweya na kiti to miso kozanga kotala lisusu ekran;
+- kotambolatambola, kotɛlɛma, to kosɛnga kokende;
+- kolela na pema, biyano ya mokuse, to « Nazali malamu te na oyo »;
+- kotonga na ndenge nyonso to kotinda aparɛyi mosika;
+- kolela, koyoka nkele, to mbongwana ya mbalakata na ndenge ya koyoka.
 
-How to stop well:
+Ndenge ya kotika malamu:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Silisá na eloko ya pete.** Kokokanisa ya nsuka oyo akoki kosala, to elili ya nsuka mpo na kotala.
+- **Lobá ete ezali mpo na yo.** « Nalingi komɛla tii. Tótika awa? » epekisaka makanisi nyonso ete asalaki mabe.
+- **Kende na eloko ya nzoto to ya kimya.** Kotambola mwa moke, kolia mwa eloko, kokanga bilamba to miziki.
+- **Lobá eloko ya boboto.** « Nasepelaki kosala yango elongo na yo. » Bokumisi te mpo na « kozwa eyano ya malamu », kasi esengo ya kozala elongo.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Kotika liboso, kobongola mwango, to kotika lisano mpe kovanda kaka elongo ezali nyonso mbano ya malamu.
 
-## Can we play in a group or over a video call?
+## Tokoki kosakana na lisanga to na videyo?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Iyo, na mwa kobongisa mosusu. Na lisanga, tiká bato moke, tyá basalisi pembeni ya moto nyonso oyo azali na posa, mpe poná lisano oyo ezali na likambo moko ya polele mpo na bato nyonso. [Picture Bingo](/games/picture-bingo/) ezali na bakarte ya koimprimer mpe mobengi na ekran mpo na masanga. Talá [misala mpo na masanga ya ndako ya kobatela](/activities/care-home-groups/) mpo na makambo mosusu.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Na videyo, moto oyo azali na libenga akoki kolimbola elili wana moto mosusu na ndako atongi mpe abɛtɛ. Tiká mabenga ezala ya mokuse mpe ya boyebi. Litambwisi na biso mpo na [mabenga ya telefone mpe ya videyo](/activities/phone-and-video-calls/) ezali na batoli mosusu.
 
-## What if a game just isn't working?
+## Soki lisano ezali kokende malamu te?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Mikolo mosusu eloko moko te ekokende malamu, mpe yango emonisi mabe te mpo na yo to mpo na ye. Bombá lisano mpe meká lisusu na ntango mosusu ya mokolo, na lisano mosusu, to kozanga lisano. Misala mingi ya malamu ezalaka na boyokani te na baekran: miziki, kokanga baɛswi, kotala albom ya bafoto, to kotambola mwa moke. Talá [makanisi ya misala](/activities/ideas/) mpo na makambo mosusu.

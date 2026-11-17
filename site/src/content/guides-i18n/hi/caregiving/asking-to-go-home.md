@@ -1,36 +1,36 @@
 ---
-title: "जब डिमेंशिया वाला व्यक्ति बार-बार घर जाने को कहे"
-seoTitle: "डिमेंशिया में बार-बार घर जाने की ज़िद: क्या कहें"
-description: "डिमेंशिया के साथ जी रहे व्यक्ति घर में होते हुए भी घर जाने को क्यों कहते हैं, क्या कहें, शांत करने वाली गतिविधियाँ, और बाहर निकलने पर सुरक्षा कैसे रखें।"
+title: "जब डिमेंशिया से जी रहा व्यक्ति बार-बार घर जाने को कहे"
+seoTitle: "डिमेंशिया: बार-बार घर जाने की माँग पर क्या कहें"
+description: "डिमेंशिया से जी रहा व्यक्ति घर पर होते हुए भी बार-बार घर जाने को क्यों कहता है, उसे क्या कहें, शांत करने वाली गतिविधियाँ और बाहर निकलने की कोशिश पर सुरक्षा।"
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  जब डिमेंशिया वाला व्यक्ति बार-बार घर जाने को कहता है, तो “घर” का मतलब अक्सर
-  सुरक्षित होने का एहसास या बीते समय की कोई जगह होता है, कोई इमारत नहीं। यह साबित
-  न करें कि वे घर में ही हैं। उनकी भावना को समझें, भरोसा दिलाएँ कि वे सुरक्षित
-  हैं, घर के बारे में पूछें, फिर धीरे से फ़ोटो, संगीत, कुछ खाने-पीने, टहलने या
-  किसी आसान काम की ओर ले जाएँ। भूख, प्यास, शौचालय या दर्द की जाँच करें। अगर यह
-  अचानक शुरू हो, तो उनके डॉक्टर को फ़ोन करें।
+  जब डिमेंशिया से जी रहा व्यक्ति बार-बार घर जाने को कहता है, तो "घर" अक्सर
+  एक इमारत नहीं, बल्कि सुरक्षा का अहसास या अतीत का कोई स्थान होता है। यह
+  बताने की कोशिश न करें कि वे घर पर हैं। भावना को समझें, उन्हें सुरक्षित
+  महसूस कराएँ, घर के बारे में पूछें, फिर धीरे से फोटो, संगीत, नाश्ता,
+  टहलना या कोई सरल काम की ओर बढ़ें। भूख, प्यास, टॉयलेट या दर्द जाँचें।
+  अगर यह अचानक शुरू हो, तो उनके डॉक्टर को बुलाएँ।
 keyPoints:
-  - "“मुझे घर जाना है” का मतलब अक्सर “मुझे सुरक्षित या सहज नहीं लग रहा” होता है, किसी पते की माँग नहीं।"
-  - "बहस करने या यह साबित करने से कि वे घर में ही हैं, परेशानी अक्सर बढ़ती है। शब्दों के बजाय भावना को जवाब दें।"
-  - "उनसे घर के बारे में बताने को कहें, फिर फ़ोटो, संगीत, कुछ खाने-पीने, टहलने या किसी आसान काम की पेशकश करें।"
-  - "कोई सुधारी जा सकने वाली वजह जाँचें: भूख, प्यास, शौचालय, दर्द, ज़्यादा गर्मी या ठंड, शोर, थकान।"
-  - "अगर यह रोज़ देर दोपहर या शाम को होता है, तो यह सनडाउनिंग हो सकती है। एक तय दिनचर्या और अच्छी रोशनी से मदद मिल सकती है।"
-  - "वे बाहर निकलने की कोशिश करें तो सुरक्षा की योजना बनाकर रखें, और अचानक आए किसी भी बदलाव के बारे में डॉक्टर को फ़ोन करें।"
+  - "\"मैं घर जाना चाहता/चाहती हूँ\" अक्सर \"मैं अभी सुरक्षित या ठीक महसूस नहीं कर रहा/रही हूँ\" होता है, न कि किसी पते का अनुरोध।"
+  - "यह साबित करना या बहस करना कि वे घर पर हैं, अक्सर बेचैनी बढ़ाता है। इसके बजाय भावना का जवाब दें।"
+  - "उन्हें घर के बारे में बताने के लिए कहें, फिर फोटो, संगीत, नाश्ता, टहलना या कोई सरल काम पेश करें।"
+  - "ठीक किए जा सकने वाली चीज़ जाँचें: भूख, प्यास, टॉयलेट, दर्द, बहुत गर्म या ठंड, शोर, थकान।"
+  - "अगर यह हर देर शाम होता है, तो यह सनडाउनिंग हो सकता है; स्थिर दिनचर्या और अच्छी रोशनी मदद कर सकती है।"
+  - "अगर वे निकलने की कोशिश करें, तो सुरक्षा की योजना बनाएँ, और अचानक हुए किसी बदलाव पर उनके डॉक्टर को बुलाएँ।"
 faq:
-  - q: "डिमेंशिया वाली मेरी माँ घर में होते हुए भी बार-बार घर जाने को क्यों कहती हैं?"
-    a: "डिमेंशिया जाने-पहचाने कमरों को भी अजनबी बना सकता है, और लोग कभी-कभी महसूस करते हैं कि वे ज़िंदगी के किसी पुराने दौर में हैं। “घर” का मतलब बचपन का मकान हो सकता है, या बस सुरक्षित और सहज होने का एहसास। उन्हें यह बताने के बजाय कि वे कहाँ हैं, इस एहसास को जवाब देना आमतौर पर बेहतर काम करता है।"
-  - q: "जब वे घर जाने को कहें तो मुझे क्या कहना चाहिए?"
-    a: "कहकर देखें “आप यहाँ सुरक्षित हैं, और मैं आपके साथ हूँ,” फिर “मुझे अपने घर के बारे में बताइए।” सुनें, कोई फ़ोटो या गाना साझा करें, और पानी या थोड़ी सैर की पेशकश करें। “आप घर में ही हैं” को सुधार की तरह कहने से बचें, क्योंकि इससे उन्हें लग सकता है कि उन्हें ग़लत ठहराया जा रहा है।"
-  - q: "क्या यह कहना ठीक है कि हम बाद में घर चलेंगे?"
-    a: "इस पर परिवारों और डिमेंशिया संस्थाओं की राय अलग-अलग है। कई लोग ईमानदार तसल्ली और ध्यान बँटाने से शुरू करते हैं, और हल्के झूठ को उन पलों के लिए रखते हैं जब सच केवल ऐसी परेशानी देगा जिससे व्यक्ति उबर नहीं सकता। आप जो भी चुनें, कोमल और एक-सा रहें, और उनकी अपनी हक़ीक़त का कभी मज़ाक न उड़ाएँ।"
-  - q: "अगर वे घर से बाहर निकलने की कोशिश करें तो?"
-    a: "शांत रहें और उन्हें रोकने के बजाय उनके साथ चलें। थोड़ी-सी सैर अक्सर इस बेचैनी को शांत कर देती है। सुरक्षा के इंतज़ाम पहले से कर लें, जैसे पहचान वाला कंगन, दरवाज़े पर घंटी और एक ताज़ा फ़ोटो। अगर वे खो जाएँ, तो तुरंत ढूँढना शुरू करें, और अगर 15 मिनट में न मिलें तो अपने स्थानीय आपातकालीन नंबर (भारत में 112) पर कॉल करें और बताएँ कि व्यक्ति को डिमेंशिया है।"
-  - q: "डॉक्टर को कब फ़ोन करना चाहिए?"
-    a: "अगर घर जाने की रट या भ्रम अचानक शुरू हो, या घंटों या दिनों में बहुत बढ़ जाए, तो उनके डॉक्टर को जल्दी फ़ोन करें, ख़ासकर तब जब साथ में बुखार हो, कोई नई दवा शुरू हुई हो, या पेशाब के संक्रमण के लक्षण हों। अचानक आया भ्रम डेलिरियम हो सकता है, जिसमें तुरंत इलाज चाहिए। अगर किसी की जान को ख़तरा हो, तो आपातकालीन नंबर (भारत में 112) पर कॉल करें।"
+  - q: "मेरी माँ डिमेंशिया से जी रही हैं; घर पर होते हुए भी वे बार-बार घर जाने को क्यों कहती हैं?"
+    a: "डिमेंशिया से जाने-पहचाने कमरे अजनबी लग सकते हैं, और लोग कभी-कभी खुद को जीवन के पहले वाले दौर में महसूस करते हैं। \"घर\" बचपन का घर हो सकता है या फिर बस सुरक्षित और सहज महसूस करने का अहसास। उस अहसास का जवाब देना अक्सर यह बताने से ज़्यादा असरदार होता है कि वे अभी कहाँ हैं।"
+  - q: "जब वे घर जाने को कहें, तो मुझे क्या कहना चाहिए?"
+    a: "कोशिश करें: \"आप यहाँ सुरक्षित हैं, और मैं आपके साथ हूँ,\" फिर \"मुझे अपने घर के बारे में बताइए।\" सुनें, एक फोटो या गाना साझा करें, और एक पेय या छोटी टहलने का ऑफ़र दें। \"तुम घर पर हो\" जैसी बात सुधार जैसे कहने से बचें, क्योंकि इससे उन्हें लग सकता है कि उन्हें गलत बताया जा रहा है।"
+  - q: "क्या यह ठीक है कि हम बाद में घर जाएँगे, ऐसा कहना ठीक है?"
+    a: "परिवार और डिमेंशिया संगठन इस पर अलग-अलग राय रखते हैं। कई लोग ईमानदारी से सांत्वना और दिशा बदलने से शुरू करते हैं, और ऐसे क्षणों के लिए एक नरम असत्य बचाकर रखते हैं जब सच उस व्यक्ति को ऐसी बेचैनी देगा जिसे वह सुलझा नहीं पाएगा। आप जो भी चुनें, दयालु और लगातार रहें, और कभी उनकी वास्तविकता का मज़ाक न उड़ाएँ।"
+  - q: "अगर वे घर से बाहर निकलने की कोशिश करें?"
+    a: "शांत रहें और उन्हें रोकने के बजाय उनके साथ चलें; थोड़ी दूर टहलना अक्सर यह इच्छा शांत कर देता है। पहले से सुरक्षा कदम रखें, जैसे पहचान पट्टी, दरवाज़े की घंटी और एक हालिया फोटो। अगर व्यक्ति खो जाए, तो नज़दीकी सुरक्षित जगहें जाँचते हुए जल्दी स्थानीय पुलिस या आपातकालीन सेवाओं से संपर्क करें। रिपोर्ट करने से पहले किसी तय मिनटों का इंतज़ार न करें।"
+  - q: "मुझे डॉक्टर को कब बुलाना चाहिए?"
+    a: "अगर यह माँगना या भ्रम अचानक शुरू हो या घंटों या दिनों में बहुत बढ़ जाए, खासकर बुखार, नई दवा या मूत्र मार्ग संक्रमण के लक्षणों के साथ, तो उनके डॉक्टर को जल्दी बुलाएँ। अचानक भ्रम डिलीरियम हो सकता है, जिसे तत्काल देखभाल चाहिए। अगर किसी को खतरा हो, तो 911 बुलाएँ।"
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +50,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +70,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-“मुझे घर जाना है।” बहुत-से परिवारों के लिए यह सुनना सबसे मुश्किल बातों में से एक है, ख़ासकर तब जब जिनकी आप देखभाल करते हैं वे अपने ही बैठक में बैठे हों। यह आम है, डिमेंशिया की किसी भी अवस्था में हो सकता है, और इसका जवाब देने के शांत, व्यावहारिक तरीक़े हैं। इस पेज में बताया गया है कि इन शब्दों का अक्सर क्या मतलब होता है, क्या कहें, उस पल में कौन-सी गतिविधियाँ मदद कर सकती हैं, और सुरक्षित कैसे रहें।
+"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
 
-## डिमेंशिया वाला व्यक्ति बार-बार घर जाने को क्यों कहता है?
+## डिमेंशिया से जी रहा व्यक्ति घर जाने की बार-बार माँग क्यों करता है?
 
-आमतौर पर “घर” किसी जगह से ज़्यादा एक एहसास होता है। Alzheimer's Society इसे आराम और सुरक्षा का एहसास, या बीते समय का कोई घर बताती है, न कि वह मकान जिसमें वे अभी हैं। डिमेंशिया जाने-पहचाने कमरों को अजनबी दिखा सकता है, और व्यक्ति को लग सकता है कि वे ज़िंदगी के किसी पुराने दौर में रह रहे हैं, जब घर बचपन का मकान था या वह जगह जहाँ उन्होंने अपने बच्चे पाले थे।
+Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
 
-इन शब्दों का यह मतलब भी हो सकता है कि अभी कुछ और ठीक नहीं है: वे भूखे हैं, प्यासे हैं, उन्हें शौचालय जाना है, दर्द है, ज़्यादा गर्मी या ठंड लग रही है, थकान है, अकेलापन या डर है, या शोर से घबराहट हो रही है। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) बेचैनी के कारणों में दर्द, शोर, अकेलापन, दिनचर्या में बदलाव और दवाओं को गिनाता है।
+The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
 
-## जब वे घर जाने को कहें तो मुझे क्या कहना चाहिए?
+## जब वे घर जाने को कहें, तो मुझे क्या कहना चाहिए?
 
-शब्दों को नहीं, भावना को जवाब दें। [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) सलाह देता है कि व्यक्ति को यह मनवाने की कोशिश न करें कि वे ग़लत हैं: उनकी भावनाएँ सच्ची हैं, इसलिए पहले तसल्ली और भरोसे से जवाब दें, फिर धीरे से ध्यान किसी और ओर ले जाएँ।
+Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
 
-वाक्य जो अक्सर मदद करते हैं:
+Phrases that often help:
 
-- **भावना को नाम दें।** “लगता है आपको घर की याद आ रही है।”
-- **भरोसा दिलाएँ।** “आप यहाँ सुरक्षित हैं, और मैं आपके साथ हूँ।” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) सीधे-सादे शब्द “आप यहाँ सुरक्षित हैं” सुझाती है।
-- **यादों को न्योता दें।** “मुझे अपने घर के बारे में बताइए। आपकी रसोई कैसी थी?” बीते हुए ज़माने के बारे में पूछना आमतौर पर आज के सवालों से ज़्यादा सहज लगता है।
-- **साथ में कुछ करने की पेशकश करें।** “पहले एक कप चाय पी लेते हैं,” या “क्या आप इन तौलियों को तह करने में मेरी मदद करेंगे?”
+- **भावना का नाम लें.** "लगता है आप घर को मिस कर रहे हैं।"
+- **भरोसा दिलाएँ.** "आप यहाँ सुरक्षित हैं, और मैं आपके साथ हूँ।" The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
+- **यादें बुलाएँ.** "मुझे अपने घर के बारे में बताइए। आपका रसोईघर कैसा था?" Asking about the distant past is usually more comfortable than questions about today.
+- **कुछ एक साथ करने का ऑफ़र दें.** "पहले एक कप चाय लें," या "क्या आप इन तौलियों में मेरी मदद करेंगे?"
 
-अगर व्यक्ति को छुआ जाना अच्छा लगता है, तो गर्मजोशी भरी आवाज़ और बाँह पर रखा हाथ शब्दों से ज़्यादा कह सकते हैं।
+A warm tone and a hand on the arm, if they like touch, can say more than the words.
 
-## मुझे किन बातों से बचना चाहिए?
+## क्या न करें?
 
-- **बहस करना या समझाना।** “अब आप यहीं रहते हैं” या “यह 40 साल से आपका घर है” कहना उनसे वह बात मानने को कहता है जिसे मानना डिमेंशिया में मुश्किल होता है, और उन्हें लग सकता है कि उन्हें ग़लत ठहराया जा रहा है।
-- **सवाल पूछकर परखना।** “आपको याद नहीं?” या “पता क्या है?” से दबाव बढ़ता है।
-- **ग़ुस्से में दरवाज़ा रोकना।** अगर वे बाहर चल दें, तो शांत रहें और उनके साथ चलें। थोड़ी-सी सैर साथ करने से अक्सर यह बेचैनी शांत हो जाती है।
-- **जल्दबाज़ी।** विषय बदलने से पहले उन्हें घर के बारे में बात करने का समय दें।
+- **बहस या समझाना.** "आप अब यहाँ रहते हैं" या "यह 40 साल से आपका घर है" उनसे ऐसा मानने को कहता है जिसे डिमेंशिया मानना मुश्किल बनाता है, और इससे लग सकता है कि उन्हें गलत बताया जा रहा है।
+- **पूछताछ.** "क्या तुम्हें याद नहीं?" या "पता क्या है?" दबाव बढ़ाता है।
+- **गुस्से में दरवाज़ा रोकना.** अगर वे बाहर जाने लगें, तो शांत रहें और उनके साथ चलें। एक साथ थोड़ी दूर टहलना अक्सर यह इच्छा शांत कर देता है।
+- **जल्दबाज़ी.** विषय बदलने से पहले उन्हें घर के बारे में बात करने का समय दें।
 
-## उस पल में कौन-सी गतिविधियाँ मदद कर सकती हैं?
+## उसी पल मदद करने वाली गतिविधियाँ
 
-भावना को स्वीकार करने के बाद, कोई शांत, जानी-पहचानी गतिविधि उसे अनदेखा किए बिना ध्यान को दूसरी ओर ले जा सकती है।
+After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
 
-1. **घर और परिवार की फ़ोटो देखें।** पन्ने पलटें और सवाल पूछने के बजाय टिप्पणियाँ करें (“देखिए, कितना सुंदर बगीचा है”)। फ़ोन या टैबलेट पर [फ़ोटो के जोड़े](/games/photo-pairs/) आपके अपने पारिवारिक फ़ोटो को एक कोमल मिलान वाले खेल में बदल देता है, और फ़ोटो आपके डिवाइस पर ही रहती हैं।
-2. **घर के बारे में बात करें।** [बातचीत कार्ड](/games/conversation-cards/) में घरों, रसोइयों, पड़ोसियों और त्योहारों के बारे में खुले सवाल हैं, जिनका कोई सही जवाब नहीं।
-3. **उनका पसंदीदा संगीत चलाएँ।** National Institute on Aging बेचैनी शांत करने के तरीक़ों में सुकून देने वाले संगीत को गिनाता है। हमारी [संगीत वाली गतिविधियाँ](/activities/music/) देखें।
-4. **कुछ खिलाएँ-पिलाएँ।** भूख और प्यास बेचैनी जैसी दिख सकती हैं। एक कप चाय या कोई पसंदीदा चीज़ घर जैसा महसूस होने की छोटी-सी रस्म भी है।
-5. **टहलने जाएँ या बाहर बैठें।** हलचल और दिन की रोशनी से मदद मिलती है, ख़ासकर दिन में पहले के समय।
-6. **कोई जाना-पहचाना काम दें।** कपड़े तह करना, चम्मच छाँटना या पौधों को पानी देना घर चलाने के एहसास को लौटा सकता है।
-7. **सब कुछ धीमा कर दें।** टीवी बंद करें, शोर और चौंध कम करें, और साथ मिलकर [शांत साँसें](/games/calm-breathing/) लेने का एक ठहराव आज़माएँ।
+1. **घर और परिवार की फोटो देखें.** पन्ने पलटें और टिप्पणी करें ("उस बगीचे को देखो"), सवाल पूछने के बजाय। फोन या टैबलेट पर [फोटो जोड़ियाँ](/games/photo-pairs/) आपकी अपनी पारिवारिक फोटो को एक नरम मिलान वाला खेल बना देता है, और फोटो आपके डिवाइस पर ही रहती हैं।
+2. **घर के बारे में बात करें.** [बातचीत कार्ड](/games/conversation-cards/) घरों, रसोई, पड़ोसियों और छुट्टियों के बारे में खुले सवाल देते हैं, जिनका कोई एक सही जवाब नहीं होता।
+3. **उनका पसंदीदा संगीत बजाएँ.** नेशनल इंस्टीट्यूट ऑन एजिंग बेचैनी शांत करने के तरीकों में शांत संगीत गिनता है। हमारी [संगीत गतिविधियाँ](/activities/music/) देखें।
+4. **नाश्ता या पेय लें.** भूख और प्यास बेचैनी जैसी लग सकती हैं। एक कप चाय या पसंदीदा ट्रीट घर पर होने का एक छोटा अनुष्ठान भी होता है।
+5. **टहलने जाएँ या बाहर बैठें.** गति और दिन का उजाला मदद करता है, खासकर दिन के पहले हिस्से में।
+6. **परिचित काम दें.** कपड़े मोड़ना, बर्तन छाँटना या पौधों को पानी देना घर चलाने का अहसास ला सकता है।
+7. **सब कुछ धीमा करें.** टीवी बंद करें, शोर और चमक कम करें, और एक साझा [शांत साँस](/games/calm-breathing/) विराम आज़माएँ।
 
-अगर कोई तरीक़ा न जमे, तो थोड़ी देर बाद दूसरा आज़माएँ। साथ चुपचाप बैठना भी एक अच्छा अंत है।
+If one idea does not land, try another later. Sitting quietly together is a good outcome too.
 
-## कोई ठीक की जा सकने वाली वजह जाँचें
+## ठीक किया जा सकने वाला कारण जाँचें
 
-| जाँचें | क्या करके देखें |
+| जाँच | क्या आज़माएँ |
 | --- | --- |
-| भूख या प्यास | पानी और थोड़ा-सा नाश्ता दें |
-| शौचालय जाना है | शांति से, बिना हंगामे के शौचालय जाने को कहें |
-| दर्द या तकलीफ़ | चेहरे का सिकुड़ना, शरीर के किसी हिस्से को पकड़ना या कब्ज़ जैसे संकेत देखें, और उनके डॉक्टर को बताएँ |
-| ज़्यादा गर्मी या ठंड | कोई कपड़ा कम-ज़्यादा करें या कमरे का तापमान ठीक करें |
-| शोर या भीड़ | किसी शांत कमरे में चले जाएँ, टीवी बंद करें |
-| थकान या ज़्यादा उत्तेजना | आराम करने दें, कमरे की रोशनी धीमी करें, हल्का संगीत चलाएँ |
-| देर दोपहर | नीचे सनडाउनिंग वाला हिस्सा देखें |
+| भूखा या प्यासा | एक पेय और थोड़ा नाश्ता ऑफ़र करें |
+| टॉयलेट चाहिए | शांति से और बिना ज़्यादा बात के बाथरूम जाने का ऑफ़र दें |
+| दर्द या असुविधा | मुँह बिचकाना, किसी अंग को पकड़ना या कब्ज़ जैसे संकेत देखें, और उनके डॉक्टर को बताएँ |
+| बहुत गर्म या ठंड | एक परत या कमरे का तापमान बदलें |
+| शोर या भीड़ | ज़्यादा शांत कमरे में जाएँ, टीवी बंद करें |
+| थका हुआ या ज़्यादा उत्तेजित | आराम करें, कमरा धीमा करें, नरम संगीत बजाएँ |
+| देर शाम | नीचे सनडाउनिंग वाला भाग देखें |
 
-Alzheimer's Society सुझाती है कि एक छोटी डायरी रखें कि यह रट कब लगती है, जैसे खाने से पहले, मेहमानों के बाद, या शाम ढलते समय। पैटर्न दिखने से पहले से योजना बनाना आसान हो जाता है।
+The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
 
-## क्या हल्का झूठ बोलना ठीक है?
+## क्या एक छोटा असत्य कहना ठीक है?
 
-यह सचमुच एक बहस का सवाल है, और भले परिवार अलग-अलग जगह पहुँचते हैं। Alzheimer's Society कहती है कि कोई एक सही जवाब नहीं है: झूठ कुछ लोगों को और शक्की बना सकते हैं, इसलिए तय करें कि व्यक्ति के लिए क्या सबसे अच्छा है और उस पर टिके रहें। Penn Memory Center में सह-निदेशक का मत है कि पहला रास्ता सच बोलना है, और हल्का झूठ तभी ठीक है जब व्यक्ति कोई ख़ास सच समझ ही न पाए, और उनकी हक़ीक़त का कभी मज़ाक नहीं उड़ाना चाहिए।
+This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
 
-कई देखभाल करने वालों को बीच का रास्ता काम आता है: पहले ईमानदार तसल्ली और ध्यान बँटाना (“आज रात हम यहीं रहेंगे, और मैं आपके पास ही हूँ”), और घर कहाँ है इस पर बहस नहीं।
+Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
 
-## अगर यह हर दोपहर या शाम को होता है तो?
+## अगर यह हर दोपहर या शाम हो?
 
-जो बेचैनी देर दोपहर में शुरू हो या बढ़ जाए, उसे अक्सर सनडाउनिंग (शाम ढलते समय की बेचैनी) कहा जाता है। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) एक तय दिनचर्या, रोज़ धूप और गतिविधि, देर से कम झपकियाँ, और दिन के आख़िरी हिस्से में कैफ़ीन या शराब से परहेज़ सुझाता है। अँधेरा होने से पहले बत्तियाँ जला देना भी मदद कर सकता है। हमारी [शांत देर-दोपहर वाली गतिविधियों](/caregiving/late-day-restlessness/) की गाइड में और जानकारी है।
+Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
 
-## बाहर निकलने की कोशिश करें तो सुरक्षा कैसे रखें
+## अगर वे निकलने की कोशिश करें, तो उन्हें सुरक्षित रखना
 
-घर जाने की रट भटक जाने तक पहुँच सकती है। [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) का अनुमान है कि डिमेंशिया के साथ जी रहे दस में से छह लोग कम से कम एक बार भटकेंगे।
+Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
 
-**पहले से तैयारी करें:**
+**Prepare ahead:**
 
-- उनके नाम और आपके फ़ोन नंबर वाला पहचान या मेडिकल कंगन, और कपड़ों में लगे लेबल। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) अमेरिका के उदाहरण के तौर पर MedicAlert और Alzheimer's Association के Safe and Found कार्यक्रम का ज़िक्र करता है, जिसमें पैसे लग सकते हैं। आपके यहाँ ऐसी ही सेवा के बारे में स्थानीय अल्ज़ाइमर या डिमेंशिया संस्था से पूछा जा सकता है।
-- दरवाज़े पर घंटी या अलार्म, और ताले बहुत ऊपर या बहुत नीचे लगाना। व्यक्ति को कभी अकेले बंद न करें।
-- एक ताज़ा, पास से खींची फ़ोटो, और उन जगहों की सूची जहाँ वे जा सकते हैं, जैसे पुराना घर या काम की जगह।
-- भरोसे के पड़ोसियों को बताएँ और उन्हें अपना नंबर दें।
+- उनका नाम और आपका फोन नंबर वाली पहचान या मेडिकल ब्रेसलेट, और कपड़ों में लेबल। The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
+- दरवाज़े की घंटी या अलार्म, और ऊँचे या नीचे लगे ताले। व्यक्ति को अकेला बंद कभी न करें।
+- एक हालिया क्लोज़-अप फोटो, और जगहों की सूची जहाँ वे जा सकते हैं, जैसे पुराना घर या कार्यस्थल।
+- भरोसेमंद पड़ोसियों को बताएँ, और उन्हें अपना नंबर दें।
 
-**अगर वे खो जाएँ:** तुरंत ढूँढना शुरू करें; Alzheimer's Association बताती है कि बहुत-से लोग 1.5 मील के भीतर मिल जाते हैं। अगर 15 मिनट में न मिलें, तो अपने स्थानीय आपातकालीन नंबर (भारत में 112) पर कॉल करें और बताएँ कि व्यक्ति को डिमेंशिया है। अगर किसी की जान को ख़तरा हो, तो तुरंत इसी नंबर पर कॉल करें।
+If they go missing: check nearby safe places while contacting local police or emergency services promptly. Do not wait a fixed number of minutes before reporting. A 2021 [U.S. Department of Justice journal article on missing-person investigations](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) says law-enforcement agencies should not require a set waiting period; it also lists dementia-like symptoms as a high-risk concern. Local reporting procedures vary. Tell responders the person has dementia, share the last known location and a recent photo, and follow their directions. If another helper is available, ask them to stay by the phone. Do not search unsafe places alone.
 
-## डॉक्टर को कब फ़ोन करना चाहिए?
+## मुझे डॉक्टर को कब बुलाना चाहिए?
 
-अगर घर जाने की रट या भ्रम अचानक शुरू हो, या घंटों या दिनों में बहुत बढ़ जाए, तो उनके डॉक्टर को जल्दी फ़ोन करें। [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) कहता है कि व्यवहार में अचानक या तेज़ी से होने वाले बदलाव की जाँच तुरंत होनी चाहिए, ख़ासकर संक्रमण या दवा बदलने के बाद। अचानक आया भ्रम डेलिरियम हो सकता है, जिसके बारे में [NHS](https://www.nhs.uk/symptoms/confusion/) कहता है कि उसमें तुरंत मदद चाहिए; बुज़ुर्गों में पेशाब का संक्रमण इसका एक आम कारण है।
+Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
 
-अगली मुलाक़ात में किसी लगातार चलते पैटर्न का ज़िक्र करना भी मददगार है, क्योंकि दर्द, उदासी, नींद की दिक़्क़तें या दवाओं के दुष्प्रभाव, सब इसमें भूमिका निभा सकते हैं।
+It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.

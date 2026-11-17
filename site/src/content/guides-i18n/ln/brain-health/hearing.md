@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Koyoka mabe mpe likama ya bokono ya kobungisa makanisi"
+seoTitle: "Koyoka mabe mpe bokono ya kobungisa makanisi"
+description: "Mpo na nini koyoka mabe ezali likama monene ya bokono ya kobungisa makanisi, oyo bolukiluki ya ACHIEVE emonisaki mpenza, mpe ndenge ya kotala koyoka."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Lapolo ya 2024 ya Komisi ya Lancet etangi koyoka mabe lokola moko ya makama minene oyo ekoki
+  kobongwana mpo na bokono ya kobungisa makanisi. Na bolukiluki ya ACHIEVE, bamasini ya kosalisa
+  koyoka ekitisaki te kokita ya bokonzi ya makanisi na mobimba, kasi etuluku moko oyo ezalaki na
+  likama mingi emonisaki kokita moke. Bamasini ya kosalisa koyoka esalisaka na masolo mpe na bomoi
+  ya mokolo na mokolo ata bongo. Tala koyoka na yo, talá soki bamasini ya monganga to oyo
+  etekamaka kozanga mokanda ya monganga ekoki kosalisa, mpe solola na monganga.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Komisi ya Lancet ekani ete koyoka mabe ezali na ndambo ya soki 7% ya bokono ya kobungisa makanisi na mokili mobimba, likambo oyo ekokani na makama 14 mosusu."
+  - "Na bolukiluki ya ACHIEVE ya mibange 977, bamasini ya kosalisa koyoka ebongolaki te kokita ya bokonzi ya makanisi na boumeli ya mbula misato."
+  - "Na etuluku moke oyo ezalaki na likama mingi na kati ya ACHIEVE, kokita ya bokonzi ya makanisi ezalaki moke na 48% na baoyo basalelaki bamasini ya kosalisa koyoka; esengeli kondimama lisusu."
+  - "Uta na sanza ya October 2022, mikolo na États-Unis oyo bakanisi ete bazali na koyoka mabe ya moke to ya katikati bakoki kosomba bamasini ya kosalisa koyoka oyo FDA etaleli kozanga mokanda ya monganga."
+  - "Koyoka mabe ya miso oyo esalemi te ebakisamaki lokola likama ya bokono ya kobungisa makanisi na 2024, yango wana kotala miso ezali mpe na ntina."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Bamasini ya kosalisa koyoka epekisaka bokono ya kobungisa makanisi?"
+    a: "Yango endimisami naino te. Bolukiluki ya ACHIEVE emonaki ete ezali na bopusi te na kokita ya bokonzi ya makanisi na boumeli ya mbula misato, atako etuluku moko oyo ezalaki na likama mingi ezalaki malamu koleka. Ezali kaka malamu kotalela bamasini ya kosalisa koyoka mpo esalisaka masolo, libateli mpe bomoi ya mokolo na mokolo ezala pete."
+  - q: "Nani akoki kosomba bamasini ya kosalisa koyoka kozanga mokanda ya monganga?"
+    a: "FDA epesi nzela na mikolo ya mbula 18 mpe koleka oyo bakanisi ete bazali na koyoka mabe ya moke to ya katikati baposomba bamasini ya kosalisa koyoka ya OTC na magazini to na Internet kozanga mokanda ya monganga. Esalemi te mpo na koyoka mabe makasi. Moto nyonso oyo azali na mpasi na litoyi, mai kobima na litoyi, vertige to mbongwana ya mbalakaka na koyoka asengeli kokende liboso epai ya monganga."
+  - q: "Koyoka mabe ekoki komonana lokola bokono ya kobungisa makanisi?"
+    a: "Ntango mosusu. National Institute on Aging elobi ete mibange oyo bazali koyoka malamu te bakoki ntango mosusu kokanisama na mabe ete bazali na mobulungano to baboyi kosala elongo. Kotala koyoka ezali likambo ya mayele soki moto azali komipesa pembeni to azali kozanga koyoka oyo bazali koloba."
+  - q: "Mbala boni mibange basengeli kotala miso na bango?"
+    a: "National Institute on Aging etoli ete basengeli kosala ekzamen ya miso na kongengisa miso mbala moko na mobu to mbala mibale sima ya mbula 60, to ndenge moto ya misala ya miso atoli. Bato oyo bazali na diabète to tension ya makasi ya mongwa basengeli mingi kosala yango ata mbala moko na mobu."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Koyoka mabe ezalaka mingi na mikolo ya mobange, mpe bato ya bolukiluki batalaka yango na likebi lokola likama ya bokono ya kobungisa makanisi. Yango elingi koloba te ete bamasini ya kosalisa koyoka ezali ndenge ya kondimama ya kopekisa bokono ya kobungisa makanisi; bolukiluki ya malamu koleka kino sikoyo emonisaki mbano ya ndenge na ndenge. Lokasa oyo elimboli oyo bolukiluki emonisi, ndenge ya kotala koyoka, oyo bamasini ya kosalisa koyoka ya kozanga mokanda ya monganga ezali na États-Unis, mpe ndenge ya kosala ete masolo ezala pete.
 
-## Why does hearing matter for brain health?
+## Mpo na nini koyoka ezali na ntina mpo na bokolongono ya bwango?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Koyoka mabe ezwami na boyokani na likama monene ya kozwa bokono ya kobungisa makanisi. [Lapolo ya 2024 ya Komisi ya Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0) ekani ete ezali na ndambo ya soki 7% ya bokono ya kobungisa makanisi na mokili mobimba. Yango ekokani na LDL cholestérol ya likolo mpo na eteni monene kati na makama 14 oyo ekoki kobongwana na etaleli ya Komisi, kolanda [lisungi ya UCL ya lapolo yango](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Makambo ya ntina oyo Komisi emonaki:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Likama monene soki koyoka ezali mabe.** Na botalisi na bango ya boyokani ya bolukiluki motoba ya malamu, bato oyo bazalaki na koyoka mabe bazalaki na likama ya soki 37% ya likolo ya kozwa bokono ya kobungisa makanisi koleka bato oyo bazalaki koyoka malamu.
+- **Koyoka mabe koleka, likama monene koleka.** Bolukiluki oyo etalaki makasi ya likambo emonaki ete likama ekomaka monene soki koyoka ekomi mabe koleka.
+- **Bantina oyo ekoki kozala, kasi endimisami naino te.** Makanisi ezali na kati ya komipesa pembeni mpe kozala yo moko, mawa ya motema, bokitisi ya bosimbisi ya bwango, mpe milende ya makanisi ya kobakisa oyo koyoka esengaka.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Koyoka mabe ezalaka mingi. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) elobi ete soki ndambo moko kati na misato ya mibange bazali na yango, mpe likama ekolaka soki mbula ekolaka.
 
-## What did the ACHIEVE hearing aid trial find?
+## Bolukiluki ya bamasini ya kosalisa koyoka ya ACHIEVE emonaki nini?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE ezalaki bolukiluki ya liboso ya komeka bamasini ya kosalisa koyoka mpe kokita ya bokonzi ya makanisi. Mbano na yango mbala mingi eyebisamaka na ndenge ya mabe, tala awa makambo ya sikisiki oyo eutaki na [lapolo ya bolukiluki oyo ebimisamaki](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Banani basanganaki:** mibange 977 ya mbula 70 kino 84 oyo bazalaki na koyoka mabe oyo esalemi naino te mpe bazalaki na mikakatano minene te ya makanisi, na bisika minei ya bato na États-Unis.
+- **Nini ekokanisamaki:** ndambo moko bazwaki bamasini ya kosalisa koyoka elongo na bakita ya toli na moto ya mayele ya koyoka. Ndambo mosusu bazwaki manaka ya mateya ya bokolongono malamu na mikolo ya mobange.
+- **Mbano ya liboso:** sima ya mbula misato, ezalaki na **bokeseni te** na kokita ya bokonzi ya makanisi kati na bituluku nyonso mibale na mobimba.
+- **Mbano ya etuluku moko:** bolukiluki ezwaki bato uta na bisika mibale. Bato 238 bawutaki na bolukiluki moko ya molai ya bokolongono ya motema (ARIC), mpe lokola etuluku bazalaki na likama mingi ya kokita ya bokonzi ya makanisi. Na etuluku oyo, kokita ezalaki **moke na 48%** na baoyo bazalaki na bamasini ya kosalisa koyoka. Kati na bato 739 ya bokolongono malamu ya esika, ezalaki na bopusi ya polele te.
 
-How to read this honestly:
+Ndenge ya kotanga yango na bosembo:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Eyano ya mobimba ezalaki ete bopusi ezalaki te.
+- Liyoki ya etuluku moko ekanamaki liboso, kasi eutaki na botalisi ya mibale ya etuluku moke. Esengeli kondimama na bolukiluki mosusu.
+- Basangani bayebaki manaka nini bazalaki kozwa, oyo ekoki kobongola mbano.
+- Komisi ya Lancet etali bilembeteli lokola emonisaka ete bamasini ya kosalisa koyoka emonanaka mingi na litomba mpo na bato oyo bazali na koyoka mabe elongo na makama mosusu ya bokono ya kobungisa makanisi.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Mokano ya suka ezali ete bamasini ya kosalisa koyoka ezali ndenge ya kondimama te ya kopekisa bokono ya kobungisa makanisi. Kasi esalisaka bato koyoka, kosangana na masolo mpe kotikala na boyokani, oyo ezali ntina ya malamu ya kotalela yango.
 
-## How do I know if hearing should be checked?
+## Ndenge nini nakoki koyeba soki esengeli kotala koyoka?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA etoli kokende epai ya monganga soki yo to moto oyo ozali kobatela:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Azali na mokakatano ya kososola bato na telefone
+- Amonaka ete ezali mpasi kolanda masolo soki bato mibale to koleka bazali koloba
+- Asengaka mbala mingi bato bazongela
+- Abakisaka mongongo ya televizyó mingi kino bato mosusu balemeli
+- Azali na mokakatano ya kososola maloba soki makelele mosusu ezali
+- Akanisaka ete bato mosusu bazali koloba lokola bazali kotongotongo
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Bandá na monganga ya liboso, oyo akoki kotinda yo epai ya audiologiste (moto ya mayele ya koyoka) to monganga ya litoyi, zolo mpe mongongo. Bokangami ya mafuta ya litoyi ezali ntina moko oyo emonanaka mingi ya koyoka mabe oyo monganga akoki kotala. **Koyoka mabe ya mbalakaka ezali likambo ya lombangu ya bokolongono**, mpe NIA etoli kokende epai ya monganga mbala moko.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Koyoka mabe ekoki kokanisama lokola mobulungano. NIA elobi ete mibange oyo bazali koyoka malamu te bakoki ntango mosusu kokanisama na mabe ete bazali na mobulungano, bazali koyanola te to baboyi kosala elongo. Soki moto oyo olingaka azali komipesa pembeni to azali kozanga koyoka oyo bazali koloba, kotala koyoka ezali likambo ya malamu ya kosala liboso.
 
-## What are over-the-counter hearing aids?
+## Bamasini ya kosalisa koyoka ya kozanga mokanda ya monganga ezali nini?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Uta na October 17, 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) epesi nzela na lolenge ya bamasini ya kosalisa koyoka ya kozanga mokanda ya monganga (OTC). Tala ndenge ekeseni na bamasini ya monganga:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Likambo | Bamasini ya kosalisa koyoka ya OTC | Bamasini ya kosalisa koyoka ya monganga |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Mpo na banani | Mikolo ya mbula 18 mpe koleka oyo bakanisi ete bazali na koyoka mabe ya moke to ya katikati | Moto nyonso ata na koyoka mabe ya ndenge nini, ata na mbula boni |
+| Esika ya kozwa | Na magazini to na Internet, kozanga ekzamen to mokanda ya monganga | Na nzela ya moto ya mayele ya koyoka oyo azali na ndingisa |
+| Kobongisa | Yo moko obongisi parametrɛ, mbala mingi na aplikasi | Moto ya mayele abongisi yango kolanda koyoka na yo |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA elobi ete bamasini ya OTC esalemi te mpo na koyoka mabe makasi to makasi mingi. Etoli kokende epai ya monganga, malamu koleka monganga ya litoyi, zolo mpe mongongo, liboso ya kosomba soki ozali na:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Mpasi to kobanga malamu te na litoyi
+- Mai, pus to makila kobima na litoyi na kati ya basanza motoba eleki
+- Mbongwana ya mbalakaka to oyo ezongaka-zongaka na koyoka
+- Koyoka mabe koleka na litoyi moko, to konguluma na litoyi moko kaka
+- Vertige to kizunguzungu
+- Mafuta mingi ya litoyi
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Komesanaka na bamasini ya kosalisa koyoka esengaka momeseno, yango wana tala mibeko ya kozongisa liboso ya kosomba, ndenge FDA etoli. NIA etoli kotuna soki asiransi na yo ekoki kofuta ndambo ya mbongo. Mpo na moto oyo azali kobika na bokono ya kobungisa makanisi, audiologiste akoki kosalisa kopona lolenge ya masini mpe ndenge ya kobongisa yango oyo ekozala pete mpo na kosalela mokolo na mokolo.
 
-## How can I talk more easily with someone who has hearing loss?
+## Ndenge nini nakoki kosolola na pete na moto oyo azali na koyoka mabe?
 
-The NIA suggests:
+NIA etoli:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Tala moto na elongi mpe batelá miso na miso**, na pole ya malamu, mpo akoka komona mbebu mpe bilembo ya elongi na yo.
+2. **Luka esika ya kimia.** Kanga televizyó to kende mosika ya makelele.
+3. **Lobá mwa likolo, kasi koganga te.** Lobá na ndenge ya malamu mpe na lombangu ya ndenge na ndenge.
+4. **Tika monoko na yo ezala polele.** Kolia te, konyata chewing-gum te to kozipa monoko te ntango ozali koloba.
+5. **Lobá na ndenge mosusu na esika ya kozongela** soki eloko moko ezwami te.
+6. **Moto moko na mbala.** Na etuluku, sala nyonso mpo moto yango azala na kati.
+7. **Zala na motema molai mpe tuna ndenge okoki kosalisa.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Batoli oyo esalaka malamu elongo na [batoli na biso mpo na masolo na bokono ya kobungisa makanisi](/caregiving/communication-tips/). Misala oyo esalemi na bilili ekitisaka mpe mokumba ya koyoka. [Picture Pairs](/games/picture-pairs/) mpe [Conversation Cards](/games/conversation-cards/) esalaka na oyo ozali komona, mpe [Finish the Saying](/games/finish-the-saying/) epesi nzela ya kolakisa suka na esika ya koloba yango. Mpo na babengi, tala lisungi na biso mpo na [babengi na telefone mpe na video](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Komona ezali mpe na ntina
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Na 2024 Komisi ya Lancet ebakisaki koyoka mabe ya miso oyo esalemi te lokola likama ya sika. Lisungi ya UCL etii yango na soki 2% ya makambo ya bokono ya kobungisa makanisi, mpe Komisi etoli kopesa nzela na bomeki mpe lisalisi mpo na mikakatano ya miso epai ya bato nyonso. [NIA etoli](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) kosala ekzamen ya miso na kongengisa miso mbala moko na mobu to mbala mibale sima ya mbula 60, mpe kotala lisusu mibeko ya maneti ya miso. Ata mbongwana ya moke na komona ekoki kobakisa likama ya kokweya.
 
-## Talk with a doctor
+## Solola na monganga
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Tuna monganga mpo na bomeki ya koyoka mpe ya miso soki omoni bilembo oyo elobelami awa likolo. Luka lisalisi ya lombangu mpo na koyoka mabe ya mbalakaka, mpasi na litoyi, to mai kobima na litoyi. Soki ozali kobatela moto oyo azali kobika na bokono ya kobungisa makanisi, yebisa monganga na ye mbongwana na koyoka to na komona, mpo ekoki kobongola makanisi, libateli mpe ndenge moto akoki kosangana.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Lokasa oyo ezali sango ya mobimba, ezali toli ya monganga te. Tala [boyebisi na biso ya bokolongono](/medical-disclaimer/). Tanga lisusu mpo na [boyokani na bato mpe bokolongono ya bwango](/brain-health/social-connection/).

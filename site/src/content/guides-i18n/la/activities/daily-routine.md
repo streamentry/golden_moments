@@ -78,7 +78,7 @@ Hoc exemplum formam sequitur ipsius exempli ab Alzheimer's Association pro stadi
 Incipite ab eo modo quo homo semper vixit, non a tabula. Alzheimer's Association suadet ut haec ante ordinandum cogitetis:
 
 - **Quae ei placeant, quae displiceant, quae vires et studia habeat.**
-- **Quomodo diem olim agere solebat.** Qui mane semper surgebat et cum cane ambulabat, etiam nunc mane ambulare debet. Qui sero vigilare solebat, fortasse initium hora 8:00 a.m. numquam iucundum inveniet.
+- **Quomodo diem olim agere solebat.** Qui mane semper surgebat et cum cane ambulabat, etiam nunc mane ambulare debet. Qui sero vigilare solebat, fortasse initium hora 8 a.m. numquam iucundum inveniet.
 - **Quo tempore diei optime se habeat.** Lavationem, exitus et actionem praecipuam eo tempore ponite.
 - **Satis temporis** ad cibos, lavationem et vestitum, ut nihil festinetur.
 - **Stabilia tempora expergiscendi et cubitum eundi.**

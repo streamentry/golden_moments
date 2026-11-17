@@ -1,36 +1,37 @@
 ---
-title: "När någon med demens hela tiden vill hem"
-seoTitle: "Demens och vill hem hela tiden: vad du kan säga"
-description: "Varför en person med demens vill hem även när hen är hemma, vad du kan säga, lugnande aktiviteter att prova och hur ni håller hen trygg om hen försöker gå."
+title: "När någon med demens vill gå hem"
+seoTitle: "När någon med demens vill gå hem: vad du kan säga"
+description: "Varför en person som lever med demens vill gå hem även när hen är hemma, vad du kan säga, lugnande aktiviteter och hur du kan öka tryggheten."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  När någon med demens hela tiden vill hem betyder ”hem” ofta en känsla av
-  trygghet eller en plats från det förflutna, inte en byggnad. Argumentera inte
-  för att hen är hemma. Bekräfta känslan, säg att hen är trygg, fråga om hemmet
-  och gå sedan försiktigt över till foton, musik, något att äta, en promenad eller
-  en enkel uppgift. Kontrollera om hen är hungrig, törstig, behöver toaletten
-  eller har ont. Om det börjar plötsligt, ring hens läkare.
+  När någon med demens ofta säger att hen vill gå hem betyder ”hem” ofta en
+  känsla av trygghet eller en plats från förr, inte en byggnad. Bråka inte om
+  att hen redan är hemma. Bekräfta känslan, lugna personen med att hen är
+  trygg, fråga om hemmet och gå sedan varsamt vidare till foton, musik, något
+  att äta eller dricka, en promenad eller en enkel syssla. Kontrollera om hen
+  är hungrig, törstig, behöver gå på toaletten eller har ont. Om det börjar
+  plötsligt, kontakta hens läkare.
 keyPoints:
-  - "”Jag vill hem” betyder ofta ”jag känner mig inte trygg eller lugn”, inte en begäran om en adress."
-  - "Att argumentera eller bevisa att hen är hemma brukar göra oron värre. Svara på känslan i stället."
-  - "Be hen berätta om hemmet och erbjud sedan foton, musik, något att äta, en promenad eller en enkel uppgift."
-  - "Leta efter något som går att åtgärda: hunger, törst, toaletten, smärta, att det är för varmt eller kallt, oväsen, trötthet."
-  - "Om det händer varje eftermiddag kan det vara sundowning. En stabil rutin och bra ljus kan hjälpa."
-  - "Planera för säkerheten om hen försöker gå, och ring läkaren vid en plötslig förändring."
+  - "”Jag vill hem” betyder ofta ”Jag känner mig inte trygg eller lugn”, inte en begäran om en adress."
+  - "Att argumentera eller bevisa att personen är hemma gör oftast oron värre. Svara på känslan i stället."
+  - "Be personen berätta om sitt hem och föreslå sedan foton, musik, något att äta eller dricka, en promenad eller en enkel syssla."
+  - "Se om det finns något du kan åtgärda: hunger, törst, toalettbehov, smärta, för varmt eller kallt, ljud, trötthet."
+  - "Om det händer varje sen eftermiddag kan det handla om kvällsoro; en stadig rutin och bra ljus kan hjälpa."
+  - "Planera för trygghet om personen försöker ge sig av, och kontakta hens läkare vid en plötslig förändring."
 faq:
-  - q: "Varför vill min mamma med demens hela tiden hem när hon redan är hemma?"
-    a: "Demens kan göra bekanta rum främmande, och personer känner ibland att de befinner sig i en tidigare period av livet. ”Hem” kan betyda barndomens hus eller bara känslan av att vara trygg och bekväm. Att svara på känslan fungerar oftast bättre än att påpeka var hon är."
-  - q: "Vad ska jag säga när hen vill hem?"
-    a: "Prova ”Du är trygg här, och jag stannar hos dig”, och sedan ”Berätta om ditt hem.” Lyssna, visa ett foto eller spela en sång, och erbjud något att dricka eller en kort promenad. Undvik ”Du är hemma” sagt som en rättelse, eftersom det kan kännas som att hen har fel."
-  - q: "Är det okej att säga att vi åker hem senare?"
-    a: "Anhöriga och demensorganisationer tycker olika om detta. Många börjar med en ärlig tröst och att leda om uppmärksamheten, och sparar en mild osanning till stunder då sanningen bara skulle orsaka oro som personen inte kan bearbeta. Oavsett vad du väljer, var vänlig och konsekvent, och förlöjliga aldrig hens verklighetsuppfattning."
-  - q: "Vad gör jag om hen försöker gå ut ur huset?"
-    a: "Behåll lugnet och gå med hen i stället för att blockera vägen. En kort promenad brukar ofta lugna impulsen. Förbered säkerhetsåtgärder i förväg, till exempel ett id-armband, dörrklockor och ett nytt foto. Om hen försvinner, börja leta direkt, och ring 911 om ni inte har hittat hen inom 15 minuter. Säg då att personen har demens."
-  - q: "När ska jag ringa läkare?"
-    a: "Ring hens läkare utan dröjsmål om frågandet eller förvirringen börjar plötsligt eller blir mycket värre under timmar eller dagar, särskilt med feber, ett nytt läkemedel eller tecken på urinvägsinfektion. Plötslig förvirring kan vara delirium, som kräver akut vård. Ring 911 om någon är i fara."
+  - q: "Varför vill min mamma med demens hela tiden gå hem när hon är hemma?"
+    a: "Demens kan göra att välkända rum känns främmande, och ibland kan en person känna att hen befinner sig i en tidigare tid i livet. ”Hem” kan betyda ett barndomshem eller helt enkelt känslan av att vara trygg och ha det bra. Det brukar fungera bättre att svara på den känslan än att påpeka var hon är."
+  - q: "Vad ska jag säga när personen vill gå hem?"
+    a: "Prova att säga: ”Du är trygg här, och jag stannar hos dig”, och sedan: ”Berätta om ditt hem.” Lyssna, titta på ett foto eller lyssna på en sång tillsammans, och erbjud något att dricka eller en kort promenad. Undvik att säga ”Du är hemma” som en rättelse, eftersom det kan kännas som att personen får höra att hen har fel."
+  - q: "Är det okej att säga att vi ska åka hem senare?"
+    a: "Familjer och demensorganisationer ser olika på detta. Många börjar med ärlig trygghet och att leda in samtalet på något annat, och använder en mild osanning bara i stunder när sanningen bara skulle orsaka oro som personen inte kan hantera. Oavsett vad du väljer, var vänlig och konsekvent, och håna aldrig personens upplevelse av verkligheten."
+  - q: "Vad gör jag om personen försöker lämna hemmet?"
+    a: "Försök att vara lugn och följ med personen i stället för att hindra hen; en kort promenad kan ofta dämpa viljan att ge sig av. Vidta trygghetsåtgärder i förväg, till exempel ett id-armband, dörrlarm och ett nytaget foto. Om personen försvinner, sök på närliggande trygga platser samtidigt som du snabbt kontaktar lokal polis eller räddningstjänst. Vänta inte ett visst antal minuter innan du anmäler."
+  - q: "När ska jag kontakta en läkare?"
+    a: "Kontakta hens läkare snabbt om viljan att gå hem eller förvirringen börjar plötsligt eller blir mycket värre under några timmar eller dagar, särskilt om det kommer tillsammans med feber, en ny medicin eller tecken på urinvägsinfektion. Plötslig förvirring kan vara delirium, som behöver snabb vård. Ring 112 om någon är i fara."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-”Jag vill hem.” För många familjer är detta en av de svåraste sakerna att höra, särskilt när personen du tar hand om sitter i sitt eget vardagsrum. Det är vanligt, det kan hända i vilket skede av demens som helst, och det finns lugna och praktiska sätt att svara. Den här sidan förklarar vad orden ofta betyder, vad du kan säga, aktiviteter som kan hjälpa just då, och hur ni håller er trygga.
+”Jag vill hem.” För många anhöriga är detta ett av de svåraste sakerna att höra, särskilt när personen du vårdar sitter i sitt eget vardagsrum. Det är vanligt, det kan hända i alla stadier av demens, och det finns lugna och praktiska sätt att svara. Den här sidan handlar om vad orden ofta betyder, vad du kan säga, aktiviteter som kan hjälpa i stunden och hur du kan öka tryggheten.
 
-## Varför vill någon med demens hela tiden hem?
+## Varför vill någon med demens fortsätta säga att hen vill hem?
 
-Oftast är ”hem” mer en känsla än en plats. Alzheimer’s Society beskriver det som en känsla av trygghet och säkerhet, eller ett hem från det förflutna, snarare än själva huset. Demens kan göra bekanta rum främmande, och en person kan känna att hen lever i en tidigare period av livet, när hemmet var barndomshemmet eller platsen där hen fostrade sina barn.
+Oftast är ”hem” mer en känsla än en plats. Alzheimer's Society beskriver det som en känsla av trygghet och säkerhet, eller ett hem från förr, snarare än själva huset. Demens kan göra att välkända rum ser främmande ut, och personen kan känna att hen lever i en tidigare tid i livet, när hemmet var ett barndomshem eller platsen där hen uppfostrade sina barn.
 
-Orden kan också vara ett tecken på att något annat är fel just nu: hen är hungrig, törstig, behöver toaletten, har ont, är för varm eller kall, trött, ensam, rädd eller överväldigad av oväsen. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) räknar upp smärta, oväsen, ensamhet, förändringar i rutinen och läkemedel bland orsakerna till oro.
+Orden kan också vara ett tecken på att något annat inte är bra just nu: personen är hungrig, törstig, behöver gå på toaletten, har ont, är för varm eller kall, trött, ensam, rädd eller överväldigad av ljud. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) nämner smärta, ljud, ensamhet, förändringar i rutiner och läkemedel bland orsakerna till oro.
 
-## Vad ska jag säga när hen vill hem?
+## Vad ska jag säga när personen vill gå hem?
 
-Svara på känslan, inte på orden. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) avråder från att försöka övertyga personen om att hen har fel: känslorna är verkliga, så svara först med tröst och trygghet, och led sedan försiktigt över till något annat.
+Svara på känslan, inte på orden. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) råder från att försöka övertyga personen om att hen har fel: känslorna är verkliga, så svara först med tröst och trygghet och led sedan varsamt in samtalet på något annat.
 
 Fraser som ofta hjälper:
 
-- **Namnge känslan.** ”Det låter som om du saknar ditt hem.”
-- **Ge trygghet.** ”Du är trygg här, och jag stannar hos dig.” [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) föreslår de enkla orden ”Du är trygg här.”
-- **Bjud in till minnen.** ”Berätta om ditt hem. Hur såg köket ut?” Att fråga om det avlägsna förflutna är oftast mer bekvämt än frågor om idag.
-- **Gör något tillsammans.** ”Låt oss först dricka en kopp te”, eller ”Kan du hjälpa mig med de här handdukarna?”
+- **Sätt ord på känslan.** ”Det låter som att du längtar hem.”
+- **Trygga.** ”Du är trygg här, och jag stannar hos dig.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) föreslår de enkla orden ”You're safe here.” på engelska, som motsvarar ”Du är trygg här”.
+- **Bjud in till minnen.** ”Berätta om ditt hem. Hur såg ditt kök ut?” Frågor om det som ligger långt tillbaka i tiden brukar kännas lättare än frågor om i dag.
+- **Föreslå något att göra tillsammans.** ”Ska vi ta en kopp te först?” eller ”Kan du hjälpa mig med de här handdukarna?”
 
-En varm ton och en hand på armen, om hen gillar beröring, kan säga mer än orden.
+En varm ton och en hand på armen, om personen tycker om beröring, kan säga mer än orden.
 
 ## Vad bör jag undvika?
 
-- **Att argumentera eller förklara.** ”Du bor här nu” eller ”Det här har varit ditt hem i 40 år” ber hen acceptera något som demens gör svårt att acceptera, och det kan kännas som att hen blir tillrättavisad.
-- **Att förhöra.** ”Kommer du inte ihåg?” eller ”Vad är adressen?” ökar pressen.
-- **Att blockera dörren i ilska.** Om hen vill ut, behåll lugnet och gå med hen. En kort promenad tillsammans brukar ofta lugna impulsen.
-- **Att skynda på.** Ge hen tid att prata om hemmet innan du byter ämne.
+- **Att argumentera eller förklara.** ”Du bor här nu” eller ”Det här har varit ditt hem i fyrtio år” ber personen att acceptera något som demensen kan göra svårt att acceptera, och det kan kännas som att bli tillsagd att man har fel.
+- **Att förhöra.** ”Minns du inte?” eller ”Vad är adressen?” skapar press.
+- **Att blockera dörren i ilska.** Om personen går mot utgången, försök att vara lugn och följ med. En kort promenad tillsammans dämpar ofta viljan att gå.
+- **Att stressa.** Ge personen tid att prata om hemmet innan du byter ämne.
 
-## Aktiviteter som kan hjälpa just då
+## Aktiviteter som kan hjälpa i stunden
 
-När du har bekräftat känslan kan en lugn, bekant aktivitet flytta uppmärksamheten utan att avfärda den.
+När du har bekräftat känslan kan en lugn och välbekant aktivitet flytta uppmärksamheten utan att avfärda det personen känner.
 
-1. **Titta på bilder av hemmet och familjen.** Bläddra och kommentera (”Titta på den trädgården”) i stället för att ställa frågor. På en telefon eller surfplatta gör [Fotopar](/games/photo-pairs/) av era egna familjefoton ett lugnt memoryspel, och fotona stannar på din enhet.
-2. **Prata om hemmet.** [Samtalskort](/games/conversation-cards/) ger öppna frågor om hus, kök, grannar och högtider, utan några rätt eller fel svar.
-3. **Spela musik hen gillar.** National Institute on Aging nämner lugnande musik bland sätten att lugna oro. Se våra [musikaktiviteter](/activities/music/).
-4. **Ät något eller ta en dryck.** Hunger och törst kan se ut som rastlöshet. En kopp te eller en favoritgodis är också en liten ritual av att vara hemma.
-5. **Gå en promenad eller sitt ute.** Rörelse och dagsljus hjälper, särskilt tidigt på dagen.
-6. **Ge en bekant uppgift.** Att vika tvätt, sortera bestick eller vattna växter kan väcka känslan av att driva ett hem.
-7. **Sakta ner allt.** Stäng av TV:n, minska oväsen och bländning, och prova en gemensam [lugn andning](/games/calm-breathing/) som paus.
+1. **Titta på foton av hemmet och familjen.** Bläddra och kommentera (”Titta på den trädgården”) i stället för att ställa frågor. På en telefon eller surfplatta kan [Photo pairs](/games/photo-pairs/) göra dina egna familjefoton till ett lugnt matchningsspel, och fotona stannar på din enhet.
+2. **Prata om hemmet.** [Conversation cards](/games/conversation-cards/) ger öppna samtalsämnen om hus, kök, grannar och högtider, utan rätta svar.
+3. **Spela musik som personen tycker om.** National Institute on Aging nämner lugnande musik som ett sätt att dämpa oro. Se våra [musikaktiviteter](/activities/music/).
+4. **Bjud på något att äta eller dricka.** Hunger och törst kan se ut som rastlöshet. En kopp te eller något gott är också en liten ritual av att vara hemma.
+5. **Ta en promenad eller sitt utomhus.** Rörelse och dagsljus hjälper, särskilt tidigare på dagen.
+6. **Ge en välbekant syssla.** Att vika tvätt, sortera bestick eller vattna blommor kan väcka tillbaka känslan av att sköta ett hem.
+7. **Sakta ner allt.** Stäng av tv:n, minska ljud och starkt ljus, och prova en gemensam paus med [calm breathing](/games/calm-breathing/).
 
-Om en idé inte fungerar, prova en annan senare. Att sitta tyst tillsammans är också ett bra resultat.
+Om en idé inte fungerar, prova en annan senare. Att sitta lugnt tillsammans är också ett bra resultat.
 
-## Kontrollera en orsak du kan åtgärda
+## Se om det finns en orsak du kan åtgärda
 
-| Kontrollera | Vad du kan prova |
+| Kontrollera | Vad du kan göra |
 | --- | --- |
-| Hungrig eller törstig | Erbjud en dryck och ett litet mellanmål |
-| Behöver toaletten | Erbjud ett toalettbesök, lugnt och utan krångel |
-| Smärta eller obehag | Leta efter tecken som att hen grimaserar, håller i en kroppsdel eller har förstoppning, och berätta för läkaren |
-| För varm eller för kall | Justera ett lager kläder eller rumstemperaturen |
-| Oväsen eller trängsel | Flytta till ett lugnare rum, stäng av TV:n |
-| Trött eller överstimulerad | Vila, dämpa ljuset, spela mjuk musik |
-| Sen eftermiddag | Se avsnittet om sundowning nedan |
+| Hunger eller törst | Erbjud något att dricka och ett litet mellanmål |
+| Toalettbehov | Erbjud ett toalettbesök, lugnt och utan krångel |
+| Smärta eller obehag | Leta efter tecken som en grimas, att personen håller om en kroppsdel eller förstoppning, och berätta för hens läkare |
+| För varmt eller för kallt | Justera ett plagg eller temperaturen i rummet |
+| Ljud eller mycket folk | Gå till ett lugnare rum, stäng av tv:n |
+| Trött eller overstimulerad | Vila, dämpa belysningen, spela lugn musik |
+| Sen eftermiddag | Se avsnittet om kvällsoro nedan |
 
-Alzheimer’s Society föreslår att du för en kort logg över när frågandet sker, till exempel före måltider, efter besök eller i skymningen. Mönster gör det lättare att planera i förväg.
+Alzheimer's Society föreslår att du gör korta anteckningar om när personen vill gå hem, till exempel före måltider, efter besök eller i skymningen. Mönster gör det lättare att planera i förväg.
 
 ## Är det okej att säga en vit lögn?
 
-Det här är en verklig diskussion, och omtänksamma familjer landar på olika ställen. Alzheimer’s Society säger att det inte finns något enda rätt svar: osanningar kan göra vissa personer mer misstänksamma, så avgör vad som är bäst för personen och var konsekvent. Vid Penn Memory Center är medordföranden ståndpunkten att sanningen är utgångspunkten och att en mild osanning bara är acceptabel när personen inte kan bearbeta en viss sanning, och att du aldrig ska förlöjliga hens verklighet.
+Det här är en verklig fråga där omtänksamma familjer gör olika. Alzheimer's Society säger att det inte finns ett enda rätt svar: osanningar kan göra vissa personer mer misstänksamma, så avgör vad som är bäst för personen och var konsekvent. På Penn Memory Center är meddirektörens syn att sanningen är utgångspunkten och att en mild osanning bara är acceptabel när personen inte kan ta till sig en viss sanning, och att du aldrig ska håna personens upplevelse av verkligheten.
 
-Många anhöriga tycker att en mellanväg fungerar: först ärlig tröst och att leda om uppmärksamheten (”Vi stannar här ikväll, och jag är här hos dig”), utan att argumentera om var hemmet ligger.
+Många som ger omsorg upplever att en medelväg fungerar: ärlig trygghet och att leda in samtalet på något annat först (”Vi stannar här i kväll, och jag är här hos dig”), utan att bråka om var hemmet är.
 
 ## Vad gör jag om det händer varje eftermiddag eller kväll?
 
-Rastlöshet som börjar eller blir värre på sen eftermiddag kallas ofta sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) föreslår ett stabilt schema, dagsljus och aktivitet, färre sena tupplurar och inget koffein eller alkohol sent på dagen. Att tända lamporna innan skymningen kan också hjälpa. Vår guide om [lugna aktiviteter under sen eftermiddag](/caregiving/late-day-restlessness/) har mer information.
+Oro som börjar eller blir värre på sen eftermiddag kallas ofta kvällsoro (sundowning). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) föreslår ett stadigt schema, dagsljus och aktivitet varje dag, färre tupplurar sent på dagen och inget koffein eller alkohol sent på dagen. Att tända lampor innan skymningen kan också hjälpa. Vår guide om [lugna aktiviteter på sen eftermiddag](/caregiving/late-day-restlessness/) har mer information.
 
-## Att hålla hen trygg om hen försöker gå
+## Trygghet om personen försöker ge sig av
 
-Att vilja hem kan leda till att hen vandrar iväg. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) uppskattar att sex av tio personer med demens kommer att vandra iväg minst en gång.
+Att vilja gå hem kan leda till att personen går iväg. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) uppskattar att sex av tio personer som lever med demens någon gång kommer att gå iväg.
 
 **Förbered i förväg:**
 
-- Ett id- eller medicinskt armband med hens namn och ditt telefonnummer, samt märkta kläder. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) nämner MedicAlert och Alzheimer’s Associations program Safe and Found, som kan kosta pengar.
-- En dörrklocka eller ett larm, och lås placerade högt eller lågt. Lås aldrig in personen ensam.
-- Ett nytt närbild-foto, och en lista över platser hen kan tänkas gå till, till exempel ett tidigare hem eller en tidigare arbetsplats.
-- Berätta för betrodda grannar, och ge dem ditt nummer.
+- Ett id-armband eller medicinskt armband med personens namn och ditt telefonnummer, och märkningar i kläderna. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) nämner programmen MedicAlert och Alzheimer's Association Safe and Found, som kan kosta pengar.
+- En dörrklocka eller ett dörrlarm, och lås placerade högt upp eller lågt ner. Lås aldrig in personen ensam.
+- Ett nytaget foto i närbild och en lista över platser dit personen kan tänkas gå, till exempel ett tidigare hem eller en tidigare arbetsplats.
+- Berätta för grannar du litar på och ge dem ditt telefonnummer.
 
-**Om hen försvinner:** börja leta direkt. Alzheimer’s Association påpekar att många hittas inom 1,5 miles. Om ni inte har hittat hen inom 15 minuter, ring 911 och säg att personen har demens. Ring 911 omedelbart om någon är i fara.
+**Om personen försvinner:** sök på närliggande trygga platser samtidigt som du snabbt kontaktar lokal polis eller räddningstjänst. Vänta inte ett visst antal minuter innan du anmäler. En [artikel från U.S. Department of Justice från 2021 om utredningar av försvunna personer](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) säger att brottsbekämpande myndigheter inte ska kräva en fast väntetid; den nämner också demensliknande symtom som en orsak till hög risk. Lokala rutiner för anmälan kan variera. Berätta för insatspersonalen att personen har demens, dela den senast kända platsen och ett nytaget foto, och följ deras anvisningar. Om någon annan kan hjälpa till, be den personen stanna vid telefonen. Sök inte på egen hand på platser som inte är säkra.
 
-## När ska jag ringa läkare?
+## När ska jag kontakta en läkare?
 
-Ring hens läkare utan dröjsmål om frågandet eller förvirringen börjar plötsligt, eller blir mycket värre under timmar eller dagar. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) säger att plötsligt eller snabbt föränderligt beteende, särskilt efter en infektion eller en ändring av läkemedel, bör kontrolleras direkt. Plötslig förvirring kan vara delirium, vilket [NHS](https://www.nhs.uk/symptoms/confusion/) säger kräver akut hjälp. Urinvägsinfektioner är en vanlig orsak hos äldre.
+Kontakta hens läkare snabbt om viljan att gå hem eller förvirringen börjar plötsligt eller blir mycket värre under några timmar eller dagar. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) säger att plötsliga eller snabbt förändrade beteenden, särskilt efter en infektion eller en ändring av läkemedel, bör kontrolleras direkt. Plötslig förvirring kan vara delirium, som enligt [NHS](https://www.nhs.uk/symptoms/confusion/) behöver snabb hjälp; urinvägsinfektioner är en vanlig orsak hos äldre.
 
-Det är också bra att nämna ett stadigt mönster vid nästa besök, eftersom smärta, nedstämdhet, sömnproblem eller biverkningar av läkemedel kan spela roll.
+Det kan också vara bra att nämna ett återkommande mönster vid nästa läkarbesök, eftersom smärta, nedstämdhet, sömnproblem eller biverkningar av läkemedel kan spela en roll.

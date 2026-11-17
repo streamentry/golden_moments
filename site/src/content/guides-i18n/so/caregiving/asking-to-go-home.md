@@ -1,36 +1,36 @@
 ---
-title: "Marka Qof Qaba Dementia Uu Joogto Weydiisto Inuu Gurigiisa Aado"
-seoTitle: "Dementia: Joogto Inuu Guriga Aado Weydiisto, Maxaa La Yiraahdaa"
-description: "Sababta qof ku nool dementia u weydiisto inuu guriga aado xitaa marka uu guriga ku jiro, maxaa la yiraahdaa, waxqabadyo deggan, iyo sida loo ilaaliyo haddii uu baxo."
+title: "Marka qof waallida la nool uu mar walba guriga doonayo"
+seoTitle: "Waallida: Marka la doonayo guriga, waxa la yiraahdo"
+description: "Sababta qofka waallida la nool u doonayo guriga xitaa markuu guriga joogo, waxa la yiraahdo, hawlo dejin ah, iyo sida loo ilaaliyo badbaadadiisa."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Marka qof qaba dementia uu joogto weydiisto inuu guriga aado, “guriga” inta
-  badan waxaa loola jeedaa dareenka badbaadada ama meel waayihii hore ka mid ah,
-  ma aha dhis. Ha dood ka bixin inuu guriga yahay. Aqoonso dareenka, u xaqiiji
-  inuu ammaan yahay, weydii guriga, kadibna si jilicsan ugu leexi sawirro,
-  muusik, cunto yar, socod ama hawl fudud. Hubi gaajada, harraadka, musqusha
-  ama xanuunka. Haddii ay si kedis ah u bilaabato, wac dhakhtarkooda.
+  Marka qof waallida la nool uu mar walba doonayo inuu guriga aado, “guriga”
+  badanaa wuxuu ka dhigan yahay dareen ammaan ama meel waqti hore ah, ee ma aha
+  dhismo. Ha ku doodin inuu guriga joogo. Aqbal dareenka, u xaqiiji inuu
+  badbaado yahay, ka weydii guriga, dabadeed si tartiib ah ugu gudbi sawirro,
+  muusig, cunto fudud, socod ama hawl fudud. Hubi gaajo, haraad, musqusha ama
+  xanuun. Haddii ay si kedis ah u bilaabato, wac dhakhtarkiisa.
 keyPoints:
-  - "“Waxaan rabaa inaan guriga aado” inta badan waxay la macno tahay “ma dareemo ammaan ama degganaan,” ma aha codsi ciwaan."
-  - "Doodista ama caddaynta inuu guriga yahay inta badan waxay sii xumeysaa dhibaatada. U jawaab dareenka halkii aad ka jawaabi lahayd erayada."
-  - "U sheeg inuu kaa sheego guriga, kadibna soo jeedi sawirro, muusik, cunto yar, socod ama hawl fudud."
-  - "Hubi sabab la hagaajin karo: gaajo, harraad, musqusha, xanuun, kulayl ama qabow xad dhaaf ah, buuq, daal."
-  - "Haddii ay maalin kasta dhacdo galabta dambe, waxay noqon kartaa sundowning; nidaam joogto ah iyo iftiin wanaagsan ayaa caawin kara."
-  - "U qorshee badbaadada haddii uu isku dayo inuu baxo, oo wac dhakhtarka isbeddel kasta oo kedis ah."
+  - "“Waxaan rabaa inaan guriga aado” badanaa waxay ka dhigan tahay “Ma dareemayo ammaan ama xasillooni,” ee ma aha codsi cinwaan."
+  - "Doodda ama caddaynta inuu guriga joogo badanaa waxay sii xumaysaa murugada. U jawaab dareenka."
+  - "Weydii inuu kaaga sheekeeyo guriga, dabadeed u soo bandhig sawirro, muusig, cunto fudud, socod ama hawl fudud."
+  - "Hubi wax la hagaajin karo: gaajo, haraad, musqusha, xanuun, kulayl ama qabow badan, buuq, daal."
+  - "Haddii ay dhacdo galab kasta oo dambe, waxay noqon kartaa kacsanaanta galab dambe; jadwal joogto ah iyo iftiin fiican ayaa caawin kara."
+  - "U qorshee badbaadada haddii uu isku dayo inuu baxo, oo wac dhakhtarkiisa haddii ay jirto isbeddel kedis ah."
 faq:
-  - q: "Maxay hooyaday qabta dementia u weydiisaa inay guriga aado markay guriga joogto?"
-    a: "Dementia waxay qolalka la yaqaan ka dhigi kartaa kuwo shisheeye, dadkuna mararka qaar waxay dareemaan inay ku jiraan waqti hore oo nolosha ah. “Guriga” wuxuu noqon karaa gurigii yaraanta ama si fudud dareenka ah in la ammaan yahay oo raaxo la leeyahay. Jawaabidda dareenkaas inta badan waxay ka shaqaysaa si ka wanaagsan sheegidda halka uu joogo."
-  - q: "Maxaan yiraahdaa marka ay weydiistaan inay guriga aadaan?"
-    a: "Isku day “Halkan waad ammaan tahay, waanan kula joogaa,” kadibna “Ii sheeg gurigaaga.” Dhegayso, wadaag sawir ama heeso, oo soo jeedi biyo ama socod gaaban. Ka fogow “Waad guriga joogtaa” oo sidii sax-saxid loo yiraahdo, taas oo dareemi karta inuu qaldan yahay."
-  - q: "Ma ku habboon tahay in la yiraahdo dambe ayaan guriga aadaynaa?"
-    a: "Qoysaska iyo ururada dementia way ku kala duwan yihiin tan. Badan waxay ku bilaabaan xasillooni daacad ah iyo mid u leexin, oo ka dhigaan been jilicsan wakhtiyada ay runtu keeni lahayd dhibaato qofku ka gudbi karin. Wixii aad doorato, naxariis iyo joogto ahaw, oo weligaa ha ku jees-jeesin xaqiiqadooda."
-  - q: "Maxaa dhacaya haddii ay isku dayaan inay guriga ka baxaan?"
-    a: "Degganow oo la socod halkii aad ka joojin lahayd; socod gaaban inta badan wuxuu deminayaa rabitaanka. Hore u qaado tallaabooyin badbaado, sida calaamad aqoonsi oo gacanta lagu xidho, qalab dhawaaqa albaabka (door chime) iyo sawir cusub. Haddii ay lumaan, isla markiiba bilow raadinta, oo haddii aadan heli karin 15 daqiiqo gudahood, wac lambarka gurmadka degdegga ah ee gobolkaaga adigoo sheegaya in qofku qabo dementia."
+  - q: "Maxaa hooyaday oo waallida la nool ay mar walba u doonaysaa guriga iyadoo guriga joogta?"
+    a: "Waallidu waxay ka dhigi kartaa qolal la yaqaan inay u ekaadaan kuwo qariib ah, mararka qaarkoodna dadku waxay dareemaan inay ku jiraan waqti hore oo noloshooda ah. “Guriga” waxaa laga yaabaa inuu ka dhigan yahay guri caruurnimo ama si fudud dareenka badbaadada iyo raaxada. Ka jawaabista dareenkaas badanaa way ka shaqaysaa fiican tahay tilmaamida meesha ay joogto."
+  - q: "Maxaan dhahaa marka ay doonayaan inay guriga aadaan?"
+    a: "Isku day inaad tiraahdo “Halkan waad ku badbaadsan tahay, aniguna waan kula joogayaa,” dabadeed “Iiga warran gurigaaga.” Dhageyso, la wadaag sawir ama hees, oo u soo bandhig cabitaan ama socod gaaban. Ka fogow inaad tiraahdo “Waad joogtaa gurigaaga” si aad u saxdo, taas oo ka dhigi karta inay dareemaan in qalad lagu sheegay."
+  - q: "Ma hagaag baa in la yiraahdo mar dambe ayaan guriga aadeynaa?"
+    a: "Qoysaska iyo ururrada waallida way ku kala duwan yihiin arrintan. Qaar badan waxay ku bilaabaan raaxo daacad ah iyo leexin tartiib ah, waxayna been yar oo naxariis leh u adeegsadaan kaliya marka runta ay kaliya keenayso murugo qofku uusan ka gudbi karin. Wax kasta oo aad doorato, noqo naxariis leh oo joogto ah, hana kaftamin sida ay xaqiiqada u dareemayaan."
+  - q: "Maxaa la sameeyaa haddii ay isku dayaan inay guriga ka baxaan?"
+    a: "Isdeji oo la soco halkii aad ka hor istaagi lahayd; socod gaaban ayaa badanaa dejin kara rabitaankaas. Hore u samee tallaabooyin badbaado, sida jijin aqoonsi, gambaleel albaabka ah iyo sawir dhowaan la qaaday. Haddii qofku maqan yahay, hubi meelaha badbaadada leh ee dhow adigoo si degdeg ah ula xiriiraya booliska deegaanka ama adeegyada gurmadka degdegga ah. Ha sugin tiro daqiiqado ah oo go’an ka hor intaadan wargelin."
   - q: "Goorma ayaan wacaa dhakhtar?"
-    a: "Dhakhtarkooda dhaqso u wac haddii weydiisashadu ama jahwareerku si kedis ah u bilaabmo ama aad ugu sii xumaado saacado ama maalmo gudahood, gaar ahaan haddii la socdo qandho, daawo cusub ama calaamadaha caabuqa kaadi mareenka. Jahwareerka kedis ahi wuxuu noqon karaa delirium, kaas oo u baahan daryeel degdeg ah. Wac lambarka gurmadka degdegga ah ee gobolkaaga haddii qof khatar ku jiro."
+    a: "Si degdeg ah u wac dhakhtarkooda haddii weydiinta ama wareerku si kedis ah u bilaabmaan ama ay aad uga sii daraan saacado ama maalmo gudahood, gaar ahaan haddii ay jiraan qandho, daawo cusub ama calaamado caabuq kaadi-mareenka ah. Wareer degdeg ah wuxuu noqon karaa delirium, kaas oo u baahan daryeel degdeg ah. Wac 911 haddii qof khatar ku jiro."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +50,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +70,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-“Waxaan rabaa inaan guriga aado.” Qoysas badan, tani waa mid ka mid ah waxyaabaha ugu adag ee la maqlo, gaar ahaan marka qofka aad daryeesho uu ku fadhiyo qolkiisa fadhiga. Waa wax caadi ah, waxay dhici kartaa marxalad kasta oo dementia ah, waxaana jira siyaabo deggan oo wax ku ool ah oo looga jawaabo. Boggan wuxuu ka hadlayaa waxa erayadan inta badan macnahoodu yahay, maxaa la yiraahdaa, waxqabadyada ka caawin kara daqiiqaddaas, iyo sida loo badbaado.
+“Waxaan rabaa inaan guriga aado.” Qoysas badan, tani waa mid ka mid ah waxyaabaha ugu adag ee la maqlo, gaar ahaan marka qofka aad daryeesho uu ku fadhiyo qolkiisa fadhiga. Waa wax caadi ah, waxay dhici kartaa marxalad kasta oo waallida ah, waxaana jira siyaabo deggan oo wax ku ool ah oo looga jawaabi karo. Boggan wuxuu sharxayaa waxa erayadu badanaa ka dhigan yihiin, waxa la yiraahdo, hawlo caawin kara wakhtigaas, iyo sida loo ilaaliyo badbaadada.
 
-## Maxaa qof qaba dementia u joogto weydiistaa inuu guriga aado?
+## Maxaa qofka waallida la nool mar walba u doonayaa guriga?
 
-Caadi ahaan, “guriga” waa dareen ka badan meel. Alzheimer’s Society waxay u sharraxdaa dareen raaxo iyo amni, ama guri waayihii hore ka mid ah, halkii ay ka ahaan lahayd gurigii laftiisa. Dementia waxay qolalka la yaqaan ka dhigi kartaa kuwo ajaanib ah, qofkuna wuxuu dareemi karaa inuu ku nool yahay wakhti hore oo nolosha ka mid ah, marka guriga uu ahaa gurigii yaraanta ama meeshii uu ku koriyay carruurtiisa.
+Badanaa, “guriga” waa dareen ka badan meel. Alzheimer's Society waxay ku tilmaantaa dareen raaxo iyo ammaan, ama guri waqti hore ahaa, halkii ay ka ahaan lahayd guriga laftiisa. Waallidu waxay ka dhigi kartaa qolal la yaqaan inay u ekaadaan kuwo qariib ah, qofkuna wuxuu dareemi karaa inuu ku nool yahay waqti hore oo noloshiisa ah, marka gurigu ahaa guri caruurnimo ama meesha uu carruurtiisa ku koriyey.
 
-Erayadu waxay sidoo kale calaamad u noqon karaan in wax kale hadda khaldan yahay: wuu gaajo, wuu harraad qabaa, wuxuu u baahan yahay musqusha, wuu xanuunsan yahay, aad buu u kulul yahay ama qabow yahay, daalan yahay, kelidiis yahay, cabsi qabaa, ama buuq ayaa ku dhibaya. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) waxay liis gelisaa xanuun, buuq, kelinimo, isbeddelka nidaamka iyo daawooyin inay ka mid yihiin sababaha degganaan la’aanta.
+Erayadani waxay sidoo kale calaamad u noqon karaan in wax kale ay hadda khaldan yihiin: waxay dareemayaan gaajo, haraad, waxay u baahan yihiin musqusha, xanuun bay qabaan, aad bay u kulul yihiin ama u qabow yihiin, way daalan yihiin, cidlo bay dareemayaan, way baqsan yihiin, ama buuq baa ka batay. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) waxay xanuunka, buuqa, cidlada, isbeddelka jadwalka iyo daawooyinka ku sheegtaa sababaha kacsanaanta.
 
-## Maxaan yiraahdaa marka ay weydiistaan inay guriga aadaan?
+## Maxaan dhahaa marka ay doonayaan inay guriga aadaan?
 
-Dareenka ka jawaab, ma aha erayada. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) waxay ka digtaa isku dayga lagu qancinayo qofka inuu qaldan yahay: dareenkoodu waa run, sidaas darteed marka hore ku jawaab raaxo iyo xasillooni, kadibna si jilicsan u leexi.
+U jawaab dareenka, ee ha u jawaabin ereyada oo keliya. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) waxay ku talisaa in aan la isku dayin in qofka lagu qanciyo inuu khaldan yahay: dareenkoodu waa dhab, sidaas darteed marka hore ku jawaab raaxo iyo xaqiijin, dabadeed si tartiib ah u leexi.
 
-Weedhaha inta badan caawiya:
+Weedho badanaa caawiya:
 
-- **Magac u bixi dareenka.** “Waxay u egtahay inaad guriga ka maqan tahay.”
-- **Xasilli.** “Halkan waad ammaan tahay, waanan kula joogaa.” [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) waxay soo jeedisaa erayada fudud “Halkan waad ammaan tahay.”
-- **U martiqaad xusuusaha.** “Ii sheeg gurigaaga. Sidee ahayd jikadaadu?” Waydiinta waayihii fogaa inta badan waa ka raaxo badan tahay su’aalaha maanta.
-- **Soo jeedi wax lala sameeyo.** “Marka hore aan koob shaah cabno,” ama “Ma i caawin lahayd tuwaaladan?”
+- **Magacaw dareenka.** “Waxay u egtahay inaad guriga ka maqantahay.”
+- **Xaqiiji.** “Halkan waad ku badbaadsan tahay, aniguna waan kula joogayaa.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) waxay soo jeedisaa ereyada fudud ee ah “Halkan waad ku badbaadsan tahay.”
+- **Ku casuum xusuuso.** “Iiga warran gurigaaga. Sidee bay jiko-gaagu u ekaa?” Weydiinta waagii hore badanaa way ka fududahay su’aalaha ku saabsan maanta.
+- **Soo bandhig wax aad wada samayn kartaan.** “Aan marka hore shaah cabno,” ama “Ma iga caawin kartaa tuwaaladahan?”
 
-Codka diiran iyo gacan gacanta saaran, haddii qofku jecel yahay taabasho, ayaa sheegi kara in ka badan erayada.
+Cod diirran iyo in si tartiib ah gacanta loogu taabto, haddii ay taabashada jecel yihiin, ayaa ka hadli kara wax ka badan ereyada.
 
 ## Maxaan ka fogaadaa?
 
-- **Dood ama sharaxaad.** “Hadda halkan ayaad degantahay” ama “Taasi waa gurigaaga 40 sano” waxay ka codsanaysaa inuu aqbalo wax dementia ka dhigto mid adag in la aqbalo, wuxuuna dareemi karaa in la yiraahdo wuu qaldan yahay.
-- **Su’aalo imtixaan.** “Ma xusuusataa?” ama “Waa maxay ciwaanka?” waxay kordhisaa cadaadiska.
-- **Albaabka cadho ku xidhidda.** Haddii uu bixi doono, degganow oo la socod. Socod gaaban oo wada socda inta badan wuxuu deminayaa rabitaanka.
-- **Degdeg.** Sii wakhti uu kaga hadlo guriga ka hor intaadan beddelin mawduuca.
+- **Dood ama sharaxaad.** “Hadda halkan ayaad ku nooshahay” ama “Kani wuxuu gurigaaga ahaa muddo 40 sano ah” waxay ka rabtaa inay aqbalaan wax waallidu adkaynayso in la aqbalo, waxayna u dareemi karaan in qalad lagu sheegay.
+- **Su’aalo cadaadis leh.** “Miyaadan xasuusanayn?” ama “Waa maxay cinwaanku?” waxay kordhiyaan cadaadiska.
+- **In albaabka si caro leh loo xiro.** Haddii ay baxaan, isdeji oo la soco. Socod gaaban oo wadajir ah ayaa badanaa dejin kara rabitaankaas.
+- **Degdeg.** Sii wakhti ay guriga kaga hadlaan ka hor intaadan mawduuca beddelin.
 
-## Waxqabadyada wax ka caawin kara daqiiqaddaas
+## Hawlo caawin kara wakhtigaas
 
-Kadib marka aad aqoonsato dareenka, waxqabad deggan oo la yaqaan ayaa feejignaanta u beddeli kara adigoon iska dhegayn.
+Markaad aqbasho dareenka, hawl deggan oo la yaqaan ayaa dareenka u wareejin karta iyada oo aan la diidin.
 
-1. **Fiiri sawirro guri iyo qoys.** Bogagga rog oo faallo sameyso halkii aad su’aalo weydiin lahayd (“Eeg beerta qurxoon”). Telefoon ama tablet, [Lammaanaha sawirrada qoyska](/games/photo-pairs/) wuxuu sawirrada qoyskaaga u beddelaa ciyaar isku-mid-ka jilicsan, sawirradana waxay ku sii jiraan qalabkaaga.
-2. **Ka hadal guriga.** [Kaararka wadahadalka](/games/conversation-cards/) waxay leeyihiin su’aalo furan oo ku saabsan guryaha, jikooyinka, dariska iyo ciidaha, oo aan jawaab sax ah lahayn.
-3. **Ciyaar muusiktiisa la jecel yahay.** National Institute on Aging waxay liis gelisaa muusik dejiya inay ka mid tahay siyaabaha loo deminayo degganaan la’aanta. Ka eeg [waxqabadyada muusikada](/activities/music/).
-4. **Sii wax cun ama cab.** Gaajada iyo harraadku waxay u eg yihiin degganaan la’aan. Koob shaah ama wax la jecel yahay waa sidoo kale caado yar oo ah in guriga lagu jiro.
-5. **Bax socod ama banaanka fadhiiso.** Dhaqdhaqaaqa iyo iftiinka maalintu way caawiyaan, gaar ahaan maalinta hore.
-6. **Sii hawl la yaqaan.** Dharka laablaabid, qaaddooyin kala saarid ama dhirta waraabinta waxay soo celin karaan dareenka ah in guri la maamulo.
-7. **Wax walba gaabi.** Dami TV-ga, yaree buuq iyo dhalaal, oo isku day nasasho wadajir ah oo [neefsasho deggan](/games/calm-breathing/).
+1. **Fiiri sawirrada guriga iyo qoyska.** Bogagga u rog oo faallo ka bixi (“Eeg beertaas”) halkii aad su’aalo waydiin lahayd. Taleefan ama tablet, [Photo pairs](/games/photo-pairs/) waxay sawirrada qoyskaaga u beddeshaa ciyaar isbarbardhig oo deggan, sawirraduna waxay ku jiraan qalabkaaga.
+2. **Ka sheekee guriga.** [Conversation cards](/games/conversation-cards/) waxay bixiyaan su’aalo furan oo ku saabsan guryaha, jikada, deriska iyo ciidaha, iyada oo aan jawaab sax ah jirin.
+3. **Daar muusig ay jecel yihiin.** National Institute on Aging waxay muusiga deggan ku sheegtaa siyaabaha lagu dejiyo kacsanaanta. Eeg [hawlaha muusiga](/activities/music/).
+4. **Sii cunto fudud ama cabitaan.** Gaajada iyo haraadku waxay u ekaan karaan degganaan la’aan. Koob shaah ah ama cunto fudud oo la jecel yahay sidoo kale waa caado yar oo guriga lagu dareemo.
+5. **U bax socod ama dibadda fadhiiso.** Dhaqdhaqaaqa iyo iftiinka maalintii way caawiyaan, gaar ahaan maalintii hore.
+6. **Sii shaqo la yaqaan.** Laabista dharka, kala saarista qalabka cuntada ama waraabinta dhirta waxay soo celin karaan dareenka maamulidda guriga.
+7. **Wax walba hoos u dhig.** Dami telefishinka, yaree buuqa iyo iftiinka xooggan, oo isku day inaad wada qaadataan nasasho [neefsasho deggan](/games/calm-breathing/).
 
-Haddii hal fikrad aanay ku habboonayn, mid kale isku day mar dambe. Wada fadhiisasho aamusan sidoo kale waa natiijo wanaagsan.
+Haddii hal fikrad aysan shaqayn, mid kale mar dambe isku day. In si deggan wada loo fadhiisto sidoo kale waa natiijo wanaagsan.
 
 ## Hubi sabab aad hagaajin karto
 
-| Hubi | Maxaad isku dayi kartaa |
+| Hubi | Waxa la isku dayo |
 | --- | --- |
-| Gaajo ama harraad | Sii cabitaan iyo cunto yar |
-| U baahan musqusha | Soo jeedi booqasho musqusha ah, si deggan oo aan rabsho lahayn |
-| Xanuun ama raaxo la’aan | Raadi calaamado sida wejiga rururin, qayb jidhka ah oo la haysto ama calool-adayg, oo u sheeg dhakhtarkooda |
-| Kulayl ama qabow xad dhaaf ah | Hagaaji lakab dhar ah ama heerkulka qolka |
-| Buuq ama dad badan | U wareeg qol ka deggan, dami TV-ga |
-| Daalan ama kicin xad dhaaf ah | Nasasho, qolka iftiinkiisa yaree, ciyaar muusik jilicsan |
-| Galabta dambe | Ka eeg qaybta sundowning ee hoose |
+| Gaajo ama haraad | Sii cabitaan iyo cunto fudud |
+| U baahan musqusha | Si deggan oo aan buuq lahayn ugu bandhig booqashada musqusha |
+| Xanuun ama raaxo-darro | Eeg calaamado sida wajiga oo la maroojiyo, in qayb jirka ah la qabsado ama calool-istaag, oo u sheeg dhakhtarkooda |
+| Aad u kulul ama u qabow | Hagaaji lakab dhar ah ama heerkulka qolka |
+| Buuq ama dad badan | U guur qol ka deggan, dami telefishinka |
+| Daal ama kicin badan | Nasasho, qolka iftiinkiisa yaree, daar muusig jilicsan |
+| Galab dambe | Eeg qaybta kacsanaanta galab dambe ee hoose |
 
-Alzheimer’s Society waxay soo jeedisaa in la haysto diiwaan gaaban oo goorta weydiintu dhacdo, sida cunto ka hor, booqdayaal ka dib, ama gabbal-dhac. Qaababku waxay fududeeyaan qorshaynta hore.
+Alzheimer's Society waxay ku talisaa in la qoro diiwaan gaaban oo ku saabsan goorta weydiintu dhacdo, sida cuntada ka hor, booqdayaasha ka dib, ama fiidkii. Qaababkaas waxay fududeeyaan qorshaynta hore.
 
-## Ma ku habboon tahay in la yiraahdo been jilicsan?
+## Ma hagaag baa in la sheego been yar oo naxariis leh?
 
-Tani waa dood dhab ah, qoysaska naxariista leh ayaa gaara meelo kala duwan. Alzheimer’s Society waxay tidhaahdaa jawaab keliya oo sax ah ma jirto: been waxay qaar ka dhigi kartaa kuwo ka sii shakisan, sidaas darteed go’aami waxa qofka u fiican oo joogto ahaw. Penn Memory Center, aragtida hoggaamiyaha-kaaliyaha (co-director) waxay tahay in runtu tahay habka caadiga ah, beenta jilicsanna ay ku habboon tahay kaliya marka qofku uusan karin inuu fahmo run gaar ah, iyo inaan weligaa la ku jees-jeesin xaqiiqadiisa.
+Tani waa dood dhab ah, qoysas naxariis lehna siyaabo kala duwan ayay u arkaan. Alzheimer's Society waxay sheegtaa in aysan jirin hal jawaab oo sax ah: beenuhu waxay dadka qaarkood ka dhigi karaan kuwo shaki badan, sidaas darteed go’aami waxa u wanaagsan qofka oo noqdo mid joogto ah. Penn Memory Center, aragtida agaasimaha wadajirka ah waa in runta ay tahay saldhigga, been yar oo naxariis lehna la aqbali karo kaliya marka qofku uusan ka gudbi karin run gaar ah, iyo inaadan waligaa kaftamin xaqiiqadiisa.
 
-Daryeelayaal badan ayaa u arka inay ka shaqayso waddo dhexe: marka hore xasillooni daacad ah iyo leexin (“Caawa halkan ayaan joogi doonnaa, waanan kuu dhow ahay”), adigoon ka dood bixin halka guriga yahay.
+Daryeeleyaal badan waxay ogaadaan in dariiq dhexe uu shaqeeyo: raaxo daacad ah iyo leexin tartiib ah marka hore (“Caawa halkan ayaan joogaynaa, aniguna waan kula joogaa”), iyada oo aan laga doodin halka gurigu yahay.
 
-## Maxaa dhacaya haddii ay dhacdo maalin kasta galabta ama fiidkii?
+## Maxaa la sameeyaa haddii ay dhacdo galab kasta ama fiid kasta?
 
-Degganaan la’aanta bilaabata ama sii xumaata galabta dambe inta badan waxaa loo yiraahdaa sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) waxay soo jeedisaa jadwal joogto ah, qorax iyo waxqabad maalinle ah, hurdo yar oo dambe, iyo kafeeyn ama khamri la’aan maalinta dambe. Shidista nalalka ka hor gabbal-dhaca ayaa sidoo kale caawin karta. Hagahayaga [waxqabadyada galabta deggan](/caregiving/late-day-restlessness/) wuxuu leeyahay wax dheeraad ah.
+Degganaan la’aanta bilaabata ama ka sii darta galab dambe waxaa badanaa loo yaqaannaa kacsanaanta galab dambe. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) waxay ku talisaa jadwal joogto ah, iftiinka qorraxda iyo dhaqdhaqaaq maalinle ah, hurdo yar oo galab dambe ah, iyo in la iska ilaaliyo kafeyn ama khamri maalinta dhammaadkeeda. In nalalka la shido ka hor fiidkii sidoo kale way caawin kartaa. Hagahayaga ku saabsan [hawlaha deggan ee galab dambe](/caregiving/late-day-restlessness/) wuxuu leeyahay wax badan.
 
-## Ilaalinta haddii uu isku dayo inuu baxo
+## Ilaalinta badbaadada haddii ay isku dayaan inay baxaan
 
-Weydiisashada inuu guriga aado waxay u horseedi kartaa wareegid iyo lumis. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) waxay qiyaasaysaa in lix ka mid ah toban qof oo ku nool dementia ay lumi doonaan ugu yaraan hal mar.
+In la doonayo guriga waxay keeni kartaa in qofku wareego. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) waxay ku qiyaastaa in lix ka mid ah tobankii qof ee waallida la nool ay ugu yaraan hal mar wareegi doonaan.
 
-**Hore u diyaari:**
+**Hore u diyaarso:**
 
-- Calaamad aqoonsi ama caafimaad oo gacanta lagu xidho oo leh magaciisa iyo lambarkaaga telefoonka, iyo calaamado dharkiisa ku jira. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) waxay tusaale Mareykan ah ahaan u xustaa MedicAlert iyo barnaamijka Safe and Found ee Alzheimer’s Association, kaas oo laga yaabo inuu lacag ku kacayo. Adeeg la mid ah oo deegaankaaga ah waxaad ka weydiin kartaa ururka Alzheimer ama dementia ee deegaankaaga.
-- Albaabka saar qalab dhawaaq (chime) ama alaarm, iyo qufullo si sare ama hoose loo dhigo. Weligaa ha ku xidhin qofka keligiis.
-- Sawir cusub oo dhow, iyo liis meelaha uu aadi karo, sida gurigii hore ama goobta shaqada.
-- U sheeg deriska la aamini karo, oo sii lambarkaaga.
+- Jijin aqoonsi ama caafimaad oo leh magacooda iyo lambarkaaga telefoonka, iyo calaamado dharkooda lagu dhejiyo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) waxay xustaa barnaamijka MedicAlert iyo Alzheimer's Association Safe and Found, kaas oo lacag ku bixi kara.
+- Gambaleel ama digniin albaabka ah, iyo qufullo sare ama hoose la dhigo. Waligaa qofka kaligiis ha ku xirin gudaha.
+- Sawir dhowaan la qaaday oo wajiga ah, iyo liis meelaha ay aadi karaan, sida guri ama goob shaqo oo hore.
+- U sheeg deriska aad ku kalsoon tahay, oo sii lambarkaaga.
 
-**Haddii ay lumaan:** isla markiiba bilow raadinta; Alzheimer’s Association waxay xustaa in dad badan lagu helo 1.5 mile (qiyaastii 2.4 kiilomitir) gudaheed. Haddii aadan helin 15 daqiiqo gudahood, wac lambarka gurmadka degdegga ah ee gobolkaaga oo dheh qofku wuxuu qabaa dementia. Isla markiiba wac lambarkaas haddii qof khatar ku jiro.
+**Haddii ay maqnaadaan:** hubi meelaha badbaadada leh ee dhow adigoo si degdeg ah ula xiriiraya booliska deegaanka ama adeegyada gurmadka degdegga ah. Ha sugin tiro daqiiqado ah oo go’an ka hor intaadan wargelin. Maqaal joornaal ah oo 2021 ah oo ay qortay [U.S. Department of Justice oo ku saabsan baaritaanka dadka maqan](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) wuxuu leeyahay hay’adaha sharci fulinta ma aha inay u baahdaan muddo sugitaan oo go’an; wuxuu sidoo kale calaamadaha la midka waallida ku sheegaa walaac khatar sare leh. Hababka wargelinta ee deegaanka way kala duwanaan karaan. U sheeg dadka ka jawaabaya in qofku waallida la nool yahay, la wadaag meesha ugu dambaysay ee la ogaa iyo sawir dhowaan la qaaday, oo raac tilmaamahooda. Haddii caawiye kale la heli karo, ka codso inuu telefoonka ag joogo. Ha keligiis ka baadhin meelaha aan badbaadada lahayn.
 
 ## Goorma ayaan wacaa dhakhtar?
 
-Dhakhtarkooda dhaqso u wac haddii weydiisashada ama jahwareerku si kedis ah u bilaabmo, ama aad ugu sii xumaado saacado ama maalmo gudahood. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) waxay tidhaahdaa dabeecad kedis ah ama si degdeg ah isu beddesha, gaar ahaan caabuq ama beddelka daawada ka dib, in isla markiiba la baaro. Jahwareer kedis ah wuxuu noqon karaa delirium, kaas oo [NHS](https://www.nhs.uk/symptoms/confusion/) ay tidhaahdo u baahan caawimo degdeg ah; caabuqa kaadi mareenku waa sabab caadi ah dadka waaweyn.
+Si degdeg ah u wac dhakhtarkooda haddii weydiinta ama wareerku si kedis ah u bilaabmaan, ama ay aad uga sii daraan saacado ama maalmo gudahood. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) waxay leedahay in dabeecad si kedis ah u isbeddasha ama si degdeg ah isu beddesha, gaar ahaan caabuq ama isbeddel daawo ka dib, isla markiiba la hubiyo. Wareer degdeg ah wuxuu noqon karaa delirium, kaas oo [NHS](https://www.nhs.uk/symptoms/confusion/) ay sheegto inuu u baahan yahay gargaar degdeg ah; caabuqyada kaadi-mareenka ayaa ah sabab caadi ah dadka waaweyn.
 
-Waxay sidoo kale caawisaa in qaabka joogtada ah lagu sheego ballanta xigta, sababtoo ah xanuun, niyad hoose, dhibaatooyin hurdo ama saameyn daawo ayaa dhammaantood door ciyaari kara.
+Sidoo kale waa fiican in qaab joogto ah lagu xuso ballanta xigta, maadaama xanuunka, niyad-jabka, dhibaatooyinka hurdada ama waxyeellooyinka daawadu ay dhammaan door ka ciyaari karaan.

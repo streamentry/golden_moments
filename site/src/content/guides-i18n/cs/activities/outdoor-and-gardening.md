@@ -1,32 +1,33 @@
 ---
-title: "Venkovní a zahradní aktivity pro lidi s demencí"
-seoTitle: "Zahradničení a venkovní aktivity při demenci"
-description: "Nápady na zahradničení a venkovní aktivity pro lidi žijící s demencí, se zvýšenými záhony, zahradními nádobami a tipy na bezpečnost při horku, slunci a toulání."
+title: "Aktivity venku a zahradničení pro lidi s demencí"
+seoTitle: "Zahradničení a aktivity venku při demenci"
+description: "Nápady na zahradničení a pobyt venku pro lidi žijící s demencí, vyvýšené záhony, květináče i tipy na bezpečí při horku, slunci a toulání."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Zahradničení a čas venku mohou být pro člověka žijícího s demencí klidnou a známou
-  aktivitou. Zkuste zalévání, sázení bylinek, odstraňování odkvetlých květů nebo
-  krátkou procházku na oploceném dvoře. Používejte zvýšené záhony nebo stůl, aby
-  nikdo nemusel klečet, vyhněte se ostrým nástrojům a jedovatým rostlinám, choďte ven
-  v chladnější části dne a vždy zůstaňte s člověkem.
+  Zahradničení a čas strávený venku mohou být klidnou a známou aktivitou pro
+  člověka žijícího s demencí. Zkuste zalévání, sázení bylinek do květináčů,
+  odstraňování odkvetlých květů nebo krátkou procházku v oplocené zahradě.
+  Použijte vyvýšené záhony nebo stůl, aby si nikdo nemusel klekat, vyhněte se
+  ostrým nástrojům a jedovatým rostlinám, choďte ven v chladnější části dne a
+  zůstávejte s člověkem po celou dobu.
 keyPoints:
-  - "Jednoduché zahradní činnosti, jako je zalévání, sázení semen, vonění bylinek a trhání květin, lze dělat ve stoje i vsedě."
-  - "Zvýšené záhony, nádoby a zastřešený stůl přivedou zahradu do výšky pasu a snižují riziko pádu."
-  - "Vyhněte se ostrým nástrojům, trnitým nebo dráždivým rostlinám a čemukoli jedovatému. Hlídejte, aby zem nebyla zaměněna za jídlo."
-  - "Horko může být pro seniory nebezpečné. Choďte ven brzy nebo pozdě, berte vodu a stín a při prvním náznaku nepohodlí jděte dovnitř."
-  - "Mnoho lidí žijících s demencí se v nějaké chvíli toulá. Zůstaňte s člověkem venku a mějte po ruce aktuální fotku a doklad totožnosti."
+  - "Jednoduché zahradní činnosti, jako je zalévání, sázení semínek, vonění k bylinkám a trhání květin, lze dělat ve stoje i vsedě."
+  - "Vyvýšené záhony, květináče a zakrytý stůl přinesou zahradu do výšky pasu a mohou snížit riziko pádů."
+  - "Vyhněte se ostrým nástrojům, trnitým nebo dráždivým rostlinám a všemu jedovatému. Dávejte pozor, aby si někdo nespletl hlínu s jídlem."
+  - "Horko může být pro starší dospělé nebezpečné. Choďte ven brzy ráno nebo později, mějte s sebou vodu a stín a při prvních známkách nepohody se vraťte dovnitř."
+  - "Mnoho lidí žijících s demencí se někdy zatoulá. Venku zůstávejte s člověkem po celou dobu a mějte po ruce aktuální fotografii a doklad totožnosti."
 faq:
-  - q: "Jaké zahradní aktivity může člověk s demencí dělat?"
-    a: "Zalévání rostlin, sázení semen do malých květináčů, vonění a hmatání bylinek, odstraňování odkvetlých květů, sběr zeleniny, aranžování řezaných květin a zametání cesty jsou všechno dobré volby. Uvnitř se dobře hodí květináč s bylinkami na okenní parapet nebo tác se zeminou na zastřešeném stole. Úkol vyberte podle toho, co člověk měl rád dřív a co dnes zvládne bez potíží."
-  - q: "Jak udržet člověka s demencí v bezpečí při horku?"
-    a: "Venkovní čas plánujte na chladnější brzké ráno nebo večer, držte ho krátký a často nabízejte vodu. Vyberte stín, klobouk se širokou krempou, lehké volné oblečení a opalovací krém. Starší dospělí jsou ohroženější nemocemi z horka a zmatenost, závrať nebo nevolnost mohou být varovná znamení, takže pokud je zpozorujete, okamžitě jděte dovnitř a ochlaďte se."
-  - q: "Jak můžeme jít ven, pokud má sklon se toulat?"
-    a: "Buďte s člověkem celou dobu, použijte oplocený dvůr nebo zahradu se zamykatelnou brankou a ujistěte se, že má náramek s identifikací nebo nosí doklad. Mějte po ruce aktuální fotku. Pokud se člověk ztratí, Alzheimerova asociace doporučuje volat 911, pokud ho nenajdete do 15 minut."
+  - q: "Jaké zahradní aktivity může dělat člověk s demencí?"
+    a: "Dobrou volbou je zalévání rostlin, sázení semínek do malých květináčů, vonění k bylinkám a dotýkání se jich, odstraňování odkvetlých květů, sklizeň zeleniny, aranžování řezaných květin nebo zametání cestičky. Uvnitř dobře poslouží bylinka na parapetu nebo tác s hlínou na zakrytém stole. Činnost vybírejte podle toho, co člověka dříve bavilo a co teď zvládne pohodlně dělat."
+  - q: "Jak mohu při horku zajistit bezpečí člověka s demencí?"
+    a: "Plánujte pobyt venku na chladnější čas brzy ráno nebo večer, udržujte ho krátký a často nabízejte vodu. Zvolte stín, klobouk se širokou krempou, světlé volné oblečení a opalovací krém. Starší dospělí mají vyšší riziko potíží způsobených horkem a zmatenost, závratě nebo nevolnost mohou být varovnými příznaky. Pokud si jich všimnete, jděte hned dovnitř a zchlaďte se."
+  - q: "Jak můžeme jít ven, když má člověk sklony se toulat?"
+    a: "Zůstávejte s člověkem po celou dobu, použijte oplocenou zahradu nebo dvůr se zamčenou brankou a zajistěte, aby měl na sobě identifikační náramek nebo u sebe doklad totožnosti. Mějte po ruce aktuální fotografii. Pokud se člověk ztratí, neprodleně kontaktujte místní policii nebo pohotovostní služby; nečekejte pevně stanovený počet minut. Sdělte, že člověk má demenci, kde byl naposledy viděn, a poskytněte aktuální fotografii."
   - q: "Co když nemáme zahradu?"
-    a: "Stačí pár květináčů na verandě, truhlík na okno nebo tác s bylinkami na kuchyňském stole. Můžete také navštívit park, veřejnou zahradu nebo komunitní zahradu. Sezení venku a poslouchání ptáků se počítá také jako venkovní aktivita."
+    a: "Stačí několik květináčů na verandě, truhlík v okně nebo tác s bylinkami na kuchyňském stole. Můžete také navštívit park, veřejnou zahradu nebo komunitní zahradu. I sezení venku a poslech ptáků se počítá jako aktivita venku."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Pro mnoho lidí je zahrada jedním z nejznámějších míst, jaká znají. Kopání, zalévání a trhání květin využívá dovednosti naučené dávno a pobyt venku přináší čerstvý vzduch, sluneční světlo a zpěv ptáků. Národní ústav pro stárnutí mezi aktivitami, které lidé s Alzheimerovou chorobou mohou mít rádi, uvádí péči o rostliny, sázení květin a zeleniny a [povídání o tom, jak rostliny rostou](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Tato stránka se zabývá tím, co zkusit, jak zahradu snadněji použít a jak zůstat v bezpečí při horku, slunci a toulání.
+Pro mnoho lidí je zahrada jedním z nejznámějších míst. Hrabání, zalévání a trhání květin využívají dovednosti naučené dávno a pobyt venku přináší čerstvý vzduch, sluneční světlo a zpěv ptáků. Národní institut pro stárnutí (National Institute on Aging) uvádí péči o rostliny, sázení květin a zeleniny a [rozhovory o tom, jak rostliny rostou](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mezi aktivity, které si lidé s Alzheimerovou chorobou mohou užívat. Tato stránka popisuje, co můžete vyzkoušet, jak usnadnit práci na zahradě a jak zůstat v bezpečí při horku, slunci a toulání.
 
-## Jaké venkovní a zahradní aktivity fungují dobře?
+## Jaké venkovní a zahradní aktivity se osvědčují?
 
-Nejlepší úkoly jsou jednoduché, známé a dají se dělat ve stoje nebo vsedě. Vybírejte podle toho, co člověk měl rád dřív.
+Nejlepší činnosti jsou jednoduché, známé a lze je dělat ve stoje i vsedě. Vybírejte podle toho, co člověka dříve bavilo.
 
 ### Na zahradě
 
-1. **Zalévání.** Malá, lehká konvička nebo jemná hadicová tryska a několik květináčů na dosah. Zalévání má jasný začátek i konec a je těžké ho pokazit.
-2. **Sázení semen do květináčů.** Alzheimerova nadace Ameriky navrhuje sázet semena do malých květináčů a [sledovat, jak rostou](https://alzfdn.org/dementia-activity-gardening/). Velká semena jako fazole, slunečnice nebo hrách se lépe drží.
-3. **Odstraňování odkvetlých květů.** Ruční odštípnutí vadnoucích květů je jemná, opakující se činnost. Vybírejte rostliny bez trnů.
-4. **Sběr zeleniny nebo bylinek.** Rajčata cherry, fazole a bylinky se snadno sbírají a jsou příjemné na ochutnání. Přineste je dovnitř a použijte na oběd.
-5. **Čichání a hmatání bylinek.** Rozmarýn, máta a levandule mají silné, příjemné vůně. Rozetřete list mezi prsty a podejte ho dál.
-6. **Zametání cesty nebo terasy.** Lehký koště na rovném, suchém povrchu, pokud je rovnováha stabilní.
-7. **Plnění krmítka pro ptáky.** Pak si sedněte spolu a sledujte, kdo přijde na návštěvu.
+1. **Zalévání.** Malá, lehká konévka nebo jemná sprcha na hadici a několik květináčů na dosah. Zalévání má jasný začátek i konec a je těžké ho udělat špatně.
+2. **Sázení semínek do květináčů.** Nadace Alzheimerovy nadace Ameriky (Alzheimer's Foundation of America) navrhuje sázet semínka do malých květináčů a [sledovat, jak rostou](https://alzfdn.org/dementia-activity-gardening/). Velká semena, jako jsou fazole, slunečnice nebo hrách, se lépe drží.
+3. **Odstraňování odkvetlých květů.** Uštípnutí uvadlých květů rukou je jemná, opakující se činnost. Vybírejte rostliny bez trnů.
+4. **Sklizeň zeleniny nebo bylinek.** Rajčátka, fazolky a bylinky se snadno trhají a chutnají. Přineste je dovnitř a použijte je k obědu.
+5. **Vonění k bylinkám a dotýkání se jich.** Rozmarýn, máta a levandule mají výraznou, příjemnou vůni. Rozetřete lístek mezi prsty a přidržte ho u nosu.
+6. **Zametání cestičky nebo terasy.** Lehké koště na rovném, suchém povrchu, pokud je chůze jistá.
+7. **Plnění krmítka pro ptáky.** Pak si společně sedněte a sledujte, kdo přiletí.
 
-### Uvnitř, když ven nejde
+### Uvnitř, když ven není možné jít
 
-- **Bylinková zahrádka na parapetu** s bazalkou, petrželí nebo pažitkou.
-- **Přesazování na zastřešeném stole.** AFA navrhuje používat tácy jako z jídelny, aby zůstala zemina na jednom místě, a zeminu přesouvat malými hrnky.
-- **Aranžování květin** z řezaných květin a zeleně ze dvora nebo z obchodu.
-- **Lisované květiny** z kytice, později nalepené na karty. Více v [výtvarných a rukodělných činnostech](/activities/arts-and-crafts/).
-- **Výroba sáčků s levandulí nebo růží**, další nápad AFA, který udrží vůni zahrady uvnitř.
+- **Bylinky na parapetu**, například bazalka, petržel nebo pažitka.
+- **Sázení na zakrytém stole.** AFA navrhuje použít tácy ve stylu jídelny, aby hlína zůstala na jednom místě, a přesouvat hlínu malými kelímky.
+- **Aranžování květin** z řezaných květin a zeleně ze zahrady nebo z obchodu.
+- **Lisované květiny** z kytice, které můžete později nalepit na přáníčka. Další nápady najdete v části [výtvarné a rukodělné aktivity](/activities/arts-and-crafts/).
+- **Výroba levandulových nebo růžových sáčků**, další nápad od AFA, díky kterému zůstane vůně zahrady i doma.
 
-### Ven a po okolí
+### Cesty ven
 
-- **Krátká procházka** po bloku, parkem nebo k zahradnickému centru, pomalým tempem s místem k sezení.
-- **Sezení venku** na verandě nebo lavičce, poslouchání ptáků a pocit větru. Je to kompletní aktivita sama o sobě.
-- **Návštěva veřejné zahrady** v klidnou denní dobu. NHS uvádí, že některá místa mají smyslové zahrady s vonícími rostlinami, texturami a vodními prvky.
-- **Krmení kachen nebo pozorování ptáků** u místního rybníka, s bezpečnou vzdáleností od břehu.
+- **Krátká procházka** kolem bloku, v parku nebo v zahradním centru, pomalým tempem a s místem k posezení.
+- **Sezení venku** na verandě nebo na lavičce, poslech ptáků a pocit vánku. I to je sama o sobě úplná aktivita.
+- **Návštěva veřejné zahrady** v klidnější části dne. NHS uvádí, že některá místa mají smyslové zahrady s voňavými rostlinami, různými povrchy a vodními prvky.
+- **Krmení kachen nebo pozorování ptáků** u místního rybníka, v bezpečné vzdálenosti od břehu.
 
-## Jak zahradu snadněji použít?
+## Jak mohu zahradu přizpůsobit?
 
 Přineste zahradu k člověku, ne naopak.
 
-- **Zvýšené záhony nebo vysoké truhlíky** zhruba ve výšce pasu znamenají žádné klečení ani shýbání.
-- **Nádoby na stole** fungují pro lidi na invalidním vozíku nebo pro ty, kdo raději sedí.
-- **Široké, rovné cesty** bez volných kamenů nebo hadic přes ně snižují riziko zakopnutí.
-- **Lavičky s opěrkami a stínem** podél cesty, aby odpočinek byl vždy možností.
-- **Nářadí s tlustými, měkkými rukojeťmi**, které se dobře drží. Vynechte nůžky na větve, nože a cokoli ostrého.
-- **Oplocená plocha se zamykatelnou brankou**, kterou může člověk volně prozkoumávat, zatímco vy zůstáváte poblíž.
+- **Vyvýšené záhony nebo vysoké truhlíky** přibližně ve výšce pasu znamenají, že si není potřeba klekat ani se ohýbat.
+- **Květináče na stole** se hodí pro lidi, kteří používají invalidní vozík nebo raději sedí.
+- **Široké, rovné cesty** bez volných kamenů nebo hadic ležících napříč mohou snížit riziko zakopnutí.
+- **Sedadla s područkami a stínem** podél cesty, aby bylo vždy možné si odpočinout.
+- **Nástroje se silnými, měkkými rukojeťmi**, které se dobře drží. Vynechte nůžky na větve, nože a vše ostré.
+- **Oplocený prostor se zamykatelnou brankou**, který může člověk volně prozkoumávat, zatímco vy zůstáváte nablízku.
 
-## Kterým rostlinám se vyhnout?
+## Kterým rostlinám je lepší se vyhnout?
 
-Vybírejte rostliny, které jsou bezpečné na dotek a ideálně i na ochutnání. AFA doporučuje používat rostliny, které běžně nedráždí kůži, kontrolovat alergie a pozorně sledovat každého, kdo by mohl zaměnit zeminu za jídlo. Rada NIA k domácí bezpečnosti zahrnuje odstranění jedovatých rostlin nebo jejich uzamčení.
+Vybírejte rostliny, kterých je bezpečné se dotýkat a ideálně i takové, které nejsou nebezpečné při ochutnání. AFA doporučuje používat rostliny, které běžně nedráždí kůži, zkontrolovat alergie a pozorně sledovat každého, kdo by si mohl splést hlínu s jídlem. Rady Národního institutu pro stárnutí k bezpečnosti domova zahrnují odstranění nebo uzamčení jedovatých rostlin.
 
 - Vyhněte se trnitým růžím, kaktusům a rostlinám s mízou, která dráždí kůži.
-- Každou rostlinu, kterou si nejste jisti, si před výsadbou ověřte u toxikologického střediska nebo v místním zahradnictví.
-- Známí oblíbenci mohou přinést příjemné pocity. AFA jako příklad uvádí růže a vánoční kaktus. Vybírejte odrůdy bez trnů.
-- Hnojiva, pesticidy a herbicidy zamykejte a nepoužívejte je v místech, kam člověk může dosáhnout.
+- Pokud si nejste nějakou rostlinou jistí, před výsadbou se poraďte s toxikologickým informačním střediskem nebo místním zahradnictvím.
+- Oblíbené známé rostliny mohou vyvolat příjemné vzpomínky. AFA zmiňuje jako příklady růže a vánoční kaktus. Vybírejte beztrnné odrůdy.
+- Hnojiva, pesticidy a prostředky na hubení plevele mějte uzamčené a nepoužívejte je v místech, kam člověk dosáhne.
 
-## Jak zůstat v bezpečí při horku a slunci?
+## Jak zůstat v bezpečí při horku a na slunci?
 
-Venkovní čas plánujte podle počasí. NIA vysvětluje, že starší dospělí jsou ohroženější [nemocemi souvisejícími s horkem](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), částečně proto, že se tělo hůř přizpůsobuje změnám teploty a některé léky ovlivňují, jak tělo s teplem zachází.
+Plánujte pobyt venku podle počasí. NIA vysvětluje, že starší dospělí mají vyšší riziko [potíží souvisejících s horkem](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), mimo jiné proto, že se tělo hůře přizpůsobuje změnám teploty a některé léky ovlivňují, jak tělo s horkem zachází.
 
-- **Jděte ven brzy nebo pozdě.** V teplých měsících se vyhněte polednímu slunci. Sledujte index horka, ne jen teplotu.
-- **Nabízejte vodu často.** Nečekejte, až řekne, že má žízeň. Za horka se vyhněte alkoholu a nápojům s kofeinem.
-- **Oblékněte se podle počasí.** Světlé, volné oblečení, klobouk se širokou krempou a sluneční brýle.
-- **Používejte opalovací krém.** NIA doporučuje širokospektrální krém s SPF 15 nebo vyšším, obnovovaný během dne.
-- **Vyberte stín.** Stůl na přesazování postavte pod strom nebo deštník.
-- **Držte to krátké.** Krátký pobyt venku může stačit, zvlášť v teplé dny.
-- **Sledujte varovné známky.** NIA uvádí jako možné známky tepelného vyčerpání bolest hlavy, zmatenost, závrať nebo nevolnost. Člověk s demencí vám nemusí říct, že se necítí dobře, takže sledujte jeho tvář a chování. Jděte dovnitř, ochlaďte se vodou a studeným hadříkem a pokud se rychle nezlepší, vyhledejte lékařskou pomoc. Úpal, s příznaky jako omdlení, zmatenost nebo suchá a zarudlá kůže, je zdravotní stav vyžadující okamžitou pomoc: volejte 911.
+- **Choďte ven brzy nebo později.** V teplých měsících se vyhněte středu dne. Sledujte pocitovou teplotu, ne jen teplotu na teploměru.
+- **Často nabízejte vodu.** Nečekejte, až člověk řekne, že má žízeň. V horku se vyhněte alkoholu a nápojům s kofeinem.
+- **Oblékněte se vhodně.** Světlé, volné oblečení, klobouk se širokou krempou a sluneční brýle.
+- **Používejte opalovací krém.** NIA doporučuje širokospektrální opalovací krém s SPF 15 nebo vyšším a během dne ho znovu nanášet.
+- **Zvolte stín.** Umístěte pracovní stůl pod strom nebo slunečník.
+- **Udržujte pobyt krátký.** Krátká chvíle venku může stačit, zejména v teplých dnech.
+- **Sledujte varovné příznaky.** NIA uvádí bolest hlavy, zmatenost, závratě nebo nevolnost jako možné příznaky potíží způsobených horkem. Člověk s demencí vám nemusí říct, že se necítí dobře, proto sledujte jeho výraz i chování. Jděte dovnitř, zchlaďte se vodou a studeným obkladem a vyhledejte lékařskou pomoc, pokud se stav rychle nezlepší. Úpal se známkami, jako je mdloby, zmatenost nebo suchá, zarudlá kůže, je stav vyžadující okamžitou pomoc: zavolejte 911.
 
-Zima je také důležitá. V zimě držte čas venku krátký a dbejte, aby ruce a nohy zůstaly teplé a suché.
+Důležité je i chladné počasí. V zimě udržujte pobyt venku krátký a dbejte na to, aby ruce a nohy zůstaly v teple a v suchu.
 
 ## Jak řešit toulání, když jdeme ven?
 
-Buďte s člověkem vždy, když je venku. Alzheimerova asociace uvádí, že [6 z 10 lidí žijících s demencí](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) se alespoň jednou toulá a mnozí to dělají víckrát. Může se to stát v kterékoli fázi.
+Kdykoli je člověk venku, zůstávejte s ním. Alzheimerova asociace (Alzheimer's Association) uvádí, že [šest z 10 lidí žijících s demencí](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) se alespoň jednou zatoulá a mnoho lidí se zatoulá opakovaně. Může k tomu dojít v jakékoli fázi.
 
-Rady NIA k [tipům pro toulání a ztrátu orientace](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) zahrnují:
+[Rady pro toulání a ztrácení se](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) od NIA zahrnují:
 
-- Ujistěte se, že má člověk náramek s identifikací nebo zdravotním údajem s jeho jménem, adresou a vaším telefonním číslem, nebo označte jeho oblečení.
-- Mějte aktuální fotku nebo video člověka.
-- Dejte vědět sousedům, že se může toulat.
-- Zabezpečte dvůr oplocením a zamčenou brankou.
-- Člověka s historií toulání nenechávejte bez dozoru.
+- Zajistěte, aby měl člověk na sobě identifikační nebo zdravotní náramek se svým jménem, adresou a vaším telefonním číslem, nebo označte jeho oblečení.
+- Mějte po ruce aktuální fotografii nebo video daného člověka.
+- Dejte sousedům vědět, že se člověk může zatoulat.
+- Zajistěte zahradu plotem a zamčenou brankou.
+- Nenechávejte bez dozoru člověka, který se už dříve zatoulal.
 
-Alzheimerova asociace také doporučuje vytvořit vnitřní a venkovní prostory, které lze bezpečně prozkoumávat, a plánovat aktivity na denní dobu, kdy je neklid nejpravděpodobnější. Procházka v bezpečné, oplocené zahradě může být dobrou volbou při neklidu za pozdního odpoledne. Viz náš průvodce [neklid v podvečer](/caregiving/late-day-restlessness/).
+Alzheimerova asociace také navrhuje vytvořit vnitřní i venkovní prostory, které lze bezpečně prozkoumávat, a plánovat aktivity na dobu dne, kdy je neklid nejpravděpodobnější. Procházka v bezpečné, uzavřené zahradě může být vhodná při neklidu později během dne. Podívejte se na našeho průvodce [neklidem později během dne](/caregiving/late-day-restlessness/).
 
-Pokud se člověk opravdu ztratí, Alzheimerova asociace doporučuje okamžitě prohledat blízké okolí a volat 911, pokud ho nenajdete do 15 minut. Řekněte policii, že má demenci.
+Pokud se člověk ztratí, prohledejte blízká bezpečná místa a zároveň neprodleně kontaktujte místní policii nebo pohotovostní služby. Nečekejte pevně stanovený počet minut, než to nahlásíte. [Článek amerického ministerstva spravedlnosti (U.S. Department of Justice) z roku 2021 o vyšetřování pohřešovaných osob](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) uvádí, že policejní složky by neměly vyžadovat pevně stanovenou čekací dobu, a mezi vysoce rizikové okolnosti řadí příznaky podobné demenci. Místní postupy hlášení se mohou lišit. Sdělte, kdy a kde byl člověk naposledy viděn, co má na sobě, a poskytněte aktuální fotografii. Řiďte se pokyny místních složek; neprohledávejte nebezpečná místa sami.
 
-## Jak přizpůsobit zahradničení, jak se věci mění?
+## Jak přizpůsobit zahradničení, když se situace mění?
 
-| Pokud se to stalo těžkým | Zkuste místo toho |
+| Pokud je to teď obtížné | Zkuste místo toho |
 | --- | --- |
-| Sázení celého záhonu | Zasazení jednoho semínka do jednoho květináče |
-| Pletí (rozeznávání plevele od rostlin) | Zalévání, nebo odstraňování zjevně vadnoucích květů |
-| Chození po zahradě | Sezení u stolu s tácem zeminy a rostlinou |
-| Vůbec jít ven | Květináč s bylinkami na kuchyňském stole, nebo místo u otevřeného okna |
-| Jakákoli práce | Sedět venku spolu, poslouchat a dívat se |
+| Osázet celý záhon | Zasít jedno semínko do jednoho květináče |
+| Plení (poznat plevel od rostlin) | Zalévání nebo odstranění zřetelně uvadlých květů |
+| Chodit po zahradě | Sedět u stolu s tácem hlíny a rostlinou |
+| Jít ven vůbec | Květináč s bylinkami na kuchyňském stole nebo místo u otevřeného okna |
+| Dělat jakoukoli činnost | Sedět venku společně, poslouchat a pozorovat |
 
-Někteří lidé dávají přednost tomu, sledovat vás při práci. NIA uvádí, že nechat člověka jen sledovat je v pořádku, pokud je to to, co má rád.
+Někteří lidé raději sledují, jak pracujete vy. NIA uvádí, že je v pořádku nechat člověka jen pozorovat, pokud mu to vyhovuje.
 
-## Kdy jít dovnitř?
+## Kdy je čas jít dovnitř?
 
-Jděte dovnitř, když člověk vypadá unaveně, horko, zima, nepokojně nebo jako by byl připraven skončit. Deset krátkých a příjemných minut je lepší než dlouhé odpoledne, které skončí v tísni. Včasné zastavení je dobrý výsledek.
+Jděte dovnitř, když člověk vypadá unaveně, je mu horko nebo zima, cítí se nesvůj nebo chce skončit. Krátkých příjemných deset minut je lepší než dlouhé odpoledne, které skončí nepříjemnými pocity. Skončit dříve je dobrý výsledek.
 
-## Zahrada na obrazovce uvnitř
+## Přeneste zahradu dovnitř na obrazovku
 
-Za deštivých dnů má [Třídění spolu](/games/sort-together/) košík se zahradou pro třídění obrázků a [Karty k rozhovoru](/games/conversation-cards/) obsahují otevřené výzvy, které mohou vést k příběhům o zahradě. Pokud přicházíte z horka a cítíte spěch, nabízí [Klidné dýchání](/games/calm-breathing/) pomalou, tichou pauzu, kterou můžete sdílet. Pro více nápadů postavených na dotyku, vůni a zvuku viz náš [průvodce smyslovými aktivitami](/activities/sensory/).
+V deštivých dnech má hra [Sort Together](/games/sort-together/) zahradní košík na třídění obrázků a [Conversation Cards](/games/conversation-cards/) obsahují otevřené podněty, které mohou vést k vyprávění o zahradě. Pokud přijdete z horka a cítíte spěch, [Calm Breathing](/games/calm-breathing/) nabízí pomalou, klidnou chvilku, kterou můžete sdílet. Další nápady založené na doteku, vůni a zvuku najdete v našem [průvodci smyslovými aktivitami](/activities/sensory/).

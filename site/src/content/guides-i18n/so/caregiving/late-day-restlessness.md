@@ -1,35 +1,35 @@
 ---
-title: "Sundowning: Waxqabadyo Deggan oo Galabta Dambe ah"
-seoTitle: "Sundowning: Waxqabadyo Deggan oo Galabta Dambe"
-description: "Nidaamyo jilicsan, isbeddelka qolka iyo waxqabadyo deggan oo yarayn kara degganaan la’aanta galabta dambe ee dementia, iyo goorta dhakhtar la wacayo."
+title: "Sundowning: Hawlo deggan oo galab dambe ah"
+seoTitle: "Sundowning: Hawlo deggan galabkii dambe"
+description: "Jadwal deggan, isbeddello qolka ah iyo hawlo fudud oo laga yaabo inay yareeyaan kacsanaanta galab dambe, iyo goorta la waco dhakhtar."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning waa degganaan la’aan, jahwareer ama cadho bilaabata ama sii xumaata
-  galabta dambe ama fiidka. Tallaabooyin wax ku ool ah oo laga yaabo inay
-  caawiyaan waa nidaam maalinle oo joogto ah, iftiinka maalinta iyo
-  waxqabad maalinta hore, hurdo yar oo dambe, kafeeyn yar, nalal gudaha ah oo
-  dhalaalaya ka hor gabbal-dhaca, guri aamusan, iyo waxqabadyo deggan sida
-  muusik, sawirro ama dhar laabid. Astaamaha cusub ama sii xumaanaya waxay u
-  baahan yihiin baaritaan dhakhtar.
+  Sundowning waa kacsanaan, jahawareer ama xanaaq bilaabma ama ka sii dara
+  galab dambe ama fiidkii. Tallaabooyin wax ku ool ah oo laga yaabo inay caawiyaan
+  waxaa ka mid ah jadwal maalinle oo joogto ah, iftiin maalmeed iyo dhaqdhaqaaq
+  maalintii hore, hurdo yar galab dambe, kafeyn yar, nalal gudaha ah oo ifaya
+  ka hor intaan qorraxdu dhicin, guri ka aamusan, iyo hawlo deggan sida muusig,
+  sawirro ama laalaabidda dharka. Calaamadaha cusub ama kuwa ka sii daraya
+  waxay u baahan yihiin in dhakhtar hubiyo.
 keyPoints:
-  - "Sundowning waxay la macno tahay degganaan la’aan ama jahwareer bilaabata ama sii xumaata marka iftiinka maalintu yaraado."
-  - "Hawlaha adag, baxitaannada iyo qubeysiga dhig subaxda ama galabta hore."
-  - "Iftiinka maalinta, socod maalinle ah, hurdo yar oo dambe iyo kafeeyn yar galabta dambe waxay caawin karaan in fiidku si fudud u socdo."
-  - "Nalalka shid ka hor gabbal-dhaca, buuqa yaree, oo u beddel waxqabadyo deggan oo la yaqaan."
-  - "Hayso diiwaan si aad u aragto kicinayaasha, oo deggan oo xasillooni ahaw marka degganaan la’aanta bilaabato."
-  - "La kulan dhakhtar astaamaha cusub ama sii xumaanaya: xanuun, caabuq ama daawooyin ayaa qayb ka qaadan kara."
+  - "Sundowning macnaheedu waa kacsanaan ama jahawareer bilaabma ama ka sii dara marka iftiinka maalintii uu sii yaraanayo."
+  - "Hawlaha culus, booqashooyinka iyo maydhista ku samee subaxda ama galabtii hore."
+  - "Iftiinka maalintii, socod maalinle, hurdo yar galab dambe iyo kafeyn yar galab dambe ayaa laga yaabaa inay ka dhigaan fiidkii mid ka fudud."
+  - "Shid nalalka ka hor intaan qorraxdu dhicin, hoos u dhig buuqa, oo u beddel hawlo deggan oo la yaqaan."
+  - "Qor waxa dhacaya si aad u ogaato waxyaabaha kiciya, oo degganow oo hubi qofka marka kacsanaantu bilaabato."
+  - "La xiriir dhakhtar haddii calaamaduhu yihiin kuwo cusub ama ka sii daraya: xanuun, caabuq ama daawooyin ayaa qayb ka qaadan kara."
 faq:
-  - q: "Wakhtigee maalinta ayay sundowning inta badan dhacdaa?"
-    a: "Caadi ahaan waxay bilaabataa ama sii xumaataa galabta dambe ama fiidka hore, marka iftiinka maalintu yaraado. Waqtiga saxda ah wuu ku kala duwan yahay qof ilaa qof, taasi waa sababta diiwaan gaaban oo hal ama laba toddobaad ah uu u caawin karo."
-  - q: "Waxqabadyo noocee ah ayaa ka caawiya sundowning?"
-    a: "Waxqabadyo deggan, la yaqaan, dadaal yar u baahan ayaa inta badan ugu fiican galabta dambe: muusik dejisa, sawirro eegid, bandhig TV ama filim uu jecel yahay, dhar laabid, socod gaaban, ama cunto yar oo wada la cuno. Waxqabadyada cusub ama adag u dhig maalinta hore."
-  - q: "Ma noqon kartaa sundowning calaamad caafimaad?"
-    a: "Waxaa ka sii xumaysan kara dhibaatooyin caafimaad sida xanuun, caabuqyo sida caabuqa kaadi mareenka, dhibaatooyin hurdo ama saameyn daawo. Haddii degganaan la’aanta ay cusub tahay, kedis tahay ama sii xumaanayso, la xidhiidh dhakhtarka qofka."
-  - q: "Ma weydiiyaa dhakhtarka daawo ku saabsan sundowning?"
-    a: "Taasi waa wadahadal lala yeesho dhakhtarka. Alzheimer's Association waxay tidhaahdaa hababka aan daawo ahayn guud ahaan waa la door bidaa marka hore, oo daawo kasta oo loogu talagalay kacsanaanta fiidka la tixgeliyo kaliya kadib miisaaminta khataraha iyo faa’iidooyinka. Boggani talo daawo ma bixiyo."
+  - q: "Wakhtigee maalintii ayay sundowning badanaa dhacdaa?"
+    a: "Badanaa waxay bilaabataa ama ka sii dartaa galab dambe ama fiidkii hore, marka iftiinka maalintii uu sii yaraanayo. Wakhtiga saxda ah wuu ka duwan yahay qof ilaa qof, taas oo ah sababta qoritaanka qoraal gaaban muddo toddobaad ama laba toddobaad ay gacan ka geysan karto."
+  - q: "Hawlo noocee ah ayaa ka caawiya sundowning?"
+    a: "Hawlo deggan, la yaqaan oo dadaal yar u baahan ayaa badanaa ku habboon galab dambe: muusig deggan, daawashada sawirro, barnaamij telefishan ama filim la jecel yahay, laalaabidda dharka, socod gaaban, ama cunto fudud oo lala wadaago. Hawlaha cusub ama kuwa adag ku keydi waqti hore oo maalintii ah."
+  - q: "Sundowning ma noqon kartaa calaamad caafimaad?"
+    a: "Waxay ka sii dari karaan dhibaatooyin caafimaad sida xanuun, caabuqyo sida caabuqa kaadi-mareenka, dhibaatooyin hurdo ama waxyeellooyinka daawooyinka. Haddii kacsanaantu tahay mid cusub, si kedis ah u timid ama ka sii dareysa, la xiriir dhakhtarka qofka aad daryeesho."
+  - q: "Miyaan dhakhtarka ka weydiiyaa daawo loogu talagalay sundowning?"
+    a: "Taasi waa arrin aad kala hadasho dhakhtarka. Alzheimer's Association waxay sheegtaa in hababka aan daawada ahayn guud ahaan la doorbido marka hore, iyo in daawo kasta oo loogu talagalay kacsanaanta fiidkii la tixgeliyo oo keliya ka dib marka la miisaamo khataraha iyo faa’iidooyinka. Boggan ma bixiyo talo ku saabsan daawo."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Qoysas badan waxay arkaan isla qaab: subaxdu waa mid ku dhow deggan, laakiin marka galabtu sii socoto, qofka ku nool dementia wuu degganaan waayaa, walaacsan yahay, jahwareersan yahay ama cadhaysan yahay. Waxaa laga yaabaa inuu hore iyo dib u socdo, weydiisto inuu “guriga aado” xitaa marka uu guriga joogo, ama si fudud u walaacsanaado. Tan inta badan waxaa loo yiraahdaa sundowning.
+Qoysas badan ayaa arka isla qaabkan: subaxdu way deggan tahay, laakiin marka galabtu sii socoto, qofka la nool xasuus-daciifnimada wuxuu noqdaa mid kacsan, walwalsan, wareersan ama xanaaqsan. Waxaa laga yaabaa inuu wareego, weydiisto inuu „guriga aado” xitaa marka uu guriga joogo, ama si fudud u xanaaqo. Tan waxaa badanaa loo yaqaan sundowning.
 
-Hal xal oo keliya ma jiro, laakiin isbeddellada qaabka maalinta, qolka iyo nooca waxqabadyada aad soo jeedisid waxay ka dhigi karaan galabaha kuwo ka deggan. Boggani wuxuu ururiyaa fikrado wax ku ool ah oo aan caafimaad ahayn oo ka yimid National Institute on Aging iyo Alzheimer's Association. Ma aha talo caafimaad. Haddii astaamuhu yihiin kuwo cusub, kedis ah ama sii xumaanaya, la hadal dhakhtarka qofka.
+Ma jiro hal xal oo keliya, laakiin isbeddello lagu sameeyo habka maalinta, qolka iyo nooca hawlaha aad bixiso ayaa laga yaabaa inay galabaha ka dhigaan kuwo ka deggan. Boggan wuxuu soo ururinayaa fikrado wax ku ool ah oo aan daawo ahayn oo ka yimid National Institute on Aging iyo Alzheimer's Association. Tani ma aha talo caafimaad. Haddii calaamaduhu yihiin kuwo cusub, si kedis ah u yimid ama ka sii daraya, la hadal dhakhtarka qofka aad daryeesho.
 
 ## Waa maxay sundowning?
 
-Sundowning waa degganaan la’aan, kacsanaan, cadho ama jahwareer bilaabata ama sii xumaata marka iftiinka maalintu yaraado, galabta dambe ama fiidka hore. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) waxay xustaa in daal xad dhaaf ah uu kordhin karo degganaan la’aanta galabta dambe.
+Sundowning waa kacsanaan, buuq, xanaaq ama jahawareer bilaabma ama ka sii dara marka iftiinka maalintii uu sii yaraanayo, galab dambe ama fiidkii hore. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) waxay xustaa in daal badan uu kordhin karo kacsanaanta galab dambe.
 
-## Maxaa ka sii xumayn kara degganaan la’aanta galabta dambe?
+## Maxaa ka sii dari kara kacsanaanta galab dambe?
 
-Dhowr wax ayaa gacan ka geysan kara, inta badan isku mar. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) waxay liis gelisaa arrimo sida:
+Waxyaalo dhowr ah ayaa qayb ka qaadan kara, badanaana waa isku mar. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) waxay taxdaa arrimo ay ka mid yihiin:
 
-- daal ka dib maalin buuxda;
-- deegaan cusub ama jahwareer leh;
-- “saacad gudaha jidhka ah” oo aan isu dheelitirnayn, taasoo qofka ka dhigta mid hurdo leh maalinta oo soo jeeda habeenka;
-- iftiin yar iyo hooskii, kuwaas oo jahwareer keeni kara;
-- dareemidda walaaca ama quusashada dadka ku xeeran;
-- baahi hurdo oo yar, taasoo caadi ah dadka waaweyn.
+- daal ka yimaada maalin buuxda;
+- deegaan cusub ama wareer leh;
+- „saacad gudaha ah oo jidhka” oo aan isku waafaqsanayn, taas oo qofka ka dhigta mid maalintii hurdo badan habeenkiina soo jeeda;
+- iftiin yar iyo hooska, kuwaas oo wareer keeni kara;
+- dareenka walbahaarka ama niyad-jabka dadka ku xeeran;
+- u baahnaan hurdo yar, taas oo ku badan dadka waaweyn.
 
-NIA waxay ku dartaa sababaha kacsanaanta si guud, oo ay ku jiraan xanuun, niyad-jab ama walaac, nasasho aan ku filnayn, calool-adayg, buuq xad dhaaf ah ama dad aad u badan, iyo daawooyin gaar ah ama is-dhexgalka daawooyinka.
+NIA waxay kaloo sheegtaa sababo guud oo kacsanaan keeni kara, oo ay ku jiraan xanuun, murugo ama walbahaar, nasasho yar, calool-fadhi, buuq badan ama dad badan, iyo daawooyin gaar ah ama isdhexgalka daawooyinka.
 
-## Sidee u qorsheeyaa maalinta si fiidku u deggan yahay?
+## Sideen u qorsheyn karaa maalinta si fiidkii u noqdo mid deggan?
 
-Hawlaha adag hore u rar oo galabta dambe ka dhig mid jilicsan oo la saadaalin karo. NIA iyo Alzheimer's Association labaduba waxay ku taliyaan nidaam joogto ah. Maalin tusaale ah, oo aad u beddeli karto mid adiga kuu gaar ah:
+Hawlaha culus ku wareeji waqti hore oo maalinta ah, galab dambena ka dhig mid deggan oo la saadaalin karo. Labada NIA iyo Alzheimer's Association waxay ku talinayaan jadwal joogto ah. Tusaale maalinle ah, oo aad ku habeyn karto xaaladdaada:
 
-| Wakhtiga | Waxa laga yaabo inuu caawiyo |
+| Waqti | Waxa laga yaabo inay caawiyaan |
 | --- | --- |
-| Subax | Ballanta, qubeysiga, baxitaannada iyo hawl kasta oo dadaal u baahan, marka dad badan ay ugu feejignaan badan yihiin |
-| Subaxda dambe | Wakhti banaanka ah ama daaqad qorrax leh agteeda; socod ama waxqabad kale |
-| Duhurka | Qado weyn (Alzheimer's Association waxay soo jeedisaa qado weyn iyo casho khafiif ah) |
-| Galabta hore | Nasasho haddii loo baahdo, laakiin ka fogow hurdo dheer galabta dambe |
-| Galabta dhexe ilaa dambe | Waxqabadyo deggan, la yaqaan; cunto yar iyo cabitaan; kafeeyn la’aan |
-| Ka hor gabbal-dhaca | Nalalka gudaha shid oo daahyada xidh ka hor intaysan mugdi noqon |
-| Fiid | Cunto khafiif ah, muusik aamusan, kicin yar, nidaam sariir oo joogto ah |
+| Subax | Ballamaha, maydhista, booqashooyinka iyo hawl kasta oo dadaal u baahan, marka dad badani feejignaan badan yihiin |
+| Subax dambe | Waqti bannaanka ah ama daaqad qorrax leh agteeda; socod ama dhaqdhaqaaq kale |
+| Duhurnimo | Qado ka weyn (Alzheimer's Association waxay soo jeedisaa qado weyn iyo casho fudud) |
+| Galab hore | Nasasho haddii loo baahdo, laakiin ka fogow hurdo dheer galab dambe |
+| Galab dhexe ilaa galab dambe | Hawlo deggan oo la yaqaan; cunto fudud iyo cabitaan; kafeyn la’aan |
+| Ka hor intaan qorraxdu dhicin | Shid nalalka gudaha oo xidh daahyada ka hor intaan mugdi gelin |
+| Fiid | Cunto fudud, muusig deggan, kicin yar, jadwal hurdo oo joogto ah |
 
 Dhowr qodob oo gaar ah oo ka yimid ilaha:
 
-- **Iftiinka maalinta.** NIA waxay soo jeedisaa qorshaynta wakhti banaanka ah ama daaqad agteeda ah si qorraxda loo helo maalin kasta.
-- **Dhaqdhaqaaq maalinle ah, laakiin aan aad u badnayn.** Isku day inaad maalin kasta jidhka firfircooto adigoon qorsheynin waxqabadyo aad u badan, ayay tidhaahdaa NIA.
-- **Cabitaannada galabta dambe.** Ka fogow khamriga iyo cabitaannada kafeeynta leh, sida qaxwada ama kola, maalinta dambe (NIA). Alzheimer's Association waxay sidoo kale xustaa nikotiin.
-- **Hurdada maalinta.** Ka niyad jabi hurdada dheer iyo gam’idda galabta dambe (NIA). Alzheimer's Association waxay soo jeedisaa xaddididda hurdada maalinta haddii hurdada habeenku tahay dhibaato.
+- **Iftiinka maalintii.** NIA waxay soo jeedisaa in maalin kasta la helo waqti bannaanka ah ama daaqad agteeda iftiinka qorraxda.
+- **Dhaqdhaqaaq maalinle, laakiin aan badnayn.** Ujeeddo inaad maalin kasta jir ahaan firfircoonaato adigoo aan qorsheynin hawlo aad u badan, sida ay NIA sheegto.
+- **Cabitaannada galab dambe.** Ka fogow aalkolo iyo cabitaannada kafeynta leh, sida qaxwo ama koola, galab dambe (NIA). Alzheimer's Association waxay kaloo xustaa nikotiinka.
+- **Hurdo gaaban maalintii.** Ka jooji hurdo dheer iyo lulmo galab dambe (NIA). Alzheimer's Association waxay soo jeedisaa in la xaddido hurdada maalintii haddii hurdada habeenkii ay dhibaato tahay.
 
-Wax dheeraad ah oo ku saabsan dhismaha maalin joogto ah, eeg [waxqabadyada nidaamka maalinta](/activities/daily-routine/).
+Si aad wax badan uga ogaato dhisidda maalin joogto ah, eeg [hawlaha jadwalka maalinlaha ah](/activities/daily-routine/).
 
-## Sidee guriga uga dhigaa mid ka deggan galabta dambe?
+## Sideen guriga uga dhigi karaa mid deggan galab dambe?
 
-Yaree buuqa, ku dar iftiin oo waxyaabaha la yaqaan u dhow hay.
+Yaree buuqa, kordhi iftiinka oo ku hay waxyaabaha la yaqaan meel u dhow.
 
-- **Iftiin dhalaalaya, siman.** Alzheimer's Association waxay ku talisaa in guriga si fiican loo iftiimiyo fiidkii. Meesha shid ka hor intaysan hooskii muuqan.
-- **Buuq yar.** Dami ama hoos u dhig TV-ga iyo raadiyaha, oo xaddid booqdayaasha ama hawlaha guriga ee mashquulka ah wakhtigan. Alzheimer's Association waxay soo jeedisaa yareynta kicinta fiidka sida TV, hawlaha guriga iyo muusik cod weyn.
-- **Raaxooyin la yaqaan.** NIA waxay soo jeedisaa muusik dejisa iyo in waxyaabaha aad loo jecel yahay iyo sawirrada guriga lagu hayo.
-- **Hubinta raaxada.** Alzheimer's Association waxay ku talisaa hubinta xanuunka, gaajada, harraadka, calool-adaygga, kaadi buuxa, daalka, caabuqyada iyo cuncun maqaarka, iyo in qolka lagu hayo heerkul raaxo leh.
-- **Niyaddaada.** Dadku waxay qaataan walaaca. NIA waxay soo jeedisaa inaad gaabiso oo isku daydo inaad nasato haddii welwelkaaga uu ku darayo xiisad.
+- **Iftiin dhalaalaya oo siman.** Alzheimer's Association waxay ku talisaa in guriga si fiican loo iftiimiyo fiidkii. Iftiimi meesha ka hor intaan hoosku muuqan.
+- **Buuq yar.** Demi ama hoos u dhig telefishanka iyo raadiyaha, xaddidna booqdayaasha ama shaqooyinka guriga ee mashquulka ah wakhtigan. Alzheimer's Association waxay soo jeedisaa in la yareeyo kicinta fiidkii sida telefishan, shaqooyinka guriga iyo muusig dheer.
+- **Waxyaabo raaxo leh oo la yaqaan.** NIA waxay soo jeedisaa muusig deggan iyo in guriga lagu hayo waxyaabaha la jecel yahay iyo sawirrada.
+- **Hubinta raaxada.** Alzheimer's Association waxay ku talisaa in la hubiyo xanuun, gaajo, haraad, calool-fadhi, kaadiheysta oo buuxda, daal, caabuqyo iyo cuncun maqaarka ah, iyo in qolka lagu hayo heerkul raaxo leh.
+- **Dareenkaaga adiga.** Dadku waxay dareemaan walbahaarka. NIA waxay soo jeedisaa inaad gaabiso oo aad isku daydo inaad nasato haddii welwelkaagu uu sii kordhinayo xiisadda.
 
-## Waxqabadyo deggan noocee ah ayaan wada samayn karnaa galabta dambe?
+## Hawlo noocee ah oo deggan ayaan ku samayn karnaa galab dambe?
 
-Dooro waxqabadyo la yaqaan, aan degdeg ahayn oo si fudud loo joojin karo. Alzheimer's Association waxay soo jeedisaa waxqabadyo dejisa sida muusik deggan, sawirro ama filim la jecel yahay, iyo socod wada socda si loo yareeyo degganaan la’aanta. NIA waxay soo jeedisaa cunto yar ama cabitaan, bandhig TV oo la jecel yahay, muusik, socod, akhris, ama hawl guri oo fudud sida dhar laabid.
+Dooro hawlo la yaqaan, aan degdeg ahayn oo si fudud loo joojin karo. Alzheimer's Association waxay soo jeedisaa hawlo deggan sida muusig qabow, sawirro ama filim la jecel yahay, iyo socod lala wadaago si loo yareeyo kacsanaanta. NIA waxay soo jeedisaa cunto fudud ama cabitaan, barnaamij telefishan oo la jecel yahay, muusig, socod, akhris, ama shaqo fudud oo guriga ah sida laalaabidda dharka.
 
-Fikrado la isku dayo:
+Fikrado aad tijaabin karto:
 
-1. **Dhar wada laab.** NIA waxay soo jeedisaa hawl guri oo fudud sidan oo kale ah. Tuwaalada si fudud ayaa loo maareeyaa, hawshuna waxay leedahay dhammaad cad.
-2. **Ku ciyaar muusik la jecel yahay.** Heeso la yaqaan oo ka yimid sannadihii yaraanta, cod hoose. Heesidda hoose ee la raaco way tirsan tahay. Fikrado dheeraad ah ku jira [waxqabadyada muusikada](/activities/music/).
-3. **Eeg sawirro.** Albam sawir ah, ama dhowr sawir oo qoys ee [Lammaanaha sawirrada qoyska](/games/photo-pairs/) oo sawirrada la daayay inay muuqdaan, ayaa horseedi kara wadahadal aamusan.
-4. **Socod gaaban gudub.** Beerta, xaafadda ama marinka guriga, ka hor intaysan mugdi noqon.
-5. **Wada qaybso cunto yar iyo cabitaan.** Wax fudud, diiran oo kafeeyn la’aan ah, miiska la wada fadhiyo.
-6. **Isku-mid-ka jilicsan.** [Lammaanaha sawirrada](/games/picture-pairs/) oo leh afar kaar iyo sawirro muuqda waa fudud in la bilaabo oo fudud in la joojiyo.
-7. **Midabayn.** [Midabayn](/games/coloring/) shaashadda ama bog daabacan, iyadoon yool dhammaystir jirin.
-8. **Eegid iyo hadal.** [Kaararka wadahadalka](/games/conversation-cards/) waxay bixiyaan sawir iyo martiqaad furan. In si fudud la eego way ku filan tahay.
-9. **Nasasho neefsasho.** [Nasasho neefsasho deggan](/games/calm-breathing/) waa hakad gaabis ah oo aamusan oo adigu bilaabto oo joojiso.
-10. **Hawlo gacanta ah.** Badhamo ama sharaabaad kala saarid, buste jilicsan siman ka dhigidda, ama shay la yaqaan haysasho. Eeg [waxqabadyada dareemayaasha](/activities/sensory/).
+1. **Wada laalaaba dharka.** NIA waxay soo jeedisaa noocan shaqo fudud oo guriga ah. Tuwaalladu way fududahay in la qabto, hawshuna waxay leedahay dhammaad cad.
+2. **Daar muusig la jecel yahay.** Heeso la yaqaan oo laga soo bilaabo sannadahoodii hore, cod hoose. La heesid hoos ah waa ku filan tahay. Fikrado kale ka eeg [hawlaha muusiga](/activities/music/).
+3. **Daawo sawirro.** Buug sawirro ah, ama sawirro qoys oo kooban oo ku jira [Photo Pairs](/games/photo-pairs/) iyadoo sawirradu muuqdaan, waxay keeni karaan sheeko deggan.
+4. **Socod gaaban samee.** Beerta, agagaarka guriga ama dariiq gudaha ah, ka hor intaan qorraxdu dhicin.
+5. **Wada qaata cunto fudud iyo cabitaan.** Wax fudud, diirran oo aan kafeyn lahayn, miiska agtiisa.
+6. **Isku-aaddin fudud.** [Picture Pairs](/games/picture-pairs/) oo leh afar xabbo oo sawirradu muuqdaan waa fudud in la bilaabo oo la joojiyo.
+7. **Midabaynta.** [Coloring](/games/coloring/) shaashadda ama bog la daabacay, iyadoon ujeeddo laga lahayn in la dhammeeyo.
+8. **Daawasho iyo sheekaysi.** [Conversation Cards](/games/conversation-cards/) waxay bixiyaan sawir iyo su’aal furan. Daawashada oo keliya way ku filan tahay.
+9. **Nasasho neefsasho ah.** [Calm Breathing](/games/calm-breathing/) waa nasasho tartiib ah oo deggan oo aad adigu bilowdo oo joojiso.
+10. **Hawlo gacmeed.** Kala soocidda badhamada ama sharabaadada, simidda busto jilicsan, ama qabashada shay la yaqaan. Eeg [hawlaha dareenka](/activities/sensory/).
 
-Ka fogow ciyaaro cusub, baxitaanno mashquul ah iyo wax kasta oo u baahan xusuus ama feejignaan badan galabta dambe. U dhig subaxda.
+Ka fogow ciyaaro cusub, booqashooyin mashquul ah iyo wax kasta oo xasuus ama feejignaan badan dalbaya galab dambe. Ku keydi kuwaas subaxda.
 
-## Maxaan sameeyaa marka degganaan la’aanta bilaabato?
+## Maxaan sameeyaa marka kacsanaantu bilaabato?
 
-Deggan ahow, xasilli, oo si jilicsan u leexi. NIA waxay soo jeedisaa hadal deggan, dhegaysiga walaaca qofka, ka fogaanshaha muran, xaqiijinta inuu ammaan yahay, iyo isticmaalka taabasho jilicsan haddii ay caawiso. Kadibna isku day mashquulin: cunto yar, cabitaan, muusik ama socod.
+Isdeji, xaqiiji, oo si tartiib ah u jiheey. NIA waxay soo jeedisaa inaad si deggan u hadasho, dhageysato welwelka qofka, iska ilaaliso dood, u xaqiijiso inuu ammaan yahay, oo isticmaasho taabasho jilicsan haddii ay caawiso. Kadib isku day inaad dareenka u wareejiso: cunto fudud, cabitaan, muusig ama socod.
 
-Alzheimer's Association waxay soo jeedisaa weedho sida “Halkan waad ammaan tahay” iyo “Waan ka xumahay inaad walaacsan tahay,” waxayna ku talisaa ku darista iftiin, gaabinta, iyo xaddidista kicinta. Ha gaarsiin gees, ha buuxin, ha xakamayn qofka, ama ha la murmin.
+Alzheimer's Association waxay soo jeedisaa weedho sida „Halkan waad ammaan tahay” iyo „Waan ka xumahay inaad murugaysan tahay,” waxayna ku talisaa in iftiinka la kordhiyo, la gaabiyo oo kicinta la xaddido. Ha iskuurin, ha cidhiidhin hana xakameyn qofka, hana la doodin.
 
-Haddii qofku noqdo mid is-weyn, NIA waxay ku talisaa joogitaanka masaafo badbaado leh ilaa dabeecaddu joogto. Xaalad degdeg ah, wac lambarka gurmadka degdegga ah ee gobolkaaga oo sharax in qofku qabo dementia.
+Haddii qofku noqdo mid gardarro leh, NIA waxay ku talisaa inaad joogto masaafo ammaan ah ilaa dhaqanku joogsado. Xaalad degdeg ah, wac 911 oo sharax in qofku la nool yahay xasuus-daciifnimo. [Hagahayaga ku saabsan ka jawaabista xanaaqa iyo gardarrada](/caregiving/when-anger-becomes-aggression-with-dementia/) wuxuu daboolayaa badbaadada degdegga ah iyo waxa la sameeyo kadib.
 
-Hagayaasheena [isgaarsiinta](/caregiving/communication-tips/) iyo [waxa la sameeyo marka ay yiraahdaan maya](/caregiving/when-they-say-no/) waxay leeyihiin wax dheeraad ah oo ku saabsan erayada dejinta.
+Hagayaashayada ku saabsan [isgaarsiinta](/caregiving/communication-tips/) iyo [waxa la sameeyo marka ay yiraahdaan maya](/caregiving/when-they-say-no/) waxay bixiyaan talooyin dheeraad ah oo ku saabsan erayo deggan.
 
-## Sidee u helaa kicinayaasha?
+## Sideen u ogaadaa waxyaabaha kiciya?
 
-Hayso diiwaan gaaban hal ama laba toddobaad. Alzheimer's Association waxay ku talisaa raadraaca waxa dhaca ka hor dhacdooyinka sundowning si loo aqoonsado kicinayaasha. Qor wakhtiga degganaan la’aanta ay bilaabatay, waxa dhacay saacaddii hore, hurdooyinka, cuntooyinka iyo cabitaannada, booqdayaasha, buuqa iyo iftiinka. Diiwaanka u keen dhakhtarka. NIA waxay xustaa in raadraaca isbeddellada dabeecadda ay caawin karto daryeelayaasha iyo bixiyeyaasha daryeelka caafimaadka inay aqoonsadaan qaab.
+Qor qoraal gaaban muddo toddobaad ama laba toddobaad ah. Alzheimer's Association waxay ku talisaa in la raadraaco waxa dhaca ka hor dhacdooyinka sundowning si loo ogaado waxyaabaha kiciya. Qor wakhtiga kacsanaantu bilaabatay, waxa dhacay saacaddii ka horreysay, hurdada maalintii, cuntada iyo cabitaannada, booqdayaasha, buuqa iyo iftiinka. Qoraalka u keen dhakhtarka. NIA waxay xustaa in la socoshada isbeddellada dhaqanka ay ka caawin karto daryeelayaasha iyo bixiyeyaasha daryeelka caafimaadka inay aqoonsadaan qaab.
 
-## Goorma ayaan wacaa dhakhtar ee ku saabsan sundowning?
+## Goorma ayaan dhakhtar kala xiriiraa sundowning?
 
-La xidhiidh dhakhtarka qofka haddii degganaan la’aanta ay cusub tahay, si kedis ah u sii xumaatay, ama la socoto isbeddello kale. NIA waxay tidhaahdaa isbeddelladii kedis ahaa ama si degdeg ah u kala duwanaaday ee dabeecadda, gaar ahaan caabuq ka dib ama isbeddelka daawada dhawaan, in loo keeno dhakhtar isla markiiba.
+La xiriir dhakhtarka qofka aad daryeesho haddii kacsanaantu tahay mid cusub, si kedis ah uga sii dartay, ama ay la socoto isbeddello kale. NIA waxay sheegtaa in isbeddellada dhaqanka ee kediska ah ama si degdeg ah isu beddela, gaar ahaan caabuq ka dib ama isbeddello daawo oo dhowaan dhacay, ay tahay in isla markiiba loo sheego dhakhtar.
 
-Dhakhtarka weydii inuu hubiyo waxyaabaha fiidka ka dhigi kara mid ka adag. Alzheimer's Association waxay xustaa dhibaatooyin jidheed sida caabuqyada kaadi mareenka, kaadi xakamayn la’aan, lugaha oo aan degganayn (restless legs) iyo hurdo-neef-qabad (sleep apnea), waxayna soo jeedisaa in la weydiiyo wakhtiyada maalinta ugu wanaagsan ee daawo kasta. NIA waxay liis gelisaa xanuun, calool-adayg iyo saameynta daawada ama is-dhexgalka daawooyinka inay ka mid yihiin sababaha suurtagalka ah ee kacsanaanta.
+Ka codso dhakhtarka inuu hubiyo waxyaabaha ka dhigi kara fiidkii mid adag. Alzheimer's Association waxay xustaa dhibaatooyin jireed sida caabuqa kaadi-mareenka, kaadi-xajin la’aan, lugaha oo aan xasilloonayn iyo apnea hurdo, waxayna soo jeedisaa in la weydiiyo wakhtiyada maalintii ee ugu fiican daawo kasta. NIA waxay ku taxdaa xanuun, calool-fadhi iyo waxyeellooyinka daawooyinka ama isdhexgalkooda inay ka mid yihiin sababaha suurtagalka ah ee kacsanaanta.
 
-Alzheimer's Association waxay tidhaahdaa hababka aan daawo ahayn guud ahaan waa la door bidaa dhibaatooyinka hurdada ee la xidhiidha Alzheimer, oo daawada kacsanaanta galabta dambe la tixgeliyo kaliya haddii kuwaas ay fashilmaan, kadib miisaaminta khataraha iyo faa’iidooyinka. Go’aankaasi waa dhakhtarka. Ha bilaabin, ha joojin ama ha beddelin daawo, kaaliye hurdo ama kaabayaal la’aanteed talo caafimaad.
+Alzheimer's Association waxay sheegtaa in hababka aan daawada ahayn guud ahaan la doorbido dhibaatooyinka hurdada ee la xiriira Alzheimer's, iyo in daawo loogu talagalay kacsanaanta galab dambe la tixgeliyo oo keliya haddii kuwaas shaqeyn waayaan, ka dib marka la miisaamo khataraha iyo faa’iidooyinka. Go’aankaas waxaa iska leh dhakhtarka. Ha bilaabin, ha joojin hana beddelin daawo, caawiyaha hurdada ama kaabis la’aan talo caafimaad.
 
-## Sidee naftayda ugu gudbaa fiidka?
+## Sideen anigu uga gudbaa fiidadka?
 
-Galabaha dambe waxay noqon karaan qaybta ugu adag ee maalinta daryeelaha. Haddii aad karto, weydii xubin qoys, saaxiib ama kaaliye la bixiyay inuu daboolo galabta dambe dhowr maalmood toddobaadkii, xitaa hal saac. Hagahayaga [daryeelka naftaada ee daryeelaha](/caregiving/caregiver-self-care/) wuxuu liis gelinayaa xulashooyinka nasashada iyo khadka caawimaadda dementia ee bilaashka ah ee wadankaaga, haddii uu jiro.
+Galabaha dambe waxay noqon karaan qaybta ugu adag ee maalinta qofka daryeelka bixiya. Haddii ay suurtagal tahay, weydiiso qof qoyska ka mid ah, saaxiib ama caawiye la bixiyo inuu daboolo galab dambe dhowr maalmood toddobaadkii, xitaa hal saac. Hagahayaga ku saabsan [is-daryeelidda daryeelaha](/caregiving/caregiver-self-care/) wuxuu taxayaa fursadaha nasashada iyo khadka bilaashka ah ee Alzheimer's Association 24/7 Helpline.

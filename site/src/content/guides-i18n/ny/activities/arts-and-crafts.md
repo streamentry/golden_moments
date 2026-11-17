@@ -1,32 +1,34 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Zojambula ndi Ntchito za Manja kwa Akuluakulu"
+seoTitle: "Zojambula ndi Ntchito za Manja kwa Anthu Okhala ndi Matenda a Kuiwala"
+description: "Malingaliro a zojambula ndi ntchito za manja kwa akuluakulu amene akukhala ndi matenda a kuiwala, ndi malangizo okonzekera ndi kusintha ntchito."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Ntchito zabwino za zojambula ndi za manja kwa akuluakulu amene akukhala ndi
+  matenda a kuiwala zimawoneka ndi kumveka ngati za akuluakulu: utoto wa madzi,
+  kupanga zithunzi kuchokera m'magazini, kukonza maluwa, dongo, kupanga makadi
+  osavuta kapena masamba opaka utoto a akuluakulu. Konzani zipangizo zochepa,
+  thandizani kuyamba ngati pakufunika, lankhulani pamene mukugwira ntchito, ndipo
+  onani kuti nthawi imene muli limodzi ndiyo yofunika kwambiri. Kutsiriza
+  ntchito ndi chisankho, si chofunikira.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Sankhani zipangizo ndi mitu yomwe imawoneka ngati ya akuluakulu, monga pepala la utoto wa madzi, maluwa enieni ndi zithunzi za m'magazini, osati zonyezimira, zomata kapena masamba a zithunzi za ana."
+  - "Ganizirani kwambiri za momwe ntchito ikuyendera: mitundu, momwe dongo likumvekera, ndi kukambirana. Kutsiriza ntchito ndi chinthu chowonjezera, si cholinga."
+  - "Perekani cholinga ngati n'kotheka, monga khadi la mdzukulu kapena chokongoletsera patebulo."
+  - "Thandizani munthu kuyamba, kenako mupatseni mpata. Kuyamba limodzi kujambula kamzere ndi burashi nthawi zambiri kumakhala kokwanira."
+  - "Ntchito siziyenera kutsirizidwa nthawi imodzi, ndipo kusiya msanga kuli bwino nthawi zonse."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Kodi ndingatani kuti ntchito za manja zisamaoneke ngati za ana?"
+    a: "Gwiritsani ntchito zipangizo zenizeni za zaluso, mitu ya akuluakulu ndi mawu aulemu. M'malo mwa zonyezimira ndi masamba a zithunzi za ana, gwiritsani ntchito pepala la utoto wa madzi, nsalu, maluwa, zithunzi za m'magazini ndi masamba opaka utoto a akuluakulu. Musayamike ntchito ngati momwe mungayamikire zojambula za mwana; lankhulani za ntchitoyo monga momwe mungalankhulire ndi mnzanu wamkulu."
+  - q: "Kodi ndi ntchito ziti za zaluso zomwe zimagwira bwino ntchito pa matenda a kuiwala a nthawi yotsatira?"
+    a: "Ntchito zosavuta zomwe zimakhudza kumva ndi kuona zimagwira bwino ntchito pambuyo pake: kujambula mizere ikuluikulu ndi burashi yayikulu, kufinya dongo lofewa, kukonza maluwa ochepa mu vase, kapena kusanja zidutswa za nsalu potengera momwe zikukhalira. Mungafunike kuyamba kusuntha limodzi. Kuonera inu mukujambula ndi kukambirana za mitundu ndi njira ina yotengerapo mbali."
+  - q: "Bwanji ngati akunena kuti sangathe kujambula?"
+    a: "Chotsani nkhawa. Yesani ntchito zomwe zilibe yankho lolondola, monga kupaka utoto wa madzi mosavuta, kupanga chithunzi kuchokera m'magazini, kapena kukonza maluwa. Mungathenso kunena kuti mukufuna thandizo pa chinthu china, monga kusankha mitundu ya khadi, kuti ntchitoyo imveke ngati thandizo osati mayeso."
+  - q: "Kodi masamba opaka utoto ndi a ana kwambiri kwa akuluakulu?"
+    a: "Si choncho ngati apangidwira akuluakulu. Sankhani masamba okhala ndi mitu ya akuluakulu monga minda, zokutira za nsalu, magalimoto kapena malo achilengedwe, ndipo muwapereke ngati njira yopumulira osati ngati phunziro. Masamba athu opaka utoto angasindikizidwe kapena kupakidwa utoto pa tabuleti."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +50,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Zojambula ndi ntchito za manja zimapatsa anthu amene akukhala ndi matenda a kuiwala njira yofotokozera zakukhosi kwawo popanda kudalira kupeza mawu oyenera. Alzheimer's Association imanena kuti ntchito za zaluso zingabweretse [kumva kuti wachita zinazake komanso kukhala ndi cholinga](https://www.alz.org/help-support/caregiving/daily-care/art-music) komanso mwayi wodzionetsera, kwa wosamalira komanso kwa munthu amene ali ndi matenda a kuiwala. Chofunika kwambiri ndikusunga zinthu kukhala za akuluakulu, zosavuta komanso zopanda kukakamiza. Tsambali likupereka ntchito zinazake, momwe mungazikonzekere komanso momwe mungazisinthire zinthu zikasintha.
 
-## What makes an art activity adult and not childish?
+## Kodi nchiyani chimapangitsa ntchito ya zaluso kukhala ya akuluakulu osati ya ana?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Ntchito ya zaluso ya akuluakulu imagwiritsa ntchito zipangizo zenizeni, mitu ya akuluakulu ndi mawu aulemu. Alzheimer's Association imalangiza kuti ntchito zizikhala pa mlingo wa akuluakulu komanso kupewa chilichonse chomwe chingawoneke ngati chonyoza kapena cha ana.
 
-| Feels childish | Feels adult |
+| Imaoneka ngati ya ana | Imaoneka ngati ya akuluakulu |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Zonyezimira, zomata za thovu, maso opangira | Pepala la utoto wa madzi, nsalu, maluwa owumitsidwa |
+| Masamba opaka utoto a zithunzi za ana | Masamba opaka utoto a minda, zokutira za nsalu, magalimoto kapena malo achilengedwe |
+| Kuyamika “Wachita bwino” pa chilembo chilichonse | Kukambirana kwenikweni: “Mtundu wabuluu uwu ukuoneka bwino pafupi ndi wobiriwira” |
+| Ntchito ya manja yopanda ntchito | Khadi la mnzani, chokongoletsera patebulo, mphatso |
+| Malangizo owerengedwa ngati phunziro | Kuyitana mokoma: “Kodi mungandithandize pa izi?” |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Ganizirani zomwe munthuyo amakonda. Munthu amene amakonda kusoka angasangalale kugwira nsalu. Munthu amene anali injiniya atapuma pantchito angakonde chinthu chophatikiza cha zidutswa zazikulu kapena kusanja zida za ntchito ina. Mphunzitsi wakale angasangalale kupanga makadi.
 
-## Why focus on the process, not the product?
+## N'chifukwa chiyani tiyenera kuganizira za momwe ntchito ikuyendera, osati zotsatira?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Chifukwa nthawi imene muli limodzi ndiyo yofunika kwambiri. Buku la Alzheimer's Association la [ntchito zapakhomo](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) limati ganizirani za momwe ntchito ikuyendera, osati zotsatira. Chithunzi chomwe chili “buluu wokha” chidakali chithunzi. Chithunzi chopangidwa kuchokera m'magazini chokhala ndi zithunzi zitatu chidakali chithunzi chopangidwa motero.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Bungweli limanenanso kuti wojambula waluso akhoza kukhumudwa ndi kusintha kwa ntchito yake, pomwe munthu amene amangojambula mwachisangalalo akhoza kusangalala ndi mwayi watsopano wodzionetsera. Ngati munthuyo anali wojambula waluso, yesani njira ina yosiyana ndi yomwe ankadziwa bwino, kuti imveke ngati masewera osati kufananiza.
 
-## Arts and crafts ideas to try
+## Malingaliro a zojambula ndi ntchito za manja oti muyesere
 
-Each idea includes how to make it simpler if it becomes hard.
+Lingaliro lililonse likuphatikizapo momwe mungalifewetsere ngati likukhala lovuta.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Kupaka utoto wa madzi.** Nyowetsani pepala lolemera la utoto wa madzi ndipo lolani munthuyo adonthere utoto ndi burashi yayikulu. Mitunduyo imafalikira yokha, kotero palibe zotsatira zolakwika. *Kufewetsa:* perekani mitundu iwiri yokha, kapena jambulani ndi madzi pa pepala lakuda lomwe limasonyeza madontho onyowa.
+2. **Chithunzi chopangidwa kuchokera m'magazini.** Dulani zithunzi pasadakhale kuchokera m'magazini za ulimi wa dimba, kuphika, magalimoto, maulendo kapena zokonda zakale za munthuyo. Muloleni kusankha ndi kumata zithunzizo pa khadi lolimba. *Kufewetsa:* perekani zithunzi zinayi zodulidwa kale ndi chomatira, ndipo matani limodzi.
+3. **Kukonza maluwa.** Alzheimer's Foundation of America imalimbikitsa [kukonza maluwa odulidwa ndi masamba](https://alzfdn.org/dementia-activity-gardening/) kukhala zokongoletsa zosavuta za nyengo. Gwiritsani ntchito vase yolemera, yokhazikika ndi nthambi zodulidwa kale. *Kufewetsa:* ikani nthambi zochepa mu kapu yaing'ono, imodzi imodzi.
+4. **Makadi a maluwa owumitsidwa.** Wumitsani maluwa kuchokera mu mtolo mwa kuwayika pakati pa masamba a buku kwa sabata imodzi, kenako muwamate pa khadi lopindidwa. *Kufewetsa:* inu ikani chomatira, iwo akanikize duwalo.
+5. **Masamba opaka utoto a akuluakulu.** Sankhani masamba okhala ndi mizere yowonekera bwino ndi zinthu zenizeni. Masamba athu osindikizidwa a [kupaka utoto](/games/coloring/) angathenso kupakidwa utoto pa chophimba podina mtundu, kenako gawo la chithunzi. *Kufewetsa:* malo akuluakulu, mitundu yochepa, zolembera zokhuthala.
+6. **Dongo kapena ufa wofewa.** Gubuduzani, finyani ndi kuumba dongo louma pa mpweya kapena ufa wofewa woumba. Kufinya tsamba pa dongo kumapanga chithunzi chosavuta. *Kufewetsa:* kungofinya ndi kugubuduza kumakhala ntchito yokwanira. Onetsetsani kuti munthuyo asayike dongo mkamwa.
+7. **Kupanga makadi.** Alzheimer's Association imalimbikitsa kuiona ngati ntchito yeniyeni: “Tikutumiza khadi lofunira mnzani kuchira msanga. Kodi mungandithandize?” Makadi odulidwa kale ndi zomata zochepa za maluwa kapena masitampu zimagwira bwino ntchito.
+8. **Kupanga album ya zithunzi.** Ikani pamodzi makope a zithunzi zakale, makadi a positi kapena matikiti pa masamba a album. Lankhulani za chilichonse pamene mukuchita zimenezo. Onani kalozera wathu wa [kukumbukira zakale](/activities/reminiscence/) kuti mupeze njira zofewa zolankhulira za zakale.
+9. **Mabodi a nsalu ndi momwe zinthu zimamvekera.** Matani zidutswa za nsalu za corduroy, velvet, burlap ndi silika pa khadi lolimba. Kupanga ndi ntchito yokha; kuzikhudza pambuyo pake ndi ntchito ina. Malingaliro ena ali mu kalozera wathu wa [ntchito zokhudza kumva ndi kuona](/activities/sensory/).
+10. **Kumaliza matabwa osavuta.** Kwa munthu amene ankakonda ntchito za matabwa, kupukuta chitsa chamatabwa chosalala kapena kupaka utoto nyumba ya mbalame ya m'bokosi kungamveke ngati chinthu chodziwika. Chotsani zida zakuthwa ndipo muziyang'anira.
+11. **Kujambula motsatira nyimbo.** Ikani nyimbo yomwe amakonda ndipo jambulani mawonekedwe kapena mitundu yogwirizana ndi mmene nyimboyo ikumvekera. Izi zimaphatikiza ntchito ziwiri zomwe anthu ambiri amasangalala nazo. Onani [ntchito za nyimbo](/activities/music/).
 
-## How do I set up an art session?
+## Kodi ndingakonzekere bwanji nthawi ya zaluso?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Konzekerani poyamba.** Dulani, konzani ndi kuyala chilichonse musanaitane munthuyo. Kudikirira pamene mukufunafuna lumo kungapangitse mphindi yofunikayo kutha.
+2. **Sungani zinthu kukhala zochepa.** Mitundu iwiri kapena itatu, burashi imodzi, pepala limodzi. Zosankha zambiri zimatha kusokoneza.
+3. **Tetezani tebulo.** Nsalu ya pulasitiki kapena nsalu yakale imathandiza kuti musade nkhawa ndi litsiro.
+4. **Khalani pambali pake.** Gwirani ntchito yanu pafupi ndi yake. Zimamveka ngati mukuchita limodzi, osati kuti mukumuyang'anira.
+5. **Muthandizeni kuyamba.** Alzheimer's Association imanena kuti mungafunike kuyamba kusuntha burashi ndi munthuyo. Akangoyamba, anthu ambiri amapitiriza.
+6. **Lankhulani pamene mukugwira ntchito.** Nenani za mitundu ndi momwe zinthu zikukhalira, kapena lolani zalusozo zitsogolere ku nkhani. Pewani mafunso ngati mayeso onga “Ichi ndi chiyani?”
+7. **Lolani nthawi yokwanira.** Ntchito siyenera kutsirizidwa nthawi imodzi.
 
-## How do I adapt art as dementia changes?
+## Kodi ndingasinthe bwanji zaluso pamene matenda a kuiwala akusintha?
 
-| Stage | What tends to work | What to adjust |
+| Gawo | Zomwe nthawi zambiri zimagwira ntchito | Zomwe mungasinthe |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Koyambirira | Makalasi, masamba opaka utoto atsatanetsatane, ma album a zithunzi, kupanga makadi, kujambula kuchokera pa chithunzi | Perekani mwayi wosankha ntchito; sungani kukhala kocheza |
+| Pakati | Zithunzi zodulidwa kale, kupaka utoto wa madzi, kukonza maluwa, kupaka utoto malo akuluakulu | Chinthu chimodzi pa nthawi; inu muzidula ndi kumata |
+| Pambuyo pake | Mizere ikuluikulu ya burashi, kufinya dongo, kukhudza nsalu, kumuonera akujambula | Ganizirani za kumva ndi kuona; tsogolerani dzanja mofatsa ngati akufuna |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS imalimbikitsa kuti m'magawo omaliza, ntchito nthawi zambiri zimakhala zosavuta ndipo zimayang'ana kwambiri pa kumva ndi kuona. Kuonera munthu wina akujambula, ndi kukambirana za mitundu, ndi njira yeniyeni yotengerapo mbali. Kuti mupeze malingaliro ena pa gawo lililonse, onani [ntchito pa gawo lililonse](/activities/ideas/).
 
-## Safety with art supplies
+## Chitetezo pa zipangizo za zaluso
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Sankhani utoto, zolembera ndi chomatira zopanda poizoni.
+- Sungani lumo, mipeni ya ntchito za manja ndi mfuti za chomatira chotentha kutali. Muzidula nokha chilichonse, pasadakhale.
+- Yang'anirani ngati wina akuika dongo, utoto kapena zinthu zazing'ono mkamwa.
+- Gwiritsani ntchito zotengera ndi ma vase olemera, okhazikika a madzi.
 
-## When should we stop?
+## Kodi tiyenera kusiya liti?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Lekani pamene chidwi chikuchepa kapena kukhumudwa kukuoneka. Alzheimer's Association imalimbikitsa kusiya kapena kusintha ntchito pamene chidwi chikuchepa kapena kukhumudwa kukula. Ikani ntchitoyo pamalo otetezeka ndipo mupatseni chinthu chopumulira. Mungabwererenso mawa, kapena ayi. Zonsezi zili bwino.
 
-## Display the work, if the person wants
+## Onetsani ntchitoyo, ngati munthuyo akufuna
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Kumata chithunzi pa firiji kapena kuyika chithunzi chopangidwa m'magalasi kungakhale njira yabata yosonyezera ulemu. Funsani kaye. Anthu ena amasangalala kuona ntchito yawo pakhoma; ena sangafune.
 
-## Pair art with our games
+## Phatikizani zaluso ndi masewera athu
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Pa masiku omwe kukonza utoto kuli kovuta kwambiri, [Coloring](/games/coloring/) imagwira ntchito pa tabuleti popanda litsiro. [Picture Puzzle](/games/picture-puzzle/) imasunga chithunzi chonse chowonekera ngati chitsogozo pamene mukusinthana zidutswa. [Conversation Cards](/games/conversation-cards/) imapereka mafunso otseguka omwe angatsogolere kuchokera pa chithunzi kupita ku nkhani. Zonsezi zilibe kauntala ya nthawi kapena mapointi. Mungathenso kusindikiza masamba kuchokera mu mndandanda wathu wa [ntchito zosindikizidwa](/activities/printable/).

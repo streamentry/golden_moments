@@ -1,34 +1,34 @@
 ---
-title: "Madaling Trivia para sa Nakatatanda na may Dementia, Nang Walang Pagkabalisa"
-seoTitle: "Madaling Trivia para sa Nakatatanda na may Dementia: 50 Tanong"
-description: "50 madaling tanong sa trivia para sa nakatatanda na may dementia, na may pagpipilian ng sagot at paksa ng usapan. Alamin kung paano ito gawin nang maayos."
+title: "Madaling Trivia para sa May Dementia, Walang Presyon"
+seoTitle: "Mga Tanong sa Trivia para sa May Dementia, May Sagot"
+description: "50 madaling tanong sa trivia para sa nakatatandang may dementia, may mga pagpipilian at mapag-uusapan, at paano ito gawin nang walang pressure."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gumagana ang madaling trivia para sa nakatatanda na may dementia kapag parang
-  kuwentuhan ito, hindi pagsusulit. Magtanong tungkol sa mga bagay na natutuhan
-  noon pa, gaya ng lumang kanta, kasabihan, pista at pang-araw-araw na buhay, at
-  laging mag-alok ng dalawa o tatlong pagpipilian. Ibigay ang sagot nang maluwag,
-  huwag pumili ng iisang tao, huwag itala ang puntos, at gamitin ang bawat sagot
-  para magsimula ng kuwento. Ang mga tanong na “ito o iyon” na walang maling
-  sagot ay angkop sa mas huling yugto.
+  Ang madaling trivia para sa mga nakatatandang may dementia ay gumagana kapag
+  parang usapan ito, hindi pagsusulit. Magtanong tungkol sa mga bagay na matagal
+  nang alam, tulad ng mga lumang awit, kasabihan, pagdiriwang, at pang-araw-araw
+  na buhay, at palaging magbigay ng dalawa o tatlong pagpipilian. Sabihin nang
+  malaya ang sagot, huwag pumili ng isang tao, huwag magbilang ng puntos, at
+  gamitin ang bawat sagot para magsimula ng kuwento. Ang mga tanong na "ito o
+  iyon" na walang maling sagot ay angkop sa mga susunod na yugto.
 keyPoints:
-  - "Magtanong tungkol sa mga bagay na matagal nang pamilyar: kanta, kasabihan, pista, pagkain at pang-araw-araw na buhay mula ilang taon na ang nakaraan."
-  - "Mag-alok ng dalawa o tatlong pagpipilian para ang sagot ay makilala sa halip na maalala."
-  - "Sabihin ang sagot nang may init at lumipat na. Ang anumang hulang nagsisimula ng kuwento ay magandang hula."
-  - "Walang puntos, walang kompetisyong pangkoponan, at walang tinatawag na iisang tao. Hayaang manggaling ang mga sagot sa buong silid."
-  - "Kapag naging mahirap pumili ng sagot, lumipat sa mga tanong na “ito o iyon” na walang tamang sagot."
+  - "Magtanong tungkol sa mga bagay na matagal nang pamilyar: mga awit, kasabihan, pagdiriwang, pagkain, at pang-araw-araw na buhay mula noong nakaraan."
+  - "Magbigay ng dalawa o tatlong pagpipilian upang makilala ang sagot sa halip na alalahanin ito mula sa wala."
+  - "Sabihin ang sagot nang magiliw at magpatuloy. Anumang hula na nagsisimula ng kuwento ay magandang hula."
+  - "Walang puntos, walang mga pangkat na nag-uunahan, walang pagtawag sa iisang tao. Hayaan ang mga sagot na manggaling sa buong grupo."
+  - "Kapag nahihirapan nang pumili sa mga sagot, lumipat sa mga tanong na ito-o-iyon na walang tama o maling sagot."
 faq:
-  - q: "Mabuti bang aktibidad ang trivia para sa taong may dementia?"
-    a: "Maaari, kung banayad ang pagpapatakbo. Inililista ng Alzheimer's Foundation of America ang trivia sa mga aktibidad para sa maagang yugto. Panatilihing tungkol sa matagal nang pamilyar na paksa ang mga tanong, mag-alok ng pagpipilian, huwag ilagay sa alanganin ang iisang tao, at ituring ang mga sagot bilang daan tungo sa usapan sa halip na pagsusulit."
-  - q: "Anong paksa ang pinakamahusay para sa trivia tungkol sa dementia?"
-    a: "Kadalasang pinakagumagana ang mga bagay na natutuhan noon pa: sikat na kanta at mang-aawit mula sa kabataan ng tao, pamilyar na kasabihan, pista, pagkain, isport, at pang-araw-araw na buhay gaya ng paghahatid ng gatas at rotary phone. Iwasan ang kamakailang balita at anumang nangangailangan ng pag-alala ng bagay mula sa mas maagang bahagi ng sesyon."
-  - q: "Paano ko patatakbuhin ang trivia sa care home nang hindi napapahiya ang sinuman?"
-    a: "Basahin ang bawat tanong sa buong grupo, ipakita o sabihin ang mga pagpipilian, at tanggapin ang sagot mula kaninuman. Huwag tawagin ang mga indibidwal o magtala ng puntos. Sabihin ang sagot nang nakangiti anuman ang hinula, at magtanong ng karugtong gaya ng “Sino rito ang nakapanood na sa sinehan sa loob ng kotse?” para maging kuwento ito."
-  - q: "Ano ang maaari kong gawin sa halip na trivia sa mga huling yugto?"
-    a: "Lumipat sa mga tanong na walang maling sagot, gaya ng “Kape o tsaa?” o “Dalampasigan o bundok?”, at sa magkasamang pagtatapos ng pamilyar na kasabihan o kanta. Gumagana rin nang maayos ang pagtingin sa mga larawan at pagdeskribe ng mga ito nang magkasama."
+  - q: "Mabuti bang gawain ang trivia para sa mga taong nabubuhay na may dementia?"
+    a: "Maaari, kung gagawin ito nang mahinahon. Binabanggit ng Alzheimer's Foundation of America ang trivia sa mga gawain para sa maagang yugto. Panatilihing tungkol sa mga matagal nang pamilyar na paksa ang mga tanong, magbigay ng mga pagpipilian, huwag ilagay sa alanganin ang isang tao, at ituring ang mga sagot bilang paraan ng pag-uusap kaysa sa pagsusulit."
+  - q: "Anong mga paksa ang pinakaangkop para sa trivia para sa may dementia?"
+    a: "Ang mga bagay na natutuhan noon pang matagal na ang kadalasang pinakaangkop: mga sikat na awit at mang-aawit noong kabataan ng tao, mga pamilyar na kasabihan, pagdiriwang, pagkain, isports, at pang-araw-araw na buhay tulad ng paghahatid ng gatas at mga teleponong umiikot ang dial. Iwasan ang mga kamakailang balita at anumang bagay na kailangang alalahanin mula pa sa naunang bahagi ng sesyon."
+  - q: "Paano ako magpapatakbo ng trivia sa isang care home nang hindi napapahiya ang sinuman?"
+    a: "Basahin ang bawat tanong sa buong grupo, ipakita o sabihin ang mga pagpipilian, at tanggapin ang mga sagot mula sa sinuman. Huwag tawagin ang mga indibidwal o magbilang ng puntos. Sabihin ang sagot nang may ngiti kahit ano pa ang nahulaan, at magtanong ng karugtong tulad ng “Sino rito ang nakapunta na sa isang drive-in?” upang maging mga kuwento ito."
+  - q: "Ano ang maaari kong gawin kapalit ng trivia sa mga susunod na yugto?"
+    a: "Lumipat sa mga tanong na walang maling sagot, tulad ng “Kape o tsaa?” o “Tabing-dagat o kabundukan?”, at sa sabayang pagdugtong ng mga pamilyar na kasabihan o awit. Maganda rin ang sabayang pagtingin at paglalarawan sa mga larawan."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -47,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Isa ang trivia sa pinakahinihiling na aktibidad ng grupo sa mga care home at day program, at maraming pamilya ang naglalaro nito sa mesa ng kusina. Kapag ginawa sa karaniwang paraan, na may puntos at iisang taong sumasagot, maaaring maramdaman ng taong may dementia na inilagay siya sa alanganin. Kapag banayad ang pagpapatakbo, ito ay masiglang paraan para makarinig ng kuwento. Sa ibaba ay 50 madaling tanong na may pagpipilian ng sagot at paksa ng usapan para sa bawat isa, kasunod ng kung paano magpatakbo ng sesyon.
+Ang trivia ay isa sa mga pinakahinihiling na gawaing panggrupo sa mga care home at day program, at nilalaro rin ito ng maraming pamilya sa hapag-kainan. Kapag ginawa sa karaniwang paraan, na may mga puntos at iisang taong sumasagot, maaari itong magparamdam sa isang taong may dementia na siya ay nasa alanganin. Kapag ginawa nang mahinahon, isa itong masayang paraan upang makinig sa mga kuwento. Nasa ibaba ang 50 madaling tanong na may mga pagpipilian ng sagot at may mapag-uusapan para sa bawat isa, at pagkatapos ay kung paano magpatakbo ng isang sesyon.
 
-## Paano gagawing angkop ang trivia para sa taong may dementia?
+## Paano mo gagawing epektibo ang trivia para sa isang taong may dementia?
 
-Gawin itong tungkol sa pagkilala at pag-alala sa mga bagay noon pa, at gawing malugod na tinatanggap ang bawat sagot.
+Gawin itong tungkol sa pagkilala at pag-alala sa mga bagay mula noon, at gawing katanggap-tanggap ang bawat sagot.
 
-1. **Magtanong tungkol sa malayong nakaraan.** Sinasabi ng [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) na ang pinakakaraniwang maagang sintomas ng Alzheimer's ay hirap sa pag-alala ng bagong natutunang impormasyon. Ang mga kanta, kasabihan at pang-araw-araw na buhay mula ilang dekada na ang nakalipas ay kadalasang mas madaling batayan.
-2. **Laging magbigay ng pagpipilian.** Mas madaling pumili ng tamang sagot mula sa dalawa o tatlo kaysa lumikha nito mula sa wala.
-3. **Basahin nang malakas ang mga tanong at ipakita nang malaki.** Nakatutulong ang whiteboard o tablet na hawak sa harap para sa mga taong mahina ang pandinig.
-4. **Ibigay ang sagot nang maluwag.** Kung walang nakaaalam, sabihin ito nang may init at lumipat na. Huwag kailanman sabihing “Halika na, alam mo ito.”
-5. **Walang puntos.** Hindi para sa indibidwal at hindi para sa mesa. Kung gusto ng mga tao ng bilang, magtago ng iisang kabuuan para sa grupo.
-6. **Huwag tawagin ang iisang tao.** Hayaang manggaling ang sagot kaninuman. Sa isa-sa-isa, sumagot nang magkasama: “Sa tingin ko, piyano iyon. Ano sa tingin mo?”
-7. **Gamitin ang paksa ng usapan.** Ang sagot ay simula, hindi wakas. Ang kuwento ang tunay na layunin.
-8. **Panatilihing maikli.** Sampung tanong na may kuwento sa pagitan ay sapat na.
+1. **Magtanong tungkol sa malayong nakaraan.** Ayon sa [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers), ang pinakakaraniwang maagang sintomas ng Alzheimer's ay kahirapan sa pag-alala sa mga bagong natutunang impormasyon. Ang mga awit, kasabihan, at pang-araw-araw na buhay mula ilang dekada na ang nakalipas ay kadalasang mas madaling pag-usapan.
+2. **Palaging magbigay ng mga pagpipilian.** Mas madali ang pumili ng tamang sagot mula sa dalawa o tatlo kaysa isipin ito mula sa wala.
+3. **Basahin nang malakas ang mga tanong at ipakita ito nang malaki.** Nakakatulong ang whiteboard o tablet na nakataas para sa mga taong hindi gaanong nakakarinig.
+4. **Sabihin ang sagot nang malaya.** Kung walang nakakaalam, sabihin ito nang magiliw at magpatuloy. Huwag sabihin ang “Sige na, alam mo ito.”
+5. **Walang puntos.** Hindi para sa mga indibidwal at hindi para sa mga mesa. Kung gusto ng mga tao ng bilang, magtago ng isang kabuuang bilang para sa grupo.
+6. **Huwag tawagin ang isang tao.** Hayaan ang mga sagot na manggaling sa sinuman. Kung isa-isa lang kayo, sagutin ito nang magkasama: “Sa tingin ko piano ito. Ano sa tingin mo?”
+7. **Gamitin ang pag-uusapan.** Ang sagot ay simula, hindi katapusan. Ang mga kuwento ang tunay na layunin.
+8. **Panatilihin itong maikli.** Sampung tanong na may mga kuwento sa pagitan ay sapat na.
 
-Inilalagay ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ang pangunahing tuntunin nang simple: bantayan ang pagkainis at tiyaking nakadarama ng tagumpay ang tao. Inililista ng [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ang trivia sa mga aktibidad para sa maagang yugto. Sa gitnang yugto, panatilihin sa dalawang pagpipilian at umasa sa mga paksa ng usapan. Sa huli, lumipat sa mga tanong na “ito o iyon” na nasa ibaba.
+Inilalahad ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ang pangunahing tuntunin nang simple: bantayan ang pagkadismaya at tiyaking nararamdaman ng tao na nagtagumpay siya. Binabanggit ng [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ang trivia sa mga gawain para sa maagang yugto. Sa gitnang yugto, manatili sa dalawang pagpipilian at higit na gamitin ang mga paksang mapag-uusapan. Sa mga susunod na yugto, lumipat sa mga tanong na ito-o-iyon sa ibaba.
 
 ## Trivia tungkol sa musika at libangan
 
-Nasa **bold** ang sagot. Iangkop ang mga ito sa tao: ang taong lumaki sa musikang Motown ay gugustuhin ang ibang mang-aawit kaysa sa taong lumaki sa malalaking banda.
+Naka-**bold** ang sagot. Iangkop ang mga ito sa tao: ang isang taong lumaki sa Motown ay maaaring gusto ng ibang mang-aawit kaysa sa taong lumaki sa mga big band.
 
 | Tanong | Mga pagpipilian | Pag-usapan |
 | --- | --- | --- |
-| Sino ang tinawag na Hari ng Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Nakapanood ka na ba kay Elvis sa TV? |
-| Aling mang-aawit ang may palayaw na Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Aling kanta ni Sinatra ang pinakagusto mo? |
-| Pinangarap ni Bing Crosby ang isang puting... | **Pasko**, kasal, bahay | Kumanta nang magkasama ng isang linya |
-| Kumanta si Louis Armstrong ng "What a Wonderful..." | Araw, **Mundo**, Buhay | Ano ang nagpapaganda sa mundo para sa iyo? |
-| "Over the Rainbow" ang kinanta ni Judy Garland sa aling pelikula? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Saan mo napanood ang paborito mong pelikula? |
-| Sino ang bida bilang Lucy sa "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Anong palabas ang sabay ninyong pinanood ng pamilya? |
-| Aling cowboy ang sumasakay sa kabayong pinangalanang Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Naglaro ka ba ng cowboy noong bata ka? |
-| Sino ang nagho-host ng "The Tonight Show" sa loob ng 30 taon? | Ed Sullivan, **Johnny Carson**, Bob Hope | Nagpupuyat ka ba noon para manood ng TV? |
-| Aling instrumento ang may 88 na susi? | Gitara, **piano**, trumpeta | May sinuman ba sa pamilya ninyo ang tumugtog? |
-| Aling sayaw ang binibilang na isa-dalawa-tatlo, isa-dalawa-tatlo? | **Waltz**, twist, tango | Saan ka dating sumasayaw? |
+| Sino ang tinawag na Hari ng Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Napanood mo ba si Elvis sa TV? |
+| Sinong mang-aawit ang may palayaw na Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Aling awit ni Sinatra ang pinakagusto mo? |
+| Pinangarap ni Bing Crosby ang isang maputing... | **Pasko**, kasal, bahay | Umawit ng isang linya nang sabay |
+| Kinanta ni Louis Armstrong ang “What a Wonderful...” | Day, **World**, Life | Ano ang nagpapaganda ng mundo para sa iyo? |
+| Si Judy Garland ang kumanta ng “Over the Rainbow” sa aling pelikula? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Saan mo pinanonood ang mga paborito mong pelikula? |
+| Sino ang gumanap bilang Lucy sa “I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Anong mga palabas ang sabay-sabay ninyong pinapanood noon ng pamilya? |
+| Aling cowboy ang sumakay sa kabayong nagngangalang Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Naglaro ka ba ng mga cowboy noong bata ka? |
+| Sino ang nag-host ng “The Tonight Show” sa loob ng tatlumpung taon? | Ed Sullivan, **Johnny Carson**, Bob Hope | Nanonood ka ba ng TV nang hanggang gabi? |
+| Aling instrumento ang may walumpu't walong key? | Gitara, **piyano**, trumpeta | May tumutugtog ba sa inyong pamilya? |
+| Aling sayaw ang binibilang na isa-dalawa-tatlo, isa-dalawa-tatlo? | **Waltz**, twist, tango | Saan kayo nagsasayaw noon? |
 
-Para sa higit pa tungkol sa musika, tingnan ang [mga aktibidad sa musika para sa dementia](/activities/music/).
+Para sa higit pa tungkol sa musika, tingnan ang [mga gawaing pangmusika para sa dementia](/activities/music/).
 
-## Trivia sa pang-araw-araw na buhay
-
-| Tanong | Mga pagpipilian | Pag-usapan |
-| --- | --- | --- |
-| Bago magkaroon ng refrigerator, pinananatiling malamig ng maraming tahanan ang pagkain sa isang... | **Kahong may yelo**, oven, attic | Sino ang naghahatid ng yelo? |
-| Sino ang nagdadala ng gatas sa pintuan sa mga bote ng salamin? | Ang tagahatid ng sulat, **ang tagahatid ng gatas**, ang batang naghahatid ng diyaryo | Ano pa ang dinadala sa bahay noon? |
-| Paano ka nagda-dial sa rotary phone? | Pagpindot sa mga button, **pag-ikot ng gulong**, pakikipag-usap dito | Ikuwento mo sa akin ang telepono sa bahay ninyo |
-| Aling kompanya ang gumawa ng kotseng Model T? | **Ford**, Chevrolet, Buick | Ikuwento ang kotseng nagustuhan mo |
-| Saan ka makakahanap ng tagapagbenta ng soda? | **Tindahan ng malamig na inumin**, panaderya, bangko | Ano ang inorder mo sa counter? |
-| Anong laruan ang metal na spring na kayang bumaba ng hagdan? | Yo-yo, **Slinky**, hula hoop | Anong mga laruan ang minahal mo? |
-| Ang sinehan sa loob ng kotse ay lugar para manood ng... | **Pelikula mula sa loob ng kotse**, laro ng bola, parada | Sino ang kasama mo? |
-| Kaninong mukha ang nasa isang-dolyar na papel? | Lincoln, **George Washington**, Jefferson | Ano ang nabibili ng isang dolyar noon? |
-| Kaninong mukha ang nasa sentimo? | **Abraham Lincoln**, Washington, Franklin | Nag-ipon ka ba ng mga sentimo sa garapon noon? |
-| Anong kulay ang karaniwan ng school bus? | Pula, **dilaw**, asul | Paano ka pumupunta sa paaralan noon? |
-
-## Mga pista, kalikasan at lugar
+## Trivia tungkol sa pang-araw-araw na buhay
 
 | Tanong | Mga pagpipilian | Pag-usapan |
 | --- | --- | --- |
-| Aling pista ang nasa ika-apat na Huwebes ng Nobyembre? | Labor Day, **Thanksgiving**, Memorial Day | Ano ang laging nasa hapag ninyo? |
-| Para sa aling pista ginagawa ang jack-o'-lantern? | **Halloween**, Easter, Pasko | Ikuwento mo ang Halloween sa lugar kung saan ka lumaki |
-| Ipinagdiriwang ng Fourth of July ang Deklarasyon ng... | Karapatan, **Kasarinlan**, Kalayaan | Saan ka nanood ng paputok? |
-| Anong buwan ang Mother's Day? | Abril, **Mayo**, Hunyo | Paano ipinagdiwang ng pamilya ninyo? |
-| Ilang bituin ang nasa watawat ng Amerika? | 48, **50**, 52 | Ang watawat ay may 48 bituin hanggang 1959. Magandang alaala ang alinman sa dalawang sagot |
-| Aling karagatan ang nasa East Coast? | Pasipiko, **Atlantiko**, Artiko | Nakapunta ka na ba sa dalampasigan? |
-| Saang lungsod matatagpuan ang Statue of Liberty? | Boston, **New York**, Philadelphia | Nakapunta ka na ba sa New York? |
+| Bago ang mga refrigerator, maraming bahay ang nag-iingat ng malamig na pagkain sa isang... | **Icebox**, oven, attic | Sino ang naghahatid ng yelo? |
+| Sino ang nagdadala ng gatas sa pinto sa loob ng mga boteng salamin? | Ang kartero, **ang maggagatas**, ang tagapamahagi ng pahayagan | Ano pa ang inihahatid sa bahay? |
+| Paano ka nagda-dial sa isang rotary phone? | Pindutin ang mga buton, **paikutin ang gulong**, kausapin ito | Ikuwento mo sa akin ang telepono sa inyong bahay |
+| Aling kompanya ang gumawa ng Model T na kotse? | **Ford**, Chevrolet, Buick | Ikuwento mo sa akin ang isang kotse na nagustuhan mo |
+| Saan mo makikita ang isang soda jerk? | **Sa isang soda fountain**, sa panaderya, sa bangko | Ano ang ino-order mo sa counter? |
+| Anong laruan ang isang metal na spring na kayang maglakad pababa ng hagdan? | Yo-yo, **Slinky**, hula hoop | Anong mga laruan ang minahal mo? |
+| Ang drive-in ay lugar para manood ng... | **Mga pelikula mula sa iyong kotse**, mga laro ng bola, mga parada | Sino ang kasama mo? |
+| Kaninong mukha ang nasa isang dolyar na perang papel? | Lincoln, **George Washington**, Jefferson | Ano ang mabibili ng isang dolyar noon? |
+| Kaninong mukha ang nasa penny? | **Abraham Lincoln**, Washington, Franklin | Nagtatabi ka ba ng mga penny sa garapon noon? |
+| Anong kulay karaniwan ang isang school bus? | Pula, **dilaw**, asul | Paano ka pumapasok sa paaralan? |
+
+## Mga pagdiriwang, kalikasan, at lugar
+
+| Tanong | Mga pagpipilian | Pag-usapan |
+| --- | --- | --- |
+| Aling pagdiriwang ang nasa ikaapat na Huwebes ng Nobyembre? | Labor Day, **Thanksgiving**, Memorial Day | Ano ang laging nasa inyong mesa? |
+| Ang mga jack-o'-lantern ay ginagawa para sa aling pagdiriwang? | **Halloween**, Easter, Pasko | Ikuwento mo sa akin ang Halloween sa lugar kung saan ka lumaki |
+| Ipinagdiriwang ng Fourth of July ang Deklarasyon ng... | Karapatan, **Kalayaan**, Kalayaan | Saan ka nanonood ng mga paputok? |
+| Ang Mother's Day ay sa anong buwan? | Abril, **Mayo**, Hunyo | Paano nagdiriwang ang inyong pamilya? |
+| Ilang bituin ang nasa bandila ng Amerika? | 48, **50**, 52 | Ang bandila ay may 48 bituin hanggang 1959. Alinmang sagot ay magandang alaala |
+| Aling karagatan ang nasa Silangang Baybayin? | Pasipiko, **Atlantiko**, Artiko | Nakapunta ka na ba sa tabing-dagat? |
+| Sa aling lungsod matatagpuan ang Statue of Liberty? | Boston, **New York**, Philadelphia | Nakapunta ka na ba sa New York? |
 | Ano ang ginagawa ng mga bubuyog? | Gatas, **pulot**, seda | Pulot sa tinapay o sa tsaa? |
-| Ang batang baka ay tinatawag na... | Foal, **guya**, kambing | Nakatira ka na ba malapit sa bukid? |
-| Aling matangkad na dilaw na bulaklak ang kilala sa pagharap sa araw? | Rosas, **mirasol**, tulip | Ano ang tumubo sa hardin ninyo? |
-| Ilang araw ang nasa leap year? | 365, **366**, 360 | Ikuwento ang isang kaarawang naaalala mo |
-| Aling panahon ang sumusunod pagkatapos ng taglamig? | Taglagas, **tagsibol**, tag-init | Ano ang paborito mong panahon? |
+| Ang batang baka ay tinatawag na... | Bisiro, **guya**, anak ng kambing | Nakatira ka na ba malapit sa isang bukid? |
+| Aling matangkad na dilaw na bulaklak ang kilala sa pagharap sa araw? | Rosas, **mirasol**, tulip | Ano ang tumutubo sa inyong hardin? |
+| Ilang araw mayroon sa isang leap year? | 365, **366**, 360 | Ikuwento mo sa akin ang isang kaarawan na natatandaan mo |
+| Aling panahon ang kasunod ng taglamig? | Taglagas, **tagsibol**, tag-araw | Ano ang paborito mong panahon? |
 
-## Trivia sa pagkain at isport
+## Trivia tungkol sa pagkain at isports
 
 | Tanong | Mga pagpipilian | Pag-usapan |
 | --- | --- | --- |
-| Ang pasas ay pinatuyong... | Plum, **ubas**, seresa | Naglagay ka ba ng pasas sa baon? |
-| Ang prun ay pinatuyong... | **Plum**, igos, mansanas | Sino sa pamilya ninyo ang mahilig sa prun? |
-| Peanut butter at... | **Jelly**, keso, ham | Malutong o malambot? |
-| Ang guacamole ay pangunahing gawa sa... | Gisantes, **abokado**, pipino | Anong sawsawan ang lumalabas sa mga handaan? |
-| Aling pie ang paborito tuwing Thanksgiving? | **Kalabasa**, lemon, seresa | Anong pie ang ginawa mo? |
-| Ilang manlalaro ang nasa field ng isang baseball team? | 7, **9**, 11 | Aling koponan ang sinusuportahan mo? |
-| Ilang strike ang katumbas ng isang out sa baseball? | Dalawa, **tatlo**, apat | Naglaro ka na ba ng bola? |
-| Sa anong isport kilala si Babe Ruth? | Boksing, **baseball**, golf | Nanood ka na ba ng laro ng bola? |
-| Ilang butas ang nasa karaniwang golf course? | 9, **18**, 24 | Naglaro ka na ba ng golf, o mini golf? |
-| Sa anong isport ka nakakaiskor ng touchdown? | **Football**, hockey, basketball | Sino ang nanood ng football sa bahay ninyo? |
+| Ang mga pasas ay pinatuyong... | Duhat, **ubas**, seresa | Naglalagay ka ba ng pasas sa mga baon noon? |
+| Ang mga prun ay pinatuyong... | **Duhat**, igos, mansanas | Sino sa inyong pamilya ang mahilig sa prun? |
+| Peanut butter at... | **Jelly**, keso, ham | Malutong o pino? |
+| Ang guacamole ay karamihang gawa sa... | Gisantes, **abokado**, pipino | Anong mga sawsawan ang inilalabas sa mga handaan? |
+| Aling pie ang paborito tuwing Thanksgiving? | **Kalabasa**, lemon, seresa | Aling pie ang ginagawa mo noon? |
+| Ilang manlalaro mayroon ang isang koponan sa baseball sa larangan? | 7, **9**, 11 | Aling koponan ang sinusuportahan mo? |
+| Ilang strike ang katumbas ng out sa baseball? | Dalawa, **tatlo**, apat | Naglaro ka ba ng bola noon? |
+| Si Babe Ruth ay sikat sa aling isport? | Boksing, **baseball**, golf | Nanonood ka ba ng mga laro ng bola? |
+| Ilang butas ang mayroon sa karaniwang golf course? | 9, **18**, 24 | Nakapaglaro ka na ba ng golf, o mini golf? |
+| Sa aling isport ka nakakapuntos ng touchdown? | **Football**, hockey, basketball | Sino ang nanonood ng football sa inyong bahay? |
 
-## Kilalang kasabihan
+## Mga pamilyar na kasabihan
 
-Ang pagtatapos ng kasabihan ay humuhugot sa wikang natutuhan noon pa at kadalasang madaling dumating. Ang aming larong [Tapusin ang kasabihan](/games/finish-the-saying/) ay may marami pang iba, na may isang tap para ipakita ang anumang pagtatapos.
+Ang pagdugtong sa isang kasabihan ay gumagamit ng wikang matagal nang natutuhan at kadalasan ay madali. Ang aming larong [Tapusin ang kasabihan](/games/finish-the-saying/) ay may marami pang iba, na may tap para ipakita ang dulo.
 
 | Kasabihan | Mga pagpipilian | Pag-usapan |
 | --- | --- | --- |
-| Ang isang mansanas bawat araw ay nagpapalayo sa... | **Doktor**, ulan, pusa | Sino ang dating nagsasabi nito sa iyo? |
-| Ang maagang ibon ang nakakahuli ng... | Bus, **uod**, tren | Maaga ka bang gumigising? |
-| Huwag bilangin ang mga manok bago sila... | **Mapisa**, matulog, kumanta | Nag-alaga ba ng manok ang pamilya ninyo? |
-| Ang sentimong naipon ay sentimong... | **Kinita**, nawala, ginastos | Sino ang matipid sa pamilya ninyo? |
-| Ang tahanan ay kung nasaan ang... | Hardin, **puso**, kusina | Ano ang nagpaparamdam sa isang lugar na tahanan? |
-| Mas mabuti nang huli kaysa... | Maaga, **hindi kailanman**, pasensya | Sino ang laging huli? |
-| Bawat ulap ay may pilak na... | **Gilid**, kutsara, barya | Ikuwento ang isang swerteng pagkakataon |
-| Mas malakas magsalita ang mga gawa kaysa... | **Salita**, musika, kulog | Ikuwento ang isang taong nagsabi niyan |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Sino ang madalas magsabi nito sa iyo? |
+| The early bird catches the... | Bus, **worm**, train | Maaga ka bang gumigising? |
+| Don't count your chickens before they... | **Hatch**, sleep, sing | Nag-alaga ba ng manok ang inyong pamilya? |
+| A penny saved is a penny... | **Earned**, lost, spent | Sino ang mahilig mag-ipon sa inyong pamilya? |
+| Home is where the... | Garden is, **heart is**, kitchen is | Ano ang nagpaparamdam na parang tahanan ang isang lugar? |
+| Better late than... | Early, **never**, sorry | Sino ang laging nahuhuli? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Ikuwento mo sa akin ang isang swerte mong naranasan |
+| Actions speak louder than... | **Words**, music, thunder | Ikuwento mo sa akin ang isang taong nagsabi nito |
 
-## Mga tanong na “ito o iyon” na walang maling sagot
+## Mga tanong na ito-o-iyon na walang maling sagot
 
-Angkop ang mga ito sa bawat yugto, kasama na sa mas huli, dahil walang dapat itama. Magtanong, makinig, at ibahagi rin ang sarili mong sagot.
+Angkop ang mga ito sa bawat yugto, kabilang ang mga susunod na yugto, dahil walang kailangang tamaan. Magtanong, makinig, at ibahagi rin ang sarili mong sagot.
 
 - Kape o tsaa?
-- Dalampasigan o bundok?
+- Tabing-dagat o kabundukan?
 - Aso o pusa?
-- Tag-init o taglamig?
-- Pie o cake?
-- Pagsayaw o panonood?
-- Pagsikat o paglubog ng araw?
+- Tag-araw o taglamig?
+- Pie o keyk?
+- Pagsasayaw o panonood?
+- Pagsikat ng araw o paglubog ng araw?
 - Beranda sa harap o bakuran sa likod?
-- Radyo o plaka?
-- Pankeyk o itlog?
-- Rosas o margarita?
+- Radyo o mga plaka?
+- Hotcake o itlog?
+- Rosas o daisy?
 - Biyahe sa tren o biyahe sa kalsada?
 
-Para sa mga prompt ng usapan na may kasamang larawan, subukan ang aming maaaring i-print na [Conversation cards](/games/conversation-cards/).
+Para sa mga tanong sa pag-uusap na may kasamang mga larawan, subukan ang aming napi-print na [Mga kard para sa pag-uusap](/games/conversation-cards/).
 
-## Paano magpatakbo ng sesyon ng trivia sa care home o grupo?
+## Paano magpatakbo ng sesyon ng trivia sa isang care home o grupo?
 
-1. **Iupo ang mga tao para makakita at makarinig.** Nakalagay ang pantulong sa pandinig, nakasuot ang salamin, at naka-off ang TV.
-2. **Ipakilala ito bilang kuwentuhan.** “May ilan akong tanong tungkol sa lumang panahon, at alam kong mas marami kayong alam kaysa sa akin.”
-3. **Basahin ang bawat tanong nang dalawang beses at ipakita nang malaki ang mga pagpipilian.**
-4. **Tanggapin ang mga sagot mula saanman sa silid.** Ulitin ang mga magagandang sagot para marinig ng lahat.
-5. **Sabihin ang sagot para sa lahat,** saka itanong sa buong silid ang paksa ng usapan.
-6. **Sundan ang sigla.** Kung ang isang tanong ay nagsimula ng sampung minutong kuwento, hayaan ito.
-7. **Tapusin sa kanta o sa ikot ng “ito o iyon,”** para lahat ay magtapos sa madaling bagay.
+1. **Paupuin ang mga tao kung saan sila ay makakakita at makakarinig.** Naka-hearing aid, nakasuot ng salamin, at patay ang TV.
+2. **Ipakilala ito bilang isang usapan.** “Mayroon akong ilang tanong tungkol sa mga lumang araw, at sa tingin ko mas marami kayong alam kaysa sa akin.”
+3. **Basahin nang dalawang beses ang bawat tanong at ipakita nang malaki ang mga pagpipilian.**
+4. **Tanggapin ang mga sagot mula sa kahit saan sa silid.** Ulitin ang magagandang sagot upang marinig ng lahat.
+5. **Sabihin ang sagot para sa lahat,** pagkatapos ay itanong ang paksang mapag-usapan sa grupo.
+6. **Sundan ang sigla ng grupo.** Kung ang isang tanong ay nagsimula ng sampung minutong mga kuwento, hayaan ito.
+7. **Tapusin sa isang awit o isang round ng ito-o-iyon,** upang matapos ang lahat sa isang bagay na madali.
 
-Para sa iba pang format ng grupo, kabilang ang picture bingo at sabayang kanta, tingnan ang [mga aktibidad ng grupo para sa care home](/activities/care-home-groups/).
+Para sa iba pang mga format ng grupo, kabilang ang picture bingo at sabayang pag-awit, tingnan ang [mga gawaing panggrupo para sa mga care home](/activities/care-home-groups/).
 
-## Kailan babaguhin ang plano?
+## Kailan dapat baguhin ang plano
 
-Kung mukhang nag-aalala ang isang tao, tumahimik, o sumagot ng “Hindi ko alam” nang higit sa isang beses, gawing mas madali: bawasan sa dalawang pagpipilian, sumagot nang magkasama, o lumipat sa mga tanong na “ito o iyon.” Kung mas gustong pag-usapan ng grupo ang iisang tanong buong hapon, tagumpay na iyon. Hindi kailanman ang tamang sagot ang layunin. Ang layunin ay oras na kasama ang mabubuting kasama.
+Kung may mukhang nag-aalala, tumatahimik, o nagsasabing “Hindi ko alam” nang higit sa isang beses, gawing mas madali: bawasan sa dalawang pagpipilian, sagutin nang magkasama, o lumipat sa mga tanong na ito-o-iyon. Kung mas gusto ng grupo na pag-usapan ang isang tanong buong hapon, tagumpay iyon. Ang layunin ay hindi kailanman ang mga tamang sagot. Ito ay ang oras na kasama ang mabuting samahan.

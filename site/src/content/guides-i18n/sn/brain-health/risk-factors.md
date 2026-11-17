@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Zvinowedzera Njodzi yeDementia: 14 dzeLancet"
+seoTitle: "Zvinowedzera Njodzi yeDementia: 14 dzeLancet"
+description: "Zvinhu 14 zvinogona kuchinjwa zvinowedzera njodzi yedementia zvakataurwa neLancet Commission ya2024, nezvamungakurukura nachiremba."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Lancet Commission ya2024 yakataura zvinhu 14 zvinogona kuchinjwa zvinowedzera
+  njodzi yedementia: dzidzo shoma, kusanzwa zvakanaka, LDL cholesterol yakakwira,
+  kushushikana mupfungwa, kukuvara kwemusoro, kusaita maekisesaizi, chirwere
+  cheshuga, kuputa, BP yakakwira, kufutisa, kunwa doro zvakanyanya, kuva wega,
+  kusvibiswa kwemhepo uye matambudziko ekuona asina kurapwa. Zvose pamwe chete
+  zvinobatanidzwa neinenge 45% yezviitiko pasi rose, pasina vimbiso kumunhu
+  mumwe nemumwe.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Zvinhu gumi nezvina izvi zvinowanikwa muupenyu hwose: chimwe muhudiki, gumi pakati poupenyu uye zvitatu muukweguru."
+  - "Kusanzwa zvakanaka uye LDL cholesterol yakakwira pakati poupenyu chimwe nechimwe chinobatanidzwa neinenge 7% yezviitiko zvedementia pasi rose, zvikamu zvikuru pane chimwe nechimwe chinhu."
+  - "Mazana aya fungidziro dzevanhu vazhinji dzinofungidzira kuti pane chikonzero nemhedzisiro. Humwe hukama hungava husina kukwana sechikonzero."
+  - "Zera nemajini, izvo munhu asingagoni kuchinja, ndizvo zvakare zvinowedzera njodzi zvikuru. Kuderedza njodzi gumi neina idzi hazvivimbisi kuti munhu achadzivirira dementia."
+  - "Matanho mazhinji anosanganisirwa, akadai sekuongororwa BP, kunzwa uye kuona, akanakirawo hutano mune dzimwe nzira uye zvakakodzera kukurukurwa nachiremba."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Ndezvipi zvinhu gumi nezvina zvinogona kuchinjwa zvinowedzera njodzi yedementia?"
+    a: "Lancet Commission ya2024 yakataura dzidzo shoma, kusanzwa zvakanaka, LDL cholesterol yakakwira, kushushikana mupfungwa, kukuvara kwehuropi, kusaita maekisesaizi, chirwere cheshuga, kuputa, BP yakakwira, kufutisa, kunwa doro zvakanyanya, kuva wega, kusvibiswa kwemhepo uye matambudziko ekuona asina kurapwa. Zvose pamwe chete zvinobatanidzwa neinoda kusvika hafu yezviitiko zvedementia pasi rose."
+  - q: "Ndechipi chinonyanya kuwedzera njodzi yedementia?"
+    a: "Pavanhu vepasi rose, Commission yakafungidzira kuti kusanzwa zvakanaka uye LDL cholesterol yakakwira pakati poupenyu chimwe nechimwe chinobatanidzwa neinenge 7% yezviitiko, zvichiteverwa nedzidzo shoma uye kuva wega painenge 5% chimwe nechimwe. Kuti ndezvipi zvinonyanya kukosha kumunhu mumwe chete zvinoenderana neutano hwake, saka chiremba ndiye anogona kupa gwara rakanakisa."
+  - q: "Pane zvinhu zviviri zvitsva zvakawedzerwa muna 2024 here?"
+    a: "Hongu. Mushumo wa2024 wakawedzera LDL (yakaipa) cholesterol yakakwira pakati poupenyu uye matambudziko ekuona asina kurapwa muukweguru kuzvinhu gumi nezviviri zvakataurwa muna 2020. Commission yakazvibatanidza neinenge 7% uye 2% yezviitiko zvakatevedzana."
+  - q: "Zera chinhu chinogona kuchinjwa chinowedzera njodzi here?"
+    a: "Kwete. Zera ndicho chinhu chikuru chinozivikanwa chinowedzera njodzi yechirwere cheAlzheimer, uye hachigoni kuchinjwa. Majini anewo basa. Zvinhu gumi nezvina zviri papeji ino ndizvo tsvakiridzo inoratidza kuti zvinogona kuchinjwa."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,132 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Chinhu chinowedzera njodzi chinhu chinobatanidzwa nemukana mukuru wekuita
+chirwere. Hachisi chikonzero nguva dzose, uye kuva nacho hazvirevi kuti muchaita
+dementia. Peji ino inonyora zvinhu 14 zvinowedzera njodzi yedementia izvo
+Lancet Commission ya2024 inoti zvinogona kuchinjwa, izvo tsvakiridzo
+inozvibatanidza nazvo, uye zvamungakurukura nachiremba.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Kuti muone mufananidzo mukuru, kusanganisira zvakawanikwa miedzo mikuru, tangai
+ne[Ko dementia inogona kudzivirirwa here? Zvinotaurwa netsvakiridzo](/brain-health/can-dementia-be-prevented/).
+Ruzivo urwu nderwekuziva chete, harusi zano rezvekurapa; onai
+[chiziviso chedu chezvekurapa](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Ndezvipi zvinhu 14 zvinowedzera njodzi yedementia?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Lancet Commission ya2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+yakanyorwa nevatsvakurudzi vedementia 27, yakafungidzira kuti zvinhu 14
+zvinogona kuchinjwa zvinowedzera njodzi pamwe chete zvine chekuita neinenge 45%
+yezviitiko zvedementia pasi rose. Muzana wechinhu chimwe nechimwe pazasi
+fungidziro yeCommission yechikamu chezviitiko pasi rose chinobatanidzwa nacho,
+yakapoteredzwa kuita nhamba dzakazara. Nhamba idzi dzinopindirana, nekuti vanhu
+vazhinji vane njodzi dzinopfuura imwe panguva imwe chete, ndosaka dzichisvika pa
+45% kwete kupfuura.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Chinhu chinowedzera njodzi | Nguva yeupenyu | Chikamu chezviitiko | Zvinobatanidzwa netsvakiridzo | Zvamungaita |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Dzidzo shoma | Hudiki | 5% | Makore mashoma echikoro anobatanidzwa nenjodzi yakakura. Kuramba uchishandisa pfungwa pakati poupenyu kunoratidzikawo sekunodzivirira, kunyange kuvanhu vaiva nedzidzo shoma. | Rambai muchidzidza uye muchiita zvinhu zvinomutsa pfungwa pazera ripi neripi: kuverenga, zvinovaraidza, makirasi, mitambo nevamwe. |
+| Kusanzwa zvakanaka | Pakati poupenyu | 7% | Kusanzwa zvakanaka kusina kurapwa kunobatanidzwa nenjodzi yakakura. Zvidzidzo zvinotevera vanhu kwenguva refu zvinobatanidza kushandisa mahearing aid nenjodzi yakaderera. | Ongororwai kunzwa kwenyu. Bvunzai kana mahearing aid angabatsira, uye muashandise kana akanyorwa. Dzivirirai nzeve kubva kuruzha rukuru. |
+| LDL cholesterol yakakwira | Pakati poupenyu (kubva pamakore anenge 40) | 7% | LDL cholesterol yakakwira ("yakaipa") pakati poupenyu inobatanidzwa nenjodzi yakakura. Zvidzidzo zvekuongorora zvinobatanidza kushandisa mastatin nenjodzi yakaderera, asi miedzo muukweguru haina kuratidza izvi. | Bvunzai chiremba wenyu kana cholesterol yenyu ichifanira kuongororwa uye kuti pane zvekuita here. |
+| Kushushikana mupfungwa | Pakati poupenyu | 3% | Kushushikana mupfungwa kunobatanidzwa nenjodzi yakakura. Muukweguru, kushushikana mupfungwa kunogonawo kuva chiratidzo chekutanga chedementia. | Udza chiremba nezvekusuwa kana kusafarira zvinhu kunotora mavhiki anopfuura maviri. Kushushikana mupfungwa kunorapika. |
+| Kukuvara kwehuropi | Pakati poupenyu | 3% | Kukuvara kwemusoro pazera ripi neripi uye kubva kuchikonzero chipi nechipi, kusanganisira mitambo yekurovana, kunobatanidzwa nenjodzi yakakura. | Pfekai ngowani pakuchovha bhasikoro uye pamitambo yekurovana. Bvunzai nezvekudzivirira kudonha. Zororai uye muongororwe mushure mekukuvara kwemusoro. |
+| Kusaita maekisesaizi | Pakati poupenyu | 2% | Vanhu vanoita maekisesaizi nemitambo havanyanyi kuita dementia. Humbowo kubva mumiedzo huchiri hushoma. | Bvunzai kuti ndeapi maekisesaizi akachengeteka kwamuri, uye tsvagai chamunofarira. Onai [gwaro redu remaekisesaizi](/brain-health/exercise/). |
+| Chirwere cheshuga | Pakati poupenyu | 2% | Chirwere cheshuga, kunyanya kana chikatanga pakati poupenyu kana chikagara kwenguva refu, chinobatanidzwa nenjodzi yakakura. | Ongororwai shuga yeropa. Kana muine chirwere cheshuga, shandai nechikwata chenyu chehutano kuchichengetedza zvakachengeteka. |
+| Kuputa | Pakati poupenyu | 2% | Kuputa kunobatanidzwa nenjodzi yakakura. Zvidzidzo zvinowana kuti vaimboputa havana njodzi yakakwira yakafanana nevanoramba vachiputa. | Bvunzai nezverubatsiro rwekurega. Zvakakodzera kurega pazera ripi neripi. |
+| BP yakakwira | Pakati poupenyu | 2% | BP yakakwira pakati poupenyu inobatanidzwa nenjodzi yakakura. Miedzo yemishonga yeBP inoratidza njodzi yakaderera zvishoma yedementia kana kudzikira kwekufunga. | Zivai nhamba dzenyu. Commission inoratidza nhamba yepamusoro ye130 kana pasi kubva pamakore anenge 40; bvunzai kuti ndechipi chinangwa chakakunakirai. |
+| Kufutisa | Pakati poupenyu | 1% | Kufutisa pakati poupenyu kunobatanidzwa nenjodzi yakakura, uye kunowedzerawo njodzi yechirwere cheshuga. | Bvunzai chiremba wenyu nezvehuremu hwakakodzera kwamuri. Vakuru havafaniri kudya zvekuderedza uremu pasina zano rechiremba. |
+| Kunwa doro zvakanyanya | Pakati poupenyu | 1% | Kunwa doro zvakanyanya kunobatanidzwa nenjodzi yakakura. Kuderedza kubva pakunwa zvakanyanya kunobatanidzwa nenjodzi yakaderera. | Bvunzai kuti muganhu wakachengeteka kwamuri ndeupi, kunyanya nemishonga yenyu. |
+| Kuva wega | Ukweguru | 5% | Kusagara muchisangana nevanhu kunobatanidzwa nenjodzi yakakura. | Rambai muchitaurirana nevanhu nenzira dzamunofarira. Onai [gwaro redu rekubatana nevamwe](/brain-health/social-connection/). |
+| Kusvibiswa kwemhepo | Ukweguru | 3% | Kugara munzvimbo ine mhepo yakasvibiswa zvakanyanya kunobatanidzwa nenjodzi yakakura. Zvidzidzo zvinobatanidza mhepo yakachena nenjodzi yakaderera. | Kazhinji inyaya yemitemo yeruzhinji. Tarirai ziviso dzemhando yemhepo munharaunda yenyu uye deredzai nguva yekuva panze pamazuva ane kusvibiswa kwakanyanya. |
+| Matambudziko ekuona asina kurapwa | Ukweguru | 2% | Matambudziko ekuona asina kugadziriswa anobatanidzwa nenjodzi yakakura. Chidzidzo chikuru muUS chakabatanidza kuvhiyiwa kwecataract nenjodzi yakaderera. | Ongororwai maziso nguva dzose. Bvunzai kana matambudziko akadai secataract achigona kurapwa. |
 
-## How should I read these percentages?
+## Ndingaverenga sei mazana aya?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Nekungwarira. Mushumo weCommission pachayo unotaura zvinhu zvakati kuti
+zvakakodzera kuyeukwa:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Anotsanangura vanhu vazhinji, kwete munhu mumwe chete.**
+  [Pfupiso yemushumo yeUniversity College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  inoti kuderedza njodzi kunoshanda muvanhu vazhinji uye hazvivimbisi kuti munhu
+  mumwe chete achadzivirira dementia.
+- **Anofungidzira kuti pane chikonzero nemhedzisiro.** Vanyori vakasanganisira
+  zvinhu zvine humbowo hunogutsa chete, asi vanoti humwe hukama hungava husina
+  kukwana sechikonzero.
+- **Inhamba dzepasi rose.** Ruzivo rwakawanda runobva kunyika dzine mari
+  yakawanda, uye chikamu chechokwadi chenyika kana nharaunda ipi neipi
+  chichasiyana.
+- **Mazana madiki anogonawo kukosha.** Chinhu chinobatanidzwa ne2% yezviitiko
+  pasi rose chinobata vanhu vakawanda zvikuru.
 
-## Which risk factors were added in 2024?
+## Ndezvipi zvinhu zvinowedzera njodzi zvakawedzerwa muna 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Mushumo wa2024 wakawedzera zvinhu zviviri kuzvinhu gumi nezviviri zvakataurwa
+muna 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **LDL cholesterol yakakwira pakati poupenyu**, inobatanidzwa neinenge 7%
+  yezviitiko.
+- **Matambudziko ekuona asina kurapwa muukweguru**, anobatanidzwa neinenge 2%
+  yezviitiko.
 
-## What risk factors cannot be changed?
+## Ndezvipi zvinhu zvinowedzera njodzi zvisingagoni kuchinjwa?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging inoti
+[zera ndicho chinhu chikuru chinozivikanwa chinowedzera njodzi yeAlzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+uye hapana anogona kurichinja. Majini anewo basa; jini rimwe rinozivikanwa
+rinokanganisa njodzi yeAlzheimer rinonzi APOE. NIA inowedzera kuti masayendisiti
+havasati vanzwisisa zvizere zvinokonzeresa Alzheimer muvanhu vazhinji. Lancet
+Commission inoti njodzi dzinogona kuchinjwa dzinogona kuderedzwa zvisinei
+nenjodzi yemajini yemunhu.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Nekuti zera nemajini zvine basa guru, vanhu vazhinji vasina kana chimwe
+chezvinhu 14 zvinowedzera njodzi vachiri kuita dementia. Hakusi kukanganisa
+kwemumwe munhu.
 
-## What does the trial evidence say about changing these risks?
+## Humbowo hwemiedzo hunotii nezvekuchinja njodzi idzi?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Kubatanidza chinhu chinowedzera njodzi nedementia hazvina kufanana nekuratidza
+kuti kuchichinja kunoderedza njodzi yedementia. Mimwe mienzaniso yekuti humbowo
+hwemiedzo hwakamira sei:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **BP.** Mumuedzo weSPRINT MIND, chinangwa cheBP yakaderera chakaderedza
+  zvakanyanya kudzikira kudiki kwekufunga. Hachina kuderedza zvakanyanya
+  dementia ingangodaro, kunyange hazvo muedzo ungangodaro wakanga uri mudiki
+  kuratidza izvozvo ([SPRINT MIND muJAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Mahearing aid.** Lancet Commission inotsanangura muedzo wemakore matatu
+  wemahearing aid wakawana pasina mhedzisiro yakazara pakufunga, asi paiva
+  nebatsiro muboka diki revanhu vaiva nenjodzi yakakura. Zvidzidzo zvinotevera
+  vanhu kwenguva refu zvinobatanidza kushandisa mahearing aid nenjodzi
+  yakaderera. [Gwaro redu rekunzwa](/brain-health/hearing/) rine zvimwe.
+- **Maekisesaizi.** National Institute on Aging inoti hapana humbowo hwakakwana
+  hwemiedzo yekurapa hunogumisa kuti maekisesaizi anogona kudzivirira kana
+  kunonotsa kudzikira kudiki kwekufunga kana Alzheimer, kunyange hazvo zvimwe
+  zvidzidzo zvichiratidza kuti zvinogona kubatsira nekudzikira kunoenderana
+  nezera ([NIA nezvekudzivirira Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Miedzo mirefu inomirira kuti dementia iitike inononoka uye inodhura, saka
+kuzvinhu zvakawanda humbowo hwakanakisa hucharamba huchibva muzvidzidzo
+zvinotevera vanhu kwemakore. Humbowo ihwohwo hunobatsira, asi hauna kusimba
+semuedzo.
 
-## What about sleep and diet?
+## Ko kurara uye kudya zvakadii?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Commission yakaongorora kurara nekudya asi haina kuzviwedzera parondedzero,
+nekuti humbowo hwakanga husina kusimba kana kuenderana zvakakwana. Magwaro edu
+e[kurara](/brain-health/sleep/) ne[kudya](/brain-health/diet/) anotsanangura
+zvinozivikanwa.
 
-## Talk with a doctor
+## Kurukurai nachiremba
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Kuongororwa kwegore negore inguva yakanaka yekusimudza nyaya idzi. Munogona
+kuuya nerondedzero iyi mobvunza:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Nhamba dzangu dzeBP, shuga yeropa necholesterol ndedzipi, uye pane dzinoda
+  kutariswa here?
+- Ndinofanira kuongororwa kunzwa nemaziso here?
+- Maekisesaizi andinoita akachengeteka uye akakwana kwandiri here?
+- Pane mishonga yangu ingakanganisa ndangariro kana kufunga here?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Musati machinja mishonga, kudya, kuzvinyima zvekudya, maekisesaizi kana
+mavitamini, kurukurai nachiremba kutanga. Kana imi kana munhu wamunotarisira
+mukaerekana mavhiringika, muine utera parutivi rumwe rwemuviri, kana muine
+dambudziko rekutaura, fonerai 911.

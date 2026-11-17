@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Zviratidzo zvekutanga zvedementia nenguva yekuona chiremba"
+seoTitle: "Zviratidzo zvekutanga zvedementia nenguva yekuona chiremba"
+description: "Zviratidzo zvinowanzoonekwa pakutanga kwedementia, musiyano wazvo nekukwegura kwakajairika, zvikonzero zvinorapika, uye kugadzirira kuenda kuna chiremba."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Kukanganwa kunokanganisa upenyu hwezuva nezuva, kunetseka kuita mabasa anozivikanwa, kuvhiringika
+  pamusoro penguva kana nzvimbo, uye kuchinja kwemafungiro kana kutonga zvinhu zvinogona kuva zviratidzo
+  zvekutanga zvedementia. Mamwe matambudziko akawanda, anosanganisira matambudziko ethyroid, kushomeka
+  kwevhitamini B12, mhedzisiro yemishonga, kuora mwoyo uye matambudziko ekurara, anogonawo kukonzera
+  kuchinja kwakadaro. Chiremba ane ruzivo chete ndiye anogona kuona kuti idementia here. Kuvhiringika
+  kunouya kamwe kamwe kunoda rubatsiro rwechimbichimbi.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Kukanganwa pano neapo kunowanzoitika pakukwegura; kuchinja kunokanganisa upenyu hwezuva nezuva kwakakodzera kuongororwa."
+  - "Alzheimer's Association inotsanangura zviratidzo gumi zvekuyambira, chimwe nechimwe chichienzaniswa nekuchinja kunowanzoitika pakukwegura."
+  - "Matambudziko ethyroid, kushomeka kwevhitamini B12, mhedzisiro yemishonga, kuora mwoyo, utachiona uye matambudziko ekurara zvinogona kukanganisa ndangariro, uye zvimwe zvinorapika."
+  - "Chiremba ane ruzivo chete ndiye anogona kuona kuti idementia here; mibvunzo yepadandemutande kana kuzviongorora wega hazvigoni."
+  - "Kuvhiringika kunotanga kamwe kamwe, mukati memaawa kana mazuva, kunogona kuva delirium uye kunoda rubatsiro rwechimbichimbi."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Kukanganwa chinhu chakajairika pakukwegura here?"
+    a: "Pane zvimwe zvinoitika. National Institute on Aging inoti dzimwe nguva kurasikirwa nezvinhu kana kukanganwa bhiri rinofanira kubhadharwa kunowanzoitika pakukwegura uye hakuna kunyanya kuipa. Dementia haisi chinhu chakajairika pakukwegura. Matambudziko endangariro anoita kuti mabasa ezuva nezuva akadai sekutyaira, kushandisa runhare kana kuwana nzira yekudzokera kumba ave akaoma akakodzera kuongororwa nachiremba."
+  - q: "Matambudziko endangariro anogona kukonzerwa nechimwe chinhu chisiri dementia here?"
+    a: "Hongu. National Institute on Aging inotaura nezvematambudziko ethyroid, itsvo kana chiropa, mhedzisiro yemishonga, kuora mwoyo uye kushushikana, kushomeka kwevhitamini B12, kushandisa doro zvakanyanya, matambudziko ekurara, utachiona uye kukuvara kwemusoro, pakati pezvimwe. Zvimwe zvezvinhu izvi zvinogona kunaka kana zvikarapwa, uye ichi ndicho chimwe chikonzero nei kuongororwa nachiremba kuchikosha."
+  - q: "Ndinogona kuongorora munhu kuti ane dementia here kumba?"
+    a: "Kwete. Chiremba ane ruzivo chete ndiye anogona kuona kuti idementia here, achishandisa nhoroondo yezvehutano, kuongororwa kwemuviri, bvunzo dzendangariro nekufunga, bvunzo dzemurabhoritari uye dzimwe nguva mifananidzo yehuropi. Kunyange bvunzo pfupi dzinoshandiswa navanachiremba hadzina kukwana dzoga kuona kuti idementia."
+  - q: "Ndinofanira kuitei kana munhu akangoerekana avhiringika?"
+    a: "Tsvagai rubatsiro rwekurapwa nekukurumidza. Kuvhiringika kunouya kamwe kamwe kunogona kuva delirium, iyo VA inotsanangura sedambudziko rekurapwa rinoda kukurumidzwa. Fonera mupi wehutano hwemunhu wacho nekukasika kana fonera 911, garai naye, uye nyorai mishonga yaanotora."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Kuona kuchinja mundangariro dzenyu, kana dzeumwe munhu wamunoda, kunogona kuvhundutsa. Peji rino rinogona kukubatsirai kusarudza nguva yekuronga kuenda kuna chiremba uye kuti mungagadzirira sei. Harigoni kukuudzai kana munhu aine dementia. **Chiremba ane ruzivo chete ndiye anogona kuona kuti idementia here**, uye matambudziko akawanda anokonzera matambudziko endangariro haasi dementia. Ndapota musavimbe nemibvunzo yepadandemutande kana kuzviongorora wega.
 
-## What are the early signs of dementia?
+## Ndezvipi zviratidzo zvekutanga zvedementia?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) inotsanangura zviratidzo gumi zvekutanga. Chiratidzo chega chega chinoenzaniswa nekuchinja kunowanzoitika pakukwegura. Nemashoko edu:
 
-| Sign worth checking | More typical with age |
+| Chiratidzo chakakodzera kuongororwa | Zvinonyanya kuitika pakukwegura |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Kukanganwa kunokanganisa upenyu hwezuva nezuva, sekukanganwa zvinhu zvichangobva kuitika kana kubvunza chinhu chimwe chete kakawanda | Dzimwe nguva kukanganwa zita kana nguva yekusangana uye kuzoyeuka gare gare |
+| Kunetseka kuronga kana kugadzirisa matambudziko, sekutevera resipi inozivikanwa kana kuchengeta nhoroondo yemabhiri | Kukanganisa pano neapo pakubata mabhiri epamba |
+| Kunetseka kupedza mabasa anozivikanwa kumba, kubasa kana kunze | Dzimwe nguva kuda rubatsiro pakugadzirisa microwave kana kurekodha chirongwa chepaTV |
+| Kurasa nguva, mazuva, mwaka kana nzvimbo yauri | Kukanganwa zuva revhiki, wobva wazozvinzwisisa |
+| Kunetseka kutsva kuona kure, kuverenga kana kusiyanisa mavara | Kuchinja kwekuona kunokonzerwa necataracts |
+| Matambudziko matsva nemashoko, sekumira pakati pekutaura kana kudana zvinhu nemazita asiri iwo | Dzimwe nguva kunetseka kuwana izwi rakakodzera |
+| Kuisa zvinhu munzvimbo dzisina kujairika uye kutadza kuronda pawakazviisa | Kurasikirwa nezvinhu pano neapo uye kuzviwana nekuronda pawakazvifambisa |
+| Kutonga zvisina kunaka, semari kana kuzvichengeta | Kuita sarudzo isina kunaka pano neapo |
+| Kurega zvinhu zvawaifarira, basa kana kusangana nevamwe | Dzimwe nguva kusada kuenda kumusangano wemhuri kana wevamwe |
+| Kuchinja kwemafungiro kana hunhu, sekunzwa kuvhiringika, kufungira, kutya kana kushushikana | Kujaira nzira imwe chete yekuita zvinhu uye kugumbuka kana hurongwa hwachinja |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Chiratidzo chimwe chete hachirevi kuti idementia. Chinonyanya kukosha **kuchinja kubva pane zvaiwanzoitika kumunhu iyeye**, kunyanya kana kuchiita kuti upenyu hwezuva nezuva huome.
 
-## How is normal aging different from dementia?
+## Kukwegura kwakajairika kwakasiyana sei nedementia?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) inoti vanhu vakuru vazhinji vanoona kuti vanoyeuka zvinhu zvishoma nezvishoma, kana kuti dzimwe nguva vanorasikirwa nezvinhu kana kukanganwa bhiri. Izvi zvinowanzova zviratidzo zvekukanganwa kudiki. **Dementia haisi chinhu chakajairika pakukwegura.** Matambudziko makuru endangariro anoita kuti mabasa ezuva nezuva ave akaoma, sekutyaira, kushandisa runhare kana kuwana nzira yekudzokera kumba.
 
-The NIA suggests talking with a doctor if someone:
+NIA inokurudzira kutaura nachiremba kana munhu:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Achibvunza mibvunzo imwe chete kakawanda
+- Achirasika munzvimbo dzaaimboziva zvakanaka
+- Achinetseka kutevera maresipi kana mirairo
+- Achinyanya kuvhiringika pamusoro penguva, vanhu nenzvimbo
+- Achirega kuzvichengeta, sekusadya zvakanaka, kusageza kana kuita zvinhu zvisina kuchengeteka
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Vamwe vanhu vane **mild cognitive impairment (MCI)**. Izvi zvinoreva kuti vane matambudziko endangariro kana ekufunga akawanda kupfuura vamwe vezera ravo, asi vachiri kukwanisa kubata upenyu hwezuva nezuva. NIA inoti MCI inogona kuva chiratidzo chekutanga cheAlzheimer's, asi havasi vese vane MCI vanozopedzisira vava nayo.
 
-## What else can cause memory problems?
+## Ndezvipi zvimwe zvinogona kukonzera matambudziko endangariro?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Zvinhu zvakawanda kunze kwedementia zvinogona kukanganisa ndangariro, uye zvimwe zvinova nani kana zvikarapwa. NIA inonyora:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Matambudziko ethyroid, itsvo kana chiropa**
+- **Mhedzisiro yemishonga**
+- **Kuora mwoyo nekushushikana**
+- **Kushomeka kwevhitamini B12** kana kusadya chikafu chine hutano chakakwana
+- **Matambudziko ekurara**
+- **Kushandisa doro kana zvinodhaka zvakanyanya**
+- **Utachiona, magwamba eropa kana mapundu** muuropi
+- **Kukuvara kwemusoro**, sekurohwa musoro zvakanyanya (concussion)
+- **Kushushikana kukuru kana kusuwa**, sekusiya basa kana kufirwa nemudiwa
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Matambudziko ekunzwa nekuona anogonawo kuvhiringidzwa nekuvhiringika; onai gwara redu re[kunzwa](/brain-health/hearing/). Ndicho chikonzero nei kuongororwa nachiremba kuchikosha. Maererano ne[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), vanachiremba vanowanzokumbira bvunzo dzeropa kuti vaone matambudziko ethyroid, kushomeka kwemavhitamini uye utachiona. [Kurara](/brain-health/sleep/) zvakanaka uye kurapa kuora mwoyo zvakare zvinhu zvakakodzera kutaurwa.
 
-## Sudden confusion is an emergency
+## Kuvhiringika kunouya kamwe kamwe idambudziko rinoda kukurumidzwa
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Kuvhiringika kunotanga nekukurumidza, mukati memaawa kana mazuva, kunoda rubatsiro rwekurapwa nekukurumidza.** Kunogona kuva delirium. [VA inotsanangura delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) sedambudziko rekurapwa rinoda kukurumidzwa uye inorayira kuti mufonere mupi wehutano hwemunhu wacho nekukasika kana kufonera 911. Zviratidzo zvinosanganisira:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Kukwira nekudzika kwekukwanisa kufunga zvakajeka
+- Kunetseka kuisa pfungwa pachinhu chimwe
+- Kufunga kusina kurongeka
+- Kurara zvakanyanya zvisina kujairika, kana kusagadzikana nekufamba-famba zvakanyanya
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Izvi zvinogona kuitika kune chero ani zvake, kusanganisira vanhu vatova kurarama nedementia. Maererano ne[NHS](https://www.nhs.uk/symptoms/confusion/), zvikonzero zvinowanzoitika zvinosanganisira utachiona (utachiona hweweti hunowanzoitika muvanhu vakuru uye muvanhu vanorarama nedementia), sitiroko, shuga yakaderera muropa muvanhu vane chirwere cheshuga, kukuvara kwemusoro uye mimwe mishonga. Pamunenge makamirira rubatsiro, garai nemunhu wacho uye mumunyaradze nemashoko mapfupi, ari nyore. Musamubvunza mibvunzo yakawanda, uye nyorai mishonga yaanotora.
 
-## How do I prepare for the doctor's appointment?
+## Ndingagadzirira sei kuenda kuna chiremba?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Kushanya kwakanaka kuna chiremba kunotanga nezvinyorwa zvakanaka. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) inokurudzira kuuya ne:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Rondedzero yekuchinja** kwendangariro, mafungiro nemaitiro, nemienzaniso chaiyo uye kuti zvakatanga riini
+2. **Matambudziko ehutano ekare nearipo**, kusanganisira nhoroondo yemhuri yematambudziko endangariro
+3. **Mishonga yese yakanyorerwa nachiremba uye inotengwa pasina tsamba**
+4. **Mavhitamini kana ma supplements api zvawo**
+5. **Mibvunzo yenyu**, sekuti ndedzipi bvunzo dzichaitwa, dzinotora nguva yakadii uye mhinduro dzichauya riini
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Zvinobatsirawo kuuya nenhengo yemhuri kana shamwari inonyatsoziva munhu wacho. [NIA inotsanangura](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) kuti vanachiremba vanogona kubvunza munhu wacho nenhengo yemhuri nezvehutano, mishonga, mabasa ezuva nezuva uye kuchinja kwemaitiro. Vanachiremba vanogonawo:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Kupa bvunzo dzendangariro, kugadzirisa matambudziko, kuisa pfungwa, kuverenga uye mutauro
+- Kukumbira bvunzo dzeropa, weti nedzimwe kuti vaone zvimwe zvikonzero
+- Kuongorora kuora mwoyo kana mamwe matambudziko ehutano hwepfungwa
+- Kukumbira mifananidzo yehuropi yakadai seCT kana MRI
+- Kutumira kuna nyanzvi, yakadai sageriatrician, neurologist, geriatric psychiatrist kana neuropsychologist
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA inoti kuongororwa kwekufunga (cognitive assessment) chikamu chinodiwa cheMedicare Annual Wellness Visit, inova nguva yakanaka yekutaura nezvezvinokunetsai. Kunyange bvunzo pfupi dzinoshandiswa navanachiremba hadzina kukwana dzoga kuona kuti idementia. Idanho rekutanga rekuongororwa kwakadzama, uye kuona kuti idementia kungatora kushanya kunopfuura kumwe chete. NIA inorayira kuti vanhu vane matambudziko endangariro vadzokere kuna chiremba mwedzi miri mitanhatu kusvika gumi nemiviri yega yega.
 
-## Raising the subject kindly
+## Kutanga nyaya yacho zvinyoro
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Kana muchinetsekera mumwe munhu, sarudzai nguva yakadzikama uye isina vanhu vazhinji. Taurai nezvezvinhu zvamakaona, muchizvitaura sekunetsekera hutano hwavo kwete kuvashora. Kukurudzira kuongororwa kwehutano kwakajairika kunogona kunzwa kusina kuomesera. Sanganisirai munhu wacho mumasarudzo uye mutaure naye semunhu mukuru. [Mazano edu ekukurukurirana](/caregiving/communication-tips/) anogona kubatsira.
 
-## Talk with a doctor
+## Taurai nachiremba
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Kana mukaona kuchinja mundangariro, kufunga, mafungiro kana kugona kuita zvinhu zvezuva nezuva kutsva uye kuchiramba kuchiitika, rongai nguva yekuona chiremba wekutanga. Kana pakava nekuvhiringika kunouya kamwe kamwe, fonerai 911 kana mupi wehutano hwemunhu wacho nekukasika. Kuongororwa nekukurumidza kunoreva kuti zvikonzero zvinorapika zvinogona kuwanikwa uye, kana iri dementia, panenge pava nenguva yakawanda yekuronga uye kutsvaga rutsigiro. Zvichengetedzeiwo panguva iyi; onai [gwara redu rekuzvichengeta semunhu anotarisira mumwe](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Peji rino ruzivo rwakajairika, harisi zano rekurapwa. Onai [chiziviso chedu chezvekurapwa](/medical-disclaimer/).

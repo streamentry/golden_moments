@@ -1,36 +1,37 @@
 ---
-title: "Demensiyali inson qayta-qayta uyga ketmoqchi boʻlsa"
-seoTitle: "Demensiyada qayta-qayta «uyga boray» deyish: nima deysiz"
-description: "Demensiya bilan yashayotgan inson uyda boʻlsa ham nega uyga ketmoqchi boʻladi, nima deysiz, tinchlantiruvchi mashgʻulotlar va ketib qolsa, xavfsizlikni qanday saqlash."
+title: "Demensiyada uyga qaytishni qayta-qayta so‘rash"
+seoTitle: "Demensiyada uyga qaytish istagi: nima deyish kerak"
+description: "Demensiya bilan yashayotgan kishi uyda bo‘lsa ham nega uyga qaytishni so‘rashi, nima deyish, tinchlantiruvchi mashg‘ulotlar va xavfsizlik haqida."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Demensiyali inson qayta-qayta uyga ketmoqchi boʻlsa, «uy» koʻpincha bino emas,
-  xavfsizlik hissi yoki oʻtmishdagi joyni anglatadi. Uning uyda ekanini
-  isbotlashga urinmang. Hissini tan oling, xavfsiz ekaniga ishontiring, uy haqida
-  soʻrang, keyin ohista suratlar, musiqa, yengil taom, sayr yoki oddiy ishga
-  yoʻnaltiring. Ochlik, chanqoq, hojatxona yoki ogʻriqni tekshiring. Agar bu
-  birdan boshlangan boʻlsa, uning shifokoriga qoʻngʻiroq qiling.
+  Demensiya bilan yashayotgan kishi uyga qaytishni qayta-qayta so‘raganda,
+  «uy» ko‘pincha bino emas, balki xavfsizlik hissi yoki o‘tmishdagi joyni
+  anglatadi. Ularning uyda ekanini isbotlamang. Ularning hissiyotini tan oling,
+  xavfsiz ekaniga ishontiring, uy haqida so‘rang, so‘ng muloyimlik bilan
+  suratlar, musiqa, tamaddi, sayr yoki oddiy ishga o‘ting. Ochlik, chanqoq,
+  hojatxona ehtiyoji yoki og‘riq bor-yo‘qligini tekshiring. Agar bu holat
+  to‘satdan boshlangan bo‘lsa, shifokoriga murojaat qiling.
 keyPoints:
-  - "«Uyga ketmoqchiman» koʻpincha «oʻzimni xavfsiz yoki tinch his qilmayapman» degani, manzil soʻrash emas."
-  - "Bahslashish yoki uyda ekanini isbotlash odatda xavotirni kuchaytiradi. Soʻzga emas, hissga javob bering."
-  - "Undan uyi haqida gapirib berishni soʻrang, keyin suratlar, musiqa, yengil taom, sayr yoki oddiy ish taklif qiling."
-  - "Tuzatish mumkin boʻlgan sababni tekshiring: ochlik, chanqoq, hojatxona, ogʻriq, juda issiq yoki sovuq, shovqin, charchoq."
-  - "Agar bu har kuni kech tushdan keyin boʻlsa, bu kechki bezovtalik (sundowning) boʻlishi mumkin; barqaror tartib va yaxshi yorugʻlik yordam berishi mumkin."
-  - "Chiqib ketmoqchi boʻlsa, xavfsizlikni rejalashtiring va har qanday keskin oʻzgarish haqida shifokorga qoʻngʻiroq qiling."
+  - "«Men uyga borishni xohlayman» degan gap ko‘pincha manzil so‘rovi emas, balki «O‘zimni xavfsiz yoki xotirjam his qilmayapman» degan ma’noni anglatadi."
+  - "Bahslashish yoki uyda ekanini isbotlash odatda bezovtalikni kuchaytiradi. Buning o‘rniga hissiyotga javob bering."
+  - "Ulardan uy haqida gapirib berishini so‘rang, so‘ng suratlar, musiqa, tamaddi, sayr yoki oddiy ish taklif qiling."
+  - "Tuzatish mumkin bo‘lgan narsani tekshiring: ochlik, chanqoq, hojatxona ehtiyoji, og‘riq, juda issiq yoki sovuq bo‘lishi, shovqin, charchoq."
+  - "Agar bu holat har kuni tushdan keyin kechroq paydo bo‘lsa, bu kechki bezovtalik bo‘lishi mumkin; barqaror tartib va yaxshi yorug‘lik yordam berishi mumkin."
+  - "Agar ular uydan chiqib ketishga urinishi mumkin bo‘lsa, xavfsizlik choralarini ko‘ring va har qanday to‘satdan o‘zgarish haqida shifokoriga murojaat qiling."
 faq:
-  - q: "Demensiyali onam uyda boʻlsa ham nega qayta-qayta uyga ketmoqchi boʻladi?"
-    a: "Demensiya tanish xonalarni ham notanish qilib qoʻyishi mumkin va odamlar ba’zan oʻzini hayotning avvalgi davrida his qiladi. «Uy» bolalikdagi uyni yoki shunchaki xavfsiz va qulay boʻlish hissini anglatishi mumkin. Qayerdaligini koʻrsatishdan koʻra, shu hissga javob berish odatda yaxshiroq ishlaydi."
-  - q: "Uyga ketmoqchi boʻlsa, nima deyishim kerak?"
-    a: "«Bu yerda xavfsizsiz va men siz bilan qolaman» deb koʻring, keyin «Uyingiz haqida gapirib bering». Tinglang, surat yoki qoʻshiqni boʻlishing va ichimlik yoki qisqa sayr taklif qiling. «Siz uydasiz» deb toʻgʻrilash sifatida aytishdan saqlaning, chunki bu unga xato qilgandek tuyulishi mumkin."
-  - q: "Keyinroq uyga boramiz deb aytish maylimi?"
-    a: "Oilalar va demensiya tashkilotlari bu borada turlicha fikrda. Koʻpchiligi halol tasalli va diqqatni oʻzgartirishdan boshlaydi va yengil yolgʻonni haqiqat inson yengib oʻta olmaydigan xavotirdan boshqa narsa bermaydigan paytlar uchun saqlaydi. Nimani tanlasangiz ham, mehribon va izchil boʻling va uning oʻz voqeligini hech qachon masxara qilmang."
-  - q: "Uydan chiqib ketmoqchi boʻlsa-chi?"
-    a: "Xotirjam boʻling va toʻsib qoʻymasdan u bilan birga yuring; qisqa sayr koʻpincha bu istakni tinchlantiradi. Xavfsizlik choralarini oldindan koʻring: shaxsni tasdiqlovchi bilaguzuk, eshik qoʻngʻirogʻi va yaqinda olingan surat. Yoʻqolib qolsa, darhol qidirishni boshlang va 15 daqiqa ichida topilmasa, hududingizdagi favqulodda raqamga qoʻngʻiroq qiling va insonda demensiya borligini ayting."
-  - q: "Shifokorga qachon qoʻngʻiroq qilishim kerak?"
-    a: "Agar «uyga boray» deyish yoki chalkashlik birdan boshlansa yoki soatlar yoki kunlar ichida ancha kuchaysa, ayniqsa isitma, yangi dori yoki siydik yoʻllari infeksiyasi belgilari boʻlsa, uning shifokoriga tezda qoʻngʻiroq qiling. Birdan paydo boʻlgan chalkashlik deliriy boʻlishi mumkin, u shoshilinch yordamni talab qiladi. Kimdir xavf ostida boʻlsa, hududingizdagi favqulodda raqamga qoʻngʻiroq qiling."
+  - q: "Nega demensiya bilan yashayotgan onam uyda bo‘lsa ham uyga qaytishni qayta-qayta so‘raydi?"
+    a: "Demensiya tanish xonalarni notanish qilib qo‘yishi mumkin va odamlar ba’zan hayotlarining oldingi davrida yashayotgandek his qilishadi. «Uy» bolalikdagi uyni yoki shunchaki xavfsiz va xotirjam bo‘lish hissini anglatishi mumkin. Shu hissiyotga javob berish odatda uning qayerda ekanini ko‘rsatishdan ko‘ra yaxshiroq natija beradi."
+  - q: "Ular uyga qaytishni so‘raganda nima deyishim kerak?"
+    a: "«Bu yerda xavfsizsiz va men yoningizdaman», so‘ng «Menga uyingiz haqida gapirib bering» deb aytib ko‘ring. Ularni tinglang, surat yoki qo‘shiq ulashing va ichimlik yoki qisqa sayr taklif qiling. «Siz uydasiz» degan tuzatuvchi gapdan saqlaning, chunki bu ularga noto‘g‘ri deyilayotgandek tuyulishi mumkin."
+  - q: "Keyinroq uyga boramiz deyish mumkinmi?"
+    a: "Oilalar va demensiya tashkilotlari bu borada bir xil fikrda emas. Ko‘pchilik avval samimiy tasalli va e’tiborni yumshoq yo‘naltirishdan boshlaydi, muloyim nohaqi gapni esa faqat haqiqat inson yengib o‘ta olmaydigan bezovtalikka olib keladigan paytlarga qoldiradi. Qaysi yo‘lni tanlamang, mehribon va izchil bo‘ling hamda ularning voqelikni his qilishini hech qachon masxara qilmang."
+  - q: "Agar ular uydan chiqib ketmoqchi bo‘lsa-chi?"
+    a: "Xotirjam bo‘ling va ularni to‘sib qo‘yish o‘rniga ular bilan birga yuring; qisqa sayr ko‘pincha bu istakni pasaytiradi. Oldindan xavfsizlik choralarini ko‘ring, masalan, ism va telefon raqami yozilgan bilaguzuk, eshik qo‘ng‘irog‘i va yaqinda olingan surat. Agar kishi yo‘qolib qolsa, mahalliy politsiya yoki favqulodda xizmatlarga zudlik bilan xabar berish bilan birga yaqin atrofdagi xavfsiz joylarni tekshiring. Xabar berishdan oldin ma’lum daqiqalar kutib o‘tirmang."
+  - q: "Qachon shifokorga murojaat qilishim kerak?"
+    a: "Agar uyga qaytishni so‘rash yoki chalkashlik to‘satdan boshlangan bo‘lsa yoki soatlar yoki kunlar davomida ancha kuchaysa, ayniqsa isitma, yangi dori yoki siydik yo‘llari infeksiyasi belgilari bo‘lsa, darhol shifokoriga murojaat qiling. To‘satdan chalkashlik deliriy bo‘lishi mumkin va bu shoshilinch yordamni talab qiladi. Agar kimdir xavf ostida bo‘lsa, 911 raqamiga qo‘ng‘iroq qiling."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-«Uyga ketmoqchiman.» Koʻp oilalar uchun bu eshitish eng qiyin gaplardan biri, ayniqsa parvarish qilayotgan insoningiz oʻz mehmonxonasida oʻtirgan boʻlsa. Bu keng tarqalgan, demensiyaning istalgan bosqichida sodir boʻlishi mumkin va javob berishning sokin, amaliy yoʻllari bor. Bu sahifada bu soʻzlar koʻpincha nimani anglatishi, nima deyish, shu paytda qanday mashgʻulotlar yordam berishi va qanday qilib xavfsiz boʻlish haqida gap boradi.
+«Men uyga borishni xohlayman.» Ko‘plab oilalar uchun, ayniqsa siz g‘amxo‘rlik qilayotgan kishi o‘z mehmonxonasida o‘tirganida, buni eshitish eng og‘ir lahzalardan biri bo‘lishi mumkin. Bu holat ko‘p uchraydi, demensiyaning har qanday bosqichida yuz berishi mumkin va bunga xotirjam, amaliy usullar bilan javob berish mumkin. Bu sahifada bu so‘zlar ko‘pincha nimani anglatishi, nima deyish kerakligi, shu paytda yordam berishi mumkin bo‘lgan mashg‘ulotlar va qanday qilib xavfsiz qolish mumkinligi yoritiladi.
 
-## Demensiyali inson nega qayta-qayta uyga ketmoqchi boʻladi?
+## Nega demensiya bilan yashayotgan kishi uyga qaytishni qayta-qayta so‘raydi?
 
-Odatda «uy» joydan koʻra koʻproq his. Alzheimer's Society buni uyning oʻzidan emas, qulaylik va xavfsizlik hissi yoki oʻtmishdagi uy deb ta’riflaydi. Demensiya tanish xonalarni begona qilib koʻrsatishi mumkin va inson uy bolalikdagi uy yoki bolalarini oʻstirgan joy boʻlgan hayotning avvalgi davrida yashayotganini his qilishi mumkin.
+Ko‘pincha «uy» joydan ko‘ra ko‘proq his-tuyg‘uni anglatadi. Alzheimer's Society buni uyning o‘zi emas, balki qulaylik va xavfsizlik hissi yoki o‘tmishdagi uy deb ta’riflaydi. Demensiya tanish xonalarni g‘alati ko‘rsatishi mumkin va odam o‘zini hayotining oldingi davrida, masalan, bolalikdagi uyida yoki farzandlarini tarbiyalagan joyida yashayotgandek his qilishi mumkin.
 
-Bu soʻzlar hozir boshqa narsa notoʻgʻri ekanining belgisi ham boʻlishi mumkin: u och, chanqagan, hojatxonaga borishi kerak, ogʻriyapti, juda issiq yoki sovuq, charchagan, yolgʻiz, qoʻrqqan yoki shovqindan qiynalgan. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) betoqatlik sabablari qatorida ogʻriq, shovqin, yolgʻizlik, kun tartibidagi oʻzgarishlar va dorilarni sanaydi.
+Bu so‘zlar ayni paytda boshqa biror narsa noto‘g‘ri ketayotganidan ham darak berishi mumkin: u och, chanqoq, hojatxonaga borishi kerak, og‘riq sezmoqda, juda issiq yoki sovuq, charchagan, yolg‘iz, qo‘rqqan yoki shovqindan bezovta bo‘lgan bo‘lishi mumkin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) bezovtalik sabablari qatorida og‘riq, shovqin, yolg‘izlik, tartibdagi o‘zgarishlar va dorilarni keltiradi.
 
-## Uyga ketmoqchi boʻlsa, nima deyishim kerak?
+## Ular uyga qaytishni so‘raganda nima deyishim kerak?
 
-Soʻzlarga emas, hissga javob bering. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) insonni xato qilayotganiga ishontirishga urinmaslikni maslahat beradi: uning his-tuygʻulari haqiqiy, shuning uchun avval tasalli va ishonch bilan javob bering, keyin ohista yoʻnaltiring.
+So‘zlarga emas, hissiyotga javob bering. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) odamni noto‘g‘ri ekaniga ishontirishga urinishdan saqlanishni maslahat beradi: ularning his-tuyg‘ulari haqiqiy, shuning uchun avval tasalli va ishonch bering, so‘ng e’tiborni muloyimlik bilan boshqa narsaga yo‘naltiring.
 
-Koʻpincha yordam beradigan iboralar:
+Ko‘pincha yordam beradigan iboralar:
 
-- **Hissni nomlang.** «Uyni sogʻinganga oʻxshaysiz.»
-- **Ishontiring.** «Bu yerda xavfsizsiz va men siz bilan qolaman.» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) «Bu yerda xavfsizsiz» degan oddiy soʻzlarni tavsiya qiladi.
-- **Xotiralarni taklif qiling.** «Uyingiz haqida gapirib bering. Oshxonangiz qanday edi?» Uzoq oʻtmish haqida soʻrash odatda bugun haqidagi savollardan qulayroq.
-- **Birga biror narsa taklif qiling.** «Avval bir piyola choy ichaylik» yoki «Shu sochiqlar bilan yordam berasizmi?»
+- **Hissiyotni nomlang.** «Uyni sog‘inayotganga o‘xshaysiz.»
+- **Ishontiring.** «Bu yerda xavfsizsiz va men yoningizdaman.» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) «Bu yerda xavfsizsiz» degan oddiy so‘zlarni taklif qiladi.
+- **Xotiralarga chorlang.** «Menga uyingiz haqida gapirib bering. Oshxonangiz qanday edi?» O‘tmish haqida so‘rash odatda bugungi kun haqida savol berishdan ko‘ra qulayroq bo‘ladi.
+- **Birga biror narsa taklif qiling.** «Avval bir piyola choy ichamiz», yoki «Bu sochiqlarni taxlashga yordam berasizmi?»
 
-Iliq ohang va, agar teginishni yoqtirsa, qoʻlga qoʻyilgan qoʻl soʻzlardan koʻproq narsani aytishi mumkin.
+Iliq ohang va agar ular teginishni yoqtirsa, qo‘lga yengil tegish so‘zlardan ko‘ra ko‘proq tasalli bera oladi.
 
-## Nimalardan qochishim kerak?
+## Nimadan saqlanishim kerak?
 
-- **Bahslashish yoki tushuntirish.** «Siz endi shu yerda yashaysiz» yoki «Bu 40 yildan beri sizning uyingiz» demensiya qabul qilishni qiyinlashtiradigan narsani qabul qilishni undan soʻraydi va unga xato qilayotgandek tuyulishi mumkin.
-- **Savollar bilan sinash.** «Esingizda yoʻqmi?» yoki «Manzil qanday?» bosimni oshiradi.
-- **Jahl bilan eshikni toʻsish.** Chiqib ketsa, xotirjam boʻling va u bilan birga yuring. Birga qisqa sayr koʻpincha bu istakni tinchlantiradi.
-- **Shoshilish.** Mavzuni oʻzgartirishdan oldin unga uy haqida gapirishga vaqt bering.
+- **Bahslashish yoki tushuntirish.** «Siz hozir shu yerda yashaysiz» yoki «Bu qirq yildan beri sizning uyingiz» kabi gaplar ulardan demensiya qabul qilishni qiyinlashtiradigan narsani qabul qilishni talab qiladi va bu noto‘g‘ri deyilayotgandek tuyulishi mumkin.
+- **Sinov savollari berish.** «Eslay olmaysizmi?» yoki «Manzil qanday?» kabi savollar bosim qo‘shadi.
+- **G‘azab bilan eshikni to‘sish.** Agar ular tashqariga chiqmoqchi bo‘lsa, xotirjam bo‘ling va ular bilan birga yuring. Birga qisqa sayr qilish ko‘pincha bu istakni pasaytiradi.
+- **Shoshilish.** Mavzuni o‘zgartirishdan oldin ularga uy haqida gapirishga vaqt bering.
 
-## Shu paytda qanday mashgʻulotlar yordam berishi mumkin
+## Shu paytda yordam berishi mumkin bo‘lgan mashg‘ulotlar
 
-Hissni tan olgandan keyin sokin, tanish mashgʻulot uni mensimay, diqqatni oʻzgartirishi mumkin.
+Hissiyotni tan olganingizdan so‘ng, tinch va tanish mashg‘ulot e’tiborni rad etmasdan boshqa tomonga yo‘naltirishi mumkin.
 
-1. **Uy va oila suratlarini koʻring.** Sahifalarni varaqlang va savol berish oʻrniga fikr bildiring («Mana bu bogʻga qarang»). Telefon yoki planshetda [Surat juftliklari](/games/photo-pairs/) oʻzingizning oilaviy suratlaringizni yumshoq juftlash oʻyiniga aylantiradi va suratlar qurilmangizda qoladi.
-2. **Uy haqida gaplashing.** [Suhbat kartalari](/games/conversation-cards/) uylar, oshxonalar, qoʻshnilar va bayramlar haqida ochiq savollarni oʻz ichiga oladi, toʻgʻri javob yoʻq.
-3. **Uning sevimli musiqasini qoʻying.** National Institute on Aging betoqatlikni tinchlantirish yoʻllari orasida tinchlantiruvchi musiqani sanaydi. [Musiqa mashgʻulotlarimizga](/activities/music/) qarang.
-4. **Biror narsa yeyish yoki ichish taklif qiling.** Ochlik va chanqoq betoqatlikdek koʻrinishi mumkin. Bir piyola choy yoki sevimli ermak uydagidek his qilishning kichik urfi ham.
-5. **Sayrga chiqing yoki tashqarida oʻtiring.** Harakat va kunduzgi yorugʻlik yordam beradi, ayniqsa kunning erta paytida.
-6. **Tanish ish bering.** Kir buklash, qoshiq-vilkalarni saralash yoki oʻsimliklarni sugʻorish uy yuritish hissini qaytarishi mumkin.
-7. **Hammasini sekinlashtiring.** Televizorni oʻchiring, shovqin va yaltiroqlikni kamaytiring va birga [sokin nafas](/games/calm-breathing/) tanaffusini sinab koʻring.
+1. **Uy va oila suratlarini ko‘ring.** Sahifalarni varaqlang va savol berish o‘rniga izoh qoldiring («Mana bu bog‘ga qarang»). Telefon yoki planshetda [Photo pairs](/games/photo-pairs/) oila suratlaringizni mayin moslashtirish o‘yiniga aylantiradi va suratlar qurilmangizda qoladi.
+2. **Uy haqida suhbat qiling.** [Conversation cards](/games/conversation-cards/) uylar, oshxonalar, qo‘shnilar va bayramlar haqida ochiq savollar taklif qiladi, ularda to‘g‘ri javob bo‘lmaydi.
+3. **Ular yoqtiradigan musiqani qo‘ying.** National Institute on Aging bezovtalikni kamaytirish usullari qatorida tinchlantiruvchi musiqani ham keltiradi. [Musiqa mashg‘ulotlari](/activities/music/) bo‘yicha sahifamizga qarang.
+4. **Tamaddi yoki ichimlik bering.** Ochlik va chanqoqlik bezovtalik kabi ko‘rinishi mumkin. Bir piyola choy yoki yoqtirgan tamaddi uyda bo‘lish hissini beruvchi kichik odat hamdir.
+5. **Sayr qiling yoki tashqarida o‘tiring.** Harakat va kunduzgi yorug‘lik, ayniqsa kunning avvalroq qismida, foydali bo‘ladi.
+6. **Tanish ish bering.** Kir yuvishlarni taxlash, idish-tovoqlarni saralash yoki gullarni sug‘orish uy yuritish hissini qaytarishi mumkin.
+7. **Hammasini sekinlashtiring.** Televizorni o‘chiring, shovqin va yorqin yoruqlikni kamaytiring va birga [calm breathing](/games/calm-breathing/) mashg‘ulotini sinab ko‘ring.
 
-Bir gʻoya mos kelmasa, keyinroq boshqasini sinab koʻring. Birga jim oʻtirish ham yaxshi natija.
+Agar bir usul mos kelmasa, keyinroq boshqasini sinab ko‘ring. Birga jim o‘tirish ham yaxshi natija hisoblanadi.
 
-## Tuzatish mumkin boʻlgan sababni tekshiring
+## Tuzatish mumkin bo‘lgan sababni tekshiring
 
-| Tekshiring | Nima qilib koʻrish kerak |
+| Tekshiring | Nima qilish mumkin |
 | --- | --- |
-| Och yoki chanqagan | Ichimlik va kichik yengil taom taklif qiling |
-| Hojatxonaga borishi kerak | Xotirjam va shov-shuvsiz hojatxonaga borishni taklif qiling |
-| Ogʻriq yoki noqulaylik | Qiyshayish, tananing bir qismini ushlash yoki ich qotishi kabi belgilarni qidiring va uning shifokoriga ayting |
-| Juda issiq yoki juda sovuq | Bir qavat kiyimni oʻzgartiring yoki xona haroratini moslang |
-| Shovqin yoki gavjumlik | Sokinroq xonaga oʻting, televizorni oʻchiring |
-| Charchagan yoki ortiqcha qoʻzgʻalgan | Dam oldiring, xonani xira qiling, yumshoq musiqa qoʻying |
-| Kech tushdan keyin | Quyidagi kechki bezovtalik boʻlimiga qarang |
+| Och yoki chanqoq | Ichimlik va kichik tamaddi taklif qiling |
+| Hojatxonaga borishi kerak | Xotirjamlik bilan va ortiqcha shov-shuvsiz hojatxonaga borishni taklif qiling |
+| Og‘riq yoki noqulaylik | Qovog‘ini burishtirish, tananing biror qismini ushlab turish yoki qabziyat kabi belgilarni kuzating va shifokoriga ayting |
+| Juda issiq yoki juda sovuq | Kiyim qatlamini yoki xona haroratini o‘zgartiring |
+| Shovqin yoki gavjumlik | Tinchroq xonaga o‘ting, televizorni o‘chiring |
+| Charchagan yoki ortiqcha ta’sirlangan | Dam oling, xonani xiralashtiring, mayin musiqa qo‘ying |
+| Tushdan keyin kechroq vaqt | Quyidagi kechki bezovtalik bo‘limiga qarang |
 
-Alzheimer's Society bu iltimos qachon sodir boʻlishining qisqa yozuvini yuritishni, masalan, ovqatdan oldin, mehmonlardan keyin yoki shom paytida, maslahat beradi. Qonuniyatlar oldindan rejalashtirishni osonlashtiradi.
+Alzheimer's Society uyga qaytishni so‘rash qachon sodir bo‘lishini qisqacha qayd qilib borishni taklif qiladi, masalan, ovqatdan oldin, mehmonlardan keyin yoki qorong‘i tushayotganda. Qonuniyatlarni ko‘rish oldindan reja tuzishni osonlashtiradi.
 
-## Yengil yolgʻon aytish maylimi?
+## Muloyim nohaqi gap aytish mumkinmi?
 
-Bu haqiqiy munozara va mehribon oilalar turli xulosaga keladi. Alzheimer's Society yagona toʻgʻri javob yoʻqligini aytadi: yolgʻon ayrim odamlarni koʻproq shubhalantirishi mumkin, shuning uchun insonning manfaati uchun nima yaxshiligini hal qiling va unga izchil amal qiling. Penn Memory Center hammuallifi fikricha, haqiqat — asosiy yoʻl, yengil yolgʻon esa inson muayyan haqiqatni qayta ishlay olmagandagina maqbul, uning voqeligini esa hech qachon masxara qilmaslik kerak.
+Bu haqiqiy bahs mavzusi va mehribon oilalar turli xulosalarga keladi. Alzheimer's Society yagona to‘g‘ri javob yo‘qligini aytadi: nohaqi gaplar ba’zi odamlarni yanada shubhali qilib qo‘yishi mumkin, shuning uchun insonning manfaatiga mos keladiganini hal qiling va izchil bo‘ling. Penn Memory Center hamraisi fikriga ko‘ra, haqiqat asosiy yo‘l bo‘lishi kerak va muloyim nohaqi gap faqat inson muayyan haqiqatni qabul qila olmagandagina maqbul bo‘lishi mumkin; ularning voqelikni his qilishini esa hech qachon masxara qilmaslik kerak.
 
-Koʻp qarovchilarga oʻrta yoʻl ishlaydi: avval halol tasalli va diqqatni oʻzgartirish («Bugun kechqurun shu yerda qolamiz va men yoningizdaman»), uy qayerdaligi haqida bahslashmasdan.
+Ko‘plab g‘amxo‘rlar o‘rtacha yo‘lni qulay deb biladi: avval samimiy tasalli va e’tiborni yo‘naltirish («Bugun kechqurun shu yerda qolamiz, men shu yerda yoningizdaman»), uy qayerda ekanligi haqida bahslashmaslik.
 
-## Agar bu har kuni tushdan keyin yoki kechqurun boʻlsa-chi?
+## Agar bu holat har kuni tushdan keyin yoki kechqurun bo‘lsa-chi?
 
-Kech tushdan keyin boshlanadigan yoki kuchayadigan betoqatlik koʻpincha kechki bezovtalik (sundowning) deb ataladi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) barqaror jadval, kundalik quyosh nuri va faollik, kechqurun kamroq mudrash va kunning oxirida kofein yoki spirtli ichimliksiz oʻtishni tavsiya qiladi. Qorongʻu tushishidan oldin chiroqlarni yoqish ham yordam berishi mumkin. [Kech tushdan keyingi sokin mashgʻulotlar](/caregiving/late-day-restlessness/) qoʻllanmamizda koʻproq ma’lumot bor.
+Tushdan keyin kechroq boshlanadigan yoki kuchayadigan bezovtalik ko‘pincha kechki bezovtalik deb ataladi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) barqaror kun tartibi, har kuni quyosh nuri va faol harakat, kech kunduzgi uyquni kamaytirish hamda kun oxirida kofein yoki alkogoldan voz kechishni tavsiya qiladi. Qorong‘i tushishidan oldin chiroqlarni yoqish ham yordam berishi mumkin. [Kechki paytdagi tinch mashg‘ulotlar](/caregiving/late-day-restlessness/) haqidagi qo‘llanmamizda batafsilroq ma’lumot bor.
 
-## Chiqib ketmoqchi boʻlsa, uni xavfsiz saqlash
+## Agar ular chiqib ketmoqchi bo‘lsa, ularni qanday xavfsiz saqlash mumkin
 
-Uyga ketmoqchi boʻlish adashib ketishga olib kelishi mumkin. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) demensiya bilan yashayotgan har oʻn kishidan oltitasi kamida bir marta adashib ketishini baholaydi.
+Uyga qaytishni so‘rash adashib qolishga olib kelishi mumkin. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) demensiya bilan yashayotgan har o‘n kishidan oltitasi kamida bir marta adashib qolishini taxmin qiladi.
 
 **Oldindan tayyorlaning:**
 
-- Uning ismi va sizning telefon raqamingiz yozilgan shaxsni tasdiqlovchi yoki tibbiy bilaguzuk va kiyimlaridagi yorliqlar. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) AQShdagi misol sifatida MedicAlert va Alzheimer's Association Safe and Found dasturini eslatadi, ular pullik boʻlishi mumkin. Sizdagi shunga oʻxshash xizmat haqida mahalliy Alsgeymer yoki demensiya tashkilotidan soʻrash mumkin.
-- Eshik qoʻngʻirogʻi yoki signalizatsiya va qulflarni juda yuqoriga yoki juda pastga oʻrnatish. Insonni hech qachon yolgʻiz qulflab qoʻymang.
-- Yaqinda olingan yaqin surat va u borishi mumkin boʻlgan joylar roʻyxati, masalan, sobiq uy yoki ish joyi.
-- Ishonchli qoʻshnilarga ayting va ularga raqamingizni bering.
+- Ismi va telefon raqamingiz yozilgan shaxsni aniqlovchi yoki tibbiy bilaguzuk hamda kiyimlariga yopishtirilgan yorliqlar. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) MedicAlert va Alzheimer's Association Safe and Found dasturini eslatib o‘tadi, ular pullik bo‘lishi mumkin.
+- Eshik qo‘ng‘irog‘i yoki signalizatsiya hamda baland yoki past joyga o‘rnatilgan qulf. Odamni hech qachon yolg‘iz holda ichkariga qulflab qo‘ymang.
+- Yaqinda olingan yirik surat va ular borishi mumkin bo‘lgan joylar ro‘yxati, masalan, avvalgi uy yoki ish joyi.
+- Ishonchli qo‘shnilarga xabar bering va ularga telefon raqamingizni bering.
 
-**Yoʻqolib qolsa:** darhol qidirishni boshlang; Alzheimer's Association koʻp odam 1,5 mil ichida topilishini qayd etadi. 15 daqiqa ichida topolmasangiz, hududingizdagi favqulodda raqamga qoʻngʻiroq qiling va insonda demensiya borligini ayting. Kimdir xavf ostida boʻlsa, darhol shu raqamga qoʻngʻiroq qiling.
+**Agar ular yo‘qolib qolsa:** mahalliy politsiya yoki favqulodda xizmatlarga zudlik bilan xabar berish bilan birga yaqin atrofdagi xavfsiz joylarni tekshiring. Xabar berishdan oldin ma’lum daqiqalar kutib o‘tirmang. [U.S. Department of Justice tomonidan yo‘qolgan shaxslarni tergov qilish bo‘yicha 2021 yilgi jurnal maqolasi](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) huquqni muhofaza qilish organlari ma’lum kutish muddatini talab qilmasligi kerakligini aytadi; u demensiyaga o‘xshash belgilarni ham yuqori xavf omili sifatida ko‘rsatadi. Xabar berish tartiblari mahalliy sharoitga qarab farq qilishi mumkin. Javob beruvchilarga odamda demensiya borligini ayting, oxirgi ma’lum joylashuv va yaqinda olingan suratni ulashing hamda ularning ko‘rsatmalariga amal qiling. Agar boshqa yordamchi bo‘lsa, undan telefon yonida turishini so‘rang. Xavfli joylarda yolg‘iz qidirmang.
 
-## Shifokorga qachon qoʻngʻiroq qilishim kerak?
+## Qachon shifokorga murojaat qilishim kerak?
 
-Agar «uyga boray» deyish yoki chalkashlik birdan boshlansa yoki soatlar yoki kunlar ichida ancha kuchaysa, uning shifokoriga tezda qoʻngʻiroq qiling. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) birdan yoki tez oʻzgargan xatti-harakat, ayniqsa infeksiyadan yoki dori oʻzgarishidan keyin, darhol tekshirilishi kerakligini aytadi. Birdan paydo boʻlgan chalkashlik deliriy boʻlishi mumkin, [NHS](https://www.nhs.uk/symptoms/confusion/) unga shoshilinch yordam kerakligini aytadi; siydik yoʻllari infeksiyalari keksalarda uning keng tarqalgan sababi.
+Agar uyga qaytishni so‘rash yoki chalkashlik to‘satdan boshlangan bo‘lsa yoki soatlar yoki kunlar davomida ancha kuchaysa, darhol shifokoriga murojaat qiling. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) to‘satdan yoki tez o‘zgarayotgan xatti-harakatlar, ayniqsa infeksiya yoki dori o‘zgarishidan keyin, darhol tekshirilishi kerakligini aytadi. To‘satdan chalkashlik deliriy bo‘lishi mumkin va [NHS](https://www.nhs.uk/symptoms/confusion/) bu shoshilinch yordam talab qilishini bildiradi; yoshi kattaroq odamlarda siydik yo‘llari infeksiyasi keng tarqalgan sabab hisoblanadi.
 
-Keyingi qabulda barqaror qonuniyatni eslatib oʻtish ham foydali, chunki ogʻriq, past kayfiyat, uyqu muammolari yoki dorilarning yon ta’siri hammasi rol oʻynashi mumkin.
+Keyingi uchrashuvda barqaror takrorlanayotgan holat haqida ham aytib o‘tish foydali, chunki og‘riq, tushkun kayfiyat, uyqu muammolari yoki dorilarning nojo‘ya ta’sirlari ham bunga ta’sir qilishi mumkin.

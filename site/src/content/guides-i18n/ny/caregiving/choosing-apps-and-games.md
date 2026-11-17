@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Kusankha Mapulogalamu a Anthu a Vuto la Kuiwala"
+seoTitle: "Kusankha Mapulogalamu a Anthu a Vuto la Kuiwala"
+description: "Ndandanda wothandizira osamalira posankha mapulogalamu: yambani ndi cholinga, pewani nthawi yowerengera ndi zotsatsa, onani zachinsinsi."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Yambani ndi kuganizira zimene mukufuna kuti pulogalamuyo ichite: kulimbikitsa
+  pangʼono, kukumbukira zinthu zakale, bata kapena kulumikizana. Kenako sankhani
+  imene ikugwirizana ndi zimene munthu akhoza kuchita lero, yokhala ndi zithunzi
+  zazikulu, yopanda nthawi yowerengera, zigoli kapena zotsatsa, ndiponso yosavuta
+  kuyisiya. Onani ngati imasonkhanitsa deta, komanso ngati mungathe kuifufuta.
+  Samalani ndi zonena kuti pulogalamu imalepheretsa kapena kuchiza vuto la
+  kuiwala; kafukufuku m'modzi si umboni wokwanira.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Yambani ndi kudziwa cholinga: kulimbikitsa pangʼono, kukumbukira, bata kapena kulumikizana zimafuna mapulogalamu osiyanasiyana."
+  - "Onani zimene munthu angakwanitse pa tsikulo, osati dzina la gawo la matenda, ndipo sungani zinthu kukhala zosavuta."
+  - "Pewani mapulogalamu okhala ndi nthawi yowerengera, zigoli, miyoyo, mndandanda wa masiku, zotsatsa kapena mauthenga ogula."
+  - "Onani zomwe zasonkhanitsidwa, kugawidwa ndi kufufutidwa kwa deta. Nthawi zambiri HIPAA siimateteza mapulogalamu wamba."
+  - "Khalani okayikira zonena kuti “imalepheretsa vuto la kuiwala”. Kuyesedwa kumodzi, kapena zigoli zabwino mu pulogalamuyo, si umboni."
+  - "Golden Moments ndi ntchito yosangalatsa. Siinena kuti ndi yachipatala."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Kodi masewera a ubongo angalepheretse vuto la kuiwala?"
+    a: "Palibe umboni wokwanira wosonyeza kuti mapulogalamu a masewera a ubongo amalonda amalepheretsa kapena kuchepetsa vuto la kuiwala. National Institute on Aging imanena kuti palibe umboni wokwanira wosonyeza kuti mapulogalamu ophunzitsa ubongo omwe amagulitsidwa ali ndi zotsatira zofanana ndi maphunziro okonzedwa omwe anayesedwa mu kafukufuku wamkulu. Sankhani mapulogalamu chifukwa chosangalala ndi kulumikizana, osati ngati mankhwala."
+  - q: "Kodi pulogalamu ya vuto la kuiwala imatetezedwa ndi HIPAA?"
+    a: "Nthawi zambiri ayi. HIPAA nthawi zambiri imagwira ntchito kwa opereka chithandizo chaumoyo, ndondomeko zaumoyo ndi anthu ogwira nawo ntchito. Pulogalamu imene mwatsitsa nokha nthawi zambiri siimatetezedwa pokhapokha ngati yaperekedwa ndi m'modzi wa iwo. Lamulo la FTC la Health Breach Notification limakhudza mapulogalamu ambiri a zaumoyo omwe HIPAA siiwateteza."
+  - q: "Kodi masewera abwino a vuto la kuiwala amaoneka bwanji?"
+    a: "Zithunzi ndi mawu akulu omveka bwino, chinthu chimodzi chodziwikiratu choti muchite pa chithunzi chilichonse, opanda nthawi yowerengera kapena zigoli, opanda mawu achipongwe akalakwitsa, opanda zotsatsa, komanso njira yosavuta yoimitsira kapena kuyisiya. Iyenera kuoneka ngati yopangidwira anthu akulu ndipo ikhale yosavuta kuti munthu wina alowe nawo."
+  - q: "Kodi Golden Moments imanena kuti imathandiza kukumbukira?"
+    a: "Ayi. Golden Moments imapereka zochitika zosavuta zochitira limodzi pofuna kusangalala ndi kukambirana. Sizinena, sizichiza, sizilepheretsa kapena kuyeza vuto la kuiwala, ndipo sitinena chilichonse chokhudza kukumbukira kapena kuganiza."
+  - q: "Kodi ndiyenera kulipira pulogalamu ya vuto la kuiwala?"
+    a: "Yesani zoyambira zaulere kapena nthawi yoyesera yaulere poyamba, ndipo onani momwe munthuyo akuyankhira kwa milungu ingapo. Kulipira pulogalamu sikutanthauza kuti imagwira bwino ntchito. Onani momwe mungaletsere kulembetsa musanalembetse."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+M'masitolo a mapulogalamu muli masewera ambiri olembedwa kuti ndi a achikulire, kukumbukira kapena vuto la kuiwala. Ena amapangidwa mosamala. Ena amawonjezera malonjezo ooneka ngati achipatala, nthawi yowerengera yomwe imasintha kusewera kukhala mayeso, kapena zotsatsa ndi kusonkhanitsa deta. Tsambali likukupatsani njira yodziwira nokha pulogalamu iliyonse. Sitiyika pamndandanda kapena kuunika mapulogalamu ena.
 
-## What should I decide before choosing a dementia app?
+## Kodi ndiyenera kusankha chiyani ndisanasankhe pulogalamu ya vuto la kuiwala?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Sankhani zimene mukufuna kuti pulogalamuyo ichite. “Masewera a amayi” angatanthauze zinthu zosiyana kwambiri, ndipo chabwino pa cholinga chimodzi nthawi zambiri sichikhala chabwino pa china.
 
-| Goal | What it looks like | What to look for |
+| Cholinga | Zimaoneka bwanji | Zoyenera kuyang'ana |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Kulimbikitsa pangʼono | Kufananitsa, kusanja, mapazulo osavuta, masewera a mawu | Kuvuta kosinthika, zithunzi zomwe zimakhala zooneka, popanda kukakamizidwa ndi nthawi |
+| Kukumbukira zinthu zakale | Zithunzi zakale, mawu odziwika, nyimbo za pa ubwana wawo | Zithunzi zanu, mafunso otseguka, opanda mafunso amayeso |
+| Bata | Zithunzi zoyenda pangʼono, mawu afatsa, kupuma, chilengedwe | Zosavuta kuyamba ndi kuyisiya, zopanda zinthu zong'anima, zopanda zodabwitsa |
+| Kulumikizana | Kusewera kapena kukambirana limodzi, pamaso kapena pa kanema | Yopangidwira anthu awiri, yokhala ndi zoyambitsa kukambirana |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Kafukufuku wokhudza “kulimbikitsa maganizo” kokonzedwa kwa anthu omwe akukhala ndi vuto la kuiwala nthawi zambiri amakhudza magulu otsogozedwa ndi anthu ophunzitsidwa, okhala ndi zokambirana, masewera a mawu, mapazulo, nyimbo ndi zochitika zaluso. [Kafukufuku wa Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) anapeza phindu lalingʼono pafupifupi, losiyana pakati pa maphunziro. Pulogalamu yotere ya anthu ambiri ndi yosiyana ndi pulogalamu yogwiritsidwa ntchito payekha, choncho onani pulogalamu iliyonse ngati ntchito imodzi yochitira limodzi pakati pa zambiri.
 
-## How do I know if an app fits the person's abilities?
+## Kodi ndingadziwe bwanji ngati pulogalamu ikugwirizana ndi zimene munthuyo angakwanitse?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Onani momwe akuyankhira, osati kungodalira matenda kapena dzina la gawo lake. Anthu awiri pa “gawo limodzi” akhoza kusiyana kwambiri pa kuona, kumva, kugwiritsa ntchito manja, chilankhulo ndi kumasuka pogwiritsa ntchito zipangizo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) imalimbikitsa kuganizira zomwe ankakonda kale ndi zomwe angakwanitse panopa, ndikuyang'ana pa kusangalala osati pa kuchita bwino.
 
-Signs of a good fit:
+Zizindikiro zosonyeza kuti ikugwirizana:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- amayamba kapena kulowa nawo popanda kuwakakamiza kwambiri;
+- amamwetulira, kuyankhula kapena kufotokoza nkhani;
+- zolakwika sizikuwavuta;
+- amasangalala kuyisiya nthawi ikakwana.
 
-Signs it is a poor fit:
+Zizindikiro zosonyeza kuti sikugwirizana:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- kunena mobwerezabwereza kuti “sindingathe” kapena “izi nʼzopanda pake”;
+- kusokonezeka pa zomwe ayenera kudina;
+- kukhumudwa, kuchita manyazi kapena kukankhira chipangizocho kutali;
+- imagwira ntchito pokhapokha ngati inuyo mukuchita pafupifupi zonse.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Kusokonezeka mtima ndi chizindikiro, osati chinthu choti mukakamize. Onani [zoyenera kuchita akakana](/caregiving/when-they-say-no/). Kuti mupeze malingaliro ena malinga ndi gawo la matenda kuposa mapulogalamu, onani zochitika za [gawo loyambirira](/activities/early-stage/) ndi [gawo lotsatira](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Kodi ndi zinthu ziti zamapangidwe zomwe ndiyenera kuyang'ana kapena kupewa?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Yang'anani mapangidwe abata, osavuta komanso a anthu akulu, ndipo pewani chilichonse chomwe chimabweretsa kukakamizidwa.
 
-| Look for | Be wary of |
+| Yang'anani | Samalani ndi |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Zithunzi ndi mawu akulu, kusiyana kooneka bwino | Zizindikiro zingʼono, zithunzi zodzaza kwambiri |
+| Chochita chimodzi chodziwikiratu pa chithunzi chilichonse | Mabatani ambiri, menyu, kapena malangizo a masitepe ambiri |
+| Popanda nthawi yowerengera, kapena nthawi yowerengera yomwe mungayimitse | Kuwerengera nthawi, mphotho za liwiro, “pambana nthawi yanu” |
+| Popanda zigoli, kapena mayankho ofatsa | Mfundo, miyoyo, mndandanda wa masiku, masanjidwe, “msinkhu wa ubongo” |
+| Zolakwika zimayankhidwa modekha | Malipenga, zizindikiro zofiira za X, mauthenga akuti “Zolakwika” |
+| Zithunzi zenizeni za anthu akulu | Mitu ya makatuni kapena ya ana |
+| Imagwira ntchito popanda intaneti, palibe akaunti yofunikira poyamba | Muyenera kulembetsa, kulowa kapena kutsitsa zinthu poyamba |
+| Kuyimitsa ndi kusiya kosavuta | Mawindo otuluka opempha kupitiriza kusewera kapena kuyika ndemanga pa pulogalamuyo |
+| Palibe zotsatsa, mtengo wodziwikiratu wolipira kamodzi kapena kulembetsa | Zotsatsa, mabokosi a mphatso, mauthenga ogula pafupipafupi |
+| Zosavuta kuti munthu wina alowe nawo | Ya munthu m'modzi yokha, yopangidwa ngati mpikisano |
 
-Ads and purchase prompts are easy to tap by accident.
+Zotsatsa ndi mauthenga ogula ndi osavuta kudina mwangozi.
 
-## How do I check an app's privacy?
+## Kodi ndingaone bwanji zachinsinsi za pulogalamu?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Onani zomwe pulogalamuyo imasonkhanitsa, omwe imagawira, komanso ngati mungathe kuifufuta. Musanayike:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Werengani chidule cha zachinsinsi cha m'sitolo.** [Gawo la Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) pa Google Play ndi [gawo la zachinsinsi](https://support.apple.com/en-us/102399) pa App Store zimasonyeza mitundu ya deta yomwe pulogalamu ingasonkhanitse ndi kugawira. Makampani onsewa amanena kuti opanga mapulogalamu ndi amene amapereka uthengawu, choncho ndi poyambira, osati kufufuza kwathunthu.
+2. **Funsani ngati ikufuna akaunti.** Ngati pulogalamu imangoonetsa zithunzi kapena masewera osavuta, pangakhale palibe chifukwa choti idziwe dzina lanu, imelo kapena tsiku lobadwa.
+3. **Onani zilolezo.** Kodi masewera ofananitsa amafunikadi malo anu, anthu olumikizana nawo, maikolofoni kapena zithunzi zanu zonse? Zimitsani chilichonse chomwe sichikufunika.
+4. **Yang'anani zotsatsa ndi kusanthula kagwiritsidwe ntchito.** Zida zotsatsa ndi kutsatira zimatha kutumiza deta yokhudza momwe pulogalamuyo imagwiritsidwira ntchito ku makampani ena.
+5. **Dziwani komwe zithunzi zimapita.** Mukawonjezera zithunzi za banja, zimakhala pa chipangizocho kapena zimatumizidwa ku seva? Kodi mungazichotse?
+6. **Onani kufufuta.** Yang'anani mu ndondomeko ya zachinsinsi kapena chidule cha deta momwe mungafufutire deta ndi akaunti. Pulogalamu yomwe imanena kuti deta singafufutidwe imafunika kusamala kwambiri, makamaka ngati ili ndi zithunzi kapena zambiri zaumoyo.
+7. **Werengani ndondomeko ya zachinsinsi** kuti mupeze mayankho omveka pa zomwe zasonkhanitsidwa, chifukwa chake, kwa nthawi yayitali bwanji, ndi omwe zagawidwa nawo.
 
-### Does HIPAA protect information in dementia apps?
+### Kodi HIPAA imateteza zambiri za pulogalamu za vuto la kuiwala?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Nthawi zambiri ayi, zomwe zimadabwitsa anthu ambiri. U.S. Department of Health and Human Services [ikufotokoza](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) kuti HIPAA imagwira ntchito ku ndondomeko zaumoyo, opereka chithandizo chaumoyo ambiri, malo osungira zambiri zaumoyo ndi anthu ogwira nawo ntchito. Nthawi zambiri siimateteza deta yomwe mumalemba mu pulogalamu kuti mugwiritse ntchito nokha, pokhapokha ngati bungwe lotetezedwa kapena munthu wogwira naye ntchito ndi amene anapereka pulogalamuyo. “Pulogalamu ya vuto la kuiwala” yochokera m'sitolo la mapulogalamu nthawi zambiri siili pansi pa HIPAA, ngakhale imalankhula zaumoyo.
 
-### What protects health data in apps that HIPAA does not cover?
+### Kodi ndi chiyani chomwe chimateteza deta yaumoyo m'mapulogalamu omwe HIPAA siiwateteza?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Lamulo la Federal Trade Commission la Health Breach Notification limateteza ambiri mwa iwo. Mu 2024 FTC [inamaliza kusintha](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) pofotokoza kuti lamuloli limagwira ntchito ku mapulogalamu a zaumoyo ndi matekinoloje ofanana omwe HIPAA siiwateteza. “Kuphwanya” kumaphatikizapo kuwululidwa kopanda chilolezo, osati kuba kokha, ndipo makampani ayenera kudziwitsa anthu okhudzidwa ndi FTC. Ili ndi chitetezo pambuyo poti china chake chalakwika, osati lonjezo kuti pulogalamu imasonkhanitsa zofunikira zokha.
 
-## How should I read claims about research and evidence?
+## Kodi ndiyenera kuwerenga bwanji zonena zokhudza kafukufuku ndi umboni?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Werengani zonena za umboni modekha, ndipo khalani okayikira kwambiri pa malonjezo akulu. Mafunso oti mudzifunse:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Kodi chinayesedwa ndi chiyani kwenikweni?** Kafukufuku wa pulogalamu imodzi ya maphunziro sasonyeza kuti masewera onse mu pulogalamu amagwira ntchito mofanana.
+- **Kodi ndani anayesedwa?** Zotsatira mwa achikulire athanzi sizingagwire ntchito kwa munthu amene akukhala ndi vuto la kuiwala.
+- **Kodi chinayesedwa ndi chiyani?** Kuchita bwino pa masewerawo ndi kosiyana ndi kusintha pa moyo wa tsiku ndi tsiku, kukambirana, momwe akumvera kapena kudziyimira pawokha.
+- **Kodi kafukufuku ndi wolimba bwanji?** Kuyesedwa kosasankhidwa mwachisawawa (RCT) kumayerekeza gulu lomwe likugwiritsa ntchito pulogalamuyo ndi gulu lomwe silikugwiritsa ntchito. Ndi njira yabwino, koma RCT imodzi yaingʼono kapena yaifupi si umboni. Yang'anani maphunziro angapo, ochitidwa ndi ofufuza odziyimira pawokha, omwe akugwirizana.
+- **Kodi imanena kuti imasintha matendawa?** Kafukufuku wosonyeza kusintha pangʼono pa mayeso si umboni woti pulogalamu imachepetsa, imalepheretsa kapena kuchiza vuto la kuiwala.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Tsamba la National Institute on Aging pa [umoyo wa maganizo ndi achikulire](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) limafotokoza kafukufuku wamkulu wothandizidwa ndi NIH wokhudza maphunziro okonzedwa a maganizo, kenako limachenjeza owerenga kuti asamakhulupirire zonena kuti masewera ena a pa kompyuta ndi pa intaneti angathandize kukumbukira ndi kuganiza. Limanena kuti palibe umboni wokwanira pakali pano wosonyeza kuti mapulogalamu ophunzitsa ubongo omwe amagulitsidwa ali ndi zotsatira zofanana ndi maphunziro omwe anayesedwa mu kafukufukuyo. Mutha kuwerenga zambiri mu kalozera wathu wa [masewera a ubongo ndi umboni](/brain-health/brain-games/) ndi [zimene kafukufuku amanena zokhudza kupewa vuto la kuiwala](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Kodi ndi chitsanzo chotani chodziwika cha zonena zosokeretsa?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Mu Januwale 2016, FTC [inalengeza mgwirizano](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) ndi omwe amapanga Lumosity, pulogalamu ya “kuphunzitsa ubongo”. FTC inanena kuti kampaniyo, popanda umboni wokwanira, imanena kuti masewera ake angachedwetse kuchepa kwa maganizo chifukwa cha ukalamba komanso kuteteza ku mild cognitive impairment, vuto la kuiwala ndi matenda a Alzheimer's. Kampaniyo inavomera kulipira $2 miliyoni ndipo iyenera kukhala ndi umboni wasayansi wokwanira komanso wodalirika isanenenenso zonena zotere m'tsogolo. Nkhaniyi ndi chikumbutso chothandiza kuti mawu otsatsa si umboni.
 
-### Which words are red flags?
+### Ndi mawu ati omwe ndi zizindikiro zochenjeza?
 
-Be cautious when an app or ad says it:
+Samalani pamene pulogalamu kapena malonda amanena kuti:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- “imalepheretsa”, “imabwezeretsa”, “imayimitsa” kapena “imachiza” vuto la kuiwala kapena Alzheimer's;
+- ndi “yotsimikiziridwa mwachipatala” popanda kutchula kafukufuku, omwe anali mmenemo, ndi zomwe zinayesedwa;
+- imapereka “msinkhu wa ubongo” kapena chiwerengero cha kukumbukira chomwe chikutanthauza kuzindikira matenda;
+- idza “nolotsa”, “limbikitsa” kapena “phunzitsa” ubongo;
+- imagwiritsa ntchito maumboni a anthu ngati umboni.
 
-If you are unsure about a claim, ask the person's doctor.
+Ngati simukutsimikiza za zonena, funsani dokotala wa munthuyo.
 
-## Where does Golden Moments fit?
+## Kodi Golden Moments ili pati?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments imapereka zochitika zosavuta zochitira limodzi, osati mayeso a kukumbukira, chithandizo kapena malangizo azachipatala. Masewera athu, monga [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ndi [Calm Breathing](/games/calm-breathing/), amapangidwira kusangalala ndi kukambirana. Sazinena, sizichiza, sizilepheretsa kapena kuyeza vuto la kuiwala, ndipo sitinena chilichonse chokhudza kukumbukira kapena kuganiza.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Timapanganso pulogalamu yaulere, [Golden Moments ya iPhone, iPad ndi Android](/app/). Ili ndi masewera ofatsa ofananitsa zithunzi okhala ndi matayilo akulu, masewera okhala ndi zithunzi za banja zomwe mwasankha nokha ndi mapaketi a zithunzi omwe amagwira ntchito popanda intaneti, opanda akaunti, zotsatsa, nthawi yowerengera kapena zigoli. Ndandanda womwewo umagwira ntchito: chizindikiro chake cha zachinsinsi pa App Store chimanena kuti “Data Not Collected”, ndipo [ndondomeko ya zachinsinsi ya pulogalamuyo](/app-privacy/) imafotokoza komwe makope a zithunzi amasungidwa.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Tikufuna kuti mutiwone nokha m'malo mongotikhulupirira. Gwiritsani ntchito ndandanda wa patsambali, werengani [tsamba lathu la zachinsinsi](/privacy/) ndi [chidziwitso chathu chachipatala](/medical-disclaimer/), ndipo siyani kugwiritsa ntchito chilichonse, kuphatikizapo chathu, chomwe sichikugwirizana ndi munthu amene mukumusamalira.
 
-## What is a sensible way to try a new app?
+## Kodi njira yanzeru yoyesera pulogalamu yatsopano ndi iti?
 
-Try it together for a couple of weeks and watch what happens.
+Yesani limodzi kwa milungu ingapo ndipo onani zomwe zikuchitika.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Konzani poyamba** pogwiritsa ntchito [kalozera wathu wokonzekera tabuleti ndi foni](/caregiving/tablets-and-screens/), ndipo yambani pa mulingo wosavuta kwambiri.
+2. **Sungani nthawi kukhala yaifupi,** onani kumwetulira, kukambirana ndi bata, ndipo malizani pa nthawi yabwino.
+3. **Siyani ngati ikubweretsa kukhumudwa,** ngakhale italandiridwa bwino bwanji.

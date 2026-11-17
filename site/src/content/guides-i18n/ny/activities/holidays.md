@@ -1,33 +1,35 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Zochitika pa Maholide kwa Munthu Ali ndi Vuto la Kuiwala"
+seoTitle: "Malingaliro a Maholide pa Vuto la Kuiwala"
+description: "Zochitika zosavuta pa maholide kwa munthu amene ali ndi vuto la kuiwala: ntchito za kukhitchini, kukongoletsa, nyimbo, zithunzi ndi mavidiyo, ndi kukonzekera Thanksgiving kapena Khirisimasi modekha."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Chitani maholide mwapang’onopang’ono, m’mawa kwambiri, komanso mogwirizana
+  ndi ndondomeko ya tsiku ndi tsiku ya munthuyo. Mupatseni ntchito yeniyeni
+  komanso yotetezeka monga kukonza tebulo, kutsuka ndiwo zamasamba, kukulunga
+  mphatso kapena kupachika chokongoletsera. Gawanani nyimbo zodziwika bwino
+  ndi zithunzi zakale, dziwitsani alendo pasadakhale, ndipo konzani chipinda
+  chabata. Chitani zimene mungakwanitse; chikondwerero chachifupi komanso
+  chabata ndi chabwino.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Chitani chikondwerero m’mawa kwambiri, monga chakudya chamasana kapena cha m’mawa, ngati chisokonezo chimachuluka madzulo."
+  - "Perekani ntchito zenizeni: kukonza tebulo, kutsuka ndiwo zamasamba, kukulunga, kukongoletsa kapena kuika zakudya zokoma pa mbale."
+  - "Nyimbo zodziwika bwino, nyimbo za pa holide ndi ma albamu a zithunzi zakale ndi njira zosavuta zosangalalira pa nyengoyi."
+  - "Uzani alendo zimene angayembekezere, ndipo muwonetseni munthuyo zithunzi za amene akubwera."
+  - "Konzani chipinda chabata chokhala ndi bulangeti kapena juzi yomwe amakonda, ndipo aloleni alendo azibwera ochepa pa nthawi imodzi."
+  - "Pewani chilichonse chochulukitsa, kuphatikizapo zokongoletsera zomwe zimaoneka ngati chakudya ndi magetsi ambiri othwanima."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Kodi munthu amene ali ndi vuto la kuiwala angachite chiyani pa Thanksgiving?"
+    a: "Mupatseni ntchito yosavuta komanso yotetezeka yogwirizana ndi zimene angakwanitse lero: kutsuka ndiwo zamasamba, kusakaniza msuzi wa kiranberi, kukonza tebulo, kupinda matebulo kapena kuika zakudya zokoma pa mbale. Pambuyo pake, onani zithunzi zakale za banja kapena imbirani limodzi nyimbo zodziwika bwino. Kutenga nawo mbali pa tsikulo n’kofunika kuposa mmene ntchitoyo yachitikira."
+  - q: "Kodi tiyenera kukhalabe ndi msonkhano waukulu wa banja?"
+    a: "Pokhapokha ngati zingatheke mosavuta. Khamu la anthu ndi phokoso zingakhale zochulukitsa, choncho mabanja ambiri amasankha msonkhano waung’ono komanso womasuka, chakudya cha m’mawa kwambiri, kapena alendo obwera m’magulu ang’onoang’ono. Alzheimer's Association imalimbikitsa anthu osamalira kuti azichita zimene angakwanitse moyenera komanso motetezeka."
+  - q: "Kodi ndingakonzekere bwanji achibale amene sanabwere kwa nthawi yaitali?"
+    a: "Awuzeni asanafike za kusintha kumene angaone, ndipo kuti kusinthaku kumachokera ku vutoli, osati kwa munthuyo. Apempheni kuti asamuwongolere kapena kumufunsa mafunso oyesa kukumbukira, azilankhula m’modzi pa nthawi, komanso azipereka nthawi yoyankhira. Kumuwonetsa munthuyo zithunzi za alendo pasadakhale kungathandizenso."
+  - q: "Kodi mphatso zoyenera pa holide kwa munthu amene ali ndi vuto la kuiwala ndi ziti?"
+    a: "Zinthu zosavuta komanso zotetezeka zimene angasangalale nazo panopa: chakudya chomwe amakonda, bulangeti lofewa kapena juzi, nyimbo zodziwika bwino, kapena albamu ya zithunzi za banja. Pewani zipangizo zamagetsi zovuta, zida zogwirira ntchito ndi masewera ovuta a pa bolodi. Kumuphatikiza popereka mphatso, monga kukulunga mphatso kapena kuyika m’matumba makeke omwe mwaphika limodzi, kungakhalenso mphatso yokha."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +42,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Maholide angabweretse kukumbukira kosangalatsa, ndipo angabweretsenso phokoso, khamu la anthu ndi kusintha kwa ndondomeko ya tsiku ndi tsiku. Kwa munthu amene ali ndi vuto la kuiwala, zikondwerero zabwino nthawi zambiri zimakhala zaung’ono, zopanda changu komanso zomangidwa pa zinthu zimene angasangalalebe nazo. Malingalirowa amagwira ntchito pa Thanksgiving, Khirisimasi, Hanukkah, Chaka Chatsopano ndi masiku obadwa a m’banja.
 
-## How do I plan a calmer holiday?
+## Kodi ndingakonzekere bwanji holide yabata?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Yambani ndi ndondomeko ya munthuyo ndipo konzani tsikulo mogwirizana nayo. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) imalimbikitsa kuchita chikondwerero m’mawa kwambiri, chifukwa chisokonezo ndi kusakhazikika nthawi zambiri zimachuluka masana otsiriza ndi madzulo (nthawi zina zimatchedwa sundowning). Chakudya chamasana kapena cha m’mawa pa holide chikhoza kukhala chosavuta kuposa chakudya chamadzulo mochedwa.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Sungani kukula koyenera.** Msonkhano waung’ono komanso womasuka, kapena alendo obwera ochepa pa nthawi imodzi, nthawi zambiri umakhala wosavuta kuposa tebulo limodzi lodzaza.
+- **Gawirani ntchito.** Pemphani achibale kuti abweretse chakudya, akagule zinthu kapena akhale ndi munthuyo pamene inu mukuphika. Fotokozani momveka zomwe zingathandize.
+- **Sungani zokongoletsera mosavuta.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) imanena kuti magetsi othwanima angasokoneze, komanso kuti masiwiti kapena zipatso zopanga zomwe zimagwiritsidwa ntchito ngati zokongoletsera zingaonedwe molakwika ngati chakudya.
+- **Sankhani zomwe mungasiye.** Ngati mwambo wina wakhala wovuta kapena woopsa, ndi bwino kuwusiya kapena kuyesa wina wabata.
 
-## What holiday activities can we do together?
+## Ndi zochitika ziti za pa holide zomwe tingachite limodzi?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Sankhani ntchito ndi zosangalatsa zomwe zikugwirizana ndi zimene munthuyo angakwanitse lero. Kutenga nawo mbali pa tsikulo n’kofunika kuposa mmene zachitikira.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Konzani tebulo limodzi.** Yambani ndi kuika mbale, kenako matebulo, kenako makapu. Kupinda matebulo ndi ntchito yabwino yochitira atakhala pansi.
+2. **Tsukani ndi kusanja ndiwo zamasamba.** Kutsuka mbatatesi kapena kuthyola nyemba pa tebulo la kukhitchini ndi kotetezeka komanso kodziwika bwino kwa anthu ambiri omwe ankaphika kale.
+3. **Sakanizani kapena ikani pa mbale.** Kusakaniza msuzi wa kiranberi, kusakaniza mtanda wosavuta kapena kuika makeke pa mbale kumasunga manja ali pa ntchito kutali ndi mbaula ndi mipeni.
+4. **Kulungani mphatso.** Dulani pepala ndi tepi pasadakhale, ndipo lolani munthuyo apinde ndi kusalaza. Kukulunga mwaukhondo si cholinga chachikulu.
+5. **Pachikani zokongoletsera zochepa.** Sankhani zokongoletsera zosathyoka komanso malo amodzi ang’ono, monga nkhata ya pakhomo kapena mtengo waung’ono.
+6. **Pangani luso losavuta.** Maunyolo a pepala, chithunzi cha masamba kapena khadi ya holide yokhala ndi masitampa zimagwira bwino ntchito. [Kalozera wathu wa zaluso ndi ntchito zamanja](/activities/arts-and-crafts/) ali ndi malingaliro enanso.
+7. **Imbani ndi kumvetsera.** Nyimbo za pa holide zodziwika bwino ndi zosavuta kulowa nazo, ngakhale kwa munthu amene tsopano amalankhula pang’ono. Onani [kalozera wathu wa nyimbo](/activities/music/) kuti mupange mndandanda wa nyimbo.
+8. **Onani zithunzi zakale za pa holide.** Tulutsani ma albamu a zikondwerero zakale ndipo pemphani nkhani (monga “Ndiuzeni za tebulo ili”) m’malo mofunsa kuti ndani ali ndani. [Kalozera wathu wa kukumbukira zakale](/activities/reminiscence/) akufotokoza momwe mungachitire.
+9. **Sewerani masewera ofatsa a gulu.** [Picture bingo](/games/picture-bingo/) imasindikizidwa m’mphindi zochepa ndipo imagwira ntchito kwa mibadwo yonse, ndipo [conversation cards](/games/conversation-cards/) zimapatsa aliyense chinthu choti alankhulepo.
+10. **Pentani limodzi.** [Masamba osavuta opentera](/games/coloring/) angasindikizidwe kuti ana ndi agogo agawane pa tebulo.
+11. **Onerani filimu ya pa holide yomwe mumakonda.** Filimu yodziwika bwino imapumitsa, ndipo ndi bwino kuonera gawo lake lokha.
+12. **Yendani pang’ono pa galimoto kukaona magetsi.** Kuyenda modekha pa galimoto kudutsa nyumba zokongoletsedwa kungakhale kosavuta kuposa chochitika chodzaza ndi anthu.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Ngati kuphika kunali mbali yaikulu ya moyo wa munthuyo, kalozera wathu wa [ntchito zapakhomo ngati zochitika](/activities/household-tasks/) ali ndi njira zina zopangira ntchito za kukhitchini kukhala zotetezeka komanso zokhutiritsa.
 
-## How do I prepare guests?
+## Kodi ndingakonzekere bwanji alendo?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Uzani alendo zimene angayembekezere asanafike, makamaka achibale amene sanabwere kwa nthawi yaitali. Alzheimer's Association imalimbikitsa kufotokoza kuti kusintha kwa kukumbukira ndi khalidwe kumachokera ku vutoli, osati kwa munthuyo.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Gawanani malangizo ochepa osavuta:** lankhulani m’modzi pa nthawi, perekani nthawi yomaliza lingaliro, musawongolere kapena kufunsa mafunso oyesa kukumbukira, ndipo yankhani ku kamvekedwe ka mawu a munthuyo ngati mawu ake ndi ovuta kumva.
+- **Nenani zomwe zimathandiza ndi zomwe zimakhumudwitsa.** Ngati mawu okweza, kufulumizidwa kapena nkhani zina zimabweretsa nkhawa, nenani zimenezo.
+- **Dziwitsani alendo pasadakhale.** Muwonetseni munthuyo zithunzi za amene akubwera ndipo gawani nkhani imodzi kapena ziwiri, kapena konzani kuyimba foni kapena macheza a pa kanema kwakanthawi tsiku lisanafike.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+[Kalozera wathu wa malangizo olankhulirana](/caregiving/communication-tips/) akufotokoza zambiri.
 
-## What if it gets to be too much?
+## Bwanji ngati zinthu zachuluka kwambiri?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Konzani chipinda chabata alendo asanafike, kutali ndi phokoso, chokhala ndi zinthu zodziwika bwino zomwe zimatonthoza monga bulangeti, juzi kapena ntchito yosavuta. Perekani mwayi umenewu msanga komanso pafupipafupi: “Kodi tingakhale malo abata pang’ono?”
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Kuchoka pa tebulo, kugona msanga kapena kulumpha mbali ina ya tsikulo ndi zotsatira zabwino, osati kulephera. Ngati munthuyo wakhumudwa, mawu ofatsa, nyimbo yodziwika bwino kapena kupita naye kuchipinda china nthawi zambiri zimathandiza kuposa kukangana kapena kufotokoza kwambiri. Kalozera wathu wa [kusakhazikika madzulo](/caregiving/late-day-restlessness/) ali ndi malingaliro ena a madzulo.
 
-## How can family far away take part?
+## Kodi banja lakutali lingatenge nawo mbali bwanji?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Macheza a pa kanema amalola achibale kutenga nawo mbali popanda kuwonjezera khamu. Alzheimer's Association imalimbikitsa kupereka dongosolo ku machezawa, mwachitsanzo kuimba nyimbo za pa nyengo, kugawana zithunzi za zikondwerero zakale, kuphika chakudya chimodzi nthawi imodzi kapena kuonera filimu ya pa holide nthawi imodzi. Sungani macheza kukhala aafupi, ndipo pemphani anthu kuti azilankhula m’modzi pa nthawi, chifukwa kulankhula onse nthawi imodzi kumakhala kovuta kumva. [Kalozera wathu wa mafoni ndi macheza a pa kanema](/activities/phone-and-video-calls/) ali ndi malingaliro a pang’onopang’ono.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Ngati munthuyo amakhala m’malo osamalira anthu amene ali ndi vuto la kukumbukira, fufuzani malamulo oyendera ndipo pemphani ogwira ntchito kuti athandize kukonza macheza a pa kanema. Kalozera wathu wa [kuyendera munthu amene ali m’malo osamalira anthu amene ali ndi vuto la kukumbukira](/activities/visiting/) akufotokoza zomwe mungabweretse komanso momwe mungatsanzikire bwino.
 
-## What gifts suit someone with dementia?
+## Ndi mphatso ziti zoyenera kwa munthu amene ali ndi vuto la kuiwala?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Mphatso zosavuta komanso zotetezeka zimene angasangalale nazo panopa nthawi zambiri zimagwira bwino ntchito: chakudya chomwe amakonda, bulangeti lofewa kapena khadigani, nyimbo zodziwika bwino, kalendala ya zilembo zazikulu, kapena albamu ya zithunzi za banja. Alzheimer's Association imalangiza kupewa zida zoopsa, zipangizo zamagetsi zovuta ndi masewera ovuta a pa bolodi.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Kupereka kungakhale kofunika mofanana ndi kulandira. Kuyika m’matumba makeke omwe munthuyo wathandiza kuphika, kapena kumupatsa kuti akulunge mphatso yomwe mwagula, kumamulola kutenga nawo mbali pa nyengoyi. Masewera a zithunzi za banja ndi lingaliro linanso: [photo pairs](/games/photo-pairs/) imasintha zithunzi zochepa zosankhidwa kukhala masewera ofatsa ofananitsa pa msakatuli.
 
-## Look after yourself too
+## Mudzisamalirenso inuyo
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Maholide amawonjezera ntchito kwa anthu osamalira. Lolani wina akonze msonkhano kapena kuphika nkhuku ya Turkey, kanani zochitika zomwe zingakhale zovuta, ndipo pumulani pamene ena akukhala ndi munthuyo. Ngati inu kapena munthu amene mumamusamalira mukudwala, kukweza dzanja kuchokera m’galimoto kapena macheza a pa kanema ndi njira yabwino yoyendera. Kalozera wathu wa [kudzisamalira kwa munthu wosamalira](/caregiving/caregiver-self-care/) ali ndi chithandizo china.

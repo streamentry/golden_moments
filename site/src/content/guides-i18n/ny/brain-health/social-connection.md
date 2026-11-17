@@ -1,32 +1,31 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Kukhala pawekha, kudzipatula ndi thanzi la ubongo"
+seoTitle: "Kukhala pawekha, kudzipatula ndi chiopsezo cha vuto la kuiwala"
+description: "Mmene kukhala pawekha ndi kudzipatula zimagwirizanirana ndi chiopsezo cha vuto la kuiwala, zomwe malangizo a Surgeon General ananena, ndi njira zosavuta zolumikizirana limodzi."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Kafukufuku akusonyeza kuti kudzipatula komanso kumva kukhala pawekha pa ukalamba kumagwirizana ndi chiopsezo chachikulu cha vuto la kuiwala.
+  Lipoti la Lancet Commission la 2024 likuyerekeza kuti kudzipatula kumakhudza pafupifupi 5% ya milandu, ngakhale kuti
+  zina mwa kugwirizanaku zitha kukhala chifukwa chakuti vuto la kuiwala limayamba kale ndipo limapangitsa munthu kudzipatula. Kulumikizana ndi ena, kuchita zokonda limodzi ndi kuthandizidwa pa nkhani ya kumva zonse zimathandiza kulumikizana. Kwa anthu amene akukhala ndi vuto la kuiwala, zochitika zogawana nʼzofunika
+  pa chisangalalo ndi moyo wabwino.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet Commission imatchula kudzipatula pa ukalamba ngati chimodzi mwa zinthu 14 zomwe zingasinthidwe zokhudzana ndi chiopsezo cha vuto la kuiwala, pafupifupi 5% ya milandu."
+  - "Malangizo a US Surgeon General a 2023 anagwirizanitsa kumva kukhala pawekha ndi kudzipatula kwa nthawi yaitali ndi chiopsezo chokwera pafupifupi 50% cha vuto la kuiwala mwa anthu achikulire."
+  - "Umboni wambiriwu ndi wowonera, ndipo vuto la kuiwala likayamba kale lingapangitse anthu kudzipatula."
+  - "Mavuto akumva ndi kuona, kukhala pawekha ndi kusamalira munthu wina zonse zimawonjezera chiopsezo chodzipatula."
+  - "Kwa anthu amene akukhala ndi vuto la kuiwala, zochitika zosangalatsa zogawana zimathandiza moyo wabwino; cholinga ndi kulumikizana, osati kuchita bwino."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Kodi kumva kukhala pawekha kumayambitsa vuto la kuiwala?"
+    a: "Izi sizinatsimikizidwe. Kafukufuku wambiri amagwirizanitsa kumva kukhala pawekha ndi kudzipatula ndi chiopsezo chachikulu cha vuto la kuiwala, koma kusintha koyambirira mu ubongo kungapangitsenso anthu kudzipatula kwa ena. Kulumikizana ndi ena kuli ndi ubwino wina wambiri pa momwe munthu akumvera komanso pa thanzi, choncho nʼkoyenera kuthandizira kulumikizanaku mulimonse."
+  - q: "Kodi pali kusiyana kotani pakati pa kumva kukhala pawekha ndi kudzipatula?"
+    a: "Kudzipatula kumatanthauza kukhala ndi anthu ochepa ocheza nawo nthawi zonse. Kumva kukhala pawekha ndi kumva kuwawa chifukwa chokhala wekha kapena wolekanitsidwa ndi ena. Munthu akhoza kukhala yekha osamva kukhala pawekha, kapena akhoza kumva kukhala pawekha ngakhale atazunguliridwa ndi anthu."
+  - q: "Kodi ndingathandize bwanji kholo langa lomwe lili ndi vuto la kuiwala kuti lipitirize kulumikizana ndi ena?"
+    a: "Kulumikizana kwachidule koma pafupipafupi kumathandiza. Yesani kuyimba foni kapena macheza a pa kanema pa nthawi yokhazikika sabata iliyonse, kuchita zinazake limodzi pa tebulo la kukhitchini, kupita ku memory cafe, kapena kuyendera ndi chiweto kapena mdzukulu. Sungani magulu angʼonoangʼono komanso opanda phokoso, ndipo lolani munthuyo asankhe liwiro lake."
+  - q: "Kodi ndingapeze kuti thandizo la munthu wachikulire amene ali yekhayekha?"
+    a: "Eldercare Locator, yomwe ndi ntchito ya anthu onse, imalumikiza mabanja ndi mabungwe a mʼdera othandiza anthu achikulire komanso mapulogalamu a mʼdera. Mungayimbire pa 800-677-1116 kapena kupita pa eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +53,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Anthu amapangidwa kuti azikhala ndi anzawo, ndipo izi sizisintha ngakhale munthu atakalamba. Kafukufuku akusonyeza kuti kumva kukhala pawekha ndi kudzipatula pa ukalamba kumagwirizana ndi chiopsezo chachikulu cha vuto la kuiwala, komanso matenda a mtima ndi kukhumudwa. Kafukufuku sangathebe kunena motsimikiza kuti kugwirizanaku ndi kwa chifukwa ndi zotsatira zake mpaka pati. Tsamba ili likufotokoza zomwe umboni ukusonyeza, njira zothandiza zolumikizirana ndi ena, komanso chifukwa chake zochitika zogawana zili zofunika kwambiri kwa anthu amene akukhala kale ndi vuto la kuiwala.
 
-## Are loneliness and isolation linked with dementia?
+## Kodi kumva kukhala pawekha ndi kudzipatula kumagwirizana ndi vuto la kuiwala?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Inde, kafukufuku wambiri amasonyeza kugwirizana kumeneku, ngakhale kuti sikudziwika bwino mbali yonse. [Lipoti la Lancet Commission la 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) limatchula kudzipatula pa ukalamba ngati chimodzi mwa zinthu 14 zomwe zingasinthidwe zokhudzana ndi chiopsezo. [Chidule cha UCL cha lipotilo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) chikuyerekeza kuti izi zimakhudza pafupifupi 5% ya milandu ya vuto la kuiwala padziko lonse.
 
-What the evidence shows:
+Zomwe umboni ukusonyeza:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Kulumikizana kochepa, chiopsezo chachikulu.** Commission ikufotokoza kafukufuku wowerengera awiri amene anagwirizanitsa kucheza ndi anthu pafupipafupi kochepa ndi chiopsezo chachikulu cha vuto la kuiwala. Kafukufuku wina anapeza chiopsezo chokwera pafupifupi 57% ndipo wina pafupifupi 18%.
+- **Kumva kukhala pawekha nakonso.** Kumva kukhala pawekha, kapena kumva kuti walekanitsidwa ndi ena, kunagwirizanitsidwanso ndi chiopsezo chachikulu cha vuto la kuiwala mʼkafukufuku wowerengera wambiri.
+- **Maganizo a Surgeon General.** Mu Meyi 2023, US Surgeon General anatulutsa [malangizo okhudza kumva kukhala pawekha ndi kudzipatula](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Malangizowa amanena kuti kumva kukhala pawekha ndi kudzipatula kwa nthawi yaitali kungakweze chiopsezo cha vuto la kuiwala pafupifupi 50% mwa anthu achikulire. Anagwirizanitsanso kusowa kulumikizana bwino ndi anthu ndi chiopsezo chokwera 29% cha matenda a mtima komanso 32% cha sitiroko.
+- **Zimachitika motani.** [Lipoti la National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) linapeza kuti pafupifupi 24% ya anthu aku America azaka 65 kapena kuposerapo omwe amakhala mʼdera lawo amakhala odzipatula.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Chenjezo lofunika: Lancet Commission ikunena kuti anthu akhoza kuchepetsa zochitika zocheza ndi ena pa nthawi yoyambirira ya vuto la kuiwala, isanadziwike. Izi zikutanthauza kuti zina mwa kugwirizanaku zitha kukhala chifukwa chakuti vuto la kuiwala limapangitsa munthu kudzipatula, osati kuti kudzipatula kokha kumawonjezera chiopsezo. Umboni wambiriwu umachokera ku kafukufuku wowonera.
 
-## What is the difference between loneliness and isolation?
+## Kodi pali kusiyana kotani pakati pa kumva kukhala pawekha ndi kudzipatula?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) imafotokoza motere. **Kudzipatula** kumatanthauza kukhala ndi anthu ochepa ocheza nawo kapena kukhala ndi anthu ochepa ocheza nawo nthawi zonse. **Kumva kukhala pawekha** ndi kumva kuwawa chifukwa chokhala wekha kapena wolekanitsidwa ndi ena. Munthu akhoza kukhala yekha mosangalala, ndipo munthu akhoza kumva kukhala pawekha ali mʼchipinda chodzaza ndi anthu.
 
-The NIA lists factors that raise the risk of both:
+NIA imatchula zinthu zomwe zimawonjezera chiopsezo cha zonsezi:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Mavuto akumva kapena kuona
+- Kuvutika kuyenda, kapena kusowa mayendedwe
+- Kukhala pawekha, kapena kutaya kwakukulu monga imfa ya mwamuna kapena mkazi, kapena kupuma pa ntchito
+- Kusintha kwa kukumbukira kapena kuganiza
+- Kusamalira munthu amene akudwala
+- Nkhawa za ndalama kapena zolepheretsa chifukwa cha chilankhulo
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Kumva ndi nkhani yaikulu. NIA ikunena kuti anthu amene sakumva bwino akhoza kudzipatula chifukwa kucheza kumakhala kovuta kapena kochititsa manyazi. [Kalozera wathu wokhudza kumva ndi thanzi la ubongo](/brain-health/hearing/) akufotokoza za kuyezetsa kumva komanso zida zomvetsera zomwe zimagulidwa popanda chilolezo cha dokotala.
 
-## Practical ways to stay connected
+## Njira zothandiza zolumikizirana ndi ena
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA imapereka malingaliro osiyanasiyana. Sankhani limodzi kapena awiri omwe akukuyenerani:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Konzani nthawi yolumikizirana pafupipafupi.** Khalani ndi nthawi yokhazikika tsiku lililonse kapena sabata iliyonse yoyimbira foni, kutumiza uthenga, imelo kapena khadi kwa banja, anzanu kapena anansi.
+- **Gwiritsani ntchito macheza a pa kanema kapena zida zanzeru zolankhulira.** Ngati ukadaulo ndi watsopano kwa inu, malaibulale ambiri a anthu onse ndi malo a mʼdera amapereka maphunziro. Onani [kalozera wathu wokhudza kuyimba foni ndi macheza a pa kanema](/activities/phone-and-video-calls/).
+- **Lowani mʼgulu lina.** Kalasi, gulu lachipembedzo, gulu loyenda pansi kapena ntchito yodzipereka zimakupatsani mwayi wolumikizana ndi ena komanso kumva kuti muli ndi cholinga.
+- **Yambiranso zokonda zakale** kapena phunzirani chatsopano ndi anthu ena.
+- **Chitani masewera olimbitsa thupi ndi ena.** Muzichita ndi mnzanu kapena gulu. [Kalozera wathu wokhudza masewera olimbitsa thupi](/brain-health/exercise/) ali ndi njira zofatsa.
+- **Ganizirani za chiweto** ngati mungathe kuchisamalira.
+- **Gwiritsani ntchito ntchito za mʼdera lanu.** Malo a anthu achikulire, Area Agencies on Aging ndi Eldercare Locator (800-677-1116) angakulozereni ku mapulogalamu ndi mayendedwe.
 
-## Why do shared activities matter in dementia?
+## Nʼchifukwa chiyani zochitika zogawana zili zofunika pa vuto la kuiwala?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Kwa munthu amene akukhala kale ndi vuto la kuiwala, kulumikizana kumatanthauza chisangalalo, chitonthozo ndi kumva kuti akuphatikizidwa, osati kuchepetsa chiopsezo. Lancet Commission imanena kuti zochitika zimathandiza anthu amene ali ndi vuto la kuiwala kusunga chisangalalo ndi cholinga. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ikunena kuti, kuwonjezera pa kukonza moyo wabwino, zochitika zingathandize kuchepetsa makhalidwe monga kuyendayenda popanda cholinga kapena kusakhazikika. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) imawonjezeranso kuti anthu amene ali ndi Alzheimer's amafunika kukhala otanganidwa ndikuchita zinthu zomwe amasangalala nazo.
 
-Ideas that work well:
+Malingaliro omwe amathandiza:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Onani zithunzi limodzi.** [Conversation Cards](/games/conversation-cards/) amapereka mafunso otseguka, opanda mayeso, monga „Ndiuzeni za...”. Onani [kalozera wathu wokhudza kukumbukira](/activities/reminiscence/).
+2. **Sewerani pambali pa mnzanu.** [Picture Pairs](/games/picture-pairs/) amasunga zithunzi zikuoneka ndipo alibe nthawi yowerengera kapena mapointi, kotero palibe kukakamizidwa. Kalozera wathu wa [momwe mungasewerere limodzi](/caregiving/how-to-play-together/) ali ndi malangizo.
+3. **Gwiritsani ntchito zithunzi za banja.** [Photo Pairs](/games/photo-pairs/) amasandutsa zithunzi zomwe mwasankha kukhala masewera ofananitsa, ndipo zithunzizo zimakhala pa chipangizo chanu.
+4. **Sonkhanitsani anthu pamodzi.** [Picture Bingo](/games/picture-bingo/) ndi abwino pa misonkhano ya banja ndi [magulu a kunyumba yosamalira anthu](/activities/care-home-groups/).
+5. **Gawanani nyimbo, ntchito zapakhomo kapena dimba.** Onani [zochitika za nyimbo](/activities/music/), [ntchito zapakhomo](/activities/household-tasks/) komanso mndandanda wathu wonse wa [malingaliro a zochitika](/activities/ideas/).
+6. **Pangani maulendo kukhala osavuta.** [Kalozera wathu wokhudza maulendo](/activities/visiting/) akufotokoza za maulendo achidule komanso abata omwe amakhala abwino kwa aliyense.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Sungani zinthu kukhala zazingʼono komanso zomasuka. Chipinda chopanda phokoso chokhala ndi munthu mmodzi kapena awiri nthawi zambiri chimakhala bwino kuposa gulu lalikulu. Ngati munthuyo watopa kapena wasiya kuchita chidwi, kusiya kuli bwino. Kukhala limodzi ndikumwa tiyi ndi chotsatira chabwino nachonso.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Kwa munthu amene akukhala yekha ndi vuto la kuiwala, NIA imalimbikitsa kupeza munthu wodalirika amene angamuyendere kapena kucheza naye pa kanema pafupipafupi komanso kukhala munthu wolumikizana naye pakagwa zadzidzidzi. Imatchulanso memory cafe ya mʼdera lanu, malo omasuka ochezera a anthu amene ali ndi vuto la kukumbukira komanso mabanja awo.
 
-## Caregivers get lonely too
+## Osamalira nawonso amatha kumva kukhala pawekha
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA imatchula kusamalira munthu amene akudwala ngati chimodzi mwa zinthu zomwe zingapangitse kudzipatula. Sungani nthawi yocheza ndi anzanu, magulu othandizana komanso kupuma. [Kalozera wathu wokhudza kudzisamalira kwa osamalira](/caregiving/caregiver-self-care/) ali ndi malingaliro othandiza.
 
-## Talk with a doctor
+## Lankhulani ndi dokotala
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Ngati inu kapena munthu amene mumamusamalira mumamva kukhala pawekha kapena kudzipatula nthawi zambiri, muuzeni dokotala. NIA imalimbikitsa anthu kufotokoza kusintha kwakukulu pa moyo, monga imfa mʼbanja, kuti dokotala amvetse bwino zonse. Kumva chisoni kwa milungu ingapo kungakhale kukhumudwa, komwe kungathandizidwe. Ngati munthu wachikulire wayamba kudzipatula ku anzake kapena ku zochitika zomwe ankasangalala nazo kale, kusintha kumeneku nʼkoyenera kukufotokozera dokotala. Werengani [zizindikiro zoyambirira ndi nthawi yoti mukaone dokotala](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Tsamba ili ndi uthenga wamba, si uphungu wa zachipatala. Onani [chidziwitso chathu chokhudza zachipatala](/medical-disclaimer/).

@@ -1,32 +1,33 @@
 ---
-title: "Demensiya ilə yaşayan şəxslər üçün fəaliyyət kimi məişət işləri"
-seoTitle: "Demensiya üçün ev fəaliyyətləri: gündəlik işlər"
-description: "Qatlama, çeşidləmə, süfrə açmaq və sadə yemək hazırlamaq demensiya ilə yaşayan şəxs üçün mənalı fəaliyyət ola bilər. Necə qurmaq və təhlükəsiz saxlamaq olar."
+title: "Demensiya ilə yaşayanlar üçün ev işləri"
+seoTitle: "Demensiya zamanı ev işləri: gündəlik tapşırıqlar"
+description: "Paltar qatlamaq, çeşidləmək, süfrə açmaq və sadə yemək bişirmək demensiya ilə yaşayanlar üçün mənalı ola bilər. Necə hazırlamaq və təhlükəsiz saxlamaq."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Dəsmal qatlamaq, corabları çeşidləmək, süfrə açmaq, piştaxtanı silmək, gülləri
-  sulamaq və sadə yemək hazırlamağa kömək etmək kimi gündəlik işlər demensiya ilə
-  yaşayan şəxsə həqiqətən kömək etmək imkanı verə bilər. Onun tanıdığı işləri
-  seçin, onları bir-bir addımlara bölün, kəskin və ya isti təhlükələri aradan
-  qaldırın və işi “düzgün” görməkdən çox iştirak etməyə dəyər verin.
+  Dəsmalları qatlamaq, corabları cütləşdirmək, süfrə açmaq, səthləri silmək,
+  bitkiləri sulamaq və sadə yemək bişirməyə kömək etmək kimi gündəlik ev işləri
+  demensiya ilə yaşayan şəxsə evdə həqiqətən kömək etməyin bir yolunu verə bilər.
+  Onların bildiyi işləri seçin, hər işi bir addıma bölün, iti və isti
+  təhlükələri aradan qaldırın və işi «düzgün» etməkdən çox, iştirak etməyə dəyər
+  verin.
 keyPoints:
-  - "Tanış məişət işləri şəxsin özünü faydalı və evin bir parçası kimi hiss etməsinə kömək edə bilər. Bu, çox vaxt işin nə qədər yaxşı görülməsindən daha vacibdir."
-  - "Hər işi tək-tək addımlara bölün, izah etməkdən çox göstərin və çətinləşmiş addımı səssizcə öz üzərinizə götürün."
-  - "Bıçaqları, təmizlik məhsullarını və yuyucu kapsulları kilidləyin; birlikdə yemək hazırlamazdan əvvəl ocaq düymələrinə qapaq qoyun və ya avtomatik söndürmə qurun."
-  - "Qatlanmış dəsmalları şəxsin gözü qarşısında yenidən qatlamaq lazım deyil. Nəyisə yenidən düzəltməlisinizsə, bunu sonra və gözdən uzaqda edin."
-  - "İş əsəbilik yaradırsa, daha asan addıma keçin, başqa vaxt yenidən cəhd edin və ya sadəcə yan-yana oturun."
+  - "Tanış ev işləri insanın özünü faydalı və evin bir hissəsi kimi hiss etməsinə kömək edə bilər; bu, çox vaxt işin nə qədər yaxşı görüldüyündən daha vacibdir."
+  - "Hər işi tək-tək addımlara bölün, izah etməkdən çox göstərin və çətinləşən hər hansı addımı sakitcə öz üzərinizə götürün."
+  - "Bıçaqları, təmizləyici vasitələri və yuyucu kapsulları kilidli yerdə saxlayın; birlikdə yemək bişirməzdən əvvəl soba düymələri üçün qoruyucu və ya avtomatik sönmə qurğusu əlavə edin."
+  - "Qatlanmış dəsmalları insanın yanında yenidən qatlamaq lazım deyil. Nəyisə yenidən etmək gərəkirsə, bunu sonra və insanın görmədiyi yerdə edin."
+  - "Bir iş narahatlıq yaradırsa, daha asan bir addıma keçin, başqa vaxt yenidən cəhd edin və ya sadəcə birlikdə oturun."
 faq:
-  - q: "Demensiya ilə yaşayan şəxs hansı işlərdə hələ də kömək edə bilər?"
-    a: "Bir çox insan hələ də camaşırı qatlaya, corabları cütləyə, çəngəl-qaşıqları çeşidləyə, süfrə aça, piştaxtanı sile, toz ala, süpürə, gülləri sulaya və ya xəmir qabını qarışdıra bilir. Şəxsin keçmişdə gördüyü işləri seçin və indi bacardığına uyğunlaşdırın. Sonrakı mərhələlərdə salfetləri hamarlamaq kimi tək təkrarlanan hərəkət kifayət ola bilər."
-  - q: "Demensiya ilə yaşayan şəxsin mətbəxdə kömək etməsi təhlükəsizdirmi?"
-    a: "Yaxından nəzarət və düzgün hazırlıqla ola bilər. Bıçaqları, təmizlik məhsullarını və hər cür isti şeyi əlçatmaz yerdə saxlayın, ocaq düymələrinə qapaq qoyun və ya avtomatik söndürmə qurun, şəxsə tərəvəz yumaq, qarışdırmaq və ya boşqabları düzmək kimi təhlükəsiz iş verin. Ocaq yanarkən onu heç vaxt tək qoymayın."
-  - q: "Əgər işi səhv görsə və ya dağınıqlıq yaratsa?"
-    a: "Buraxın. Məqsəd mükəmməl nəticə yox, birlikdə vaxt keçirmək və özünü faydalı hiss etməkdir. Nəyisə həqiqətən yenidən etmək lazımdırsa, sonraya saxlayın və şəxs baxmayanda edin ki, özünü düzəliş edilmiş kimi hiss etməsin."
-  - q: "Kömək etmək istəməsə nə etməli?"
-    a: "“Yox” cavabı iş bu an çox çətin, qarışıq və ya yorucu görünür demək ola bilər. Təzyiq göstərməyin. Daha sadə variant təklif edin, əvəzində sizə yoldaşlıq etməyi xahiş edin və ya günün daha uyğun vaxtında yenidən soruşun."
+  - q: "Demensiya ilə yaşayan şəxs hələ hansı ev işlərində kömək edə bilər?"
+    a: "Bir çox insan hələ də paltar qatlaya, corab cütləşdirə, qaşıq-çəngəl çeşidləyə, süfrə aça, səthi silə, toz ala, süpürə, bitkiləri sulaya və ya qabda xəmir qarışdıra bilər. İnsanın əvvəllər etdiyi işləri seçin və onları indiki bacarıqlarına uyğunlaşdırın. Daha sonrakı mərhələlərdə salfetləri hamarlamaq kimi tək və təkrarlanan bir hərəkət kifayət edə bilər."
+  - q: "Demensiya ilə yaşayan birinin mətbəxdə kömək etməsi təhlükəsizdirmi?"
+    a: "Yaxın nəzarət və düzgün hazırlıqla təhlükəsiz ola bilər. Bıçaqları, təmizləyici vasitələri və isti əşyaları əlçatmaz saxlayın, soba düymələri üçün qoruyucu və ya avtomatik sönmə qurğusundan istifadə edin və insana tərəvəz yumaq, qarışdırmaq və ya boşqab düzmək kimi təhlükəsiz iş verin. Onu soba açıq olanda heç vaxt tək qoymayın."
+  - q: "Əşyaları səhv qatlayarsa və ya səliqəsizlik edərsə, nə etməliyəm?"
+    a: "Sadəcə olduğu kimi buraxın. Məqsəd birlikdə vaxt keçirmək və faydalı hiss etməkdir, mükəmməl nəticə deyil. Əgər nəyisə həqiqətən yenidən etmək lazımdırsa, sonra gözləyin və insanın görmədiyi vaxt edin ki, özü düzəldilmiş hiss etməsin."
+  - q: "Kömək etməkdən imtina edərsə, nə etməliyəm?"
+    a: "«Yox» demək işin o anda çətin, qarışıq və ya yorucu hiss olunması demək ola bilər. İsrar etməyin. Daha sadə bir variant sınayın, onu kömək etmək əvəzinə sizə yoldaşlıq etməyə dəvət edin və ya günün daha uyğun vaxtında yenidən soruşun."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Demensiya ilə yaşayan bir çox insan onilliklər boyu evi idarə edib, ailə böyüdüb və ya iş yerində qayda saxlayıb. Real məişət işlərində kömək etmələrinin xahiş olunması “siz hələ də bu evin bir parçasısınız” mesajını az fəaliyyətin verə bildiyi qədər aydın verə bilər. Bu səhifədə hansı işlərin yaxşı getdiyi, onları necə qurmaq, vəziyyət dəyişdikcə necə uyğunlaşdırmaq, mətbəx və camaşırxananı necə təhlükəsiz saxlamaq barədə danışılır.
+Demensiya ilə yaşayan bir çox insan onilliklər boyu ev işlərini idarə edib, ailəsinə baxıb və ya iş yerində nizam-intizamı qoruyub. Onlardan həqiqi ev işlərində kömək istəmək «siz hələ də bu evin bir hissəsisiniz» deməyin az sayda fəaliyyətin bacardığı bir yoludur. Bu səhifədə hansı işlərin daha uyğun olduğu, onları necə qurmaq, vəziyyət dəyişdikcə necə uyğunlaşdırmaq və mətbəx ilə camaşırxananı necə təhlükəsiz saxlamaq izah olunur.
 
-## Gündəlik işlər niyə yaxşı fəaliyyətdir?
+## Gündəlik ev işləri niyə yaxşı fəaliyyət ola bilər?
 
-Gündəlik işlər tanış olduğu və aydın məqsədi olduğu üçün işləyir. Milli Qocalma İnstitutu (National Institute on Aging) qab yumağı, süfrə açmağı, süpürməyi, toz almağı, poçtu çeşidləməyi, camaşır qatlamağı və təkrar emal materiallarını ayırmağı [Alzheimer ilə yaşayanların xoşlaya biləcəyi gündəlik fəaliyyətlər](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sırasında göstərir. Alzheimer Assosiasiyası (Alzheimer's Association) qeyd edir ki, süfrə açmaq kimi işlər şəxsin [özünü evin dəyərli üzvü kimi hiss etməsinə](https://www.alz.org/help-support/caregiving/daily-care/activities) kömək edə bilər.
+Ev işləri yaxşı uyğun gəlir, çünki tanışdır və aydın məqsədi var. National Institute on Aging qab yumaq, süfrə açmaq, süpürmək, toz almaq, poçtu çeşidləmək, paltar qatlamaq və təkrar emal ediləcək materialları ayırmaq kimi işləri [Alzheimer xəstəliyi olan insanların zövq ala biləcəyi gündəlik fəaliyyətlər](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sırasında qeyd edir. Alzheimer's Association süfrə açmaq kimi tapşırıqların insanın [özünü evin dəyərli bir üzvü kimi hiss etməsinə](https://www.alz.org/help-support/caregiving/daily-care/activities) kömək edə biləcəyini bildirir.
 
-İşin özündə də başlamaq üçün bir səbəb var. “Bu dəsmallarda mənə kömək edə bilərsinizmi?” sualına “Fəaliyyət etmək istərdinizmi?” sualından daha asan “bəli” deyilir.
+Ev işinin həm də başlaması üçün öz səbəbi olur. «Bu dəsmalları qatlamaqda mənə kömək edərsən?» demək «Fəaliyyət etmək istərsən?» deməkdən daha asan «hə» cavabı ala bilər.
 
-## Hansı məişət işlərini sınamaq yaxşıdır?
+## Hansı ev işlərini sınamaq yaxşı olar?
 
-Şəxsin keçmişdə gördüyü işlərdən başlayın, sonra onları bu gün bacardığına uyğunlaşdırın.
+İnsanın əvvəllər etdiyi işlərlə başlayın, sonra onları bu gün bacardıqlarına uyğunlaşdırın.
 
-### Camaşır və parça məmulatları
+### Camaşır və məişət əşyaları
 
-- **Dəsmalları və üz dəsmallarını qatlamaq.** Bir səbət kiçik, yastı əşyalar verin. Dəsmallar bağışlayandır: onları qatlamağın yanlış yolu yoxdur.
-- **Corabları cütləmək.** Masaya qarışıq bir dəstə qoyun. Cütləri tapmaq çətinləşirsə, yalnız iki-üç çox fərqli rəng istifadə edin.
-- **Hamarlamaq və üst-üstə yığmaq.** Salfetləri, yastıq üzlərini və ya mətbəx dəsmallarını hamarlayıb üst-üstə yığmaq olar. Qatlamaq çox addımlı olduqda, sonrakı mərhələlərdə bu yaxşı işləyir.
+- **Dəsmal və kiçik süngərləri qatlamaq.** Kiçik, düz əşyalardan ibarət səbət verin. Dəsmallar bağışlayandır: onları səhv qatlamağın bir yolu yoxdur.
+- **Corabları cütləşdirmək.** Masanın üstünə qarışıq bir yığın qoyun. Cütləri tapmaq çətinləşirsə, yalnız iki və ya üç çox fərqli rəngdən istifadə edin.
+- **Hamarlamaq və üst-üstə yığmaq.** Salfetlər, yastıq üzü və ya mətbəx dəsmalları hamarlanıb yığıla bilər. Qatlama çox addımlı olduqda bu, sonrakı mərhələlərdə yaxşı işləyir.
 
 ### Süfrə və mətbəx
 
-- **Süfrə açmaq.** Bir nəfərlik düzümü nümunə kimi qoyun və şəxsin onu təkrarlamasına imkan verin. Bu çox gəlirsə, əşyaları bir-bir verin: “Hər boşqaba bir çəngəl.”
-- **Çəngəl-qaşıqları çeşidləmək.** Təmiz çəngəl, qaşıq və yağ bıçaqlarını qabda qarışdırın və bölməli məcməyiyə ayırın. Kəskin bıçaqları kənarda saxlayın.
-- **Qabları qurulamaq.** Plastik və ya sınmayan qablar və yumşaq dəsmal bunu təhlükəsiz iş edir.
-- **Masanı və ya piştaxtanı silmək.** Nəm parça və boş səth. Alzheimer Assosiasiyası təklif edir ki, kimsə artıq əli ilə masanı ovuşdururdusa, ona parça verin: bu, narahat hərəkəti faydalı hərəkətə çevirir.
+- **Süfrə açmaq.** Bir süfrə dəstini nümunə kimi düzün və insanın onu təkrar etməsinə imkan verin. Bu çoxdursa, hər dəfə bir əşya verin: «Budur, hər boşqab üçün bir çəngəl».
+- **Qaşıq-çəngəli çeşidləmək.** Təmiz çəngəl, qaşıq və kərə yağı bıçaqlarını bir qabda qarışdırıb bölməli altlığa ayırın. İti bıçaqları kənarda saxlayın.
+- **Qabları qurulamaq.** Plastik və ya qırılmayan qablar və yumşaq dəsmal bu işi təhlükəsiz edir.
+- **Masanı və ya səthləri silmək.** Nəm parça və boş səth kifayətdir. Alzheimer's Association kiminsə artıq əlilə masanı sürtdüyünü görsəniz, ona parça təklif etməyi və narahat hərəkəti faydalı işə çevirməyi tövsiyə edir.
 
-### Ev ətrafında
+### Evin digər yerlərində
 
-- **Toz almaq.** Yumşaq toz fırçası və kofe masası və ya kitab rəfi kimi bir neçə möhkəm səth.
-- **Poçtu çeşidləmək.** Lazımsız poçtu və kataloqları yığınlara ayırmaq üçün verin: saxla, təkrar emala ver, sonra aç. Real hesabları və çekləri başqa yerdə saxlayın.
-- **Təkrar emal materiallarını ayırmaq.** Təmiz qutuları, şüşələri və kağızı ayrı qablara qoyun.
-- **Süpürmək.** Tarazlıq sabitdirsə, eyvanda və ya mətbəx döşəməsində kiçik süpürgə.
-- **Gülləri sulamaq.** Kiçik, yüngül su qabı və əlçatan yerdə bir neçə gül.
+- **Toz almaq.** Yumşaq tozaləyici və jurnal masası və ya kitab rəfi kimi bir neçə möhkəm səth.
+- **Poçtu çeşidləmək.** Lazımsız reklam vərəqləri və jurnalları yığınlara ayırmaq üçün verin: saxla, təkrar emal et, sonra aç. Həqiqi hesabları və çekləri başqa yerdə saxlayın.
+- **Təkrar emal materiallarını ayırmaq.** Təmiz qutuları, şüşələri və kağızları ayrı qutulara yığın.
+- **Süpürmək.** Tarazlıq yaxşıdırsa, eyvanda və ya mətbəx döşəməsində kiçik süpürgə ilə.
+- **Bitkiləri sulamaq.** Kiçik, yüngül su qabı və asan çatılan bir neçə bitki.
 
-### Nəzarətlə sadə yemək hazırlamaq
+### Nəzarət altında sadə yemək bişirmə
 
-Yemək hazırlamaq güclü, xoş hissləri qaytara bilər. Milli Qocalma İnstitutu şəxsin ərzaqları toplamasına, ölçməsinə, qarışdırmasına və tökməsinə icazə verməyi və ya sadəcə sevdiyi resepti başqasına necə hazırlanacağını söyləməsini təklif edir. Yaxşı işlər bunlardır:
+Yemək bişirmək xoş xatirələri canlandıra bilər. NIA insanın ərzaqları toplamasına, ölçməsinə, qarışdırmasına və tökməsinə, ya da sadəcə sevimli resepti başqasına izah etməsinə imkan verməyi təklif edir. Yaxşı işlər bunlardır:
 
 - tərəvəz və ya meyvə yumaq
 - xəmir və ya soyuq salat qarışdırmaq
-- kahı yarpaqlarını əllə qopartmaq
-- küt bıçaqla tosta yağ sürtmək
-- sıxlaşdırılmış xəmir parçalarını nimçəyə düzmək
-- pizzanın üzərinə əlavələr qoymaq
+- kahı cırmaq
+- küt bıçaqla tostun üzərinə yağ sürtmək
+- peçenye xəmirini sini üzərinə düzmək
+- pizzanın üzərinə ərzaq qoymaq
 
-Ölçmək çətinləşirsə, Alzheimer Assosiasiyası ölçməni özünüzün tamamlamasını, sonra isə qarışdırmaq kimi başqa addımı verməyi təklif edir.
+Ölçmək çətinləşirsə, Alzheimer's Association ölçmə işini sizin görməyinizi, sonra isə qarışdırmaq kimi başqa bir addımı insana verməyinizi təklif edir.
 
-## İşi yaxşı getməsi üçün necə qurmalı?
+## Bir işin yaxşı getməsi üçün onu necə hazırlamalıyam?
 
-1. **Düzgün vaxtı seçin.** Şəxsin adətən dincəlmiş və sakit olduğu vaxtı seçin. Bir çox insanda bu, səhərdir.
-2. **Yeri boşaldın.** Bir iş, bir səth, masada artıq heç nə yox.
-3. **Təklif edin, tapşırmayın.** “Bunlarda köməyə ehtiyacım var” ifadəsi “Camaşırı qatlamaq vaxtıdır” ifadəsindən yaxşı işləyir.
-4. **İlkini göstərin.** Bir dəsmalı yavaş-yavaş qatlayın, sonra növbətisini verin. Göstərmək izah etməkdən daha aydındır.
-5. **Bir addım verin.** Eyni anda çox göstəriş məğlub edə bilər. Növbəti addımı söyləməzdən əvvəl biri bitənə qədər gözləyin.
+1. **Uyğun vaxtı seçin.** İnsanın adətən dincəlmiş və sakit olduğu vaxtı seçin. Bir çox insan üçün bu, səhər saatlarıdır.
+2. **Məkanı boşaldın.** Bir iş, bir səth, masada artıq əşya olmasın.
+3. **Tapşırıq verməyin, dəvət edin.** «Bunlarla mənə bir az kömək lazım idi» demək «Paltar qatlamağın vaxtıdır» deməkdən daha yaxşı işləyir.
+4. **İlkini göstərin.** Bir dəsmalı yavaşca qatlayın, sonra növbətisini verin. Göstərmək izah etməkdən daha aydındır.
+5. **Hər dəfə bir addım verin.** Bir anda çox göstəriş vermək insanı çaşdıra bilər. Növbəti addımı deməzdən əvvəl birinin bitməsini gözləyin.
 6. **Yan-yana işləyin.** Eyni işi yan-yana görmək nəzarət kimi yox, yoldaşlıq kimi hiss olunur.
-7. **Nəticəni yox, işi danışın.** “Bunlar necə yumşaqdır” və ya “Paltar şkafını necə saxlamağı xoşlayırdınız, danışın” kimi sözlər kimisə yoxlamadan söhbətə dəvət edir.
+7. **Nəticə haqqında yox, iş haqqında danışın.** «Bunlar çox yumşaqdır» və ya «Çarşabları necə yığmağı sevərdin?» kimi cümlələr heç kimi sınamadan söhbət açır.
 
-## Bacarıqlar dəyişdikcə işləri necə uyğunlaşdırmalı?
+## Bacarıqlar dəyişdikcə ev işlərini necə uyğunlaşdırmalıyam?
 
-Bacarıqlar zamanla, hətta gündən günə dəyişir. Alzheimer Assosiasiyası xəstəlik irəlilədikcə daha sadə, daha çox təkrarlanan işlərə keçməyi təklif edir.
+Bacarıqlar zamanla, hətta gündən-günə dəyişə bilər. Alzheimer's Association vəziyyət irəlilədikcə daha sadə və daha təkrarlanan işlərə keçməyi tövsiyə edir.
 
 | Bu çətinləşibsə | Bunun əvəzinə sınayın |
 | --- | --- |
-| Böyük çarşafları qatlamaq | Üz dəsmallarını qatlamaq və ya salfetləri hamarlamaq |
-| Tam süfrə açmaq | Hər oturacağın qarşısına bir salfet qoymaq |
-| Poçtu kateqoriyalara ayırmaq | Zərfləri bir yığına yığmaq |
-| Reseptə əməl etmək | Qarışdırmaq və ya siz bişirərkən baxmaq və dadmaq |
-| Bütün döşəməni süpürmək | Bir kiçik masanı silmək |
-| İşi ümumiyyətlə görmək | Siz işləyərkən yanınızda oturub yoldaşlıq etmək |
+| Böyük çarşabları qatlamaq | Kiçik süngərləri qatlamaq və ya salfetləri hamarlamaq |
+| Tam süfrə açmaq | Hər yerə bir salfet qoymaq |
+| Poçtu kateqoriyalara ayırmaq | Zərfləri bir yığında yığmaq |
+| Reseptə əməl etmək | Qarışdırmaq, ya da siz bişirərkən izləmək və dadmaq |
+| Bütün döşəməni süpürmək | Kiçik bir masanı silmək |
+| İşi ümumiyyətlə etmək | Siz iş görərkən yanınızda oturub sizə yoldaşlıq etmək |
 
-Baxmaq da sayılır. Milli Qocalma İnstitutu qeyd edir ki, bəzi insanlar sadəcə baxmaqdan zövq alır və bu, iştirak etməyin yaxşı yoludur.
+İzləmək də iştirakdır. NIA bəzi insanların sadəcə izləməkdən zövq aldığını qeyd edir və bunun da iştirak etməyin yaxşı bir yolu olduğunu bildirir.
 
-## Məişət işlərini necə təhlükəsiz saxlamalı?
+## Ev işlərini necə təhlükəsiz saxlamalıyam?
 
-Təhlükəsizlik birinci gəlir, xüsusilə mətbəxdə. Milli Qocalma İnstitutunun [Alzheimer ilə yaşayana qayğı göstərənlər üçün ev təhlükəsizliyi məsləhətlərinə](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) bunlar daxildir:
+Təhlükəsizlik, xüsusilə mətbəxdə, birinci yerdədir. NIA-nın [Alzheimer xəstəliyi olan insanlara qayğı üçün ev təhlükəsizliyi məsləhətləri](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) bunları ehtiva edir:
 
-- Təmizlik məhsullarını, o cümlədən konfet kimi görünə bilən yuyucu kapsulları kilidləyin və ya götürün.
+- Təmizləyici vasitələri, o cümlədən konfetə bənzəyə bilən yuyucu kapsulları kilidləyin və ya kənarlaşdırın.
 - Bıçaqları, qayçıları və elektrik alətlərini kilidli yerdə saxlayın.
-- Ocağa təhlükəsizlik düymələri və avtomatik söndürmə açarı əlavə edin.
-- Soba, tostçu və ütünün yanına yanmayacaq şəkildə “Dayan” və ya “Çox isti” yazılı lövhələr qoyun.
-- Yanıq riskini azaltmaq üçün su qızdırıcısını 120°F (təxminən 49°C) səviyyəsinə qurun.
-- Yeməli kimi görünə bilən süni meyvələri və yemək formalı maqnitləri götürün.
+- Sobaya təhlükəsizlik düymələri və avtomatik sönmə açarı əlavə edin.
+- Soba, tost aparatının və ütünün yanına «Dayan» və ya «Çox isti» yazıları qoyun; yazıları yanğın riski yaratmayacaq şəkildə yerləşdirin.
+- Yanıq riskini azaltmaq üçün su qızdırıcısını 120°F dərəcəyə ayarlayın.
+- Yeyilə bilən kimi görünə bilən süni meyvələri və yemək şəkilli maqnitləri götürün.
 
-Daha bir neçə praktik vərdiş kömək edir:
+Bir neçə əlavə vərdiş də kömək edir:
 
-- Ocaq, soba və ya kəskin alət işləyərkən otaqda qalın.
-- Qurulamaq və süfrə açmaq üçün sınmayan qablardan istifadə edin.
-- Süpürərkən və ya yuyarkən döşəməni quru və boş saxlayın.
-- Şəxs vaxtilə alətlərdən istifadə edibsə, Alzheimer Assosiasiyası emalatxanadan təhlükəli əşyaları götürməyi təklif edir ki, taxta parçasını cilalamaq kimi təhlükəsiz iş hələ də zövq verə bilsin.
+- Soba, fırın və ya iti alət istifadədə olduqda otaqda qalın.
+- Qabları qurulamaq və süfrə açmaq üçün qırılmayan qablardan istifadə edin.
+- Süpürmə və ya silmə zamanı döşəməni quru və maneəsiz saxlayın.
+- İnsan əvvəllər alətlərlə işləyibsə, Alzheimer's Association təhlükəli əşyaları emalatxanadan çıxarmağı tövsiyə edir ki, taxta zımparalamaq kimi təhlükəsiz işlərdən hələ də zövq almaq mümkün olsun.
 
-## Əgər “səhv” görsə?
+## İşi «səhv» edərsə, nə etməliyəm?
 
-Buraxın. Yarıya yox, üçə qatlanmış dəsmal da qatlanmış dəsmaldır. Alzheimer Assosiasiyası bunu açıq deyir: vacib olan birlikdə vaxt keçirmək və şəxsin özünü faydalı hiss etməsidir, dəsmalların düzgün qatlanıb-qatlanmaması deyil. Nəyisə həqiqətən yenidən etmək lazımdırsa, sonraya saxlayın və gözdən uzaqda edin.
+Buraxın keçsin. Üç yerə qatlanmış dəsmal da qatlanmış dəsmaldır. Alzheimer's Association bunu açıq şəkildə deyir: vacib olan birlikdə vaxt keçirmək və insanın özünü faydalı hiss etməsidir, dəsmalların düzgün qatlanıb-qatlanmaması deyil. Əgər nəyisə mütləq yenidən etmək lazımdırsa, sonra gözləyin və insanın görmədiyi vaxt edin.
 
-Həmin anda düzəliş etmək xoş işi itirilənlərin xatırlatmasına çevirə bilər. “Sağ olun, çox kömək oldu” demək demək olar ki, həmişə düzgün sözdür.
+O anda düzəliş etmək xoş bir işi itirilən bacarıqların xatırladılmasına çevirə bilər. «Təşəkkür edirəm, bu böyük köməkdir» demək demək olar ki, həmişə doğru seçimdir.
 
-## Nə vaxt dayanmalıyıq?
+## Nə vaxt dayandırmalıyıq?
 
-Əsəbilik, yorğunluq və ya maraqsızlıq əlamətləri görəndə dayanın və ya dəyişin. Tez bitirmək uğursuzluq yox, yaxşı nəticədir. Bunları edə bilərsiniz:
+Narahatlıq, yorğunluq və ya marağın itməsi əlamətlərini gördükdə dayandırın və ya başqa işə keçin. Erkən bitirmək uğursuzluq deyil, yaxşı nəticədir. Siz:
 
-- daha asan addıma keçmək
-- musiqi və ya bir fincan kofe kimi dinclik verən şeyə keçmək
-- sonra və ya başqa gün yenidən cəhd etmək
-- sadəcə birlikdə oturmaq
+- daha asan bir addıma keçə bilərsiniz
+- musiqi dinləmək və ya bir fincan içki içmək kimi sakit bir şeyə keçə bilərsiniz
+- daha sonra və ya başqa gün yenidən cəhd edə bilərsiniz
+- sadəcə birlikdə otura bilərsiniz
 
-Şəxs “yox” deyirsə, təzyiq göstərməyin. Mehriban cavab yolları üçün [“yox” dedikdə nə etməli](/caregiving/when-they-say-no/) yazısına baxın.
+İnsan «yox» deyirsə, israr etməyin. Yumşaq cavab yolları üçün [imtina etdikdə nə etməli](/caregiving/when-they-say-no/) səhifəsinə baxın.
 
-## Sakit anlar üçün az səy tələb edən əlavələr
+## Daha sakit anlar üçün sadə əlavə fikirlər
 
-Fiziki işlər mümkün olmayanda çeşidləmə və cütləmə oturaraq da edilə bilər. [Sort Together](/games/sort-together/) şəkillərə toxunaraq onları mətbəx və ya bağ səbətlərinə yerləşdirməyə imkan verir, [Picture Pairs](/games/picture-pairs/) isə iri şəkilli, taymersiz mülayim cütləmə oyunudur. [Conversation Cards](/games/conversation-cards/) ev və ailə haqqında açıq mövzular təklif edir və iş bitdikdən sonra kofe ilə yaxşı uyğunlaşır.
+Fiziki ev işləri mümkün olmadıqda, çeşidləmə və uyğunlaşdırma oturaraq da edilə bilər. [Sort Together](/games/sort-together/) şəkilləri mətbəx və ya bağ səbətlərinə toxunaraq yerləşdirməyə imkan verir, [Picture Pairs](/games/picture-pairs/) isə böyük şəkillərlə və vaxt məhdudiyyəti olmadan oynanan sakit uyğunlaşdırma oyunudur. [Conversation Cards](/games/conversation-cards/) ev və ailə haqqında açıq suallar təklif edir və iş bitdikdən sonra içki yanında söhbət üçün uyğundur.
 
-Gün ərzində işlərə yer tapmaq üçün [sakit gündəlik rejim](/activities/daily-routine/) bələdçimizə baxın. Mərhələyə görə daha çox ideya üçün [orta mərhələ fəaliyyətlərinə](/activities/middle-stage/) baxın.
+Ev işlərini günə necə yerləşdirmək barədə kömək üçün [sakit gündəlik rejim](/activities/daily-routine/) bələdçimizə baxın. Mərhələyə görə daha çox fikir üçün [orta mərhələ fəaliyyətləri](/activities/middle-stage/) səhifəsinə baxın.

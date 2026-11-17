@@ -1,35 +1,35 @@
 ---
-title: "Apabila Orang dengan Demensia Menolak Aktiviti"
-seoTitle: "Demensia: Apabila Mereka Menolak Sesuatu Aktiviti"
-description: "Mengapa orang yang hidup dengan demensia mungkin menolak atau kecewa dengan aktiviti, apa yang boleh dicuba, apa yang perlu dielakkan, dan bila perlu jumpa doktor."
+title: "Apabila Orang yang Hidup dengan Demensia Menolak atau Berasa Kecewa dengan Aktiviti"
+seoTitle: "Apabila Orang dengan Demensia Menolak Aktiviti"
+description: "Mengapa orang yang hidup dengan demensia mungkin menolak atau berasa kecewa dengan aktiviti, apa yang boleh dicuba, apa yang perlu dielakkan, dan bila perubahan mendadak memerlukan doktor."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Apabila orang dengan demensia berkata tidak, terimalah dengan tenang dan cuba
-  lagi kemudian atau tawarkan sesuatu yang berbeza. Penolakan selalunya ada
-  sebabnya: tugas itu terasa terlalu sukar atau keanak-anakan, mereka letih,
-  sakit, lapar, atau terbeban dengan bunyi bising. Jangan berbalah atau
-  mendesak. Permudahkan, tawarkan dua pilihan, atau minta bantuan mereka.
+  Apabila seseorang yang hidup dengan demensia berkata tidak, terimanya
+  dengan tenang dan cuba lagi kemudian atau tawarkan sesuatu yang berbeza.
+  Penolakan selalunya ada sebab: tugasan terasa terlalu sukar atau keanak-anakan,
+  mereka letih, sakit, lapar, atau tertekan dengan bunyi bising. Jangan bertengkar
+  atau memaksa. Permudahkan, tawarkan dua pilihan, atau minta bantuan mereka.
   Tingkah laku yang berubah secara mendadak atau cepat, terutamanya selepas
-  jangkitan atau ubat baharu, memerlukan doktor dengan segera.
+  jangkitan atau ubat baharu, perlu dibawa kepada doktor dengan segera.
 keyPoints:
-  - "“Tidak” ialah jawapan yang perlu dihormati, bukan masalah yang perlu ditewaskan."
-  - "Penolakan biasanya ada sebabnya: terlalu sukar, terlalu keanak-anakan, letih, tidak sihat, tidak selesa, atau terbeban."
+  - "Kata \"tidak\" ialah jawapan yang perlu dihormati, bukan masalah yang perlu diatasi."
+  - "Penolakan biasanya ada punca: terlalu sukar, terlalu keanak-anakan, letih, tidak sihat, tidak selesa, atau tertekan."
   - "Berundur, tunggu, dan cuba lagi kemudian, pada waktu yang berbeza, atau dengan versi yang lebih mudah."
-  - "Meminta bantuan mereka lebih berkesan daripada meminta mereka membuat persembahan."
-  - "Jangan sekali-kali berbalah, mendesak, menyoal atau membetulkan. Periksa diri anda jika anda tergesa-gesa atau mendesak."
-  - "Tingkah laku yang berubah secara mendadak atau pantas, terutamanya dengan jangkitan atau ubat baharu, patut dibawa kepada doktor dengan segera."
+  - "Meminta bantuan mereka lebih berkesan daripada meminta mereka menunjukkan kemampuan."
+  - "Jangan sekali-kali bertengkar, memaksa, menyoal atau membetulkan. Periksa diri anda sama ada tergesa-gesa atau terlalu rapat."
+  - "Tingkah laku yang berubah secara mendadak atau cepat, terutamanya dengan jangkitan atau ubat baharu, perlu dibawa kepada doktor dengan segera."
 faq:
-  - q: "Adakah tidak mengapa membiarkan mereka melangkau aktiviti sama sekali?"
-    a: "Ya, pada mana-mana hari tertentu. Duduk bersama, mendengar muzik atau melihat dunia berlalu sudah memadai. Jika seseorang berhenti menikmati segala-galanya selama beberapa minggu, beritahu doktor mereka, kerana mood yang rendah, kesakitan atau masalah kesihatan lain mungkin sebahagian daripada gambaran itu."
-  - q: "Mengapakah mereka menolak perkara yang dahulu mereka gemari?"
-    a: "Hobi lama boleh menjadi mengecewakan apabila ia kini memerlukan kemahiran yang telah disukarkan oleh demensia, dan orang itu mungkin berasa malu. Cuba bahagian yang lebih mudah daripada aktiviti yang sama, seperti mengasingkan butang dan bukan menjahit, atau melihat gambar kebun dan bukan menanam."
-  - q: "Patutkah saya cuba memujuk mereka?"
-    a: "Tidak. Mendesak seseorang melakukan sesuatu yang telah disukarkan oleh demensia ialah pencetus kegelisahan yang diketahui. Terimalah jawapan tidak itu, tukar topik, dan tawarkan lagi kemudian atau dengan cara yang berbeza."
+  - q: "Adakah tidak mengapa jika mereka tidak mahu melakukan apa-apa aktiviti langsung?"
+    a: "Ya, pada mana-mana hari. Duduk bersama, mendengar muzik atau melihat persekitaran sudah memadai. Jika seseorang berhenti menikmati segala-galanya selama beberapa minggu, beritahu doktor mereka, kerana mood rendah, kesakitan atau masalah kesihatan lain mungkin menjadi sebahagian daripada keadaan itu."
+  - q: "Mengapa mereka menolak perkara yang dahulu mereka sukai?"
+    a: "Hobi lama boleh menjadi mengecewakan apabila ia kini memerlukan kemahiran yang menjadi lebih sukar akibat demensia, dan orang itu mungkin berasa malu. Cuba bahagian yang lebih mudah daripada aktiviti yang sama, seperti mengasingkan butang dan bukannya menjahit, atau melihat gambar taman dan bukannya menanam."
+  - q: "Patutkah saya cuba meyakinkan mereka?"
+    a: "Tidak. Memaksa seseorang melakukan sesuatu yang menjadi sukar akibat demensia ialah pencetus keresahan yang diketahui. Terima kata tidak, tukar topik, dan tawarkan semula kemudian atau dengan cara yang berbeza."
   - q: "Bilakah perubahan tingkah laku menjadi kecemasan?"
-    a: "Hubungi nombor kecemasan tempatan anda jika seseorang berada dalam bahaya atau menunjukkan tanda kecemasan perubatan. Untuk kekeliruan secara mendadak atau tingkah laku yang berubah dengan cepat dalam beberapa jam atau hari, terutamanya dengan demam, jangkitan atau ubat baharu, hubungi doktor mereka dengan segera."
+    a: "Hubungi 911 jika seseorang dalam bahaya atau mempunyai tanda-tanda kecemasan perubatan. Bagi kekeliruan yang mendadak atau tingkah laku yang berubah cepat dalam beberapa jam atau hari, terutamanya dengan demam, jangkitan atau ubat baharu, hubungi doktor mereka dengan segera."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -51,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Anda menyediakan segala-galanya, menawarkan permainan atau berjalan-jalan, dan mendengar “Tak nak.” Atau aktiviti itu bermula dengan baik dan berakhir dengan tablet ditolak ke tepi dan kata-kata yang tajam. Ia mengecewakan, dan ia sangat biasa. Penolakan dan kekecewaan biasanya satu mesej, bukan degil. Mencari apakah mesej itu selalunya menunjukkan apa yang patut dicuba seterusnya.
+Anda sudah menyediakan semuanya, menawarkan permainan atau berjalan-jalan, lalu mendengar kata, "Tidak." Atau aktiviti bermula dengan baik tetapi berakhir dengan tablet ditolak ke tepi dan kata-kata yang tajam. Keadaan ini mengecewakan, dan ia sangat biasa. Penolakan dan kekecewaan biasanya merupakan satu mesej, bukan sikap degil. Cuba memahami mesej itu selalunya dapat membantu anda mengetahui apa yang boleh dicuba seterusnya.
 
-## Mengapakah orang dengan demensia menolak aktiviti?
+## Mengapa seseorang yang hidup dengan demensia menolak aktiviti?
 
-Biasanya ada sebabnya, walaupun orang itu tidak dapat menyatakannya dengan kata-kata. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) menyatakan bahawa tentangan mungkin bermakna orang itu tidak dapat melakukan tugas itu atau takut untuk mencuba. Punca biasa termasuk:
+Biasanya ada sebab, walaupun orang itu tidak dapat meluahkannya dengan kata-kata. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) menyatakan bahawa penolakan mungkin bermakna orang itu tidak dapat melakukan tugasan tersebut atau takut untuk mencuba. Punca biasa termasuk:
 
-- **Ia terasa terlalu sukar.** Aktiviti itu kini memerlukan kemahiran yang telah disukarkan oleh demensia, dan gagal di hadapan orang lain memalukan.
-- **Ia terasa keanak-anakan.** Orang dewasa perasan gambar yang seperti kartun, suara yang berlagu-lagu dan aktiviti yang kelihatan dibuat untuk kanak-kanak.
-- **Keletihan.** Ramai orang kurang bertenaga pada lewat hari. Lihat [aktiviti lewat petang yang tenang](/caregiving/late-day-restlessness/).
-- **Ketidakselesaan fizikal.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) menyenaraikan kesakitan, kurang tidur, sukar melihat atau mendengar, sembelit, lapar, dahaga dan kesan sampingan ubat baharu sebagai punca kesusahan yang mungkin.
-- **Terlalu banyak yang berlaku.** Televisyen yang kuat, beberapa perbualan atau bilik yang sesak boleh membebankan.
-- **Berasa didesak.** NIA menamakan didesak melakukan sesuatu yang telah disukarkan oleh penyakit Alzheimer, atau mengingat peristiwa atau orang, sebagai punca kegelisahan.
-- **Mood yang rendah.** Hilang minat terhadap sesuatu boleh menjadi tanda kemurungan, yang wajar dibangkitkan dengan doktor.
-- **Mereka sekadar tidak mahu.** Orang dewasa berhak berkata tidak.
+- **Ia terasa terlalu sukar.** Aktiviti itu kini memerlukan kemahiran yang menjadi sukar akibat demensia, dan gagal di hadapan seseorang boleh memalukan.
+- **Ia terasa keanak-anakan.** Orang dewasa dapat menyedari gambar yang seperti kartun, nada suara yang terlalu ceria dan aktiviti yang kelihatan seolah-olah dibuat untuk kanak-kanak.
+- **Keletihan.** Ramai orang mempunyai tenaga yang lebih rendah lewat hari. Lihat [aktiviti tenang lewat petang](/caregiving/late-day-restlessness/).
+- **Ketidakselesaan fizikal.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) menyenaraikan kesakitan, kurang tidur, masalah penglihatan atau pendengaran, sembelit, lapar, dahaga dan kesan sampingan ubat baharu sebagai punca keresahan yang mungkin.
+- **Terlalu banyak perkara berlaku.** Televisyen yang kuat, beberapa perbualan serentak atau bilik yang sesak boleh menjadi sangat membebankan.
+- **Berasa dipaksa.** NIA menyatakan bahawa dipaksa melakukan sesuatu yang menjadi sangat sukar akibat Alzheimer, atau dipaksa mengingati peristiwa atau orang, boleh menjadi punca keresahan.
+- **Mood rendah.** Hilang minat terhadap sesuatu boleh menjadi tanda kemurungan, yang wajar dibincangkan dengan doktor.
+- **Mereka memang tidak mahu.** Orang dewasa berhak untuk berkata tidak.
 
-## Apakah yang patut saya cuba apabila mereka berkata tidak?
+## Apa yang patut saya cuba apabila mereka berkata tidak?
 
-Terimalah jawapan tidak itu dengan tenang, kemudian ubah sesuatu: masanya, aktivitinya, tahap kesukarannya atau cara anda bertanya.
+Terima kata tidak itu dengan tenang, kemudian ubah sesuatu: masa, aktiviti, tahap kesukaran atau cara anda bertanya.
 
-1. **Lepaskan buat masa ini.** “Tak apa. Mungkin nanti.” Kemudian beralih kepada sesuatu yang lain tanpa mengeluh.
-2. **Cuba lagi kemudian.** Alzheimer's Association mencadangkan mencuba lagi kemudian, atau pada waktu yang berbeza dalam sehari.
-3. **Kecilkan.** Satu padanan dan bukan seluruh permainan. Satu tuala dan bukan sebakul pakaian. Lebih sedikit gambar, lebih sedikit pilihan, gambar dibiarkan kelihatan.
-4. **Tawarkan dua pilihan.** “Mahu tengok gambar burung atau dengar muzik?” Pilihan mengembalikan rasa kawalan.
-5. **Minta bantuan dan bukan persembahan.** “Boleh tolong saya asingkan ini?” atau “Boleh beritahu saya warna mana yang paling cantik?” Diperlukan terasa sangat berbeza daripada diuji.
-6. **Mulakannya sendiri.** Mulakan aktiviti di sebelah mereka tanpa bertanya. Ramai orang menyertai apabila sesuatu sudah berlaku, dan jika mereka tidak menyertai, anda tetap sudah meluangkan masa bersama.
-7. **Tukar kepada sesuatu yang fizikal atau menenangkan.** Berjalan sebentar, muzik, makanan ringan, melipat pakaian, atau jeda [pernafasan tenang](/games/calm-breathing/) bersama. NIA mencadangkan mengalihkan perhatian kepada muzik, buku atau berjalan.
-8. **Biarkan mereka melakukannya dengan cara mereka.** Jika mereka mahu bermain secara berbeza daripada peraturan, ikutkan sahaja. Alzheimer's Association menasihatkan agar bersikap fleksibel.
+1. **Biarkan dahulu buat masa ini.** "Tidak mengapa. Mungkin nanti." Kemudian teruskan dengan perkara lain tanpa mengeluh.
+2. **Cuba lagi kemudian.** Alzheimer's Association mencadangkan untuk mencuba lagi kemudian, atau pada waktu lain dalam sehari.
+3. **Kecilkan tugasan.** Satu padanan dan bukannya keseluruhan permainan. Satu tuala dan bukannya sebakul cucian. Kurangkan gambar, kurangkan pilihan, biarkan gambar kelihatan.
+4. **Tawarkan dua pilihan.** "Adakah anda mahu melihat gambar burung atau mendengar muzik?" Pilihan dapat mengembalikan rasa kawalan.
+5. **Minta bantuan dan bukannya meminta mereka menunjukkan kemampuan.** "Boleh anda tolong saya asingkan ini?" atau "Boleh anda beritahu warna mana yang paling cantik?" Berasa diperlukan sangat berbeza daripada berasa diuji.
+6. **Mulakan sendiri.** Mulakan aktiviti di sebelah mereka tanpa bertanya. Ramai orang akan turut serta apabila sesuatu sudah bermula, dan jika mereka tidak turut serta, anda tetap telah meluangkan masa bersama.
+7. **Beralih kepada sesuatu yang fizikal atau menenangkan.** Berjalan-jalan sebentar, mendengar muzik, makan snek, melipat pakaian, atau berehat seketika dengan [pernafasan tenang](/games/calm-breathing/) bersama-sama. NIA mencadangkan untuk mengalihkan perhatian kepada muzik, buku atau berjalan-jalan.
+8. **Biarkan mereka melakukannya dengan cara mereka.** Jika mereka mahu bermain dengan cara yang berbeza daripada peraturan, ikut sahaja. Alzheimer's Association menasihatkan supaya bersikap fleksibel.
 
-## Apakah yang patut saya katakan apabila mereka kecewa?
+## Apa yang patut saya katakan apabila mereka berasa kecewa?
 
-Perlahankan, rendahkan suara anda dan yakinkan mereka. [Panduan Alzheimer's Association tentang kegelisahan](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) mencadangkan berundur dan meminta kebenaran, menggunakan pernyataan yang tenang dan positif, dan menawarkan pilihan berpandu antara dua pilihan. Ungkapan yang sejajar dengan semangat itu:
+Perlahankan diri, rendahkan suara anda dan beri jaminan. [Panduan Alzheimer's Association tentang keresahan](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) mencadangkan untuk berundur dan meminta izin, menggunakan kata-kata yang tenang dan positif, serta menawarkan pilihan berpandu antara dua perkara. Contoh ayat dalam semangat yang sama:
 
-- “Maaf, yang ini menjengkelkan. Kita berhenti.”
-- “Awak buat okey. Saya ada di sini.”
-- “Ada masa untuk tolong saya dengan perkara lain?”
-- “Kita minum teh sahaja, nak?”
+- "Maaf, yang ini memang menjengkelkan. Mari kita berhenti."
+- "Anda baik-baik saja. Saya ada di sini."
+- "Adakah anda ada masa untuk membantu saya dengan perkara lain?"
+- "Bagaimana kalau kita minum teh?"
 
-Kemudian tamatkan aktiviti tanpa menjadikannya perkara besar. [Petua berkomunikasi](/caregiving/communication-tips/) kami mempunyai lebih banyak tentang apa yang boleh dikatakan.
+Kemudian tamatkan aktiviti itu tanpa menjadikannya isu besar. [Tip komunikasi](/caregiving/communication-tips/) kami mempunyai lebih banyak cadangan tentang apa yang boleh dikatakan.
 
-## Apakah yang patut saya elakkan?
+## Apa yang patut saya elakkan?
 
-Sesetengah reaksi yang wajar cenderung memburukkan keadaan.
+Sesetengah reaksi yang datang secara semula jadi cenderung memburukkan keadaan.
 
-- **Berbalah atau mendesak.** “Alah, sekali lagi sahaja” atau “Awak kan suka ini” jarang membantu.
-- **Menyoal atau membetulkan.** “Awak tahu ini apa” atau “Bukan, yang itu salah” menambah tekanan.
-- **Mengambil hati.** NIA mengingatkan penjaga bahawa penyakit itu, bukan orang itu, yang menyebabkan perubahan ini.
-- **Mendesak atau tergesa-gesa.** Alzheimer's Association menasihatkan agar tidak meninggikan suara, menunjukkan kebimbangan, menyudutkan, mendesak, menahan, mengkritik, mengabaikan atau berbalah dengan orang itu, dan mengelakkan pergerakan mengejut di luar pandangan mereka.
-- **Menggunakan rasa bersalah.** “Saya dah sediakan semua ini untuk awak” membuat kedua-dua anda berasa lebih teruk.
-- **Melabel.** “Degil” atau “susah” menyembunyikan sebab sebenar dan menyukarkan penyelesaiannya.
+- **Bertengkar atau memaksa.** "Ayuh, satu lagi sahaja" atau "Anda suka aktiviti ini" jarang membantu.
+- **Menyoal atau membetulkan.** "Anda tahu apa ini" atau "Tidak, yang itu salah" menambah tekanan.
+- **Mengambilnya secara peribadi.** NIA mengingatkan penjaga bahawa penyakit ini, bukan orang itu, yang menyebabkan perubahan ini.
+- **Terlalu rapat atau tergesa-gesa.** Alzheimer's Association menasihatkan supaya tidak meninggikan suara, menunjukkan panik, memerangkap, terlalu rapat, menahan, mengkritik, mengabaikan atau bertengkar dengan orang itu, dan mengelakkan pergerakan mengejut di luar pandangan mereka.
+- **Menggunakan rasa bersalah.** "Saya sudah sediakan semua ini untuk anda" hanya membuat anda berdua berasa lebih teruk.
+- **Melabel.** "Degil" atau "susah dikawal" menyembunyikan sebab sebenar dan menyukarkan penyelesaian.
 
-## Bagaimanakah saya boleh mengetahui apa di sebalik penolakan yang berulang?
+## Bagaimana saya boleh mengetahui punca penolakan yang berulang?
 
-Simpan catatan ringkas selama seminggu atau dua. NIA menyatakan bahawa menjejaki perubahan tingkah laku boleh membantu penjaga dan penyedia penjagaan kesihatan mengenali corak dan mencari puncanya.
+Catat nota ringkas selama satu atau dua minggu. NIA menyatakan bahawa menjejaki perubahan tingkah laku boleh membantu penjaga dan penyedia penjagaan kesihatan mengenal pasti corak dan memahami puncanya.
 
 Catatkan:
 
-- waktu dalam sehari;
-- apa yang anda tawarkan dan bagaimana anda bertanya;
-- apa yang berlaku di sekeliling anda (bunyi bising, tetamu, televisyen);
-- bagaimana mereka tidur, makan dan minum, dan bila kali terakhir mereka ke bilik air;
+- waktu;
+- apa yang anda tawarkan dan cara anda bertanya;
+- apa yang berlaku di sekeliling anda (bunyi bising, pelawat, televisyen);
+- cara mereka tidur, makan dan minum, serta bila kali terakhir mereka ke tandas;
 - sebarang ubat baharu atau penyakit baru-baru ini.
 
-Corak sering muncul dengan cepat: penolakan yang hanya berlaku selepas pukul 4 petang, hanya dengan permainan tertentu, atau hanya apabila televisyen dipasang. [Panduan tingkah laku demensia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) Family Caregiver Alliance menyatakannya dengan ringkas: kita tidak dapat mengubah orang itu, tetapi kita boleh mengubah tingkah laku kita sendiri dan persekitaran.
+Corak sering kelihatan dengan cepat: penolakan yang hanya berlaku selepas pukul 16:00, hanya dengan permainan tertentu, atau hanya apabila televisyen dibuka. [Panduan Family Caregiver Alliance tentang tingkah laku demensia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) menjelaskannya dengan ringkas: kita tidak boleh mengubah orang itu, tetapi kita boleh mengubah tingkah laku kita sendiri dan persekitaran.
 
-## Bilakah saya patut berbincang dengan doktor tentang penolakan atau kekecewaan?
+## Bilakah saya perlu bercakap dengan doktor tentang penolakan atau kekecewaan?
 
-Berbincanglah dengan doktor apabila tingkah laku berubah secara mendadak, dengan cepat, atau bersama tanda penyakit. NIA menyatakan bahawa perubahan tingkah laku yang mendadak atau turun naik dengan cepat, terutamanya jika orang itu baru mengalami jangkitan atau pertukaran ubat, patut dibawa kepada perhatian doktor dengan segera.
+Bercakap dengan doktor apabila tingkah laku berubah secara mendadak, cepat, atau bersama tanda-tanda penyakit. NIA menyatakan bahawa perubahan tingkah laku yang mendadak atau berubah-ubah dengan cepat, terutamanya jika orang itu mengalami jangkitan atau perubahan ubat baru-baru ini, perlu dimaklumkan kepada doktor dengan segera.
 
 Hubungi doktor mereka dengan segera jika anda perasan:
 
-- kekeliruan secara mendadak atau perubahan besar dalam beberapa jam atau hari;
-- tanda kesakitan, seperti berkerut menahan sakit, melindungi bahagian badan, atau sukar bergerak yang baharu;
-- demam atau tanda jangkitan yang lain;
-- ubat baharu atau yang diubah diikuti dengan perubahan tingkah laku;
-- hilang minat terhadap hampir segala-galanya, mudah menangis atau menarik diri yang berlarutan lebih daripada beberapa minggu;
-- enggan makan atau minum.
+- kekeliruan yang mendadak atau perubahan besar dalam beberapa jam atau hari;
+- tanda-tanda kesakitan, seperti meringis, melindungi bahagian badan tertentu, atau kesukaran baharu untuk bergerak;
+- demam atau tanda-tanda jangkitan lain;
+- ubat baharu atau ubat yang diubah diikuti dengan perubahan tingkah laku;
+- hilang minat terhadap hampir segala-galanya, mudah menangis atau menarik diri selama lebih daripada beberapa minggu;
+- menolak makan atau minum.
 
-Alzheimer's Association mengesyorkan pemeriksaan perubatan yang menyeluruh bagi sesiapa yang mengalami gejala tingkah laku, terutamanya apabila ia muncul secara mendadak. Family Caregiver Alliance juga menasihatkan menyemak dengan doktor dahulu, kerana masalah tingkah laku mungkin mempunyai punca perubatan. Jangan mula, berhenti atau mengubah sebarang ubat tanpa berbincang dengan doktor atau ahli farmasi.
+Alzheimer's Association mengesyorkan pemeriksaan perubatan menyeluruh bagi sesiapa yang mempunyai gejala tingkah laku, terutamanya apabila ia muncul secara mendadak. Family Caregiver Alliance juga menasihatkan supaya berunding dengan doktor terlebih dahulu, kerana masalah tingkah laku mungkin mempunyai punca perubatan. Jangan mula, berhenti atau menukar apa-apa ubat tanpa berbincang dengan doktor atau ahli farmasi.
 
-Jika sesiapa berada dalam bahaya atau terdapat tanda kecemasan perubatan, hubungi nombor kecemasan tempatan anda. NIA mencadangkan memberitahu pengendali panggilan bahawa orang itu menghidap demensia.
+Jika sesiapa dalam bahaya atau terdapat tanda-tanda kecemasan perubatan, hubungi 911. NIA mencadangkan untuk memberitahu pengendali bahawa orang itu mempunyai demensia. Untuk langkah keselamatan segera apabila kemarahan menjadi fizikal, lihat [panduan kami tentang kemarahan dan tingkah laku agresif dalam demensia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Adakah tidak mengapa jika kita tidak melakukan apa-apa langsung?
+## Adakah tidak mengapa jika kami tidak melakukan apa-apa?
 
-Ya. Pada sesetengah hari aktiviti yang terbaik ialah tiada aktiviti: duduk bersama, berpegang tangan, mendengar piring hitam kegemaran, atau melihat burung di luar tingkap. Itu bukan kegagalan. [Panduan bermain bersama](/caregiving/how-to-play-together/) kami menerangkan mengapa berhenti awal, atau tidak memulakannya langsung, boleh menjadi keputusan yang tepat.
+Ya. Ada hari apabila aktiviti terbaik ialah tiada aktiviti: duduk bersama, berpegangan tangan, mendengar lagu kegemaran, atau melihat burung di luar tingkap. Itu bukan satu kegagalan. [Panduan kami tentang bermain bersama](/caregiving/how-to-play-together/) menerangkan mengapa berhenti awal, atau tidak memulakan langsung, boleh menjadi keputusan yang tepat.

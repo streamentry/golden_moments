@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Ntango moto oyo azali na bokɔnɔ bwa bɔɔngɔ aboyi mosala"
+seoTitle: "Soki moto na bokɔnɔ bwa bɔɔngɔ aboyi mosala"
+description: "Mpo na nini moto oyo azali na bokɔnɔ bwa bɔɔngɔ akoki koboya to kosilika na mosala, nini okoki komeka, nini osengeli koboya kosala, mpe ntango mbongwana ya mbala moko esengeli monganga."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Ntango moto oyo azali na bokɔnɔ bwa bɔɔngɔ alobi te, ndima yango na kimya
+  mpe meka lisusu na sima to pesa ye mosala mosusu. Mbala mingi koboya ezali
+  na ntina: mosala emonani makasi to lokola ya bana, azali na bolɛmbu, na
+  mpasi, na nzala, to mingongo mingi etungisi ye. Koswana na ye te mpe kotinda
+  ye te. Sala ete ezala pɛtɛɛ, pesa ye baponɔmi mibale, to senga ye asalisa yo.
+  Mbongwana ya ezaleli oyo eyebani mbala moko to ekómi noki, mingi mingi sima
+  ya bokɔnɔ ya mikrobe to kisi ya sika, esengeli monganga noki.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "« Te » ezali eyano oyo esengeli kozwa lokumu, ezali te likambo oyo esengeli kolonga."
+  - "Mbala mingi koboya ezali na ntina: mosala ezali makasi mingi, emonani lokola ya bana, bolɛmbu, bokɔnɔ, kozala malamu te, to mingongo mingi."
+  - "Longwa mwa moke, zela, mpe meka lisusu na sima, na ngonga mosusu, to na lolenge ya pɛtɛɛ koleka."
+  - "Kosenga lisalisi na ye esalaka malamu koleka kosenga ye alakisa makoki na ye."
+  - "Koswana te, kotinda te, kotuna mituna ya komeka boyebi te, mpe kobongisa te. Talá mpe soki ozali kokende mbangu to kozingela ye mingi."
+  - "Mbongwana ya ezaleli oyo eyebani mbala moko to ekómi noki, mingi mingi soki ezali na bokɔnɔ ya mikrobe to kisi ya sika, esengeli komonana na monganga mbala moko."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Ezali malamu soki atiki misala nyonso?"
+    a: "Iyo, na mokolo moko boye. Kofanda elongo, koyoka miziki to kotala makambo oyo ezali koleka ekoki kokoka. Soki moto atiki kosepela na eloko nyonso na boumeli ya baposo, yebisa monganga na ye, mpo ete mawa ya motema, mpasi to mikakatano mosusu ya nzoto ekoki kozala na kati."
+  - q: "Mpo na nini aboyaka makambo oyo azalaki kolinga liboso?"
+    a: "Mosala oyo azalaki kolinga ekoki kokóma likambo ya kosilisa ntango esengeli sikoyo makoki oyo bokɔnɔ bwa bɔɔngɔ ekómisi makasi, mpe moto akoki koyoka soni. Meka eteni ya pɛtɛɛ ya mosala yango, ndakisa kopona ba bouton na esika ya kosona bilamba, to kotala bilili ya elanga na esika ya kolona."
+  - q: "Nasengeli komeka kondimisa ye?"
+    a: "Te. Kotinda moto asala eloko oyo bokɔnɔ bwa bɔɔngɔ ekómisi makasi eyebani lokola eloko oyo ekoki kobimisa mobulu. Ndima eyano na ye, bongola lisolo, mpe pesa yango lisusu na sima to na lolenge mosusu."
+  - q: "Ntango nini mbongwana ya ezaleli ezali likambo ya lombangu?"
+    a: "Benga 911 soki moto azali na likama to azali na bilembo ya likambo ya lombangu ya bokolongono. Soki mobulu na makanisi to ezaleli ebongwani noki na boumeli ya bangonga to mikolo, mingi mingi soki ezali na fievre, bokɔnɔ ya mikrobe to kisi ya sika, benga monganga na ye mbala moko."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Obongisi nyonso, opesi lisano to otambola mwa moke, mpe oyoki « Te ». To mosala ebandi malamu kasi esuki na tableti oyo batindi mosika mpe liloba ya makasi. Ekoki kolembisa mpenza, mpe ezali likambo oyo emonanaka mingi. Koboya mpe kosilika mbala mingi ezali nsango, kasi ezali te motó makasi. Kososola nsango yango ekoki kolakisa yo nini okoki komeka sima.
 
-## Why does someone with dementia refuse activities?
+## Mpo na nini moto oyo azali na bokɔnɔ bwa bɔɔngɔ aboyaka misala?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Mbala mingi ezali na ntina, ata soki moto akoki te koloba yango na maloba. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) elobi ete koboya ekoki kolakisa ete moto akoki te kosala mosala yango to azali kobanga komeka. Bantina oyo emonanaka mingi ezali:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Emonani makasi mingi.** Sikoyo mosala esengeli makoki oyo bokɔnɔ bwa bɔɔngɔ ekómisi makasi, mpe kokweya liboso ya moto mosusu epesaka soni.
+- **Emonani lokola ya bana.** Mikóló bamoni bilili ya bana mingi, mongongo ya lokola bana mpe misala oyo emonani lokola esalemi mpo na bana.
+- **Bolɛmbu.** Bato mingi bazalaka na nguya moke na nsuka ya mokolo. Talá [misala ya kimya na nsuka ya pokwa](/caregiving/late-day-restlessness/).
+- **Kozala malamu te na nzoto.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) etangi mpasi, kozanga mpɔngi, mikakatano ya komona to koyoka, kokangama ya libumu, nzala, mposa ya mai mpe bapasitele ya makambo ya kisi ya sika lokola bantina oyo ekoki kobimisa pasi ya motema.
+- **Makambo mingi ezali koleka.** Televizyó ya makasi, masolo ebele to esika oyo etondi na bato ekoki kolembisa mpenza.
+- **Koyoka lokola batindi ye.** NIA elobeli kotinda moto asala eloko oyo bokɔnɔ bwa Alzheimer ekómisi makasi mingi, to kokanisa makambo to bato, lokola ntina ya mobulu.
+- **Mawa ya motema.** Kotika kosepela na makambo ekoki kozala elembo ya mawa ya motema, mpe esengeli kolobelama na monganga.
+- **Alingi te kaka.** Mikóló bazali na ndingisa ya koloba te.
 
-## What should I try when they say no?
+## Nini nasengeli komeka ntango alobi te?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Ndima eyano na ye na kimya, mpe bongola eloko moko: ngonga, mosala, ndenge ya pɛtɛɛ, to lolenge oyo otuni.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Tika yango sikoyo.** « Ezali malamu. Tokoki komeka na sima. » Na nsima, kende na eloko mosusu kozanga kolelalela.
+2. **Meka lisusu na sima.** Alzheimer's Association epesi toli ya komeka lisusu na sima, to na ngonga mosusu ya mokolo.
+3. **Sala yango moke.** Eloko moko oyo ekokani na esika ya lisano mobimba. Elenge moko na esika ya kitunga ya bilamba. Bilili moke, baponɔmi moke, bilili oyo etikali polele.
+4. **Pesa baponɔmi mibale.** « Olingi totalela bilili ya bandɛkɛ to toyoka mwa miziki? » Kopona epesaka moto makanisi ya kozala na bokonzi likolo ya likambo moko.
+5. **Senga lisalisi na esika ya komeka makoki.** « Okoki kosalisa ngai kopona biloko oyo? » to « Okoki koyebisa ngai langi nini ezali kitoko koleka? » Koyoka ete ozali na tina ezali ndenge mosusu koleka koyoka ete bazali komeka yo.
+6. **Bandá yango yo moko.** Bandá mosala pembeni na ye kozanga kotuna. Bato mingi bakɔtaka na kati ntango eloko moko esi ebandi, mpe soki bakɔti te, ata bongo bolekisi ntango elongo.
+7. **Bongwana na eloko ya nzoto to ya kimya.** Kotambola mwa moke, miziki, mwa bilei, kopika bilamba, to kopema na kimya elongo na [kopema ya kimya](/games/calm-breathing/). NIA epesi toli ya kobongola likebi na miziki, buku to kotambola.
+8. **Tika ye asala na ndenge na ye.** Soki alingi kosakana na ndenge mosusu na oyo mibeko elobi, ndima yango. Alzheimer's Association epesi toli ya kozala flexible.
 
-## What should I say when they get frustrated?
+## Nini nasengeli koloba ntango asiliki?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Kita na lombangu, kitisa mongongo na yo mpe pesá ye kimya. [Litambwisi ya Alzheimer's Association mpo na mobulu](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) epesi toli ya kolongwa mwa moke mpe kotuna ndingisa, kosalela maloba ya kimya mpe ya malamu, mpe kopesa baponɔmi mibale. Maloba ya lolenge yango:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- « Limbisa ngai, oyo ezali kotungisa. Tótika yango. »
+- « Ozali kosala malamu. Nazali awa. »
+- « Ozali na ntango ya kosalisa ngai na eloko mosusu? »
+- « Tolinga komɛla mwa tii na esika na yango? »
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Na nsima, suka mosala kozanga kosala yango lokola likambo monene. [Toli na biso ya kosolola](/caregiving/communication-tips/) ezali na makambo mosusu mpo na nini koloba.
 
-## What should I avoid?
+## Nini nasengeli koboya kosala?
 
-Some natural reactions tend to make things worse.
+Biyano mosusu oyo eyaka na makanisi ekoki kobakisa makambo mabe.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Koswana to kotinda.** « Yaka, lisusu moko kaka » to « Olingaka oyo » esalisaka mingi te.
+- **Kotuna mituna ya komeka boyebi to kobongisa.** « Oyebi eloko oyo ezali » to « Te, oyo ezali mabe » ebakisaka mikakatano.
+- **Kozwa yango lokola likambo ya yo moko.** NIA ekanisi babateli ete bokɔnɔ, kasi moto te, nde ebimisaka mbongwana oyo.
+- **Kozingela ye mingi to kokende mbangu.** Alzheimer's Association epesi toli ya kotombola mongongo te, kolakisa bobangi te, kokanga moto na esika moko te, kozingela ye mingi te, kopekisa ye te, kopamela te, kobwaka te to koswana te, mpe koboya mikakatano ya mbala moko liboso na ye.
+- **Kosalela koyokisa ye mabe.** « Nabongisaki nyonso mpo na yo » esalaka ete bino mibale bomiyoka mabe.
+- **Kopesa ba etikɛti.** « Motó makasi » to « makasi mpo na kosala elongo » ebombaka ntina ya solo mpe ekomisaka yango mpasi mpo na kosilisa.
 
-## How can I find out what is behind repeated refusals?
+## Ndenge nini nakoki koyeba nini ezali sima ya koboya oyo ezali kozongela?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Koma mwa makambo moke na boumeli ya pɔsɔ moko to mibale. NIA elobi ete kolanda mbongwana ya ezaleli ekoki kosalisa babateli mpe bato ya bokolongono bámona ndenge likambo ezali koleka mpe bázwa ntina na yango.
 
-Jot down:
+Koma:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- ngonga ya mokolo;
+- nini opesaki mpe ndenge nini otunaki;
+- nini ezalaki koleka zingazinga na yo (makelele, bapaya, televizyó);
+- ndenge alalaki, aliaki mpe amɛlaki, mpe mbala ya nsuka oyo akendeki na twaleti;
+- kisi nyonso ya sika to bokɔnɔ ya sika.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Mbala mingi ndenge ya makambo emonanaka noki: koboya oyo esalemaka kaka sima ya 4 p.m., kaka na lisano moko, to kaka ntango televizyó ezali kopela. [Buku ya Family Caregiver Alliance mpo na kososola bizaleli ya bokɔnɔ bwa bɔɔngɔ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) elobi na pete: tokoki te kobongola moto, kasi tokoki kobongola bizaleli na biso moko mpe esika oyo azali.
 
-## When should I talk to a doctor about refusal or frustration?
+## Ntango nini nasengeli koloba na monganga mpo na koboya to kosilika?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Loba na monganga ntango ezaleli ebongwani mbala moko, noki, to elongo na bilembo ya bokɔnɔ. NIA elobi ete mbongwana ya ezaleli oyo eyebani mbala moko to ekómi noki, mingi mingi soki moto azalaki na bokɔnɔ ya mikrobe to abongoli kisi kala mingi te, esengeli koyebisama monganga mbala moko.
 
-Contact their doctor promptly if you notice:
+Benga monganga na ye noki soki omoni:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- mobulu ya makanisi oyo eyebani mbala moko to mbongwana monene na boumeli ya bangonga to mikolo;
+- bilembo ya mpasi, lokola kokamwa, kobatela eteni moko ya nzoto, to mikakatano ya sika ya koningana;
+- fievre to bilembo mosusu ya bokɔnɔ ya mikrobe;
+- kisi ya sika to oyo ebongwani sima ya mbongwana ya ezaleli;
+- kotika kosepela na pene nyonso, kolela mingi to komibongola na boumeli ya baposo koleka mibale;
+- koboya bilei to mayi.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association epesi toli ya kotala nzoto nyonso na monganga mpo na moto nyonso oyo azali na mikakatano ya ezaleli, mingi mingi ntango eyebani mbala moko. Family Caregiver Alliance epesi mpe toli ya kotuna monganga liboso, mpo ete mikakatano ya ezaleli ekoki kozala na ntina ya bokolongono. Kobanda te, kotika te to kobongola kisi moko te kozanga koloba na monganga to moto ya kisi.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Soki moto azali na likama to ezali na bilembo ya likambo ya lombangu ya bokolongono, benga 911. NIA epesi toli ya koyebisa moto oyo azwi kobenga ete moto yango azali na bokɔnɔ bwa bɔɔngɔ. Mpo na matambe ya libateli ya mbala moko ntango kanda ekómi makasi na nzoto, talá [litambwisi na biso mpo na kanda mpe mobulu ya nzoto na bokɔnɔ bwa bɔɔngɔ](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## Ezali malamu soki tosali eloko moko te?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Iyo. Mikolo mosusu mosala ya malamu koleka ezali kozanga mosala: kofanda elongo, kosimba maboko, koyoka nzembo oyo alingaka, to kotala bandɛkɛ libanda ya lininisa. Yango ezali te kozanga kolonga. [Litambwisi na biso mpo na kosakana elongo](/caregiving/how-to-play-together/) elimboli mpo na nini kotika liboso, to kobanda ata te, ekoki kozala ekateli ya malamu.

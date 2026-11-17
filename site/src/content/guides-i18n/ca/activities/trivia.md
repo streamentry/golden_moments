@@ -1,33 +1,34 @@
 ---
-title: "Trivial fàcil per a persones grans amb demència, sense pressió"
-seoTitle: "Trivial fàcil per a persones grans amb demència: 50 preguntes"
-description: "50 preguntes fàcils de trivial per a persones grans amb demència, amb opcions de resposta i temes per parlar, i com fer-lo sense que ningú se senti posat a prova."
+title: "Trivia fàcil per a gent gran amb demència, sense pressió"
+seoTitle: "Preguntes de trivia per a gent gran amb demència, amb respostes"
+description: "50 preguntes fàcils de trivia per a gent gran amb demència, amb opcions de resposta i idees de conversa, i com fer-ho perquè ningú se senti posat a prova."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  El trivial fàcil per a persones grans amb demència funciona quan sembla una
-  conversa i no una prova. Pregunti pel que es va aprendre fa molt de temps, com
-  cançons antigues, refranys, festes i la vida de cada dia, i ofereixi sempre dues
-  o tres opcions. Doni la resposta de bon grat, no assenyali ningú, deixi de banda
-  la puntuació i faci servir cada resposta per començar una història. Les preguntes
-  d’«això o allò», sense resposta incorrecta, encaixen amb les fases avançades.
+  La trivia fàcil per a gent gran amb demència funciona millor quan sembla una
+  conversa, no una prova. Pregunteu sobre coses apreses fa molt de temps, com
+  cançons antigues, dites, festes i la vida quotidiana, i ofriu sempre dues o
+  tres opcions. Doneu la resposta amb naturalitat, no assenyaleu ningú, no feu
+  puntuacions i aprofiteu cada resposta per iniciar una història. Les preguntes
+  del tipus «això o allò», sense resposta incorrecta, van bé en etapes més
+  avançades.
 keyPoints:
-  - "Pregunti per coses conegudes de fa molt de temps: cançons, refranys, festes, menjars i la vida de cada dia d’anys enrere."
-  - "Ofereixi dues o tres opcions perquè la resposta es pugui reconèixer en lloc de recordar-la."
-  - "Digui la resposta amb calidesa i passi endavant. Qualsevol suposició que comenci una història és una bona suposició."
-  - "Sense punts, sense equips que competeixin, sense cridar una sola persona. Que les respostes surtin de tota la sala."
-  - "Quan triar entre respostes es fa difícil, passi a preguntes d’«això o allò» sense resposta correcta."
+  - "Pregunteu sobre coses molt conegudes: cançons, dites, festes, menjar i la vida quotidiana d'anys enrere."
+  - "Oferiu dues o tres opcions perquè la resposta es pugui reconèixer en lloc de recordar-se de memòria."
+  - "Digueu la resposta amb amabilitat i seguiu endavant. Qualsevol resposta que enceti una història és una bona resposta."
+  - "Sense punts, sense equips que es competeixin, sense demanar a una persona concreta. Deixeu que les respostes surtin de tot el grup."
+  - "Quan costa triar entre respostes, canvieu a preguntes del tipus «això o allò», sense resposta correcta."
 faq:
-  - q: "És el trivial una bona activitat per a persones amb demència?"
-    a: "Pot ser-ho, si es dirigeix amb suavitat. L’Alzheimer’s Foundation of America l’inclou entre les activitats per a la fase inicial. Mantingui les preguntes sobre temes coneguts de fa molt de temps, ofereixi opcions, no posi mai una persona en evidència, i tracti les respostes com una manera d’entrar en conversa, no com una prova."
-  - q: "Quins temes funcionen millor en el trivial per a la demència?"
-    a: "Les coses après fa molt de temps solen funcionar millor: cançons populars i cantants de la joventut de la persona, refranys coneguts, festes, menjars, esports i la vida de cada dia, com els repartiments de llet i els telèfons de disc. Eviti les notícies recents i qualsevol cosa que requereixi recordar alguna cosa dita abans en la sessió."
-  - q: "Com faig el trivial en una residència sense avergonyir ningú?"
-    a: "Llegeixi cada pregunta a tot el grup, mostri o digui les opcions, i doni la benvinguda a respostes de qualsevol. No cridi ningú per nom ni porti la puntuació. Digui la resposta amb un somriure, digui el que s’hagi suposat, i faci una pregunta de seguiment com «Qui d’aquí hi ha anat mai a un drive-in?» per convertir-ho en històries."
-  - q: "Què puc fer en lloc del trivial en les fases avançades?"
-    a: "Canviï a preguntes sense resposta incorrecta, com «Cafè o te?» o «Platja o muntanya?», i a acabar plegats refranys o cançons conegudes. Mirar imatges i descriure-les plegats també funciona bé."
+  - q: "La trivia és una bona activitat per a persones amb demència?"
+    a: "Pot ser-ho, si es fa amb calma. L'Alzheimer's Foundation of America inclou la trivia entre les activitats per a l'etapa inicial. Feu preguntes sobre temes molt coneguts, oferiu opcions, no poseu mai una persona en el punt de mira i feu servir les respostes com a punt de partida per conversar, no com una prova."
+  - q: "Quins temes funcionen millor a la trivia sobre demència?"
+    a: "Solen funcionar millor les coses apreses fa molt de temps: cançons i cantants populars de la joventut de la persona, dites conegudes, festes, menjar, esports i la vida quotidiana, com el repartiment de llet o els telèfons de disc. Eviteu les notícies recents i qualsevol cosa que requereixi recordar quelcom d'abans durant la mateixa sessió."
+  - q: "Com puc fer una trivia en una residència sense fer sentir ningú incòmode?"
+    a: "Llegiu cada pregunta a tot el grup, mostreu o digueu les opcions i accepteu respostes de qualsevol persona. No crideu individus ni feu puntuacions. Digueu la resposta amb un somriure, fos quina fos la resposta, i feu una pregunta de seguiment com «Algú aquí havia anat mai a un autocine?» per convertir-ho en històries."
+  - q: "Què puc fer en lloc de la trivia en etapes més avançades?"
+    a: "Canvieu a preguntes sense resposta incorrecta, com «Cafè o te?» o «Platja o muntanya?», i a acabar dites o cançons conegudes tots junts. També funciona bé mirar imatges i descriure-les junts."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-El trivial és una de les activitats de grup més demanades en residències i centres de dia, i moltes famílies també hi juguen a la taula de la cuina. Fet de la manera habitual, amb punts i una sola persona que respon, pot fer que una persona amb demència se senti posada en evidència. Fet amb suavitat, és una manera animada d’escoltar històries. Tot seguit hi ha 50 preguntes fàcils amb opcions de resposta i quelcom de què parlar per a cadascuna, i després com dirigir una sessió.
+La trivia és una de les activitats en grup més demanades a residències i a centres de dia, i moltes famílies també la juguen a la taula de casa. Si es fa de la manera habitual, amb punts i una persona que respon, pot fer que algú amb demència se senti observat. Si es fa amb calma, és una manera molt viva d'escoltar històries. A continuació trobareu 50 preguntes fàcils amb opcions de resposta i alguna cosa per conversar en cada cas, i després com fer una sessió.
 
-## Com fer que el trivial funcioni per a una persona amb demència?
+## Com fer que la trivia funcioni per a una persona amb demència?
 
-Feu-lo sobre reconèixer i recordar coses de fa molt de temps, i faci que cada resposta sigui benvinguda.
+Feu que es tracti de reconèixer i recordar coses de fa molt de temps, i que qualsevol resposta sigui benvinguda.
 
-1. **Pregunti pel passat llunyà.** L’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) diu que el símptoma inicial més habitual de l’Alzheimer és tenir dificultats per recordar informació que s’acaba d’aprendre. Les cançons, els refranys i la vida de cada dia de fa dècades sovint són un terreny més fàcil.
-2. **Ofereixi sempre opcions.** Triar la resposta correcta entre dues o tres és molt més fàcil que produir-la de no res.
-3. **Llegeixi les preguntes en veu alta i mostri-les en lletra gran.** Una pissarra o una tauleta alçada ajuden les persones que senten menys bé.
-4. **Doni la resposta de bon grat.** Si ningú no ho sap, digui-la amb calidesa i passi endavant. Mai no digui «Vinga, això ho sap vostè».
-5. **Sense puntuació.** Ni per a persones individuals ni per a taules. Si la gent en vol un número, porti un sol total del grup.
-6. **Mai no cridi una sola persona.** Deixi que les respostes surtin de qualsevol. En un a un, respongui plegat: «Crec que és el piano. Què en pensa vostè?»
-7. **Faci servir el punt de conversa.** La resposta és l’inici, no el final. Les històries són l’objectiu real.
-8. **Mantingui-ho curt.** Deu preguntes amb històries pel mig són suficients.
+1. **Pregunteu sobre el passat llunyà.** L'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) diu que el símptoma inicial més comú de l'Alzheimer és tenir dificultats per recordar informació apresa recentment. Les cançons, les dites i la vida quotidiana de fa dècades solen ser un terreny més fàcil.
+2. **Doneu sempre opcions.** Triar la resposta correcta entre dues o tres és molt més fàcil que trobar-la de cop.
+3. **Llegiu les preguntes en veu alta i mostreu-les en gran.** Una pissarra o una tauleta aixecada ajuda les persones que hi veuen o hi senten menys bé.
+4. **Doneu la resposta amb naturalitat.** Si ningú ho sap, digueu-la amb amabilitat i seguiu endavant. Mai no digueu «Vinga, això ho saps».
+5. **Sense puntuació.** Ni per a persones ni per a taules. Si algú vol un número, anoteu només un total del grup.
+6. **No crideu mai una persona concreta.** Deixeu que les respostes surtin de qualsevol persona. En una conversa d'un a un, responeu plegats: «Jo crec que és el piano. I tu, què penses?»
+7. **Aprofiteu la idea per conversar.** La resposta és el començament, no el final. Les històries són l'objectiu real.
+8. **Mantingueu-ho curt.** Deu preguntes amb històries entremig ja en tenen prou.
 
-El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) resumeix la regla bàsica amb simplicitat: estigui atent a la frustració i procuri que la persona se senti amb èxit. L’[Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inclou el trivial entre les activitats per a la fase inicial. En la fase mitjana, mantingui’s en dues opcions i recolzi-s’hi en els punts de conversa. Més endavant, passi a les preguntes d’«això o allò» que hi ha més avall.
+El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ho resumeix així: observeu si hi ha frustració i assegureu-vos que la persona se senti capaç. L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inclou la trivia entre les activitats per a l'etapa inicial. En l'etapa mitjana, mantingueu-vos en dues opcions i recolzeu-vos en les idees de conversa. Més endavant, passeu a les preguntes del tipus «això o allò» que trobareu més avall.
 
-## Trivial de música i espectacles
+## Trivia de música i entreteniment
 
-La resposta és en **negreta**. Adapti aquestes preguntes a la persona: algú que va créixer amb el Motown voldrà uns cantants diferents d’algú que va créixer amb les big bands.
+La resposta està en **negreta**. Adapteu aquestes preguntes a la persona: algú que va créixer amb la Motown voldrà cantants diferents d'algú que va créixer amb les grans orquestres.
 
-| Pregunta | Opcions | Parlin-ne |
+| Pregunta | Opcions | Per conversar |
 | --- | --- | --- |
-| Qui era conegut com el rei del rock and roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Va veure alguna vegada Elvis a la televisió? |
-| Quin cantant tenia el sobrenom d’Ol’ Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Quina cançó de Sinatra li agrada més? |
-| Bing Crosby somiava amb un «white...» | **Nadal**, casament, casa | Canti’n una línia plegats |
-| Louis Armstrong cantava «What a Wonderful...» | Dia, **Món**, Vida | Què fa que el món li sembli meravellós? |
-| «Over the Rainbow» la va cantar Judy Garland en quina pel·lícula? | **The Wizard of Oz**, Gone with the Wind, Singin’ in the Rain | On veia les seves pel·lícules preferides? |
-| Qui feia de Lucy a «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Quins programes veien junts en família? |
-| Quin vaquer muntava un cavall anomenat Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Jugava a vaquers de petit? |
-| Qui va presentar «The Tonight Show» durant 30 anys? | Ed Sullivan, **Johnny Carson**, Bob Hope | Es quedava despert fins tard per veure la televisió? |
-| Quin instrument té 88 tecles? | Guitarra, **piano**, trompeta | Algú de la família tocava? |
-| Quin ball es compta un-dos-tres, un-dos-tres? | **Vals**, twist, tango | On anava a ballar? |
+| Qui era conegut com el rei del rock and roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Vas veure mai Elvis a la televisió? |
+| Quin cantant tenia el sobrenom d'Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Quina cançó de Sinatra t'agrada més? |
+| Bing Crosby va somiar amb un Nadal blanc... | **Nadal**, casament, casa | Canteu un tros junts |
+| Louis Armstrong cantava «What a Wonderful...» | Day, **World**, Life | Què fa meravellós el món per a tu? |
+| «Over the Rainbow» la va cantar Judy Garland a quina pel·lícula? | **El mag d'Oz**, Allò que el vent s'endugué, Cantant sota la pluja | On veies les teves pel·lícules preferides? |
+| Qui va fer de Lucy a «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Quins programes mirava la vostra família plegada? |
+| Quin vaquer muntava un cavall que es deia Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Jugaves a vaquers de petit o petita? |
+| Qui va presentar «The Tonight Show» durant 30 anys? | Ed Sullivan, **Johnny Carson**, Bob Hope | Et quedaves despert o despert fins tard per mirar la televisió? |
+| Quin instrument té 88 tecles? | Guitarra, **piano**, trompeta | Algú de la teva família tocava algun instrument? |
+| Quin ball es compta un-dos-tres, un-dos-tres? | **Vals**, twist, tango | On anaves a ballar? |
 
-Per a més informació sobre música, vegi [activitats amb música per a la demència](/activities/music/).
+Per saber-ne més sobre música, consulteu [activitats musicals per a la demència](/activities/music/).
 
-## Trivial de la vida quotidiana
+## Trivia de la vida quotidiana
 
-| Pregunta | Opcions | Parlin-ne |
+| Pregunta | Opcions | Per conversar |
 | --- | --- | --- |
-| Abans dels frigorífics, moltes cases mantenien els aliments freds en una... | **Icebox**, forn, golfes | Qui portava el gel? |
-| Qui portava la llet fins a la porta en ampolles de vidre? | El carter, **el lleter**, el repartidor de diaris | Què més es portava a casa? |
-| Com es marcava un telèfon de disc? | Prement botons, **girant una roda**, parlant-hi | Parli’m del telèfon de casa seva |
-| Quina empresa va fabricar el Model T? | **Ford**, Chevrolet, Buick | Parli’m d’un cotxe que li agradés |
-| On es podia trobar un soda jerk? | **Una barra de refrescos**, una fleca, un banc | Què demanava al taulell? |
-| Quina joguina és una molla metàl·lica que pot baixar les escales? | Yo-yo, **Slinky**, hula hoop | Quines joguines li agradaven molt? |
-| Un drive-in era un lloc per veure... | **Pel·lícules des del cotxe**, partits de pilota, desfilades | Amb qui hi anava? |
-| De qui és la cara del bitllet d’un dòlar? | Lincoln, **George Washington**, Jefferson | Què podia comprar un dòlar en aquella època? |
-| De qui és la cara de la moneda d’un cèntim? | **Abraham Lincoln**, Washington, Franklin | Estalviava cèntims en un pot en aquells temps? |
-| De quin color és normalment un autobús escolar? | Vermell, **groc**, blau | Com anava vostè a l’escola? |
+| Abans de les neveres, moltes cases conservaven el menjar fred en una... | **Nevera de gel**, forn, golfes | Qui portava el gel? |
+| Qui portava la llet a la porta en ampolles de vidre? | El carter, **el lleter**, el repartidor de diaris | Què més portaven a casa? |
+| Com es marcava un telèfon de disc? | Prement botons, **girar una rodeta**, parlant-hi | Explica'm com era el telèfon de casa teva |
+| Quina empresa va fer el Model T? | **Ford**, Chevrolet, Buick | Explica'm un cotxe que t'agradés |
+| On trobaves un «soda jerk»? | **En un bar de refrescos**, en una fleca, en un banc | Què demanaves al taulell? |
+| Quin joguet és una molla metàl·lica que pot baixar escales? | Io-io, **Slinky**, hula hoop | Quins joguets t'encantaven? |
+| Un autocine era un lloc per veure... | **Pel·lícules des del cotxe**, partits, desfilades | Amb qui hi anaves? |
+| Qui surt a la cara del bitllet d'un dòlar? | Lincoln, **George Washington**, Jefferson | Què compraves amb un dòlar en aquell temps? |
+| Qui surt a la cara de la moneda d'un cèntim? | **Abraham Lincoln**, Washington, Franklin | Estalviaves cèntims en un pot? |
+| De quin color és normalment un autobús escolar? | Vermell, **groc**, blau | Com anaves a l'escola? |
 
 ## Festes, natura i llocs
 
-| Pregunta | Opcions | Parlin-ne |
+| Pregunta | Opcions | Per conversar |
 | --- | --- | --- |
-| Quina festa és el quart dijous de novembre? | Labor Day, **Dia d’Acció de Gràcies**, Memorial Day | Què sempre hi havia a la taula? |
-| Per a quina festa es fan els jack-o’-lantern? | **Halloween**, Pasqua, Nadal | Expliqui’m com es feia el Halloween on va créixer |
-| El Fourth of July celebra la Declaració de... | Drets, **Independència**, Llibertat | On veia els focs artificials? |
-| El Dia de la Mare és en quin mes? | Abril, **maig**, juny | Com celebrava la família? |
-| Quantes estrelles té la bandera dels Estats Units? | 48, **50**, 52 | La bandera va tenir 48 estrelles fins al 1959. Qualsevol de les dues respostes és un bon record |
-| Quin oceà es troba a la costa Est? | Pacífic, **Atlàntic**, Àrtic | Va anar mai a la platja? |
-| En quina ciutat és l’Estàtua de la Llibertat? | Boston, **Nova York**, Filadèlfia | Ha estat mai a Nova York? |
-| Què fan les abelles? | Llet, **mel**, seda | Mel a la torrada o al te? |
-| Com s’anomena la cria d’una vaca? | Poltre, **vedell**, cabrit | Va viure mai a prop d’una granja? |
-| Quina flor alta i groga és famosa per girar-se cap al sol? | Rosa, **gira-sol**, tulipa | Què creixia al seu jardí? |
-| Quants dies té un any de traspàs? | 365, **366**, 360 | Parli’m d’un aniversari que recordi |
-| Quina estació ve després de l’hivern? | Tardor, **primavera**, estiu | Quina és la seva estació preferida? |
+| Quina festa cau el quart dijous de novembre? | Festa del Treball, **Dia d'Acció de Gràcies**, Dia dels Caiguts | Què no podia faltar mai a la taula? |
+| Les carabasses tallades es fan per a quina festa? | **Halloween**, Pasqua, Nadal | Explica'm com era Halloween on vas créixer |
+| El quart de juliol celebra la Declaració d'... | Drets, **Independència**, Llibertat | On miraves els focs artificials? |
+| El Dia de la Mare és en quin mes? | Abril, **maig**, juny | Com ho celebrava la vostra família? |
+| Quantes estrelles hi ha a la bandera dels Estats Units? | 48, **50**, 52 | La bandera va tenir 48 estrelles fins al 1959. Qualsevol resposta és un bon record |
+| Quin oceà hi ha a la costa est? | Pacífic, **Atlàntic**, Àrtic | Has anat mai a la platja? |
+| A quina ciutat hi ha l'Estàtua de la Llibertat? | Boston, **Nova York**, Filadèlfia | Has estat mai a Nova York? |
+| Què fan les abelles? | Llet, **mel**, seda | Mel amb torrada o amb te? |
+| Una cria de vaca es diu... | Poltre, **vedell**, cabrit | Has viscut mai a prop d'una granja? |
+| Quina flor alta i groga és famosa per girar-se cap al sol? | Rosa, **gira-sol**, tulipa | Què plantaves al jardí? |
+| Quants dies té un any de traspàs? | 365, **366**, 360 | Explica'm un aniversari que recordis |
+| Quina estació ve després de l'hivern? | Tardor, **primavera**, estiu | Quina és la teva estació preferida? |
 
-## Trivial de menjars i esports
+## Trivia de menjar i esports
 
-| Pregunta | Opcions | Parlin-ne |
+| Pregunta | Opcions | Per conversar |
 | --- | --- | --- |
-| Les panses són... assecades. | Pruna, **raïm**, cirera | Posaven panses a l’entrepà? |
-| Les prunes seques són... | **Pruna**, figa, poma | Qui de la família estimava les prunes seques? |
-| La mantega de cacauet i... | **Melmelada**, formatge, pernil | Crocant o suau? |
-| El guacamole es fa sobretot amb... | Pèsols, **alvocats**, cogombres | Quines salses sortien a les festes? |
-| Quin pastís és preferit en el Dia d’Acció de Gràcies? | **De carbassa**, de llimona, de cirera | Quin pastís feia vostè? |
-| Quants jugadors té un equip de beisbol al camp? | 7, **9**, 11 | Per quin equip animava? |
-| Quants strikes fan un out al beisbol? | Dos, **tres**, quatre | Va jugar mai a pilota? |
-| Babe Ruth era famós per quin esport? | Boxa, **beisbol**, golf | Anava als partits de pilota? |
-| Quants forats té un camp de golf estàndard? | 9, **18**, 24 | Ha jugat mai a golf, o a minigolf? |
-| En quin esport es marca un touchdown? | **Futbol americà**, hoquei, bàsquet | Qui mirava el futbol americà a casa seva? |
+| Les panses són... dessecades. | Prunes, **raïm**, cireres | Portaves panses a l'esmorzar? |
+| Les prunes seques són... dessecades. | **Prunes**, figues, pomes | A qui de la teva família li encantaven les prunes seques? |
+| Mantega de cacauet i... | **Melmelada**, formatge, pernil | Cruixent o suau? |
+| El guacamole es fa principalment amb... | Pèsols, **alvocats**, cogombres | Quines salses sortien a les festes? |
+| Quin pastís és típic del Dia d'Acció de Gràcies? | **Pastís de carbassa**, pastís de llimona, pastís de cirera | Quin pastís feies? |
+| Quants jugadors té un equip de beisbol al camp? | 7, **9**, 11 | Per a quin equip anaves? |
+| Quants strikes fan una eliminació al beisbol? | Dos, **tres**, quatre | Has jugat mai a beisbol? |
+| Babe Ruth era famós per quin esport? | Boxa, **beisbol**, golf | Anaves a veure partits de beisbol? |
+| Quants forats té un camp de golf estàndard? | 9, **18**, 24 | Has jugat mai a golf o a minigolf? |
+| A quin esport s'anota un touchdown? | **Futbol americà**, hoquei, bàsquet | Qui mirava futbol americà a casa vostra? |
 
-## Refranys coneguts
+## Dites conegudes
 
-Acabar un refrany fa servir un llenguatge après fa molt de temps i sovint surt sense esforç. El nostre joc [Acabar el refrany](/games/finish-the-saying/) en té moltes més, amb un toc per mostrar qualsevol final.
+Acabar una dita mobilitza un llenguatge après fa molt de temps i sovint surt amb facilitat. El nostre joc [Acaba la dita](/games/finish-the-saying/) en té moltes més, amb un toc per mostrar qualsevol final.
 
-| Refrany | Opcions | Parlin-ne |
+| Dita | Opcions | Per conversar |
 | --- | --- | --- |
-| «Una poma al dia fa fora el...» | **metge**, la pluja, el gat | Qui li deia això? |
-| El matiner atrapa el... | Autobús, **cuc**, tren | És vostè matiner? |
-| No compti els pollastres abans que... | **neixin**, dormin, cantin | La seva família tenia gallines? |
-| Un cèntim estalviat és un cèntim... | **guanyat**, perdut, gastat | Qui era l’estalviador de la família? |
-| La casa és on hi ha... | **el cor**, el jardí, la cuina | Què fa que un lloc se senti com a casa? |
-| Més val tard que... | d’hora, **mai**, lamentar-ho | Qui arribava sempre tard? |
-| Tot núvol té una... de plata | **Vora**, cullera, moneda | Expliqui’m alguna sort que hagi tingut |
-| Els fets parlen més fort que... | **les paraules**, la música, el tro | Parli’m d’algú que digués això |
+| Una poma al dia, manté el metge... | **Lluny**, la pluja lluny, el gat lluny | Qui t'ho deia sovint? |
+| Qui madruga, Déu l'... | Agafa l'autobús, **ajuda**, agafa el tren | Ets de matí o de tarda? |
+| No comptis els pollets abans que... | **Neixin**, dormin, canti | La vostra família criava gallines? |
+| Un cèntim estalviat és un cèntim... | **Guanyat**, perdut, gastat | Qui estalviava més a la vostra família? |
+| Casa és on és el... | Jardí, **cor**, cuina | Què fa que un lloc sembli casa? |
+| Més val tard que... | D'hora, **mai**, perdó | Qui arribava sempre tard? |
+| No hi ha mal que per bé no... | **Vingui**, sigui, s'acabi | Explica'm una bona sort que vas tenir |
+| Els fets parlen més que les... | **Paraules**, la música, el tro | Explica'm algú que deia això |
 
-## Preguntes d’«això o allò», sense resposta incorrecta
+## Preguntes del tipus «això o allò» sense resposta incorrecta
 
-Aquestes preguntes encaixen a totes les fases, també a les més avançades, perquè no hi ha res a encertar. Pregunti, escolti i comparteixi també la seva resposta.
+Aquests van bé en qualsevol etapa, també en les més avançades, perquè no hi ha res que es pugui fallar. Pregunteu, escolteu i compartiu també la vostra resposta.
 
 - Cafè o te?
 - Platja o muntanya?
 - Gossos o gats?
 - Estiu o hivern?
-- Pastís de fruita o pastís?
+- Pastís o coca?
 - Ballar o mirar?
-- Sortida o posta de sol?
+- Albada o posta de sol?
 - Porxo davanter o pati del darrere?
 - Ràdio o discos?
 - Creps o ous?
 - Roses o margarides?
 - Viatge en tren o viatge en cotxe?
 
-Per a preguntes de conversa amb imatges, provi les nostres [Targetes de conversa](/games/conversation-cards/) per imprimir.
+Per a preguntes de conversa que acompanyen imatges, proveu les nostres [targetes de conversa](/games/conversation-cards/) per imprimir.
 
-## Com dirigeixo una sessió de trivial en una residència o un grup?
+## Com fer una sessió de trivia en una residència o en grup?
 
-1. **Assegui la gent perquè pugui veure i sentir bé.** Audiòfons posats, ulleres posades, televisió apagada.
-2. **Presenti-ho com una conversa.** «Tinc unes preguntes sobre els vells temps, i segur que vostès en saben més que jo.»
-3. **Llegeixi cada pregunta dues vegades** i mostri les opcions en lletra gran.
-4. **Doni la benvinguda a les respostes de qualsevol lloc de la sala.** Repeteixi les bones respostes perquè tothom les senti.
-5. **Digui la resposta per a tothom,** i després faci la pregunta de conversa a tota la sala.
-6. **Segueixi l’energia del grup.** Si una pregunta comença deu minuts d’històries, deixi-la.
-7. **Acabi amb una cançó o una ronda d’«això o allò»,** perquè tothom acabi amb alguna cosa fàcil.
+1. **Assegieu les persones perquè puguin veure i sentir bé.** Audiòfons posats, ulleres posades, la televisió apagada.
+2. **Presenteu-ho com una conversa.** «Tinc unes preguntes sobre els temps passats, i apostaria que en sabeu més que jo.»
+3. **Llegiu cada pregunta dues vegades i mostreu les opcions en gran.**
+4. **Accepteu respostes des de qualsevol lloc de la sala.** Repetiu les bones respostes perquè tothom les senti.
+5. **Digueu la resposta per a tothom** i després feu la pregunta de conversa a tot el grup.
+6. **Seguiu l'energia.** Si una pregunta desperta deu minuts d'històries, deixeu-la.
+7. **Acabeu amb una cançó o una ronda d'«això o allò»**, perquè tothom acabi amb alguna cosa fàcil.
 
-Per a altres formats de grup, inclosos el bingo d’imatges i les cantades, vegi [activitats de grup per a residències](/activities/care-home-groups/).
+Per a altres formats en grup, com el bingo amb imatges i els cants conjunts, consulteu [activitats en grup per a residències](/activities/care-home-groups/).
 
-## Quan cal canviar el pla?
+## Quan cal canviar el pla
 
-Si algú sembla preocupat, es queda en silenci o diu «No ho sé» més d’una vegada, faci-ho més fàcil: passi a dues opcions, respongui plegat, o canviï a preguntes d’«això o allò». Si el grup prefereix parlar d’una sola pregunta tota la tarda, és un èxit. Mai no es tractava de les respostes correctes. Es tractava de passar temps en bona companyia.
+Si algú sembla preocupat, es calla o diu «no ho sé» més d'una vegada, feu-ho més fàcil: deixeu només dues opcions, responeu plegats o canvieu a preguntes del tipus «això o allò». Si el grup prefereix parlar d'una sola pregunta tota la tarda, això també és un èxit. L'objectiu mai no eren les respostes correctes. Era passar una estona en bona companyia.

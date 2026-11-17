@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Masano ya kokundola mpo na bato na bokono ya kobosana"
+seoTitle: "Masano ya malamu ya kokundola mpo na bokono ya kobosana"
+description: "Masano ya kokokanisa bilili mpo na bakolo na bokono ya kobosana, mpe ndenge ya kosakana na yango kozanga kotungisa moto: bilili polele, mwa bilembo, kozanga kotánga makoki, kosakana elongo."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Masano ya kokundola esalaka malamu mpo na bakolo oyo bazali kobika na bokono
+  ya kobosana soki etali kokundola te. Bosakana masano ya kokokanisa bilili na
+  kotikaka bilili polele, bosalela bilembo minei kino motoba, bosakana lokola
+  ekipi mpe botika kotánga makoki. Koyeba elili oyo ozali komona ezali pete
+  koleka kokundola oyo omoni liboso, yango wana bopona masano oyo nyonso ezali
+  komonana. Mokano ezali kosepela, kasi mbano te.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Masano ya bonkoko ya kokundola ebombaka bakarte, yango emekaka mpenza likambo oyo bokono ya kobosana ekomisaka mpasi. Botika bilili polele."
+  - "Mwa bilembo, bilili ya minene mpe kopona likambo moko na mbala moko esalaka ete lisano ezala malamu."
+  - "Bosakana lokola ekipi, bosalisa na ndenge ya kozongisa molɔngɔ mpe botika kotánga makoki. Moto moko te asengeli kotyama na kati ya mpasi."
+  - "Lisano moko te ya kokundola emonisami ete ekoki kosalisa, kokitisa mbangu, kopekisa to kosukisa bokono ya kobosana. Bosakana mpo ete ezali ntango ya malamu elongo."
+  - "Botika wana lisano ezali naino esengo. Kosolola na tina ya bilili ezali mpe mbano ya malamu."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Lisano nini ya kokundola ezali malamu mpo na moto oyo azali kobika na bokono ya kobosana?"
+    a: "Lisano ya kokokanisa oyo ezali na bilili ya minene, oyo eyebani malamu, mpe oyo ekoki kotikala polele, lokola Picture pairs na bilembo minei to motoba. Kozwa elili ya ndenge moko na oyo ozali komona ekoki kopesa esengo kozanga komeka bokundoli ya moke-moke. Find the same ezali pete koleka, na elili moko ya kokokanisa na baponami mibale kino minei."
+  - q: "Masano ya kokundola esalisaka na bokono ya kobosana?"
+    a: "Lisano moko te ya kokundola emonisami ete ekoki kosalisa, kokitisa mbangu to kosukisa bokono ya kobosana; talisi moko ya Cochrane emonaki ete bilembeteli oyo etali boyekoli ya makanisi na ordinatɛrɛ ezali moke mingi mpo na koloba soki ekoki kopekisa bokono ya kobosana. Kasi masano ekoki kozala ndenge ya malamu ya kolekisa ntango elongo. Bopona yango mpo na esengo mpe kozala elongo."
+  - q: "Nasengeli kosakana Concentration ya bonkoko elongo na moto oyo azali na bokono ya kobosana?"
+    a: "Na ebandeli, bato mosusu bakoki naino kosepela na yango, mingimingi soki bakarte ezali mingi te. Soki kokundola esika bakarte ezalaki ekomi kopesa mpasi to mabe, bobongola bakarte polele mpe boluka bilili ya ndenge moko elongo. Na bongo kokokanisa etikali, kasi komeka bokundoli elongolami."
+  - q: "Masano nini ya kokundola ezali malamu mpo na bakolo na kati ya etuluku?"
+    a: "Picture bingo na mobengi oyo ezali na ekran, kosilisa maloba ya boyebi elongo na mongongo makasi, mpe bakarte ya masolo esalaka malamu mpo na bituluku. Bosakana kino karte nyonso etondi mpe boboya kobenga soki nani azwaki eyano, mpo ete moto moko te amiyoka lokola baponami ye moko."
+  - q: "Ezali na masano ya ofele ya kokundola mpo na bakolo na internet?"
+    a: "Iyo. Masano oyo ezali na site oyo, na ndakisa Picture pairs, Find the same, Photo pairs mpe Picture puzzle, ezali ya ofele, esɛngaka kokomisa nkombo te mpe esalaka na batelefone, na batableti mpe na baordinatɛrɛ. Moko te ezali na ngonga to kotánga makoki."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Soki oluki « masano ya kokundola mpo na bakolo », mingi ya oyo okokuta esalemi mpo na bato oyo balingi komeka makanisi na bango makasi: bakarte ebombami, ngonga oyo ezali kotánga, bakisika mpe makoki. Mpo na moto oyo azali kobika na bokono ya kobosana, makambo yango ekoki kobongola lisano na komekama na likambo oyo ekómi mpasi. Masano ya ndenge moko ekoki kosakanama na ndenge ya boboto koleka. Lokasa oyo emonisi ndenge ya kosala bongo, mpe elobeli masano oyo ekoki kosala malamu na etape mokomoko.
 
-## Why do classic memory games frustrate people with dementia?
+## Mpo na nini masano ya bonkoko ya kokundola epesaka bato oyo bazali na bokono ya kobosana mpasi?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Mpo ete etali kobomba sango ya sika na makanisi, mpe mbala mingi yango nde likambo ya liboso oyo Alzheimer's, ntina oyo emonanaka mingi ya bokono ya kobosana, ebebisaka. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) elobi ete elembo oyo emonanaka mingi na ebandeli ya Alzheimer's ezali mpasi ya kokundola makambo ya sika oyo moto ayekoli. Na Concentration ya bonkoko, obalolaka bakarte mibale, okundolaka esika ezalaki, mpe osalelaka yango sima ya mwa ntango. Yango ezali sango ya sika, oyo esengeli kobombama mpe kokundolama.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Bakisa ngonga, kotánga makoki to mongongo mpo na eyano ya mabe, mpe moto akoyebisama makambo oyo akoki lisusu kosala te, liboso ya moto oyo alingaka. Bato mingi bakotikaka na kimya mpenza mposa ya kosakana.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Koyeba eloko oyo ozali komona ezali likambo mosusu, mpe mbala mingi ezali pete koleka. Kolakisa kopo ya tii ya mibale wana nyonso mibale ezali komonana epesaka esengo. Yango wana mayele ezali ya kobatela kokokanisa, kasi kolongola komekama ya bokundoli.
 
-## How do you make a memory game gentle?
+## Ndenge nini okoki kosala ete lisano ya kokundola ezala ya boboto?
 
-These adjustments work for card games, board games and games on a screen.
+Mbongwana oyo esalaka mpo na masano ya bakarte, masano ya mesa mpe masano ya na ekran.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Botika bilili polele.** Kokokanisa bilili oyo ozali komona ezali naino lisano ya solo, mpe mbala mingi epesaka esengo.
+2. **Bosalela bilembo mingi te.** Bobanda na bilili mibale to misato ya ndenge moko. Bobakisa mosusu kaka soki ezali pete mingi mpe moto alingi lisusu.
+3. **Bopona bilili ya minene, oyo eyebani mpe ya mikóló.** Kopo ya tii, fololo, masuwa. Bililingi ya bana te, mpe bilili oyo etondi na makambo mingi te.
+4. **Bosakana lokola ekipi.** « Tóluka bambwa » na esika ya « ezali molɔngɔ na yo. » Bozongisaka molɔngɔ ya kolakisa mpe ya kosalisa.
+5. **Botika kotánga makoki.** Moto moko te asengeli kolonga. Soki moto atuni, koloba pete « tosilisi yango » ekoki.
+6. **Boboya koluka mbangu liboso ya ngonga.** Ngonga te, mpe kopusa te kati ya milɔngɔ.
+7. **Bosolola na tina ya bilili.** « Tala masuwa wana. Okendaki kosala mobembo na masuwa mokolo moko? » Mbala mingi masolo yango nde eteni ya malamu koleka.
+8. **Botika na ntango ya malamu.** Bosukisa sima ya kokokanisa moko, wana lisano ezali naino esengo.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) epesaka toli ya ndenge moko: bopona mosala oyo ekokani na makoki ya moto, botala soki mpasi to mabe ezali, mpe bosala ete moto amiyoka ete azwi elonga.
 
-## Gentle memory and matching games to try
+## Masano ya boboto ya kokundola mpe ya kokokanisa mpo na komeka
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (kokokanisa bilili oyo ezali komonana)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) ezali lisano ya kokokanisa oyo ezali na bilili ya minene mpe bilembo 4 kino 12. Bilili ekoki kotikala komonana, yango wana ezali koluka bilili ya ndenge moko, kasi kokundola esika ezalaki te. Bobanda na bilembo minei. Mpo na moto oyo azali na ebandeli ya bokono mpe alingi mwa mpasi moke, okoki kobongola na **Bilili ebombami**, kasi zonga na komonisa bilili mbala moko soki lisano etiki kozala esengo.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) emonisaka elili moko na likoló mpe baponami mibale kino minei na nse. Finá oyo ekokani. Ezali lisano ya kokokanisa oyo eleki pete na site mpe ebongi mpo na bato oyo bamona ete etanda mobimba ezali na bilili mingi, bakisa mpe mingi oyo bazali na biteni ya sima ya bokono, soki moto mosusu azali pembeni na bango.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (lisano ya kokokanisa bafoto ya libota)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) ebongolaka bafoto oyo oponi na lisano ya kokokanisa: mbwa, elanga, ndako ya pembeni ya mai. Bilembo mpe bisika oyo eyebani mbala mingi ebimisaka masolo koleka bilili nyonso ya momesano. Bafoto etikalaka na navigateur na yo mpe etindamaka esika moko te.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) esɛngaka kotia elili mokomoko na kitunga oyo ebongi, lokola na kikuku to na elanga. Kotya biloko na molɔngɔ esalelaka boyebi ya kala ya ndenge mokili esalaka, kasi bokundoli ya moke-moke te.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) ekataka elili na biteni 4 to 9. Finá biteni mibale mpo na kobongola bisika na yango kino elili ekóma mobimba. Elili mobimba etikalaka na ekran lokola litambwisi.
 
-### Real cards on the table
+### Bakarte ya solo na mesa
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Osengeli na ekran te. Zwá bilili ya ndenge moko na maboke mibale ya bakarte to na liboke ya bakarte ya bilili. Tanda yango polele na milɔngɔ mibale mpe luka bilili ya ndenge moko elongo. Sima, okoki kotya yango na molɔngɔ na ndenge ya langi to ya lolenge. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) etángi masano ya bakarte mpe masano ya mesa kati na misala mpo na etape ya ebandeli.
 
-## Which memory games suit each stage?
+## Masano nini ya kokundola ebongi na etape mokomoko?
 
-Stages are loose labels. Go by what the person enjoys today.
+Biteni ya bitape ezali bilembo ya pete. Botala makambo oyo moto alingi lelo.
 
-| Stage | Games that often fit | How to set them up |
+| Etape | Masano oyo mbala mingi ebongi | Ndenge ya kobongisa yango |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Ebandeli | Picture pairs, Photo pairs, Picture puzzle na biteni 9, masano ya bakarte oyo eyebani | Tika ye apona. Bilembo ekoki kobaluka soki alingi bongo; longola kotánga makoki soki etungisi ye |
+| Kati | Picture pairs na bilembo 4 kino 6 oyo ezali polele, Find the same, Sort together | Bilili ezali ntango nyonso komonana. Vanda pembeni na ye mpe bozongisaka molɔngɔ ya kosalisa |
+| Sima | Find the same na baponami 2, kotala elili moko ya monene elongo | Ntango mokuse mpenza. Yo osimbi tableti; ye alakisaka, to atali mpe ayoki kaka |
 
-## Do memory games help with dementia?
+## Masano ya kokundola esalisaka na bokono ya kobosana?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Lisano moko te ya kokundola emonisami ete ekoki kosalisa, kokitisa mbangu to kosukisa bokono ya bokosana. [Talisi ya Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) na tina ya boyekoli ya makanisi na ordinatɛrɛ mpo na bato oyo bazali na mikakatano ya moke ya bokundoli emonaki ete bilembeteli ezali moke mingi mpo na koloba soki ekoki kopekisa bokono ya kobosana. Lisolo na biso na tina ya [masano ya makanisi mpe bokono ya bokosana](/brain-health/brain-games/) elimboli oyo bolukiluki emonisi mpe oyo emonisi te.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Yango ezali ntina te ya kotika masano. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) epesi toli ya kotya likebi na esengo, kasi na mbano te. Minite zomi ya kokokanisa bilili mpe kosolola na tina na yango ekoki kozala eteni ya malamu ya mokolo.
 
-## What about memory games for seniors without dementia?
+## Bongo masano ya kokundola mpo na bakolo oyo bazali na bokono ya bokosana te?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Soki moto ya mobange oyo azali na mikakatano ya bokundoli te asepelaka na masano ya ngonga, makoki mpe bakisika ya mpasi, likambo moko te ezali mabe na yango. Kasi kotyela yango elikya te ete ekobatela na bokono ya bokosana; lisano moko te emonisami ete ekoki kosala bongo. Mindɔndɔ ya boboto oyo ezali awa likoló esalaka mpe malamu soki mabota ndenge na ndenge esakani elongo: koko to nkaka oyo azali kobika na bokono ya bokosana mpe munkana na ye bakoki kokokanisa bilili lokola ekipi, kozanga ete moko na moko amekama.
 
-## When should you stop or change the game?
+## Ntango nini osengeli kotika to kobongola lisano?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Kopema makasi, kotindika tableti mosika, koloba « nakoki te » to komonana lokola ozali na mitungisi nyonso ezali bilembo oyo elakisi ete esengeli kosala ete ezala pete koleka to kotika. Meka bilembo moke, bongola bilili polele, kende na [Find the same](/games/find-the-same/), to tala kaka bilili mpe bosolola. Soki alingi kosakana te, yango mpe ezali malamu. Lisolo na biso na tina ya [ndenge ya kosakana elongo](/caregiving/how-to-play-together/) ezali na toli mosusu na tina ya kobongisa mbangu mpe ndenge ya kosalisa.

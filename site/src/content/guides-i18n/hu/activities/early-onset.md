@@ -1,33 +1,34 @@
 ---
-title: "Tevékenységek korai demenciánál: ötletek aktív felnőtteknek"
-seoTitle: "Tevékenységek korai demenciánál: ötletek"
-description: "Tevékenységek korai demenciánál, ha a tünetek 65 éves kor előtt jelentkeznek: hobbik, programok, fiatalkori zene és támogatás."
+title: "Tevékenységek korai kezdetű demenciával élőknek"
+seoTitle: "Tevékenységek korai kezdetű demenciához"
+description: "Ötletek korai kezdetű demenciához, ha a tünetek 65 éves kor előtt kezdődnek: hobbik, programok, fiatalkori zene és támogatás hozzátartozóknak."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  A korai demencia 65 éves kor előtt kezdődik, gyakran akkor, amikor valaki még
-  dolgozik, vezet vagy gyermeket nevel. Őrizze meg a hobbikat és a barátságokat,
-  válasszanak olyan programokat, amelyek az ő életéhez illenek, használjanak
-  zenét és fényképeket az ő saját éveiből, és hagyják, hogy ő irányítsa a
-  terveket. A partnereknek és a felnőtt gyermekeknek is szükségük van
-  támogatásra; az Alzheimer's Association csoportokat működtet számukra.
+  A korai kezdetű demencia 65 éves kor előtt kezdődik, gyakran akkor, amikor az
+  érintett személy még dolgozik, vezet, vagy gyermekeket nevel. Őrizze meg a
+  hobbijait és barátságait, válasszanak olyan programokat, amelyek az ő
+  ízléséhez illenek, használjanak az ő éveiből származó zenét és fényképeket,
+  és hagyják, hogy ő irányítsa a terveket. A partnereknek és a felnőtt
+  gyermekeknek is szükségük lehet támogatásra, és az Alzheimer's Association
+  csoportokat szervez számukra.
 keyPoints:
-  - "A korai demencia 65 éves kor előtt kezdődik. Sokaknak úgy tűnik, hogy a koruk nem illik a felkínált tevékenységekhez."
-  - "Hagyja, hogy a demenciával élő személy dönthessen, attól kezdve, hogy melyik hobbit próbálja ki, odáig, hogy milyen programot tervezzen."
-  - "A 20-as, 30-as, 40-as és 50-es éveikből származó zene, fényképek és történetek gyakran többet jelentenek, mint az idősebb korral kapcsolatos tevékenységek."
-  - "Maradjanak aktívak és tartsák a kapcsolatokat, ha szeretnének, és inkább a tempót igazítsák, ne magát a tevékenységet cseréljék le."
-  - "A hozzátartozóknak, különösen a partnereknek és a felnőtt gyermekeknek, sokat segíthetnek a sorstársi támogató csoportok."
+  - "A korai kezdetű demencia 65 éves kor előtt kezdődik. Az érintettek gyakran úgy érzik, hogy az életkoruk nincs összhangban a felkínált tevékenységekkel."
+  - "Hagyja, hogy a demenciával élő személy döntsön, legyen szó egy új hobbi kipróbálásáról vagy egy program megtervezéséről."
+  - "A húszas és ötvenes éveikből származó zene, fényképek és történetek gyakran többet jelentenek, mint az idősebb életkorhoz kötődő tevékenységek."
+  - "Maradjanak aktívak és közösségben, amikor ehhez kedvük van, és inkább a tempót igazítsák, ne magát a tevékenységet cseréljék le."
+  - "A gondozóknak, különösen a partnereknek és a felnőtt gyermekeknek, jót tehet a sorstársi támogatás."
 faq:
-  - q: "Mi a korai demencia?"
-    a: "Olyan demencia, amely 65 éves kor előtt kezdődik. Az Alzheimer's Association szerint az Alzheimer-kór fiatalkori kezdetűnek számít, ha valakinél 65 éves kor alatt jelentkezik. A korai demencia ritkább, mint a későbbi életkorban kezdődő, de nem kivételes, és az élmény gyakran más: az érintett személy még dolgozhat, vezethet és gondoskodhat gyermekekről."
-  - q: "Milyen tevékenységek illenek valakihez, akinél korai demencia áll fenn?"
-    a: "A legjobban azok a tevékenységek működnek, amelyek a felnőtt életéhez illenek: egy jól ismert hobbi, séta egy baráttal, önkéntes munka, közös főzés a családnak, fiatalkori zene vagy kirándulás egy kedves helyre. Hagyja, hogy ő válasszon, és inkább az időtartamot és a társaságot igazítsák, ne magát a tevékenységet."
-  - q: "Hol találhat támogatást egy partner vagy felnőtt gyermek?"
-    a: "Az Alzheimer's Association ingyenes támogató csoportokat kínál hozzátartozóknak, köztük olyanokat is, akik fiatalkori demenciával élő személyről gondoskodnak. A szervezet éjjel-nappal hívható segélyvonalán, a 800.272.3900 számon érdeklődhet a csoportokról és a lehetőségekről."
-  - q: "Folytathatja-e a korai demenciával élő személy azokat a tevékenységeket, amelyeket szeret?"
-    a: "Igen, amíg biztonságosak, és ő szeretné folytatni őket. A hobbik, a közösségi alkalmak, a mozgás és a társas idő mind egy teljes élet részei. Igazítsák a körülményeket, kérjenek társaságot, tervezzenek pihenőt, és hagyják abba, amikor a tevékenység már nem esik jól."
+  - q: "Mi az a korai kezdetű demencia?"
+    a: "Olyan demencia, amely 65 éves kor előtt kezdődik. Az Alzheimer's Association szerint az Alzheimer-kór fiatalabb korban kezdődőnek számít, ha valakit 65 éves kora előtt érint. A korai kezdetű demencia ritkább, mint a későbbi életkorban kezdődő, de nem szokatlan, és a tapasztalat gyakran más: az érintett személy még dolgozhat, vezethet és szülői feladatokat láthat el."
+  - q: "Milyen tevékenységek lehetnek megfelelőek valakinek, aki korai kezdetű demenciával él?"
+    a: "A legjobban azok a tevékenységek működnek, amelyek illeszkednek a felnőtt életéhez: egy ismerős hobbi, séta egy baráttal, önkéntes munka, közös főzés a családnak, zene a saját fiatalkorából, vagy egy látogatás egy számára kedves helyre. Hagyja, hogy ő válasszon, és inkább a tevékenység hosszát vagy a társaságot igazítsák, ne magát a tevékenységet."
+  - q: "Hol találhat támogatást egy partner vagy egy felnőtt gyermek?"
+    a: "Az Alzheimer's Association ingyenes támogató csoportokat kínál gondozóknak, köztük olyan csoportokat is, amelyek a fiatalabb korban kezdődő demenciával élő személyt gondozóknak szólnak. A nap huszonnégy órájában elérhető segélyvonalukon, a 800.272.3900 számon érdeklődhet a csoportokról és a lehetőségekről."
+  - q: "Folytathatja-e a korai kezdetű demenciával élő személy a számára kedves tevékenységeket?"
+    a: "Igen, amíg biztonságos, és ő szeretné folytatni. A hobbik, a vallási közösségek, a mozgás és a társas együttlét mind egy teljes élet részei. Igazítsák a körülményeket, kérjenek meg valakit, hogy kísérje el, tervezzenek pihenőt, és hagyják abba, ha a tevékenység már nem esik jól."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -46,45 +47,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-A legtöbb demenciával kapcsolatos tájékoztató abból indul ki, hogy az érintett személy hetven- vagy nyolcvanéves. Ha valakinél negyven- vagy ötvenévesen állapítják meg a demenciát, a mindennapok egészen mások lehetnek. Lehet, hogy még dolgozik, jelzáloghitelt törleszt, tinédzserekről gondoskodik, vagy egy idős szülőjéről is. A tevékenységeknek ezt a felnőtt élethelyzetet kell figyelembe venniük. Ez az útmutató bemutatja, mi változik, mit érdemes kipróbálni, és hol találhatnak támogatást a partnerek és a felnőtt gyermekek.
+A demenciáról szóló információk többsége azt feltételezi, hogy az érintett személy a hetvenes vagy nyolcvanas éveiben jár. Ha valakinél negyvenes vagy ötvenes éveiben állapítják meg a demenciát, a mindennapok egészen másképp alakulhatnak. Lehet, hogy még dolgozik, hitelt törleszt, tinédzsereket nevel, vagy saját szülőjéről gondoskodik. A tevékenységeknek érdemes ehhez a felnőtt élethelyzethez igazodniuk. Ez az útmutató bemutatja, mi változik, mit érdemes kipróbálni, és hol találhatnak támogatást a partnerek és a felnőtt gyermekek.
 
-## Mi a korai demencia?
+## Mi az a korai kezdetű demencia?
 
-A korai demencia olyan demencia, amely 65 éves kor előtt kezdődik; néha fiatalkori kezdetű demenciának is nevezik. Az [Alzheimer's Association blogbejegyzése](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) szerint az Alzheimer-kór akkor számít fiatalkori kezdetűnek, ha 65 év alatti személynél jelentkezik, és megjegyzi, hogy egy ilyen fiatal személyről gondoskodni „egyedi nehézségekkel jár”. A tünetek hasonlóak lehetnek, mint későbbi életkorban, de az érintett elvárásai, feladatai és társas élete mások.
+A korai kezdetű demencia 65 éves kor előtt kezdődik, és néha fiatalabb korban kezdődő demenciának is nevezik. Az [Alzheimer's Association blogbejegyzése](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) szerint az Alzheimer-kór akkor tekinthető fiatalabb korban kezdődőnek, ha valakit 65 éves kora előtt érint, és megjegyzi, hogy egy ilyen fiatal személy gondozása „egyedi kihívásokkal járhat”. A tünetek hasonlóak lehetnek a későbbi életkorban megjelenő demenciához, de az érintett elvárásai, feladatai és társas élete mások.
 
-Mivel ritkábban fordul elő, előfordulhat, hogy a diagnózis tovább tart, és a családok úgy érzik, nincs kivel beszélniük erről. Gyakran megkönnyebbülést hoz, ha kiderül, hogy mások is hasonló helyzetben vannak.
+Mivel ritkábban fordul elő, előfordulhat, hogy az emberek tovább várnak a diagnózisra, és a családok úgy érezhetik, nincs kivel beszélniük erről. Gyakran megkönnyebbülést hoz annak tudata, hogy mások is hasonló helyzetben vannak.
 
-## Maradjon a felnőtt a tevékenység középpontjában
+## Hagyja, hogy a felnőtt irányítsa a tevékenységet
 
-A korai demenciával élő felnőttek általában nem szeretnék, ha gyermekként bánnának velük. A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) azt javasolja, hogy a tevékenységeket igazítsák ahhoz, amit a személy még meg tud tenni, és amit élvez. Valakinél, aki ötvenes éveiben jár, ez például jelentheti a következőket:
+A korai kezdetű demenciával élő felnőttek általában nem szeretnék, ha gyermekként bánnának velük. A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) azt javasolja, hogy a tevékenységeket ahhoz igazítsák, amit az érintett személy még meg tud tenni és élvezni tud. Valaki számára, aki az ötvenes éveiben jár, ez például a következőket jelentheti:
 
-- **Tartsa meg egy jól ismert hobbiját,** például a famegmunkálást, a sportot, a kártyázást, egy könyvklubot vagy egy kórust, egy kis segítséggel vagy rövidebb időtartamban.
-- **Sétáljon vagy kerékpározzon egy kísérővel,** olyan útvonalon, amelyet jól ismer.
-- **Főzzön együtt egy családi ételt,** úgy, hogy az érintett személy azokat a részeket végezze, amelyeket el tud látni.
-- **Vállaljon önkéntes munkát vagy segítsen** egy általa választott feladatban, például adományok válogatásában vagy egy iskolai rendezvényen.
-- **Tervezzen kirándulást** egy számára fontos helyre, kísérővel és egyszerű napirenddel.
-- **Töltsön időt unokákkal, unokaöccsekkel vagy unokahúgokkal,** közös játékkal vagy közös feladattal.
+- **Egy megszokott hobbi folytatása,** például famegmunkálás, sport, kártyázás, könyvklub vagy kórus, egy kis segítséggel vagy rövidebb időtartamban.
+- **Séta vagy kerékpározás egy kísérővel,** egy jól ismert útvonalon.
+- **Családi étel elkészítése,** úgy, hogy az érintett személy azokat a részeket végezze, amelyeket még kényelmesen el tud látni.
+- **Önkéntesség vagy segítségnyújtás** egy általa választott szerepben, például adományok válogatása vagy segítség egy iskolai eseményen.
+- **Kirándulás megtervezése** egy számára fontos helyre, kísérővel és egyszerű beosztással.
+- **Időtöltés unokákkal, unokaöccsökkel vagy unokahúgokkal,** közös játék vagy közös alkotás közben.
 
-Hagyja, hogy az érintett személy válasszon. A „Mit szeretnél ma délután csinálni?” kérdés tiszteletteljesebb, mint ha Ön döntene helyette.
+Hagyja, hogy az érintett személy válasszon. Sokkal tiszteletteljesebb megkérdezni: „Mit szeretnél ma délután csinálni?”, mint helyette dönteni.
 
-## Használjon zenét és emlékeket az ő saját éveiből
+## Használjanak az ő éveiből származó zenét és emlékeket
 
-A húszas, harmincas és negyvenes évekből származó zene és fényképek kellemes érzéseket és könnyed beszélgetést hozhatnak elő. A [zenei tevékenységekről szóló útmutatónk](/activities/music/) bemutatja, hogyan állíthat össze lejátszási listát, a [visszaemlékezést segítő tevékenységek](/activities/reminiscence/) pedig azt mutatják meg, hogyan oszthat meg fényképeket és történeteket kikérdezés nélkül. Felnőtteknek szóló játékhoz kipróbálhatja a [beszélgetőkártyákat](/games/conversation-cards/) nyitott kérdésekkel a munkáról, utazásokról, barátokról és családról.
+A húszas, harmincas és negyvenes évekből származó zene és fényképek kellemes érzéseket és könnyed beszélgetéseket hozhatnak elő. A [zenei tevékenységekről szóló](/activities/music/) útmutatónk elmagyarázza, hogyan állíthat össze egy lejátszási listát, az [emlékidéző tevékenységek](/activities/reminiscence/) pedig megmutatják, hogyan lehet fényképeket és történeteket megosztani kérdezgetés nélkül. Felnőtteknek szóló játékhoz kipróbálhatják a [beszélgetőkártyákat](/games/conversation-cards/), amelyek nyitott kérdéseket adnak a munkáról, utazásról, barátokról és családról.
 
-A családi fényképekből készített képpárok is jól működhetnek, mert a képek olyan embereket és helyeket mutatnak, amelyek fontosak az érintett személy számára. A [képpárok](/games/photo-pairs/) a fényképeket az adott eszköz böngészőjében tartja.
+A családi fényképekből készített képpárok is jól működhetnek, mert olyan embereket és helyeket ábrázolnak, amelyek fontosak az érintett személy számára. A [Photo pairs](/games/photo-pairs/) a fényképeket az adott eszköz böngészőjében tárolja.
 
 ## Munka, vezetés és mindennapi élet
 
-Sokan, akiknél korai demencia áll fenn, még dolgoznak, vezetnek vagy kezelik a pénzügyeiket. Ezek nem a szokásos értelemben vett tevékenységek, mégis befolyásolják, mit tud a személy megtenni. Beszéljen az orvosával a vezetés és a munkavégzés biztonságáról, és gondolják át, szeretne-e segítséget a pénzügyekhez vagy az időpontok intézéséhez. A cél az, hogy megőrizze a méltóságát, miközben az érintett személy annyira marad bevonva, amennyire szeretne.
+Sokan, akik korai kezdetű demenciával élnek, még dolgoznak, vezetnek vagy kezelik a pénzügyeiket. Ezek a szokásos értelemben nem tevékenységek, de befolyásolják, mit tud az érintett személy megtenni. Beszéljenek az orvosával a vezetés és a munkavégzés biztonságáról, és fontolják meg, szeretne-e segítséget a pénzügyekben vagy az időpontok intézésében. A cél az, hogy megőrizzék a méltóságát, miközben annyira bevonják, amennyire ő szeretné.
 
-A mindennapi rutinokról és az aktív életmódról a [kíméletes napi rutin](/activities/daily-routine/) és a [háztartási teendők mint tevékenységek](/activities/household-tasks/) útmutatókban olvashat.
+A mindennapi rutinról és az aktív életmódról további útmutatást talál a [kíméletes napi rutinról](/activities/daily-routine/) és a [háztartási feladatokról mint tevékenységekről](/activities/household-tasks/) szóló oldalakon.
 
 ## Támogatás partnereknek és felnőtt gyermekeknek
 
-A partnerek és a felnőtt gyermekek gyakran elszigetelődve érzik magukat. A gondozás a munka és a családi teendők mellett olyan lehet, mint egy második állás. Az Alzheimer's Association blogbejegyzése szerint a fiatalkori demenciával kapcsolatos csoportok résztvevői hasznosnak találták őket gyakorlati kérdésekben, például a jogi tervezésben, és abban is, hogy megértésre találtak. A bejegyzés azt is megemlíti, hogy az Association ingyenes támogató csoportokat működtet hozzátartozóknak, köztük olyanokat is, akik fiatalkori demenciával élő személyről gondoskodnak; három ilyen csoport keddenként és szerdánként online találkozik.
+A partnerek és a felnőtt gyermekek gyakran elszigetelődve érzik magukat. A gondozás a munka és a család mellett sokszor olyan, mint egy második állás. Az Alzheimer's Association blogbejegyzése arról számol be, hogy a fiatalabb korban kezdődő demenciával érintett családok gondozói hasznosnak találták a csoportokat gyakorlati kérdésekben, például a jogi tervezésben, és abban is, hogy megértésre találtak. Azt is megemlíti, hogy az Association ingyenes támogató csoportokat működtet gondozóknak, köztük olyanokat is, amelyek a fiatalabb korban kezdődő demenciával élő személyt gondozóknak szólnak, és ezek közül három kedden és szerdán online találkozik.
 
-A csoportokról az Association éjjel-nappal hívható segélyvonalán, a 800.272.3900 számon érdeklődhet. A [hozzátartozói önellátásról szóló útmutatónk](/caregiving/caregiver-self-care/) a pihenésről, a tehermentesítésről és a kimerülés jeleiről szól.
+A csoportokról az Association nap huszonnégy órájában elérhető segélyvonalán, a 800.272.3900 számon érdeklődhet. A [gondozói önellátásról szóló útmutatónk](/caregiving/caregiver-self-care/) a pihenésről, a tehermentesítésről és a kimerülés jeleiről szól.
 
-## A szakaszok továbbra is számítanak
+## A demencia szakasza továbbra is számít
 
-Az, hogy a demencia mely szakaszában van valaki, továbbra is meghatározza, mi segíthet. A kezdeti szakaszban a legtöbben némi változtatással folytatni tudják a szokásos tevékenységeiket; erről további ötleteket talál a [korai szakaszban ajánlott tevékenységek](/activities/early-stage/) útmutatóban. Később a tevékenységek egyszerűbbé és érzékszervi alapúvá válnak, ahogy a [késői szakaszban ajánlott tevékenységek](/activities/late-stage/) útmutatóban olvasható. Igazítsa a tevékenységet ahhoz, ahogyan az érintett személy változik, és amikor csak tudja, kérdezze meg, mit szeretne.
+A demencia szakasza továbbra is befolyásolja, mi lehet hasznos. A korai szakaszban a legtöbben némi módosítással folytatni tudják a szokásos tevékenységeiket, erről a [korai szakaszban javasolt tevékenységek](/activities/early-stage/) útmutatóban talál további ötleteket. Később a tevékenységek egyszerűbbé és érzékszervi élményekre épülővé válhatnak, ahogy a [késői szakaszban javasolt tevékenységek](/activities/late-stage/) oldalon olvasható. Igazítsák a tevékenységet az érintett személy változásaihoz, és amikor csak lehet, kérdezzék meg tőle, mit szeretne.

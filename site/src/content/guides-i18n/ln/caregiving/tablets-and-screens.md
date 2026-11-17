@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Kobongisa tableti to telefone mpo na bokono ya kobosana"
+seoTitle: "Kobongisa tableti to telefone mpo na bokono ya kobosana"
+description: "Ndako na ndako mpo na kobongisa tableti to telefone: kokanga na aplikasio moko, mikomá minene, kokanga mayebisi, écran ya ebandeli ya pete, mongongo mpe kobatela makambo ya moto ye moko."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Sala ete tableti to telefone ezala pete liboso ya kopesa yango. Kanga yango
+  na aplikasio moko na Guided Access na iPad mpe iPhone to na app pinning na
+  Android, to salelá Assistive Access ya Apple mpo na ndenge ya pete. Komisa
+  mikomá minene, kanga mayebisi, tiká kaka baaplikasio mike moke na écran ya
+  ebandeli moko, bongisa mongongo liboso ya kobanda, salelá esimbeli, mpe
+  kanga ndingisa ya baaplikasio. Salelá yango elongo, pembeni ya misala mosusu
+  oyo esalemi na écran te.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) mpe app pinning (Android) etikaka écran na aplikasio moko tii otango okofungola yango."
+  - "Assistive Access ya Apple epesaka ndenge ya pete ebongisami mpo na bato oyo bazali kobika na bokono ya kobosana."
+  - "Komisa mikomá minene mpe kanga mayebisi mpe bilili oyo ebimaka mpo ete eloko moko te ekata to epesa mobulungano."
+  - "Tiká kaka baaplikasio mike moke oyo eyebani malamu na écran ya ebandeli moko, mpe bongisa mongongo liboso ya kobanda."
+  - "Esimbeli mpe esika ya kotia chaje oyo ekobaluka te esalaka ete aparɛyi ezala pete mpo na kosalela mpe mpo na komona."
+  - "Talá ndingisa ya baaplikasio mpe ndenge bakabolaka makambo: mbala mingi HIPAA ebatelaka te makambo oyo ebombami na aparɛyi ya moto ye moko."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Ndenge nini nakoki kopekisa moto oyo azali kobika na bokono ya kobosana abima na aplikasio na iPad?"
+    a: "Fungola Guided Access na Settings > Accessibility > Guided Access mpe tyá code ya kobombama. Fungola aplikasio, finá mbala misato na butɔ ya likoló (to butɔ ya Home na ba iPad ya kala), mpe finá Start. iPad ekotikala na aplikasio yango tii moto mosusu akotyá code ya kobombama."
+  - q: "Ndenge nini nakoki kokanga tableti ya Android na aplikasio moko?"
+    a: "Fungola app pinning na aplikasio ya Settings, mbala mingi na nse ya Security (ntango mosusu Security & location) > Advanced > App pinning. Na nsima fungola aplikasio, fungola Overview, finá elembo ya aplikasio na likoló mpe finá Pin. PIN, motindo to mot ya nzela na yo ekosengama mpo na kolongola yango."
+  - q: "Ezali malamu kosalela Guided Access na telefone ya moto yango moko?"
+    a: "Zala na bokebi. Apple alobi ete Crash Detection mpe misala ya likama (Emergency Services) ezalaka te ntango Guided Access efungwami. Soki moto yango atyelaka telefone na ye motema mpo na kobenga na ntango ya likama, salelá Guided Access kaka ntango ozali elongo na ye, to kanisá kosalela Assistive Access na esika na yango."
+  - q: "Ntango boni ya kosalela écran ezali malamu mpo na moto oyo azali kobika na bokono ya kobosana?"
+    a: "Motango ya sikisiki ezali te. Biteni ya mikuse oyo bosaleli elongo, esangisami na kotambola, miziki, misala ya ndako mpe masolo, esalaka ete mokolo ezala malamu koleka kolekisa ntango molai ye moko liboso ya écran. Soki aparɛyi epesi mobulungano to epekisi misala mosusu, salelá yango moke."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tableti ekoki kozala lolenge ya malamu mpo na kokabola bilili, miziki mpe masano ya pete. Kasi ekoki mpe kopesa mobulungano: kofina esika moko na libunga efungoli aplikasio mosusu, liyebisi ebimi, mikomá ezali mike mingi, to écran ekufi na kati ya lisano. Kobongisa mwa moke liboso ekoki kosilisa mingi ya makambo yango.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Matambe oyo esaleli bibongiseli oyo ezali kati ya iPhone, iPad mpe Android. Bankombo ya menu ekoki kobongwana kolanda ndenge ya logiciel mpe mosali ya aparɛyi, yango wana soki eloko emonani ndenge mosusu, landá lokasa ya Apple to Google oyo etye na kati mpo na aparɛyi na yo. Salá kobongisa yango yo moko, liboso ya kovanda elongo.
 
-## Should someone with dementia use a tablet or phone?
+## Moto oyo azali kobika na bokono ya kobosana asengeli kosalela tableti to telefone?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Ekotalela moto yango. Bato ebele basepelaka kosalela tableti soki moto mosusu azali pembeni na bango, ata soki bakokaki kosalela yango bango moko te. Bandá na kosalela yango elongo, na aplikasio moko ya kofungwama, mpo na miniti mike. Soki epesi esengo mpe masolo, bokoba. Soki epesi mobulungano to kozanga kimia, albɔm ya bafoto, bankasa ya kobimisa na imprimante to miziki ekoki kokokana malamu na ye. [Misala oyo okoki kobimisa na imprimante](/activities/printable/) ezali lolenge mosusu.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tableti ezalaka mbala mingi pete koleka telefone: écran mpe bilili ezali minene, mpe ezali te lisusu nzela ya libota oyo moto yango atyelaka motema mpo na kobenga na ntango ya likama.
 
-## How do I lock a tablet or phone to one app?
+## Ndenge nini nakoki kokanga tableti to telefone na aplikasio moko?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Salelá Guided Access na iPhone mpe iPad, to app pinning na Android. Nyonso mibale etikaka écran na aplikasio moko tii otyá code, mpo ete kofina to kobenda na libunga ekoki te kofungola eloko mosusu.
 
-### iPad and iPhone: Guided Access
+### iPad mpe iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Kolanda [malako ya Apple mpo na Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Fungola **Settings**, finá **Accessibility**, na nsima finá **Guided Access** mpe fungola yango.
+2. Na nse ya **Passcode Settings**, tyá code ya kobombama ya Guided Access. Okoki mpe kondima Face ID to Touch ID.
+3. Soki olingi: na nse ya **Display Auto-Lock**, poná ndenge nini écran ekoki kokangama noki na ntango ya lisano, mpo ete ekufa te na kati.
+4. Fungola aplikasio oyo olingi kosalela.
+5. Finá mbala misato na butɔ ya pembeni (iPhone), na butɔ ya likoló (iPad), to na butɔ ya Home na baaparɛyi ya kala.
+6. Soki olingi: zingela biteni ya écran oyo olingi ete eyano te soki bafini. Finá **Options** (to **Session Settings**) mpo na kokanga babutɔ ya mongongo to kopekisa écran ezingama.
+7. Finá **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Mpo na kosukisa, finá lisusu mbala misato butɔ yango moko, tyá code ya kobombama, mpe finá **End**. Apple alobi ete na ba logiciel mosusu ya kala, ofini mbala mibale na esika ya misato.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Ntina ya kokeba:** Apple alobi ete Crash Detection mpe misala ya likama (Emergency Services) ezalaka te na ntango oyo Guided Access ezali kosala. Tiká Guided Access efungwama te na telefone oyo moto yango akoki kozala na posa ya yango mpo na kobenga na ntango ya likama.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Kolanda [lisalisi ya Google mpo na kokanga écran na Android](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Fungola aplikasio ya **Settings**.
+2. Finá **Security** (to **Security & location**), na nsima **Advanced**, na nsima **App pinning**. Soki omoni yango te, talá bankasa ya lisalisi ya mosali ya aparɛyi na yo.
+3. Fungola **App pinning**. PIN, motindo to mot ya nzela na yo ekosengama mpo na kolongola yango.
+4. Fungola aplikasio oyo olingi. Benda likoló tii na katikati ya écran mpe simbá mpo na kofungola Overview (to finá Overview soki ozali kosalela navigation ya babutɔ misato).
+5. Na likoló ya emoniseli ya aplikasio, finá elembo ya aplikasio, na nsima finá **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Mpo na kolongola yango na navigation ya kobenda, benda likoló mpe simbá. Na navigation ya babutɔ misato, finá mpe simbá Back mpe Overview. Na navigation ya babutɔ mibale, finá mpe simbá Back mpe Home. Na nsima tyá PIN, motindo to mot ya nzela na yo.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Ezali na ndenge ya pete mpo na iPhone to iPad mobimba?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Iyo. Assistive Access ya Apple ekitisaka écran ya ebandeli ya mbala na mbala mpe etyá oyo ya pete koleka. [Apple alobi](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ete ebongisami mpo na kosala ete iPhone ezala pete mpo na bato oyo bazali kobika na bokono ya kobosana basalela yango bango moko, na biloko ya minene na écran mpe makambo oyo etaleli likambo moko. Apple epesaka [eloko yango moko na iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Nani abongisaka yango.** Apple apesi likanisi ete mosungi oyo batyelaka motema, lokola moto ya libota to mobateli oyo ayebi moto yango malamu, asunga kopona baaplikasio mpe makambo.
+- **Esika ya kobanda.** Kendá na **Settings > Accessibility > Assistive Access**, finá **Set Up Assistive Access**, na nsima **Continue**.
+- **Baaplikasio.** Yo nde oponi baaplikasio oyo ekomonana. Baaplikasio mosusu ya Apple ezali na ndenge ya pete ya sipesiale, mpe baaplikasio mosusu mingi ekoki kobakisama na ndenge na yango ya mbala na mbala.
+- **Ndenge ya kotia biloko.** Poná **Rows** (liste ya pete mpo na kotánga) to **Grid** (biloko ya minene oyo emonisi mingi bilili mpe bilembo).
+- **Code ya kobombama.** Otyaka code ya kobombama ya Assistive Access oyo ekeseni mpo na kokɔta, kobima to kobongola bibongiseli. Apple apesi toli ya kobongisa compte Apple ya kozongisa na ntango ya kobongisa, mpo ete soki ezali te mpe obosani code, esengeli kozongisa aparɛyi na ebandeli.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access ekoki kokokana malamu na moto oyo asalelaka aparɛyi na ye moko mokolo na mokolo. Guided Access to app pinning ezali mbangu koleka mpo na lisano oyo bosaleli elongo.
 
-## How do I make text and pictures bigger?
+## Ndenge nini nakoki kosala ete mikomá mpe bilili ezala minene?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Matisá bonene ya mikomá mpe ya bilili, na nsima talá soki babutɔ ezali kaka kokota na écran.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone mpe iPad.** Kolanda [malako ya Apple mpo na bonene ya mikomá](https://support.apple.com/en-us/102453), kendá na **Settings > Display & Brightness > Text Size** mpe benda curseur. Mpo na mikomá minene lisusu, kendá na **Settings > Accessibility > Display & Text Size > Larger Text**. Apple alobi ete mikomá oyo eleki monene ekoki kosala ete babutɔ mosusu ezala mpasi mpo na kofina, yango wana bongola soki esengeli.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Kolanda [lisalisi ya Google mpo na bibongiseli ya mikomá mpe emoniseli](https://support.google.com/accessibility/android/answer/11183305?hl=en), fungola **Settings** mpe luka **Font size**, na nsima benga curseur. Luka **Display size** mpo na kokomisa biloko nyonso na écran minene. Okoki mpe kofungola **Bold text** na nse ya **Accessibility > Display size and text**. Baaplikasio mosusu elandaka bibongiseli oyo te.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Na masano lokola [Picture Pairs](/games/picture-pairs/) mpe [Find the Same](/games/find-the-same/), okoki mpe kopona bakekete to baponi moke, oyo etikaka biloko pete na écran.
 
-## How do I stop notifications and pop-ups?
+## Ndenge nini nakoki kopekisa mayebisi mpe bilili oyo ebimaka?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Kanga mayebisi mpo na baaplikasio oyo ozali na posa na yango te, mpe salelá Do Not Disturb na ntango ya misala.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone mpe iPad.** Kendá na **Settings > Notifications**, finá aplikasio na nse ya **Notification Style**, mpe kanga **Allow Notifications** ([malako ya Apple mpo na bibongiseli ya mayebisi](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Mpo na kopekisa mabenga, bakebisi mpe mayebisi mpo na mwa ntango, fungola Control Center mpe fungola **Do Not Disturb** na butɔ ya **Focus** ([lisalisi ya Apple mpo na Do Not Disturb](https://support.apple.com/en-us/105112)). Okoki kobongisa manaka na yango na **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Benda na nse longwa na likoló ya écran mpe finá **Do Not Disturb**, to kendá na **Settings > Modes > Do Not Disturb** ([lisalisi ya Google mpo na Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Na nse ya **Notification filters** okoki kopona bato mpe baaplikasio nini bakoki kaka kokɔta. Bibongiseli ekeseni kolanda mosali ya aparɛyi.
 
-## How do I make a simple home screen?
+## Ndenge nini nakoki kosala écran ya ebandeli ya pete?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Tiká baaplikasio mike moke oyo eyebani malamu na écran moko mpe longola mosusu na miso. Ezali na paramɛtrɛ moko te mpo na yango; ezali likambo ya kolongola mobulungano.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Poná baaplikasio misato tii motoba.** Na ndakisa, bafoto, miziki, aplikasio ya kobenga na video mpe lisano moko.
+- **Tiá yango na écran ya liboso,** na bisika yango moko ntango nyonso, mpe tinda mosusu nyonso na écran ya mibale to na dosyé.
+- **Salelá elili ya sima ya pete, oyo ekeseni malamu,** lokola langi moko to foto moko oyo eyebani malamu, mpo ete bilembo emonana polele.
+- **Longola baaplikasio oyo ozali na posa na yango te.** Baaplikasio moke elakisi mabaku moke ya mobulungano mpe makambo moke oyo esangisami.
+- **Kanisá Assistive Access** na baaparɛyi ya Apple soki olingi ete aparɛyi esala yango mpo na yo.
 
-## What about volume and sound?
+## Ndenge nini mpo na mongongo?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Bongisa mongongo na nivo oyo ekoki liboso ya kopesa aparɛyi. Na Guided Access, okoki kokanga babutɔ ya mongongo mpo ete ebongwana te na kati ya mosala. Talá soki bamasini ya koyoka ezali na esika mpe ezali kosala malamu.
 
-## Where should the tablet live?
+## Tableti esengeli kovanda wapi?
 
-Give it a stand and a permanent charging spot.
+Pesá yango esimbeli mpe esika ya kotia chaje oyo ekobaluka te.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Esimbeli to ebombelo** oyo esimbaka tableti ya kotelema na mesa elakisi ete moto moko te asengeli kosimba yango, mpe kotinda monɔkɔ ezali pete.
+- **Esika moko ya kotia chaje** oyo ekobaluka te, malamu koleka esimbeli ya chaje na mesa ya ndako oyo bosalelaka mokolo na mokolo. Tableti ekozala ntango nyonso na chaje mpe na esika moko.
+- **Kitisa kongenga.** Tiá écran mosika ya lininisa ya makasi oyo ewuti na fenɛtrɛ.
 
-## How much screen time is okay?
+## Ntango boni ya kosalela écran ezali malamu?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Ezali na motango ya miniti ya malamu te. Meká kozala na biteni ya mikuse oyo bosaleli elongo lokola eteni ya mokolo mobimba oyo ezali mpe na kininga ya nzoto, miziki, misala ya ndako, masolo mpe ntango na libanda. Lokola mpokwa ya pokwa ekoki kobakisa kobulungana na suka ya mokolo, okoki kokanisa kotya misala ya écran na ebandeli ya mokolo. Talá [misala ya kimia na nsima ya midi](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Kosalela tableti elongo, na esika ya kotika moto ye moko, esalaka ete ezala likambo ya elongo. Malako na biso mpo na [kosakana masano elongo](/caregiving/how-to-play-together/) elimboli ndenge nini.
 
-## How do I protect their privacy on the device?
+## Ndenge nini nakoki kobatela makambo ya moto ye moko na aparɛyi?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Kangá makambo oyo baaplikasio ekoki kosangisa, mpe kotya elikya te ete mibeko ya kobatela makambo ya bokolongono ebateli yango. Departema ya Bokolongono mpe Misala ya Bato ya États-Unis (HHS) [elimboli](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ete mbala mingi mibeko ya HIPAA ebatelaka te makambo ya bokolongono oyo ebombami to etalelami na nzela ya telefone mpe batableti ya moto ye moko. Na makambo mingi, HIPAA ebatelaka mpe te makambo oyo ekotisami na baaplikasio mpo na bosaleli ya moto ye moko, longola kaka soki aplikasio ewuti epai ya mopesi ya lisalisi ya bokolongono, ebongiseli ya bokolongono to moto ya mosala na bango oyo mibeko etaleli.
 
-HHS suggests:
+HHS apesi toli ya:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- koboya baaplikasio oyo esengeli te to oyo ya mbalakaka, mingi mingi oyo ya « ofele »;
+- kopesa te baaplikasio ndingisa ya koyeba esika ozali soki ezali na ntina ya solo te, lokola bamepu.
 
-Also consider:
+Kanisá mpe:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Salelá code ya kobombama** na aparɛyi, mpe bombá yango na esika ya malamu.
+- **Talá bandingisa** mpo na bafoto, kamera, mikro, mikanda ya mabenga mpe esika ozali, mpe kanga nyonso oyo aplikasio esengeli te.
+- **Talá makambo oyo aplikasio esangisaka** liboso ya kotia yango. Malako na biso mpo na [kopona baaplikasio mpe masano mpo na bokono ya kobosana](/caregiving/choosing-apps-and-games/) ezali na liste ya kotala makambo ya kobatela.
+- **Zala na bokebi na bafoto ya libota.** Kabola kaka bafoto oyo moto yango akokaki kondima malamu, mpe yeba esika oyo aplikasio ebombaka yango. Na [Photo Pairs](/games/photo-pairs/), bafoto oyo oponi etikalaka na navigateur na yo.
+- **Kanga kosomba na kati ya aplikasio** to longola makambo ya kofuta na bakɔnti oyo moto yango asalelaka.

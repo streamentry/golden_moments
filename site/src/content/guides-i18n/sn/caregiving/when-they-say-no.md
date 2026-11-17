@@ -1,34 +1,36 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Kana munhu ane dementia akaramba kana kushatirwa nechiitiko"
+seoTitle: "Kana munhu ane dementia akaramba chiitiko"
+description: "Sei munhu anorarama nedementia angaramba kana kushatirwa nechiitiko, zvamungayedza, zvamunofanira kudzivisa, uye nguva yokubvunza chiremba."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Kana munhu ane dementia akati kwete, gamuchirai zvinyoro-nyoro mozoedza
+  zvakare gare gare kana kupa chimwe chinhu chakasiyana. Kuramba kazhinji kune
+  chikonzero: basa rinonzwa rakaoma kana serisina kukodzera munhu mukuru, vanenge
+  vaneta, vari kurwadziwa, vane nzara, kana vakaremerwa neruzha. Musapikisana
+  kana kumanikidza. Rerutsai, vapei sarudzo mbiri, kana kuvakumbira rubatsiro.
+  Kuchinja kwemaitiro kunongoerekana kwaitika kana kunokurumidza, kunyanya
+  mushure meutachiona kana mushonga mutsva, kunoda kuendeswa kuchiremba
+  nokukurumidza.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "“Kwete” imhinduro inofanira kuremekedzwa, haisi dambudziko rinofanira kukundwa."
+  - "Kuramba kazhinji kune chikonzero: zvakaoma, zvinoita sezvisina kukodzera munhu mukuru, kuneta, kusanzwa zvakanaka, kusagadzikana, kana kuremerwa."
+  - "Dzokerai shure, mirirai, mozoedza gare gare, panguva yakasiyana, kana neimwe nzira iri nyore."
+  - "Kukumbira rubatsiro rwavo kunoshanda zviri nani pane kuvakumbira kuti vaite."
+  - "Musapikisana, kumanikidza, kubvunza mibvunzo yokuedza ndangariro, kana kururamisa. Zviongororei kana muri kukurumidzira kana kuvavharira nzvimbo."
+  - "Kuchinja kwemaitiro kunongoerekana kwaitika kana kunokurumidza, kunyanya kune utachiona kana mishonga mitsva, kunofanira kuendeswa kuchiremba nokukurumidza."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Zvakanaka here kuvarega vasingaite zvachose zviitiko?"
+    a: "Hongu, pazuva ripi neripi. Kugara pamwe chete, kuteerera mimhanzi kana kungotarisa zviri kuitika kunze kunogona kukwana. Kana munhu akarega kufarira zvinhu zvose kwemavhiki akati kuti, zviudzei chiremba wavo, sezvo kusafara, kurwadziwa kana mamwe matambudziko ehutano zvingava chikamu chezviri kuitika."
+  - q: "Sei vachiramba zvinhu zvavaimbofarira?"
+    a: "Chinhu chavaifarira kare chinogona kushungurudza kana chave kuda unyanzvi hwaitwa kuti huome nedementia, uye munhu anogona kunzwa kunyara. Edzai chikamu chiri nyore chechiitiko ichocho, sekuronga mabhatani pachinzvimbo chekusona, kana kutarisa mifananidzo yebindu pachinzvimbo chekudyara."
+  - q: "Ndinofanira kuedza kuvanyengetedza here?"
+    a: "Kwete. Kumanikidza munhu kuita chinhu chaitwa kuti chiome nedementia kunozivikanwa sechinhu chinogona kukonzera kusagadzikana. Gamuchirai “kwete”, chinjai nyaya, mozozvipazve gare gare kana neimwe nzira."
+  - q: "Ndepapi panova kuchinja kwemaitiro chinhu chinoda rubatsiro nokukurumidza?"
+    a: "Fonai 911 kana munhu ari munjodzi kana aine zviratidzo zvechimwe chinhu chinoda kurapwa nokukurumidza. Kana pave nokuvhiringidzika kunongoerekana kwaitika kana maitiro anochinja nokukurumidza mukati memaawa kana mazuva, kunyanya pane fivha, utachiona kana mushonga mutsva, batai chiremba wavo nokukurumidza."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +52,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Munogadzirira zvinhu zvose, motipa mutambo kana kufamba, monzwa “Kwete.” Kana kuti chiitiko chinotanga zvakanaka choguma netablet yasundirwa kure neshoko rakaomarara. Zvinoodza mwoyo, uye zvinoitika kazhinji. Kuramba nekushatirwa kazhinji ishoko riri kutaurwa, kwete kuoma musoro. Kunzwisisa kuti shoko iroro rinorevei kunowanzo ratidza zvamungayedza zvinotevera.
 
-## Why does someone with dementia refuse activities?
+## Sei munhu ane dementia achiramba zviitiko?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Kazhinji pane chikonzero, kunyange kana munhu asingakwanisi kuchitaura nemashoko. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) inoti kuramba kunogona kureva kuti munhu haakwanisi kuita basa racho kana kuti ari kutya kuriedza. Zvikonzero zvinowanzoitika zvinosanganisira:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Zvinonzwa zvakaoma.** Chiitiko chacho chave kuda unyanzvi hwaitwa kuti huome nedementia, uye kukundikana pamberi pomumwe munhu kunonyadzisa.
+- **Zvinonzwa sezvisina kukodzera munhu mukuru.** Vanhu vakuru vanoona mifananidzo yakaita seyemwana, manzwi anoimba zvisina kukodzera, uye zviitiko zvinoita sezvakaitirwa vana.
+- **Kuneta.** Vanhu vazhinji vane simba shoma gare gare muzuva. Onai [zviitiko zvakadzikama masikati apera](/caregiving/late-day-restlessness/).
+- **Kusagadzikana kwemuviri.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) inonyora kurwadziwa, kusarara zvakanaka, kunetseka kuona kana kunzwa, kupatira, nzara, nyota uye mhedzisiro yemishonga mitsva sezvimwe zvingakonzera kusagadzikana.
+- **Zvakawandisa zviri kuitika.** TV ine ruzha, nhaurirano dzakawanda kana imba yakazara vanhu zvinogona kuremera.
+- **Kunzwa sokumanikidzwa.** NIA inodoma kumanikidzwa kuita chinhu chaitwa kuti chiome neAlzheimer's, kana kuyeuchidzwa zviitiko kana vanhu, sechikonzero chekusagadzikana.
+- **Kusafara.** Kurasikirwa nechido muzvinhu kunogona kuva chiratidzo chekuora mwoyo, izvo zvakakodzera kutaura nachiremba.
+- **Vangori vasingadi.** Vanhu vakuru vane kodzero yokuti kwete.
 
-## What should I try when they say no?
+## Ndingayedza chii kana vakati kwete?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Gamuchirai “kwete” zvinyoro-nyoro, mozochinja chimwe chinhu: nguva, chiitiko, kuoma kwacho kana matauriro amunoita.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Regai zvipfuure iye zvino.** “Zvakanaka. Pamwe gare gare.” Mozoenda kune chimwe chinhu pasina kugomera.
+2. **Edzai zvakare gare gare.** Alzheimer's Association inoti edzai zvakare gare gare, kana panguva yakasiyana yezuva.
+3. **Chiitei chidiki.** Mufananidzo mumwe chete unofanana pachinzvimbo pemutambo wose. Tauro rimwe chete pachinzvimbo chedengu rehembe. Mifananidzo mishoma, sarudzo shoma, mifananidzo yakasiiwa ichioneka.
+4. **Vapei sarudzo mbiri.** “Munoda kutarisa mifananidzo yeshiri here kana kuteerera mimhanzi?” Sarudzo inodzosera kunzwa kwekuzvitonga.
+5. **Kumbirai rubatsiro pachinzvimbo chokuvakumbira kuti vaite.** “Mungandibatsira kuronga izvi here?” kana “Mungandiudza kuti ruvara rupi runotaridzika zvakanaka here?” Kunzwa vachidikanwa kwakasiyana zvikuru nokunzwa vari kuedzwa.
+6. **Tangai imi pachenyu.** Tangai chiitiko parutivi pavo musina kubvunza. Vanhu vazhinji vanobatana kana chimwe chinhu chava kutoitika, uye kana vakasabatana, munenge makambopedza nguva muri pamwe chete.
+7. **Chinjirai kuchimwe chinhu chinosanganisira muviri kana chinonyaradza.** Kufamba kupfupi, mimhanzi, chimedu chekudya, kupeta hembe, kana kumbomira kwe [kufema kwakadzikama](/games/calm-breathing/) pamwe chete. NIA inokurudzira kutsausa pfungwa kumimhanzi, bhuku kana kufamba.
+8. **Varegei vazviite nenzira yavo.** Kana vachida kutamba zvakasiyana nemirairo, enderanai nazvo. Alzheimer's Association inokurudzira kuchinjika.
 
-## What should I say when they get frustrated?
+## Ndingati chii kana vashatirwa?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Nonokai, deredzai inzwi renyu uye vavimbisei. [Nhungamiro yeAlzheimer's Association pamusoro pekusagadzikana](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) inokurudzira kudzokera shure uye kukumbira mvumo, kushandisa mashoko akadzikama uye akanaka, uye kupa sarudzo yakatungamirirwa pakati pezviviri. Mashoko anoenderana nazvo:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- “Ndine urombo, ichi chiri kunetsa. Ngatimbomirai.”
+- “Muri kuita zvakanaka. Ndiri pano.”
+- “Mune nguva yokundibatsira nechimwe chinhu here?”
+- “Tinganonwa tii here?”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Mozopedzisa chiitiko musina kuchiita chinhu chikuru. [Mazano edu ekukurukurirana](/caregiving/communication-tips/) ane zvimwe pamusoro pezvokutaura.
 
-## What should I avoid?
+## Ndezvipi zvandinofanira kudzivisa?
 
-Some natural reactions tend to make things worse.
+Mamwe maitiro anouya ega anowanzowedzera mamiriro acho.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Kupikisana kana kumanikidza.** “Huyai, kamwe chete zvakare” kana “Munozvida izvi” kazhinji hazvibatsiri.
+- **Kubvunza mibvunzo yokuedza ndangariro kana kururamisa.** “Munoziva kuti ichi chii” kana “Kwete, ichocho hachina kunaka” zvinowedzera kumanikidzwa.
+- **Kuzvitora sekunge kurwiswa kwenyu.** NIA inoyeuchidza vachengeti kuti chirwere, kwete munhu, ndicho chinokonzera kuchinja uku.
+- **Kuvavharira nzvimbo kana kukurumidzira.** Alzheimer's Association inokurudzira kusasimudza inzwi, kusaratidza kuvhunduka, kusavavharira pakona, kusavaswedera zvakanyanya, kusavabata nesimba, kusavashoropodza, kusavaregeredza kana kupikisana navo, uye kudzivisa kufamba kamwe kamwe kwavasingaoni.
+- **Kushandisa mhosva.** “Ndakagadzirira zvose izvi nokuda kwenyu” zvinoita kuti mose munzwe zvakaipa.
+- **Kuisa mazita.** “Vakaoma musoro” kana “vakaoma kubata navo” zvinovanza chikonzero chaicho uye zvinoita kuti zviome kugadzirisa.
 
-## How can I find out what is behind repeated refusals?
+## Ndingaziva sei zviri kukonzera kuramba kunoramba kuchiitika?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Chengetai chinyorwa chiri nyore kwevhiki imwe kana mbiri. NIA inoti kutevera kuchinja kwemaitiro kunogona kubatsira vachengeti nevashandi vehutano kuona maitiro uye kunzwisisa chikonzero.
 
-Jot down:
+Nyora pasi:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- nguva yezuva;
+- zvamakapa uye matauriro amakazviita;
+- zvaiitika pedyo nemi (ruzha, vashanyi, TV);
+- marariro, kudya nekunwa kwavakaita, uye nguva yavakapedzisira kushandisa chimbuzi;
+- mishonga mitsva ipi zvayo kana kurwara kwazvino.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Maitiro anowanzoonekwa nokukurumidza: kuramba kunongoitika mushure me4 p.m., chete nemutambo wakati, kana chete kana TV yakabatidzwa. [Nhungamiro yeFamily Caregiver Alliance pamusoro pemaitiro edementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) inozvitaura zviri nyore: hatigoni kuchinja munhu, asi tinogona kuchinja maitiro edu nenzvimbo yakatipoteredza.
 
-## When should I talk to a doctor about refusal or frustration?
+## Ndinofanira kutaura nachiremba riini nezvekuramba kana kushatirwa?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Taura nachiremba kana maitiro akachinja kamwe kamwe, nokukurumidza, kana pamwe chete nezviratidzo zvekurwara. NIA inoti kuchinja kwemaitiro kunongoerekana kwaitika kana kunokurumidza, kunyanya kana munhu akambova neutachiona kana kuchinja kwemishonga kwazvino, kunofanira kuudzwa chiremba nokukurumidza.
 
-Contact their doctor promptly if you notice:
+Batai chiremba wavo nokukurumidza kana mukaona:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- kuvhiringidzika kunongoerekana kwaitika kana kuchinja kukuru mukati memaawa kana mazuva;
+- zviratidzo zvekurwadziwa, sekutswinya kumeso, kubata chikamu chemuviri, kana kunetseka kutsva pakufamba;
+- fivha kana zvimwe zviratidzo zveutachiona;
+- mishonga mitsva kana yakachinjwa ichiteverwa nekuchinja kwemaitiro;
+- kurasikirwa nechido muzvinhu zvinenge zvose, kuchema kana kuzvivharira kunotora anopfuura mavhiki mashoma;
+- kuramba kudya kana kunwa.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association inokurudzira kuongororwa zvizere nachiremba kune munhu wese ane zviratidzo zvemaitiro, kunyanya kana zvikangoerekana zvaonekwa. Family Caregiver Alliance inokurudzirawo kutanga nekubvunza chiremba, nekuti matambudziko emaitiro anogona kuva nechikonzero chekurapa. Musatanga, kumisa kana kuchinja mushonga upi zvawo musina kutaura nachiremba kana wemishonga.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Kana munhu ari munjodzi kana paine zviratidzo zvechimwe chinhu chinoda kurapwa nokukurumidza, fonai 911. NIA inokurudzira kuudza anogamuchira runhare kuti munhu wacho ane dementia. Kuti muwane matanho ekuchengeteka nokukurumidza kana hasha dzikava dzekuita zvechisimba, onai [nhungamiro yedu pamusoro pehasha nechisimba mudementia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## Zvakanaka here kana tikasaita chinhu zvachose?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Hongu. Mamwe mazuva chiitiko chakanakisisa kusaita chiitiko: kugara pamwe chete, kubata maoko, kuteerera rwiyo rwavanofarira, kana kutarisa shiri nepahwindo. Izvozvo hazvisi kukundikana. [Nhungamiro yedu yekutamba pamwe chete](/caregiving/how-to-play-together/) inotsanangura kuti kumisa nokukurumidza, kana kusatombotanga, kunogona kuva sarudzo yakanaka.

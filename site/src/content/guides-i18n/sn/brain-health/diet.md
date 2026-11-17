@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Kudya kweMIND neMediterranean nedementia: Zvinenge zvawanikwa"
+seoTitle: "Kudya kweMIND nedementia: Zvinenge zvawanikwa"
+description: "Zvinotaurwa netsvagiridzo nezvekudya kweMIND neMediterranean nedementia, nei muyedzo mukuru usina kuona rubatsiro rwakajeka, uye nzira dzekubatsira munhu anorarama nedementia kudya zvakanaka."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Ongororo dzinotevera vanhu kwenguva dzinobatanidza mararamiro ekudya
+  akafanana neMediterranean neMIND nenjodzi yakaderera yedementia, asi
+  hazviwanikwe nguva dzose. Muyedzo wemakore matatu wekudya kweMIND,
+  wakaburitswa muna 2023, hauna kuwana musiyano unooneka mukufunga kana
+  mumaongororo ehuropi kana uchienzaniswa nekudya kwekudzora. Hapana chikafu
+  kana chinowedzera chinoratidzwa kuti chinodzivirira dementia. Kune vanhu
+  vanorarama nedementia, kudya nekunwa zvakakwana ndizvo zvinonyanya kukosha.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Dzimwe, asi hadzisi dzose, ongororo dzinotevera vanhu kwenguva dzinobatanidza mararamiro ekudya eMediterranean neMIND nenjodzi yakaderera yedementia."
+  - "Mumuyedzo wa2023 wevanhu vakuru 604, vanhu vaitevera kudya kweMIND havana kuita zviri nani pamiedzo yekufunga kana pamaongororo ehuropi kupfuura vanhu vaitevera kudya kwekudzora mushure memakore matatu."
+  - "National Institute on Aging inoti hapana humbowo hunoratidza kuti kudya kana kusadya chimwe chikafu kunogona kudzivirira Alzheimer's, uye hapana vhitamini kana chinowedzera chinoratidzwa kuti chinodzivirira Alzheimer's."
+  - "Kudya kune miriwo, michero, bhinzi, zviyo zvakakwana nehove kunotsigira utano hwemwoyo uye kunogona kubatsira nenjodzi dzakadai seropa rakakwira neshuga."
+  - "Kune vanhu vanorarama nedementia, zvekudya zvinobatwa nemaoko, ndiro dzinooneka zvakasiyana nezvekudya, nguva yekudya yakadzikama nezvinwiwa zvinogara zvichipiwa zvinowanzokosha kupfuura rudzi rwekudya chairwo."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Kudya kweMIND kunodzivirira dementia here?"
+    a: "Hazvina kuratidzwa kudaro. Ongororo dzinotevera vanhu dzakabatanidza kudya kweMIND nenjodzi yakaderera, asi muyedzo wemakore matatu wakaburitswa muna 2023 hauna kuwana musiyano unooneka mumibairo yemiedzo yekufunga kana mumaongororo ehuropi pakati pevanhu vaitevera kudya kweMIND nevanhu vaitevera kudya kwekudzora. Mapoka ese ari maviri akavandudzika zvishoma uye akaderera uremu zvakafanana."
+  - q: "Musiyano upi uripo pakati pekudya kweMIND nekudya kweMediterranean?"
+    a: "Kudya kweMediterranean kunosimbisa miriwo, michero, zviyo zvakakwana, bhinzi, hove nemafuta emuorivhi, paine nyama tsvuku nezvinotapira zvishoma. Kudya kweMIND kunobatanidza izvi nekudya kweDASH kweropa uye kunowedzera kusimbisa miriwo ine mashizha akasvibira nemabheri, uku kuchideredza nyama tsvuku, zvinotapira, chizi, bhata nezvekudya zvakakangwa kana zvekukurumidza."
+  - q: "Pane zvekudya kana zvinowedzera zvinodzivirira Alzheimer's here?"
+    a: "Kwete. National Institute on Aging inoti hapana humbowo hunoratidza kuti kudya kana kusadya chimwe chikafu kunogona kudzivirira Alzheimer's kana kudzikira kwekufunga kunouya nezera, uye hapana vhitamini kana chinowedzera chakaratidzwa kudzivirira Alzheimer's. Taurai nachiremba musati matora zvinowedzera."
+  - q: "Ndezvipi zvekudya zviri nyore kuti munhu anorarama nedementia adye?"
+    a: "Zvekudya zvidiki zvinobatwa nemaoko zvakadai sezvidimbu zvesangweji, zvidimbu zvehuku, zvidimbu zvemaorenji kana zvidimbu zvemiriwo zvakabikwa nemhepo zvinowanzova nyore kupfuura kushandisa forogo nebanga. Kana kutsenga kana kumedza kwakaoma, zvekudya zvinyoro zvakadai semazai akakangwa akavhenganiswa, muto wemaapuro kana chizi yakapfava zvinogona kubatsira. Bvunzanai chiremba nezvekuongororwa kwekumedza kana kukosora kana kubatira zvichiitika."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,178 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Munogona kunge makaverenga kuti kudya "kunobatsira uropi" kunogona kudzivirira Alzheimer's. Chokwadi chacho chakadzikama. Dzimwe nzira dzekudya dzinobatanidzwa nenjodzi yakaderera muongororo dzinotevera vanhu kwenguva, asi muyedzo wakanakisisa kusvika parizvino hauna kuwana rubatsiro rwakajeka. Peji rino rinotsanangura zvese zviri zviviri, rozotarisa pane zvinowanzonyanya kukosha kumunhu atova kurarama nedementia: kudya nekunwa zvakakwana, uye kuzvifarira.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Urwu ruzivo rwakajairika, harusi zano rekurapa. Taurai nachiremba kana nyanzvi yezvekudya musati mashandura kudya kwenyu kana kwemumwe munhu. Onai [chiziviso chedu chekurapa](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Kudya kweMediterranean nekweMIND chii?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) inozvitsanangura seizvi
+([NIA nezvekudya neAlzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Kudya kweMediterranean:** michero, miriwo, zviyo zvakakwana, bhinzi,
+  hove nezvekudya zvemugungwa zvakawanda, nemafuta emuorivhi, paine nyama
+  tsvuku, mazai nezvinotapira zvishoma.
+- **Kudya kweMIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  musanganiswa wekudya kweMediterranean nekudya kweDASH kweropa. Kunotarisa
+  pamiriwo, kunyanya ine mashizha akasvibira; mabheri; zviyo zvakakwana;
+  bhinzi; nzungu; hove kanenge kamwe pasvondo; nemafuta emuorivhi. Kunoderedza
+  nyama tsvuku, zvinotapira, chizi, bhata kana majarini, uye zvekudya zvakakangwa
+  kana zvekukurumidza.
 
-## Do these diets lower dementia risk?
+## Kudya uku kunoderedza njodzi yedementia here?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Uchapupu hwakasiyana-siyana. NIA inoti dzimwe, asi hadzisi dzose, ongororo
+dzinotevera vanhu dzakabatanidza kudya kweMediterranean nekweMIND nenjodzi
+yakaderera yedementia kana zvichienzaniswa nekudya kwekuMadokero kune nyama
+tsvuku, mafuta akazara neshuga zvakawanda.
 
-The 2024 Lancet Commission reviewed the research in more detail
+Lancet Commission ya2024 yakaongorora tsvagiridzo zvakadzama
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Imwe ongororo yezvidzidzo zvekutevera vanhu yakabatanidza kudya kwemhando
+  yepamusoro nenjodzi yedementia yakaderera nezvikamu makumi maviri kubva muzana.
+- Ongororo hombe yemapoka matatu evanhu yakabatanidza kutevera kudya kweMIND
+  zvakanyanya nenjodzi yakaderera.
+- Asi ongororo yekuSweden yakatevera vanhu 28,025 vezera repakati kwemakore
+  anenge 20 haina kuwana njodzi yakaderera nekudya kunokurudzirwa kana kudya
+  kwakafanana neMediterranean.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Ongororo dzinotevera vanhu hadzigoni kuratidza chikonzero nemhedzisiro. Vanhu
+vanodya nenzira iyi vanowanzosiyanawo mune zvimwe zvinhu, zvakadai semari,
+dzidzo, kurovedza muviri uye kuwana rubatsiro rweutano. Komisheni yakagumisa
+kuti hapana humbowo hwakakwana hwekuti kudya kune hutano kunodzivirira dementia
+zvakananga, kunyange zvazvo kudya michero nemiriwo yakawanda uye kudya zvishoma
+zvekudya zvakagadzirwa zvakanyanya zvakanaka pautano hwakawanda uye zvinobata
+njodzi dzakadai seufuta, chirwere cheshuga neropa rakakwira. Haina kuwedzera
+kudya parondedzero yayo ye[njodzi 14](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Muyedzo wekudya kweMIND wa2023 wakawanei?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Muyedzo wakasimba kusvika parizvino waive ongororo yakaburitswa muNew England
+Journal of Medicine muna 2023
+([Muyedzo wekudya kweMIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Ndiani:** vanhu vakuru 604 vane makore 65 zvichikwira munzvimbo dzeChicago
+  neBoston, vasina matambudziko ekufunga, vaiva nehama yepedyo yaiva nedementia,
+  vaiva nehuremu hwakawandisa, uye vaiva nekudya kusina kunyanya kunaka pakutanga.
+- **Chii:** kwemakore matatu, hafu yakatevera kudya kweMIND uye hafu yakatevera
+  kudya kwavo kwakajairika. Mapoka ese ari maviri akakumbirwa kudya macalorie
+  mashoma anosvika 250 pazuva uye akawana kurairwa nguva nenguva kubva
+  kunyanzvi dzezvekudya.
+- **Mhedzisiro:** mibairo yemiedzo yekufunga yakavandudzika zvishoma mu**mapoka
+  ese ari maviri**. Musiyano pakati pemapoka waive mudiki uye **hauna kuva
+  wakakosha pauwandu**. Maongororo ehuropi akaratidzawo shanduko dzakafanana
+  mumapoka ese ari maviri.
+- **Uremu:** mapoka ese ari maviri akaderera neanenge makirogiramu 5 (anenge
+  mapaundi 11).
 
-### Why might the trial have found no difference?
+### Nei muyedzo usina kuwana musiyano?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Vatsvagiri vakataura zvikonzero zvakati. Boka rekudzora rinogonawo kunge
+rakavandudza kudya kwaro, sezvo rakadererawo uremu hwakafanana. Kudzokororwa
+miedzo kunogona kuvandudza mibairo pachako, sezvo vanhu vanojaira miedzo yacho.
+Makore matatu anogona kunge ari mashoma. Vazhinji vevatori vechikamu vaiva
+nedzidzo yepamusoro uye vaibva kuEurope, saka mibairo inogona kusashanda kune
+wese munhu.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Saka pfupiso yakatendeseka ndeyekuti: kudya kweMIND hakuna kukunda kudya
+kunonzwisisa kwakaderedzwa macalorie mumakore matatu. Izvi hazvirevi kuti kudya
+zvine hutano hakuna basa. Zvinoreva kuti hapana anofanira kutarisira kuti rudzi
+rwekudya chairwo ruchadzivirira dementia.
 
-## What about specific foods and supplements?
+## Ko zvekudya chaizvo nezvinowedzera?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA inoti hapana humbowo hunoratidza kuti kudya kana kusadya chimwe chikafu
+kunogona kudzivirira Alzheimer's kana kudzikira kwekufunga kunouya nezera.
+Mabheri eblueberry, miriwo ine mashizha akasvibira neturmeric zvese
+zvakaongororwa, pasina humbowo. NIA inotiwo hapana vhitamini kana chinowedzera
+chakaratidzwa kudzivirira Alzheimer's, uye hapana chinokurudzirwa nechinangwa
+ichocho. NIA inoyambira kuti zvigadzirwa zvisina humbowo zvinotengeswa
+kudzivirira Alzheimer's zvinogona kunge zvisina kuchengetedzeka, kurasikirwa
+nemari, kana zvese zviri zviviri, uye zvinogona kukanganisa mishonga yakanyorwa
+nachiremba, saka bvunzanai chiremba musati maedza chero chipi
+([NIA nezvekudzivirira Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Kudya kungaramba kune hutano uye kuchifadza sei?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Kuvakuru vazhinji, chinangwa chikafu chinopa muviri, chakajairika uye
+chinonakidza, kwete urongwa hwakaoma:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Vakai kudya kwakapoteredza zvekudya zvamunofarira** kubva pamararamiro
+  eMediterranean: miriwo, michero, bhinzi, zviyo zvakakwana, hove nemafuta
+  emuorivhi.
+- **Chengetai zvinotapira zvamunofarira.** Kunakidzwa nechido chekudya zvakakosha,
+  kunyanya muupenyu hwepamberi.
+- **Idyai nevamwe** kana zvichibvira. Kudya pamwe chete kunopa ushamwari hwakanaka.
+- **Bibai pamwe chete.** Kusuka miriwo kana kukurunga hari chiitiko chakanaka
+  chekuita pamwe chete; onai [mabasa epamba](/activities/household-tasks/).
+  Resipi yemhuri yamunofarira inogonawo kumutsa [kurangarira zvakapfuura](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Vakuru havafaniri kuderedza macalorie kana kudzikisa uremu vasingatauri
+nachiremba, uye kutsanya kune dzimwe njodzi. Onai gwara redu
+[rekutsanya](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Mungabatsira sei munhu anorarama nedementia kudya zvakanaka?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Kune vanhu vanorarama nedementia, kudya nekunwa **zvakakwana** ndiko kunowanzova
+kunyanya kunetsa. Alzheimer's Association inotaura kuti vanhu vanogona kukanganwa
+kudya, kufunga kuti vatodya, kana kunzwa kuremerwa nesarudzo, uye kuti kudya
+kusina kukwana kunogona kuwedzera zviratidzo zvemaitiro uye kukonzera kudzikira
+kweuremu
+([Alzheimer's Association nezvekudya](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Mazano aya anobva kuAlzheimer's Association, NIA neAlzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Ipai zvekudya zvinobatwa nemaoko.** Zvidimbu zvidiki zviri nyore kubata,
+   zvakadai sezvidimbu zvesangweji, zvidimbu zvehuku, zvidimbu zvehove, zvidimbu
+   zvemaorenji kana broccoli yakabikwa nemhepo, zvinobatsira munhu kuzvidyisa
+   pasina forogo nebanga.
+2. **Shandisai musiyano wevara patafura.** Shanduko dzemaziso dzinogona kuita
+   kuti zviome kusiyanisa chikafu nendiro. Ndiro kana ndiro dzakadzika chena
+   pamusoro pechigadziko chine ruvara rwakasiyana zvinogona kubatsira. Dzivisai
+   ndiro nematafura zvine mapatani.
+3. **Ipai chikafu chimwe kana zviviri panguva.** Ndiro yakazara inogona kuremera.
+4. **Chengetai nguva yekudya yakadzikama.** Dzimai TV, chengetai tafura iri
+   nyore, uye ipai nguva yakakwana. NIA inokurudzira kusamhanyisa kana
+   kumanikidza.
+5. **Ipai kudya kudiki nezvekudya zvakareruka kakawanda.** NIA inokurudzira kudya
+   kudiki, kakawanda uye zvekudya zvakareruka zvine simba kana munhu asiri kudya
+   zvakakwana
+   ([Mazano eNIA ekudya zvakanaka](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Batsirai pakunwa.** Ipai makapu madiki emvura kana zvimwe zvinwiwa mukati
+   mezuva, pamwe chete nezvekudya zvine mvura yakawanda zvakadai semichero, muto,
+   mikando yemukaka nezvinwiwa zvakasanganiswa. Kana munhu asingadi mvura, NIA
+   inokurudzira kuedza muto wemichero, mvura ine munhuwi, muto wenyama, mukaka,
+   kana kofi kana tii isina caffeine.
+7. **Tarisisai kupisa.** Munhu anogona kusaona kuti chikafu kana chinwiwa
+   chinopisa zvakanyanya.
+8. **Chinjai midziyo nemakapu.** Ndiro dzakadzika pachinzvimbo chemaplate, zvipunu
+   zvine zvibato zvikuru, nemakapu ane zvivharo zvinogona kuita kuti kudya kuve
+   nyore. Musanetseka nezvekuchena kwakanyanya.
+9. **Itai kuti chikafu chive nyore kutsenga nekumedza.** Chekai chikafu kuita
+   zvidimbu zvidiki kana ipai zvekudya zvinyoro. Kana munhu achikosora kana
+   achibatira paanenge achidya, udzai chiremba wake.
+10. **Dzivisai kumanikidza kudya.** NIA inotaura kuti chido chekudya chinodzikira
+    zvakasikwa mumatanho ekupedzisira eAlzheimer's.
 
-### Signs to tell the doctor about
+### Zviratidzo zvamunofanira kuudza chiremba
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Kudzikira kweuremu, kuramba kudya, kuneta kana kushaya simba zvinogona kuva
+zviratidzo zvekuti munhu haasi kudya zvakakwana. Alzheimer's Society inotaura
+kuti kurwadziwa kwemazino kana mazino ekugadzira, kuora mwoyo, kuvimbiswa uye
+kuchinja kwemishonga zvese zvinogona kuderedza chido chekudya
+([Alzheimer's Society nezvechido chekudya](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Zviratidzo zvekusava nemvura yakakwana mumuviri zvakanyorwa neNIA zvinosanganisira
+muromo wakaoma, dzungu, kurova kwemwoyo nekukurumidza uye kuona zvinhu zvisipo
+([NIA nezvematambudziko ekurapa anowanzoitika](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Taurai nachiremba
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Musati maita shanduko huru pakudya kwenyu, kana kwemumwe munhu, taurainai
+nachiremba kana nyanzvi yezvekudya, kunyanya kana muine chirwere cheshuga,
+chirwere cheitsvo, matambudziko ekumedza kana kudzikira kweuremu kwazvino. Kune
+munhu anorarama nedementia, bvunzai kuti anofanira kuvavarira kudya nekunwa
+zvakadii pazuva, uye kana nyanzvi yezvekudya kana zvinowedzera zvingabatsira.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Tsvakai rubatsiro nekukurumidza kana munhu achibatira, kana aine kuvhiringidzika
+kunongoerekana kwaitika, dzungu rakanyanya kana kudonha.

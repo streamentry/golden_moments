@@ -1,33 +1,34 @@
 ---
-title: "Maswali Rahisi kwa Wazee Wenye Dementia, Bila Shinikizo"
-seoTitle: "Maswali Rahisi kwa Wazee Wenye Dementia: Maswali 50"
-description: "Maswali 50 rahisi kwa wazee wenye dementia, yenye machaguo ya majibu na mada za mazungumzo, pamoja na jinsi ya kuyaendesha bila mtu kujisikia anapimwa."
+title: "Maswali Rahisi kwa Wazee Wanaoishi na Ugonjwa wa Kusahau"
+seoTitle: "Maswali ya Maarifa kwa Wazee Wanaoishi na Ugonjwa wa Kusahau"
+description: "Maswali 50 rahisi ya maarifa kwa wazee wanaoishi na ugonjwa wa kusahau, yenye chaguo za majibu na vidokezo vya mazungumzo, bila shinikizo."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Maswali rahisi (trivia) kwa wazee wenye dementia hufaa yanapohisiwa kama
-  soga, si mtihani. Uliza kuhusu mambo yaliyojifunzwa zamani, kama nyimbo za
-  zamani, methali, sikukuu na maisha ya kila siku, na kila mara toa machaguo
-  mawili au matatu. Toa jibu kwa ukarimu, usimtenge mtu yeyote, acha alama, na
-  tumia kila jibu kuanzisha hadithi. Maswali ya "hiki au kile" yasiyo na jibu
-  baya yanafaa hatua za baadaye.
+  Maswali rahisi ya maarifa kwa wazee wanaoishi na ugonjwa wa kusahau hufanya
+  kazi vyema yanapohisi kama mazungumzo, si mtihani. Uliza kuhusu mambo
+  waliyojifunza zamani, kama nyimbo za zamani, misemo, sikukuu na maisha ya
+  kila siku, na kila wakati toa chaguo mbili au tatu. Toa jibu kwa upole,
+  usimchague mtu mmoja, usihesabu alama, na tumia kila jibu kuanzisha hadithi.
+  Maswali ya "hiki au kile" yasiyo na jibu lisilo sahihi yanafaa zaidi katika
+  hatua za baadaye.
 keyPoints:
-  - "Uliza kuhusu mambo yanayojulikana kwa muda mrefu: nyimbo, methali, sikukuu, chakula na maisha ya kila siku ya miaka iliyopita."
-  - "Toa machaguo mawili au matatu ili jibu litambuliwe badala ya kukumbukwa."
-  - "Sema jibu kwa joto na uendelee. Kila kubahatisha kunakoanzisha hadithi ni kubahatisha vizuri."
-  - "Hakuna pointi, hakuna timu zinazokimbizana, hakuna kumwita mtu mmoja. Acha majibu yatoke kwa chumba kizima."
-  - "Kuchagua kati ya majibu kukiwa kugumu, badilisha kwenda maswali ya hiki-au-kile yasiyo na jibu sahihi."
+  - "Uliza kuhusu mambo yanayofahamika tangu zamani: nyimbo, misemo, sikukuu, chakula na maisha ya kila siku ya miaka iliyopita."
+  - "Toa chaguo mbili au tatu ili jibu litambulike badala ya kukumbukwa bila msaada."
+  - "Sema jibu kwa upole kisha uendelee. Kisia lolote linaloanzisha hadithi ni kisia kizuri."
+  - "Hakuna alama, hakuna timu zinazokimbizana, hakuna kumwita mtu mmoja. Ruhusu majibu yatoke kwa wote waliopo."
+  - "Inapokuwa vigumu kuchagua kati ya majibu, badili kwenda kwenye maswali ya hiki au kile yasiyo na jibu sahihi."
 faq:
-  - q: "Je, maswali ya trivia ni shughuli nzuri kwa watu wenye dementia?"
-    a: "Yanaweza kuwa mazuri yakiendeshwa kwa upole. Alzheimer's Foundation of America inataja trivia miongoni mwa shughuli za hatua ya mwanzo. Weka maswali kuhusu mada zinazojulikana kwa muda mrefu, toa machaguo, usimweke mtu mmoja katika hali ngumu, na uchukulie majibu kama njia ya kuanza mazungumzo badala ya mtihani."
-  - q: "Ni mada zipi zinafaa zaidi kwa trivia ya dementia?"
-    a: "Mambo yaliyojifunzwa zamani huwa yanafaa zaidi: nyimbo maarufu na waimbaji wa ujana wa mtu huyo, methali zinazojulikana, sikukuu, chakula, michezo, na maisha ya kila siku kama kuletewa maziwa mlangoni na simu za kupiga kwa kuzungusha. Epuka habari za hivi karibuni na chochote kinachohitaji kukumbuka kitu cha mapema katika kipindi hicho."
-  - q: "Naendeshaje trivia katika makazi ya wazee bila kumwaibisha mtu?"
-    a: "Soma kila swali kwa kikundi kizima, onyesha au sema machaguo, na karibisha majibu kutoka kwa yeyote. Usiwaite watu mmoja mmoja wala kuweka alama. Sema jibu kwa tabasamu chochote kilichobashiriwa, na uulize swali la kufuatilia kama 'Nani hapa aliwahi kwenda sinema?' ili kulifanya kuwa hadithi."
-  - q: "Naweza kufanya nini badala ya trivia katika hatua za baadaye?"
-    a: "Badilisha kwenda maswali yasiyo na jibu baya, kama 'Chai au kahawa?' au 'Ufukwe au milima?', na kwenda kukamilisha methali au nyimbo zinazojulikana pamoja. Kutazama picha na kuzieleza pamoja pia hufanya kazi vizuri."
+  - q: "Je, maswali ya maarifa ni shughuli nzuri kwa watu wanaoishi na ugonjwa wa kusahau?"
+    a: "Yanaweza kuwa, yakiendeshwa kwa upole. Alzheimer's Foundation of America inataja maswali ya maarifa miongoni mwa shughuli za hatua ya awali. Weka maswali kuhusu mada zinazofahamika tangu zamani, toa chaguo, usimweke mtu mmoja pabaya hadharani, na tazama majibu kama njia ya kuanzisha mazungumzo badala ya mtihani."
+  - q: "Ni mada zipi zinafaa zaidi kwa maswali ya maarifa kwa watu wanaoishi na ugonjwa wa kusahau?"
+    a: "Mambo yaliyojifunzwa zamani mara nyingi hufaa zaidi: nyimbo na waimbaji maarufu wa ujana wa mtu, misemo inayofahamika, sikukuu, chakula, michezo, na maisha ya kila siku kama usafirishaji wa maziwa na simu za kuzungusha. Epuka habari za hivi karibuni na jambo lolote linalohitaji kukumbuka kitu kutoka mapema katika kipindi hicho."
+  - q: "Ninawezaje kuendesha maswali ya maarifa katika nyumba ya utunzaji bila kumwaibisha mtu yeyote?"
+    a: "Soma kila swali kwa kundi lote, onyesha au sema chaguo, na karibisha majibu kutoka kwa mtu yeyote. Usimwite mtu binafsi au uhesabu alama. Sema jibu kwa tabasamu bila kujali kilichokisiwa, kisha uliza swali la ziada kama 'Nani hapa aliwahi kwenda kwenye sinema ya gari?' ili kugeuza kuwa hadithi."
+  - q: "Ninaweza kufanya nini badala ya maswali ya maarifa katika hatua za baadaye?"
+    a: "Badili kwenda kwenye maswali yasiyo na jibu lisilo sahihi, kama 'Kahawa au chai?' au 'Pwani au milimani?', na kumalizia pamoja misemo au nyimbo zinazofahamika. Kutazama picha na kuzielezea pamoja pia kunafaa vizuri."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia ni mojawapo ya shughuli za kikundi zinazoombwa zaidi katika makazi ya wazee na vituo vya mchana, na familia nyingi pia huicheza mezani jikoni. Ikiendeshwa kwa njia ya kawaida, kwa pointi na mtu mmoja akijibu, inaweza kumfanya mtu mwenye dementia ajisikie amewekwa katika hali ngumu. Ikiendeshwa kwa upole, ni njia ya kupendeza ya kusikia hadithi. Hapa chini kuna maswali 50 rahisi yenye machaguo ya majibu na kitu cha kuzungumzia kwa kila moja, likifuatiwa na jinsi ya kuendesha kipindi. Maswali haya yamebadilishwa ili yafae wasomaji wengi wa Kiswahili; yarekebishe kulingana na mtu unayemhudumia.
+Maswali ya maarifa ni moja ya shughuli za kikundi zinazoulizwa sana katika nyumba za utunzaji na programu za mchana, na familia nyingi hucheza mezani jikoni pia. Yanapoendeshwa kwa njia ya kawaida, kwa alama na mtu mmoja kujibu, yanaweza kumfanya mtu anayeishi na ugonjwa wa kusahau ahisi yuko pabaya hadharani. Yanapoendeshwa kwa upole, ni njia yenye uchangamfu ya kusikia hadithi. Hapa chini kuna maswali 50 rahisi yenye chaguo za majibu na jambo la kuzungumzia kwa kila moja, ikifuatiwa na jinsi ya kuendesha kipindi.
 
-## Unafanyaje trivia ifanye kazi kwa mtu mwenye dementia?
+## Unawezaje kufanya maswali ya maarifa yafae kwa mtu anayeishi na ugonjwa wa kusahau?
 
-Ifanye iwe kuhusu kutambua na kukumbuka mambo ya zamani, na ufanye kila jibu likaribishwe.
+Yafanye yawe kuhusu kutambua na kukumbuka mambo ya zamani, na ufanye kila jibu likaribishwe.
 
-1. **Uliza kuhusu zamani za mbali.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) inasema dalili ya kawaida zaidi ya mwanzo ya Alzheimer ni shida ya kukumbuka taarifa mpya zilizojifunzwa. Nyimbo, methali na maisha ya kila siku ya miongo iliyopita mara nyingi ni ardhi rahisi zaidi.
-2. **Toa machaguo kila mara.** Kuchagua jibu sahihi kati ya mawili au matatu ni rahisi zaidi kuliko kulitoa kutoka kwa kitu.
-3. **Soma maswali kwa sauti na yaonyeshe makubwa.** Ubao mweupe au kompyuta kibao iliyoshikwa juu husaidia watu wanaosikia kidogo.
-4. **Toa jibu kwa ukarimu.** Kama hakuna anayejua, lisema kwa joto na uendelee. Kamwe "Haya, unalijua hili."
-5. **Hakuna alama.** Si kwa watu mmoja mmoja wala kwa meza. Kama watu wanataka namba, weka jumla moja ya kikundi.
-6. **Kamwe usimwite mtu mmoja.** Acha majibu yatoke kwa yeyote. Mkiwa wawili tu, jibuni pamoja: "Nadhani ni piano. Wewe unadhani nini?"
-7. **Tumia mada ya mazungumzo.** Jibu ni mwanzo, si mwisho. Hadithi ndizo lengo halisi.
-8. **Ifanye fupi.** Maswali kumi yenye hadithi katikati yanatosha.
+1. **Uliza kuhusu wakati wa zamani sana.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) inasema dalili ya awali inayojulikana zaidi ya ugonjwa wa Alzheimer ni ugumu wa kukumbuka taarifa mpya ulizojifunza. Nyimbo, misemo na maisha ya kila siku ya miongo iliyopita mara nyingi ni sehemu rahisi zaidi.
+2. **Kila wakati toa chaguo.** Kuchagua jibu sahihi kati ya mawili au matatu ni rahisi zaidi kuliko kulitoa bila msaada wowote.
+3. **Soma maswali kwa sauti na uyaonyeshe kwa ukubwa.** Ubao mweupe au kompyuta kibao iliyoinuliwa juu husaidia watu wanaosikia kwa shida.
+4. **Toa jibu kwa uhuru.** Kama hakuna anayejua, liseme kwa upole kisha uendelee. Usiseme kamwe “Haya, unajua hili.”
+5. **Hakuna alama.** Si kwa mtu binafsi wala kwa meza. Kama watu wanataka namba, weka jumla moja ya kundi.
+6. **Usimwite mtu mmoja kamwe.** Ruhusu majibu yatoke kwa mtu yeyote. Mnapokuwa wawili tu, jibueni pamoja: “Nadhani ni piano. Wewe unafikiri vipi?”
+7. **Tumia hoja ya kuzungumzia.** Jibu ni mwanzo, si mwisho. Hadithi ndizo lengo halisi.
+8. **Fanya kipindi kiwe kifupi.** Maswali kumi yenye hadithi katikati yanatosha.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inaeleza kanuni kuu kwa urahisi: angalia hasira na hakikisha mtu anajisikia amefanikiwa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inataja trivia miongoni mwa shughuli za hatua ya mwanzo. Katika hatua ya kati, shikilia machaguo mawili na tegemea mada za mazungumzo. Baadaye, badilisha kwenda maswali ya hiki-au-kile yaliyo chini zaidi.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inaweka kanuni ya msingi kwa urahisi: angalia dalili za kuchanganyikiwa na hakikisha mtu anahisi amefanikiwa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inataja maswali ya maarifa miongoni mwa shughuli za hatua ya awali. Katika hatua ya kati, tumia chaguo mbili tu na utegemee zaidi hoja za kuzungumzia. Baadaye, badili kwenda kwenye maswali ya hiki au kile yaliyo hapa chini.
 
-## Maswali ya muziki na burudani
+## Maswali ya maarifa kuhusu muziki na burudani
 
-Jibu limeandikwa kwa **herufi nzito**. Yarekebishe kwa mtu huyo: mtu aliyekulia na muziki fulani atataka waimbaji tofauti na aliyekulia na muziki mwingine.
+Jibu liko katika **herufi nzito**. Yarekebishe kulingana na mtu: mtu aliyekulia na muziki wa Motown atataka waimbaji tofauti na mtu aliyekulia na bendi kubwa.
 
-| Swali | Machaguo | Zungumzia |
+| Swali | Chaguo | Zungumzia kuhusu |
 | --- | --- | --- |
-| Nani aliitwa Mfalme wa Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Uliwahi kumwona Elvis kwenye televisheni? |
-| Mwimbaji gani alipewa jina la utani Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Wimbo upi wa Sinatra unaupenda zaidi? |
-| Bing Crosby aliota Krismasi nyeupe (White...) | **Christmas**, harusi, nyumba | Imbeni mstari pamoja |
-| Louis Armstrong aliimba "What a Wonderful..." | Day, **World**, Life | Ni nini kinachofanya dunia iwe ya ajabu kwako? |
-| "Over the Rainbow" iliimbwa na Judy Garland katika filamu gani? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Ulizitazama wapi filamu ulizozipenda? |
-| Nani aliigiza kama Lucy katika "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Ni vipindi gani familia yenu ilitazama pamoja? |
-| Wimbo "Pata Pata" uliimbwa na nani? | **Miriam Makeba**, Judy Garland, Frank Sinatra | Ulicheza dansi kwa wimbo huo? |
-| Ni mwimbaji gani wa reggae aliyeimba "No Woman, No Cry"? | Elvis Presley, **Bob Marley**, Louis Armstrong | Ni wimbo gani wake unaoukumbuka? |
-| Ala gani ina funguo 88? | Gitaa, **piano**, tarumbeta | Kuna yeyote katika familia yenu aliyecheza? |
-| Dansi ipi huhesabiwa moja-mbili-tatu, moja-mbili-tatu? | **Waltz**, twist, tango | Ulikwenda kucheza dansi wapi? |
+| Nani aliitwa Mfalme wa Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Je, uliwahi kumwona Elvis kwenye televisheni? |
+| Ni mwimbaji gani aliyepewa jina la utani Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Ni wimbo upi wa Sinatra unaoupenda zaidi? |
+| Bing Crosby aliota kuhusu Krismasi yenye... | **theluji nyeupe**, harusi, nyumba | Imbeni mstari mmoja pamoja |
+| Louis Armstrong aliimba "What a Wonderful..." | Day, **World**, Life | Ni nini kinakufanya uone dunia ni nzuri kwako? |
+| "Over the Rainbow" iliimbwa na Judy Garland katika filamu gani? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Uliwahi kutazama filamu uzipendazo wapi? |
+| Nani aliigiza kama Lucy katika "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Ni vipindi vipi familia yenu ilitazama pamoja? |
+| Ni mpanda farasi gani wa filamu aliyeendesha farasi aitwaye Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Je, ulikuwa ukicheza kama mpanda farasi ukiwa mtoto? |
+| Nani aliendesha kipindi cha "The Tonight Show" kwa miaka thelathini? | Ed Sullivan, **Johnny Carson**, Bob Hope | Je, ulikuwa ukikesha kuchelewa kutazama televisheni? |
+| Chombo gani cha muziki kina vitufe themanini na nane? | Gitaa, **piano**, tarumbeta | Je, kuna mtu yeyote katika familia yenu aliyecheza chombo cha muziki? |
+| Ngoma gani huhesabiwa moja-mbili-tatu, moja-mbili-tatu? | **Waltz**, twist, tango | Ulikuwa ukienda kucheza densi wapi? |
 
-Kwa zaidi kuhusu muziki, tazama [shughuli za muziki kwa dementia](/activities/music/).
+Kwa zaidi kuhusu muziki, angalia [shughuli za muziki kwa watu wanaoishi na ugonjwa wa kusahau](/activities/music/).
 
-## Maswali ya maisha ya kila siku
+## Maswali ya maarifa kuhusu maisha ya kila siku
 
-| Swali | Machaguo | Zungumzia |
+| Swali | Chaguo | Zungumzia kuhusu |
 | --- | --- | --- |
-| Kabla ya jokofu, nyumba nyingi zilihifadhi chakula baridi kwenye... | **Sanduku la barafu**, oveni, dari | Nani aliyeleta barafu? |
-| Nani alileta maziwa mlangoni kwenye chupa za kioo? | Mpeleka barua, **mpeleka maziwa**, muuza magazeti | Ni nini kingine kilicholetwa nyumbani? |
-| Unapigaje simu ya kuzungusha? | Kubonyeza vitufe, **kuzungusha gurudumu**, kuizungumzia | Niambie kuhusu simu ya nyumbani kwenu |
-| Kampuni ipi ilitengeneza gari la Model T? | **Ford**, Chevrolet, Buick | Niambie kuhusu gari ulilolipenda |
-| Duka la mkate huuza nini zaidi? | **Mkate**, viatu, vitabu | Ulipenda mkate wa aina gani? |
-| Kichezeo gani ni chemchemi ya chuma inayoweza kushuka ngazi? | Yo-yo, **Slinky**, hula hoop | Ni vichezeo gani ulivipenda? |
-| Sinema ya wazi ya magari (drive-in) ilikuwa mahali pa kutazama... | **Filamu ukiwa garini**, mechi, gwaride | Ulikwenda na nani? |
-| Wiki ina siku ngapi? | 5, **7**, 10 | Siku ipi ya wiki ulipenda zaidi? |
-| Mwaka una miezi mingapi? | 10, **12**, 14 | Ulizaliwa mwezi gani? |
-| Basi la shule kwa kawaida lina rangi gani? | Nyekundu, **njano**, bluu | Ulifikaje shuleni? |
+| Kabla ya majokofu, nyumba nyingi zilihifadhi chakula kikiwa baridi ndani ya... | **sanduku la barafu**, oveni, chumbani juu ya paa | Nani alileta barafu? |
+| Nani alileta maziwa mlangoni katika chupa za kioo? | Mtoaji barua, **muuzaji maziwa**, muuza magazeti | Ni vitu gani vingine vililetwa nyumbani? |
+| Ulipigaje simu kwa simu ya kuzungusha? | Kubonyeza vitufe, **kuzungusha gurudumu**, kuongea nayo | Niambie kuhusu simu iliyokuwepo nyumbani kwenu |
+| Kampuni gani ilitengeneza gari la Model T? | **Ford**, Chevrolet, Buick | Niambie kuhusu gari ulilolipenda |
+| Ungeweza kumpata muuzaji wa vinywaji baridi wapi? | **Kwenye kaunta ya vinywaji**, dukani mwa mikate, benki | Uliagiza nini kauntani? |
+| Kinyago gani ni chemchemi ya chuma inayoweza kutembea chini ya ngazi? | Yo-yo, **Slinky**, hula hoop | Ni vinyago vipi ulivyovipenda? |
+| Drive-in ilikuwa mahali pa kutazama... | **filamu ukiwa ndani ya gari lako**, michezo ya mpira, gwaride | Ulienda na nani? |
+| Uso wa nani uko kwenye noti ya dola moja? | Lincoln, **George Washington**, Jefferson | Dola moja ilinunua nini wakati huo? |
+| Uso wa nani uko kwenye senti moja? | **Abraham Lincoln**, Washington, Franklin | Je, ulihifadhi senti kwenye chupa wakati huo? |
+| Basi la shule huwa na rangi gani kwa kawaida? | Nyekundu, **njano**, bluu | Uliendaje shuleni? |
 
-## Sikukuu, asili na mahali
+## Sikukuu, asili na maeneo
 
-| Swali | Machaguo | Zungumzia |
+| Swali | Chaguo | Zungumzia kuhusu |
 | --- | --- | --- |
-| Mwaka mpya huanza mwezi gani? | Desemba, **Januari**, Machi | Mliadhimishaje mwaka mpya? |
-| Mwezi gani ni wa mwisho wa mwaka? | Novemba, **Desemba**, Januari | Mlifanya nini mwisho wa mwaka? |
-| Siku gani huja kabla ya Jumapili? | Jumatatu, **Jumamosi**, Ijumaa | Jumamosi ilikuwaje nyumbani kwenu? |
-| Mama wa mama yako huitwaje? | Shangazi, **bibi**, dada | Mlimwitaje bibi yako? |
-| Mkono mmoja una vidole vingapi? | 4, **5**, 6 | Ulifundishwa kuhesabu kwa vidole? |
-| Ni bahari ipi iko mashariki mwa Afrika? | Atlantiki, **Hindi**, Aktiki | Uliwahi kwenda ufukweni? |
-| Mlima mrefu zaidi barani Afrika ni upi? | **Kilimanjaro**, Mlima Kenya, Mlima Meru | Uliwahi kuuona? |
-| Nyuki hutengeneza nini? | Maziwa, **asali**, hariri | Asali kwenye mkate au kwenye chai? |
-| Mtoto wa ng'ombe anaitwaje? | Mwanapunda, **ndama**, mwanambuzi | Uliwahi kuishi karibu na shamba? |
-| Ni ua refu la njano lipi maarufu kwa kugeukia jua? | Waridi, **alizeti**, tulipu | Nini kilikua kwenye bustani yako? |
-| Mwaka wa kurukaruka una siku ngapi? | 365, **366**, 360 | Niambie kuhusu siku ya kuzaliwa unayoikumbuka |
-| Ni majira gani yanayofuata baridi? | Vuli, **masika**, kiangazi | Ni majira gani unayoyapenda zaidi? |
+| Ni sikukuu gani iko Alhamisi ya nne ya Novemba? | Labor Day, **Thanksgiving**, Memorial Day | Ni nini kilikuwapo mezani kwenu kila wakati? |
+| Jack-o'-lanterns hutengenezwa kwa sikukuu gani? | **Halloween**, Easter, Christmas | Niambie kuhusu Halloween ulipokulia |
+| Tarehe nne Julai husherehekea Tangazo la... | Haki, **Uhuru**, Ukombozi | Ulitazama fataki wapi? |
+| Siku ya Akina Mama iko katika mwezi gani? | Aprili, **Mei**, Juni | Familia yenu iliadhimishaje? |
+| Bendera ya Marekani ina nyota ngapi? | 48, **50**, 52 | Bendera ilikuwa na nyota 48 hadi 1959. Jibu lolote ni kumbukumbu nzuri |
+| Ni bahari gani iko Pwani ya Mashariki? | Pacific, **Atlantic**, Arctic | Je, uliwahi kwenda ufukweni? |
+| Sanamu ya Uhuru iko katika jiji gani? | Boston, **New York**, Philadelphia | Je, umewahi kwenda New York? |
+| Nyuki hutengeneza nini? | Maziwa, **asali**, hariri | Asali kwenye tosti au kwenye chai? |
+| Ndama wa ng’ombe anaitwaje? | Mtoto wa farasi, **ndama**, mtoto wa mbuzi | Je, uliwahi kuishi karibu na shamba? |
+| Ua gani refu la njano linafahamika kwa kugeukia jua? | Waridi, **alizeti**, tulipu | Ni nini kilikua bustanini kwenu? |
+| Mwaka mrefu una siku ngapi? | 365, **366**, 360 | Niambie kuhusu siku ya kuzaliwa unayoikumbuka |
+| Ni msimu gani huja baada ya baridi kali? | Majira ya kupukutika majani, **majira ya kuchipua**, kiangazi | Ni msimu upi unaoupenda zaidi? |
 
-## Maswali ya chakula na michezo
+## Maswali ya maarifa kuhusu chakula na michezo
 
-| Swali | Machaguo | Zungumzia |
+| Swali | Chaguo | Zungumzia kuhusu |
 | --- | --- | --- |
-| Zabibu kavu ni... zilizokaushwa | Plamu, **zabibu**, cheri | Uliweka zabibu kavu kwenye chakula cha kubeba? |
-| Plamu kavu (prunes) ni... zilizokaushwa | **Plamu**, tini, tufaha | Nani katika familia yenu alipenda plamu kavu? |
-| Siagi ya karanga hutengenezwa kwa... | Mchele, **karanga**, maharage | Laini au yenye vipande? |
-| Guacamole hutengenezwa zaidi kwa... | Njegere, **parachichi**, matango | Ni michuzi gani ilitolewa kwenye sherehe? |
-| Ndizi mbivu ina rangi gani? | Bluu, **njano**, nyekundu | Unapenda ndizi ya kuchoma au ya kupika? |
-| Timu ya mpira wa miguu ina wachezaji wangapi uwanjani? | 9, **11**, 13 | Uliishabikia timu gani? |
-| Mpira wa miguu huchezwa kwa dakika ngapi kwa jumla? | 60, **90**, 120 | Uliwahi kucheza mpira? |
-| Pele alikuwa maarufu kwa mchezo gani? | Ndondi, **mpira wa miguu**, gofu | Ulikwenda kutazama mechi? |
-| Uwanja wa kawaida wa gofu una mashimo mangapi? | 9, **18**, 24 | Umewahi kucheza gofu, au gofu ndogo? |
-| Mchezo gani hutumia raketi na wavu? | **Tenisi**, mbio, kuogelea | Nani alitazama tenisi nyumbani kwenu? |
+| Zabibu kavu ni... | Plamu zilizokaushwa, **zabibu zilizokaushwa**, cheri zilizokaushwa | Je, uliweka zabibu kavu kwenye chakula cha mchana? |
+| Prunes ni... | **Plamu zilizokaushwa**, tini zilizokaushwa, tufaha zilizokaushwa | Nani katika familia yenu alipenda prunes? |
+| Siagi ya karanga na... | **jeli**, jibini, hamu | Iliyosagwa sana au yenye vipande? |
+| Guacamole hutengenezwa zaidi kwa... | Njegere, **parachichi**, matango | Ni vitoweo vipi vilitolewa kwenye sherehe? |
+| Pai gani inapendwa sana wakati wa Thanksgiving? | **Pai ya malenge**, pai ya limau, pai ya cheri | Ni pai gani uliitengeneza? |
+| Timu ya besiboli huwa na wachezaji wangapi uwanjani? | 7, **9**, 11 | Ni timu gani uliishabikia? |
+| Mipigo mingapi ya strike hufanya mtu atolewe nje katika besiboli? | Miwili, **mitatu**, minne | Je, uliwahi kucheza mpira? |
+| Babe Ruth alikuwa maarufu kwa mchezo gani? | Ndondi, **besiboli**, gofu | Je, uliwahi kwenda kutazama michezo ya mpira? |
+| Uwanja wa kawaida wa gofu una mashimo mangapi? | 9, **18**, 24 | Je, umewahi kucheza gofu, au gofu ndogo? |
+| Katika mchezo gani unapata touchdown? | **Mpira wa miguu wa Marekani**, mpira wa magongo, mpira wa vikapu | Nani alitazama mpira wa miguu wa Marekani nyumbani kwenu? |
 
-## Methali zinazojulikana
+## Misemo inayofahamika
 
-Kukamilisha methali hutumia lugha iliyojifunzwa zamani na mara nyingi huja kwa urahisi. Mchezo wetu wa [Kamilisha methali](/games/finish-the-saying/) una nyingi zaidi, ukiwa na kugusa kuonyesha mwisho wowote.
+Kumalizia msemo hutumia lugha iliyojifunzwa zamani na mara nyingi huja kwa urahisi. Mchezo wetu wa [Malizia msemo](/games/finish-the-saying/) una misemo mingine mingi, ukiwa na njia ya kugusa ili kuonyesha mwisho wowote.
 
-| Methali | Machaguo | Zungumzia |
+| Msemo | Chaguo | Zungumzia kuhusu |
 | --- | --- | --- |
-| Haba na haba hujaza... | **Kibaba**, kikapu, kijiko | Nani alikuwa akikuambia hivi? |
-| Haraka haraka haina... | **Baraka**, mwisho, safari | Wewe ni mtu wa asubuhi? |
-| Penye nia pana... | **Njia**, mlango, mti | Niambie kuhusu jambo ulilolitaka sana |
-| Subira huvuta... | **Heri**, kuni, maji | Nani katika familia yenu alikuwa na subira? |
-| Usipoziba ufa utajenga... | **Ukuta**, nyumba, mlango | Nani alitengeneza vitu nyumbani kwenu? |
-| Asiyefunzwa na mamaye hufunzwa na... | **Ulimwengu**, baba, shule | Ulijifunza nini kutoka kwa mama yako? |
-| Kidole kimoja hakivunji... | **Chawa**, mti, jiwe | Mlifanya nini pamoja kama familia? |
-| Chovya chovya humaliza buyu la... | **Asali**, maji, maziwa | Ulipenda kitu gani kitamu? |
+| Tufaha moja kwa siku humweka... | **daktari mbali**, mvua mbali, paka mbali | Nani alikuwa akikuambia hivi? |
+| Ndege wa mapema hupata... | basi, **mdudu**, treni | Wewe ni mtu wa asubuhi? |
+| Usihesabu vifaranga kabla ya... | **kuanguliwa**, kulala, kuimba | Je, familia yenu ilifuga kuku? |
+| Senti iliyookolewa ni senti... | **iliyopatikana**, iliyopotea, iliyotumika | Nani alikuwa mweka akiba katika familia yenu? |
+| Nyumbani ni mahali... | bustani ilipo, **moyo ulipo**, jikoni ilipo | Ni nini hufanya mahali pahisi kama nyumbani? |
+| Ni heri kuchelewa kuliko... | mapema, **kamwe**, kujuta | Nani alikuwa akichelewa kila mara? |
+| Kila wingu lina upande wa... | **fedha**, kijiko, sarafu | Niambie kuhusu bahati nzuri uliyoipata |
+| Matendo husema kwa sauti zaidi kuliko... | **maneno**, muziki, ngurumo | Niambie kuhusu mtu aliyekuwa akisema hivyo |
 
-## Maswali ya hiki-au-kile yasiyo na jibu baya
+## Maswali ya hiki au kile yasiyo na jibu lisilo sahihi
 
-Haya yanafaa kila hatua, ikiwemo baadaye, kwa sababu hakuna kitu cha kupatia. Uliza, sikiliza, na ushiriki jibu lako pia.
+Haya yanafaa katika kila hatua, hata za baadaye, kwa sababu hakuna kitu cha kukosea. Uliza, sikiliza, na shiriki jibu lako pia.
 
-- Chai au kahawa?
-- Ufukwe au milima?
+- Kahawa au chai?
+- Pwani au milimani?
 - Mbwa au paka?
-- Kiangazi au baridi?
-- Keki au tunda?
-- Kucheza dansi au kutazama?
+- Kiangazi au baridi kali?
+- Pai au keki?
+- Kucheza densi au kutazama?
 - Macheo au machweo?
 - Baraza la mbele au ua wa nyuma?
 - Redio au santuri?
-- Chapati au mayai?
-- Waridi au daisi?
-- Safari ya treni au ya barabarani?
+- Chapati za maji au mayai?
+- Waridi au daisies?
+- Safari ya treni au safari ya barabarani?
 
-Kwa maswali ya mazungumzo yanayoendana na picha, jaribu [Kadi za mazungumzo](/games/conversation-cards/) zetu za kuchapisha.
+Kwa vidokezo vya mazungumzo vinavyoendana na picha, jaribu [Kadi za mazungumzo](/games/conversation-cards/) zetu zinazoweza kuchapishwa.
 
-## Unaendeshaje kipindi cha trivia katika makazi ya wazee au kikundi?
+## Unawezaje kuendesha kipindi cha maswali ya maarifa katika nyumba ya utunzaji au kikundi?
 
-1. **Waketishe watu ili waweze kuona na kusikia.** Vifaa vya kusikia vikiwa vimewekwa, miwani ikiwa imevaliwa, televisheni imezimwa.
-2. **Iwasilishe kama soga.** "Nina maswali kuhusu siku za zamani, na nina hakika mnajua zaidi kuliko mimi."
-3. **Soma kila swali mara mbili na uonyeshe machaguo makubwa.**
+1. **Waketishe watu ili waweze kuona na kusikia.** Visaidizi vya kusikia viwe ndani, miwani iwe imevaliwa, televisheni iwe imezimwa.
+2. **Kitambulishe kama mazungumzo.** “Nina maswali kadhaa kuhusu siku za zamani, na ninaamini mnajua zaidi kuliko mimi.”
+3. **Soma kila swali mara mbili na uonyeshe chaguo kwa ukubwa.**
 4. **Karibisha majibu kutoka popote chumbani.** Rudia majibu mazuri ili kila mtu asikie.
-5. **Sema jibu kwa ajili ya kila mtu,** kisha uulize mada ya mazungumzo kwa chumba kizima.
-6. **Fuata nguvu ya kikundi.** Kama swali moja linaanzisha dakika kumi za hadithi, iache.
-7. **Maliza kwa wimbo au raundi ya hiki-au-kile,** ili kila mtu amalize kwa kitu rahisi.
+5. **Sema jibu kwa kila mtu,** kisha uliza hoja ya kuzungumzia kwa chumba kizima.
+6. **Fuata hali ya watu.** Kama swali moja linaanzisha hadithi za dakika kumi, liruhusu.
+7. **Malizia kwa wimbo au mzunguko wa maswali ya hiki au kile,** ili kila mtu amalizie kwa jambo rahisi.
 
-Kwa miundo mingine ya vikundi, ikiwemo bingo ya picha na kuimba pamoja, tazama [shughuli za vikundi kwa makazi ya wazee](/activities/care-home-groups/).
+Kwa aina nyingine za vikundi, zikiwemo bingo ya picha na kuimba pamoja, angalia [shughuli za vikundi kwa nyumba za utunzaji](/activities/care-home-groups/).
 
-## Wakati wa kubadilisha mpango
+## Ni wakati gani wa kubadilisha mpango
 
-Kama mtu anaonekana ana wasiwasi, anakuwa kimya au anasema "Sijui" zaidi ya mara moja, ifanye iwe rahisi: punguza hadi machaguo mawili, jibuni pamoja, au badilisha kwenda maswali ya hiki-au-kile. Kama kikundi kingependa kuzungumzia swali moja alasiri nzima, huo ni mafanikio. Lengo halikuwa majibu sahihi kamwe. Lilikuwa muda katika kampuni nzuri.
+Kama mtu anaonekana ana wasiwasi, anakaa kimya au anasema “Sijui” zaidi ya mara moja, fanya iwe rahisi zaidi: tumia chaguo mbili tu, jibueni pamoja, au badili kwenda kwenye maswali ya hiki au kile. Kama kundi lingependa kuzungumzia swali moja mchana kutwa, hilo ni mafanikio. Lengo halikuwa majibu sahihi kamwe. Lilikuwa ni muda wa kuwa pamoja kwa furaha.

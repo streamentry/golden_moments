@@ -1,35 +1,35 @@
 ---
-title: "Tableta edo telefonoa prestatzea dementzia duen norbaitentzat"
-seoTitle: "Presta ezazu tableta edo telefonoa dementzia duen norbaitentzat"
-description: "Tableta eta telefonoa prestatzeko urratsak dementzia duen norbaitentzat: aplikazio bakarrera mugatu, testu handiagoa, jakinarazpen gutxiago eta pribatutasuna."
+title: "Tableta edo telefonoa prestatzea dementia kasuan"
+seoTitle: "Tableta edo telefonoa prestatzea dementia kasuan"
+description: "Tableta edo telefonoa pausoz pauso nola prestatu: aplikazio bakarrera mugatu, testu handiagoa, jakinarazpen gutxiago eta pribatutasuna zaindu."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Egin tableta edo telefonoa sinpleagoa eskura eman aurretik. Mugatu
-  aplikazio bakarrera iPad eta iPhone-n Guided Access erabiliz, edo Android-en
-  aplikazioak ainguratuz; edo erabili Apple-ren Assistive Access diseinu
+  Egin tableta edo telefonoa errazagoa eskuetan utzi aurretik. Mugatu aplikazio
+  batera «Sarbide gidatua» erabiliz iPad edo iPhonean, edo aplikazioak
+  ainguratuz Androiden; edo erabili Apple-ren «Sarbide lagungarria» diseinu
   sinpleago baterako. Handitu testua, isilarazi jakinarazpenak, utzi aplikazio
-  ezagun gutxi batzuk soilik hasierako pantaila batean, ezarri bolumena,
-  erabili euskarria eta mugatu aplikazioen baimenak. Erabili elkarrekin,
-  pantailarik gabeko jardueren ondoan.
+  ezagun gutxi batzuk hasierako pantaila bakarrean, doitu bolumena, erabili
+  euskarri bat eta mugatu aplikazioen baimenak. Erabili elkarrekin,
+  pantailarik gabeko jarduerekin txandakatuta.
 keyPoints:
-  - "Guided Access-ek (iPhone, iPad) eta aplikazioak ainguratzeak (Android) pantaila aplikazio bakarrean mantentzen dute zuk desblokeatu arte."
-  - "Apple-ren Assistive Access-ek desgaitasun kognitiboa duten pertsonentzat pentsatutako diseinu sinpleagoa eskaintzen du."
-  - "Handitu testua eta itzali jakinarazpenak eta leiho gainerakorrak, ezerk ez dezan eten edo nahasi."
-  - "Utzi aplikazio ezagun gutxi batzuk soilik hasierako pantaila bakarrean, eta ezarri bolumena hasi aurretik."
-  - "Euskarri batek eta inoiz lekuz aldatzen ez den kargatzeko leku batek gailua errazago erabiltzen eta aurkitzen laguntzen dute."
-  - "Berrikusi aplikazioen baimenak eta datuen partekatzea: HIPAAk, oro har, ez ditu babesten gailu pertsonal batean gordetako datuak."
+  - "«Sarbide gidatua» (iPhone, iPad) eta aplikazioak ainguratzea (Android) pantaila aplikazio bakarrean mantentzen dute zuk desblokeatu arte."
+  - "Apple-ren «Sarbide lagungarria»k diseinu sinpleago bat eskaintzen du, desgaitasun kognitiboa duten pertsonentzat pentsatua."
+  - "Handitu testua eta desaktibatu jakinarazpenak eta leiho gainerakorrak, ezerk ez dezan eten edo nahastu."
+  - "Utzi aplikazio ezagun gutxi batzuk hasierako pantaila bakarrean, eta doitu bolumena hasi aurretik."
+  - "Euskarri batek eta inoiz lekuz aldatzen ez den kargatzeko toki batek gailua erabiltzea eta aurkitzea errazten dute."
+  - "Berrikusi aplikazioen baimenak eta datuen partekatzea: HIPAAk, oro har, ez du babesten gailu pertsonal batean gordetzen dena."
 faq:
-  - q: "Nola eragotzi dezaket dementzia duen norbaitek aplikazio batetik irtetea iPad batean?"
-    a: "Aktibatu Guided Access Ezarpenak > Irisgarritasuna > Guided Access atalean, eta ezarri pasakode bat. Ireki aplikazioa, sakatu hiru aldiz goiko botoia (edo Hasiera botoia iPad zaharragoetan) eta sakatu Hasi. iPada aplikazio horretan geratuko da norbaitek pasakodea sartu arte."
+  - q: "Nola eragotzi dezaket dementia duen pertsona batek aplikazio batetik irtetea iPad batean?"
+    a: "Aktibatu «Sarbide gidatua» Ezarpenak > Erabilerraztasuna > Sarbide gidatua atalean eta ezarri pasakode bat. Ireki aplikazioa, sakatu hiru aldiz goiko botoia (edo Hasiera botoia iPad zaharretan) eta sakatu Hasi. iPada aplikazio horretan geratuko da norbaitek pasakodea sartu arte."
   - q: "Nola blokea dezaket Android tableta bat aplikazio bakarrera?"
-    a: "Aktibatu aplikazioak ainguratzea Ezarpenak aplikazioan, normalean Segurtasuna (batzuetan Segurtasuna eta kokapena) > Aurreratua > Aplikazioak ainguratzea atalean. Ondoren, ireki aplikazioa, ireki Ikuspegi orokorra, sakatu aplikazioaren ikonoa goialdean eta sakatu Ainguratu. PINa, eredua edo pasahitza behar da aingura kentzeko."
-  - q: "Segurua al da Guided Access erabiltzea pertsonaren telefonoan?"
-    a: "Kontuz ibili. Apple-k dioenez, talka-detekzioa eta larrialdi-zerbitzuak ez daude erabilgarri Guided Access aktibatuta dagoen bitartean. Pertsonak larrialdi-deietarako telefonoa behar badu, erabili Guided Access berarekin zaudenean soilik, edo kontuan hartu Assistive Access erabiltzea."
-  - q: "Zenbat pantaila-denbora da egokia dementzia duen norbaitentzat?"
-    a: "Ez dago kopuru zehatzik. Saio labur eta partekatuek, paseoekin, musikarekin, etxeko lanekin eta elkarrizketarekin txandakatuta, egun osatuagoa ematen dute pantailaren aurrean bakarrik denbora luzez egoteak baino. Gailuak frustrazioa eragiten badu edo beste jarduerak alde batera uztea badakar, erabili gutxiago."
+    a: "Aktibatu aplikazioak ainguratzea Ezarpenak aplikazioan; normalean Segurtasuna atalean dago (batzuetan Segurtasuna eta kokapena) > Aurreratua > Aplikazioak ainguratzea. Gero, ireki aplikazioa, ireki Ikuspegi orokorra, sakatu aplikazioaren ikonoa goialdean eta sakatu Ainguratu. Zure PINa, eredua edo pasahitza behar da aingura kentzeko."
+  - q: "Segurua al da «Sarbide gidatua» erabiltzea pertsonaren telefonoan bertan?"
+    a: "Kontuz ibili. Apple-ren arabera, «Talka hautematea» eta larrialdi-zerbitzuak ez daude erabilgarri «Sarbide gidatua» aktibatuta dagoen bitartean. Pertsonak telefonoa larrialdi-deietarako behar badu, erabili «Sarbide gidatua» zure ondoan dagoenean bakarrik, edo kontuan hartu «Sarbide lagungarria» erabiltzea."
+  - q: "Zenbat pantaila-denbora da egokia dementia duen pertsona batentzat?"
+    a: "Ez dago kopuru zehatzik. Saio labur eta partekatuak, paseoak, musika, etxeko lanak eta elkarrizketekin txandakatuta, egunaldi osoagoa eskaintzen dute pantailaren aurrean bakarrik denbora luzez egotea baino. Gailuak frustrazioa eragiten badu edo beste jarduera batzuk alde batera uztea badakar, erabili gutxiago."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -66,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-Tableta bat modu atsegina izan daiteke irudiak, musika eta joko sinpleak elkarrekin partekatzeko. Baita nahasgarria ere: nahi gabe ukitze batek beste aplikazio bat irekitzen du, jakinarazpen bat agertzen da, testua txikia da, edo pantaila itzali egiten da jokoaren erdian. Zure aldetik prestaketa pixka batek horietako gehienak konpontzen ditu.
+Tableta bat modu ederra izan daiteke irudiak, musika eta joko errazak partekatzeko. Baina nahasgarria ere izan daiteke: ustekabeko ukitu batek beste aplikazio bat irekitzen du, jakinarazpen bat agertzen da, testua txikia da edo pantaila itzali egiten da jokoaren erdian. Zure aldetik prestaketa pixka batek horietako gehienak konpon ditzake.
 
-Urrats hauek iPhone, iPad eta Android-en berezko ezarpenak erabiltzen dituzte. Menuen izenak aldatu egin daitezke software-bertsioen eta gailu-egileen arabera; beraz, zerbait desberdin ikusten baduzu, jarraitu estekatutako Apple edo Google orria zure gailurako. Egin prestaketa zuk zeuk, elkarrekin eseri aurretik.
+Pauso hauek iPhone, iPad eta Android-en ezarpen integratuak erabiltzen dituzte. Menuen izenak alda daitezke software-bertsioen eta gailu-fabrikatzaileen arabera; beraz, zerbait desberdin ikusten baduzu, jarraitu zure gailurako estekatutako Apple edo Google orriari. Egin prestaketa zuk zeuk, elkarrekin eseri aurretik.
 
-## Erabili al dezake dementzia duen norbaitek tableta edo telefono bat?
+## Erabili behar al du dementia duen norbaitek tableta edo telefonoa?
 
-Pertsonaren araberakoa da. Jende askori gustatzen zaio tableta erabiltzea norbait ondoan duela, nahiz eta bakarrik ez litzatekeen moldatuko. Hasi elkarrekin erabiltzen, aplikazio bakarra irekita, minutu batzuetan. Gozamena eta elkarrizketa ekartzen baditu, jarraitu. Nahasmena edo frustrazioa ekartzen baditu, argazki-album bat, inprimatutako orriak edo musika egokiagoak izan daitezke. Gure [inprimatzeko jarduerak](/activities/printable/) aukera bat dira.
+Pertsonaren araberakoa da. Jende askori gustatzen zaio tableta norbait ondoan duela erabiltzea, nahiz eta bakarrik kudeatuko ez lukeen. Hasi elkarrekin erabiltzen, aplikazio bakarra irekita, minutu gutxi batzuez. Gozamena eta elkarrizketa ekartzen baditu, jarraitu. Nahasmena edo frustrazioa eragiten badu, agian argazki-album bat, inprimatutako orriak edo musika egokiagoak dira. Gure [inprimatzeko jarduerak](/activities/printable/) beste aukera bat dira.
 
-Tableta bat, normalean, telefono bat baino errazagoa da: pantaila eta irudiak handiagoak dira, eta ez da, gainera, pertsonaren larrialdietarako telefono-lerroa.
+Tableta bat telefonoa baino errazagoa izan ohi da: pantaila eta irudiak handiagoak dira, eta ez da, gainera, pertsonaren larrialdietarako telefonoa.
 
-## Nola blokea dezaket tableta edo telefono bat aplikazio bakarrera?
+## Nola blokea dezaket tableta edo telefonoa aplikazio bakarrera?
 
-Erabili Guided Access iPhone eta iPad-en, edo aplikazioak ainguratzea Android-en. Biek pantaila aplikazio bakarrean mantentzen dute kode bat sartu arte; horrela, nahi gabeko ukitze edo irristatze batek ezin du beste ezer ireki.
+Erabili «Sarbide gidatua» iPhone eta iPad-en, edo aplikazioak ainguratzea Android-en. Biek pantaila aplikazio bakarrean mantentzen dute kode bat sartu arte; horrela, ustekabeko ukitu edo hatz-pasadak ezin du beste ezer ireki.
 
-### iPad eta iPhone: Guided Access
+### iPad eta iPhone: «Sarbide gidatua»
 
-[Apple-ren Guided Access argibideen](https://support.apple.com/en-us/111795) arabera:
+[Apple-ren «Sarbide gidatua»ri buruzko jarraibideen](https://support.apple.com/en-us/111795) arabera:
 
-1. Ireki **Ezarpenak**, sakatu **Irisgarritasuna**, gero sakatu **Guided Access** eta aktibatu.
-2. **Pasakodearen ezarpenak** atalean, ezarri Guided Access pasakode bat. Face ID edo Touch ID ere baimendu ditzakezu.
-3. Aukeran: **Pantailaren blokeatze automatikoa** atalean, aukeratu pantaila saio batean zenbat azkar blokeatuko den, jokoaren erdian ez dadin itzali.
+1. Ireki **Ezarpenak**, sakatu **Erabilerraztasuna**, gero sakatu **Sarbide gidatua** eta aktibatu.
+2. **Pasakodearen ezarpenak** atalean, ezarri «Sarbide gidatua»rako pasakode bat. Face ID edo Touch ID ere baimendu ditzakezu.
+3. Aukerakoa: **Pantailaren blokeo automatikoa** atalean, aukeratu pantaila zenbat denboraren ondoren blokeatuko den saio batean, jokoaren erdian itzali ez dadin.
 4. Ireki erabili nahi duzun aplikazioa.
-5. Sakatu hiru aldiz alboko botoia (iPhone), goiko botoia (iPad) edo Hasiera botoia gailu zaharragoetan.
-6. Aukeran: inguratu ukituei erantzutea eragotzi nahi diezun pantailaren edozein zati. Sakatu **Aukerak** (edo **Saioaren ezarpenak**) bolumen-botoiak itzaltzeko edo pantaila biratzea geldiarazteko.
+5. Sakatu hiru aldiz alboko botoia (iPhone), goiko botoia (iPad) edo Hasiera botoia gailu zaharretan.
+6. Aukerakoa: inguratu ukituari erantzuteari utzi nahi diozun pantailako edozein zati. Sakatu **Aukerak** (edo **Saioaren ezarpenak**) bolumen-botoiak desaktibatzeko edo pantaila biratzea eragozteko.
 7. Sakatu **Hasi**.
 
-Saioa amaitzeko, sakatu hiru aldiz botoi bera berriro, sartu pasakodea eta sakatu **Amaitu**. Apple-k adierazten du software-bertsio zaharrago batzuetan bi aldiz sakatu behar dela.
+Saioa amaitzeko, sakatu berriro hiru aldiz botoi bera, sartu pasakodea eta sakatu **Amaitu**. Apple-k adierazten du software-bertsio zahar batzuetan bi aldiz sakatu behar dela.
 
-**Garrantzitsua:** Apple-k dioenez, talka-detekzioa eta larrialdi-zerbitzuak ez daude erabilgarri Guided Access saio batean. Ez utzi Guided Access martxan pertsonak larrialdi-deietarako (adibidez, 112ra deitzeko) behar lezakeen telefono batean.
+**Garrantzitsua:** Apple-ren arabera, «Talka hautematea» eta larrialdi-zerbitzuak ez daude erabilgarri «Sarbide gidatua» saio batean. Ez utzi «Sarbide gidatua» martxan pertsonak larrialdi-deietarako behar izan dezakeen telefono batean.
 
 ### Android: aplikazioak ainguratzea
 
 [Google-ren Android laguntzako pantailak ainguratzeari buruzko orriaren](https://support.google.com/android/answer/9455138?hl=en) arabera:
 
 1. Ireki **Ezarpenak** aplikazioa.
-2. Sakatu **Segurtasuna** (edo **Segurtasuna eta kokapena**), gero **Aurreratua**, eta ondoren **Aplikazioak ainguratzea**. Aurkitzen ez baduzu, begiratu zure gailu-egilearen laguntza-orrietan.
-3. Aktibatu **Aplikazioak ainguratzea**. PINa, eredua edo pasahitza beharko da aingura kentzeko.
-4. Ireki nahi duzun aplikazioa. Irristatu hatza gora pantailaren erdiraino eta eutsi Ikuspegi orokorra irekitzeko (edo sakatu Ikuspegi orokorra 3 botoiko nabigazioarekin).
-5. Aplikazioaren aurrebistaren goialdean, sakatu aplikazioaren ikonoa eta, ondoren, sakatu **Ainguratu**.
+2. Sakatu **Segurtasuna** (edo **Segurtasuna eta kokapena**), gero **Aurreratua**, eta ondoren **Aplikazioak ainguratzea**. Aurkitzen ez baduzu, begiratu zure gailuaren fabrikatzailearen laguntza-orriak.
+3. Aktibatu **Aplikazioak ainguratzea**. Zure PINa, eredua edo pasahitza behar izango da aingura kentzeko.
+4. Ireki nahi duzun aplikazioa. Irristatu hatza gora pantailaren erdiraino eta eutsi Ikuspegi orokorra irekitzeko (edo sakatu Ikuspegi orokorra hiru botoiko nabigazioarekin).
+5. Aplikazioaren aurrebistaren goialdean, sakatu aplikazioaren ikonoa eta gero sakatu **Ainguratu**.
 
-Aingura kentzeko keinu bidezko nabigazioarekin, irristatu hatza gora eta eutsi. 3 botoiko nabigazioarekin, ukitu eta eutsi Atzera eta Ikuspegi orokorra botoiei. 2 botoiko nabigazioarekin, ukitu eta eutsi Atzera eta Hasiera botoiei. Ondoren, sartu PINa, eredua edo pasahitza.
+Keinu bidezko nabigazioarekin aingura kentzeko, irristatu hatza gora eta eutsi. Hiru botoiko nabigazioarekin, ukitu eta eutsi Atzera eta Ikuspegi orokorra botoiei. Bi botoiko nabigazioarekin, ukitu eta eutsi Atzera eta Hasiera botoiei. Ondoren, sartu zure PINa, eredua edo pasahitza.
 
-## Ba al dago modu sinpleagorik iPhone edo iPad osoarentzat?
+## Ba al dago iPhone edo iPad osoarentzat modu sinpleagorik?
 
-Bai. Apple-ren Assistive Access-ek ohiko hasierako pantaila sinpleago batekin ordezkatzen du. [Apple-k dioenez](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios), iPhone-a errazago erabiltzeko diseinatuta dago, desgaitasun kognitiboa duten pertsonentzat, pantailako elementu handiagoekin eta funtzio bideratuagoekin. Apple-k [ezaugarri bera eskaintzen du iPad-en](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Bai. Apple-ren «Sarbide lagungarria»k ohiko hasierako pantaila sinpleago batekin ordezkatzen du. [Apple-k dioenez](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios), desgaitasun kognitiboa duten pertsonek iPhone-a modu independentean errazago erabil dezaten pentsatuta dago, pantailako elementu handiagoekin eta funtzio zehatzagoekin. Apple-k [funtzio bera eskaintzen du iPad-en](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Nork prestatzen du.** Apple-k iradokitzen du konfiantzazko laguntzaile batek, hala nola familiako kide batek edo pertsona ezagutzen duen zaintzaile batek, aplikazioak eta funtzioak aukeratzen laguntzea.
-- **Nondik hasi.** Joan **Ezarpenak > Irisgarritasuna > Assistive Access** atalera, sakatu **Konfiguratu Assistive Access** eta gero **Jarraitu**.
-- **Aplikazioak.** Zein aplikazio agertuko diren aukeratzen duzu. Apple-ren aplikazio batzuek bertsio sinplifikatu bereziak dituzte, eta beste aplikazio gehienak ohiko diseinuarekin gehi daitezke.
+- **Nork konfiguratzen du.** Apple-k iradokitzen du konfiantzazko laguntzaile batek, hala nola pertsona ezagutzen duen senide edo zaintzaile batek, laguntzea aplikazioak eta aukerak hautatzen.
+- **Nondik hasi.** Joan **Ezarpenak > Erabilerraztasuna > Sarbide lagungarria** atalera, sakatu **Konfiguratu Sarbide lagungarria** eta gero **Jarraitu**.
+- **Aplikazioak.** Zuk aukeratzen dituzu zein aplikazio agertuko diren. Apple-ren aplikazio batzuek bertsio sinplifikatu bereziak dituzte, eta beste aplikazio gehienak ohiko diseinuarekin gehi daitezke.
 - **Diseinua.** Aukeratu **Errenkadak** (irakurtzeko erraza den zerrenda) edo **Sareta** (irudiak eta ikonoak nabarmentzen dituzten elementu handiagoak).
-- **Pasakodea.** Assistive Access pasakode bereizi bat ezartzen duzu ezarpenetan sartzeko, irteteko edo aldatzeko. Apple-k gomendatzen du berreskuratzeko Apple kontu bat konfiguratzea prestaketan; kontu hori gabe, pasakodea ahazten bada, gailua berrezarri egin beharko da.
+- **Pasakodea.** «Sarbide lagungarria»rako pasakode bereizi bat ezartzen duzu ezarpenetan sartzeko, irteteko edo aldatzeko. Apple-k gomendatzen du konfigurazioan berreskuratzeko Apple kontu bat ezartzea, izan ere, konturik gabe, pasakodea ahazten bada, gailua berrezarri behar da.
 
-Assistive Access egokia izan daiteke bere gailua egunero erabiltzen duen norbaitentzat. Guided Access edo aplikazioak ainguratzea azkarragoak dira elkarrekin jolasteko saio baterako.
+«Sarbide lagungarria» egokia izan daiteke norberaren gailua egunero erabiltzen duen pertsona batentzat. «Sarbide gidatua» edo aplikazioak ainguratzea azkarragoak dira elkarrekin jolasteko saio baterako.
 
 ## Nola handitu ditzaket testua eta irudiak?
 
 Handitu testuaren eta bistaratzearen tamaina, eta ondoren egiaztatu botoiak pantailan sartzen direla.
 
-**iPhone eta iPad.** [Apple-ren letra-tamainari buruzko argibideen](https://support.apple.com/en-us/102453) arabera, joan **Ezarpenak > Pantaila eta distira > Testuaren tamaina** atalera eta mugitu graduatzailea. Testu are handiagorako, joan **Ezarpenak > Irisgarritasuna > Pantaila eta testuaren tamaina > Testu handiagoa** atalera. Apple-k adierazten du testu oso handiak botoi batzuk ukitzeko zailagoak bihur ditzakeela; beraz, egokitu behar izanez gero.
+**iPhone eta iPad.** [Apple-ren letra-tamainari buruzko jarraibideen](https://support.apple.com/en-us/102453) arabera, joan **Ezarpenak > Pantaila eta distira > Testuaren tamaina** atalera eta mugitu graduatzailea. Testu are handiagorako, joan **Ezarpenak > Erabilerraztasuna > Pantaila eta testuaren tamaina > Testu handiagoa** atalera. Apple-k ohartarazten du testu oso handiak botoi batzuk sakatzea zaildu dezakeela; beraz, doitu behar izanez gero.
 
-**Android.** [Google-ren testu- eta bistaratze-ezarpenen laguntzaren](https://support.google.com/accessibility/android/answer/11183305?hl=en) arabera, ireki **Ezarpenak** eta bilatu **Letra-tamaina**, gero mugitu graduatzailea. Bilatu **Bistaratze-tamaina** pantailako guztia handiagoa izan dadin. **Testu lodia** ere aktiba dezakezu **Irisgarritasuna > Bistaratze-tamaina eta testua** atalean. Aplikazio batzuek ez dituzte ezarpen hauek jarraitzen.
+**Android.** [Google-ren testuaren eta bistaratzearen ezarpenei buruzko laguntzaren](https://support.google.com/accessibility/android/answer/11183305?hl=en) arabera, ireki **Ezarpenak** eta bilatu **Letra-tamaina**, gero mugitu graduatzailea. Bilatu **Bistaratzearen tamaina** pantailako guztia handiagotzeko. **Letra lodia** ere aktiba dezakezu **Erabilerraztasuna > Bistaratzearen tamaina eta testua** atalean. Aplikazio batzuek ez dituzte ezarpen hauek jarraitzen.
 
-[Irudi bikoteak](/games/picture-pairs/) eta [Aurkitu berdina](/games/find-the-same/) bezalako jokoetan, lauki edo aukera gutxiago ere aukeratu ditzakezu; horrek pantaila sinpleago mantentzen du.
+[Irudi bikoteak](/games/picture-pairs/) eta [Aurkitu berdina](/games/find-the-same/) bezalako jokoetan, lauki edo aukera gutxiago ere hauta ditzakezu, pantailan dena sinpleago mantentzeko.
 
-## Nola gelditu ditzaket jakinarazpenak eta leiho gainerakorrak?
+## Nola geldiarazi ditzaket jakinarazpenak eta leiho gainerakorrak?
 
-Itzali behar ez dituzun aplikazioen jakinarazpenak, eta erabili Ez molestatu modua jardueretan zehar.
+Desaktibatu behar ez dituzun aplikazioen jakinarazpenak, eta erabili «Ez molestatu» jardueretan zehar.
 
-**iPhone eta iPad.** Joan **Ezarpenak > Jakinarazpenak** atalera, sakatu aplikazio bat **Jakinarazpen-estiloa** azpian, eta itzali **Onartu jakinarazpenak** ([Apple-ren jakinarazpen-ezarpenen gida](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Deiak, alertak eta jakinarazpenak aldi baterako isilarazteko, ireki Kontrol-zentroa eta aktibatu **Ez molestatu** **Fokua** botoitik ([Apple-ren Ez molestatu laguntza](https://support.apple.com/en-us/105112)). Programatu dezakezu **Ezarpenak > Fokua > Ez molestatu > Ezarri ordutegia** atalean.
+**iPhone eta iPad.** Joan **Ezarpenak > Jakinarazpenak** atalera, sakatu aplikazio bat **Jakinarazpen-estiloa** azpian eta desaktibatu **Baimendu jakinarazpenak** ([Apple-ren jakinarazpen-ezarpenei buruzko gida](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Deiak, alertak eta jakinarazpenak aldi batez isilarazteko, ireki Kontrol-zentroa eta aktibatu **Ez molestatu** **Fokua** botoitik ([Apple-ren «Ez molestatu» laguntza](https://support.apple.com/en-us/105112)). Programatu dezakezu **Ezarpenak > Fokua > Ez molestatu > Ezarri ordutegia** atalean.
 
-**Android.** Irristatu hatza pantailaren goialdetik behera eta sakatu **Ez molestatu**, edo joan **Ezarpenak > Moduak > Ez molestatu** atalera ([Google-ren Ez molestatu laguntza](https://support.google.com/android/answer/9069335?hl=en)). **Jakinarazpen-iragazkiak** atalean, zein pertsona eta aplikaziok jarrai dezaketen aukeratu dezakezu. Ezarpenak alda daitezke gailu-egilearen arabera.
+**Android.** Irristatu hatza behera pantailaren goialdetik eta sakatu **Ez molestatu**, edo joan **Ezarpenak > Moduak > Ez molestatu** atalera ([Google-ren «Ez molestatu» laguntza](https://support.google.com/android/answer/9069335?hl=en)). **Jakinarazpen-iragazkiak** atalean, oraindik zein pertsona eta aplikaziok pasa dezaketen aukeratu dezakezu. Ezarpenak gailu-fabrikatzailearen arabera aldatzen dira.
 
 ## Nola egin dezaket hasierako pantaila sinple bat?
 
-Utzi aplikazio ezagun gutxi batzuk pantaila batean, eta eraman gainerakoak bistatik kanpo. Ez dago horretarako ezarpen bakar bat; nahaspila kentzea da kontua.
+Utzi aplikazio ezagun gutxi batzuk pantaila bakarrean eta eraman gainerakoak bistatik kanpora. Ez dago horretarako ezarpen bakar bat; nahastea kentzea da kontua.
 
 - **Aukeratu hiru eta sei aplikazio artean.** Adibidez, argazkiak, musika, bideo-deietarako aplikazio bat eta joko bat.
-- **Jarri lehen pantailan,** beti toki beretan, eta eraman gainerako dena bigarren pantaila edo karpeta batera.
-- **Erabili horma-paper lau eta kontraste handikoa,** hala nola kolore bakarrekoa edo argazki ezagun bakarrekoa, ikonoak ondo nabarmentzeko.
+- **Jarri lehen pantailan,** beti toki beretan, eta eraman gainerako guztiak bigarren pantaila edo karpeta batera.
+- **Erabili horma-paper lau eta kontraste handikoa,** hala nola kolore bakarra edo argazki ezagun bat, ikonoak nabarmentzeko.
 - **Ezabatu behar ez dituzun aplikazioak.** Aplikazio gutxiagok nahasteko aukera gutxiago eta bildutako datu gutxiago esan nahi dute.
-- **Kontuan hartu Assistive Access** Apple gailuetan, gailuak berak hori egitea nahi baduzu.
+- **Kontuan hartu «Sarbide lagungarria»** Apple gailuetan, gailuak hori zuretzat egitea nahi baduzu.
 
-## Zer gertatzen da bolumenarekin eta soinuarekin?
+## Zer egin bolumenarekin eta soinuarekin?
 
-Ezarri bolumen eroso bat gailua eskura eman aurretik. Guided Access-ekin, bolumen-botoiak itzal ditzakezu jardueran zehar ez dadin aldatu. Egiaztatu audifonoak jarrita eta martxan daudela.
+Ezarri bolumen eroso bat gailua eman aurretik. «Sarbide gidatua»rekin, bolumen-botoiak desaktiba ditzakezu jardueraren erdian alda ez dadin. Egiaztatu audifonoak jarrita eta ondo dabiltzala.
 
-## Non egon beharko luke tabletak?
+## Non egon behar du tabletak?
 
-Eman euskarri bat eta kargatzeko leku finko bat.
+Jarri euskarri bat eta kargatzeko toki finko bat.
 
-- **Euskarri edo zorro** batek tableta zutunik eusten badu mahai gainean, inork ez du eutsi beharko, eta hatzarekin seinalatzea errazagoa da.
-- **Kargatzeko leku bakarra** inoiz lekuz aldatzen ez dena; ahal dela, kargatzeko euskarri bat egunero erabiltzen duzun gelako mahai batean. Tableta beti egongo da kargatuta eta beti leku berean.
+- **Euskarri edo zorro batek**, tabletari mahai gainean zutik eusten badio, inork ez du eskutan heldu behar, eta seinalatzea errazagoa da.
+- **Kargatzeko toki bakarra**, inoiz lekuz aldatzen ez dena; ahal dela, egunerokoan erabiltzen duzun gelako mahai batean dagoen kargatzeko euskarri bat. Tableta beti kargatuta eta beti toki berean egongo da.
 - **Murriztu distira.** Jarri pantaila leiho argitsu batetik urrun.
 
 ## Zenbat pantaila-denbora da egokia?
 
-Ez dago minutu kopuru egokirik. Helburua saio labur eta partekatuak izatea da, egun oso baten zati gisa; egun horretan mugimendua, musika, etxeko lanak, elkarrizketa eta kanpoan denbora ere egon behar dute. Arratsalde amaierako ezinegona areagotu dezakeenez, kontuan hartu pantailako jarduerak egunaren hasieran egitea. Ikus [arratsalde amaierako jarduera lasaiak](/caregiving/late-day-restlessness/).
+Ez dago minutu kopuru egokirik. Helburua saio labur eta partekatuak izatea da, mugimendua, musika, etxeko lanak, elkarrizketa eta kanpoan denbora pasatzea ere barne hartzen dituen egunaldi oso baten zati gisa. Arratsalde amaierako asaldura handitu dezakeenez eguna amaitzean lanpetuta egoteak, kontuan hartu pantailako jarduerak egunaren hasieran egitea. Ikusi [arratsalde amaierako jarduera lasaiak](/caregiving/late-day-restlessness/).
 
-Tableta elkarrekin erabiltzeak, haurtzain gisa erabili beharrean, sozial mantentzen du. Gure [elkarrekin jolasteko](/caregiving/how-to-play-together/) gidak azaltzen du nola.
+Tableta elkarrekin erabiltzeak, haurtzain gisa erabili beharrean, sozialagoa egiten du. Gure [elkarrekin jolasteko gida](/caregiving/how-to-play-together/)k nola egin azaltzen du.
 
-## Nola babestu dezaket haren pribatutasuna gailuan?
+## Nola babes dezaket haien pribatutasuna gailuan?
 
-Mugatu aplikazioek zer bil dezaketen, eta ez pentsa osasun-pribatasuneko legeek babesten dutenik. AEBetako Osasun eta Giza Zerbitzuen Sailak (HHS) [azaltzen duenez](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), HIPAA arauek, oro har, ez dute babesten telefono eta tableta pertsonaletan gordetako edo haietatik atzitutako osasun-informazioa. Kasu gehienetan, HIPAAk ez ditu babesten erabilera pertsonalerako aplikazioetan sartutako datuak, aplikazioa estalitako osasun-hornitzaile batetik, osasun-plan batetik edo haien negozio-kideetako batetik ez badator.
+Mugatu aplikazioek zer bil dezaketen, eta ez pentsa osasunari buruzko pribatutasun-legeek babesten dutenik. Estatu Batuetako Osasun eta Giza Zerbitzuen Sailak (HHS) [azaltzen duenez](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), HIPAA arauek, oro har, ez dute babesten telefono eta tableta pertsonaletan gordetako edo haietatik atzitzen den osasun-informazioa. Kasu gehienetan, HIPAAk ez ditu babesten erabilera pertsonalerako aplikazioetan sartutako datuak, aplikazioa estalitako osasun-hornitzaile, osasun-plan edo haien bazkide komertzial batengandik badator izan ezik.
 
-HHSk honako hau iradokitzen du:
+HHSek honako hau iradokitzen du:
 
 - saihestu beharrezkoak ez diren edo ausazko aplikazioak, batez ere «doakoak»;
-- ez eman aplikazioei kokapenerako sarbidea benetan behar ez badute, adibidez mapek bezala.
+- ez eman aplikazioei kokapenerako sarbidea benetan behar ez badute, mapek bezala.
 
 Kontuan hartu, halaber:
 
-- **Erabili pasakode bat** gailuan, eta gorde haren oharra leku seguru batean.
-- **Berrikusi baimenak** argazkietarako, kamerarako, mikrofonorako, kontaktuetarako eta kokapenerako, eta itzali aplikazio batek behar ez duen edozein baimen.
-- **Egiaztatu aplikazio batek zer biltzen duen** instalatu aurretik. Gure [dementziarako aplikazioak eta jokoak aukeratzeko](/caregiving/choosing-apps-and-games/) gidak pribatutasun-kontrol zerrenda bat du.
-- **Kontuz familia-argazkiekin.** Partekatu soilik pertsonak eroso sentituko lituzkeen argazkiak, eta jakin aplikazio batek non gordetzen dituen. [Argazki bikoteak](/games/photo-pairs/) jokoan, aukeratzen dituzun argazkiak zure nabigatzailean geratzen dira.
-- **Itzali aplikazio barruko erosketak** edo kendu ordainketa-datuak pertsonak erabiltzen dituen kontuetatik.
+- **Erabili pasakode bat** gailuan, eta gorde haren oharra leku segururen batean.
+- **Berrikusi baimenak** argazkietarako, kamerarako, mikrofonorako, kontaktuetarako eta kokapenerako, eta desaktibatu aplikazio batek behar ez duen edozein.
+- **Egiaztatu aplikazio batek zer biltzen duen** instalatu aurretik. Gure [dementziarako aplikazioak eta jokoak aukeratzeko gida](/caregiving/choosing-apps-and-games/)k pribatutasun-zerrenda bat du.
+- **Kontuz familiako argazkiekin.** Partekatu pertsona eroso sentituko litzatekeen argazkiak soilik, eta jakin aplikazio batek non gordetzen dituen. [Argazki bikoteak](/games/photo-pairs/) jokoan, aukeratzen dituzun argazkiak zure nabigatzailean geratzen dira.
+- **Desaktibatu aplikazio barruko erosketak** edo kendu ordainketa-datuak pertsonak erabiltzen dituen kontuetatik.

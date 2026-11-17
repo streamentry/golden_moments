@@ -1,33 +1,33 @@
 ---
-title: "Zajęcia sensoryczne (dla zmysłów) dla osób z demencją"
-seoTitle: "Zajęcia sensoryczne przy demencji: pomysły i bezpieczeństwo"
-description: "Zajęcia sensoryczne dla osób z demencją, od masażu dłoni po kosz tkanin i odgłosy natury, z jasnymi uwagami o zadławieniu, alergiach i zapachach."
+title: "Aktywności sensoryczne dla osób żyjących z demencją"
+seoTitle: "Aktywności sensoryczne przy demencji: pomysły i bezpieczeństwo"
+description: "Aktywności sensoryczne dla osób żyjących z demencją: masaż dłoni, koszyk z tkaninami, dźwięki natury i ważne zasady bezpieczeństwa dotyczące zadławienia, alergii i zapachów."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Zajęcia sensoryczne angażują dotyk, węch, smak, słuch i wzrok: powolny masaż
-  dłoni, kosz miękkich tkanin, świeże zioła do powąchania, odgłosy natury albo
-  oglądanie ptaków za oknem. Pasują do każdego stadium, a szczególnie cenne
-  są w późniejszym. Najpierw sprawdź, czy nie ma ryzyka zadławienia, alergii,
-  problemów ze skórą ani wrażliwości na zapachy, proponuj jedną rzecz naraz i
+  Aktywności sensoryczne angażują dotyk, węch, smak, słuch i wzrok: powolny
+  masaż dłoni, koszyk z miękkimi tkaninami, świeże zioła do powąchania,
+  dźwięki natury albo obserwowanie ptaków za oknem. Sprawdzają się na każdym
+  etapie, a szczególnie później. Najpierw sprawdź ryzyko zadławienia, alergie,
+  problemy ze skórą i wrażliwość na zapachy, proponuj jedną rzecz naraz i
   przerwij, jeśli osoba wydaje się niespokojna.
 keyPoints:
-  - "Zajęcia sensoryczne nie mają dobrych odpowiedzi, dlatego sprawdzają się w każdym stadium, także w łóżku lub na fotelu."
-  - "Proponuj jeden zmysł naraz w cichym pokoju i zapytaj lub uprzedź, zanim dotkniesz."
-  - "Unikaj drobnych przedmiotów i wszystkiego, co wygląda lub pachnie jak jedzenie, a nim nie jest, bo osoby mogą wkładać rzeczy do ust."
-  - "Przed użyciem balsamów, zapachów lub jedzenia sprawdź alergie, problemy ze skórą i trudności z oddychaniem."
+  - "Aktywności sensoryczne nie wymagają dobrych odpowiedzi, dlatego sprawdzają się na każdym etapie, także w łóżku lub na fotelu."
+  - "Proponuj bodźce dla jednego zmysłu naraz w spokojnym pomieszczeniu i zapytaj lub uprzedź przed dotknięciem."
+  - "Unikaj małych przedmiotów oraz wszystkiego, co wygląda lub pachnie jak jedzenie, ale nim nie jest, ponieważ osoba może włożyć to do ust."
+  - "Przed użyciem balsamów, zapachów lub jedzenia sprawdź, czy nie ma alergii, problemów ze skórą ani trudności z oddychaniem."
   - "Nie ma przekonujących dowodów, że aromaterapia pomaga w objawach demencji; używaj zapachów tylko dla zwykłej przyjemności, jeśli w ogóle."
 faq:
-  - q: "Jakie zajęcia sensoryczne są dobre dla osoby z demencją?"
-    a: "Proste pomysły to powolny masaż dłoni balsamem, dotykanie miękkich tkanin, wąchanie świeżych ziół lub kawy, słuchanie ulubionej muzyki lub odgłosów natury, oglądanie ptaków albo akwarium i próbowanie ulubionego smaku w bezpiecznej konsystencji. Proponuj jedną rzecz naraz i obserwuj, jak osoba reaguje."
-  - q: "Czy zajęcia sensoryczne są bezpieczne dla osoby, która wkłada rzeczy do ust?"
-    a: "Mogą być, jeśli zachowasz ostrożność. Używaj tylko dużych przedmiotów, których nie da się połknąć, pomijaj wszystko, co drobne lub łatwe do rozbicia, i po zajęciach chowaj balsamy, mydła i pachnące produkty, bo mogą wyglądać lub pachnieć jak jedzenie. Zostań z osobą przez cały czas."
+  - q: "Jakie aktywności sensoryczne są dobre dla osoby żyjącej z demencją?"
+    a: "Proste pomysły to powolny masaż dłoni balsamem, dotykanie miękkich tkanin, wąchanie świeżych ziół lub kawy, słuchanie ulubionej muzyki albo dźwięków natury, obserwowanie ptaków lub akwarium oraz smakowanie ulubionego jedzenia o bezpiecznej konsystencji. Proponuj jedną rzecz naraz i obserwuj reakcję osoby."
+  - q: "Czy aktywności sensoryczne są bezpieczne dla osoby, która wkłada rzeczy do ust?"
+    a: "Mogą być, jeśli zachowasz ostrożność. Używaj tylko dużych przedmiotów, których nie da się połknąć, unikaj wszystkiego, co małe lub kruche, i po zakończeniu chowaj balsamy, mydła oraz pachnące produkty, ponieważ mogą wyglądać lub pachnieć jak jedzenie. Pozostań z osobą przez cały czas."
   - q: "Czy aromaterapia pomaga przy demencji?"
-    a: "Przegląd Cochrane nie wykazał przekonujących dowodów, że aromaterapia pomaga osobom z demencją, choć badania były małe i niespójne. Jeśli osoba lubi łagodny, znajomy zapach, to w porządku, ale unikaj mocnych olejków eterycznych, zwłaszcza przy problemach z oddychaniem lub alergiach."
-  - q: "Czym jest fartuch lub koc sensoryczny?"
-    a: "To kawałek tkaniny, fartuch albo koc na kolana z mocno przyszytymi rzeczami do dotykania, takimi jak duże guziki, zamki błyskawiczne, wstążki i łatki o różnej fakturze. Daje zajętym dłoniom coś do odkrywania. Często sprawdzaj, czy nic się nie poluzowało, bo można to oderwać."
+    a: "Przegląd Cochrane nie znalazł przekonujących dowodów, że aromaterapia pomaga osobom żyjącym z demencją, choć badania były małe i niespójne. Jeśli osoba lubi delikatny, znajomy zapach, to w porządku, ale unikaj mocnych olejków eterycznych, zwłaszcza gdy występują problemy z oddychaniem lub alergie."
+  - q: "Czym jest fartuch lub mata sensoryczna?"
+    a: "To kawałek materiału, fartuch lub koc na kolana z mocno przyszytymi elementami do dotykania, takimi jak duże guziki, zamki, wstążki i kawałki materiału o różnej fakturze. Daje zajętym dłoniom coś do poznawania. Często sprawdzaj, czy nic się nie poluzowało i nie da się oderwać."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Zajęcia sensoryczne wykorzystują pięć zmysłów: dotyk, węch, smak, słuch i wzrok. Nie wymagają pamięci, kroków ani dobrych odpowiedzi, więc sprawdzają się w każdym stadium. Najważniejsze są w późniejszym. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) zauważa, że w późnym stadium świat odbiera się głównie zmysłami i że troskę można okazać dotykiem, dźwiękiem, widokiem, smakiem i zapachem. Kilka kontroli bezpieczeństwa sprawi, że te zajęcia będą relaksujące dla wszystkich.
+Aktywności sensoryczne angażują pięć zmysłów: dotyk, węch, smak, słuch i wzrok. Nie wymagają pamięci, wykonywania kroków ani dobrych odpowiedzi, więc mogą sprawdzić się na każdym etapie. Najbardziej pomagają w późniejszym okresie. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) zauważa, że na późnym etapie świat jest odbierany głównie przez zmysły i że możesz okazywać troskę przez dotyk, dźwięk, wzrok, smak i zapach. Kilka prostych zasad bezpieczeństwa sprawia, że te zajęcia są relaksujące dla wszystkich.
 
-## Czym są zajęcia sensoryczne przy demencji?
+## Czym są aktywności sensoryczne przy demencji?
 
-Zajęcia sensoryczne to proste doznania oparte na jednym zmyśle naraz, jak dotykanie tkaniny, wąchanie ziół czy słuchanie deszczu. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) podaje, że zajęcia w późniejszym stadium często muszą skupiać się na zmysłach, i wspomina o muzyce, przedmiotach do dotykania i trzymania oraz o masażu dłoni. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) zauważa, że osoby w późnym stadium mogą bardzo potrzebować przytulenia czegoś dla poczucia komfortu.
+Aktywności sensoryczne to proste doświadczenia skupione na jednym zmyśle naraz, na przykład dotykanie tkaniny, wąchanie ziół lub słuchanie deszczu. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) podaje, że zajęcia na późniejszym etapie często powinny skupiać się na zmysłach, i wymienia muzykę, przedmioty do dotykania i trzymania oraz masaż dłoni. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) zauważa, że osoby na późnym etapie mogą mieć silną potrzebę trzymania czegoś blisko dla poczucia komfortu.
 
-## Pomysły sensoryczne, zmysł po zmyśle
+## Pomysły sensoryczne dla każdego zmysłu
 
 ### Dotyk
 
-- **Masaż dłoni.** Ogrzej odrobinę balsamu w dłoniach i gładź powoli od nadgarstka do czubków palców. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) wspomina o masażu balsamem bezzapachowym dla komfortu.
-- **Kosz z tkaninami.** Duże kawałki aksamitu, sztruksu, polaru, atłasu i wełny do głaskania, składania i rozmów o nich.
-- **Ciepła myjka.** Ciepła, wilgotna ściereczka do rąk w zimny dzień. Najpierw sprawdź temperaturę na własnym nadgarstku.
-- **Fartuch lub koc sensoryczny.** Duże guziki, zamki błyskawiczne, wstążki i łatki o różnej fakturze, mocno przyszyte.
-- **Składanie i wygładzanie.** Kosz czystych ściereczek lub serwetek do składania, układania w stos i składania od nowa.
-- **Coś miękkiego do przytulenia.** Polarowy pled, poduszka albo realistyczny miękki zwierzak, podane po prostu, nigdy jako zabawka.
+- **Masaż dłoni.** Rozgrzej odrobinę balsamu w dłoniach i powoli masuj od nadgarstka do czubków palców. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) wspomina o masażu z użyciem balsamu bez zapachu dla zapewnienia komfortu.
+- **Koszyk z tkaninami.** Duże kawałki weluru, sztruksu, polaru, satyny i wełny do głaskania, składania i rozmowy o nich.
+- **Ciepła ściereczka.** Ciepła, wilgotna ściereczka do ogrzania dłoni w chłodny dzień. Najpierw sprawdź temperaturę na wewnętrznej stronie własnego nadgarstka.
+- **Fartuch lub mata sensoryczna.** Duże guziki, zamki, wstążki i kawałki materiału o różnej fakturze mocno przyszyte.
+- **Składanie i wygładzanie.** Koszyk czystych ściereczek lub serwetek do składania, układania i ponownego składania.
+- **Coś miękkiego do trzymania.** Polarowy koc, poduszka lub realistyczne miękkie zwierzątko, podane po prostu, nigdy jako zabawka.
 
 ### Węch
 
-- **Świeże zioła.** Roztrzyj w palcach liście mięty, rozmarynu, bazylii lub lawendy i daj do powąchania.
-- **Zapachy z kuchni.** Parzona kawa, opiekany chleb, cynamon albo obierana w pobliżu pomarańcza.
+- **Świeże zioła.** Potrzyj liście mięty, rozmarynu, bazylii lub lawendy między palcami i podaj do powąchania.
+- **Zapachy z kuchni.** Parzona kawa, opiekany chleb, cynamon lub obierana w pobliżu pomarańcza.
 - **Kwiaty.** Przynieś kilka świeżych kwiatów z ogrodu lub ze sklepu.
-- **Znajomy produkt.** Mydło lub balsam, których osoba zawsze używała, jeśli jej skóra je toleruje.
+- **Znajomy produkt.** Mydło lub balsam, którego osoba zawsze używała, jeśli jej skóra dobrze to znosi.
 
 ### Smak
 
-- **Ulubiony smak.** Mała łyżeczka czegoś, co osoba kocha, na przykład mus jabłkowy, budyń lub lody, w konsystencji, z którą bezpiecznie sobie poradzi.
-- **Pomoc przy pieczeniu.** Próbowanie owoców lub odrobiny kremu podczas wspólnego pieczenia.
-- **Sezonowe przysmaki.** Arbuz latem, ciepły napój z soku jabłkowego jesienią, podane w bezpiecznej temperaturze.
+- **Ulubiony smak.** Mała łyżeczka czegoś, co osoba lubi, na przykład mus jabłkowy, budyń lub lody, o konsystencji, którą może bezpiecznie jeść.
+- **Pomoc przy pieczeniu.** Próbowanie owoców lub odrobiny polewy podczas wspólnego pieczenia.
+- **Sezonowe smakołyki.** Arbuz latem, ciepły cydr jesienią, podane w bezpiecznej temperaturze.
 
 ### Słuch
 
-- **Ulubiona muzyka.** Znajome piosenki w łagodnej głośności; zobacz [zajęcia z muzyką](/activities/music/).
-- **Odgłosy natury.** Deszcz, fale albo śpiew ptaków. NIA zauważa, że muzyka, biały szum i odgłosy natury wydają się relaksować niektóre osoby.
-- **Twój głos.** Czytanie na głos, nucenie albo opowiadanie historii.
-- **Proste instrumenty.** Bębenek, grzechotka lub dzwoneczek do grania razem z muzyką.
+- **Ulubiona muzyka.** Znajome utwory odtwarzane cicho; zobacz [aktywności muzyczne](/activities/music/).
+- **Dźwięki natury.** Deszcz, fale lub śpiew ptaków. NIA zauważa, że muzyka, biały szum i dźwięki natury wydają się pomagać niektórym osobom się odprężyć.
+- **Twój głos.** Czytanie na głos, nucenie lub opowiadanie historii.
+- **Proste instrumenty.** Bębenek, grzechotka lub dzwonek do grania razem z muzyką.
 
 ### Wzrok
 
-- **Patrzenie przez okno.** Karmnik za oknem, dzieci wracające ze szkoły albo padający śnieg.
-- **Akwarium lub powolny film.** Łagodny ruch bez głośnego dźwięku.
-- **Duże zdjęcia.** Jeden wyraźny obrazek naraz, trzymany na wysokości oczu.
-- **Kolor i wzór.** Sortowanie jaskrawych skrawków tkanin, kwiatów lub kolorowych serwetek albo prosta kolorowanka z naszego zestawu [Kolorowanek](/games/coloring/).
-- **Na zewnątrz.** NHS proponuje ogrody sensoryczne z pachnącymi roślinami, fakturami i elementami wodnymi. Zobacz [zajęcia na dworze i w ogrodzie](/activities/outdoor-and-gardening/).
+- **Obserwowanie przez okno.** Karmnik dla ptaków za oknem, dzieci wracające do domu albo padający śnieg.
+- **Akwarium lub spokojne nagranie.** Delikatny ruch bez głośnych dźwięków.
+- **Duże zdjęcia.** Jedno wyraźne zdjęcie naraz, trzymane na wysokości oczu.
+- **Kolor i wzór.** Sortowanie jasnych skrawków materiału, kwiatów lub kolorowych serwetek albo prosta kolorowanka z naszego zestawu [kolorowanek](/games/coloring/).
+- **Na zewnątrz.** NHS sugeruje ogrody sensoryczne z pachnącymi roślinami, różnymi fakturami i elementami wodnymi. Zobacz [aktywności na świeżym powietrzu i w ogrodzie](/activities/outdoor-and-gardening/).
 
-## Jak zrobić pudełko sensoryczne
+## Jak przygotować pudełko sensoryczne
 
-1. **Wybierz temat** związany z życiem osoby: morze, ogród, kuchnia, warsztat, szycie.
-2. **Wybierz pięć lub sześć dużych, bezpiecznych przedmiotów,** takich jak duża muszla, drewniana łyżka, miękki szal, zaszyte saszetki z suszoną lawendą albo gładki drewniany klocek.
-3. **Sprawdź każdy przedmiot** pod kątem drobnych części, ostrych krawędzi, luźnych nitek i wszystkiego, co łatwo się tłucze.
-4. **Wyjmuj po jednym przedmiocie.** Podaj go, opisz i pozwól osobie poznawać go po swojemu.
-5. **Po zajęciach schowaj pudełko,** żeby zachowało wyjątkowość, a przedmioty zostały sprawdzone ponownie przed następnym razem.
+1. **Wybierz temat** związany z życiem tej osoby: plaża, ogród, kuchnia, warsztat, szycie.
+2. **Wybierz pięć lub sześć dużych, bezpiecznych przedmiotów,** takich jak duża muszla, drewniana łyżka, miękki szalik, woreczek z zaszytą suszoną lawendą lub gładki drewniany klocek.
+3. **Sprawdź każdy przedmiot** pod kątem małych części, ostrych krawędzi, luźnych nici i wszystkiego, co może się stłuc.
+4. **Wyjmuj po jednej rzeczy naraz.** Podaj ją, opisz i pozwól osobie ją poznawać.
+5. **Po zakończeniu schowaj pudełko,** aby pozostało czymś wyjątkowym, a przed następnym razem ponownie sprawdź wszystkie przedmioty.
 
-## Najpierw bezpieczeństwo
+## Bezpieczeństwo przede wszystkim
 
-Zajęcia sensoryczne są łagodne, ale kilka zagrożeń ma znaczenie. Niektóre osoby z demencją biorą przedmioty niejadalne za jedzenie, a połykanie z czasem może stawać się trudniejsze; NIA ostrzega, że problemy z połykaniem w późnym stadium zwiększają ryzyko zadławienia.
+Aktywności sensoryczne są łagodne, ale warto pamiętać o kilku zagrożeniach. Niektóre osoby żyjące z demencją mogą mylić przedmioty niejadalne z jedzeniem, a z czasem połykanie może stawać się trudniejsze; NIA ostrzega, że problemy z połykaniem na późnym etapie zwiększają ryzyko zadławienia.
 
-| Zagrożenie | Co robić |
+| Ryzyko | Co robić |
 | --- | --- |
-| Zadławienie | Używaj tylko przedmiotów zbyt dużych, by je połknąć. Żadnych guzików, koralików, monet, kulek ani małych zabawek luzem w pudełku. Podawaj jedzenie tylko w konsystencjach, które zespół opieki uznaje za bezpieczne. |
-| Rzeczy, które wyglądają jak jedzenie | NIA radzi zamykać balsamy, mydła, szampony i perfumy, które mogą wyglądać lub pachnieć jak jedzenie, oraz usuwać sztuczne owoce. Po użyciu chowaj produkty sensoryczne. |
-| Alergie | Przed rozpoczęciem sprawdź alergie na orzechy, lateks, wełnę, rośliny lub zapachy. |
-| Mocne zapachy | Unikaj mocnych perfum i olejków eterycznych, zwłaszcza przy astmie lub innych problemach z oddychaniem. Łagodne, naturalne zapachy są bezpieczniejsze. |
-| Skóra | Przed masażem sprawdź, czy skóra nie jest obolała, uszkodzona lub krucha. Naciskaj delikatnie i przerwij, jeśli osoba się skrzywi. |
-| Temperatura | Ciepłe ściereczki i napoje najpierw sprawdź na własnym nadgarstku. |
-| Ostre lub toksyczne przedmioty | Żadnych ostrych narzędzi, szkła ani toksycznych materiałów plastycznych. |
+| Zadławienie | Używaj tylko przedmiotów zbyt dużych, aby je połknąć. W pudełku nie mogą luźno leżeć guziki, koraliki, monety, kulki ani małe zabawki. Podawaj jedzenie tylko o konsystencji uznanej za bezpieczną przez zespół opiekuńczy. |
+| Rzeczy przypominające jedzenie | NIA zaleca zamykanie balsamów, mydeł, szamponów i perfum, które mogą wyglądać lub pachnieć jak jedzenie, oraz usuwanie sztucznych owoców. Chowaj produkty sensoryczne po użyciu. |
+| Alergie | Przed rozpoczęciem sprawdź, czy nie ma alergii na orzechy, lateks, wełnę, rośliny lub zapachy. |
+| Intensywne zapachy | Unikaj mocnych perfum i olejków eterycznych, zwłaszcza przy astmie lub innych problemach z oddychaniem. Bezpieczniejsze są delikatne, naturalne zapachy. |
+| Skóra | Przed masażem sprawdź, czy skóra nie jest bolesna, uszkodzona lub bardzo delikatna. Używaj delikatnego nacisku i przerwij, jeśli osoba się krzywi. |
+| Temperatura | Najpierw sprawdź temperaturę ciepłych ściereczek i napojów na wewnętrznej stronie własnego nadgarstka. |
+| Ostre lub toksyczne przedmioty | Nie używaj ostrych narzędzi, szkła ani toksycznych materiałów plastycznych. |
 
 ## Czy aromaterapia pomaga?
 
-Prawdopodobnie nie w żaden wymierny sposób. [Przegląd Cochrane o aromaterapii przy demencji](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) objął 13 badań z udziałem 708 osób, wszystkie w domach opieki, i nie znalazł przekonujących dowodów na korzyść. Badania były małe, wyniki się różniły, a działania niepożądane opisano słabo. Jeśli osoba lubi łagodny, znajomy zapach, na przykład lawendę z ogrodu, to dobry powód, by go z nią dzielić. To nie jest leczenie.
+Prawdopodobnie nie w sposób, który da się zmierzyć. [Przegląd Cochrane dotyczący aromaterapii przy demencji](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) objął trzynaście badań z udziałem siedmiuset ośmiu osób, wszystkie prowadzone w domach opieki, i nie znalazł przekonujących dowodów korzyści. Badania były małe, wyniki były niespójne, a działania niepożądane słabo opisano. Jeśli osoba lubi delikatny, znajomy zapach, na przykład lawendę z ogrodu, to dobry powód, by się nim podzielić. Nie jest to jednak forma leczenia.
 
-## Jak zaproponować zajęcie sensoryczne
+## Jak proponować aktywność sensoryczną
 
-- **Wybierz spokojną chwilę** i wyłącz telewizor.
-- **Podejdź od przodu,** powiedz imię osoby i zapytaj lub uprzedź, zanim dotkniesz: „Mam balsam. Masz ochotę na masaż dłoni?”.
-- **Proponuj jedną rzecz naraz,** żeby nie przytłoczyć.
-- **Obserwuj reakcję.** Łagodniejsza twarz, rozluźnione dłonie albo uśmiech to dobre znaki. Odsuwanie się, marszczenie brwi lub niepokój oznaczają, że trzeba przerwać.
-- **Niech trwa krótko.** Pięć spokojnych minut to dobre spotkanie.
+- **Wybierz spokojny moment** i wyłącz telewizor.
+- **Podejdź od przodu,** powiedz imię osoby i zapytaj lub uprzedź przed dotknięciem: „Mam trochę balsamu. Chcesz, żebym pomasowała/pomasował ci dłonie?”
+- **Proponuj jedną rzecz naraz,** aby nie przytłoczyć.
+- **Obserwuj reakcję.** Łagodniejszy wyraz twarzy, rozluźnione dłonie lub uśmiech to dobre sygnały. Odsuwanie się, marszczenie brwi lub niepokój oznaczają, że trzeba przerwać.
+- **Nie przedłużaj.** Pięć spokojnych minut to wystarczająco.
 
-Powolna wspólna pauza oddechowa, jak [Spokojny oddech](/games/calm-breathing/), może być łagodnym zakończeniem. Więcej pomysłów przy łóżku znajdziesz w [zajęciach w późniejszym stadium demencji](/activities/late-stage/), a o niepokoju pod wieczór przeczytasz w poradniku o [niepokoju pod koniec dnia](/caregiving/late-day-restlessness/).
+Wspólna, powolna chwila oddechu, na przykład [spokojny oddech](/games/calm-breathing/), może być łagodnym zakończeniem. Więcej pomysłów na zajęcia przy łóżku znajdziesz w tekście [aktywności na późnym etapie](/activities/late-stage/), a wskazówki dotyczące niepokoju pod koniec dnia w tekście [niepokój pod koniec dnia](/caregiving/late-day-restlessness/).

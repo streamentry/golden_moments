@@ -1,37 +1,36 @@
 ---
-title: "Quandu una persona cù dimenza vole vultà in casa"
-seoTitle: "Dimenza: vole vultà in casa, chì dì"
-description: "Perchè una persona chì campa cù a dimenza chjere di vultà in casa ancu s'ella ci hè digià, chì dì, attività calmanti da pruvà è cumu tenela à sicuru."
+title: "Quandu una persona cun demenza dumanda sempre di andà à casa"
+seoTitle: "Dumanda sempre di andà à casa: chì dì?"
+description: "Perchè una persona cun demenza dumanda di andà à casa ancu quandu hè à casa, chì dì, attività calme da pruvà è cumu mantene la sicura s'ella prova à andà via."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Quandu qualchissia chì campa cù a dimenza chjere spessu di vultà in casa, « casa »
-  vole spessu dì un sintimu di sicurità o un locu di u passatu, micca un
-  bastimentu. Ùn discuttite micca per pruvà ch'ella hè digià in casa. Ricunniscite
-  ciò ch'ella sente, rassicuratela ch'ella hè à sicuru, dumandateli di parlà di a
-  casa, poi passate pianu pianu à ritratti, musica, un spuntinu, una spassighjata
-  o un compitu simplice. Verificate s'ella hà fame, sete, bisognu d'andà à i
-  servizii o dulore. S'ellu principia di colpu, chjamate u so duttore.
+  Quandu una persona cun demenza dumanda sempre di andà à casa, «casa» significheghja
+  spessu un sentimu di sicurezza o un locu di u passatu, micca un edifiziu. Ùn discutite
+  micca ch'ella hè digià à casa. Ricunnosce u sentimu, rassicurate la ch'ella hè sicura,
+  dumandate li di a so casa, poi passate pianamente à e foto, à a musica, à un spuntinu,
+  à una passeghjata o à un travagliu simplice. Verificate s'ella hà fame, sete, bisognu
+  di andà in bagnu o dulore. S'ellu principia di colpu, chjamate u so duttore.
 keyPoints:
-  - "« Vogliu vultà in casa » vole spessu dì « Ùn mi sentu micca à sicuru o tranquillu », micca una dumanda per un indirizzu."
-  - "Discutà o pruvà ch'ella hè in casa rende di solitu a pena più forte. Rispondite piuttostu à ciò ch'ella sente."
-  - "Dumandateli di parlavvi di a casa, poi prupunite ritratti, musica, un spuntinu, una spassighjata o un compitu simplice."
-  - "Verificate s'ellu ci hè qualcosa da risolve: fame, sete, bisognu d'andà à i servizii, dulore, troppu caldu o troppu fretu, rumore, stanchezza."
-  - "S'ellu accade ogni fine di dopu meziornu, pò esse ligatu à l'inquietudine di fine di ghjurnata; una rutina regulare è una bona luce ponu aiutà."
-  - "Preparatevi per a sicurità s'ella prova à partesi, è chjamate u so duttore per ogni cambiamentu subitu."
+  - "«Vogliu andà à casa» vole spessu dì «Ùn mi sentu sicuru nè tranquillu», micca una dumanda d'indirizzu."
+  - "Discute o pruvà ch'ella hè à casa di solitu aggrava u disagiu. Rispondite piuttostu à u sentimu."
+  - "Dumandate li di cuntavi di a so casa, poi pruponite foto, musica, un spuntinu, una passeghjata o un travagliu simplice."
+  - "Verificate s'ellu ci hè qualcosa da aggiustà: fame, sete, u bagnu, dulore, troppu caldu o troppu fretu, rumore, stanchezza."
+  - "S'ellu accade ogni fine di dopu meziornu, pò esse l'agitatione di u tramuntu; una rutina regolare è una bona luce ponu aiutà."
+  - "Prevede a sicurezza s'ella prova à andà via, è chjamate u so duttore per ogni cambiu di colpu."
 faq:
-  - q: "Perchè a mo mamma cù dimenza chjere sempre di vultà in casa quandu ci hè digià?"
-    a: "A dimenza pò fà chì e stanze cunnisciute parinu strane, è certe persone si sentenu à volte in un altru mumentu di a so vita. « Casa » pò vuler dì a casa di a zitellina o sempliciamente u sintimu d'esse à sicuru è tranquillu. Risponde à quellu sintimu funziona di solitu megliu cà d'insiste nantu à induve ella si trova."
-  - q: "Chì devu dì quandu chjere di vultà in casa?"
-    a: "Pruvate cù « Site à sicuru quì, è eiu restu cun voi », poi « Parlàtemi di a vostra casa ». Ascultate, spartite un ritrattu o una canzona, è prupunite qualcosa da beie o una corta spassighjata. Evitate di dì « Site in casa » cum'è una currezzione, perchè pò fà sente à a persona ch'ella hà tortu."
-  - q: "Hè bè di dì chì anderemu in casa più tardi?"
-    a: "E famiglie è l'urganisazioni chì si occupanu di dimenza ùn sò micca tutte d'accordu. Parechje principianu cù un cunfortu onestu è una redirezzione dolce, è tenenu una piccula bugia dolce solu per i mumenti induve a verità causerebbe una pena chì a persona ùn pò micca gestisce. Qualunque sia a vostra scelta, siate gentile è custante, è ùn vi fate mai beffe di a so manera di vede a realità."
-  - q: "È s'ella prova à sortesi da casa?"
-    a: "Restate calmu è spassighjate cun ella invece di bluccalla; una corta spassighjata calma spessu l'envia. Mettite in piazza misure di sicurità in anticipu, cum'è un braccialettu d'identità, una campanella à a porta è una foto recente. S'ella sparisce, principiate à circalla subitu, è chjamate u 112 s'ella ùn hè micca stata truvata dopu à 15 minuti, spiegendu chì a persona campa cù a dimenza."
-  - q: "Quandu devu chjamà un duttore?"
-    a: "Chjamate prestu u so duttore se e dumande o a cunfusione principianu di colpu o peggioranu assai in poche ore o ghjorni, soprattuttu s'ellu ci hè frebba, una medicina nova o segni d'infezzione urinaria. A cunfusione subita pò esse un deliriu, chì hà bisognu d'una cura rapida. Chjamate u 112 s'ellu ci hè un periculu per qualchissia."
+  - q: "Perchè a mamma cun demenza dumanda sempre di andà à casa quandu hè digià à casa?"
+    a: "A demenza pò fà ch'è e stanze cunnisciute parenu strane, è a ghjente si sente qualchì volta in un mumentu precedente di a so vita. «Casa» pò significà una casa di l'infanzia o simplicemente u sentimu d'esse sicuri è cunfurtevuli. Rispondite à stu sentimu di solitu funziona megliu cà fà li nutà induv'ella hè."
+  - q: "Chì devu dì quandu dumanda di andà à casa?"
+    a: "Pruvate «Site sicura quì, è eu restu cun voi», poi «Cuntatemi di a vostra casa». Ascoltate, spartite una foto o una canzona, è pruponate una bivanda o una corta passeghjata. Evitate «Site à casa» dettu com'è una curuzzione, chì pò parè cum'è s'ella avessi tortu."
+  - q: "Va bè di dì ch'è andaremu à casa più tardi?"
+    a: "E famiglie è l'associazioni per a demenza ùn sò micca d'accordu nantu à questu. Parechji principianu cun cunfortu onestu è redirizzione, è riservanu una piccula bugia gentile à i mumenti induve a verità ùn faria ch'è creà un disagiu ch'a persona ùn pò superà. Qualunque cosa ch'è sceglite, siate gentili è custanti, è ùn vi burlate mai di u so sensu di a realità."
+  - q: "Chì fà s'ella prova à andà fora di casa?"
+    a: "Reste calmu è caminate cun ella invece di bluccà la; una corta passeghjata spessu calma u desideriu. Mettite in piazza e misure di sicurezza in anticipu, cum'è un braccialettu d'identità, un campanellu à a porta è una foto recente. S'a persona sparisce, verificate i lochi sicuri vicini mentre cuntattate a pulizia lucale o i servizii d'urgenza prestu. Ùn aspettate micca un numeru fissu di minuti prima di signalà."
+  - q: "Quandu devu chjamà u duttore?"
+    a: "Chjamate u so duttore prestu s'e dumande o a cunfusione principianu di colpu o peghjuranu assai in ore o in ghjorni, sopratuttu cun febbre, un novu medicamentu o segni d'infezzione di e vie urinarie. Una cunfusione subitanea pò esse un deliriu, chì hà bisognu di cure urgenti. Chjamate u 911 s'ellu ci hè qualchissia in periculu."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -51,6 +50,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -68,87 +70,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-« Vogliu vultà in casa. » Per parechje famiglie, hè una di e cose più dure à sente, soprattuttu quandu a persona chì vo accudite hè assittata in u so propiu salottu. Hè qualcosa chì accade spessu, pò accade à ogni tappa di a dimenza, è ci sò manere calme è pratiche per risponde. Questa pagina spiega ciò chì ste parolle volenu spessu dì, chì pudete dì, attività chì ponu aiutà in quellu mumentu, è cumu stà à sicuru.
+«Vogliu andà à casa.» Per parechje famiglie hè una di e cose più difficiuli da sente, sopratuttu quandu a persona ch'è curate hè seduta in u so salone. Hè cumune, pò accade in ogni tappa di a demenza, è ci sò modi calmi è pratichi per risponde. Quista pagina parla di ciò ch'è e parolle significheghjanu spessu, di chì dì, di l'attività chì ponu aiutà in u mumentu, è di cumu restà sicuri.
 
-## Perchè una persona chì campa cù a dimenza chjere sempre di vultà in casa?
+## Perchè una persona cun demenza dumanda sempre di andà à casa?
 
-Di solitu, « casa » hè più un sintimu cà un locu. L'Alzheimer's Society a descrive cum'è un sintimu di cunfortu è di sicurità, o una casa di u passatu, piuttostu cà u bastimentu stessu. A dimenza pò fà chì e stanze cunnisciute parinu strane, è a persona pò avè l'impressione di campà in un mumentu più anticu di a so vita, quandu a casa era quella di a zitellina o u locu induve hà crisciutu i so figlioli.
+Di solitu, «casa» hè un sentimu più cà un locu. L'Alzheimer's Society a descrive com'è un sensu di cunfortu è di sicurezza, o una casa di u passatu, più cà a casa stessa. A demenza pò fà ch'è e stanze cunnisciute parenu strane, è una persona pò sente ch'ella vive in un mumentu precedente di a so vita, quandu a casa era quella di l'infanzia o u locu induv'ella hà crisciutu i so figlioli.
 
-E parolle ponu ancu mustrà chì qualcosa d'altru ùn va micca bè in quellu mumentu: a persona hà fame, sete, bisognu d'andà à i servizii, hà dulore, hà troppu caldu o troppu fretu, hè stanca, sola, spaventata, o sopraccaricata da u rumore. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) cita u dulore, u rumore, a sulitudine, i cambiamenti di rutina è e medicine trà e cause di l'agitazione.
+E parolle ponu ancu esse un segnu ch'è qualcosa ùn và micca avà: hà fame, hà sete, hà bisognu di andà in bagnu, hà dulore, hà troppu caldu o fretu, hè stanca, sulitaria, spaventata, o hè sopraffatta da u rumore. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) indica u dulore, u rumore, a sulitudine, i cambiamenti di rutina è i medicamenti trà e cause d'agitatione.
 
-## Chì devu dì quandu chjere di vultà in casa?
+## Chì devu dì quandu dumanda di andà à casa?
 
-Rispondite à ciò chì a persona sente, micca à e parolle. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) cunsiglia di ùn circà micca di cunvince a persona ch'ella hà tortu: ciò ch'ella sente hè reale, allora rispondite prima cù cunfortu è rassicurazione, poi redirigite pianu pianu.
+Rispondite à u sentimu, micca à e parolle. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) cunsiglia di ùn pruvà micca à cunvince a persona ch'ella hà tortu: i so sentimi sò reali, dunque rispondite prima cun cunfortu è rassicurazione, poi redirizzate pianamente.
 
-Frasi chì ponu aiutà:
+E frasi chì spessu aiutanu:
 
-- **Date un nome à ciò ch'ella sente.** « Mi pare chì a casa vi manca. »
-- **Rassicurate.** « Site à sicuru quì, è eiu restu cun voi. » L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) prupone e parolle simplice « Site à sicuru quì. »
-- **Invitate i ricordi.** « Parlàtemi di a vostra casa. Com'era a vostra cucina? » Dumandà di u passatu luntanu hè di solitu più faciule cà dumandà di oghje.
-- **Pruprite qualcosa da fà inseme.** « Pigliemu prima una tazza di tè », o « Mi puderiate aiutà cù sti asciugamani? »
+- **Dite u sentimu.** «Pare ch'è vi manchi a casa.»
+- **Rassicurate.** «Site sicura quì, è eu restu cun voi.» L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) prupone e parole simplici «Site sicura quì».
+- **Invitate i ricordi.** «Cuntatemi di a vostra casa. Com'era a vostra cucina?» Dumandà di u passatu luntanu hè di solitu più cunfortevule cà e dumande nantu à oghje.
+- **Pruponate qualcosa da fà inseme.** «Pigliamu prima una tazza di tè», o «Mi aiutereste cù sti teli?»
 
-Un tonu caldu è una manu nantu à u bracciu, s'ella li piace u cuntattu, ponu dì più chè e parolle.
+Un tonu caldu è una mani nantu u bracciu, s'ella piace u cuntattu fisicu, ponu dì più cà e parole.
 
 ## Chì devu evità?
 
-- **Discutà o spiegà.** « Avà campate quì » o « Hè a vostra casa dapoi 40 anni » dumanda à a persona d'accettà qualcosa chì a dimenza rende difficiule da accettà, è pò fà la sente cum'è s'ella avessi tortu.
-- **Fà dumande cum'è un esame.** « Ùn vi arricurdate micca? » o « Chì hè l'indirizzu? » aghjunghje pressione.
-- **Bluccà a porta cù rabbia.** S'ella vole sorte, restate calmu è spassighjate cun ella. Una corta spassighjata inseme calma spessu l'envia.
-- **Andà troppu in furia.** Lasciateli u tempu di parlà di a casa nanzu di cambià sughjettu.
+- **Discute o spiegà.** «Avete da stà quì avà» o «Quista hè a vostra casa da 40 anni» li dumanda d'accettà qualcosa ch'a demenza rende difficiule da accettà, è pò parè cum'è s'ella avessi tortu.
+- **Fà dumande insistente.** «Ùn vi ricordate micca?» o «Chì indirizzu hà?» aghjunghje pressione.
+- **Bluccà a porta cun rabbia.** S'ella vole andà fora, restate calmi è caminate cun ella. Una corta passeghjata inseme spessu calma u desideriu.
+- **Affrettà.** Date li tempu di parlà di a casa prima di cambià u sughjettu.
 
-## Attività chì ponu aiutà in quellu mumentu
+## Attività chì ponu aiutà in u mumentu
 
-Dopu avè ricunnisciutu ciò chì a persona sente, una attività calma è cunnisciuta pò aiutà à cambià l'attenzione senza ignuralla.
+Dopu avè ricunnisciutu u sentimu, un'attività calma è cunnisciuta pò spustà l'attenzione senza scartà la.
 
-1. **Fighjà ritratti di a casa è di a famiglia.** Girasciate e pagine è fate cummenti (« Fighjate stu giardinu ») invece di fà dumande. Nant'à un telefuninu o una tavuletta, [Photo pairs](/games/photo-pairs/) trasforma i vostri ritratti di famiglia in un ghjocu dolce d'abbinamentu, è i ritratti restanu nant'à u vostru apparechju.
-2. **Parlà di a casa.** [Conversation cards](/games/conversation-cards/) prupone idee aperte nantu à e case, e cucine, i vicini è e feste, senza risposte ghjuste o sbagliate.
-3. **Mette a musica ch'ella ama.** U National Institute on Aging cita a musica dolce trà i modi per calmà l'agitazione. Fighjate e nostre [attività cù a musica](/activities/music/).
-4. **Prupone un spuntinu o qualcosa da beie.** A fame è a sete ponu pare inquietudine. Una tazza di tè o un spuntinu chì li piace hè ancu un picculu rituale chì face sente in casa.
-5. **Andà à spassighjà o pusà fora.** U muvimentu è a luce di u ghjornu aiutanu, soprattuttu à l'iniziu di a ghjurnata.
-6. **Dà un compitu cunnisciutu.** Piegà a biancheria, mette in ordine e pusate o innaffià e piante pò fà vultà u sintimu di occupassi di a casa.
-7. **Rallentà tuttu.** Spenghje a televisione, calà u rumore è a luce troppu forte, è pruvate una pausa di [respirazione calma](/games/calm-breathing/) inseme.
+1. **Guardate e foto di a casa è di a famiglia.** Girate e pagine è fate cumenti («Guardate u quellu giardinu») invece di fà dumande. Nantu à un telefone o una tavuletta, [Coppie di foto](/games/photo-pairs/) trasforma e vostre foto di famiglia in un ghjocu gentile di currispundenza, è e foto restanu nantu à u vostru apparecchiu.
+2. **Parlate di a casa.** [Carte di cunversazione](/games/conversation-cards/) pruponenu dumande aperte nantu à e case, e cucine, i vicini è e vacanze, senza risposte ghjuste.
+3. **Sunate a musica ch'ella ama.** U National Institute on Aging indica a musica calmante trà i modi di calmà l'agitatione. Vede e nostre [attività musicali](/activities/music/).
+4. **Pigliate un spuntinu o una bivanda.** A fame è a sete ponu parè inquietudine. Una tazza di tè o un dolce preferitu hè ancu un picculu rituale di casa.
+5. **Andate à passeghjà o stiate fora.** U muvimentu è a luce di ghjornu aiutanu, sopratuttu prima in a ghjurnata.
+6. **Date un travagliu cunnisciutu.** Piegà u bucatu, ordinà e pusate o innaffià e piante ponu fà vultà u sentimu di gestisce una casa.
+7. **Rallentate tuttu.** Spegnete a TV, riducite u rumore è u bagliore, è pruvate una pausa di [respirazione calma](/games/calm-breathing/) inseme.
 
-S'è una idea ùn funziona micca, pruvatene un'altra più tardi. Stà tranquilli inseme hè ancu un bellu risultatu.
+S'una idea ùn funziona micca, pruvate n'antra più tardi. Stà seduti in silenziu inseme hè ancu un bon risultatu.
 
-## Verificate s'ellu ci hè una causa chì pudete risolve
+## Verificate s'ellu ci hè una causa ch'è pudete aggiustà
 
-| Da verificà | Ciò chì pudete pruvà |
+| Verifica | Chì pruvà |
 | --- | --- |
-| Fame o sete | Prupone qualcosa da beie è un picculu spuntinu |
-| Bisognu d'andà à i servizii | Pruprite d'andà à u bagnu, cun calma è senza imbarazzu |
-| Dulore o fastidiu | Fighjate i segni cum'è una smorfia, u fattu di tene una parte di u corpu o a stiticità, è dite lu à u so duttore |
+| Fame o sete | Pruponate una bivanda è un picculu spuntinu |
+| Bisognu di andà in bagnu | Pruponate d'andà in bagnu, calmi è senza rumore |
+| Dulore o disagiu | Cercate segni cum'è smorfie, tene una parte di u corpu o stitichezza, è ditelu à u so duttore |
 | Troppu caldu o troppu fretu | Aghjustate un vestitu o a temperatura di a stanza |
-| Rumore o troppa ghjente | Andate in una stanza più tranquilla, spenghje a televisione |
-| Stanchezza o troppu stimulazione | Riposu, luce più dolce, musica tranquilla |
-| Fine di dopu meziornu | Fighjate a sezzione quì sottu nantu à l'inquietudine di fine di ghjurnata |
+| Rumore o ghjente troppu | Andate in una stanza più tranquilla, spegnete a TV |
+| Stanchi o troppu stimulati | Riposu, abbassate a luce, sunate musica dolce |
+| Fine di u dopu meziornu | Vede a sezzione nantu à l'agitatione di u tramuntu più sottu |
 
-L'Alzheimer's Society cunsiglia di tene un picculu registru di quandu accadenu ste dumande, per esempiu nanzu à i pasti, dopu à e visite o à u calà di u sole. I mudelli aiutanu à preparassi megliu.
+L'Alzheimer's Society cunsiglia di tene un brevu ghjurnale di quandu accadenu e dumande, per esempiu prima di i pasti, dopu à e visite, o à u tramuntu. I mudelli rendenu più faciule u pianificà in anticipu.
 
-## Hè bè di dì una piccula bugia dolce?
+## Va bè di dì una piccula bugia?
 
-Hè un dibattitu reale, è e famiglie attente ponu fà scelte diverse. L'Alzheimer's Society dice chì ùn ci hè micca una sola risposta ghjusta: e cose micca vere ponu rende certe persone più suspettose, allora decidite ciò chì hè megliu per a persona è siate custanti. À u Penn Memory Center, u parè di u co-direttore hè chì a verità hè a scelta di basa è chì una piccula bugia dolce hè accettevule solu quandu a persona ùn pò micca capisce una certa verità, è chì ùn si deve mai fà beffe di a so realità.
+Hè un dibattitu reale, è e famiglie gentili arrivanu à cunclusioni diverse. L'Alzheimer's Society dice ch'è ùn ci hè micca una sola risposta ghjusta: e bugie ponu rende certe persone più sospettose, dunque decidite ciò ch'è hè megliu per a persona è siate custanti. À u Penn Memory Center, u parè di u co-direttore hè ch'a verità hè a scelta di basa è una piccula bugia gentile hè accettabile solu quandu a persona ùn pò capì una verità particulare, è ch'è ùn duvete mai burlà vi di u so sensu di a realità.
 
-Parechje persone chì accudiscenu trovanu una via di mezu: prima un cunfortu onestu è una redirezzione dolce (« Staremu quì sta sera, è eiu sò quì cun voi »), senza discute nantu à induve hè a casa.
+Parecchi di quelli chì curanu trovanu ch'è una via di mezu funziona: prima u cunfortu onestu è a redirizzione («Staremu quì stasera, è eu sò ghjustu quì cun voi»), senza discute nantu à induve hè a casa.
 
-## È s'ellu accade ogni dopu meziornu o ogni sera?
+## Chì fà s'ellu accade ogni dopu meziornu o ogni sera?
 
-L'inquietudine chì principia o peggiora à a fine di u dopu meziornu hè spessu chjamata « sundowning », o inquietudine di fine di ghjurnata. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) cunsiglia un orariu regulare, luce di u sole è attività ogni ghjornu, menu sonnellini tardi, è nunda caffeina o alcolu à a fine di a ghjurnata. Accende e luci nanzu à u calà di u sole pò ancu aiutà. A nostra guida nantu à [attività calme à a fine di u dopu meziornu](/caregiving/late-day-restlessness/) hà più idee.
+L'inquietudine chì principia o peghjora à a fine di u dopu meziornu hè spessu chjamata l'agitatione di u tramuntu (sundowning). U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) prupone un orariu stabule, a luce di u sole è l'attività ogni ghjornu, menu sonni tardi, è nè caffeina nè alcol à a fine di a ghjurnata. Accende e luce prima di u tramuntu pò ancu aiutà. A nostra guida à l'[attività calme di a tarda](/caregiving/late-day-restlessness/) hà più infurmazioni.
 
-## Mantene a persona à sicuru s'ella prova à partesi
+## Mantene li sicuri s'ella prova à andà via
 
-Chjere di vultà in casa pò purtà à alluntanassi. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) stima chì sei persone nantu à dece chì campanu cù a dimenza si alluntaneranu almenu una volta.
+Dumandà di andà à casa pò purtà à vagà. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) stima ch'è sei su deci persone chì vivenu cù a demenza vagheranu almenu una volta.
 
-**Preparatevi in anticipu:**
+**Preparate in anticipu:**
 
-- Un braccialettu d'identità o medicale cù u so nome è u vostru numeru di telefunu, è etichette in i so vestiti. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) cita u prugramma MedicAlert and Alzheimer's Association Safe and Found, chì pò avè un costu.
-- Una campanella o un alarme à a porta, è serrature messe in altu o in bassu. Ùn chjude mai a persona sola dentru.
-- Una foto recente, di primu pianu, è una lista di i lochi induve puderebbe andà, cum'è una casa o un locu di travagliu d'una volta.
-- Dite lu à i vicini di fiducia, è dateli u vostru numeru.
+- Un braccialettu d'identità o medicale cù u so nome è u vostru numeru di telefone, è etichette in i so vestiti. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentova u prugramma MedicAlert è Alzheimer's Association Safe and Found, chì pò custà soldi.
+- Un campanellu o un allarme à a porta, è serrature messe in altu o in bassu. Ùn chjude mai a persona sola dentru.
+- Una foto recente da vicinu, è una lista di i lochi induv'ella pò andà, cum'è una casa vechja o u locu di travagliu.
+- Dite lu à i vicini di fiducia, è date li u vostru numeru.
 
-**S'ella sparisce:** principiate à circalla subitu; l'Alzheimer's Association nota chì parechje persone sò truvate in menu di 1,5 miglia (circa 2,4 chilometri). S'ella ùn hè micca stata truvata dopu à 15 minuti, chjamate u 112 è spiegate chì a persona campa cù a dimenza. Chjamate u 112 subitu s'ellu ci hè un periculu per qualchissia.
+**S'ella sparisce:** verificate i lochi sicuri vicini mentre cuntattate prestu a pulizia lucale o i servizii d'urgenza. Ùn aspettate micca un numeru fissu di minuti prima di signalà. Un articulu di ghjurnale di u 2021 [U.S. Department of Justice journal article on missing-person investigations](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) dice ch'è l'agenzii di forza publica ùn devenu micca esigge un periodu d'attesa fissu; indica ancu i sintomi simili à a demenza cum'è una preoccupazione d'altu risicu. E prucedure lucali di signalazione varianu. Dite à e persone chì rispondenu ch'a persona hà a demenza, spartite l'ultimu locu cunnisciutu è una foto recente, è seguite e so indicazioni. S'ellu c'è un altru aiutu dispunibule, dumandate li di stà vicinu à u telefone. Ùn cercate micca in lochi periculosi da solu.
 
-## Quandu devu chjamà un duttore?
+## Quandu devu chjamà u duttore?
 
-Chjamate prestu u so duttore se e dumande o a cunfusione principianu di colpu, o peggioranu assai in poche ore o ghjorni. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dice chì un cumpurtamentu chì cambia di colpu o in furia, soprattuttu dopu à una infezzione o un cambiamentu di medicina, deve esse verificatu subitu. A cunfusione subita pò esse un deliriu, chì u [NHS](https://www.nhs.uk/symptoms/confusion/) dice chì hà bisognu d'aiutu rapidu; l'infezzioni urinarie sò una causa cumuna in e persone più anziane.
+Chjamate u so duttore prestu s'e dumande o a cunfusione principianu di colpu, o peghjuranu assai in ore o in ghjorni. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dice ch'è un cumpurtamentu subitaneu o chì cambia prestu, sopratuttu dopu à un'infezzione o un cambiamentu di medicamentu, duverebbe esse verificatu subitu. Una cunfusione subitanea pò esse un deliriu, ch'è u [NHS](https://www.nhs.uk/symptoms/confusion/) dice chì hà bisognu d'aiutu urgente; l'infezzioni di e vie urinarie sò una causa cumune in e persone anziane.
 
-Hè ancu utile parlà di un mudellu regulare à u prossimu appuntamentu, perchè u dulore, a tristezza, i prublemi di sonnu o l'effetti di e medicine ponu tutti avè un rolu.
+Aiuta ancu à mentuvà un mudellu stabule à u prossimu appuntamentu, postu chè u dulore, un umore bassu, i prublemi di sonnu o l'effetti secondari di i medicamenti ponu tutti ghjucà un rollu.

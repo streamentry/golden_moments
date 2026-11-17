@@ -1,33 +1,32 @@
 ---
-title: "Wczesne objawy demencji i kiedy iść do lekarza"
-seoTitle: "Wczesne objawy demencji: kiedy iść do lekarza"
-description: "Częste wczesne objawy demencji, czym różnią się od typowych zmian z wiekiem, uleczalne przyczyny problemów z pamięcią i jak przygotować się do wizyty u lekarza."
+title: "Wczesne objawy otępienia i kiedy iść do lekarza"
+seoTitle: "Wczesne objawy otępienia i kiedy iść do lekarza"
+description: "Typowe wczesne objawy otępienia, różnice w porównaniu ze zwykłym starzeniem, możliwe do leczenia przyczyny kłopotów z pamięcią i przygotowanie do wizyty."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Utrata pamięci zakłócająca codzienne życie, trudności z wykonywaniem znanych
-  czynności, splątanie co do czasu lub miejsca oraz zmiany nastroju lub oceny
-  sytuacji mogą być wczesnymi objawami demencji. Podobne zmiany mogą wywoływać
-  też inne schorzenia, w tym problemy z tarczycą, niski poziom witaminy B12,
-  skutki uboczne leków, depresja i kłopoty ze snem. Rozpoznać demencję może tylko
-  wykwalifikowany lekarz. Nagłe splątanie wymaga pilnej pomocy.
+  Utrata pamięci utrudniająca codzienne życie, kłopoty ze znanymi czynnościami, dezorientacja
+  co do czasu lub miejsca oraz zmiany nastroju czy zdolności oceny mogą być wczesnymi objawami
+  otępienia. Podobne zmiany mogą mieć także inne przyczyny, w tym problemy z tarczycą, niski
+  poziom witaminy B12, działania niepożądane leków, depresja i kłopoty ze snem. Rozpoznanie może
+  postawić wyłącznie wykwalifikowany lekarz. Nagła dezorientacja wymaga pilnej pomocy medycznej.
 keyPoints:
-  - "Okazjonalna zapominalskość jest z wiekiem częsta; warto sprawdzić zmiany, które utrudniają codzienne życie."
-  - "Alzheimer's Association opisuje 10 objawów ostrzegawczych, a przy każdym podaje typową zmianę związaną z wiekiem dla porównania."
-  - "Problemy z tarczycą, niski poziom witaminy B12, skutki uboczne leków, depresja, infekcje i kłopoty ze snem mogą wpływać na pamięć, a część z tych przyczyn da się leczyć."
-  - "Rozpoznać demencję może tylko wykwalifikowany lekarz; nie zrobią tego quizy ani samodzielne testy w internecie."
-  - "Splątanie, które pojawia się nagle, w ciągu godzin lub dni, może być majaczeniem (delirium) i wymaga pilnej pomocy medycznej."
+  - "Sporadyczne zapominanie jest częste wraz z wiekiem; zmiany utrudniające codzienne życie warto sprawdzić."
+  - "Alzheimer's Association opisuje 10 sygnałów ostrzegawczych, każdy z porównaniem do typowej zmiany związanej z wiekiem."
+  - "Problemy z tarczycą, niski poziom witaminy B12, działania niepożądane leków, depresja, infekcje i kłopoty ze snem mogą wpływać na pamięć, a niektóre z tych przyczyn da się leczyć."
+  - "Rozpoznanie otępienia może postawić wyłącznie wykwalifikowany lekarz; quizy i testy online tego nie zastąpią."
+  - "Dezorientacja, która pojawia się nagle, w ciągu godzin lub dni, może być majaczeniem i wymaga pilnej pomocy medycznej."
 faq:
-  - q: "Czy zapominalskość to normalna część starzenia się?"
-    a: "Do pewnego stopnia tak. National Institute on Aging podaje, że okazjonalne odkładanie rzeczy nie tam, gdzie trzeba, albo zapomnienie o rachunku to zwykle łagodna zapominalskość związana z wiekiem. Demencja nie jest normalną częścią starzenia się. Problemy z pamięcią, które utrudniają codzienne czynności, takie jak prowadzenie samochodu, korzystanie z telefonu czy trafienie do domu, warto skonsultować z lekarzem."
-  - q: "Czy problemy z pamięcią mogą mieć inną przyczynę niż demencja?"
-    a: "Tak. National Institute on Aging wymienia między innymi choroby tarczycy, nerek lub wątroby, skutki uboczne leków, depresję i stany lękowe, niski poziom witaminy B12, nadużywanie alkoholu, problemy ze snem, infekcje i urazy głowy. Część z nich ustępuje po leczeniu, dlatego badanie lekarskie jest ważne."
-  - q: "Czy mogę sprawdzić w domu, czy ktoś ma demencję?"
-    a: "Nie. Demencję może rozpoznać tylko wykwalifikowany lekarz, na podstawie wywiadu medycznego, badania fizykalnego, testów pamięci i myślenia, badań laboratoryjnych, a czasem badań obrazowych mózgu. Nawet krótkie testy, których używają lekarze, same nie wystarczą do rozpoznania demencji."
-  - q: "Co zrobić, gdy ktoś nagle staje się splątany?"
-    a: "Od razu poszukaj pomocy medycznej. Nagłe splątanie może być majaczeniem (delirium), które amerykański Departament ds. Weteranów (VA) opisuje jako stan nagły. Natychmiast skontaktuj się z lekarzem prowadzącym tej osoby albo zadzwoń pod numer alarmowy 112, zostań przy niej i zanotuj, jakie leki przyjmuje."
+  - q: "Czy zapominanie jest normalną częścią starzenia się?"
+    a: "W pewnym stopniu tak. National Institute on Aging podaje, że sporadyczne odkładanie rzeczy w nieodpowiednie miejsce lub zapomnienie o rachunku to zwykle łagodne, związane z wiekiem kłopoty z pamięcią. Otępienie nie jest normalną częścią starzenia się. Kłopoty z pamięcią utrudniające codzienne czynności, takie jak prowadzenie samochodu, korzystanie z telefonu czy znalezienie drogi do domu, warto sprawdzić u lekarza."
+  - q: "Czy kłopoty z pamięcią mogą mieć inną przyczynę niż otępienie?"
+    a: "Tak. National Institute on Aging wymienia między innymi problemy z tarczycą, nerkami lub wątrobą, działania niepożądane leków, depresję i lęk, niski poziom witaminy B12, niewłaściwe używanie alkoholu, kłopoty ze snem, infekcje i urazy głowy. Niektóre z tych przyczyn ustępują po leczeniu, dlatego badanie lekarskie jest tak ważne."
+  - q: "Czy można sprawdzić w domu, czy ktoś ma otępienie?"
+    a: "Nie. Rozpoznanie otępienia może postawić wyłącznie wykwalifikowany lekarz, na podstawie wywiadu medycznego, badania fizycznego, testów pamięci i myślenia, badań laboratoryjnych, a czasem badań obrazowych mózgu. Nawet krótkie testy stosowane przez lekarzy nie wystarczą same w sobie do rozpoznania otępienia."
+  - q: "Co zrobić, jeśli ktoś nagle staje się zdezorientowany?"
+    a: "Należy od razu uzyskać pomoc medyczną. Nagła dezorientacja może być majaczeniem, które VA opisuje jako stan nagły wymagający pilnej pomocy medycznej. Należy natychmiast skontaktować się z lekarzem tej osoby lub zadzwonić pod 911, zostać przy niej i zanotować, jakie leki przyjmuje."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -55,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Zauważenie zmian we własnej pamięci albo w pamięci bliskiej osoby może być przerażające. Ta strona pomoże Ci zdecydować, kiedy umówić wizytę u lekarza i jak się do niej przygotować. Nie powie Ci, czy ktoś ma demencję. **Demencję może rozpoznać tylko wykwalifikowany lekarz**, a wiele schorzeń powodujących problemy z pamięcią w ogóle nie jest demencją. Prosimy, nie opieraj się na quizach ani samodzielnych testach w internecie.
+Zauważenie zmian we własnej pamięci lub w pamięci bliskiej osoby może budzić niepokój. Ta strona może pomóc zdecydować, kiedy umówić wizytę u lekarza i jak się do niej przygotować. Nie pozwala określić, czy ktoś ma otępienie. **Rozpoznanie otępienia może postawić wyłącznie wykwalifikowany lekarz**, a wiele schorzeń powodujących kłopoty z pamięcią nie ma nic wspólnego z otępieniem. Prosimy nie polegać na quizach i testach online.
 
-## Jakie są wczesne objawy demencji?
+## Jakie są wczesne objawy otępienia?
 
-[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) opisuje 10 wczesnych objawów. Przy każdym podaje typową zmianę związaną z wiekiem, dla porównania. Własnymi słowami:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) opisuje 10 wczesnych objawów. Każdemu towarzyszy porównanie z typową zmianą związaną z wiekiem. Własnymi słowami:
 
-| Objaw wart sprawdzenia | Bardziej typowe z wiekiem |
+| Objaw wart sprawdzenia | Bardziej typowe wraz z wiekiem |
 | --- | --- |
-| Utrata pamięci zakłócająca codzienne życie, na przykład zapominanie niedawnych wydarzeń albo wielokrotne zadawanie tego samego pytania | Czasem zapomnienie imienia lub terminu i przypomnienie go sobie później |
-| Trudności z planowaniem lub rozwiązywaniem problemów, na przykład z podążaniem za znanym przepisem albo z pilnowaniem rachunków | Okazjonalna pomyłka w domowych rachunkach |
-| Trudność z dokończeniem znanych czynności w domu, w pracy lub poza domem | Od czasu do czasu potrzeba pomocy przy ustawieniu mikrofalówki albo nagraniu programu telewizyjnego |
-| Gubienie się w datach, porach roku lub w tym, gdzie się jest | Pomylenie dnia tygodnia, a potem samodzielne ustalenie, jaki jest |
-| Nowe kłopoty z oceną odległości, czytaniem lub rozróżnianiem kolorów | Zmiany widzenia spowodowane zaćmą |
-| Nowe problemy ze słowami, na przykład urywanie rozmowy w połowie albo mylenie nazw rzeczy | Czasem trudność ze znalezieniem właściwego słowa |
-| Odkładanie rzeczy w nietypowych miejscach i niemożność odtworzenia swoich kroków | Od czasu do czasu odłożenie czegoś nie tam, gdzie trzeba, i odnalezienie tego po odtworzeniu kroków |
-| Słaba ocena sytuacji, na przykład w sprawach pieniędzy albo higieny osobistej | Od czasu do czasu nietrafiona decyzja |
-| Wycofywanie się z hobby, pracy lub spotkań towarzyskich | Czasem brak ochoty na spotkanie rodzinne lub towarzyskie |
-| Zmiany nastroju lub osobowości, na przykład splątanie, podejrzliwość, lęk albo niepokój | Utarte sposoby robienia rzeczy i rozdrażnienie, gdy rutyna zostaje zaburzona |
+| Utrata pamięci utrudniająca codzienne życie, na przykład zapominanie niedawnych wydarzeń lub wielokrotne zadawanie tego samego pytania | Czasem zapomnienie czyjegoś imienia lub terminu spotkania i przypomnienie sobie go później |
+| Kłopoty z planowaniem lub rozwiązywaniem problemów, na przykład z wykonaniem znanego przepisu lub pilnowaniem rachunków | Sporadyczny błąd w domowych rachunkach |
+| Trudności z dokończeniem znanych czynności w domu, w pracy lub poza domem | Czasem potrzebna pomoc w ustawieniu kuchenki mikrofalowej lub nagraniu programu telewizyjnego |
+| Utrata poczucia dat, pór roku lub miejsca, w którym znajduje się dana osoba | Pomylenie dnia tygodnia, a potem samodzielne ustalenie właściwego dnia |
+| Nowe trudności z oceną odległości, czytaniem lub rozróżnianiem kolorów | Zmiany widzenia związane z zaćmą |
+| Nowe kłopoty ze słowami, na przykład zatrzymywanie się w środku rozmowy lub nazywanie rzeczy niewłaściwymi słowami | Czasem trudność ze znalezieniem właściwego słowa |
+| Odkładanie rzeczy w nietypowych miejscach i niemożność odtworzenia swoich kroków | Sporadyczne gubienie rzeczy i odnajdywanie ich po odtworzeniu swoich kroków |
+| Obniżona zdolność oceny, na przykład w sprawach pieniędzy lub higieny osobistej | Sporadyczna nietrafna decyzja |
+| Wycofywanie się z hobby, pracy lub kontaktów towarzyskich | Czasem brak ochoty na spotkanie rodzinne lub towarzyskie |
+| Zmiany nastroju lub osobowości, na przykład narastająca dezorientacja, podejrzliwość, lęk lub niepokój | Przywiązanie do utartych sposobów działania i drażliwość, gdy rutyna zostaje zaburzona |
 
-Jeden objaw sam w sobie nie oznacza demencji. Chodzi o **zmianę w porównaniu z tym, co jest normalne dla danej osoby**, zwłaszcza taką, która utrudnia codzienne życie.
+Jeden objaw nie oznacza otępienia. Chodzi o **zmianę w porównaniu z tym, co jest normalne dla danej osoby**, zwłaszcza jeśli utrudnia codzienne życie.
 
-## Czym normalne starzenie się różni się od demencji?
+## Czym zwykłe starzenie różni się od otępienia?
 
-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) podaje, że wielu starszych dorosłych zauważa, że wolniej sobie coś przypominają albo czasem odłożą rzecz nie tam, gdzie trzeba, lub zapomną o rachunku. To zwykle oznaki łagodnej zapominalskości. **Demencja nie jest normalną częścią starzenia się.** Poważne problemy z pamięcią utrudniają codzienne czynności, takie jak prowadzenie samochodu, korzystanie z telefonu czy trafienie do domu.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) podaje, że wiele starszych osób zauważa, iż przypominanie sobie różnych rzeczy zajmuje więcej czasu albo że czasem coś gubią lub zapominają o rachunku. Zwykle są to objawy łagodnych kłopotów z pamięcią. **Otępienie nie jest normalną częścią starzenia się.** Poważne kłopoty z pamięcią utrudniają codzienne czynności, takie jak prowadzenie samochodu, korzystanie z telefonu czy znalezienie drogi do domu.
 
-NIA zaleca rozmowę z lekarzem, jeśli ktoś:
+NIA sugeruje rozmowę z lekarzem, jeśli dana osoba:
 
-- Zadaje w kółko te same pytania
-- Gubi się w miejscach, które dobrze znał
-- Ma trudność z podążaniem za przepisami lub wskazówkami
-- Jest coraz bardziej zdezorientowany co do czasu, osób i miejsc
-- Przestaje o siebie dbać, na przykład źle się odżywia, nie myje się albo zachowuje się w sposób niebezpieczny
+- Wielokrotnie zadaje te same pytania
+- Gubi się w miejscach, które wcześniej dobrze znała
+- Ma trudności z wykonywaniem przepisów lub poleceń
+- Jest coraz bardziej zdezorientowana co do czasu, ludzi i miejsc
+- Przestaje dbać o siebie, na przykład źle się odżywia, nie myje się lub zachowuje się niebezpiecznie
 
-Niektóre osoby mają **łagodne zaburzenia poznawcze (MCI)**. Oznacza to więcej problemów z pamięcią lub myśleniem niż u innych osób w tym samym wieku, przy zachowanej zdolności radzenia sobie na co dzień. NIA podaje, że MCI może być wczesnym objawem choroby Alzheimera, ale nie u każdej osoby z MCI ona się rozwija.
+U niektórych osób występują **łagodne zaburzenia poznawcze (MCI)**. Oznacza to więcej kłopotów z pamięcią lub myśleniem niż u innych osób w tym samym wieku, przy jednoczesnym radzeniu sobie z codziennym życiem. NIA podaje, że MCI może być wczesnym objawem choroby Alzheimera, ale nie u każdej osoby z MCI choroba ta się rozwinie.
 
-## Co jeszcze może powodować problemy z pamięcią?
+## Co jeszcze może powodować kłopoty z pamięcią?
 
-Na pamięć może wpływać wiele rzeczy poza demencją, a niektóre z nich poprawiają się po leczeniu. NIA wymienia:
+Na pamięć mogą wpływać także inne przyczyny niż otępienie, a niektóre z nich ustępują po leczeniu. NIA wymienia:
 
 - **Problemy z tarczycą, nerkami lub wątrobą**
-- **Skutki uboczne leków**
-- **Depresję i stany lękowe**
-- **Niski poziom witaminy B12** lub niedostateczną ilość zdrowego jedzenia
-- **Problemy ze snem**
-- **Nadużywanie alkoholu lub narkotyków**
+- **Działania niepożądane leków**
+- **Depresję i lęk**
+- **Niski poziom witaminy B12** lub niedostateczne odżywianie
+- **Kłopoty ze snem**
+- **Niewłaściwe używanie alkoholu lub innych substancji**
 - **Infekcje, zakrzepy lub guzy** w mózgu
 - **Uraz głowy**, na przykład wstrząśnienie mózgu
-- **Silny stres lub żałobę**, na przykład po przejściu na emeryturę albo po stracie współmałżonka
+- **Silny stres lub żałobę**, na przykład po przejściu na emeryturę lub utracie współmałżonka
 
-Problemy ze słuchem i wzrokiem mogą być też brane za splątanie; zobacz nasz [poradnik o słuchu](/brain-health/hearing/). Dlatego badanie lekarskie jest ważne. Według [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) lekarze często zlecają badania krwi, by sprawdzić, czy nie ma problemów z tarczycą, niedoborów witamin i infekcji. Warto też porozmawiać o dobrym [śnie](/brain-health/sleep/) i o leczeniu depresji.
+Kłopoty ze słuchem i wzrokiem także mogą zostać mylnie uznane za dezorientację; zobacz nasz [przewodnik o słuchu](/brain-health/hearing/). Dlatego badanie lekarskie jest tak ważne. Według [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) lekarze często zlecają badania krwi, aby sprawdzić problemy z tarczycą, niedobory witamin i infekcje. Warto wspomnieć także o dobrym [śnie](/brain-health/sleep/) i leczeniu depresji.
 
-## Nagłe splątanie to stan nagły
+## Nagła dezorientacja to stan nagły
 
-**Splątanie, które pojawia się szybko, w ciągu godzin lub dni, wymaga pilnej pomocy medycznej.** Może to być majaczenie (delirium). [VA opisuje majaczenie](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) jako stan nagły i radzi natychmiast zadzwonić do lekarza prowadzącego tę osobę albo pod numer alarmowy (w USA 911; w Polsce i w całej Unii Europejskiej 112). Objawy to między innymi:
+**Dezorientacja, która pojawia się nagle, w ciągu godzin lub dni, wymaga pilnej pomocy medycznej.** Może to być majaczenie. [VA opisuje majaczenie](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) jako stan nagły wymagający pilnej pomocy medycznej i zaleca natychmiastowy kontakt z lekarzem danej osoby lub zadzwonienie pod 911. Do objawów należą:
 
 - Wahania zdolności jasnego myślenia
-- Trudność ze skupieniem uwagi
+- Trudności z utrzymaniem uwagi
 - Chaotyczne myślenie
 - Niezwykła senność albo niezwykły niepokój i pobudzenie
 
-Może się to zdarzyć każdemu, także osobom, które już żyją z demencją. Według [NHS](https://www.nhs.uk/symptoms/confusion/) częste przyczyny to infekcje (zakażenia dróg moczowych są częste u osób starszych i u osób z demencją), udar, niski poziom cukru we krwi u osób z cukrzycą, uraz głowy i niektóre leki. Gdy czekasz na pomoc, zostań przy tej osobie i uspokajaj ją krótkimi, prostymi słowami. Nie zadawaj wielu pytań i zanotuj, jakie leki przyjmuje.
+Może się to zdarzyć każdemu, także osobom żyjącym już z otępieniem. Według [NHS](https://www.nhs.uk/symptoms/confusion/) częste przyczyny to infekcje (infekcje dróg moczowych są częste u osób starszych i osób żyjących z otępieniem), udar, niski poziom cukru we krwi u osób z cukrzycą, uraz głowy i niektóre leki. W oczekiwaniu na pomoc warto zostać przy tej osobie i uspokajać ją krótkimi, prostymi słowami. Nie należy zadawać wielu pytań i warto zanotować, jakie leki przyjmuje.
 
 ## Jak przygotować się do wizyty u lekarza?
 
-Dobra wizyta zaczyna się od dobrych notatek. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) radzi zabrać ze sobą:
+Dobra wizyta zaczyna się od dobrych notatek. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) sugeruje zabranie ze sobą:
 
-1. **Listę zmian** w pamięci, nastroju i zachowaniu, z konkretnymi przykładami i mniej więcej z czasem, kiedy się zaczęły
-2. **Dawne i obecne problemy zdrowotne**, w tym ewentualne problemy z pamięcią w rodzinie
-3. **Wszystkie leki na receptę i dostępne bez recepty**
-4. **Wszelkie witaminy i suplementy**
-5. **Swoje pytania**, na przykład jakie badania zostaną zrobione, ile potrwają i kiedy będą wyniki
+1. **Listy zmian** w pamięci, nastroju i zachowaniu, z konkretnymi przykładami i przybliżonym czasem ich początku
+2. **Informacji o wcześniejszych i obecnych problemach zdrowotnych**, w tym o rodzinnej historii kłopotów z pamięcią
+3. **Wszystkich leków na receptę i bez recepty**
+4. **Wszystkich witamin i suplementów**
+5. **Swoich pytań**, na przykład jakie badania zostaną wykonane, ile czasu potrwają i kiedy będą wyniki
 
-Pomaga też zabranie członka rodziny lub przyjaciela, który dobrze zna tę osobę. [NIA wyjaśnia](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), że lekarze mogą pytać zarówno samą osobę, jak i kogoś z rodziny o zdrowie, leki, codzienne czynności i zmiany w zachowaniu. Lekarze mogą też:
+Warto również zabrać członka rodziny lub przyjaciela, który dobrze zna tę osobę. [NIA wyjaśnia](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), że lekarze mogą pytać zarówno daną osobę, jak i członka rodziny o zdrowie, leki, codzienne czynności i zmiany w zachowaniu. Lekarze mogą także:
 
 - Przeprowadzić testy pamięci, rozwiązywania problemów, uwagi, liczenia i języka
-- Zlecić badania krwi, moczu i inne, by szukać innych przyczyn
-- Sprawdzić, czy nie ma depresji lub innych zaburzeń psychicznych
-- Zlecić badania obrazowe mózgu, takie jak tomografia komputerowa (TK) lub rezonans magnetyczny (MRI)
-- Skierować do specjalisty, takiego jak geriatra, neurolog, psychiatra geriatryczny lub neuropsycholog
+- Zlecić badania krwi, moczu i inne, aby poszukać innych przyczyn
+- Sprawdzić, czy występuje depresja lub inne zaburzenia zdrowia psychicznego
+- Zlecić badania obrazowe mózgu, takie jak tomografia komputerowa lub rezonans magnetyczny
+- Skierować do specjalisty, na przykład geriatry, neurologa, psychiatry geriatrycznego lub neuropsychologa
 
-NIA zauważa, że w USA ocena funkcji poznawczych jest obowiązkową częścią rocznej wizyty profilaktycznej w programie Medicare (Medicare Annual Wellness Visit), która może być naturalną okazją do zgłoszenia obaw. W innych krajach taką okazją może być zwykła wizyta kontrolna u lekarza rodzinnego. Nawet krótkie testy, których używają lekarze, same nie wystarczą do rozpoznania demencji. To pierwszy krok do pełniejszej oceny, a diagnoza może wymagać więcej niż jednej wizyty. NIA radzi, by osoby z problemami z pamięcią wracały do lekarza co 6 do 12 miesięcy.
+NIA zauważa, że ocena funkcji poznawczych jest wymaganą częścią corocznej wizyty profilaktycznej Medicare (Medicare Annual Wellness Visit), co może być dobrym momentem, aby poruszyć swoje obawy. Nawet krótkie testy stosowane przez lekarzy nie wystarczą same w sobie do rozpoznania otępienia. Są pierwszym krokiem do pełniejszej oceny, a postawienie rozpoznania może wymagać więcej niż jednej wizyty. NIA zaleca, aby osoby z kłopotami z pamięcią wracały do lekarza co 6 do 12 miesięcy.
 
-## Jak delikatnie poruszyć ten temat
+## Jak poruszyć ten temat z życzliwością
 
-Jeśli martwisz się o kogoś innego, wybierz spokojną chwilę bez świadków. Mów o konkretnych rzeczach, które zauważyłeś lub zauważyłaś, jako o trosce o zdrowie tej osoby, a nie o krytyce. Zaproponowanie zwykłej kontroli może być mniej niepokojące. Włączaj tę osobę w decyzje i mów do niej jak do dorosłego człowieka, którym jest. Pomocne mogą być nasze [wskazówki do rozmowy](/caregiving/communication-tips/).
+Jeśli martwisz się o kogoś innego, wybierz spokojny, prywatny moment. Mów o konkretnych rzeczach, które zauważyłeś lub zauważyłaś, pokazując troskę o zdrowie tej osoby, a nie krytykę. Propozycja ogólnego badania kontrolnego może być mniej niepokojąca. Włączaj tę osobę w podejmowanie decyzji i rozmawiaj z nią jak z dorosłym człowiekiem. Nasze [wskazówki dotyczące komunikacji](/caregiving/communication-tips/) mogą być pomocne.
 
 ## Porozmawiaj z lekarzem
 
-Jeśli zauważysz nowe zmiany w pamięci, myśleniu, nastroju lub codziennych umiejętnościach, które się powtarzają, umów wizytę u lekarza rodzinnego. W razie nagłego splątania zadzwoń od razu pod numer alarmowy 112 albo do lekarza prowadzącego tę osobę. Wczesne sprawdzenie oznacza, że można znaleźć uleczalne przyczyny, a jeśli to jednak demencja, jest więcej czasu na planowanie i szukanie wsparcia. Zadbaj też o siebie; zobacz nasz [poradnik o trosce o siebie dla opiekunów](/caregiving/caregiver-self-care/).
+Jeśli zauważysz nowe i powtarzające się zmiany w pamięci, myśleniu, nastroju lub codziennych umiejętnościach, umów wizytę u lekarza podstawowej opieki zdrowotnej. W przypadku nagłej dezorientacji natychmiast zadzwoń pod 911 lub skontaktuj się z lekarzem tej osoby. Wczesne sprawdzenie sprawia, że można znaleźć przyczyny możliwe do leczenia, a jeśli chodzi o otępienie, jest więcej czasu na zaplanowanie dalszych kroków i znalezienie wsparcia. Zadbaj także o siebie; zobacz nasz [przewodnik o dbaniu o siebie przez osoby opiekujące się bliskimi](/caregiving/caregiver-self-care/).
 
-Ta strona zawiera ogólne informacje i nie jest poradą medyczną. Zobacz naszą [informację o treściach zdrowotnych](/medical-disclaimer/).
+Ta strona zawiera ogólne informacje i nie stanowi porady medycznej. Zobacz nasze [zastrzeżenie medyczne](/medical-disclaimer/).

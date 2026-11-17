@@ -1,32 +1,34 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Misala ya mabɔkɔ mpo na bakóló bazali na bokono bwa bobúngi bwa makanisi"
+seoTitle: "Misala ya mabɔkɔ mpo na bokono bwa bobúngi bwa makanisi"
+description: "Bakanisi ya misala ya mabɔkɔ mpo na bato bakóló bazali na bokono bwa bobúngi bwa makanisi, kobanda na langi ya mai kino na kobongisa bafololo, mpe ndenge ya kobongisa yango."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Misala ya mabɔkɔ ya malamu mpo na bakóló bazali na bokono bwa bobúngi bwa
+  makanisi esengeli komonana mpe koyokana lokola ya bakóló: langi ya mai,
+  kolakisa bililingi oyo ekatami na bazulunalo, kobongisa bafololo, mabele ya
+  kosala biloko, kosala bakarte ya moke to lokasa ya kopakola langi mpo na
+  bakóló. Bimisa biloko moke, sunga na kopasola ya liboso soki esengeli,
+  solola ntango bozali kosala, mpe talá ntango oyo bolekisi elongo lokola
+  eloko ya ntina mingi. Kosilisa mosala ezali ya tina te.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Poná biloko mpe mitó ya makambo oyo emonanaka lokola ya bakóló, na ndakisa papiyé ya langi ya mai, bafololo ya solo mpe bililingi ya bazulunalo, kasi te biloko oyo engɛngisaka, bilembo oyo bakangisaka to lokasa ya bana."
+  - "Tyá likebi na ndenge mosala ezali kosalema: balangi, ndenge mabele ezali koyokana na mabɔkɔ, masolo. Kosilisa eloko moko ezali kaka likabo ya kobakisa, kasi ezali mokano te."
+  - "Pesa ntina soki ekoki kosalema, na ndakisa karte mpo na munkana to eloko ya kitoko mpo na mesa."
+  - "Sunga moto abandá, na nsima tiká ye akoba ye moko. Kobanda nzela ya pinceau elongo mbala mosusu ekoki."
+  - "Misala esengeli te kosila na mbala moko, mpe kotika liboso ezali malamu ntango nyonso."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ndenge nini nakoki kosala ete misala ya mabɔkɔ emonana lokola ya bana te?"
+    a: "Salelá biloko ya solo ya miziki ya mabɔkɔ, mitó ya makambo ya bakóló mpe lolenge ya lokumu. Longolá biloko oyo engɛngisaka mpe lokasa ya bana, tyá papiyé ya langi ya mai, bilamba, bafololo, bafɔtɔ ya bazulunalo mpe lokasa ya kopakola langi ya makambo ya bakóló. Kopesa lokumu na mosala te ndenge opesaka yango na mwana; lobela yango ndenge okolobela na moninga mosusu ya mokóló."
+  - q: "Misala nini ya mabɔkɔ ekoki kosalema na etape ya suka ya bokono bwa bobúngi bwa makanisi?"
+    a: "Na etape ya suka, misala ya pete oyo etali koyoka na nzoto nde esalaka malamu koleka: kopakola langi na nzela minene na pinceau monene, kofina mabele ya pete, kotyá bafololo moke na vase, to kopona bilamba ndenge ezali koyokana na mabɔkɔ. Ekoki kozala ete osengeli kobanda mosala elongo na ye. Kotala ndenge ozali kopakola langi mpe kosolola na ntina ya balangi ezali mpe lolenge ya kozala na kati ya mosala."
+  - q: "Soki alobi ete akoki kotɛngɛ te?"
+    a: "Longolá nkanda. Meká misala oyo ezali na eyano ya malamu moko te, lokola kopakola langi ya mai na pete, kolakisa bililingi, to kobongisa bafololo. Okoki mpe koloba ete ozali na mposa ya lisungi na likambo moko ya sikisiki, lokola kopona balangi mpo na karte, mpo ete mosala emonana lokola lisungi, kasi te lokola komekama."
+  - q: "Lokasa ya kopakola langi ezali lokola ya bana mpo na bakóló?"
+    a: "Te, soki esalemi mpo na bakóló. Poná lokasa oyo ezali na mitó ya makambo ya bakóló lokola bilanga, bilamba ya kobwaka na mbeto, mituka to bisika ya kitoko, mpe lakisá yango lokola eloko ya kopema, kasi te lokola liteya. Lokasa na biso ya kopakola langi ekoki kobimama na imprimi to kopakolama langi na tableti."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +50,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Misala ya mabɔkɔ epesaka bato bakóló bazali na bokono bwa bobúngi bwa makanisi nzela ya komonisa makanisi na bango oyo etali kozwa maloba ya malamu te. Alzheimer's Association elobi ete misala ya mabɔkɔ ekoki komema [liyoki ya kokokisa eloko mpe kozala na ntina](https://www.alz.org/help-support/caregiving/daily-care/art-music) mpe epesaka nzela ya komonisa makanisi, mpo na moto oyo azali kobatela mpe mpo na moto oyo azali na bokono bwa bobúngi bwa makanisi. Eloko ya ntina ezali kobatela makambo lokola ya bakóló, ya pete mpe kozanga nkanda. Lokasa oyo epesi misala ya sikisiki, ndenge ya kobongisa yango mpe ndenge ya kobongola yango ntango makambo ekobongwana.
 
-## What makes an art activity adult and not childish?
+## Eloko nini esalaka ete mosala ya mabɔkɔ ezala ya bakóló, kasi ya bana te?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Mosala ya mabɔkɔ ya bakóló esalelaka biloko ya solo, mitó ya makambo ya bakóló mpe lolenge ya lokumu. Alzheimer's Association epesi toli ya kobatela misala na nivo ya bakóló mpe koboya nyonso oyo ekoki komonana lokola ezali kotyola moto to lokola ya bana.
 
-| Feels childish | Feels adult |
+| Emonani lokola ya bana | Emonani lokola ya bakóló |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Biloko oyo engɛngisaka, bilembo ya kolata, miso ya kosala na mabɔkɔ | Papiyé ya langi ya mai, bilamba, bafololo oyo ekauká |
+| Lokasa ya kopakola langi ya bililingi ya bana | Lokasa ya kopakola langi ya bilanga, bilamba ya kobwaka na mbeto, mituka to bisika ya kitoko |
+| « Osali malamu » mpo na elembo nyonso | Lisolo ya solo: « Langí oyo ya bleu ezali kitoko pembeni ya vert » |
+| Mosala oyo ezali na ntina te | Karte mpo na moninga, eloko ya kitoko mpo na mesa, likabo |
+| Malako oyo etangami lokola liteya | Libyangi: « Okoki kosunga ngai na likambo oyo? » |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Kanisá makambo oyo moto alingaka. Moto oyo azalaki kolinga kotonga bilamba akoki kosepela kosimba bilamba. Moto oyo azalaki ingenieur akoki kolinga eloko ya kotonga ya biteni minene to kopona bibende mpo na mosala. Moto oyo azalaki molakisi akoki kosepela kosala bakarte.
 
-## Why focus on the process, not the product?
+## Mpo na nini kotyá likebi na ndenge mosala ezali kosalema, kasi na eloko oyo esili te?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Mpo ete ntango oyo bolekisi elongo ezali nde eloko ya ntina. Buku ya Alzheimer's Association mpo na [misala na ndako](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) elobi ete esengeli kotyá likebi na ndenge mosala ezali kosalema, kasi na mbano te. Elilingi oyo ezali « kaka bleu » ezali kaka elilingi. Kolakisa bililingi misato ezali kaka kolakisa bililingi.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association elobi mpe ete moto oyo azalaki artiste ya mayele akoki koyoka mpasi ntango mosala na ye ebongwani, nzokande moto oyo azalaki kosala yango mpo na kosepela akoki kosepela mpo na nzela ya sika ya komonisa makanisi. Soki moto azalaki artiste ya mayele, meká lolenge mosusu ya mosala ya mabɔkɔ oyo ayebi malamu te, mpo ete emonana lokola lisano, kasi lokola kokokanisa te.
 
-## Arts and crafts ideas to try
+## Bakanisi ya misala ya mabɔkɔ mpo na komeka
 
-Each idea includes how to make it simpler if it becomes hard.
+Likambo moko na moko ezali na ndenge ya kosala yango pete koleka soki ekomi mpasi.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Kopakola langi ya mai.** Nyatisa papiyé ya langi ya mai ya makasi na mai mpe tiká moto atya langi na likoló na pinceau monene. Balangi epanzani yango moko, boye ezali na mbano ya mabe te. *Pete koleka:* pesá balangi mibale kaka, to pakolá na mai na papiyé ya molili oyo emonisaka bilembo ya mai.
+2. **Kolakisa bililingi ya bazulunalo.** Katá bililingi liboso na bazulunalo ya bilanga, kolamba, mituka, mibembo to misala oyo moto azalaki kolinga kala. Tiká ye apona mpe akangisa bililingi na kartoni. *Pete koleka:* pesá bililingi minei oyo ekatami liboso mpe colle ya bâton, mpe salá kokangisa yango elongo.
+3. **Kobongisa bafololo.** Alzheimer's Foundation of America epesi likanisi ya [kobongisa bafololo mpe matiti](https://alzfdn.org/dementia-activity-gardening/) mpo na kosala eloko ya kitoko ya pete ya eleko. Salelá vase ya kilo mpe oyo etelemá malamu, na bafololo oyo ekatami liboso. *Pete koleka:* tyá bafololo moke na kopo moke, moko na moko.
+4. **Bakarte ya bafololo oyo ekauká.** Finá bafololo ya bouquet kati na nkasa ya buku mpo na poso moko, na nsima kangisá yango na kartoni oyo efungwami. *Pete koleka:* yo otyá colle, ye afinaka fololo.
+5. **Lokasa ya kopakola langi mpo na bakóló.** Poná lokasa oyo ezali na milɔngɔ ya polele mpe bililingi ya solo. Lokasa na biso ya kopakola langi [ya kobimisa](/games/coloring/) ekoki mpe kopakolama na ekran na kopɛtola langi, na nsima eteni ya elilingi. *Pete koleka:* bisika minene, balangi moke, bamakɛrɛ ya minene.
+6. **Mabele ya kosala biloko to pâte ya pete.** Bingisá, finá mpe bongisá mabele oyo ekaukaka na mopepe to pâte ya pete. Kofina lokasa ya nzete na mabele esalaka eloko ya pete. *Pete koleka:* kofina mpe kobingisa yango ekoki kozala mosala mobimba. Talá malamu ete moto atya mabele na monɔkɔ te.
+7. **Kosala bakarte.** Alzheimer's Association epesi likanisi ya komonisa yango lokola mosala ya solo: « Tozali kotinda karte ya kobondela bokolongono na moninga. Okoki kosunga ngai? » Kartoni oyo ekatami liboso mpe bilembo ya bafololo to ya timbre ekoki kosala malamu.
+8. **Album ya bililingi.** Tyá bakopi ya bafɔtɔ ya kala, bakarte postale to bitike ya kokɔta na nkasa ya album elongo. Lobela na ntina ya eloko moko na moko ntango bozali kosala yango. Talá buku na biso ya [kolobela makambo ya kala](/activities/reminiscence/) mpo na koyeba ndenge ya kosolola na boboto na ntina ya makambo ya kala.
+9. **Bapano ya bilamba mpe ya ndenge ezali koyokana.** Kangisá biteni ya bilamba lokola corduroy, velours, toile mpe soie na kartoni ya makasi. Kosala yango ezali mosala; kosimba yango na sima ezali mosala mosusu. Bakanisi mosusu ezali na buku na biso ya [misala ya koyoka na nzoto](/activities/sensory/).
+10. **Kobongisa mabaya ya pete.** Mpo na moto oyo azalaki kolinga mosala ya mabaya, kosala mabaya ya pete na papiyé ya kosilisa to kopakola langi na ndako ya bandɛkɛ ekoki komonana lokola eloko oyo ayebi. Longolá bisaleli ya makasi mpe talá ye malamu.
+11. **Kopakola langi na miziki.** Tyá miziki oyo alingaka mpe pakolá bililingi to balangi oyo ekokani na mayoki. Yango esangisi misala mibale oyo bato mingi balingaka. Talá [misala ya miziki](/activities/music/).
 
-## How do I set up an art session?
+## Ndenge nini nakoki kobongisa eteni ya mosala ya mabɔkɔ?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Bongisá nyonso liboso.** Katá, bongisá mpe bimisa biloko nyonso liboso ya kobenga moto. Kozela ntango ozali koluka ciso ekoki kobungisa ntango yango.
+2. **Batela makambo moke.** Balangi mibale to misato, pinceau moko, lokasa moko. Kopona mingi ekoki kotungisa.
+3. **Batela mesa.** Elamba ya plastique to elamba ya kala esalaka ete mbindo etungisa te.
+4. **Vandá pembeni na pembeni.** Salá mosala na yo pembeni ya oyo ya ye. Emonani lokola mosala ya elongo, kasi lokola kotala ye te.
+5. **Sungá ye abandá.** Alzheimer's Association elobi ete ekoki kozala ete osengeli kobanda nzela ya pinceau elongo na moto. Soki abandá, bato mingi bakobaka.
+6. **Solola ntango bozali kosala.** Lobela balangi mpe ndenge biloko ezali koyokana, to tiká mosala emema masolo. Boyá mituna ya lokola ekzamen, lokola « Oyo ezali nini? »
+7. **Pesá ntango mingi.** Mosala esengeli te kosila na mbala moko.
 
-## How do I adapt art as dementia changes?
+## Ndenge nini nakoki kobongola misala ya mabɔkɔ ntango bokono bwa bobúngi bwa makanisi ekobongwana?
 
-| Stage | What tends to work | What to adjust |
+| Etape | Makambo oyo esalaka malamu mingi | Nini kobongola |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Ebandeli | Bakelasi, lokasa ya kopakola langi ya makambo mingi, album ya bililingi, kosala bakarte, kopakola langi uta na fɔtɔ | Pesá nzela ya kopona misala; batelá yango lokola likambo ya kosangana |
+| Kati | Kolakisa bililingi oyo ekatami liboso, kopakola langi ya mai, kobongisa bafololo, kopakola langi na bisika minene | Etape moko na moko; yo osalaka kokata mpe kokangisa |
+| Suka | Nzela minene ya pinceau, kofina mabele, kosimba bilamba, kotala ndenge ozali kopakola langi | Tyá likebi na makambo oyo etali koyoka na nzoto; tambwisá lobɔkɔ na boboto soki andimi |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS epesi likanisi ete na bitape ya suka, misala ekomaka pete mingi mpe etyami likebi na makambo oyo etali koyoka na nzoto. Kotala moto mosusu azali kopakola langi mpe kosolola na ntina ya balangi ezali lolenge ya solo ya kozala na kati ya mosala. Mpo na makanisi mosusu kolanda bitape, talá [misala mpo na etape nyonso](/activities/ideas/).
 
-## Safety with art supplies
+## Bobateli na biloko ya misala ya mabɔkɔ
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Poná balangi, bamakɛrɛ mpe colle ya bâton oyo ezali na mabe te mpo na nzoto.
+- Batelá ciso, bambeli ya kokata mpe bibende ya colle ya molunge mosika. Salá kokata nyonso yo moko, liboso.
+- Talá malamu ete moto moko te atya mabele, langi to biloko ya mike na monɔkɔ.
+- Salelá bakɔpɔ ya mai mpe bavase ya kilo oyo etelemá malamu.
 
-## When should we stop?
+## Ntango nini tosengeli kotika?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Tiká ntango likebi ekokita to ntango mpasi emonani. Alzheimer's Association epesi toli ya kosilisa to kobongola mosala ntango ntango ya kotyá likebi ekomi mokuse to ntango mpasi ekomi mingi. Tyá mosala na esika ya malamu mpe pesá eloko ya kopema. Bokoki kozonga na yango lobi, to kozonga lisusu te. Nyonso mibale ezali malamu.
 
-## Display the work, if the person wants
+## Lakisá mosala, soki moto alingi
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Kotyá elilingi na frigo to na cadre ekoki kozala lolenge ya kimya ya kolakisa lokumu. Tuná liboso. Bato mosusu balingaka komona misala na bango na mir; bamosusu balingaka te.
 
-## Pair art with our games
+## Sangisá misala ya mabɔkɔ na masano na biso
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Na mikolo oyo kobongisa balangi ezali mosala mingi, [Coloring](/games/coloring/) esalaka na tableti kozanga mbindo. [Picture Puzzle](/games/picture-puzzle/) ebatelaka elilingi mobimba emonana lokola litambwisi ntango ozali kobongola biteni. [Conversation Cards](/games/conversation-cards/) epesaka mituna ya kofungola oyo ekoki komema longwa na elilingi kino na lisolo. Nyonso ezali na ngonga te mpe na manota te. Okoki mpe kobimisa nkasa na imprimi longwa na lisato na biso ya [misala ya kobimisa](/activities/printable/).

@@ -1,36 +1,35 @@
 ---
-title: "Sundowning: Kegiatan Tentrem ing Sonten kangge Tiyang Demensia"
-seoTitle: "Sundowning: Kegiatan Tentrem ing Sonten"
-description: "Jadwal alus, panyesuaian kamar, lan kegiatan tentrem ingkang saged nyuda gelisah ing sonten ing demensia, kaliyan kapan kedah telpun dokter bab gejala énggal."
+title: "Sundowning: Kegiatan Tentrem Sore kanggo Wong sing Dirawat"
+seoTitle: "Sundowning: Kegiatan Tentrem ing Sore"
+description: "Rutinitas alus, owah-owahan kamar, lan kegiatan tentrem sing bisa uga ngenthengake gelisah ing wayah sore amarga demensia, lan kapan kudu takon dhokter."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning menika gelisah, bingung, utawi gampil jengkel ingkang wiwit
-  utawi tambah awrat ing sonten utawi dalu. Langkah praktis ingkang saged
-  mbiyantu kalebet jadwal padinten ingkang tetep, padhang srengéngé lan
-  kegiatan langkung enjing, sare siang ingkang sakedhik, kafein ingkang
-  kirang, lampu terang ing njero griya saderengipun petang, griya ingkang
-  langkung sepi, lan kegiatan tentrem kadosta musik, foto, utawi nlipet
-  sandhangan. Gejala énggal utawi ingkang tambah awrat kedah dipunpriksa
-  dokter.
+  Sundowning yaiku rasa gelisah, bingung, utawa gampang jengkel sing wiwit utawa
+  saya nemen ing wayah sore utawa bengi. Cara praktis sing bisa uga mbantu
+  kalebu rutinitas saben dina sing ajeg, cahya srengenge lan kegiatan luwih awal
+  ing dina, nyuda turu cekak ing wayah sore, nyuda kafein, nguripake lampu
+  padhang ing njero omah sadurunge peteng, omah sing luwih sepi, lan kegiatan
+  tentrem kayata musik, foto, utawa lempit klambi. Gejala anyar utawa sing saya
+  nemen perlu dipriksa dhokter.
 keyPoints:
-  - "Sundowning tegesipun gelisah utawi bingung ingkang wiwit utawi tambah awrat nalika cahya srengéngé suda."
-  - "Gadhahaken pakaryan ingkang awrat, tindak-tindak, lan adus ing enjing utawi siang awal."
-  - "Padhang srengéngé, mlampah saben dinten, sare siang ingkang sakedhik, lan kafein ingkang kirang ing sonten saged mbiyantu sonten langkung lancar."
-  - "Urupaken lampu saderengipun petang, kirangi swanten, lan pindhah dhateng kegiatan ingkang tentrem lan sampun akrab."
-  - "Damel catetan kangge mangertosi pemicu, lan tetep tenang lan nentremaken nalika gelisah wiwit."
-  - "Priksakaken dhateng dokter manawi gejala énggal utawi tambah awrat: sakit, infeksi, utawi obat saged gadhah peran."
+  - "Sundowning tegese rasa gelisah utawa bingung sing wiwit utawa saya nemen nalika srengenge wiwit surup."
+  - "Tindakake tugas sing abot, lelungan, lan adus ing wayah esuk utawa awan."
+  - "Cahya srengenge, mlaku-mlaku saben dina, nyuda turu cekak ing wayah sore, lan nyuda kafein ing wayah sore bisa uga mbantu bengi dadi luwih lancar."
+  - "Uripake lampu sadurunge peteng, kurangi swara rame, lan alih menyang kegiatan sing tentrem lan wis akrab."
+  - "Cathet kanggo ngerteni pemicu, lan tetep tenang lan nenangake nalika rasa gelisah wiwit katon."
+  - "Temoni dhokter yen ana gejala anyar utawa sing saya nemen: rasa lara, infeksi, utawa obat bisa uga nduweni pengaruh."
 faq:
-  - q: "Sundowning limrahipun kelampahan ing jam pinten?"
-    a: "Limrahipun wiwit utawi tambah awrat ing sonten utawi dalu awal, nalika cahya srengéngé suda. Wekdal persisipun benten-benten saben tiyang, pramila damel catetan cekak sak minggu utawi kalih minggu saged mbiyantu."
-  - q: "Kegiatan punapa ingkang mbiyantu kangge sundowning?"
-    a: "Kegiatan ingkang tentrem, sampun akrab, lan boten mbetahaken tenaga limrahipun paling sae ing sonten: musik ingkang nentremaken, mirsani foto, acara televisi utawi film kesenenganipun, nlipet sandhangan, mlampah sekedhap, utawi jajan sesarengan. Simpen kegiatan énggal utawi ingkang awrat kangge enjing."
-  - q: "Punapa sundowning saged dados tandha masalah medis?"
-    a: "Saged dipundamel langkung awrat dening masalah kasarasan kadosta sakit, infeksi kadosta infeksi saluran kemih, masalah sare, utawi efek samping obat. Manawi gelisah menika énggal, dumadakan, utawi tambah awrat, hubungi dokteripun."
-  - q: "Punapa kula kedah tanglet dokter bab obat kangge sundowning?"
-    a: "Menika rembagan kangge dipuntindakaken kaliyan dokter. Alzheimer's Association ngendika bilih cara tanpa obat limrahipun dipunpilih rumiyin, lan obat kangge gelisah ing sonten namung dipunpikir sasampunipun nimbang risiko lan manfaatipun. Kaca menika boten maringi pamrayogi bab obat."
+  - q: "Sundowning biasane kedadeyan ing wayah apa?"
+    a: "Biasane wiwit utawa saya nemen ing wayah sore utawa ing awal bengi, nalika srengenge wiwit surup. Wektune pas bisa beda-beda saben wong, mula nyathet cathetan cekak sajrone seminggu utawa rong minggu bisa mbantu."
+  - q: "Kegiatan apa sing bisa mbantu nalika sundowning?"
+    a: "Kegiatan sing tentrem, wis akrab, lan ora abot biasane paling cocog ing wayah sore: musik sing nenangake, ndeleng foto, acara TV utawa film favorit, lempit klambi, mlaku-mlaku sedhela, utawa dhahar bareng. Simpen kegiatan anyar utawa sing angel kanggo wayah luwih awal ing dina."
+  - q: "Apa sundowning bisa dadi tandha ana masalah kesehatan?"
+    a: "Kahanan iki bisa saya nemen amarga masalah kesehatan kayata rasa lara, infeksi kaya infeksi saluran kemih, masalah turu, utawa efek samping obat. Yen rasa gelisah kuwi anyar, dumadakan, utawa saya nemen, hubungi dhoktere wong sing sampeyan rawat."
+  - q: "Apa aku kudu takon dhokter babagan obat kanggo sundowning?"
+    a: "Iku minangka rembugan sing kudu ditindakake karo dhokter. Alzheimer's Association kandha yen cara tanpa obat umume luwih dipilih luwih dhisik, lan obat apa wae kanggo rasa gelisah ing wayah sore kudu dipikirake mung sawise nimbang risiko lan mupangate. Kaca iki ora menehi saran babagan obat."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -49,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Kathah kulawarga mirsani pola ingkang sami: enjing cukup tentrem, nanging nalika siyang ngancik sonten, tiyang ingkang gesang kaliyan demensia dados gelisah, kuwatos, bingung, utawi gampil boten kepenak manahipun. Piyambakipun saged mlampah bola-bali, nyuwun “wangsul” senajan sampun wonten griya, utawi gampil sedhih. Menika asring dipunsebat sundowning.
+Akeh kulawarga sing weruh pola sing padha: wayah esuk cukup tentrem, nanging nalika sore saya suwé, wong sing urip karo demensia dadi gelisah, kuwatir, bingung, utawa gampang jengkel. Wong kasebut bisa mlaku bolak-balik, njaluk „mulih” sanajan wis ana ing omah, utawa gampang dadi sedhih. Kahanan iki asring diarani sundowning.
 
-Boten wonten satunggal pangatasan, nanging ewah-ewahan ing irama dinten, kamar, lan jinis kegiatan ingkang panjenengan tawisaken saged ndadosaken sonten langkung tentrem. Kaca menika ngempalaken gagasan praktis, sanes medis, saking National Institute on Aging lan Alzheimer's Association. Menika sanes pamrayogi medis. Manawi gejala énggal, dumadakan, utawi tambah awrat, rembagan kaliyan dokteripun.
+Ora ana siji cara sing mesthi dadi solusi, nanging owah-owahan ing irama dina, kahanan kamar, lan jinis kegiatan sing sampeyan tawakake bisa uga ndadekake wayah sore luwih tentrem. Kaca iki ngumpulake gagasan praktis sing ora gegayutan karo obat saka National Institute on Aging lan Alzheimer's Association. Iki dudu saran medis. Yen gejalane anyar, dumadakan, utawa saya nemen, rembugen karo dhoktere wong sing sampeyan rawat.
 
-## Sundowning menika punapa?
+## Apa iku sundowning?
 
-Sundowning menika gelisah, kuwatos, gampil boten kepenak manah, utawi bingung ingkang wiwit utawi tambah awrat nalika cahya srengéngé suda, ing sonten utawi dalu awal. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) nyebataken bilih kesel sanget saged nambah gelisah ing sonten.
+Sundowning yaiku rasa gelisah, kegelisahan, gampang jengkel, utawa bingung sing wiwit utawa saya nemen nalika srengenge surup, ing wayah sore utawa awal bengi. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) nyebutake yen krasa kesel banget bisa nambah rasa gelisah ing pungkasan dina.
 
-## Punapa ingkang saged damel gelisah ing sonten tambah awrat?
+## Apa sing bisa ndadekake rasa gelisah ing wayah sore saya nemen?
 
-Sawetawis bab saged nyumbang, asring sesarengan. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) nyebataken faktor kadosta:
+Ana sawetara perkara sing bisa uga dadi panyebabe, asring bebarengan. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) nyebutake faktor kayata:
 
-- kesel sasampunipun dinten ingkang kebak;
-- papan énggal utawi ingkang damel bingung;
-- “jam badan” ing batos ingkang boten cocog, ndadosaken tiyang menika ngantuk ing siyang lan wungu ing dalu;
-- cahya ingkang suda lan bayang-bayang, ingkang saged damel bingung;
-- nyerep raos tegang utawi gelisah saking tiyang ing sakiwatengenipun;
-- mbetahaken sare ingkang langkung sakedhik, ingkang limrah ing tiyang sepuh.
+- kesel sawise dina sing kebak kegiatan;
+- lingkungan anyar utawa mbingungake;
+- „jam awak internal” sing ora selaras, ndadekake wong ngantuk ing wayah awan lan tangi ing wayah wengi;
+- cahya sing surem lan bayangan, sing bisa mbingungake;
+- ngrasakake stres utawa rasa frustasi saka wong-wong ing sakupenge;
+- butuh turu luwih sithik, sing umum kedadeyan ing wong sing luwih sepuh.
 
-NIA nambahaken sabab gelisah langkung umum, kalebet sakit, depresi utawi stres, kirang ngaso, angel buang air ageng, swanten rame sanget utawi tiyang kathah sanget, lan obat tartamtu utawi interaksi obat.
+NIA nambahake panyebab kegelisahan sing luwih umum, kalebu rasa lara, depresi utawa stres, kurang istirahat, sembelit, swara rame banget utawa wong sing akeh banget, lan obat tartamtu utawa interaksi antarane obat.
 
-## Kados pundi nata dinten supados sonten langkung tentrem?
+## Kepiye carane nata dina supaya bengi luwih tentrem?
 
-Pindhahaken pakaryan ingkang awrat dhateng wekdal langkung enjing lan damel sonten alus lan saged dipunkinten. NIA lan Alzheimer's Association sami nyaranaken jadwal ingkang ajeg. Conto dinten, kangge dipunsesuaiaken kaliyan panjenengan piyambak:
+Pindhahna perkara sing abot menyang wayah luwih awal lan jaga supaya wayah sore tetep alus lan bisa ditebak. NIA lan Alzheimer's Association nyaranake rutinitas sing ajeg. Tuladha dina, sing bisa dicocokake karo kahanan sampeyan:
 
-| Wekdal | Ingkang saged mbiyantu |
+| Wektu | Sing bisa uga mbantu |
 | --- | --- |
-| Enjing | Janji kaliyan dokter, adus, tindak-tindak, lan pakaryan punapa kemawon ingkang mbetahaken tenaga, nalika kathah tiyang paling waspada |
-| Enjing siyang | Wekdal ing njawi utawi celak jendela ingkang katempuh srengéngé; mlampah utawi kegiatan sanes |
-| Siyang | Dhahar siyang ingkang langkung kathah (Alzheimer's Association nyaranaken dhahar siyang ingkang langkung kathah lan dhahar dalu ingkang langkung entheng) |
-| Siyang awal | Ngaso manawi mbetahaken, nanging singkiri sare siang ingkang dangu ing wekdal sonten |
-| Siyang dumugi sonten | Kegiatan ingkang tentrem lan sampun akrab; jajanan lan unjukan; boten wonten kafein |
-| Saderengipun petang | Urupaken lampu ing njero griya lan tutup gorden saderengipun pepeteng |
-| Dalu | Dhahar ingkang langkung entheng, musik ingkang lirih, rangsangan sakedhik, tata cara badhe tilem ingkang tetep |
+| Esuk | Janjian, adus, lelungan, lan tugas apa wae sing butuh tenaga, nalika akeh wong paling seger |
+| Pungkasan esuk | Wektu ing njaba omah utawa ing cedhak jendhela sing kena srengenge; mlaku-mlaku utawa kegiatan liyane |
+| Awan | Nedha awan sing luwih akeh (Alzheimer's Association nyaranake nedha awan luwih akeh lan nedha bengi luwih entheng) |
+| Awal sore | Istirahat yen perlu, nanging aja turu suwe ing wayah sore |
+| Pertengahan nganti pungkasan sore | Kegiatan sing tentrem lan wis akrab; cemilan lan ngombe; ora ana kafein |
+| Sadurunge peteng | Uripake lampu ing njero omah lan tutup gorden sadurunge peteng |
+| Bengi | Nedha bengi sing luwih entheng, musik sing sepi, rangsangan sing sithik, rutinitas turu sing ajeg |
 
-Sawetawis poin mligi saking sumber-sumber:
+Sawetara cathetan khusus saka sumber kasebut:
 
-- **Padhang srengéngé.** NIA nyaranaken ngatur wekdal ing njawi utawi celak jendela kangge pikantuk srengéngé saben dinten.
-- **Obah saben dinten, nanging boten kathah sanget.** Usahakaken aktif obah saben dinten tanpa ngrencanakaken kegiatan kathah sanget, miturut NIA.
-- **Unjukan ing sonten.** Singkiri alkohol lan unjukan kanthi kafein, kadosta kopi utawi cola, ing sonten (NIA). Alzheimer's Association ugi nyebataken nikotin.
-- **Sare siang.** Cegah sare siang ingkang dangu lan ngantuk-ngantuk ing sonten (NIA). Alzheimer's Association nyaranaken mbatesi sare siang manawi sare ing dalu dados masalah.
+- **Cahya srengenge.** NIA nyaranake nyedhiyakake wektu ing njaba omah utawa ing cedhak jendhela supaya kena sinar srengenge saben dina.
+- **Obah saben dina, nanging ora kakehan.** Usahakna aktif obah saben dina tanpa ngrencanakake kegiatan sing kakehan, ujare NIA.
+- **Ombenan ing wayah sore.** Aja ngombe alkohol lan ombenan sing ngandhut kafein, kayata kopi utawa kola, ing wayah sore (NIA). Alzheimer's Association uga nyebutake nikotin.
+- **Turu cekak.** Aja nyengkuyung turu suwe lan keturon ing wayah sore (NIA). Alzheimer's Association nyaranake matesi turu cekak ing wayah awan yen turu ing wayah wengi dadi masalah.
 
-Kangge langkung kathah bab nata dinten ingkang tetep, pirsani [kegiatan jadwal padinten](/activities/daily-routine/).
+Kanggo katrangan luwih lengkap babagan mbangun dina sing ajeg, delengen [kegiatan rutinitas saben dina](/activities/daily-routine/).
 
-## Kados pundi damel griya langkung tentrem ing sonten?
+## Kepiye carane ndadekake omah luwih tentrem ing wayah sore?
 
-Kirangi swanten, tambah cahya, lan tetepaken barang ingkang sampun akrab celak.
+Kurangi swara rame, tambahna cahya, lan simpen barang-barang sing wis akrab ing cedhak.
 
-- **Cahya ingkang terang lan rata.** Alzheimer's Association nyaranaken njagi griya tetep padhang ing dalu. Padhangi papan saderengipun bayang-bayang katingal.
-- **Swanten ingkang langkung sakedhik.** Pejahaken utawi alonaken televisi lan radio, lan batesi tamu utawi pakaryan griya ingkang rame ing wekdal menika. Alzheimer's Association nyaranaken ngirangi rangsangan ing dalu kadosta televisi, pakaryan, lan musik ingkang sora.
-- **Panglipur ingkang sampun akrab.** NIA nyaranaken musik ingkang nentremaken lan njagi barang lan foto ingkang dipuntresnani wonten ing griya.
-- **Priksa raos sekeca.** Alzheimer's Association nyaranaken mriksa sakit, ngelih, ngelak, angel buang air ageng, kandhung kemih ingkang kebak, kesel, infeksi, lan kulit ingkang kenging iritasi, lan njagi suhu kamar tetep sekeca.
-- **Swasana manah panjenengan piyambak.** Tiyang saged nyerep raos tegang. NIA nyaranaken alon-alon lan nyobi santai manawi kuwatos panjenengan piyambak saged nambah ketegangan.
+- **Cahya sing padhang lan rata.** Alzheimer's Association nyaranake supaya omah tetep padhang ing wayah bengi. Padhangi ruangan sadurunge bayangan katon.
+- **Kurangi swara rame.** Pateni utawa suda swarane TV lan radio, lan watesi tamu utawa pakaryan omah sing rame ing wektu iki. Alzheimer's Association nyaranake nyuda rangsangan ing wayah bengi kayata TV, pakaryan omah, lan musik sing banter.
+- **Barang sing akrab lan nyenengake.** NIA nyaranake musik sing nenangake lan nyimpen barang-barang lan foto sing disenengi ing sakupenge omah.
+- **Priksa rasa nyaman.** Alzheimer's Association nyaranake mriksa apa ana rasa lara, luwe, ngelak, sembelit, nguyuh kebak, kesel, infeksi, lan iritasi kulit, lan njaga suhu ruangan supaya tetep nyaman.
+- **Swasana ati sampeyan dhewe.** Wong-wong bisa ngrasakake stres. NIA nyaranake alon-alon lan nyoba santai yen rasa kuwatir sampeyan dhewe bisa nambah ketegangan.
 
-## Kegiatan tentrem punapa ingkang saged dipunlampahi ing sonten?
+## Kegiatan tentrem apa sing bisa ditindakake ing wayah sore?
 
-Pilih kegiatan ingkang sampun akrab, boten dipuntergesa-gesa, lan gampil dipunpandhegaken. Alzheimer's Association nyaranaken kegiatan ingkang nentremaken kadosta musik ingkang tentrem, foto, utawi film kesenenganipun, lan mlampah sesarengan kangge nyuda gelisah. NIA nyaranaken jajanan utawi unjukan, acara televisi kesenenganipun, musik, mlampah, maos, utawi pakaryan griya ingkang prasaja kadosta nlipet sandhangan.
+Pilih kegiatan sing wis akrab, ora kesusu, lan gampang kanggo mandheg. Alzheimer's Association nyaranake kegiatan sing nenangake kayata musik sing alon, foto, utawa film favorit, lan mlaku-mlaku bareng kanggo ngenthengake rasa gelisah. NIA nyaranake cemilan utawa ombenan, acara TV favorit, musik, mlaku-mlaku, maca, utawa pakaryan omah sing prasaja kayata lempit klambi.
 
-Gagasan kangge dipuncobi:
+Gagasan sing bisa dicoba:
 
-1. **Nlipet sandhangan sesarengan.** NIA nyaranaken pakaryan griya ingkang prasaja kados menika. Anduk gampil dipunsepeng, lan pakaryan menika wonten pungkasanipun ingkang cetha.
-2. **Setel musik kesenenganipun.** Lagu ingkang sampun akrab saking nalika enomipun, kanthi swanten lirih. Nderek ngguguni inggih kalebet. Gagasan langkung kathah wonten [kegiatan musik](/activities/music/).
-3. **Mirsani foto.** Album foto, utawi sawetawis gambar kulawarga ing [Pasangan foto](/games/photo-pairs/) kanthi gambar dipuntinggal katingal, saged nuntun dhateng rembagan ingkang tentrem.
-4. **Mlampah sekedhap.** Ngubengi kebon, blok, utawi koridor, saderengipun pepeteng.
-5. **Jajan lan ngunjuk sesarengan.** Samubarang ingkang prasaja, anget, lan tanpa kafein, ing meja sesarengan.
-6. **Nyocogaken ingkang alus.** [Pasangan gambar](/games/picture-pairs/) kanthi sekawan kothak lan gambar katingal gampil dipunwiwiti lan gampil dipunpandhegaken.
-7. **Mewarnai.** [Kaca mewarnai](/games/coloring/) ing layar utawi ing kaca ingkang dipuncithak, tanpa tujuan kangge ngrampungaken.
-8. **Mirsani lan rembagan.** [Kertu rembagan](/games/conversation-cards/) nyadhiyakaken gambar lan ajakan ingkang mbikak. Namung mirsani sampun cekap.
-9. **Ngaso ambegan.** [Ambegan tentrem](/games/calm-breathing/) menika ngaso ingkang alon lan tenang ingkang panjenengan wiwiti lan pandhegaken piyambak.
-10. **Pakaryan tangan.** Milah kancing utawi kaos suku, ngratakaken kemul ingkang alus, utawi nyepeng barang ingkang sampun akrab. Pirsani [kegiatan pangrasa](/activities/sensory/).
+1. **Lempit klambi bareng.** NIA nyaranake pakaryan omah sing prasaja kaya ngene. Andhuk gampang dicekel, lan tugase nduweni pungkasane sing cetha.
+2. **Muter musik favorit.** Lagu-lagu sing wis akrab wiwit isih enom, kanthi swara sing alon. Ngrungokake lan melu nyanyi alon-alon uga cukup. Gagasan liyane ana ing [kegiatan musik](/activities/music/).
+3. **Ndeleng foto.** Album foto, utawa sawetara foto kulawarga ing [Photo Pairs](/games/photo-pairs/) kanthi gambar tetep katon, bisa nuwuhake obrolan sing tenang.
+4. **Mlaku-mlaku sedhela.** Ing kebon, sakupenge blok, utawa ing koridor, sadurunge peteng.
+5. **Dhahar cemilan lan ngombe bareng.** Sing prasaja, anget, lan tanpa kafein, bebarengan ing meja.
+6. **Cocokake gambar kanthi alus.** [Picture Pairs](/games/picture-pairs/) kanthi patang kothak lan gambar katon gampang diwiwiti lan gampang dimandhegake.
+7. **Mewarnai.** [Coloring](/games/coloring/) ing layar utawa ing kertas sing dicithak, tanpa tujuan kudu rampung.
+8. **Ndeleng lan ngobrol.** [Conversation Cards](/games/conversation-cards/) menehi gambar lan pitakon sing mbukak obrolan. Mung ndeleng wae wis cukup.
+9. **Ngaso kanthi ambegan alon.** [Calm Breathing](/games/calm-breathing/) minangka wektu ngaso sing alon lan sepi sing sampeyan wiwiti lan mandhegake dhewe.
+10. **Kegiatan nganggo tangan.** Milah kancing utawa kaos sikil, ngelus kemul sing alus, utawa nyekel barang sing wis akrab. Delengen [kegiatan sensori](/activities/sensory/).
 
-Singkiri dolanan énggal, tindak-tindak ingkang rame, lan punapa kemawon ingkang nyuwun kenangan utawi konsentrasi kathah ing sonten. Simpen menika kangge enjing.
+Aja dolanan anyar, lelungan sing rame, lan apa wae sing mbutuhake daya eling utawa konsentrasi sing akeh ing wayah sore. Simpen iku kanggo wayah esuk.
 
-## Punapa ingkang kedah dipuntindakaken nalika gelisah wiwit?
+## Apa sing kudu tak lakoni nalika rasa gelisah wiwit muncul?
 
-Tetep tenang, nentremaken, lan alon-alon ngalihaken. NIA nyaranaken ngendika kanthi tenang, mirengaken kuwatosipun tiyang menika, nyingkiri bantahan, ngayemaken piyambakipun bilih piyambakipun aman, lan ngginakaken sentuhan ingkang alus manawi mbiyantu. Lajeng cobi ngalihaken: jajanan, unjukan, musik, utawi mlampah.
+Tetep tenang, nenangake, lan alihake perhatian kanthi alus. NIA nyaranake ngomong kanthi tenang, ngrungokake apa sing dadi kuwatire wong kasebut, aja padudon, yakinke yen dheweke aman, lan gunakake sentuhan alus yen iku mbantu. Banjur coba alihake perhatian: cemilan, ombenan, musik, utawa mlaku-mlaku.
 
-Alzheimer's Association nyaranaken ukara kadosta “Panjenengan aman wonten ing mriki” lan “Kula nyuwun pangapunten bilih panjenengan boten kepenak”, lan maringi pitedah supados nambah cahya, alon-alon, lan mbatesi rangsangan. Sampun nyudutaken, ngrubung, utawi nahan tiyang menika, utawi mbantah piyambakipun.
+Alzheimer's Association nyaranake ukara kayata „Sampeyan aman ing kene” lan „Aku nuwun sewu yen sampeyan lagi sedhih,” lan menehi saran supaya nambah cahya, alon-alon, lan mbatesi rangsangan. Aja ngurung, ngcrowd, utawa nahan wong kasebut, lan aja padudon karo dheweke.
 
-Manawi tiyang menika dados agresif, NIA nyaranaken tetep ing jarak ingkang aman ngantos tindak-tanduk menika mandheg. Ing kawontenan darurat, telpun nomer darurat ing wewengkon panjenengan lan aturaken bilih tiyang menika gadhah demensia.
+Yen wong kasebut dadi agresif, NIA menehi saran supaya tetep ana ing jarak sing aman nganti prilakune mandheg. Ing kahanan darurat, telpon 911 lan jelasake yen wong kasebut urip karo demensia. [Pandhuan kita babagan nanggapi nesu lan agresi](/caregiving/when-anger-becomes-aggression-with-dementia/) nyakup katrangan babagan keamanan langsung lan apa sing kudu ditindakake sawise iku.
 
-Pandhuan [komunikasi](/caregiving/communication-tips/) lan [punapa ingkang kedah dipuntindakaken manawi piyambakipun ngendika boten](/caregiving/when-they-say-no/) kawula gadhah langkung kathah bab tembung ingkang nentremaken.
+Pandhuan kita babagan [komunikasi](/caregiving/communication-tips/) lan [apa sing kudu ditindakake nalika dheweke ora gelem](/caregiving/when-they-say-no/) nduweni katrangan luwih lengkap babagan tembung-tembung sing bisa nenangake.
 
-## Kados pundi madosi pemicunipun?
+## Kepiye carane nemokake pemicune?
 
-Damel catetan cekak sak minggu utawi kalih minggu. Alzheimer's Association nyaranaken nyathet punapa ingkang kelampahan saderengipun episode sundowning kangge mangertosi pemicunipun. Catet wekdal gelisah wiwit, punapa ingkang kelampahan ing jam saderengipun, sare siang, dhahar lan unjukan, tamu, swanten, lan cahya. Bekta catetan dhateng dokter. NIA nyebataken bilih nyathet ewah-ewahan tindak-tanduk saged mbiyantu ingkang ngrawat lan petugas kesehatan mangertosi pola.
+Gawea cathetan cekak sajrone seminggu utawa rong minggu. Alzheimer's Association nyaranake nyathet apa sing kedadeyan sadurunge kedadeyan sundowning kanggo ngenali pemicune. Cathet wektu rasa gelisah diwiwiti, apa sing kedadeyan sajrone sejam sadurunge, turu cekak, panganan lan ombenan, tamu, swara rame, lan cahya. Gawanen cathetan kasebut menyang dhokter. NIA nyebutake yen nyathet owah-owahan prilaku bisa mbantu wong sing ngerawat lan tenaga kesehatan ngerteni pola.
 
-## Kapan kedah telpun dokter bab sundowning?
+## Kapan aku kudu nelpon dhokter babagan sundowning?
 
-Hubungi dokteripun manawi gelisah menika énggal, dumadakan tambah awrat, utawi sesarengan kaliyan ewah-ewahan sanes. NIA ngendika bilih ewah-ewahan tindak-tanduk ingkang dumadakan utawi ewah kanthi cepet, langkung-langkung sasampunipun infeksi utawi ewah-ewahan obat ingkang énggal, kedah enggal dipunaturaken dhateng dokter.
+Hubungi dhoktere wong sing sampeyan rawat yen rasa gelisah kuwi anyar, dumadakan saya nemen, utawa diiringi owah-owahan liyane. NIA kandha yen owah-owahan prilaku sing dumadakan utawa cepet munggah-mudhun, utamane sawise infeksi utawa owah-owahan obat sing anyar, kudu langsung diandharake menyang dhokter.
 
-Nyuwun dokter mriksa bab ingkang saged damel dalu langkung awrat. Alzheimer's Association nyebataken masalah fisik kadosta infeksi saluran kemih, boten saged ngempet kemih, suku ingkang gelisah, lan apnea sare, lan nyaranaken tanglet wekdal ingkang paling sae kangge saben obat. NIA nyebataken sakit, angel buang air ageng, lan efek samping utawi interaksi obat ing antawisipun sabab gelisah ingkang saged kelampahan.
+Jaluk dhokter mriksa perkara-perkara sing bisa ndadekake wayah sore luwih angel. Alzheimer's Association nyebutake masalah fisik kayata infeksi saluran kemih, inkontinensia, sindrom sikil gelisah, lan apnea turu, lan nyaranake takon wektu apa ing dina sing paling cocog kanggo saben obat. NIA nyebutake rasa lara, sembelit, lan efek samping utawa interaksi obat minangka panyebab kegelisahan sing bisa uga ana.
 
-Alzheimer's Association ngendika bilih cara tanpa obat limrahipun dipunpilih rumiyin kangge masalah sare ingkang gegayutan kaliyan Alzheimer, lan obat kangge gelisah ing sonten namung dipunpikir manawi cara menika boten kasil, sasampunipun nimbang risiko lan manfaat. Kaputusan menika wonten ing tangan dokter. Sampun miwiti, mandhegaken, utawi ngewahi obat, obat sare, utawi suplemen tanpa pamrayogi medis.
+Alzheimer's Association kandha yen cara tanpa obat umume luwih dipilih kanggo masalah turu sing ana hubungane karo Alzheimer, lan obat kanggo rasa gelisah ing wayah sore kudu dipikirake mung yen cara kasebut ora kasil, sawise nimbang risiko lan mupangate. Keputusan iku dadi wewenange dhokter. Aja miwiti, mandheg, utawa ngganti obat, obat turu, utawa suplemen apa wae tanpa saran medis.
 
-## Kados pundi kula nglampahi sonten piyambak?
+## Kepiye carane aku dhewe bisa ngliwati wayah sore?
 
-Sonten saged dados bagian ingkang paling awrat saking dinten tiyang ingkang ngrawat. Manawi saged, aturi sedherek, kanca, utawi pembantu ingkang dipunbayar kangge ngganteni sonten sawetawis dinten saben minggu, senajan namung sajam. Pandhuan [ngrawat badan panjenengan piyambak](/caregiving/caregiver-self-care/) kawula nyebataken pilihan perawatan sela lan layanan telpun bantuan demensia ing negari panjenengan, kadosta Alzheimer's Association 24/7 Helpline ingkang gratis ing Amerika.
+Wayah sore bisa dadi bagean sing paling angel ing dinane wong sing ngerawat. Yen bisa, jaluk anggota kulawarga, kanca, utawa wong sing mbantu kanthi bayaran kanggo ngganteni ing wayah sore sawetara dina sajrone seminggu, sanajan mung sejam. Pandhuan kita babagan [perawatan dhiri kanggo wong sing ngerawat](/caregiving/caregiver-self-care/) nyathet pilihan istirahat lan saluran bantuan gratis Alzheimer's Association 24/7 Helpline.

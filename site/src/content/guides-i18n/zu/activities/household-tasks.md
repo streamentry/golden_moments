@@ -1,33 +1,34 @@
 ---
-title: "Imisebenzi Yasendlini Yabantu Abaphila ne-Dementia"
-seoTitle: "Imisebenzi Yasendlini Ye-Dementia: Imisebenzi Yansuku Zonke"
-description: "Ukusonga, ukuhlunga, ukulungisa itafula nokupheka okulula kungaba yimisebenzi enenjongo kubantu abaphila ne-dementia. Indlela yokuyilungiselela nokuphepha."
+title: "Imisebenzi Yasendlini Yabantu Abaphila Nokuwohloka Komqondo"
+seoTitle: "Imisebenzi Yasendlini Nokuwohloka Komqondo"
+description: "Ukugoqa, ukuhlunga nokulungisa itafula kungaba imisebenzi enenjongo. Funda ukuyihlela, ukuyivumelanisa nokuyigcina iphephile."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Imisebenzi yansuku zonke efana nokusonga amathawula, ukuhlunga amasokisi,
-  ukulungisa itafula, ukusula amakhawunta, ukunisela izitshalo nokusiza
-  ngokupheka okulula ingamnika umuntu ophila ne-dementia indlela yangempela
-  yokusiza. Khethani imisebenzi ayaziyo, niyihlukanise ibe yisinyathelo
-  esisodwa ngesikhathi, nisuse izinto ezibukhali noma ezishisayo ezingabeka
-  ingozi, futhi nibheke ukubamba iqhaza kunokuyenza “kahle”.
+  Imisebenzi yansuku zonke efana nokugoqa amathawula, ukuhlanganisa amasokisi,
+  ukulungisa itafula, ukusula izindawo zokusebenza, ukunisela izitshalo nokusiza
+  ekuphekeni okulula kunganika umuntu ophila nokuwohloka komqondo indlela
+  yangempela yokusiza. Khethani imisebenzi ayaziyo, yehliseni ibe yisinyathelo
+  esisodwa ngesikhathi, susani izinto ezibukhali noma ezishisayo ezingaba yingozi,
+  futhi nibheke ukubamba iqhaza njengokubalulekile kunokwenza umsebenzi “ngendlela
+  efanele”.
 keyPoints:
-  - "Imisebenzi ejwayelekile ingasiza umuntu azizwe eyigugu futhi engowomuzi, okuvame ukubaluleka kakhulu kunokuthi umsebenzi wenziwe kahle kangakanani."
-  - "Hlukanisani umsebenzi ngamunye ube izinyathelo ezincane, nikhombise kunokusho, futhi nithathe ngokuthula isinyathelo esesibe nzima."
-  - "Khiyani ummese, imikhiqizo yokuhlanza nama-pod esepha, futhi nifake izembozo zamaqhosha esitofu noma into ezivala yodwa ngaphambi kokuthi nipheke ndawonye."
-  - "Amathawula asongiwe akudingeki asongwe kabusha umuntu ebukele. Uma kufanele nenze kabusha okuthile, nikwenze kamuva ngaphandle kokubonwa."
-  - "Uma umsebenzi uyamdina noma umcasula, shintshelani esinyathelweni esilula, nizame futhi ngelinye ilanga, noma nihlale nje ndawonye."
+  - "Imisebenzi ejwayelekile ingasiza umuntu azizwe ewusizo futhi eyingxenye yomndeni, okuyinto evame ukubaluleka ukwedlula indlela umsebenzi owenziwe kahle ngayo."
+  - "Yehlisani umsebenzi ngamunye ube yizinyathelo ezilula, nikhombise kunokuba nichaze, bese nithatha buthule noma yisiphi isinyathelo esesinzima."
+  - "Kiyelani imimese, imikhiqizo yokuhlanza namaphakethe okokuhlanza izingubo endaweni ephephile, futhi nifake izivikelo zezinkinobho zesitofu noma isivalo esizivalela sodwa ngaphambi kokupheka ndawonye."
+  - "Amathawula agoqiwe akudingeki agoqwe kabusha phambi komuntu. Uma kufanele niphinde niwenze umsebenzi, kwenzeni kamuva lapho engaboni, ukuze angazizwa elungiswa."
+  - "Uma umsebenzi uletha ukukhungatheka, shintshelani esinyathelweni esilula, nizame futhi ngesinye isikhathi, noma nimehlise nihlale ndawonye."
 faq:
-  - q: "Yimiphi imisebenzi yasendlini umuntu one-dementia asengasiza ngayo?"
-    a: "Abantu abaningi basakwazi ukusonga izingubo ezigeziwe, ukufanisa amasokisi, ukuhlunga izinkezo nemimese, ukulungisa itafula, ukusula ikhawunta, ukusula uthuli, ukukhukhula, ukunisela izitshalo noma ukuxuba inhlama esitsheni. Khethani imisebenzi umuntu ayenza esikhathini esidlule bese niyifanisa nalokho akwazi ukukwenza manje. Ezigabeni zangemuva, ukunyakaza okunye okuphindaphindwayo, njengokulinganisa amanapkin, kungase kwanele."
-  - q: "Ingabe kuphephile ukuthi umuntu one-dementia asize ekhishini?"
-    a: "Kungaba njalo, uma ephawulwa eduze futhi izinto zilungiselelwe kahle. Gcinani imimese, imikhiqizo yokuhlanza nanoma yini eshisayo ingafinyeleleki, sebenzisani izembozo zamaqhosha esitofu noma into ezivala yodwa, futhi nimnike umsebenzi ophephile njengokugeza imifino, ukuxuba noma ukubeka izitsha. Ningalokothi nimshiye yedwa isitofu sishisa."
-  - q: "Kuthiwani uma esonga ngendlela engalungile noma enza ukungcola?"
-    a: "Mvumeleni. Inhloso iwukuba ndawonye nokuzizwa eyigugu, hhayi umphumela ophelele. Uma okuthile kudinga ngempela ukwenziwa kabusha, linda kuze kube kamuva bese ukwenza lapho umuntu engabuki, ukuze angazizwa elungiswa."
+  - q: "Yimiphi imisebenzi yasendlini umuntu ophila nokuwohloka komqondo asengasiza kuyo?"
+    a: "Abantu abaningi basengakwazi ukugoqa izingubo, ukuhlanganisa amasokisi, ukuhlunga izitsha zokudlela, ukulungisa itafula, ukusula ikhawunta, ukususa uthuli, ukushanela, ukunisela izitshalo noma ukugovuza inhlama esitsheni. Khethani imisebenzi umuntu ayeyenza esikhathini esedlule futhi niyifanise nalokho asengakwenza manje. Ezigabeni zakamuva, ukunyakaza okukodwa okuphindaphindwayo, njengokushelela amapkiniki, kungase kwanele."
+  - q: "Kuphephile yini ukuthi umuntu ophila nokuwohloka komqondo asize ekhishini?"
+    a: "Kungaba njalo, uma kunokuqapha okuseduze nokuhleleka okufanele. Gcinani imimese, imikhiqizo yokuhlanza nanoma yini eshisayo kude, nisebenzise izivikelo zezinkinobho zesitofu noma isivalo esizivalela sodwa, futhi ninike umuntu umsebenzi ophephile njengokugeza imifino, ukugovuza noma ukubeka amapuleti etafuleni. Ningamshiyi yedwa nesitofu sivuliwe."
+  - q: "Kuthiwani uma egoqa izinto ngendlela engafanele noma enza isiphithiphithi?"
+    a: "Kuyekeni kube njalo. Inhloso ukuchitha isikhathi ndawonye nokuzizwa ewusizo, hhayi umphumela ophelele. Uma kukhona okudinga ukuphindwa ngempela, lindani kuze kube kamuva nikwenze lapho umuntu engabukile, ukuze angazizwa elungiswa."
   - q: "Kuthiwani uma enqaba ukusiza?"
-    a: "Ukuthi cha kungase kusho ukuthi umsebenzi uzwakala unzima kakhulu, uyadida noma uyadinisa njengamanje. Ningaphoqi. Zamani uhlobo olulula, mmeni ukuthi ahlale nani, noma nibuze futhi ngesikhathi esingcono sosuku."
+    a: "Ukwenqaba kungase kusho ukuthi umsebenzi uzwakala unzima, udida noma ukhandla kakhulu njengamanje. Ningamphoqi. Zamani inguqulo elula, mceleni ukuthi ahlale nani anigcine nisenkampanini, noma nimbuze futhi ngesikhathi esingcono sosuku."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,114 +47,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Abantu abaningi abaphila ne-dementia bachitha amashumi eminyaka bephethe ikhaya, bekhulisa umndeni noma behlela indawo yomsebenzi. Ukucelwa ukusiza ngemisebenzi yangempela kuyindlela enamandla yokusho ukuthi “usengomunye walo muzi”; kuncane okunye okukusho kanjalo. Leli khasi lichaza ukuthi yimiphi imisebenzi evame ukusebenza, indlela yokuyilungiselela nokuyivumelanisa uma izinto zishintsha, nendlela yokugcina ikhishi nendawo yokuwasha iphephile.
+Abantu abaningi abaphila nokuwohloka komqondo bachithe amashumi eminyaka bephatha ikhaya, bekhulisa umndeni noma begcina indawo yomsebenzi ihlelekile. Ukucelwa ukuthi basize ngemisebenzi yangempela yasendlini kungasho ukuthi “useyingxenye yale ndlu” ngendlela okumbalwa okunye okungayenza ngayo. Leli khasi lichaza ukuthi yimiphi imisebenzi evame ukusebenza kahle, indlela yokuyilungiselela, indlela yokuyivumelanisa njengoba izinto zishintsha, nokuthi ingagcinwa kanjani iphephile ikhishi negumbi lokuwasha.
 
-## Kungani imisebenzi yansuku zonke isebenza kahle njengemisebenzi yokuzijabulisa?
+## Kungani imisebenzi yansuku zonke isebenza kahle njengemisebenzi yokwenza ndawonye?
 
-Imisebenzi yasendlini isebenza ngoba iyajwayeleka futhi inenjongo ecacile. I-National Institute on Aging ibala ukugeza izitsha, ukulungisa itafula, ukukhukhula, ukusula uthuli, ukuhlunga iposi, ukusonga izingubo ezigeziwe nokuhlunga okuzosetshenziswa kabusha phakathi [kwemisebenzi yansuku zonke abantu abane-Alzheimer's abangase bayijabulele](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). I-Alzheimer's Association ithi imisebenzi enjengokulungisa itafula ingasiza umuntu [azizwe eyingxenye ebalulekile yomuzi](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Imisebenzi yasendlini iyasebenza ngoba ijwayelekile futhi inenhloso ecacile. I-National Institute on Aging ibala ukugeza izitsha, ukulungisa itafula, ukushanela, ukususa uthuli, ukuhlunga amaphepha eposi, ukugoqa izingubo zokuwasha nokuhlunga izinto ezigaywa kabusha phakathi [kwemisebenzi yansuku zonke abantu abane-Alzheimer's abangayijabulela](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). I-Alzheimer's Association iphawula ukuthi imisebenzi efana nokulungisa itafula ingasiza umuntu [azizwe eyingxenye ebalulekile yomndeni](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-Umsebenzi uphinde ube nesizathu sawo sokuqala. Kulula ukuvuma lapho kuthiwa “Ningangisiza ngala mathawula?” kunalapho kuthiwa “Ningathanda ukwenza umsebenzi othile?”
+Umsebenzi wasendlini nawo uza nesizathu sawo sokuqala. Kulula ukuthi umuntu avume lapho uthi “Ungangisiza ngalawa mathawula?” kunokuthi “Ungathanda ukwenza umsebenzi othile?”
 
-## Yimiphi imisebenzi yasendlini esingayizama?
+## Yimiphi imisebenzi yasendlini emihle ongayizama?
 
-Qalani ngemisebenzi umuntu ayenza esikhathini esidlule, bese niyifanisa nalokho akwazi ukukwenza namuhla.
+Qalani ngemisebenzi umuntu ayeyenza esikhathini esedlule, bese niyifanisa nalokho asengakwenza namuhla.
 
-### Izingubo zokuwasha nezokulala
+### Izingubo zokuwasha nezindwangu
 
-- **Ukusonga amathawula nezindwangu ezincane zokugeza.** Mnikeze ibhasikidi wezinto ezincane, ezicaba. Amathawula anesithelo: akukho ndlela engalungile yokusonga ithawula.
-- **Ukufanisa amasokisi.** Beka inqwaba exubile etafuleni. Uma sekunzima ukubona amapheya, sebenzisani amasokisi amabili noma amathathu anemibala ehluke kakhulu.
-- **Ukucindezela kube sicaba nokubeka phezu komunye.** Amanapkin, amakhava emicamelo noma amathawula ezitsha angacindezelwa abe sicaba abekwe phezu komunye. Lokhu kusebenza kahle kamuva, uma ukusonga sekuyizinyathelo ezinengi kakhulu.
+- **Ukugoqa amathawula nezindwangu zokwesula.** Nikezani ubhasikidi wezinto ezincane, eziyisicaba. Amathawula alula ukuwagoqa: ayikho indlela engafanele yokuwagoqa.
+- **Ukuhlanganisa amasokisi.** Bekani inqwaba exubile etafuleni. Uma kuba nzima ukubona amapheya, sebenzisani imibala emibili noma emithathu ehluke kakhulu kuphela.
+- **Ukushelela nokubeka ngenqwaba.** Amapkiniki, amakesi emicamelo noma amathawula asekhishini angashelezwa abekwe ngenqwaba. Lokhu kusebenza kahle kamuva, lapho ukugoqa sekunezinyathelo eziningi kakhulu.
 
 ### Itafula nekhishi
 
-- **Ukulungisa itafula.** Beka indawo eyodwa yomuntu njengesibonelo bese umvumela ukuthi ayilingise. Uma lokho kuningi kakhulu, mnikeze into eyodwa ngesikhathi: “Nansi imfologo yesitsha ngasinye.”
-- **Ukuhlunga izinkezo nemimese.** Xubani izinkezo, izimfologo nemimese yebhotela ehlanzekile esitsheni, bese nizihlunga esitsheni esihlukaniswe izingxenye. Shiyani imimese ebukhali.
-- **Ukomisa izitsha.** Izitsha zepulasitiki noma ezingaphuki nethawula elithambile kwenza lo msebenzi ube ophephile.
-- **Ukusula itafula noma amakhawunta.** Indwangu emanzi kancane nendawo ecacile. I-Alzheimer's Association iphakamisa ukunikeza indwangu uma umuntu esevele esula itafula ngesandla, kuguqule ukunyakaza okungapheli kube okunosizo.
+- **Ukulungisa itafula.** Bekani indawo eyodwa etafuleni njengesibonelo bese nivumela umuntu ayilingise. Uma lokho kuningi kakhulu, nikezani into eyodwa ngesikhathi: “Nansi imfoloko yepuleti ngalinye.”
+- **Ukuhlunga izitsha zokudlela.** Xubani izimfoloko ezihlanzekile, izipuni nemimese yebhotela esitsheni bese nizihlunga nizifake ethreyini elinezigaba. Shiyani imimese ebukhali ngaphandle.
+- **Ukomisa izitsha.** Izitsha zepulasitiki noma ezingaphuki nethawula elithambile kwenza lo msebenzi uphephe.
+- **Ukusula itafula noma amakhawunta.** Indwangu emanzi nendawo ecacile. I-Alzheimer's Association iphakamisa ukunikeza indwangu uma umuntu esevele ehlikihla itafula ngesandla sakhe, aguqule ukunyakaza okungenanjongo kube umsebenzi owusizo.
 
-### Ezungeze indlu
+### Endlini yonkana
 
-- **Ukusula uthuli.** Indwangu yothuli ethambile nezindawo ezimbalwa eziqinile, njengetafula elincane noma ishelufu lezincwadi.
-- **Ukuhlunga iposi.** Mnikeze iposi elingathandeki nezincwajana ukuze akuhlele ngamaqoqo: gcina, hlunga ukuze kusetshenziswe kabusha, vula kamuva. Gcinani amabhili nama-chekhi angempela kwenye indawo.
-- **Ukuhlunga okuzosetshenziswa kabusha.** Amathini ahlanzekile, amabhodlela nephepha kuhlukaniswe emigqonyeni ehlukene.
-- **Ukukhukhula.** Umshanelo omncane endaweni engaphandle noma phansi ekhishini, uma ukulinganisela kuqinile.
-- **Ukunisela izitshalo.** Ikani elincane elilula lokunisela nezitshalo ezimbalwa ezifinyelelekayo.
+- **Ukususa uthuli.** I-duster ethambile nezindawo ezimbalwa eziqinile, njengetafula lasegumbini lokuhlala noma ishalofu lezincwadi.
+- **Ukuhlunga amaphepha eposi.** Nikezani amaphepha angadingeki namakhathalogi ukuze awahlunge abe yizinqwaba: agcinwayo, agaywa kabusha, azovulwa kamuva. Gcinani izikweletu zangempela namasheke kwenye indawo.
+- **Ukuhlunga izinto ezigaywa kabusha.** Amathini ahlanzekile, amabhodlela namaphepha ezifakeni ezihlukene.
+- **Ukushanela.** Umshanelo omncane kuvulandi noma phansi ekhishini, uma ukulinganisela umzimba kuzinzile.
+- **Ukunisela izitshalo.** Ithini lokunisela elincane, elilula nezitshalo ezimbalwa eziseduze.
 
-### Ukupheka okulula nokuphawulwa
+### Ukupheka okulula ngokuqashwa
 
-Ukupheka kungabuyisa imizwa eqinile nejabulisayo. I-NIA iphakamisa ukuvumela umuntu aqoqe izithako, alinganise, axube athele, noma nje atshele omunye indlela yokwenza iresiphi ayithandayo. Imisebenzi emihle ihlanganisa:
+Ukupheka kungavusa imizwa emihle neqinile. I-NIA iphakamisa ukuvumela umuntu aqoqe izithako, akale, axube futhi athele, noma avele atshele omunye umuntu indlela yokwenza isidlo asithandayo. Imisebenzi emihle ihlanganisa:
 
 - ukugeza imifino noma izithelo
-- ukuxuba inhlama noma isaladi elibandayo
+- ukugovuza inhlama noma isaladi ebandayo
 - ukudabula ulethisi
-- ukuthela ibhotela esinkwini esithosiwe ngommese ongabukhali
-- ukubeka inhlama yamakhukhi esitsheni sokubhaka
-- ukubeka okuphezulu epitsa
+- ukugcoba ibhotela kuthosti ngommese ongabukhali
+- ukubeka inhlama yamakhukhi ethreyini
+- ukubeka okokugcwalisa phezu kwe-pizza
 
-Uma ukulinganisa sekunzima, i-Alzheimer's Association iphakamisa ukuthi nina nigcine ukulinganisa bese nimnika esinye isinyathelo, njengokuxuba.
+Uma ukukala sekunzima, i-Alzheimer's Association iphakamisa ukuthi nina niqedele ukukala bese ninika umuntu isinyathelo esihlukile, njengokugovuza.
 
-## Ngilungiselela kanjani umsebenzi ukuze uhambe kahle?
+## Ngiyilungiselela kanjani imisebenzi yasendlini ukuze ihambe kahle?
 
-1. **Khethani isikhathi esifanele.** Khethani ingxenye yosuku lapho umuntu evame ukuphumula futhi ezolile. Kubantu abaningi lokhu kuyisikhathi sasekuseni.
-2. **Khulula indawo.** Umsebenzi owodwa, indawo eyodwa, akukho okunye etafuleni.
-3. **Mmeni, ningamniki umsebenzi.** “Ngifuna usizo ngalokhu” kusebenza kangcono kunokuthi “Sekuyisikhathi sokusonga izingubo.”
-4. **Khombisani owokuqala.** Songani ithawula elilodwa kancane, bese nimnika elilandelayo. Ukukhombisa kucacile kunokuchaza.
-5. **Mnikeze isinyathelo esisodwa ngesikhathi.** Iziqondiso eziningi ngesikhathi esisodwa zingamdida. Linda ukuthi esisodwa siphele ngaphambi kokubiza esilandelayo.
-6. **Sebenzani eceleni komunye nomunye.** Ukwenza umsebenzi owodwa nihlezi eceleni kuzwakala njengokuba nenkampani, hhayi njengokuhlolwa.
-7. **Khulumani ngomsebenzi, hhayi umphumela.** “Lezi zithambile kakhulu” noma “Ngitshelani ukuthi benithanda kanjani ukugcina ikhabethe lezingubo” kumema ingxoxo ngaphandle kokuhlola muntu.
+1. **Khethani isikhathi esifanele.** Khethani ingxenye yosuku lapho umuntu evame ukuphumula futhi ezolile. Kubantu abaningi lokhu kuba sekuseni.
+2. **Sulani indawo.** Umsebenzi owodwa, indawo eyodwa, kungabi khona okunye okungadingeki etafuleni.
+3. **Memenini, ningayaleli.** “Ngingathanda usizo ngalokhu” kusebenza kangcono kunokuthi “Sekuyisikhathi sokugoqa izingubo.”
+4. **Khombisani okokuqala.** Goqani ithawula elilodwa kancane, bese ninikeza elilandelayo. Ukukhombisa kucacile kunokuchaza.
+5. **Nikezani isinyathelo esisodwa ngesikhathi.** Iziyalezo eziningi ngesikhathi esisodwa zingamkhungathekisa. Lindani kuze kuqedwe isinyathelo esisodwa ngaphambi kokuqamba esilandelayo.
+6. **Sebenzani nihlangene.** Ukwenza umsebenzi ofanayo nihleli ndawonye kuzwakala njengobungane, hhayi ukuqashwa.
+7. **Khulumani ngomsebenzi, hhayi ngomphumela.** “Lawa mathawula athambile” noma “Ngitshele ukuthi wawuthanda kanjani ukuhlela ikhabethe lezindwangu” kuvula ingxoxo ngaphandle kokuhlola umuntu.
 
-## Ngivumelanisa kanjani imisebenzi uma amakhono eshintsha?
+## Ngiyivumelanisa kanjani imisebenzi yasendlini njengoba amakhono eshintsha?
 
-Amakhono ayashintsha ngokuhamba kwesikhathi, ngisho nosuku nosuku. I-Alzheimer's Association iphakamisa ukuthuthela emisebenzini elula futhi ephindaphindwayo njengoba isifo siqhubeka.
+Amakhono ayashintsha ngokuhamba kwesikhathi futhi ngisho nosuku nosuku. I-Alzheimer's Association iphakamisa ukushintshela emisebenzini elula nephindaphindayo njengoba isimo siqhubeka.
 
 | Uma lokhu sekunzima | Zamani lokhu esikhundleni salokho |
 | --- | --- |
-| Ukusonga amashidi amakhulu | Ukusonga izindwangu ezincane zokugeza noma ukulinganisa amanapkin |
-| Ukulungisa itafula eliphelele | Ukubeka inapkin eyodwa esihlalweni ngasinye |
-| Ukuhlunga iposi ngezigaba | Ukubeka izimvilophu zibe yinqwaba eyodwa |
-| Ukulandela iresiphi | Ukuxuba, noma ukubuka nokunambitha ngenkathi nipheka |
-| Ukukhukhula phansi lonke | Ukusula itafula elilodwa elincane |
-| Ukwenza umsebenzi nhlobo | Ukuhlala nani futhi nimnike inkampani ngenkathi nenza umsebenzi |
+| Ukugoqa amashidi amakhulu | Ukugoqa izindwangu zokwesula noma ukushelela amapkiniki |
+| Ukulungisa itafula lonke | Ukubeka ipkiniki elilodwa endaweni ngayinye |
+| Ukuhlunga amaphepha eposi ngezigaba | Ukubeka izimvilophu ngenqwaba eyodwa |
+| Ukulandela iresiphi | Ukugovuza, noma ukubuka nokunambitha ngenkathi nipheka |
+| Ukushanela phansi lonke | Ukusula itafula elincane elilodwa |
+| Ukwenza umsebenzi nhlobo | Ukuhlala nani anigcine nisenkampanini ngenkathi niwenza |
 
-Ukubuka nakho kubalwa. I-NIA ithi abanye abantu bajabulela ukubuka nje, futhi lokho kuyindlela enhle yokubamba iqhaza.
+Ukubuka nakho kubalwa. I-NIA iphawula ukuthi abanye abantu bavele bakujabulele ukubuka, futhi lokho kuyindlela enhle yokubamba iqhaza.
 
-## Ngigcina kanjani imisebenzi yasendlini iphephile?
+## Ngiyigcina kanjani imisebenzi yasendlini iphephile?
 
-Ukuphepha kuza kuqala, ikakhulukazi ekhishini. [Amathiphu e-NIA okuphepha ekhaya kubanakekeli be-Alzheimer's](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ahlanganisa:
+Ukuphepha kuza kuqala, ikakhulukazi ekhishini. [Amathiphu okuphepha ekhaya abanakekeli babantu abane-Alzheimer's](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) e-NIA ahlanganisa:
 
-- Khiyani noma susani imikhiqizo yokuhlanza, kuhlanganise nama-pod esepha yokuwasha, angabukeka njengamaswidi.
-- Gcinani imimese, izikelo namathuluzi kagesi endaweni ekhiyiwe.
-- Faka amaqhosha okuphepha nesishintshi esizivalela yisona esitofini.
-- Beka izaziso ezithi “Misa” noma “Kushisa kakhulu” eduze kwehhovini, kwe-toaster nasepasini, zibekwe ngendlela engeke zibambe umlilo.
-- Setha i-geyser ku-120°F (cishe i-49°C) ukuze kuncishiswe ingozi yokusha ngamanzi ashisayo.
-- Susani izithelo zokwenziwa nama-magnet anjengokudla, angabukeka angadliwa.
+- Kiyelani noma nisuse imikhiqizo yokuhlanza, kuhlanganise namaphakethe okokuhlanza izingubo, angase abukeke njengamaswidi.
+- Gcinani imimese, izikele namathuluzi kagesi endaweni ekhiyiwe.
+- Fakani izinkinobho zokuphepha kanye nesivalo esizivalela sodwa esitofwini.
+- Bekani izimpawu ezithi “Yima” noma “Kushisa kakhulu” eduze kwehhavini, i-toaster nensimbi, zibekwe ngendlela yokuthi zingashi.
+- Hlelani isifudumezi samanzi sibe ku-120°F ukuze kwehliswe ingozi yokusha.
+- Susani izithelo zokuhlobisa namamagnethi abukeka njengokudla, okungase kubonakale sengathi kuyadliwa.
 
-Ezinye izinto ezisebenzayo nazo zisiza:
+Eminye imikhuba ewusizo nayo iyasiza:
 
-- Hlalani egumbini noma nini lapho isitofu, ihhovini noma ithuluzi elibukhali lisetshenziswa.
-- Sebenzisani izitsha ezingaphuki uma nomisa nokulungisa itafula.
-- Gcinani phansi kumile futhi kuhlanzekile uma nikhukhula noma nisula phansi.
-- Uma umuntu kade esebenzisa amathuluzi, i-Alzheimer's Association iphakamisa ukususa izinto eziyingozi endaweni yokusebenzela ukuze kusabe khona umsebenzi ophephile, njengokwenza ucezu lwezinkuni lushelelezi ngephepha lesihlabathi.
+- Hlalani egumbini ngaso sonke isikhathi lapho isitofu, ihhavini noma ithuluzi elibukhali lisetshenziswa.
+- Sebenzisani izitsha ezingaphuki lapho nomisa futhi nilungisa itafula.
+- Gcinani phansi komile futhi kucacile ngenkathi nishanela noma nikhuculula.
+- Uma umuntu eke wasebenzisa amathuluzi, i-Alzheimer's Association iphakamisa ukususa izinto eziyingozi endaweni yokusebenzela ukuze umsebenzi ophephile, njengokushelela ucezu lokhuni, usajabulelwa.
 
-## Kuthiwani uma ekwenza “kabi”?
+## Kuthiwani uma ekwenza “ngendlela engafanele”?
 
-Yekani. Ithawula elisongwe kwaba yisithathu esikhundleni sesibili lisalokhu liyithawula elisongiwe. I-Alzheimer's Association ikubeka kucace: okubalulekile ukuba ndawonye nokuthi umuntu azizwe enosizo, hhayi ukuthi amathawula asongwe kahle yini. Uma okuthile kufanele ngempela kwenziwe kabusha, linda kuze kube kamuva bese ukwenza ngaphandle kokubonwa.
+Kuyekeni. Ithawula eligoqwe laba izingxenye ezintathu esikhundleni sezingxenye ezimbili liseyithawula eligoqiwe. I-Alzheimer's Association ikubeka ngokusobala: okubalulekile ukuchitha isikhathi ndawonye nokuthi umuntu azizwe ewusizo, hhayi ukuthi amathawula agoqwe kahle yini. Uma kukhona okumele kuphindwe ngempela, lindani kuze kube kamuva nikwenze lapho engaboni.
 
-Ukulungisa ngaso leso sikhathi kungaguqula umsebenzi ojabulisayo ube yisikhumbuzo salokho okulahlekile. “Ngiyabonga, usize kakhulu” cishe njalo yilokho okufanele ukusho.
+Ukulungisa umuntu ngaleso sikhathi kungaguqula umsebenzi omnandi kube isikhumbuzo salokho okulahlekile. “Ngiyabonga, lokho kuyasiza kakhulu” cishe njalo kuyinto efanele ukuyisho.
 
 ## Kufanele siyeke nini?
 
-Yekani noma nishintshe uma nibona izimpawu zokucasuka, ukudinwa noma ukulahlekelwa yisithakazelo. Ukugcina kusenesikhathi kuwumphumela omuhle, hhayi ukwehluleka. Ningakwenza lokhu:
+Yekani noma nishintshe lapho nibona izimpawu zokukhungatheka, ukukhathala noma ukulahlekelwa intshisekelo. Ukuqeda kusenesikhathi kuyinto enhle, hhayi ukwehluleka. Ningakwazi:
 
-- nishintshele esinyathelweni esilula
-- nithuthele entweni ephumulisayo, njengomculo noma inkomishi yekhofi
-- nizame futhi kamuva noma ngelinye ilanga
-- nihlale nje ndawonye
+- ukushintshela esinyathelweni esilula
+- ukudlulela kokuthile okupholile, njengomculo noma inkomishi yekhofi
+- ukuzama futhi kamuva noma ngolunye usuku
+- ukuvele nihlale ndawonye
 
-Uma umuntu ethi cha, ningaphoqi. Bhekani [ukuthi nenzeni uma bethi cha](/caregiving/when-they-say-no/) ukuze nithole izindlela ezithambile zokuphendula.
+Uma umuntu ethi cha, ningamphoqi. Bhekani [okumele nikwenze uma ethi cha](/caregiving/when-they-say-no/) ukuze nithole izindlela ezinozwelo zokuphendula.
 
-## Okunye okulula esikhathini esithule
+## Okunye okulula ngesikhathi esithule
 
-Uma imisebenzi yasendlini edinga amandla ingenakwenzeka, ukuhlunga nokufanisa kusengenziwa nihleli. [Hlungani ndawonye](/games/sort-together/) ikuvumela ukuthi uthinte izithombe uzifake emabhasikidini asekhishini noma engadini, futhi [Amapheya ezithombe](/games/picture-pairs/) ungumdlalo othambile wokufanisa onezithombe ezinkulu futhi ongenasibali sikhathi. [Amakhadi engxoxo](/games/conversation-cards/) inemibuzo evulekile ngekhaya nomndeni ehambisana kahle nekhofi ngemva komsebenzi.
+Lapho imisebenzi yasendlini ingenzeki, ukuhlunga nokuqondanisa kusengenziwa kuhlezi phansi. I-[Sort Together](/games/sort-together/) ikuvumela ukuthi uthephe izithombe uzifake kubhasikidi wasekhishini noma wasengadini, kanti i-[Picture Pairs](/games/picture-pairs/) iwumdlalo omnene wokuqondanisa onezithombe ezinkulu futhi ongenaso isibali sikhathi. I-[Conversation Cards](/games/conversation-cards/) inemibuzo evulekile mayelana nekhaya nomndeni ehambisana kahle nekhofi ngemva kokuba umsebenzi usuqediwe.
 
-Ukuthola usizo lokufaka imisebenzi osukwini, bhekani umhlahlandlela wethu we-[indlela yansuku zonke ezolile](/activities/daily-routine/). Ngemibono eminingi ngesigaba, bhekani [imisebenzi yesigaba esiphakathi](/activities/middle-stage/).
+Ukuze uthole usizo lokufaka imisebenzi yasendlini ohlelweni losuku, bheka umhlahlandlela wethu mayelana [nohlelo lwansuku zonke oluzolile](/activities/daily-routine/). Ukuze uthole eminye imibono ngokwesigaba, bheka [imisebenzi yesigaba esimaphakathi](/activities/middle-stage/).

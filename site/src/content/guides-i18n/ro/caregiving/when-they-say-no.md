@@ -1,35 +1,35 @@
 ---
-title: "Când o persoană cu demență refuză o activitate sau se frustrează"
+title: "Când o persoană cu demență refuză o activitate"
 seoTitle: "Când o persoană cu demență refuză o activitate"
-description: "De ce o persoană cu demență poate refuza o activitate sau se poate supăra, ce puteți încerca, ce să evitați și când o schimbare bruscă cere un medic."
+description: "De ce o persoană care trăiește cu demență poate refuza sau se poate supăra în timpul unei activități, ce puteți încerca și când este nevoie de medic."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Când o persoană cu demență spune nu, acceptați calm și încercați din nou mai
-  târziu sau propuneți altceva. Refuzul are adesea un motiv: activitatea pare
-  prea grea sau prea copilărească, persoana este obosită, o doare ceva, îi este
-  foame sau este copleșită de zgomot. Nu vă certați și nu insistați.
-  Simplificați, oferiți două variante sau cereți-i ajutorul. Un comportament
-  care se schimbă brusc sau repede, mai ales după o infecție sau un medicament
-  nou, cere repede un medic.
+  Când o persoană care trăiește cu demență spune nu, acceptați cu calm și
+  încercați din nou mai târziu sau propuneți altceva. Refuzul are adesea un
+  motiv: sarcina pare prea dificilă sau copilărească, persoana este obosită,
+  are dureri, îi este foame sau este copleșită de zgomot. Nu vă certați și nu
+  insistați. Simplificați, oferiți două variante sau cereți-i ajutorul. O
+  schimbare bruscă sau rapidă a comportamentului, mai ales după o infecție sau
+  un medicament nou, necesită consult medical prompt.
 keyPoints:
-  - "Un „nu” este un răspuns de respectat, nu o problemă de depășit."
-  - "Refuzul are de obicei o cauză: prea greu, prea copilăresc, oboseală, stare de rău, disconfort sau prea multe în jur."
-  - "Dați-vă un pas înapoi, așteptați și încercați mai târziu, la altă oră sau cu o variantă mai simplă."
-  - "A cere ajutorul persoanei merge mai bine decât a-i cere să dea dovadă de ceva."
-  - "Nu vă certați, nu insistați, nu puneți întrebări de verificare și nu corectați. Verificați dacă nu vă grăbiți sau nu vă apropiați prea tare."
-  - "Un comportament care se schimbă brusc sau rapid, mai ales cu infecție sau medicamente noi, trebuie adus imediat la un medic."
+  - "Un „nu” este un răspuns care merită respectat, nu o problemă de rezolvat cu forța."
+  - "Refuzul are de obicei o cauză: sarcină prea grea, prea copilărească, oboseală, stare de rău, disconfort sau prea mult zgomot și agitație."
+  - "Lăsați pe mai târziu, așteptați și încercați din nou, la alt moment sau într-o formă mai simplă."
+  - "Funcționează mai bine să cereți ajutorul persoanei decât să o puneți să dea rezultate."
+  - "Nu vă certați, nu insistați, nu puneți întrebări ca la un test și nu corectați. Observați dacă vă grăbiți sau o presați."
+  - "O schimbare bruscă sau rapidă a comportamentului, mai ales în caz de infecție sau medicamente noi, trebuie discutată imediat cu medicul."
 faq:
-  - q: "Este în regulă să lăsăm persoana să sară peste activități cu totul?"
-    a: "Da, într-o anumită zi. Să stați împreună, să ascultați muzică sau să priviți lumea trecând poate fi de ajuns. Dacă cineva nu se mai bucură de nimic timp de săptămâni, spuneți medicului, pentru că starea proastă, durerea sau alte probleme de sănătate pot face parte din tablou."
-  - q: "De ce refuză lucruri pe care le iubea înainte?"
-    a: "Un hobby vechi poate deveni frustrant când cere acum deprinderi pe care demența le-a făcut mai grele, iar persoana se poate simți rușinată. Încercați o parte mai simplă din aceeași activitate, de exemplu sortarea nasturilor în loc de cusut sau privitul unor imagini cu grădini în loc de plantat."
+  - q: "Este în regulă să renunțe complet la activități?"
+    a: "Da, în anumite zile. Poate fi de ajuns să stați împreună, să ascultați muzică sau să priviți pe fereastră. Dacă, timp de câteva săptămâni, persoana nu mai găsește plăcere în aproape nimic, spuneți-i medicului, deoarece o stare de tristețe, durerea sau alte probleme de sănătate pot avea un rol."
+  - q: "De ce refuză lucruri care înainte îi plăceau?"
+    a: "O activitate preferată poate deveni frustrantă atunci când cere abilități pe care demența le-a făcut mai dificile, iar persoana se poate simți jenată. Încercați o parte mai simplă din aceeași activitate, de exemplu să sortați nasturi în loc să coaseți sau să priviți imagini cu grădini în loc să plantați."
   - q: "Ar trebui să încerc să o conving?"
-    a: "Nu. A împinge pe cineva să facă un lucru pe care demența l-a făcut greu este un declanșator cunoscut al agitației. Acceptați nu-ul, schimbați subiectul și propuneți din nou mai târziu sau în alt fel."
+    a: "Nu. Să îndemni o persoană să facă ceva ce demența a făcut dificil este un declanșator cunoscut al agitației. Acceptați refuzul, schimbați subiectul și propuneți din nou mai târziu sau într-un alt mod."
   - q: "Când este o schimbare de comportament o urgență?"
-    a: "Sunați la numărul local de urgență (în România, 112) dacă cineva este în pericol sau are semne de urgență medicală. Pentru confuzie bruscă sau un comportament care se schimbă repede în câteva ore sau zile, mai ales cu febră, infecție sau un medicament nou, contactați imediat medicul persoanei."
+    a: "Sunați la 911 dacă cineva este în pericol sau are semne ale unei urgențe medicale. Dacă apare confuzie bruscă sau comportamentul se schimbă rapid, în ore sau zile, mai ales dacă există febră, o infecție sau un medicament nou, contactați imediat medicul."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -51,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Ați pregătit totul, ați propus un joc sau o plimbare și ați auzit „Nu.” Sau activitatea începe bine și se termină cu o tabletă împinsă la o parte și un cuvânt tăios. Este descurajant și este foarte frecvent. Refuzul și frustrarea sunt de obicei un mesaj, nu încăpățânare. Să înțelegeți care este mesajul vă arată adesea ce să încercați în continuare.
+Pregătiți totul, propuneți un joc sau o plimbare și auziți „Nu”. Sau activitatea începe bine și se termină cu o tabletă împinsă la o parte și un cuvânt tăios. Este descurajant și se întâmplă foarte des. Refuzul și frustrarea sunt, de obicei, un mesaj, nu încăpățânare. Când înțelegeți ce spune acel mesaj, este mai ușor să știți ce puteți încerca în continuare.
 
-## De ce refuză o persoană cu demență activitățile?
+## De ce refuză o persoană care trăiește cu demență activitățile?
 
-De obicei există un motiv, chiar dacă persoana nu îl poate pune în cuvinte. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) arată că rezistența poate însemna că persoana nu poate face treaba sau se teme să încerce. Printre cauzele frecvente se numără:
+De obicei există un motiv, chiar dacă persoana nu îl poate spune în cuvinte. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) arată că rezistența poate însemna că persoana nu poate face sarcina sau se teme să încerce. Printre cauzele frecvente se numără:
 
-- **Pare prea greu.** Activitatea cere acum deprinderi pe care demența le-a făcut dificile, iar a greși în fața cuiva este stânjenitor.
-- **Pare copilăresc.** Adulții observă imaginile caricaturale, vocile cântate și activitățile care par făcute pentru copii.
-- **Oboseala.** Multe persoane au mai puțină energie spre seară. Citiți [activități liniștite la sfârșitul după-amiezii](/caregiving/late-day-restlessness/).
-- **Disconfort fizic.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) enumeră durerea, lipsa somnului, greutățile de vedere sau de auz, constipația, foamea, setea și efectele secundare ale medicamentelor noi ca posibile cauze de neliniște.
-- **Prea multe în jur.** Un televizor tare, mai multe conversații sau o cameră aglomerată pot copleși.
-- **Senzația de a fi împins.** NIA numește ca o cauză a agitației faptul de a fi împins să facă ceva ce boala Alzheimer a făcut foarte greu sau să-și amintească evenimente sau persoane.
-- **Stare proastă.** Pierderea interesului pentru lucruri poate fi un semn de depresie, ceea ce merită discutat cu un medic.
-- **Pur și simplu nu vrea.** Adulții au voie să spună nu.
+- **Pare prea greu.** Activitatea cere acum abilități pe care demența le-a făcut mai dificile, iar să nu reușești în fața cuiva poate fi jenant.
+- **Pare copilărească.** Adulții observă imaginile caricaturale, tonul prea jucăuș și activitățile care par făcute pentru copii.
+- **Oboseala.** Mulți oameni au mai puțină energie mai târziu în cursul zilei. Consultați [activități liniștite pentru sfârșitul după-amiezii](/caregiving/late-day-restlessness/).
+- **Disconfort fizic.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) menționează durerea, lipsa somnului, dificultățile de vedere sau auz, constipația, foamea, setea și efectele secundare ale medicamentelor noi ca posibile cauze ale stării de neliniște.
+- **Prea multe lucruri în jur.** Un televizor pornit tare, mai multe conversații sau o cameră aglomerată pot fi copleșitoare.
+- **Sentimentul că este împinsă.** NIA arată că presiunea de a face ceva ce boala Alzheimer a făcut foarte greu sau de a-și aminti evenimente ori persoane poate duce la agitație.
+- **Stare de tristețe.** Pierderea interesului pentru lucrurile care plăceau poate fi un semn de depresie și merită spusă medicului.
+- **Pur și simplu nu vrea.** Adulții au dreptul să spună nu.
 
-## Ce să încerc când spune nu?
+## Ce pot încerca când spune nu?
 
-Acceptați calm nu-ul, apoi schimbați ceva: ora, activitatea, dificultatea sau felul în care cereți.
+Acceptați refuzul cu calm, apoi schimbați ceva: momentul, activitatea, nivelul de dificultate sau felul în care cereți.
 
-1. **Lăsați deocamdată.** „Este în regulă. Poate mai târziu.” Apoi treceți la altceva, fără un suspin.
-2. **Încercați din nou mai târziu.** Alzheimer's Association sugerează să încercați din nou mai târziu sau la altă oră din zi.
-3. **Faceți-o mai mică.** O potrivire în loc de un joc întreg. Un prosop în loc de coșul cu rufe. Mai puține imagini, mai puține variante, imagini lăsate la vedere.
-4. **Oferiți două variante.** „Vreți să vă uitați la imagini cu păsări sau să ascultați muzică?” O alegere redă un sentiment de control.
-5. **Cereți ajutor, nu performanță.** „M-ați putea ajuta să sortez astea?” sau „Puteți să-mi spuneți ce culoare arată cel mai bine?” Să fii necesar se simte foarte diferit de a fi testat.
-6. **Începeți dumneavoastră.** Începeți activitatea alături de persoană, fără să întrebați. Mulți oameni se alătură când ceva se întâmplă deja, iar dacă nu o fac, ați petrecut totuși timp împreună.
-7. **Treceți la ceva fizic sau liniștitor.** O scurtă plimbare, muzică, o gustare, împăturitul rufelor sau o pauză împărtășită de [respirație calmă](/games/calm-breathing/). NIA sugerează redirecționarea atenției spre muzică, o carte sau o plimbare.
-8. **Lăsați-o să o facă în felul ei.** Dacă vrea să joace altfel decât spun regulile, urmați-o. Alzheimer's Association recomandă să fiți flexibil.
+1. **Lăsați pentru acum.** „Este în regulă. Poate mai târziu.” Apoi treceți la altceva, fără să oftați.
+2. **Încercați din nou mai târziu.** Alzheimer's Association sugerează să încercați din nou mai târziu sau la alt moment al zilei.
+3. **Faceți lucrurile mai simple.** O singură potrivire în loc de un joc întreg. Un singur prosop în loc de coșul cu rufe. Mai puține imagini, mai puține opțiuni, imagini lăsate la vedere.
+4. **Oferiți două variante.** „Vreți să privim imaginile cu păsări sau să ascultăm muzică?” O alegere oferă din nou un sentiment de control.
+5. **Cereți ajutor, nu o probă.** „Mă puteți ajuta să le sortez?” sau „Îmi spuneți care culoare vi se pare mai potrivită?” Să te simți de folos este foarte diferit de a te simți pus la încercare.
+6. **Începeți singur.** Începeți activitatea lângă persoană, fără să întrebați. Mulți oameni se alătură când ceva s-a început deja, iar dacă nu se alătură, ați petrecut totuși timp împreună.
+7. **Treceți la ceva fizic sau liniștitor.** O plimbare scurtă, muzică, o gustare, împăturirea rufelor sau o pauză de [respirație liniștită](/games/calm-breathing/) împreună. NIA sugerează să îndreptați atenția către muzică, o carte sau o plimbare.
+8. **Lăsați persoana să facă în felul ei.** Dacă vrea să se joace altfel decât spun regulile, mergeți mai departe așa. Alzheimer's Association recomandă flexibilitatea.
 
-## Ce să spun când se frustrează?
+## Ce pot spune când se frustrează?
 
-Încetiniți, coborâți vocea și liniștiți. [Ghidul Alzheimer's Association despre agitație](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) sugerează să vă dați un pas înapoi și să cereți permisiunea, să folosiți afirmații calme și pozitive și să oferiți o alegere ghidată între două variante. Formulări în acest spirit:
+Încetiniți, vorbiți mai încet și oferiți liniște. [Recomandările Alzheimer's Association despre agitație](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) sugerează să faceți un pas înapoi și să cereți permisiunea, să folosiți afirmații calme și pozitive și să oferiți o alegere ghidată între două variante. Formulări în același spirit:
 
-- „Îmi pare rău, asta este supărătoare. Hai să ne oprim.”
-- „Vă descurcați bine. Sunt chiar aici.”
+- „Îmi pare rău, aceasta este enervantă. Hai să ne oprim.”
+- „Este în regulă. Sunt aici, lângă dumneavoastră.”
 - „Aveți timp să mă ajutați cu altceva?”
-- „Să bem mai bine o ceașcă de ceai?”
+- „Vreți să bem o cană de ceai în schimb?”
 
-Apoi încheiați activitatea fără să faceți un caz din asta. [Sfaturile noastre de comunicare](/caregiving/communication-tips/) au mai multe despre ce să spuneți.
+Apoi încheiați activitatea fără să faceți din asta un eveniment mare. Ghidul nostru despre [sfaturi de comunicare](/caregiving/communication-tips/) oferă mai multe idei despre ce puteți spune.
 
-## Ce să evit?
+## Ce ar fi bine să evit?
 
-Unele reacții firești tind să înrăutățească lucrurile.
+Unele reacții firești pot înrăutăți situația.
 
-- **Cearta sau insistența.** „Haide, încă una” sau „Doar vă place” rareori ajută.
-- **Întrebările de verificare sau corectarea.** „Știți ce este asta” sau „Nu, aia e greșită” adaugă presiune.
-- **Să luați lucrurile personal.** NIA le amintește îngrijitorilor că boala, nu persoana, provoacă aceste schimbări.
-- **Înghesuirea sau graba.** Alzheimer's Association recomandă să nu ridicați vocea, să nu arătați alarmă, să nu încolțiți, să nu înghesuiți, să nu țineți cu forța, să nu criticați, să nu ignorați și să nu vă certați cu persoana și să evitați mișcările bruște din afara câmpului ei vizual.
-- **Folosirea vinovăției.** „Am pregătit toate astea pentru dumneavoastră” vă lasă pe amândoi mai prost.
-- **Etichetarea.** „Încăpățânat” sau „dificil” ascunde adevăratul motiv și îl face mai greu de rezolvat.
+- **Să vă certați sau să insistați.** „Haideți, doar încă puțin” sau „Vă place asta” ajută rar.
+- **Să puneți întrebări ca la un test sau să corectați.** „Știți ce este aici” sau „Nu, acesta nu este corect” adaugă presiune.
+- **Să luați lucrurile personal.** NIA reamintește că boala, nu persoana, cauzează aceste schimbări.
+- **Să aglomerați sau să grăbiți.** Alzheimer's Association recomandă să nu ridicați vocea, să nu arătați alarmă, să nu colțuiți, să nu înghesuiți, să nu imobilizați, să nu criticați, să nu ignorați și să nu vă certați cu persoana și să evitați mișcările bruște din afara câmpului ei vizual.
+- **Să folosiți vinovăția.** „Am pregătit totul pentru dumneavoastră” vă face să vă simțiți mai rău amândoi.
+- **Să puneți etichete.** Cuvinte precum „încăpățânat” sau „dificil” ascund motivul real și îngreunează găsirea unei soluții.
 
-## Cum aflu ce se ascunde în spatele refuzurilor repetate?
+## Cum pot afla ce se află în spatele refuzurilor repetate?
 
-Țineți o notiță simplă o săptămână sau două. NIA spune că urmărirea schimbărilor de comportament îi poate ajuta pe îngrijitori și pe medici să recunoască un tipar și să afle cauza.
+Faceți notițe simple timp de o săptămână sau două. NIA spune că urmărirea schimbărilor de comportament poate ajuta persoanele care îngrijesc și cadrele medicale să observe un tipar și să înțeleagă cauza.
 
 Notați:
 
-- ora din zi;
+- momentul zilei;
 - ce ați propus și cum ați cerut;
 - ce se întâmpla în jur (zgomot, vizitatori, televizor);
-- cum a dormit, a mâncat și a băut și când a fost ultima dată la toaletă;
-- orice medicamente noi sau boală recentă.
+- cum a dormit, a mâncat și a băut persoana și când a mers ultima dată la toaletă;
+- orice medicament nou sau boală recentă.
 
-Tiparele apar adesea repede: refuzuri care se întâmplă doar după ora 16, doar cu un anumit joc sau doar când televizorul este pornit. [Ghidul despre comportamentele din demență](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) al Family Caregiver Alliance o spune simplu: nu putem schimba persoana, dar ne putem schimba propriul comportament și mediul.
+Tiparele apar adesea repede: refuzuri care apar doar după ora 16:00, doar la un anumit joc sau doar când televizorul este pornit. [Ghidul Family Caregiver Alliance despre comportamentele din demență](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) spune simplu: nu putem schimba persoana, dar ne putem schimba propriul comportament și mediul.
 
-## Când să vorbesc cu un medic despre refuz sau frustrare?
+## Când ar trebui să vorbesc cu medicul despre refuz sau frustrare?
 
-Vorbiți cu un medic când comportamentul se schimbă brusc, repede sau împreună cu semne de boală. NIA spune că schimbările bruște sau care fluctuează rapid ale comportamentului, mai ales dacă persoana a avut o infecție sau schimbări recente de medicamente, trebuie aduse imediat în atenția unui medic.
+Vorbiți cu medicul atunci când comportamentul se schimbă brusc, rapid sau împreună cu semne de boală. NIA spune că schimbările bruște sau care fluctuează rapid, mai ales dacă persoana a avut o infecție sau schimbări recente ale medicației, trebuie aduse imediat la cunoștința medicului.
 
-Contactați repede medicul persoanei dacă observați:
+Contactați prompt medicul dacă observați:
 
-- confuzie bruscă sau o schimbare mare în câteva ore sau zile;
-- semne de durere, cum ar fi grimase, protejarea unei părți a corpului sau greutăți noi de mișcare;
+- confuzie bruscă sau o schimbare mare în ore sau zile;
+- semne de durere, cum ar fi grimase, protejarea unei părți a corpului sau dificultăți noi de mișcare;
 - febră sau alte semne de infecție;
-- medicamente noi sau schimbate, urmate de o schimbare de comportament;
-- pierderea interesului pentru aproape orice, plâns sau retragere care durează mai mult de câteva săptămâni;
-- refuzul mâncării sau al băuturii.
+- medicamente noi sau modificate, urmate de o schimbare de comportament;
+- pierderea interesului pentru aproape orice, plâns ușor sau retragere care durează mai mult de câteva săptămâni;
+- refuzul de a mânca sau de a bea.
 
-Alzheimer's Association recomandă un control medical amănunțit pentru oricine are simptome de comportament, mai ales când apar brusc. Family Caregiver Alliance recomandă și ea să verificați mai întâi cu medicul, pentru că problemele de comportament pot avea o cauză medicală. Nu începeți, nu opriți și nu schimbați niciun medicament fără să discutați cu un medic sau cu un farmacist.
+Alzheimer's Association recomandă un control medical amănunțit pentru orice persoană cu simptome comportamentale, mai ales atunci când acestea apar brusc. Family Caregiver Alliance recomandă, de asemenea, să discutați mai întâi cu medicul, deoarece problemele de comportament pot avea o cauză medicală. Nu începeți, nu opriți și nu modificați niciun medicament fără să vorbiți cu un medic sau cu un farmacist.
 
-Dacă cineva este în pericol sau există semne de urgență medicală, sunați la numărul local de urgență (în România, 112). NIA sugerează să spuneți operatorului că persoana are demență.
+Dacă cineva este în pericol sau există semne ale unei urgențe medicale, sunați la 911. NIA sugerează să spuneți dispecerului că persoana trăiește cu demență. Pentru pași imediați de siguranță atunci când furia devine fizică, consultați [ghidul nostru despre furie și agresivitate în demență](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
 ## Este în regulă dacă nu facem nimic?
 
-Da. Unele zile, cea mai bună activitate este lipsa unei activități: să stați împreună, să vă țineți de mână, să ascultați un disc preferat sau să priviți păsările pe fereastră. Nu este un eșec. [Ghidul nostru despre jocul împreună](/caregiving/how-to-play-together/) explică de ce a vă opri mai devreme, sau a nu începe deloc, poate fi decizia potrivită.
+Da. În unele zile, cea mai bună activitate este lipsa unei activități: să stați împreună, să vă țineți de mână, să ascultați o melodie preferată sau să priviți păsările la fereastră. Nu este un eșec. [Ghidul nostru despre cum să petreceți timp împreună](/caregiving/how-to-play-together/) explică de ce poate fi potrivit să vă opriți mai devreme sau chiar să nu începeți.

@@ -1,33 +1,33 @@
 ---
-title: "Preprosta zanimivost za starejše z demenco, brez pritiska"
-seoTitle: "Preprosti kvizi za starejše z demenco: 50 vprašanj"
-description: "50 preprostih vprašanj za starejše z demenco z ponujenimi odgovori in temami za pogovor ter nasveti, kako voditi kviz, da se nihče ne počuti preizkušenega."
+title: "Enostavne trivia za starejše z demenco, brez pritiska"
+seoTitle: "Trivia vprašanja za starejše z demenco z odgovori"
+description: "50 enostavnih trivia vprašanj za starejše z demenco z izbirami odgovorov in spodbudami za pogovor ter nasveti, kako voditi kviz brez pritiska."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Preprosti kvizi za starejše z demenco delujejo, kadar so bolj klepet kot preizkus.
-  Sprašujte o stvareh, ki so se jih naučili davno, na primer o starih pesmih, rekih,
-  praznikih in vsakdanjem življenju, in vedno ponudite dve ali tri izbire. Odgovor
-  povejte prosto, nikogar ne izpostavljajte, opustite rezultat in vsak odgovor
-  uporabite kot začetek zgodbe. Vprašanja „ta ali oni“ brez napačnega odgovora
-  ustrezajo poznejšim stopnjam.
+  Enostavne trivia za starejše z demenco so uspešne, ko delujejo kot klepet, ne
+  kot preizkus. Sprašujte o stvareh, ki so se jih naučili že davno, na primer o
+  starih pesmih, rekih, praznikih in vsakdanjem življenju, ter vedno ponudite
+  dve ali tri možnosti. Odgovor povejte sproščeno, nikogar ne izpostavljajte,
+  izpustite točkovanje in vsak odgovor uporabite kot začetek zgodbe. Vprašanja
+  »to ali ono« brez napačnega odgovora so primerna za poznejša obdobja.
 keyPoints:
-  - "Sprašujte o stvareh, ki so znane že dolgo: pesmi, reki, praznikih, hrani in vsakdanjem življenju pred leti."
-  - "Ponudite dve ali tri izbire, da se odgovor lahko prepozna, namesto da se priklicuje iz spomina."
-  - "Odgovor povejte toplo in gremo naprej. Vsak ugib, ki sproži zgodbo, je dober ugib."
-  - "Brez točk, brez tekmovanja ekip in brez klicanja ene osebe. Odgovori naj pridejo iz vse sobe."
-  - "Ko izbiranje med odgovori postane težko, preklopite na vprašanja „ta ali oni“ brez pravilnega odgovora."
+  - "Sprašujte o dobro znanih stvareh od nekdaj: pesmih, rekih, praznikih, hrani in vsakdanjem življenju iz preteklosti."
+  - "Ponudite dve ali tri možnosti, da lahko oseba odgovor prepozna, namesto da bi se ga morala spomniti sama."
+  - "Odgovor povejte toplo in nadaljujte. Vsak ugib, ki sproži zgodbo, je dober ugib."
+  - "Brez točk, brez tekmovanja med ekipami, brez klicanja posameznika. Naj odgovori prihajajo od vseh v prostoru."
+  - "Ko izbira med odgovori postane težka, preidite na vprašanja »to ali ono« brez pravilnega odgovora."
 faq:
-  - q: "Je zanimivost dobra dejavnost za osebe z demenco?"
-    a: "Lahko je, če se vodi nežno. Alzheimer's Foundation of America med dejavnosti za zgodnjo stopnjo uvršča zanimivosti. Ohranite vprašanja o temah, ki so znane že dolgo, ponudite izbire, nikoli ne izpostavljajte ene osebe in odgovore obravnavajte kot pot v pogovor, ne kot preizkus."
-  - q: "Katere teme najbolje delujejo za zanimivosti pri demenci?"
-    a: "Najbolje delujejo stvari, ki so se jih naučili davno: priljubljene pesmi in pevci iz mladosti osebe, znani reki, prazniki, hrana, šport in vsakdanje življenje, na primer dostava mleka in vrtljivi telefoni. Izogibajte se novicam in vsemu, kar zahteva, da si oseba zapomni nekaj iz prejšnjega dela srečanja."
-  - q: "Kako v domu za oskrbo vodim kviz, da nikogar ne spravim v zadrego?"
-    a: "Vsako vprašanje preberite celotni skupini, izbire pokažite ali povejte in sprejmite odgovore od kogarkoli. Ne kličite posameznikov in ne vodite rezultatov. Odgovor povejte z nasmehom, ne glede na to, kaj je bilo ugibano, in zastavite nadaljnje vprašanje, na primer „Kdo od vas je kdaj šel v drive-in kino?“, da se pogovor spremeni v zgodbe."
-  - q: "Kaj lahko storim namesto zanimivosti v poznejših stopnjah?"
-    a: "Preklopite na vprašanja brez napačnega odgovora, na primer „Kava ali čaj?“ ali „Plaža ali gore?“, in na skupno dokončevanje znanih rekov ali pesmi. Dobro deluje tudi ogledovanje slik in skupni opis."
+  - q: "Ali so trivia primerna dejavnost za ljudi, ki živijo z demenco?"
+    a: "Lahko so, če jih izvajate nežno. Alzheimer's Foundation of America trivia navaja med dejavnostmi za zgodnje obdobje. Vprašanja naj bodo o dolgo znanih temah, ponudite možnosti, nikogar ne postavljajte v zadrego in odgovore obravnavajte kot pot do pogovora, ne kot preizkus."
+  - q: "Katere teme so najboljše za trivia pri demenci?"
+    a: "Najbolje običajno delujejo stvari, naučene že davno: priljubljene pesmi in pevci iz mladosti osebe, znani reki, prazniki, hrana, šport in vsakdanje življenje, kot sta dostava mleka in telefoni z vrtljivim številčnikom. Izogibajte se novicam iz nedavne preteklosti in vsemu, kar zahteva spomin na kaj iz prejšnjega dela srečanja."
+  - q: "Kako voditi trivia v domu za ostarele, ne da bi koga osramotili?"
+    a: "Vsako vprašanje preberite celotni skupini, pokažite ali povejte možnosti in sprejmite odgovore kogar koli. Ne kličite posameznikov in ne beležite točk. Odgovor povejte z nasmehom, ne glede na ugib, in postavite nadaljnje vprašanje, na primer: »Kdo od vas je bil kdaj v avtokinu?«, da se pogovor spremeni v zgodbe."
+  - q: "Kaj lahko naredimo namesto trivia v poznejših obdobjih?"
+    a: "Preidite na vprašanja brez napačnega odgovora, na primer »Kava ali čaj?« ali »Morje ali gore?«, ter na skupno dopolnjevanje znanih rekov ali pesmi. Dobro deluje tudi skupno gledanje slik in opisovanje."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Zanimivost je ena najpogosteje želenih skupinskih dejavnosti v domovih za oskrbo in dnevnih programih, mnoge družine pa jo igrajo tudi za kuhinjsko mizo. Če jo vodite na običajen način, s točkami in enim človekom, ki odgovarja, lahko oseba z demenco dobi občutek, da je v zadregi. Če jo vodite nežno, je to živahen način, da slišite zgodbe. Spodaj je 50 preprostih vprašanj z izbirami in nekaj za pogovor pri vsakem, nato pa je opisano, kako voditi srečanje.
+Trivia so ena najbolj priljubljenih skupinskih dejavnosti v domovih za ostarele in dnevnih programih, mnoge družine pa jih igrajo tudi za kuhinjsko mizo. Če jih izvajamo na običajen način, s točkami in enim odgovorom na osebo, se lahko oseba, ki živi z demenco, počuti postavljeno v zadrego. Če jih izvajamo nežno, so živahen način za poslušanje zgodb. Spodaj je 50 enostavnih vprašanj z izbirami odgovorov in predlogom za pogovor pri vsakem, nato pa sledijo nasveti, kako voditi srečanje.
 
-## Kako naredite zanimivost za osebo z demenco?
+## Kako trivia prilagoditi osebi z demenco?
 
-Naredite jo tako, da prepoznava in spominjanje stvari iz davnine nista pogoj, vsak odgovor pa je dobrodošel.
+Naj bodo osredotočene na prepoznavanje in spominjanje stvari od nekdaj, vsak odgovor pa naj bo dobrodošel.
 
-1. **Sprašujte o daljni preteklosti.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) pravi, da je najpogostejši zgodnji simptom Alzheimerjeve bolezni težava pri zapomnjenju novo naučenih informacij. Pesmi, reki in vsakdanje življenje izpred desetletij so pogosto lažja tla.
-2. **Vedno ponudite izbire.** Izbrati pravi odgovor med dvema ali tremi je veliko lažje kot ga izpeljati iz nič.
-3. **Vprašanja preberite na glas in jih pokažite v velikem tisku.** Tabla ali tablica, ki jo dvignete, pomaga tistim, ki slabše slišijo.
-4. **Odgovor povejte prosto.** Če nihče ne ve, ga toplo povejte in gremo naprej. Nikoli: „Ma daj, to veš.“
-5. **Brez rezultata.** Ne za posameznike in ne za mize. Če ljudje želijo število, naj bo le en skupni seštevek za skupino.
-6. **Nikoli ne kličite ene osebe.** Naj odgovori pridejo od kogarkoli. Pri srečanju ena na ena odgovorite skupaj: „Mislim, da je klavir. Kaj pa vi mislite?“
-7. **Uporabite temo za pogovor.** Odgovor je začetek, ne konec. Zgodbe so pravi cilj.
-8. **Naj bo kratko.** Deset vprašanj z zgodbami vmes je dovolj.
+1. **Sprašujte o daljni preteklosti.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) navaja, da je najpogostejši zgodnji simptom Alzheimerjeve bolezni težava pri pomnjenju na novo naučenih informacij. Pesmi, reki in vsakdanje življenje izpred nekaj desetletij so pogosto lažje izhodišče.
+2. **Vedno ponudite možnosti.** Izbrati pravi odgovor med dvema ali tremi je veliko lažje kot ga poiskati brez opore.
+3. **Vprašanja preberite na glas in jih pokažite veliko.** Tabla ali tablični računalnik, ki ga dvignete, pomaga osebam, ki slabše slišijo.
+4. **Odgovor povejte sproščeno.** Če nihče ne ve, ga povejte toplo in nadaljujte. Nikoli ne recite: »Daj no, saj to veste.«
+5. **Brez točkovanja.** Ne za posameznike in ne za mize. Če si ljudje želijo številko, vodite en skupni seštevek.
+6. **Nikoli ne kličite posameznika.** Naj odgovori prihajajo od kogar koli. Če ste sami z osebo, odgovarjajte skupaj: »Mislim, da je klavir. Kaj pa vi mislite?«
+7. **Uporabite spodbudo za pogovor.** Odgovor je začetek, ne konec. Pravi cilj so zgodbe.
+8. **Naj bo kratko.** Deset vprašanj z vmesnimi zgodbami je povsem dovolj.
 
-[Nacionalni inštitut za staranje](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) temeljno pravilo preprosto povzame: pazite na frustracijo in poskrbite, da se oseba počuti uspešno. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) med dejavnosti za zgodnjo stopnjo uvršča zanimivosti. V srednji stopnji ostanite pri dveh izbirah in se opirajte na teme za pogovor. Pozneje preklopite na vprašanja „ta ali oni“, ki so navedena nižje.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) osnovno pravilo povzame preprosto: bodite pozorni na zadrego ali nelagodje in poskrbite, da se oseba počuti uspešno. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) trivia navaja med dejavnostmi za zgodnje obdobje. V srednjem obdobju ostanite pri dveh možnostih in se naslonite na spodbude za pogovor. Pozneje preidite na vprašanja »to ali ono«, ki so navedena spodaj.
 
-## Glasba in zabava
+## Trivia o glasbi in zabavi
 
-Odgovor je v **krepkem**. Prilagodite jih osebi: nekdo, ki je odraščal ob Motownu, bo želel druge pevce kot nekdo, ki je odraščal ob big bandih.
+Odgovor je **krepko** označen. Vprašanja prilagodite osebi: nekdo, ki je odraščal ob Motownu, bo želel druge pevce kot nekdo, ki je odraščal ob velikih orkestrih.
 
-| Vprašanje | Izbire | O čem govoriti |
+| Vprašanje | Možnosti | Spodbuda za pogovor |
 | --- | --- | --- |
-| Kdo je bil imenovan kralj rock and rolla? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Ali ste kdaj videli Elvisa na televiziji? |
-| Kateri pevec je dobil vzdevek Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Katera Sinatrova pesem vam je najbolj všeč? |
-| Bing Crosby je sanjal o beli ... | **Božiču**, poroki, hiši | Skupaj zapojte kitico |
-| Louis Armstrong je pel „What a Wonderful ...“ | dnevu, **svetu**, življenju | Kaj vam naredi svet čudovit? |
-| „Over the Rainbow“ je v katerem filmu pela Judy Garland? | **Čarovnik iz Oza**, Gone with the Wind, Singin' in the Rain | Kje ste gledali svoje najljubše filme? |
-| Kdo je igral Lucy v seriji „I Love Lucy“? | **Lucille Ball**, Doris Day, Betty White | Katere oddaje je vaša družina gledala skupaj? |
-| Kateri kavboj je jahal konja z imenom Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Ste se kot otrok igrali kavbojev? |
-| Kdo je vodil oddajo „The Tonight Show“ 30 let? | Ed Sullivan, **Johnny Carson**, Bob Hope | Ali ste ponoči ostajali budni, da bi gledali televizijo? |
-| Kateri inštrument ima 88 tipk? | Kitara, **klavir**, trobenta | Ali je kdo v vaši družini igral? |
-| Kateri ples se šteje ena-dva-tri, ena-dva-tri? | **Valček**, twist, tango | Kam ste hodili plesat? |
+| Koga so klicali kralj rokenrola? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Ste kdaj videli Elvisa na televiziji? |
+| Kateri pevec je imel vzdevek Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Katera Sinatrova pesem vam je najbolj všeč? |
+| Bing Crosby je sanjal o belem ... | **božiču**, poročnem dnevu, domu | Skupaj zapojte vrstico |
+| Louis Armstrong je pel »What a Wonderful ...« | dan, **svet**, življenje | Kaj vam naredi svet čudovit? |
+| »Over the Rainbow« je Judy Garland pela v katerem filmu? | **Čarovnik iz Oza**, V vrtincu, Plešem v dežju | Kje ste gledali svoje najljubše filme? |
+| Kdo je igral Lucy v »I Love Lucy«? | **Lucille Ball**, Doris Day, Betty White | Katere oddaje ste gledali skupaj kot družina? |
+| Kateri kavboj je jezdil konja po imenu Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Ste se kot otrok igrali kavboje? |
+| Kdo je 30 let vodil oddajo »The Tonight Show«? | Ed Sullivan, **Johnny Carson**, Bob Hope | Ste ostajali pokonci, da bi gledali televizijo? |
+| Kateri inštrument ima 88 tipk? | kitara, **klavir**, trobenta | Je kdo v vaši družini igral na inštrument? |
+| Kateri ples štejemo ena-dva-tri, ena-dva-tri? | **valček**, twist, tango | Kam ste hodili plesat? |
 
-Za več o glasbi glejte [glasbene dejavnosti za osebe z demenco](/activities/music/).
+Več o glasbi najdete na strani [glasbene dejavnosti za demenco](/activities/music/).
 
-## Vsakdanje življenje
+## Trivia o vsakdanjem življenju
 
-| Vprašanje | Izbire | O čem govoriti |
+| Vprašanje | Možnosti | Spodbuda za pogovor |
 | --- | --- | --- |
-| Pred hladilniki so mnogi domovi hrano hladili v ... | **hladilni skrinji z ledom (icebox)**, pečici, podstrešju | Kdo je dostavljal led? |
-| Kdo je mleko prinašal na vrata v steklenicah? | Poštar, **mlekar**, časopisni deček | Kaj drugega so dostavljali na dom? |
-| Kako ste klicali na vrtljivem telefonu? | Pritiskanje gumbov, **obračanje kolesca**, pogovor z njim | Povejte mi o telefonu v vaši hiši |
-| Katero podjetje je izdelovalo avto Model T? | **Ford**, Chevrolet, Buick | Povejte mi o avtomobilu, ki vam je bil všeč |
-| Kje bi našli natakarja za sodo (soda jerk)? | **Pult z gaziranimi pijačami (soda fountain)**, pekarna, banka | Kaj ste naročili za pultom? |
-| Kakšna igrača je kovinska vzmet, ki lahko stopa po stopnicah navzdol? | Jo-jo, **Slinky**, obroč hula hoop | Katere igrače ste imeli radi? |
-| Drive-in je bil prostor, kjer si gledal ... | **filme iz avta**, tekme, parade | S kom ste hodili tja? |
-| Čigav obraz je na enodolarskem bankovcu? | Lincoln, **George Washington**, Jefferson | Kaj se je z enim dolarjem takrat dalo kupiti? |
-| Čigav obraz je na penny-ju (centu)? | **Abraham Lincoln**, Washington, Franklin | Ali ste takrat prihranjene cente zbirali v kozarec? |
-| Kakšne barve je običajno šolski avtobus? | Rdeče, **rumene**, modre | Kako ste hodili v šolo? |
+| Pred hladilniki so v mnogih domovih hrano hladili v ... | **ledeni skrinji**, pečici, podstrešju | Kdo je dostavljal led? |
+| Kdo je prinašal mleko na vrata v steklenicah? | poštar, **mlekar**, raznašalec časopisov | Kaj še so dostavljali na dom? |
+| Kako ste zavrteli številko na telefonu z vrtljivim številčnikom? | s pritiskanjem gumbov, **z vrtenjem koluta**, z govorjenjem vanj | Povejte mi o telefonu pri vas doma |
+| Katero podjetje je izdelalo avto Model T? | **Ford**, Chevrolet, Buick | Povejte mi o avtu, ki vam je bil všeč |
+| Kje bi našli natakarja za sodo? | **pri točilnem pultu za sodo**, v pekarni, v banki | Kaj ste naročili ob pultu? |
+| Katera igrača je kovinska vzmet, ki lahko hodi po stopnicah? | jo-jo, **Slinky**, hula hoop | Katere igrače ste imeli najraje? |
+| Avtokino je bil kraj, kjer so gledali ... | **filme iz avta**, tekme, parade | S kom ste hodili tja? |
+| Čigav obraz je na bankovcu za en dolar? | Lincoln, **George Washington**, Jefferson | Kaj se je takrat dalo kupiti za en dolar? |
+| Čigav obraz je na kovancu za en cent? | **Abraham Lincoln**, Washington, Franklin | Ste takrat hranili cente v kozarcu? |
+| Kakšne barve je običajno šolski avtobus? | rdeče, **rumene**, modre | Kako ste hodili v šolo? |
 
 ## Prazniki, narava in kraji
 
-| Vprašanje | Izbire | O čem govoriti |
+| Vprašanje | Možnosti | Spodbuda za pogovor |
 | --- | --- | --- |
-| Kateri praznik je četrti četrtek v novembru? | Dan delavcev (Labor Day), **Thanksgiving (dan zahvale)**, spominski dan (Memorial Day) | Kaj je bilo vedno na vaši mizi? |
-| Buče z izrezanim obrazom (jack-o'-lanterns) so narejene za kateri praznik? | **noč čarovnic (Halloween)**, velika noč, božič | Povejte mi o noči čarovnic tam, kjer ste odraščali |
-| Fourth of July praznuje Deklaracijo o ... | pravicah, **neodvisnosti**, svobodi | Kje ste gledali ognjemete? |
-| Materinski dan je v katerem mesecu? | april, **maj**, junij | Kako je vaša družina praznovala? |
-| Koliko zvezd je na ameriški zastavi? | 48, **50**, 52 | Zastava je imela 48 zvezd do leta 1959. Oba odgovora sta dober spomin |
-| Kateri ocean je ob vzhodni obali? | Tihi, **Atlantski**, Severni ledeni | Ste kdaj šli na plažo? |
-| V katerem mestu je kip Svobode? | Boston, **New York**, Philadelphia | Ste bili v New Yorku? |
-| Kaj delajo čebele? | Mleko, **med**, svilo | Med na toastu ali v čaju? |
-| Kako imenujemo mladiča krave? | Žrebe, **tele**, kozliček | Ali ste kdaj živeli blizu kmetije? |
-| Katera visoka rumena roža je znana po tem, da se obrača proti soncu? | Vrtnica, **sončnica**, tulipan | Kaj je raslo na vašem vrtu? |
-| Koliko dni ima prestopno leto? | 365, **366**, 360 | Povejte mi o rojstnem dnevu, ki si ga dobro zapomnite |
-| Kateri letni čas pride po zimi? | Jesen, **pomlad**, poletje | Kateri letni čas imate najraje? |
+| Kateri praznik je na četrti četrtek v novembru? | Praznik dela, **zahvalni dan**, Spominski dan | Kaj je bilo vedno na vaši mizi? |
+| Iz česa izdelujejo buče z izrezljanimi obrazi za kateri praznik? | **noč čarovnic**, veliko noč, božič | Povejte mi o noči čarovnic, kjer ste odraščali |
+| Četrti julij praznuje Razglasitev ... | pravic, **neodvisnosti**, svobode | Kje ste gledali ognjemet? |
+| Materinski dan je v katerem mesecu? | aprilu, **maju**, juniju | Kako je vaša družina praznovala? |
+| Koliko zvezd je na ameriški zastavi? | 48, **50**, 52 | Zastava je imela 48 zvezd do leta 1959. Oba odgovora sta lep spomin |
+| Kateri ocean je na vzhodni obali? | Tihi, **Atlantski**, Arktični | Ste bili kdaj na morju? |
+| V katerem mestu je Kip svobode? | Boston, **New York**, Philadelphia | Ste bili kdaj v New Yorku? |
+| Kaj delajo čebele? | mleko, **med**, svilo | Med na toastu ali v čaju? |
+| Mladiču krave pravimo ... | žrebe, **tele**, kozliček | Ste kdaj živeli blizu kmetije? |
+| Katera visoka rumena roža je znana po tem, da se obrača proti soncu? | vrtnica, **sončnica**, tulipan | Kaj je raslo na vašem vrtu? |
+| Koliko dni ima prestopno leto? | 365, **366**, 360 | Povejte mi o rojstnem dnevu, ki se ga spominjate |
+| Kateri letni čas pride po zimi? | jesen, **pomlad**, poletje | Kateri letni čas vam je najljubši? |
 
-## Hrana in šport
+## Trivia o hrani in športu
 
-| Vprašanje | Izbire | O čem govoriti |
+| Vprašanje | Možnosti | Spodbuda za pogovor |
 | --- | --- | --- |
-| Rozine so posušeno ... | slive, **grozdje**, češnje | Ste rozine pakirali v malice? |
-| Suhe slive (prune) so posušene ... | **slive**, fige, jabolka | Kdo v vaši družini je imel rad suhe slive? |
-| Arašidovo maslo in ... | **džem**, sir, šunka | Hrustljavo ali gladko? |
-| Guacamole je narejen predvsem iz ... | grahu, **avokadov**, kumar | Katere namaze so bile na zabavah? |
-| Katera pita je priljubljena na Thanksgivingu? | **bučna**, limonina, češnjeva | Katero pito ste pekli? |
+| Rozine so posušeno ... | slive, **grozdje**, češnje | Ste dali rozine v malico? |
+| Suhe slive so posušene ... | **slive**, fige, jabolka | Kdo v vaši družini je imel rad suhe slive? |
+| Arašidovo maslo in ... | **marmelada**, sir, šunka | Hrustljavo ali gladko? |
+| Guacamole je večinoma narejen iz ... | graha, **avokada**, kumar |
+| Katera pita je priljubljena ob zahvalnem dnevu? | **bučna**, limonina, češnjeva | Katero pito ste pripravljali? |
 | Koliko igralcev ima bejzbolska ekipa na igrišču? | 7, **9**, 11 | Za katero ekipo ste navijali? |
-| Koliko udarcev pomeni izpad v bejzbolu? | Dva, **tri**, štiri | Ste kdaj igrali žogo? |
-| Babe Ruth je bil znan po katerem športu? | Boks, **bejzbol**, golf | Ste hodili na tekme? |
-| Koliko lukenj ima standardno igrišče za golf? | 9, **18**, 24 | Ste kdaj igrali golf ali mini golf? |
-| V katerem športu dosežete touchdown? | **Ameriški nogomet**, hokej, košarka | Kdo je pri vas doma gledal nogomet? |
+| Koliko udarcev pomeni izločitev v bejzbolu? | dva, **tri**, štirje | Ste kdaj igrali žogo? |
+| Babe Ruth je bil znan po katerem športu? | boksu, **bejzbolu**, golfu | Ste hodili na tekme? |
+| Koliko lukenj ima običajno igrišče za golf? | 9, **18**, 24 | Ste kdaj igrali golf ali mini golf? |
+| V katerem športu dosežete touchdown? | **ameriškem nogometu**, hokeju, košarki | Kdo je pri vas doma gledal ameriški nogomet? |
 
 ## Znani reki
 
-Dokončevanje reka se opira na jezik, ki so se ga naučili davno, in pogosto pride lahko. Naša igra [Dokončaj rek](/games/finish-the-saying/) jih ima še veliko, z tapom za prikaz katerega koli konca.
+Dopolnjevanje reka se opira na jezik, ki smo se ga naučili že davno, in pogosto pride z lahkoto. Naša igra [Dopolni rek](/games/finish-the-saying/) ponuja še veliko več primerov, z možnostjo, da se vsak zaključek pokaže z dotikom.
 
-| Rek | Izbire | O čem govoriti |
+| Rek | Možnosti | Spodbuda za pogovor |
 | --- | --- | --- |
-| Jabolko na dan ... | **zdravnika odžene**, dež odžene, mačka odžene | Kdo vam je to nekoč govoril? |
-| Zgodnja ptica ulovi ... | avtobus, **črva**, vlak | Ste jutranji tip? |
-| Ne štejte piščancev, preden ... | **se izležejo**, zaspijo, zapojejo | Ali je vaša družina imela kokoši? |
-| Prihranjen cent je ... cent | **zaslužen**, izgubljen, porabljen | Kdo je bil v vaši družini varčevalec? |
-| Dom je tam, kjer je ... | vrt, **srce**, kuhinja | Kaj naredi, da se kraj počuti kot dom? |
-| Bolje pozno kot ... | zgodaj, **nikoli**, z obžalovanjem | Kdo je bil vedno pozen? |
-| Vsak oblak ima srebrn ... | **rob**, žlico, kovanec | Povejte mi o srečnem naključju |
-| Dejanja govorijo glasneje kot ... | **besede**, glasba, grom | Povejte mi o nekomu, ki je to rekel |
+| Jabolko na dan odžene ... | **zdravnika stran**, dež stran, mačko stran | Kdo vam je to pogosto rekel? |
+| Zgodnja ptica ujame ... | avtobus, **črva**, vlak | Ste jutranji človek? |
+| Ne štejte piščancev, preden se ... | **izvalijo**, spejo, zapojejo | Ste imeli doma kokoši? |
+| Prihranjen cent je zaslužen ... | **cent**, izgubljen cent, zapravljen cent | Kdo je bil pri vas doma varčen? |
+| Dom je tam, kjer je ... | vrt, **srce**, kuhinja | Kaj naredi kraj podoben domu? |
+| Bolje pozno kot ... | zgodaj, **nikoli**, žal | Kdo je bil vedno pozen? |
+| Vsak oblak ima srebrn ... | **rob**, žlico, kovanec | Povejte mi o srečni priložnosti |
+| Dejanja govorijo glasneje kot ... | **besede**, glasba, grom | Povejte mi o nekom, ki je to rekel |
 
-## Vprašanja „ta ali oni“ brez napačnega odgovora
+## Vprašanja »to ali ono« brez napačnega odgovora
 
-Ta vprašanja ustrezajo vsaki stopnji, tudi poznejši, ker ni ničesar, kar bi bilo treba narediti prav. Vprašajte, prisluhnite in povejte tudi svoj odgovor.
+Ta vprašanja so primerna za vsa obdobja, tudi poznejša, saj ni ničesar, kar bi bilo treba uganiti pravilno. Vprašajte, poslušajte in delite tudi svoj odgovor.
 
 - Kava ali čaj?
-- Plaža ali gore?
+- Morje ali gore?
 - Psi ali mačke?
 - Poletje ali zima?
 - Pita ali torta?
-- Ples ali gledanje?
-- Sončni vzhod ali zahod?
-- Sprednji ganek ali dvorišče za hišo?
+- Ples ali opazovanje?
+- Sončni vzhod ali sončni zahod?
+- Veranda spredaj ali dvorišče zadaj?
 - Radio ali plošče?
 - Palačinke ali jajca?
 - Vrtnice ali marjetice?
-- Vlak ali potovanje z avtom?
+- Potovanje z vlakom ali potovanje z avtom?
 
-Za pogovorna izhodišča s slikami poskusite natisljive [kartice za pogovor](/games/conversation-cards/).
+Za spodbudne kartice za pogovor s slikami preizkusite naše [Kartice za pogovor](/games/conversation-cards/) za tisk.
 
-## Kako voditi srečanje z zanimivostjo v domu za oskrbo ali skupini?
+## Kako voditi trivia srečanje v domu za ostarele ali skupini?
 
-1. **Posedite ljudi tako, da vidijo in slišijo.** Slušni aparati vstavljeni, očala na nosu, televizor izklopljen.
-2. **Predstavite jo kot klepet.** „Imam nekaj vprašanj o starih časih, sigurno veste več kot jaz.“
-3. **Vsako vprašanje preberite dvakrat in izbire pokažite v velikem tisku.**
-4. **Sprejmite odgovore od kjerkoli v sobi.** Dobre odgovore ponovite, da jih vsi slišijo.
-5. **Odgovor povejte za vse,** nato skupini postavite vprašanje za pogovor.
-6. **Sledite energiji.** Če eno vprašanje sproži deset minut zgodb, pustite tako.
-7. **Zaključite s pesmijo ali krogom „ta ali oni“,** da vsi končajo z nečim lahkim.
+1. **Poskrbite, da ljudje vidijo in slišijo.** Slušni pripomočki nameščeni, očala na očeh, televizija izklopljena.
+2. **Predstavite dejavnost kot klepet.** »Imam nekaj vprašanj o starih časih in stavim, da veste več kot jaz.«
+3. **Vsako vprašanje preberite dvakrat in možnosti pokažite veliko.**
+4. **Sprejmite odgovore od kjer koli v prostoru.** Dobre odgovore ponovite, da jih slišijo vsi.
+5. **Odgovor povejte vsem,** nato pa postavite spodbudo za pogovor celotni skupini.
+6. **Sledite razpoloženju.** Če eno vprašanje sproži deset minut zgodb, naj bo tako.
+7. **Končajte s pesmijo ali krogom vprašanj »to ali ono«,** da vsi zaključijo z nečim enostavnim.
 
-Za druge oblike skupinskih dejavnosti, vključno z bingom s slikami in skupnim petjem, glejte [skupinske dejavnosti za domove za oskrbo](/activities/care-home-groups/).
+Za druge oblike skupinskih dejavnosti, vključno s slikovnim bingom in skupnim petjem, si oglejte [skupinske dejavnosti za domove za ostarele](/activities/care-home-groups/).
 
-## Kdaj spremeniti načrt?
+## Kdaj spremeniti načrt
 
-Če je nekdo videti zaskrbljen, utihne ali večkrat reče „Ne vem“, naj bo lažje: preklopite na dve izbiri, odgovarjajte skupaj ali preklopite na vprašanja „ta ali oni“. Če bi skupina cel popoldan rada govorila o enem vprašanju, je to uspeh. Cilj nikoli niso bili pravilni odgovori. Cilj je bil čas v dobri družbi.
+Če se kdo zdi zaskrbljen, utihne ali več kot enkrat reče »ne vem«, naj bo lažje: zmanjšajte na dve možnosti, odgovarjajte skupaj ali preidite na vprašanja »to ali ono«. Če bi se skupina raje cel popoldan pogovarjala o enem samem vprašanju, je to uspeh. Cilj nikoli niso bili pravilni odgovori. Cilj je bil čas v dobri družbi.

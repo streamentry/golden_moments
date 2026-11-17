@@ -1,33 +1,33 @@
 ---
-title: "Virksemi við tíðliga demens: Hugskot til arbeiðsaldur"
-seoTitle: "Virksemi við tíðliga demens: Hugskot"
-description: "Virksemi við tíðliga byrjað demens, tá eyðkenni byrja áðrenn 65: áhugamál, túrar, tónleikur frá ungdóminum og stuðul til makar og vaksin børn."
+title: "Virksemi við demens í ungum árum: Hugskot"
+seoTitle: "Virksemi við demens í ungum árum: Hugskot"
+description: "Virksemi við demens í ungum árum, tá eyðkenni byrja áðrenn 65 ára aldur: frítíðarítriv, túrar, tónleikur frá ungdómsárunum og stuðul til makarar og vaksin børn."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Tíðliga byrjað demens byrjar áðrenn 65 ára aldur, ofta meðan persónurin enn
-  arbeiðir, koyrir bil ella uppalar børn. Halt fram við áhugamálum og
-  vinabondum, vel túrar, sum kenna hansara egin, brúka tónleik og myndir frá
-  hansara egnu árum, og lat hann ráða yvir ætlanunum. Makar og vaksin børn, sum
-  røka um hann, hava eisini tørv á stuðli, og Alzheimer's Association bjóðar
-  bólkar til tey.
+  Demens í ungum árum byrjar áðrenn 65 ára aldur, ofta meðan persónurin enn
+  arbeiðir, koyrir bil ella uppalar børn. Halt fram við frítíðarítrivum og
+  vinaløgum, vel túrar, ið kenna sítt egnu, brúka tónleik og myndir frá teimum
+  egnu árunum, og lat persónin framvegis ráða fyri ætlanum. Makarar og vaksin
+  børn hava eisini tørv á stuðli, og Alzheimer's Association hevur bólkar til
+  tey.
 keyPoints:
-  - "Tíðliga byrjað demens byrjar áðrenn 65. Fólk kenna ofta, at aldurin teirra ikki passar til tað virksemið, sum verður bjóðað."
-  - "Lat persónin, tú røkir um, sjálvan velja, frá hvørjum áhugamáli hann roynir til hvønn túr hann leggur til rættis."
-  - "Tónleikur, myndir og søgur frá 20-, 30-, 40- og 50-árunum hjá honum eru ofta meira týdningarmiklar enn virksemi frá seinni lívi."
-  - "Verð verkin og sosial, tá hann hevur hug, og tillaga ferðina heldur enn at skipa virksemið út."
-  - "Teir, sum røka, serliga makar og vaksin børn, hava gagn av at finna stuðul hjá øðrum í somu støðu."
+  - "Demens í ungum árum byrjar áðrenn 65 ára aldur. Fólk kenna ofta, at aldurin ikki passar til virkseminið, ið verður bjóðað."
+  - "Lat persónin ráða fyri valunum, frá hvørjum frítíðarítrivi skal roynast til hvønn túr skal leggjast."
+  - "Tónleikur, myndir og søgur frá tjúguárunum til hálvtrýssárunum eru ofta meira týdningarmiklar enn virksemi frá seinni lívsárum."
+  - "Ver virkin og sosial, tá persónurin hevur hug, og tillaga ferðina heldur enn at skifta virksemið út."
+  - "Tey, sum hava umsorganina, serliga makarar og vaksin børn, fáa gagn av stuðulsbólkum við javnaldrum."
 faq:
-  - q: "Hvat er tíðliga byrjað demens?"
-    a: "Tað er demens, sum byrjar áðrenn 65 ára aldur. Alzheimer's Association viðmerkir, at Alzheimer verður roknað sum yngri-byrjað, tá tað rakar onkran undir 65 árum. Tíðliga byrjað demens er minni vanligt enn demens, sum byrjar seinni, men tað er ikki sjáldsamt. Upplivingin er ofta øðrvísi: persónurin kann enn arbeiða, koyra bil og vera foreldur."
-  - q: "Hvat slag av virksemi hóskar til onkran við tíðliga byrjað demens?"
-    a: "Virksemi, sum passar til vaksnamannalívið hjá honum, virkar best: eitt kent áhugamál, ein túrur við einum vini, eitt sjálvboðið arbeiði, eitt matgerðartiltak til familjuna, tónleikur frá hansara egnu ungdómi ella ein túrur til eitt stað, hann heldur av. Lat hann velja, og tillaga hvussu leingi tað varir og hvussu nógv fólk eru við, heldur enn at broyta sjálvt virksemið."
-  - q: "Hvar kunnu ein maki ella vaksin børn finna stuðul?"
-    a: "Alzheimer's Association bjóðar ókeypis stuðulsbólkar til tey, sum røka, eisini bólkar til tey, sum røka um onkran við yngri-byrjað demens. Tú kanst ringja til 24/7 hjálpilinjuna hjá teimum á 800.272.3900 fyri at spyrja um bólkar og tilfeingi."
-  - q: "Skal ein persónur við tíðliga byrjað demens framvegis gera tað, sum hann hevur hug at gera?"
-    a: "Ja, so leingi tað er trygt og hann sjálvur vil. Áhugamál, trúarsamfeløg, rørslulív og sosial tíð eru øll partur av einum ríkum lívi. Tillaga umstøðurnar, hav ein fylgjar við og legg hvíld inn, og steðga, tá virksemið ikki longur kennist gott."
+  - q: "Hvat er demens í ungum árum?"
+    a: "Tað er demens, ið byrjar áðrenn 65 ára aldur. Alzheimer's Association viðmerkir, at Alzheimer verður roknað sum demens hjá yngri fólki, tá tað raka onkran undir 65 árum. Demens í ungum árum er minni vanlig enn demens seinni í lívinum, men tað er ikki sjáldsamt, og upplivingin er ofta øðrvísi: persónurin kann enn arbeiða, koyra bil og vera foreldur."
+  - q: "Hvat virksemi hóskar til ein persón við demens í ungum árum?"
+    a: "Virksemi, ið passar til vaksnamannalívið, riggar best: eitt kent frítíðarítriv, ein túr við einum vini, ein sjálvbodin vakt, eitt matgerðartiltak til familjuna, tónleikur frá egnu ungdómsárunum ella ein túr til eitt stað, sum viðkomandi hevur nógv fyri. Lat persónin velja, og tillaga longdina og felagið heldur enn sjálvt virksemið."
+  - q: "Hvar kann ein maki ella eitt vaksið barn finna stuðul?"
+    a: "Alzheimer's Association bjóðar ókeypis stuðulsbólkar til tey, sum hava umsorganina, eisini bólkar til tey, sum hava umsorgan fyri onkrum við demens í ungum árum. Tú kanst ringja til teirra hjálparlinju, sum er opin allan samdøgrið, á 800.272.3900 fyri at spyrja um bólkar og tilfar."
+  - q: "Eigur ein persónur við demens í ungum árum framvegis at gera tað, sum viðkomandi dámar?"
+    a: "Ja, so leingi tað er trygt, og viðkomandi hevur hug. Frítíðarítriv, trúarsamfeløg, rørslulív og sosial tíð eru øll partar av einum ríkum lívi. Tillaga umstøðurnar, fá ein at fylgjast við, legg fyri hvíld, og steðga, tá virksemið ikki longur kennist gott."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -46,45 +46,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Tær flestu upplýsingar um demens ganga út frá, at persónurin er í sjeyti- ella áttatiárunum. Hjá einum, sum fær greiningina í fjøruti- ella hálvtrýsárunum, sær gerandisdagurin øðrvísi út. Hann kann enn hava arbeiði, húsalán, tannáringar heima ella ein foreldur at hjálpa. Virksemi eiga at taka atlit at hesum vaksnamannalívi. Henda vegleiðing greiðir frá, hvat broytist, hvat tú kanst royna, og hvar makar og vaksin børn kunnu finna stuðul.
+Tær flestu kunningarnar um demens ganga út frá, at persónurin er í sjeytiárunum ella áttatiárunum. Hjá einum persóni, sum fær staðfesting í fjørutiárunum ella hálvtrýsárunum, er gerandisdagurin øðrvísi. Viðkomandi kann enn hava eitt arbeiði, eitt húsalán, tannáringar heima ella ein foreldur at taka sær av. Virksemi eiga at taka atlit at hesum vaksnamannalívinum. Hetta vegleiðingin greiðir frá, hvat broytist, hvat tú kanst royna, og hvar makarar og vaksin børn kunnu finna stuðul.
 
-## Hvat er tíðliga byrjað demens?
+## Hvat er demens í ungum árum?
 
-Tíðliga byrjað demens er demens, sum byrjar áðrenn 65 ára aldur, og tað verður stundum nevnt yngri-byrjað demens. [Bloggurin hjá Alzheimer's Association](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) lýsir Alzheimer sum yngri-byrjað, tá tað rakar ein persón undir 65 árum, og viðmerkir, at tað at røka um onkran so ungan „ber við sær serligar avbjóðingar“. Eyðkennini kunnu vera tey somu sum seinni í lívinum, men væntanirnar, ábyrgdin og sosiala lívið hjá persóninum eru ikki tey somu.
+Demens í ungum árum er demens, ið byrjar áðrenn 65 ára aldur, og tað verður stundum eisini nevnt demens hjá yngri fólki. [Bloggurin hjá Alzheimer's Association](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) lýsir Alzheimer sum demens hjá yngri fólki, tá tað raka ein persón undir 65 árum, og viðmerkir, at tað at hava umsorgan fyri onkran so ungan „ber við sær serligar avbjóðingar“. Eyðkennini kunnu vera tey somu sum seinni í lívinum, men væntanir, ábyrgdir og sosialt lív hjá persóninum eru ikki tey somu.
 
-Av tí at tað er minni vanligt, kunnu fólk bíða longri eftir eini greining, og familjur kunnu kenna seg einsamalla. At vita, at onnur kenna tað sama, kann ofta kenna lættandi.
+Av tí at tað er minni vanligt, kann tað taka longri tíð at fáa eina staðfesting, og familjur kunnu kenna seg einsamallar. Tað kann ofta kenna lettandi at vita, at onnur hava somu uppliving.
 
 ## Lat tann vaksna vera við í virkseminum
 
-Vaksin fólk við tíðliga byrjað demens vilja vanliga ikki verða viðfarin sum børn. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mælir til at tillaga virksemi til tað, sum persónurin enn megnar og hevur hug at gera. Hjá einum í hálvtrýsárunum kann tað merkja:
+Vaksin fólk við demens í ungum árum vilja vanliga ikki verða viðfarin sum børn. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mælir til at tillaga virksemi til tað, sum persónurin framvegis megnar og hevur gleði av. Hjá einum persóni í hálvtrýsárunum kann tað merkja:
 
-- **Halt fram við einum kentum áhugamáli,** so sum træarbeiði, ítrótti, kortspæli, lesibólki ella kóri, við eitt sindur av hjálp ella eini styttri løtu.
-- **Gakk ella súkkla við einum fylgjar,** á eini leið, sum hann kennir væl.
-- **Gerða eina familjumáltíð,** har persónurin ger tær partarnar, hann megnar.
-- **Sjálvboðið arbeiði ella hjálp** í einum leikluti, hann sjálvur velur, til dømis at skilja gávur ella hjálpa á einum skúlatilfari.
-- **Legg ein túr til rættis** til eitt stað, sum hevur týdning fyri hann, við einum fylgjar og eini einfaldi ætlan.
-- **Ver saman við barnabørnum, systkinabørnum ella bróður- og systurbørnum,** og deil eitt spæl ella eitt verkætlan.
+- **Halt fram við einum kentum frítíðarítrivi,** so sum træarbeiði, ítrótti, kortspæli, lesibólki ella kóri, við ein lítlan smávegis hjálp ella eini styttri løtu.
+- **Gakk ella súkkla við einum, ið fylgist við,** á eini leið, sum viðkomandi kennir væl.
+- **Gerða ein familjumat,** har persónurin ger teir partarnar, sum viðkomandi megnar.
+- **Sjálvboðið arbeiði ella hjálp** í einum starvi, sum viðkomandi sjálvur velur, til dømis at sortera gávur ella hjálpa á einum skúlatilhaldi.
+- **Legg fyri eini ferð** til eitt stað, sum hevur týdning fyri viðkomandi, við einum, ið fylgist við, og eini einfaldaðari ætlan.
+- **Ver saman við barnabørnum, systkinabørnum ella bróður- ella systurbørnum,** og deil eitt spæl ella eitt verkætlan.
 
-Lat persónin velja. At spyrja „Hvat hevur tú hug at gera í seinnapartin?“ er meira virðiligt enn at velja fyri hann.
+Lat persónin velja. At spyrja „Hvat hevði tú hug at gjørt í eftirmiddag?“ er meira virðiligt enn at velja fyri viðkomandi.
 
-## Brúka tónleik og minnir frá hansara egnu árum
+## Brúka tónleik og minni frá teirra egnu árum
 
-Tónleikur og myndir frá 20-, 30- og 40-árunum hjá einum persóni kunnu vekja góðar kenslur og lættan práta. Vegleiðingin okkara um [tónleikavirksemi](/activities/music/) greiðir frá, hvussu tú setur ein tónleikalista saman, og [minnisvirksemi](/activities/reminiscence/) vísa, hvussu tit kunnu deila myndir og søgur uttan at spyrja út sum á roynd. Til eitt meira vaksnamanna spæl kanst tú royna [samrøðukort](/games/conversation-cards/) við opnum spurningum um arbeiði, ferðalív, vinir og familju.
+Tónleikur og myndir frá tjúguárunum, trítíárunum og fjørutiárunum hjá einum persóni kunnu vekja góðar kenslur og lætta samtalu. Vegleiðingin okkara um [tónleiksvirksemi](/activities/music/) greiðir frá, hvussu tú gert ein spælilista, og [minnisvirksemi](/activities/reminiscence/) vísa, hvussu tit kunnu deila myndir og søgur uttan at spyrja út. Til eitt meira vaksnamanna spæl kanst tú royna [samtalukort](/games/conversation-cards/) við opnum spurningum um arbeiði, ferðir, vinir og familju.
 
-Myndapør úr familjumyndum kunnu eisini virka væl, tí myndirnar vísa fólk og støð, sum hava týdning fyri persónin. [Myndapør](/games/photo-pairs/) letur myndirnar vera í kaganum á tí eindini.
+Myndapør við familjumyndum kunnu eisini rigga væl, tí myndirnar vísa fólk og støð, sum hava týdning fyri persónin. [Myndapør](/games/photo-pairs/) heldur myndirnar í kaganum á hesari eindini.
 
 ## Arbeiði, bilkoyring og gerandisdagur
 
-Nógv fólk við tíðliga byrjað demens arbeiða enn, koyra bil ella umsita pening. Hetta er ikki virksemi í vanligari merking, men tað ávirkar, hvat persónurin megnar. Tos við læknan hjá honum um trygd í sambandi við bilkoyring og arbeiði, and umhugsa, um hann vil hava hjálp við fíggjarviðurskiftum ella avtalum. Málið er at verja virðingina og samstundis lata persónin vera við, so mikið sum hann sjálvur vil.
+Nógv fólk við demens í ungum árum arbeiða, koyra bil ella umsita pening enn. Hetta er ikki virksemi í vanligum týdningi, men tað ávirkar, hvat persónurin megnar. Tos við læknan hjá viðkomandi um trygd í sambandi við bilkoyring og arbeiði, og umhugsa, um viðkomandi ynskir hjálp við fíggjarviðurskiftum ella tímum. Endamálið er at verja virðingina og samstundis lata persónin vera so mikið við, sum viðkomandi sjálvur ynskir.
 
-Fyri vegleiðing um dagligar vanar og at vera verkin, sí [ein blíður gerandisdagur](/activities/daily-routine/) og [húsarhaldsuppgávur sum virksemi](/activities/household-tasks/).
+Fyri vegleiðing um dagligar vanar og at vera virkin, sí [ein blíður gerandisdagur](/activities/daily-routine/) og [húsarhald sum virksemi](/activities/household-tasks/).
 
-## Stuðul til makar og vaksin børn
+## Stuðul til makarar og vaksin børn
 
-Makar og vaksin børn kenna seg ofta einsamøll. At røka um onkran kann kennast sum eitt eyka arbeiði afturat arbeiði og familju. Bloggposturin hjá Alzheimer's Association greiðir frá, at tey, sum røkja, í bólkum fyri yngri-byrjað demens høvdu gagn av teimum, bæði til praktiskar spurningar sum løgfrøðiliga skipan og til einfalt at kenna seg skilt. Har verður eisini nevnt, at felagið rekur ókeypis stuðulsbólkar til tey, sum røka, eisini bólkar til tey, sum røka um onkran við yngri-byrjað demens, og tríggir av teimum hittast á netinum týsdagar og mikudagar.
+Makarar og vaksin børn kenna seg ofta einsamøll. At hava umsorganina kann kenna sum eitt arbeiði afturat arbeiði og familjulívi. Bloggurin hjá Alzheimer's Association sigur frá, at tey, sum høvdu umsorganina, í bólkum fyri demens hjá yngri fólki fingu gagn av teimum í sambandi við verkligar spurningar sum lógarreglur, og av bara at kenna seg skilt. Har verður eisini nevnt, at felagið hevur ókeypis stuðulsbólkar til tey, sum hava umsorganina, eisini bólkar til tey, sum hava umsorgan fyri onkrum við demens í ungum árum, og tríggir teirra møtast á netinum týsdagar og mikudagar.
 
-Fyri at spyrja um bólkar kanst tú ringja til 24/7 hjálpilinjuna hjá felagnum á 800.272.3900. Vegleiðingin okkara um [egnumrøkt hjá teimum, sum røka](/caregiving/caregiver-self-care/) fevnir um hvíld, avloysing og tekin um útbrenslu.
+Fyri at spyrja um bólkar kanst tú ringja til hjálparlinjuna hjá felagnum, sum er opin allan samdøgrið, á 800.272.3900. Vegleiðingin okkara um [egnumstøðu hjá teimum, sum hava umsorganina](/caregiving/caregiver-self-care/) fevnir um hvíld, avloysing og tekin um at vera ov trýtt.
 
 ## Stigini hava framvegis týdning
 
-Stigið á demensinum hjá persóninum ávirkar framvegis, hvat hjálpir. Í byrjanini megna tey flestu síni vanliga virksemi við nøkrum broytingum, og vegleiðingin okkara um [virksemi í fyrsta stigi](/activities/early-stage/) hevur fleiri hugskot. Seinni gerst virksemið einfaldari og meira kensluligt, sum lýst í [virksemi í seinna stigi](/activities/late-stage/). Broyt virksemið, so hvørt sum persónurin broytist, og spyr hann, hvat hann vil, tá ið hann megnar at siga frá.
+Stigið á demensinum hjá persóninum ávirkar framvegis, hvat hjálpir. Í byrjanini megna tey flestu síni vanligu virksemi við nøkrum broytingum, og vegleiðingin okkara um [virksemi á tíðligum stigi](/activities/early-stage/) hevur fleiri hugskot. Seinni gerast virksemi einfaldari og meira sansalig, sum lýst í [virksemi á seinna stigi](/activities/late-stage/). Broyt virksemið, so hvørt sum persónurin broytist, og spyr viðkomandi, hvat hann ella hon ynskir, tá tað ber til.

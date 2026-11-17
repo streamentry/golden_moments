@@ -1,36 +1,37 @@
 ---
-title: "Demensiyalı şəxs durmadan evə getmək istəyəndə"
-seoTitle: "Demensiya: evə getmək istəyir, nə deməli?"
-description: "Demensiya ilə yaşayan şəxs evdə olsa da niyə evə getmək istəyir, nə deməli, sakitləşdirən fəaliyyətlər və çıxmağa çalışarsa onu necə qorumaq olar."
+title: "Demensiya ilə yaşayan şəxs evə getmək istəyəndə"
+seoTitle: "Demensiya: evə getmək istəyi və nə demək olar"
+description: "Demensiya ilə yaşayan şəxs evdə olsa belə niyə evə getmək istədiyini, nə deməyin kömək edə biləcəyini, sakitləşdirici fəaliyyətləri və təhlükəsizliyi öyrənin."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Demensiyalı şəxs durmadan evə getmək istəyəndə “ev” çox vaxt bina deyil,
-  təhlükəsizlik hissi və ya keçmişdən bir yer deməkdir. Onunla evdə olduğunu
-  sübut etməyə çalışmayın. Hissini qəbul edin, təhlükəsiz olduğunu deyin, evi
-  haqqında soruşun, sonra yumşaqlıqla şəkillərə, musiqiyə, bir qəlyanaltıya,
-  gəzintiyə və ya sadə bir işə yönəldin. Aclıq, susuzluq, tualet və ya ağrı
-  olub-olmadığına baxın. Bu qəfil başlayıbsa, onun həkiminə zəng edin.
+  Demensiya ilə yaşayan bir şəxs evə getmək istədiyini təkrar etdikdə, “ev”
+  çox vaxt bir bina deyil, təhlükəsizlik hissi və ya keçmişdəki bir yer demək
+  ola bilər. Onların artıq evdə olduğunu sübut etməyə çalışmayın. Hissini qəbul
+  edin, təhlükəsiz olduqlarını bildirin, ev haqqında soruşun, sonra yumşaq
+  şəkildə şəkillərə, musiqiyə, qəlyanaltıya, gəzintiyə və ya sadə bir işə keçin.
+  Aclıq, susuzluq, tualet ehtiyacı və ya ağrı olub-olmadığını yoxlayın. Bu hal
+  birdən başlayıbsa, həkimlərinə zəng edin.
 keyPoints:
-  - "“Evə getmək istəyirəm” çox vaxt “özümü təhlükəsiz və rahat hiss etmirəm” deməkdir, ünvan istəmək deyil."
-  - "Mübahisə etmək və ya evdə olduğunu sübut etmək adətən narahatlığı artırır. Sözə yox, hissə cavab verin."
-  - "Evi haqqında danışmağı xahiş edin, sonra şəkillər, musiqi, bir qəlyanaltı, gəzinti və ya sadə bir iş təklif edin."
-  - "Düzəldilə bilən bir səbəbə baxın: aclıq, susuzluq, tualet, ağrı, çox isti və ya soyuq, səs-küy, yorğunluq."
-  - "Bu hər gün günortadan sonra baş verirsə, axşam narahatlığı ola bilər. Sabit gündəlik rejim və yaxşı işıq kömək edə bilər."
-  - "Çıxmağa çalışarsa, təhlükəsizlik üçün əvvəlcədən plan qurun və hər hansı qəfil dəyişiklik barədə həkimə zəng edin."
+  - "\"Evə getmək istəyirəm\" sözləri çox vaxt ünvan istəyi deyil, \"özümü təhlükəsiz və rahat hiss etmirəm\" mənasını verə bilər."
+  - "Mübahisə etmək və ya artıq evdə olduqlarını sübut etməyə çalışmaq narahatlığı adətən daha da artırır. Bunun əvəzinə hissə cavab verin."
+  - "Onlardan ev haqqında danışmağı xahiş edin, sonra şəkillər, musiqi, qəlyanaltı, gəzinti və ya sadə bir iş təklif edin."
+  - "Asanlıqla həll edilə bilən bir səbəb axtarın: aclıq, susuzluq, tualet ehtiyacı, ağrı, çox isti və ya çox soyuq olmaq, səs-küy, yorğunluq."
+  - "Bu hal hər gün günortadan sonra təkrar olunursa, axşam çaşqınlığı ilə bağlı ola bilər; sabit gündəlik qayda və yaxşı işıq kömək edə bilər."
+  - "Evdən çıxmağa cəhd etsələr, təhlükəsizlik üçün əvvəlcədən plan qurun və hər hansı qəfil dəyişiklik barədə həkimlərinə zəng edin."
 faq:
-  - q: "Demensiyalı anam evdə olduğu halda niyə durmadan evə getmək istəyir?"
-    a: "Demensiya tanış otaqları yad göstərə bilər, insanlar da bəzən həyatın daha əvvəlki dövründə olduqlarını hiss edirlər. “Ev” uşaqlıq evi və ya sadəcə təhlükəsiz və rahat olmaq hissi demək ola bilər. Harada olduğunu göstərmək əvəzinə bu hissə cavab vermək adətən daha yaxşı işləyir."
-  - q: "Evə getmək istəyəndə nə deməliyəm?"
-    a: "“Burada təhlükəsizsiniz və mən yanınızdayam” deməyə çalışın, sonra “Evinizdən danışın mənə” deyin. Dinləyin, bir şəkil və ya mahnı paylaşın, bir içki və ya qısa gəzinti təklif edin. “Siz evdəsiniz” sözünü düzəliş kimi deməyin, çünki bu, səhv etdiyini söyləmək kimi hiss oluna bilər."
-  - q: "Sonra evə gedəcəyik demək olarmı?"
-    a: "Bu barədə ailələrin və demensiya təşkilatlarının fikri müxtəlifdir. Çoxları dürüst təsəlli və diqqəti yönəltmə ilə başlayır, mülayim yalanı isə həqiqətin yalnız şəxsin öhdəsindən gələ bilməyəcəyi narahatlıq yaratacağı anlar üçün saxlayır. Nəyi seçsəniz, mehriban və ardıcıl olun və onun öz reallığını heç vaxt ələ salmayın."
-  - q: "Evdən çıxmağa çalışarsa nə etməli?"
-    a: "Sakit qalın və onu saxlamaq əvəzinə onunla birlikdə gəzin. Qısa gəzinti çox vaxt bu istəyi yatırır. Təhlükəsizlik tədbirlərini əvvəlcədən görün: şəxsiyyət bilərziyi, qapı zəngi və yaxın tarixli şəkil. İtib-azsa, dərhal axtarmağa başlayın və 15 dəqiqə ərzində tapa bilməsəniz, yerli təcili yardım nömrəsinə (Azərbaycanda 112) zəng edib şəxsin demensiyası olduğunu deyin."
-  - q: "Həkimə nə vaxt zəng etməliyəm?"
-    a: "Evə getmək istəyi və ya çaşqınlıq qəfil başlayarsa və ya saatlar və ya günlər ərzində xeyli pisləşərsə, onun həkiminə tez zəng edin, xüsusilə yanında hərarət, yeni dərman və ya sidik yollarının infeksiyası əlamətləri varsa. Qəfil çaşqınlıq deliriya ola bilər və təcili yardım tələb edir. Kimsə təhlükədədirsə, təcili yardım nömrəsinə (Azərbaycanda 112) zəng edin."
+  - q: "Demensiya ilə yaşayan anam evdə olduğu halda niyə evə getmək istədiyini deyir?"
+    a: "Demensiya tanış otaqları yad hiss etdirə bilər və bəzən insanlar həyatlarının daha əvvəlki bir dövründə olduqlarını düşünə bilərlər. “Ev” uşaqlıq evi və ya sadəcə təhlükəsiz və rahat hiss etmək mənasını verə bilər. Bu hissə cavab vermək, adətən, onun harada olduğunu izah etməkdən daha yaxşı nəticə verir."
+  - q: "Evə getmək istədikdə nə deməliyəm?"
+    a: "“Burada təhlükəsizsiniz və mən yanınızdayam” deyə, sonra “Eviniz haqqında mənə danışın” deyə bilərsiniz. Dinləyin, bir şəkil və ya mahnı paylaşın, içki və ya qısa gəzinti təklif edin. “Sən evdəsən” sözlərini düzəliş kimi deməkdən çəkinin; bu, yanlış düşündüklərinin onlara söylənilməsi kimi qəbul edilə bilər."
+  - q: "“Sonra evə gedəcəyik” demək düzgündürmü?"
+    a: "Ailələrin və demensiya təşkilatlarının bu mövzuda fikirləri fərqlənir. Bir çoxları əvvəlcə səmimi rahatlıq və diqqəti yumşaq şəkildə yönləndirməyi seçir, həqiqətin yalnız şəxsin öhdəsindən gələ bilməyəcəyi bir narahatlıq yaradacağı anlar üçün isə yumşaq bir doğru olmayan cavabı saxlayır. Hansını seçsəniz də, nəzakətli və ardıcıl olun və onların gerçəklik hissi ilə heç vaxt ələ salmayın."
+  - q: "Evdən çıxmağa cəhd etsələr nə etməliyəm?"
+    a: "Sakit qalın və qarşısını kəsmək əvəzinə onunla birlikdə addımlayın; qısa gəzinti çox vaxt bu istəyi azalda bilir. Şəxsiyyət bileziyi, qapı zəngi və son çəkilmiş şəkil kimi təhlükəsizlik tədbirlərini əvvəlcədən hazırlayın. Şəxs itibsə, yerli polis və ya təcili yardım xidmətləri ilə dərhal əlaqə saxlayarkən yaxınlıqdakı təhlükəsiz yerləri yoxlayın. Bildirməzdən əvvəl müəyyən sayda dəqiqə gözləməyin."
+  - q: "Nə vaxt həkimə zəng etməliyəm?"
+    a: "Evə getmək istəyi və ya çaşqınlıq birdən başlayıbsa və ya saatlar, günlər ərzində xeyli pisləşibsə, xüsusilə qızdırma, yeni dərman və ya sidik yolları infeksiyası əlamətləri varsa, dərhal həkimlərinə zəng edin. Qəfil çaşqınlıq deliryum ola bilər və bu, təcili yardım tələb edir. Kimsə təhlükədədirsə, təcili yardım xidmətlərinə zəng edin."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-“Evə getmək istəyirəm.” Bir çox ailə üçün bu, eşitməsi ən çətin sözlərdən biridir, xüsusilə qayğı göstərdiyiniz şəxs öz qonaq otağında oturanda. Bu hal tez-tez olur, demensiyanın istənilən mərhələsində baş verə bilər və cavab vermək üçün sakit, praktik yollar var. Bu səhifədə sözlərin çox vaxt nə demək olduğu, nə deməli, həmin anda kömək edə biləcək fəaliyyətlər və təhlükəsizliyi necə qorumaq lazım olduğu izah olunur.
+«Evə getmək istəyirəm.» Bir çox ailə üçün bunu eşitmək, xüsusilə qayğı göstərdiyiniz şəxs öz oturma otağında oturanda, ən çətin anlardan biri ola bilər. Bu, tez-tez rast gəlinən haldır, demensiyanın istənilən mərhələsində baş verə bilər və buna sakit, praktik yollarla cavab vermək mümkündür. Bu səhifədə bu sözlərin çox vaxt nə ifadə etdiyi, nə deməyin yaxşı olduğu, o anda kömək edə biləcək fəaliyyətlər və təhlükəsizliyi necə qorumaq izah olunur.
 
-## Demensiyalı şəxs niyə durmadan evə getmək istəyir?
+## Demensiya ilə yaşayan bir şəxs niyə davamlı evə getmək istəyir?
 
-Adətən “ev” yerdən çox bir hissdir. Alzheimer’s Society bunu evin özü deyil, rahatlıq və təhlükəsizlik hissi və ya keçmişdən bir ev kimi təsvir edir. Demensiya tanış otaqları yad göstərə bilər və şəxs özünü həyatın daha əvvəlki dövründə hiss edə bilər, o vaxt ev uşaqlıq evi və ya uşaqlarını böyütdüyü yer idi.
+Adətən «ev» bir yerdən çox, bir hiss deməkdir. Alzheimer’s Society bunu evin özü deyil, rahatlıq və təhlükəsizlik hissi və ya keçmişdəki bir ev kimi təsvir edir. Demensiya tanış otaqları yad göstərə bilər və şəxs həyatının daha əvvəlki bir dövründə, məsələn, uşaqlıq evində və ya övladlarını böyütdüyü yerdə yaşadığını hiss edə bilər.
 
-Bu sözlər həm də hazırda başqa bir şeyin düz olmadığını göstərə bilər: acdır, susuzdur, tualetə getmək istəyir, ağrısı var, çox isti və ya soyuqdur, yorğundur, tənhadır, qorxur və ya səs-küydən sıxılıb. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) narahatlığın səbəbləri arasında ağrını, səs-küyü, tənhalığı, gündəlik rejimin dəyişməsini və dərmanları sadalayır.
+Bu sözlər həm də hazırda başqa bir çətinliyin olduğunu göstərə bilər: acdır, susuyub, tualetə getməlidir, ağrısı var, çox istidir və ya çox soyuqdur, yorğundur, təkdir, qorxub və ya səs-küydən bezib. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ağrı, səs-küy, tənhalıq, gündəlik qaydadakı dəyişikliklər və dərmanları narahatlığın səbəbləri arasında göstərir.
 
-## Evə getmək istəyəndə nə deməliyəm?
+## Evə getmək istədikdə nə deməliyəm?
 
-Sözə yox, hissə cavab verin. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) şəxsi səhv etdiyinə inandırmağa çalışmamağı məsləhət görür: hissləri həqiqidir, ona görə əvvəlcə təsəlli və arxayınlıqla cavab verin, sonra yumşaqlıqla başqa istiqamətə yönəldin.
+Sözlərə deyil, hissə cavab verin. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) şəxsi səhv düşündüyünə inandırmağa çalışmamağı məsləhət görür: onların hissləri gerçəkdir, buna görə əvvəlcə rahatlıq və arxayınlıq verin, sonra diqqəti yumşaq şəkildə başqa istiqamətə yönəldin.
 
 Çox vaxt kömək edən ifadələr:
 
-- **Hissi adlandırın.** “Deyəsən evinizdən darıxırsınız.”
-- **Arxayın edin.** “Burada təhlükəsizsiniz və mən yanınızdayam.” [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) “Burada təhlükəsizsiniz” kimi sadə sözləri tövsiyə edir.
-- **Xatirələri çağırın.** “Evinizdən danışın mənə. Mətbəxiniz necə idi?” Uzaq keçmişdən soruşmaq adətən bugünkü suallardan daha rahat olur.
-- **Birlikdə nəsə təklif edin.** “Əvvəlcə bir stəkan çay içək” və ya “Bu dəsmalları yığmağa kömək edərsiniz?”
+- **Hissi adlandırın.** «Görünür, evi darıxırsınız.»
+- **Arxayınlıq verin.** «Burada təhlükəsizsiniz və mən yanınızdayam.» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) sadə «Burada təhlükəsizsiniz» sözlərini təklif edir.
+- **Xatirələri dəvət edin.** «Eviniz haqqında mənə danışın. Mətbəxiniz necə idi?» Uzaq keçmiş haqqında soruşmaq, adətən, bu gün haqqında suallardan daha rahat olur.
+- **Birlikdə bir şey təklif edin.** «Gəlin əvvəlcə bir fincan çay içək» və ya «Bu dəsmalları yığmaqda mənə kömək edərsiniz?»
 
-Mehriban səs tonu və qola toxunuş, əgər toxunmağı xoşlayırsa, sözlərdən çox şey deyə bilər.
+İsti bir səs tonu və toxunmaqdan xoşu gəlirsə, qoluna yumşaq toxunuş bəzən sözlərdən daha çox şey ifadə edir.
 
-## Nədən çəkinməli?
+## Nələrdən çəkinməliyəm?
 
-- **Mübahisə və izah.** “Siz artıq burada yaşayırsınız” və ya “Bu, 40 ildir sizin evinizdir” demək ondan demensiyanın qəbul etməyi çətinləşdirdiyi bir şeyi qəbul etməsini istəməkdir və bu, səhv etdiyini söyləmək kimi hiss oluna bilər.
-- **Sorğu-sual.** “Yadınızda deyil?” və ya “Ünvan nədir?” təzyiq yaradır.
-- **Qapını hirslə bağlamaq.** Çıxmağa başlayarsa, sakit qalın və onunla birlikdə gəzin. Birlikdə qısa gəzinti çox vaxt bu istəyi yatırır.
-- **Tələsmək.** Mövzunu dəyişməzdən əvvəl ona ev haqqında danışmağa vaxt verin.
+- **Mübahisə etmək və ya izah vermək.** «Artıq burada yaşayırsan» və ya «Bu 40 ildir sənin evidir» demək demensiya ilə yaşayan şəxsdən qəbul etməsi çətin olan bir şeyi qəbul etməsini istəməkdir və bu, ona səhv düşündüyü söylənirmiş kimi təsir edə bilər.
+- **Sınaqdan keçirmək.** «Yadında deyil?» və ya «Ünvan nədir?» kimi suallar təzyiq yaradır.
+- **Qəzəblə qapını bağlamaq.** Çölə çıxmağa başlasa, sakit qalın və onunla birlikdə addımlayın. Birlikdə qısa gəzinti çox vaxt bu istəyi azaldır.
+- **Tələsmək.** Mövzunu dəyişməzdən əvvəl ona evi haqqında danışmaq üçün vaxt verin.
 
-## Həmin anda kömək edə biləcək fəaliyyətlər
+## O anda kömək edə biləcək fəaliyyətlər
 
-Hissi qəbul etdikdən sonra sakit, tanış bir fəaliyyət onu rədd etmədən diqqəti yönəldə bilər.
+Hissi qəbul etdikdən sonra sakit və tanış bir fəaliyyət, onu rədd etmədən diqqəti yumşaq şəkildə başqa yerə yönəldə bilər.
 
-1. **Ev və ailə şəkillərinə baxın.** Səhifələri çevirin və sual vermək əvəzinə şərh edin (“Bax, nə gözəl bağçadır”). Telefonda və ya planşetdə [Foto cütləri](/games/photo-pairs/) öz ailə şəkillərinizi mülayim uyğunlaşdırma oyununa çevirir və şəkillər cihazınızda qalır.
-2. **Ev haqqında danışın.** [Söhbət kartları](/games/conversation-cards/) evlər, mətbəxlər, qonşular və bayramlar barədə açıq suallar təklif edir, düzgün cavab yoxdur.
-3. **Sevdiyi musiqini qoşun.** National Institute on Aging narahatlığı sakitləşdirən yollar arasında rahatladıcı musiqini də sadalayır. [Musiqi fəaliyyətlərimizə](/activities/music/) baxın.
-4. **Bir qəlyanaltı və ya içki verin.** Aclıq və susuzluq narahatlıq kimi görünə bilər. Bir stəkan çay və ya sevdiyi şirniyyat həm də evdə olmağın kiçik bir ritualıdır.
-5. **Gəzintiyə çıxın və ya çöldə oturun.** Hərəkət və gün işığı kömək edir, xüsusilə günün əvvəlində.
-6. **Tanış bir iş verin.** Camaşırı qatlamaq, çəngəl-bıçaqları ayırmaq və ya gülləri sulamaq evi idarə etmək hissini qaytara bilər.
-7. **Hər şeyi yavaşladın.** Televizoru söndürün, səs-küyü və parıltını azaldın və birlikdə [sakit nəfəs](/games/calm-breathing/) fasiləsi sınayın.
+1. **Ev və ailə şəkillərinə baxın.** Səhifələri çevirin və sual vermək əvəzinə fikirlər bildirin («Bu bağçaya bax»). Telefon və ya planşetdə [Photo pairs](/games/photo-pairs/) sizin öz ailə şəkillərinizi sakit bir uyğunlaşdırma oyununa çevirir və şəkillər cihazınızda qalır.
+2. **Ev haqqında danışın.** [Conversation cards](/games/conversation-cards/) evlər, mətbəxlər, qonşular və bayramlar haqqında açıq suallar təklif edir və düzgün cavab tələb etmir.
+3. **Sevdiyi musiqini qoşun.** National Institute on Aging sakitləşdirici musiqini narahatlığı azaltmaq yollarından biri kimi göstərir. [Musiqi fəaliyyətləri](/activities/music/) səhifəmizə baxın.
+4. **Qəlyanaltı və ya içki verin.** Aclıq və susuzluq bəzən narahatlıq kimi görünə bilər. Bir fincan çay və ya sevilən bir qəlyanaltı həm də evdə olmaq hissi verən kiçik bir vərdişdir.
+5. **Gəzintiyə çıxın və ya çöldə oturun.** Hərəkət və gün işığı, xüsusilə günün daha erkən saatlarında kömək edə bilər.
+6. **Tanış bir iş verin.** Paltar qatlamaq, qaşıq-çəngəl ayırmaq və ya bitkiləri sulamaq evə qulluq etmək hissini geri qaytara bilər.
+7. **Hər şeyi yavaşladın.** Televizoru söndürün, səs-küyü və parlaq işığı azaldın və birlikdə [calm breathing](/games/calm-breathing/) ilə qısa sakitlik anı yaşayın.
 
-Bir ideya alınmasa, sonra başqasını sınayın. Sakitcə yan-yana oturmaq da yaxşı nəticədir.
+Bir fikir uyğun gəlmirsə, sonra başqa birini sınayın. Birlikdə sakit oturmaq da yaxşı nəticədir.
 
-## Düzəldə biləcəyiniz səbəbi yoxlayın
+## Düzəldə biləcəyiniz bir səbəb axtarın
 
-| Yoxlayın | Nə sınamalı |
+| Nəyi yoxlamaq | Nə etmək olar |
 | --- | --- |
 | Ac və ya susuzdur | İçki və kiçik bir qəlyanaltı təklif edin |
-| Tualetə getməlidir | Sakitcə və hay-küysüz tualetə getməyi təklif edin |
-| Ağrı və ya narahatlıq | Üzünü turşutmaq, bədənin bir yerini tutmaq və ya qəbizlik kimi əlamətlərə baxın və həkimə deyin |
-| Çox isti və ya çox soyuq | Bir qat geyimi dəyişin və ya otağın temperaturunu tənzimləyin |
-| Səs-küy və ya izdiham | Daha sakit otağa keçin, televizoru söndürün |
-| Yorğun və ya həddən artıq həyəcanlıdır | İstirahət edin, otağın işığını azaldın, yumşaq musiqi qoşun |
-| Günortadan sonra | Aşağıdakı axşam narahatlığı bölməsinə baxın |
+| Tualetə getməlidir | Sakit və təlaşsız şəkildə tualetə getməyi təklif edin |
+| Ağrı və ya narahatlıq var | Üzünü buruşturma, bədənin bir yerini tutma və ya qəbizlik kimi əlamətlərə diqqət edin və həkimlərinə bildirin |
+| Çox isti və ya çox soyuqdur | Üst geyimini və ya otağın temperaturunu tənzimləyin |
+| Səs-küy və ya izdiham var | Daha sakit bir otağa keçin, televizoru söndürün |
+| Yorğun və ya həddindən artıq yüklənib | Dincəldin, otağı bir az qaranlıq edin, sakit musiqi qoşun |
+| Günortadan sonradır | Aşağıdakı axşam çaşqınlığı bölməsinə baxın |
 
-Alzheimer’s Society bu istəyin nə vaxt baş verdiyini qısa qeyd etməyi tövsiyə edir, məsələn yeməkdən əvvəl, qonaqlardan sonra və ya alaqaranlıqda. Qanunauyğunluqlar öncədən plan qurmağı asanlaşdırır.
+Alzheimer’s Society bu istəyin nə vaxt baş verdiyini — məsələn, yeməkdən əvvəl, qonaqlardan sonra və ya alaqaranlıqda — qısa şəkildə qeyd etməyi təklif edir. Bu nümunələr əvvəlcədən plan qurmağı asanlaşdırır.
 
-## Mülayim yalan demək olarmı?
+## Yumşaq bir doğru olmayan cavab vermək düzgündürmü?
 
-Bu, həqiqətən mübahisəli sualdır və mehriban ailələr müxtəlif nəticəyə gəlir. Alzheimer’s Society deyir ki, tək bir düzgün cavab yoxdur: yalan bəzi insanları daha şübhəli edə bilər, ona görə şəxsin xeyrinə nəyin olduğunu müəyyən edin və ardıcıl olun. Penn Memory Center-də həmdirektorun fikrincə, həqiqət əsas yoldur, mülayim yalan isə yalnız şəxs müəyyən bir həqiqəti qəbul edə bilmədikdə məqbuldur və onun reallığını heç vaxt ələ salmaq olmaz.
+Bu, real bir müzakirə mövzusudur və yaxşı niyyətli ailələr fərqli qərarlar verə bilirlər. Alzheimer’s Society tək düzgün cavabın olmadığını bildirir: doğru olmayan sözlər bəzilərində daha çox şübhə yarada bilər, buna görə şəxsin ən yaxşı marağını nəzərə alın və ardıcıl olun. Penn Memory Center-də həmsədrin fikrinə görə, həqiqət əsas yanaşmadır və yumşaq bir doğru olmayan cavab yalnız şəxs müəyyən bir həqiqəti qəbul edə bilmədikdə məqbuldur; onların gerçəklik hissi ilə isə heç vaxt ələ salmaq olmaz.
 
-Çox qayğı göstərən şəxs orta yolun işlədiyini görür: əvvəlcə dürüst təsəlli və diqqəti yönəltmə (“Bu gecə burada qalacağıq və mən yanınızdayam”), evin harada olduğu barədə mübahisə etmədən.
+Bir çox qayğı göstərən şəxs orta bir yol tapır: əvvəlcə səmimi rahatlıq və yönləndirmə («Bu gecə burada qalacağıq və mən yanınızdayam») və evin harada olduğu barədə mübahisə etməmək.
 
-## Bu hər gün günortadan sonra və ya axşam baş verirsə?
+## Bu, hər günortadan sonra və ya axşam təkrarlanırsa?
 
-Günortadan sonra başlayan və ya güclənən narahatlığa çox vaxt axşam narahatlığı (sundowning) deyilir. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) sabit cədvəl, gündəlik günəş işığı və fəaliyyət, gec yuxuların azaldılması və günün sonunda kofein və ya spirtdən çəkinməyi tövsiyə edir. Alaqaranlıqdan əvvəl işıqları yandırmaq da kömək edə bilər. [Sakit günortadan sonra fəaliyyətləri](/caregiving/late-day-restlessness/) üzrə bələdçimizdə daha çox məlumat var.
+Günortadan sonra başlayan və ya güclənən narahatlıq çox vaxt axşam çaşqınlığı adlanır. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) sabit gündəlik qayda, gündəlik günəş işığı və fəaliyyət, günün sonuna yaxın daha az yatmaq, günün son saatlarında kofein və ya alkoqoldan çəkinmək təklif edir. Alaqaranlıqdan əvvəl işıqları yandırmaq da kömək edə bilər. [Axşamüstü sakit fəaliyyətlər](/caregiving/late-day-restlessness/) haqqında bələdçimizdə daha çox məlumat var.
 
-## Çıxmağa çalışarsa onu necə qorumaq olar
+## Evdən çıxmağa cəhd edərsə təhlükəsizliyi qorumaq
 
-Evə getmək istəyi itib-azmağa gətirib çıxara bilər. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) hesab edir ki, demensiya ilə yaşayan hər on nəfərdən altısı ən azı bir dəfə itib-azacaq.
+Evə getmək istəyi dolaşmağa səbəb ola bilər. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) demensiya ilə yaşayan insanların on nəfərdən altısının ən azı bir dəfə dolaşacağını təxmin edir.
 
-**Əvvəlcədən hazırlaşın:**
+**Əvvəlcədən hazırlıq:**
 
-- Adı və sizin telefon nömrənizin yazıldığı şəxsiyyət və ya tibbi bilərzik, həmçinin paltarlarında etiketlər. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) ABŞ nümunəsi kimi MedicAlert və Alzheimer’s Association-ın Safe and Found proqramını qeyd edir, bunlar pullu ola bilər. Sizin ölkənizdə oxşar xidmət barədə yerli Alzheimer və ya demensiya təşkilatından soruşmaq olar.
-- Qapı zəngi və ya siqnalizasiya, kilidlərin çox yuxarıda və ya çox aşağıda yerləşdirilməsi. Şəxsi heç vaxt tək kilidləməyin.
-- Yaxın tarixli yaxından çəkilmiş şəkil və gedə biləcəyi yerlərin siyahısı, məsələn keçmiş ev və ya iş yeri.
-- Etibarlı qonşulara deyin və onlara nömrənizi verin.
+- Adı və telefon nömrəniz yazılmış şəxsiyyət və ya tibbi bilezik, həmçinin paltarlarında etiketlər. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) ödənişli ola bilən MedicAlert və Alzheimer’s Association Safe and Found proqramını qeyd edir.
+- Qapı zəngi və ya siqnal, qapı kilidlərini yuxarıda və ya aşağıda yerləşdirmək. Şəxsi tək başına evdə heç vaxt kilidləməyin.
+- Son çəkilmiş yaxın plan şəkil və onların gedə biləcəyi yerlərin, məsələn, keçmiş ev və ya iş yerinin siyahısı.
+- Etibar etdiyiniz qonşulara məlumat verin və onlara telefon nömrənizi verin.
 
-**İtib-azarsa:** dərhal axtarmağa başlayın; Alzheimer’s Association qeyd edir ki, çox adam 1,5 mil məsafədə tapılır. 15 dəqiqə ərzində tapa bilməsəniz, yerli təcili yardım nömrəsinə (Azərbaycanda 112) zəng edin və şəxsin demensiyası olduğunu deyin. Kimsə təhlükədədirsə, dərhal bu nömrəyə zəng edin.
+**Şəxs itibsə:** yerli polis və ya təcili yardım xidmətləri ilə dərhal əlaqə saxlayarkən yaxınlıqdakı təhlükəsiz yerləri yoxlayın. Bildirməzdən əvvəl müəyyən sayda dəqiqə gözləməyin. 2021-ci ildə yayımlanan [itkin düşmüş şəxslərin axtarışı ilə bağlı ABŞ Ədliyyə Nazirliyinin jurnal məqaləsi](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) hüquq-mühafizə orqanlarının müəyyən gözləmə müddəti tələb etməməli olduğunu bildirir; həmçinin demensiyaya bənzər əlamətləri yüksək risk kimi göstərir. Yerli bildiriş qaydaları fərqli ola bilər. Cavab verən şəxslərə şəxsin demensiyası olduğunu deyin, son məlum yeri və son çəkilmiş şəkli paylaşın və onların göstərişlərinə əməl edin. Başqa bir köməkçi varsa, ondan telefonun yanında qalmasını xahiş edin. Təhlükəli yerləri tək axtarmayın.
 
-## Həkimə nə vaxt zəng etməliyəm?
+## Nə vaxt həkimə zəng etməliyəm?
 
-Evə getmək istəyi və ya çaşqınlıq qəfil başlayarsa və ya saatlar və ya günlər ərzində xeyli pisləşərsə, onun həkiminə tez zəng edin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) bildirir ki, qəfil və ya sürətlə dəyişən davranış, xüsusilə infeksiyadan və ya dərman dəyişikliyindən sonra, dərhal yoxlanmalıdır. Qəfil çaşqınlıq deliriya ola bilər, [NHS](https://www.nhs.uk/symptoms/confusion/) bunun təcili kömək tələb etdiyini bildirir; sidik yollarının infeksiyaları yaşlı insanlarda tez-tez rast gəlinən səbəbdir.
+Evə getmək istəyi və ya çaşqınlıq birdən başlayıbsa və ya saatlar, günlər ərzində xeyli pisləşibsə, dərhal həkimlərinə zəng edin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) bildirir ki, xüsusilə infeksiya və ya dərman dəyişikliyindən sonra qəfil və ya sürətlə dəyişən davranış dərhal yoxlanmalıdır. Qəfil çaşqınlıq deliryum ola bilər və [NHS](https://www.nhs.uk/symptoms/confusion/) bunun təcili yardım tələb etdiyini bildirir; yaşlı insanlarda sidik yolları infeksiyaları bunun tez-tez rast gəlinən səbəbidir.
 
-Növbəti görüşdə davamlı qanunauyğunluğu qeyd etmək də faydalıdır, çünki ağrı, kədərli əhval, yuxu problemləri və ya dərmanların yan təsirləri hamısı rol oynaya bilər.
+Növbəti görüşdə davamlı bir nümunədən də danışmaq faydalıdır, çünki ağrı, kədərli əhval, yuxu çətinlikləri və ya dərmanların yan təsirləri də buna təsir edə bilər.

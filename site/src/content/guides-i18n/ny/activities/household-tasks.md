@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Ntchito za Pakhomo kwa Anthu Okhala ndi Matenda a Kuiwala"
+seoTitle: "Ntchito za Pakhomo: Matenda a Kuiwala"
+description: "Kupinda, kusanja, kuyala tebulo ndi kuphika kosavuta kungakhale ntchito zatanthauzo kwa anthu okhala ndi matenda a kuiwala. Momwe mungakonzekere ndikusunga chitetezo."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Ntchito za tsiku ndi tsiku monga kupinda mataulo, kusanja masokosi, kuyala
+  tebulo, kupukuta makauntala, kuthirira maluwa ndi kuthandiza pophika kosavuta
+  zingapereke njira yeniyeni yoti munthu wokhala ndi matenda a kuiwala athandize.
+  Sankhani ntchito zimene amazidziwa, zigaweni pangʼonopangʼono sitepe imodzi
+  pa nthawi, chotsani zinthu zakuthwa kapena zotentha, ndipo muone kutenga nawo
+  mbali kukhala kofunika kuposa kuchita bwino kwambiri.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Ntchito zodziwika bwino zingathandize munthu kumva kuti ndi wofunika komanso kuti ali mbali ya banja, ndipo izi nthawi zambiri zimakhala zofunika kuposa momwe ntchitoyo yagwiridwira."
+  - "Gawani ntchito iliyonse kukhala masitepe amodzi, onetsani mmalo mofotokoza, ndipo tengani mwakachetechete sitepe iliyonse imene yayamba kukhala yovuta."
+  - "Sungani mipeni, mankhwala otsukira ndi makatoni a sopo wa zovala pamalo otetezeka, ndipo ikani zotsekera ma nobu a chophikira kapena chipangizo chodzimitsa chokha musanaphike limodzi."
+  - "Mataulo opindidwa safunika kupindidwanso munthu ali pomwepo. Ngati muyenera kukonzanso chinachake, chitani pambuyo pake popanda kuti munthuyo akuone."
+  - "Ngati ntchito ikubweretsa kukhumudwa, sinthani kupita ku sitepe yosavuta, yesaninso nthawi ina, kapena mungokhala pamodzi."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Kodi ndi ntchito ziti za pakhomo zimene munthu wokhala ndi matenda a kuiwala angathandizebe?"
+    a: "Anthu ambiri angathandizebe kupinda zovala, kufananitsa masokosi, kusanja zipangizo zodyera, kuyala tebulo, kupukuta kauntala, kufufuta fumbi, kusesa, kuthirira maluwa kapena kusakaniza ufa mu mbale. Sankhani ntchito zimene munthuyo ankagwira kale ndipo zigwirizane ndi zimene angakwanitse panopa. Pa magawo omaliza, kusuntha kobwerezabwereza kumodzi, monga kusalaza matewera a patebulo, kungakhale kokwanira."
+  - q: "Kodi nʼkotetezeka kuti munthu wokhala ndi matenda a kuiwala athandize kukhitchini?"
+    a: "Zingatheke, ngati pali kuyangʼanira pafupi komanso kukonzekera koyenera. Sungani mipeni, mankhwala otsukira ndi chilichonse chotentha kutali, gwiritsani ntchito zotsekera ma nobu a chophikira kapena chipangizo chodzimitsa chokha, ndipo mʼpatse munthuyo ntchito yotetezeka monga kutsuka ndiwo zamasamba, kusakaniza kapena kuyika mbale patebulo. Musamusiye yekha chophikira chili choyaka."
+  - q: "Nanga atapinda molakwika kapena kupanga chisokonezo?"
+    a: "Mulekeni chikhale choncho. Cholinga ndi kukhala nthawi limodzi komanso kumva kuti ndi wothandiza, osati zotsatira zangwiro. Ngati chinachake chikufunika kukonzedwanso, dikirani mpaka nthawi ina ndipo chitani munthuyo asakuone, kuti asamve ngati akuwongoleredwa."
+  - q: "Nanga akakana kuthandiza?"
+    a: "Kukana kungatanthauze kuti ntchitoyo ikuoneka yovuta, yosokoneza kapena yotopetsa panthawiyo. Musamukakamize. Yesani mtundu wosavuta, mʼpempheni kuti azingokhalani nanu pafupi, kapena mufunsenso pa nthawi yabwino ya tsiku."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Anthu ambiri okhala ndi matenda a kuiwala anathera zaka zambiri akusamalira pakhomo, kulera banja kapena kusunga bata kuntchito. Kupemphedwa kuthandiza pa ntchito zenizeni za pakhomo kunganene kuti, “mukadali mbali ya banja ili” mʼnjira imene ntchito zina zambiri sizingakwanitse. Tsamba ili likufotokoza ntchito zimene nthawi zambiri zimayenda bwino, momwe mungazikonzekere, momwe mungazisinthire zinthu zikasintha, komanso momwe mungasungire chitetezo kukhitchini ndi ku malo ochapira.
 
-## Why do everyday chores work well as activities?
+## Nʼchifukwa chiyani ntchito za tsiku ndi tsiku zimakhala zabwino?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Ntchito za pakhomo zimayenda bwino chifukwa ndi zodziwika ndipo zili ndi cholinga chomveka. National Institute on Aging imatchula kutsuka mbale, kuyala tebulo, kusesa, kufufuta fumbi, kusanja makalata, kupinda zovala ndi kusanja zoti zizikapangidwanso pakati pa [ntchito za tsiku ndi tsiku zimene anthu okhala ndi Alzheimerʼs angasangalale nazo](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimerʼs Association imanena kuti ntchito monga kuyala tebulo zingathandize munthu [kumva kuti ndi wofunika mʼbanja](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Ntchito ya pakhomo imabweranso ndi chifukwa chake choyambira. “Mungandithandizeko ndi mataulo awa?” nʼzosavuta kuvomereza kuposa “Mukufuna kuchita ntchito ina yake?”
 
-## Which household tasks are good to try?
+## Ndi ntchito ziti za pakhomo zimene mungayesere?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Yambani ndi ntchito zimene munthuyo ankagwira kale, kenako zigwirizane ndi zimene angakwanitse lero.
 
-### Laundry and linens
+### Zovala ndi nsalu za pakhomo
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Kupinda mataulo ndi nsalu zazingʼono.** Mʼpatse dengu la zinthu zazingʼono komanso zosalala. Mataulo ndi osavuta: palibe njira yolakwika yowapindira.
+- **Kufananitsa masokosi.** Ikani mulu wosakanikirana patebulo. Ngati kuzindikira awiriawiri kwavuta, gwiritsani ntchito mitundu iwiri kapena itatu yokha yosiyana kwambiri.
+- **Kusalaza ndi kuwunjika.** Matewera a patebulo, zophimba pilo kapena mataulo a mbale akhoza kusalazidwa ndi kuwunjikidwa. Izi zimathandiza kwambiri pa magawo a pambuyo pake, pamene kupinda kwakhala ndi masitepe ambiri.
 
-### Table and kitchen
+### Tebulo ndi khitchini
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Kuyala tebulo.** Konzani malo amodzi ngati chitsanzo ndipo lolani munthuyo atsatire. Ngati zikuoneka zambiri, mʼpatse chinthu chimodzi pa nthawi: “Nayi foloko ya mbale iliyonse.”
+- **Kusanja zipangizo zodyera.** Sakanizani mafoloko, masipuni ndi mipeni ya batala yoyeretsedwa mu chidebe ndipo zisanjeni mu thireyi yogawikana. Musayikepo mipeni yakuthwa.
+- **Kupukuta mbale.** Mbale za pulasitiki kapena zosathyoka ndi thaulo lofewa zimapangitsa iyi kukhala ntchito yotetezeka.
+- **Kupukuta tebulo kapena makauntala.** Nsalu yonyowa ndi malo opanda zinthu zambiri. Alzheimerʼs Association imalimbikitsa kupereka nsalu ngati munthu wayamba kale kupukuta tebulo ndi dzanja lake, kusintha kusuntha kosakhazikika kukhala chinthu chothandiza.
 
-### Around the house
+### Mʼnyumba monse
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Kufufuta fumbi.** Chofufutira chofewa ndi malo ochepa olimba, monga tebulo la khofi kapena shelefu ya mabuku.
+- **Kusanja makalata.** Mʼpatse makalata osafunika ndi makatatalogu kuti asanje mʼmilumilu: sungani, kanikizani, tsegulani pambuyo pake. Sungani mabilu enieni ndi macheke kwina.
+- **Kusanja zoti zizikapangidwanso.** Zitini zoyeretsedwa, mabotolo ndi mapepala mʼzidebe zosiyana.
+- **Kusesa.** Tsache lalingʼono pa khonde kapena pansi pa khitchini, ngati kuyenda kwake kuli kokhazikika.
+- **Kuthirira maluwa.** Chothirira chachingʼono, chopepuka ndi maluwa ochepa ofikirika mosavuta.
 
-### Simple cooking with supervision
+### Kuphika kosavuta moyangʼaniridwa
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Kuphika kungabweretse malingaliro amphamvu komanso osangalatsa. NIA imalimbikitsa kulola munthuyo kusonkhanitsa zosakaniza, kuyeza, kusakaniza ndi kuthira, kapena kungofotokozera munthu wina momwe angaphikire chakudya chomwe amakonda. Ntchito zabwino ndi izi:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- kutsuka ndiwo zamasamba kapena zipatso
+- kusakaniza ufa wophikira kapena saladi yozizira
+- kungʼamba masamba a letesi
+- kupaka batala pa tositi ndi mpeni wosathwa
+- kuyika mtanda wa makeke pa thireyi
+- kuyika zokometsera pa pitsa
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Ngati kuyeza kwayamba kukhala kovuta, Alzheimerʼs Association imalimbikitsa kuti inuyo mumalize kuyeza kenako mʼpatse sitepe ina, monga kusakaniza.
 
-## How do I set up a chore so it goes well?
+## Kodi ndingakonzekere bwanji ntchito kuti iyende bwino?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Sankhani nthawi yoyenera.** Sankhani nthawi ya tsiku imene munthuyo nthawi zambiri amakhala atapumula komanso odekha. Kwa anthu ambiri iyi imakhala mʼmawa.
+2. **Konzekeretsani malo.** Ntchito imodzi, malo amodzi, popanda zinthu zina zambiri patebulo.
+3. **Pemphani, osati kulamula.** “Ndikufunika thandizo pangʼono ndi izi” kumagwira ntchito bwino kuposa “Ndi nthawi yopinda zovala.”
+4. **Onetsani choyamba.** Pindani thaulo limodzi pangʼonopangʼono, kenako mʼpatse lotsatira. Kuonetsa kumamveka bwino kuposa kufotokoza.
+5. **Perekani sitepe imodzi pa nthawi.** Malangizo ambiri pa nthawi imodzi angasokoneze. Dikirani sitepe imodzi ithe musanatchule yotsatira.
+6. **Gwirani ntchito limodzi pafupi.** Kuchita ntchito yomweyo pafupi ndi wina kumamveka ngati kucheza, osati kuyangʼaniridwa.
+7. **Kambani za ntchitoyo, osati zotsatira.** “Izi ndi zofewa kwambiri” kapena “Mundiwuze momwe munkakonda kusungira nsalu mʼkabati” kumayambitsa kucheza popanda kuyesa munthu aliyense.
 
-## How do I adapt chores as abilities change?
+## Kodi ndingasinthire bwanji ntchito pamene luso likusintha?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Luso limasintha pakapita nthawi komanso tsiku ndi tsiku. Alzheimerʼs Association imalimbikitsa kupita ku ntchito zosavuta komanso zobwerezabwereza pamene matendawa akupita patsogolo.
 
-| If this has become hard | Try this instead |
+| Ngati izi zayamba kukhala zovuta | Yesani izi mʼmalo mwake |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Kupinda mashiti akulu | Kupinda nsalu zazingʼono kapena kusalaza matewera a patebulo |
+| Kuyala tebulo lonse | Kuyika tewera limodzi pa mpando uliwonse |
+| Kusanja makalata mʼmagulu | Kuwunjika maenvulopu mu mulu umodzi |
+| Kutsatira maphikidwe | Kusakaniza, kapena kuonera ndi kulawa pamene mukuphika |
+| Kusesa pansi ponse | Kupukuta tebulo limodzi lalingʼono |
+| Kuchita ntchitoyo konse | Kukhala nanu pafupi ndikusangalala nanu pamene mukugwira ntchitoyo |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Kuonera kumawerengedwanso. NIA imanena kuti anthu ena amangosangalala ndi kuonera, ndipo imeneyi ndi njira yabwino yotengerapo mbali.
 
-## How do I keep household tasks safe?
+## Kodi ndingateteze bwanji chitetezo pa ntchito za pakhomo?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Chitetezo chimakhala choyamba, makamaka kukhitchini. [Malangizo a chitetezo panyumba kwa anthu osamalira anthu okhala ndi Alzheimerʼs](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) a NIA akuphatikizapo:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Tsekani kapena chotsani mankhwala otsukira, kuphatikizapo makatoni a sopo wa zovala, omwe angawoneke ngati maswiti.
+- Sungani mipeni, lumo ndi zida zamagetsi pamalo otsekedwa.
+- Ikani ma nobu otetezera ndi chipangizo chodzimitsa chokha pa chophikira.
+- Ikani zizindikiro za “Imani” kapena “Kotentha kwambiri” pafupi ndi uvuni, tosta ndi ayani, moikidwa bwino kuti zisayake moto.
+- Ikani chotenthetsera madzi pa 120°F kuti muchepetse chiopsezo chopsereza.
+- Chotsani zipatso zopanga ndi timagineti tooneka ngati chakudya, zomwe zingawoneke ngati zodyedwa.
 
-A few more practical habits help:
+Zizolowezi zina zothandiza ndi izi:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Khalani mʼchipindamo nthawi zonse pamene chophikira, uvuni kapena chida chakuthwa chikugwiritsidwa ntchito.
+- Gwiritsani ntchito mbale zosathyoka popukuta ndi kuyala tebulo.
+- Sungani pansi pouma komanso popanda zinthu pamene mukusesa kapena kupukuta.
+- Ngati munthuyo ankagwiritsa ntchito zida kale, Alzheimerʼs Association imalimbikitsa kuchotsa zinthu zoopsa mu malo ogwirira ntchito, kuti ntchito yotetezeka, monga kupala kanthu ka nkhuni, ikhale yosangalatsabe.
 
-## What if they do it "wrong"?
+## Nanga atachita molakwika?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Mulekeni chikhale choncho. Thaulo lopindidwa katatu mʼmalo mwa kawiri likadali thaulo lopindidwa. Alzheimerʼs Association imanena momveka: chofunika ndi kukhala nthawi limodzi komanso kuti munthuyo amve kuti ndi wothandiza, osati ngati mataulo apindidwa bwino kapena ayi. Ngati chinachake chiyeneradi kukonzedwanso, dikirani mpaka nthawi ina ndipo chitani popanda kuti munthuyo akuone.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Kuwongolera panthawiyo kungasinthe ntchito yosangalatsa kukhala chikumbutso cha zimene zatasowa. “Zikomo, mwandithandiza kwambiri” nthawi zambiri ndi mawu oyenera kunena.
 
-## When should we stop?
+## Kodi tiyenera kusiya liti?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Lekani kapena sinthani pamene muona zizindikiro za kukhumudwa, kutopa kapena kusowa chidwi. Kusiya msanga ndi zotsatira zabwino, osati kulephera. Mungathe:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- kusintha kupita ku sitepe yosavuta
+- kusamukira ku chinachake chopumitsa, monga nyimbo kapena kapu ya khofi
+- kuyesanso pambuyo pake kapena tsiku lina
+- kungokhala pamodzi
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Ngati munthuyo akuti ayi, musamukakamize. Onani [zoyenera kuchita akakana](/caregiving/when-they-say-no/) kuti mupeze njira zofatsa zoyankhira.
 
-## Low-effort extras for a quieter moment
+## Zina zosavuta pa nthawi yabata
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Pamene ntchito zakuthupi sizingatheke, kusanja ndi kufananitsa kungatheke mukukhala pansi. [Sort Together](/games/sort-together/) imakulolani kudina zithunzi ndi kuziyika mʼmadengu a kukhitchini kapena a dimba, ndipo [Picture Pairs](/games/picture-pairs/) ndi masewera ofatsa ofananitsa okhala ndi zithunzi zazikulu ndipo opanda nthawi yowerengera. [Conversation Cards](/games/conversation-cards/) ili ndi mafunso otseguka okhudza pakhomo ndi banja omwe amagwirizana bwino ndi kapu ya khofi ntchito ikatha.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Kuti mupeze thandizo loyika ntchito za pakhomo mʼtsiku, onani kalozera wathu wa [ndondomeko yabata ya tsiku ndi tsiku](/activities/daily-routine/). Kuti mupeze malingaliro ena malinga ndi magawo, onani [ntchito za pa gawo lapakati](/activities/middle-stage/).

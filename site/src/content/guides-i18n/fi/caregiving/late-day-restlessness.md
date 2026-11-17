@@ -1,33 +1,35 @@
 ---
-title: "Sundowning: rauhalliset myöhäisen iltapäivän toiminnat dementiaa sairastaville"
-seoTitle: "Sundowning: rauhalliset iltapäivän toiminnat"
-description: "Lempeitä rutiineja, huoneen muutoksia ja rauhallisia toimintoja, jotka voivat helpottaa levottomuutta myöhäisellä päivällä dementiassa, sekä milloin soittaa lääkärille."
+title: "Iltarauhattomuus: rauhallista tekemistä iltaan"
+seoTitle: "Iltarauhattomuus: rauhallista tekemistä iltaan"
+description: "Rauhallisia rutiineja, muutoksia tilaan ja rauhoittavaa tekemistä, jotka voivat auttaa muistisairauteen liittyvään levottomuuteen päivän lopussa."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning on levottomuutta, sekavuutta tai ärtyneisyyttä, joka alkaa tai pahenee myöhään
-  iltapäivällä tai illalla. Käytännön askeleita, jotka voivat auttaa, ovat tasainen päivärytmi,
-  päivänvalo ja liike aikaisemmin päivällä, vähemmän myöhäisiä päiväunia, vähemmän kofeiinia,
-  kirkkaat sisävalot ennen hämärää, hiljaisempi koti sekä rauhalliset toiminnat, kuten musiikki,
-  kuvat tai pyykin taittaminen. Uusi tai pahenevat oireet vaativat lääkärin tarkastuksen.
+  Iltarauhattomuudella tarkoitetaan levottomuutta, sekavuutta tai ärtyneisyyttä,
+  joka alkaa tai pahenee myöhään iltapäivällä tai illalla. Käytännön keinot,
+  jotka voivat auttaa, ovat tasainen päivärutiini, päivänvalo ja tekemistä
+  aikaisemmin päivällä, harvemmat myöhäiset päiväunet, vähemmän kofeiinia,
+  kirkkaat sisävalot ennen hämärää, rauhallisempi koti sekä rauhoittava
+  tekeminen, kuten musiikki, valokuvat tai pyykkien viikkaaminen. Uudet tai
+  pahenevat oireet on syytä näyttää lääkärille.
 keyPoints:
-  - "Sundowning tarkoittaa levottomuutta tai sekavuutta, joka alkaa tai pahenee päivänvalon hiipuessa."
-  - "Siirtäkää vaativat tehtävät, retket ja peseytymisen aamuun tai aikaiseen iltapäivään."
-  - "Päivänvalo, päivittäinen kävely, vähemmän myöhäisiä päiväunia ja vähemmän kofeiinia myöhään päivällä voivat auttaa iltojen sujumista."
-  - "Sytyttäkää valot ennen hämärää, vähentäkää melua ja siirtykää rauhallisiin, tuttuihin toimintoihin."
-  - "Pitäkää muistiinpanoja laukaisevien tekijöiden löytämiseksi ja pysykää rauhallisina ja rauhoittavina, kun levottomuus alkaa."
-  - "Hakeutukaa lääkäriin uusien tai pahenevien oireiden vuoksi: kipu, infektio tai lääkkeet voivat vaikuttaa."
+  - "Iltarauhattomuus tarkoittaa levottomuutta tai sekavuutta, joka alkaa tai pahenee päivänvalon himmetessä."
+  - "Sijoita vaativat asiat, ulkoilu ja peseytyminen aamuun tai alkuiltapäivään."
+  - "Päivänvalo, päivittäinen kävely, harvemmat myöhäiset päiväunet ja vähemmän kofeiinia päivän loppupuolella voivat auttaa iltoja sujumaan rauhallisemmin."
+  - "Sytytä valot ennen hämärää, vähennä melua ja vaihda rauhalliseen, tuttuun tekemiseen."
+  - "Pidä kirjaa, jotta huomaat laukaisevat tekijät, ja pysy rauhallisena ja lohduttavana levottomuuden alkaessa."
+  - "Ota yhteys lääkäriin uusien tai pahenevien oireiden vuoksi: kipu, infektio tai lääkkeet voivat vaikuttaa tilanteeseen."
 faq:
-  - q: "Mihin aikaan päivästä sundowning yleensä tapahtuu?"
-    a: "Se alkaa tai pahenee tyypillisesti myöhään iltapäivällä tai aikaisin illalla, kun päivänvalo hiipuu. Tarkka ajoitus vaihtelee ihmisittäin, minkä vuoksi lyhyen muistiinpanon pitäminen viikon tai parin ajan voi auttaa."
-  - q: "Mitkä toiminnat auttavat sundowningiin?"
-    a: "Rauhalliset, tutut ja vähän vaivaa vaativat toiminnat toimivat yleensä parhaiten myöhään iltapäivällä: rauhoittava musiikki, valokuvien katselu, lempiohjelma tai elokuva, pyykin taittaminen, lyhyt kävely tai yhdessä syöty välipala. Jättäkää uudet tai haastavat toiminnat päivän alkuun."
-  - q: "Voiko sundowning olla merkki jostakin lääketieteellisestä?"
-    a: "Terveysongelmat, kuten kipu, infektiot, kuten virtsatieinfektiot, unihäiriöt tai lääkkeiden sivuvaikutukset, voivat pahentaa sitä. Jos levottomuus on uutta, äkillistä tai pahenee, ottakaa yhteyttä hoidettavanne lääkäriin."
-  - q: "Pitäisikö minun kysyä lääkäriltä lääkettä sundowningiin?"
-    a: "Se on keskustelu lääkärin kanssa. Alzheimer-yhdistyksen mukaan lääkkeettömät keinot ovat yleensä ensisijaisia, ja lääkettä iltaisin ilmenevään levottomuuteen tulisi harkita vasta, kun riskit ja hyödyt on punnittu. Tämä sivu ei anna lääkitysneuvoja."
+  - q: "Mihin aikaan päivästä iltarauhattomuus yleensä ilmenee?"
+    a: "Se alkaa tai pahenee tavallisesti myöhään iltapäivällä tai varhain illalla, kun päivänvalo himmenee. Ajankohta vaihtelee ihmisestä toiseen, joten lyhyen kirjan pitäminen viikon tai kahden ajan voi auttaa."
+  - q: "Millainen tekeminen auttaa iltarauhattomuuteen?"
+    a: "Rauhallinen, tuttu ja kevyt tekeminen sopii yleensä parhaiten myöhään iltapäivään: rauhoittava musiikki, valokuvien katselu, suosikkiohjelma tai -elokuva, pyykkien viikkaaminen, lyhyt kävely tai yhteinen välipala. Säästä uudet tai haastavat asiat päivän aikaisempiin hetkiin."
+  - q: "Voiko iltarauhattomuus viitata johonkin terveydelliseen syyhyn?"
+    a: "Sitä voivat pahentaa terveysongelmat, kuten kipu, infektiot kuten virtsatieinfektiot, univaikeudet tai lääkkeiden sivuvaikutukset. Jos levottomuus on uutta, äkillistä tai pahenevaa, ota yhteys henkilön lääkäriin."
+  - q: "Kannattaako lääkäriltä kysyä lääkityksestä iltarauhattomuuteen?"
+    a: "Siitä kannattaa keskustella lääkärin kanssa. Alzheimer's Association kertoo, että lääkkeettömiä keinoja suositellaan yleensä ensin ja että ilta-ajan levottomuuteen tarkoitettua lääkitystä tulisi harkita vasta hyötyjen ja haittojen punnitsemisen jälkeen. Tällä sivulla ei anneta lääkeohjeita."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,123 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Monet perheet huomaavat saman kaavan: aamut ovat melko tasaisia, mutta kun iltapäivä etenee, dementiaa sairastava
-ihminen muuttuu levottomaksi, ahdistuneeksi, sekavaksi tai ärtyneeksi. Hän saattaa kävellä edestakaisin, pyytää
-”kotiin”, vaikka on jo kotona, tai suuttua helposti. Tätä kutsutaan usein sundowningiksi.
+Monet perheet huomaavat saman ilmiön: aamut sujuvat melko rauhallisesti, mutta iltapäivän kuluessa muistisairautta sairastava ihminen muuttuu levottomaksi, ahdistuneeksi, sekavaksi tai ärtyneeksi. Hän saattaa kulkea edestakaisin, pyytää ”päästä kotiin”, vaikka olisi jo kotona, tai suuttua helposti. Tätä kutsutaan usein iltarauhattomuudeksi.
 
-Yhtä korjausta ei ole, mutta päivän rytmin, huoneen ja tarjottavien toimintojen muuttaminen voi tehdä myöhäisestä
-iltapäivästä rauhallisemman. Tämä sivu kokoaa käytännöllisiä, ei-lääketieteellisiä ideoita Yhdysvaltain National
-Institute on Agingilta ja Alzheimer-yhdistykseltä. Se ei ole lääketieteellistä neuvontaa. Jos oireet ovat uusia, äkillisiä
-tai pahenevat, keskustelkaa asiasta hoidettavanne lääkärin kanssa.
+Yhtä ainoaa ratkaisua ei ole, mutta muutokset päivän rytmiin, tilaan ja siihen, millaista tekemistä tarjotaan, voivat tehdä myöhäisistä iltapäivistä rauhallisempia. Tälle sivulle on koottu käytännönläheisiä, ei-lääketieteellisiä ideoita National Institute on Agingin ja Alzheimer's Associationin aineistoista. Tämä ei ole lääketieteellistä neuvontaa. Jos oireet ovat uusia, äkillisiä tai pahenevat, keskustele henkilön lääkärin kanssa.
 
-## Mitä sundowning on?
+## Mitä iltarauhattomuus on?
 
-Sundowning on levottomuutta, kiihtymistä, ärtyneisyyttä tai sekavuutta, joka alkaa tai pahenee, kun päivänvalo hiipuu myöhään
-iltapäivällä tai aikaisin illalla. [Yhdysvaltain National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)
-huomauttaa, että liiallinen väsymys voi lisätä myöhäisen päivän levottomuutta.
+Iltarauhattomuus on levottomuutta, kiihtymistä, ärtyneisyyttä tai sekavuutta, joka alkaa tai pahenee päivänvalon himmetessä myöhään iltapäivällä tai varhain illassa. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) toteaa, että liiallinen väsymys voi lisätä levottomuutta päivän loppupuolella.
 
-## Mikä voi pahentaa myöhäisen päivän levottomuutta?
+## Mikä voi lisätä levottomuutta päivän lopussa?
 
-Useat asiat voivat vaikuttaa, usein yhdessä. [Alzheimer-yhdistys](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning)
-luettelee esimerkiksi:
+Useat asiat voivat vaikuttaa, usein yhtä aikaa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) mainitsee muun muassa seuraavia tekijöitä:
 
-- täyden päivän jälkeinen uupumus;
-- uudet tai sekavat ympäristöt;
-- ”sisäinen kello”, joka on epäsynkassa, jolloin ihminen on uninen päivällä ja valveilla yöllä;
-- hämärä valo ja varjot, jotka voivat hämmentää;
+- uupumus pitkän päivän jälkeen;
+- uudet tai hämmentävät ympäristöt;
+- ”sisäinen vuorokausikello”, joka on epätahdissa ja saa henkilön tuntemaan olonsa uneliaaksi päivällä ja valveilla yöllä;
+- himmeä valo ja varjot, jotka voivat hämmentää;
 - ympärillä olevien ihmisten stressin tai turhautumisen aistiminen;
-- vähemmän unen tarve, mikä on yleistä ikääntyneillä.
+- unen tarpeen väheneminen, mikä on tavallista iäkkäämmillä aikuisilla.
 
-NIA lisää yleisemmin levottomuuden syitä, kuten kivun, masennuksen tai stressin, liian vähäisen levon, ummetuksen, liian paljon melua tai ihmisiä sekä tiettyjä lääkkeitä ja lääkeyhteisvaikutuksia.
+NIA lisää yleisiä levottomuuden syitä, kuten kipu, masennus tai stressi, liian vähäinen lepo, ummetus, liiallinen melu tai liian monta ihmistä sekä tietyt lääkkeet tai lääkkeiden yhteisvaikutukset.
 
-## Miten voin suunnitella päivän, jotta illat olisivat rauhallisempia?
+## Miten voin suunnitella päivän niin, että illat olisivat rauhallisempia?
 
-Siirtäkää vaativat asiat aikaisemmaksi ja pitäkää myöhäinen iltapäivä lempeänä ja ennustettavana. Sekä NIA että Alzheimer-yhdistys suosittelevat
-säännöllistä rutiinia. Esimerkkipäivä, jota voitte sovittaa omaan elämäänne:
+Siirrä vaativat asiat aikaisempaan ja pidä myöhäinen iltapäivä rauhallisena ja ennakoitavana. Sekä NIA että Alzheimer's Association suosittelevat säännöllistä rutiinia. Esimerkki päivästä, jota voit sovittaa omaan arkeen:
 
 | Aika | Mikä voi auttaa |
 | --- | --- |
-| Aamu | Lääkäriajat, peseytyminen, retket ja kaikki vaivaa vaativat tehtävät, kun monet ovat valppaimmillaan |
-| Myöhäinen aamupäivä | Aikaa ulkona tai aurinkoisen ikkunan ääressä; kävely tai muu toiminta |
-| Keskipäivä | Suurempi lounas (Alzheimer-yhdistys suosittelee suurempaa lounasta ja kevyempää iltaruokaa) |
-| Varhainen iltapäivä | Lepoa tarvittaessa, mutta vältä pitkiä päiväunia myöhään päivällä |
-| Keskiltapäivästä myöhäiseen iltapäivään | Rauhalliset, tutut toiminnat; välipala ja juoma; ei kofeiinia |
-| Ennen hämärää | Sytyttäkää sisävalot ja sulkekaa verhot ennen kuin pimeää tulee |
-| Ilta | Kevyempi ateria, hiljainen musiikki, vähän virikkeitä, vakaa nukkumaanmenorutiini |
+| Aamu | Ajanvaraukset, peseytyminen, ulkoilu ja muut vaivaa vaativat asiat, silloin kun monet ovat valppaimmillaan |
+| Myöhäinen aamupäivä | Aikaa ulkona tai aurinkoisella ikkunan äärellä; kävely tai muuta tekemistä |
+| Keskipäivä | Suurempi lounas (Alzheimer's Association ehdottaa isompaa lounasta ja kevyempää ilta-ateriaa) |
+| Alkuiltapäivä | Lepoa tarvittaessa, mutta vältä pitkiä päiväunia myöhään päivällä |
+| Iltapäivän puoliväli ja loppu | Rauhallista, tuttua tekemistä; välipala ja juotavaa; ei kofeiinia |
+| Ennen hämärää | Sytytä sisävalot ja sulje verhot ennen kuin tulee pimeää |
+| Ilta | Kevyempi ateria, hiljaista musiikkia, vähän ärsykkeitä, tasainen iltarutiini |
 
-Muutamia tarkempia kohtia lähteistä:
+Muutamia lähteiden esiin nostamia kohtia:
 
-- **Päivänvalo.** NIA suosittelee järjestämään joka päivä aikaa ulkona tai ikkunan ääressä, jotta saatte päivänvaloa.
-- **Päivittäinen liike, mutta ei liikaa.** Pyrkikää olemaan fyysisesti aktiivisia joka päivä ilman, että suunnittelette liian monta toimintaa, NIA sanoo.
-- **Myöhäisen päivän juomat.** Välttäkää alkoholia ja kofeiinipitoisia juomia, kuten kahvia tai colaa, myöhään päivällä (NIA). Alzheimer-yhdistys mainitsee myös nikotiinin.
-- **Päiväunet.** Vähentäkää pitkiä päiväunia ja torkkumista myöhään päivällä (NIA). Alzheimer-yhdistys suosittelee rajoittamaan päiväunia, jos yöunet ovat ongelma.
+- **Päivänvalo.** NIA ehdottaa, että päivään järjestetään aikaa ulkona tai ikkunan ääressä auringonvalossa.
+- **Päivittäistä liikettä, mutta ei liikaa.** Pyri liikkumaan päivittäin ilman, että suunnittelet liian monta tekemistä, NIA neuvoo.
+- **Juomat päivän lopussa.** Vältä alkoholia ja kofeiinia sisältäviä juomia, kuten kahvia tai kolajuomia, päivän loppupuolella (NIA). Alzheimer's Association mainitsee myös nikotiinin.
+- **Päiväunet.** Vältä pitkiä päiväunia ja torkkumista myöhään päivällä (NIA). Alzheimer's Association ehdottaa päiväunien rajoittamista, jos yöuni on hankalaa.
 
-Lisätietoa tasaisen päivän rakentamisesta löytyy sivulta [päivittäiset rutiinit](/activities/daily-routine/).
+Lisää ajatuksia tasaisen päivän rakentamiseen löydät sivulta [päivittäiset rutiinit](/activities/daily-routine/).
 
 ## Miten voin tehdä kodista rauhallisemman myöhään iltapäivällä?
 
-Vähentäkää melua, lisätkää valoa ja pitäkää tutut asiat lähellä.
+Vähennä melua, lisää valoa ja pidä tutut asiat lähellä.
 
-- **Kirkas ja tasainen valaistus.** Alzheimer-yhdistys suosittelee pitämään kodin hyvin valaistuna illalla. Valaiskaa tila ennen kuin varjot ilmestyvät.
-- **Vähemmän melua.** Sammuttakaa tai hiljentäkää televisio ja radio ja rajoittakaa vierailijoita tai kiireisiä kotitöitä tähän aikaan. Alzheimer-yhdistys suosittelee vähentämään iltaisia virikkeitä, kuten televisiota, askareita ja kovaa musiikkia.
-- **Tutut mukavuudet.** NIA suosittelee rauhoittavaa musiikkia ja rakastettuja esineitä ja valokuvia ympäri kotia.
-- **Mukavuuden tarkistukset.** Alzheimer-yhdistys suosittelee tarkistamaan kivun, nälän, janon, ummetuksen, täyden virtsarakon, väsymyksen, infektiot ja ihoärsytyksen sekä pitämään huoneen mukavassa lämpötilassa.
-- **Oma mielialanne.** Ihmiset aistivat stressin. NIA suosittelee hidastamista ja rentoutumisen yrittämistä, jos omat huolenne voivat lisätä jännitystä.
+- **Kirkas, tasainen valaistus.** Alzheimer's Association suosittelee pitämään kodin hyvin valaistuna illalla. Sytytä valot ennen kuin varjot ilmestyvät.
+- **Vähemmän melua.** Sammuta tai hiljennä televisio ja radio, ja rajoita vierailijoita tai kiireisiä kotitöitä tähän aikaan. Alzheimer's Association ehdottaa ilta-ajan ärsykkeiden vähentämistä, kuten television, kotitöiden ja kovan musiikin.
+- **Tutut lohduttavat asiat.** NIA ehdottaa rauhoittavaa musiikkia sekä rakkaiden esineiden ja valokuvien pitämistä esillä kotona.
+- **Voinnin tarkistaminen.** Alzheimer's Association suosittelee tarkistamaan, onko kyse kivusta, nälästä, janosta, ummetuksesta, täydestä rakosta, väsymyksestä, infektioista tai ihoärsytyksestä, sekä pitämään huoneen lämpötilan miellyttävänä.
+- **Oma mielialasi.** Ihmiset aistivat stressiä. NIA ehdottaa hidastamista ja rentoutumista, jos omat huolesi saattavat lisätä jännitystä.
 
-## Mitä rauhallisia toimintoja voimme tehdä myöhään iltapäivällä?
+## Millaista rauhallista tekemistä voimme tehdä myöhään iltapäivällä?
 
-Valitkaa toimintoja, jotka ovat tuttuja, kiireettömiä ja helppoja lopettaa. Alzheimer-yhdistys ehdottaa rauhoittavia toimintoja, kuten rauhallista musiikkia,
-valokuvia tai lempielokuvaa, ja yhteistä kävelyä levottomuuden lievittämiseksi. NIA ehdottaa välipalaa tai juomaa, lempiohjelmaa, musiikkia, kävelyä, lukemista
-tai yksinkertaista kotityötä, kuten pyykin taittamista.
+Valitse tekemistä, joka on tuttua, kiireetöntä ja helppo lopettaa. Alzheimer's Association ehdottaa rauhoittavaa tekemistä, kuten rauhallista musiikkia, valokuvia tai suosikkielokuvaa, sekä yhteistä kävelyä levottomuuden helpottamiseksi. NIA ehdottaa välipalaa tai juotavaa, suosikkiohjelmaa, musiikkia, kävelyä, lukemista tai yksinkertaista kotityötä, kuten pyykkien viikkaamista.
 
-Ideoita kokeiltavaksi:
+Kokeiltavia ideoita:
 
-1. **Taittakaa pyykkiä yhdessä.** NIA ehdottaa tällaista yksinkertaista kotityötä. Pyyhkeitä on helppo käsitellä, ja tehtävällä on selvä loppu.
-2. **Soittakaa lempimusiikkia.** Tuttuja kappaleita nuoruusvuosilta, hiljaisella äänellä. Mukana hyräileminen lasketaan. Lisää ideoita löytyy [musiikkitoiminnoista](/activities/music/).
-3. **Katsokaa valokuvia.** Valokuva-albumi tai muutama perhekuva [Valokuvaparit](/games/photo-pairs/)-pelissä näkyvillä kuvilla voi johtaa hiljaiseen keskusteluun.
-4. **Lähtekää lyhyelle kävelylle.** Puutarhassa, korttelin ympäri tai käytävällä ennen kuin pimeää tulee.
-5. **Jakakaa välipala ja juoma.** Jotain yksinkertaista, lämmintä ja kofeiinitonta, pöydän ääressä yhdessä.
-6. **Lempeä pariuttaminen.** [Valokuvaparit](/games/picture-pairs/) neljällä ruudulla ja näkyvillä kuvilla on helppo aloittaa ja helppo lopettaa.
-7. **Värittäminen.** [Värityskuvat](/games/coloring/) näytöllä tai tulostetulla sivulla ilman tavoitetta saada valmiiksi.
-8. **Katselua ja puhetta.** [Keskustelukortit](/games/conversation-cards/) tarjoavat kuvan ja avoimen kysymyksen. Pelkkä katsominen riittää.
-9. **Hengitystauko.** [Rauhallinen hengitys](/games/calm-breathing/) on hidas, hiljainen tauko, jonka voitte aloittaa ja lopettaa itse.
-10. **Käsitöitä.** Napittaminen tai sukkien lajittelu, pehmeän peiton silittäminen tai tutun esineen pitäminen kädessä. Katso [aistitoiminnat](/activities/sensory/).
+1. **Viikatkaa pyykkejä yhdessä.** NIA ehdottaa tällaista yksinkertaista kotityötä. Pyyhkeet ovat helppoja käsitellä, ja tekemisessä on selkeä loppu.
+2. **Soittakaa suosikkimusiikkia.** Tuttuja kappaleita nuoruusvuosilta hiljaisella äänenvoimakkuudella. Mukaan hyräilykin riittää. Lisää ideoita sivulla [musiikkiaktiviteetit](/activities/music/).
+3. **Katselkaa valokuvia.** Valokuva-albumi tai muutama perhekuva [Photo Pairs](/games/photo-pairs/) -pelissä kuvien ollessa näkyvillä voi johtaa rauhalliseen keskusteluun.
+4. **Käykää lyhyellä kävelyllä.** Puutarhassa, korttelin ympäri tai käytävällä ennen kuin tulee pimeää.
+5. **Nauttikaa välipala ja juotavaa yhdessä.** Jotain yksinkertaista, lämmintä ja kofeiinitonta yhdessä pöydän ääressä.
+6. **Rauhallista yhdistelyä.** [Picture Pairs](/games/picture-pairs/) neljällä laatalla ja kuvat näkyvillä on helppo aloittaa ja helppo lopettaa.
+7. **Värittäminen.** [Coloring](/games/coloring/) ruudulla tai tulostetulla sivulla ilman tavoitteena saada valmista.
+8. **Katselua ja jutustelua.** [Conversation Cards](/games/conversation-cards/) tarjoaa kuvan ja avoimen aloitteen. Pelkkä katselu riittää.
+9. **Hengähdystauko.** [Calm Breathing](/games/calm-breathing/) on hidas, rauhallinen tauko, jonka aloitat ja lopetat itse.
+10. **Käsillä tekemistä.** Nappien tai sukkien lajittelu, pehmeän peiton silittely tai tutun esineen piteleminen. Katso [aistitoiminnot](/activities/sensory/).
 
-Vältä uusia pelejä, kiireisiä retkiä ja kaikkea, mikä vaatii paljon muistia tai keskittymistä myöhään päivällä. Säilyttäkää ne aamuun.
+Vältä uusia pelejä, kiireisiä retkiä ja kaikkea, mikä vaatii paljon muistamista tai keskittymistä päivän loppupuolella. Säästä ne aamuun.
 
-## Mitä minun pitäisi tehdä, kun levottomuus alkaa?
+## Mitä teen, kun levottomuus alkaa?
 
-Pysykää rauhallisina, rauhoittakaa ja ohjatkaa lempeästi toisaalle. NIA ehdottaa puhumista rauhallisesti, ihmisen huolien kuuntelua, väittelyn välttämistä,
-hänen rauhoittelemistaan siitä, että hän on turvassa, ja lempeää kosketusta, jos se auttaa. Kokeilkaa sitten häiriötä: välipala, juoma, musiikki tai kävely.
+Pysy rauhallisena, lohduta ja suuntaa huomio lempeästi toisaalle. NIA ehdottaa, että puhut rauhallisesti, kuuntelet henkilön huolia, vältät väittelyä, vakuutat hänelle, että hän on turvassa, ja käytät lempeää kosketusta, jos se auttaa. Kokeile sitten saada huomio muuhun: välipala, juotavaa, musiikkia tai kävely.
 
-Alzheimer-yhdistys ehdottaa lauseita kuten ”Olette turvassa täällä” ja ”Olen pahoillani, että olette ahdistunut”, ja neuvoo lisäämään valoa, hidastamaan
-ja rajoittamaan virikkeitä. Älkää ahdistako, ahtautako tai rajoittako ihmistä tai väittelkö hänen kanssaan.
+Alzheimer's Association ehdottaa lauseita kuten ”Olet täällä turvassa” ja ”Olen pahoillani, että olet pahoillasi”, ja neuvoo lisäämään valoa, hidastamaan ja vähentämään ärsykkeitä. Älä ahdista, piiritä tai estä henkilön liikkumista äläkä väittele hänen kanssaan.
 
-Jos ihminen käyttäytyy aggressiivisesti, NIA neuvoo pysymään turvallisen etäisyyden päässä, kunnes käyttäytyminen loppuu. Hätätilanteessa soittakaa 112 ja kertokaa, että ihmisellä on dementia.
+Jos henkilö muuttuu aggressiiviseksi, NIA neuvoo pysymään turvallisen välimatkan päässä, kunnes käytös laantuu. Hätätilanteessa soita 911 ja kerro, että henkilöllä on muistisairaus. [Opas vihaan ja aggressioon vastaamiseen](/caregiving/when-anger-becomes-aggression-with-dementia/) käsittelee välitöntä turvallisuutta ja sitä, mitä tehdä sen jälkeen.
 
-Oppaamme [viestinnästä](/caregiving/communication-tips/) ja [mitä tehdä, kun hän sanoo ei](/caregiving/when-they-say-no/) kertovat lisää rauhoittavista sanoista.
+Oppaissamme [vuorovaikutuksesta](/caregiving/communication-tips/) ja [mitä tehdä, kun hän sanoo ei](/caregiving/when-they-say-no/) on lisää neuvoja rauhoittavaan puheeseen.
 
-## Miten selvitän laukaisevat tekijät?
+## Miten löydän laukaisevat tekijät?
 
-Pitäkää lyhyttä muistiinpanoa viikon tai parin ajan. Alzheimer-yhdistys suosittelee seuraamaan, mitä tapahtuu ennen sundowning-jaksoja, jotta laukaisevat tekijät löytyvät.
-Kirjatkaa ylös, mihin aikaan levottomuus alkoi, mitä tapahtui tuntia aiemmin, päiväunet, ateriat ja juomat, vieraat, melu ja valo. Tuokaa muistiinpanot lääkärille.
-NIA huomauttaa, että käyttäytymisen muutosten seuraaminen voi auttaa omaishoitajia ja terveydenhuollon ammattilaisia tunnistamaan kaavan.
+Pidä lyhyttä kirjaa viikon tai kahden ajan. Alzheimer's Association suosittelee kirjaamaan, mitä tapahtuu ennen iltarauhattomuuden jaksoja, jotta laukaisevat tekijät tunnistetaan. Merkitse muistiin aika, jolloin levottomuus alkoi, mitä tapahtui edellisen tunnin aikana, päiväunet, ateriat ja juomat, vierailijat, melu ja valaistus. Vie kirja mukaan lääkärille. NIA toteaa, että käytösmuutosten seuraaminen voi auttaa omaisia ja hoidon ammattilaisia huomaamaan toistuvan kaavan.
 
-## Milloin minun pitäisi soittaa lääkärille sundowningin vuoksi?
+## Milloin iltarauhattomuuden vuoksi kannattaa ottaa yhteys lääkäriin?
 
-Ottakaa yhteyttä hoidettavanne lääkäriin, jos levottomuus on uutta, äkillisesti pahentunut tai tulee muiden muutosten mukana. NIA sanoo, että äkilliset tai nopeasti
-vaihtelevat käyttäytymisen muutokset, erityisesti infektion tai äskettäisten lääkemuutosten jälkeen, on tuotava lääkärin tietoon heti.
+Ota yhteys henkilön lääkäriin, jos levottomuus on uutta, äkillisesti pahentunutta tai siihen liittyy muita muutoksia. NIA sanoo, että äkillisistä tai nopeasti vaihtelevista käytösmuutoksista, erityisesti infektion tai äskettäisten lääkitysmuutosten jälkeen, tulee kertoa lääkärille heti.
 
-Pyytäkää lääkäriä tarkistamaan asiat, jotka voivat vaikeuttaa iltoja. Alzheimer-yhdistys mainitsee fyysisiä ongelmia, kuten virtsatieinfektiot, virtsankarkailun,
-levottomat jalat ja uniapnean, ja suosittelee kysymään, mihin aikaan päivästä kukin lääke on paras ottaa. NIA luettelee kivun, ummetuksen sekä lääkkeiden
-sivuvaikutukset tai yhteisvaikutukset levottomuuden mahdollisiksi syiksi.
+Pyydä lääkäriä tarkistamaan asiat, jotka voivat vaikeuttaa iltoja. Alzheimer's Association mainitsee fyysisiä ongelmia, kuten virtsatieinfektiot, pidätyskyvyttömyys, levottomat jalat ja uniapnea, ja ehdottaa kysymistä, mihin vuorokaudenaikaan kukin lääke kannattaa ottaa. NIA mainitsee mahdollisina levottomuuden syinä kivun, ummetuksen ja lääkkeiden sivuvaikutukset tai yhteisvaikutukset.
 
-Alzheimer-yhdistyksen mukaan lääkkeettömät keinot ovat yleensä ensisijaisia Alzheimerin taudin liittyviin unihäiriöihin, ja lääkettä myöhäisen päivän levottomuuteen
-tulisi harkita vain, jos nämä keinot eivät toimi, riskit ja hyödyt punnittuaan. Se päätös kuuluu lääkärille. Älkää aloittako, lopettako tai muuttako mitään lääkettä,
-unilääkettä tai lisäravinnetta ilman lääketieteellistä neuvoa.
+Alzheimer's Association kertoo, että Alzheimerin tautiin liittyvissä univaikeuksissa lääkkeettömiä keinoja suositellaan yleensä ensin ja että ilta-ajan levottomuuteen tarkoitettua lääkitystä tulisi harkita vasta, jos ne eivät auta, hyötyjen ja haittojen punnitsemisen jälkeen. Päätös kuuluu lääkärille. Älä aloita, lopeta tai muuta mitään lääkitystä, unilääkettä tai ravintolisää ilman lääketieteellistä ohjeistusta.
 
-## Miten selviydyn illoista itse?
+## Miten itse jaksan illat?
 
-Myöhäinen iltapäivä voi olla omaishoitajan päivän vaikein osa. Jos voitte, pyytäkää perheenjäsentä, ystävää tai palkattua avustajaa hoitamaan myöhäistä iltapäivää
-pari päivää viikossa, vaikka vain tunnin ajan. Oppaamme [omaishoitajan jaksamisesta](/caregiving/caregiver-self-care/) listaa tilapäishoitovaihtoehdot
-ja Alzheimer-yhdistyksen maksuttoman 24/7-neuvontapuhelimen.
+Myöhäiset iltapäivät voivat olla omaishoitajan päivän raskain hetki. Jos mahdollista, pyydä perheenjäsentä, ystävää tai palkattua apua ottamaan myöhäinen iltapäivä vastuulleen muutamana päivänä viikossa, vaikka tunniksi. Oppaamme [omaishoitajan omasta jaksamisesta](/caregiving/caregiver-self-care/) luettelee lepoapuvaihtoehtoja ja Alzheimer's Associationin maksuttoman ympäri vuorokauden avoinna olevan avunumeron.

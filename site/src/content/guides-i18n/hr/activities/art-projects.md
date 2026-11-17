@@ -1,28 +1,33 @@
 ---
-title: "Umjetnički projekti za osobe koje žive s demencijom, korak po korak"
-seoTitle: "Umjetnički projekti za osobe koje žive s demencijom, korak po korak"
-description: "Umjetnički projekti za osobe koje žive s demencijom, korak po korak: akvarelni premaz, kolaž, mekana glina, pastel na tamnom papiru i otisci lišća, uz savjete za siguran, odrasli prikladan pribor."
+title: "Likovne aktivnosti za osobe s demencijom"
+seoTitle: "Likovne aktivnosti i demencija: korak po korak"
+description: "Likovne aktivnosti za osobe s demencijom, korak po korak: akvarel, kolaž, glina, pastele i otisci lišća te savjeti za siguran odabir pribora."
 section: activities
 order: 28
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Umjetnički projekti za osobe koje žive s demencijom najbolje funkcioniraju ako su kratki, osjetilni i imaju jasan prvi korak. Pokušajte s akvarelnim premazom, kolažem iz časopisa, mekanom glinom, pastelima na tamnom papiru ili otiscima lišća, te počnite zajedno. Odaberite netoksične potrepštine s velikim drškama, bez sitnih dijelova, i prilagodite ih razini sposobnosti osobe. Bitan je proces, dovršeni rad je samo bonus.
+  Osobe koje žive s demencijom mogu uživati u kratkim, osjetilnim likovnim
+  aktivnostima s jasnim prvim korakom. Isprobajte akvarelni premaz, kolaž iz
+  časopisa, mekanu glinu, pastelne krede na tamnom papiru ili otiske lišća te
+  svaku aktivnost započnite zajedno. Odaberite netoksičan pribor s velikim
+  ručkama, bez sitnih dijelova, i prilagodite aktivnost osobi. Važniji je
+  proces od gotovog rada.
 keyPoints:
-  - "Odaberite projekt s jednim jasnim prvim korakom, poput umakanja kista ili trganja slike, kako bi osoba mogla lako započeti."
-  - "Koristite netoksične potrepštine s velikim drškama, bez sitnih dijelova, para ili oštrih alata."
-  - "Počnite zajedno, pa se povucite. Često je dovoljno samo prvi potez ili trganje da osoba nastavi dalje."
-  - "Prilagodite projekt kako se sposobnosti osobe mijenjaju, od detaljnijeg rada u ranijoj fazi do šireg, osjetilnog pokreta u kasnijoj fazi."
-  - "Pohvalite odabire i teksture, ne tehniku, te prestanite čim aktivnost više ne bude ugodna."
+  - "Odaberite aktivnosti s jednim jasnim prvim korakom, poput umakanja kista ili trganja slike, kako bi osoba mogla lako započeti."
+  - "Koristite netoksičan pribor s velikim ručkama, bez sitnih dijelova, bez isparenja i oštrih alata."
+  - "Započnite zajedno, a zatim se malo povucite. Mnogim je osobama dovoljan prvi potez ili rez kako bi nastavile."
+  - "Prilagođavajte aktivnost promjenama u sposobnostima osobe, od detaljnijeg rada u ranijoj fazi do širokih, osjetilnih pokreta kasnije."
+  - "Pohvalite odabire i teksture, a ne tehniku, i prestanite čim aktivnost prestane biti ugodna."
 faq:
-  - q: "Koji umjetnički projekti dobro pristaju osobama koje žive s demencijom?"
-    a: "Dobre opcije su akvarelni premaz na debelom papiru, kolaž od slika iz časopisa, mekana glina za gnječenje i stiskanje, pastelne boje na tamnom papiru, otisci lišća vodootpornom bojom te slaganje tkanine ili cvijeća. Odaberite onaj koji odgovara interesima i mogućnostima osobe za koju se brinete."
-  - q: "Kako odabrati umjetnički pribor za osobu koja živi s demencijom?"
-    a: "Potražite netoksične, perive materijale s velikim drškama i jarkim bojama. Izbjegavajte sitne perlice, gumbe, sjaj, mokro staklo, škare s oštrim vrhovima i sve što bi se moglo progutati. Provjerite postoje li alergije, poput lateksa ili određenih boja. Koristite dobar kontrast, na primjer bijeli papir s jarkom bojom, i držite popis potrepština kratak."
-  - q: "Može li osoba u kasnijoj fazi demencije sudjelovati u umjetničkom radu?"
-    a: "Da, kroz jednostavne osjetilne oblike. Pokušajte s gnječenjem meke gline, slikanjem velikim kistom po plitici s vodom ili razvrstavanjem komadića tkanine različitih tekstura. Možda će biti potrebno voditi ruku osobe. Gledanje i razgovor o bojama također može biti način sudjelovanja."
+  - q: "U kojim likovnim aktivnostima osoba s demencijom može uživati?"
+    a: "Dobre su mogućnosti akvarelni premazi na debljem papiru, kolaž od slika iz časopisa, mekana glina za stiskanje i gnječenje, pastelne krede na tamnom papiru, otisci lišća perivim bojama te slaganje tkanina ili cvijeća. Odaberite ono što odgovara interesima i sposobnostima osobe."
+  - q: "Kako odabrati likovni pribor za osobu s demencijom?"
+    a: "Tražite netoksične materijale koji se mogu oprati, s velikim ručkama i jasnim bojama, a izbjegavajte sitne perlice, dugmad, šljokice, mokro staklo, oštre škare i sve što bi se moglo progutati. Provjerite ima li alergija, primjerice na lateks rukavice ili određene boje. Koristite dobar kontrast, poput bijelog papira s izraženom bojom, i neka popis pribora bude kratak."
+  - q: "Može li se osoba u kasnoj fazi baviti likovnim aktivnostima?"
+    a: "Može, uz jednostavne osjetilne oblike. Isprobajte stiskanje mekane gline, slikanje velikim kistom u pladnju s vodom ili razvrstavanje komadića tkanine različitih tekstura. Možda ćete morati voditi njezinu ruku. Gledanje i razgovor o bojama također su način sudjelovanja."
   - q: "Što ako osoba kaže da ne zna slikati?"
-    a: "Uvjerite je da se umjetnost radi o uživanju u boji i teksturi, a ne o vještini. Samostalno napravite prvi potez i pozovite je da nastavi. Ako i dalje odbija, ponudite neku drugu aktivnost. Za više savjeta pogledajte vodič o odbijanju i frustraciji."
+    a: "Umirite je i objasnite da je u likovnom izražavanju važno uživati u bojama i teksturama, a ne vještina. Napravite prvi potez sami i pozovite je da nastavi. Ako i dalje odbija, ponudite drugu aktivnost; pogledajte vodič o odbijanju i frustraciji."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -41,65 +46,65 @@ related: [activities/arts-and-crafts, activities/coloring, activities/sensory, a
 health: false
 ---
 
-Umjetnički projekti mogu biti lijep način da provedete vrijeme s osobom koja živi s demencijom. Okupljaju ruke, oči i osjetila, te daju nešto o čemu možete razgovarati. Ova stranica donosi konkretne projekte s jednostavnim koracima te savjete za siguran odabir pribora. Za više o načelima umjetničkog rada za odrasle, poput izbjegavanja dječjeg materijala, pogledajte [umjetnost i rukotvorine za odrasle osobe koje žive s demencijom](/activities/arts-and-crafts/).
+Likovne aktivnosti mogu biti lijep način za zajedničko provođenje vremena s osobom koja živi s demencijom. Uključuju ruke, oči i osjetila te vam daju temu za razgovor. Ova stranica nudi konkretne prijedloge s jednostavnim koracima i upute za siguran odabir pribora. Za osnovna načela likovnog izražavanja za odrasle, poput izbjegavanja dječjeg pribora, pogledajte [likovne i rukotvorne aktivnosti za odrasle osobe s demencijom](/activities/arts-and-crafts/).
 
-## Kako započeti bilo koji umjetnički projekt
+## Kako započeti bilo koju likovnu aktivnost
 
-1. **Pripremite sve unaprijed.** Stavite samo jednu ili dvije potrepštine, zaštitnu podlogu i vlažnu krpu.
-2. **Pokažite prvi korak.** Umaknite kist u vodu, otkinite prvi komadić papira ili uzmite malo gline, te pozovite osobu da učini isto.
-3. **Radite rame uz rame.** Držite svoj vlastiti rad u blizini kako bi aktivnost djelovala zajednička, a ne kao nadzor.
-4. **Razgovarajte o onome što vidite.** Govorite o bojama, teksturama i oblicima, umjesto da ocjenjujete gotov rad.
-5. **Prestante prije nego što energija opadne.** Često je dovoljno 10 do 20 minuta.
+1. **Pripremite se prije početka.** Izložite jedan ili dva materijala, zaštitnu podlogu i vlažnu krpu.
+2. **Pokažite prvi korak.** Umočite kist, otkinite prvi komad papira ili stisnite malu grudicu gline, pa pozovite osobu da učini isto.
+3. **Radite jedno uz drugo.** Držite i svoj rad u blizini kako bi se aktivnost doživjela kao zajednička, a ne kao nadzirana.
+4. **Razgovarajte o onome što vidite.** Opisujte boje, teksture i oblike umjesto da procjenjujete rad.
+5. **Prestanite prije nego što energija padne.** Deset do dvadeset minuta često je dobra duljina.
 
-[Alzheimerova udruga](https://www.alz.org/help-support/caregiving/daily-care/art-music) napominje da umjetnički rad može biti način izražavanja osjećaja i kreativnosti bez potrebe za umjetničkom vještinom. [Nacionalni institut za starenje](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) savjetuje da se aktivnosti podijele na manje, lakše korake.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) navodi da je likovno izražavanje način da se izraze osjećaji i potakne kreativnost bez potrebe za umjetničkom vještinom. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) savjetuje da se aktivnosti podijele na male, izvedive korake.
 
 ## Akvarelni premaz
 
-Koristite debeli akvarelni papir, veliki mekani kist i nekoliko boja u plitkim posudicama. Navlažite papir čistom vodom, pa pustite osobu da kapne boju na njega. Lagano nagnite papir kako bi se boje miješale. Nastaje nježna, apstraktna slika koja ne zahtijeva nikakav plan.
+Upotrijebite deblji akvarelni papir, veliki mekani kist i nekoliko boja u plitkim posudicama. Navlažite papir čistom vodom, a zatim neka osoba kapne boju na njega. Lagano nagnite papir kako bi se boje razlile. Rezultat je mekana, apstraktna slika za koju nije potreban plan.
 
-- **Rana faza:** Pustite osobu da odabere boje i naslika nešto po vlastitom izboru.
-- **Srednja faza:** Ponudite dvije ili tri boje i sami navlažite papir.
-- **Kasnija faza:** Držite papir dok osoba umaka spužvu u boju.
+- **Rana faza:** Neka osoba odabere boje i naslika krajolik.
+- **Srednja faza:** Ponudite dvije ili tri boje i navlažite papir umjesto nje.
+- **Kasnija faza:** Držite papir dok osoba tušira spužvom.
 
 ## Kolaž iz časopisa
 
-Prikupite stranice časopisa s jarkim slikama cvijeća, hrane, životinja, automobila ili putovanja. Trgajte slike na veće komade, što je često lakše nego rezati škarama, i lijepite ih na karton. Kolaž dobro potiče razgovor, jer svaka slika može potaknuti uspomenu. Pogodan je za osobu koja voli odabirati i razvrstavati.
+Prikupite stranice iz časopisa sa svijetlim fotografijama cvijeća, hrane, životinja, automobila ili putovanja. Trgajte slike na veće komade, što je lakše od rezanja, i lijepite ih na karton. Kolaž je dobar poticaj za razgovor jer svaka slika može potaknuti sjećanje. Prikladan je za osobu koja voli razvrstavati i birati.
 
 ## Mekana glina
 
-Zrakosušaća ili mekana modelarska glina može se gnječiti, valjati i stiskati. Možete napraviti jednostavnu posudicu ili ravnu pločicu. Glina je jako osjetilna, pa može biti umirujuća za osobe koje vole dodirivati stvari. Držite komade velike i izbjegavajte alate s oštrim vrhovima.
+Glinom koja se suši na zraku ili mekanom glinom za modeliranje može se štipati, valjati i stiskati. Napravite jednostavnu zdjelicu ili ravnu pločicu. Glina je izrazito taktilna pa može djelovati smirujuće osobama koje vole držati i opipavati predmete. Neka komadi budu veliki i izbjegavajte alate s oštrim vrhovima.
 
-## Pasteli na tamnom papiru
+## Pastelne krede na tamnom papiru
 
-Tamni papir čini pastelne boje svjetlijima. Koristite debele, krupne pasteline i pustite osobu da radi široke poteze ili da miješa prstom ili maramicom. Pasteli su prašnjavi, pa pripremite podlogu na pladnju i operite ruke nakon aktivnosti. Odaberite mekane pasteline s oznakom da su netoksični.
+Na tamnom papiru boje pastelnih kreda dolaze do izražaja. Upotrijebite velike, debele pastele i neka osoba radi široke poteze ili razmazuje boju prstom ili maramicom. Pasteli se praše, pa radite na pladnju i nakon toga obrišite ruke. Odaberite mekane pastele s oznakom da su netoksični.
 
 ## Otisci lišća
 
-Sakupite velika lišća u vrtu, premažite žile lišća vodootpornom bojom četkicom i pritisnite lišće na papir. Pažljivo ga uklonite i divite se otisku. Ovaj projekt se lijepo povezuje s [aktivnostima na otvorenom i vrtlarstvom](/activities/outdoor-and-gardening/), a može početi šetnjom radi sakupljanja lišća.
+Skupite veliko lišće iz vrta, nanesite perivu boju na žilice kistom i pritisnite list na papir. Pažljivo ga podignite i pogledajte otisak. Ova je aktivnost povezana s [aktivnostima na otvorenom i vrtlarenjem](/activities/outdoor-and-gardening/), a može započeti šetnjom u kojoj ćete skupiti lišće.
 
-## Slaganje tkanine i cvijeća
+## Slaganje tkanina i cvijeća
 
-Razvrstajte komadiće tkanine različitih tekstura ili složite nekoliko svježih cvjetova u vazu. Riječ je o osjetilnim projektima s vrlo malo pritiska. Posebno su prikladni za osobe u kasnijoj fazi demencije. Više ideja potražite u članku [osjetilne aktivnosti za osobe koje žive s demencijom](/activities/sensory/).
+Razvrstajte komadiće tkanine različitih tekstura po opipu ili aranžirajte nekoliko svježih cvjetova u vazi. To su osjetilne aktivnosti s vrlo malo pritiska. Prikladne su i za osobe u kasnijim fazama. Za više ideja pogledajte [osjetilne aktivnosti za osobe s demencijom](/activities/sensory/).
 
-## Odabir umjetničkog pribora
+## Odabir likovnog pribora
 
-Pribor je važniji za sigurnost i udobnost nego za kvalitetu. Prilikom odabira vodite računa o sljedećem:
+Pribor je važniji za sigurnost i udobnost nego za kvalitetu rada. Pri odabiru razmislite o sljedećem:
 
-- **Netoksično i perivo:** Tražite oznaku netoksično i provjerite da se boje mogu oprati.
-- **Velike drške:** Debeli voštani krede, debeli kistovi i krupni pasteli lakše se drže.
-- **Bez sitnih dijelova:** Izbjegavajte perlice, gumbe, šljokice i labave dijelove koji bi se mogli progutati.
-- **Bez oštrih alata:** Koristite škare za sigurnost ili samo trgnite papir rukama.
-- **Alergije:** Provjerite postoji li osjetljivost na lateks ili neke boje.
-- **Dobar kontrast:** Jarke boje na čistom bijelom ili tamnom papiru lakše se vide.
-- **Kratak popis:** Dovoljna su dvije ili tri potrepštine. Previše izbora može biti opterećujuće.
-- **Lako čišćenje:** Koristite pladanj, plastičnu podlogu i vlažnu krpu kako prljavština ne bi postala razlog za prestanak.
+- **Netoksično i perivo:** Tražite oznaku da je materijal netoksičan i provjerite mogu li se boje oprati.
+- **Velike ručke:** Jumbo bojice, debeli kistovi i velike pastelne krede lakši su za držanje.
+- **Bez sitnih dijelova:** Izbjegavajte perlice, dugmad, šljokice i rastresite šljokice koje bi se mogle progutati.
+- **Bez oštrih alata:** Koristite sigurnosne škare ili trgajte papir rukama.
+- **Alergije:** Provjerite ima li lateksa i poznatih osjetljivosti kože.
+- **Kontrast:** Izražene boje na običnom bijelom ili tamnom papiru lakše se vide.
+- **Kratak popis:** Dovoljna su dva ili tri materijala. Previše izbora može biti previše.
+- **Jednostavno čišćenje:** Upotrijebite pladanj, plastičnu podlogu i vlažnu krpu kako nered ne bi postao razlog za prekid.
 
-## Prilagodba prema fazi demencije
+## Prilagodba prema fazi
 
-U ranoj fazi većina osoba može samostalno planirati i dovršiti projekt uz malu pomoć. U srednjoj fazi ponudite manje izbora i više smjernica. U kasnijoj fazi usredotočite se na osjetilni dio, poput gnječenja gline ili umakanja spužve u boju, te više uživajte u procesu nego u dovršenom radu.
+U ranoj fazi većina osoba može isplanirati i dovršiti aktivnost uz malo pomoći. U srednjoj fazi ponudite manje izbora i više vodstva. U kasnoj fazi usredotočite se na osjetilne procese poput stiskanja gline ili tuširanja boje spužvom te uživajte u rezultatu, a ne u dovršetku.
 
-Više ideja prema fazi potražite u člancima [rana faza](/activities/early-stage/), [srednja faza](/activities/middle-stage/) i [aktivnosti u kasnijoj fazi](/activities/late-stage/). Ako osoba odbija ili postaje frustrirana, u vodiču [kada osoba kaže "ne"](/caregiving/when-they-say-no/) saznat ćete kako se povući na pravilan način.
+Za više ideja prilagođenih fazama pogledajte [aktivnosti za ranu fazu](/activities/early-stage/), [srednju fazu](/activities/middle-stage/) i [kasnu fazu](/activities/late-stage/). Ako osoba odbija ili postane frustrirana, naš vodič [kada osoba kaže ne](/caregiving/when-they-say-no/) objašnjava kako se povući.
 
-## Povežite s igrom
+## Spojite s igrom
 
-Nakon slikanja možete pokušati s [bojanjem](/games/coloring/) na tabletu radi mirnijeg nastavka, ili s [slikovnom slagalicom](/games/picture-puzzle/) kao završnom aktivnošću. Obje drže ruke zauzetima, bez zahtjeva za finom vještinom.
+Nakon slikanja isprobajte [bojanje](/games/coloring/) na tabletu kao mirniji nastavak ili [slagalicu sa slikama](/games/picture-puzzle/) kao završnu aktivnost. Obje aktivnosti zaokupljaju ruke bez potrebe za finom vještinom.

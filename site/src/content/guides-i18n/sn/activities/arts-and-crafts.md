@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Hunyanzvi neMabasa eMaoko kuVanhu Vakuru vane Dementia"
+seoTitle: "Hunyanzvi neMabasa zveDementia: Zvavanhu Vakuru"
+description: "Mazano enyanzvi neevanhu vakuru kune vanhu vane dementia: watercolor, collage, kuronga maruva nezvimwe, nemazano ekugadzirira, kugadzirisa, uye kukoshesa nguva pamwe chete."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Hunyanzvi hwakanaka nemabasa emaoko kuvanhu vakuru vane dementia zvinoita uye zvinoonekwa sezvevanhu vakuru: watercolor, collage kubva mumagazini, kuronga maruva, ivhu, kugadzira makadhi ari nyore kana mapeji ekupenda evanhu vakuru. Bvisai zvinhu zvishoma, batsirai nepeni yekutanga kana zvichidiwa, tauriranai pamunenge muchishanda, uye mukuone kugarisana kwenyu serinokosha. Basa rakapedzwa harisi basa guru.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Sarudzai zvinhu nemisoro zvinoonekwa sezvevanhu vakuru, zvakaita semapepa ewatercolor, maruva chaiwo nemifananidzo yemumagazini, kwete zvokunamira, zvidhori kana mapepa ane mifananidzo yemakatuni."
+  - "Tarirai panzira yezvinhu: mavara, kunzwa kweivhu, hurukuro. Basa rakapedzwa chiripo chekuwedzera, kwete chinangwa chikuru."
+  - "Dzosai chikonzero pamunogona, zvakaita sekadhi remuzukuru kana chishongo chetafura."
+  - "Batsira munhu atange, wozobva watama. Kutanga kufambisa penzura pamwe chete kunowanzo kukwana."
+  - "Mabasa haafaniri kupedzwa muzuva rimwe, uye kumira kare kwakangonaka nguva dzose."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ndingaita sei kuti mabasa emaoko asaita sevana?"
+    a: "Shandisai zvinhu zveunyanzvi zvechokwadi, misoro yevevanhu vakuru, uye mutauro wekunamata. Chinjai zvinhu zvokunamira nemapepa emakatuni muise mapepa ewatercolor, jira, maruva, mifananidzo yemumagazini nemapeji ekupenda akadzama evanhu vakuru. Musamborumbidza basa sezvamungarumbidza kudhirowa kwemwana; tauriranai naro sezvamungataura neshamwari munhu mukuru."
+  - q: "Ndeapi mabasa eunyanzvi anoshanda pane imwe nhanho yepamusoro yedementia?"
+    a: "Mabasa ari nyore anobata manzwiro anoshanda zvirinani gare gare: kupenda mafuro akafara nepenzura hombe, kudzvanya ivhu rakapfava, kuronga maruva mashoma muvhenekeri, kana kusiyanisa zvidimbu zvejira nekuabata. Pamwe munofanira kutanga kufamba pamwe chete. Kumutarisa pamunenge muchipenda nekutaura nezvemavara inzira yekubatana nayo."
+  - q: "Ko kana vakati havagoni kudhirowa?"
+    a: "Bvisai kudzvinyirirwa. Edzai mabasa asina mhinduro chaiyo, akaita sekupenda nemvura, collage, kana kuronga maruva. Munogonawo kuti munoda rubatsiro pane chimwe chinhu, sekusarudza mavara ekadhi, kuti basa rioneke serukumbiro rwokubatsirwa kwete semuedzo."
+  - q: "Ko mapeji ekupenda akanyanyopa here kuvanhu vakuru?"
+    a: "Kwete kana akagadzirirwa vanhu vakuru. Sarudzai mapeji ane madingindira evanhu vakuru akadai semapindu, macover, mota kana nzvimbo dzakasikwa, mupe senzira yekuzorora kwete sechidzidzo. Mapeji edu ekupenda anogona kudhindwa kana kupendwa patablet."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Hunyanzvi nemabasa emaoko zvinopa vanhu vane dementia nzira yekuratidza zvavanofunga isingavimbe nekuti vanowana here mazwi akakodzera. Alzheimer's Association inoti mabasa eunyanzvi anogona kuunza [kunzwa kwekuzadzisa chinangwa](https://www.alz.org/help-support/caregiving/daily-care/art-music) uye mukana wekuratidza zvavanofunga, kumunhu anorwara nedementia pamwe nekuvachengeta. Chinokosha ndechekuchengeta zvinhu sezvevanhu vakuru, zviri nyore, uye pasina kudzvinyirirwa. Peji ino inopa mabasa chaiwo, maitiro ekuagadzirisa, uye maitiro ekuachinjisa zvinhu sezvo zvichichinja.
 
-## What makes an art activity adult and not childish?
+## Chii chinoita kuti basa reunyanzvi rive revevanhu vakuru uye risaita sevana?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Basa reunyanzvi revevanhu vakuru rinoshandisa zvinhu zvechokwadi, madingindira evanhu vakuru, uye mutauro wekunamata. Alzheimer's Association inopa zano rekuchengeta mabasa ari padanho revevanhu vakuru uye kudzivirira chero chinhu chinogona kunzwa sekunyadzisa kana sevana.
 
-| Feels childish | Feels adult |
+| Zvinoita sevana | Zvinoita zvevanhu vakuru |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Zvokunamira, zvidhori zvefuro, meso ezvidhori | Mapepa ewatercolor, jira, maruva akaomeswa |
+| Mapeji emakatuni ekupenda | Mapeji ekupenda emapindu, macover, mota kana nzvimbo dzakasikwa |
+| Kurumbidza “wakaita zvakanaka” pamaraki ose | Hurukuro yechokwadi: “Bhuruu iri rakanaka padivi pegirinhi” |
+| Basa risina basa | Kadhi reshama, chishongo, chipo |
+| Mirairo inoita sechidzidzo | Kukoka: “Ungandibatsira here neizvi?” |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Fungai zvaanoda munhu wacho. Munhu aida shinda anogona kunakidzwa nekubata jira. Mudzidzisi wekare anganakidzwa nekugadzira makadhi. Munhu aida basa rekuvaka angafarira zvikamu zvikuru zvekuvaka kana kusiyanisa zvinhu zvebasa.
 
-## Why focus on the process, not the product?
+## Sei tichitarisa nzira yezvinhu, kwete mhedzisiro?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Nokuti nguva yamunogara pamwe chete ndiyo inokosha. Gwaro reAlzheimer's Association rinonzi [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) rinoti tarisai nzira yezvinhu, kwete mhedzisiro. Pendi yebhuruu chete ichiri pendi. Collage ine mifananidzo mitatu ichiri collage.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association inotaurawo kuti muimbi anogona kunzwa kusagadzikana nemashanduko emabasa ake, asi munhu asingaiti zveunyanzvi anogona kunakidzwa nemukana mutsva wekuratidza zvaanofunga. Kana munhu wacho akamboita zveunyanzvi zvakanyanya, edzai nzira yakasiyana neyayaiziva, kuitira kuti inzwe sekutamba kwete sekufananidzwa.
 
-## Arts and crafts ideas to try
+## Mazano ehunyanzvi nemabasa emaoko ekuyedza
 
-Each idea includes how to make it simpler if it becomes hard.
+Mumwe nomumwe une nzira yekuita kuti ave nyore kana zvichiva zvakaoma.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Kupenda nemvura (watercolor washes).** Nyorovesai bepa rakakura rewatercolor muise munhu wacho adonhedze mavara naro nepenzura hombe. Mavara anozopararira ega, saka hapana mhedzisiro isiriyo. *Zvakareruka:* perekai mavara maviri chete, kana penda nemvura pabepa rakasviba rinoratidza nzvimbo dzakanyorova.
+2. **Collage yemumagazini.** Chekai mifananidzo kare mumagazini ezvekugadzira bindu, kubika, mota, kufamba kana zvavaida kare. Varegei vasarudze uye vanamate mifananidzo pabepa. *Zvakareruka:* perekai mifananidzo mina yakachekwa neglu, muite pamwe chete.
+3. **Kuronga maruva.** Alzheimer's Foundation of America inokurudzira [kuronga maruva nemashizha](https://alzfdn.org/dementia-activity-gardening/) kuita zviratidzo zviri nyore. Shandisai vhenekeri yakasimba uye matsime akachekwa kare. *Zvakareruka:* isai matsime mashoma mukapu duku, rimwe nerimwe.
+4. **Makhadhi ane maruva akaomeswa.** Omesei maruva kubva mubouquet pakati pemapeji ebhuku kwevhiki rimwe, wozonamira pabepa rakapetwa. *Zvakareruka:* imi munoisa glu, ivo vanodzvanya ruva pasi.
+5. **Mapeji ekupenda evanhu vakuru.** Sarudzai mapeji ane mitsara yakajeka nemisoro chaiyo. Mapeji edu ekudhinda [coloring pages](/games/coloring/) anogonawo kupendwa pachiratidziro nekubaya ruvara, wozobaya chikamu chemufananidzo. *Zvakareruka:* nzvimbo huru, mavara mashoma, mapenzi makobvu.
+6. **Ivhu kana hupfu hwakapfava.** Monyorai, dzvinyirirai uye fambisai ivhu rakaoma kana hupfu hwakapfava. Kudzvanya shizha muivhu kunoita tile rakapfava. *Zvakareruka:* kudzvanya nekumonyorora ibasa rakazara. Chenjerai kuti asazodya ivhu.
+7. **Kugadzira makadhi.** Alzheimer's Association inokurudzira kuti muchengete sechinhu chaicho: “Tiri kutumira kadhi reshamwari. Ungabatsira here?” Mapepa akachekwa kare nezvidhori zvemaruva kana zvisimbiso zvakanaka.
+8. **Scrapbooking.** Isai mifananidzo yekare, makadhi epositi kana zvipikicha mumapeji ebhuku pamwe chete. Taurai pamusoro pemumwe nemumwe pamunenge muchiita. Onai gwaro redu re [reminiscence guide](/activities/reminiscence/) kuti muwane nzira dzakapfava dzekutaura nezvekare.
+9. **Mabhodhi ejira nemanzwiro.** Namatirai zvidimbu zvecorduroy, velvet, burlap nesilk pabepa rakasimba. Kugadzira ibasa; kubata gare gare ibasa rimwe. Zvimwe pfungwa dziri mugwaro redu re [sensory activities guide](/activities/sensory/).
+10. **Kupedza huni zviri nyore.** Kune munhu aida basa rehuni, kutsetseka huni hwakapfava kana kupenda birdhouse kunganzwika kwakajairika. Bvisai maturusi akapinza uye chengetedzai.
+11. **Kupenda kumhanzi.** Isai rekodhi yainodiwa mupeinde mafomu kana mavara anoenderana nemanzwiro. Izvi zvinobatanidza mabasa maviri anowanzo farirwa. Onai [music activities](/activities/music/).
 
-## How do I set up an art session?
+## Ndingaite sei kugadzirisa nguva yekunyora?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Gadzirai kare.** Chekai, gadzirai uye isai zvose musati makoka munhu wacho. Kumirira pamunenge muchitsvaga makasi kunogona kupedza mukana.
+2. **Chengetai zviri zvishoma.** Mavara maviri kana matatu, penzura imwe, bepa rimwe. Sarudzo dzakawanda dzinogona kunetsa.
+3. **Dzivisai tafura.** Chira chokudzivirira kana jira rekare zvinoreva kuti tsvina haisi dambudziko.
+4. **Garisai padivi nemumwe.** Shandai pabasa renyu padivi peavo vavo. Zvinonzwa sekugovana, kwete sekutarwa.
+5. **Mubatsire atange.** Alzheimer's Association inoti pamwe munofanira kutanga kufamba kwepenzura nemunhu wacho. Kana atanga, vazhinji vanoenderera mberi.
+6. **Taurai pamunenge muchishanda.** Reururai nezvemavara nemanzwiro, kana regai hunyanzvi hwutungamirire nyaya. Dzivisai mibvunzo yokuedza se “Ichi chii?”
+7. **Bvumirai nguva yakawanda.** Basa harifaniri kupedzwa muzuva rimwe.
 
-## How do I adapt art as dementia changes?
+## Ndingaachinjisa sei hunyanzvi sezvo dementia ichichinja?
 
-| Stage | What tends to work | What to adjust |
+| Nhanho | Zvinowanzo shanda | Chii chekuchinja |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Kutanga | Makirasi, kupenda kwakadzama, scrapbooks, kugadzira makadhi, kupenda kubva pamufananidzo | Perekai sarudzo dzemabasa; chengetai zviri pamwe chete |
+| Pakati | Collage yakachekwa kare, kupenda nemvura, kuronga maruva, kupenda nzvimbo huru | Nhanho imwe chete; imi munocheka nekunamira |
+| Gare gare | Mafuro akafara nepenzura, kudzvanya ivhu, kubata jira, kumutarisa pamunenge muchipenda | Tarirai pamanzwiro; batsirai ruoko zvinyoro nyoro kana achida |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS inoti panzvimbo dzakazotevera, mabasa anowanzo rererwa uye anotarisira manzwiro. Kumutarisa mumwe munhu achipenda, nekutaura nezvemavara, inzira chaiyo yekubatana nayo. Kuti muwane mamwe mazano, onai [activities for every stage](/activities/ideas/).
 
-## Safety with art supplies
+## Kuchengeteka nezvezvinhu zveunyanzvi
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Sarudzai pendi, mapenzi neglu zvisina chepfu.
+- Chengetai makasi, maturusi akapinza nemagirazi ekudziisa kure. Itai kucheka kwose imi kare.
+- Chenjerai kana paine munhu anodya ivhu, pendi kana zvinhu zvidiki.
+- Shandisai midziyo yakasimba yekuisa mvura nemavhenekeri.
 
-## When should we stop?
+## Tinofanira kumira rinhi?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Mirai kana kutarisisa kwadonha kana kutsamwa kwaratidzwa. Alzheimer's Association inokurudzira kugumisa kana kuchinja basa kana kutarisisa kuchidonha kana kutsamwa kuchiwedzera. Isai basa panzvimbo yakachengeteka mupe chinhu chokuzorora. Munogona kudzokera kwairi mangwana, kana kusadzoka. Zvose zvakangonaka.
 
-## Display the work, if the person wants
+## Ratidzai basa, kana munhu wacho achida
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Kukava pendi pamusuwo wefiriji kana kukanda mufananidzo mumufuremu inzira yakanyarara yekuratidza ruremekedzo. Bvunza kutanga. Vamwe vanoda kuona basa ravo pamadziro; vamwe vangada kusazviona.
 
-## Pair art with our games
+## Batanidzai hunyanzvi nemitambo yedu
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Pamazuva apo kugadzirira pendi kwakawanda, [Coloring](/games/coloring/) inoshanda patablet pasina tsvina. [Picture Puzzle](/games/picture-puzzle/) inochengeta mufananidzo wose uripo sekutungamira pamunenge muchichinja zvidimbu. [Conversation Cards](/games/conversation-cards/) inopa mibvunzo yakavhurika inogona kutungamira kubva pamufananidzo kuenda kunyaya. Zvose hazvina nguva kana zvibodzwa. Munogonawo kudhinda mapeji kubva muunganidzwa wedu we [printable activities](/activities/printable/).

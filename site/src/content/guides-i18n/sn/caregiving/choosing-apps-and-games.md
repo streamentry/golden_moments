@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Kusarudza maapu nemitambo yedementia"
+seoTitle: "Kusarudza maapu nemitambo yedementia: Rondedzero"
+description: "Rondedzero yemutarisiri yekusarudza maapu nemitambo yedementia: tanga nechinangwa, dzivisa nguva nezviziviso, tarisa zvakavanzika, verenga zvirevo nekungwarira."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Tanga nezvamunoda kuti apu iite: kumutsa pfungwa zvinyoro, kuyeuka,
+  kudzikama kana kubatana. Zvadaro sarudzai inoenderana nezvinogona kuitwa
+  nemunhu wamunotarisira nhasi, ine mifananidzo mikuru, isina nguva,
+  zvibodzwa kana zviziviso, uye ine nzira iri nyore yekumira. Tarisa kuti
+  inounganidza ruzivo rupi uye kuti munogona here kurudzima. Chenjerai
+  zvirevo zvekuti apu inodzivirira kana kurapa dementia; ongororo imwe chete
+  haisi humbowo.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Tanga masarudza chinangwa: kumutsa pfungwa, kuyeuka, kudzikama kana kubatana zvinoda maapu akasiyana."
+  - "Sarudza zvinoenderana nezvinogona kuitwa nemunhu pazuva iroro, kwete zita redanho, uye chengetai kudzora kuri nyore."
+  - "Dzivisai maapu ane nguva, zvibodzwa, hupenyu, nhevedzano, zviziviso kana zvikumbiro zvekutenga."
+  - "Tarisa kuunganidzwa kwedata, kugoverwa kwaro nekudzimwa kwaro. HIPAA kazhinji haivharidzi maapu evatengi."
+  - "Ngwarirai zvirevo zvekuti “inodzivirira dementia”. Muedzo mumwe chete, kana zvibodzwa zviri nani muapu, hazvisi humbowo."
+  - "Golden Moments chiitiko chekutandara. Haina zvirevo zvekurapa."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Mitambo yehuropi inogona kudzivirira dementia here?"
+    a: "Hapana humbowo hwakanaka hunoratidza kuti maapu ekutengeserana emitambo yehuropi anodzivirira kana kunonotsa dementia. National Institute on Aging inoti hapana humbowo hwakakwana hunoratidza kuti maapu ekutengeserana ekudzidzisa huropi ane mhedzisiro yakafanana nedzidziso yakarongeka yakaedzwa mumuedzo mukuru wetsvagiridzo. Sarudzai maapu kuti munakidzwe uye mubatane, kwete semushonga."
+  - q: "Apu yedementia inovharwa neHIPAA here?"
+    a: "Kazhinji kwete. HIPAA inowanzo shanda kune vanopa rubatsiro rwehutano, zvirongwa zvehutano nevabatsiri vavo vebhizinesi. Apu yamunodhawunirodha mega kazhinji haivharwi kunze kwekunge yapihwa nemumwe wavo. FTC's Health Breach Notification Rule inovhara maapu akawanda ehutano asingavharwi neHIPAA."
+  - q: "Mutambo wakanaka wedementia unofanira kutaridzika sei?"
+    a: "Mifananidzo nemavara makuru, akajeka, chinhu chimwe chete chiri pachena chekuita pachiratidziro chega chega, hapana nguva kana chibodzwa, hapana ruzha rwezvikanganiso, hapana zviziviso, uye nzira iri nyore yekumbomira kana kumira. Unofanira kutaridzika sewakagadzirirwa vanhu vakuru uye kuva nyore kuti mumwe munhu apinde mazviri."
+  - q: "Golden Moments inoti inobatsira ndangariro here?"
+    a: "Kwete. Golden Moments inopa zviitiko zviri nyore zvekuita pamwe chete kuti munakidzwe uye mutaure. Haiongorori, hairapi, haidziviriri kana kuyera dementia, uye haina zvirevo zvatinoita nezvendangariro kana kufunga."
+  - q: "Ndinofanira kubhadhara apu yedementia here?"
+    a: "Edzai maapu emahara kana miedzo yemahara kutanga, uye tarisai kuti munhu wamunotarisira anopindura sei mumavhiki mashoma. Kubhadhara apu hazviiti kuti ishande zviri nani. Tarisa kuti mungakanzura sei musati manyoresa."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Muzvitoro zvemaapu mune mitambo yakawanda yakanyorwa kuti ndeyevakuru, ndangariro kana dementia. Mimwe yakagadzirwa zvine hanya. Mimwe inowedzera zvirevo zvinoita sezvekurapa, nguva dzinoshandura kutamba kuita bvunzo, kana zviziviso nekuunganidzwa kwedata. Peji rino rinokupai nzira yekuongorora chero apu mega. Hatirongedzi kana kuongorora zvimwe zvigadzirwa.
 
-## What should I decide before choosing a dementia app?
+## Ndezvipi zvandinofanira kusarudza ndisati ndasarudza apu yedementia?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Sarudzai zvamunoda kuti apu iite. “Mutambo waAmai” unogona kureva zvinhu zvakasiyana zvikuru, uye sarudzo yakanaka yechinangwa chimwe inogona kunge isina kunaka kune chimwe.
 
-| Goal | What it looks like | What to look for |
+| Chinangwa | Zvinoita sei | Zvokutsvaga |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Kumutsa pfungwa zvinyoro | Kufananidza, kuronga, mapuzzle ari nyore, mitambo yemashoko | Kuoma kunogona kuchinjwa, mifananidzo inoramba ichionekwa, hapana kumanikidzwa nenguva |
+| Kuyeuka | Mifananidzo yekare, zvirevo zvinozivikanwa, mimhanzi yehudiki hwavo | Mifananidzo yenyu mega, mibvunzo yakasununguka, hapana mibvunzo yebvunzo |
+| Kudzikama | Mifananidzo inofamba zvishoma, manzwi akanyarara, kufema, zvakasikwa | Zviri nyore kutanga nekumira, hapana chinopenya, hapana zvinoshamisa |
+| Kubatana | Kutamba kana kutaura pamwe chete, muri pamwe chete kana pavhidhiyo | Yakagadzirirwa vanhu vaviri, mibvunzo inokurudzira hurukuro |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Tsvagiridzo pamusoro pe“cognitive stimulation” yakarongeka yevanhu vanorarama nedementia inowanzo sanganisira misangano yemapoka inotungamirirwa nevashandi vakadzidziswa, ine hurukuro, mitambo yemashoko, mapuzzle, mimhanzi nezviitiko zvekugadzira. [Ongororo yeCochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) yakawana mabhenefiti madiki paavhareji, achisiyana pakati peongororo. Chirongwa chakadaro chevanhu pamwe chete uye chakasiyana-siyana hachisi chinhu chimwe chete neapu inoshandiswa nemunhu ari ega, saka torai chero apu sechiitiko chimwe chete chekuita pamwe chete pakati pezvakawanda.
 
-## How do I know if an app fits the person's abilities?
+## Ndinoziva sei kana apu ichienderana nezvinogona kuitwa nemunhu?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Tarisa kuti vanopindura sei, pane kutarisa chirwere kana zita redanho. Vanhu vaviri vari pa“danho rimwe chete” vanogona kusiyana zvikuru pakuona, kunzwa, kudzora maoko, mutauro uye kunzwa vakasununguka nezviratidziro. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) inokurudzira kurangarira zvavaifarira kare nezvavanogona kuita iye zvino uye kuisa pfungwa pakunakidzwa kwete pakubudirira.
 
-Signs of a good fit:
+Zviratidzo zvekuti zvakakodzera:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- vanotanga kana kupinda mazviri pasina kunyengererwa kwakawanda;
+- vanonyemwerera, vanotaura kana kutaura nyaya;
+- zvikanganiso hazviratidzike kunge zvinovakanganisa;
+- vanofara kumira kana nguva yakwana.
 
-Signs it is a poor fit:
+Zviratidzo zvekuti hazvina kukodzera:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- vanodzokorora kuti “handikwanise” kana “hazvina musoro”;
+- vanovhiringidzika nezvekubaya;
+- kushungurudzika, kunyara kana kusundira mudziyo kure;
+- zvinongoshanda chete kana imi muchiita zvinenge zvese.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Kushungurudzika chiratidzo, kwete chinhu chekumanikidzira. Onai [zvekuita kana vachiti kwete](/caregiving/when-they-say-no/). Kuti muwane mazano anoenderana nedanho kunze kwemaapu, onai zviitiko zve[danho rekutanga](/activities/early-stage/) nezve[danho rekupedzisira](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Ndezvipi zvinhu zvekugadzira zvandinofanira kutsvaga kana kudzivisa?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Tsvagai magadzirirwo akadzikama, ari nyore uye akakodzera vanhu vakuru, uye dzivisai chero chinhu chinowedzera kumanikidzwa.
 
-| Look for | Be wary of |
+| Tsvagai | Chenjerai |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Mifananidzo nemavara makuru, musiyano wakajeka | Zviratidzo zvidiki, zviratidziro zvakazara |
+| Chiito chimwe chakajeka pachiratidziro chega chega | Mabhatani akawanda, menyu, kana mirairo yematanho akawanda |
+| Hapana nguva, kana nguva inogona kudzima | Kuverenga uchidzika, mibairo yekumhanya, “kunda nguva yako” |
+| Hapana chibodzwa, kana mhinduro nyoro | Mapoinzi, hupenyu, nhevedzano, mazinga, “zera rehuropi” |
+| Zvikanganiso zvinobatwa chinyararire | Ruzha rwekuzivisa, zviratidzo zvitsvuku zveX, mashoko ekuti “Zvaitika zvisizvo” |
+| Mifananidzo evanhu vakuru, epanyika chaiyo | Madingindira ekatuni kana evana |
+| Inoshanda isina internet, hapana account inodiwa kutanga | Inoda kunyoresa, kupinda kana kudhawunirodha zvirimo kutanga |
+| Zviri nyore kumbomira nekumira | Mameseji anobuda achikumbira kuramba uchitamba kana kuyera apu |
+| Hapana zviziviso, mutengo wakajeka wekubhadhara kamwe chete kana kunyoresa | Zviziviso, loot boxes, zvikumbiro zvekutenga zvinowanzoitika |
+| Zviri nyore kuti mumwe munhu apinde mazviri | Yemunhu mumwe chete, magadzirirwo emakwikwi |
 
-Ads and purchase prompts are easy to tap by accident.
+Zviziviso nezvikumbiro zvekutenga zviri nyore kubaya netsaona.
 
-## How do I check an app's privacy?
+## Ndinoongorora sei zvakavanzika zveapu?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Tarisa kuti apu inounganidza chii, inogovera nani, uye kuti munogona here kuzvidzima. Musati maiisa:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Verengai pfupiso yezvakavanzika muchitoro.** [Chikamu cheData safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) cheGoogle Play uye [chikamu cheruzivo rwezvakavanzika](https://support.apple.com/en-us/102399) cheApp Store zvinonyora mhando dzedata dzinogona kuunganidzwa nekugoverwa neapu. Makambani ese ari maviri anocherekedza kuti vanogadzira maapu ndivo vanopa ruzivo urwu, saka inzvimbo yekutangira, kwete ongororo yakazara.
+2. **Bvunzai kana ichida account.** Kana apu ichingoratidza mifananidzo kana mitambo iri nyore, panogona kunge pasina chikonzero chekuti izive zita renyu, email kana zuva rekuzvarwa.
+3. **Tarisa mvumo.** Mutambo wekufananidza unonyatsoda nzvimbo, vaunosangana navo, maikorofoni kana raibhurari yenyu yese yemifananidzo here? Dzima chero chinhu chisingadiwi.
+4. **Tsvagai zviziviso nema analytics.** Zvishandiso zvekushambadzira nekutevera zvinogona kutumira ruzivo pamusoro pekushandiswa kweapu kune mamwe makambani.
+5. **Tsvagai kuti mifananidzo inoenda kupi.** Kana mukawedzera mifananidzo yemhuri, inoramba iri pamudziyo here kana kuti inokwiridzirwa kuseva? Munogona kuibvisa here?
+6. **Tarisa kudzima.** Tsvagai muprivacy policy kana mupfupiso yedata kuti data neaccount zvinodzimwa sei. Apu inoti data haigone kudzimwa inoda kungwarirwa zvakanyanya, kunyanya kana iine mifananidzo kana ruzivo rwehutano.
+7. **Verengai privacy policy** kuti muwane mhinduro dzakajeka pamusoro pezvinounganidzwa, nei, kwenguva yakareba sei, uye kuti zvinogoverwa nani.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA inodzivirira ruzivo rwuri mumaapu edementia here?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Kazhinji kwete, uye izvi zvinoshamisa vanhu vazhinji. U.S. Department of Health and Human Services [inotsanangura](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) kuti HIPAA inoshanda kuzvirongwa zvehutano, vazhinji vevanopa rubatsiro rwehutano, health care clearinghouses nevabatsiri vavo vebhizinesi. Kazhinji haidziviriri data ramunoisa muapu yekushandisa kwenyu, kunze kwekunge apu yacho yapihwa nesangano rinovharwa neHIPAA kana mubatsiri waro webhizinesi. “Apu yedementia” iri muchitoro chemaapu inowanzo kuve kunze kweHIPAA, kunyangwe ichitaura nezvehutano.
 
-### What protects health data in apps that HIPAA does not cover?
+### Chii chinodzivirira data rehutano mumaapu asingavharwi neHIPAA?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission's Health Breach Notification Rule inovhara mazhinji acho. Muna 2024 FTC [yakapedzisa shanduko](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) ichijekesa kuti mutemo uyu unoshanda kumaapu ehutano nematekinoroji akafanana asingavharwi neHIPAA. “Breach” inosanganisira kuburitswa kweruzivo kusina mvumo, kwete kubirwa chete, uye makambani anofanira kuzivisa vanhu vakakanganiswa neFTC. Iri idziviriro inouya mushure mekunge pane chaitika zvisizvo, kwete vimbiso yekuti apu inounganidza chete zvainoda.
 
-## How should I read claims about research and evidence?
+## Ndinofanira kuverenga sei zvirevo pamusoro petsvagiridzo nehumbowo?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Verengai zvirevo zveumbowo zvishoma nezvishoma, uye nyanya kungwarira zvivimbiso zvikuru. Mibvunzo yekubvunza:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Chii chaizvo chakaongororwa?** Ongororo yechirongwa chimwe chekudzidzisa hairatidzi kuti mutambo wega wega uri muapu unoshanda nenzira imwe chete.
+- **Ndiani akaongororwa?** Mhedzisiro muvakuru vane hutano inogona kusashanda kumunhu ari kurarama nedementia.
+- **Chii chakayerwa?** Kuvandudza mumutambo pachawo kwakasiyana nekuchinja muhupenyu hwezuva nezuva, hurukuro, manzwiro kana kuzvimiririra.
+- **Ongororo yacho yakasimba sei?** Randomized controlled trial (RCT) inoenzanisa boka rinoshandisa apu neboka risingaishandise. Idhizaini yakanaka, asi RCT imwe chete diki kana pfupi haisi humbowo. Tsvagai ongororo dzakawanda, dzakaitwa nevatsvagiri vakazvimirira, dzinobvumirana.
+- **Inoti inoshandura chirwere here?** Ongororo inoratidza kuvandudzika kudiki pabvunzo haisi humbowo hwekuti apu inononotsa, inodzivirira kana kurapa dementia.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Peji reNational Institute on Aging pamusoro pe[cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) rinotsanangura muedzo mukuru wakabhadharwa neNIH wedzidziso yakarongeka yehuropi, uye rinobva rayambira vaverengi kuti vangwarire zvirevo zvekuti mimwe mitambo yemakombiyuta neyeonline inogona kuvandudza ndangariro nekufunga. Rinoti hapasati pave nehumbowo hwakakwana hunoratidza kuti maapu ekutengeserana ekudzidzisa huropi ane mhedzisiro yakafanana nedzidziso yakaedzwa mumuedzo iwoyo. Munogona kuverenga zvakawanda mugwaro redu pamusoro pe[mitambo yehuropi nehumbowo](/brain-health/brain-games/) uye [zvinotaurwa netsvagiridzo pamusoro pekudzivirira dementia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Ndeupi muenzaniso weruzhinji wechirevo chinotsausa?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Muna Ndira 2016, FTC [yakazivisa chibvumirano](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) nevagadziri veLumosity, chirongwa che“brain training”. FTC yakapomera kuti kambani iyi yakaita zvirevo, isina humbowo hwakakwana, zvekuti mitambo yayo yaigona kunonotsa kuderera kwekufunga kunouya nezera uye kudzivirira mild cognitive impairment, dementia nechirwere cheAlzheimer. Kambani yakabvuma kubhadhara $2 miriyoni uye inofanira kuva nehumbowo hwesainzi hwakakodzera uye hunovimbika isati yaita zvirevo zvakadaro mune ramangwana. Nyaya iyi chiyeuchidzo chinobatsira chekuti mutauro wekushambadzira hausi humbowo.
 
-### Which words are red flags?
+### Ndeapi mashoko anofanira kukunyeverai?
 
-Be cautious when an app or ad says it:
+Ngwarirai kana apu kana chiziviso chichiti:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- “inodzivirira,” “inodzosera kumashure,” “inomisa” kana “inorapa” dementia kana Alzheimer;
+- “yakaedzwa zvekurapa” pasina kudoma ongororo yacho, kuti ndiani aivamo, uye kuti chii chakayerwa;
+- inopa “zera rehuropi” kana chibodzwa chendangariro chinoreva kuongororwa kwechirwere;
+- icha“rodezesa,” “simudzira” kana “dzidzisa” huropi;
+- inoshandisa uchapupu hwevanhu sehumboo.
 
-If you are unsure about a claim, ask the person's doctor.
+Kana musina chokwadi nezvechirevo, bvunzai chiremba wemumhu wamunotarisira.
 
-## Where does Golden Moments fit?
+## Golden Moments inopinda papi?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments inopa zviitiko zviri nyore zvekuita pamwe chete, kwete bvunzo yendangariro, kurapwa kana zano rekurapa. Mitambo yedu, yakadai se[Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ne[Calm Breathing](/games/calm-breathing/), yakagadzirirwa kunakidzwa nehurukuro. Haiongorori, hairapi, haidziviriri kana kuyera dementia, uye haina zvirevo zvatinoita nezvendangariro kana kufunga.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Tinoitawo apu yemahara, [Golden Moments ye iPhone, iPad ne Android](/app/). Ine kufananidza mifananidzo zvinyoro nemataira makuru, mitambo ine mifananidzo yemhuri yamunosarudza uye mapaketi emifananidzo anoshanda pasina internet, pasina account, zviziviso, nguva kana chibodzwa. Rondedzero imwe cheteyo inoshanda: chinyorwa chezvakavanzika cheApp Store chinoti “Data Not Collected”, uye [mutemo wezvakavanzika weapu](/app-privacy/) unotsanangura kuti makopi emifananidzo anochengetwa kupi.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Tinoda kuti mutiongorore pane kutivimba. Shandisai rondedzero iri papeji rino, verengai [peji redu rezvakavanzika](/privacy/) ne[chiziviso chedu chekurapa](/medical-disclaimer/), uye regai kushandisa chero chinhu, kusanganisira chedu, chisingakodzere munhu wamunotarisira.
 
-## What is a sensible way to try a new app?
+## Ndeipi nzira ine musoro yekuedza apu itsva?
 
-Try it together for a couple of weeks and watch what happens.
+Iedzei pamwe chete kwemavhiki mashoma uye tarisai zvinoitika.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Igadzirirei kutanga** muchishandisa [gwaro redu rekugadzirisa tablet nefoni](/caregiving/tablets-and-screens/), uye tangai padanho riri nyore kwazvo.
+2. **Chengetai nguva pfupi,** cherechedzai kunyemwerera, hurukuro nekudzikama, uye pedzisai panguva yakanaka.
+3. **Isiyei kana ichikonzera kushungurudzika,** zvisinei nekuti inoyemurwa zvakadii.

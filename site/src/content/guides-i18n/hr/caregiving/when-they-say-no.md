@@ -1,34 +1,35 @@
 ---
-title: "Kad se osoba s demencijom odbija ili frustrira zbog aktivnosti"
-seoTitle: "Kad osoba s demencijom odbija aktivnost"
-description: "Zašto osoba koja živi s demencijom može odbiti aktivnost ili se uznemiriti, što pokušati umjesto toga, čega se kloniti i kada nagla promjena zahtijeva liječnika."
+title: "Kad osoba s demencijom odbije aktivnost ili se uznemiri"
+seoTitle: "Kad osoba s demencijom odbije aktivnost"
+description: "Zašto osoba koja živi s demencijom može odbiti aktivnost ili se uznemiriti, što možete pokušati, što izbjegavati i kad je potreban liječnik."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kad osoba s demencijom kaže ne, prihvatite to mirno i pokušajte kasnije ili
-  ponudite nešto drugo. Odbijanje često ima razlog: zadatak djeluje pretežak ili
-  djetinjast, umorni su, boli ih, gladni su ili ih preplavljuje buka. Nemojte se
-  svađati niti inzistirati. Pojednostavite, ponudite dva izbora ili zatražite
-  njihovu pomoć. Nagla ili brzo promjenjiva ponašanja, osobito nakon infekcije ili
-  novog lijeka, zahtijevaju brzu pozornost liječnika.
+  Kad osoba s demencijom kaže „ne”, mirno to prihvatite i pokušajte ponovno
+  kasnije ili ponudite nešto drugo. Odbijanje često ima razlog: zadatak se
+  čini preteškim ili djetinjastim, osoba je umorna, osjeća bol, gladna je ili
+  je preopterećena bukom. Nemojte se prepirati niti inzistirati. Pojednostavite
+  aktivnost, ponudite dva izbora ili zamolite osobu za pomoć. Iznenadna ili
+  brzo promjenjiva ponašanja, osobito nakon infekcije ili novog lijeka, treba
+  što prije javiti liječniku.
 keyPoints:
-  - "„Ne“ je odgovor koji treba poštovati, a ne problem koji treba svladati."
-  - "Odbijanje obično ima uzrok: pretežko, djetinjasto, umorno, bolesno, neugodno ili preplavljujuće."
-  - "Odmaknite se, pričekajte i pokušajte kasnije, u drugo doba dana ili s jednostavnijom verzijom."
-  - "Traženje njihove pomoći djeluje bolje nego traženje da nešto izvedu."
-  - "Nikada se ne svađajte, ne inzistirajte, ne ispitujte niti ispravljajte. Provjerite sebe žurite li ili pritišćete."
-  - "Nagla ili brzo promjenjiva ponašanja, osobito uz infekciju ili nove lijekove, odmah idu liječniku."
+  - "„Ne” je odgovor koji treba poštovati, a ne problem koji treba prevladati."
+  - "Odbijanje obično ima uzrok: preteško, predjetinjasto, umor, loše zdravlje, nelagoda ili previše podražaja."
+  - "Povucite se, pričekajte i pokušajte kasnije, u drugo vrijeme ili s jednostavnijom inačicom."
+  - "Bolje djeluje zamoliti osobu za pomoć nego tražiti od nje da nešto „izvede”."
+  - "Nikad se nemojte prepirati, inzistirati, ispitivati ili ispravljati. Provjerite jeste li možda previše žurili ili stajali preblizu."
+  - "Iznenadne ili brzo promjenjive promjene ponašanja, osobito uz infekciju ili nove lijekove, treba odmah javiti liječniku."
 faq:
-  - q: "Je li u redu da preskoče aktivnosti potpuno?"
-    a: "Da, bilo kojeg dana. Zajedničko sjedenje, slušanje glazbe ili gledanje što se događa oko njih može biti dovoljno. Ako netko tjednima prestane uživati u svemu, spomenite to njegovu liječniku, jer niska raspoloženost, bol ili drugi zdravstveni problemi mogu biti dio slike."
-  - q: "Zašto odbijaju stvari koje su nekad voljeli?"
-    a: "Stari hobi može postati frustrirajući kad sada zahtijeva vještine koje je demencija otežala, a osoba se može osjećati posramljeno. Pokušajte jednostavniji dio iste aktivnosti, primjerice razvrstavanje gumba umjesto šivanja ili gledanje slika vrtova umjesto sadnje."
-  - q: "Trebam li ih pokušati uvjeriti?"
-    a: "Ne. Gurati nekoga da učini nešto što mu je demencija otežala poznat je okidač za uznemirenost. Prihvatite ne, promijenite temu i ponudite ponovno kasnije ili na drugi način."
+  - q: "Je li u redu ako osoba potpuno preskoči aktivnosti?"
+    a: "Da, bilo koji dan. Zajedničko sjedenje, slušanje glazbe ili promatranje onoga što se događa oko vas može biti dovoljno. Ako osoba tijekom više tjedana prestane uživati u svemu, spomenite to njezinu liječniku, jer loše raspoloženje, bol ili drugi zdravstveni problemi mogu biti dio razloga."
+  - q: "Zašto osoba odbija stvari koje je nekad voljela?"
+    a: "Stari hobi može postati frustrirajući kad sada zahtijeva vještine koje su zbog demencije postale teže, a osoba se može osjećati posramljeno. Pokušajte s jednostavnijim dijelom iste aktivnosti, primjerice razvrstavanjem dugmadi umjesto šivanja ili gledanjem slika vrta umjesto sadnje."
+  - q: "Trebam li je pokušati nagovoriti?"
+    a: "Ne. Nagovaranje osobe da radi nešto što je zbog demencije postalo teško poznati je poticaj za uznemirenost. Prihvatite „ne”, promijenite temu i ponudite ponovno kasnije ili na drugačiji način."
   - q: "Kada je promjena ponašanja hitan slučaj?"
-    a: "Nazovite 112 ako je netko u opasnosti ili ima znakove hitnog medicinskog stanja. Za naglu zbunjenost ili ponašanje koje se brzo mijenja tijekom sati ili dana, osobito uz groznicu, infekciju ili novi lijek, odmah se obratite njihovu liječniku."
+    a: "Nazovite 911 ako je netko u opasnosti ili ima znakove hitnog zdravstvenog stanja. Ako dođe do iznenadne smetenosti ili ponašanja koje se brzo mijenja tijekom sati ili dana, osobito uz vrućicu, infekciju ili novi lijek, odmah se obratite liječniku."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Postavite sve, ponudite igru ili šetnju i čujete „Ne“. Ili aktivnost dobro počne, a završi s tabletom odgurnutim u stranu i oštrom riječju. Obeshrabrujuće je, i vrlo je često. Odbijanje i frustracija obično su poruka, a ne tvrdoglavost. Kad shvatite što poruka znači, često vidite što pokušati sljedeće.
+Sve pripremite, ponudite igru ili šetnju i čujete „Ne”. Ili aktivnost dobro počne, a završi odgurnutim tabletom i oštrom riječju. To je obeshrabrujuće i vrlo često. Odbijanje i frustracija obično su poruka, a ne tvrdoglavost. Kad shvatite što poruka znači, često vam postane jasnije što možete pokušati sljedeće.
 
 ## Zašto osoba s demencijom odbija aktivnosti?
 
-Obično postoji razlog, čak i kad ga osoba ne može izreći riječima. [Alzheimerova udruga](https://www.alz.org/help-support/caregiving/daily-care/activities) navodi da otpor može značiti da osoba ne može obaviti zadatak ili da se boji pokušati. Česti uzroci uključuju:
+Obično postoji razlog, čak i ako ga osoba ne može riječima izraziti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) napominje da otpor može značiti da osoba ne može obaviti zadatak ili se boji pokušati. Česti razlozi uključuju:
 
-- **Djeluje pretežko.** Aktivnost sada zahtijeva vještine koje su demencija otežale, a neuspjeh pred nekim je neugodan.
-- **Djeluje djetinjasto.** Odrasli primjećuju crtane slike, pjevušeći ton i aktivnosti koje izgledaju kao da su namijenjene djeci.
-- **Umor.** Mnogi ljudi kasnije tijekom dana imaju manje energije. Pogledajte [smirene aktivnosti u kasno popodne](/caregiving/late-day-restlessness/).
-- **Tjelesna nelagoda.** [Nacionalni institut za starenje (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) među mogućim uzrocima tjeskobe navodi bol, nedostatak sna, teškoće s vidom ili sluhom, zatvor, glad, žeđ i nuspojave novih lijekova.
-- **Previše se događa.** Glasan televizor, nekoliko razgovora ili prepun prostor mogu preplaviti.
-- **Osjećaj pritiska.** NIA kao uzrok uznemirenosti navodi da ih se tjera da urade nešto što im je Alzheimerova bolest vrlo otežala ili da se sjećaju događaja ili ljudi.
-- **Niska raspoloženost.** Gubitak interesa za stvari može biti znak depresije, što vrijedi spomenuti liječniku.
-- **Jednostavno ne žele.** Odrasli smiju reći ne.
+- **Čini se preteškim.** Aktivnost sada zahtijeva vještine koje su zbog demencije postale teške, a neuspjeh pred nekim može biti neugodan.
+- **Čini se djetinjastim.** Odrasle osobe primijete crteže nalik crtićima, pjevajući ton i aktivnosti koje izgledaju kao da su napravljene za djecu.
+- **Umor.** Mnoge osobe imaju manje energije kasnije tijekom dana. Pogledajte [mirne aktivnosti za kasno poslijepodne](/caregiving/late-day-restlessness/).
+- **Tjelesna nelagoda.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) navodi bol, nedostatak sna, poteškoće s vidom ili sluhom, zatvor, glad, žeđ i nuspojave novih lijekova kao moguće uzroke nelagode.
+- **Previše se toga događa.** Glasan televizor, nekoliko razgovora ili prepun prostor mogu biti previše.
+- **Osjećaj pritiska.** NIA navodi da poticanje osobe da radi nešto što je Alzheimerova bolest učinila vrlo teškim ili da se prisjeća događaja ili ljudi može biti uzrok uznemirenosti.
+- **Loše raspoloženje.** Gubitak interesa za stvari može biti znak depresije, što je važno spomenuti liječniku.
+- **Jednostavno ne želi.** Odrasle osobe smiju reći „ne”.
 
-## Što pokušati kad kažu ne?
+## Što mogu pokušati kad osoba kaže „ne”?
 
-Mirno prihvatite ne, zatim nešto promijenite: vrijeme, aktivnost, težinu ili način na koji pitate.
+Mirno prihvatite „ne”, a zatim promijenite nešto: vrijeme, aktivnost, težinu ili način na koji pitate.
 
-1. **Pustite za sada.** „U redu je. Možda kasnije.“ Zatim prijeđite na nešto drugo bez uzdaha.
-2. **Pokušajte kasnije.** Alzheimerova udruga predlaže da pokušate ponovno kasnije ili u drugo doba dana.
-3. **Smanjite zadatak.** Jedan par umjesto cijele igre. Jedan ručnik umjesto košare s rubljem. Manje slika, manje izbora, slike ostaju vidljive.
-4. **Ponudite dvije mogućnosti.** „Hoćete li pogledati slike ptica ili slušati glazbu?“ Izbor vraća osjećaj kontrole.
-5. **Tražite pomoć umjesto izvedbe.** „Možete li mi pomoći razvrstati ovo?“ ili „Možete li mi reći koja boja izgleda najbolje?“ Biti potreban osjeća se sasvim drukčije nego biti ispitivan.
-6. **Počnite sami.** Započnite aktivnost pored nje bez pitanja. Mnogi se uključe kad se nešto već događa, a ako se ne uključe, ipak ste proveli vrijeme zajedno.
-7. **Prijeđite na nešto tjelesno ili smirujuće.** Kratka šetnja, glazba, grickalica, slaganje rublja ili zajednička stanka za [mirno disanje](/games/calm-breathing/). NIA predlaže preusmjeravanje pažnje na glazbu, knjigu ili šetnju.
-8. **Pustite ih da to rade na svoj način.** Ako žele igrati drukčije nego što pravila kažu, pustite ih. Alzheimerova udruga savjetuje fleksibilnost.
+1. **Za sada odustanite.** „U redu je. Možda kasnije.” Zatim prijeđite na nešto drugo bez uzdaha.
+2. **Pokušajte ponovno kasnije.** Alzheimer's Association predlaže da pokušate ponovno kasnije ili u drugo doba dana.
+3. **Učinite to manjim.** Jedan par umjesto cijele igre. Jedan ručnik umjesto košare s rubljem. Manje slika, manje izbora, slike ostavite vidljive.
+4. **Ponudite dvije mogućnosti.** „Želite li pogledati slike ptica ili poslušati glazbu?” Izbor vraća osjećaj kontrole.
+5. **Zamolite za pomoć umjesto za izvedbu.** „Možete li mi pomoći ovo razvrstati?” ili „Možete li mi reći koja vam se boja više sviđa?” Osjećaj da ste nekome potrebni vrlo se razlikuje od osjećaja da vas netko provjerava.
+6. **Počnite sami.** Započnite aktivnost pokraj osobe bez pitanja. Mnoge se osobe uključe kad se nešto već događa, a ako se ne uključe, ipak ste proveli vrijeme zajedno.
+7. **Prijeđite na nešto tjelesno ili smirujuće.** Kratka šetnja, glazba, međuobrok, slaganje rublja ili zajednička pauza uz [mirno disanje](/games/calm-breathing/). NIA predlaže preusmjeravanje pažnje na glazbu, knjigu ili šetnju.
+8. **Dopustite osobi da to radi na svoj način.** Ako želi igrati drugačije nego što kažu pravila, prihvatite to. Alzheimer's Association savjetuje fleksibilnost.
 
-## Što reći kad se frustriraju?
+## Što mogu reći kad se osoba uznemiri?
 
-Usporite, snizite glas i umirujte. [Smjernice Alzheimerove udruge o uznemirenosti](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) predlažu da se odmaknete i zatražite dopuštenje, koristite mirne, pozitivne izjave i ponudite vođeni izbor između dvije mogućnosti. Fraze u tom duhu:
+Usporite, stišajte glas i umirite osobu. [Smjernice Alzheimer's Association o uznemirenosti](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) predlažu da se povučete, zatražite dopuštenje, koristite mirne i pozitivne izjave te ponudite vođeni izbor između dvije mogućnosti. Rečenice u tom duhu:
 
-- „Žao mi je, ova je naporna. Stanimo.“
-- „Dobro idete. Ja sam ovdje.“
-- „Imate li vremena da mi pomognete s nečim drugim?“
-- „Hoćemo li umjesto toga popiti čaj?“
+- „Žao mi je, ovo je stvarno neugodno. Stanimo.”
+- „Sve je u redu. Tu sam s vama.”
+- „Imate li vremena pomoći mi s nečim drugim?”
+- „Hoćemo li radije popiti čaj?”
 
-Zatim prekinite aktivnost bez puno priče. Naš vodič o [savjetima za komunikaciju](/caregiving/communication-tips/) ima više o tome što reći.
+Zatim završite aktivnost bez dramatiziranja. Naše [savjete za komunikaciju](/caregiving/communication-tips/) potražite za više prijedloga što reći.
 
-## Čega se kloniti?
+## Što trebam izbjegavati?
 
-Neke prirodne reakcije obično stvari pogoršavaju.
+Neke prirodne reakcije obično pogoršaju situaciju.
 
-- **Svađanje ili inzistiranje.** „Hajde, još samo jednom“ ili „Volite ovo“ rijetko pomaže.
-- **Ispitivanje ili ispravljanje.** „Znate što je ovo“ ili „Ne, ovo je krivo“ dodaje pritisak.
-- **Shvaćanje osobno.** NIA podsjeća njegovatelje da bolest, a ne osoba, uzrokuje ove promjene.
-- **Gurkanje ili žurba.** Alzheimerova udruga savjetuje da ne podižete glas, ne pokazujete uznemirenost, ne tjerate osobu u kut, ne gurate, ne sputavate, ne kritizirate, ne ignorirate niti se ne svađate s njom, te da izbjegavate nagle pokrete izvan njezina vidokruga.
-- **Korištenje krivnje.** „Sve sam ovo pripremila za tebe“ čini da se oboje lošije osjećate.
-- **Etiketiranje.** „Tvrdoglav“ ili „težak“ skriva pravi razlog i otežava rješavanje.
+- **Prepiranje ili inzistiranje.** „Hajde, samo još jednom” ili „Vi ovo volite” rijetko pomaže.
+- **Ispitivanje ili ispravljanje.** „Vi znate što je ovo” ili „Ne, ovo nije točno” stvara dodatni pritisak.
+- **Osobno shvaćanje.** NIA podsjeća da te promjene uzrokuje bolest, a ne osoba.
+- **Preblizina ili žurba.** Alzheimer's Association savjetuje da ne povisujete glas, ne pokazujete uzbunu, ne stjerujete osobu u kut, ne stajete joj preblizu, ne sputavate je, ne kritizirate je, ne ignorirate je i ne prepirete se s njom te da izbjegavate iznenadne pokrete izvan njezina vidnog polja.
+- **Izazivanje krivnje.** „Sve sam ovo pripremio/pripremila za vas” ostavlja vas oboje loše.
+- **Etiketiranje.** „Tvrdoglav” ili „težak” skriva pravi razlog i otežava rješavanje.
 
-## Kako saznati što stoji iza ponovljenih odbijanja?
+## Kako mogu saznati što stoji iza ponovljenog odbijanja?
 
-Vodite jednostavnu bilješku tjedan ili dva. NIA kaže da praćenje promjena u ponašanju može pomoći njegovateljima i zdravstvenim djelatnicima da prepoznaju obrazac i pronađu uzrok.
+Vodite kratke bilješke tjedan ili dva. NIA navodi da praćenje promjena u ponašanju može pomoći osobama koje pružaju skrb i zdravstvenim djelatnicima da prepoznaju obrazac i otkriju uzrok.
 
-Zapišite:
+Zabilježite:
 
 - doba dana;
 - što ste ponudili i kako ste pitali;
-- što se događalo oko Vas (buka, posjetitelji, televizor);
-- kako su spavali, jeli i pili i kada su zadnji put išli na toalet;
-- sve nove lijekove ili nedavnu bolest.
+- što se događalo oko vas (buka, posjetitelji, televizor);
+- kako je osoba spavala, jela i pila te kada je zadnji put bila u kupaonici;
+- ima li novih lijekova ili nedavne bolesti.
 
-Obrasci se često brzo pojave: odbijanja koja se događaju samo nakon 16 sati, samo uz neku igru ili samo kad je televizor uključen. Vodič [Family Caregiver Alliance o ponašanjima kod demencije](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) to kaže jednostavno: ne možemo promijeniti osobu, ali možemo promijeniti vlastito ponašanje i okruženje.
+Obrasci se često brzo pokažu: odbijanja koja se događaju samo nakon 16:00, samo uz određenu igru ili samo kad je uključen televizor. [Vodič za razumijevanje ponašanja povezanih s demencijom](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) organizacije Family Caregiver Alliance kaže jednostavno: ne možemo promijeniti osobu, ali možemo promijeniti svoje ponašanje i okruženje.
 
-## Kada se s liječnikom razgovarati o odbijanju ili frustraciji?
+## Kad trebam razgovarati s liječnikom o odbijanju ili uznemirenosti?
 
-Razgovarajte s liječnikom kad se ponašanje promijeni naglo, brzo ili uz znakove bolesti. NIA kaže da nagle ili brzo promjenjive promjene u ponašanju, osobito ako je osoba imala infekciju ili nedavne promjene lijekova, treba odmah prijaviti liječniku.
+Razgovarajte s liječnikom kad se ponašanje promijeni iznenada, brzo ili uz znakove bolesti. NIA navodi da iznenadne ili brzo promjenjive promjene ponašanja, osobito ako je osoba imala infekciju ili nedavno promijenjene lijekove, treba odmah javiti liječniku.
 
-Odmah se obratite njihovu liječniku ako primijetite:
+Obratite se liječniku što prije ako primijetite:
 
-- naglu zbunjenost ili veliku promjenu tijekom sati ili dana;
-- znakove boli, poput grimasa, zaštite dijela tijela ili novih poteškoća s kretanjem;
-- groznicu ili druge znakove infekcije;
-- nove ili promijenjene lijekove, nakon kojih slijedi promjena ponašanja;
-- gubitak interesa za gotovo sve, suze ili povlačenje koje traje dulje od nekoliko tjedana;
+- iznenadnu smetenost ili veliku promjenu tijekom sati ili dana;
+- znakove boli, poput grčenja lica, štitljenja dijela tijela ili novih poteškoća pri kretanju;
+- vrućicu ili druge znakove infekcije;
+- nove ili promijenjene lijekove nakon kojih se ponašanje promijenilo;
+- gubitak interesa za gotovo sve, suznost ili povlačenje koje traje dulje od nekoliko tjedana;
 - odbijanje hrane ili pića.
 
-Alzheimerova udruga preporučuje temeljit liječnički pregled za svakoga tko ima simptome ponašanja, osobito kad se pojave naglo. Family Caregiver Alliance također savjetuje da prvo provjerite s liječnikom, jer problemi u ponašanju mogu imati medicinski uzrok. Nemojte započinjati, prekidati niti mijenjati nijedan lijek bez razgovora s liječnikom ili ljekarnikom.
+Alzheimer's Association preporučuje temeljit liječnički pregled za svaku osobu s promjenama u ponašanju, osobito ako se pojave iznenada. Family Caregiver Alliance također savjetuje da se prvo obratite liječniku jer problemi u ponašanju mogu imati zdravstveni uzrok. Nemojte započinjati, prekidati niti mijenjati lijekove bez razgovora s liječnikom ili ljekarnikom.
 
-Ako je netko u opasnosti ili postoje znakovi hitnog medicinskog stanja, nazovite 112. NIA predlaže da operateru kažete da osoba ima demenciju.
+Ako je netko u opasnosti ili postoje znakovi hitnog zdravstvenog stanja, nazovite 911. NIA predlaže da dispečeru kažete da osoba živi s demencijom. Za neposredne korake za sigurnost kad ljutnja postane tjelesna, pogledajte naš [vodič o ljutnji i agresiji kod demencije](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Je li u redu ne raditi ništa?
+## Je li u redu ako ne radimo baš ništa?
 
-Jest. Nekih dana najbolja aktivnost je da nema aktivnosti: zajedničko sjedenje, držanje za ruke, slušanje omiljene ploče ili gledanje ptica kroz prozor. To nije neuspjeh. Naš vodič o [zajedničkoj igri](/caregiving/how-to-play-together/) objašnjava zašto rano prekidanje ili nepočinjanje može biti pravi izbor.
+Da. Neki su dani najbolja aktivnost zapravo nikakva aktivnost: zajedničko sjedenje, držanje za ruke, slušanje omiljene glazbe ili promatranje ptica kroz prozor. To nije neuspjeh. Naš [vodič o zajedničkom igranju](/caregiving/how-to-play-together/) objašnjava zašto prekid ranije ili nikad nezapočinjanje mogu biti prava odluka.

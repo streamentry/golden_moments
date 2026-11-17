@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Kugadzirisa Tabhureti kana Foni yeMunhu ane Dementia"
+seoTitle: "Gadzirisa Tabhureti kana Foni yeMunhu ane Dementia"
+description: "Matanho ekugadzirisa tabhureti kana foni yemunhu anorarama nedementia: kiya paapp imwe, wedzera mavara, dzima zviziviso, gadzirisa skrini yepamba, ruzha uye kuvanzika."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Ita kuti tabhureti kana foni zvive nyore usati wazvipa munhu. Kiya paapp imwe
+  uchishandisa Guided Access pa iPad ne iPhone kana app pinning pa Android, kana
+  shandisa Assistive Access ye Apple kuti skrini ive nyore. Wedzera mavara,
+  dzima zviziviso, chengeta maapp mashoma anozivikanwa paskrini imwe yepamba,
+  gadzirisa ruzha usati watanga, shandisa chigadziko, uye deredza mvumo dzeapp.
+  Shandisai mese, pamwe chete nezvimwe zvinhu zvisina skrini.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ne app pinning (Android) zvinochengeta skrini iri paapp imwe kusvika waivhura."
+  - "Assistive Access ye Apple inopa marongerwo ari nyore akagadzirirwa vanhu vane matambudziko ekurangarira."
+  - "Wedzera mavara uye dzima zviziviso nezvinobuda-buda kuitira kuti pasave nechinokanganisa kana kuvhiringa."
+  - "Chengeta maapp mashoma anozivikanwa paskrini imwe yepamba, uye gadzirisa ruzha usati watanga."
+  - "Chigadziko nenzvimbo yekuchajisa isingachinji zvinoita kuti mudziyo uve nyore kushandisa nekuwana."
+  - "Ongorora mvumo dzeapp nekugoverwa kwedata: kazhinji HIPAA haidziviriri zvinchengetwa pamudziyo wemunhu."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Ndingadzivisa sei munhu anorarama nedementia kubuda muapp pa iPad?"
+    a: "Batidza Guided Access mu Settings > Accessibility > Guided Access woisa passcode. Vhura app yaunoda, dzvanya bhatani repamusoro (kana bhatani re Home pama iPad ekare) katatu, wobva wabaya Start. iPad inoramba iri muapp iyoyo kusvika mumwe munhu aisa passcode."
+  - q: "Ndingakiya sei tabhureti ye Android paapp imwe?"
+    a: "Batidza app pinning mu Settings app, kazhinji pasi pe Security (dzimwe nguva Security & location) > Advanced > App pinning. Wobva wavhura app, vhura Overview, baya chiratidzo cheapp kumusoro wobaya Pin. PIN yako, patani kana password zvinodiwa kuti uibvise."
+  - q: "Zvakachengeteka here kushandisa Guided Access pafoni yemunhu wacho?"
+    a: "Ngwarira. Apple inoti Crash Detection ne Emergency Services hazviwanikwe Guided Access painenge yakabatidzwa. Kana munhu wacho achivimba nefoni yake pakufona kwechimbichimbi, shandisa Guided Access chete kana munenge muri mese, kana kufunga kushandisa Assistive Access."
+  - q: "Nguva yakadii yekushandisa skrini yakakodzera munhu anorarama nedementia?"
+    a: "Hapana nhamba yakatarwa. Nguva pfupi dzamunoshandisa mese, dzakasanganiswa nekufamba, mimhanzi, mabasa epamba uye kukurukura, dzinogona kuita kuti zuva rizare kupfuura kugara kwenguva refu ega neskrini. Kana mudziyo uchikonzera kushushikana kana kutora nzvimbo yezvimwe zvinhu, ushandise zvishoma."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tabhureti inogona kuva nzira yakanaka yekugovana mifananidzo, mimhanzi nemitambo iri nyore. Inogonawo kuvhiringa: kubaya netsaona kunovhura imwe app, chiziviso chinobuda, mavara madiki, kana skrini inodzima mutambo uri pakati. Kugadzirisa kushoma kwamunoita kunogona kugadzirisa zvakawanda zvacho.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Matanho aya anoshandisa marongero ari mukati me iPhone, iPad ne Android. Mazita emamenyu anogona kuchinja pakati pemavhezheni esoftware nevagadziri vemidziyo, saka kana chimwe chinhu chichitaridzika zvakasiyana, teverai peji re Apple kana re Google rakabatanidzwa remudziyo wenyu. Itai gadziriro iyi moga, musati magara pasi mese.
 
-## Should someone with dementia use a tablet or phone?
+## Munhu anorarama nedementia anofanira kushandisa tabhureti kana foni here?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Zvinoenderana nemunhu wacho. Vanhu vazhinji vanofarira kushandisa tabhureti kana paine mumwe munhu padivi pavo, kunyange zvazvo vangasakwanisa kuishandisa vari vega. Tangai nekuishandisa mese, paine app imwe yakavhurwa, kwemaminitsi mashoma. Kana ichiunza mufaro nekukurukurirana, endererai mberi. Kana ichiunza kuvhiringika kana kushushikana, bhuku remifananidzo, mapeji akadhindwa kana mimhanzi zvinogona kumukodzera zviri nani. [Zviitwa zvinodhindwa](/activities/printable/) ndeimwe nzira.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Kazhinji tabhureti iri nyore kupfuura foni: skrini nemifananidzo zvakakura, uye haisiwo nzira yemunhu wacho yekufona kwechimbichimbi.
 
-## How do I lock a tablet or phone to one app?
+## Ndingakiya sei tabhureti kana foni paapp imwe?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Shandisai Guided Access pa iPhone ne iPad, kana app pinning pa Android. Zvose zvinochengeta skrini iri paapp imwe kusvika maisa kodhi, saka kubaya kana kutsvaira netsaona hakugoni kuvhura chimwe chinhu.
 
-### iPad and iPhone: Guided Access
+### iPad ne iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Kubva pa [mirayiridzo ye Apple ye Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Vhurai **Settings**, bayai **Accessibility**, mobva mabaya **Guided Access** moibatidza.
+2. Pasi pe **Passcode Settings**, isai passcode ye Guided Access. Munogonawo kubvumira Face ID kana Touch ID.
+3. Sarudzo: pasi pe **Display Auto-Lock**, sarudzai kuti skrini inokiya nekukurumidza sei panguva yechikamu, kuitira kuti isadzima mutambo uri pakati.
+4. Vhurai app yamunoda kushandisa.
+5. Dzvanyai bhatani reparutivi (iPhone), bhatani repamusoro (iPad), kana bhatani re Home pamidziyo yekare katatu.
+6. Sarudzo: tenderedzai nzvimbo dzipi dzeskrini dzamusingadi kuti dzibate kana dzikabatwa. Bayai **Options** (kana **Session Settings**) kuti mudzime mabhatani eruzha kana kumisa skrini kutenderera.
+7. Bayai **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Kuti mupedze chikamu, dzvanyai bhatani rimwe chete katatu zvakare, isai passcode, mobva mabaya **End**. Apple inoti pamamwe mavhezheni esoftware ekare munodzvanya kaviri panzvimbo pezvo.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Zvakakosha:** Apple inoti Crash Detection ne Emergency Services hazviwanikwe panguva yechikamu che Guided Access. Musasiye Guided Access ichishanda pafoni inogona kudiwa nemunhu wacho pakufona kwechimbichimbi.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Kubva pa [rubatsiro rwe Google Android rweku pin screens](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Vhurai **Settings** app.
+2. Bayai **Security** (kana **Security & location**), mobva **Advanced**, mobva **App pinning**. Kana musingaiwane, tarisai mapeji erubatsiro emugadziri wemudziyo wenyu.
+3. Batidzai **App pinning**. PIN yenyu, patani kana password zvichadiwa kuti muibvise.
+4. Vhurai app yamunoda. Tsvairai kumusoro kusvika pakati peskrini mobata kuti muvhure Overview (kana bayai Overview kana muchishandisa 3-button navigation).
+5. Pamusoro pechiratidzo cheapp, bayai chiratidzo cheapp, mobva mabaya **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Kuti muibvise kana muchishandisa gesture navigation, tsvairai kumusoro mobata. Kana muchishandisa 3-button navigation, batai Back ne Overview. Kana muchishandisa 2-button navigation, batai Back ne Home. Mobva maisa PIN yenyu, patani kana password.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Pane nzira iri nyore here ye iPhone kana iPad yose?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Hongu. Assistive Access ye Apple inotsiva skrini yepamba yakajairika neiri nyore. [Apple inotsanangura](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) kuti yakagadzirirwa kuita kuti iPhone ive nyore kushandiswa yakazvimiririra nevanhu vane matambudziko ekurangarira, ine zvinhu zvakakura paskrini uye zvinangwa zvakanyatsojeka. Apple inopa [chinhu chimwe chetecho pa iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Ndiani anoigadzirisa.** Apple inokurudzira kuti mutsigiri akavimbika, akadai senhengo yemhuri kana munhu anotarisira, anoziva munhu wacho, abatsire kusarudza maapp nezvinhu zvinoshandiswa.
+- **Pokutangira.** Endai ku **Settings > Accessibility > Assistive Access**, bayai **Set Up Assistive Access**, mobva **Continue**.
+- **Maapp.** Imi munosarudza maapp anoonekwa. Mamwe maapp e Apple ane mavhezheni akapfava, uye maapp akawanda emamwe anogona kuwedzerwa sezvaari.
+- **Marongerwo.** Sarudzai **Rows** (rondedzero iri nyore kuverenga) kana **Grid** (zvinhu zvakakura zvinosimbisa mifananidzo nezviratidzo).
+- **Passcode.** Munogadzira passcode yakasiyana ye Assistive Access yekupinda, kubuda kana kuchinja marongero. Apple inokurudzira kugadzira recovery Apple Account panguva yekugadzirisa, nekuti pasina iyo, kukanganwa passcode kunoreva kuti mudziyo unofanira kugadzirwazve.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access inogona kukodzera munhu anoshandisa mudziyo wake zuva nezuva. Guided Access kana app pinning inokurumidza pakushandisa mutambo mese.
 
-## How do I make text and pictures bigger?
+## Ndingaita sei kuti mavara nemifananidzo zvikure?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Wedzerai ukuru hwemavara nekuratidzwa, mobva matarisa kuti mabhatani achiri kukwana paskrini.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ne iPad.** Maererano ne [mirayiridzo ye Apple yeukuru hwemavara](https://support.apple.com/en-us/102453), endai ku **Settings > Display & Brightness > Text Size** mokweva chinotsvedza. Kuti muwane mavara akatokura, endai ku **Settings > Accessibility > Display & Text Size > Larger Text**. Apple inoti mavara akakura zvakanyanya anogona kuita kuti mamwe mabhatani aome kubaya, saka gadzirisai kana zvichidiwa.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Maererano ne [rubatsiro rwe Google rwemarongero emavara nekuratidzwa](https://support.google.com/accessibility/android/answer/11183305?hl=en), vhurai **Settings** motsvaga **Font size**, mobva mafambisa chinotsvedza. Tsvagai **Display size** kuti muite kuti zvinhu zvose zviri paskrini zvikure. Munogonawo kubatidza **Bold text** pasi pe **Accessibility > Display size and text**. Mamwe maapp haateveri marongero aya.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Mumitambo yakaita se [Picture Pairs](/games/picture-pairs/) ne [Find the Same](/games/find-the-same/), munogonawo kusarudza mataira kana sarudzo shoma, izvo zvinoita kuti zvinhu zviri paskrini zvirambe zviri nyore.
 
-## How do I stop notifications and pop-ups?
+## Ndingamisa sei zviziviso nezvinobuda-buda?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Dzima zviziviso zvemaapp amusingadi, uye shandisai Do Not Disturb panguva yezviitwa.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ne iPad.** Endai ku **Settings > Notifications**, bayai app pasi pe **Notification Style**, mobva madzima **Allow Notifications** ([gwaro re Apple remarongero ezviziviso](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Kuti munyaradze mafoni, zviziviso nezvimwe kwechinguva, vhurai Control Center mobatidza **Do Not Disturb** kubva pabhatani re **Focus** ([rubatsiro rwe Apple rwe Do Not Disturb](https://support.apple.com/en-us/105112)). Munogona kuzvironga pasi pe **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Tsvairai pasi kubva kumusoro kweskrini mobaya **Do Not Disturb**, kana endai ku **Settings > Modes > Do Not Disturb** ([rubatsiro rwe Google rwe Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Pasi pe **Notification filters** munogona kusarudza vanhu nemaapp achiri kubvumidzwa kupinda. Marongero anosiyana nemugadziri wemudziyo.
 
-## How do I make a simple home screen?
+## Ndingaita sei skrini yepamba iri nyore?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Chengetai maapp mashoma anozivikanwa paskrini imwe uye fambisai mamwe kure neziso. Hapana gadziriro imwe chete yeizvi; zvinoreva kubvisa zvakawandisa.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Sarudzai maapp matatu kusvika matanhatu.** Semuenzaniso, mifananidzo, mimhanzi, app yekufona nevhidhiyo nemutambo mumwe.
+- **Aisei paskrini yekutanga,** munzvimbo dzimwe chete nguva dzose, uye fambisai mamwe ese kuskrini yechipiri kana kufolda.
+- **Shandisai mufananidzo wekumashure wakapfava une musiyano wakajeka,** wakaita seruvara rumwe kana mufananidzo mumwe unozivikanwa, kuitira kuti zviratidzo zvionekwe zvakanaka.
+- **Dzima maapp amusingadi.** Maapp mashoma anoreva mikana mishoma yekuvhiringika uye data shoma inounganidzwa.
+- **Fungai nezve Assistive Access** pamidziyo ye Apple kana muchida kuti mudziyo uzviitire.
 
-## What about volume and sound?
+## Ko ruzha nemanzwi zvakadii?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Gadzirisai ruzha runonyatsokodzera musati mapa mumwe munhu mudziyo. Ne Guided Access, munogona kudzima mabhatani eruzha kuitira kuti asachinja panguva yechiitwa. Tarisa kuti midziyo yekubatsira kunzwa yakapfekwa uye iri kushanda.
 
-## Where should the tablet live?
+## Tabhureti inofanira kuchengeterwa pai?
 
-Give it a stand and a permanent charging spot.
+Ipei chigadziko nenzvimbo yekuchajisa isingachinji.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Chigadziko kana kavha** inobata tabhureti yakamira patafura zvinoreva kuti hapana anofanira kuibata, uye kunongedzera kuri nyore.
+- **Nzvimbo imwe yekuchajisa** isingambofambi, zviri nani chigadziko chekuchejisa chiri patafura mukamuri yamunoshandisa zuva nezuva. Tabhureti inogara yakachajwa uye iri munzvimbo imwe chete.
+- **Deredza kupenya.** Isai skrini kure nehwindo rine chiedza chakawanda.
 
-## How much screen time is okay?
+## Nguva yakadii yekushandisa skrini yakakodzera?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Hapana nhamba chaiyo yemaminitsi. Ivai nenguva pfupi dzamunoshandisa mese sechikamu chezuva rizere rinosanganisirawo kufamba, mimhanzi, mabasa epamba, kukurukurirana uye kuva panze. Nekuti manheru akabatikana anogona kuwedzera kusagadzikana pakupera kwezuva, fungai nezvekuchengeta zviitwa zveskrini pakutanga kwezuva. Onai [zviitwa zvinonyaradza masikati apera](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Kushandisa tabhureti mese, kwete sechinotsiva munhu, kunoita kuti ive nzira yekudyidzana. Gwaro redu re [kutamba mitambo mese](/caregiving/how-to-play-together/) rinotsanangura kuti sei.
 
-## How do I protect their privacy on the device?
+## Ndingadzivirira sei kuvanzika kwavo pamudziyo?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Deredza zvinogona kuunganidzwa nemaapp, uye musafunga kuti mutemo wekuvanzika kweutano unozvidzivirira. U.S. Department of Health and Human Services (HHS) [inotsanangura](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) kuti kazhinji Mitemo ye HIPAA haidziviriri ruzivo rweutano rwakachengetwa kana runowanikwa pamafoni nematabhureti emunhu. Kazhinji, HIPAA haidziviriri data rinopinzwa mumaapp ekushandisa pachako kunze kwekunge app yacho yabva kumupi wehutano, hurongwa hwehutano kana vamwe vevabatsiri vavo vanoshandira pamwe navo.
 
-HHS suggests:
+HHS inokurudzira:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- kudzivisa maapp asina kukosha kana asina kurongeka, kunyanya "emahara";
+- kusapa maapp mukana wenzvimbo kunze kwekunge achinyatsouda, semamepu.
 
-Also consider:
+Fungaiwo nezve:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Shandisai passcode** pamudziyo, uye chengetai runyoro rwayo panzvimbo yakachengeteka.
+- **Ongororai mvumo** dzemifananidzo, kamera, maikorofoni, vanobatika nenzvimbo, uye dzimai chero chinhu chisingadiwi neapp.
+- **Tarisa zvinounganidzwa neapp** musati maiisa. Gwaro redu re [kusarudza maapp nemitambo yedementia](/caregiving/choosing-apps-and-games/) rine runyoro rwekutarisa kuvanzika.
+- **Ngwarirai pamifananidzo yemhuri.** Goveranai chete mifananidzo iyo munhu wacho angasununguka nayo, uye zivai kuti app inoichengetera kupi. Mu [Photo Pairs](/games/photo-pairs/), mifananidzo yamunosarudza inoramba iri mubrowser yenyu.
+- **Dzima kutenga mukati meapp** kana kubvisa ruzivo rwekubhadhara kumaakaundi anoshandiswa nemunhu wacho.

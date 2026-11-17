@@ -1,32 +1,32 @@
 ---
-title: "Ọrụ Ụlọ dị ka Ihe Ime maka Ndị Nwere Dementia"
-seoTitle: "Ọrụ Ụlọ maka Dementia: Ọrụ Kwa Ụbọchị Dị Mfe"
-description: "Ịpịkọta akwa, ịhazi ihe, ịdọba tebụl na isi nri dị mfe nwere ike ịbara ndị na-ebi ná dementia uru. Otu esi ahazi ha, gbanwee ha ma chekwaa ha."
+title: "Ọrụ ụlọ dịka ihe omume maka ndị na-ebi na nsogbu icheta ihe"
+seoTitle: "Ọrụ ụlọ maka nsogbu icheta ihe: Ọrụ kwa ụbọchị"
+description: "Ịpịaji, ịhazi, idozi tebụl na isi nri dị mfe nwere ike ịbụ ihe omume bara uru maka ndị na-ebi na nsogbu icheta ihe. Otu e si ahazi ha ma mee ka ha dị nchebe."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ọrụ ụlọ kwa ụbọchị dị ka ịpịkọta akwa nhicha, ịhazi sọks, ịdọba tebụl,
-  ihichapụ ebe a na-edebe ihe, ịgba osisi mmiri na inye aka isi nri dị mfe nwere
-  ike inye onye na-ebi ná dementia ụzọ n'ezie ọ ga-esi nyere aka. Họrọ ọrụ ọ maara,
-  kewaa ha n'ụzọ otu n'otu, wepụ ihe dị nkọ ma ọ bụ ihe na-ekpo ọkụ, ma nye
-  mkpa ịnọkọ n'ọrụ ahụ karịa ime ya "n'ụzọ ziri ezi".
+  Ọrụ kwa ụbọchị dịka ịpịaji akwa nhicha ahụ, ịhazi sọks, idozi tebụl,
+  ihichapụ tebụl, ịgbanye osisi mmiri na inye aka n’isi nri dị mfe nwere ike inye
+  onye na-ebi na nsogbu icheta ihe ezigbo ụzọ isi nyere aka. Họrọ ọrụ ha maara,
+  kee ya n’otu nzọụkwụ n’otu oge, wepụ ihe ndị dị nkọ ma ọ bụ na-ekpo ọkụ, ma
+  kpọrọ isonye n’ọrụ ihe karịa ime ya “otu o kwesịrị”.
 keyPoints:
-  - "Ọrụ ndị a maara nwere ike inye onye ahụ mmetụta na ọ bara uru ma bụrụ akụkụ nke ezinụlọ, nke na-adịkarị mkpa karịa otú e si rụọ ọrụ ahụ nke ọma."
-  - "Kewaa ọrụ ọ bụla n'ụzọ otu n'otu, gosi ya kama ịgwa ya, ma jiri nwayọọ were akụkụ ọ bụla ghọrọ ihe siri ike."
-  - "Kpọchie mma, ihe nhicha na pọd nke ihe nsachapụ akwa n'ebe e debere ha, tinyekwa mkpuchi ọnụ stov ma ọ bụ ihe na-emechi ya n'onwe ya tupu unu esoro isi nri."
-  - "Ekwela ka onye ahụ hụ mgbe ị na-apịkọta ọzọ akwa nhicha o pịkọtara. Ọ bụrụ na ị ga-emezigharị ihe, mee ya mgbe e mesịrị ma ọ nọghị na-ahụ."
-  - "Ọ bụrụ na ọrụ ahụ na-eme ya iwe, gbanwee gaa n'akụkụ dị mfe karị, nwaa ọzọ n'oge ọzọ, ma ọ bụ nọdụ ọnụ."
+  - "Ọrụ a maara nke ọma nwere ike inyere onye ahụ aka inwe mmetụta na ọ bara uru ma bụrụ akụkụ nke ezinụlọ, nke na-abụkarị ihe dị mkpa karịa otú e si rụọ ọrụ ahụ nke ọma."
+  - "Kee ọrụ ọ bụla n’otu nzọụkwụ, gosi ihe a ga-eme kama ịkọwa naanị, ma were nwayọ were ọrụ nzọụkwụ ọ bụla siri ike ugbu a."
+  - "Kpochie mma, ihe nhicha ụlọ na ngwugwu ncha mmiri, ma tinye ihe mkpuchi na bọtịnụ stovu ma ọ bụ ngwaọrụ na-egbichi stovu n’onwe ya tupu isi nri ọnụ."
+  - "Achọghị ka apịajia akwa nhicha ahụ ọzọ n’ihu onye ahụ. Ọ bụrụ na ị ga-emegharị ihe, mee ya ma emechaa mgbe onye ahụ anaghị ahụ ya."
+  - "Ọ bụrụ na ọrụ na-eweta iwe ma ọ bụ mgbakasị, gbanwee gaa na nzọụkwụ dị mfe karịa, nwalee ọzọ n’oge ọzọ, ma ọ bụ nọdụkọọ ọnụ."
 faq:
-  - q: "Ọrụ ụlọ ndị gịnị ka onye nwere dementia ka nwere ike inye aka na ha?"
-    a: "Ọtụtụ ndị nwere ike ịpịkọta akwa ndị a saworo, ịchọta sọks abụọ yiri onwe ha, ịhazi ngaji na ndụdụ, ịdọba tebụl, ihichapụ ebe a na-edebe ihe, ihichapụ ájá, ịhịa ụlọ, ịgba osisi mmiri ma ọ bụ ịgwakọta ihe a ga-esi nri. Họrọ ọrụ onye ahụ rụrụ na mbụ, wee kwekọọ ha n'ihe ọ nwere ike ime ugbu a. N'oge ndị ọzọ nke dementia, otu mmegharị a na-emeghachi, dị ka ime ka akwa nhicha ọnụ dịrị larịị, nwere ike ezuru."
-  - q: "Ọ̀ dị nchebe ka onye nwere dementia nyere aka n'ụlọ nri?"
-    a: "Ọ nwere ike ịdị, ma ọ bụrụ na ị na-eche ya anya nke ọma na e doziri ebe ahụ. Debe mma, ihe nhicha na ihe ọ bụla na-ekpo ọkụ ebe ọ na-adịghị eru ya aka, jiri mkpuchi ọnụ stov ma ọ bụ ihe na-emechi ya n'onwe ya, nyekwa onye ahụ ọrụ dị nchebe dị ka ịsa akwụkwọ nri, ịgwakọta nri ma ọ bụ ịdọba efere. Hapụla ya naanị ya mgbe stov na-agba ọkụ."
-  - q: "Gịnị ma ọ bụrụ na ọ pịkọta ihe n'ụzọ na-ezighị ezi ma ọ bụ mee ọgba aghara?"
-    a: "Hapụ ya. Ebumnuche bụ ịnọkọ oge ọnụ na mmetụta nke ịbara uru, ọ bụghị nsonaazụ zuru okè. Ọ bụrụ na ihe n'ezie chọrọ ime ya ọzọ, chere ruo mgbe e mesịrị, mee ya mgbe onye ahụ nọghị na-ele anya, ka ọ ghara ichee na a na-edozi ya."
-  - q: "Gịnị ma ọ bụrụ na ọ jụ inye aka?"
-    a: "Mba nwere ike ịpụta na ọrụ ahụ dị ya ka ihe siri ike, na-agbagwoju ya anya ma ọ bụ na-ewe ya ike ugbu a. Ekwela ya ka o mee ya. Nwaa ụdị dị mfe, kpọọ ya ka ọ nọdụ nọrọ gị mgbe ị na-arụ ọrụ, ma ọ bụ jụọ ya ọzọ n'oge ụbọchị kacha mma."
+  - q: "Kedu ọrụ ụlọ onye nwere nsogbu icheta ihe ka nwere ike inyere aka na ya?"
+    a: "Ọtụtụ mmadụ ka nwere ike ịpịaji akwa, ịhazi sọks, ịhazi ngaji na ndụdụ, idozi tebụl, ihichapụ tebụl, ihichapụ uzuzu, ịza ụlọ, ịgbanye osisi mmiri ma ọ bụ ịkpali ihe a gwakọtara n’efere. Họrọ ọrụ onye ahụ na-arụbu n’oge gara aga ma dabara ya na ihe ha nwere ike ime ugbu a. N’oge ikpeazụ, otu mmegharị a na-eme ugboro ugboro, dịka ime ka akwa nhicha tebụl dị larịị, nwere ike zuo."
+  - q: "Ọ dị nchebe ka onye nwere nsogbu icheta ihe nyere aka n’ime kichin?"
+    a: "O nwere ike ịdị, ma ọ bụrụ na e nwere nlekọta anya nke ọma na nhazi kwesịrị ekwesị. Debe mma, ihe nhicha ụlọ na ihe ọ bụla na-ekpo ọkụ ebe a na-apụghị iru ha, jiri ihe mkpuchi na bọtịnụ stovu ma ọ bụ ngwaọrụ na-egbichi stovu n’onwe ya, ma nye onye ahụ ọrụ dị nchebe dịka ịsacha akwụkwọ nri, ịkpali nri ma ọ bụ ịtọ efere. Ahapụla ha naanị mgbe stovu na-arụ ọrụ."
+  - q: "Gịnị ma ọ bụrụ na ha apịajia ihe n’ụzọ na-ezighi ezi ma ọ bụ mee ka ebe ghara ịdị ọcha?"
+    a: "Hapụ ya otú ahụ. Ebumnuche bụ oge unu na-anọkọ ọnụ na mmetụta ịbụ onye bara uru, ọ bụghị nsonaazụ zuru oke. Ọ bụrụ na ọ dị mkpa n’ezie ịmegharị ihe, chere ruo ma emechaa mee ya mgbe onye ahụ anaghị ele anya, ka ha ghara inwe mmetụta na a na-edozi ha."
+  - q: "Gịnị ma ọ bụrụ na ha jụrụ inyere aka?"
+    a: "Ịsị mba nwere ike ịpụta na ọrụ ahụ yiri ka ọ siri ike, na-agbagwoju anya ma ọ bụ na-ike gwụrụ ha ugbu a. Akwala ka ha mee ya n’ike. Nwalee ụdị dị mfe karị, kpọọ ha ka ha nọnyere gị kama, ma ọ bụ jụọ ha ọzọ n’oge ka mma n’ụbọchị."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Ọtụtụ ndị na-ebi ná dementia kwadoro ọtụtụ afọ na-elekọta ụlọ, na-azụ ụmụ ma ọ bụ na-edebe ebe ọrụ n'usoro. Ịrịọ ha ka ha nyere aka n'ọrụ ụlọ n'ezie nwere ike ịgwa ha, n'ụzọ ihe ole na ole ndị ọzọ nwere ike, na "ị ka bụ akụkụ nke ezinụlọ a." Ibe a na-ekwu ọrụ ndị na-arụkarị nke ọma, otu esi ahazi ha, otu esi agbanwe ha ka ihe na-agbanwe, na otu esi echekwa ụlọ nri na ebe a na-asa akwa.
+Ọtụtụ ndị na-ebi na nsogbu icheta ihe nọrọ ọtụtụ afọ na-elekọta ụlọ, na-azụ ụmụ, ma ọ bụ na-ahazi ebe ọrụ. Ịkpọ onye ahụ ka o nyere aka n’ezie ọrụ ụlọ nwere ike ikwu, “ị ka bụ akụkụ nke ezinụlọ a,” n’ụzọ obere ihe omume ndị ọzọ nwere ike ime. Peeji a na-akọwa ọrụ ndị na-adịkarị mma, otu e si ahazi ha, otu e si gbanwee ha ka ihe na-agbanwe, na otu e si mee ka kichin na ebe a na-asa akwa dị nchebe.
 
-## Gịnị mere ọrụ ụlọ kwa ụbọchị ji adaba dị ka ihe ime?
+## Gịnị mere ọrụ kwa ụbọchị ji adị mma dịka ihe omume?
 
-Ọrụ ụlọ na-adaba n'ihi na a maara ha ma nwee ebumnuche doro anya. National Institute on Aging depụtara ịsa efere, ịdọba tebụl, ịhịa ụlọ, ihichapụ ájá, ịhazi akwụkwọ ozi, ịpịkọta akwa na ịhazi ihe e ji emegharị n'etiti [ọrụ kwa ụbọchị ndị nwere Alzheimer nwere ike inwe obi ụtọ na ha](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association na-ekwu na ọrụ dị ka ịdọba tebụl nwere ike inyere onye ahụ aka [ichee na ya bụ akụkụ a na-akwanyere ùgwù nke ezinụlọ](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Ọrụ ụlọ na-adị mma n’ihi na ha bụ ihe a maara nke ọma ma nwee ebumnuche doro anya. National Institute on Aging depụtara ịsa efere, idozi tebụl, ịza ụlọ, ihichapụ uzuzu, ịhazi akwụkwọ ozi, ịpịaji akwa na ịhazi ihe a ga-emegharịgharị n’ime [ihe omume kwa ụbọchị ndị nwere ọrịa Alzheimer nwere ike ịnụ ụtọ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer’s Association kwuru na ọrụ dịka idozi tebụl nwere ike inyere onye ahụ aka [inwe mmetụta na ọ bụ akụkụ bara uru nke ezinụlọ](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-Ọrụ ụlọ nwekwara ihe mere ya ji amalite. "Ị nwere ike inyere m aka n'akwa nhicha ndị a?" dị mfe ịzaa ee karịa "Ị chọrọ ime ihe?"
+Ọrụ nwekwara ihe kpatara ịmalite n’onwe ya. “Ị nwere ike inyere m aka n’akwa nhicha ahụ ndị a?” dị mfe ikwu ee na ya karịa “Ị ga-achọ ime ihe omume?”
 
-## Ọrụ ụlọ ndị gịnị ka m kwesịrị ịnwale?
+## Kedu ọrụ ụlọ dị mma ịnwale?
 
-Malite n'ọrụ onye ahụ rụrụ na mbụ, wee kwekọọ ha n'ihe o nwere ike ime taa.
+Bido n’ọrụ onye ahụ na-arụbu n’oge gara aga, ma dabara ha na ihe ha nwere ike ime taa.
 
-### Akwa a saworo na akwa ndị ọzọ
+### Akwa na ihe ndina
 
-- **Ịpịkọta akwa nhicha ahụ na akwa nhicha ihu.** Nye ya nkata nke obere akwa dị larịị. Akwa nhicha anaghị esiri mmadụ ike: ọ nweghị ụzọ na-ezighị ezi esi apịkọta ya.
-- **Ịhazi sọks abụọ yiri onwe ha.** Tọgbọọ ọtụtụ sọks agwakọtara n'elu tebụl. Ọ bụrụ na o siere ya ike ịhụ nke yiri onwe ha, jiri naanị sọks abụọ ma ọ bụ atọ nwere agba dị iche nke ukwuu.
-- **Ime ka ha dịrị larịị na ịchịkọta ha n'elu ibe ha.** Enwere ike ime ka akwa nhicha ọnụ, akpụkpọ ihe ndina na akwa nhicha efere dịrị larịị, wee chịkọta ha n'elu ibe ha. Nke a na-adaba nke ọma n'oge ndị ọzọ, mgbe ịpịkọta akwa ghọrọ ọtụtụ ihe n'otu oge.
+- **Ịpịaji akwa nhicha ahụ na akwa nhicha aka.** Nye ha nkata nwere obere ihe dị larịị. Akwa nhicha ahụ adịghị esiri ike: enweghị ụzọ na-ezighi ezi e si apịaji ya.
+- **Ịhazi sọks.** Tinye sọks agwakọtara ọnụ n’elu tebụl. Ọ bụrụ na ịchọta ụzọ abụọ yiri ibe na-esiri ike, jiri naanị agba abụọ ma ọ bụ atọ dị iche iche nke ọma.
+- **Ime ka ihe dị larịị ma kpọkọba ha.** Akwa nhicha tebụl, akwa ohiri isi ma ọ bụ akwa nhicha efere nwere ike ịdị larịị ma kpọkọba. Nke a na-adị mma ma emechaa, mgbe ịpịaji aghọọla ọtụtụ nzọụkwụ.
 
-### Tebụl na ụlọ nri
+### Tebụl na kichin
 
-- **Ịdọba tebụl.** Debe otu ebe e ji eri nri dị ka ihe atụ, ka onye ahụ mee ka nke ahụ. Ọ bụrụ na nke ahụ karịrị ya, nye ya otu ihe n'otu oge: "Lee ndụdụ maka efere ọ bụla."
-- **Ịhazi ngaji na ndụdụ.** Gwakọta ndụdụ, ngaji na mma ndị na-adịghị nkọ ndị a saworo n'ime otu ebe, wee ka ọ hazie ha n'ime ihe nwere ụlọ dị iche iche. Ewepụ mma ndị dị nkọ.
-- **Ịhichapụ mmiri n'efere.** Efere plastik ma ọ bụ ndị na-adịghị agbaji na akwa dị nro na-eme nke a ọrụ dị nchebe.
-- **Ihichapụ tebụl ma ọ bụ ebe a na-edebe ihe.** Akwa mikpuru emikpu na ebe a kpochapụrụ. Alzheimer's Association na-atụ aro inye akwa ma ọ bụrụ na onye ahụ na-eji aka ya ehichapụ tebụl ugbu a, nke na-eme ka mmegharị na-adịghị ala ala bụrụ nke bara uru.
+- **Idozi tebụl.** Tọọ otu ebe nri dịka ihe nlereanya ma hapụ onye ahụ ka o soro ya. Ọ bụrụ na nke ahụ karịrị akarị, nye ha otu ihe n’otu oge: “Nke a bụ ndụdụ maka efere ọ bụla.”
+- **Ịhazi ngaji na ndụdụ.** Gwakọta ndụdụ, ngaji na mma bọta dị ọcha n’ime efere ma hazie ha n’ime tray nwere nkewa. Ewebatala mma dị nkọ.
+- **Ịhicha efere mmiri.** Efere rọba ma ọ bụ ndị na-agaghị agbaji na akwa dị nro na-eme ka nke a bụrụ ọrụ dị nchebe.
+- **Ịhichapụ tebụl ma ọ bụ ebe e si esi nri.** Akwa dịtụ mmiri na elu tebụl doro anya. Alzheimer’s Association na-atụ aro inye onye ahụ akwa ma ọ bụrụ na ha amalitela iji aka ha ete tebụl, si otú ahụ gbanwee mmegharị na-adịghị akwụsị akwụsị ka ọ bụrụ ihe bara uru.
 
-### N'ime ụlọ
+### Gburugburu ụlọ
 
-- **Ihichapụ ájá.** Akwa dị nro na ebe ole na ole siri ike, dị ka tebụl dị n'ihu oche ma ọ bụ ebe e debere akwụkwọ.
-- **Ịhazi akwụkwọ ozi.** Nye ya akwụkwọ ozi ndị na-adịghị mkpa na katalọgụ ka ọ kewaa ha n'otu n'otu: debe, tụfuo, meghee mgbe e mesịrị. Debe akwụkwọ ụgwọ n'ezie na cheque n'ebe ọzọ.
-- **Ịhazi ihe a ga-eji emegharị.** Kewaa kaan, karama na akwụkwọ a saworo n'ime nkata dị iche iche.
-- **Ịhịa ụlọ.** Obere ifiri n'èzí ụlọ ma ọ bụ n'ala ụlọ nri, ma ọ bụrụ na ọ na-eguzosi ike.
-- **Ịgba osisi mmiri.** Obere ite mmiri dị mfe na osisi ole na ole dị n'ebe aka ya ga-eru.
+- **Ịhichapụ uzuzu.** Ngwá ihichapụ uzuzu dị nro na obere ebe siri ike, dịka tebụl kọfị ma ọ bụ shelf akwụkwọ.
+- **Ịhazi akwụkwọ ozi.** Nye ha akwụkwọ ozi na katalọgụ na-abaghị uru ka ha hazie n’òtù: debe, tụfuo, meghee ma emechaa. Debe akwụkwọ ụgwọ na akwụkwọ ego n’ezie ebe ọzọ.
+- **Ịhazi ihe a ga-emegharịgharị.** Tinye ite, karama na akwụkwọ dị ọcha n’ime akpa dị iche iche.
+- **Ịza ụlọ.** Azịza nta n’ogige ma ọ bụ n’ala kichin, ma ọ bụrụ na ịnọgidesi ike n’ụkwụ dị mma.
+- **Ịgbanye osisi mmiri.** Obere ite mmiri dị mfe ibuli na osisi ole na ole dị nso.
 
-### Isi nri dị mfe n'okpuru nlekọta
+### Isi nri dị mfe n’okpuru nlekọta
 
-Isi nri nwere ike iweghachite mmetụta ndị siri ike, dị mma. NIA na-atụ aro ka onye ahụ chịkọta ihe a ga-eji, tụọ ha, gwakọta ma wụsa, ma ọ bụ naanị gwa onye ọzọ otu esi esi nri o hụrụ n'anya. Ọrụ ndị dị mma gụnyere:
+Isi nri nwere ike iweghachite mmetụta dị mma siri ike. NIA na-atụ aro ikwe ka onye ahụ kpọkọta ihe oriri, tụọ, gwakọta ma wụsa, ma ọ bụ naanị gwa onye ọzọ otú e si eme nri ha masịrị ha. Ọrụ dị mma gụnyere:
 
-- ịsa akwụkwọ nri ma ọ bụ mkpụrụ osisi
-- ịgwakọta ngwakọta ma ọ bụ salad oyi
-- ịmịpụ akwụkwọ salad
-- ịtee bọta n'elu achịcha a gbara ọkụ site na mma na-adịghị nkọ
-- itinye ntụ biskit a gwakọtara n'elu treyị
-- itinye ihe a na-etinye n'elu pizza
+- ịsacha akwụkwọ nri ma ọ bụ mkpụrụ osisi
+- ịkpali ihe a gwakọtara ma ọ bụ saladụ oyi
+- ịdọkapụ akwụkwọ letus
+- ịtinye bọta na achịcha e ghere eghe site na iji mma na-adịghị nkọ
+- ịtọ mgwakọ kuki n’elu tray
+- ịtinye ihe n’elu pizza
 
-Ọ bụrụ na ịtụ ihe siere ya ike, Alzheimer's Association na-atụ aro ka ị gwụchaa ịtụ ya, wee nye ya akụkụ ọzọ, dị ka ịgwakọta nri.
+Ọ bụrụ na ịtụ ihe na-esi ike, Alzheimer’s Association na-atụ aro ka ị mechaa ịtụ ihe ahụ ma nye ha nzọụkwụ ọzọ, dịka ịkpali.
 
-## Kedu otu m ga-esi mee ka ọrụ ụlọ dachaa nke ọma?
+## Olee otu m ga-esi hazie ọrụ ka ọ gaa nke ọma?
 
-1. **Họrọ oge kwesịrị ekwesị.** Họrọ oge n'ụbọchị mgbe onye ahụ na-adịkarị zuru ike ma dị jụụ. Maka ọtụtụ ndị, nke a bụ n'ụtụtụ.
-2. **Kpochapụ ebe ahụ.** Otu ọrụ, otu ebe, ọ dịghị ihe ọzọ n'elu tebụl.
-3. **Kpọọ ya, ejila ya kenye ya.** "Aka gị ga-abara m uru n'ihe ndị a" ka mma karịa "Oge eruola ịpịkọta akwa."
-4. **Gosi nke mbụ.** Jiri nwayọọ pịkọta otu akwa nhicha, wee nye ya nke ọzọ. Igosi doro anya karịa ịkọwa.
-5. **Nye ya otu akụkụ n'otu oge.** Ọtụtụ ntụziaka n'otu oge nwere ike ịdị ya ukwuu. Chere ka otu akụkụ gwụchaa tupu ị kpọọ nke ọzọ.
-6. **Rụkọọ ọrụ n'akụkụ ibe unu.** Ịrụ otu ọrụ n'akụkụ ibe unu na-adị ka ịnọkọ, ọ bụghị nlekọta.
-7. **Kwuo banyere ọrụ ahụ, ọ bụghị nsonaazụ.** "Ndị a dị nro nke ukwuu" ma ọ bụ "Gwa m otu ị si masị idebe akwa gị" na-akpọ mkparịta ụka n'ejighị anwale onye ọ bụla.
+1. **Họrọ oge kwesịrị ekwesị.** Họrọ akụkụ ụbọchị mgbe onye ahụ na-ezukarị ike ma dị jụụ. Maka ọtụtụ mmadụ, nke a bụ n’ụtụtụ.
+2. **Mee ka ebe ahụ doo anya.** Otu ọrụ, otu elu tebụl, ọ dịghị ihe ọzọ n’elu tebụl.
+3. **Kpọọ oku, abụghị inye iwu.** “Enwere m ike ịchọ aka gị n’ime nke a” ka mma karịa “Oge eruola ịpịaji akwa.”
+4. **Gosi nke mbụ.** Pịajie otu akwa nhicha ahụ nwayọ, ma nye ha nke ọzọ. Ịgosi ka doro anya karịa ịkọwa.
+5. **Nye otu nzọụkwụ n’otu oge.** Ntuziaka ọtụtụ n’otu oge nwere ike ime ka ihe karịsịa ha. Chere ka otu nzọụkwụ mechaa tupu ịkpọ aha nke ọzọ.
+6. **Rụkọọ ọrụ n’akụkụ ibe unu.** Ịrụ otu ọrụ n’akụkụ ibe unu na-eme ka ọ dị ka ịnọkọ ọnụ, ọ bụghị dịka nlekọta.
+7. **Kwuo maka ọrụ ahụ, ọ bụghị nsonaazụ ya.** “Ndị a dị nro nke ukwuu” ma ọ bụ “Gwa m otú i masịrị idobe ebe a na-edebe akwa ndina” na-akpọ oku maka mkparịta ụka na-enweghị ịnwa onye ọ bụla.
 
-## Kedu otu m ga-esi gbanwee ọrụ ụlọ ka ike onye ahụ na-agbanwe?
+## Olee otu m ga-esi gbanwee ọrụ ka ike na-agbanwe?
 
-Ike na-agbanwe n'oge ma ọ bụ ọbụna site n'ụbọchị gaa n'ụbọchị. Alzheimer's Association na-atụ aro ịkwaga n'ọrụ dị mfe, nke a na-emeghachi karị ka ọrịa na-aga n'ihu.
+Ike na-agbanwe ka oge na-aga, ọbụnadị site n’otu ụbọchị gaa n’ụbọchị ọzọ. Alzheimer’s Association na-atụ aro ịga n’ọrụ dị mfe karị, ndị a na-eme ugboro ugboro ka ọnọdụ na-aga n’ihu.
 
-| Ọ bụrụ na nke a siere ya ike | Nwaa nke a kama |
+| Ọ bụrụ na nke a esiela ike | Nwalee nke a kama |
 | --- | --- |
-| Ịpịkọta akwa ndina buru ibu | Ịpịkọta akwa nhicha ihu ma ọ bụ ime ka akwa nhicha ọnụ dịrị larịị |
-| Ịdọba tebụl zuru ezu | Itinye otu akwa nhicha ọnụ n'ebe a na-anọdụ ọ bụla |
-| Ịhazi akwụkwọ ozi n'otu n'otu | Ịchịkọta akwụkwọ ozi n'otu ebe |
-| Ịgbaso usoro isi nri | Ịgwakọta nri, ma ọ bụ ile ma nụ ụtọ ya mgbe ị na-esi nri |
-| Ịhịa ụlọ niile | Ihichapụ otu obere tebụl |
-| Ime ọrụ ahụ n'ozuzu ya | Ịnọdụ n'akụkụ gị ma na-anọkọ gị mgbe ị na-arụ ọrụ |
+| Ịpịaji akwa ndina buru ibu | Ịpịaji akwa nhicha aka ma ọ bụ ime ka akwa nhicha tebụl dị larịị |
+| Idozi tebụl zuru ezu | Ịtinye otu akwa nhicha tebụl n’ebe oche ọ bụla |
+| Ịhazi akwụkwọ ozi n’òtù dị iche iche | Ịkpọkọba envelopu n’otu ọnụ |
+| Ịgbaso usoro isi nri | Ịkpali, ma ọ bụ ile ma ṅụọ ụtọ mgbe ị na-esi nri |
+| Ịza ala ụlọ niile | Ịhichapụ otu obere tebụl |
+| Ịrụ ọrụ ahụ kpamkpam | Ịnọdụnyere gị ma nọnyere gị mgbe ị na-arụ ya |
 
-Ile anya bụkwa ịbanye na ya. NIA na-ekwu na ụfọdụ ndị na-enwe obi ụtọ naanị ịlere anya, nke ahụ bụkwa ezigbo ụzọ isi banye na ya.
+Ile anya gụnyere. NIA kwuru na ụfọdụ mmadụ na-enwe mmasị n’ile anya naanị, nke ahụ bụkwa ụzọ dị mma isi sonye.
 
-## Kedu otu m ga-esi chekwaa ọrụ ụlọ?
+## Olee otu m ga-esi mee ka ọrụ ụlọ dị nchebe?
 
-Nchekwa bụ nke mbụ, karịsịa n'ụlọ nri. [Ndụmọdụ nchekwa ụlọ maka ndị na-elekọta ndị nwere Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) nke NIA gụnyere:
+Nchebe bụ ihe mbụ, karịsịa n’ime kichin. [Ndụmọdụ nchekwa ụlọ maka ndị na-elekọta ndị nwere ọrịa Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) nke NIA gụnyere:
 
-- Kpọchie ma ọ bụ wepụ ihe nhicha, gụnyere pọd nke ihe nsachapụ akwa, nke nwere ike ịdị ka swiiti.
-- Chekwaa mma, sịzọ na ngwa ọrụ eletrik n'ebe e kpọchiri.
-- Tinye ihe nchekwa na ọnụ stov na ihe na-emechi ya n'onwe ya.
-- Tinye akara "Kwụsị" ma ọ bụ "Ọ na-ekpo ọkụ nke ukwuu" n'akụkụ oven, tosta na ayọn, na-etinye ha n'ụzọ ha na-agaghị agbanye ọkụ.
-- Tọọ ihe na-ekpo mmiri ọkụ ka ọ bụrụ 120°F (ihe dị ka 49°C) iji belata ihe egwu nke ọkụ mmiri.
-- Wepụ mkpụrụ osisi e mere emere na magnet e mere dị ka nri, nke nwere ike ịdị ka ndị a ga-eri.
+- Kpochie ma ọ bụ wepụ ihe nhicha ụlọ, gụnyere ngwugwu ncha mmiri e ji asa akwa, nke nwere ike iyi ka swiiti.
+- Debe mma, mkpa na ngwaọrụ ike n’ebe e kpọchiri ekpochi.
+- Tinye ihe mkpuchi nchekwa na ngwaọrụ na-egbichi stovu n’onwe ya na stovu.
+- Tinye akara “Kwụsị” ma ọ bụ “Na-ekpo ọkụ nke ukwuu” n’akụkụ oven, toaster na ígwè, debe ha n’ụzọ ha na-agaghị enwe ike ịdọta ọkụ.
+- Hazie igwe na-ekpo mmiri ka ọ dị na 120°F iji belata ohere nke ịkpọ ọkụ.
+- Wepụ mkpụrụ osisi adịgboroja na magnet ndị yiri nri, nke nwere ike iyi ka ihe oriri.
 
-Ụfọdụ omume ndị ọzọ bara uru na-enyekwa aka:
+Ụfọdụ omume bara uru ndị ọzọ na-enyekwa aka:
 
-- Nọrọ n'ime ụlọ ahụ mgbe stov, oven ma ọ bụ ngwa nkọ na-arụ ọrụ.
-- Jiri efere ndị na-adịghị agbaji maka ihichapụ na ịdọba tebụl.
-- Debe ala ka ọ ghara ịdị mmiri mmiri ma kpochapụ mgbe ị na-ahịa ma ọ bụ na-asa ụlọ.
-- Ọ bụrụ na onye ahụ jiri ngwa ọrụ na mbụ, Alzheimer's Association na-atụ aro iwepụ ihe ndị dị ize ndụ n'ụlọ ọrụ aka ka ọ ka nwee ike inwe obi ụtọ n'ọrụ dị nchebe, dị ka ịkpụcha otu mpempe osisi ka ọ dị nro.
+- Nọ n’ime ọnụ ụlọ mgbe ọ bụla stovu, oven ma ọ bụ ngwaọrụ dị nkọ na-arụ ọrụ.
+- Jiri efere na-agaghị agbaji maka ihicha na idozi tebụl.
+- Debe ala ka ọ kpọọ nkụ ma doo anya mgbe ị na-aza ma ọ bụ na-ehicha ala.
+- Ọ bụrụ na onye ahụ na-ejibu ngwaọrụ mgbe gara aga, Alzheimer’s Association na-atụ aro iwepụ ihe ndị dị ize ndụ n’ebe ọrụ ka ọrụ dị nchebe, dịka ịcha otu mpempe osisi, ka nwee ike ịbụ ihe a na-atọ ụtọ.
 
-## Gịnị ma ọ bụrụ na ọ rụọ ya "n'ụzọ na-ezighị ezi"?
+## Gịnị ma ọ bụrụ na ha eme ya “n’ụzọ na-ezighi ezi”?
 
-Hapụ ya. Akwa nhicha e pịkọtara n'ọnụ atọ kama nke abụọ ka bụ akwa nhicha e pịkọtara. Alzheimer's Association kwuru ya nke ọma: ihe na-aba uru bụ ịnọkọ oge ọnụ na mmetụta nke onye ahụ nke ịbara uru, ọ bụghị ma e pịkọtara akwa nhicha ahụ nke ọma. Ọ bụrụ na ihe n'ezie ga-adị mkpa ka e mee ya ọzọ, chere ruo mgbe e mesịrị, mee ya ebe onye ahụ na-adịghị ahụ.
+Hapụ ya ka ọ dị otú ahụ. Akwa nhicha ahụ apịajiri ụzọ atọ kama ụzọ abụọ ka bụ akwa nhicha apịajiri. Alzheimer’s Association kwuru ya n’ụzọ doro anya: ihe dị mkpa bụ inọkọ ọnụ na inwe mmetụta na onye ahụ bara uru, ọ bụghị ma a pịajiri akwa nhicha ahụ nke ọma. Ọ bụrụ na ọ dị mkpa n’ezie imegharị ihe, chere ruo ma emechaa mee ya mgbe onye ahụ anaghị ahụ ya.
 
-Idozi ya n'oge ahụ nwere ike ime ka ọrụ na-atọ ụtọ ghọọ ncheta nke ihe furu efu. "Daalụ, nke ahụ nyeere m aka nke ukwuu" fọrọ nke nta ka ọ bụrụ ihe kwesịrị ekwu mgbe niile.
+Ịdozi ihe n’oge ahụ nwere ike ime ka ọrụ dị ụtọ ghọọ ihe na-echetara ihe furu efu. “Daalụ, nke a enyere m aka nke ukwuu” bụ ihe kwesịrị ekwesị ikwu oge fọrọ nke nta ka ọ bụrụ mgbe niile.
 
-## Oge ole ka anyị kwesịrị ịkwụsị?
+## Kedu mgbe anyị kwesịrị ịkwụsị?
 
-Kwụsị ma ọ bụ gbanwee mgbe ị hụrụ ihe ịrịba ama nke iwe, ike ọgwụgwụ ma ọ bụ enweghị mmasị. Ịkwụsị n'oge bụ nsonaazụ dị mma, ọ bụghị ọdịda. Ị nwere ike:
+Kwụsị ma ọ bụ gbanwee mgbe ị hụrụ ihe ịrịba ama nke iwe, ike ọgwụgwụ ma ọ bụ enweghị mmasị. Ịkwụsị tupu oge eruo bụ nsonaazụ dị mma, ọ bụghị ọdịda. Ị nwere ike:
 
-- ịgbanwe gaa n'akụkụ dị mfe karị
-- ịga n'ihe na-eme ka onye ahụ zuru ike, dị ka egwu ma ọ bụ otu iko kọfị
-- ịnwale ọzọ mgbe e mesịrị ma ọ bụ n'ụbọchị ọzọ
-- ịnọdụ ọnụ naanị
+- gbanwee gaa na nzọụkwụ dị mfe karị
+- gaa n’ihe na-eme ka ahụ dajụọ, dịka egwu ma ọ bụ otu iko kọfị
+- nwalee ọzọ ma emechaa ma ọ bụ n’ụbọchị ọzọ
+- nọdụkọọ ọnụ n’ụzọ dị mfe
 
-Ọ bụrụ na onye ahụ asị mba, ekwela ya nsogbu. Lee [ihe a ga-eme mgbe ha sịrị mba](/caregiving/when-they-say-no/) maka ụzọ dị nwayọọ isi zaa.
+Ọ bụrụ na onye ahụ sị mba, akwaghị ka ha mee ya. Lee [ihe ị ga-eme mgbe ha sị mba](/caregiving/when-they-say-no/) maka ụzọ dị nwayọ isi zaghachi.
 
-## Ihe ndị ọzọ dị mfe maka oge dị jụụ
+## Ihe mgbakwunye dị mfe maka oge dị jụụ
 
-Mgbe ọrụ aka na-ekwe ome, ịhazi na ịchọta ndị yiri onwe ha ka nwere ike ime mgbe a na-anọdụ ala. [Sort Together](/games/sort-together/) na-ahapụ gị ịpị foto n'ime nkata ụlọ nri ma ọ bụ ubi, [Picture Pairs](/games/picture-pairs/) bụkwa egwuregwu dị nwayọọ nke ịchọta foto yiri onwe ha nwere foto buru ibu na enweghị elekere. [Conversation Cards](/games/conversation-cards/) nwere ajụjụ mepere emepe banyere ụlọ na ezinụlọ na-adakwa nke ọma na kọfị mgbe ọrụ gasịrị.
+Mgbe ọrụ anụ ahụ agaghị ekwe omume, ịhazi na ịhọrọ ihe ka nwere ike ime mgbe mmadụ nọ ọdụ. [Sort Together](/games/sort-together/) na-enye gị ohere ịpị foto tinye n’ime nkata kichin ma ọ bụ nke ubi, na [Picture Pairs](/games/picture-pairs/) bụ egwuregwu nhazi dị nwayọ nke nwere foto buru ibu na enweghị ngụ oge. [Conversation Cards](/games/conversation-cards/) nwere ajụjụ mepere emepe gbasara ụlọ na ezinụlọ, nke dabara nke ọma na kọfị mgbe ọrụ ahụ gwụchara.
 
-Maka enyemaka n'itinye ọrụ ụlọ n'ụbọchị, lee nduzi anyị banyere [usoro ụbọchị dị jụụ](/activities/daily-routine/). Maka echiche ndị ọzọ site n'ọkwa, lee [ọrụ n'oge etiti nke dementia](/activities/middle-stage/).
+Maka enyemaka n’ịtụkwasị ọrụ n’ime ụbọchị, lee ntuziaka anyị gbasara [usoro ụbọchị dị jụụ](/activities/daily-routine/). Maka echiche ndị ọzọ dabere n’ọkwa, lee [ihe omume maka ọkwa etiti](/activities/middle-stage/).

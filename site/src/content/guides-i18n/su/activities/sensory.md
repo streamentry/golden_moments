@@ -1,33 +1,33 @@
 ---
-title: "Kagiatan Sensori kanggo Jalma anu Hirup kalayan Demensia"
-seoTitle: "Kagiatan Sensori kanggo Demensia: Gagasan sareng Kaamanan"
-description: "Kagiatan sensori kanggo demensia, ti pijit leungeun nepi ka karanjang lawon sareng sora alam, kalayan catetan kaamanan ngeunaan keselek, alérgi sareng bau-bauan."
+title: "Kagiatan Indrawi pikeun Jalma nu Hirup sareng Déménsia"
+seoTitle: "Kagiatan Indrawi Déménsia: Ide jeung Kasalametan"
+description: "Kagiatan indrawi pikeun jalma nu hirup sareng déménsia, ti ngurut leungeun nepi ka ngadéngé sora alam, kalayan catetan kasalametan anu jelas."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kagiatan sensori maké rampa, bau, rasa, sora sareng paningal: pijit leungeun
-  anu lalaunan, karanjang lawon anu lemes, bumbu seger pikeun dibaeu, sora
-  alam, atanapi ningali manuk di jandéla. Éta cocog pikeun unggal tahap sarta
-  utamana mangpaat dina tahap anu langkung lanjut. Pariksa heula résiko
-  keselek, alérgi, masalah kulit sareng sensitivitas kana bau, tawiskeun hiji
-  hal dina hiji waktos, sarta eureun upami anjeunna katingali teu genah.
+  Kagiatan indrawi ngagunakeun rampa, ambeu, rasa, déngé, jeung témbong: ngurut
+  leungeun lalaunan, karanjang lawon lemes, ngambeu daun herbal seger,
+  ngadéngé sora alam, atawa ningali manuk di jandéla. Kagiatan ieu cocog dina
+  unggal tahap sarta hususna aya mangpaatna dina tahap engké. Pariksa heula
+  résiko keselek, alérgi, masalah kulit, jeung sensitipitas kana seungit, pasihkeun
+  hiji hal dina hiji waktu, sarta eureun upami jalma éta katingali teu tengtrem.
 keyPoints:
-  - "Kagiatan sensori teu peryogi waleran anu bener, anu ngajantenkeunana tiasa dilakukeun dina unggal tahap, kaasup di ranjang atanapi korsi."
-  - "Tawiskeun hiji rasa dina hiji waktos di rohangan anu sepi, sarta tanya atanapi béjakeun heula sateuacan noél anjeunna."
-  - "Hindari barang leutik sareng sagala anu katingali atanapi bauna siga kadaharan padahal lain, sabab jalma meureun nyelapkeun barang kana sungutna."
-  - "Pariksa alérgi, masalah kulit sareng masalah napas sateuacan maké losion, bau-bauan atanapi kadaharan."
-  - "Teu aya bukti anu ngayakinkeun yén aromaterapi ngabantosan gejala demensia; paké bau-bauan ukur pikeun kasenangan basajan, upami hoyong."
+  - "Kagiatan indrawi teu merlukeun jawaban anu bener, jadi bisa dipaké dina unggal tahap, kaasup nalika keur ngagolér atawa diuk dina korsi."
+  - "Pasihkeun hiji indra dina hiji waktu di rohangan anu tenang, sarta ménta idin atawa béjaan heula saméméh ngarampa."
+  - "Singkahan barang leutik jeung naon waé anu katingalina atawa ambeuna siga kadaharan tapi lain, sabab jalma bisa waé ngasupkeunana kana sungut."
+  - "Pariksa alérgi, masalah kulit, jeung masalah engapan saméméh ngagunakeun losion, seungit, atawa kadaharan."
+  - "Teu aya bukti anu ngayakinkeun yén aromaterapi mantuan gejala déménsia; paké seungit ngan pikeun kanikmatan basajan, upami dipaké ogé."
 faq:
-  - q: "Kagiatan sensori naon anu hadé kanggo jalma anu hirup kalayan demensia?"
-    a: "Gagasan basajan kaasup pijit leungeun anu lalaunan maké losion, nyekel lawon anu lemes, ngambeu bumbu seger atanapi kopi, ngadéngékeun musik karesep atanapi sora alam, ningali manuk atanapi akuarium lauk, sarta nyobian kadaharan karesep dina tékstur anu aman. Tawiskeun hiji hal dina hiji waktos sarta awaskeun kumaha waleran anjeunna."
-  - q: "Naha kagiatan sensori aman kanggo jalma anu sok nyelapkeun barang kana sungutna?"
-    a: "Tiasa, upami kalayan ati-ati. Paké ukur barang ageung anu teu bisa katelen, singkirkeun anu leutik atanapi gampang pecah, sarta simpen losion, sabun sareng produk wangi di tempat anu teu kajangkau sanggeusna, sabab éta bisa katingali atanapi bauna siga kadaharan. Tetep sareng anjeunna salila waktos éta."
-  - q: "Naha aromaterapi ngabantosan demensia?"
-    a: "Hiji ulasan Cochrane teu manggihan bukti anu ngayakinkeun yén aromaterapi ngabantosan jalma anu gaduh demensia, sanaos panalungtikanana leutik sarta teu saluyu. Upami anjeunna resep bau anu lemes sarta wawuh, éta teu nanaon, tapi hindari minyak asiri anu kuat, khususna upami aya masalah napas atanapi alérgi."
-  - q: "Naon éta apron atanapi simbut kagiatan?"
-    a: "Éta sapotong lawon, apron atanapi simbut pangkonan anu dijahit kuat ku barang-barang pikeun dicekel, saperti kancing ageung, résléting, pita sareng tambalan anu aya tékstur. Éta méré leungeun anu sibuk hal pikeun dijalajah. Pariksa sering upami aya anu leupas anu bisa katarik."
+  - q: "Naon waé kagiatan indrawi anu alus pikeun batur nu hirup sareng déménsia?"
+    a: "Ide saderhana ngawengku ngurut leungeun lalaunan nganggo losion, nyekel lawon lemes, ngambeu daun herbal seger atawa kopi, ngadéngé musik karesep atawa sora alam, ningali manuk atawa akuarium, jeung ngarasakeun kadaharan karesep dina tékstur anu aman. Pasihkeun hiji hal dina hiji waktu sarta perhatikeun kumaha résponna."
+  - q: "Naha kagiatan indrawi aman pikeun batur anu sok ngasupkeun barang kana sungut?"
+    a: "Bisa waé, kalayan ati-ati. Paké ngan barang gedé anu moal bisa ditelek, ulah maké naon waé anu leutik atawa gampang pegat, sarta simpen losion, sabun, jeung produk anu seungit sanggeus dipaké, sabab bisa katingali atawa ambeuna siga kadaharan. Ulah ninggalkeun jalma éta nyalira salila kagiatan."
+  - q: "Naha aromaterapi mantuan pikeun déménsia?"
+    a: "Tinjauan Cochrane henteu mendakan bukti anu ngayakinkeun yén aromaterapi mantuan jalma nu hirup sareng déménsia, sanajan panalitianana leutik sarta hasilna teu konsisten. Upami jalma éta resep kana seungit anu hampang jeung akrab, éta teu nanaon, tapi singkahan minyak esensial anu kuat, hususna di sabudeureun jalma anu boga masalah engapan atawa alérgi."
+  - q: "Naon éta apron atanapi simbut pangkon kagiatan?"
+    a: "Éta sapotong lawon, apron, atawa simbut pangkon anu dipasangan barang-barang pikeun dicekel, dijahit pageuh, saperti kancing gedé, résléting, pita, jeung témpélan anu boga tékstur. Ieu méré panangan anu aktip hiji hal pikeun dijajah. Pariksa sering pikeun mastikeun teu aya anu ngagolér anu bisa ditarik leupas."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Kagiatan sensori maké lima rasa: rampa, bau, rasa, sora sareng paningal. Éta teu peryogi ingetan, léngkah-léngkah atanapi waleran anu bener, janten tiasa dilakukeun dina unggal tahap. Éta paling penting dina tahap anu langkung lanjut. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) nyatet yén dina tahap lanjut dunya dirasakeun utamana ngaliwatan rasa, sarta anjeun tiasa némbongkeun kasanyaah ngaliwatan rampa, sora, paningal, rasa sareng bau. Sababaraha pamariksaan kaamanan ngajantenkeun kagiatan ieu nenangkeun pikeun sadayana.
+Kagiatan indrawi ngagunakeun lima indra: rampa, ambeu, rasa, déngé, jeung témbong. Kagiatan ieu teu merlukeun ingetan, teu merlukeun léngkah-léngkah, jeung teu aya jawaban anu bener, jadi bisa dipaké dina tahap mana waé. Kagiatan ieu paling penting dina tahap engké. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) nyebutkeun yén dina tahap ahir, dunya leuwih loba dirasakeun ngaliwatan indra, sarta anjeun bisa némbongkeun perhatian ngaliwatan rampa, sora, témbong, rasa, jeung ambeu. Sababaraha pamariksaan kasalametan bisa ngajadikeun kagiatan ieu matak tengtrem pikeun sadayana.
 
-## Naon éta kagiatan sensori kanggo demensia?
+## Naon ari kagiatan indrawi pikeun déménsia?
 
-Kagiatan sensori nyaéta pangalaman basajan anu dirarancang sabudeureun hiji rasa dina hiji waktos, saperti ngarampa lawon, ngambeu bumbu atanapi ngadéngékeun hujan. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nyebatkeun kagiatan tahap lanjut mindeng kedah museur kana rasa-rasa, sarta nyebatkeun musik, barang pikeun dirampa sareng dicekel, sarta pijit leungeun. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nyatet yén jalma dina tahap lanjut meureun gaduh kabutuhan anu kuat pikeun nyekel hiji hal caket pikeun kanyamanan.
+Kagiatan indrawi nyaéta pangalaman saderhana anu diwangun dina hiji indra dina hiji waktu, saperti ngarasa lawon, ngambeu daun herbal, atawa ngadéngé sora hujan. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nyebutkeun yén kagiatan dina tahap engké mindeng perlu museur kana indra, sarta nyebutkeun musik, barang pikeun dirampa jeung dicekel, sarta ngurut leungeun. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nyatet yén jalma dina tahap ahir bisa waé boga kabutuhan anu kuat pikeun nyekel hiji hal deukeut pikeun kanyamanan.
 
-## Gagasan sensori, rasa ku rasa
+## Ide indrawi, dumasar kana indra
 
 ### Rampa
 
-- **Pijit leungeun.** Haneutkeun saeutik losion dina leungeun anjeun tuluy usap lalaunan ti pigeulang nepi ka tungtung ramo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) nyebatkeun mijit maké losion anu teu aya bauna pikeun kanyamanan.
-- **Karanjang lawon.** Potongan pasagi ageung tina beludru, korduroi, fléce, satin sareng wol pikeun diusap, dilipet sarta diobrolkeun.
-- **Lap haneut.** Lap baseuh anu haneut kanggo leungeun dina poé anu tiis. Cobian suhuna heula dina pigeulang anjeun sorangan.
-- **Apron atanapi simbut pangkonan kagiatan.** Kancing ageung, résléting, pita sareng tambalan anu aya tékstur anu dijahit kuat.
-- **Ngalipet sareng ngarapihkeun.** Karanjang lap atanapi serbét bersih pikeun dilipet, ditumpuk sarta dilipet deui.
-- **Hal anu lemes pikeun dicekel.** Simbut fléce, bantal atanapi boneka sato anu lemes siga nyata, ditawiskeun kalayan basajan, lain salaku kaulinan.
+- **Ngurut leungeun.** Angkeubkeun saeutik losion dina leungeun anjeun, tuluy usap lalaunan ti pigeulang nepi ka ujung ramo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) nyebutkeun ngurut nganggo losion tanpa seungit pikeun kanyamanan.
+- **Karanjang lawon.** Potongan lawon gedé tina beludru, korduroi, bulu domba lemes, satin, jeung wol pikeun diusap, dilipet, jeung dicaritakeun.
+- **Anduk haneut.** Anduk haneut jeung beueus pikeun leungeun dina poé tiis. Uji heula suhuna dina pigeulang anjeun sorangan.
+- **Apron atanapi simbut pangkon kagiatan.** Kancing gedé, résléting, pita, jeung témpélan anu boga tékstur dijahit pageuh.
+- **Ngalipet jeung ngahaluskeun.** Karanjang anu eusina anduk leungeun atawa napkin bersih pikeun dilipet, ditumpuk, jeung dilipet deui.
+- **Hiji hal anu lemes pikeun dicekel.** Simbut bulu domba lemes, bantal, atawa boneka sato lemes anu réalistis, dipasihkeun kalayan saderhana, lain salaku cocooan.
 
-### Bau
+### Ambeu
 
-- **Bumbu seger.** Gosok daun mint, rosemary, kemangi atanapi lavender di antara ramo anjeun tuluy serahkeun ka anjeunna.
-- **Bau dapur.** Kopi anu keur diseduh, roti anu keur dipanggang, kayu manis atanapi jeruk anu keur dikupas di deukeut.
-- **Kembang.** Bawa sababaraha kembang seger ti kebon atanapi warung.
-- **Produk anu wawuh.** Sabun atanapi losion anu salawasna dipaké ku anjeunna, upami kulitna cocog.
+- **Daun herbal seger.** Gosok daun mint, rosmarin, basil, atawa lavender di antara ramo anjeun, tuluy bawa deukeut.
+- **Ambeu dapur.** Kopi keur diseduh, roti keur dipanggang, kayu manis, atawa jeruk keur dikupas di deukeutna.
+- **Kembang.** Bawa sababaraha kembang seger ti kebon atawa ti toko.
+- **Produk anu akrab.** Sabun atawa losion anu biasa dipaké ku anjeunna, upami kulitna bisa nahan.
 
 ### Rasa
 
-- **Rasa karesep.** Sasendok leutik tina hal anu dipikaresepna, saperti saos apel, puding atanapi és krim, dina tékstur anu aman pikeun anjeunna.
-- **Ngabantosan manggang.** Nyobian buah atanapi saeutik krim kuéh bari manggang babarengan.
-- **Jajanan musiman.** Samangka dina poé panas, inuman haneut dina poé hujan, dilayanan dina suhu anu aman.
+- **Rasa karesep.** Hiji sendok leutik tina kadaharan anu dipikaresep, saperti saos apel, puding, atawa és krim, dina tékstur anu aman pikeun didahar.
+- **Ngabantu masak kue.** Ngarasakeun buah atawa saeutik krim gula nalika anjeun masak babarengan.
+- **Kudapan musiman.** Samangka dina usum panas, cider haneut dina usum gugur, disayagikeun dina suhu anu aman.
 
-### Sora
+### Déngé
 
-- **Musik karesep.** Lagu-lagu anu wawuh dina sora anu lemes; tingali [kagiatan musik](/activities/music/).
-- **Sora alam.** Hujan, ombak atanapi sora manuk. NIA nyatet yén musik, sora putih sareng sora alam sigana ngarilekskeun sababaraha jalma.
-- **Sora anjeun.** Maca nyaring, ngadengung, atanapi nyaritakeun carita.
-- **Alat musik basajan.** Kendang leungeun, alat gonjrang atanapi lonceng pikeun dipaké maén sapanjang musik.
+- **Musik karesep.** Lagu-lagu anu akrab dina sora anu lemes; tingali [kagiatan musik](/activities/music/).
+- **Sora alam.** Sora hujan, ombak, atawa manuk. NIA nyatet yén musik, sora latar bodas, jeung sora alam sigana bisa nyieun sababaraha jalma leuwih tengtrem.
+- **Sora anjeun.** Maca bedas, ngahum, atawa nyaritakeun hiji carita.
+- **Alat musik saderhana.** Kendang leungeun, alat oyag, atawa bel pikeun dipaénkeun nuturkeun musik.
 
-### Paningal
+### Témbong
 
-- **Ningali ti jandéla.** Tempat tuang manuk di luar jandéla, barudak anu mulang sakola, atanapi hujan anu turun.
-- **Akuarium lauk atanapi vidéo anu lalaunan.** Gerakan anu lemah-lembut tanpa sora anu tarik.
-- **Poto ageung.** Hiji gambar anu jelas dina hiji waktos, dicekel sajajar panon.
-- **Warna sareng pola.** Ngagolongkeun sésa lawon anu caang, kembang atanapi serbét warna-warni, atanapi kaca pawarna basajan tina set [kaca pawarna](/games/coloring/) kami.
-- **Di luar rohangan.** NHS nyarankeun kebon sensori kalayan tutuwuhan anu wangi, rupa-rupa tékstur sareng cai. Tingali [kagiatan kebon sareng luar rohangan](/activities/outdoor-and-gardening/).
+- **Ningali ti jandéla.** Tempat dahar manuk di luar jandéla, barudak leumpang ka imah, atawa salju keur turun.
+- **Akuarium atawa pidéo anu lalaunan.** Gerakan anu lemes tanpa sora anu nyaring.
+- **Poto gedé.** Hiji gambar anu jelas dina hiji waktu, dicekel sajajar jeung panon.
+- **Warna jeung pola.** Milah-milah potongan lawon warna-warna, kembang atawa napkin warna-warni, atawa kaca ngawarnaan saderhana tina susunan [ngawarnaan](/games/coloring/) kami.
+- **Di luar.** NHS nyarankeun kebon indrawi anu boga tutuwuhan seungit, rupa-rupa tékstur, jeung fitur cai. Tingali [kagiatan luar rohangan jeung berkebun](/activities/outdoor-and-gardening/).
 
-## Kumaha nyieun kotak sensori
+## Kumaha nyieun kotak indrawi
 
-1. **Pilih téma** anu aya hubunganana sareng kahirupan anjeunna: pantai, kebon, dapur, bengkel, ngaput.
-2. **Pilih lima atanapi genep barang ageung anu aman,** saperti kulit kerang ageung, sendok kai, scarf anu lemes, kantong lavender garing anu dijahit ditutup, atanapi blok kai anu lemes.
-3. **Pariksa unggal barang** pikeun bagian leutik, sisi seukeut, bénang anu leupas sarta sagala anu gampang pecah.
-4. **Kaluarkeun hiji barang dina hiji waktos.** Serahkeun, gambarkeun, sarta antep anjeunna ngajalajah.
-5. **Simpen kotakna sanggeusna** supados tetep husus sarta barang-barangna dipariksa deui sateuacan waktos salajengna.
+1. **Pilih hiji téma** anu patali jeung kahirupan jalma éta: basisir, kebon, dapur, bengkel, ngajahit.
+2. **Pilih lima atawa genep barang gedé anu aman,** saperti cangkang laut gedé, sendok kai, seléndang lemes, sachet lavender garing anu dijahit nutup, atawa balok kai anu mulus.
+3. **Pariksa unggal barang** pikeun mastikeun teu aya bagian leutik, sisi seukeut, benang anu ngagolér, jeung naon waé anu gampang pegat.
+4. **Kaluarkeun hiji barang dina hiji waktu.** Pasihkeun, jelaskeun, sarta ngantep jalma éta ngajajahna.
+5. **Simpen deui kotakna sanggeus dipaké** sangkan tetep husus sarta barang-barangna dipariksa deui saméméh dipaké engké.
 
-## Kaamanan heula
+## Kasalametan heula
 
-Kagiatan sensori téh lemah-lembut, tapi sababaraha résiko penting. Sababaraha jalma anu hirup kalayan demensia ngira barang anu lain kadaharan téh kadaharan, sarta nelen bisa jadi langkung hésé ti waktos ka waktos; NIA ngingetkeun yén masalah nelen dina tahap lanjut ningkatkeun résiko keselek.
+Kagiatan indrawi téh lemes, tapi sababaraha résiko perlu diperhatikeun. Sababaraha jalma nu hirup sareng déménsia bisa nyangka barang anu lain kadaharan téh kadaharan, sarta neureuy bisa jadi leuwih hésé beuki lila; NIA ngingetkeun yén masalah neureuy dina tahap ahir ningkatkeun résiko keselek.
 
-| Résiko | Naon anu kedah dilakukeun |
+| Résiko | Naon anu kudu dilakukeun |
 | --- | --- |
-| Keselek | Paké ukur barang anu teuing ageung pikeun katelen. Teu aya kancing, manik, koin, kaléci atanapi kaulinan leutik lepas dina kotak. Tawiskeun kadaharan ukur dina tékstur anu cenah aman ku tim perawatan. |
-| Barang anu siga kadaharan | NIA nyarankeun ngonci losion, sabun, sampo sareng minyak wangi, anu bisa katingali atanapi bauna siga kadaharan, sarta nyingkirkeun buah tiruan. Simpen produk sensori sanggeus dipaké. |
-| Alérgi | Pariksa alérgi kana kacang, karét lateks, wol, tutuwuhan atanapi wangi sateuacan mimitian. |
-| Bau anu kuat | Hindari minyak wangi sareng minyak asiri anu kuat, khususna upami aya asma atanapi masalah napas séjén. Bau anu lemes sarta alami langkung aman. |
-| Kulit | Pariksa kulit anu nyeri, tatu atanapi ipis sateuacan mijit. Paké tekenan anu lemah-lembut sarta eureun upami anjeunna ngarénjag. |
-| Suhu | Cobian lap haneut sareng inuman dina pigeulang anjeun sorangan heula. |
-| Barang seukeut atanapi beracun | Teu aya parabot seukeut, kaca atanapi bahan karajinan anu beracun. |
+| Keselek | Paké ngan barang anu gedé teuing pikeun ditelek. Ulah aya kancing, manik-manik, koin, kaléci, atawa cocooan leutik anu ngagolér dina kotak. Pasihkeun kadaharan ngan dina tékstur anu disebut aman ku tim perawatan. |
+| Barang anu katingali siga kadaharan | NIA nyarankeun ngonci losion, sabun, sampo, jeung parfum, anu bisa katingali atawa ambeuna siga kadaharan, sarta nyingkirkeun buah jieunan. Simpen deui produk indrawi sanggeus dipaké. |
+| Alérgi | Pariksa alérgi kana kacang, lateks, wol, tutuwuhan, atawa seungit saméméh ngamimitian. |
+| Seungit anu kuat | Singkahan parfum jeung minyak esensial anu kuat, hususna upami aya asma atawa masalah engapan séjén. Ambeu alami anu hampang leuwih aman. |
+| Kulit | Pariksa kulit anu nyeri, lecet, atawa rapuh saméméh ngurut. Paké tekenan anu lemes sarta eureun upami anjeunna nyeri. |
+| Suhu | Uji anduk haneut jeung inuman dina pigeulang anjeun sorangan heula. |
+| Barang seukeut atawa bahya | Ulah maké alat seukeut, kaca, atawa bahan karajinan anu bahya. |
 
-## Naha aromaterapi ngabantosan?
+## Naha aromaterapi mantuan?
 
-Meureun henteu dina cara anu bisa diukur. [Ulasan Cochrane ngeunaan aromaterapi pikeun demensia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) nilik 13 panalungtikan sareng 708 jalma, sadayana di panti perawatan, sarta teu manggihan bukti kauntungan anu ngayakinkeun. Panalungtikanana leutik, hasilna teu saluyu, sarta éfék sampingna kirang dilaporkeun. Upami anjeunna resep bau anu lemes sarta wawuh, saperti lavender ti kebon, éta alesan anu hadé pikeun ngabagikeunana. Éta lain perawatan.
+Sigana henteu dina cara anu bisa diukur. [Tinjauan Cochrane ngeunaan aromaterapi pikeun déménsia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) nalungtik 13 panalitian anu ngalibetkeun 708 jalma, sadayana di panti perawatan, sarta henteu mendakan bukti anu ngayakinkeun ngeunaan mangpaatna. Panalitianana leutik, hasilna teu sarua, sarta efek sampingna kurang dilaporkeun. Upami jalma éta resep kana ambeu anu hampang jeung akrab, saperti lavender ti kebon, éta alesan anu alus pikeun ngabagikeunana. Éta sanés pangobatan.
 
-## Kumaha nawiskeun kagiatan sensori
+## Kumaha nawarkeun kagiatan indrawi
 
-- **Pilih waktos anu sepi** sarta pareuman TV.
-- **Datang ti hareup,** sebut ngaranna, sarta tanya atanapi béjakeun anjeunna sateuacan noél: "Abdi gaduh losion. Badé dipijit leungeunna?"
-- **Tawiskeun hiji hal dina hiji waktos** supados teu ngabingungkeun.
-- **Awaskeun waleranana.** Raray anu langkung lemes, leungeun anu rileks atanapi imut téh tanda anu hadé. Narik diri, nyureng atanapi gelisah hartosna eureun.
-- **Jieun sakeudeung.** Lima menit anu tenang téh sési anu hadé.
+- **Pilih momen anu tenang** sarta pareuman tipi.
+- **Datang ti hareup,** sebut ngaranna, sarta ménta idin atawa béjaan saméméh ngarampa: “Abdi gaduh saeutik losion. Dupi badé diurut leungeunna?”
+- **Pasihkeun hiji hal dina hiji waktu** sangkan henteu kaleuleuwihi.
+- **Perhatikeun résponna.** Beungeut anu leuwih lemes, leungeun anu rileks, atawa imut téh tanda anu alus. Lamun ngajauhan, nyerengeh, atawa jadi gelisah, hartina kudu eureun.
+- **Jaga sangkan singget.** Lima menit anu tengtrem geus cukup pikeun hiji sési.
 
-Réhat napas lalaunan babarengan, saperti [napas tenang](/games/calm-breathing/), bisa jadi cara anu lemah-lembut pikeun nungtungan. Kanggo langkung seueur gagasan di sisi ranjang, tingali [kagiatan tahap lanjut](/activities/late-stage/), sarta kanggo rasa teu genah di soré, tingali [gelisah soré](/caregiving/late-day-restlessness/).
+Reureuh engapan lalaunan babarengan, saperti [engapan tengtrem](/games/calm-breathing/), bisa jadi cara anu lemes pikeun mungkas. Pikeun leuwih seueur ide di sisi ranjang, tingali [kagiatan tahap ahir](/activities/late-stage/), sarta pikeun rasa teu tengtrem dina soré, tingali [rasa teu tengtrem dina soré](/caregiving/late-day-restlessness/).

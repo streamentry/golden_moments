@@ -1,33 +1,34 @@
 ---
-title: "20 kysymystä ja keskusteluleikit muistisairaan kanssa"
-seoTitle: "20 kysymystä ja keskusteluleikit muistisairauteen"
-description: "Kaksikymmentä kysymystä ja muita keskusteluleikkejä muistisairaan ihmisen kanssa – niin, että hän tietää vastauksen, ilman pisteitä, aikaa tai testaamista."
+title: "Kaksikymmentä kysymystä ja keskusteluleikit muistisairaalle"
+seoTitle: "Kaksikymmentä kysymystä ja keskusteluleikit"
+description: "Kaksikymmentä kysymystä ja muita keskusteluleikkejä muistisairaan ihmisen kanssa. Hän on asiantuntija, eikä mukana ole pisteitä, kelloa tai testaamista."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Kaksikymmentä kysymystä voi olla lempeä ja yhteinen leikki, kun muistisairas
-  ihminen tietää vastauksen. Hän miettii jonkin asian, sinä esität kyllä–ei-kysymyksiä,
-  eikä ketään testata. Muutkin keskusteluleikit, kuten ”Tämä vai tuo” ja ”Minkä
-  valitsisit?”, toimivat samalla tavalla: ne kutsuvat kertomaan mielipiteitä ja
-  tarinoita eivätkä faktoja. Pitäkää kierrokset lyhyinä, antakaa hänen ohittaa
-  kysymys ja älkää koskaan laskeko arvauksia.
+  Kaksikymmentä kysymystä voi olla lempeä ja mukava yhteinen leikki, kun
+  muistisairas ihminen itse tietää vastauksen. Hän miettii jonkin asian, sinä
+  esität kyllä–ei-kysymyksiä, eikä ketään testata. Muut keskusteluleikit, kuten
+  ”Tämä vai tuo” ja ”Kumman valitsisit?”, toimivat samalla tavalla: ne kutsuvat
+  kertomaan mielipiteitä ja tarinoita, eivät faktoja. Pitäkää kierrokset
+  lyhyinä, antakaa hänen halutessaan ohittaa vuoro, älkääkä koskaan laskeko
+  arvauksia.
 keyPoints:
-  - "Anna muistisairaan ihmisen miettiä esine tai eläin, jotta hän tietää vastauksen. Sinä esität kysymykset, ja hän vastaa kyllä tai ei."
-  - "Salli ohitus, vihje tai ele. Älä koskaan pidä pisteitä tai laske, montako kysymystä meni."
+  - "Antakaa muistisairaan ihmisen valita esine tai eläin, jotta hän on asiantuntija. Sinä esität kysymykset, ja hän vastaa kyllä tai ei."
+  - "Sallikaa ohittaminen, vihje tai ele. Älkää koskaan pitäkö pisteitä älkääkä laskeko, montako kysymystä kului."
   - "Valitkaa arjen asioita hänen omasta elämästään, kuten lempiruoka, työkalu tai paikka."
   - "Mielipidekysymyksissä, kuten ”Kumman valitsisit mieluummin?” tai ”Mistä pidät eniten?”, ei ole vääriä vastauksia."
   - "Lopettakaa, kun kiinnostus hiipuu. Kaksi tai kolme kierrosta riittää hyvin."
 faq:
-  - q: "Sopiiko kaksikymmentä kysymystä muistisairaille ihmisille?"
-    a: "Voi sopia, kun muistisairas ihminen miettii vastauksen eikä ketään testata. Jos leikkiä käytetään tietovisana, jossa omaishoitaja arvailee asiaa, jonka ihmisen pitäisi muistaa, se voi tuntua kokeelta. Pitäkää säännöt avoimina ja lämpiminä."
-  - q: "Mitä muistisairas ihminen voi miettiä kaksikymmentä kysymystä -leikissä?"
-    a: "Yksinkertaiset ja tutut asiat toimivat parhaiten: hedelmä, eläin, työkalu, kukka, huonekalu tai paikka, jonka hän tuntee hyvin. Välttäkää abstrakteja ajatuksia, ihmisten nimiä ja asioita, jotka voivat aiheuttaa surua."
-  - q: "Entä jos muistisairas ihminen ei pysty vastaamaan kyllä tai ei?"
-    a: "Käyttäkää eleitä, peukaloa ylös tai alas tai osoittakaa kuvakorttia. Voitte myös esittää arvauksia ääneen ja antaa hänen vastata nyökkäyksellä, hymyllä tai sanalla."
-  - q: "Onko muistisairaille aikuisille muita keskusteluleikkejä?"
-    a: "Kyllä. ”Tämä vai tuo” kysyy, kummasta kahdesta asiasta hän pitää enemmän. ”Kumman valitsisit mieluummin” kysyy mielipidettä. Korttipeli, jossa on avoimia kehotteita, kuten Golden Momentsin keskustelukortit, kutsuu kertomaan arjen tarinoita."
+  - q: "Sopiiko kaksikymmentä kysymystä muistisairaalle ihmiselle?"
+    a: "Voi sopia, kun muistisairas ihminen itse miettii vastauksen eikä ketään testata. Jos leikkiä käytetään tietovisana, jossa läheinen arvailee asiaa, joka hänen pitäisi muistaa, se voi tuntua kokeelta. Pitäkää säännöt avoimina ja lämpiminä."
+  - q: "Mitä muistisairas ihminen voi ajatella kaksikymmentä kysymystä -leikissä?"
+    a: "Yksinkertaiset ja tutut asiat toimivat parhaiten: hedelmä, eläin, työkalu, kukka, huonekalu tai paikka, jonka hän tuntee hyvin. Välttäkää abstrakteja asioita, ihmisten nimiä ja kaikkea, mikä voi aiheuttaa surua."
+  - q: "Mitä jos hän ei pysty vastaamaan kyllä tai ei?"
+    a: "Käyttäkää eleitä, peukkua ylös tai alas tai osoittakaa kuvakorttia. Voitte myös arvata ääneen ja antaa hänen vastata nyökkäyksellä, hymyllä tai sanalla."
+  - q: "Onko muistisairaille senioreille muita keskusteluleikkejä?"
+    a: "Kyllä. ”Tämä vai tuo” kysyy, kummasta kahdesta asiasta hän pitää enemmän. ”Kumman valitsisit mieluummin” pyytää mielipidettä. Korttipeli, jossa on avoimia kehotteita, kuten Golden Moments -sovelluksen keskustelukortit, kutsuu kertomaan tarinoita arjesta."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,51 +47,51 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Monet perheet kaipaavat yhteistä leikkiä, joka tuntuu keskustelulta eikä kokeelta. Kaksikymmentä kysymystä ja muut arvausleikit voivat toimia hyvin, koska säännöt ovat yksinkertaiset ja puhe voi kulkea moneen suuntaan. Temppu on kääntää roolit toisin päin: muistisairas ihminen miettii vastauksen, ja sinä kysyt. Tällä sivulla kerrotaan, miten näitä leikkejä voi pelata lempeästi ja mitkä keskusteluleikit sopivat muistisairaille ihmisille.
+Monet perheet kaipaavat yhteistä leikkiä, joka tuntuu keskustelulta eikä kokeelta. Kaksikymmentä kysymystä ja muut samanlaiset arvausleikit voivat toimia hyvin, koska säännöt ovat yksinkertaiset ja juttu voi edetä moneen suuntaan. Tärkeintä on vaihtaa tavalliset roolit: muistisairas ihminen miettii vastauksen, ja sinä esität kysymykset. Tällä sivulla kerromme, miten näitä leikkejä voi ohjata lempeästi ja mitkä keskusteluleikit sopivat muistisairaille ihmisille.
 
-## Miksi säännöt kannattaa kääntää toisin päin?
+## Miksi tavalliset säännöt kannattaa kääntää toisin päin?
 
-Tavallisessa tietovisassa yksi kysyy ja toisen pitäisi tietää. Se asettaa muistisairaan ihmisen tilanteeseen, jossa hän voi epäonnistua, ja epäonnistuminen voi tuntua pahalta. Kun hän valitsee asian ja sinä arvailet, hän tietää vastauksen. Hän pitää vastauksen hallussaan, päättää milloin sanoo kyllä tai ei ja voi nauttia siitä, että seuraa sinun yrityksiäsi.
+Tavallisessa tietovisassa yksi kysyy ja toisen pitäisi tietää vastaus. Se voi asettaa muistisairaan ihmisen tilanteeseen, jossa hän voi epäonnistua, ja se voi tuntua ikävältä. Kun hän valitsee asian ja sinä arvailet, hän on asiantuntija. Hän tietää vastauksen, hän päättää, milloin sanoo kyllä tai ei, ja hän voi nauttia siitä, kun sinä yrität arvata.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) neuvoo omaishoitajia käyttämään lyhyitä ja yksinkertaisia lauseita, esittämään yhden kysymyksen kerrallaan ja puhumaan rauhalliseen ja kärsivälliseen sävyyn. Nämä tavat sopivat hyvin arvausleikkeihin.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) neuvoo läheisiä käyttämään lyhyitä ja selkeitä lauseita, esittämään yhden kysymyksen kerrallaan ja puhumaan rauhalliseen, kärsivälliseen sävyyn. Nämä tavat sopivat hyvin arvausleikkeihin.
 
-## Miten kaksikymmentä kysymystä pelataan lempeästi
+## Miten kaksikymmentä kysymystä -leikkiä voi leikkiä lempeästi
 
-1. **Valitkaa aihe** muistisairaan ihmisen elämästä, kuten keittiö, puutarha, eläimet tai meri.
-2. **Anna hänen miettiä jokin asia** ja sanoa se hiljaa tai näyttää kuvakortti, jotta sinun ei tarvitse kuulla vastausta.
-3. **Esitä yksi kyllä–ei-kysymys kerrallaan.** ”Onko se jotain syötävää?” ”Onko se isompi kuin kenkä?”
-4. **Hyväksy mikä tahansa vastaus.** Nyökkäys, pään pudistus tai nauru riittää.
-5. **Tee arvauksia ääneen** ja nauti niistä. Jos arvaat oikein, iloitkaa yhdessä.
-6. **Tarjoa vihjeitä**, kun hän vaikuttaa jumittuneelta: ”Se on jotain keittiöstä.”
-7. **Älä koskaan laske kysymyksiä** äläkä pidä pisteitä.
+1. **Valitkaa aihe** hänen elämästään, kuten keittiö, puutarha, eläimet tai merenranta.
+2. **Antakaa hänen miettiä jokin asia** ja sanoa se hiljaa tai näyttää kuvakortti, jotta sinun ei tarvitse kuulla vastausta.
+3. **Esittäkää yksi kyllä–ei-kysymys kerrallaan.** ”Onko se jotain syötävää?” ”Onko se isompi kuin kenkä?”
+4. **Hyväksykää mikä tahansa vastaus.** Nyökkäys, pään pudistus tai nauru kelpaavat kaikki.
+5. **Arvaillaa ääneen** ja nauttikaa hetkestä. Jos arvaatte oikein, iloitkaa yhdessä.
+6. **Tarjotkaa vihjeitä**, kun hän vaikuttaa jumissa olevalta: ”Se on jotain keittiöstä.”
+7. **Älkää koskaan laskeko kysymyksiä** älkääkä pitäkö pisteitä.
 
-Jos muistisairas ihminen ei pysty seuraamaan sääntöjä, vaihda yksinkertaisempaan tapaan: nimeä muutama asia ja anna hänen osoittaa oikea.
+Jos hän ei jaksa seurata sääntöjä, siirtykää helpompaan versioon: nimeättekö muutaman asian ja hän osoittaa oikean.
 
-## Hyviä asioita mietittäviksi
+## Hyviä asioita valittavaksi
 
 - Lemphedelmä, -vihannes tai -kukka
 - Maatilan eläin, eläintarhan eläin tai lemmikki, joka hänellä on ollut
 - Työkalu, kuten vasara, harava tai ompeluneula
 - Huonekalu tai kodin esine
 - Paikka, jonka hän tuntee hyvin, kuten puisto tai kaupunki
-- Vaate, jota hän piti mielellään
+- Vaatekappale, jota hän piti mielellään
 
-Välttäkää ihmisten nimiä, asioita, jotka voivat herättää surua, sekä esineitä, jotka voivat olla vaarallisia tai sekoittuvat helposti.
+Välttäkää ihmisten nimiä, kaikkea, mikä voi herättää surua, sekä esineitä, jotka voivat olla vaarallisia tai helposti sekoitettavissa.
 
 ## Lisää keskusteluleikkejä
 
-- **Tämä vai tuo.** Tarjoa kaksi vaihtoehtoa ja kysy, kummasta hän pitää enemmän: tee vai kahvi, vuoret vai meri, punainen mekko vai sininen. Oikeaa vastausta ei ole.
-- **Kumman valitsisit mieluummin.** Esitä lempeä ja kevyt kysymys: ”Haluaisitko mieluummin piknikin vai illallisen ulkona?”
-- **Lopeta sananlasku.** Tuttu lause, jonka loppu jää avoimeksi. Katso opas [lopeta sananlasku -leikeistä](/activities/finish-the-saying/).
-- **Nimeä paikka.** Pyydä häntä kuvailemaan lempihuonetta, -kaupunkia tai -maisemaa ja kutsu myös itsesi kuvittelemaan se.
-- **Avoimet kehotekortit.** [Keskustelukorttimme](/games/conversation-cards/) antavat aiheittain avoimia kehotteita, jotka voi tulostaa pöydälle.
+- **Tämä vai tuo.** Tarjotkaa kaksi vaihtoehtoa ja kysykää, kummasta hän pitää enemmän: tee vai kahvi, vuoret vai meri, punainen mekko vai sininen. Oikeaa vastausta ei ole.
+- **Kumman valitsisit mieluummin.** Esittäkää lempeä ja kevyt kysymys: ”Haluaisitko mieluummin piknikille vai illalliselle ulos?”
+- **Täydennä sananlasku.** Tuttu lause, jonka loppu jätetään avoimeksi. Tutustu [täydennä sananlasku -leikkeihin](/activities/finish-the-saying/), joissa on lisää ohjeita.
+- **Nimeä paikka.** Pyytäkää häntä kuvailemaan lempihuonetta, -kaupunkia tai -maisemaa ja kutsukaa itsennekin kuvittelemaan se.
+- **Avoimet kortit.** [Keskustelukorttimme](/games/conversation-cards/) tarjoavat avoimia aihekohtaisia kehotteita, jotka voi tulostaa pöydälle.
 
-Lisää muistoihin ja elämäntarinaan liittyviä ideoita löydät sivulta [muistelukysymykset](/activities/reminiscence-questions/). Lempeää tietovisa-henkistä tekemistä varten katso [helppoja tietovisakysymyksiä muistisairaille aikuisille](/activities/trivia/), joissa käytetään vaihtoehtoja eikä pisteitä.
+Lisää muistoihin ja elämäntarinaan liittyviä ideoita löydät sivulta [muistelukysymykset](/activities/reminiscence-questions/). Jos haluatte lempeää tietovisailua, tutustu sivuun [helppoja tietovisakysymyksiä muistisairaille senioreille](/activities/trivia/), jossa käytetään valmiita vaihtoehtoja eikä pisteitä.
 
-## Entä jos muistisairas ihminen turhautuu?
+## Mitä jos muistisairas ihminen turhautuu?
 
-Lopettakaa, hymyilkää ja sanokaa esimerkiksi: ”Pelataanpa jotain muuta.” Turhautuminen on merkki siitä, että leikkiä kannattaa vaihtaa, ei siitä, että pitäisi yrittää lujemmin. Oppaamme [miten pelata yhdessä muistisairaan ihmisen kanssa](/caregiving/how-to-play-together/) kertoo, miten sääntöjä voi muuttaa lennossa.
+Pysähtykää, hymyilkää ja sanokaa vaikka: ”Leikitään jotain muuta.” Turhautuminen on merkki siitä, että leikkiä kannattaa vaihtaa, ei siitä, että pitäisi yrittää kovemmin. Oppaamme [miten pelata muistisairaan ihmisen kanssa](/caregiving/how-to-play-together/) kertoo, miten sääntöjä voi muuttaa kesken leikin.
 
-## Mitä leikit voivat tehdä ja mitä eivät
+## Mitä leikit voivat ja mitä ne eivät voi tehdä
 
-Keskusteluleikit ovat mukavia ja yhteisiä. Ne voivat auttaa ihmisiä olemaan yhteydessä ja jakamaan tarinoita. Ne eivät hoida muistisairautta, hidasta sitä eivätkä ehkäise sitä. Pitäkää tavoite yksinkertaisena: lämmin hetki yhdessä.
+Keskusteluleikit ovat hauskoja ja sosiaalisia. Ne voivat auttaa ihmisiä viettämään aikaa yhdessä ja jakamaan tarinoita. Ne eivät hoida muistisairautta, hidasta sitä eivätkä ehkäise sitä. Pitäkää tavoite yksinkertaisena: lämmin hetki yhdessä.

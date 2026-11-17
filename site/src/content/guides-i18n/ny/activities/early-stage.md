@@ -1,32 +1,34 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Zochita pa gawo loyamba la matenda a kuiwala"
+seoTitle: "Zochita pa gawo loyamba: Malingaliro oyenera"
+description: "Malingaliro a zochita pa gawo loyamba la matenda a kuiwala: zokonda, masewera, maulendo, kulemba ndi kukonzekera limodzi, ndi kusintha pang’ono komwe kumathandiza munthu kupitiriza kusangalala ndikutsogolera."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Pa gawo loyamba la matenda a kuiwala, anthu ambiri amatha kupitiriza kuchita
+  zimene amasangalala nazo: zokonda zawo, makadi ndi masewera a pa tebulo,
+  kuphika, kulima dimba, kuyenda, magulu, zochitika za chipembedzo ndi
+  kudzipereka kuthandiza. Kusintha kwakukulu kumakhala magulu ang’onoang’ono,
+  maulendo aafupi, mapulani osavuta olembedwa ndi munthu woti azikhala pafupi.
+  Funsani munthu amene mumamusamalira thandizo limene akufuna, ndipo muloleni
+  iye azitsogolera.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Anthu ambiri pa gawo loyamba amakhala moyo wodziyimira pawokha kwambiri. Kawirikawiri zochita zimafunika kusinthidwa pang’ono, osati kusinthidwa kwathunthu."
+  - "Funsani munthu amene mumamusamalira thandizo limene akufuna, ndipo gwirizanani chizindikiro chosavuta chosonyezera pamene akufuna thandizo."
+  - "Magulu ang’onoang’ono, nthawi zabata komanso maulendo aafupi nthawi zambiri zimathandiza kwambiri."
+  - "Ino ndi nthawi yabwino yoti munthu ameneyo atsogolere ntchito zokhudza moyo wake, monga kulemba zolemba za tsiku ndi tsiku kapena buku la nkhani ya moyo wake."
+  - "Sankhani masewera kuti musangalale. Pewani chilichonse chimene chayamba kumveka ngati mayeso."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Ndi zochita ziti zomwe zili zabwino pa gawo loyamba la matenda a kuiwala?"
+    a: "Kawirikawiri zimakhala zomwezo zomwe munthuyo amasangalala nazo kale: makadi, masewera a pa tebulo, kuphika, kulima dimba, kuyenda, nyimbo, zochitika za chipembedzo, magulu ndi kudzipereka kuthandiza. Mwina mungafunike kuzifupikitsa, kuzichita m’malo abata kapena kuzikhala zosavuta. Kulemba zolemba, kulemba makalata ndi kupanga buku la nkhani ya moyo wake nawonso ndi oyenera pa gawoli."
+  - q: "Ndingathandize bwanji popanda kulanda udindo?"
+    a: "Funsani mtundu wa thandizo limene munthuyo akufuna, ndipo muzifunsanso pafupipafupi. Gwirizanani mawu kapena kugwedeza mutu komwe kumatanthauza kuti ndi bwino kulowererapo, mwachitsanzo pamene liwu kapena dzina likukanika kubwera. Ngati palibe chiopsezo pa chitetezo, muloleni achite m’njira yake, ngakhale zitatenge nthawi yayitali."
+  - q: "Kodi munthu amene ali pa gawo loyamba la matenda a kuiwala ayenera kuyesa zochita zatsopano?"
+    a: "Inde, ngati akufuna. Zokonda zomwe amazidziwa kale nthawi zambiri zimakhala zosavuta, koma anthu ambiri amasangalala ndi china chatsopano, monga gulu loyenda loyenera anthu omwe ali ndi matenda a kuiwala, kalasi ya zaluso kapena gulu loyimba. Yesani kamodzi popanda kumukakamiza ndipo muone mmene zingamvekere."
+  - q: "Kodi masewera a pa foni kapena kompyuta otchedwa “brain-training” ndi othandiza pa gawo loyamba?"
+    a: "Anthu ena amasangalala ndi mapazulo ndi masewera a mawu, ndipo kusangalala kumeneko ndi chifukwa chokwanira. Palibe pulogalamu kapena masewera amene aonetsedwa kuti amachiza, amachepetsa kapena amaletsa matenda a kuiwala. Ngati masewera akubweretsa nkhawa kapena kumupangitsa munthuyo kumva kuti akulephera, siyani."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +50,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Pa gawo loyamba la matenda a kuiwala, anthu ambiri amapitiriza kukhala moyo wofanana ndi umene ankakhala nawo kale. Angapitirize kugwira ntchito, kudzipereka kuthandiza, kukumana ndi anzawo komanso kuchita zambiri pa tsiku lawo paokha. Kawirikawiri zochita sizifunika kusinthidwa kwathunthu; zimafunika kusinthidwa pang’ono kuti zipitirize kusangalatsa. Udindo wanu umakhala pafupi ndi wa mnzake kusiyana ndi wa wosamalira: munthu amene amathandiza, kukonzekera limodzi naye ndikulowererapo pokhapokha atapemphedwa.
 
-## What activities are good in early-stage dementia?
+## Ndi zochita ziti zomwe zili zabwino pa gawo loyamba la matenda a kuiwala?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Zochita zabwino kwambiri pa gawo loyamba nthawi zambiri zimakhala zomwe munthuyo amazikonda kale, zitapangidwa kukhala zosavuta pang’ono. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) imatchula malingaliro monga masewera a makadi ndi a pa tebulo, kusaka mawu, kuyenda, kuvina, kulima dimba, kukonza maluwa, kufotokoza nkhani, kujambula, nyimbo, kulemba zolemba, kulemba makalata, kupanga mabuku a zithunzi, kuphika ndi miyambo ya masiku a tchuthi.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Chomwe chimasintha nthawi zambiri ndi malo kapena mmene zochitazo zimachitikira, osati zochitazo zokha. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) imanena kuti anthu pa gawo loyamba angayambe kupewa zinthu zomwe ankazisangalala nazo, ndipo imapereka chitsanzo cha munthu amene amavutika pa phwando lalikulu koma amamva bwino m’gulu laling’ono. Lankhulani momasuka za zomwe zayamba kuvuta, ndipo sinthani limodzi.
 
-## Ask first, and agree on how to help
+## Funsani kaye, ndipo gwirizanani mmene mungathandizire
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Malangizo a Alzheimer's Association pa gawo loyamba](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) amapereka zizolowezi zingapo zomwe zingathandizenso pa zochita:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Funsani mwachindunji.** “Kodi tingatani kuti kalabu ya mabuku ikhale yosavuta kwa inu?” kumabweretsa yankho labwino kusiyana ndi kungoganizira.
+- **Khulupirirani kuti angathe.** Ngati palibe chiopsezo pa chitetezo, muloleni munthuyo ayese, ndipo mulimbikitseni m’malo molanda ntchito.
+- **Gwirizanani chizindikiro.** Sankhani mawu kapena kugwedeza mutu komwe kumatanthauza kuti “ndi bwino kulowererapo,” mwachitsanzo pamene dzina likukanika kubwera pa nthawi ya masewera a makadi.
+- **Muzifunsanso nthawi ndi nthawi.** Funsani ngati kuchuluka kwa thandizo kuli koyenera, kochuluka kwambiri kapena kochepa kwambiri.
 
-## Activity ideas for the early stage
+## Malingaliro a zochita pa gawo loyamba
 
-### Keep up roles and hobbies
+### Pitirizani maudindo ndi zokonda zawo
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Sungani chizolowezi chokhazikika.** Ntchito yodzipereka yothandiza sabata iliyonse, kwaya kapena kalabu imathandiza kuti sabata ikhale ndi dongosolo. Ngati zayamba kubweretsa nkhawa, udindo waufupi kapena wabata ungakhale woyenera.
+- **Konzani zakudya limodzi.** Ngati kugula zinthu ku golosale kwakhala kovuta, Alzheimer's Association imalimbikitsa kumupempha munthuyo kuti athandize kukonza mndandanda wa zakudya za sabata ndi kulemba mndandanda wa zogula.
+- **Phikani ndi kuphika makeke.** Tsatirani maphikidwe omwe amawakonda limodzi. Konzani zosakaniza motsatira ndondomeko musanayambe, kuti masitepe aoneke bwino.
+- **Limani dimba.** Konzani malo olima, sankhani mbewu kapena zomera ndipo gwirani ntchitoyo limodzi. Mndandanda wolembedwa wa ntchito za m’dimba za sabata umathandiza.
+- **Pitirizani ntchito zamanja.** Kupanga zinthu za matabwa, kusoka, kuluka kapena kupanga ma model kungapitirire ndi mapangidwe osavuta komanso kuwala kokwanira.
 
-### Games for enjoyment
+### Masewera osangalatsa
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Sewerani makadi ndi masewera a pa tebulo.** Masewera omwe munthuyo amawadziwa bwino ndi osavuta. Sewerani m’magulu kuti pasakhale munthu amene akuoneka ngati akuyesedwa, ndipo werengerani mapointi mosamala kapena musawerenge konse.
+- **Yesani kusaka mawu a zilembo zazikulu.** [Kusaka mawu](/games/word-search/) kwathu kungaseweredwe pa chophimba kapena kusindikizidwa kuti musewere pa nthawi yabata.
+- **Pangani mapazulo a zithunzi.** Sankhani chiwerengero cha zidutswa chomwe chimamveka chopumitsa, osati chovuta. [Pazulo ya chithunzi](/games/picture-puzzle/) ndi njira yaifupi pa chophimba, ndipo kalozera wathu wa [mapazulo a anthu omwe ali ndi matenda a kuiwala](/activities/puzzles/) akufotokoza momwe mungasankhire yoyenera.
+- **Lowani mu masewera a mafunso kuti musangalale.** Anthu ena amakonda usiku wa mafunso m’gulu. Ngati zayamba kumveka ngati mayeso, sankhani china chake, kapena yesani [mafunso osavuta a trivia](/activities/trivia/) athu, omwe ali ndi mayankho oti musankhepo ndipo alibe mapointi.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Masewera apa ndi osangalatsa. Palibe masewera amene aonetsedwa kuti amachiza kapena amachepetsa matenda a kuiwala; werengani zambiri pa [masewera a ubongo: zomwe kafukufuku amanena](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Lembani, ganizirani ndi kusunga zokumbukira
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Sungani zolemba za tsiku ndi tsiku.** Alzheimer's Association imanena kuti kulemba zolemba kungakhale njira imodzi yothandizira kulimbana ndi malingaliro pambuyo podziwa za matenda. Mizere ingapo patsiku ndi yokwanira.
+- **Tsogolerani kupanga buku la nkhani ya moyo.** Gawo loyamba ndi nthawi yabwino yoti munthuyo asankhe zithunzi zake ndipo alembe kapena afotokoze nkhani zomwe zili kumbuyo kwake. Onani [zochita zokumbukira zakale](/activities/reminiscence/).
+- **Lembani makalata.** Kalata yopita kwa mdzukulu, mnzake wakale kapena mnzake wakuntchito wakale ingakhale yatanthauzo kwa onse awiri.
+- **Lankhulani pogwiritsa ntchito zithunzi.** [Zithunzi zofanana](/games/photo-pairs/) imasintha zithunzi za banja kukhala masewera osavuta ofananitsa, ndipo [makadi oyambitsira kukambirana](/games/conversation-cards/) amapereka njira zosavuta zoyambira kukambirana.
 
-### Go out and move
+### Tulukani panja ndi kuyenda
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) imalimbikitsa kupitiriza maulendo omwe munthuyo amawadziwa bwino kwa nthawi yonse imene nonsenu mukumva bwino. Konzani maulendowo pa nthawi imene munthuyo amakhala ndi mphamvu zambiri ndipo musawalole kutenga nthawi yayitali.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Maulendo aafupi a chikhalidwe.** Malo osungiramo zinthu zakale, kanema wa masana kapena chiwonetsero cha zaluso, makamaka pa nthawi yabata.
+- **Kusambira.** NIA imalimbikitsa dziwe losambira pa nthawi imene kuli bata.
+- **Magulu oyenda ndi makalasi ovina.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) imatchula kuvina, tai chi, yoga, kusambira ndi magulu oyenda, komanso magawo oyenera anthu omwe ali ndi matenda a kuiwala kumene alipo.
+- **Magulu oyimba ndi ma memory café.** Magulu omasuka kumene anthu omwe ali ndi matenda a kuiwala ndi omwe amawasamalira angakumane ndi ena amene ali pa moyo wofanana.
 
-## Small changes that keep activities enjoyable
+## Kusintha pang’ono komwe kumapangitsa zochita kukhala zosangalatsa
 
-| If this is getting harder | Try this |
+| Ngati izi zayamba kuvuta | Yesani izi |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Malo aphokoso kapena odzaza anthu | Pitani pa nthawi zabata, sankhani magulu ang’onoang’ono, khalani m’mphepete mwa chipinda |
+| Kukumbukira mayina atsopano | Tchulani anthu mayina awo nthawi iliyonse; pemphani magulu kuti azivala zilembo za mayina |
+| Kutsatira mapulani a masitepe ambiri | Lembani masitepewo, kapena konzani chilichonse motsatira ndondomeko kaye |
+| Kutopa | Maulendo aafupi, kupuma pambuyo pake, ndipo musakonzekere zina pa tsikulo |
+| Kutsatira zomwe zikuchitika pa masewera | Sewerani m’magulu, chepetsani malamulo, kapena siyani kuwerengera mapointi |
+| Kupeza mawu | Patsani nthawi; perekani liwu pokhapokha chizindikiro chomwe munagwirizana chikulola kutero |
 
-## When to slow down
+## Nthawi yoti muchepetse
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Lekani kapena sinthani chochita pamene chabweretsa nkhawa zambiri kuposa chisangalalo. Kukhumudwa mobwerezabwereza, kupewa zokonda zina kapena kunena kuti “sindingathenso” ndi zinthu zoyenera kukambirana mofatsa, osati kukakamiza. Nthawi zambiri yankho limakhala kuchita zomwezo koma m’njira yaing’ono. Pamene munthuyo akufunika thandizo lalikulu poyambira ndi kutsatira masitepe, malingaliro a [zochita za gawo lapakati](/activities/middle-stage/) angakhale oyenera. Kuti muwerenge zambiri za kulankhulana mothandiza, onani [malangizo a kulankhulana](/caregiving/communication-tips/), ndipo kuti mupeze malingaliro ena ambiri, onani [zochita 101](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Omwe amatsagana nawo nawonso amafuna chithandizo. Gawo loyamba ndi nthawi yabwino yomanga njira zanu zothandizira; onani [kudzisamalira kwa osamalira](/caregiving/caregiver-self-care/).

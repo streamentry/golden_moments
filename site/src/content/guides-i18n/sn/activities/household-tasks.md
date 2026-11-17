@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Mabasa epamba seanokosha kuvanhu vane dementia"
+seoTitle: "Mabasa epamba kuvanhu vane dementia"
+description: "Kupeta, kuronga, kugadzira tafura uye kubika kuri nyore kunogona kuva mabasa anokosha kuvanhu vane dementia. Maitiro ekugadzirira, kugadzirisa uye kuchengetedza."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Mabasa ezuva nezuva akadai sekupeta matauro, kuenzanisa masokisi, kugadzira
+  tafura, kupukuta makaunda, kudiridza zvirimwa uye kubatsira pakubika kuri
+  nyore anogona kupa munhu anorarama nedementia nzira chaiyo yekubatsira.
+  Sarudzai mabasa aanoziva, muatyore kuita danho rimwe panguva, bvisai zvinhu
+  zvinocheka kana zvinopisa, uye koshesai kutora chikamu pane kuti basa riitwe
+  “nemazvo”.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Mabasa anozivikanwa anogona kubatsira munhu kunzwa achikosha uye ari chikamu chemhuri, izvo kazhinji zvinokosha kupfuura kuti basa raitwa zvakanaka sei."
+  - "Tyorai basa rimwe nerimwe kuita nhanho imwe panguva, ratidzai pane kutsanangura, uye chinyararire torai nhanho yaoma."
+  - "Kiyinai mapanga, mishonga yekuchenesa nemapodhi edetergent, uye isai zvivharo zvemabhatani echitofu kana mudziyo unodzima wega musati mabika mese."
+  - "Matauro akapetwa haafaniri kupetwazve pamberi pemunhu. Kana muchifanira kugadzirisa chimwe chinhu, chiitei gare gare uye asingaone."
+  - "Kana basa rikaunza kushungurudzika, chinjirai kune nhanho iri nyore, edzai zvakare pane imwe nguva, kana kungogara mese."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Ndeapi mabasa epamba angakwanisa kubatsira munhu ane dementia?"
+    a: "Vanhu vazhinji vanogona kupeta hembe, kuenzanisa masokisi, kuronga midziyo yetafura, kugadzira tafura, kupukuta kaunda, kupukuta guruva, kutsvaira, kudiridza zvirimwa kana kukurunga musanganiswa uri mundiro. Sarudzai mabasa aimboitwa nemunhu kare moenzanisa nezvaanokwanisa kuita iye zvino. Mumatanho apfuura, kufamba kumwe chete kunodzokororwa, sekutsvedzeredza manapukeni, kunogona kukwana."
+  - q: "Zvakachengeteka here kuti munhu ane dementia abatsire mukicheni?"
+    a: "Zvinogona kuva zvakadaro, kana paine kutarisirwa kwepedyo uye gadziriro yakakodzera. Chengetai mapanga, mishonga yekuchenesa nechero chinhu chinopisa kure nekwaanosvika, shandisai zvivharo zvemabhatani echitofu kana mudziyo unodzima wega, uye ipai munhu basa rakachengeteka rakadai sekusuka muriwo, kukurunga kana kuronga mahwendefa. Musambomusiya ari ega chitofu chakabatidzwa."
+  - q: "Ko kana akapeta zvinhu zvisiri izvo kana kuita nyonganyonga?"
+    a: "Regai zvakadaro. Chinangwa inguva yamunenge muri mese uye kunzwa kwekubatsira, kwete mhedzisiro yakakwana. Kana chimwe chinhu chichifanira kugadziriswa zvechokwadi, mirirai kusvika gare gare mochiita munhu asiri kuona, kuti asanzwa sekunge ari kururamiswa."
+  - q: "Ko kana akaramba kubatsira?"
+    a: "Kuramba kungareva kuti basa riri kunzwa rakaoma, rinovhiringa kana rinonetesa parizvino. Musamanikidza. Edzai shanduro iri nyore, mukokei kuti angogara nemi, kana mukumbirei zvakare panguva yakanaka yezuva."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Vanhu vazhinji vanorarama nedementia vakapedza makumi emakore vachichengeta imba, vachirera mhuri kana kuronga basa. Kukumbirwa kubatsira nemabasa chaiwo epamba kunogona kureva kuti “uchiri chikamu chemhuri ino” nenzira dzisingawanzoitwi nemamwe mabasa. Peji rino rinotsanangura kuti ndeapi mabasa anowanzo shanda zvakanaka, maitiro ekuaagadzirira, maitiro ekuagadzirisa kana zvinhu zvachinja, uye maitiro ekuchengetedza kuchengeteka mukicheni nemuimba yekuwachira.
 
-## Why do everyday chores work well as activities?
+## Nei mabasa ezuva nezuva achishanda zvakanaka seanokosha?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Mabasa epamba anoshanda zvakanaka nekuti anozivikanwa uye ane chinangwa chakajeka. National Institute on Aging inonyora kugeza ndiro, kugadzira tafura, kutsvaira, kupukuta guruva, kuronga tsamba, kupeta hembe uye kuronga marara ekudzokorodza sezvimwe [zvezvinhu zvezuva nezuva zvinogona kufarirwa nevanhu vane Alzheimer's](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association inoti mabasa akadai sekugadzira tafura anogona kubatsira munhu [kunzwa ari chikamu chinokosheswa chemhuri](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Basa repamba rinouyawo nechikonzero charo chekutanga. “Ungandibatsira nematauro aya here?” zviri nyore kubvuma kupfuura kuti “Ungada kuita rimwe basa here?”
 
-## Which household tasks are good to try?
+## Ndeapi mabasa epamba akanaka kuedza?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Tangai nemabasa aimboitwa nemunhu kare, mozvienzanisa nezvaanokwanisa kuita nhasi.
 
-### Laundry and linens
+### Hembe nemachira
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Kupeta matauro nemachira madiki.** Ipai bhasikiti rine zvinhu zvidiki, zvakati sandara. Matauro ari nyore: hapana nzira isiri iyo yekuaapeta.
+- **Kuenzanisa masokisi.** Isai murwi wakasanganiswa patafura. Kana mapeya achinetsa kuona, shandisai mavara maviri kana matatu akasiyana zvikuru.
+- **Kutsvedzeredza nekuisa pamusoro pechimwe.** Manapukeni, makepisi emapiro kana machira emudziyo anogona kutsvedzeredzwa oiswa pamusoro pechimwe. Izvi zvinoshanda zvakanaka munguva dzapfuura, kana kupeta kwava nematanho akawandisa.
 
-### Table and kitchen
+### Tafura nekicheni
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Kugadzira tafura.** Gadzirai nzvimbo imwe yetafura semuenzaniso morega munhu achitevedzera. Kana zvakawandisa, ipai chinhu chimwe panguva: “Heino forogo yepurati rimwe nerimwe.”
+- **Kuronga midziyo yetafura.** Sanganisai maforogo, zvipunu nemapanga ebhata akachena mutabhu moaronga mutireyi rakakamurwa. Siyai mapanga anopinza kunze.
+- **Kupukuta ndiro.** Ndiro dzepurasitiki kana dzisingaputsike netauro nyoro zvinoita kuti iri rive basa rakachengeteka.
+- **Kupukuta tafura kana makaunda.** Jira rakanyorova nepamusoro pakachena. Alzheimer's Association inoti munogona kupa jira kana mumwe munhu atova kukwesha tafura neruoko rwake, zvichishandura kufamba kusina chinangwa kuva basa rinobatsira.
 
-### Around the house
+### Mumba mose
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Kupukuta guruva.** Chishandiso chakapfava chekupukuta nepamusoro pashoma pakasimba, senge tafura yekofi kana sherufu yemabhuku.
+- **Kuronga tsamba.** Ipai tsamba dzisingakoshi nemakatalogi kuti aronge mumirwi: chengeta, dzokorodza, verenga gare gare. Chengetai mabhiri chaiwo nemacheki kune imwe nzvimbo.
+- **Kuronga marara ekudzokorodza.** Magaba akachena, mabhodhoro nemapepa mumabhini akasiyana.
+- **Kutsvaira.** Mutsvairo mudiki pavharanda kana pasi pekicheni, kana kugadzikana kwemakumbo kwakanaka.
+- **Kudiridza zvirimwa.** Keni diki, isingaremi yekudiridza nezvirimwa zvishoma zviri pedyo.
 
-### Simple cooking with supervision
+### Kubika kuri nyore nekutarisirwa
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Kubika kunogona kumutsa manzwiro akanaka akasimba. NIA inoti munogona kurega munhu achiunganidza zvinhu, kuyera, kusanganisa nekudurura, kana kungoudza mumwe munhu maitiro ekugadzira chikafu chaanofarira. Mabasa akanaka anosanganisira:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- kusuka muriwo kana michero
+- kukurunga musanganiswa kana saradhi inotonhora
+- kubvarura lettuce
+- kuzora bhata pachingwa nebanga risingapinzi
+- kuisa mukanyiwa wemakuki patireyi
+- kuisa zvekushongedza pamusoro pepizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Kana kuyera kwava kuoma, Alzheimer's Association inoti munogona kupedzisa kuyera mobva mamuendesa kune rimwe danho, sekukurunga.
 
-## How do I set up a chore so it goes well?
+## Ndinoagadzirira sei basa repamba kuti rifambe zvakanaka?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Sarudzai nguva yakakodzera.** Sarudzai nguva yezuva iyo munhu anowanzozorora uye akadzikama. Kune vanhu vazhinji inguva yemangwanani.
+2. **Chengetai nzvimbo yakachena.** Basa rimwe chete, nzvimbo imwe chete, pasina zvimwe zvinhu patafura.
+3. **Kokai, musarayire.** “Ndingada rubatsiro nematauro aya” zvinoshanda zviri nani pane “Yasvika nguva yekupeta hembe.”
+4. **Ratidzai rekutanga.** Petai tauro rimwe zvishoma nezvishoma, mobva mamuendesa rinotevera. Kuratidza kunonyatsooneka kupfuura kutsanangura.
+5. **Ipai danho rimwe panguva.** Mirayiridzo yakawanda panguva imwe inogona kuremedza. Mirirai kuti danho rimwe ripere musati mataura rinotevera.
+6. **Shandai makatarisana.** Kuita basa rimwe chete makagara padivi nepadivi kunonzwa sekufambidzana, kwete sekutarisiwa.
+7. **Taurai nezvebasa, kwete mhedzisiro.** “Aya akapfava chaizvo” kana “Ndiudzei kuti maiwanzochengeta sei kabhodhi yemachira” zvinokoka hurukuro pasina kuedza munhu.
 
-## How do I adapt chores as abilities change?
+## Ndinoagadzirisa sei mabasa epamba kana kugona kuchichinja?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Kugona kunochinja nekufamba kwenguva uye kunyange kubva pazuva rimwe kuenda kune rimwe. Alzheimer's Association inoti zvakanaka kuenda kumabasa ari nyore uye anodzokororwa sezvo chirwere chichienderera mberi.
 
-| If this has become hard | Try this instead |
+| Kana izvi zvava kuoma | Edzai izvi panzvimbo |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Kupeta machira makuru | Kupeta machira madiki kana kutsvedzeredza manapukeni |
+| Kugadzira tafura yose | Kuisa napukeni imwe pachigaro chimwe nechimwe |
+| Kuronga tsamba mumapoka | Kuisa maenvelopu mumurwi mumwe |
+| Kutevera resipi | Kukurunga, kana kuona nekuravira imi muchibika |
+| Kutsvaira pasi rose | Kupukuta tafura imwe diki |
+| Kuita basa zvachose | Kugara nemi uye kukupai kambani imi muchiita |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Kungoona kunokoshawo. NIA inoti vamwe vanhu vanongofarira kuona, uye iyo inzira yakanaka yekutora chikamu.
 
-## How do I keep household tasks safe?
+## Ndinochengetedza sei kuchengeteka pakuita mabasa epamba?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Kuchengeteka kunouya pakutanga, kunyanya mukicheni. [Mazano ekuchengetedza pamba kune vanochengeta vanhu vane Alzheimer's](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) eNIA anosanganisira:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Kiyinai kana bvisai mishonga yekuchenesa, kusanganisira mapodhi edetergent yekuwachira, anogona kuita semaswiti.
+- Chengetai mapanga, zvigero nemidziyo yemagetsi munzvimbo yakakiyiwa.
+- Isai zvivharo zvekuchengetedza nemudziyo unodzima wega pachitofu.
+- Isai zviratidzo zvinoti “Mira” kana “Zvinopisa zvikuru” pedyo nehovhoni, tosta neayini, zvakaiswa nenzira isingagoni kubata moto.
+- Gadzirai hita yemvura kuti ive pa120°F kuti muderedze njodzi yekutsva.
+- Bvisai michero yekunyepedzera nemagineti akaumbwa sezvekudya, zvinogona kuita sezvinodyiwa.
 
-A few more practical habits help:
+Mamwe maitiro anoshanda anobatsira:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Garai muri mumba chero chitofu, hovhoni kana mudziyo unopinza uri kushandiswa.
+- Shandisai ndiro dzisingaputsike pakupukuta nekugadzira tafura.
+- Chengetai pasi pakaoma uye pasina zvinhu parinotsvairwa kana kupukuta.
+- Kana munhu aimboshandisa midziyo, Alzheimer's Association inoti bvisai zvinhu zvine njodzi muwekishopu kuitira kuti basa rakachengeteka, sekukwesha chidimbu chehuni, rigone kufarirwa.
 
-## What if they do it "wrong"?
+## Ko kana vakazviita “zvisiri izvo”?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Regai zvakadaro. Tauro rakapetwa kuita zvikamu zvitatu pane zviviri richiri tauro rakapetwa. Alzheimer's Association inozvitaura zvakajeka: chinokosha inguva yamunopedza muri mese uye kunzwa kwemunhu kwekubatsira, kwete kuti matauro apetwa zvakanaka here. Kana chimwe chinhu chichifanira kugadziriswa zvechokwadi, mirirai kusvika gare لقاء gare mochiita asingaone.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Kururamisa panguva iyoyo kunogona kushandura basa rinofadza kuva chiyeuchidzo chezvarasika. “Ndinotenda, rubatsiro rukuru” kazhinji ndiyo mhinduro yakakodzera.
 
-## When should we stop?
+## Tinofanira kumira rinhi?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Mirai kana kuchinja kana maona zviratidzo zvekushungurudzika, kuneta kana kurasikirwa nechido. Kupedza nguva isati yakwana mhedzisiro yakanaka, kwete kukundikana. Munogona:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- kuchinjira kune nhanho iri nyore
+- kuenda kune chimwe chinhu chinosimbisa, semimhanzi kana kapu yekofi
+- kuedza zvakare gare gare kana rimwe zuva
+- kungogara mese
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Kana munhu akati kwete, musamanikidza. Onai [zvekuita kana vakati kwete](/caregiving/when-they-say-no/) kuti muwane nzira dzakapfava dzekupindura.
 
-## Low-effort extras for a quieter moment
+## Zvimwe zviri nyore zvenguva yakadzikama
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Kana mabasa emuviri asingagoneki, kuronga nekuenzanisa zvinogona kuitwa makagara pasi. [Sort Together](/games/sort-together/) inobvumira kubaya mifananidzo muiise mumabhasikiti ekicheni kana egadheni, uye [Picture Pairs](/games/picture-pairs/) mutambo wakapfava wekufananidza une mifananidzo mikuru uye usina nguva. [Conversation Cards](/games/conversation-cards/) ine mibvunzo yakasununguka nezvemba nemhuri inonyatsoenderana nekofi kana basa rapera.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Kuti muwane rubatsiro rwekupinza mabasa epamba muzuva, onai gwara redu re[hurongwa hwezuva hwakadzikama](/activities/daily-routine/). Kuti muwane mamwe mazano zvichienderana nedanho, onai [mabasa edanho repakati](/activities/middle-stage/).

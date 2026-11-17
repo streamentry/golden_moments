@@ -1,35 +1,35 @@
 ---
-title: "Sundowning: attività tranquille per il tardo pomeriggio nella demenza"
-seoTitle: "Sundowning nella demenza: attività tranquille di sera"
-description: "Routine, accorgimenti in casa e attività tranquille che possono attenuare l’irrequietezza di fine giornata nella demenza, e quando sentire il medico."
+title: "Sundowning: attività calme per persone con demenza"
+seoTitle: "Sundowning: attività calme nel tardo pomeriggio"
+description: "Routine semplici, cambiamenti in casa e attività calme che possono alleviare l’agitazione serale nella demenza e quando contattare il medico."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Il sundowning è un’irrequietezza, una confusione o un’irritabilità che
-  comincia o peggiora nel tardo pomeriggio o alla sera. Possono aiutare una
-  routine quotidiana regolare, luce del giorno e attività nella prima parte
-  della giornata, meno sonnellini tardivi, meno caffeina, luci accese in casa
-  prima del crepuscolo, un ambiente più tranquillo e attività calme come
-  musica, fotografie o piegare il bucato. Sintomi nuovi o che peggiorano vanno
-  fatti controllare dal medico.
+  Il sundowning è uno stato di irrequietezza, confusione o irritabilità che
+  inizia o peggiora nel tardo pomeriggio o alla sera. Alcuni passi pratici che
+  possono aiutare includono una routine quotidiana regolare, luce naturale e
+  attività nelle prime ore della giornata, meno riposini tardivi, meno caffeina,
+  luci accese in casa prima del tramonto, un ambiente più tranquillo e attività
+  calme come la musica, le foto o piegare il bucato. Sintomi nuovi o in peggioramento
+  richiedono un controllo del medico.
 keyPoints:
-  - "Per sundowning si intende un’irrequietezza o una confusione che comincia o peggiora quando la luce cala."
-  - "Metta le attività impegnative, le uscite e il bagno al mattino o nel primo pomeriggio."
-  - "Luce del giorno, una passeggiata quotidiana, meno sonnellini tardivi e meno caffeina a fine giornata possono rendere le sere più serene."
-  - "Accenda le luci prima del crepuscolo, riduca il rumore e passi ad attività calme e familiari."
-  - "Tenga un diario per individuare i fattori scatenanti e mantenga la calma e rassicuri quando comincia l’irrequietezza."
-  - "Veda il medico per sintomi nuovi o che peggiorano: dolore, infezioni o farmaci possono avere un ruolo."
+  - "Il sundowning indica irrequietezza o confusione che inizia o peggiora quando la luce del giorno diminuisce."
+  - "Svolgi le attività più impegnative, le uscite e il bagno al mattino o nel primo pomeriggio."
+  - "La luce naturale, una passeggiata quotidiana, meno riposini tardivi e meno caffeina nel corso della giornata possono favorire serate più tranquille."
+  - "Accendi le luci prima del tramonto, riduci i rumori e passa ad attività calme e familiari."
+  - "Tieni un diario per individuare i fattori scatenanti e mantieni un atteggiamento calmo e rassicurante quando inizia l’irrequietezza."
+  - "Rivolgiti al medico in caso di sintomi nuovi o in peggioramento: il dolore, un’infezione o i farmaci possono avere un ruolo."
 faq:
-  - q: "In quale momento della giornata di solito si presenta il sundowning?"
-    a: "Di solito comincia o peggiora nel tardo pomeriggio o all’inizio della sera, quando la luce del giorno cala. L’orario preciso varia da persona a persona, ed è per questo che può essere utile tenere un breve diario per una settimana o due."
-  - q: "Quali attività aiutano con il sundowning?"
-    a: "Nel tardo pomeriggio di solito funzionano meglio attività calme, familiari e poco faticose: musica rilassante, guardare fotografie, un programma televisivo o un film preferito, piegare il bucato, una breve passeggiata o uno spuntino insieme. Lasci le attività nuove o impegnative alla prima parte della giornata."
-  - q: "Il sundowning può essere il segno di qualcosa di medico?"
-    a: "Può essere peggiorato da problemi di salute come dolore, infezioni (per esempio delle vie urinarie), disturbi del sonno o effetti collaterali dei farmaci. Se l’irrequietezza è nuova, improvvisa o sta peggiorando, contatti il medico della persona."
-  - q: "Devo chiedere al medico un farmaco per il sundowning?"
-    a: "È un discorso da fare con il medico. L’Alzheimer’s Association afferma che in genere si preferiscono prima gli approcci senza farmaci, e che qualsiasi farmaco per l’agitazione serale va preso in considerazione solo dopo aver valutato rischi e benefici. Questa pagina non dà consigli sui farmaci."
+  - q: "A che ora del giorno si verifica di solito il sundowning?"
+    a: "Di solito inizia o peggiora nel tardo pomeriggio o nelle prime ore della sera, quando la luce del giorno diminuisce. Il momento esatto varia da persona a persona, ed è per questo che tenere un breve diario per una o due settimane può essere utile."
+  - q: "Quali attività possono aiutare con il sundowning?"
+    a: "Le attività calme, familiari e poco faticose tendono a funzionare meglio nel tardo pomeriggio: musica rilassante, guardare delle foto, un programma televisivo o un film preferito, piegare il bucato, una breve passeggiata o fare uno spuntino insieme. Lascia le attività nuove o impegnative per le ore precedenti della giornata."
+  - q: "Il sundowning può essere il segnale di un problema medico?"
+    a: "Può essere aggravato da problemi di salute come il dolore, infezioni come le infezioni delle vie urinarie, disturbi del sonno o effetti collaterali dei farmaci. Se l’irrequietezza è nuova, improvvisa o in peggioramento, contatta il medico della persona."
+  - q: "Dovrei chiedere al medico dei farmaci per il sundowning?"
+    a: "È una conversazione da affrontare con il medico. L’Alzheimer’s Association afferma che, in genere, si preferisce iniziare con approcci non farmacologici e che qualsiasi farmaco per l’agitazione serale dovrebbe essere preso in considerazione solo dopo aver valutato rischi e benefici. Questa pagina non fornisce consigli sui farmaci."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Molte famiglie notano lo stesso schema: le mattine sono abbastanza tranquille, ma man mano che il pomeriggio avanza la persona che vive con la demenza diventa irrequieta, ansiosa, confusa o irritabile. Può camminare avanti e indietro, chiedere di «tornare a casa» anche quando è a casa, o turbarsi con facilità. Questa situazione viene spesso chiamata sundowning.
+Molte famiglie notano lo stesso schema: le mattine sono abbastanza tranquille, ma con il passare del pomeriggio la persona che vive con demenza diventa irrequieta, ansiosa, confusa o irritabile. Può camminare avanti e indietro, chiedere di «tornare a casa» anche quando è già a casa, oppure agitarsi facilmente. Questo fenomeno viene spesso chiamato sundowning.
 
-Non esiste una soluzione unica, ma cambiamenti nel ritmo della giornata, nell’ambiente e nel tipo di attività proposte possono rendere più calmi i tardi pomeriggi. Questa pagina raccoglie idee pratiche, non mediche, del National Institute on Aging e dell’Alzheimer’s Association. Non è un consiglio medico. Se i sintomi sono nuovi, improvvisi o stanno peggiorando, ne parli con il medico della persona.
+Non esiste una soluzione unica, ma modificare il ritmo della giornata, l’ambiente e il tipo di attività proposte può rendere il tardo pomeriggio più sereno. Questa pagina raccoglie idee pratiche e non mediche del National Institute on Aging e dell’Alzheimer’s Association. Non fornisce consigli medici. Se i sintomi sono nuovi, improvvisi o in peggioramento, parlane con il medico della persona.
 
 ## Che cos’è il sundowning?
 
-Il sundowning è un’irrequietezza, un’agitazione, un’irritabilità o una confusione che comincia o peggiora quando la luce del giorno cala, nel tardo pomeriggio o all’inizio della sera. Il [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) osserva che essere troppo stanchi può aumentare l’irrequietezza di fine giornata.
+Il sundowning è uno stato di irrequietezza, agitazione, irritabilità o confusione che inizia o peggiora quando la luce del giorno diminuisce, nel tardo pomeriggio o nelle prime ore della sera. Il [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) osserva che essere troppo stanchi può aumentare l’irrequietezza nel corso della giornata.
 
-## Che cosa può peggiorare l’irrequietezza di fine giornata?
+## Che cosa può peggiorare l’irrequietezza nel tardo pomeriggio?
 
-Possono contribuire diversi fattori, spesso insieme. L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) elenca fattori come:
+Diversi fattori possono contribuire, spesso insieme. L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) elenca fattori come:
 
-- la stanchezza dopo una giornata piena;
+- stanchezza dopo una giornata intensa;
 - ambienti nuovi o che creano confusione;
-- un «orologio interno» fuori sincrono, che lascia la persona assonnata di giorno e sveglia di notte;
-- luce scarsa e ombre, che possono confondere;
-- il percepire lo stress o la frustrazione delle persone intorno;
-- il bisogno di dormire meno, frequente negli anziani.
+- un «orologio interno» alterato, che può portare la persona ad avere sonno di giorno ed essere sveglia di notte;
+- luce scarsa e ombre, che possono creare confusione;
+- percepire lo stress o la frustrazione delle persone intorno;
+- un minor bisogno di sonno, cosa comune nelle persone anziane.
 
-Il NIA aggiunge cause dell’agitazione in generale, tra cui dolore, depressione o stress, troppo poco riposo, stitichezza, troppo rumore o troppe persone, e certi farmaci o interazioni tra farmaci.
+Il NIA aggiunge altre possibili cause di agitazione, tra cui dolore, depressione o stress, riposo insufficiente, stitichezza, troppo rumore o troppe persone, e alcuni farmaci o interazioni tra farmaci.
 
-## Come posso organizzare la giornata per avere sere più calme?
+## Come posso organizzare la giornata per rendere le serate più tranquille?
 
-Sposti le cose impegnative prima e mantenga il tardo pomeriggio dolce e prevedibile. Sia il NIA sia l’Alzheimer’s Association raccomandano una routine regolare. Una giornata di esempio, da adattare alla Sua:
+Sposta le attività più impegnative nelle prime ore della giornata e mantieni il tardo pomeriggio sereno e prevedibile. Sia il NIA sia l’Alzheimer’s Association raccomandano una routine regolare. Un esempio di giornata, da adattare alla vostra situazione:
 
-| Momento | Cosa può aiutare |
+| Momento | Che cosa può aiutare |
 | --- | --- |
-| Mattina | Appuntamenti, bagno, uscite e qualsiasi cosa richieda impegno, quando molte persone sono più vigili |
+| Mattino | Appuntamenti, bagno, uscite e qualsiasi attività che richieda impegno, quando molte persone sono più attente |
 | Tarda mattinata | Tempo all’aperto o vicino a una finestra soleggiata; una passeggiata o un’altra attività |
-| Mezzogiorno | Un pranzo più abbondante (l’Alzheimer’s Association suggerisce un pranzo più ricco e una cena più leggera) |
-| Primo pomeriggio | Riposo se serve, ma niente sonnellini lunghi a fine giornata |
-| Metà e fine pomeriggio | Attività calme e familiari; uno spuntino e qualcosa da bere; niente caffeina |
-| Prima del crepuscolo | Accenda le luci in casa e chiuda le tende prima che faccia buio |
-| Sera | Un pasto più leggero, musica tranquilla, pochi stimoli, una routine regolare per andare a letto |
+| Mezzogiorno | Un pranzo più abbondante (l’Alzheimer’s Association suggerisce un pranzo più sostanzioso e una cena più leggera) |
+| Primo pomeriggio | Riposo se necessario, ma evitando lunghi riposini nel tardo pomeriggio |
+| Metà e tardo pomeriggio | Attività calme e familiari; uno spuntino e qualcosa da bere; niente caffeina |
+| Prima del tramonto | Accendere le luci in casa e chiudere le tende prima che faccia buio |
+| Sera | Una cena più leggera, musica tranquilla, pochi stimoli, una routine costante prima di andare a dormire |
 
-Alcuni punti specifici tratti dalle fonti:
+Alcuni punti specifici dalle fonti:
 
-- **Luce del giorno.** Il NIA suggerisce di organizzare ogni giorno del tempo all’aperto o vicino a una finestra per avere la luce del sole.
-- **Movimento quotidiano, ma non troppo.** Secondo il NIA, l’obiettivo è essere fisicamente attivi ogni giorno senza programmare troppe attività.
-- **Bevande a fine giornata.** Eviti alcol e bevande con caffeina, come caffè o cola, a fine giornata (NIA). L’Alzheimer’s Association menziona anche la nicotina.
-- **Sonnellini.** Scoraggi i sonnellini lunghi e il sonnecchiare a fine giornata (NIA). L’Alzheimer’s Association suggerisce di limitare i sonnellini diurni se il sonno notturno è un problema.
+- **Luce naturale.** Il NIA suggerisce di trascorrere ogni giorno un po’ di tempo all’aperto o vicino a una finestra per prendere luce solare.
+- **Movimento quotidiano, ma senza esagerare.** Il NIA consiglia di mantenersi attivi ogni giorno senza programmare troppe attività.
+- **Bevande nel tardo pomeriggio e alla sera.** Evita alcol e bevande contenenti caffeina, come caffè o cola, nel corso della giornata (NIA). L’Alzheimer’s Association menziona anche la nicotina.
+- **Riposini.** Evita lunghi riposini e sonnellini nel tardo pomeriggio (NIA). L’Alzheimer’s Association suggerisce di limitare i riposini diurni se il sonno notturno è un problema.
 
-Per saperne di più su come costruire una giornata regolare, veda le [attività per la routine quotidiana](/activities/daily-routine/).
+Per altri suggerimenti su come organizzare una giornata regolare, vedi [attività per la routine quotidiana](/activities/daily-routine/).
 
-## Come rendo la casa più calma nel tardo pomeriggio?
+## Come posso rendere la casa più tranquilla nel tardo pomeriggio?
 
-Riduca il rumore, aggiunga luce e tenga vicino le cose familiari.
+Riduci i rumori, aumenta la luce e tieni a portata di mano oggetti familiari.
 
-- **Illuminazione intensa e uniforme.** L’Alzheimer’s Association raccomanda di tenere la casa ben illuminata di sera. Illumini lo spazio prima che compaiano le ombre.
-- **Meno rumore.** Spenga o abbassi televisione e radio, e limiti visite e faccende rumorose in questo momento. L’Alzheimer’s Association suggerisce di ridurre gli stimoli serali come televisione, faccende e musica alta.
-- **Conforti familiari.** Il NIA suggerisce musica rilassante e di tenere in casa oggetti e fotografie a cui la persona è affezionata.
-- **Controlli di benessere.** L’Alzheimer’s Association raccomanda di controllare dolore, fame, sete, stitichezza, vescica piena, stanchezza, infezioni e irritazioni della pelle, e di mantenere la stanza a una temperatura confortevole.
-- **Il Suo stato d’animo.** Le persone percepiscono lo stress. Il NIA suggerisce di rallentare e di cercare di rilassarsi se le Sue preoccupazioni possono aumentare la tensione.
+- **Illuminazione chiara e uniforme.** L’Alzheimer’s Association raccomanda di mantenere la casa ben illuminata la sera. Accendi le luci prima che compaiano le ombre.
+- **Meno rumore.** Spegni o abbassa il volume della TV e della radio e limita le visite o le faccende domestiche rumorose in questo momento. L’Alzheimer’s Association suggerisce di ridurre gli stimoli serali come la TV, le faccende e la musica ad alto volume.
+- **Comfort familiari.** Il NIA suggerisce musica rilassante e di tenere in casa oggetti e foto a cui la persona è affezionata.
+- **Verifiche di benessere.** L’Alzheimer’s Association raccomanda di controllare se ci sono dolore, fame, sete, stitichezza, bisogno di andare in bagno, stanchezza, infezioni o irritazioni della pelle, e di mantenere la stanza a una temperatura confortevole.
+- **Il tuo stato d’animo.** Le persone percepiscono lo stress. Il NIA suggerisce di rallentare e cercare di rilassarti se le tue preoccupazioni possono aumentare la tensione.
 
-## Quali attività tranquille possiamo fare nel tardo pomeriggio?
+## Quali attività calme possiamo fare nel tardo pomeriggio?
 
-Scelga attività familiari, senza fretta e facili da interrompere. L’Alzheimer’s Association suggerisce attività rilassanti come musica tranquilla, fotografie o un film preferito, e una passeggiata insieme per alleviare l’irrequietezza. Il NIA suggerisce uno spuntino o una bevanda, un programma televisivo preferito, musica, una passeggiata, la lettura o una semplice faccenda domestica come piegare il bucato.
+Scegli attività familiari, senza fretta e facili da interrompere. L’Alzheimer’s Association suggerisce attività rilassanti come musica calma, foto o un film preferito, e una passeggiata insieme per alleviare l’irrequietezza. Il NIA suggerisce uno spuntino o qualcosa da bere, un programma televisivo preferito, musica, una passeggiata, la lettura o una semplice faccenda domestica come piegare il bucato.
 
 Idee da provare:
 
-1. **Piegare il bucato insieme.** Il NIA suggerisce questo tipo di semplice faccenda domestica. Gli asciugamani sono facili da maneggiare e il compito ha una fine chiara.
-2. **Mettere la musica preferita.** Canzoni familiari degli anni giovanili, a basso volume. Anche canticchiare conta. Altre idee nelle [attività con la musica](/activities/music/).
-3. **Guardare fotografie.** Un album di foto, o qualche immagine di famiglia in [Coppie di foto](/games/photo-pairs/) con le immagini lasciate visibili, può portare a una conversazione tranquilla.
-4. **Fare una breve passeggiata.** In giardino, intorno all’isolato o in corridoio, prima che faccia buio.
-5. **Condividere uno spuntino e una bevanda.** Qualcosa di semplice, caldo e senza caffeina, seduti insieme a tavola.
-6. **Abbinamento delicato.** [Coppie di immagini](/games/picture-pairs/) con quattro riquadri e immagini visibili è facile da cominciare e facile da interrompere.
-7. **Colorare.** [Disegni da colorare](/games/coloring/) sullo schermo o su una pagina stampata, senza l’obiettivo di finire.
-8. **Guardare e parlare.** Le [Carte per conversare](/games/conversation-cards/) propongono un’immagine e uno spunto aperto. Anche solo guardare basta.
-9. **Una pausa di respiro.** [Respiro calmo](/games/calm-breathing/) è una pausa lenta e silenziosa che avvia e ferma Lei stessa.
-10. **Lavoretti con le mani.** Sistemare bottoni o calzini, lisciare una coperta morbida o tenere in mano un oggetto familiare. Veda le [attività sensoriali](/activities/sensory/).
+1. **Piegare il bucato insieme.** Il NIA suggerisce questo tipo di semplice faccenda domestica. Gli asciugamani sono facili da maneggiare e l’attività ha una fine chiara.
+2. **Ascoltare musica preferita.** Canzoni familiari degli anni più giovani, a basso volume. Anche canticchiare va bene. Altre idee in [attività con la musica](/activities/music/).
+3. **Guardare delle foto.** Un album fotografico, oppure alcune foto di famiglia in [Photo Pairs](/games/photo-pairs/) con le immagini lasciate visibili, può favorire una conversazione tranquilla.
+4. **Fare una breve passeggiata.** In giardino, nel quartiere o in un corridoio, prima che faccia buio.
+5. **Condividere uno spuntino e qualcosa da bere.** Qualcosa di semplice, caldo e senza caffeina, seduti insieme a tavola.
+6. **Abbinamenti delicati.** [Picture Pairs](/games/picture-pairs/) con quattro tessere e immagini visibili è facile da iniziare e da interrompere.
+7. **Colorare.** [Coloring](/games/coloring/) sullo schermo o su una pagina stampata, senza l’obiettivo di finire.
+8. **Guardare e parlare.** [Conversation Cards](/games/conversation-cards/) offre un’immagine e uno spunto aperto. Anche solo guardare è sufficiente.
+9. **Una pausa con il respiro.** [Calm Breathing](/games/calm-breathing/) è una pausa lenta e tranquilla che puoi iniziare e interrompere quando vuoi.
+10. **Attività manuali.** Ordinare bottoni o calzini, lisciare una coperta morbida o tenere in mano un oggetto familiare. Vedi [attività sensoriali](/activities/sensory/).
 
-Eviti giochi nuovi, uscite movimentate e tutto ciò che richiede molta memoria o concentrazione a fine giornata. Li lasci per la mattina.
+Evita giochi nuovi, uscite impegnative e qualsiasi cosa richieda molta memoria o concentrazione nel tardo pomeriggio. Lasciale per il mattino.
 
-## Cosa devo fare quando comincia l’irrequietezza?
+## Che cosa posso fare quando inizia l’irrequietezza?
 
-Mantenga la calma, rassicuri e sposti con delicatezza l’attenzione. Il NIA suggerisce di parlare con calma, ascoltare le preoccupazioni della persona, evitare le discussioni, rassicurarla che è al sicuro e usare un tocco gentile se aiuta. Poi provi una distrazione: uno spuntino, una bevanda, musica o una passeggiata.
+Mantieni la calma, rassicura e prova a distrarre con delicatezza. Il NIA suggerisce di parlare con calma, ascoltare le preoccupazioni della persona, evitare discussioni, rassicurarla dicendole che è al sicuro e usare un tocco delicato se può aiutare. Poi prova a distrarla: uno spuntino, qualcosa da bere, musica o una passeggiata.
 
-L’Alzheimer’s Association suggerisce frasi come «Qui è al sicuro» e «Mi dispiace che questo La turbi», e consiglia di aggiungere luce, rallentare e limitare gli stimoli. Non metta la persona alle strette, non la circondi né la trattenga con la forza, e non discuta con lei.
+L’Alzheimer’s Association suggerisce frasi come «Sei al sicuro qui» e «Mi dispiace che tu sia agitato», e consiglia di aumentare la luce, rallentare e limitare gli stimoli. Non mettere la persona alle strette, non affollarla, non trattenerla e non discutere con lei.
 
-Se la persona diventa aggressiva, il NIA consiglia di restare a una distanza di sicurezza finché il comportamento non cessa. In caso di emergenza, chiami il numero di emergenza locale e spieghi che la persona ha una demenza.
+Se la persona diventa aggressiva, il NIA consiglia di mantenersi a una distanza di sicurezza finché il comportamento non si calma. In caso di emergenza, chiama il 112 e spiega che la persona vive con demenza. La nostra [guida su come rispondere alla rabbia e all’aggressività](/caregiving/when-anger-becomes-aggression-with-dementia/) tratta la sicurezza immediata e cosa fare dopo.
 
-Le nostre guide su [comunicare](/caregiving/communication-tips/) e su [cosa fare quando dice di no](/caregiving/when-they-say-no/) contengono altre parole che calmano.
+Le nostre guide sulla [comunicazione](/caregiving/communication-tips/) e su [cosa fare quando la persona dice di no](/caregiving/when-they-say-no/) offrono altri suggerimenti su come usare parole calme.
 
-## Come individuo i fattori scatenanti?
+## Come posso individuare i fattori scatenanti?
 
-Tenga un breve diario per una settimana o due. L’Alzheimer’s Association raccomanda di annotare che cosa accade prima degli episodi di sundowning per individuare i fattori scatenanti. Annoti l’ora in cui è cominciata l’irrequietezza, che cosa è successo nell’ora precedente, sonnellini, pasti e bevande, visite, rumore e luce. Porti il diario al medico. Il NIA osserva che tenere traccia dei cambiamenti di comportamento può aiutare chi assiste e gli operatori sanitari a riconoscere uno schema.
+Tieni un breve diario per una o due settimane. L’Alzheimer’s Association raccomanda di annotare cosa succede prima degli episodi di sundowning per individuare i fattori scatenanti. Segna l’ora in cui è iniziata l’irrequietezza, cosa è successo nell’ora precedente, i riposini, i pasti e le bevande, le visite, i rumori e la luce. Porta il diario dal medico. Il NIA osserva che tenere traccia dei cambiamenti nel comportamento può aiutare chi si prende cura della persona e i professionisti sanitari a riconoscere uno schema.
 
-## Quando devo chiamare il medico per il sundowning?
+## Quando devo contattare il medico per il sundowning?
 
-Contatti il medico della persona se l’irrequietezza è nuova, improvvisamente peggiore, o si accompagna ad altri cambiamenti. Il NIA afferma che cambiamenti del comportamento improvvisi o che fluttuano rapidamente, soprattutto dopo un’infezione o recenti cambi di farmaci, vanno segnalati subito al medico.
+Contatta il medico della persona se l’irrequietezza è nuova, peggiora improvvisamente o si accompagna ad altri cambiamenti. Il NIA afferma che cambiamenti improvvisi o che variano rapidamente nel comportamento, soprattutto dopo un’infezione o recenti modifiche ai farmaci, devono essere segnalati subito al medico.
 
-Chieda al medico di controllare le cose che possono rendere più difficili le sere. L’Alzheimer’s Association menziona problemi fisici come infezioni delle vie urinarie, incontinenza, sindrome delle gambe senza riposo e apnea notturna, e suggerisce di chiedere quali sono i momenti della giornata migliori per ciascun farmaco. Il NIA indica dolore, stitichezza ed effetti collaterali o interazioni dei farmaci tra le possibili cause dell’agitazione.
+Chiedi al medico di verificare eventuali fattori che possono rendere le serate più difficili. L’Alzheimer’s Association menziona problemi fisici come le infezioni delle vie urinarie, l’incontinenza, la sindrome delle gambe senza riposo e l’apnea notturna, e suggerisce di chiedere quali siano i momenti migliori della giornata per assumere ogni farmaco. Il NIA elenca dolore, stitichezza ed effetti collaterali o interazioni tra farmaci tra le possibili cause di agitazione.
 
-L’Alzheimer’s Association afferma che per i disturbi del sonno legati all’Alzheimer si preferiscono in genere gli approcci senza farmaci, e che un farmaco per l’agitazione di fine giornata va preso in considerazione solo se questi non funzionano, dopo aver valutato rischi e benefici. Questa decisione spetta al medico. Non cominci, non interrompa e non cambi alcun farmaco, aiuto per dormire o integratore senza un parere medico.
+L’Alzheimer’s Association afferma che, per i problemi del sonno legati all’Alzheimer, in genere si preferiscono approcci non farmacologici e che i farmaci per l’agitazione serale dovrebbero essere presi in considerazione solo se questi non funzionano, dopo aver valutato rischi e benefici. Questa decisione spetta al medico. Non iniziare, interrompere o modificare alcun farmaco, sonnifero o integratore senza un parere medico.
 
-## Come affronto io le sere?
+## Come posso affrontare io stesso le serate?
 
-I tardi pomeriggi possono essere la parte più difficile della giornata di chi assiste. Se può, chieda a un familiare, a un amico o a un aiutante a pagamento di coprire il tardo pomeriggio alcuni giorni alla settimana, anche solo per un’ora. La nostra guida al [prendersi cura di sé](/caregiving/caregiver-self-care/) elenca le opzioni di sollievo e, come esempio statunitense, la Helpline gratuita 24/7 dell’Alzheimer’s Association; nel Suo paese cerchi l’associazione Alzheimer locale.
+I tardi pomeriggi possono essere il momento più difficile della giornata per chi si prende cura di una persona. Se puoi, chiedi a un familiare, a un amico o a una persona retribuita di occuparsi del tardo pomeriggio per qualche giorno alla settimana, anche solo per un’ora. La nostra guida sull’[autocura per chi si prende cura](/caregiving/caregiver-self-care/) elenca le opzioni di sollievo e la linea di assistenza gratuita dell’Alzheimer’s Association, attiva ventiquattro ore su ventiquattro, sette giorni su sette.

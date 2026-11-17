@@ -1,34 +1,33 @@
 ---
-title: "Varhaisen muistisairauden puuhat työikäisille"
-seoTitle: "Varhaisen muistisairauden puuhat"
-description: "Puuhia varhaiseen muistisairauteen, kun oireet alkavat ennen 65 vuotta: harrastukset, retket, nuoruuden musiikki ja tuki puolisolle ja aikuisille lapsille."
+title: "Puuhia varhaiseen muistisairauteen: ideoita työikäisille"
+seoTitle: "Puuhia varhaiseen muistisairauteen"
+description: "Puuhia varhaiseen muistisairauteen, kun oireet alkavat ennen 65 ikävuotta: harrastukset, retket, nuoruuden musiikki ja tuki puolisoille ja aikuisille lapsille."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
   Varhainen muistisairaus alkaa ennen 65 ikävuotta, usein silloin kun ihminen
-  on vielä työelämässä, ajaa autoa tai kasvattaa lapsia. Säilyttäkää hänen
+  on vielä työssä, ajaa autoa tai kasvattaa lapsia. Säilyttäkää hänen
   harrastuksensa ja ystävyytensä, valitkaa retkiä, jotka tuntuvat hänestä
-  omilta, käyttäkä hänen omilta vuosiltaan peräisin olevaa musiikkia ja
-  valokuvia, ja antakaa hänen päättää suunnitelmista. Myös puolisot ja
-  aikuiset lapset tarvitsevat tukea, ja Alzheimer’s Association järjestää
-  heille vertaisryhmiä.
+  omilta, käyttäkää musiikkia ja valokuvia hänen omilta vuosiltaan ja antakaa
+  hänen päättää suunnitelmista. Myös puolisot ja aikuiset lapset tarvitsevat
+  tukea, ja Alzheimer’s Association järjestää heille ryhmiä.
 keyPoints:
-  - "Varhainen muistisairaus alkaa ennen 65 ikävuotta. Ihmiset voivat kokea, että heidän ikänsä ei sovi tarjolla oleviin puuhiin."
-  - "Antakaa läheisenne päättää valinnoista, harrastuksesta retken suunnitteluun."
-  - "Hänen 20–50-vuotiailtaan peräisin oleva musiikki, valokuvat ja muistot voivat merkitä enemmän kuin myöhemmän iän puuhat."
+  - "Varhainen muistisairaus alkaa ennen 65 ikävuotta. Ihmiset kokevat usein, että tarjotut puuhat eivät sovi heidän ikäänsä."
+  - "Antakaa muistisairaan henkilön päättää valinnoista harrastuksesta retken suunnitteluun."
+  - "Musiikki, valokuvat ja tarinat parikymppisiltä viisikymppisille vuosilta ovat usein merkityksellisempiä kuin myöhemmän elämän puuhat."
   - "Pysykää aktiivisina ja sosiaalisina, kun hän haluaa, ja muuttakaa tahtia sen sijaan, että vaihtaisitte puuhaa."
-  - "Omaiset, etenkin puolisot ja aikuiset lapset, hyötyvät vertaistukiryhmistä."
+  - "Omaishoitajat, erityisesti puolisot ja aikuiset lapset, hyötyvät vertaistukiryhmistä."
 faq:
-  - q: "Mitä on varhainen muistisairaus?"
-    a: "Se on muistisairaus, joka alkaa ennen 65 ikävuotta. Alzheimer’s Association kertoo, että Alzheimerin tauti katsotaan varhaiseen alkavaksi, kun se ilmenee alle 65-vuotiaalla. Varhainen muistisairaus on harvinaisempi kuin myöhemmin alkava muistisairaus, mutta se ei ole poikkeuksellinen, ja kokemus on usein erilainen: ihminen voi olla vielä työssä, ajaa autoa ja huolehtia lapsista."
-  - q: "Millaiset puuhat sopivat ihmiselle, jolla on varhainen muistisairaus?"
-    a: "Parhaiten sopivat puuhat, jotka liittyvät hänen aikuisiän elämäänsä: tuttu harrastus, kävely ystävän kanssa, vapaaehtoistehtävä, ruoanlaittoa perheelle, musiikkia hänen omasta nuoruudestaan tai vierailu tärkeässä paikassa. Antakaa hänen valita, ja muuttakaa kestoa ja seuraa ennemmin kuin itse puuhaa."
+  - q: "Mikä on varhainen muistisairaus?"
+    a: "Se on muistisairaus, joka alkaa ennen 65 ikävuotta. Alzheimer’s Association kertoo, että Alzheimerin tauti katsotaan nuorempana alkavaksi, kun se todetaan alle 65-vuotiaalla. Varhainen muistisairaus on harvinaisempi kuin myöhemmin alkava muistisairaus, mutta se ei ole harvinainen, ja kokemus on usein erilainen: henkilö voi olla vielä työssä, ajaa autoa ja huolehtia lapsista."
+  - q: "Millaiset puuhat sopivat varhain muistisairaalle henkilölle?"
+    a: "Parhaiten sopivat puuhat, jotka kuuluvat hänen aikuisten elämäänsä: tuttu harrastus, kävely ystävän kanssa, vapaaehtoistyövuoro, ruoanlaitto perheelle, musiikki hänen omasta nuoruudestaan tai käynti hänelle tärkeässä paikassa. Antakaa hänen valita ja muokatkaa keston ja seuran sijaan itse puuhaa."
   - q: "Mistä puoliso tai aikuinen lapsi voi saada tukea?"
-    a: "Alzheimer’s Association tarjoaa maksuttomia omaisille tarkoitettuja tukiryhmiä, myös ryhmiä heille, jotka huolehtivat varhain alkaneesta muistisairaudesta kärsivästä läheisestä. Voitte soittaa sen ympäri vuorokauden päivystysnumeroon 800.272.3900 ja kysyä ryhmistä ja muista tuista."
-  - q: "Voiko varhaista muistisairautta sairastava ihminen jatkaa mielekkäitä puuhiaan?"
-    a: "Kyllä, kunhan ne ovat turvallisia ja hän haluaa niitä tehdä. Harrastukset, seurakunta, liikunta ja yhdessäolo ovat kaikki osa hyvää elämää. Muuttakaa ympäristöä, ottakaa mukaan seuralainen ja varatkaa aikaa levolle, ja lopettakaa, kun puuha ei enää tunnu hyvältä."
+    a: "Alzheimer’s Association tarjoaa maksuttomia omaishoitajien tukiryhmiä, myös ryhmiä niille, jotka huolehtivat nuorempana alkavasta muistisairaudesta kärsivästä henkilöstä. Voitte soittaa yhdistyksen ympäri vuorokauden päivystävään neuvontapuhelimeen 800.272.3900 ja kysyä ryhmistä ja tuesta."
+  - q: "Voiko varhain muistisairas henkilö jatkaa hänelle mieluisia puuhia?"
+    a: "Kyllä, kunhan ne ovat turvallisia ja hän haluaa tehdä niitä. Harrastukset, uskonnolliset yhteisöt, liikunta ja yhdessäolo ovat kaikki osa täyttä elämää. Muokatkaa ympäristöä, ottakaa mukaan seuraa ja varatkaa aikaa levolle, ja lopettakaa, kun puuha ei enää tunnu hyvältä."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -47,45 +46,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Suurin osa muistisairauksista kertovasta tiedosta olettaa, että ihminen on 70- tai 80-vuotias. Jos diagnoosi tulee 40- tai 50-vuotiaana, arki näyttää erilaiselta. Ihminen voi olla vielä työssä, maksaa asuntolainaa, kasvattaa teini-ikäisiä tai huolehtia omasta vanhemmastaan. Puuhien tulisi tunnistaa tämä aikuisiän elämä. Tässä oppaassa kerrotaan, mikä muuttuu, mitä voi kokeilla ja mistä puolisot ja aikuiset lapset voivat saada tukea.
+Useimmat muistisairauksia koskevat tiedot olettavat, että henkilö on seitsemänkymppinen tai kahdeksankymppinen. Kun diagnoosi tehdään nelikymppisenä tai viisikymppisenä, arki voi näyttää hyvin erilaiselta. Henkilö voi olla vielä työssä, maksaa asuntolainaa, kasvattaa teini-ikäisiä tai huolehtia omasta vanhemmastaan. Puuhien tulisi huomioida tämä aikuisen elämä. Tässä oppaassa kerrotaan, mikä muuttuu, mitä voitte kokeilla ja mistä puolisot ja aikuiset lapset voivat saada tukea.
 
-## Mitä on varhainen muistisairaus?
+## Mikä on varhainen muistisairaus?
 
-Varhainen muistisairaus on muistisairaus, joka alkaa ennen 65 ikävuotta. Sitä kutsutaan joskus myös nuorella iällä alkavaksi muistisairaudeksi. [Alzheimer’s Associationin blogiteksti](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) kuvaa Alzheimerin taudin varhaiseen alkavaksi, kun se ilmenee alle 65-vuotiaalla, ja toteaa, että noin nuoren läheisestä huolehtimiseen ”liittyy omia haasteitaan”. Oireet voivat olla samat kuin myöhemmällä iällä, mutta ihmisen odotukset, vastuut ja sosiaalinen elämä ovat toisenlaiset.
+Varhainen muistisairaus tarkoittaa muistisairautta, joka alkaa ennen 65 ikävuotta. Siitä puhutaan joskus myös nuorempana alkavana muistisairautena. [Alzheimer’s Associationin blogikirjoituksessa](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) kerrotaan, että Alzheimerin tauti katsotaan nuorempana alkavaksi, kun se todetaan alle 65-vuotiaalla, ja todetaan, että näin nuoresta henkilöstä huolehtimiseen ”liittyy erityisiä haasteita”. Oireet voivat olla samat kuin myöhemmällä iällä, mutta henkilön odotukset, vastuut ja sosiaalinen elämä eivät ole.
 
-Koska varhainen muistisairaus on harvinaisempi, diagnoosin saaminen voi kestää kauemmin ja perheet voivat tuntea jäävänsä yksin. Tieto siitä, että muutkin jakavat saman kokemuksen, voi tuoda helpotusta.
+Koska varhainen muistisairaus on harvinaisempi, diagnoosin saaminen voi kestää kauemmin ja perheet voivat tuntea, ettei heillä ole ketään, jolle puhua. Tieto siitä, että muut jakavat saman kokemuksen, voi usein tuoda helpotusta.
 
-## Säilyttäkää aikuisuus puuhissa
+## Antakaa aikuisen olla mukana puuhassa
 
-Varhaista muistisairautta sairastavat aikuiset eivät yleensä halua, että heitä kohdellaan kuin lapsia. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) neuvoo mukauttamaan puuhia siihen, mitä ihminen vielä voi tehdä ja mistä hän nauttii. 50-vuotiaalle se voi tarkoittaa esimerkiksi seuraavaa:
+Varhain muistisairaat aikuiset eivät yleensä halua, että heitä kohdellaan kuin lapsia. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) neuvoo muokkaamaan puuhia sen mukaan, mitä henkilö vielä pystyy tekemään ja mistä hän nauttii. Viisikymppiselle tämä voi tarkoittaa esimerkiksi seuraavaa:
 
-- **Jatkaa tuttua harrastusta,** kuten puutöitä, urheilua, kortinpeluuta, lukupiiriä tai kuorolaulua, hieman avustettuna tai lyhyemmän ajan.
-- **Käydä kävelyllä tai pyöräillä seuralaisen kanssa** tutulla reitillä.
-- **Valmistaa perheateria,** jossa läheinen tekee ne osat, joista hän suoriutuu.
-- **Tehdä vapaaehtoistyötä tai auttaa** hänelle sopivassa tehtävässä, kuten lahjoitusten lajittelussa tai koulun tapahtumassa.
-- **Suunnitella matka** hänelle tärkeään paikkaan seuralaisen kanssa ja yksinkertaisella aikataululla.
-- **Viettää aikaa lastenlasten, sisarusten lasten tai muiden nuorten sukulaisten kanssa** yhteisen pelin tai askartelun parissa.
+- **Jatkakaa tuttua harrastusta**, kuten puutöitä, urheilua, kortinpeluuta, lukupiiriä tai kuorolaulua, hieman avustettuna tai lyhyemmän ajan.
+- **Käykää kävelyllä tai pyöräilemässä seuralaisen kanssa** reittiä, jonka hän tuntee hyvin.
+- **Laittakaa yhdessä perheen ruoka** niin, että henkilö tekee ne osat, joista hän selviää.
+- **Tehkää vapaaehtoistyötä tai auttakaa** hänen valitsemassaan tehtävässä, kuten lahjoitusten lajittelussa tai koulun tapahtumassa.
+- **Suunnitelkaa retki** hänelle tärkeään paikkaan seuralaisen ja selkeän aikataulun kanssa.
+- **Viettäkää aikaa lastenlasten, sisarusten lasten tai sisarusten lastenlasten kanssa** yhteisen pelin tai tekemisen parissa.
 
-Antakaa läheisenne valita. Kysymys ”Mitä haluaisit tehdä tänä iltapäivänä?” on kunnioittavampi kuin päättäminen hänen puolestaan.
+Antakaa henkilön valita. Kysymys ”Mitä haluaisit tehdä tänä iltapäivänä?” on kunnioittavampi kuin valitseminen hänen puolestaan.
 
-## Käyttäkää hänen omien vuosiensa musiikkia ja muistoja
+## Käyttäkää musiikkia ja muistoja hänen omilta vuosiltaan
 
-Musiikki ja valokuvat ihmisen 20-, 30- ja 40-luvulta voivat herättää lämpimiä tunteita ja helppoa keskustelua. [Musiikkipuuhia käsittelevä oppaamme](/activities/music/) kertoo, miten soittolistan voi koota, ja [muistelupuuhat](/activities/reminiscence/) näyttävät, miten valokuvia ja tarinoita voi jakaa ilman kyselemistä. Aikuismaisempaan peliin sopivat [keskustelukortit](/games/conversation-cards/), joissa on avoimia kehotteita työstä, matkailusta, ystävistä ja perheestä.
+Musiikki ja valokuvat henkilön parikymppisiltä, kolmikymppisiltä ja nelikymppisiltä vuosilta voivat herättää lämpimiä tunteita ja helppoa keskustelua. [Musiikkipuuhia käsittelevä oppaamme](/activities/music/) kertoo, miten voitte koota soittolistan, ja [muistelupuuhat](/activities/reminiscence/) näyttävät, miten valokuvia ja tarinoita voi jakaa ilman tenttaamista. Aikuismaisempaan yhteiseen hetkeen sopivat [keskustelukortit](/games/conversation-cards/), joissa on avoimia kehotteita työstä, matkustamisesta, ystävistä ja perheestä.
 
-Myös perhekuvista tehdyt kuvaparit voivat toimia hyvin, koska kuvissa on läheiselle tärkeitä ihmisiä ja paikkoja. [Kuvaparit](/games/photo-pairs/) pitää valokuvat siinä laitteessa ja selaimessa.
+Perhekuvista tehdyt kuvaparit voivat myös toimia hyvin, koska kuvissa on hänelle tärkeitä ihmisiä ja paikkoja. [Kuvaparit](/games/photo-pairs/) pitää valokuvat selaimessa samalla laitteella.
 
 ## Työ, autoilu ja arki
 
-Monet varhaista muistisairautta sairastavat ihmiset ovat vielä työssä, ajavat autoa tai hoitavat raha-asioitaan. Nämä eivät ole puuhia tavallisessa mielessä, mutta ne vaikuttavat siihen, mitä ihminen voi tehdä. Keskustelkaa lääkärin kanssa autoilun ja työn turvallisuudesta ja pohtikaa, haluaako läheinen apua raha-asioissa tai tapaamisissa. Tavoitteena on suojata hänen arvokkuuttaan ja pitää hänet mukana niin paljon kuin hän haluaa.
+Monet varhain muistisairaat ihmiset käyvät vielä työssä, ajavat autoa tai hoitavat raha-asioitaan. Nämä eivät ole puuhia sanan tavallisessa merkityksessä, mutta ne vaikuttavat siihen, mitä henkilö voi tehdä. Keskustelkaa hänen lääkärinsä kanssa autoilun ja työn turvallisuudesta ja pohtikaa, haluaako hän apua raha-asioissa tai tapaamisten järjestämisessä. Tavoitteena on suojella hänen arvokkuuttaan ja pitää hänet mukana niin paljon kuin hän itse haluaa.
 
-Apua arjen rutiineihin ja aktiivisuuteen löytyy sivuilta [lempeä päivärutiini](/activities/daily-routine/) ja [kotityöt puuhina](/activities/household-tasks/).
+Ohjeita arjen rutiineista ja aktiivisena pysymisestä löydätte sivuilta [lempeä päivärutiini](/activities/daily-routine/) ja [kotityöt puuhina](/activities/household-tasks/).
 
-## Tukea puolisoille ja aikuisille lapsille
+## Tuki puolisoille ja aikuisille lapsille
 
-Puolisot ja aikuiset lapset voivat tuntea olonsa yksinäiseksi. Läheisen hoitaminen voi tuntua toiselta työltä työn ja perheen rinnalla. Alzheimer’s Associationin blogitekstissä kerrotaan, että varhain alkaneen muistisairauden omaisryhmät auttoivat käytännön asioissa, kuten juridisessa suunnittelussa, ja antoivat tunteen siitä, että tulee ymmärretyksi. Siinä kerrotaan myös, että yhdistys järjestää maksuttomia omaisten tukiryhmiä, myös ryhmiä varhain alkaneesta muistisairaudesta kärsivän läheisen hoitajille, ja kolme niistä kokoontuu verkossa tiistaisin ja keskiviikkoisin.
+Puolisot ja aikuiset lapset voivat tuntea itsensä yksinäisiksi. Läheisen hoivaaminen voi tuntua toiselta työltä työn ja perheen ohella. Alzheimer’s Associationin blogikirjoituksessa kerrotaan, että nuorempana alkavaa muistisairautta käsittelevien ryhmien osallistujat kokivat ne hyödyllisiksi käytännön asioissa, kuten juridisessa suunnittelussa, ja myös siksi, että he tunsivat tulevansa ymmärretyiksi. Siinä kerrotaan myös, että yhdistys järjestää maksuttomia omaishoitajien tukiryhmiä, myös ryhmiä niille, jotka huolehtivat nuorempana alkavasta muistisairaudesta kärsivästä henkilöstä, ja kolme niistä kokoontuu verkossa tiistaisin ja keskiviikkoisin.
 
-Voitte kysyä ryhmistä soittamalla yhdistyksen ympäri vuorokauden päivystysnumeroon 800.272.3900. [Omaishoitajan omahoito -oppaamme](/caregiving/caregiver-self-care/) käsittelee lepoa, hengähdystaukoja ja uupumuksen merkkejä.
+Voitte kysyä ryhmistä soittamalla yhdistyksen ympäri vuorokauden päivystävään neuvontapuhelimeen 800.272.3900. [Omaishoitajan hyvinvointia käsittelevä oppaamme](/caregiving/caregiver-self-care/) käsittelee lepoa, omaa aikaa ja uupumisen merkkejä.
 
 ## Vaiheilla on edelleen merkitystä
 
-Muistisairauden vaihe vaikuttaa siihen, mikä auttaa. Alkuvaiheessa useimmat ihmiset voivat jatkaa tavallisia puuhiaan pienin muutoksin, ja [alkuvaiheen puuhat](/activities/early-stage/) -oppaassa on lisää ideoita. Myöhemmin puuhat muuttuvat yksinkertaisemmiksi ja aistimellisemmiksi, kuten sivulla [loppuvaiheen puuhat](/activities/late-stage/) kuvataan. Muuttakaa puuhaa ihmisen tilanteen mukaan ja kysykää häneltä, mitä hän haluaa, aina kun hän voi sanoa sen.
+Muistisairauden vaihe vaikuttaa edelleen siihen, mikä auttaa. Alkuvaiheessa useimmat ihmiset voivat jatkaa tavallisia puuhiaan pienin muutoksin, ja [alkuvaiheen puuhia käsittelevässä oppaassa](/activities/early-stage/) on lisää ideoita. Myöhemmin puuhat muuttuvat yksinkertaisemmiksi ja enemmän aisteihin perustuviksi, kuten sivulla [loppuvaiheen puuhat](/activities/late-stage/) kuvataan. Muuttakaa puuhaa henkilön tarpeiden mukaan ja kysykää häneltä, mitä hän haluaa, aina kun hän pystyy kertomaan sen.

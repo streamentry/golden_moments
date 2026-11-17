@@ -1,33 +1,33 @@
 ---
-title: "Lihtsad mälumänguküsimused dementsusega eakatele"
-seoTitle: "Mälumänguküsimused dementsusega eakatele ja vastused"
-description: "50 lihtsat mälumänguküsimust dementsusega eakatele koos vastusevariantide ja jututeemadega ning nõuanded, kuidas mängida ilma surveta."
+title: "Lihtne viktoriin vanuritele, kellel on dementsus, ilma surveta"
+seoTitle: "Viktoriiniküsimused vanuritele dementsusega, koos vastustega"
+description: "50 lihtsat viktoriiniküsimust vanuritele dementsusega, koos vastusevalikutega ja vestlusteemadega, ning juhis, kuidas mängida nii, et keegi ei tunne survet."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Lihtne mälumäng sobib dementsusega eakatele siis, kui see tundub vestlusena,
-  mitte testina. Küsige ammu teadaolevate asjade kohta, näiteks vanadest
-  lauludest, vanasõnadest, pühadest ja argielust, ning pakkuge alati kaks või
-  kolm vastusevarianti. Öelge õige vastus rahulikult välja, ärge tõstke kedagi
-  esile, jätke punktiarvestus vahele ja kasutage iga vastust loo alustamiseks.
-  Hilisemates etappides sobivad küsimused „see või too”, millel pole vale vastust.
+  Lihtne viktoriin vanuritele, kellel on dementsus, sobib, kui see tundub nagu
+  vestlus, mitte test. Küsi asjade kohta, mida on ammu õpitud, näiteks vanad
+  laulud, ütlused, pühad ja argipäev, ning paku alati kaks või kolm valikut.
+  Ütle vastus rahulikult ja liigu edasi, ära eralda kedagi, jäta punktid välja
+  ja kasuta iga vastust loo alustamiseks. Hilisemates etappides sobivad
+  küsimused „see või teine”, millel pole õiget vastust.
 keyPoints:
-  - "Küsige ammu tuttavate asjade kohta: laulud, vanasõnad, pühad, toit ja argielu paljudest aastatest tagasi."
-  - "Pakkuge kaks või kolm vastusevarianti, et vastust saaks ära tunda, mitte ise meenutada."
-  - "Öelge vastus soojalt ja liikuge edasi. Iga pakkumine, mis alustab lugu, on hea pakkumine."
-  - "Punkte pole, võistkondi pole, ühte inimest eraldi ei küsita. Las vastused tulevad kogu ruumist."
-  - "Kui vastusevariantide vahel valimine läheb raskeks, minge üle küsimustele „see või too”, millel pole õiget vastust."
+  - "Küsi tuttavate asjade kohta: laulud, ütlused, pühad, toit ja argipäev aastate tagant."
+  - "Paku kaks või kolm valikut, et vastust oleks võimalik äratunda, mitte meenutada."
+  - "Ütle vastus sõbralikult ja liigu edasi. Iga oletus, mis alustab lugu, on hea oletus."
+  - "Punkte pole, võistkonnad ei võistle ja kedagi ei küsita otse. Lase vastustel tulla tervest ruumist."
+  - "Kui valikute vahel valimine muutub raskeks, mine üle „see või teine” küsimustele, millel pole õiget vastust."
 faq:
-  - q: "Kas mälumäng sobib dementsusega inimestele?"
-    a: "See võib sobida, kui seda tehakse leebelt. Alzheimer's Foundation of America nimetab mälumängu varajase etapi tegevuste hulgas. Hoidke küsimused ammu tuttavatel teemadel, pakkuge vastusevariante, ärge pange ühte inimest vastama ja käsitlege vastuseid vestluse alustamisena, mitte testina."
-  - q: "Millised teemad sobivad dementsusega inimeste mälumängus kõige paremini?"
-    a: "Kõige paremini sobivad sageli ammu õpitud asjad: populaarsed laulud ja lauljad inimese noorusajast, tuttavad vanasõnad, pühad, toit, sport ja argielu, näiteks piimatarned ukse taha või valimiskettaga telefonid. Vältige värskeid uudiseid ja kõike, mis eeldab sessiooni alguses õpitu meeldejätmist."
-  - q: "Kuidas korraldada mälumängu hooldekodus nii, et keegi ei tunneks piinlikkust?"
-    a: "Lugege iga küsimus kogu rühmale ette, näidake või öelge vastusevariandid ja võtke rõõmuga vastu vastuseid kõigilt. Ärge küsitlege inimesi eraldi ega pidage punktiarvestust. Öelge õige vastus naeratusega välja, ükskõik mis vastus pakuti, ja küsige jätkuküsimus, näiteks „Kes siin on kunagi autokinos käinud?”, et muuta see lugudeks."
-  - q: "Mida teha mälumängu asemel hilisemates etappides?"
-    a: "Minge üle küsimustele, millel pole vale vastust, näiteks „Kohv või tee?” või „Rand või mäed?”, ning tuttavate vanasõnade või laulude koos lõpetamisele. Hästi sobib ka piltide vaatamine ja nende koos kirjeldamine."
+  - q: "Kas viktoriin sobib tegevuseks dementsusega inimestele?"
+    a: "Võib sobida, kui seda juhitakse õrnalt. Alzheimer's Foundation of America nimetab viktoriini varases etapis sobivaks tegevuseks. Küsi ammu tuttavatel teemadel, paku valikuid, ära pane kedagi otse surve alla ja kasuta vastuseid vestluse alustamiseks, mitte testina."
+  - q: "Millised teemad sobivad dementsusega viktoriinis kõige paremini?"
+    a: "Kõige paremini sobivad tavaliselt asjad, mida on ammu õpitud: lemmiklaulud ja lauljad inimese noorusajast, tuttavad ütlused, pühad, toit, sport ning argipäev, näiteks piimaveod ja numbrikettaga telefonid. Vältige hiljutisi uudiseid ja kõike, mis nõuab meenutamist varasemast selle sessiooni jooksul."
+  - q: "Kuidas juhin hoolekodus viktoriini nii, et keegi ei tunne end häbelikult?"
+    a: "Loe iga küsimus kogu grupile, näita või ütle valikud ette ja võta vastu vastuseid igaühelt. Ära küsi inimesi otse nimepidi ega pea skoori. Ütle vastus muigega, sõltumata oletusest, ja küsi lisa, näiteks „Kes käis siin kunagi autokinos?”, et muuta see lugudeks."
+  - q: "Mida teha viktoriini asemel hilisemates etappides?"
+    a: "Mine üle küsimustele, millel pole õiget vastust, näiteks „Kohv või tee?” või „Rand või mäed?”, ning tuttavate ütluste või laulude koos lõpetamisele. Ka koos piltide vaatamine ja kirjeldamine sobib hästi."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Mälumäng on üks nõutumaid rühmategevusi hooldekodudes ja päevakeskustes ning paljud pered mängivad seda ka kodus köögilaua ääres. Kui seda mängida tavapärasel viisil, punktide ja ühe vastajaga, võib dementsusega inimene tunda, et ta on vastamisega hätta jäetud. Kui seda teha leebelt, on see tore viis lugusid kuulda. Allpool on 50 lihtsat küsimust koos vastusevariantide ja igaühe juurde sobiva jututeemaga ning seejärel nõuanded, kuidas tegevust läbi viia.
+Viktoriin on hoolekodus ja päevakeskustes üks enim taotletud grupitegevusi, ning paljud pered mängivad seda ka köögilaua taga. Tavalises vormis, punktide ja ühe vastaja korral, võib see dementsusega inimesele tekitada tunde, nagu ta oleks surve all. Õrnalt juhituna on see elav viis kuulda lugusid. Allpool on viiskümmend lihtsat küsimust koos vastusevalikutega ja igaühe juures mõni vestlusteema, millele järgneb juhis sessiooni läbiviimiseks.
 
-## Kuidas muuta mälumäng dementsusega inimesele sobivaks?
+## Kuidas muuta viktoriin sobivaks dementsusega inimesele?
 
-Tehke see äratundmise ja ammu teadaolevate asjade meenutamise jaoks ning võtke iga vastus vastu.
+Tee see tuttavate asjade äratundmise ja meenutamise põhjal, ning võta vastu iga vastus.
 
-1. **Küsige kaugest minevikust.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ütleb, et Alzheimeri tõve kõige levinum varajane sümptom on raskus äsja õpitu meenutamisega. Laulud, vanasõnad ja aastakümnete tagune argielu on sageli kergemad teemad.
-2. **Pakkuge alati valikuvõimalusi.** Õige vastuse valimine kahe või kolme variandi seast on palju kergem kui selle ise välja mõtlemine.
-3. **Lugege küsimused ette ja näidake neid suurena.** Tahvel või kõrgele tõstetud tahvelarvuti aitab inimestel, kes kuulevad halvemini.
-4. **Öelge vastus vabalt välja.** Kui keegi ei tea, öelge vastus soojalt ja liikuge edasi. Ärge kunagi öelge: „No tule nüüd, sa ju tead seda.”
-5. **Punktiarvestust ei ole.** Ei üksikisikutele ega laudadele. Kui inimesed tahavad numbrit, hoidke üht ühist tulemust.
-6. **Ärge kunagi küsitlege ühte inimest eraldi.** Las vastused tulevad kõigilt. Kahekesi mängides vastake koos: „Ma arvan, et see on klaver. Mida teie arvate?”
-7. **Kasutage jututeemat.** Vastus on algus, mitte lõpp. Päris eesmärk on lood.
-8. **Hoidke see lühike.** Kümme küsimust, mille vahele mahuvad lood, on täiesti piisav.
+1. **Küsi kaugest minevikust.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ütleb, et Alzheimer'si tõve kõige sagedasem varajane sümptom on raskus äsja õpitu meeldejätmisel. Laulud, ütlused ja aastakümnete tagune argipäev on sageli lihtsamad teemad.
+2. **Paku alati valikuid.** Õige vastuse valimine kahe või kolme hulgast on palju lihtsam kui vastuse leidmine ise.
+3. **Loe küsimused ette ja näita neid suurt.** Tahvel või hoitav tahvelarvuti aitab paremini kuulda.
+4. **Ütle vastus rahulikult ette.** Kui keegi ei tea, ütle see sõbralikult ja liigu edasi. Ära ütle kunagi „Tule nüüd, sa ju tead seda.”
+5. **Punkte pole.** Ei üksikisikutele ega laudadele. Kui soovitakse numbrit, võid pidada ühist kogusummat.
+6. **Ära küsi kunagi kedagi otse nimepidi.** Lase vastustel tulla igaühelt. Kahekesi olles vastake koos: „Ma arvan, et see on klaver. Mida sina arvad?”
+7. **Kasuta vestlusteemat.** Vastus on algus, mitte lõpp. Lood on tegelik eesmärk.
+8. **Hoia see lühike.** Kümme küsimust koos lugudega vahepeal on küllalt.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sõnastab põhireegli lihtsalt: jälgige pettumust ja veenduge, et inimene tunneks end edukalt. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nimetab mälumängu varajase etapi tegevuste hulgas. Keskmises etapis piirduge kahe valikuga ja toetuge jututeemadele. Hiljem minge üle allpool toodud küsimustele „see või too”.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ütleb põhireegli lihtsalt: jälgi pettumust ja tee kindlaks, et inimene tunneb end edukana. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nimetab viktoriini varases etapis sobivaks tegevuseks. Keskmises etapis piira end kahe valikuga ja toetu vestlusteemadele. Hiljem mine üle allpool olevatele „see või teine” küsimustele.
 
-## Muusika- ja meelelahutuse mälumäng
+## Muusika- ja meelelahutusviktoriin
 
-Õige vastus on **paksus kirjas**. Kohandage küsimusi inimese järgi: keegi, kes kasvas üles Motowni muusikaga, võib soovida teistsuguseid lauljaid kui inimene, kes kasvas üles bigbändide ajastul.
+Vastus on **rasvases kirjas**. Kohanda neid inimese järgi: kellegi nooruspõlv motowni jaoks soovib teisi lauljaid kui kellegi, kes kasvas üles suurte bändide muusikaga.
 
-| Küsimus | Valikud | Rääkige sellest |
+| Küsimus | Valikud | Vestle |
 | --- | --- | --- |
-| Keda kutsuti rokkmuusika kuningaks? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Kas olete Elvist kunagi televiisorist näinud? |
-| Millist lauljat hüüti Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Milline Sinatra laul teile kõige rohkem meeldib? |
-| Bing Crosby unistas valgest... | **jõulust**, pulmast, majast | Laulge koos üks rida |
-| Louis Armstrong laulis „What a Wonderful...” | Day, **World**, Life | Mis teeb maailma teie jaoks ilusaks? |
-| Judy Garland laulis laulu „Over the Rainbow” millises filmis? | **Võlur Oz**, Tuulest viidud, Lauldes vihmas | Kus te oma lemmikfilme vaatasite? |
-| Kes mängis Lucyt sarjas „I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Milliseid saateid teie pere koos vaatas? |
-| Milline kauboi ratsutas hobusel nimega Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Kas mängisite lapsena kauboide mängu? |
-| Kes juhtis saadet „The Tonight Show” 30 aastat? | Ed Sullivan, **Johnny Carson**, Bob Hope | Kas jäite hilja üles, et televiisorit vaadata? |
-| Millisel pillil on 88 klahvi? | Kitarr, **klaver**, trompet | Kas keegi teie peres mängis pilli? |
-| Millist tantsu loetakse üks-kaks-kolm, üks-kaks-kolm? | **Valss**, twist, tango | Kus te tantsimas käisite? |
+| Keda kutsuti rokk-n-rolli kuningaks? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Kas sa nägid kunagi Elvist televisioonis? |
+| Millist lauljat hüüti Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Milline Sinatra laul meeldib sulle kõige rohkem? |
+| Bing Crosby unistas valgest... | **Jõulust**, pulmast, majast | Laula koos paar rida |
+| Louis Armstrong laulis „What a Wonderful...” | Day, **World**, Life | Mis teeb maailma sinu jaoks imeliseks? |
+| „Over the Rainbow” laulis Judy Garland millises filmis? | **Võlur Oz**, Tuulest viidud, Lauldes vihmas | Kus sa vaatasid oma lemmikfilme? |
+| Kes mängis Lucyt seriaalis „I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Milliseid saateid teie pere koos vaatas? |
+| Milline kauboi ratsutas hobusel nimega Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Kas sa mängisid lapsena kauboide? |
+| Kes juhtis „The Tonight Show” saadet kolmkümmend aastat? | Ed Sullivan, **Johnny Carson**, Bob Hope | Kas sa jäid hilja telekat vaatama? |
+| Millisel pillil on kaheksakümmend kaheksa klahvi? | Kitarr, **klaver**, trompet | Kas keegi su peres mängis pilli? |
+| Millist tantsu loendatakse üks-kaks-kolm, üks-kaks-kolm? | **Valss**, twist, tango | Kus sa tantsisid? |
 
-Rohkem muusika kohta leiate lehelt [muusikategevused dementsuse korral](/activities/music/).
+Rohkem muusikategevuste kohta leiad lehelt [muusikategevused dementsusega inimeste jaoks](/activities/music/).
 
-## Argielu mälumäng
+## Argielu viktoriin
 
-| Küsimus | Valikud | Rääkige sellest |
+| Küsimus | Valikud | Vestle |
 | --- | --- | --- |
-| Enne külmkappe hoiti paljudes kodudes toitu jahedana... | **jääkapis**, ahjus, pööningul | Kes tõi jää koju? |
-| Kes tõi piima ukse taha klaaspudelites? | Postiljon, **piimamees**, ajalehepoiss | Mida veel koju toodi? |
-| Kuidas valiti number valimiskettaga telefonil? | Nuppe vajutades, **ketast keerates**, sellesse rääkides | Rääkige mulle oma kodu telefonist |
-| Milline ettevõte valmistas auto Model T? | **Ford**, Chevrolet, Buick | Rääkige mulle mõnest autost, mis teile meeldis |
-| Kust võis leida soodabaari leti taga töötaja? | **Soodabaarist**, pagariärist, pangast | Mida te leti ääres tellisite? |
-| Milline mänguasi on metallvedru, mis võib trepist alla kõndida? | Jojo, **Slinky**, hularõngas | Milliseid mänguasju te armastasite? |
-| Autokino oli koht, kus vaadati... | **filme oma autost**, pallimänge, paraade | Kellega te sinna läksite? |
-| Kelle pilt on ühedollarisel rahatähel? | Lincoln, **George Washington**, Jefferson | Mida sai dollari eest tol ajal osta? |
-| Kelle pilt on ühesendisel mündil? | **Abraham Lincoln**, Washington, Franklin | Kas te kogusite tol ajal sente purki? |
-| Mis värvi on koolibuss tavaliselt? | Punane, **kollane**, sinine | Kuidas te kooli läksite? |
+| Enne külmkappe hoidsid paljud kodud toitu jahedas... | **Jääkapis**, ahjus, pööningul | Kes tõi jääd? |
+| Kes tõi ukse taha klaaspudelites piima? | Postiljon, **piimamees**, ajalehetooja | Mida veel majja toodi? |
+| Kuidas valisid numbrikettaga telefoni numbrit? | Nuppe vajutades, **ratast pöörates**, sellele rääkides | Räägi mulle telefoni kohta su majas |
+| Milline ettevõte tegi mudel T auto? | **Ford**, Chevrolet, Buick | Räägi mulle autodest, mis sulle meeldisid |
+| Kus leidis jookide leti? | **Jookide letist**, pagariärist, pangast | Mida sa leti juures tellisid? |
+| Milline mänguasi on metallist vedru, mis saab trepist alla kõndida? | Jojo, **Slinky**, hula-hopp | Millised mänguasjad sulle meeldisid? |
+| Autokino oli koht, kus vaatasid... | **Filme oma autost**, pallimänge, paraade | Kellega sa läksid? |
+| Kelle nägu on ühedollarilisel rahatähel? | Lincoln, **George Washington**, Jefferson | Mida sai tol ajal dollari eest? |
+| Kelle nägu on ühe sendilisel mündil? | **Abraham Lincoln**, Washington, Franklin | Kas sa kogusid toona sente purki? |
+| Milline värv on koolibuss tavaliselt? | Punane, **kollane**, sinine | Kuidas sa kooli läksid? |
 
 ## Pühad, loodus ja kohad
 
-| Küsimus | Valikud | Rääkige sellest |
+| Küsimus | Valikud | Vestle |
 | --- | --- | --- |
-| Milline püha on novembri neljandal neljapäeval? | Töörahvapüha, **tänupüha**, mälestuspäev | Mis oli alati teie laual? |
-| Kõrvitsalaternaid tehakse millise püha jaoks? | **Halloween**, lihavõtted, jõulud | Rääkige mulle Halloweenist seal, kus te üles kasvasite |
-| 4. juuli tähistab iseseisvus... | õiguste, **deklaratsiooni**, vabaduse | Kus te ilutulestikku vaatasite? |
+| Milline püha on novembri neljas neljapäev? | Töörahvapüha, **tänupüha**, mälestuspüha | Mis oli sinu laual alati olemas? |
+| Kõrvitsapead tehakse milliseks pühaks? | **Halloween**, lihavõtted, jõulud | Räägi mulle Halloweenist, kus sa üles kasvasid |
+| Neljas juuli tähistab... deklaratsiooni. | Õiguste, **iseseisvuse**, vabaduse | Kus sa ilutulestikku vaatasid? |
 | Emadepäev on millises kuus? | Aprillis, **mais**, juunis | Kuidas teie pere seda tähistas? |
-| Mitu tähte on Ameerika lipul? | 48, **50**, 52 | Lipul oli 48 tähte kuni 1959. aastani. Kumbki vastus on hea mälestus |
-| Milline ookean on idarannikul? | Vaikne ookean, **Atlandi ookean**, Põhja-Jäämeri | Kas olete kunagi rannas käinud? |
-| Millises linnas asub Vabadussammas? | Boston, **New York**, Philadelphia | Kas olete New Yorgis käinud? |
-| Mida mesilased teevad? | Piima, **mett**, siidi | Kas mett saia peale või teesse? |
-| Lehma last kutsutakse... | varsaks, **vasikaks**, kitsetalleks | Kas olete kunagi talu lähedal elanud? |
-| Milline kõrge kollane lill on tuntud selle poolest, et pöördub päikese poole? | Roos, **päevalill**, tulp | Mis kasvas teie aias? |
-| Mitu päeva on liigaastal? | 365, **366**, 360 | Rääkige mulle mõnest sünnipäevast, mida mäletate |
-| Milline aastaaeg tuleb pärast talve? | Sügis, **kevad**, suvi | Milline on teie lemmikaastaaeg? |
+| Mitu tähte on Ameerika lipul? | Nelikümmend kaheksa, **viiskümmend**, viiskümmend kaks | Lipul oli nelikümmend kaheksa tähte kuni 1959. aastani. Mõlemad vastused on head mälestused |
+| Milline ookean on idarannikul? | Vaikne, **Atlandi**, Põhja-Jäämeri | Kas sa käisid kunagi rannas? |
+| Millises linnas asub Vabadussammas? | Bostonis, **New Yorgis**, Philadelphias | Kas sa oled New Yorgis käinud? |
+| Mida teevad mesilased? | Piima, **mett**, siidi | Mesi röstsaiaga või tees? |
+| Beebilehm on... | Varss, **vasikas**, kitsikene | Kas sa elasid kunagi talu lähedal? |
+| Milline kõrge kollane lill pöörab ennast päikese poole? | Roos, **päevalill**, tulp | Mis kasvas suaias? |
+| Mitu päeva on liigaastal? | Kolmsada kuuskümmend viis, **kolmsada kuuskümmend kuus**, kolmsada kuuskümmend | Räägi mulle sünnipäevast, mida mäletad |
+| Milline aastaaeg tuleb pärast talve? | Sügis, **kevad**, suvi | Mis on sinu lemmikaastaeg? |
 
-## Toidu- ja spordimälumäng
+## Toidu- ja spordiviktoriin
 
-| Küsimus | Valikud | Rääkige sellest |
+| Küsimus | Valikud | Vestle |
 | --- | --- | --- |
-| Rosinad on kuivatatud... | ploomid, **viinamarjad**, kirsid | Kas panite rosinaid kunagi lõunasööki kaasa? |
-| Ploomid kuivatatult on... | **kuivatatud ploomid**, viigimarjad, õunad | Kes teie peres armastas kuivatatud ploome? |
-| Maapähklivõi ja... | **moos**, juust, sink | Krõmpsuv või sile? |
-| Guacamole on peamiselt valmistatud... | hernestest, **avokaadodest**, kurkidest | Milliseid dipikastmeid pidudel pakuti? |
-| Milline pirukas on tänupühal lemmik? | **Kõrvitsapirukas**, sidrunipirukas, kirsipirukas | Millist pirukat teie tegite? |
-| Mitu mängijat on pesapallimeeskonnal väljakul? | 7, **9**, 11 | Millise meeskonna poolt te hoidsite? |
-| Mitu löögiviga teeb pesapallis automaatselt välja? | Kaks, **kolm**, neli | Kas olete kunagi palli mänginud? |
-| Babe Ruth oli kuulus millises spordialas? | Poks, **pesapall**, golf | Kas käisite pallimänge vaatamas? |
-| Mitu auku on tavalisel golfiväljakul? | 9, **18**, 24 | Kas olete kunagi golfi või minigolfi mänginud? |
-| Millises spordialas tehakse touchdown? | **Ameerika jalgpall**, jäähoki, korvpall | Kes vaatas teie kodus Ameerika jalgpalli? |
+| Rosinad on kuivatatud... | Ploomid, **viinamarjad**, kirsid | Kas sa panid lõunapaunasse rosinaid? |
+| Kuivatatud ploomid on... | **Ploomid**, viigimarjad, õunad | Kes su peres armastas kuivatatud ploome? |
+| Maapähklivõi ja... | **Tarretis**, juust, singi | Krõmpsuv või pehme? |
+| Guacamole on tehtud peamiselt... | Hernestest, **avokaadodest**, kurkidest | Milliseid dippe toodi pidudel lauale? |
+| Milline pirukas on tänupüha lemmik? | **Kõrvitsapirukas**, sidrunipirukas, kirsipirukas | Millist pirukat sina teed? |
+| Mitu mängijat on pesapallimeeskonnal väljakul? | Seitse, **üheksa**, üksteist | Millisele meeskonnale sa toetasid? |
+| Mitu lööki annab väljalöögi pesapallis? | Kaks, **kolm**, neli | Kas sa mängisid kunagi palli? |
+| Babe Ruth oli kuulus millise spordiala poolest? | Poks, **pesapall**, golf | Kas sa käisid pallimängudel? |
+| Mitu auku on tavalisel golfiväljakul? | Üheksa, **kaheksateist**, kakskümmend neli | Kas sa oled kunagi golfi või minigolfi mänginud? |
+| Millises spordis saad touchdowni? | **Ameerika jalgpall**, jäähoki, korvpall | Kes vaatas teie kodus Ameerika jalgpalli? |
 
-## Tuttavad vanasõnad
+## Tuttavad ütlused
 
-Vanasõna lõpetamine tugineb ammu õpitud keelele ja tuleb sageli kergelt. Meie mängus [Lõpeta vanasõna](/games/finish-the-saying/) on veel palju vanasõnu ning võimalus igal hetkel lõppu näha.
+Ütluse lõpetamine tugineb ammu õpitud keelele ja tuleb sageli kergesti. Meie mängus [Lõpeta ütlus](/games/finish-the-saying/) on palju rohkem, koos võimalusega näha lõppu puudutusega.
 
-| Vanasõna või ütlus | Valikud | Rääkige sellest |
+| Ütlus | Valikud | Vestle |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Kes teile seda varem ütles? |
-| The early bird catches the... | Bus, **worm**, train | Kas olete hommikuinimene? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Kas teie perel olid kanad? |
-| A penny saved is a penny... | **Earned**, lost, spent | Kes teie peres oli kokkuhoidja? |
-| Home is where the... | Garden is, **heart is**, kitchen is | Mis teeb koha koduseks? |
-| Better late than... | Early, **never**, sorry | Kes oli alati hiljaks jäämas? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Rääkige mulle mõnest õnnelikust juhusest |
-| Actions speak louder than... | **Words**, music, thunder | Rääkige mulle kellestki, kes seda ütles |
+| Üks õun päevas hoiab... eemal. | **Arsti**, vihma, kassi | Kes seda sulle ütles? |
+| Vara lendav lind saab... | Bussi, **ussikese**, rongi | Kas sa oled hommikune inimene? |
+| Ära loe kanu enne, kui nad... | **Koorduvad**, magavad, laulavad | Kas su peres peeti kanu? |
+| Säästetud penn on teenitud... | **Penn**, kaotatud penn, kulutatud penn | Kes oli teie peres kokkuhoidja? |
+| Kodu on seal, kus on... | Aed, **süda**, köök | Mis teeb paiga koduseks? |
+| Parem hilja kui... | Vara, **mitte kunagi**, vabandust | Kes oli alati hiljaks jäänud? |
+| Igal pilvel on hõbedane... | **Äär**, lusikas, münt | Räägi mulle õnnelikust juhusest |
+| Tegudest räägib kõvemini kui... | **Sõnadest**, muusikast, mürinast | Räägi mulle keegi, kes seda ütles |
 
-## Küsimused „see või too”, millel pole vale vastust
+## „See või teine” küsimused, millel pole õiget vastust
 
-Need sobivad igas etapis, ka hilisemal ajal, sest siin ei ole midagi valesti teha. Küsige, kuulake ja jagage ka oma vastust.
+Need sobivad igas etapis, ka hiljem, sest pole midagi valesti saada. Küsi, kuula ja jaga ka oma vastust.
 
 - Kohv või tee?
 - Rand või mäed?
 - Koerad või kassid?
-- Suvi või talvi?
+- Suvi või talv?
 - Pirukas või kook?
-- Tantsimine või vaatamine?
+- Tantsimine või pealtvaatamine?
 - Päikesetõus või päikeseloojang?
-- Esiveranda või tagaaed?
+- Esikatus või tagaaed?
 - Raadio või plaadid?
-- Pannkoogid või munad?
+- Pannkook või munad?
 - Roosid või karikakrad?
-- Rongireis või autoreis?
+- Reisimine rongiga või autoga?
 
-Vestlusküsimuste jaoks koos piltidega proovige meie prinditavaid [Vestluskaarte](/games/conversation-cards/).
+Vestlusvihjete jaoks koos piltidega proovi meie trükitavaid [vestluskaarte](/games/conversation-cards/).
 
-## Kuidas korraldada mälumängu hooldekodus või rühmas?
+## Kuidas juhin hoolekodus või grupis viktoriinisessiooni?
 
-1. **Istutage inimesed nii, et nad näeksid ja kuuleksid.** Kuuldeaparaadid sees, prillid ees, televiisor välja.
-2. **Tutvustage seda vestlusena.** „Mul on mõned küsimused vanadest aegadest ja ma usun, et teie teate neist rohkem kui mina.”
-3. **Lugege iga küsimus kaks korda ette ja näidake vastusevariante suurena.**
-4. **Võtke vastu vastuseid kõikjalt ruumist.** Korrake häid vastuseid, et kõik kuuleksid.
-5. **Öelge õige vastus kõigile välja** ja esitage seejärel jututeema kogu ruumile.
-6. **Järgige rühma meeleolu.** Kui üks küsimus käivitab kümne minuti pikkused lood, las see nii olla.
-7. **Lõpetage laulu või vooruga „see või too”,** et kõik lõpetaksid millegi lihtsaga.
+1. **Istu nii, et kõik näevad ja kuulevad.** Kuuldeaparaadid sees, prillid peal, televiisor välja lülitatud.
+2. **Tutvusta seda kui vestlust.** „Mul on mõned küsimused vanade aegade kohta, ja ma arvan, et te teate rohkem kui mina.”
+3. **Loe iga küsimus kaks korda ette ja näita valikuid suurt.**
+4. **Võta vastu vastuseid igast ruumi nurgast.** Korda häid vastuseid, et kõik kuuleksid.
+5. **Ütle vastus kõigile ette,** siis küsi vestlusteemat ruumist.
+6. **Järgi tuju.** Kui üks küsimus alustab kümne minuti lugusid, lase neil kulgeda.
+7. **Lõpeta laulu või „see või teine” vooruga,** et kõik lõpetaksid millegi lihtsaga.
 
-Teiste rühmavormide, sealhulgas pildibingo ja ühise laulmise kohta vaadake lehte [rühmategevused hooldekodudes](/activities/care-home-groups/).
+Muude grupivormide kohta, sealhulgas pildibingo ja laulud, vaata [grupitegevused hoolekodudes](/activities/care-home-groups/).
 
 ## Millal plaani muuta
 
-Kui keegi tundub mures, jääb vaikseks või ütleb rohkem kui korra „ma ei tea”, tehke lihtsamaks: jätke alles kaks valikut, vastake koos või minge üle küsimustele „see või too”. Kui rühm tahab hoopis ühest küsimusest terve pärastlõuna rääkida, on see edu. Eesmärk ei olnud kunagi õiged vastused. Eesmärk oli hea seltskond ja koos veedetud aeg.
+Kui keegi tundub mures, jääb vait või ütleb rohkem kui korra „ma ei tea”, muuda see lihtsamaks: vähenda kahe valikuni, vastake koos või mine üle „see või teine” küsimustele. Kui grupp tahab pigem terve õhtu ühest küsimusest rääkida, on see edu. Eesmärk polnud kunagi õiged vastused. See oli koos olemine.

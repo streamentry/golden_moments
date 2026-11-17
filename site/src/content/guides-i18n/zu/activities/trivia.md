@@ -1,34 +1,34 @@
 ---
-title: "Imibuzo Elula Yokuzijabulisa (Trivia) Ye-Dementia"
-seoTitle: "Imibuzo Elula Ye-Dementia: Imibuzo Engu-50"
-description: "Imibuzo elula engu-50 yabantu asebekhulile abaphila ne-dementia, enezinketho nezinto zokuxoxa ngazo, nendlela yokuyiqhuba ukuze kungabikho ozizwa ehlolwa."
+title: "Imibuzo Elula Yabadala Abaphila Nokuwohloka Komqondo"
+seoTitle: "Imibuzo Elula Nezimpendulo Yabadala Abanokuwohloka Komqondo"
+description: "Imibuzo engamashumi amahlanu elula enezinketho zezimpendulo nezinto zokuxoxa ngazo, nendlela yokudlala ngaphandle kokuhlola noma ukushiya othile ngaphandle."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Imibuzo elula yabantu asebekhulile abaphila ne-dementia isebenza uma izwakala
-  njengengxoxo, hhayi njengokuhlolwa. Buzani ngezinto ezafundwa kudala, njengezingoma
-  zakudala, izisho, izinsuku ezikhethekile nempilo yansuku zonke, futhi njalo
-  nikeze izinketho ezimbili noma ezintathu. Nikezeni impendulo ngokukhululeka,
-  ningakhethi muntu oyedwa, yekani amaphuzu, futhi nisebenzise impendulo
-  ngayinye ukuqala indaba. Imibuzo ethi “lokhu noma lokhu” engenampendulo
-  engalungile ifanele izigaba zangemuva.
+  Imibuzo elula yabadala abaphila nokuwohloka komqondo isebenza kahle uma
+  izwakala njengengxoxo, hhayi ukuhlolwa. Buza ngezinto ezifundwe kudala,
+  njengezingoma ezindala, izisho, amaholide nempilo yansuku zonke, futhi
+  ngaso sonke isikhathi nikeza izinketho ezimbili noma ezintathu. Nikeza impendulo
+  ngomusa, ungakhethi muntu oyedwa, yeqa amaphuzu, bese usebenzisa impendulo ngayinye
+  ukuqala indaba. Imibuzo ethi «lokhu noma lokhoya» engenampendulo engalungile
+  ifaneleka ezigabeni zakamuva.
 keyPoints:
-  - "Buzani ngezinto ezijwayelekile kudala: izingoma, izisho, izinsuku ezikhethekile, ukudla nempilo yansuku zonke yeminyaka edlule."
-  - "Nikezani izinketho ezimbili noma ezintathu ukuze umuntu ayibone impendulo kunokuyikhumbula."
-  - "Shoni impendulo ngokufudumala niqhubeke. Noma yikuphi ukucabanga okuqala indaba kuwukucabanga okuhle."
-  - "Ayikho amaphuzu, akukho amaqembu aqhudelanayo, akukho ukubiza umuntu oyedwa. Vumelani izimpendulo zivele egumbini lonke."
-  - "Uma ukukhetha phakathi kwezimpendulo sekunzima, shintshelani emibuzweni ethi lokhu-noma-lokhu engenampendulo efanele."
+  - "Buza ngezinto ezijwayeleke kudala: izingoma, izisho, amaholide, ukudla nempilo yansuku zonke yaseminyakeni edlule."
+  - "Nikeza izinketho ezimbili noma ezintathu ukuze impendulo ikwazi ukubonwa kunokuba ikhunjulwe kusukela ekuqaleni."
+  - "Isho impendulo ngomusa bese uqhubeka. Noma yikuphi ukuqagela okuqala indaba kuhle."
+  - "Awekho amaphuzu, awekho amaqembu agijimayo, akukho ukubiza umuntu oyedwa. Vumela izimpendulo zivela kubo bonke abasendlini."
+  - "Lapho ukukhetha phakathi kwezimpendulo kuba nzima, shintshela emibuzweni ethi lokhu noma lokhoya engenampendulo efanele."
 faq:
-  - q: "Ingabe i-trivia ingumsebenzi omuhle wabantu abaphila ne-dementia?"
-    a: "Ingaba njalo, uma iqhutshwa ngobumnene. I-Alzheimer's Foundation of America ibala i-trivia phakathi kwemisebenzi yesigaba sokuqala. Gcinani imibuzo ezihlokweni ezijwayelekile kudala, nikeze izinketho, ningabeki umuntu oyedwa esimweni esinzima, futhi nithathe izimpendulo njengendlela yokungena engxoxweni hhayi njengokuhlolwa."
-  - q: "Yiziphi izihloko ezisebenza kahle kakhulu ku-trivia ye-dementia?"
-    a: "Izinto ezafundwa kudala zivame ukusebenza kahle kakhulu: izingoma nabaculi ababethandwa ebusheni bomuntu, izisho ezijwayelekile, izinsuku ezikhethekile, ukudla, ezemidlalo, nempilo yansuku zonke yeminyaka edlule. Gwemani izindaba zamuva nanoma yini edinga ukukhumbula okuthile okwenzeke ekuqaleni kwalo mhlangano."
-  - q: "Ngiyiqhuba kanjani i-trivia ekhaya lokunakekela ngaphandle kokuhlazisa muntu?"
-    a: "Fundani umbuzo ngamunye eqenjini lonke, khombisani noma nisho izinketho, futhi namukele izimpendulo kunoma ubani. Ningabizi abantu ngabanye noma nibale amaphuzu. Shoni impendulo nimamatheka noma yini eyaqagelwa, futhi nibuze umbuzo olandelayo onjengokuthi “Ubani lapha owake wadansa emshadweni?” ukuze kube yizindaba."
-  - q: "Yini engayenza esikhundleni se-trivia ezigabeni zangemuva?"
-    a: "Shintshelani emibuzweni engenampendulo engalungile, njengokuthi “Ikhofi noma itiye?” noma “Ibhishi noma izintaba?”, nasekuqedeni ndawonye izisho nezingoma ezijwayelekile. Ukubuka izithombe nokuzichaza ndawonye nakho kusebenza kahle."
+  - q: "Ingabe imibuzo yokuzilibazisa iwumsebenzi omuhle kubantu abaphila nokuwohloka komqondo?"
+    a: "Kungaba njalo, uma yenziwa ngobumnene. I-Alzheimer's Foundation of America ibala imibuzo yokuzilibazisa phakathi kwemisebenzi yesigaba sokuqala. Gcina imibuzo ezihlokweni ezijwayeleke kudala, nikeza izinketho, ungabeki umuntu oyedwa esimweni esinzima, futhi uphathe izimpendulo njengendlela yokuqala ingxoxo kunokuhlolwa."
+  - q: "Yiziphi izihloko ezisebenza kangcono emibuzweni yabantu abaphila nokuwohloka komqondo?"
+    a: "Izinto ezifundwe kudala zivame ukusebenza kangcono: izingoma ezidumile nabaculi besikhathi sobusha bomuntu, izisho ezijwayelekile, amaholide, ukudla, ezemidlalo, nempilo yansuku zonke njengokulethwa kobisi nezingcingo eziphendulwa ngesondo. Gwema izindaba zakamuva nanoma yini edinga ukukhumbula okuthile okwenzeke ekuqaleni kwesikhathi somsebenzi."
+  - q: "Ngiyenza kanjani imibuzo ekhaya lokunakekela noma eqenjini ngaphandle kokuhlaza muntu?"
+    a: "Funda umbuzo ngamunye kulo lonke iqembu, khombisa noma usho izinketho, futhi wamukele izimpendulo ezivela kunoma ubani. Ungabizi abantu ngabanye noma ugcine amaphuzu. Isho impendulo ngokumamatheka noma ngabe kuqagelwe ini, bese ubuza umbuzo olandelayo ofana nokuthi «Ubani lapha owake waya endaweni yokubukela amafilimu emotweni?» ukuze uguqule kube izindaba."
+  - q: "Yini engingayenza esikhundleni semibuzo ezigabeni zakamuva?"
+    a: "Shintshela emibuzweni engenampendulo engalungile, enjengokuthi «Ikhofi noma itiye?» noma «Ulwandle noma izintaba?», nasekuqedeni ndawonye izisho noma izingoma ezijwayelekile. Ukubuka izithombe ndawonye nokuzichaza nakho kusebenza kahle."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -47,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-I-trivia ingenye yemisebenzi yeqembu ecelwa kakhulu emakhaya okunakekela nasezinhlelweni zasemini, futhi imindeni eminingi iyidlala nasetafuleni lasekhishini. Uma iqhutshwa ngendlela evamile, ngamaphuzu nomuntu oyedwa ephendula, ingenza umuntu one-dementia azizwe ebekwe esimweni esinzima. Uma iqhutshwa ngobumnene, iyindlela ejabulisayo yokuzwa izindaba. Ngezansi kunemibuzo elula engu-50 enezinketho zezimpendulo nento ekhulunywa ngayo ngombuzo ngamunye, kulandele indlela yokuqhuba umhlangano.
+Imibuzo yokuzilibazisa ingomunye wemisebenzi ecelwa kakhulu emaqenjini asezindlini zokunakekela nasezinhlelweni zasemini, futhi imindeni eminingi iyidlala nasetafuleni lasekhishini. Uma yenziwa ngendlela evamile, enamaphuzu nomuntu oyedwa ophendulayo, ingenza umuntu ophila nokuwohloka komqondo azizwe ebekwe esimweni esinzima. Uma yenziwa ngobumnene, iba indlela ethokozisayo yokuzwa izindaba. Ngezansi kunemibuzo engamashumi amahlanu elula enezinketho zezimpendulo nento ongaxoxa ngayo ngombuzo ngamunye, kulandelwe indlela yokuqhuba isikhathi somsebenzi.
 
-## Niyenza kanjani i-trivia isebenzele umuntu one-dementia?
+## Ungayenza kanjani imibuzo isebenzele umuntu ophila nokuwohloka komqondo?
 
-Yenzani ibe ngokwaziwa nokukhumbula izinto zakudala, futhi nenze yonke impendulo yamukeleke.
+Yenza kube mayelana nokubona nokukhumbula izinto zakudala, futhi wenze impendulo ngayinye yamukeleke.
 
-1. **Buzani ngesikhathi esidlule kakhulu.** I-[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ithi uphawu lokuqala oluvame kakhulu lwe-Alzheimer's ukuthola kunzima ukukhumbula ulwazi olusha. Izingoma, izisho nempilo yansuku zonke yamashumi eminyaka edlule kuvame ukuba yisisekelo esilula.
-2. **Njalo nikezani izinketho.** Ukukhetha impendulo efanele phakathi kwezimbili noma ezintathu kulula kakhulu kunokuyiqamba ungenalutho.
-3. **Fundani imibuzo ngokuzwakalayo futhi niyikhombise inkulu.** Ibhodi elimhlophe noma ithebhulethi ephakanyisiwe kusiza abantu abangezwa kahle.
-4. **Nikezani impendulo ngokukhululeka.** Uma kungekho owaziyo, yishoni ngokufudumala niqhubeke. Ningalokothi nithi “Yeka, uyayazi lena.”
-5. **Akukho maphuzu.** Hhayi ngabantu ngabanye futhi hhayi ngamatafula. Uma abantu befuna inombolo, gcinani inombolo eyodwa yeqembu lonke.
-6. **Ningabizi umuntu oyedwa.** Vumelani izimpendulo zivele kunoma ubani. Uma niseqenjini lamabili, phendulani ndawonye: “Ngicabanga ukuthi yipiyano. Nicabangani nina?”
-7. **Sebenzisani into ekhulunywa ngayo.** Impendulo iyisiqalo, hhayi isiphetho. Izindaba yiyo inhloso yangempela.
-8. **Yenzani kube kufushane.** Imibuzo engu-10 enezindaba phakathi kwayo iyanele.
+1. **Buza ngekusasa elidlule.** I-[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ithi uphawu lokuqala oluvame kakhulu lwe-Alzheimer's inkinga yokukhumbula ulwazi olusanda kufundwa. Izingoma, izisho nempilo yansuku zonke yasemashumini eminyaka adlule kuvame ukuba lula ukukhuluma ngakho.
+2. **Njalo nikeza izinketho.** Ukukhetha impendulo efanele kwezimbili noma ezintathu kulula kakhulu kunokuveza impendulo ungenalo usizo.
+3. **Funda imibuzo ngokuphimisela futhi uyikhombise ngokucacile.** Ibhodi elimhlophe noma ithebhulethi ephakanyisiwe kusiza abantu abangezwa kahle.
+4. **Nikeza impendulo ngokukhululeka.** Uma kungekho owaziyo, yisho ngomusa bese uqhubeka. Ungasho ukuthi «Hawu, uyakwazi lokhu.»
+5. **Awekho amaphuzu.** Hhayi kubantu ngabanye futhi hhayi ematafuleni. Uma abantu befuna inombolo, gcina isamba seqembu lonke.
+6. **Ungalokothi ubize umuntu oyedwa.** Vumela izimpendulo zivela kunoma ubani. Uma ninobabili nje, phendulani ndawonye: «Ngicabanga ukuthi upiyano. Wena ucabangani?»
+7. **Sebenzisa iphuzu lengxoxo.** Impendulo iyisiqalo, hhayi isiphetho. Izindaba ziyinjongo yangempela.
+8. **Gcina isikhathi sifushane.** Imibuzo eyishumi enezindaba phakathi kwayo yanele.
 
-I-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ibeka umthetho oyinhloko ngokulula: qaphelani ukucasuka futhi niqinisekise ukuthi umuntu uzizwa ephumelele. I-[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ibala i-trivia phakathi kwemisebenzi yesigaba sokuqala. Esigabeni esiphakathi, hlalani ezinketheni ezimbili futhi nikhulume kakhulu ngezinto ezixoxwayo. Kamuva, shintshelani emibuzweni ethi lokhu-noma-lokhu engezansi.
+I-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ibeka umthetho oyinhloko kalula: qaphela ukukhungatheka futhi uqiniseke ukuthi umuntu uzizwa ephumelela. I-[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ibala imibuzo yokuzilibazisa phakathi kwemisebenzi yesigaba sokuqala. Esigabeni esimaphakathi, gcina izinketho ezimbili futhi uncike kakhulu emaphuzwini engxoxo. Kamuva, shintshela emibuzweni ethi lokhu noma lokhoya engezansi.
 
-## Imibuzo yomculo nokuzijabulisa
+## Imibuzo ngomculo nokuzijabulisa
 
-Impendulo ibhalwe **ngohlamvu olugqamile**. Yilungiseleleni lokhu umuntu: umuntu owakhula nohlobo oluthile lomculo uzofuna abaculi abahlukile kunalowo owakhula nolunye.
+Impendulo ibhalwe **ngokugqamile**. Lungisa le mibuzo ivumelane nomuntu: umuntu okhule elalela i-Motown angadinga abaculi abahlukene kunomuntu okhule elalela amaqembu amakhulu omculo.
 
-| Umbuzo | Izinketho | Okuxoxwa ngakho |
+| Umbuzo | Izinketho | Xoxa ngalokhu |
 | --- | --- | --- |
-| Ngubani obizwa ngokuthi “uMama Africa”? | **uMiriam Makeba**, uBrenda Fassie, uLetta Mbulu | Iyiphi ingoma yakhe eniyikhumbulayo? |
-| Ngubani oculile ingoma ethi “Weekend Special”? | uMiriam Makeba, **uBrenda Fassie**, uHugh Masekela | Nayizwa kuphi okokuqala le ngoma? |
-| Ngubani owaholela iqembu i-Ladysmith Black Mambazo? | uJohnny Clegg, **uJoseph Shabalala**, uHugh Masekela | Beniculela kuphi ndawonye? |
-| Ngubani oculile ingoma ethi “Asimbonanga”? | **uJohnny Clegg**, uHugh Masekela, uJoseph Shabalala | Yini eniyikhumbulayo ngale ngoma? |
-| Ngubani owaqamba iculo elithi “Nkosi Sikelel' iAfrika”? | **uEnoch Sontonga**, uJoseph Shabalala, uMiriam Makeba | Beniliculela kuphi iculo? |
-| UHugh Masekela wayedlala yiphi insimbi? | **I-trumpet**, isigubhu, ipiyano | Ubani emndenini wenu owayedlala insimbi? |
-| Iyiphi insimbi enezikhiye ezingu-88? | Igitari, **ipiyano**, i-trumpet | Ubani emndenini wenu owayedlala? |
-| Iyiphi into edlalwa ngezandla noma ngezinduku emidansweni? | **Isigubhu**, isipuni, isihlalo | Beniyidansela kuphi? |
-| Yiliphi idansi elibalwa kanje: kunye-kubili-kuthathu, kunye-kubili-kuthathu? | **I-waltz**, i-twist, i-tango | Beniyidansa kuphi? |
-| Iqembu labantu abahlabelela ndawonye libizwa ngokuthi... | **Ikhwaya**, isitolo, isikole | Ubani owake wahlabelela ekhwayeni? |
+| Ubani owayebizwa ngeNkosi ye-Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Wake wambona u-Elvis ku-TV? |
+| Yimuphi umculi owayebizwa ngo-Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Iyiphi ingoma ka-Sinatra oyithanda kakhulu? |
+| U-Bing Crosby wayephupha ngekhrisimusi... | **Emhlophe**, yomshado, yendlu | Culani umugqa owodwa ndawonye |
+| U-Louis Armstrong wacula ethi «What a Wonderful...» | Day, **World**, Life | Yini eyenza umhlaba ube muhle kuwe? |
+| «Over the Rainbow» yaculwa ngu-Judy Garland kuyiphi ifilimu? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Wawubukela kuphi amafilimu owathandayo? |
+| Ubani owayedlala indawo ka-Lucy ku-«I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Yiziphi izinhlelo umndeni wakho owawuzibukela ndawonye? |
+| Yimuphi umlingisi wezindaba zama-cowboy owayegibela ihhashi elibizwa ngo-Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Wawudlala ama-cowboy useyingane? |
+| Ubani owayengumsingathi we-«The Tonight Show» iminyaka engama-30? | Ed Sullivan, **Johnny Carson**, Bob Hope | Wawuhlala uphapheme kuze kube sebusuku ubukele i-TV? |
+| Yisiphi isinsimbi somculo esinezinkinobho ezingama-88? | Isiginci, **upiyano**, icilongo | Ukhona yini emndenini wakho owayedlala isinsimbi yomculo? |
+| Umdanso obalwa ngokuthi kunye-kubili-kuthathu, kunye-kubili-kuthathu yimuphi? | **I-Waltz**, i-twist, i-tango | Wawuyaphi ukuyodansa? |
 
-Ukuthola okwengeziwe ngomculo, bhekani [imisebenzi yomculo ye-dementia](/activities/music/).
+Ukuze uthole okwengeziwe ngomculo, bheka [imisebenzi yomculo yabantu abaphila nokuwohloka komqondo](/activities/music/).
 
-## Imibuzo yempilo yansuku zonke
+## Imibuzo ngempilo yansuku zonke
 
-| Umbuzo | Izinketho | Okuxoxwa ngakho |
+| Umbuzo | Izinketho | Xoxa ngalokhu |
 | --- | --- | --- |
-| Yini esetshenziselwa ukukhukhula? | **Umshanelo**, isipuni, ibhodwe | Ubani owayekhukhula ekhaya lenu? |
-| Yini esetshenziselwa ukuthunga? | **Inaliti nentambo**, isando, isitsha | Ubani owayethunga emndenini wenu? |
-| Ubisi oluvame ukuphuzwa luvela kuphi? | **Enkomeni**, enkukhwini, enjeni | Beninazo izinkomo ekhaya? |
-| Yini esetshenziselwa ukubona isikhathi? | **Iwashi**, isipuni, isikhwama | Ubani emndenini wenu owayenewashi? |
-| Yini esetshenziswa izingane ukubhala esikoleni? | **Ipensela**, isipuni, ibhulukwe | Beniya kanjani esikoleni? |
-| Imali yeNingizimu Afrika ibizwa ngokuthi... | **Irandi**, idola, iphawundi | Yini eniyikhumbulayo eyayithengwa ngemali encane? |
-| Umbala wesibhakabhaka ngosuku olucacile uyini? | **Okwesibhakabhaka**, obomvu, omnyama | Ngezinsuku ezicacile, yini enithanda ukuyenza ngaphandle? |
-| Zingaki izinsuku eziseviki elilodwa? | Ezi-5, **ezi-7**, ezi-10 | Yiluphi usuku olukhethekile emndenini wenu? |
-| Yiluphi usuku olulandela uMsombuluko? | **uLwesibili**, uMgqibelo, iSonto | Yiluphi usuku oluthandwa kakhulu ekhaya? |
-| Zingaki izinyanga eziphelele onyakeni? | 10, **12**, 14 | Iyiphi inyanga yenu yokuzalwa? |
-| Ngaphambi kukagesi, abantu abaningi babepheka ngani? | **Ngezinkuni**, ngamanzi, ngepulasitiki | Ubani owayeqoqa izinkuni? |
+| Ngaphambi kweziqandisi, amakhaya amaningi ayegcina ukudla kubanda... | **Ebhokisini leqhwa**, ehhavini, esitezi esiphezulu sendlu | Ubani owayeletha iqhwa? |
+| Ubani owayeletha ubisi emnyango ngamabhodlela engilazi? | Umuntu weposi, **umuntu wobisi**, umfana wamaphephandaba | Yini enye eyayilethwa endlini? |
+| Wawushaya kanjani ucingo oluphendulwa ngesondo? | Ngokucindezela izinkinobho, **ngokujikelezisa isondo**, ngokukhuluma nalo | Ngitshele ngocingo olwalusendlini yenu |
+| Iyiphi inkampani eyenza imoto i-Model T? | **Ford**, Chevrolet, Buick | Ngitshele ngemoto owawuyithanda |
+| Wawungamthola kuphi umuntu othengisa iziphuzo ezibandayo esikhungweni sokuphuza? | **Esikhungweni seziphuzo**, ebhikawozi, ebhange | Wawuthenga ini ekhawunteni? |
+| Yiliphi ithoyizi eliyintwasahlobo yensimbi elikwazi ukwehla ngezitebhisi? | I-yo-yo, **i-Slinky**, i-hula hoop | Yimaphi amathoyizi owawuwathanda? |
+| I-drive-in kwakuyindawo yokubukela... | **Amafilimu usemotweni yakho**, imidlalo yebhola, imibukiso | Wawuhamba nobani? |
+| Ubuso bukabani obusemalini yedola elilodwa? | Lincoln, **George Washington**, Jefferson | Idola lalithenga ini ngaleso sikhathi? |
+| Ubuso bukabani obusemalini yepeni? | **Abraham Lincoln**, Washington, Franklin | Wawugcina amapheni ebhodweni ngaleso sikhathi? |
+| Ibhasi lesikole livame ukuba nawuphi umbala? | Obomvu, **ophuzi**, oluhlaza okwesibhakabhaka | Wawuya kanjani esikoleni? |
 
-## Izinsuku ezikhethekile, imvelo nezindawo
+## Amaholide, imvelo nezindawo
 
-| Umbuzo | Izinketho | Okuxoxwa ngakho |
+| Umbuzo | Izinketho | Xoxa ngalokhu |
 | --- | --- | --- |
-| UKhisimusi ugujwa kuyiphi inyanga? | Juni, **Disemba**, Mashi | Beniwugubha kanjani ekhaya? |
-| Unyaka omusha uqala kuyiphi inyanga? | **Januwari**, Julayi, Okthoba | Beniwuhlangabeza kanjani unyaka omusha? |
-| Inyosi ikhiqiza ini? | Ubisi, **uju**, indwangu | Uju esinkwini noma etiyeni? |
-| Umntwana wenkomo ubizwa ngokuthi... | Iwundlu, **ithole**, imbuzi | Ake nixoxe ngento eniyikhumbulayo ngezinkomo |
-| Iyiphi imbali ende, ephuzi eyaziwa ngokujikela elangeni? | Irozi, **imbali yelanga**, i-tulip | Yini eyayikhula engadini yenu? |
-| Onyakeni we-leap year kunezinsuku ezingaki? | 365, **366**, 360 | Ake nixoxe ngosuku lokuzalwa enilukhumbulayo |
-| Yisiphi isizini esilandela ubusika? | Ikwindla, **intwasahlobo**, ihlobo | Yisiphi isizini eniyithanda kakhulu? |
-| Yisiphi isizini esilandela ihlobo? | **Ikwindla**, intwasahlobo, ubusika | Yini eyayenziwa ekhaya ngalesi sikhathi? |
-| Yiluphi ulwandle olusempumalanga yeNingizimu Afrika? | Ulwandle lwe-Atlantic, **ulwandle lwe-Indian**, ulwandle lwe-Arctic | Nake naya olwandle? |
-| Imvula iwa isuka kuphi? | Ezintabeni, **emafini**, emhlabathini | Beniyilindela imvula ekhaya? |
-| Ilanga liphuma ngakuphi? | Entshonalanga, **empumalanga**, enyakatho | Beniphaphama ekuseni nini? |
-| Yisiphi isilwane esikhulu kunazo zonke emhlabeni? | Imbuzi, **indlovu**, inja | Nake nabona indlovu? |
-| Yisiphi isilwane esinemichilo emnyama nemhlophe? | **Idube**, inkomo, imvu | Nake nabona idube? |
-| Ngubani inkosi eyakha amaZulu aba umbuso omkhulu? | **uShaka kaSenzangakhona**, uMzilikazi, uMoshoeshoe | Yini eniyikhumbulayo eniyitshelwa ngaye ekhaya? |
+| Yiliphi iholide elingolwesine lwangoLwesine kuNovemba? | Labor Day, **Thanksgiving**, Memorial Day | Kwakuhlale kunani etafuleni lenu? |
+| Amalambu enziwe ngamathanga enzelwa liphi iholide? | **I-Halloween**, i-Easter, uKhisimusi | Ngitshele nge-Halloween lapho wawukhulela khona |
+| Usuku lwesine kuJulayi lugubha isimemezelo se... | Amalungelo, **Nkululeko**, Inkululeko | Wawubukela kuphi iziqhumane? |
+| Usuku Lomama lungayiphi inyanga? | Ngo-Ephreli, **ngoMeyi**, ngoJuni | Umndeni wakho wawugubha kanjani? |
+| Zingaki izinkanyezi ezifulegeni laseMelika? | 48, **50**, 52 | Ifulegi lalinazo izinkanyezi ezingama-48 kwaze kwaba ngu-1959. Noma iyiphi impendulo iyinkumbulo enhle |
+| Yiluphi ulwandle olusogwini oluseMpumalanga? | Pacific, **Atlantic**, Arctic | Wake waya olwandle? |
+| Isithombe se-Statue of Liberty sikuliphi idolobha? | Boston, **New York**, Philadelphia | Wake waya eNew York? |
+| Izinyosi zenzani? | Ubisi, **uju**, usilika | Uju esinkweni noma etiyeni? |
+| Inkonyane yenkomo ibizwa ngokuthini? | Ifole lehhashi, **ithole**, inzinyane yembuzi | Wake wahlala eduze nepulazi? |
+| Yimuphi imbali ende ephuzi edume ngokuphendukela elangeni? | Irozi, **u-sunflower**, i-tulip | Kwakukhula ini engadini yenu? |
+| Zingaki izinsuku onyakeni wokweqa? | 365, **366**, 360 | Ngitshele ngosuku lokuzalwa olukhumbulayo |
+| Yisiphi isikhathi sonyaka esiza ngemva kobusika? | Ikwindla, **intwasahlobo**, ihlobo | Yisiphi isikhathi sonyaka osithanda kakhulu? |
 
-## Imibuzo yokudla nezemidlalo
+## Imibuzo ngokudla nezemidlalo
 
-| Umbuzo | Izinketho | Okuxoxwa ngakho |
+| Umbuzo | Izinketho | Xoxa ngalokhu |
 | --- | --- | --- |
-| Ama-raisin ayizithelo ezomisiwe zini? | Amaplamu, **amagilebhisi**, ama-cherry | Ubani emndenini wenu owayewathanda? |
-| Umphokoqo yini? | **Impuphu yommbila enamasi**, inyama ethosiwe, isaladi | Ubani owayeyipheka emndenini wenu? |
-| Amasi enziwa ngani? | Amanzi, **ubisi**, uju | Beniwadla nani amasi? |
-| Amaqanda avela kuphi? | **Enkukhwini**, enkomeni, enjeni | Beninazo izinkukhu ekhaya? |
-| Itiye lenziwa ngani? | **Ngamaqabunga etiye**, ngamatshe, ngothuli | Beniliphuza kanjani itiye lenu? |
-| Isinkwa senziwa ngani? | **Ngufulawa**, ngamanzi kuphela, ngamatshe | Ubani owayebhaka ekhaya? |
-| Iphalishi lenziwa ngani? | **Ngempuphu yommbila**, ngoshukela, ngamaqanda | Beniliyidla nani iphalishi? |
-| Bangaki abadlali eqenjini ngalinye lebhola likanobhutshuzwayo egcekeni? | 7, **11**, 15 | Beniyisekela liphi iqembu? |
-| I-Bafana Bafana liyiqembu likazwelonke lebhola leliphi izwe? | **iNingizimu Afrika**, iGhana, iZimbabwe | Nake nabuka umdlalo webhola? |
-| Ibhola likanobhutshuzwayo lidlalwa kakhulu ngani? | **Ngezinyawo**, ngezandla, ngamehlo | Ubani owayedlala ibhola ekhaya? |
+| Amagilebhisi omisiwe enziwa ngamagilebhisi... | Amaplamu, **amagilebhisi**, amacherry | Wawufaka amagilebhisi omisiwe emaphaketheni okudla kwasemini? |
+| Ama-prune amaplamu... | **Amaplamu omisiwe**, amakhiwane, ama-apula | Ubani emndenini wakho owayethanda ama-prune? |
+| Ibhotela lamakinati ne... | **Ujeli**, ushizi, ihemu | Okunamakinati noma okubushelelezi? |
+| I-guacamole yenziwa kakhulu nge... | Uphizi, **u-avocado**, ukhukhamba | Yiziphi izitsha zokudipha ezaziphuma emaphathini? |
+| Yiliphi uphaya oluthandwa kakhulu nge-Thanksgiving? | **Uphaya lethanga**, elikalemon, lama-cherry | Yiliphi uphaya owawulenza? |
+| Bangaki abadlali beqembu le-baseball abasenkundleni? | 7, **9**, 11 | Yiliphi iqembu owawulisekela? |
+| Mangaki ama-strike enza umuntu aphume ku-baseball? | Amabili, **amathathu**, amane | Wake wadlala ibhola? |
+| U-Babe Ruth wayedume ngaluphi uhlobo lomdlalo? | Isibhakela, **i-baseball**, igalofu | Wake waya emidlalweni yebhola? |
+| Zingaki izimbobo ezikhona enkundleni yegalofu evamile? | 9, **18**, 24 | Wake wadlala igalofu, noma i-mini golf? |
+| Kumuphi umdlalo lapho uthola khona i-touchdown? | **Ibhola lezinyawo laseMelika**, i-hockey, i-basketball | Ubani owayebukela ibhola lezinyawo laseMelika endlini yenu? |
 
 ## Izisho ezijwayelekile
 
-Ukuqeda isisho kusebenzisa ulimi olwafundwa kudala futhi kuvame ukuba lula. Umdlalo wethu [Qeda isisho](/games/finish-the-saying/) unaso eziningi kakhulu, ngokuthinta ukukhombisa noma yisiphi isiphetho.
+Ukuqedela isisho kusebenzisa ulimi olufundwe kudala futhi kuvame ukuza kalula. Umdlalo wethu othi [Qedela isisho](/games/finish-the-saying/) unezinye izisho eziningi, ngokuthepha ukuze ubone isiphetho.
 
-| Isisho | Izinketho | Okuxoxwa ngakho |
+| Isisho | Izinketho | Xoxa ngalokhu |
 | --- | --- | --- |
-| Umuntu ngumuntu... | **ngabantu**, ngemali, ngezinkomo | Ubani owakusho lokhu kini? |
-| Inkosi yinkosi... | **ngabantu**, ngezinkomo, ngolwandle | Ubani owayehlonishwa emphakathini wenu? |
-| Indlela ibuzwa... | **kwabaphambili**, ezinkomeni, ezinyonini | Ubani owayeniqondisa ekhaya? |
-| Izandla... | **ziyagezana**, ziyadlala, ziyalala | Ubani owayenisiza emsebenzini? |
-| Ingane engakhali... | **ifela embelekweni**, iyadansa, iyaculela | Ubani owayenibeleka ekhaya? |
+| I-apula ngosuku elilodwa ligcina... | **Udokotela kude**, imvula kude, ikati kude | Ubani owayevame ukukutshela lokhu? |
+| Inyoni evuka ekuseni ibamba... | Ibhasi, **isibungu**, isitimela | Ungumuntu wasekuseni? |
+| Ungawabali amachwane ezinkukhu ngaphambi kokuba... | **Achanyuselwe**, alale, acule | Umndeni wakho wawugcina izinkukhu? |
+| Ipeni eligciniwe liyipeni... | **Elizuzekile**, elilahlekile, elisetshenzisiwe | Ubani emndenini wakho owayonga imali? |
+| Ikhaya yilapho... | Ingadi ikhona, **inhliziyo ikhona**, ikhishi likhona | Yini eyenza indawo izwakale iyikhaya? |
+| Kungcono ukufika sekwephuzile kunoku... | Fika kusenesikhathi, **ngalokothi ungafiki**, uxolise | Ubani owayevame ukufika sekwephuzile? |
+| Lonke ifu linomphetho we... | **Siliva**, sipuni, uhlamvu lwemali | Ngitshele ngenhlanhla owake wayithola |
+| Izenzo zikhuluma kakhulu kuno... | **Mazwi**, mculo, ukuduma kwezulu | Ngitshele ngomuntu owayesho lokho |
 
-## Imibuzo ethi lokhu-noma-lokhu engenampendulo engalungile
+## Imibuzo ethi lokhu noma lokhoya engenampendulo engalungile
 
-Lemibuzo ifanele zonke izigaba, kuhlanganise nezangemuva, ngoba akukho lutho okufanele lulunge. Buzani, nilalele, futhi nabelane ngempendulo yenu nani.
+Le mibuzo ifanele zonke izigaba, kuhlanganise nezakamuva, ngoba ayikho impendulo okufanele ibe yiyo efanele. Buza, lalela, futhi wabelane nangempendulo yakho.
 
 - Ikhofi noma itiye?
-- Ibhishi noma izintaba?
+- Ulwandle noma izintaba?
 - Izinja noma amakati?
 - Ihlobo noma ubusika?
-- Ikhekhe noma amadombolo?
-- Ukudansa noma ukubuka?
-- Ukuphuma kwelanga noma ukushona kwelanga?
-- Phambi kwendlu noma ngemuva kwendlu?
+- Uphaya noma ikhekhe?
+- Ukudansa noma ukubukela?
+- Ukuphuma kwelanga noma ukushona kwalo?
+- Uvulandi ongaphambili noma igceke elingemuva?
 - Umsakazo noma amarekhodi?
-- Amaphekeki noma amaqanda?
-- Amarozi noma amadezi?
-- Uhambo ngesitimela noma uhambo ngemoto?
+- Ama-pancake noma amaqanda?
+- Amarosi noma ama-daisy?
+- Uhambo lwesitimela noma uhambo lwemoto?
 
-Ukuthola iziqondiso zengxoxo ezihambisana nezithombe, zamani [Amakhadi engxoxo](/games/conversation-cards/) ethu aphrintekayo.
+Ukuze uthole imibuzo yengxoxo ehambisana nezithombe, zama [amakhadi engxoxo](/games/conversation-cards/) ethu aphrintekayo.
 
-## Niyiqhuba kanjani i-trivia ekhaya lokunakekela noma eqenjini?
+## Usiqhuba kanjani isikhathi semibuzo ekhaya lokunakekela noma eqenjini?
 
-1. **Hlalisani abantu ukuze babone futhi bezwe.** Izinsiza zokuzwa zifakiwe, izibuko zamehlo zigqokiwe, i-TV ivaliwe.
-2. **Yethulani njengengxoxo.** “Nginemibuzo ethile ngezinsuku zakudala, futhi ngicabanga ukuthi nazi ngaphezu kwami.”
-3. **Fundani umbuzo ngamunye kabili futhi nikhombise izinketho zinkulu.**
-4. **Namukelani izimpendulo kunoma yiphi indawo egumbini.** Phindani izimpendulo ezinhle ukuze wonke umuntu azizwe.
-5. **Shoni impendulo wonke umuntu,** bese nibuza into ekhulunywa ngayo egumbini.
-6. **Landelani amandla.** Uma umbuzo owodwa uqala imizuzu engu-10 yezindaba, yivumeleni.
-7. **Phetheni ngengoma noma umjikelezo wokuthi lokhu-noma-lokhu,** ukuze wonke umuntu aphethe ngento elula.
+1. **Hlalisa abantu ukuze bakwazi ukubona nokuzwa.** Izinsiza zokuzwa zifakiwe, izibuko zokubona zikhona, i-TV ivaliwe.
+2. **Yethula njengengxoxo.** «Nginemibuzo ethile ngezinsuku zakudala, futhi ngiyazi ukuthi nazi okuningi kunami.»
+3. **Funda umbuzo ngamunye kabili futhi ukhombise izinketho ngokucacile.**
+4. **Yamukela izimpendulo ezivela noma yikuphi egumbini.** Phinda izimpendulo ezinhle ukuze wonke umuntu ezwe.
+5. **Isho impendulo ukuze wonke umuntu ezwe,** bese ubuza iphuzu lengxoxo egumbini lonke.
+6. **Landela umoya weqembu.** Uma umbuzo owodwa uqala izindaba zemizuzu eyishumi, kuvumele.
+7. **Qeda ngengoma noma ngomzuliswano wemibuzo ethi lokhu noma lokhoya,** ukuze wonke umuntu aqede ngento elula.
 
-Ukuthola ezinye izindlela zeqembu, kuhlanganise ne-bingo yezithombe nokuhlabelelana, bhekani [imisebenzi yeqembu yamakhaya okunakekela](/activities/care-home-groups/).
+Ukuze uthole ezinye izindlela zamaqembu, kuhlanganise ne-picture bingo nokucula ndawonye, bheka [imisebenzi yamaqembu ezindlini zokunakekela](/activities/care-home-groups/).
 
-## Nini okufanele nishintshe uhlelo
+## Kunini lapho kufanele ushintshe khona uhlelo
 
-Uma umuntu ebonakala ekhathazekile, ethula noma ethi “Angazi” ngaphezu kwekanye, yenzani kube lula: yehlelani ezinketheni ezimbili, phendulani ndawonye, noma nishintshele emibuzweni ethi lokhu-noma-lokhu. Uma iqembu lithanda ukukhuluma ngombuzo owodwa intambama yonke, lokho kuyimpumelelo. Inhloso ayikaze ibe yizimpendulo ezifanele. Kwakuyisikhathi esihle ngenkampani enhle.
+Uma othile ebonakala ekhathazekile, ethula noma ethi «Angazi» ngaphezu kokukodwa, kwenze kube lula: yehlela ezinkethweni ezimbili, phendulani ndawonye, noma shintshela emibuzweni ethi lokhu noma lokhoya. Uma iqembu lithanda ukukhuluma ngombuzo owodwa intambama yonke, lokho kuyimpumelelo. Inhloso kwakungeyona izimpendulo ezifanele. Kwakuyisikhathi esihle senkampani emnandi.

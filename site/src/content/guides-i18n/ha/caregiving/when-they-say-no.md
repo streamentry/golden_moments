@@ -1,34 +1,35 @@
 ---
-title: "Idan Mai Mantuwa Ya Ƙi ko Ya Yi Takaici da Wani Aiki"
-seoTitle: "Idan Mai Mantuwa Ya Ƙi Yin Wani Aiki"
-description: "Dalilin da mai rayuwa da mantuwa zai iya ƙi ko ya yi takaici da wani aiki, abin da za a gwada, abin da za a guji, da lokacin da canji kwatsam ke buƙatar likita."
+title: "Idan Mutum mai Cutar Mantuwa ya Ki ko ya Fusata"
+seoTitle: "Idan Mai Cutar Mantuwa ya Ki Yin Wani Aiki"
+description: "Dalilin da yasa mutum mai fama da cutar mantuwa zai iya ƙin wani aiki ko ya fusata, abin da za ku gwada, abin da za ku guje wa, da lokacin zuwa likita."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Idan mai mantuwa ya ce a’a, ku karɓa cikin natsuwa ku sake gwadawa daga baya
-  ko ku ba da wani abu dabam. Ƙin yin abu sau da yawa yana da dalili: aikin
-  yana jin wuya ko na yara, ya gaji, yana jin ciwo, yunwa, ko hayaniya ta
-  ɗaure masa kai. Kada ku yi jayayya ko ku tilasta. Ku sauƙaƙa, ku ba da
-  zaɓuɓɓuka biyu, ko ku nemi taimakonsa. Hali da ya canza kwatsam ko da sauri,
-  musamman bayan kamuwa da cuta ko sabon magani, yana buƙatar likita da wuri.
+  Idan mutum mai fama da cutar mantuwa ya ce a’a, ku karɓi hakan a hankali
+  sannan ku sake gwadawa daga baya ko ku ba shi wani abu daban. Sau da yawa
+  ƙin yin abu yana da dalili: aikin yana da wuya ko yana kama da na yara, ya
+  gaji, yana jin zafi, yana jin yunwa, ko hayaniya ta yi masa yawa. Kada ku yi
+  jayayya ko ku tilasta shi. Ku sauƙaƙa aikin, ku ba shi zaɓi biyu, ko ku roƙe
+  shi ya taimake ku. Canjin hali na kwatsam ko mai saurin faruwa, musamman
+  bayan kamuwa da cuta ko sabon magani, yana buƙatar ganin likita cikin gaggawa.
 keyPoints:
-  - "“A’a” amsa ce da ya kamata a mutunta, ba matsala da za a cire ba."
-  - "Ƙi yawanci yana da dalili: yana da wuya, na yara ne, ya gaji, bai da lafiya, ba shi da daɗi, ko hayaniya ta ɗaure masa kai."
-  - "Ku ja da baya, ku jira, ku sake gwadawa daga baya, a wani lokaci dabam, ko da sigar da ta fi sauƙi."
-  - "Neman taimakonsa yana aiki fiye da neman ya nuna ƙwarewa."
-  - "Kada ku yi jayayya, ku tilasta, ku yi masa tambayoyi ko ku gyara shi. Ku duba kanku don gaggawa ko cunkoso."
-  - "Hali da ya canza kwatsam ko da sauri, musamman tare da kamuwa da cuta ko sababbin magunguna, a kai shi wurin likita nan take."
+  - "Kalmar “a’a” amsa ce da ya kamata a girmama, ba matsala ce da dole sai an shawo kanta ba."
+  - "Ƙin yin abu yawanci yana da dalili: aiki ya yi wuya, yana kama da na yara, gajiya, rashin lafiya, rashin jin daɗi, ko hayaniya ta yi yawa."
+  - "Ku ja da baya, ku jira, sannan ku sake gwadawa daga baya, a wani lokaci, ko da sauƙaƙƙen siga."
+  - "Neman taimakonsa yakan fi kyau fiye da neman ya nuna wani abu."
+  - "Kada ku yi jayayya, kada ku tilasta, kada ku yi tambayoyi kamar jarabawa ko ku gyara shi. Ku duba kanku kada ku yi gaggawa ko ku matsa masa."
+  - "Canjin hali na kwatsam ko mai saurin canzawa, musamman tare da kamuwa da cuta ko sabbin magunguna, ya kamata a kai ga likita nan da nan."
 faq:
-  - q: "Ko ba laifi a bar su su tsallake ayyuka gaba ɗaya?"
-    a: "Eh, a kowace rana. Zama tare, sauraron kiɗa ko kallon duniya tana wucewa na iya isa. Idan wani ya daina jin daɗin komai a cikin makonni, ku gaya wa likitansa, domin ɓacin rai, ciwo ko wasu matsalolin lafiya na iya zama ɓangare na lamarin."
-  - q: "Me ya sa suke ƙin abubuwan da suka saba so?"
-    a: "Tsohuwar sha’awa na iya zama mai takaici idan yanzu tana buƙatar ƙwarewar da mantuwa ta sa ta yi wuya, kuma mutumin na iya jin kunya. Ku gwada ƙaramin ɓangare mafi sauƙi na aikin ɗaya, kamar rarraba maɓallai maimakon ɗinki, ko kallon hotunan lambu maimakon dasa shuka."
-  - q: "Ko in yi ƙoƙarin shawo kansu?"
-    a: "A’a. Tilasta wa mutum yin abin da mantuwa ta mai da wuya sanannen abin da yake jawo rashin natsuwa ne. Ku karɓi a’a, ku canza batun, ku sake bayarwa daga baya ko ta wata hanya dabam."
-  - q: "Yaushe canjin hali gaggawa ne?"
-    a: "Ku kira lambar gaggawa ta yankinku idan wani yana cikin haɗari ko yana da alamun gaggawa ta likita. Don ruɗewa kwatsam ko hali da yake canzawa da sauri cikin awanni ko kwanaki, musamman tare da zazzaɓi, kamuwa da cuta ko sabon magani, ku tuntuɓi likitansa nan take."
+  - q: "Shin ba laifi ba ne a bar shi ya tsallake ayyuka gaba ɗaya?"
+    a: "Eh, a kowace rana. Zama tare, sauraren kiɗa ko kallon abin da ke faruwa a waje na iya isa. Idan mutum ya daina jin daɗin komai tsawon makonni, ku faɗa wa likitansa, domin rashin jin daɗi, ciwo ko wasu matsalolin lafiya na iya kasancewa cikin lamarin."
+  - q: "Me ya sa yake ƙin abubuwan da ya saba so?"
+    a: "Wani abin sha’awa na dā na iya zama abin takaici idan yanzu yana buƙatar ƙwarewar da cutar mantuwa ta sa suka yi wuya, kuma mutum na iya jin kunya. Ku gwada wani ƙaramin ɓangare na wannan aikin, kamar rarraba maballai maimakon ɗinki, ko kallon hotunan lambu maimakon shuka."
+  - q: "Shin ya kamata in yi ƙoƙarin shawo kansa?"
+    a: "A’a. Tursasa wani ya yi abin da cutar mantuwa ta sa ya yi wuya sanannen abu ne da ke iya haddasa rashin natsuwa. Ku karɓi amsar a’a, ku canja magana, sannan ku sake ba da shawara daga baya ko ta wata hanya dabam."
+  - q: "Yaushe canjin hali ya zama gaggawa?"
+    a: "Ku kira 911 idan wani yana cikin haɗari ko yana da alamun gaggawar likita. Idan akwai rudani na kwatsam ko halin da ke canzawa da sauri cikin sa’o’i ko kwanaki, musamman tare da zazzabi, kamuwa da cuta ko sabon magani, ku tuntuɓi likitansa nan da nan."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Kun shirya komai, kun ba da wasa ko yawo, sai kuka ji “A’a.” Ko kuma aikin ya fara da kyau ya ƙare da tablet da aka tura nesa da kalma mai kaifi. Abin yana karya zuciya, kuma ya zama ruwan dare. Ƙi da takaici yawanci saƙo ne, ba taurin kai ba. Gano mene ne saƙon sau da yawa yana nuna muku abin da za ku gwada a gaba.
+Kun shirya komai, kun ba da shawarar wasa ko yawo, sai kuka ji “A’a.” Ko kuma aikin ya fara lafiya amma ya ƙare da tura kwamfutar hannu gefe da wani magana mai kaifi. Wannan na iya ɓata rai, kuma abu ne da ya zama ruwan dare. Ƙin yin abu da fushi galibi saƙo ne, ba taurin kai ba. Fahimtar menene saƙon sau da yawa yana nuna muku abin da za ku gwada a gaba.
 
-## Me ya sa mai mantuwa yake ƙin ayyuka?
+## Me ya sa mutum mai fama da cutar mantuwa yake ƙin yin ayyuka?
 
-Yawanci akwai dalili, ko da mutumin ba zai iya faɗar sa da kalmomi ba. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ta lura cewa tsayayya na iya nufin mutumin ba zai iya yin aikin ba ko yana tsoron gwadawa. Dalilai na kowa sun haɗa da:
+Yawanci akwai dalili, ko da mutum ba zai iya bayyana shi da kalmomi ba. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ta lura cewa ƙin yin abu na iya nuna cewa mutum ba zai iya yin aikin ba ko yana jin tsoron gwadawa. Dalilai na yau da kullum sun haɗa da:
 
-- **Yana jin wuya.** Aikin yanzu yana buƙatar ƙwarewar da mantuwa ta mai da wuya, kuma kasawa a gaban wani abin kunya ne.
-- **Yana jin na yara ne.** Manya suna lura da hotuna irin na zane-zanen yara, muryoyi masu waƙa da ayyukan da suke kama da an yi su ne ga yara.
-- **Gajiya.** Mutane da yawa suna da ƙarancin kuzari daga baya a rana. Ku duba [ayyuka masu natsuwa na la’asar](/caregiving/late-day-restlessness/).
-- **Rashin jin daɗin jiki.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ta lissafa ciwo, rashin barci, wahalar gani ko ji, rashin iya yin bayan gida (constipation), yunwa, ƙishirwa da illolin sababbin magunguna a matsayin dalilan damuwa masu yiwuwa.
-- **Abubuwa da yawa suna faruwa.** Talabijin mai ƙara, hira da yawa ko ɗaki mai cunkoso na iya ɗaure kai.
-- **Jin ana matsa masa.** NIA ta ambaci tilasta wa mutum yin abin da Alzheimer ta mai da wuya sosai, ko tunawa da abubuwa ko mutane, a matsayin dalilin rashin natsuwa.
-- **Ɓacin rai.** Rasa sha’awar abubuwa na iya zama alamar baƙin ciki mai tsanani (depression), wanda ya cancanci a tayar da shi ga likita.
-- **Kawai ba ya so.** Manya suna da ’yancin cewa a’a.
+- **Yana jin aikin ya yi masa wuya.** Aikin yanzu yana buƙatar ƙwarewar da cutar mantuwa ta sa suka yi wuya, kuma kasa yi a gaban wani abu ne mai kunyata mutum.
+- **Yana jin kamar aikin na yara ne.** Manyan mutane suna lura da hotunan yara, muryoyin waƙa, da ayyukan da suka yi kama da an yi su ne don yara.
+- **Gajiya.** Mutane da yawa suna da ƙarancin kuzari daga baya a rana. Duba [ayyukan kwantar da hankali na ƙarshen rana](/caregiving/late-day-restlessness/).
+- **Rashin jin daɗin jiki.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ta lissafa ciwo, rashin isasshen bacci, matsalar gani ko ji, maƙarƙashiya, yunwa, ƙishirwa da illolin sabbin magunguna a matsayin abubuwan da za su iya haifar da damuwa.
+- **Abubuwa da yawa suna faruwa lokaci ɗaya.** Talabijin mai ƙara, tattaunawa da yawa ko ɗaki cike da mutane na iya zama abin da ya wuce ƙarfi.
+- **Jin ana tursasa shi.** NIA ta ambaci a matsayin dalilin rashin natsuwa: ana tursasa mutum ya yi abin da cutar Alzheimer ta sa ya yi wuya sosai, ko a tuna masa abubuwan da suka faru ko mutane.
+- **Rashin jin daɗi a zuciya.** Rasa sha’awar abubuwa na iya zama alamar baƙin ciki, wanda ya dace a ambata wa likita.
+- **Kawai ba ya so.** Manyan mutane suna da damar cewa a’a.
 
-## Me zan gwada idan sun ce a’a?
+## Me zan gwada idan ya ce a’a?
 
-Ku karɓi a’a cikin natsuwa, sannan ku canza wani abu: lokaci, aiki, wahalar aikin ko yadda kuke tambaya.
+Ku karɓi amsar a’a a hankali, sannan ku canza wani abu: lokaci, aikin, sauƙin aikin ko yadda kuke tambaya.
 
-1. **Ku bar shi a yanzu.** “Ba laifi. Wataƙila daga baya.” Sannan ku ci gaba zuwa wani abu dabam ba tare da nishi ba.
-2. **Ku sake gwadawa daga baya.** Alzheimer’s Association ta ba da shawarar sake gwadawa daga baya, ko a wani lokaci dabam na rana.
-3. **Ku mai da shi ƙarami.** Haɗi ɗaya maimakon wasa gabaɗaya. Tawul ɗaya maimakon kwandon kayan wanki. Ƙananan hotuna, ƙananan zaɓuɓɓuka, hotuna a bar su a bayyane.
-4. **Ku ba da zaɓuɓɓuka biyu.** “Kana so ka duba hotunan tsuntsaye ko ka saurari kiɗa?” Zaɓi yana dawo da jin iko.
-5. **Ku nemi taimako maimakon nuna ƙwarewa.** “Za ka iya taimaka mini in rarraba waɗannan?” ko “Za ka iya gaya mini wane launi ya fi kyau?” Ana buƙatar mutum ya sha bamban da gwada shi.
-6. **Ku fara da kanku.** Ku fara aikin kusa da shi ba tare da tambaya ba. Mutane da yawa suna shiga da zarar wani abu yana faruwa, kuma idan ba su shiga ba, har yanzu kun yi lokaci tare.
-7. **Ku koma wani abu na jiki ko mai kwantar da hankali.** Ɗan yawo kaɗan, kiɗa, abin ciye-ciye, naɗe kayan wanki, ko lokacin [numfashi cikin natsuwa](/games/calm-breathing/) tare. NIA ta ba da shawarar karkatar da hankali zuwa kiɗa, littafi ko yawo.
-8. **Ku bar shi ya yi ta yadda yake so.** Idan yana so ya yi wasa daban da ƙa’idodin, ku bi shi. Alzheimer’s Association ta ba da shawarar a zama mai sassauci.
+1. **Ku bar shi a yanzu.** “Ba komai. Wataƙila daga baya.” Sannan ku ci gaba da wani abu daban ba tare da ajiyar zuciya ba.
+2. **Ku sake gwadawa daga baya.** Alzheimer's Association ta ba da shawarar sake gwadawa daga baya, ko a wani lokaci na rana.
+3. **Ku rage girman aikin.** Daidaitawa ɗaya maimakon wasa gaba ɗaya. Tawul ɗaya maimakon kwandon wanki. Ƙarancin hotuna, ƙarancin zaɓuɓɓuka, barin hotuna a bayyane.
+4. **Ku ba shi zaɓi biyu.** “Kuna so ku kalli hotunan tsuntsaye ko ku saurari kiɗa?” Zaɓi yana mayar da ɗan jin ikon sarrafa abubuwa.
+5. **Ku nemi taimako maimakon nuna ƙwarewa.** “Za ku iya taimaka mini in rarraba waɗannan?” ko “Za ku iya gaya mini wane launi ya fi kyau?” Jin ana buƙatar mutum ya bambanta da jin ana gwada shi.
+6. **Ku fara da kanku.** Ku fara aikin a kusa da shi ba tare da tambaya ba. Mutane da yawa suna shiga idan wani abu ya riga ya fara, idan kuma ba su shiga ba, har yanzu kun yi lokaci tare.
+7. **Ku canza zuwa wani abu na motsa jiki ko na kwantar da hankali.** Ƙaramin yawo, kiɗa, ɗan abun ci, naɗe wanki, ko hutun [numfashi mai kwantar da hankali](/games/calm-breathing/) tare. NIA ta ba da shawarar karkatar da hankali zuwa kiɗa, littafi ko yawo.
+8. **Ku bar shi ya yi ta hanyarsa.** Idan yana son yin abin ta wata hanya dabam da ƙa’idoji, ku bi shi. Alzheimer's Association ta ba da shawarar sassauci.
 
-## Me zan faɗa idan ya yi takaici?
+## Me zan faɗa idan ya fusata?
 
-Ku rage gudu, ku sassauta muryarku kuma ku kwantar masa da hankali. [Jagorar Alzheimer’s Association kan rashin natsuwa](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ta ba da shawarar a ja da baya a nemi izini, a yi amfani da maganganu masu natsuwa da kyau, a kuma ba da zaɓi mai jagora tsakanin abubuwa biyu. Kalmomi irin haka:
+Ku rage sauri, ku saukar da muryarku sannan ku ba shi tabbaci. [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ta ba da shawarar ja da baya da neman izini, amfani da kalmomi masu nutsuwa da kyau, da ba da zaɓi mai sauƙi tsakanin abubuwa biyu. Kalmomi irin waɗannan:
 
-- “Yi haƙuri, wannan yana damun mu. Mu tsaya.”
-- “Kana yi daidai. Ina nan kusa da kai.”
-- “Kana da lokaci ka taimaka mini da wani abu dabam?”
+- “Yi haƙuri, wannan yana damun mutum. Mu daina.”
+- “Kuna yi da kyau. Ina nan tare da ku.”
+- “Kuna da lokaci ku taimake ni da wani abu dabam?”
 - “Mu sha shayi maimakon haka?”
 
-Sannan ku kawo ƙarshen aikin ba tare da mai da shi babban al’amari ba. [Shawarwarinmu kan sadarwa](/caregiving/communication-tips/) suna da ƙarin bayani kan abin da za a faɗa.
+Sannan ku kawo ƙarshen aikin ba tare da kun mayar da shi babban lamari ba. [communication tips](/caregiving/communication-tips/) ɗinmu suna da ƙarin bayani kan abin da za a faɗa.
 
-## Me ya kamata in guji?
+## Me ya kamata in guje wa?
 
-Wasu martani na dabi’a suna ƙara dagula abubuwa.
+Wasu halaye na al’ada na iya ƙara tsananta lamarin.
 
-- **Jayayya ko tilastawa.** “Taho, ɗaya kawai” ko “Kana son wannan” da wuya su taimaka.
-- **Yin tambayoyi ko gyara.** “Ka san mene ne wannan” ko “A’a, wannan ba daidai ba ne” yana ƙara matsi.
-- **Ɗauka da kai.** NIA tana tunatar da masu kulawa cewa cutar ce, ba mutumin ba, ke jawo waɗannan canje-canje.
-- **Cunkoso ko gaggawa.** Alzheimer’s Association ta ba da shawarar kada a ɗaga murya, a nuna tsoro, a mamaye mutum, a cunkushe shi, a riƙe shi da ƙarfi, a zarge shi, a yi watsi da shi ko a yi jayayya da shi, kuma a guji motsi kwatsam a wajen ganinsa.
-- **Amfani da laifi.** “Na shirya maka duk wannan” yana barin ku duka biyu da muni.
-- **Yi masa laƙabi.** “Mai taurin kai” ko “mai wahala” yana ɓoye ainihin dalili kuma yana sa magancewa ya yi wuya.
+- **Yin jayayya ko tilastawa.** “Don Allah, ɗaya kaɗai” ko “Kun fi son wannan” ba su yawan taimakawa.
+- **Tambayoyi kamar jarabawa ko gyarawa.** “Kun san menene wannan” ko “A’a, wannan ba daidai ba ne” yana ƙara matsa lamba.
+- **Ɗaukar lamarin a zuciya.** NIA tana tunatar da masu kulawa cewa cutar ce, ba mutumin ba, ke haifar da waɗannan canje-canje.
+- **Matsa masa ko yin gaggawa.** Alzheimer's Association ta ba da shawarar kada a ɗaga murya, kada a nuna firgici, kada a tare mutum a kusurwa, kada a cika masa sarari, kada a riƙe shi da ƙarfi, kada a soki, kada a yi watsi ko a yi jayayya da shi, kuma a guji motsi na kwatsam daga inda ba ya gani.
+- **Amfani da jin kunya.** “Na shirya duk wannan ne saboda ku” yana barin ku duka cikin rashin jin daɗi.
+- **Lakabi.** Kiran mutum “mai taurin kai” ko “mai wahala” yana ɓoye ainihin dalilin kuma yana sa magance matsalar ta yi wuya.
 
-## Yaya zan gano abin da ke bayan ƙi akai-akai?
+## Ta yaya zan gano abin da ke bayan yawan ƙin yin abu?
 
-Ku riƙe takarda mai sauƙi na mako ɗaya ko biyu. NIA ta ce bibiyar canje-canjen hali na iya taimaka wa masu kulawa da masu ba da kulawar lafiya su gane tsari su gano dalili.
+Ku yi rubutu mai sauƙi na tsawon mako ɗaya ko biyu. NIA ta ce bin diddigin canje-canjen hali na iya taimaka wa masu kulawa da masu ba da lafiya su gane tsari su kuma gano dalilin.
 
 Ku rubuta:
 
 - lokacin rana;
-- abin da kuka bayar da yadda kuka tambaya;
-- abin da yake faruwa a kewaye (hayaniya, baƙi, talabijin);
-- yadda ya yi barci, ya ci ya sha, da lokacin da ya yi amfani da bayan gida na ƙarshe;
-- duk wasu sababbin magunguna ko rashin lafiya na kwanan nan.
+- abin da kuka bayar da kuma yadda kuka tambaya;
+- abin da ke faruwa a kusa da ku (hayaniya, baƙi, talabijin);
+- yadda ya kwana, ya ci da ya sha, da kuma lokacin da ya yi amfani da bayan gida a ƙarshe;
+- duk wani sabon magani ko rashin lafiya na baya-bayan nan.
 
-Tsari yakan bayyana da sauri: ƙin da yake faruwa bayan ƙarfe 4 na yamma kawai, da wani wasa kawai, ko lokacin da talabijin ke kunne kawai. [Jagorar Family Caregiver Alliance kan halayen mantuwa](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ta faɗa a sauƙaƙe: ba za mu iya canza mutumin ba, amma za mu iya canza halinmu da muhalli.
+Sau da yawa tsari yana bayyana da sauri: ƙin yin abu da ke faruwa ne kawai bayan 4 p.m., kawai da wani wasa, ko kawai lokacin da talabijin ke kunne. [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) na Family Caregiver Alliance ya bayyana shi a sauƙaƙe: ba za mu iya canza mutumin ba, amma za mu iya canza halinmu da muhallin da ke kewaye.
 
-## Yaushe zan yi magana da likita game da ƙi ko takaici?
+## Yaushe zan yi magana da likita game da ƙin yin abu ko fushi?
 
-Ku yi magana da likita idan hali ya canza kwatsam, da sauri, ko tare da alamun rashin lafiya. NIA ta ce canje-canjen hali kwatsam ko masu tashi da sauka da sauri, musamman idan mutumin ya yi kamuwa da cuta ko an canza masa magunguna kwanan nan, a kai su ga likita nan take.
+Ku yi magana da likita lokacin da hali ya canza kwatsam, da sauri, ko tare da alamun rashin lafiya. NIA ta ce canje-canjen hali na kwatsam ko masu saurin sauyawa, musamman idan mutumin ya kamu da cuta ko an canza magunguna kwanan nan, ya kamata a sanar da likita nan da nan.
 
-Ku tuntuɓi likitansa da wuri idan kun lura da:
+Ku tuntuɓi likitansa cikin gaggawa idan kun lura da:
 
-- ruɗewa kwatsam ko babban canji cikin awanni ko kwanaki;
-- alamun ciwo, kamar ɗaure fuska, kare wani ɓangare na jiki, ko sabuwar wahalar motsi;
-- zazzaɓi ko wasu alamun kamuwa da cuta;
-- sababbin magunguna ko waɗanda aka canza sannan canjin hali ya biyo baya;
-- rasa sha’awar kusan komai, kuka ko janye jiki da ya shafe fiye da makonni biyu;
-- ƙin abinci ko abin sha.
+- rudani na kwatsam ko babban canji cikin sa’o’i ko kwanaki;
+- alamun ciwo, kamar murtuke fuska, kare wani ɓangare na jiki, ko sabon wahalar motsi;
+- zazzabi ko wasu alamun kamuwa da cuta;
+- sabbin magunguna ko canjin magunguna da canjin hali ya biyo baya;
+- rasa sha’awar kusan komai, hawaye ko janyewa da ya wuce makonni biyu;
+- ƙin ci ko sha.
 
-Alzheimer’s Association tana ba da shawarar cikakken duba lafiya ga duk mai alamomin hali, musamman idan sun bayyana kwatsam. Family Caregiver Alliance ma tana ba da shawarar a tambayi likita tukuna, domin matsalolin hali na iya samun dalilin likita. Kada ku fara, ku daina ko ku canza kowane magani ba tare da yin magana da likita ko mai harhaɗa magunguna ba.
+Alzheimer's Association ta ba da shawarar cikakken binciken likita ga duk wanda ke da alamun hali, musamman idan sun bayyana kwatsam. Family Caregiver Alliance kuma ta ba da shawarar a fara tuntubar likita, domin matsalolin hali na iya samun dalilin lafiya. Kada ku fara, ku daina ko ku canza kowane magani ba tare da magana da likita ko mai ba da magani ba.
 
-Idan wani yana cikin haɗari ko akwai alamun gaggawa ta likita, ku kira lambar gaggawa ta yankinku. NIA ta ba da shawarar a gaya wa mai amsa kiran cewa mutumin yana da mantuwa.
+Idan wani yana cikin haɗari ko akwai alamun gaggawar likita, ku kira 911. NIA ta ba da shawarar gaya wa mai karɓar kiran cewa mutumin yana fama da cutar mantuwa. Don matakan gaggawa na tsaro idan fushi ya zama na jiki, duba [guide to anger and aggression in dementia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Ba laifi ba ne idan ba mu yi komai ba?
+## Shin ba laifi ba ne idan ba mu yi komai ba kwata-kwata?
 
-Eh. Wasu ranaku mafi kyawun aiki shi ne babu aiki: zama tare, riƙe hannu, sauraron faifan da yake so, ko kallon tsuntsaye a waje ta taga. Wannan ba kasawa ba ne. [Jagorarmu kan wasa tare](/caregiving/how-to-play-together/) tana bayani dalilin da tsayawa da wuri, ko rashin fara wa kwata-kwata, zai iya zama yanke shawara mai kyau.
+Eh. Wasu ranaku mafi kyawun aiki shi ne rashin yin wani aiki: zama tare, riƙe hannuwa, sauraren waƙar da aka fi so, ko kallon tsuntsaye ta taga. Wannan ba gazawa ba ce. [guide to playing together](/caregiving/how-to-play-together/) ɗinmu yana bayyana dalilin da ya sa tsayawa da wuri, ko ma rashin farawa, na iya zama shawara madaidaiciya.

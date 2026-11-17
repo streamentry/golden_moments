@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Zochita za Amuna Okhala ndi Dementia"
+seoTitle: "Zochita za Amuna Okhala ndi Dementia: Malingaliro"
+description: "Malingaliro a zochita za amuna omwe akukhala ndi dementia, otengera ntchito, zokonda ndi zochitika zawo, ndi malangizo osinthira chilichonse motetezeka."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Zochita zabwino kwambiri kwa mwamuna yemwe akukhala ndi dementia zimachokera
+  mu moyo wake: ntchito imene ankagwira, zokonda zake komanso zochitika za tsiku
+  ndi tsiku. Wogwira ntchito ya mu ofesi angasangalale kukonza mapepala,
+  makanika angasangalale kugwira zida zoyera, ndipo wokonda masewera angasangalale
+  kuonera masewera akale. Zokonda zimasiyana pakati pa amuna, choncho yambani ndi
+  munthu, osati jenda lake.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Yambani ndi mbiri ya mwamuna ameneyu: ntchito yake, zokonda zake, zochitika zake za tsiku ndi tsiku ndi zimene ankanyadira."
+  - "Ntchito zomwe zili ndi cholinga chenicheni, monga kusanja zida, kutsuka galimoto kapena kupukuta nkhuni, nthawi zambiri zimakopa kuposa zochita zomwe zimamveka ngati kalasi."
+  - "Si amuna onse amene amakonda zida kapena masewera. Ambiri amakonda kuphika, nyimbo, kulima dimba, zaluso kapena kusamalira ena. Funsani, onani ndipo mutsatireni."
+  - "Pangani ntchito zofanana ndi za kuntchito kukhala zotetezeka pochotsa zida zakuthwa ndi kuyang'anira, ndipo muzichepetse pamene luso likusintha."
+  - "Kukana ndi kovomerezeka. Mupatseni udindo, osati ntchito yokakamiza, ndipo yesaninso tsiku lina."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Kodi amuna omwe akukhala ndi dementia amasangalala ndi zochita ziti?"
+    a: "Palibe mndandanda umodzi wokha, chifukwa zokonda za amuna zimasiyana monga za wina aliyense. Malo abwino oyambira ndi ntchito zokhudzana ndi ntchito imene ankagwira kale, monga kukonza mapepala kapena kusanja mtedza ndi ma bawuti, komanso zokonda zimene ankakonda, monga usodzi, magalimoto, nyimbo, kuphika kapena masewera. Onani zimene amayamba kuchita yekha ndipo pitirizani kuchokera pamenepo."
+  - q: "Bambo anga amakana zochita za m'gulu. Ndingatani?"
+    a: "Anthu ambiri, amuna ndi akazi omwe, amakana zochita zomwe zimamveka ngati kalasi kapena ngati za ana. Yesani kumupatsa ntchito m'malo mwake: 'Kodi mungandithandizeko kusanja izi?' Magulu ang'onoang'ono kapena nthawi ya awiri okha ingakhale yabwino kuposa chipinda chodzaza anthu."
+  - q: "Kodi n'kotetezeka kumulola kugwiritsa ntchito zida?"
+    a: "Ndi kotetezeka pokhapokha mukuyang'anira komanso mukugwiritsa ntchito zida zotetezeka. Chotsani zida zamagetsi, masamba akuthwa ndi chilichonse chakuthwa, ndipo mupatseni ntchito monga kupukuta mtengo, kusanja zida zoyera, kapena kumangitsa ma bawuti akulu ndi manja. Alzheimer's Association imalimbikitsa kuchotsa zinthu zoopsa mu malo ogwirira ntchito kuti ntchito ngati kupukuta mtengo ikhalebe yosangalatsa komanso yotetezeka."
+  - q: "Anali katswiri pa ntchito yake. Kodi ntchito zosavuta zingamukhumudwitse?"
+    a: "Zingatero ngati zaperekedwa ngati ntchito yopanda phindu. Fotokozani ntchitoyo ngati thandizo lenileni, gwiritsani ntchito zinthu za munthu wamkulu, ndipo sankhani china chake chofanana ndi udindo wake wakale, monga kuonanso mndandanda, kukonza fayilo kapena kuthandiza kukonza zinthu zotumizira. Ngati anali waluso kwambiri pa china chake, ntchito yogwirizana koma yosiyana ingamveke bwino kuposa kufananitsa ndi zakale."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Anthu nthawi zambiri amafufuza "zochita za amuna omwe akukhala ndi dementia" chifukwa malingaliro ambiri omwe amapezeka sawoneka oyenera mwamuna amene akumusamalira. Izi n'zomveka. Koma yankho si mndandanda wa zochita "za amuna". Yankho lake ndi kuyambira ndi mwamuna ameneyu: ntchito imene ankagwira, zomwe ankachita kumapeto kwa sabata, ndi zomwe zinkamupangitsa kumva kuti ndi wothandiza. Zokonda zimasiyana kwa aliyense. Amuna ambiri amakonda kuphika, kulima dimba, kujambula kapena kuyimba, ndipo akazi ambiri amakonda magalimoto ndi baseball.
 
-## How do I find activities he will actually enjoy?
+## Kodi ndingapeze bwanji zochita zimene angasangalale nazo?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Yambani ndi nkhani ya moyo wake. Alzheimer's Association imalimbikitsa kupanga [dongosolo la tsiku](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) lozikidwa pa zimene munthuyo amakonda, zimene sakonda, mphamvu zake ndi zokonda zake, komanso momwe ankakonzekera tsiku lake. Dzifunseni:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Ankagwira ntchito yanji?** Ya mu ofesi, ulimi, fakitale, maluso a manja, usilikali, malonda, uphunzitsi, kuyendetsa galimoto, kapena ntchito zapakhomo?
+- **Ankachita chiyani pa nthawi yake yopuma?** Usodzi, makhadi, kupanga zinthu zamatabwa, masewera, tchalitchi, nyimbo, kuphika, kapena galimoto mu garaja?
+- **Anali ndi zochitika ziti za tsiku ndi tsiku?** Kumwa khofi ndi kuwerenga nyuzipepala m'mawa uliwonse? Kuona nyengo? Kutsuka galimoto Loweruka lililonse?
+- **Ndi chiyani chimene amayambabe kuchita yekha?** Bungweli limanena kuti ngati munthu amayamba ntchito popanda kufunsidwa, monga kutsuka pansi, ntchito zimenezo zitha kukhala mbali ya zochitika zake za tsiku ndi tsiku.
+- **Kodi amapewa chiyani?** Anthu ena amasangalala kuonera masewera; ena amavutika ndi liwiro lake kapena phokoso. Onani nthawi imene akuoneka wokondwa, wodandaula kapena wokwiya.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Lankhulani ndi achibale ndi anzake akale. Angakumbukire zokonda zimene zatsala pang'ono kuiwalika m'moyo wa tsiku ndi tsiku.
 
-## Activity ideas based on past work
+## Malingaliro a zochita otengera ntchito yakale
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association imapereka chitsanzo chomveka: munthu amene ankagwira ntchito ya mu ofesi angasangalale ndi ntchito zokonza zinthu, monga kuika ndalama mu chotengera, kuthandiza kukonza zinthu zotumizira kapena kulemba mndandanda wa zochita, pomwe munthu amene anali mlimi kapena wolima dimba angasangalale kugwira ntchito panja. Lingaliro lomweli lingagwire ntchito pa ntchito zambiri.
 
-| Past work | Activity ideas | Simpler version |
+| Ntchito yakale | Malingaliro a zochita | Njira yosavuta |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Ntchito ya mu ofesi kapena bizinesi | Kusanja mapepala m'mafoda, kudinda sitampu pa ma envulopu, kuonanso mndandanda, kukonza kabati ya desiki | Kuunjika ma envulopu; kuika ma clip a mapepala m'bokosi |
+| Maluso a manja kapena umakanika | Kusanja mtedza, ma bawuti ndi ma washa oyera; kumangitsa ma bawuti akulu ndi manja; kuyang'ana makatiragi a zida | Kusanja ndi kukula m'makapu awiri |
+| Ulimi kapena kusamalira malo | Kuthirira, kubzala mbewu m'miphika, kukunkha masamba, kuyang'ana dimba | Kukhala panja pamene mukugwira ntchito; kugwira matumba a mbewu |
+| Usilikali | Kupukuta nsapato, kukonza bwino kabati, kuyang'ana zithunzi za nthawi ya usilikali ngati amasangalala nazo | Kumvetsera nyimbo za nthawi imeneyo |
+| Malonda kapena ntchito yothandiza anthu | Kulonjera alendo, kupereka zokhwasula-khwasula, kusanja makuponi | Kukhala pafupi ndi khomo kuti alonjerane |
+| Uphunzitsi | Kuwerenga mokweza, kukonza mabuku, kusanja zithunzi m'magulu | Kuonera buku la zithunzi limodzi |
+| Kuyendetsa kapena mayendedwe | Kuonera mamapu kapena magazini akale a magalimoto, kutsuka galimoto | Kuonera magalimoto akudutsa muli pa khonde |
+| Ntchito zapakhomo ndi banja | Kupinda zovala, kukonza tebulo, kuthandiza kuphika chakudya | Kusalaza matewera; kusakaniza chakudya |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Zikumbukiro zina, monga nthawi ya usilikali, zitha kubweretsa malingaliro amphamvu. Mutsatireni, sungani zokambirana za zakale kukhala zabwino, ndipo sinthani nkhani mofatsa ngati akuoneka wokhumudwa.
 
-## Activity ideas based on hobbies
+## Malingaliro a zochita otengera zokonda
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Kupanga zinthu zamatabwa.** Kupukuta mtengo wosalala kapena kupaka utoto pa kanyumba ka mbalame. Alzheimer's Association imalimbikitsa kuchotsa zinthu ndi zida zoopsa mu malo ogwirira ntchito kuti ntchito ngati kupukuta mtengo ikhale yosangalatsa komanso yotetezeka.
+2. **Usodzi.** Kusanja bokosi la zida za usodzi mutachotsa ngowe, kuyang'ana magazini a usodzi, kapena kukhala pafupi ndi dziwe limodzi.
+3. **Magalimoto.** Kutsuka galimoto, kupukuta zitsulo zonyezimira, kuyang'ana zithunzi za magalimoto akale, kapena kukwera galimoto monga wokwera.
+4. **Masewera.** Kuonera masewera akale kapena mfundo zazikulu, kuponyera mpira wofewa, kuyika mipira ya gofu pa kapeti, kapena kusanja makhadi a baseball.
+5. **Makhadi ndi masewera.** Masewera osavuta a makhadi odziwika bwino, domino, kapena kutembenuza makhadi kuti mupeze ofanana. Sungani zonse mwabata ndipo siyani kuwerengera mapointi.
+6. **Nyimbo.** Nyimbo za pa nthawi imene anali wachinyamata kapena wa zaka makumi awiri, gulu limene ankalikonda, kapena nyimbo ya kutchalitchi. Onani [chitsogozo chathu cha zochita za nyimbo](/activities/music/).
+7. **Kuphika ndi kuwotcha pa grill.** Kutsuka ndiwo zamasamba, kusakaniza msuzi, kupanga ma burger, kapena kufotokoza momwe ankaphikira chili yake yotchuka pamene inu mukuphika.
+8. **Nyuzipepala.** Alzheimer's Association imanena kuti munthu amene nthawi zonse ankawerenga nyuzipepala angakhalebe akusangalala nazo, ngakhale sangathe kutsatira zonse zomwe zalembedwa. Khofi ndi nyuzipepala zitha kukhalabe mbali ya m'mawa.
+9. **Kumanga.** Ma model kit okhala ndi zidutswa zazikulu kapena zida zosavuta zomangira za anthu akulu. Sankhani zidutswa zomwe n'zosavuta kugwira.
+10. **Kusamalira china chake.** Kudyetsa chiweto, kudzaza chodyetsera mbalame, kapena kuthirira zomera. NIA imatchula [kudyetsa, kusamalira kapena kuyenda ndi chiweto](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pakati pa zochita zimene anthu angasangalale nazo.
 
-## How do I offer an activity without it feeling like busywork?
+## Kodi ndingapereke bwanji ntchito popanda kumupangitsa kumva ngati ikungotaya nthawi?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Fotokozani ngati thandizo lenileni. Alzheimer's Association imalimbikitsa kufunsa kuti "Kodi mungandithandizeko?" ndikulumikiza ntchito ndi cholinga chake. Yerekezerani:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "Kodi mukufuna kusanja ma bawuti awa?" (zimamveka ngati mayeso)
+- "Ndagula thumba losakanizika la zida ndipo ndikufunika kuwasanja ndisanakonzenso shelefu. Mungandithandizeko?" (zimamveka ngati ntchito yeniyeni)
 
-Other tips:
+Malangizo ena:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Gwiritsani ntchito zinthu za munthu wamkulu.** Zida zenizeni zomwe mbali zakuthwa zachotsedwa, makatiragi enieni, ma envulopu enieni.
+- **Gwirani ntchito limodzi pambali pake.** Anthu awiri akugwira ntchito limodzi ndi chiyanjano. Munthu m'modzi akungoyang'ana wina ndi kuyang'anira.
+- **Osamuwongolera.** Ngati ma bawuti athera m'kapu yolakwika, musadandaule. Chofunika ndi nthawi imene mwakhala limodzi komanso kumva kuti ndi wothandiza.
+- **Muthandizeni kuyamba.** Alzheimer's Association imanena kuti anthu ambiri amakhalabe ndi chikhumbo chochita zinthu koma amavutika kukonza ndi kuyamba. Yambani yoyamba limodzi.
 
-## How do I adapt as things change?
+## Kodi ndingasinthe bwanji pamene zinthu zikusintha?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Pamene dementia ikupita patsogolo, Alzheimer's Association imalimbikitsa kuyambitsa ntchito zosavuta komanso zobwerezabwereza ndikukhala okonzeka kuti munthuyo atenge mbali yochepa. Mwamuna amene nthawi ina ankakonza injini tsopano angasangalale kugwira sipana yoyera ndikukamba za magalimoto, kapena kukuonani mukugwira ntchito. Kuonera nawonso ndi kutenga nawo mbali.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Ngati anali waluso kwambiri pa china chake, ntchito yogwirizana ingamveke bwino kuposa ntchito yake yakale. Bungweli limanena kuti wojambula waluso angakhumudwe ndi kusintha kwa ntchito yake, pomwe wosakhala waluso kwambiri angasangalale ndi njira yatsopano. Zimenezi n'chimodzimodzi kwa mmisiri waluso wa matabwa.
 
-## Safety with work-style tasks
+## Chitetezo pa ntchito zofanana ndi za kuntchito
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Chotsani zida zamagetsi, masamba akuthwa, misomali ndi zomangira zomwe zili ndi nsonga zakuthwa.
+- Tsekani bwino zosungunulira utoto, petulo, ndi mankhwala.
+- Sungani makiyi agalimoto pamalo osawoneka ngati sakuyendetsanso galimoto.
+- Yang'anirani ntchito zonse za mu malo ogwirira ntchito ndi za panja.
+- Sankhani zidutswa zazikulu zomwe sizingamezedwe.
 
-## What if he says no?
+## Nanga atakana?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Lemekezani chisankho chake. Kukana kungatanthauze kuti ntchitoyo ikuoneka yovuta, ya ana kwambiri, kapena si yoyenera lero. Alzheimer's Association imachenjeza kuti musamukakamize. Yesani ntchito ina, nthawi ina, kapena ingokhalani limodzi. Onani [zochita pamene akukana](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Masewera ndi zokambirana zoyenera
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) imagwiritsa ntchito miyambi yodziwika bwino ya ku America ndipo imatsegula njira ya zokambirana. [Conversation Cards](/games/conversation-cards/) ili ndi mafunso otseguka, opanda mayeso, ogawidwa m'mitu, zomwe zingatsegule nkhani za ntchito ndi zokonda. [Picture Puzzle](/games/picture-puzzle/) imasunga chithunzi chonse chikuwoneka pamene mukusinthana zidutswa, ndipo [Word Search](/games/word-search/) yokhala ndi zilembo zazikulu imatha kusindikizidwa ndikuchitidwa ndi cholembera pa tebulo la kukhitchini. Kuti mupeze njira zolankhulira za zakale popanda kumuyesa, onani [chitsogozo chathu cha kukumbukira zakale](/activities/reminiscence/).

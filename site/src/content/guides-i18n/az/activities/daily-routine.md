@@ -78,7 +78,7 @@ Bu nümunə Alzheimer’s Association-ın erkən və orta mərhələlər üçün
 Cədvəldən yox, şəxsin həmişə necə yaşadığından başlayın. Alzheimer’s Association plan qurmazdan əvvəl bunları düşünməyi məsləhət görür:
 
 - **Onun xoşladıqları, xoşlamadıqları, güclü tərəfləri və maraqları.**
-- **Gününü əvvəllər necə keçirdiyi.** Həmişə iti gəzdirən səhər adamı yenə də tezdən gəzməlidir. Gecə adamı səhər 8-də başlamaqdan heç vaxt zövq almaya bilər.
+- **Gününü əvvəllər necə keçirdiyi.** Həmişə iti gəzdirən səhər adamı yenə də tezdən gəzməlidir. Gecə adamı səhər saat 08:00-da başlamaqdan heç vaxt zövq almaya bilər.
 - **Onun günün ən yaxşı vaxtı.** Çimməni, çıxışları və əsas fəaliyyəti ora qoyun.
 - **Yemək, yuyunmaq və geyinmək üçün kifayət qədər vaxt,** heç nə tələsik olmasın.
 - **Müntəzəm yuxudan qalxma və yatma saatları.**

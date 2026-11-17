@@ -1,10 +1,31 @@
 ---
-title: "Primi segnali di demenza e quando rivolgersi al medico"
-seoTitle: "Primi segnali di demenza e quando vedere il medico"
-description: "I primi segnali comuni di demenza, come si distinguono dal normale invecchiamento, le cause curabili dei problemi di memoria e come preparare la visita dal medico."
+title: "Primi segnali di demenza e quando consultare il medico"
+seoTitle: "Primi segnali di demenza e quando consultare il medico"
+description: "Segnali precoci di demenza, differenze dall’invecchiamento tipico, cause curabili dei problemi di memoria e come prepararsi alla visita medica."
 section: brain-health
 order: 10
 updated: 2026-10-25
+translatedFrom: 2026-10-25
+summary: >-
+  La perdita di memoria che interferisce con la vita quotidiana, la difficoltà nello svolgere attività familiari, la confusione su tempo o luogo
+  e i cambiamenti nell’umore o nel giudizio possono essere segnali precoci di demenza. Anche molte altre condizioni, tra cui
+  problemi alla tiroide, carenza di vitamina B12, effetti collaterali dei farmaci, depressione e disturbi del sonno, possono causare
+  cambiamenti simili. Solo un professionista sanitario qualificato può formulare una diagnosi. Una confusione improvvisa richiede cure urgenti.
+keyPoints:
+  - "Dimenticanze occasionali sono comuni con l’età; i cambiamenti che interferiscono con la vita quotidiana meritano un controllo."
+  - "L’Alzheimer’s Association descrive 10 segnali di allarme, ciascuno con un cambiamento tipico legato all’età come confronto."
+  - "Problemi alla tiroide, carenza di vitamina B12, effetti collaterali dei farmaci, depressione, infezioni e disturbi del sonno possono influire sulla memoria, e alcuni sono curabili."
+  - "Solo un professionista sanitario qualificato può diagnosticare la demenza; i quiz e gli autotest online non possono farlo."
+  - "Una confusione che compare all’improvviso, nel giro di ore o giorni, può essere delirium e richiede cure mediche urgenti."
+faq:
+  - q: "Le dimenticanze sono una parte normale dell’invecchiamento?"
+    a: "In parte sì. Il National Institute on Aging afferma che perdere occasionalmente degli oggetti o dimenticare una bolletta è di solito una lieve dimenticanza legata all’età. La demenza non è una parte normale dell’invecchiamento. I problemi di memoria che rendono difficili le attività quotidiane, come guidare, usare il telefono o ritrovare la strada di casa, meritano un controllo medico."
+  - q: "I problemi di memoria possono avere cause diverse dalla demenza?"
+    a: "Sì. Il National Institute on Aging elenca, tra le altre, problemi alla tiroide, ai reni o al fegato, effetti collaterali dei farmaci, depressione e ansia, carenza di vitamina B12, uso eccessivo di alcol, disturbi del sonno, infezioni e traumi cranici. Alcune di queste condizioni possono migliorare con il trattamento, ed è uno dei motivi per cui è importante un controllo medico."
+  - q: "È possibile verificare a casa se una persona ha demenza?"
+    a: "No. Solo un professionista sanitario qualificato può diagnosticare la demenza, attraverso l’anamnesi, un esame fisico, test della memoria e del pensiero, esami di laboratorio e talvolta esami di imaging cerebrale. Anche i test brevi utilizzati dai medici non sono sufficienti, da soli, per formulare una diagnosi di demenza."
+  - q: "Cosa fare se una persona diventa improvvisamente confusa?"
+    a: "Cerchi subito assistenza medica. Una confusione improvvisa può essere delirium, che il VA descrive come un’emergenza medica. Chiami subito il medico della persona o chiami il 911, resti con lei e prenda nota dei farmaci che assume."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -30,120 +51,96 @@ sources:
 relatedGames: []
 related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, caregiving/communication-tips, caregiving/caregiver-self-care, activities/early-stage]
 health: true
-translatedFrom: 2026-10-25
-summary: >-
-  Una perdita di memoria che disturba la vita quotidiana, la difficoltà con
-  compiti familiari, la confusione su tempo o luogo e i cambiamenti di umore o di
-  giudizio possono essere i primi segnali di demenza. Molte altre condizioni,
-  tra cui problemi alla tiroide, carenza di vitamina B12, effetti collaterali
-  dei farmaci, depressione e disturbi del sonno, possono causare cambiamenti
-  simili. Solo un clinico qualificato può fare una diagnosi. Una confusione
-  improvvisa richiede cure urgenti.
-keyPoints:
-  - "Una dimenticanza ogni tanto è comune con l’età; vale la pena far controllare i cambiamenti che disturbano la vita di ogni giorno."
-  - "L’Alzheimer’s Association descrive 10 segnali d’allarme, ciascuno con un tipico cambiamento legato all’età per il confronto."
-  - "Problemi alla tiroide, carenza di vitamina B12, effetti collaterali dei farmaci, depressione, infezioni e disturbi del sonno possono tutti influire sulla memoria, e alcuni si possono curare."
-  - "Solo un clinico qualificato può diagnosticare la demenza; i quiz online e i test fai da te non possono farlo."
-  - "Una confusione che compare all’improvviso, nel giro di ore o giorni, può essere un delirium e richiede cure mediche urgenti."
-faq:
-  - q: "La dimenticanza è una parte normale dell’invecchiamento?"
-    a: "In parte sì. Secondo il National Institute on Aging, perdere ogni tanto qualcosa o dimenticare una bolletta è di solito una lieve dimenticanza legata all’età. La demenza non è una parte normale dell’invecchiamento. Se i problemi di memoria rendono difficili le attività di ogni giorno, come guidare, usare il telefono o ritrovare la strada di casa, vale la pena parlarne con il medico."
-  - q: "I problemi di memoria possono avere una causa diversa dalla demenza?"
-    a: "Sì. Il National Institute on Aging elenca, tra le altre, problemi alla tiroide, ai reni o al fegato, effetti collaterali dei farmaci, depressione e ansia, carenza di vitamina B12, abuso di alcol, disturbi del sonno, infezioni e traumi cranici. Alcune di queste cause migliorano con la cura, ed è uno dei motivi per cui un controllo medico è importante."
-  - q: "Posso fare a casa un test per la demenza?"
-    a: "No. Solo un clinico qualificato può diagnosticare la demenza, basandosi sull’anamnesi, su una visita, su test di memoria e di ragionamento, su esami di laboratorio e talvolta su esami del cervello per immagini. Anche i test brevi usati dai medici non bastano da soli a diagnosticare la demenza."
-  - q: "Che cosa devo fare se una persona diventa all’improvviso confusa?"
-    a: "Chieda subito aiuto medico. Una confusione improvvisa può essere un delirium, che il VA descrive come un’emergenza medica. Chiami subito il medico della persona o il numero di emergenza (112 in Italia), resti con lei e annoti i farmaci che prende."
 ---
 
-Accorgersi di cambiamenti nella propria memoria, o in quella di una persona cara, può far paura. Questa pagina può aiutarLa a decidere quando prendere un appuntamento con il medico e come prepararlo. Non può dirLe se qualcuno ha la demenza. **Solo un clinico qualificato può diagnosticare la demenza**, e molte condizioni che causano problemi di memoria non sono affatto demenza. Non si affidi a quiz online o a test fai da te.
+Notare dei cambiamenti nella propria memoria, o in quella di una persona cara, può essere spaventoso. Questa pagina può aiutarla a capire quando fissare una visita medica e come prepararsi. Non può stabilire se una persona ha demenza. **Solo un professionista sanitario qualificato può diagnosticare la demenza**, e molte condizioni che causano problemi di memoria non sono affatto demenza. La invitiamo a non affidarsi a quiz o autotest online.
 
 ## Quali sono i primi segnali di demenza?
 
-L’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/10_signs) descrive 10 primi segnali. Per ciascuno indica un tipico cambiamento legato all’età, per il confronto. Con parole nostre:
+L’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/10_signs) descrive 10 segnali precoci. Per ciascuno indica un cambiamento tipico legato all’età come confronto. Ecco una sintesi con parole nostre:
 
-| Segnale da far controllare | Più tipico con l’età |
+| Segnale da controllare | Più tipico con l’età |
 | --- | --- |
-| Una perdita di memoria che disturba la vita quotidiana, come dimenticare fatti recenti o chiedere la stessa cosa più e più volte | Dimenticare a volte un nome o un appuntamento e ricordarlo più tardi |
-| Difficoltà a pianificare o a risolvere problemi, come seguire una ricetta conosciuta o tenere il conto delle bollette | Un errore ogni tanto con le bollette di casa |
-| Difficoltà a portare a termine compiti familiari a casa, al lavoro o fuori | Avere bisogno di tanto in tanto di aiuto con un’impostazione del forno a microonde o per registrare un programma in TV |
-| Perdere il senso di date, stagioni o del luogo in cui ci si trova | Sbagliare il giorno della settimana e poi capirlo da sé |
-| Nuove difficoltà a giudicare le distanze, a leggere o a distinguere i colori | Cambiamenti della vista dovuti alla cataratta |
-| Nuovi problemi con le parole, come interrompersi a metà conversazione o chiamare le cose con il nome sbagliato | A volte fare fatica a trovare la parola giusta |
-| Mettere le cose in posti insoliti e non riuscire a ripercorrere i propri passi | Perdere ogni tanto qualcosa e ritrovarlo ripercorrendo i propri passi |
-| Scarso giudizio, per esempio con il denaro o con la cura della propria persona | Prendere ogni tanto una decisione poco saggia |
-| Allontanarsi da hobby, lavoro o attività sociali | A volte non avere voglia di andare a una festa di famiglia o a un incontro sociale |
-| Cambiamenti di umore o di personalità, come diventare confusi, sospettosi, timorosi o ansiosi | Avere le proprie abitudini e irritarsi quando la routine viene interrotta |
+| Perdita di memoria che interferisce con la vita quotidiana, come dimenticare eventi recenti o fare la stessa domanda più volte | Dimenticare a volte un nome o un appuntamento e ricordarselo più tardi |
+| Difficoltà nel pianificare o risolvere problemi, come seguire una ricetta familiare o tenere sotto controllo le bollette | Commettere un errore occasionale con le spese di casa |
+| Difficoltà nel portare a termine attività familiari a casa, al lavoro o fuori casa | Aver bisogno ogni tanto di aiuto per impostare il microonde o registrare un programma TV |
+| Perdere il senso delle date, delle stagioni o del luogo in cui ci si trova | Confondersi sul giorno della settimana e poi riuscire a ricostruirlo |
+| Nuove difficoltà nel valutare le distanze, nel leggere o nel distinguere i colori | Cambiamenti della vista dovuti alla cataratta |
+| Nuovi problemi con le parole, come interrompersi a metà conversazione o chiamare gli oggetti con il nome sbagliato | Avere a volte difficoltà a trovare la parola giusta |
+| Mettere gli oggetti in posti insoliti e non riuscire a ricostruire i propri passi | Smarrire gli oggetti di tanto in tanto e ritrovarli ripercorrendo i propri passi |
+| Scarso giudizio, per esempio con il denaro o la cura personale | Prendere ogni tanto una decisione poco saggia |
+| Allontanarsi da hobby, lavoro o attività sociali | Avere a volte poca voglia di partecipare a un evento familiare o sociale |
+| Cambiamenti nell’umore o nella personalità, come diventare confusi, sospettosi, impauriti o ansiosi | Avere abitudini ben consolidate e sentirsi irritabili quando la routine viene interrotta |
 
-Un solo segnale non significa demenza. Ciò che conta è un **cambiamento rispetto a ciò che è normale per quella persona**, in particolare se rende più difficile la vita di ogni giorno.
+Un solo segnale non significa demenza. Il punto è un **cambiamento rispetto a ciò che è normale per quella persona**, soprattutto se rende più difficile la vita quotidiana.
 
-## In che cosa il normale invecchiamento è diverso dalla demenza?
+## In che modo il normale invecchiamento è diverso dalla demenza?
 
-Il [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) afferma che molti anziani si accorgono di ricordare le cose più lentamente, o di perdere a volte qualcosa o di dimenticare una bolletta. Di solito sono segni di una lieve dimenticanza. **La demenza non è una parte normale dell’invecchiamento.** I problemi di memoria seri rendono difficili le attività di ogni giorno, come guidare, usare il telefono o ritrovare la strada di casa.
+Il [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) afferma che molte persone anziane notano di ricordare le cose più lentamente, oppure di smarrire oggetti o dimenticare una bolletta di tanto in tanto. Di solito si tratta di lievi dimenticanze. **La demenza non è una parte normale dell’invecchiamento.** I problemi seri di memoria rendono difficili le attività quotidiane, come guidare, usare il telefono o ritrovare la strada di casa.
 
-Il NIA suggerisce di parlare con il medico se una persona:
+Il NIA suggerisce di parlare con un medico se una persona:
 
-- Fa le stesse domande più e più volte
+- Fa le stesse domande più volte
 - Si perde in luoghi che conosceva bene
-- Fa fatica a seguire ricette o indicazioni
-- È sempre più confusa su tempo, persone e luoghi
-- Smette di prendersi cura di sé, per esempio mangia male, non si lava o si comporta in modo pericoloso
+- Ha difficoltà a seguire ricette o indicazioni
+- Diventa più confusa riguardo a tempo, persone e luoghi
+- Smette di prendersi cura di sé, per esempio mangiando male, non lavandosi o comportandosi in modo non sicuro
 
-Alcune persone hanno un **deterioramento cognitivo lieve (MCI, dall’inglese mild cognitive impairment)**. Significa avere più problemi di memoria o di ragionamento rispetto ad altre persone della stessa età, riuscendo però a cavarsela nella vita di ogni giorno. Il NIA afferma che l’MCI può essere un primo segnale di Alzheimer, ma non tutte le persone con MCI lo sviluppano.
+Alcune persone presentano un **lieve deterioramento cognitivo (MCI)**. Significa avere più problemi di memoria o di pensiero rispetto ad altre persone della stessa età, pur riuscendo ancora a gestire la vita quotidiana. Il NIA spiega che l’MCI può essere un segnale precoce di Alzheimer, ma non tutte le persone con MCI lo sviluppano.
 
-## Che altro può causare problemi di memoria?
+## Quali altre cause possono provocare problemi di memoria?
 
-Molte cose oltre alla demenza possono influire sulla memoria, e alcune migliorano con la cura. Il NIA elenca:
+Molte condizioni diverse dalla demenza possono influire sulla memoria, e alcune migliorano con il trattamento. Il NIA elenca:
 
 - **Problemi alla tiroide, ai reni o al fegato**
 - **Effetti collaterali dei farmaci**
 - **Depressione e ansia**
-- **Carenza di vitamina B12** o un’alimentazione poco sana
+- **Carenza di vitamina B12** o alimentazione non sufficientemente sana
 - **Disturbi del sonno**
-- **Abuso di alcol o di droghe**
+- **Uso eccessivo di alcol o droghe**
 - **Infezioni, coaguli di sangue o tumori** nel cervello
-- **Traumi cranici**, come una commozione cerebrale
-- **Forte stress o lutto**, come il pensionamento o la perdita del coniuge
+- **Trauma cranico**, come una commozione cerebrale
+- **Stress intenso o lutto**, come il pensionamento o la perdita del coniuge
 
-Anche i problemi di udito e di vista possono essere scambiati per confusione; veda la nostra [guida sull’udito](/brain-health/hearing/). Per questo un controllo medico è importante. Secondo l’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), i medici prescrivono spesso esami del sangue per controllare problemi alla tiroide, carenze di vitamine e infezioni. Vale la pena parlare anche di un buon [sonno](/brain-health/sleep/) e della cura della depressione.
+Anche i problemi di udito e di vista possono essere scambiati per confusione; veda la nostra [guida sull’udito](/brain-health/hearing/). Per questo è importante un controllo medico. Secondo l’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), i medici spesso prescrivono esami del sangue per verificare problemi alla tiroide, carenze vitaminiche e infezioni. Vale la pena parlare anche di un buon [sonno](/brain-health/sleep/) e del trattamento della depressione.
 
-## Una confusione improvvisa è un’emergenza
+## La confusione improvvisa è un’emergenza
 
-**Una confusione che compare in fretta, nel giro di ore o giorni, richiede cure mediche urgenti.** Può essere un delirium. Il [VA descrive il delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) come un’emergenza medica e consiglia di chiamare subito il medico della persona o il numero di emergenza (negli Stati Uniti il 911; in Italia il 112). I segnali includono:
+**Una confusione che compare rapidamente, nel giro di ore o giorni, richiede cure mediche urgenti.** Potrebbe trattarsi di delirium. Il [VA descrive il delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) come un’emergenza medica e consiglia di chiamare subito il medico della persona o di chiamare il 911. I segnali includono:
 
-- Alti e bassi nella capacità di ragionare con lucidità
+- Alti e bassi nella capacità di pensare con chiarezza
 - Difficoltà a mantenere l’attenzione
 - Pensiero disorganizzato
-- Essere insolitamente assonnati, oppure insolitamente irrequieti e agitati
+- Sonnolenza insolita, oppure agitazione e irrequietezza insolite
 
-Può succedere a chiunque, comprese le persone che vivono già con la demenza. Secondo il [NHS](https://www.nhs.uk/symptoms/confusion/), tra le cause comuni ci sono le infezioni (le infezioni delle vie urinarie sono frequenti negli anziani e nelle persone con demenza), l’ictus, la glicemia bassa nelle persone con diabete, i traumi cranici e alcuni farmaci. Mentre aspetta i soccorsi, resti con la persona e la rassicuri con parole brevi e semplici. Non Le faccia molte domande e annoti i farmaci che prende.
+Può succedere a chiunque, anche alle persone che vivono già con demenza. Secondo l’[NHS](https://www.nhs.uk/symptoms/confusion/), le cause più comuni includono infezioni (le infezioni delle vie urinarie sono frequenti nelle persone anziane e nelle persone con demenza), ictus, basso livello di zucchero nel sangue nelle persone con diabete, trauma cranico e alcuni farmaci. Mentre aspetta aiuto, resti con la persona e la rassicuri con parole brevi e semplici. Non le faccia molte domande e prenda nota dei farmaci che assume.
 
-## Come preparare la visita dal medico?
+## Come prepararsi alla visita medica?
 
-Una buona visita comincia con buoni appunti. L’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggerisce di portare:
+Una buona visita inizia con buoni appunti. L’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggerisce di portare:
 
-1. **Un elenco dei cambiamenti** nella memoria, nell’umore e nel comportamento, con esempi concreti e all’incirca quando sono iniziati
-2. **I problemi di salute passati e attuali**, compresa un’eventuale familiarità con problemi di memoria
-3. **Tutti i farmaci, con o senza ricetta**
+1. **Un elenco dei cambiamenti** nella memoria, nell’umore e nel comportamento, con esempi specifici e un’indicazione approssimativa di quando sono iniziati
+2. **Problemi di salute passati e attuali**, inclusa un’eventuale storia familiare di problemi di memoria
+3. **Tutti i farmaci con e senza prescrizione**
 4. **Eventuali vitamine o integratori**
-5. **Le Sue domande**, per esempio quali esami verranno fatti, quanto durano e quando arriveranno i risultati
+5. **Le sue domande**, per esempio quali esami verranno fatti, quanto tempo richiedono e quando arriveranno i risultati
 
-Aiuta anche portare un familiare o un amico che conosce bene la persona. Il [NIA spiega](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) che i medici possono fare domande sia alla persona sia a un familiare su salute, farmaci, attività quotidiane e cambiamenti del comportamento. I medici possono inoltre:
+Può essere utile anche portare un familiare o un amico che conosce bene la persona. Il [NIA spiega](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) che i medici possono porre domande sia alla persona sia a un familiare sulla salute, sui farmaci, sulle attività quotidiane e sui cambiamenti nel comportamento. I medici possono anche:
 
-- Proporre test di memoria, di soluzione di problemi, di attenzione, di calcolo e di linguaggio
-- Prescrivere esami del sangue, delle urine e altri esami per cercare altre cause
-- Verificare la presenza di depressione o di altri disturbi della salute mentale
-- Prescrivere esami del cervello per immagini, come la TAC o la risonanza magnetica
-- Indirizzare a uno specialista, come un geriatra, un neurologo, uno psichiatra geriatrico o un neuropsicologo
+- Eseguire test di memoria, risoluzione dei problemi, attenzione, calcolo e linguaggio
+- Prescrivere esami del sangue, delle urine e altri test per individuare altre cause
+- Valutare la presenza di depressione o altre condizioni di salute mentale
+- Prescrivere esami di imaging cerebrale come TC o risonanza magnetica
+- Inviare la persona a uno specialista, come un geriatra, un neurologo, uno psichiatra geriatrico o un neuropsicologo
 
-Il NIA osserva che, negli Stati Uniti, una valutazione cognitiva è una parte obbligatoria della visita annuale di benessere di Medicare (Medicare Annual Wellness Visit), che può essere un momento naturale per esprimere i propri dubbi; nel Suo paese può esserlo una visita dal medico di famiglia. Anche i test brevi usati dai medici non bastano da soli a diagnosticare la demenza. Sono un primo passo verso una valutazione più completa, e la diagnosi può richiedere più di una visita. Il NIA consiglia alle persone con problemi di memoria di tornare dal medico ogni 6-12 mesi.
+Il NIA osserva che una valutazione cognitiva è una parte obbligatoria della visita annuale di prevenzione Medicare, che può essere un momento naturale per parlare delle proprie preoccupazioni. Anche i test brevi utilizzati dai medici non sono sufficienti, da soli, per formulare una diagnosi di demenza. Sono un primo passo verso una valutazione più completa, e la diagnosi può richiedere più di una visita. Il NIA consiglia alle persone con problemi di memoria di tornare dal medico ogni 6-12 mesi.
 
-## Parlarne con delicatezza
+## Affrontare l’argomento con delicatezza
 
-Se è preoccupato o preoccupata per qualcun altro, scelga un momento tranquillo e riservato. Parli di cose precise che ha notato, presentandole come preoccupazione per la sua salute e non come una critica. Proporre un controllo generale può sembrare meno allarmante. Coinvolga la persona nelle decisioni e le parli come all’adulto che è. I nostri [consigli per comunicare](/caregiving/communication-tips/) possono aiutarLa.
+Se è preoccupato per un’altra persona, scelga un momento tranquillo e riservato. Parli di cose specifiche che ha notato, esprimendo preoccupazione per la sua salute piuttosto che una critica. Suggerire un controllo generale può sembrare meno allarmante. Coinvolga la persona nelle decisioni e si rivolga a lei come all’adulto che è. I nostri [consigli sulla comunicazione](/caregiving/communication-tips/) possono essere utili.
 
-## Ne parli con il medico
+## Parli con un medico
 
-Se nota cambiamenti nella memoria, nel ragionamento, nell’umore o nelle capacità di ogni giorno che sono nuovi e continuano a ripetersi, prenda un appuntamento con il medico di famiglia. Per una confusione improvvisa chiami subito il numero di emergenza (112) o il medico della persona. Farsi controllare presto significa poter individuare cause curabili e, se si tratta di demenza, avere più tempo per organizzarsi e trovare sostegno. Si prenda cura anche di Sé in questo percorso; veda la nostra [guida al prendersi cura di sé](/caregiving/caregiver-self-care/).
+Se nota cambiamenti nella memoria, nel pensiero, nell’umore o nelle capacità quotidiane che sono nuovi e persistono, fissi un appuntamento con il medico di base. In caso di confusione improvvisa, chiami subito il 911 o il medico della persona. Effettuare un controllo tempestivo permette di individuare eventuali cause curabili e, se si tratta di demenza, offre più tempo per organizzarsi e trovare supporto. Si prenda cura anche di sé in questo percorso; veda la nostra [guida all’autocura per chi assiste](/caregiving/caregiver-self-care/).
 
-Questa pagina contiene informazioni generali e non è un consiglio medico. Veda la nostra [avvertenza medica](/medical-disclaimer/).
+Questa pagina offre informazioni generali e non costituisce un parere medico. Veda la nostra [dichiarazione di non responsabilità medica](/medical-disclaimer/).

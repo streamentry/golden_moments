@@ -130,7 +130,7 @@ Tha Comann Alzheimer a’ moladh abairtean leithid “Tha thu sàbhailte an seo�
 
 Ma dh’fhàsas an neach ionnsaigheach, tha an NIA a’ comhairleachadh fuireach aig astar sàbhailte gus an sguir an giùlan. Ann an èiginn, cuir fòn gu 999 agus mìnich gu bheil trom-inntinn air an neach.
 
-Tha barrachd air faclan socrach anns na stiùiridhean againn air [conaltradh](/caregiving/communication-tips/) agus [dè nì thu nuair a chanas iad nach eil](/caregiving/when-they-say-no/).
+Tha barrachd air faclan socrach anns na stiùiridhean againn air [fearg agus ionnsaigheachd](/caregiving/when-anger-becomes-aggression-with-dementia/), [conaltradh](/caregiving/communication-tips/) agus [dè nì thu nuair a chanas iad nach eil](/caregiving/when-they-say-no/).
 
 ## Ciamar a lorgas mi na h-adhbharan?
 

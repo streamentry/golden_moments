@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Dementia Inodzivirirwa Here? Zvinotaura Tsvakurudzo"
+seoTitle: "Dementia Inodzivirirwa Here? Zvinotaura Tsvakurudzo"
+description: "Zvakawanikwa neLancet Commission ya2024 nemiedzo mikuru pakuderedza njodzi yedementia, zvavasina kuwana, uye matanho ekukurukura nachiremba."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Hapana munhu anogona kuvimbisa kudzivirira dementia. Lancet Commission ya2024
+  yakafungidzira kuti ingangoita hafu yezviitiko zvedementia pasi rose
+  zvakabatana nezvinhu gumi nezvina zvinogona kuchinjwa, zvakaita seropa
+  rakakwira, kurasikirwa nekunzwa uye kusaita zvekurovedza muviri. Miedzo
+  inoratidza migumisiro midiki pabvunzo dzekufunga, kwete humbowo hwekuti
+  zviitiko zvedementia zvishoma. Vanhu vazhinji vanoita zvinhu zvose “zvakanaka”
+  vanoramba vachiva nedementia, uye hapana ane mhosva pazviri.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lancet Commission ya2024 yakabatanidza ingangoita 45% yezviitiko zvedementia pasi rose nezvinhu gumi nezvina zvinogona kuchinjwa. Uku fungidziro yevanhu vose, kwete vimbiso kumunhu mumwe nemumwe."
+  - "Kuderedza njodzi kunoreva kudzikisa mukana muvanhu vose. Hazvirevi kuti munhu mumwe nemumwe anogona kudzivirira dementia."
+  - "Miedzo mikuru yakaita seFINGER, US POINTER neSPRINT MIND yakawana mabhenefiti madiki pabvunzo dzekufunga kana pamild cognitive impairment, asi hapana yakaratidza kuti chirongwa chemararamiro chinodzivirira dementia."
+  - "Zera ndiro njodzi huru inozivikanwa yeAlzheimer, uye harigoni kuchinjwa. Vanhu vazhinji vane tsika dzakanaka dzeutano vanoramba vachiva nedementia."
+  - "Matanho anowanzoongororwa, akaita sekurapa ropa rakakwira, kushandisa rubatsiro rwekunzwa uye kuramba uchishingaira, zvakakodzera kukurukurwa nachiremba nokuti anobatsirawo hutano nedzimwe nzira."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Dementia inogona kudzivirirwa here?"
+    a: "Hapana nzira yakaratidzwa inodzivirira dementia kumunhu mumwe nemumwe. Tsvakurudzo inoratidza kuti kuderedza dzimwe njodzi, dzakaita seropa rakakwira, kurasikirwa nekunzwa kusina kurapwa uye kuputa, zvinogona kuderedza mukana wedementia muvanhu vose kana kunonotsa kutanga kwayo. Iyi mikana chete, kwete vimbiso."
+  - q: "Chiverengero che45% chinobva kuLancet Commission chinorevei?"
+    a: "Lancet Commission ya2024 yakafungidzira kuti ingangoita 45% yezviitiko zvedementia pasi rose zvakabatana nezvinhu gumi nezvina zvenjodzi zvinogona, mukufungidzira, kuchinjwa. Fungidziro iyi inotora kuti zvinhu izvozvo zvinokonzera dementia, uye vanyori vanoti humwe hukama hungangove husina kukwana pakukonzera. Inotsanangura vanhu vose uye haitauri njodzi yemunhu mumwe nemumwe."
+  - q: "Kana mubereki wangu aiva nemararamiro ane hutano, sei akava nedementia?"
+    a: "Zera, majini uye zvinhu zvakawanda zvisingadzoreki nemunhu zvinoita chikamu chikuru mudementia. Vanyori veLancet Commission vanoti kuderedza njodzi muvanhu vose hakuvimbisi kuti munhu mumwe nemumwe achadzivirira dementia. Kuonekwa kuti kune dementia harisi chiratidzo chekuti pane akakundikana."
+  - q: "Yanonoka here kuderedza njodzi yedementia mushure memakore 65?"
+    a: "Lancet Commission inoti hakuna kukurumidza kana kunonoka kuderedza njodzi, kunyange hazvo humbowo huzhinji hune chekuita nezera repakati peupenyu. Kurapa matambudziko ekunzwa nekuona, kuramba uchishingaira uye kuramba uchitaurirana nevamwe mienzaniso yematanho epanguva yekukura anoongororwa. Kurukurai nachiremba nezvezvingakukodzerai pahutano hwenyu."
+  - q: "Mitambo yeuropi kana kudya kwakakosha kunodzivirira dementia here?"
+    a: "Hapana mutambo, chikafu, chinowedzera kudya kana nzira yekudya yakaratidzwa kuti inodzivirira dementia. Muedzo wemakore matatu wekudya kweMIND hauna kuwana mutsauko mukuru pakufunga uchienzaniswa nekudya kwekudzora, uye maapp ekudzidzisa uropi ekutengesa haana kuratidzwa kuva nemigumisiro inoonekwa mumiedzo yetsvakurudzo."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Kana muchitarisira munhu anorarama nedementia, kana makamboona mubereki achirarama nayo, zvimwe makambozvibvunza kuti yaigona kunge yakadzivirirwa here, uye kuti munogona here kudzivirira kuti imi muve nayo. Peji rino rinotsanangura zviri kutaurwa netsvakurudzo, nemutauro wakapfava. Mhinduro pfupi: hapana munhu anogona kuvimbisa kudzivirira dementia, asi tsvakurudzo inoratidza kuti dzimwe njodzi dzinogona kuderedzwa, uye kuti kudzideredza muvanhu vose kunogona kureva kuti vanhu vashoma vanova nedementia kana kuti vanoiva gare gare.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Iruzivo rwese urwu, harusi zano rachiremba. Ndapota verengai [chiziviso chedu chezvekurapwa](/medical-disclaimer/) uye kurukurai nachiremba nezvehutano hwenyu.
 
-## Can dementia be prevented?
+## Dementia inogona kudzivirirwa here?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Hapana nzira yakaratidzwa inodzivirira dementia kumunhu mumwe nemumwe. National Institute on Aging (NIA) inoti kunyange hazvo [pasati pave nechinhu charatidzwa kudzivirira Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), vatsvakurudzi vakaona nzira dzinovimbisa uye vari kudzidza zvinogona kushanda nezvisingashande.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Zvinoratidzwa netsvakurudzo ndezvekuti mamwe mamiriro ehutano netsika dzeupenyu zvakabatana nemukana mukuru wedementia. Kana njodzi idzodzo dzikaderera muvanhu vose, vanhu vashoma vanogona kuva nedementia, kana kuti vanogona kuiwana gare gare muupenyu. Izvozvo zvakasiyana zvikuru nevimbiso.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Chimwe chiratidzo chinopa tariro: Lancet Commission ya2024 yakashuma kuti mune dzimwe nyika dzine mari yakawanda, kusanganisira US neUK, chikamu chevanhu vakura vane dementia chakadzikira. Vanyori vanofunga kuti izvi zvinogona kunge zvakakonzerwa, muchikamu, nedzidzo iri nani, rubatsiro rweutano rwuri nani uye kukuvadzwa kushoma kwetsinga dzeropa muupenyu hwose, maererano ne[pfupiso yeUniversity College London yemushumo](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Lancet Commission ya2024 yakawanei?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission on dementia prevention, intervention and care iboka revatsvakurudzi vedementia makumi maviri nevanomwe vanoongorora humbowo makore mashoma ega ega. Mushumo wavo wa2024 wakadoma **zvinhu gumi nezvina zvenjodzi** zvinogona kuchinjwa, uye vakafungidzira kuti pamwe chete zvine chekuita ne**ingangoita hafu (inenge 45%) yezviitiko zvedementia pasi rose**. Mumashoko evanyori, zviitiko izvi *zvaigona* kudzivirirwa kana kunonotswa kana njodzi dzacho dzikabviswa ([mushumo weLancet Commission wa2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Zvinhu gumi nezvina, zvakakamurwa nenguva yeupenyu apo humbowo hwakasimba:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Uduku:** dzidzo shoma.
+- **Zera repakati peupenyu (makore angangoita 40 kusvika 65):** kurasikirwa nekunzwa, LDL cholesterol (“yakaipa”) yakakwira, kuora mwoyo, kukuvara kwemusoro, kusaita zvekurovedza muviri, chirwere cheshuga, kuputa, ropa rakakwira, kufutisa, uye kunwa doro zvakanyanya.
+- **Nguva yekukura:** kusagara nevamwe, kusvibiswa kwemhepo, uye kurasikirwa nekuona kusina kurapwa.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Zvinhu zviviri zvitsva zvakawedzerwa muna 2024 iLDL cholesterol yakakwira uye kurasikirwa nekuona kusina kurapwa. Zvinhu zvakabatana nechikamu chikuru chezviitiko kwaiva kurasikirwa nekunzwa neLDL cholesterol yakakwira (inenge 7% chimwe nechimwe), zvichiteverwa nedzidzo shoma nekusagara nevamwe (inenge 5% chimwe nechimwe).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Ruzivo rwedu nezvezvinhu zvenjodzi](/brain-health/risk-factors/) runotsanangura zvinhu zvose gumi nezvina mutafura, nezvinobatanidzwa netsvakurudzo uye zvamungaita.
 
-### What the 45% figure does not mean
+### Zvasingarehwi nechiverengero che45%
 
-It is easy to misread this number, so it helps to be precise:
+Zviri nyore kusanzwisisa nhamba iyi, saka zvinobatsira kujekesa:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ifungidziro yevanhu vose.** Inotsanangura zviitiko zvedementia pasi rose, kwete mukana wenyu kana wemubereki wenyu.
+- **Inotora kuti pane chikonzero nemhedzisiro.** Vanyori vanoti vakabatanidza chete zvinhu zvenjodzi zvine humbowo hunogutsa, asi kuti humwe hukama hungangove husina kukwana pakukonzera. Semuenzaniso, kuora mwoyo panguva yekukura dzimwe nguva kunogona kuva chiratidzo chekutanga chedementia kwete chikonzero.
+- **Haivimbisi chinhu kumunhu mumwe nemumwe.** Pfupiso yeUCL inoti kuderedza njodzi kunoshanda padanho revanhu vose uye hakuvimbisi kuti munhu mumwe nemumwe achadzivirira dementia.
+- **Hafu imwe haina kutsanangurwa nezvinhu izvi.** Zera, majini nezvikonzero zvisati zvanzwisiswa nevesainzi ndizvo zvinoita chikamu chasara.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Musiyano uri pakati pe“kuderedza njodzi” ne“kudzivirira” chii?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Kuderedza njodzi** kunoreva kudzikisa mukana. Kana boka guru revanhu rikadzikisa ropa ravo, vashoma pakati pavo vanogona kuva nedementia mumakore akawanda kupfuura vangadai vakava nayo. Vamwe vanhu muboka iroro vacharamba vachiva nayo.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Kudzivirira** kunoreva kumisa chinhu kuti chisaitike zvachose. Panyaya yedementia, tsvakurudzo haigoni kuvimbisa izvozvo kumunhu upi zvake nhasi.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Vatsvakurudzi vanotaurawo nezve**kunonotsa**. Lancet Commission inoshuma humbowo hutsva hunoratidza kuti kuderedza njodzi kunogona kusundidzira mberi nguva inotanga dementia uye kupfupisa nguva inorarama munhu aine hutano husina kunaka. Kunyange kunonoka kwemakore mashoma kunogona kureva zvakawanda kumunhu nemhuri yake.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Pasaiti ino, tinoshandisa “kuderedza njodzi” uye “zvakabatana ne” nemaune. Kana mukaona chigadzirwa, chinowedzera kudya kana chirongwa chinovimbisa “kudzivirira Alzheimer's”, chitarisai nekungwarira. NIA inokurudzira kubvunza chiremba musati maedza piritsi ripi zvaro kana kurapwa kunovimbisa kudzivirira Alzheimer's, nokuti zvigadzirwa zvakadaro zvinogona kuva nengozi, kurasisa mari, kana zvose.
 
-## What have large trials found?
+## Miedzo mikuru yakawanei?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Zvidzidzo zvekuongorora (zvinotarisa zvinoitika kuvanhu nekufamba kwenguva) zvinogona kuratidza hukama. Miedzo isina rusaruro, apo vanhu vanopiwa chirongwa kana boka rekuenzanisa netsaona, ndiyo bvunzo yakasimba. Hezvino zvakawanikwa nemimwe yemiedzo inonyanya kuzivikanwa.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Muedzo weFINGER wakabatanidza vakuru 1,260 vane makore 60 kusvika 77 vaiva nenjodzi yakakwira yedementia. Hafu yakagamuchira chirongwa chemakore maviri chezano rekudya, kurovedza muviri, kurovedza uropi pakombuta uye kuongororwa kwehutano hwemoyo netsinga dzeropa; imwe hafu yakagamuchira zano rehutano rese. Boka rechirongwa rakaita zvishoma nani pabvunzo dzekufunga, mutsauko mudiki asi une kukosha kwezviverengero ([muedzo weFINGER muThe Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Muedzo wakayera zvabuda pabvunzo, kwete kuonekwa kwedementia.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER yakabatanidza vakuru 2,111 vane makore 60 kusvika 79 vaisaita zvekurovedza muviri, vaiva nekudya kusina hutano uye vaiva nedzimwe njodzi. Mapoka ose ari maviri akakurudzirwa kuva anoshingaira mumuviri nepfungwa, kudya zviri nani, kuramba vachisangana nevamwe uye kutarisa hutano hwemoyo. Boka rimwe rakawana chirongwa chakarongeka chine murairidzi; rimwe rakazvitungamirira. Mumakore maviri, zvabuda pabvunzo dzekufunga zvakavandudzika mu**mapoka ose ari maviri**, uye zvishoma zvakanyanya muboka rakarongeka ([muedzo weUS POINTER muJAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Vanyori vanoti kutevera kwakawanda kunodiwa kuti zvizivikanwe kana mutsauko uyu une basa muupenyu hwezuva nezuva. Nokuti pakanga pasina boka re“kusaita chinhu”, muedzo haugoni kutaura kuti chirongwa chimwe nechimwe chakabatsira zvakadii uchienzaniswa nekusachinja.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (ropa rakakwira)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND yakaongorora vakuru 9,361 vekuUS vane makore 50 zvichikwira vaiva neropa rakakwira. Vakapihwa chinangwa cheropa rakaderera (nhamba yepamusoro iri pasi pe120) kana chinangwa chakajairwa (pasi pe140). Chinangwa chakaderera chakaderedza zvakanyanya **mild cognitive impairment**, danho rematambudziko ekurangarira nekufunga anogona kuuya dementia isati yasvika. Pa**probable dementia**, pakanga paine zviitiko zvishoma muboka rechinangwa chakaderera, asi mutsauko wacho wakanga usina kukosha kwezviverengero. Muedzo wakamiswa nguva isati yakwana uye wakava nezviitiko zvedementia zvishoma kudarika zvaitarisirwa, saka ungangove wakanga uri mudiki zvakanyanya kupindura mubvunzo iwoyo ([SPRINT MIND muJAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Zvinowedzerwa neongororo
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Ongororo yeCochrane ya2021 yakaunganidza miedzo mikuru mipfumbamwe yezvirongwa zvinobata njodzi dzakawanda panguva imwe chete, ine vanhu vanopfuura 18,000. Yakawana bhenefiti diki pabvunzo dzekufunga, asi **hapana mutsauko wakajeka muhuwandu hwevanhu vakava nedementia** mumiedzo miviri yakazviyera ([ongororo yeCochrane yemulti-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Ongororo ya2017 yeNational Academies of Sciences, Engineering, and Medicine, yakapfupikiswa neNIA, yakawana humbowo “hunokurudzira asi husina kugutsa” panzira nhatu: kutarisira ropa rakakwira, kuwedzera kurovedza muviri, uye kudzidzisa pfungwa.
 
-## Does it matter when you start?
+## Zvine basa here kuti munotangira riini?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Zano reLancet Commission nderokuderedza njodzi nekukurumidza sezvinobvira uye kudzichengeta dzakaderera kwenguva yakareba sezvinobvira: “nekukurumidza zviri nani” uye “kwenguva yakareba zviri nani.” Inotiwo hakuna kukurumidza kana kunonoka kuderedza njodzi. Humbowo huzhinji hune chekuita nezera repakati peupenyu, makore angangoita 40 kusvika 65, asi zvimwe zvinhu, zvakaita sekurasikirwa nekuona nekusagara nevamwe, injodzi dzenguva yekukura apo chiito chichiri kuita musoro.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Mushumo unoti ikozvino pane humbowo hwakasimba hunoratidza kuti kuratidzwa kunjodzi kwenguva yakareba kune mhedzisiro yakakura. Semuenzaniso, chirwere cheshuga chinotanga pazera repakati peupenyu chinoita sechinokosha kupfuura chinotanga gare gare.
 
-## Is dementia risk the same for everyone?
+## Njodzi yedementia yakafanana kumunhu wese here?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Kwete. Commission yakawana kuti vanhu vari munyika dzine mari shoma kana yepakati, vanhu vemapoka madiki uye vanhu vane mari shoma vanowanzova nenjodzi dzakawanda, saka dementia inowanzotanga pazera diki. Njodzi dzakawanda dzakabatana nemamiriro ezvinhu asina kusarudzwa nevanhu, zvakaita semhando yedzidzo yavakawana vachiri vadiki, mhepo yavanogara mairi, uye kuti chikafu chine hutano chinowanikwa nemutengo wavanokwanisa here uye pedyo navo.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Ndokusaka kurudziro dzeCommission dzakanangana nehurumende sezvadzakangonangana nevanhuwo zvavo: dzidzo yakanaka kuvana vose, mhepo yakachena, matanho ekuderedza kuputa, shuga nemunyu zvishoma muzvikafu zvinotengeswa muzvitoro nemaresitorendi, uye rubatsiro rwekunzwa kune wese anoruda. Kuedza kwemunhu kunokosha, asi nenyika inogara vanhu inokoshawo. Ichi chimwe chikonzero chekusapa munhu mhosva nekuonekwa kuti ane dementia.
 
-## What are the honest limits of this research?
+## Miganhu yechokwadi yetsvakurudzo iyi ndeipi?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dementia inotora makumi emakore kuti ikure**, asi miedzo mizhinji inotora makore maviri kusvika mashanu. Kuyera dementia pachayo, kwete zvabuda pabvunzo chete, kunoda zvidzidzo zvirefu zvikuru uye zvakakura.
+- **Miedzo mizhinji inoyera bvunzo dzekufunga.** Kuvandudzika kudiki pabvunzo hazvirevi hazvo kuti vanhu vashoma vachava nedementia kana kuti upenyu hwezuva nezuva huchava nyore.
+- **Vanozvipira mumiedzo vanowanzova neutano huri nani** uye dzidzo yakawanda kupfuura vanhu vose. Lancet Commission inoti humbowo huzhinji huchiri kubva kunyika dzine mari yakawanda uye kuti mapoka madiki haamiririrwi zvakakwana.
+- **Humwe hukama hunoshanda kumativi ose.** Kusanyanya kushanda kana kusagara nevamwe kunogona kuva mhedzisiro yekutanga yedementia, kwete chikonzero chete.
+- **Miedzo yekudya haisati yapa migumisiro yakanaka kusvika parizvino.** Muedzo wemakore matatu wekudya kweMIND hauna kuwana mutsauko mukuru pakufunga uchienzaniswa nekudya kwekudzora. Onai [ruzivo rwedu nezvekudya](/brain-health/diet/).
+- **Mitambo yeuropi haina kuratidzwa kuti inodzivirira dementia.** Onai ruzivo rwedu nezve[mitambo yeuropi nedementia](/brain-health/brain-games/).
+- **Kutsanya kune humbowo hushoma kwazvo muvanhu**, uye kunogona kuva nenjodzi kuvakuru. Onai [ruzivo rwedu nezvekutsanya](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Kana mumwe munhu akaita zvinhu zvose “zvakanaka”, sei akaramba achiva nedementia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Nokuti dementia haisi mhedzisiro yesarudzo chete. NIA inoti [zera ndiro njodzi huru inozivikanwa yeAlzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), uye hapana anogona kurichinja. Majini anoita basa. Uye vesainzi havasati vanzwisisa zvizere zvinokonzera Alzheimer's muvanhu vazhinji. Kunyange dai zvinhu zvose gumi nezvina zvenjodzi zvikabviswa, fungidziro yeLancet Commission pachayo inosiya zvinopfuura hafu yezviitiko zvisina kutsanangurwa.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Saka kana muchitarisira munhu airovedza muviri, aidya zvakanaka, aisamboputa uye akazova nedementia, hapana chakakanganisika kwaari, kana kwamuri. Kana imi pachenyu muchirarama nedementia, hamuna mhosva. Kunzwa uine mhosva kunowanzoitika mumhuri, asi hakufanirwe. Chinokosha iye zvino kunyaradzwa, hukama nemazuva akanaka, uye [pfungwa dzedu dzezviitwa](/activities/ideas/) ne[ruzivo rwedu rwekuzvichengetedza kwevanotarisira](/caregiving/caregiver-self-care/) inzvimbo yakanaka yekutanga.
 
-## What steps can you talk over with a doctor?
+## Ndeapi matanho amungakurukura nachiremba?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Aya ndiwo mapoka anonyanya kuongororwa. Zvakakodzera kuataura pakuongororwa nekuti mazhinji acho anobatsirawo hutano hwemoyo, manzwiro uye kuzvimiririra, zvisinei nekuti zvichazoita sei padementia.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Ropa.** Bvunzai kuti nhamba dzenyu ndedzipi uye kuti ndechipi chinangwa chinokukodzerai. Lancet Commission inoratidza kuvavarira nhamba yepamusoro ye130 kana pasi kubva pamakore angangoita 40, asi chinangwa chakanaka kumunhu mukuru chinoenderana nehutano hwake hwose.
+2. **Kunzwa.** Kumbirai kuongororwa kwekunzwa, uye kuti rubatsiro rwekunzwa rungabatsira here. [Ruzivo rwedu nezvekunzwa](/brain-health/hearing/) runotsanangura tsvakurudzo.
+3. **Kuona.** Itai ongororo dzemaziso nguva dzose uye bvunzai kana matambudziko akaita secataracts achigona kurapwa.
+4. **Cholesterol.** Bvunzai kana LDL cholesterol yenyu ichifanira kuongororwa uye kana pane chinofanira kuchinja.
+5. **Shuga muropa.** Kana muine chirwere cheshuga, bvunzai kuti mungachitarisira sei zvakachengeteka.
+6. **Manzwiro.** Kuora mwoyo kwakajairika uye kunorapika. Udza chiremba kana makanzwa kusuwa kana kurasikirwa nechido muzvinhu kweanopfuura mavhiki maviri.
+7. **Kuputa nedoro.** Bvunzai nezverubatsiro rwekurega kuputa uye nezvemiganhu yakachengeteka yedoro.
+8. **Kufamba nekurovedza muviri.** Bvunzai kuti ndeupi rudzi rwezvekuita rwakachengeteka kwamuri. [Ruzivo rwedu nezvekurovedza muviri](/brain-health/exercise/) rune pfungwa.
+9. **Kudzivirira musoro.** Pfekai ngowani yekudzivirira paunenge uchitasva bhasikoro kana kutamba mitambo yekusangana, uye bvunzai nezvekudzivirira kudonha.
+10. **Kuramba muchisangana nevamwe.** Nguva nevamwe vanhu chikamu cheupenyu hune hutano. Onai ruzivo rwedu nezve[hukama nevamwe](/brain-health/social-connection/), uye nezve[kurara](/brain-health/sleep/) zvakare.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Musati machinja mishonga, kudya, zvinowedzera kudya, kutsanya kana kurovedza muviri, kurukurai nachiremba wenyu kutanga, kunyanya kana muine chirwere chemoyo, chirwere cheshuga, nhoroondo yekudonha, kana kuti mava kuto rarama nedementia.
 
-## Talk with a doctor
+## Taurai nachiremba
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Kana mukaona shanduko dzekurangarira kana dzekufunga dzinokunetsai, mamuri kana mumumwe munhu, gadzirai nguva yekuonana nachiremba. NIA inoti [matambudziko ekurangarira anogona kuva nezvimwe zvikonzero](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), zvakaita semhedzisiro yemishonga, matambudziko ethyroid, kuora mwoyo kana kushomeka kwevhitamini B12, uye kuti mamwe ematambudziko aya anopera kana chikonzero charapwa. [Ruzivo rwedu nezvezviratidzo zvekuyambira](/brain-health/warning-signs/) runotsanangura zvamunofanira kutarisa.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Tsvakai rubatsiro rwechimbichimbi** pakuchinja kunongoerekana kwaitika: kuvhiringika kamwe kamwe, kushaya simba kana chiveve kune rumwe rutivi, kunetseka kutaura, kana kurwadziwa kukuru kwemusoro zvinogona kuva zviratidzo zvesitiroko kana chimwe chinhu chinoda rubatsiro rwechimbichimbi. Fonera 911.
 
-## Where Golden Moments fits
+## Panopinda Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments inoita zviitwa zviri nyore zvinoitwa pamwe chete, zvakaita se[makadhi ekukurukurirana](/games/conversation-cards/), [bhingo yemifananidzo](/games/picture-bingo/) uye [kumbomira kwekufema zvinyoro nyoro](/games/calm-breathing/). Zvakaitirwa kunakidzwa nenguva yekuva pamwe chete. Hazvisi kurapwa, uye hazvidziviriri kana kunonotsa dementia.

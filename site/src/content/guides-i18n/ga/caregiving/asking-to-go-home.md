@@ -1,31 +1,37 @@
 ---
-title: "Nuair a bhíonn duine le néaltrú ag iarraidh dul abhaile"
-seoTitle: "Duine le néaltrú ag iarraidh dul abhaile"
-description: "Cén fáth a mbíonn duine atá ag maireachtáil le néaltrú ag iarraidh dul abhaile fiú nuair atá sé sa bhaile, cad a déarfaidh tú, gníomhaíochtaí suaimhneacha le triail, agus conas é a choinneáil slán má dhéanann sé iarracht imeacht."
+title: "Nuair a Iarrann Duine le Néaltrú Dul Abhaile arís is arís"
+seoTitle: "Nuair a Iarrann Duine le Néaltrú Dul Abhaile"
+description: "Cén fáth a n-iarrann duine atá ina chónaí le néaltrú dul abhaile fiú nuair atá sé sa bhaile, cad le rá, gníomhaíochtaí suaimhneacha, agus conas iad a choinneáil sábháilte."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Nuair a bhíonn duine atá ag maireachtáil le néaltrú ag iarraidh dul abhaile go minic, is mothúchán slándála nó áit ón am atá caite a bhíonn i gceist leis an bhfocal 'abhaile', ní an foirgneamh ina bhfuil sé. Ná déan argóint leis nach bhfuil sé sa bhaile. Aithin an mothúchán, tabhair cinnte dó go bhfuil sé slán, fiafraigh dó faoi a bhaile, ansin bog go réidh chuig grianghraif, ceol, sneaiceanna, siúlóid nó tasc simplí. Seiceáil an bhfuil ocras, tart, gá leis an leithreas nó pian air. Má thosaíonn sé go tobann, glaoigh ar dhochtúir an duine sin.
+  Nuair a bhíonn duine atá ina chónaí le néaltrú ag iarraidh dul abhaile arís is
+  arís eile, is minic a chiallaíonn “baile” mothú sábháilteachta nó áit ón am atá
+  thart, ní foirgneamh. Ná hargóint leo go bhfuil siad sa bhaile. Aithin an
+  mothú, tabhair misneach dóibh go bhfuil siad sábháilte, fiafraigh dóibh faoin
+  mbaile, ansin bog go réidh chuig grianghraif, ceol, sneaiceanna, siúlóid nó
+  tasc simplí. Seiceáil an bhfuil ocras, tart, gá leis an leithreas nó pian
+  orthu. Má thosaíonn sé go tobann, cuir glaoch ar a ndochtúir.
 keyPoints:
-  - "Is minic a chiallaíonn 'Ba mhaith liom dul abhaile' ná 'Ní bhraitheann mé slán ná socair anseo', ní iarraidh ar sheoladh ar bith."
-  - "Is gnách go ndéanann argóint nó iarracht a chruthú go bhfuil sé sa bhaile an t-anacair níos measa. Freagair an mothúchán seachas na focail."
-  - "Iarr air labhairt faoi a bhaile, ansin tabhair grianghraif, ceol, sneaiceanna, siúlóid nó tasc simplí dó."
-  - "Seiceáil rud éigin is féidir a dheisiú: ocras, tart, an leithreas, pian, bheith ró-the nó ró-fhuar, torann, tuirse."
-  - "Má tharlaíonn sé gach tráthnóna déanach, d'fhéadfadh sé a bheith mar gheall ar shundowning; is féidir le gnáthamh seasta agus solas maith cabhrú leis sin."
-  - "Déan plean don tsábháilteacht má dhéanann sé iarracht imeacht, agus glaoigh ar dhochtúir an duine sin má thagann athrú tobann air."
+  - "Is minic a chiallaíonn “Ba mhaith liom dul abhaile” ná “Níl mé ag mothú sábháilte nó socair,” ní iarratas ar sheoladh."
+  - "Is minic a chuireann argóint nó iarracht a chruthú go bhfuil siad sa bhaile leis an anacair. Freagair an mothú ina áit."
+  - "Iarr orthu insint duit faoin mbaile, ansin tairg grianghraif, ceol, sneaiceanna, siúlóid nó tasc simplí."
+  - "Seiceáil an bhfuil rud éigin ann is féidir a cheartú: ocras, tart, an leithreas, pian, róthe nó rófhuar, torann, tuirse."
+  - "Má tharlaíonn sé gach tráthnóna déanach, d’fhéadfadh gur corraíl tráthnóna é; d’fhéadfadh gnáthamh seasta agus solas maith cabhrú."
+  - "Déan pleanáil don tsábháilteacht má dhéanann siad iarracht imeacht, agus cuir glaoch ar a ndochtúir faoi aon athrú tobann."
 faq:
-  - q: "Cén fáth go mbíonn mo mháthair atá ag maireachtáil le néaltrú ag iarraidh dul abhaile go minic nuair atá sí sa bhaile?"
-    a: "Is féidir le néaltrú seomraí eolacha a dhéanamh aisteach, agus bíonn daoine ag mothú uaireanta go bhfuil siad ag maireachtáil i dtréimhse níos luaithe dá saol. D'fhéadfadh go gciallódh 'abhaile' teach óige nó go simplí an mothúchán slándála agus compoird. Is gnách go n-oibríonn sé níos fearr an mothúchán sin a fhreagairt ná a chur in iúl di cá bhfuil sí."
-  - q: "Cad ba chóir dom a rá nuair a iarrann siad dul abhaile?"
-    a: "Déan iarracht 'Tá tú slán anseo, agus tá mé fágtha leat', ansin 'Inis dom faoi do bhaile.' Éist, roinn grianghraf nó amhrán leis, agus tairg deoch nó siúlóid ghearr dó. Seachain 'Tá tú sa bhaile anois' mar cheartú, mar is féidir go mbraitheann sé sin mar a bheadh á rá leis go bhfuil sé mícheart."
-  - q: "An bhfuil sé ceart go leor a rá go rachaimid abhaile níos déanaí?"
-    a: "Tá tuairimí éagsúla ag teaghlaigh agus ag eagraíochtaí néaltrú ar an gceist seo. Tosaíonn go leor le sólás macánta agus atreorú, agus coinníonn siad bréag bhog don am nuair nach mbeadh an fhírinne in ann a bheith oibrithe amach ag an duine gan mórán anacair. Cibé rud a roghnaíonn tú, bí cineálta agus comhsheasmhach, agus ná déan magadh ar a thuiscint ar an réaltacht riamh."
-  - q: "Cad má dhéanann siad iarracht an teach a fhágáil?"
-    a: "Bí socair agus siúil in éineacht leo seachas bac a chur orthu; is minic go socraíonn siúlóid ghearr an t-uaigneas sin. Cuir bearta sábháilteachta i bhfeidhm roimh ré, cosúil le bráisléad aitheantais, cloigíní ar na doirse agus grianghraf le déanaí. Má théann siad ar iarraidh, tosaigh ag cuardach láithreach, agus glaoigh ar 112 mura bhfuil tú tar éis iad a aimsiú laistigh de 15 nóiméad, ag rá go bhfuil néaltrú ar an duine."
-  - q: "Cathain ba chóir dom glaoch ar dhochtúir?"
-    a: "Glaoigh ar dhochtúir an duine sin go pras má thosaíonn an iarraidh nó an mhearbhall go tobann, nó má éiríonn sé i bhfad níos measa thar uaireanta nó laethanta, go háirithe má bhíonn fiabhras ann, cógas nua á ghlacadh aige nó comharthaí ionfhabhtaithe conradh na fuail. D'fhéadfadh mearbhall tobann a bheith ina dheilíriam, agus teastaíonn cúram práinneach leis. Glaoigh ar 112 má bhíonn aon duine i mbaol."
+  - q: "Cén fáth a mbíonn mo mháthair atá ina cónaí le néaltrú ag iarraidh dul abhaile arís is arís nuair atá sí sa bhaile?"
+    a: "Féadann néaltrú a chur faoi deara go mbraitheann seomraí aitheanta aisteach, agus uaireanta mothaíonn daoine go bhfuil siad ag maireachtáil i dtús ama níos luaithe ina saol. D’fhéadfadh gur teach óna hóige a bheadh i gceist le “baile” nó go simplí mothú sábháilteachta agus compoird. Is minic a oibríonn freagairt don mhothú sin níos fearr ná a chur in iúl di cá bhfuil sí."
+  - q: "Cad ba cheart dom a rá nuair a iarrann siad dul abhaile?"
+    a: "Bain triail as “Tá tú sábháilte anseo, agus táimse ag fanacht leat,” agus ansin “Inis dom faoi do bhaile.” Éist leo, roinn grianghraf nó amhrán, agus tairg deoch nó siúlóid ghearr. Seachain “Tá tú sa bhaile” a rá mar cheartú, mar d’fhéadfadh sé a chur orthu mothú go bhfuil an iomarca orthu."
+  - q: "An bhfuil sé ceart a rá go rachaimid abhaile níos déanaí?"
+    a: "Tá tuairimí éagsúla ag teaghlaigh agus ag eagraíochtaí néaltrú faoi seo. Tosaíonn go leor daoine le sólás macánta agus atreorú, agus coinníonn siad bréag bheag chúramach do chuimhneacháin nuair nach ndéanfadh an fhírinne ach anacair nach féidir leis an duine déileáil léi. Cibé rogha a dhéanann tú, bí cineálta agus comhsheasmhach, agus ná déan magadh ar a dtuiscint ar an réaltacht."
+  - q: "Cad a tharlaíonn má dhéanann siad iarracht an teach a fhágáil?"
+    a: "Fan socair agus siúil leo seachas bac a chur orthu; is minic a shocraíonn siúlóid ghearr an fonn. Cuir céimeanna sábháilteachta i bhfeidhm roimh ré, mar shampla bráisléad aitheantais, cloigíní dorais agus grianghraf le déanaí. Má théann an duine ar iarraidh, seiceáil áiteanna sábháilte in aice láimhe agus déan teagmháil láithreach leis na póilíní áitiúla nó leis na seirbhísí éigeandála. Ná fan líon socraithe nóiméad sula ndéanann tú tuairisc."
+  - q: "Cathain ba cheart dom glaoch a chur ar dhochtúir?"
+    a: "Cuir glaoch ar a ndochtúir go pras má thosaíonn an t-iarratas nó an mearbhall go tobann nó má éiríonn sé i bhfad níos measa thar uaireanta nó laethanta, go háirithe má bhíonn fiabhras, cógas nua nó comharthaí ionfhabhtaithe conradh urinary ann. D’fhéadfadh gur deilíiriam a bheadh i gceist le mearbhall tobann, agus bíonn cúram práinneach ag teastáil uaidh. Glaoigh ar na seirbhísí éigeandála má bhíonn aon duine i mbaol."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -45,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -62,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"Ba mhaith liom dul abhaile." Is é seo ceann de na rudaí is deacra a chloistear i go leor teaghlaigh, go háirithe nuair atá an duine a bhfuil tú ag tabhairt aire dó ina sheomra suí féin. Tarlaíonn sé go coitianta, is féidir leis tarlú ag aon chéim den néaltrú, agus tá bealaí socracha praiticiúla ann chun freagairt dó. Clúdaíonn an leathanach seo cad is brí leis na focail go minic, cad a déarfaidh tú, gníomhaíochtaí a d'fhéadfadh cabhrú sa nóiméad, agus conas fanacht slán.
+“Ba mhaith liom dul abhaile.” Do go leor teaghlach, tá sé seo ar cheann de na rudaí is deacra le cloisteáil, go háirithe nuair atá an duine atá faoi do chúram ina shuí ina sheomra suí féin. Is rud coitianta é, d’fhéadfadh sé tarlú ag céim ar bith den néaltrú, agus tá bealaí socra, praiticiúla ann chun freagairt. Clúdaíonn an leathanach seo cad a chiallaíonn na focail go minic, cad le rá, gníomhaíochtaí a d’fhéadfadh cabhrú sa nóiméad, agus conas fanacht sábháilte.
 
-## Cén fáth go mbíonn duine atá ag maireachtáil le néaltrú ag iarraidh dul abhaile go minic?
+## Cén fáth a mbíonn duine atá ina chónaí le néaltrú ag iarraidh dul abhaile arís is arís?
 
-Go hiondúil, is mothúchán seachas áit é an 'abhaile'. De réir Alzheimer’s Society, is mothúchán compoird agus slándála é, nó teach ón am atá caite, seachas an teach féin. Is féidir le néaltrú seomraí eolacha a dhéanamh aisteach, agus d'fhéadfadh go mbraitheann an duine go bhfuil sé ina chónaí i dtréimhse níos luaithe dá shaol, nuair a bhí a bhaile ina theach óige nó ina áit ar bhain sé a pháistí amach ann.
+De ghnáth, is mothú atá i gceist le “baile” seachas áit. Cuireann an Alzheimer’s Society síos air mar mhothú compoird agus sábháilteachta, nó mar bhaile ón am atá thart, seachas an teach féin. Féadann néaltrú a chur faoi deara go mbreathnaíonn seomraí aitheanta aisteach, agus d’fhéadfadh duine a bheith ag mothú go bhfuil sé nó sí ag maireachtáil i dtréimhse níos luaithe dá saol, nuair a bhí an baile ina theach óige nó san áit ar thóg sé nó sí a chlann.
 
-D'fhéadfadh na focail a bheith ina chomhartha freisin go bhfuil rud éigin eile cearr ag an am sin: b'fhéidir go bhfuil ocras nó tart air, go bhfuil gá leis an leithreas, go bhfuil pian air, go bhfuil sé ró-the nó ró-fhuar, tuirseach, uaigneach, scanraithe nó curtha trína chéile ag torann. Liostaíonn an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) pian, torann, uaigneas, athruithe ar ghnáthamh agus cógais i measc na gcúiseanna a d'fhéadfadh corraíl a chruthú.
+D’fhéadfadh na focail a bheith ina chomhartha freisin go bhfuil rud éigin eile mícheart faoi láthair: tá ocras nó tart orthu, tá gá acu leis an leithreas, tá pian orthu, tá siad róthe nó rófhuar, tuirseach, uaigneach, scanraithe, nó faoi léigear ag torann. Liostaíonn an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) pian, torann, uaigneas, athruithe ar ghnáthamh agus cógais i measc na gcúiseanna le corraíl.
 
-## Cad ba chóir dom a rá nuair a iarrann siad dul abhaile?
+## Cad ba cheart dom a rá nuair a iarrann siad dul abhaile?
 
-Freagair an mothúchán, ní na focail. Molann an [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gan iarracht a dhéanamh ar an duine a chur ina luí go bhfuil sé mícheart: tá a mhothúcháin fíor, mar sin tabhair sólás agus dearbhú dó ar dtús, ansin atreoraigh go réidh é.
+Freagair an mothú, ní na focail. Molann an [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gan iarracht a dhéanamh a chur ina luí ar an duine go bhfuil an iomarca orthu: tá a mothúcháin fíor, mar sin freagair le sólás agus le misneach ar dtús, agus ansin atreoraigh go réidh iad.
 
-Seo roinnt frásaí a d'fhéadfadh cabhrú:
+Frásaí a chabhraíonn go minic:
 
-- **Aithin an mothúchán.** "Is cosúil go bhfuil cumha ort as do bhaile."
-- **Tabhair dearbhú.** "Tá tú slán anseo, agus tá mé fágtha leat." Molann an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) na focail shimplí "Tá tú slán anseo."
-- **Tabhair cuireadh cuimhní a roinnt.** "Inis dom faoi do bhaile. Cad a bhí i do chistin mar sin?" Is gnách go mbíonn ceisteanna faoin am i bhfad níos compoirdí ná ceisteanna faoin lá inniu.
-- **Tairg rud éigin a dhéanamh le chéile.** "Déanaimis cupán tae ar dtús," nó "Ar mhaith leat cabhrú liom leis na tuáillí seo?"
+- **Ainmnigh an mothú.** “Is cosúil go bhfuil cumha ort i ndiaidh an bhaile.”
+- **Tabhair misneach.** “Tá tú sábháilte anseo, agus táimse ag fanacht leat.” Molann an [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) na focail shimplí “Tá tú sábháilte anseo.”
+- **Tabhair cuireadh do chuimhní.** “Inis dom faoi do bhaile. Cén chuma a bhí ar do chistin?” De ghnáth bíonn sé níos compordaí ceisteanna a chur faoin am i bhfad siar ná faoin lá inniu.
+- **Tairg rud éigin le déanamh le chéile.** “Déanaimis cupán tae ar dtús,” nó “An mbeadh fonn ort cabhrú liom leis na tuáillí seo?”
 
-Is féidir le ton teasúil agus lámh ar a ghéag, má thaitníonn teagmháil leis, níos mó a rá ná na focail féin.
+Is féidir le ton cineálta agus lámh ar an lámh, má thaitníonn teagmháil leo, níos mó a rá ná na focail.
 
-## Cad ba chóir dom a sheachaint?
+## Cad ba cheart dom a sheachaint?
 
-- **Argóint nó míniú.** "Tá tú i do chónaí anseo anois" nó "Seo do bhaile le 40 bliain" iarrann ar an duine glacadh le rud atá deacair dá néaltrú glacadh leis, agus is féidir go mbraitheann sé sin mar a bheadh á rá leis go bhfuil sé mícheart.
-- **Ceistiú.** "Nach cuimhin leat?" nó "Cad é an seoladh?" cuireann brú leis.
-- **An doras a bhlocáil le fearg.** Má thosaíonn siad ag dul amach, bí socair agus siúil in éineacht leo. Is minic go socraíonn siúlóid ghearr in éineacht leis an uaigneas sin.
-- **Deifir.** Tabhair am dó labhairt faoina bhaile sula n-athraíonn tú ábhar an chomhrá.
+- **Argóint nó míniú.** Iarrann “Tá tú i do chónaí anseo anois” nó “Is é seo do theach le daichid bliain” orthu glacadh le rud a fhágann néaltrú deacair a ghlacadh, agus d’fhéadfadh sé a chur orthu mothú go bhfuil an iomarca orthu.
+- **Ceistiúchán.** Cuireann “Nach cuimhin leat?” nó “Cad é an seoladh?” brú breise orthu.
+- **Bac a chur ar an doras le fearg.** Má théann siad amach, fan socair agus siúil leo. Is minic a shocraíonn siúlóid ghearr le chéile an fonn.
+- **Deifir.** Tabhair am dóibh labhairt faoin mbaile sula n-athraíonn tú an t-ábhar.
 
-## Gníomhaíochtaí a d'fhéadfadh cabhrú sa nóiméad
+## Gníomhaíochtaí a d’fhéadfadh cabhrú sa nóiméad
 
-Tar éis duit an mothúchán a aithint, is féidir le gníomhaíocht shocair eolach aird a aistriú gan é a chur ar leataobh.
+Tar éis duit an mothú a aithint, is féidir le gníomhaíocht shocair, aitheanta aird a athrú gan é a dhíbhe.
 
-1. **Féach ar ghrianghraif den bhaile agus den teaghlach.** Cas na leathanaigh agus déan tráchtanna ("Féach ar an ngairdín sin") seachas ceisteanna a chur. Ar fhón nó táibléad, déanann [Photo pairs](/games/photo-pairs/) do ghrianghraif teaghlaigh féin ina gcluiche meaitseála bog, agus fanann na grianghraif ar do ghléas féin.
-2. **Labhairt faoin mbaile.** Tugann [Conversation cards](/games/conversation-cards/) leid oscailte faoi thithe, cistineacha, comharsana agus laethanta saoire, gan freagra ceart ar bith.
-3. **Seinn ceol is ansa leis.** Liostaíonn an National Institute on Aging ceol suaimhneach mar bhealach chun corraíl a mhaolú. Féach ár [gníomhaíochtaí ceoil](/activities/music/).
-4. **Bíodh sneaiceanna nó deoch aige.** Is féidir le ocras agus tart a bheith cosúil le neamhsheasamh. Is deas freisin cupán tae nó sóidín is fearr leis a bheith ina nós beag atá bainteach leis an mbaile.
-5. **Téigh ag siúl nó suí amuigh.** Cabhraíonn gluaiseacht agus solas an lae, go háirithe níos luaithe sa lá.
-6. **Tabhair jab eolach dó.** Is féidir le fillteadh níocháin, miasanna a shórtáil nó plandaí a uisciú an mothúchán a thabhairt ar ais go raibh sé i mbun a thí.
-7. **Moilligh gach rud.** Múch an teilifís, laghdaigh an torann agus an lonradh, agus déan sos [análú socair](/games/calm-breathing/) le chéile.
+1. **Breathnaigh ar ghrianghraif den bhaile agus den teaghlach.** Iompaigh na leathanaigh agus déan tráchtanna (“Féach ar an ngairdín sin”) seachas ceisteanna a chur. Ar fhón nó ar tháibléad, déanann [Photo pairs](/games/photo-pairs/) cluiche meaitseála socair de do ghrianghraif teaghlaigh féin, agus fanann na grianghraif ar do ghléas.
+2. **Labhair faoin mbaile.** Tugann [Conversation cards](/games/conversation-cards/) leid oscailte faoi thithe, cistiní, comharsana agus laethanta saoire, gan aon fhreagraí cearta.
+3. **Seinn ceol a thaitníonn leo.** Liostaíonn an National Institute on Aging ceol suaimhneach i measc na mbealaí chun corraíl a mhaolú. Féach ár [ngníomhaíochtaí ceoil](/activities/music/).
+4. **Bíodh sneaiceanna nó deoch agat.** Uaireanta bíonn cuma shuaite ar ocras agus ar thart. Is deasghnáth beag den bhaile é cupán tae nó sneaiceanna is fearr leo freisin.
+5. **Téigh ar shiúlóid nó suigh amuigh.** Cuidíonn gluaiseacht agus solas an lae, go háirithe níos luaithe sa lá.
+6. **Tabhair jab aitheanta dóibh.** Féadann níocháin a fhilleadh, sceanra a shórtáil nó plandaí a uisce a thabhairt ar ais an mothú go bhfuil siad ag tabhairt aire don bhaile.
+7. **Moilligh gach rud síos.** Múch an teilifís, laghdaigh torann agus dalladh, agus bain triail as sos comhroinnte [calm breathing](/games/calm-breathing/).
 
 Mura n-oibríonn smaoineamh amháin, bain triail as ceann eile níos déanaí. Is toradh maith é suí go ciúin le chéile freisin.
 
-## Seiceáil cúis is féidir a dheisiú
+## Seiceáil an bhfuil cúis ann is féidir leat a cheartú
 
-| Seiceáil | Cad le triail |
+| Seiceáil | Cad ba cheart a thriail |
 | --- | --- |
-| Ocras nó tart | Tairg deoch agus sneaiceanna beaga |
-| Gá leis an leithreas | Tairg cuairt ar an leithreas, go socair agus gan mórán cainte |
-| Pian nó míchompord | Féach le haghaidh comharthaí cosúil le griméireacht, cuid den chorp a shealbhú nó constipation, agus cuir in iúl do dhochtúir an duine sin |
-| Ró-the nó ró-fhuar | Cuir sraith éadaigh leis nó bain di, nó coigeartaigh teocht an tseomra |
-| Torann nó plódú | Bog chuig seomra níos ciúine, múch an teilifís |
-| Tuirse nó ró-spreagadh | Lig dó scíth a ligean, déan an seomra a dorcha, seinn ceol bog |
-| Tráthnóna déanach | Féach an chuid faoi shundowning thíos |
+| Ocras nó tart | Tairg deoch agus sneaiceanna beag |
+| Gá leis an leithreas | Tairg cuairt ar an leithreas, go socair agus gan a bheith deifreach |
+| Pian nó míchompord | Cuardaigh comharthaí ar nós strainc, greim a choinneáil ar chuid den chorp nó buinneach, agus inis dá ndochtúir |
+| Róthe nó rófhuar | Coigeartaigh ciseal éadaigh nó teocht an tseomra |
+| Torann nó plódaitheacht | Bog go seomra níos ciúine, múch an teilifís |
+| Tuirse nó róspreagadh | Lig scíth, dorchaigh an seomra, seinn ceol bog |
+| Tráthnóna déanach | Féach an chuid thíos faoi chorraíl tráthnóna |
 
-Molann Alzheimer’s Society log gearr a choinneáil den am a tharlaíonn an iarraidh, mar shampla roimh bhéilí, tar éis cuairteoirí, nó ag breacadh an lae. Déanann patrúin níos éasca é a phleanáil roimh ré.
+Molann an Alzheimer’s Society taifead gearr a choinneáil ar an uair a tharlaíonn an t-iarratas, mar shampla roimh bhéilí, tar éis cuairteoirí, nó ag titim na hoíche. Déanann patrúin é níos éasca pleanáil roimh ré.
 
-## An bhfuil sé ceart go leor bréag bhog a insint?
+## An bhfuil sé ceart bréag bheag a insint?
 
-Is díospóireacht fhíor í seo, agus tagann teaghlaigh chineálta ar bhealaí éagsúla. Deir Alzheimer’s Society nach bhfuil freagra amháin ceart: is féidir le bréaga a dhéanamh go mbeadh daoine níos amhrasacha, mar sin cinntigh cad is fearr don duine agus bí comhsheasmhach. Ag an Penn Memory Center, is é tuairim an chomh-stiúrthóra gurb é an fhírinne an réamhshocrú, agus nach bhfuil bréag bhog inghlactha ach amháin nuair nach féidir leis an duine fírinne áirithe a phróiseáil, agus nár cheart magadh a dhéanamh ar a réaltacht riamh.
+Is díospóireacht fhíor í seo, agus tagann teaghlaigh chineálta ar chonclúidí difriúla. Deir an Alzheimer’s Society nach bhfuil freagra amháin ceart ann: d’fhéadfadh bréaga daoine áirithe a dhéanamh níos amhrasaí, mar sin déan cinneadh faoi cad is fearr don duine agus bí comhsheasmhach. I Penn Memory Center, is é tuairim an chomhstiúrthóra gurb í an fhírinne an réamhshocrú agus nach nglacfar le bréag bheag chúramach ach amháin nuair nach féidir leis an duine fírinne áirithe a phróiseáil, agus nár cheart magadh a dhéanamh ar a réaltacht riamh.
 
-Is minic a oibríonn bealach lárnach do chúramóirí: sólás macánta agus atreorú ar dtús ("Fanfaimid anseo anocht, agus tá mé ceart anseo leat"), gan argóint faoi cá bhfuil an baile.
+Faigheann go leor cúramóirí go n-oibríonn meánbhealach: sólás macánta agus atreorú ar dtús (“Fanfaidh muid anseo anocht, agus táim anseo leat”), gan argóint faoi cá bhfuil an baile.
 
-## Cad má tharlaíonn sé gach tráthnóna nó tráthnóna déanach?
+## Cad a tharlaíonn má tharlaíonn sé gach tráthnóna nó gach oíche?
 
-Is minic a dtugtar sundowning ar neamhsheasamh a thosaíonn nó a éiríonn níos measa sa tráthnóna déanach. Molann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) gnáthamh seasta, solas an lae agus gníomhaíocht laethúil, níos lú codlata déanacha, agus gan caiféin nó alcól déanach sa lá. Is féidir le soilse a chur ar siúl sula dtiteann an dorchadas cabhrú freisin. Tá tuilleadh eolais inár dtreoir faoi [ghníomhaíochtaí suaimhneacha sa tráthnóna déanach](/caregiving/late-day-restlessness/).
+Is minic a thugtar corraíl tráthnóna ar shuaiteacht a thosaíonn nó a éiríonn níos measa sa tráthnóna déanach. Molann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) sceideal seasta, solas lae agus gníomhaíocht gach lá, níos lú codlata déanach, agus gan caiféin ná alcól go déanach sa lá. Is féidir le soilse a chur ar siúl roimh thitim na hoíche cabhrú freisin. Tá tuilleadh inár dtreoir faoi [ghníomhaíochtaí socra tráthnóna déanach](/caregiving/late-day-restlessness/).
 
-## Coinnigh slán iad má dhéanann siad iarracht imeacht
+## Conas iad a choinneáil sábháilte má dhéanann siad iarracht imeacht
 
-Is féidir leis an iarraidh dul abhaile a bheith mar chúis le fánaíocht. Measann an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) go ndéanfaidh seis as gach deichniúr duine atá ag maireachtáil le néaltrú fánaíocht uair amháin ar a laghad.
+Féadann iarraidh dul abhaile a bheith ina chúis le fánaíocht. Measann an [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) go mbeidh seisear as gach deichniúr daoine atá ina gcónaí le néaltrú ag fánaíocht uair amháin ar a laghad.
 
-**Déan ullmhúchán roimh ré:**
+**Ullmhaigh roimh ré:**
 
-- Bráisléad aitheantais nó míochaine le hainm an duine agus d'uimhir ghutháin, agus lipéid ina gcuid éadaí. Luann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) clár MedicAlert agus Alzheimer’s Association Safe and Found, a d'fhéadfadh costas a bheith leo.
-- Cloigín dorais nó aláram, agus glais suite ard nó íseal. Ná cuir an duine faoi ghlas ina aonar riamh.
-- Grianghraf le déanaí ón duine, agus liosta d'áiteanna a d'fhéadfadh sé a bheith ag iarraidh dul chuici, mar shampla a iar-theach nó áit oibre.
-- Inis do chomharsana muiníneacha, agus tabhair d'uimhir ghutháin dóibh.
+- Bráisléad aitheantais nó míochaine lena n-ainm agus le d’uimhir ghutháin, agus lipéid ina gcuid éadaí. Luann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) clár MedicAlert and Alzheimer's Association Safe and Found, a d’fhéadfadh costas a bheith air.
+- Clogín dorais nó aláram, agus glais suite ard nó íseal. Ná cuir an duine faoi ghlas ina aonar riamh.
+- Grianghraf dlúth le déanaí, agus liosta áiteanna a bhféadfaidís dul ann, mar shampla iar-bhaile nó iar-ionad oibre.
+- Inis do chomharsana iontaofa, agus tabhair d’uimhir dóibh.
 
-**Má théann siad ar iarraidh:** tosaigh ag cuardach láithreach; deir an Alzheimer’s Association go n-aimsítear go leor daoine laistigh de 1.5 míle. Mura bhfuil tú tar éis iad a aimsiú laistigh de 15 nóiméad, glaoigh ar 112 agus abair go bhfuil néaltrú ar an duine. Glaoigh ar 112 láithreach má bhíonn aon duine i mbaol.
+**Má théann siad ar iarraidh:** seiceáil áiteanna sábháilte in aice láimhe agus déan teagmháil láithreach leis na póilíní áitiúla nó leis na seirbhísí éigeandála. Ná fan líon socraithe nóiméad sula ndéanann tú tuairisc. Deir [alt irise de chuid Roinn Dlí agus Cirt na Stát Aontaithe faoi imscrúduithe ar dhaoine ar iarraidh](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) ó 2021 nár cheart do ghníomhaireachtaí forfheidhmithe dlí tréimhse feithimh shocraithe a éileamh; liostaíonn sé freisin comharthaí cosúil le néaltrú mar ábhar imní ardriosca. Athraíonn nósanna imeachta tuairiscithe áitiúla. Inis do na freagróirí go bhfuil néaltrú ar an duine, roinn an áit dheireanach arbh eol é a bheith ann agus grianghraf le déanaí, agus lean a dtreoracha. Má tá cúntóir eile ar fáil, iarr orthu fanacht cois an ghutháin. Ná déan cuardach i áiteanna neamhshábháilte leat féin.
 
-## Cathain ba chóir dom glaoch ar dhochtúir?
+## Cathain ba cheart dom glaoch a chur ar dhochtúir?
 
-Glaoigh ar dhochtúir an duine sin go pras má thosaíonn an iarraidh nó an mhearbhall go tobann, nó má éiríonn sé i bhfad níos measa thar uaireanta nó laethanta. Deir an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) gur chóir iompar tobann nó a athraíonn go tapa a sheiceáil láithreach, go háirithe tar éis ionfhabhtaithe nó athrú ar chógais. D'fhéadfadh mearbhall tobann a bheith ina dheilíriam, agus deir an [NHS](https://www.nhs.uk/symptoms/confusion/) go dteastaíonn cúnamh práinneach leis; is cúis choitianta in daoine scothaosta iad ionfhabhtuithe conradh na fuail.
+Cuir glaoch ar a ndochtúir go pras má thosaíonn an t-iarratas nó an mearbhall go tobann, nó má éiríonn sé i bhfad níos measa thar uaireanta nó laethanta. Deir an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) gur cheart iompar a athraíonn go tobann nó go gasta, go háirithe tar éis ionfhabhtaithe nó athraithe ar chógas, a sheiceáil láithreach. D’fhéadfadh gur deilíiriam a bheadh i gceist le mearbhall tobann, agus deir an [NHS](https://www.nhs.uk/symptoms/confusion/) go bhfuil cabhair phráinneach ag teastáil uaidh; is cúis choitianta iad ionfhabhtuithe conradh urinary i measc daoine scothaosta.
 
-Is féidir freisin patrún seasta a lua ag an gcéad choinne eile, mar is féidir go bhfuil baint ag pian, meon íseal, fadhbanna codlata nó fo-iarmhairtí cógais leis an iompar sin.
+Cuidíonn sé freisin patrún seasta a lua ag an gcéad choinne eile, mar d’fhéadfadh ról a bheith ag pian, giúmar íseal, fadhbanna codlata nó fo-iarsmaí cógais.

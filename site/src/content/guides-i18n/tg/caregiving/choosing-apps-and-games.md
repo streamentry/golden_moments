@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Чӣ гуна барномаҳо ва бозиҳоро барои деменсия интихоб кардан"
+seoTitle: "Интихоби барномаҳо ва бозиҳо: рӯйхати санҷиш"
+description: "Рӯйхати нигоҳубинкунанда барои интихоби барномаҳо ва бозиҳои деменсия: ҳадаф, бе вақтсанҷ, бе реклама, махфият ва эҳтиёт бо иддаоҳо."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Аввал муайян кунед, ки барнома бояд чӣ кор кунад: ҳавасмандкунии мулоим,
+  ёдоварӣ, оромӣ ё пайвастагӣ. Сипас барномаеро интихоб кунед, ки ба
+  имкониятҳои имрӯзаи шахс мувофиқ бошад: тасвирҳои калон, бе вақтсанҷ, бе
+  хол, бе реклама ва бо роҳи осони қатъ кардан. Санҷед, ки он чӣ маълумотро
+  ҷамъоварӣ мекунад ва оё шумо онро нест карда метавонед. Ба иддаоҳое, ки
+  барнома аз деменсия пешгирӣ мекунад ё онро табобат мекунад, бо эҳтиёт
+  нигоҳ кунед; як таҳқиқот далел нест.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Аввал ҳадафро муайян кунед: ҳавасмандкунӣ, ёдоварӣ, оромӣ ё пайвастагӣ барномаҳои гуногунро талаб мекунанд."
+  - "Барномаро ба имкониятҳои шахс дар ҳамон рӯз мувофиқ кунед, на ба нишонаи марҳила, ва идоракуниро содда нигоҳ доред."
+  - "Аз барномаҳо бо вақтсанҷ, хол, ҷони иловагӣ, силсила, реклама ё дархостҳои харид худдорӣ кунед."
+  - "Ҷамъоварӣ, мубодила ва несткунии маълумотро санҷед. HIPAA одатан ба барномаҳои истеъмолӣ татбиқ намешавад."
+  - "Ба иддаоҳои «аз деменсия пешгирӣ мекунад» бо шубҳа нигоҳ кунед. Як озмоиш ё холҳои беҳтар дар худи барнома далел нест."
+  - "Golden Moments як машғулияти фароғатӣ аст. Он ягон иддаи тиббӣ намекунад."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Оё бозиҳои мағзӣ метавонанд аз деменсия пешгирӣ кунанд?"
+    a: "Далели хубе нест, ки барномаҳои тиҷоратии бозиҳои мағзӣ аз деменсия пешгирӣ мекунанд ё онро суст мекунанд. Институти миллии пиронсолӣ (National Institute on Aging) мегӯяд, ки далели кофӣ нест, ки барномаҳои тиҷоратии дастрас барои машқи мағз таъсири ҳамон омӯзиши сохтордорро дошта бошанд, ки дар як озмоиши калони пажӯҳишӣ санҷида шудааст. Барномаҳоро барои лаззат ва пайвастагӣ интихоб кунед, на ҳамчун дору."
+  - q: "Оё барномаи деменсия таҳти HIPAA қарор мегирад?"
+    a: "Одатан не. HIPAA одатан ба муассисаҳои тиббӣ, нақшаҳои тандурустӣ ва шарикони тиҷории онҳо татбиқ мешавад. Барномаеро, ки шумо худатон боргирӣ мекунед, одатан фаро намегирад, магар он аз ҷониби яке аз онҳо пешниҳод шавад. Қоидаи огоҳкунии нақзи маълумоти тандурустии FTC (Health Breach Notification Rule) бисёр барномаҳои тандурустиро фаро мегирад, ки HIPAA онҳоро фаро намегирад."
+  - q: "Бозии хуб барои деменсия бояд чӣ гуна бошад?"
+    a: "Тасвирҳо ва матни калон ва равшан, як амали возеҳ дар ҳар экран, бе вақтсанҷ ва бе хол, бе садоҳои огоҳкунанда барои хатоҳо, бе реклама ва роҳи осони таваққуф ё қатъ кардан. Он бояд барои калонсолон сохта шуда ба назар расад ва барои шахси дуюм осон бошад, ки ҳамроҳ шавад."
+  - q: "Оё Golden Moments иддао мекунад, ки ба хотира кӯмак мерасонад?"
+    a: "Не. Golden Moments машғулиятҳои оддии муштаракро барои лаззат ва суҳбат пешниҳод мекунад. Он деменсияро ташхис намекунад, табобат намекунад, аз он пешгирӣ намекунад ва онро чен намекунад ва мо дар бораи хотира ё тафаккур ягон иддао намекунем."
+  - q: "Оё ман бояд барои барномаи деменсия пул диҳам?"
+    a: "Аввал имконоти ройгон ё давраҳои озмоишии ройгонро санҷед ва бинед, ки шахс дар давоми чанд ҳафта чӣ гуна вокуниш нишон медиҳад. Пардохт барои барнома онро муассиртар намекунад. Пеш аз обуна шудан, тарзи бекор карданро санҷед."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Мағозаҳои барномаҳо аз бозиҳое, ки барои пиронсолон, хотира ё деменсия нишондода шудаанд, пур мебошанд. Баъзеашон бо эҳтиёт сохта шудаанд. Дигарҳо иддаоҳои ба тиб шабоҳатдошта, вақтсанҷҳое, ки бозиро ба санҷиш табдил медиҳанд, ё реклама ва ҷамъоварии маълумотро илова мекунанд. Ин саҳифа ба шумо роҳи арзёбии ҳар як барномаро медиҳад. Мо маҳсулоти дигаронро раддабандӣ ё баррасӣ намекунем.
 
-## What should I decide before choosing a dementia app?
+## Пеш аз интихоби барномаи деменсия ман бояд чӣ корро ҳал кунам?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Муайян кунед, ки мехоҳед барнома чӣ кор кунад. «Бозӣ барои модар» метавонад маъноҳои хеле гуногун дошта бошад ва интихоби беҳтарин барои як ҳадаф аксар вақт барои ҳадафи дигар мувофиқ нест.
 
-| Goal | What it looks like | What to look for |
+| Ҳадаф | Он чӣ гуна менамояд | Ба чӣ диққат диҳед |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Ҳавасмандкунии мулоим | Ҷуфткунӣ, гурӯҳбандӣ, муаммоҳои оддӣ, бозиҳои калимавӣ | Дараҷаи душвории танзимшаванда, тасвирҳое, ки намоён мемонанд, бе фишори вақт |
+| Ёдоварӣ | Аксҳои кӯҳна, ибораҳои шинос, мусиқии давраи ҷавонӣ | Аксҳои худи шумо, саволҳои кушода, бе саволҳои викторинавӣ |
+| Оромӣ | Тасвирҳои суст, садоҳои ором, нафасгирӣ, табиат | Оғоз ва қатъ кардани осон, бе чизҳои дурахшон, бе тааҷҷуб |
+| Пайвастагӣ | Якҷоя бозӣ кардан ё суҳбат кардан, рӯ ба рӯ ё тавассути видео | Барои ду нафар сохташуда, саволҳои оғозкунандаи суҳбат |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Таҳқиқот дар бораи «ҳаракатдиҳии маърифатии» сохтордор барои одамоне, ки бо деменсия зиндагӣ мекунанд, бештар ба ҷаласаҳои гурӯҳӣ дахл дорад, ки аз ҷониби кормандони омӯзонидашуда гузаронида мешаванд ва суҳбат, бозиҳои калимавӣ, муаммоҳо, мусиқӣ ва машғулиятҳои эҷодиро дар бар мегиранд. [Баррасии Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) ба таври миёна фоидаҳои хурдро нишон дод, ки дар таҳқиқотҳои гуногун фарқ мекунанд. Чунин барномаи иҷтимоӣ ва гуногунҷанба бо барномаи яккаса як чиз нест, бинобар ин ҳар як барномаро ҳамчун яке аз машғулиятҳои муштарак дар миёни бисёрҳо баррасӣ кунед.
 
-## How do I know if an app fits the person's abilities?
+## Чӣ гуна мефаҳмам, ки барнома ба имкониятҳои шахс мувофиқ аст?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Ба вокуниши ӯ нигоҳ кунед, на ба ташхис ё нишонаи марҳила. Ду нафаре, ки дар «як марҳила» ҳастанд, аз рӯи биноӣ, шунавоӣ, назорати даст, забон ва роҳатӣ бо экран метавонанд хеле фарқ кунанд. [Анҷумани Алсҳеймер (Alzheimer's Association)](https://www.alz.org/help-support/caregiving/daily-care/activities) тавсия медиҳад, ки манфиатҳои пешина ва имкониятҳои имрӯзаи шахсро ба назар гиред ва ба лаззат диққат диҳед, на ба натиҷа.
 
-Signs of a good fit:
+Нишонаҳои мувофиқ будан:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- ӯ бе маҷбуркунии зиёд оғоз мекунад ё ҳамроҳ мешавад;
+- ӯ табассум мекунад, фикр мегӯяд ё ҳикоя мекунад;
+- хатоҳо ба назар ӯ халал намерасонанд;
+- ӯ розӣ аст, ки вақте вақт расид, бозиро қатъ кунад.
 
-Signs it is a poor fit:
+Нишонаҳои номувофиқ будан:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- такрори ибораҳои «ман наметавонам» ё «ин бемаънӣ аст»;
+- нофаҳмӣ дар бораи он, ки куҷо пахш кардан лозим аст;
+- норозигӣ, шармсорӣ ё дур тела додани дастгоҳ;
+- он танҳо вақте кор мекунад, ки шумо қариб ҳама корро мекунед.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Нооромӣ як нишона аст, на чизе, ки бояд онро нодида гирифт. Бинед [чӣ кор кардан лозим аст, вақте ӯ «не» мегӯяд](/caregiving/when-they-say-no/). Барои ғояҳои берун аз барномаҳо мутобиқ ба марҳила, ба машғулиятҳои [марҳилаи ибтидоӣ](/activities/early-stage/) ва [марҳилаи дерина](/activities/late-stage/) нигаред.
 
-## What design features should I look for or avoid?
+## Ба кадом хусусиятҳои тарроҳӣ бояд диққат диҳам ё аз онҳо худдорӣ кунам?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Тарроҳии ором, содда ва барои калонсолонро ҷустуҷӯ кунед ва аз ҳама чизе, ки фишор меорад, худдорӣ кунед.
 
-| Look for | Be wary of |
+| Ҷустуҷӯ кунед | Бо эҳтиёт бошед |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Тасвирҳо ва матни калон, муқоисаи равшан | Нишонаҳои хурд, экранҳои пур аз ашё |
+| Як амали возеҳ дар ҳар экран | Тугмаҳои зиёд, менюҳо ё дастурҳои чандқадам |
+| Бе вақтсанҷ ё вақтсанҷе, ки хомӯш кардан мумкин аст | Шумориши баръакс, имтиёз барои суръат, «аз вақти худ беҳтар бош» |
+| Бе хол ё бозхӯрди мулоим | Холҳо, ҷони иловагӣ, силсилаҳо, раддабандӣ, «синну соли мағз» |
+| Хатоҳо ором пазирфта мешаванд | Садоҳои огоҳкунанда, аломатҳои сурхи X, паёмҳои «Нодуруст» |
+| Тасвирҳои воқеии барои калонсолон мувофиқ | Мавзӯъҳои карикатурӣ ё кӯдакона |
+| Бе интернет кор мекунад, барои оғоз ҳисоб лозим нест | Аввал бояд сабти ном, воридшавӣ ё боргирии мавод лозим бошад |
+| Таваққуф ва қатъи осон | Равзанаҳои пайдошаванда бо дархости идомаи бозӣ ё баҳогузорӣ |
+| Бе реклама, нархи равшани якдафъаина ё обуна | Реклама, харидҳои дарунбарнома, дархостҳои зуд-зуди харид |
+| Барои шахси дуюм ҳамроҳ шудан осон аст | Танҳо якнафарӣ, тарроҳии рақобатӣ |
 
-Ads and purchase prompts are easy to tap by accident.
+Реклама ва дархостҳои харидро тасодуфан пахш кардан осон аст.
 
-## How do I check an app's privacy?
+## Чӣ гуна махфияти барномаро месанҷам?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Санҷед, ки барнома чӣ маълумотро ҷамъ мекунад, бо кӣ мубодила мекунад ва оё шумо онро нест карда метавонед. Пеш аз насб кардан:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Хулосаи махфияти мағозаро хонед.** [Бахши бехатарии маълумот (Data safety)](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) дар Google Play ва [бахши маълумоти махфият](https://support.apple.com/en-us/102399) дар App Store намудҳои маълумотеро нишон медиҳанд, ки барнома метавонад ҷамъ ва мубодила кунад. Ҳарду ширкат таъкид мекунанд, ки ин маълумотро худи таҳиягарон пешниҳод мекунанд, бинобар ин ин нуқтаи оғоз аст, на санҷиши мустақил.
+2. **Пурсед, оё ҳисоб лозим аст.** Агар барнома танҳо тасвирҳо ё бозиҳои оддиро нишон диҳад, шояд ба он номи шумо, почтаи электронӣ ё рӯзи таваллуд лозим набошад.
+3. **Иҷозатҳоро санҷед.** Оё бозии ҷуфткунӣ воқеан ба ҷойгиршавӣ, тамосҳо, микрофон ё тамоми китобхонаи аксҳои шумо ниёз дорад? Ҳама чизеро, ки лозим нест, хомӯш кунед.
+4. **Реклама ва таҳлилро ҷустуҷӯ кунед.** Абзорҳои реклама ва пайгирӣ метавонанд маълумотро дар бораи тарзи истифодаи барнома ба ширкатҳои дигар фиристанд.
+5. **Фаҳмед, ки аксҳо ба куҷо мераванд.** Агар шумо аксҳои оилавӣ илова кунед, оё онҳо дар дастгоҳ мемонанд ё ба сервер бор карда мешаванд? Оё шумо онҳоро тоза карда метавонед?
+6. **Несткуниро санҷед.** Дар сиёсати махфият ё хулосаи маълумот ҷустуҷӯ кунед, ки чӣ гуна маълумот ва ҳисобро нест кардан мумкин аст. Барномаеро, ки мегӯяд маълумотро нест кардан мумкин нест, бо эҳтиёти бештар баррасӣ кунед, махсусан агар он аксҳо ё маълумоти саломатиро нигоҳ дорад.
+7. **Сиёсати махфиятро бихонед** то ҷавобҳои равшан дар бораи он, ки чӣ ҷамъ мешавад, чаро, то кай ва бо кӣ мубодила мешавад, пайдо кунед.
 
-### Does HIPAA protect information in dementia apps?
+### Оё HIPAA маълумоти дар барномаҳои деменсияро ҳифз мекунад?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Одатан не, ва ин бисёр одамонро ба тааҷҷуб меорад. Вазорати тандурустӣ ва хадамоти инсонии Иёлоти Муттаҳида [шарҳ медиҳад](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), ки HIPAA ба нақшаҳои тандурустӣ, аксари муассисаҳои тиббӣ, марказҳои коркарди маълумоти тандурустӣ ва шарикони тиҷории онҳо татбиқ мешавад. Дар аксари ҳолатҳо он маълумотеро, ки шумо барои истифодаи шахсӣ ба барнома ворид мекунед, ҳифз намекунад, магар ин ки барнома аз ҷониби муассисаи фарогири HIPAA ё шарики тиҷории он пешниҳод шуда бошад. «Барномаи деменсия» аз мағозаи барномаҳо аксар вақт берун аз HIPAA аст, ҳатто агар он дар бораи саломатӣ сухан ронад.
 
-### What protects health data in apps that HIPAA does not cover?
+### Агар HIPAA маълумоти саломатиро дар барнома фаро нагирад, чӣ онро ҳифз мекунад?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Қоидаи огоҳкунии нақзи маълумоти тандурустии Комиссияи федералии тиҷорат (FTC) бисёре аз онҳоро фаро мегирад. Дар соли 2024 FTC [тағйиротро тасдиқ кард](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule), ки равшан мекунад, ки ин қоида ба барномаҳои тандурустӣ ва технологияҳои шабеҳ татбиқ мешавад, ки зери HIPAA намераванд. «Нақз» на танҳо ҳамлаи ҳакерӣ, балки паҳнкунии беиҷозатро низ дар бар мегирад ва ширкатҳо бояд одамони зарардида ва FTC-ро огоҳ кунанд. Ин пас аз рух додани мушкилӣ шабакаи бехатарӣ аст, на ваъдае, ки барнома танҳо он чизеро ҷамъ мекунад, ки лозим аст.
 
-## How should I read claims about research and evidence?
+## Иддаоҳо дар бораи таҳқиқот ва далелҳоро чӣ гуна хондан лозим аст?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Иддаоҳои далелро оҳиста хонед ва ба ваъдаҳои калонтарин бо шубҳаи бештар нигоҳ кунед. Саволҳое, ки бояд пурсед:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Дақиқан чӣ омӯхта шудааст?** Таҳқиқоти як барномаи омӯзишӣ нишон намедиҳад, ки ҳар бозӣ дар барнома ҳамон гуна кор мекунад.
+- **Кӣ омӯхта шудааст?** Натиҷаҳо дар пиронсолони солим метавонанд ба шахсе, ки бо деменсия зиндагӣ мекунад, татбиқ нашаванд.
+- **Чӣ чен карда шудааст?** Беҳтар шудан дар худи бозӣ бо тағйирот дар ҳаёти ҳаррӯза, суҳбат, рӯҳия ё мустақилият як чиз нест.
+- **Таҳқиқот то чӣ андоза устувор аст?** Озмоиши тасодуфии назоратшаванда (RCT) гурӯҳе, ки барномаро истифода мебарад, бо гурӯҳе, ки истифода намебарад, муқоиса мекунад. Ин тарҳи хуб аст, аммо як RCT-и хурд ё кӯтоҳ далел нест. Якчанд таҳқиқоти аз ҷониби пажӯҳишгарони мустақил анҷомёфтаеро ҷустуҷӯ кунед, ки натиҷаҳои онҳо мувофиқанд.
+- **Оё он иддао мекунад, ки бемориро тағйир медиҳад?** Таҳқиқоте, ки беҳбудиҳои хурдро дар санҷиш нишон медиҳад, далели он нест, ки барнома деменсияро суст мекунад, аз он пешгирӣ мекунад ё онро табобат мекунад.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Саҳифаи Институти миллии пиронсолӣ дар бораи [саломатии маърифатӣ ва пиронсолон](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) як озмоиши калони аз ҷониби NIH маблағгузоришударо дар бораи омӯзиши сохтордори маърифатӣ тавсиф мекунад ва сипас хонандагонро ҳушдор медиҳад, ки аз иддаоҳое эҳтиёт кунанд, ки бархе бозиҳои компютерӣ ва онлайн метавонанд хотира ва тафаккурро беҳтар кунанд. Он мегӯяд, ки то ҳол далели кофӣ нест, ки барномаҳои тиҷоратии дастрас барои машқи мағз ҳамон таъсирро дошта бошанд, ки омӯзиши дар он озмоиш санҷидашуда дошт. Шумо метавонед дар дастури мо дар бораи [бозиҳои мағзӣ ва далелҳо](/brain-health/brain-games/) ва [таҳқиқот дар бораи пешгирии деменсия чӣ мегӯяд](/brain-health/can-dementia-be-prevented/) бештар хонед.
 
-### What is a public example of a misleading claim?
+### Намунаи ошкори иддаи гумроҳкунанда кадом аст?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Дар моҳи январи соли 2016, FTC [дар бораи созишнома](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) бо созандагони Lumosity, барномаи «машқи мағз», хабар дод. FTC иддао кард, ки ширкат бе далелҳои кофӣ гуфтааст, ки бозиҳои он метавонанд коҳиши маърифатии вобаста ба синну солро ба таъхир андозанд ва аз халали сабуки маърифатӣ, деменсия ва бемории Алсҳеймер муҳофизат кунанд. Ширкат розӣ шуд, ки 2 миллион доллар пардохт кунад ва бояд пеш аз пешниҳоди чунин иддаоҳо дар оянда далелҳои илмии босалоҳият ва боэътимод дошта бошад. Ин парванда хотиррасонии муфид аст, ки забони таблиғотӣ далел нест.
 
-### Which words are red flags?
+### Кадом калимаҳо нишонаҳои огоҳкунанда мебошанд?
 
-Be cautious when an app or ad says it:
+Вақте барнома ё реклама мегӯяд, бо эҳтиёт бошед:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- аз деменсия ё Алсҳеймер «пешгирӣ мекунад», «бармегардонад», «қатъ мекунад» ё «шифо медиҳад»;
+- «аз ҷиҳати тиббӣ исботшуда» аст, бе он ки таҳқиқот, иштирокчиён ва он чизе, ки чен шудааст, номбар шавад;
+- «синну соли мағз» ё хол барои хотира медиҳад, ки маънои ташхисро дорад;
+- мағзро «тез мекунад», «қавӣ мекунад» ё «машқ медиҳад»;
+- аз шаҳодатномаҳо ҳамчун далел истифода мебарад.
 
-If you are unsure about a claim, ask the person's doctor.
+Агар шумо дар бораи ягон иддао боварӣ надошта бошед, аз пизишки шахс пурсед.
 
-## Where does Golden Moments fit?
+## Golden Moments дар куҷо ҷойгир аст?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments машғулиятҳои оддии муштаракро пешниҳод мекунад, на санҷиши хотира, табобат ё маслиҳати тиббӣ. Бозиҳои мо, аз қабили [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ва [Calm Breathing](/games/calm-breathing/), барои лаззат ва суҳбат сохта шудаанд. Онҳо деменсияро ташхис намекунанд, табобат намекунанд, аз он пешгирӣ намекунанд ва онро чен намекунанд ва мо дар бораи хотира ё тафаккур ягон иддао намекунем.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Мо инчунин барномаи ройгонеро месозем, [Golden Moments барои iPhone, iPad ва Android](/app/). Он бозиҳои мулоими ҷуфткунии тасвирҳоро бо сафҳаҳои калон, бозиҳо бо аксҳои оилавӣ, ки шумо интихоб мекунед, ва бастаҳои тасвириро дар бар мегирад, ки бе интернет кор мекунанд, бе ҳисоб, бе реклама, бе вақтсанҷ ва бе хол. Ҳамин рӯйхати санҷиш татбиқ мешавад: нишонаи махфияти он дар App Store «Маълумот ҷамъоварӣ намешавад» мегӯяд ва [сиёсати махфияти барнома](/app-privacy/) шарҳ медиҳад, ки нусхаҳои аксҳо дар куҷо нигоҳ дошта мешаванд.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Мо мехоҳем, ки шумо моро ба ҷои бовар кардан арзёбӣ кунед. Аз рӯйхати санҷиши ин саҳифа истифода баред, [саҳифаи махфияти](/privacy/) мо ва [радди масъулияти тиббии](/medical-disclaimer/) моро хонед ва истифодаи ҳама чизеро, аз ҷумла маҳсули моро, қатъ кунед, агар он ба шахсе, ки шумо аз ӯ нигоҳубин мекунед, мувофиқ набошад.
 
-## What is a sensible way to try a new app?
+## Роҳи оқилона барои санҷидани барномаи нав кадом аст?
 
-Try it together for a couple of weeks and watch what happens.
+Онро якҷоя дар давоми чанд ҳафта санҷед ва бинед, ки чӣ мешавад.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Аввал онро танзим кунед** бо истифода аз [дастури танзими планшет ва телефон](/caregiving/tablets-and-screens/) ва аз осонтарин сатҳ оғоз кунед.
+2. **Ҷаласаҳоро кӯтоҳ нигоҳ доред,** ба табассум, суҳбат ва оромӣ диққат диҳед ва бозиро дар лаҳзаи хуб анҷом диҳед.
+3. **Агар он норозигӣ ба вуҷуд оварад, онро қатъ кунед,** новобаста аз он ки он то чӣ андоза баланд баҳогузорӣ шудааст.

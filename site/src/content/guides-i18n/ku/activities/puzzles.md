@@ -11,7 +11,7 @@ summary: >-
   temam bike û di rê de jê kêfxweş bibe. Jigsawên bi perçeyên kêmtir û mezintir
   û wêneyekî zelal ê mezinan hilbijêrin, wêneyê qutiyê li ber çavan bihêlin û
   pêşî perçeyên kêlekê rêz bikin. Lêgerînên peyvan û puzzleên xaçê bi nivîsa
-  mezin baştir dibin. Puzzleên hêsan ên serhêl ên bi 4 perçeyan ji bo qonaxa
+  mezin baştir dibin. Puzzleên hêsan ên serhêl ên bi çar perçeyan ji bo qonaxa
   navîn guncaw in. Dema ku kêf tê de ye, rawestin.
 keyPoints:
   - "Li gorî ka ew çawa diçe hilbijêrin, ne li gorî navê qonaxekê: heke puzzle wekî karekî dijwar be, yekî bi perçeyên kêmtir biceribînin."

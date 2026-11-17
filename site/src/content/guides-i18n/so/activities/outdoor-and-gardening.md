@@ -1,33 +1,33 @@
 ---
-title: "Waxqabadyada Beerta iyo Banaanka, Dadka ku nool Dementia"
-seoTitle: "Beerista iyo Waxqabadyada Banaanka ee Dementia"
-description: "Fikrado beerid iyo waxqabad banaan oo loogu talagalay dadka ku nool dementia, oo leh sariiro beero la qaaday iyo talooyin badbaado ee kulaylka iyo ka lumista."
+title: "Hawlaha dibadda iyo beer-beeridda ee dadka la nool xusuus-la’aanta"
+seoTitle: "Beer-beeridda iyo hawlaha dibadda ee xusuus-la’aanta"
+description: "Fikrado ku saabsan beer-beeridda iyo hawlaha dibadda ee dadka la nool xusuus-la’aanta, oo ay ku jiraan sariiraha sare, dhirta dheriyada, iyo talooyin ku saabsan kulaylka, qorraxda iyo wareegidda."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Beerista iyo wakhti banaanka lagu qaato waxay noqon karaan waxqabad deggan oo
-  la yaqaan oo qofka ku nool dementia u fiican. Isku day biyo shubid, geedo
-  udgoon oo weelal lagu beero, ubaxyo qalalay oo la jaro, ama socod gaaban
-  beer xayndaabaysan. Isticmaal sariiro beero la qaaday ama miis si aan qofna u
-  jilbaysan, ka fogow qalabka af leh iyo dhirta sunta ah, bax qaybta maalinta ee ka
-  qabow, oo mar kasta qofka la joog.
+  Beer-beeridda iyo waqtiga dibadda la joogo waxay noqon karaan hawl deggan oo
+  la yaqaan qofka la nool xusuus-la’aanta. Isku day inaad waraabiso, dhir ku
+  beerto dheri, ubax qalalan ka saarto ama socod gaaban ku samayso barxad deyr
+  leh. Isticmaal sariiraha sare ama miis si aan qofna u jilib dhigin, ka fogow
+  qalabka fiiqan iyo dhirta sunta ah, dibadda u bax qaybta maalinta ee qabow,
+  oo mar walba la joog qofka.
 keyPoints:
-  - "Hawlaha fudud ee beerta sida biyo shubidda, abuurka weelal ku beerista, urista geedaha udgoon iyo ubaxa la gooyo waa lagu samayn karaa taagan ama fadhiya."
-  - "Sariiraha beerta la qaaday, weelasha dhirta iyo miis la daboolay waxay beerta u keenaan heerka dhexda, waxayna yareeyaan khatarta dhicitaanka."
-  - "Ka fogow qalabka af leh, dhirta qodxaha leh ama maqaarka cuncun geliya, iyo wax kasta oo sun ah. Ka feejignow in ciidda loo qaldamo cunto."
-  - "Kulaylku wuxuu khatar u noqon karaa dadka waaweyn. Bax goor hore ama goor dambe, qaado biyo iyo hooska, oo gudaha soo gal calaamadda ugu horreysa ee raaxo la’aan."
-  - "Dad badan oo ku nool dementia ayaa mar uun ka lumi kara. Banaanka la joog qofka, oo sawir cusub iyo aqoonsi diyaar ku hay."
+  - "Hawlaha fudud ee beerta sida waraabinta, abuurka dheri lagu beero, urinta dhirta udgoon iyo guridda ubaxa waxaa la samayn karaa iyadoo la taagan yahay ama la fadhiistay."
+  - "Sariiraha sare, dheriyada iyo miis daboolan waxay beerta keenaan joogga dhexda waxayna yareeyaan halista dhicitaanka."
+  - "Ka fogow qalabka fiiqan, dhirta qodxaha leh ama maqaarka cuncun ku keenta, iyo wax kasta oo sun ah. U fiirso in aan carrada lagu khaldin cunto."
+  - "Kulaylku wuxuu khatar ku noqon karaa dadka waaweyn. Dibadda u bax subaxdii hore ama fiidkii dambe, keen biyo iyo hadh, oo gudaha u gala marka ugu horraysa ee raaxo-darro la dareemo."
+  - "Dad badan oo la nool xusuus-la’aanta mar bay dibadda u wareegaan. Mar walba la joog qofka marka aad dibadda joogtaan, oo hay sawir dhowaan la qaaday iyo aqoonsi."
 faq:
-  - q: "Waa maxay waxqabadyada beerta ee qof qaba dementia sameyn karo?"
-    a: "Dhirta biyo u shubidda, abuurka weelal yaryar ku beerista, geedaha udgoon urkooda iyo taabashadooda, ubaxyada qalalay jarista, khudaarta gooynta, ubaxyada la gooyay habaynta iyo jidka xaaqidda dhammaantood waa doorashooyin wanaagsan. Gudaha, weel geedo udgoon ah oo daaqadda saaran ama saxan ciid ah oo miis la daboolay saaran ayaa si fiican u shaqeeya. Hawsha ku dooro waxa qofku hore ugu raaxaystay oo uu hadda si raaxo leh qaban karo."
-  - q: "Sidee u ilaaliyaa qof qaba dementia kulaylka?"
-    a: "U qorshee wakhtiga banaanka subaxda hore ama fiidkii qabow, ka dhig mid gaaban, oo si joogto ah biyo u sii. Dooro hooska, koofiyad baal weyn leh, dhar khafiif ah oo furan iyo kareemka qorraxda ka ilaaliya. Dadka waaweyn waxay si weyn ugu nugul yihiin xanuunka kulaylka, jahwareerka, wareerka ama lalabada waxay noqon karaan calaamado digniin ah, sidaas darteed haddii aad aragto, gudaha gal oo isla markiiba qabooji."
-  - q: "Sidee banaanka ugu baxnaa haddii ay u janjeerto inay ka lumaan?"
-    a: "Qofka la joog wakhtiga oo dhan, isticmaal beer xayndaabaysan oo albaab xidhan leh, oo hubi inuu xidhan yahay jijin aqoonsi ama uu qaadanayo aqoonsi. Sawir cusub diyaar ku hay. Haddii qofku lumo, Alzheimer's Association waxay talinaysaa inaad wacdo lambarka gurmadka degdegga ah ee gobolkaaga haddii aan la helin 15 daqiiqo gudahood."
-  - q: "Haddii aynaan haysan beer?"
-    a: "Dhowr weel oo dhir ah oo guriga banaankiisa ah, sanduuq ubax daaqadda ku jira, ama saxan geedo udgoon ah oo miiska jikada saaran ayaa ku filan. Waxaad sidoo kale booqan kartaa beer dadweyne, beer ubax ama beer bulsho. Banaanka fadhiisasho iyo dhegaysiga shimbiraha sidoo kale waa waxqabad banaan."
+  - q: "Hawlaha beer-beeridda ee uu samayn karo qofka la nool xusuus-la’aanta waa kuwee?"
+    a: "Waraabinta dhirta, abuurka dheri yar lagu beero, urinta iyo taabashada dhirta udgoon, ka saaridda ubaxyada qalalan, guridda khudaarta, habaynta ubaxyada la jaray iyo xaaqidda waddo waa dhammaan doorashooyin wanaagsan. Gudaha, dheri dhir udgoon ah oo daaqadda la saaro ama saxaarad carro ah oo miis daboolan saaran ayaa si fiican u shaqayn kara. Hawsha ku dooro waxa qofku hore u jeclaa iyo waxa uu hadda si raaxo leh u samayn karo."
+  - q: "Sideen uga ilaaliyaa qofka la nool xusuus-la’aanta kulaylka?"
+    a: "Waqtiga dibadda u qorshee subaxda hore ee qabow ama fiidka dambe, ka dhig mid gaaban, oo biyo si joogto ah u sii. Dooro hadh, koofiyad ballaaran, dhar fudud oo dabacsan iyo cadceed-diid. Dadka waaweyn waxay halis sare ugu jiraan jirro kulaylka ka dhalata, jahwareerka, wareerka ama lallabadu waxay noqon karaan calaamado digniin ah, marka haddii aad aragto gudaha u gala oo isla markiiba qabooji."
+  - q: "Sideen dibadda ugu bixi karnaa haddii uu u janjeero inuu wareego?"
+    a: "La joog qofka waqtiga oo dhan, isticmaal barxad ama beer deyr leh oo leh albaab quful leh, oo hubi inuu xidho jijimo aqoonsi ama uu sito aqoonsi. Hay sawir dhowaan la qaaday. Haddii qofku maqan noqdo, si degdeg ah ula xiriir booliiska deegaanka ama adeegyada gurmadka degdegga ah; ha sugin tiro daqiiqado ah oo go’an. U sheeg dadka ka jawaabaya in qofku la nool yahay xusuus-la’aanta, meesha ugu dambaysay ee la arkay, oo sii sawir dhowaan la qaaday."
+  - q: "Ka warran haddii aanan beer lahayn?"
+    a: "Dhowr dheri oo barxadda saaran, sanduuq daaqadeed, ama saxaarad dhir udgoon ah oo miiska jikada saaran ayaa ku filan. Sidoo kale waxaad booqan kartaan beerta dadweynaha, beer qurux badan ama beer bulsho. In dibadda la fadhiisto oo la dhagaysto shimbiraha ayaa iyaduna ah hawl dibadda ah."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Dad badan, beertu waa mid ka mid ah meelaha ugu la yaqaan. Qodista, biyo shubidda iyo ubaxa gooyntu waxay isticmaalaan xirfado la bartay muddo hore, banaanka joogiddu na waxay keentaa hawo cusub, iftiinka qorraxda iyo hees shimbireed. National Institute on Aging waxay ku taxdaa daryeelka dhirta, beerista ubaxyada iyo khudaarta, iyo [ka hadlidda sida dhirtu u koraan](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) waxqabadyada dadka qaba Alzheimer laga yaabo inay ku raaxaystaan. Boggan wuxuu ka hadlayaa waxa la tijaabin karo, sida beerta loo fududeeyo, iyo sida loo ilaaliyo badbaadada kulaylka, qorraxda iyo ka lumista.
+Dad badan, beertu waa mid ka mid ah meelaha ay aad u yaqaanaan. Qodidda, waraabinta iyo guridda ubaxa waxay adeegsadaan xirfado waqti hore la bartay, dibadda joogistuna waxay keentaa hawo nadiif ah, iftiin qorrax iyo codka shimbiraha. Hay’adda National Institute on Aging waxay ku taxdaa daryeelka dhirta, beerista ubaxa iyo khudaarta, iyo [ka hadalka sida dhirtu u korto](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) hawlaha ay dadka la nool cudurka Alzheimer’s ku raaxaysan karaan. Boggan wuxuu ka hadlayaa waxa la isku dayi karo, sida beerta looga dhigo mid si fudud loo isticmaali karo, iyo sida loogu badbaado kulaylka, qorraxda iyo wareegidda.
 
-## Waa maxay waxqabadyada banaanka iyo beerista ee si fiican u shaqeeya?
+## Hawlaha dibadda iyo beer-beeridda ee si fiican u shaqeeya waa kuwee?
 
-Hawlaha ugu fiican waa kuwa fudud, la yaqaan oo la qaban karo taagan ama fadhiya. Dooro iyadoo lagu salaynayo waxa qofku hore ugu raaxaysan jiray.
+Hawlaha ugu fiican waa kuwa fudud, la yaqaan oo la samayn karo iyadoo la taagan yahay ama la fadhiistay. Ku dooro waxa qofku hore u jeclaa.
 
-### Beerta dhexdeeda
+### Beerta gudaheeda
 
-1. **Biyo shubidda.** Weel biyo lagu shubo oo yar oo fudud ama daloolka tuubada jilicsan iyo dhowr weel dhir oo gacan ku haboon. Biyo shubiddu waxay leedahay bilow iyo dhammaad cad, si fudud looma khaldo.
-2. **Abuurka weelal ku beerista.** Alzheimer's Foundation of America waxay soo jeedinaysaa in abuur lagu beero weelal yaryar oo la [daawado markay koraan](https://alzfdn.org/dementia-activity-gardening/). Abuurka waaweyn sida digirta, ubaxa qorraxda iyo bisaylka way fududahay in la qabto.
-3. **Ubaxyada qalalay jarista.** Ubaxa engegay gacanta lagu jaro waa hawl jilicsan oo is-daba-joog ah. Dooro dhir aan qodax lahayn.
-4. **Khudaarta ama geedaha udgoon gooynta.** Yaanyo yaryar, digir iyo geedo udgoon way fududahay in la gooyo oo way macaan yihiin. Gudaha keen oo waqtiga qadada isticmaal.
-5. **Urista iyo taabashada geedaha udgoon.** Rosemary, mint iyo lavender waxay leeyihiin ur xooggan oo wanaagsan. Caleen farahaaga ku dhex xoq oo gudbi.
-6. **Jidka ama dhulka banaanka xaaqidda.** Xaaqin fudud oo dhul siman oo qalalan, haddii qofku si fiican u taagan karo.
-7. **Weelka cuntada shimbiraha buuxinta.** Kadibna wada fadhiista oo daawada cidda timaadda.
+1. **Waraabinta.** Weel waraabin ah oo yar oo fudud ama tuubo leh af dabacsan iyo dhowr dheri oo la gaari karo. Waraabintu waxay leedahay bilow iyo dhammaad cad, wayna adag tahay in si khaldan loo sameeyo.
+2. **Abuurka dheri lagu beero.** Alzheimer’s Foundation of America waxay ku talisaa in abuurka lagu beero dheri yar oo la [daawado marka ay korto](https://alzfdn.org/dementia-activity-gardening/). Abuurka waaweyn sida digirta, gabbaldaagga ama digirta cagaaran way fududahay in la qabto.
+3. **Ka saaridda ubaxyada qalalan.** In gacanta lagu jiido ubaxyada dhintay waa hawl deggan oo soo noqnoqota. Dooro dhir aan qodax lahayn.
+4. **Guridda khudaarta ama dhirta udgoon.** Yaanyada yar yar, digirta iyo dhirta udgoon way fududahay in la guro, wayna fiicantahay in la dhadhamiyo. Gudaha keen si loogu isticmaalo qadada.
+5. **Urinta iyo taabashada dhirta udgoon.** Rosemary, reexaanta iyo lavender waxay leeyihiin udgoon xooggan oo wanaagsan. Caleen faraha ku xoq oo u soo dhoweey.
+6. **Xaaqidda waddo ama barxad.** Xaaqin fudud oo dusha siman oo qalalan lagu sameeyo, haddii dheellitirku fiican yahay.
+7. **Buuxinta weelka shimbiraha.** Kadib si wadajir ah u fadhiista oo daawada cidda soo booqanaysa.
 
-### Gudaha, marka banaanka aan loo bixi karin
+### Gudaha, marka dibadda la bixi karin
 
-- **Beer yar oo daaqadda saaran** oo ay ku jiraan basil, parsley ama chives.
-- **Dhirta weelal ku beerista miis la daboolay.** AFA waxay soo jeedinaysaa in la isticmaalo saxanno u eg kuwa makhaayadaha si ciidda meel loogu ururiyo, oo ciidda la dhaqaajiyo koobabka yaryar.
-- **Ubaxyada habaynta** ubaxyo la gooyay iyo caleemo beerta ama dukaanka laga keenay.
-- **Ubaxyo la riixay** oo laga soo qaaday ubax-xirmo (bouquet), dambena kaararka lagu dhejiyo. Eeg [farshaxanka iyo gacan-shaqada](/activities/arts-and-crafts/) wax dheeraad ah.
-- **Samaynta bac yaryar oo udgoon oo lavender ama ubax ah,** fikrad AFA kale oo urta beerta gudaha ku haysa.
+- **Beer dhir udgoon ah oo daaqadda la saaro** oo ay ku jiraan basil, parsley ama chives.
+- **Ku beeridda miis daboolan.** AFA waxay ku talisaa in la isticmaalo saxaarado nooca kafateeriyada ah si carradu hal meel ugu jirto iyo in carrada lagu dhaqaajiyo koobab yaryar.
+- **Habaynta ubaxyada** la jaray iyo caleenta cagaaran ee ka timid beerta ama dukaanka raashinka.
+- **Ubax la cadaadiyay** oo ka yimid ubax gacan, oo mar dambe lagu dhejiyo kaarar. Fiiri [farshaxanka iyo farsamada gacanta](/activities/arts-and-crafts/) si aad u hesho fikrado dheeraad ah.
+- **Samaynta boorsooyin udgoon oo lavender ama ubax ah**, oo ah fikrad kale oo AFA ah oo urta beerta gudaha ku haysa.
 
-### Banaanka oo la baxo
+### Dibadda u bixid
 
-- **Socod gaaban** hareerahaaga, beer dadweyne ama xarun dhirta, xawaare tartiib ah iyo meel la fadhiisto.
-- **Banaanka fadhiisasho** guriga banaankiisa ama kursi dheer si loo dhegaysto shimbiraha oo loo dareemo dabaysha. Tani waa waxqabad dhammaystiran oo keligeed ah.
-- **Booqashada beer dadweyne** wakhti maalinta ah oo aamusan. NHS waxay xustaa in goobaha qaar ay leeyihiin beero dareenka ah oo leh dhir udgoon, dhir kala duwan oo taabasho ah iyo biyo.
-- **Shimbiraha biyaha ku quudinta ama daawashada** balli deegaanka, adigoo masaafo badbaado leh ka dhigaya geeska biyaha.
+- **Socod gaaban** agagaarka xaafadda, beerta dadweynaha ama xarunta beeralayda, si tartiib ah oo leh meel lagu fadhiisto.
+- **Fadhiga dibadda** barxadda ama kursiga si loo dhagaysto shimbiraha loona dareemo neecawda. Tani keligeed waa hawl dhamaystiran.
+- **Booqashada beer dadweyne** wakhti maalmeed oo deggan. NHS waxay xustaa in meelaha qaarkood ay leeyihiin beero dareenka kiciya oo leh dhir udgoon, taabasho kala duwan iyo biyo.
+- **Quudinta shinbiraha badeedka ama daawashada shimbiraha** agagaarka balli deegaanka, iyadoo laga fogaado cidhifka biyaha.
 
-## Sidee beerta u fududeeyaa?
+## Sideen beerta uga dhigaa mid si fudud loo isticmaali karo?
 
-Beerta u keen qofka, ma aha qofka beerta.
+Beerta u soo dhowee qofka, ee ha ka doonin inuu isagu u soo gaadho.
 
-- **Sariiraha beerta la qaaday ama weelasha dhirta dhaadheer** oo dhexda ku dhow macnaheedu waa in aan lagu jilbaysan ama lagu foororsan.
-- **Weelasha miis saaran** waxay u shaqeeyaan dadka isticmaala kursiga curyaanka ama jecel inay fadhiistaan.
-- **Jidad ballaadhan oo siman** oo aan lahayn dhagaxyo dabacsan ama tuubooyin dhulka ku jiifa waxay yareeyaan khatarta turunturrada.
-- **Kuraas gacan leh iyo hoos** jidka ku xiga, si nasashadu mar kasta ay u suurtagasho.
-- **Qalab gacanta qaro weyn oo jilicsan leh** oo si fudud loo qabto. Ka fogow maqaasta beerta, mindiyaha iyo wax kasta oo af leh.
-- **Meel xayndaabaysan oo albaab xidhan leh** oo qofku xor ku sahamin karo inta aad u dhowdahay.
+- **Sariiraha sare ama dheriyada dhaadheer** oo joogga dhexda ah macnaheedu waa in aan jilibka la dhigin ama aan la foorarsan.
+- **Dheriyada miis saaran** waxay ku habboon yihiin dadka kuraasta curyaanka isticmaala ama doorbida inay fadhiistaan.
+- **Waddooyin ballaaran oo siman** oo aan lahayn dhagaxyo dabacsan ama tuubooyin jiifa waxay yareeyaan halista turunturoodka.
+- **Kuraas leh gacmo iyo hadh** oo jidka yaal, si nasashadu mar walba u noqoto ikhtiyaar.
+- **Qalab leh gacmo dhumuc weyn oo jilicsan** oo si fudud loo qabsan karo. Ka bood maqasyada laanta, mindiyaha iyo wax kasta oo fiiqan.
+- **Aag deyr leh oo leh albaab quful leh** oo qofku si xor ah u sahamin karo adigoo ag joogaya.
 
-## Dhirta kuwee ka fogaadaa?
+## Dhirtee ayaan ka fogaadaa?
 
-Dooro dhir badbaado u ah in la taabto, haddii suurtagal tahayna badbaado u ah haddii la dhadhamiyo. AFA waxay talinaysaa in la isticmaalo dhir aan caadi ahaan maqaarka dhaqaajin, in la hubiyo xasaasiyadda, oo si dhow loo fiiriyo qof kasta oo laga yaabo inuu ciidda u qaldamo cunto. Talada badbaadada guriga ee NIA waxaa ku jira in dhirta sunta ah laga saaro ama la xidho.
+Dooro dhir badqabka in la taabto, haddii ay suurtagal tahayna badqabka haddii la dhadhamiyo. AFA waxay ku talisaa in la isticmaalo dhir aan sida caadiga ah maqaarka cuncun ku keenin, in la hubiyo xasaasiyadda, oo si dhow loola socdo qof kasta oo carrada cunto u qaadan kara. Talada badbaadada guriga ee NIA waxaa ka mid ah in la fogeeyo ama la xiro dhirta sunta ah.
 
-- Ka fogow ubaxyada qodxaha leh, dhirta cactus, iyo dhirta dheecaan leh oo maqaarka cuncun geliya.
-- Dhir kasta oo aadan hubin, ka waydii xarunta sun-xakamaynta ama xarun dhirta degaankaaga ka hor intaadan beerin.
-- Ubaxyada la yaqaan waxay soo celin karaan dareeno wanaagsan. AFA waxay tusaale u soo qaadataa ubaxa rose iyo Christmas cactus. Dooro noocyada aan qodax lahayn.
-- Bacriminta, sunta cayayaanka iyo sunta caws-dilka xidh, hana isticmaalin goobaha qofku gaari karo.
+- Ka fogow ubaxyada qodxaha leh, geedaha cactiga ah, iyo dhirta leh dheecaan maqaarka cuncun ku keenta.
+- Dhir kasta oo aadan hubin, ka hubi xarun xakamaynta sunta ama xarun beeralayda oo deegaanka ah ka hor intaadan beerin.
+- Waxyaabaha la yaqaan ee qofku jeclaa waxay keeni karaan dareen wanaagsan. AFA waxay tusaale ahaan u sheegtaa ubaxa iyo Christmas cactus. Dooro noocyo aan qodax lahayn.
+- Bacrimiyaha, sunta cayayaanka iyo sunta haramaha ku hay meel qufulan, hana ku isticmaalin meelaha qofku gaari karo.
 
-## Sidee u ilaaliyaa badbaadada kulaylka iyo qorraxda?
+## Sideen ugu badbaadaa kulaylka iyo qorraxda?
 
-U qorshee wakhtiga banaanka cimilada. NIA waxay sharraxaysaa in dadka waaweyn ay u nugul yihiin [xanuunka kulaylka](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), qayb ahaan sababtoo ah jidhku si wanaagsan uma hagaajiyo isbeddelka heerkulka, dawooyin qaar na waxay saameeyaan sida jidhku u maamulo kulaylka.
+Waqtiga dibadda ku qorshee sida cimiladu tahay. NIA waxay sharaxdaa in dadka waaweyn ay halis sare ugu jiraan [jirrooyinka kulaylka la xiriira](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), qayb ahaan sababtoo ah jidhku si fiican uguma qabsado isbeddelka heerkulka, daawooyinka qaarkoodna waxay saameeyaan sida jidhku kulaylka u maareeyo.
 
-- **Bax goor hore ama goor dambe.** Bilaha kulul ka fogow badhtamaha maalinta. Hubi tusaha kulaylka (heat index), ma aha oo keliya heerkulka.
-- **Si joogto ah biyo sii.** Ha sugin inta qofku yiraahdo wuu harraadsan yahay. Ka fogow khamriga iyo cabitaannada kafeynta leh marka kulaylku jiro.
-- **Ku labbis xilligaas.** Dhar midab khafiif ah oo furan, koofiyad baal weyn leh iyo muraayado qorraxda.
-- **Isticmaal kareemka qorraxda.** NIA waxay ku talinaysaa kareem ballaaran oo SPF 15 ama ka sarreeya, oo maalinta dhexdeeda mar kale la mariyo.
-- **Dooro hooska.** Miiska dhirta weelal lagu beerayo geed ama dallad hoosteeda ku dhig.
-- **Ka dhig mid gaaban.** Muddo gaaban oo banaanka ah waxay noqon kartaa mid badan, gaar ahaan maalmaha kulul.
-- **Ka feejignow calaamadaha digniinta.** NIA waxay ku taxdaa madax xanuun, jahwareer, wareer ama lalabo inay noqon karaan calaamado xanuunka kulaylka. Qofka ku nool dementia laga yaabo inuusan kuu sheegin inuu dareemayo xanuun, sidaas darteed fiiri wejigiisa iyo dabeecadiisa. Gudaha gal, ku qabooji biyo iyo maro qabow, oo caawimaad caafimaad hel haddii aanu si dhakhso ah u fiicnaan. Gubashada kulaylka (heat stroke), oo leh calaamado sida miyir beel, jahwareer, ama maqaar qalalan oo casaan ah, waa xaalad caafimaad oo degdeg ah: wac lambarka gurmadka degdegga ah ee gobolkaaga.
+- **Dibadda u bax subaxdii hore ama fiidkii dambe.** Ka fogow bartamaha maalinta bilaha kulul. Hubi tusaha kulaylka, ma aha heerkulka oo keliya.
+- **Biyo si joogto ah u sii.** Ha sugin in qofku kuu sheego inuu harraad qabo. Ka fogow khamriga iyo cabitaannada kafayiinka leh marka uu kulaylku jiro.
+- **Dhar ku habboon xiro.** Dhar midabkiisu fudud yahay oo dabacsan, koofiyad ballaaran iyo muraayado qorrax.
+- **Isticmaal cadceed-diid.** NIA waxay ku talisaa cadceed-diid ballaaran oo leh SPF 15 ama ka badan, oo maalintii lagu celceliyo.
+- **Dooro hadh.** Miiska beeridda dhig hooska geed ama dallad.
+- **Ka dhig mid gaaban.** Wakhti gaaban oo dibadda la joogo ayaa ku filnaan kara, gaar ahaan maalmaha kulul.
+- **U fiirso calaamadaha digniinta.** NIA waxay sheegtaa madax-xanuun, jahwareer, wareer ama lallabo inay noqon karaan calaamado suurtagal ah oo jirro kulaylka ka dhalata. Qofka la nool xusuus-la’aanta waxaa laga yaabaa inuusan kuu sheegin inuu dareemayo xanuun, marka u fiirso wejigiisa iyo dhaqankiisa. Gudaha u gala, ku qabooji biyo iyo maro qabow, oo caawimaad caafimaad raadso haddii uusan si degdeg ah u roonaan. Kuleyl-sare, oo leh calaamado sida miyir-beel, jahwareer, ama maqaarka oo qalalan oo gaduudsan, waa xaalad gurmad caafimaad oo degdeg ah: wac 911.
 
-Cimilada qabowna way muhiimsan tahay. Jiilaalka, wakhtiga banaanka ka dhig mid gaaban oo hubi in gacmaha iyo cagaha ay diirran iyo qalalan yihiin.
+Cimilada qabowna waa muhiim. Xilliga qabowga, waqtiga dibadda ka dhig mid gaaban oo hubi in gacmaha iyo caguhu diiranaan iyo qallayl ahaadaan.
 
-## Sidee u maamulaa ka lumista marka aan banaanka baxno?
+## Sideen wax uga qabtaa wareegidda marka aan dibadda joogno?
 
-Qofka la joog marka uu banaanka joogo. Alzheimer's Association waxay sheegtaa in [lix ka mid ah 10 qof oo ku nool dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ay ka lumi doonaan ugu yaraan hal mar, dad badanna waxay sidaas sameeyaan in ka badan hal mar. Waxay dhici kartaa marxalad kasta.
+Mar walba la joog qofka marka uu dibadda joogo. Alzheimer’s Association waxay sheegtaa in [lix ka mid ah tobankii qof ee la nool xusuus-la’aanta](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ay ugu yaraan hal mar wareegi doonaan, qaar badanna waxay sidaas sameeyaan in ka badan hal mar. Waxay ku dhici kartaa marxalad kasta.
 
-[Talooyinka NIA ee ka lumista iyo dhumista](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) waxaa ka mid ah:
+[Talooyinka NIA ee ku saabsan wareegidda iyo lumidda](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) waxaa ka mid ah:
 
-- Hubi in qofku xidhan yahay jijin aqoonsi ama caafimaad oo ay ku qoran yihiin magaciisa, cinwaankiisa iyo lambarka taleefankaaga, ama calaamadee dharkiisa.
-- Sawir ama muuqaal cusub oo qofka ah ku hay.
-- U sheeg deriska in qofku laga yaabo inuu lumo.
-- Beerta ku xidh xayndaab iyo albaab xidhan.
-- Ha ka tagin qof taariikh lumis leh isagoo la ilaalin.
+- Hubi in qofku xidho aqoonsi ama jijimo caafimaad oo ay ku qoran yihiin magaciisa, cinwaankiisa iyo lambarkaaga telefoonka, ama calaamadee dharkiisa.
+- Hay sawir ama muuqaal dhowaan la qaaday oo qofka ah.
+- U sheeg deriska in qofku wareegi karo.
+- Barxadda ku xaji deyr iyo albaab quful leh.
+- Ha uga tagin qof leh taariikh wareegid cidla’ ah.
 
-Alzheimer's Association waxay sidoo kale soo jeedinaysaa in la sameeyo goobo gudaha iyo banaanka ah oo si badbaado leh loo sahamin karo, oo waxqabadyo loo qorsheeyo wakhtiga maalinta ee degganaan la’aanta ugu badan tahay. Socod beer xidhan oo badbaado leh waxay ku habboon tahay degganaan la’aanta galabta. Eeg hagheenna [degganaan la’aanta galabta](/caregiving/late-day-restlessness/).
+Alzheimer’s Association waxay sidoo kale ku talisaa in la abuuro meelo gudaha iyo dibadda ah oo si badqab ah loo sahamin karo, iyo in hawlaha loo qorsheeyo wakhtiga maalinta ee ay nasasho-darrogu ugu badan tahay. Socod lagu sameeyo beer badqab ah oo xiran wuxuu ku habboonaan karaa nasasho-darrada maalinta dhammaadkeeda. Fiiri hagahayaga ku saabsan [nasasho-darrada maalinta dhammaadkeeda](/caregiving/late-day-restlessness/).
 
-Haddii qofku runtii lumo, Alzheimer's Association waxay talinaysaa in isla markiiba la raadiyo aagga u dhow oo la wacdo lambarka gurmadka degdegga ah ee gobolkaaga haddii aan la helin 15 daqiiqo gudahood. Booliska u sheeg in qofku qabo dementia.
+Haddii qofku maqan noqdo, ka hubi meelaha dhow ee badqabka ah adigoo isla markaa si degdeg ah ula xiriiraya booliiska deegaanka ama adeegyada gurmadka degdegga ah. Ha sugin tiro daqiiqado ah oo go’an ka hor intaadan soo wargelin. [Maqaal joornaal ah oo Waaxda Caddaaladda ee Maraykanka ka soo baxay 2021 oo ku saabsan baaritaanka dadka maqan](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) wuxuu sheegayaa in hay’adaha fulinta sharcigu aysan u baahnayn muddo sugitaan oo go’an, wuxuuna calaamadaha la midka ah xusuus-la’aanta ku taxayaa walaac halis sare leh. Hababka wargelinta ee deegaanka way kala duwanaan karaan. La wadaag goorta iyo meesha ugu dambaysay ee qofka la arkay, waxa uu xidhan yahay iyo sawir dhowaan la qaaday. Raac tilmaamaha dadka ka jawaabaya deegaanka; meelaha aan badqabka ahayn keligiis ha ka baadhin.
 
-## Sidee beerista u hagaajiyaa marka wax isbeddelaan?
+## Sideen beer-beeridda u waafajiyaa marka xaaladdu is beddesho?
 
-| Haddii tan ay adkaatay | Tan beddelkeeda isku day |
+| Haddii tani ay adkaatay | Taa beddelkeeda isku day tan |
 | --- | --- |
-| Sariir beero oo dhan oo la beero | Hal abuur oo hal weel ku jira oo la beero |
-| Caws-jarista (kala aqoonsiga caws iyo dhir) | Biyo shubidda, ama ubaxyada si cad u qalalay jarista |
-| Beerta oo la dhex maro | Miis lagu fadhiisto oo saxan ciid iyo dhir ku jiraan |
-| Banaanka oo la baxo | Weel geedo udgoon oo miiska jikada saaran, ama kursi daaqad furan agteeda |
-| Hawl kasta oo la qabto | Banaanka wada fadhiista, dhegaysiga iyo fiirinta |
+| Beerista sariir dhan | Beerista hal abuur oo hal dheri ah |
+| Ka saaridda haramaha (kala soocidda haramaha iyo dhirta) | Waraabinta, ama ka saaridda ubaxyada qalalan ee si cad u muuqda |
+| Ku wareegidda beerta | Fadhiga miis leh saxaarad carro ah iyo dhir |
+| Dibadda u bixid gabi ahaanba | Dheri dhir udgoon ah oo miiska jikada saaran, ama kursi daaqad furan agteeda ah |
+| Samaynta hawl kasta | In si wadajir ah dibadda loogu fadhiisto, la dhagaysto oo la daawado |
 
-Dadka qaarkood waxay doorbidaan inay daawadaan markaad shaqeyneyso. NIA waxay xustaa in qofka loo ogolaado inuu si fudud daawado ay fiican tahay haddii taasi tahay waxa uu ku raaxaysto.
+Dadka qaarkood waxay doorbidaan inay daawadaan marka aad shaqaynayso. NIA waxay xustaa in loo oggolaado qofka inuu si fudud u daawado ay caadi tahay haddii taasi ay tahay waxa uu ku raaxaysto.
 
-## Goorma gudaha loo gala?
+## Goorma ayaan gudaha u galnaa?
 
-Gal marka qofku u muuqdo daalan, kulul, qabow, aan raaxo lahayn ama diyaar u ah inuu dhammeeyo. Toban daqiiqo oo gaaban oo wanaagsan way ka fiican tahay galab dheer oo ku dhammaata niyad-jab. Goor hore joojintu waa natiijo wanaagsan.
+Gudaha u gala marka qofku u muuqdo daal, kulayl, qabow, degganaan la’aan ama diyaar u yahay inuu joojiyo. Toban daqiiqo oo gaaban oo raaxo leh ayaa ka fiican galab dheer oo ku dhammaada murugo. In goor hore la joojiyo waa natiijo wanaagsan.
 
-## Beerta gudaha ku keen shaashadda
+## Beerta shaashadda ku keen gudaha
 
-Maalmaha roobka, [Wada kala saar](/games/sort-together/) wuxuu leeyahay dambiil beero oo sawirro lagu kala saaro, [Kaararka wadahadalka](/games/conversation-cards/) na waxay ka kooban tahay su’aalo furan oo keeni kara sheekooyin beerta ku saabsan. Haddii aad kulaylka ka timid adigoo degdeg ku jira, [Nasasho neefsasho deggan](/games/calm-breathing/) wuxuu bixiyaa nasasho tartiib ah oo aamusan oo la wadaagi karo. Fikrado dheeraad ah oo ku salaysan taabasho, ur iyo dhawaaq, eeg [hagaha waxqabadyada dareenka](/activities/sensory/).
+Maalmaha roobka, [Sort Together](/games/sort-together/) wuxuu leeyahay dambiil beereed oo sawirro lagu kala sooco, [Conversation Cards](/games/conversation-cards/) wuxuu leeyahay su’aalo furan oo keeni kara sheekooyin beerta ku saabsan. Haddii aad gudaha uga soo gasho kulaylka adigoo degdeg ku jira, [Calm Breathing](/games/calm-breathing/) wuxuu bixiyaa nasasho tartiib ah oo deggan oo aad wadaagi kartaan. Fikrado dheeraad ah oo ku dhisan taabashada, urinta iyo codka, fiiri hagahayaga [hawlaha dareenka kiciya](/activities/sensory/).

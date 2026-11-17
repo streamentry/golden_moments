@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Zochita Zolimbitsa Thupi ndi Thanzi la Ubongo"
+seoTitle: "Zochita Zolimbitsa Thupi ndi Matenda a Kuiwala"
+description: "Zomwe kafukufuku amanena pa zochita zolimbitsa thupi ndi chiopsezo cha matenda a kuiwala, komanso njira zotetezeka zosangalalira kusuntha thupi."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Kafukufuku amalumikiza zochita zolimbitsa thupi nthawi zonse ndi chiopsezo chochepa cha matenda a kuiwala, ndipo lipoti la 2024 la Lancet
+  Commission limatchula kusachita zochita zolimbitsa thupi ngati chimodzi mwa zinthu 14 zomwe zingasinthidwe. Mayesero sanatsimikize
+  kuti zochita zolimbitsa thupi zimalepheretsa matenda a kuiwala. Komabe kusuntha thupi kumathandiza mphamvu, kulimba, momwe mukumvera komanso kugona,
+  choncho kuyenda, zochita mutakhala pa mpando ndi kuvina ndi zoyenera kuchita chifukwa cha ubwino wake. Funsani dokotala
+  musanayambe chinthu chatsopano.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Anthu omwe amachita zochita zolimbitsa thupi nthawi zambiri amakhala ndi chiopsezo chochepa cha matenda a kuiwala, koma izi zimachokera makamaka mu kafukufuku wowonera, osati mayesero."
+  - "Kuyesera kwa zaka zisanu kwa achikulire kunapeza kuti panalibe kusiyana koonekeratu pa luso la kuganiza pakati pa magulu."
+  - "Malangizo a CDC kwa achikulire azaka 65 ndi kupitirira akufotokoza za zochita zolimbitsa thupi, kulimbitsa minofu ndi kulimbitsa kulimba kwa thupi, ndipo amati kuchita pang’ono kuli bwino kuposa osachita chilichonse."
+  - "Kwa anthu omwe akukhala ndi matenda a kuiwala, kusuntha thupi kwaufupi, kodziwika komanso kochitidwa limodzi monga kuyenda tsiku lililonse kapena masewera mutakhala pa mpando n’kofunika kuposa cholinga chilichonse."
+  - "Achikulire oposa mmodzi mwa anayi amagwa chaka chilichonse, choncho ntchito zolimbitsa kulimba kwa thupi ndi malo otetezeka zimakhala patsogolo."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Kodi zochita zolimbitsa thupi zingalepheretse matenda a kuiwala?"
+    a: "Palibe amene angalonjeze zimenezo. Kafukufuku wambiri amalumikiza kuchita zochita zolimbitsa thupi ndi chiopsezo chochepa cha matenda a kuiwala, koma mayesero azachipatala sanasonyeze kuti zochita zolimbitsa thupi zimalepheretsa matendawa. Zochita zolimbitsa thupi zili ndi ubwino wina wambiri wotsimikizika, choncho n’zoyenera kuchita."
+  - q: "Kodi n’kotetezeka kuti munthu amene akukhala ndi matenda a kuiwala azichita zochita zolimbitsa thupi?"
+    a: "Nthawi zambiri, n’kotetezeka mukakonzekera bwino. National Institute on Aging imalangiza kuti mufunse dokotala wa munthuyo musanayambe njira yatsopano, musankhe nsapato zabwino, mupereke madzi, ndipo nthawi zochitira zisakhale zazitali. Lekani ngati munthuyo akuoneka wotopa, wosakhazikika kapena wosasangalala."
+  - q: "Ndi zochita ziti zolimbitsa thupi zomwe zingachitidwe mutakhala pansi?"
+    a: "Zochita mutakhala pa mpando zikuphatikizapo kutambasula mutakhala pa mpando kapena yoga ya pa mpando, kuponyana baluni kapena mpira wofewa, kuponya matumba ang’onoang’ono, kunyamula zitini za msuzi, kutambasula mabande ndi zochitira zopalasa mutakhala. Izi ndi zisankho zabwino pamene kuyenda kuli kovuta."
+  - q: "Bwanji ngati munthuyo sakufuna kusuntha thupi?"
+    a: "Musamukakamize. Yesaninso nthawi ina, chitani naye limodzi, ikani nyimbo zodziwika, kapena sinthani kusuntha thupi kukhala ntchito monga kusesa kapena kuthirira zomera. Kuyenda kwaufupi kupita ku bokosi la makalata ndikokwanira, ndipo kungokhala panja limodzi nakonso kuli bwino."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Kukhala achangu ndi chimodzi mwa zizolowezi zomwe zafufuzidwa kwambiri pa nkhani ya thanzi la ubongo. Kafukufuku amalumikiza izi ndi chiopsezo chochepa cha matenda a kuiwala, koma sanatsimikize kuti zochita zolimbitsa thupi zimalepheretsa matenda a kuiwala. Chodziwika bwino n’chakuti kusuntha thupi kumathandiza mphamvu, kulimba, momwe mukumvera komanso kugona pa msinkhu uliwonse. Tsamba ili likufotokoza zomwe kafukufuku amanena, kuchuluka kwa zochita zomwe achikulire amalimbikitsidwa kuchita, komanso njira zofatsa zosunthira thupi ndi munthu amene akukhala ndi matenda a kuiwala.
 
-## Does exercise lower the risk of dementia?
+## Kodi zochita zolimbitsa thupi zimachepetsa chiopsezo cha matenda a kuiwala?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Kafukufuku akusonyeza kuti anthu omwe amachita zochita zolimbitsa thupi sangakhale ndi mwayi waukulu wokhala ndi matenda a kuiwala, koma umboni uli ndi malire. [Lipoti la 2024 la Lancet Commission pa matenda a kuiwala](https://doi.org/10.1016/S0140-6736(24)01296-0) limatchula kusachita zochita zolimbitsa thupi ngati chimodzi mwa zinthu 14 zomwe zingasinthidwe. Malinga ndi chitsanzo chake, zinthu 14 zimenezi pamodzi zimafotokoza pafupifupi 45% ya matenda a kuiwala padziko lonse.
 
-Here is what the evidence looks like:
+Umboni ukuoneka motere:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Kafukufuku wowonera akuloza mbali imodzi.** Kuwunika kwa kafukufuku 58, komwe kunatchulidwa ndi Commission, kunapeza kuti anthu omwe amachita zochita zolimbitsa thupi anali ndi chiopsezo chochepa pafupifupi 20% cha matenda a kuiwala. Kusiyana kwakukulu kunali pakati pa anthu omwe sankachita chilichonse pafupifupi ndi amene ankachita pang’ono.
+- **Mgwirizano ukhoza kukhala wa mbali ziwiri.** Commission imanena kuti kusachita zochita kungawonjezere chiopsezo. Imanenanso kuti kusintha kwa ubongo koyambirira kwa matenda a kuiwala, komwe kumayamba zaka zambiri matendawo asanadziwike, kungachititse anthu kuchepetsa kusuntha thupi.
+- **Mayesero sali omveka bwino.** Mu kuyesera kumodzi, achikulire 945 azaka zapakati pa 78 anagawidwa m’magulu awiri: gulu lina linachita zochita zolimbitsa thupi zoyang’aniridwa kawiri pa sabata kwa zaka zisanu, ndipo lina linali gulu loyerekeza. Kumapeto, panalibe kusiyana koonekeratu pa luso la kuganiza pakati pa magulu. Anthu ambiri m’gulu loyerekeza analinso achangu, zomwe zimapangitsa zotsatira kukhala zovuta kuzimvetsa.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) imanena momveka bwino. Palibe mgwirizano womveka pakati pa zochita zolimbitsa thupi ndi kupewa matenda a Alzheimer womwe watsimikizidwa, ndipo palibe umboni wokwanira wochokera m’mayesero woti zochita zolimbitsa thupi zimalepheretsa kapena kuchepetsa matendawa. Komabe zochita zolimbitsa thupi zimachepetsa chiopsezo cha kugwa, kukhumudwa, matenda a shuga, kuthamanga kwa magazi ndi sitiroko. Zina mwa matenda amenewa zimagwirizananso ndi kuchepa kwa luso la kuganiza.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Mfundo yoona ndi yakuti sunthani thupi chifukwa zimakuthandizani kumva bwino ndi kuchita bwino zinthu lero. Ubwino uliwonse ku ubongo ukhoza kukhala mwayi wowonjezera, osati lonjezo.
 
-## How much activity do older adults need?
+## Kodi achikulire amafunika kuchita zochita zolimbitsa thupi zochuluka bwanji?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Malangizo a CDC kwa achikulire azaka 65 ndi kupitirira](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) akupereka mitundu itatu ya zochita pa sabata:
 
-| Type | Weekly amount | Examples |
+| Mtundu | Kuchuluka pa sabata | Zitsanzo |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Zolimbitsa thupi | Osachepera mphindi 150 za zochita zapakati, monga mphindi 30 pa masiku 5 | Kuyenda mwachangu, kuvina, masewera olimbitsa thupi m’madzi |
+| Kulimbitsa minofu | Osachepera masiku 2, kugwira ntchito magulu onse akulu a minofu | Kunyamula zolemera zopepuka kapena zitini za msuzi, kutambasula mabande |
+| Kulimbitsa kulimba kwa thupi | Nthawi zonse | Kuyenda chidendene kutsogolo kwa zala, kudzuka pa mpando |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Izi ndi zolinga, osati zofunikira zoyambira. CDC imanena kuti ngati simungakwanitse zimenezi, chitani momwe mungathere malinga ndi mphamvu ndi thanzi lanu. Kuchita pang’ono kuli bwino kuposa osachita chilichonse.
 
-## Gentle ways to move for older adults
+## Njira zofatsa zosunthira thupi kwa achikulire
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Yendani ndi munthu wina.** Kuyenda tsiku lililonse ndi bwenzi, mnansi kapena gulu loyenda kumawonjezera kucheza komanso chitetezo.
+- **Zochita mutakhala pa mpando.** Kukweza manja, kuzungulira akakolo, kuyenda m’malo mutakhala ndi yoga ya pa mpando kumalimbitsa thupi popanda chiopsezo cha kulimba kwa thupi.
+- **Vinani m’khitchini.** Ikani nyimbo za nthawi ya unyamata wa munthuyo ndipo gwedezkani, gundani mapazi kapena yendani pang’ono. Onani [tsamba lathu la zochita za nyimbo](/activities/music/) kuti mupeze malingaliro.
+- **Kulimbitsa thupi ndi zinthu zapakhomo.** Nyamulani mabotolo odzaza madzi kapena zitini za msuzi mukamaonera pulogalamu yomwe mumakonda.
+- **Gwirani ntchito m’munda kapena zapakhomo.** Kuthirira zomera, kukunkha masamba, kusesa ndi kupinda zovala zonse zimawerengedwa. Onani [zochita zakunja ndi zam’munda](/activities/outdoor-and-gardening/) komanso [ntchito zapakhomo](/activities/household-tasks/).
+- **Zochita m’madzi.** NIA imatchula makalasi a masewera olimbitsa thupi m’madzi ngati njira imodzi kwa anthu omwe amaona kuti zochita pamtunda n’zovuta pa mafupa awo.
 
-## How to exercise with someone living with dementia
+## Momwe mungachitire zochita zolimbitsa thupi ndi munthu amene akukhala ndi matenda a kuiwala
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Kwa munthu amene akukhala ndi matenda a kuiwala, cholinga ndi chitonthozo, chisangalalo ndi kusunga luso la tsiku ndi tsiku, osati kufikira nambala inayake. NIA imanena kuti zochita zolimbitsa thupi zimathandiza kusunga minofu, mafupa ndi mtima wa munthu amene ali ndi matenda a Alzheimer kukhala bwino, ndipo zingathandizenso momwe akumvera komanso kugona. Funsani dokotala wake musanayambe njira yatsopano. Malangizo ochokera mu [buku la NIA la osamalira](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) akuphatikizapo:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Yendani limodzi tsiku lililonse.** Sankhani njira yotetezeka komanso yodziwika bwino yopanda zopinga. Ngati munthuyo amayenda yekha, chibangili cha ID chokhala ndi nambala yanu ya foni ndi lingaliro labwino.
+2. **Yesani mavidiyo a zochita zolimbitsa thupi a achikulire.** Chitani limodzi, mutakhala kapena mutaimirira.
+3. **Sungani nthawi zochitira kukhala zazifupi.** Nthawi zingapo zazifupi za “zochita zazing’ono” zingakhale bwino kuposa imodzi yaitali.
+4. **Onjezani nyimbo.** Nyimbo zodziwika zimapangitsa kusuntha thupi kumakhala ngati chosangalatsa, osati ntchito. Vinani ngati munthuyo amasangalala nazo.
+5. **Perekani madzi ndi nsapato zabwino.** Perekani madzi kapena madzi a zipatso panthawi ndi pambuyo pake, ndipo sankhani zovala zabwino ndi nsapato zokwanira bwino zopangidwira zochita zolimbitsa thupi.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Ngati kuyenda kuli kovuta, [buku la NIA losamalira munthu amene ali ndi matenda a Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) limapereka zosankha zochitira mutakhala. Izi zikuphatikizapo zochita mutakhala pa mpando kapena yoga, kuponya matumba ang’onoang’ono, kuponya mpira wofewa kapena baluni, kutambasula mabande, kunyamula zinthu zopepuka zapakhomo, ndi zochitira zopalasa mutakhala. Ntchito zosavuta monga kusesa ndi kupukuta fumbi zimawerengedwanso.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Khalani oona mtima pa zomwe kusuntha thupi kungachite. Lancet Commission sinapeze umboni woti zochita zolimbitsa thupi zimachepetsa kusintha kwa makhalidwe monga kusakhazikika. Sunthani thupi limodzi chifukwa zimatha kumveka bwino, osati ngati njira yokonzera masana ovuta. Ngati munthuyo akuti ayi, zili bwino. Tsamba lathu la [pamene akunena kuti ayi](/caregiving/when-they-say-no/) lili ndi njira zofatsa zoyesereranso nthawi ina. Kusiya msanga, kapena kungokhala panja limodzi, ndi zotsatira zabwinonso.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Mukamaliza kusuntha thupi, kupuma kwabata monga [Kupuma Mofatsa](/games/calm-breathing/) kungathandize inu nonse kukhazika mtima pansi. Pa zochita zochitira mutakhala pa tebulo ndi kusuntha manja mofatsa, [Sanjani Pamodzi](/games/sort-together/) ndi [Bingo ya Zithunzi](/games/picture-bingo/) zimagwira ntchito bwino.
 
-## Balance and fall safety
+## Kulimbitsa kulimba kwa thupi ndi chitetezo ku kugwa
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Kugwa kumachitika kawirikawiri ndipo kungakhale koopsa. [CDC ikunena](https://www.cdc.gov/falls/data-research/facts-stats/index.html) kuti achikulire oposa mmodzi mwa anayi amagwa chaka chilichonse, koma ochepera theka amafotokoza kwa dokotala wawo. Kugwa kamodzi kumawonjezera mwayi wowirikiza wa kugwanso. Zinthu zomwe CDC imatchula kuti zimawonjezera chiopsezo ndi izi:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Kufooka kwa miyendo ndi m’chiuno
+- Kuvutika kuyenda ndi kusunga kulimba kwa thupi
+- Mankhwala ena, kuphatikizapo ochepetsa nkhawa ndi ena ochepetsa kukhumudwa
+- Mavuto a maso
+- Kupweteka kwa mapazi kapena nsapato zosayenera
+- Zoopsa m’nyumba monga zinthu zosokonekera, mipango yaying’ono pansi ndi masitepe osweka
 
-To move more safely:
+Kuti musunthe thupi motetezeka:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Gwiritsani ntchito mpando wolimba** wopanda matayala, ndipo sungani kauntala kapena chogwirira pafupi kuti muchirikizeko mukaimirira.
+- **Chotsani zinthu panjira** monga mipango, zingwe ndi zinthu zosokonekera kaye.
+- **Imirirani pang’onopang’ono**, ndipo lekani ngati munthuyo akumva chizungulire kapena kusakhazikika.
+- **Valani nsapato zolimba**, osati masokosi kapena nsapato zotayirira zapakhomo.
+- **Yeserani kulimbitsa kulimba kwa thupi pafupi ndi chothandizira.** Kudzuka pa mpando ndi kuyenda chidendene kutsogolo kwa zala ndi zitsanzo za zochita zolimbitsa kulimba kwa thupi zomwe CDC imatchula.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC imalangiza kuti munthu wachikulire amene wagwa ndikugunda mutu wake aone dokotala nthawi yomweyo, makamaka ngati akumwa mankhwala ochepetsa kukhuthala kwa magazi.
 
-## Talk with a doctor
+## Lankhulani ndi dokotala
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Funsani dokotala musanayambe njira yatsopano ya zochita zolimbitsa thupi, makamaka kwa munthu amene ali ndi matenda a mtima kapena mapapu, kupweteka kwa mafupa, mavuto osunga kulimba kwa thupi, kapena matenda a kuiwala. Dokotala kapena katswiri wothandiza kusuntha thupi angapereke malingaliro a zochita zotetezeka komanso kuwona ngati mankhwala akukhudza kulimba kwa thupi. Muuzeni dokotala za kugwa kulikonse, ngakhale popanda kuvulala. Ngati china chake chikupweteka kapena sichikumveka bwino mukamachita zochita zolimbitsa thupi, lekani. Pa kupweteka kwadzidzidzi pachifuwa, kuvutika kupuma, kapena kusokonezeka kwadzidzidzi, imbani 911.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Tsamba ili ndi chidziwitso cha anthu onse, osati malangizo azachipatala. Onani [chenjezo lathu la zachipatala](/medical-disclaimer/). Kuti mumvetse bwino nkhani yonse, werengani [zomwe kafukufuku amanena za zinthu zomwe zingawonjezere chiopsezo cha matenda a kuiwala](/brain-health/risk-factors/) ndi [kaya matenda a kuiwala angapewedwe](/brain-health/can-dementia-be-prevented/).

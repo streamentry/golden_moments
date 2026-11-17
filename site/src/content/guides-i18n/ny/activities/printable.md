@@ -1,33 +1,35 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Zochita Zaulere kwa Anthu Okhala ndi Dementia"
+seoTitle: "Zochita Zaulere Zosindikizidwa: Zilembo Zikulu"
+description: "Zochita zaulere zosindikizidwa kwa anthu okhala ndi dementia: kusaka mawu akulu, ojeketa, makadi olankhulirana ndi bingo ya zithunzi, ndi malangizo abwino."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments imapereka zochita zaulere zosindikizidwa kwa anthu okhala ndi
+  dementia: kusaka mawu a zilembo zazikulu, masamba ojeketa, makadi olankhulirana
+  a zithunzi ndi makadi a bingo ya zithunzi. Tsegulani tsamba lililonse la masewera
+  ndipo gwiritsani ntchito batani la Print. Sindikizani m'zilembo zazikulu, zosavuta
+  pa pepala lolimba, sungani ntchito imodzi patsamba lililonse, ndipo mavalidwe
+  masamba amene mukufuna kuwagwiritsanso ntchito. Zosindikiza zosavuta zopangidwa
+  panyumba, monga tsamba la mbiri ya moyo kapena ndondomeko ya tsiku ndi tsiku,
+  zimathandizanso.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Zochita zathu zosindikizidwa ndi zaulere: Word Search, Coloring, Conversation Cards ndi Picture Bingo. Tsamba lililonse la masewera lili ndi batani la Print."
+  - "Sindikizani m'zilembo zazikulu, zosavuta zokhala ndi kusiyana kwabwino, ndipo sungani ntchito imodzi patsamba lililonse."
+  - "Pepala lolimba kapena khadi limakhala losavuta kugwira ndipo silimaduka mosavuta. Mavalidwe masamba kuti muwagwiritsenso ntchito ndi zolembera zowuma."
+  - "Zosindikiza zopangidwa panyumba monga tsamba la mbiri ya moyo, ndondomeko ya tsiku ndi tsiku kapena zilembo za zithunzi pakhomo ndi zosavuta komanso zothandiza."
+  - "Tsamba losindikizidwa ndi kuyitanira, si homuweki. Kuchita pang'ono, kapena kusachita konse, n'koyenera."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Kodi zochita zanu zosindikizidwa za anthu okhala ndi dementia ndi zaulere?"
+    a: "Inde. Masamba a Word Search, Coloring, Conversation Cards ndi Picture Bingo pa tsamba lino ndi aulere kugwiritsa ntchito ndi kusindikiza. Tsegulani tsamba la masewera ndipo gwiritsani ntchito batani la Print."
+  - q: "Kodi zochita zosindikizidwa zomwe zimathandiza kwambiri kwa anthu okhala ndi dementia ndi ziti?"
+    a: "Zosindikiza zabwino kwambiri ndi zosavuta, zomveka bwino komanso za anthu akuluakulu: kusaka mawu a zilembo zazikulu okhala ndi mawu okha kudutsa ndi kutsika, masamba ojeketa okhala ndi mizere yomveka bwino, makadi a zithunzi omwe amayambitsa kulankhulana, ndi bingo ya zithunzi ya magulu. Gwirizanitsani ntchito ndi zomwe munthu amakonda komanso zimene akhoza kuchita panopa, ndipo sungani ntchito imodzi patsamba lililonse."
+  - q: "Kodi ndingapangitse bwanji zosindikiza kukhala zosavuta kuona ndi kugwiritsa ntchito?"
+    a: "Gwiritsani ntchito zilembo zazikulu, zosavuta, inki yakuda pa pepala loyera kapena loyera pang'ono, ndi malo okwanira. Sindikizani pa pepala lolimba kapena khadi kuti tsamba likhale lathyathyathya, sankhani pepala losalala kuti muchepetse kuwala, ndipo gwiritsani ntchito bolodi kapena mphasa yosatera kuti tsamba lisasunthike. Kuvala masamba kumathandiza kuti azikhala nthawi yayitali."
+  - q: "Kodi ndikhoza kusindikiza zochita zanu kuti zigwiritsidwe ntchito m'nyumba yosamalira kapena pulogalamu ya masana?"
+    a: "Inde. Ogwira ntchito mu zochita akulandiridwa kusindikiza masamba athu kwa okhala m'nyumba ndi m'magulu. Picture Bingo idapangidwa ya magulu ndipo ili ndi woyitana pa skrini yemwe mungamuonetse pa TV kapena projekitala."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +54,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Nthawi zina ntchito yabwino kwambiri ndi pepala ndi cholembera pa tebulo la khitchini. Zosindikiza sizifuna kulipiritsa, mawu achinsinsi kapena skrini, ndipo n'zosavuta kuzitenga kupita kukacheza kapena kumagulu. Tsamba ili limafotokoza zochita zaulere zosindikizidwa pa tsamba lathu, mmene mungazisindikizire kuti zikhale zosavuta kuona ndi kugwira, ndi zosindikiza zosavuta zopangidwa panyumba zimene mabanja ndi ogwira ntchito mu zochita amazipeza zothandiza.
 
-## What free printable activities do you offer?
+## Kodi mumapereka zochita ziti zaulere zosindikizidwa?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Timapereka zosindikiza zinayi zaulere. Tsegulani tsamba lililonse la masewera awa ndipo gwiritsani ntchito batani la **Print** kuti mupeze mtundu woyenera kusindikiza.
 
-| Printable | What it is | Good for |
+| Zosindikizidwa | Ndi chiyani | Zabwino kwa |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Kusaka mawu a zilembo zazikulu okhala ndi mawu okha kudutsa ndi kutsika | Nthawi yachete ndi cholembera; munthu amene amakonda ma puzzle |
+| [Coloring](/games/coloring/) | Masamba ojeketa osindikiza, kapena ojeketela pa skrini | Nthawi yopuma komanso yopanga; gawo lililonse ndi thandizo |
+| [Conversation Cards](/games/conversation-cards/) | Makadi a zithunzi okhala ndi mafunso otseguka, osati mafunso a mayeso, malinga ndi mutu | Maulendo, kuyimba foni, zakudya za banja, magulu a kukumbukira zakale |
+| [Picture Bingo](/games/picture-bingo/) | Makadi a bingo okhala ndi zithunzi m'malo mwa manambala, komanso woyitana pa skrini | Nyumba zosamalira, mapulogalamu a masana, misonkhano ya banja |
 
-### Large-print word search
+### Kusaka mawu a zilembo zazikulu
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) imagwiritsa ntchito zilembo zazikulu ndipo imasunga mawu okha kudutsa ndi kutsika, popanda ma diagonal kapena mawu obwerera mmbuyo. Gwirani ntchito limodzi: munthu mmodzi amawerenga mawu kuchokera pamndandanda, winayo amafufuza. Ngati kupeza mawu kukuvuta, yesani kuzungulira chilembo choyamba cha mawu aliwonse limodzi, kapena ingowerengani mndandanda wa mawu molankhula ndi kukambirana za mawu aliwonse.
 
-### Coloring pages
+### Masamba ojeketa
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Masamba a [Coloring](/games/coloring/) akhoza kusindikizidwa kuti mugwiritse ntchito zolembera kapena pensulo za utoto, kapena kujeketela pa piritsi mwa kudina utoto, kenako gawo la chithunzi. Kwa masamba osindikizidwa, perekani zolembera zokhuthala ndi mitundu yochepa nthawi imodzi. Onani kalozera wathu wa [zojambula ndi kupanga](/activities/arts-and-crafts/) kuti mupeze njira zosunga kujeketa kukhala kwa anthu akuluakulu komanso mopumula.
 
-### Conversation cards
+### Makadi olankhulirana
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) amalumikiza chithunzi chomveka bwino ndi mafunso otseguka, monga "Ndiuzeni za..." kapena "Mukuwona chiyani?" Adalembedwa ngati kuyitanira kotseguka, osati mafunso a mayeso. Sindikizani seti, kudulani, ndipo sungani ochepa m'chikwama cha maulendo kapena pafupi ndi foni kuti mugwiritse ntchito polankhula. Amathandizanso bwino m'magulu a [kukumbukira zakale](/activities/reminiscence/).
 
-### Picture bingo cards
+### Makadi a bingo ya zithunzi
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Makadi a [Picture Bingo](/games/picture-bingo/) amagwiritsa ntchito zithunzi m'malo mwa manambala. Sindikizani khadi limodzi kwa wosewera aliyense ndipo gwiritsani ntchito woyitana pa skrini pa laputopu, TV kapena projekitala. Tikupangira kuyitana mpaka khadi la aliyense litadzazidwa, kuti palibe amene atsale. Onani [zochita za magulu m'nyumba zosamalira](/activities/care-home-groups/) kuti mudziwe mmene mungachitire gawo.
 
-## How do I print activities so they are easy to use?
+## Kodi ndingasindikize bwanji zochita kuti zikhale zosavuta kugwiritsa ntchito?
 
-Small changes in how you print make a big difference.
+Kusintha pang'ono mmene mumasindikizira kumapangitsa kusiyana kwakukulu.
 
-### Make it easy to see
+### Pangani kuti zikhale zosavuta kuona
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Zilembo zazikulu, zosavuta.** Gwiritsani ntchito makonda akuluakulu osindikiza omwe amagwirabe pa tsamba. Pewani zilembo zokongoletsedwa kapena zolemba pamanja.
+- **Kusiyana kwabwino.** Inki yakuda pa pepala loyera kapena loyera pang'ono. Pewani maziko achifumbi kapena amitundu.
+- **Pepala losalala** limachepetsa kuwala pansi pa magetsi owala.
+- **Onetsetsani magalasi ndi kuwala.** Alzheimer's Association imanenanso kuti mavuto a kuona ndi kumva angapangitse kulankhulana kukhala kovuta, ndipo ikupangira kuwayesa pafupipafupi. Nyali yowala, yofanana imagwiranso ntchito bwino.
 
-### Make it easy to hold
+### Pangani kuti zikhale zosavuta kugwira
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Pepala lolimba kapena khadi** limakhalabe lathyathyathya, losavuta kunyamula, ndipo limapirira kugwiritsidwa ntchito mobwerezabwereza.
+- **Bolodi** kapena mphasa yosatera imapangitsa tsamba lisasunthike.
+- **Zolembera zokhuthala kapena pensulo zonenepa** n'zosavuta kugwira kuposa zolembera zopyapyala.
 
-### Make it reusable
+### Pangani kuti zikhale zothandiza mobwereza
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Mavalidwe masamba** kapena kuyikapo m'mapaketi owoneka bwino. Gwiritsani ntchito zolembera zowuma pa kusaka mawu ndi makadi a bingo, kenako pukutani.
+- **Gwiritsani ntchito mapaketi osalala** ngati kuwala kuli vuto, ndipo **zungulirani ngodya** za makadi ovomerezeka ndi zisakulo kuti azikhala osavuta kugwira.
+- **Sungani chikwama** cha zomwe mumakonda kuti musamasindikize tsamba lomwelo sabata iliyonse.
 
-### Keep it simple
+### Sungani kukhala kosavuta
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Ntchito imodzi patsamba lililonse.** Kusaka mawu kumodzi kapena chithunzi chimodzi, osati ntchito zambiri zolumikizidwa pamodzi.
+- **Malo okwanira oyera.** Tsamba lokhala ndi zambiri lingamveke ngati lovuta.
+- **Popanda malangizo owerenga ngati kuli kotheka.** Onetsani munthu zomwe ayenera kuchita m'malo mwake.
+- **Dulani masamba.** Ngati tsamba lonse ndilambiri, liduleni pakati kapena likulunge kuti gawo limodzi lokha liwoneke.
 
-## Other useful printables you can make at home
+## Zosindikiza zina zothandiza zomwe mungapange panyumba
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Sikuti zosindikiza zothandiza zonse ndi masewera. Izi n'zosavuta kupanga ndi pulogalamu yolembera ndi chosindikiza.
 
-### A life-story page
+### Tsamba la mbiri ya moyo
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Tsamba limodzi la "zokhudza ine" lomwe lili ndi chithunzi, dzina limene munthu amakonda kuyitanidwa, komwe anakulira, ntchito yake, banja, zakudya zomwe amakonda, nyimbo ndi zinthu zomwe zimamupatsa chitonthozo kapena kumukhumudwitsa. Dementia Australia ikupangira [buku lokumbukira](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) lomwe lili ndi zambiri za moyo wa munthu, zomwe amakonda ndi anthu ofunika, kuti lithandize alendo ndi osamalira komanso kuyambitsa kulankhulana.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Ndilothandiza kwambiri m'zipatala ndi m'malo atsopano osamalira. NIA ikupangira kupereka kwa ogwira ntchito m'chipatala [pepala la zambiri za munthu](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) lomwe lili ndi ndondomeko ya munthu, dzina lomwe amakonda, zomwe amakonda ndi zomwe sakonda, zinthu zomwe zingamuvutitse, komanso zizindikiro zosalankhula za ululu.
 
-### A daily schedule
+### Ndondomeko ya tsiku ndi tsiku
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Ndondomeko yayikulu, yosavuta ya tsiku yokhala ndi nthawi, mawu ochepa ndi chithunzi chaching'ono pa gawo lililonse: kadzutsa, kuyenda, chakudya chamasana, kupuma, nyimbo, chakudya chamadzulo. [Ndondomeko ya chisamaliro cha tsiku ndi tsiku](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ya Alzheimer's Association ikupangira kukonzekera malinga ndi nthawi zomwe munthu amagwira bwino tsiku, ndi nthawi zokhazikika zadzuka ndi zogona komanso kulinganiza zochita ndi kupuma. Ikani pamtunda woyenera ku maso, mwina pa furiji, ndipo isungeni yomasuka. Onani kalozera wathu wa [ndondomeko ya tsiku ndi tsiku](/activities/daily-routine/) kuti mudziwe zambiri.
 
-### Picture labels for rooms and drawers
+### Zilembo za zithunzi za zipinda ndi makabati
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA ikupangira kugwiritsa ntchito zikwangwani za mitundu yowala kapena zithunzi zosavuta [kulemba chipinda chochezera, chipinda chogona ndi khitchini](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Lingaliro lomwelo limagwira ntchito pa makabati ndi makabati a zitini: chithunzi cha masokisi pa kabati ya masokisi, makapu pa kabati ya makapu. Sindikizani, mavalidwe ndi kumangirira.
 
-### A sorting set
+### Seti yolekanitsa
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Sindikizani zithunzi kuchokera m'magulu awiri osavuta, monga zipatso ndi maluwa kapena zida ndi zinthu za khitchini, pa khadi. Kudulani ndikuzilekanitsa m'mabasketi awiri limodzi. Mtundu wa pa skrini wa izi ndi [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Masamba a mawu a nyimbo
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Sindikizani mawu a nyimbo zingapo zomwe mumakonda m'zilembo zazikulu kwambiri za kuimba pamodzi. Ngakhale anthu amene sakuwerenganso zambiri angakonde kugwira tsamba.
 
-### A family photo page
+### Tsamba la zithunzi za banja
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Tsamba limodzi lokhala ndi zithunzi zinayi mpaka zisanu ndi chimodzi za banja zazikulu, iliyonse ili ndi dzina loyamba pansi pake. Lingathe kukhala pa tebulo kuti aliyense aliyense atenge ndi kukambirana. Zilembo zimathandiza alendo ndi ogwira ntchito kulowa mu kulankhulana, ndipo palibe amene ayenera kufunsa "Uyu ndani?"
 
-### A recipe card
+### Khadi la resipi
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Sindikizani resipi yomwe mumakonda ya banja m'zilembo zazikulu. Gwiritsani ntchito kuphika limodzi, kapena kungokambirana za zakudya zakale.
 
-## How do I offer a printable without it feeling like homework?
+## Kodi ndingapereke bwanji zosindikiza popanda kumva ngati homuweki?
 
-Present it as something to share, not a test.
+Perekani ngati chinthu chogawana, osati mayeso.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Khalani pansi ndipo yambani nokha.** "Ndikuchita kusaka mawu uku. Mukufuna kundithandiza kupeza 'munda'?"
+- **Gwirani ntchito limodzi.** Sinthanani, kapena munthu mmodzi apeze winayo azungulire.
+- **Musamaweruzire kuti ndi cholakwika kapena chabwino.** Kalozera wa Alzheimer's Association wa [zochita kunyumba](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) akupangira kuyang'ana pa njira, osati zotsatira, komanso chisangalalo m'malo mochita bwino.
+- **Siyani masamba akunja.** Kalozera yemweyo akupangira kuyika mabuku okumbukira, ma albamu a zithunzi kapena magazini akale m'malo opezeka mosavuta. Makadi osindikizidwa ndi masamba a zithunzi akhoza kukhala pa tebulo la mbali mofanana.
+- **Lekani nthawi iliyonse mukafuna.** Theka la tsamba la kujeketa ndi nthawi yabwino masana. Momwemonso kuyika tsamba pambali ndi kumwa tiyi.
 
-## Where to find more
+## Kodi mungapeze zambiri kuti?
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Onani [masewera ndi zosindikiza](/games/) athu onse, kapena onani [zochita za gawo lililonse](/activities/ideas/) kuti mupeze malingaliro ambiri, ndi kapena popanda pepala.

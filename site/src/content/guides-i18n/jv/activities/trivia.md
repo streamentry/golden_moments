@@ -1,34 +1,34 @@
 ---
-title: "Trivia Gampil kangge Demensia, Tanpa Tekanan"
-seoTitle: "Trivia Gampil kangge Tiyang Sepuh Demensia: 50 Pitakenan"
-description: "50 pitakenan trivia gampil kangge tiyang sepuh demensia, kaliyan pilihan wangsulan lan bahan rembagan, saha cara nglampahi supados boten wonten ingkang dipunuji."
+title: "Trivia Gampang kanggo Wong Tuwa Demensia, Tanpa Meksa"
+seoTitle: "Pitakonan Trivia kanggo Wong Tuwa Demensia, Kanthi Wangsulan"
+description: "50 pitakonan trivia gampang kanggo wong tuwa sing urip karo demensia, kanthi pilihan wangsulan lan bahan omongan, plus carane nganakake trivia supaya ora ana sing krasa dites."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Trivia gampil kangge tiyang sepuh ingkang gadhah demensia saged lancar manawi
-  karaos kados rembagan, sanes ujian. Tanglet bab ingkang dipunsinau sampun dangu,
-  kadosta lagu lami, paribasan, dinten ageng, lan gesang padinten, lan tansah
-  paringi kalih utawi tiga pilihan. Paringi wangsulanipun kanthi bebas, ampun
-  nuding tiyang satunggal-satunggal, boten wonten skor, lan ginakna saben
-  wangsulan kangge miwiti cariyos. Pitakenan "menika utawi menika" ingkang boten
-  wonten wangsulan lepat cocog kangge tahap lajeng.
+  Trivia gampang kanggo wong tuwa sing urip karo demensia bisa mlaku kanthi becik
+  yen krasa kaya omong-omongan, dudu tes. Takona bab-bab sing wis dikenal
+  suwene, kayata lagu lawas, unen-unen, dina riyaya lan urip saben dina, lan
+  tansah wenehana pilihan loro utawa telu. Sebutna wangsulane kanthi alus, aja
+  nate nunjuk siji wong, ora usah menehi skor, lan gunakna saben wangsulan
+  kanggo miwiti crita. Pitakonan “iki utawa kuwi” sing ora ana wangsulan salah
+  cocog kanggo tahap sabanjure.
 keyPoints:
-  - "Tanglet bab ingkang sampun dangu dipunkenal: lagu, paribasan, dinten ageng, panganan, lan gesang padinten saking taun-taun kapengker."
-  - "Paringi kalih utawi tiga pilihan supados wangsulan saged dipunkenali, sanes kedah dipunelingi."
-  - "Ngandikakaken wangsulanipun kanthi grapyak lan lajeng. Saben tebakan ingkang miwiti cariyos menika tebakan ingkang sae."
-  - "Boten wonten poin, boten wonten regu balapan, boten nuding satunggal tiyang. Aturi wangsulan kawedalaken saking sedaya ingkang wonten ing ruangan."
-  - "Manawi milih antawis wangsulan sampun awrat, pindhah dhateng pitakenan menika-utawi-menika ingkang boten wonten wangsulan ingkang leres."
+  - "Takona bab-bab sing wis akrab suwene: lagu, unen-unen, dina riyaya, panganan lan urip saben dina biyen."
+  - "Wenehana pilihan loro utawa telu supaya wangsulane bisa dikenali, ora kudu dieling saka nol."
+  - "Sebutna wangsulane kanthi hangat banjur nerusake. Sembarang jawaban sing bisa miwiti crita iku jawaban sing apik."
+  - "Ora ana poin, ora ana tim sing balapan, ora ana sing ditunjuk siji-siji. Ayo wangsulan teka saka kabeh wong ing ruangan."
+  - "Yen milih antarane wangsulan wiwit angel, ganti menyang pitakonan iki-utawa-kuwi sing ora ana wangsulan bener."
 faq:
-  - q: "Punapa trivia menika kegiatan ingkang sae kangge tiyang demensia?"
-    a: "Saged, manawi dipunlampahi kanthi alus. Alzheimer's Foundation of America nyebataken trivia kalebet kegiatan kangge tahap awal. Tetepaken pitakenan bab topik ingkang sampun dangu dipunkenal, paringi pilihan, ampun nate nyudutaken satunggal tiyang, lan anggepa wangsulan minangka margi dhateng rembagan, sanes ujian."
-  - q: "Topik punapa ingkang paling sae kangge trivia demensia?"
-    a: "Bab ingkang dipunsinau sampun dangu limrahipun paling sae: lagu lan panyanyi ingkang kondhang nalika tiyang menika taksih mudha, paribasan ingkang sampun dipunkenal, dinten ageng, panganan, olahraga, lan gesang padinten. Singkiri warta énggal lan sedaya ingkang mbetahaken ngeling-eling bab saking wiwitan sesi."
-  - q: "Kados pundi nglampahi trivia ing panti tanpa ndadosaken sinten kemawon isin?"
-    a: "Wacanen saben pitakenan dhateng sedaya grup, tuduhaken utawi sebutaken pilihanipun, lan sambuten wangsulan saking sinten kemawon. Ampun nuding tiyang satunggal-satunggal utawi ngetung skor. Ngandikakaken wangsulanipun kanthi esem punapa kemawon tebakanipun, lan tanglet pitakenan lajengan kadosta 'Sinten ing mriki ingkang nate dhateng pasar malem?' supados dados cariyos."
-  - q: "Punapa ingkang saged dipuntindakaken minangka gantosipun trivia ing tahap lajeng?"
-    a: "Pindhah dhateng pitakenan ingkang boten wonten wangsulan lepat, kadosta 'Kopi utawi teh?' utawi 'Pantai utawi gunung?', lan nglengkapi paribasan utawi lagu ingkang sampun dipunkenal sesarengan. Mirsani gambar lan ngandharaken sesarengan ugi cocog."
+  - q: "Apa trivia iku kegiyatan sing cocog kanggo wong sing urip karo demensia?"
+    a: "Bisa wae, yen ditindakake kanthi alon lan alus. Alzheimer's Foundation of America nyebut trivia minangka salah sijine kegiyatan kanggo tahap awal. Jaga pitakonan tetep babagan topik sing wis akrab suwene, wenehana pilihan, aja nate ndadekake siji wong krasa kudu langsung mangsuli, lan anggepa wangsulan minangka cara kanggo miwiti omong-omongan, dudu tes."
+  - q: "Topik apa sing paling cocog kanggo trivia demensia?"
+    a: "Bab-bab sing disinaoni biyen biyene cenderung paling cocog: lagu lan penyanyi populer nalika isih enom, unen-unen sing akrab, dina riyaya, panganan, olahraga, lan urip saben dina kayata kiriman susu lan telpon puter. Aja nganggo warta anyar lan apa wae sing mbutuhake ngelingi bab saka sadurunge ing sesi sing padha."
+  - q: "Kepriye carane nganakake trivia ing panti perawatan tanpa ndadekake wong isin?"
+    a: "Wacanen saben pitakonan marang kabeh klompok, tuduhna utawa sebutna pilihane, lan tampanana wangsulan saka sapa wae. Aja nunjuk wong siji-siji utawa nyathet skor. Sebutna wangsulane kanthi esem apa wae sing ditebak, banjur takon pitakonan lanjut kayata ‘Sapa ing kene sing nate lunga menyang drive-in?’ supaya bisa dadi crita-crita."
+  - q: "Apa sing bisa daklakoni minangka ganti trivia ing tahap sabanjure?"
+    a: "Ganti menyang pitakonan sing ora ana wangsulan salah, kayata ‘Kopi utawa teh?’ utawa ‘Pesisir utawa gunung?’, lan menyang nerusake unen-unen utawa lagu sing akrab bareng-bareng. Deleng gambar lan njlentrehake bebarengan uga bisa mlaku kanthi becik."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -47,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia menika salah satunggaling kegiatan grup ingkang paling kathah dipunsuwun wonten panti lan program siyang, lan kathah kulawarga ugi dolanan wonten meja dhahar. Manawi dipunlampahi kanthi cara limrah, kanthi poin lan satunggal tiyang ingkang mangsuli, saged damel tiyang ingkang gadhah demensia karaos dipunsudutaken. Manawi dipunlampahi kanthi alus, menika cara ingkang gesang kangge mirengaken cariyos. Wonten ngandhap menika wonten 50 pitakenan gampil kaliyan pilihan wangsulan lan bab kangge dipunrembag, saha cara nglampahi sesi.
+Trivia iku salah sijine kegiyatan klompok sing paling kerep dijaluk ing panti perawatan lan program awan, lan akeh kulawarga uga mainake ing meja pawon. Yen ditindakake kanthi cara biasa, nganggo poin lan siji wong sing mangsuli, iki bisa ndadekake wong sing urip karo demensia krasa kaya dites. Yen ditindakake kanthi alus, iki dadi cara sing nyenengake kanggo ngrungokake crita. Ing ngisor iki ana 50 pitakonan gampang kanthi pilihan wangsulan lan bahan omongan kanggo saben pitakonan, disusul carane nganakake siji sesi.
 
-## Kados pundi ndadosaken trivia cocog kangge tiyang demensia?
+## Kepriye carane nggawe trivia cocog kanggo wong sing urip karo demensia?
 
-Damel supados bab pangenalan lan ngeling-eling bab ingkang sampun dangu, lan saben wangsulan dipunsambut.
+Dadekna babagan ngenali lan ngeling-eling bab-bab saka biyen, lan dadekna saben wangsulan ditampa.
 
-1. **Tanglet bab jaman rumiyin.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ngandika bilih gejala awal Alzheimer ingkang paling umum inggih menika susah ngeling-eling informasi ingkang énggal dipunsinau. Lagu, paribasan, lan gesang padinten saking pinten-pinten dasawarsa kapengker asring langkung gampil.
-2. **Tansah paringi pilihan.** Milih wangsulan ingkang leres saking kalih utawi tiga langkung gampil tinimbang nyebataken saking kekosongan.
-3. **Wacanen pitakenan kanthi seru lan tuduhaken ageng.** Papan tulis utawi tablet ingkang dipunangkat mbiyantu tiyang ingkang pamirengipun kirang.
-4. **Paringi wangsulanipun kanthi bebas.** Manawi boten wonten ingkang sumerep, ngandikakaken kanthi grapyak lan lajeng. Ampun nate "Ayo, panjenengan mesthi sumerep."
-5. **Boten wonten skor.** Boten kangge tiyang satunggal-satunggal lan boten kangge meja. Manawi tiyang kepéngin angka, cekap setunggal jumlah kangge sedaya grup.
-6. **Ampun nate nuding satunggal tiyang.** Aturi wangsulan saking sinten kemawon. Manawi sesarengan tiyang satunggal, wangsuli sesarengan: "Kula kinten menika piano. Panjenengan kinten punapa?"
-7. **Ginakna bab kangge dipunrembag.** Wangsulanipun menika wiwitan, sanes pungkasan. Cariyos menika ancas ingkang saestu.
-8. **Dipuncekak.** Sedasa pitakenan kaliyan cariyos ing antawisipun sampun cekap.
+1. **Takona bab jaman biyen.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) nerangake yen gejala awal Alzheimer's sing paling umum yaiku angel ngelingi informasi sing mentas disinaoni. Lagu, unen-unen lan urip saben dina saka puluhan taun kepungkur asring luwih gampang.
+2. **Tansah wenehana pilihan.** Milih wangsulan sing bener saka loro utawa telu luwih gampang tinimbang kudu ngelingi dhewe saka nol.
+3. **Wacanen pitakonan kanthi banter lan tuduhna kanthi gedhe.** Papan tulis utawa tablet sing diangkat bisa mbantu wong sing kurang krungu.
+4. **Wenehana wangsulane kanthi bebas.** Yen ora ana sing ngerti, sebutna kanthi alus banjur nerusake. Aja nate ngomong, “Ayo, sampeyan mesthi ngerti iki.”
+5. **Ora ana skor.** Ora kanggo wong siji-siji lan ora kanggo saben meja. Yen ana sing pengin angka, catheten siji total klompok.
+6. **Aja nate nunjuk siji wong.** Ayo wangsulan teka saka sapa wae. Yen mung karo siji wong, wangsulana bebarengan: “Aku mikir iki piano. Miturut sampeyan piye?”
+7. **Gunakna bahan omongan.** Wangsulan iku wiwitan, dudu pungkasan. Crita iku tujuan sing sejatine.
+8. **Jaga tetep cekak.** Sepuluh pitakonan kanthi crita-crita ing antarane wis cukup.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ngandharaken tuntunan ingkang inti kanthi prasaja: mirsani tandha jengkel lan priksa supados tiyang menika ngraos sukses. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nyebataken trivia kalebet kegiatan kangge tahap awal. Ing tahap tengah, cekak kalih pilihan lan gumantung dhateng bab kangge dipunrembag. Ing tahap lajeng, pindhah dhateng pitakenan menika-utawi-menika wonten ing ngandhap.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nerangake aturan utamane kanthi prasaja: gatekna tandha-tandha frustasi lan pesthekake wong mau krasa bisa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nyebut trivia minangka salah sijine kegiyatan kanggo tahap awal. Ing tahap tengah, gunakna mung loro pilihan lan luwih akeh gunakna bahan omongan. Mengko, ganti menyang pitakonan iki-utawa-kuwi ing ngisor.
 
 ## Trivia musik lan hiburan
 
-Wangsulanipun dipuntulis **kandel**. Cocogaken kaliyan tiyang menika: tiyang ingkang tuwuh kaliyan gamelan badhe kepéngin bab ingkang benten saking tiyang ingkang tuwuh kaliyan lagu-lagu sanes.
+Wangsulane ana ing **tulisan kandel**. Cocogna pitakonan iki karo wong sing diajak main: wong sing gedhe karo musik Motown mesthi pengin penyanyi sing beda karo wong sing gedhe karo musik big band.
 
-| Pitakenan | Pilihan | Rembagan bab |
+| Pitakonan | Pilihan | Bahan omongan |
 | --- | --- | --- |
-| Sinten ingkang nyariyosaken lakon ing pagelaran wayang kulit? | **Dhalang**, penabuh kendhang, tukang gambar | Panjenengan nate mirsani wayang kulit? |
-| Lagu "Lir-ilir" menika lagu saking tlatah... | **Jawi**, Papua, Aceh | Panjenengan nate nembang lagu menika? |
-| Kendhang dipunmainaken kanthi cara... | **dipunpukul**, dipuntiup, dipunpetik | Sinten ing kulawarga panjenengan ingkang saged nabuh? |
-| Instrumen ingkang gadhah 88 tuts? | Gitar, **piano**, suling | Wonten ingkang main ing kulawarga panjenengan? |
-| Suling dipunmainaken kanthi cara... | **dipuntiup**, dipunpetik, dipunpukul | Panjenengan nate ngrungokaken suling? |
-| Angklung dipundamel saking... | **Pring (bambu)**, wesi, plastik | Panjenengan nate mirsani angklung dipunmainaken? |
-| Lagu "Selamat Ulang Tahun" dipuntembangaken nalika... | **Ulang taun**, pasa, pawiwahan | Kados pundi kulawarga panjenengan ngrayakaken ulang taun? |
-| Wayang kulit dipundamel saking... | **Kulit kewan**, kertas, kain | Wayang ingkang pundi ingkang panjenengan remeni? |
-| Sinden menika tiyang ingkang... | **Nembang**, nabuh kendhang, damel wayang | Panjenengan remen mirengaken sinden? |
-| Radio dipunginakaken kangge... | **Mirengaken siaran**, ngedhinginaken toya, nyapu | Program radio punapa ingkang panjenengan remeni? |
+| Sapa sing diarani King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Apa sampeyan nate ndeleng Elvis ing TV? |
+| Penyanyi endi sing dijuluki Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Lagu Sinatra endi sing paling sampeyan senengi? |
+| Bing Crosby ngimpi babagan Natal sing... | **putih**, pesta nikah, omah | Nyanyi bareng saklarik |
+| Louis Armstrong nyanyi “What a Wonderful...” | Day, **World**, Life | Apa sing ndadekake jagad iki apik kanggo sampeyan? |
+| “Over the Rainbow” ditembangake dening Judy Garland ing film apa? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Ing ngendi sampeyan biyen nonton film favorit? |
+| Sapa sing dadi Lucy ing “I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Acara apa sing biyen ditonton bareng kulawarga? |
+| Koboi endi sing nunggang jaran jenenge Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Apa sampeyan nate dolanan dadi koboi nalika isih cilik? |
+| Sapa sing dadi pembawa acara “The Tonight Show” suwene 30 taun? | Ed Sullivan, **Johnny Carson**, Bob Hope | Apa sampeyan nate melek nganti bengi kanggo nonton TV? |
+| Piranti musik endi sing nduweni 88 tombol? | Gitar, **piano**, trompet | Apa ana wong ing kulawarga sampeyan sing bisa main musik? |
+| Tarian endi sing dietung siji-loro-telu, siji-loro-telu? | **Waltz**, twist, tango | Ing ngendi sampeyan biyen lunga nari? |
 
-Kangge langkung kathah bab musik, mirsani [kegiatan musik kangge demensia](/activities/music/).
+Kanggo informasi luwih akeh babagan musik, delengen [kegiyatan musik kanggo demensia](/activities/music/).
 
-## Trivia gesang padinten
+## Trivia urip saben dina
 
-| Pitakenan | Pilihan | Rembagan bab |
+| Pitakonan | Pilihan | Bahan omongan |
 | --- | --- | --- |
-| Padi menika tanduran ingkang ngasilaken... | **Beras**, gula, kopi | Sinten ingkang nanak sega ing griya panjenengan? |
-| Wonten ing pasar, tiyang tuku lan... | **Sade (adol)**, sare, nulis | Panjenengan remen tindak dhateng pasar? |
-| Kalender nuduhaken... | **Tanggal lan wulan**, cuaca, wekdal | Kalender punapa ingkang wonten ing griya panjenengan? |
-| Jam dinding nuduhaken... | **Wekdal**, tanggal, suhu | Wonten jam ingkang kagungan panjenengan? |
-| Sepeda dipunmainaken kanthi dipun... | **kayuh**, tiup, pukul | Panjenengan nate nyepeda dhateng pundi? |
-| Mobil gadhah roda pinten? | Kalih, tiga, **sekawan** | Cariyosaken bab kendharaan ingkang panjenengan remeni |
-| Sepeda gadhah roda pinten? | **Kalih**, tiga, sekawan | Panjenengan nate sinau nyepeda kados pundi? |
-| Payung dipunginakaken nalika... | **Jawah**, tilem, dhahar | Panjenengan nate kecandhak jawah? |
-| Setrika dipunginakaken kangge... | **Nglicinaken sandhangan**, ngresiki piring, nyapu | Sinten ingkang nyetrika ing griya panjenengan? |
-| Kendhi dipundamel saking... | **Lempung (lemah liat)**, kaca, wesi | Panjenengan nate ngunjuk saking kendhi? |
+| Sadurunge ana kulkas, akeh omah nyimpen panganan supaya tetep adhem ing... | **kothak es**, oven, loteng | Sapa sing ngirimake es? |
+| Sapa sing nggawa susu menyang ngarep omah nganggo botol kaca? | Tukang pos, **tukang susu**, tukang koran | Apa wae maneh sing dikirim menyang omah? |
+| Kepriye carane muter nomer ing telpon puter? | Mencet tombol, **muter roda**, ngomong karo telpone | Critakna babagan telpon ing omah sampeyan |
+| Perusahaan endi sing nggawe mobil Model T? | **Ford**, Chevrolet, Buick | Critakna babagan mobil sing sampeyan senengi |
+| Ing ngendi sampeyan bisa nemokake soda jerk? | **Ing konter soda**, ing toko roti, ing bank | Apa sing sampeyan pesen ing konter? |
+| Dolanan apa sing awujud pegas logam lan bisa mlaku mudhun tangga? | Yo-yo, **Slinky**, hula hoop | Dolanan apa sing sampeyan senengi? |
+| Drive-in iku papan kanggo nonton... | **film saka njero mobil**, pertandingan bal, parade | Sampeyan lunga karo sapa? |
+| Pasuryan sapa sing ana ing dhuwit kertas siji dolar? | Lincoln, **George Washington**, Jefferson | Biyen dhuwit siji dolar bisa dituku apa wae? |
+| Pasuryan sapa sing ana ing dhuwit recehan penny? | **Abraham Lincoln**, Washington, Franklin | Apa sampeyan biyen nyimpen dhuwit recehan ing stoples? |
+| Biasane bis sekolah warnane apa? | Abang, **kuning**, biru | Biyen sampeyan mangkat sekolah kepriye? |
 
-## Dinten ageng, alam, lan papan
+## Dina riyaya, alam lan papan
 
-| Pitakenan | Pilihan | Rembagan bab |
+| Pitakonan | Pilihan | Bahan omongan |
 | --- | --- | --- |
-| Dinten Kamardikan Indonesia dipunpèngetan ing tanggal... | 1 Januari, **17 Agustus**, 25 Desember | Kados pundi panjenengan ngrayakaken dinten menika? |
-| Pinten wulan wonten setunggal taun? | Sedasa, **kalih welas**, sekawan welas | Wulan punapa ingkang panjenengan remeni? |
-| Pinten dinten wonten setunggal minggu? | Nem, **pitu**, wolu | Dinten punapa ingkang paling panjenengan nengga-nengga? |
-| Pinten dinten wonten taun kabisat? | 365, **366**, 360 | Cariyosaken bab ulang taun ingkang panjenengan elingi |
-| Pelangi katingal sasampunipun... | **Jawah**, tilem, dalu | Panjenengan nate mirsani pelangi? |
-| Segara ing sisih kidul Pulo Jawi dipunsebat Segara... | Pasifik, **Hindia**, Atlantik | Panjenengan nate dhateng pantai? |
-| Gunung geni ingkang kondhang celak Yogyakarta dipunsebat Gunung... | **Merapi**, Kinabalu, Fuji | Panjenengan nate mirsani gunung menika? |
-| Kutha Surakarta ugi dipunsebat kutha... | **Sala (Solo)**, Pati, Kediri | Panjenengan nate dhateng Sala? |
-| Tawon damel... | Susu, **madu**, sutra | Madu wonten teh utawi ing roti? |
-| Anak sapi dipunsebat... | **Pedhet**, cempe, kuthuk | Panjenengan nate manggen celak pakewan? |
-| Kembang inggil warni kuning ingkang kondhang nolèh dhateng srengenge? | Mawar, **kembang srengéngé**, melati | Punapa ingkang tuwuh wonten taman panjenengan? |
-| Kembang melati limrahipun warninipun... | **Pethak**, ireng, biru | Panjenengan remen ambu kembang punapa? |
+| Dina riyaya endi sing ana ing Kemis kaping papat ing sasi November? | Labor Day, **Thanksgiving**, Memorial Day | Apa sing mesthi ana ing meja sampeyan? |
+| Jack-o'-lantern digawe kanggo dina riyaya apa? | **Halloween**, Easter, Christmas | Critakna babagan Halloween ing papan sampeyan gedhe |
+| Fourth of July mengeti Deklarasi... | Rights, **Independence**, Freedom | Ing ngendi sampeyan nonton kembang api? |
+| Mother's Day ana ing sasi apa? | April, **May**, June | Kepriye kulawarga sampeyan ngrayakake? |
+| Ana pira lintang ing gendera Amerika? | 48, **50**, 52 | Gendera nduweni 48 lintang nganti 1959. Loro-lorone bisa dadi kenangan sing apik |
+| Samodra endi sing ana ing Pesisir Wetan? | Pacific, **Atlantic**, Arctic | Apa sampeyan nate lunga menyang pantai? |
+| Ing kutha endi ana Patung Liberty? | Boston, **New York**, Philadelphia | Apa sampeyan nate menyang New York? |
+| Tawon ngasilake apa? | Susu, **madu**, sutra | Madu ing roti panggang utawa ing teh? |
+| Anak sapi diarani... | Foal, **calf**, kid | Apa sampeyan nate manggon cedhak peternakan? |
+| Kembang kuning dhuwur endi sing misuwur amarga ngarah menyang srengenge? | Mawar, **kembang srengenge**, tulip | Apa sing biyen thukul ing kebon sampeyan? |
+| Ana pirang dina ing taun kabisat? | 365, **366**, 360 | Critakna babagan ulang taun sing sampeyan eling |
+| Mangsa apa sing teka sawise mangsa dingin? | Mangsa gugur, **mangsa semi**, mangsa panas | Mangsa apa sing paling sampeyan senengi? |
 
 ## Trivia panganan lan olahraga
 
-| Pitakenan | Pilihan | Rembagan bab |
+| Pitakonan | Pilihan | Bahan omongan |
 | --- | --- | --- |
-| Tempe dipundamel saking... | Kentang, **kedhelai**, jagung | Panjenengan remen tempe dipunolah kados pundi? |
-| Gudheg menika masakan kondhang saking kutha... | **Yogyakarta**, Medan, Makassar | Sinten ingkang remen gudheg ing kulawarga panjenengan? |
-| Wedhang jahe dipundamel saking toya anget lan... | **Jahe**, kopi, gula | Panjenengan remen unjukan anget punapa? |
-| Santen dipundamel saking... | **Kelapa**, kedhelai, pisang | Masakan punapa ingkang nganggé santen? |
-| Sambel limrahipun raosipun... | Manis, **pedhes**, asem | Panjenengan remen sambel ingkang pedhes sanget? |
-| Pisang goreng dipundamel saking... | **Pisang**, kentang, tela | Sinten ingkang remen damel pisang goreng? |
-| Badminton dipunmainaken nganggé... | **Raket lan kok**, bal lan pemukul, tali | Panjenengan nate main badminton? |
-| Pinten pemain sepak bola ing satunggal regu wonten lapangan? | 9, **11**, 13 | Regu punapa ingkang panjenengan dukung? |
-| Pinten regu ing pertandhingan sepak bola? | **Kalih**, tiga, sekawan | Panjenengan nate mirsani pertandhingan sepak bola? |
-| Papan catur gadhah pinten kothak? | 36, **64**, 100 | Sinten ingkang nuladhani panjenengan main catur? |
+| Kismis iku woh anggur sing... | Woh plum, **woh anggur**, woh ceri | Apa sampeyan biyen nggawa kismis kanggo bekal? |
+| Prune iku woh plum sing... | **Woh plum**, woh ara, woh apel | Sapa ing kulawarga sampeyan sing seneng banget karo prune? |
+| Selai kacang lan... | **selai**, keju, ham | Sing renyah utawa sing alus? |
+| Guacamole biasane digawe saka... | Kacang polong, **alpukat**, timun | Cocolan apa sing biyen ana ing pesta? |
+| Pai endi sing dadi favorit nalika Thanksgiving? | **Pai waluh**, pai lemon, pai ceri | Pai apa sing biyen sampeyan gawe? |
+| Pira pemain tim baseball sing ana ing lapangan? | 7, **9**, 11 | Tim apa sing biyen sampeyan dukung? |
+| Pira strike sing dibutuhake kanggo out ing baseball? | Loro, **telu**, papat | Apa sampeyan nate main bal? |
+| Babe Ruth misuwur amarga olahraga apa? | Tinju, **baseball**, golf | Apa sampeyan nate nonton pertandingan bal langsung? |
+| Ana pirang bolongan ing lapangan golf standar? | 9, **18**, 24 | Apa sampeyan nate main golf, utawa mini golf? |
+| Ing olahraga apa sampeyan entuk poin touchdown? | **Sepak bola Amerika**, hoki, basket | Sapa sing nonton bal-balan ing omah sampeyan? |
 
-## Paribasan ingkang sampun dipunkenal
+## Unen-unen sing akrab
 
-Nglengkapi paribasan ngginakaken basa ingkang dipunsinau sampun dangu lan asring gampil. Dolanan [Nglengkapi paribasan](/games/finish-the-saying/) kawula gadhah langkung kathah, kanthi pencet kangge nuduhaken pungkasan menapa kemawon.
+Nerusake unen-unen nggunakake basa sing wis disinaoni biyen lan asring luwih gampang metu. Game [Rampungna unen-unen](/games/finish-the-saying/) duwe luwih akeh maneh, kanthi tutul kanggo nuduhake pungkasan.
 
-| Paribasan | Pilihan | Rembagan bab |
+| Unen-unen | Pilihan | Bahan omongan |
 | --- | --- | --- |
-| Alon-alon waton... | **Kelakon**, kesusu, mlayu | Sinten ingkang tansah alon-alon ing kulawarga panjenengan? |
-| Rukun agawe... | **Santosa**, sugih, rame | Kados pundi kulawarga panjenengan njagi karukunan? |
-| Becik ketitik, ala... | **Ketara**, kesasar, kelangan | Panjenengan nate ngraosaken menika? |
-| Ajining diri saka... | **Lathi**, sandhangan, griya | Sinten ingkang tansah ngelingaken menika dhateng panjenengan? |
-| Ajining raga saka... | **Busana**, pangan, kasugihan | Sandhangan punapa ingkang panjenengan remeni? |
-| Kacang ora ninggal... | **Lanjaran**, wiji, godhong | Panjenengan mirip sinten ing kulawarga? |
-| Sapa nandur bakal... | **Ngundhuh**, nglangkungi, ngelih | Panjenengan nate nandur punapa? |
-| Tuna satak bathi... | **Sanak**, dhuwit, regi | Sinten sedherek ingkang celak kaliyan panjenengan? |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Sapa sing biyen kerep ngomong iki marang sampeyan? |
+| The early bird catches the... | Bus, **worm**, train | Apa sampeyan wong sing seneng tangi esuk? |
+| Don't count your chickens before they... | **Hatch**, sleep, sing | Apa kulawarga sampeyan biyen nduweni pitik? |
+| A penny saved is a penny... | **Earned**, lost, spent | Sapa ing kulawarga sampeyan sing seneng nyimpen dhuwit? |
+| Home is where the... | Garden is, **heart is**, kitchen is | Apa sing ndadekake sawijining papan krasa kaya omah? |
+| Better late than... | Early, **never**, sorry | Sapa sing mesthi telat? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Critakna babagan rejeki sing ora disangka-sangka |
+| Actions speak louder than... | **Words**, music, thunder | Critakna babagan wong sing nate ngomong iku |
 
-## Pitakenan menika-utawi-menika ingkang boten wonten wangsulan lepat
+## Pitakonan iki-utawa-kuwi sing ora ana wangsulan salah
 
-Menika cocog kangge saben tahap, kalebet tahap lajeng, amargi boten wonten ingkang kedah dipunleres-leresaken. Tanglet, mirengaken, lan paringaken wangsulan panjenengan ugi.
+Pitakonan iki cocog kanggo saben tahap, kalebu tahap sabanjure, amarga ora ana sing bisa salah. Takona, rungokna, lan bagi wangsulan sampeyan dhewe uga.
 
-- Kopi utawi teh?
-- Pantai utawi gunung?
-- Asu utawi kucing?
-- Enjing utawi sonten?
-- Kue utawi gorengan?
-- Njoged utawi mirsani?
-- Srengenge jumedhul utawi surup?
-- Teras ngajeng utawi pekarangan wingking?
-- Radio utawi piringan hitam?
-- Bubur utawi sega goreng?
-- Mawar utawi melati?
-- Tindak numpak sepur utawi numpak mobil?
+- Kopi utawa teh?
+- Pesisir utawa gunung?
+- Asu utawa kucing?
+- Mangsa panas utawa mangsa dingin?
+- Pai utawa kue?
+- Nari utawa nonton?
+- Srengenge munggah utawa srengenge surup?
+- Emper ngarep utawa pekarangan mburi?
+- Radio utawa piringan hitam?
+- Pancake utawa endhog?
+- Mawar utawa kembang aster?
+- Lunga numpak sepur utawa numpak mobil?
 
-Kangge dhorongan rembagan ingkang dipunsertani gambar, cobi [Kertu rembagan](/games/conversation-cards/) ingkang saged dipuncithak.
+Kanggo pitakonan omong-omongan sing cocog karo gambar, cobanen [Kartu omong-omongan](/games/conversation-cards/) sing bisa dicithak.
 
-## Kados pundi nglampahi sesi trivia ing panti utawi grup?
+## Kepriye carane nganakake sesi trivia ing panti perawatan utawa klompok?
 
-1. **Lenggahaken tiyang supados saged mirsani lan mirengaken.** Alat bantu pamireng dipunagem, kacamata dipunagem, TV dipunpateni.
-2. **Wiwiti kados rembagan.** "Kula gadhah sawetawis pitakenan bab jaman rumiyin, lan kula kinten panjenengan langkung sumerep tinimbang kula."
-3. **Wacanen saben pitakenan kaping kalih lan tuduhaken pilihanipun kanthi ageng.**
-4. **Sambut wangsulan saking pundi kemawon ing ruangan.** Wangsulana malih wangsulan ingkang sae supados sedaya mirengaken.
-5. **Ngandikakaken wangsulanipun kangge sedaya,** lajeng tanglet bab rembagan dhateng ruangan.
-6. **Tututi semangatipun.** Manawi satunggal pitakenan miwiti cariyos sepuluh menit, dipunidinaken.
-7. **Pungkasi kanthi lagu utawi babak menika-utawi-menika,** supados sedaya mungkasi kanthi ingkang gampil.
+1. **Atur lungguh supaya kabeh wong bisa ndeleng lan ngrungokake.** Alat bantu pangrungu dipasang, kacamata dianggo, TV dipateni.
+2. **Wiwiti minangka omong-omongan.** “Aku duwe sawetara pitakonan babagan jaman biyen, lan aku yakin sampeyan luwih ngerti tinimbang aku.”
+3. **Wacanen saben pitakonan kaping pindho lan tuduhna pilihane kanthi gedhe.**
+4. **Tampanana wangsulan saka ngendi wae ing ruangan.** Baleni wangsulan sing apik supaya kabeh wong krungu.
+5. **Sebutna wangsulan kanggo kabeh wong,** banjur takon bahan omongan marang sak ruangan.
+6. **Tindakake alur sing lagi mlaku.** Yen siji pitakonan bisa dadi crita nganti sepuluh menit, ayo bae.
+7. **Pungkasi kanthi lagu utawa babak iki-utawa-kuwi,** supaya kabeh wong rampung kanthi bab sing gampang.
 
-Kangge wujud grup sanes, kalebet bingo gambar lan nembang sesarengan, mirsani [kegiatan grup kangge panti](/activities/care-home-groups/).
+Kanggo format klompok liyane, kalebu bingo gambar lan nyanyi bareng, delengen [kegiyatan klompok kanggo panti perawatan](/activities/care-home-groups/).
 
-## Kapan kedah ngewahi rencana
+## Kapan kudu ngganti rencana
 
-Manawi wonten tiyang ingkang katingal kuwatos, meneng, utawi ngandika "kula boten sumerep" langkung saking sepisan, nggampilaken: cekak dhateng kalih pilihan, wangsuli sesarengan, utawi pindhah dhateng pitakenan menika-utawi-menika. Manawi grup langkung remen rembagan bab satunggal pitakenan sedinten muput, menika kasil. Ancasipun boten nate wangsulan ingkang leres. Ancasipun inggih menika wekdal wonten ing rencang ingkang sae.
+Yen ana wong sing katon kuwatir, dadi meneng utawa luwih saka sepisan ngomong “Aku ora ngerti”, gawenen luwih gampang: suda dadi loro pilihan, wangsulana bebarengan, utawa ganti menyang pitakonan iki-utawa-kuwi. Yen klompok luwih seneng ngobrol babagan siji pitakonan nganti sore, kuwi uga kalebu kasil. Tujuane dudu wangsulan sing bener. Tujuane yaiku wektu sing dilewati kanthi kebersamaan sing nyenengake.

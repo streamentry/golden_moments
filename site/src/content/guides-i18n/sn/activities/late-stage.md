@@ -1,32 +1,34 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Zviitwa zveDementia Yepadanho Rokupedzisira"
+seoTitle: "Zviitwa zveDementia Yepadanho Rokupedzisira: Mazano"
+description: "Zviitwa zvinyoro zvevanhu vari padanho rekupedzisira redementia, pamubhedha kana pachigaro: mimhanzi, kubata maoko, kuverengera, ruzha uye kuva pamwe chete."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Padanho rekupedzisira redementia, zviitwa zvinonyanya kusanganisira
+  manzwiro uye kuva nemi pamwe chete: kuridza mimhanzi yavanofarira, kubata
+  maoko, kukwiza maoko zvinyoro, kuverengera zvinonzwika, kutarisa mifananidzo,
+  kuteerera ruzha rwezvisikwa uye kugara pedyo nehwindo kana panze. Zviitwa
+  izvi zvinogona kuitwa nemunhu ari pamubhedha kana pachigaro. Chengetai nguva
+  pfupi, tarisai zviratidzo zvekugadzikana kana kusagadzikana pachiso, pamaoko
+  uye pakufema, uye rangarirai kuti kuvapo kwenyu pachikwo chiitiko.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Kubatana kuchiripo. Padanho rokupedzisira, munhu anonyanya kunzwa nyika kuburikidza nemanzwiro ake."
+  - "Mimhanzi, kubata zvinyoro, manzwi anozivikanwa uye zvinhu zvinyoro zvekubata zvinowanzosvika pamunhu kunyange mazwi asisanyatsobudi."
+  - "Mazano anenge ese ari pano anogona kuitwa nemunhu ari pamubhedha kana pachigaro."
+  - "Tarisai zviratidzo zvekugadzikana kana kusagadzikana pachiso, pamaoko uye pakufema, uye mirai kana paine chiratidzo chekutambudzika."
+  - "Dzivisai zvinhu zvidiki uye ipai chikafu kana chinwiwa chete sezvinorairwa nechikwata chinomutarisira, nekuti kumedza kunogona kusava kwakachengeteka."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Ndezvipi zviitwa zvandingaita nemunhu ari padanho rekupedzisira redementia ari pamubhedha?"
+    a: "Ridzai mimhanzi yavo yavanofarira, batai ruoko rwavo, vakwizei maoko zvinyoro nerotion, vaverengerei bhuku kana munamato wavanoda, varatidzei mifananidzo, kana ridzai ruzha rwunyoro rwezvisikwa. Vhurai maketeni kuti vaone kunze. Nguva pfupi, dzakadzikama, muchiita chinhu chimwe panguva, kazhinji dzinoshanda zviri nani."
+  - q: "Vanhu vari padanho rekupedzisira redementia vachiri kunakidzwa nemimhanzi here?"
+    a: "Vazhinji vanogona. Alzheimer's Association inoti kunyange padanho rokupedzisira, munhu anogona kukwanisa kurova mutinhimira kana kuimba pamwe chete nerwiyo rwepaudiki hwake. Sarudzai mimhanzi yavaida vachiri vadiki uye chengetai ruzha rwakaderera."
+  - q: "Ndingaziva sei kana vari kunakidzwa nechiitiko?"
+    a: "Tarisai zviratidzo zvidiki: mapfudzi akasununguka, chiso chakapfava, kutarisana, kuimba zvisina ruzha, kubata ruoko zvakasimba zvinyoro kana kufema kunononoka. Kuunyana kumeso, kudzokera shure, kusagadzikana kana kugomera zvinogona kureva kusagadzikana kana kurwadziwa. Kana mukaona izvi, mirai uye zivisai chikwata chinomutarisira kana zvikaramba zviripo."
+  - q: "Zvine basa here kushanya kana vasisandizivi?"
+    a: "Hongu. National Institute on Aging inoti kuvapo kwenyu chete kunogona kudzikamisa, uye kuti kubata, mimhanzi nenyaya zvinogona kuramba zvichinyaradza kunyange padanho repamusoro redementia. Inzwi renyu nekubata kwenyu zvinogona kunge zvichiri kuzivikanwa kunyange zita renyu risingazivikanwi."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +50,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Padanho rekupedzisira redementia, munhu anogona kutaura zvishoma, achida rubatsiro pazvinhu zvese zvezuva nezuva uye achipedza nguva yakawanda ari pamubhedha kana pachigaro. Zvinogona kunzwika sokuti hapasisina zvamungaita pamwe chete. Asi zviripo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) inoti chimwe chikamu chemunhu chingangoramba chiripo, uye kuti padanho iri munhu anonyanya kunzwa nyika kuburikidza nemanzwiro ake. Mimhanzi, kubata, inzwi rinozivikanwa uye kuvapo kwenyu kwakadzikama zvinogona kuramba zvichiunza nyaradzo nenguva dzekubatana.
 
-## What activities help in late-stage dementia?
+## Ndezvipi zviitwa zvinobatsira padanho rekupedzisira redementia?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Zviitwa zviri nyore zvinosanganisira manzwiro uye kuva pamwe chete murunyararo ndizvo zvinonyanya kubatsira padanho iri. Alzheimer's Association inokurudzira kuridza mimhanzi yavanofarira, kuverenga zvikamu zvemabhuku ane zvazvinoreva kwavari, kukwiza lotion ine kunhuhwirira kwavanofarira paganda, uye kugara panze pamwe chete kana zuva rakanaka. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) inowedzerawo kutaura nyaya, kuratidza mifananidzo, kubata zvinyoro kana kukwiza muviri zvinyoro, uye mimhanzi, ruzha rwakadzikama kana ruzha rwezvisikwa, ichiti kuvapo kwenyu chete kunogona kudzikamisa.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inoti vanhu vari padanho rokupedzisira vanowanzoda kubata chinhu padyo kuti vanzwe vakasununguka, uye inokurudzira zviitwa zviri nyore zvemanzwiro, kutambanudza muviri zvinyoro, kufambisa sikavha, mimhanzi, kushanya kwemhuka, kubata zvinyoro uye kuita zvehunyanzvi pasina mitemo yakasimba.
 
-## Activities for someone in bed or a chair
+## Zviitwa zvemunhu ari pamubhedha kana pachigaro
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Ridzai mimhanzi yavo.** Sarudzai nziyo dzenguva yavakanga vachiri vadiki, dzekutenda kwavo kana dzemhuri. Chengetai ruzha rwakaderera uye garai pedyo. Kunyange zvino, vamwe vanhu vanogona kurova chigunwe kana kuimba zvisina ruzha. Onai [zviitwa zvemimhanzi](/activities/music/).
+2. **Batai maoko.** Kubata ruoko chete, muchikwiza chigunwe zvinyoro, chiitiko pachacho. Taurai zvamuri kuita musati mabata.
+3. **Vakwizei maoko zvinyoro.** Dziyisai lotion shoma mumaoko enyu mobva makwiza kubva paruoko kusvika kumunwe. Sarudzai lotion isina kunhuhwirira, kana kunhuhwirira kwavaigara vachida kana ganda ravo richikubvumira.
+4. **Vaverengerei zvinonzwika.** Nhetembo yavanofarira, chidimbu chebhuku ravaida, rugwaro kana peji remitambo. Mutinhimira weinzwi renyu unokosha kupfuura mashoko.
+5. **Taurai nyaya.** Taurai nezverwendo rwemhuri kana zuva ravakaroorana. Hamufaniri kumirira mhinduro.
+6. **Ratidzai mifananidzo.** Batai mufananidzo mumwe wakakura panguva pamwero wemaziso avo uye mutsanangure zvinyoro. Dzivisai kubvunza kuti ndiani ari mumufananidzo.
+7. **Ipai chinhu chinyoro chekubata.** Tauro rakapetwa, jira diki remvere kana mhuka yakapfava yekutamba. NIA inokurudzira kupa munhu tauro rekubata pavanenge vachifambiswa, kuti vasanyanya kubata imimi kana fenicha.
+8. **Ridzai ruzha rwezvisikwa.** Ruzha rwemvura inonaya, masaisai kana kurira kweshiri paruzha rwakaderera runogona kudzikamisa ruzha rwemukamuri.
+9. **Uyai nezvekunze mukati.** Vhurai maketeni, isai nzvimbo yekudyisa shiri kunze kwehwindo, kana uyai nemaruva mashoma matsva kana mashizha ekutarisa nekubata.
+10. **Endai panze.** Kana munhu achigona kugara muwiricheya, maminetsi mashoma mumumvuri pazuva risina kupisa zvakanyanya zvinogona kunakidza.
+11. **Kamisai bvudzi ravo kana vapai jira rinodziya.** Kuchengeta muviri zvinyoro uye zvishoma nezvishoma, uye kushandisa jira rinodziya pamaoko nechiso, zvinogona kunzwika serudo.
+12. **Fambisai muviri zvinyoro nemimhanzi.** Zungunusai sikavha rakareruka pamwe chete, kana fambisai maoko muchitevedzera mutinhimira werwiyo. Pamabasa ekutambanudza muviri nemajoini, kumbirai murapi wemuviri kana mukoti kuti akutungamirirei nzira dzakachengeteka kutanga.
+13. **Itai zvehunyanzvi pasina mitemo yakasimba.** Paridzai pendi isina muchetura pabepa hombe nesiponji kana neruoko, muchitungamirirwa nerwenyu. Hapana mhedzisiro yakarurama kana isina kururama.
+14. **Gamuchirai kushanya kwemhuka.** Mhuka yakadzikama pamubhedha kana pamakumbo, kana munhu aifarira mhuka uye nzvimbo ichibvumira.
+15. **Femai zvishoma nezvishoma pamwe chete.** Garai pedyo mufeme zvishoma nezvishoma uye zvinonzwika. [Kufema kwakadzikama](/games/calm-breathing/) kunogona kukubatsirai mese kutungamira kufema, uye ndimi munotanga nekumisa.
+16. **Ingovai navo.** Garai pedyo, imba zvisina ruzha, rukai kana verengai makanyarara. Kuvapo kwenyu kwakakwana.
 
-## How to share an activity at this stage
+## Maitiro ekuita chiitiko pamwe chete padanho iri
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Svikai kubva pamberi.** Danai zita ravo nezita renyu, uye taurayi zvishoma nezvishoma uye zvinyoro musati mabata.
+- **Ipai chinhu chimwe panguva.** Dzima TV musati maridza mimhanzi. Itai chinhu chimwe chemanzwiro panguva.
+- **Chengetai nguva pfupi.** Maminetsi mashoma anogona kukwana. Nguva pfupi kakawanda muzuva dziri nani pane imwe nguva refu.
+- **Gadzirai kugadzikana kutanga.** Tarisisai kuti munhu akatsigirwa zvakanaka. NIA inokurudzira bhodhi remakumbo kutsigira maoko nemuviri wepamusoro kana akagara.
+- **Tarisai maitiro avo.** Maoko akasununguka, chiso chakapfava, kutarisana kana kuimba zvisina ruzha zvinogona kuratidza kugadzikana. NIA inoti kugomera, kuunyana kumeso, kuchengetedza chimwe chikamu chemuviri kana kusagadzikana kamwe kamwe zvinogona kuva zviratidzo zvekurwadziwa. Mirai, uye zivisai chikwata chinomutarisira.
 
-## A quick guide by sense
+## Gwaro pfupi zvichienderana nemanzwiro
 
-| Sense | Ideas | Take care |
+| Manzwiro | Mazano | Chenjererai |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Kunzwa | Mimhanzi yavanofarira, inzwi renyu richiverenga, ruzha rwezvisikwa | Chengetai ruzha rwakaderera; ruzha rumwe panguva |
+| Kubata | Kukwiza maoko, kubata maoko, jira rakapfava, jira rinodziya | Kumbirai kana zivisai musati mabata; tarisai kuti ganda harina maronda kana kuputsika |
+| Kuona | Mifananidzo, maruva, zvinoonekwa nepahwindo, vhidhiyo inononoka yezvisikwa | Batai zvinhu pamwero wemaziso; chiedza chakanaka, pasina kupenya kwakanyanya |
+| Kunhuhwidza | Lotion yavanofarira, maruva matsva, kofi iri kubikwa pedyo | Dzivisai kunhuhwirira kwakasimba; tarisai allergies nematambudziko ekufema |
+| Kuravira | Kuravira kudiki kwechinhu chavanofarira | Ipai chete chikafu nemagadzirirwo anzi nechikwata chinomutarisira zvakachengeteka |
 
-## Safety at this stage
+## Kuchengeteka padanho iri
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Kumedza kunogona kuoma padanho rekupedzisira, uye NIA inoyambira kuti izvi zvinogona kuwedzera njodzi yekudzipwa. Musasiye zvinhu zvidiki padyo navo, uye ipai chikafu kana chinwiwa chete mumagadzirirwo uye munzvimbo dzinokurudzirwa nechikwata chinomutarisira. Tarisisai ganda zvinyoro panguva yezviitwa zvekubata, sezvo ganda rinogona kubvaruka kana kuita mavanga nyore. Kuti muwane rumwe ruzivo nezvezviitwa zvakachengeteka zvemanzwiro, onai [zviitwa zvemanzwiro](/activities/sensory/).
 
-## Looking after yourself too
+## Kuzvichengetawo imi
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Kutarisira munhu ari padanho rekupedzisira kunonetsa mumuviri nemupfungwa, kungava kumba kana panguva yekushanya kunzvimbo yekuchengeta. Zvikwata zvehosipisi nezvekurerutsa kurwadziwa zvinogona kubatsira panyaradzo, rutsigiro uye kuronga, uye NIA inozvitaura senzvimbo dzerubatsiro. Kushanya kupfupi, kwakadzikama kune basa; onai [kushanyira munhu anorarama nedementia](/activities/visiting/). Kana muchitungamirira mapoka, [zviitwa zvemapoka munzvimbo yekuchengeta](/activities/care-home-groups/) zvine mazano ekugadzirisa nguva dzenyu. Uye ndapota verengai [kuzvichengeta kwemutarisiri](/caregiving/caregiver-self-care/): kuzorora chikamu chekuchengeta zvakanaka.

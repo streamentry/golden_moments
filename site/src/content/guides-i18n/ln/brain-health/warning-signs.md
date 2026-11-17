@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Bilembo ya ebandeli ya démence mpe kokutana na monganga"
+seoTitle: "Bilembo ya ebandeli ya démence mpe kokutana na monganga"
+description: "Bilembo ya ebandeli ya démence, bokeseni na kobosana ya mokolo na mokolo, bantina mosusu ya mikakatano ya bokundoli, mpe ndenge ya komibongisa mpo na monganga."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Kobosana makambo oyo epesaka mikakatano na bomoi ya mokolo na mokolo, mikakatano ya kosala misala oyo oyebi malamu,
+  kobungisa ntango to esika, mpe mbongwana na makanisi to na ndenge ya kozwa bikateli ekoki kozala bilembo ya ebandeli ya démence.
+  Makambo mosusu mingi, lokola mikakatano ya thyroïde, kokɔta moke ya vitamine B12, bokeseni oyo nkisi epesaka, mawa ya makanisi
+  mpe mikakatano ya mpɔngi, ekoki mpe kopesa mbongwana ya ndenge wana. Monganga ya mayele kaka nde akoki koyeba soki ezali démence.
+  Kobungisama ya makanisi oyo eyebani mbala moko esengeli lisalisi ya lombangu.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Kobosana mwa makambo tango mosusu ezali momesano na mikolo; mbongwana oyo epesaka mikakatano na bomoi ya mokolo na mokolo esengeli kotala."
+  - "Alzheimer's Association elimboli bilembo 10 ya likebisi, mpe yango mokomoko ekokanisami na mbongwana ya momesano ya mikolo mpo na kosalisa."
+  - "Mikakatano ya thyroïde, kokɔta moke ya vitamine B12, bokeseni oyo nkisi epesaka, mawa ya makanisi, bokono ya infection mpe mikakatano ya mpɔngi ekoki kobebisa bokundoli, mpe mosusu ekoki kobonga soki esalisami."
+  - "Monganga ya mayele kaka nde akoki koyeba soki ezali démence; bamekano ya internet to ya yo moko ekoki te."
+  - "Kobungisama ya makanisi oyo ebandi mbala moko, na kati ya bangonga to mikolo, ekoki kozala délirium mpe esengeli lisalisi ya monganga ya lombangu."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Kobosana makambo ezali momesano ntango moto akómi mobange?"
+    a: "Ndako mosusu, iyo. National Institute on Aging elobi ete kotika biloko esika mosusu to kobosana kofuta faktire tango mosusu ezali bobele kobosana moke oyo ekoki koya na mikolo. Démence ezali te likambo ya momesano ya kokóma mobange. Mikakatano ya bokundoli oyo ekomisi misala ya mokolo na mokolo mpasi, lokola kotambwisa motuka, kosalela telefone to kozonga ndako, esengeli kotala na monganga."
+  - q: "Mikakatano ya bokundoli ekoki kouta na likambo mosusu longola démence?"
+    a: "Iyo. National Institute on Aging etangi mikakatano ya thyroïde, ya rein to ya foie, bokeseni oyo nkisi epesaka, mawa ya makanisi mpe mitungisi, kokɔta moke ya vitamine B12, komela masanga mingi, mikakatano ya mpɔngi, bokono ya infection mpe kozoka na moto, kati na makambo mosusu. Mosusu ekoki kobonga soki esalisami, yango wana kotala monganga ezali na tina."
+  - q: "Nakoki komeka moto na ndako mpo na koyeba soki azali na démence?"
+    a: "Te. Monganga ya mayele kaka nde akoki koyeba soki ezali démence, na kosalela lisolo ya bokolongono, botalisi ya nzoto, bamekano ya bokundoli mpe ya makanisi, bamekano ya laboratoire mpe tango mosusu bamekano ya bɔɔngɔ. Ata bamekano mokuse oyo minganga basalelaka ekoki te yango moko mpo na koyeba démence."
+  - q: "Nasengeli kosala nini soki moto abungisami na makanisi na mbala moko?"
+    a: "Luka lisalisi ya monganga mbala moko. Kobungisama ya makanisi ya mbalakaka ekoki kozala délirium, oyo VA elobi ete ezali likambo ya lombangu ya monganga. Benga monganga ya moto yango mbala moko to benga 911, tikala pembeni na ye, mpe koma nkisi nyonso oyo azali komela."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Komona mbongwana na bokundoli na yo moko, to na moto oyo olingaka, ekoki kopesa bobangi. Lokasa oyo ekoki kosalisa yo oyeba ntango ya kozwa mokolo ya kokutana na monganga mpe ndenge ya komibongisa mpo na yango. Ekoki te koyebisa yo soki moto azali na démence to te. **Monganga ya mayele kaka nde akoki koyeba soki ezali démence**, mpe makambo mingi oyo epesaka mikakatano ya bokundoli ezali démence te. Tosengi otia motema na bamekano ya internet to ya yo moko te.
 
-## What are the early signs of dementia?
+## Bilembo ya ebandeli ya démence ezali nini?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) elimboli bilembo 10 ya ebandeli. Elembo mokomoko ekokanisami na mbongwana ya momesano oyo ekoki koya na mikolo. Na maloba na biso moko:
 
-| Sign worth checking | More typical with age |
+| Elembo oyo esengeli kotala | Mingi mingi ezali momesano na mikolo |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Kobosana makambo oyo epesaka mikakatano na bomoi ya mokolo na mokolo, lokola kobosana makambo ya sika to kotuna likambo moko mbala na mbala | Kobosana nkombo to mokolo ya boyokani tango mosusu mpe kokundola yango na sima |
+| Mikakatano ya kobongisa makambo to ya koluka bisika, lokola kolanda lolenge ya kolamba oyo oyebi malamu to kolandela bafaktire | Kosala libunga moke tango mosusu na bafaktire ya ndako |
+| Mikakatano ya kosilisa misala oyo oyebi malamu na ndako, na mosala to libanda | Kosenga lisalisi tango mosusu mpo na kobongisa micro-ondes to kokanga programɛ ya televizio |
+| Kobungisa mokolo, eleko ya mobu to esika ozali | Kobunga mokolo ya poso, kasi koyeba yango na sima |
+| Mikakatano ya sika mpo na kososola ntaka, kotánga to kokesenisa balangi | Mbongwana ya miso mpo na cataracte |
+| Mikakatano ya sika na maloba, lokola kotelemela na kati ya lisolo to kobenga biloko na nkombo ya mabe | Koluka liloba ya malamu tango mosusu |
+| Kotia biloko na bisika ya kokamwa mpe kozanga ndenge ya kozwa nzela oyo olekaki | Kotia biloko esika mosusu tango mosusu mpe kozwa yango na koluka nzela na sima |
+| Bikeko ya mabe, lokola na makambo ya mbongo to ya kobatela nzoto | Kozwa ekateli ya mabe tango mosusu |
+| Komipesa mosika na misala oyo osepelaka na yango, mosala to makambo ya lisanga | Koyoka posa te ya kokende na libaku ya libota to ya lisanga tango mosusu |
+| Mbongwana na makanisi to na ezaleli, lokola kobungisama, kokanisa mabe, kobanga to kozala na mitungisi | Kozala na banzela na yo ya kosala makambo mpe koyoka nkele soki momesano ebongwani |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Elembo moko kaka elingi koloba te ete ezali démence. Ntina ya monene ezali **mbongwana uta na oyo ezalaki momesano mpo na moto yango**, mingimingi soki ekomisi bomoi ya mokolo na mokolo mpasi koleka.
 
-## How is normal aging different from dementia?
+## Bokeseni nini ezali kati na kokóma mobange ya momesano mpe démence?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) elobi ete mibange mingi bamonaka ete bakundolaka makambo malembe malembe, to babungisaka biloko to babosanaka faktire tango mosusu. Mingi mingi yango ezali bilembo ya kobosana moke. **Démence ezali te likambo ya momesano ya kokóma mobange.** Mikakatano makasi ya bokundoli ekomisaka misala ya mokolo na mokolo mpasi, lokola kotambwisa motuka, kosalela telefone to kozonga ndako.
 
-The NIA suggests talking with a doctor if someone:
+NIA epesi toli ya kosolola na monganga soki moto:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Azali kotuna mituna moko ndenge moko mbala na mbala
+- Azali kobunga na bisika oyo ayebaki malamu
+- Azali na mikakatano ya kolanda lolenge ya kolamba to mitindo
+- Azali kobungisama mingi koleka mpo na ntango, bato mpe bisika
+- Atiki komibatela malamu, lokola kolya mabe, kozanga kosukola nzoto to kosala makambo na ndenge ya mabe
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Bato mosusu bazali na **mild cognitive impairment (MCI)**. Yango elingi koloba ete bazali na mikakatano ya bokundoli to ya makanisi mingi koleka bato mosusu ya mbula na bango, kasi bakoki naino kosala makambo ya mokolo na mokolo. NIA elobi ete MCI ekoki kozala elembo ya ebandeli ya Alzheimer's, kasi bato nyonso oyo bazali na MCI bakómaka na yango te.
 
-## What else can cause memory problems?
+## Makambo nini mosusu ekoki kopesa mikakatano ya bokundoli?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Makambo mingi mosusu longola démence ekoki kobebisa bokundoli, mpe mosusu ekoki kobonga soki esalisami. NIA etangi:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Mikakatano ya thyroïde, ya rein to ya foie**
+- **Bokeseni oyo nkisi epesaka**
+- **Mawa ya makanisi mpe mitungisi**
+- **Kokɔta moke ya vitamine B12** to kozanga kolya bilei ya malamu
+- **Mikakatano ya mpɔngi**
+- **Kosalela masanga to nkisi na ndenge ya mabe**
+- **Bokono ya infection, maboke ya makila to bitono** na bɔɔngɔ
+- **Kozoka na moto**, lokola concussion
+- **Mitungisi minene to mawa**, lokola kotika mosala to kokufa ya molongani
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Mikakatano ya koyoka mpe ya komona ekoki mpe komonana lokola kobungisama; tala [lisalisi na biso mpo na koyoka](/brain-health/hearing/). Yango wana kotala monganga ezali na tina. Kolanda [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), minganga mingi batindaka bamekano ya makila mpo na kotala mikakatano ya thyroïde, bozangi ya vitamine mpe bokono ya infection. Ezali malamu mpe kolobela [mpɔngi ya malamu](/brain-health/sleep/) mpe lisalisi mpo na mawa ya makanisi.
 
-## Sudden confusion is an emergency
+## Kobungisama ya makanisi ya mbalakaka ezali likambo ya lombangu
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Kobungisama ya makanisi oyo ebandi noki, na kati ya bangonga to mikolo, esengeli lisalisi ya monganga ya lombangu.** Ekoki kozala délirium. [VA elimboli délirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) lokola likambo ya lombangu ya monganga mpe epesi toli ya kobenga monganga ya moto yango mbala moko to kobenga 911. Bilembo ekoki kozala:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Makoki ya kokanisa malamu ezali komata mpe kokita
+- Mikakatano ya kotia likebi
+- Makanisi ya mobulungano
+- Kolala mingi koleka momesano, to kozala na kimia te mpe kotungisama mingi
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Yango ekoki kokomela moto nyonso, ata mpe bato oyo bazali kobika na démence. Kolanda [NHS](https://www.nhs.uk/symptoms/confusion/), bantina oyo emonanaka mingi ezali bokono ya infection (bokono ya infection ya nzela ya masuba emonanaka mingi na mibange mpe na bato oyo bazali kobika na démence), AVC, sukali ya makila oyo ekiti mingi na bato oyo bazali na diabète, kozoka na moto mpe nkisi mosusu. Wana ozali kozela lisalisi, tikala pembeni na moto yango mpe bondisa ye na maloba mokuse mpe ya pete. Kotuna ye mituna mingi te, mpe koma nkisi nyonso oyo azali komela.
 
-## How do I prepare for the doctor's appointment?
+## Ndenge nini nakoki komibongisa mpo na kokutana na monganga?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Mokolo ya malamu ya kokutana na monganga ebandaka na banote ya malamu. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) epesi toli ya komema:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Liste ya mbongwana** na bokundoli, makanisi mpe ezaleli, elongo na bandakisa ya polele mpe ntango oyo ebandaki
+2. **Mikakatano ya bokolongono ya kala mpe ya lelo**, elongo na lisolo ya libota soki ezali na mikakatano ya bokundoli
+3. **Nkisi nyonso oyo monganga akomeli mpe oyo ozwi kozanga mokanda ya monganga**
+4. **Ba vitamine to ba supplément nyonso**
+5. **Mituna na yo**, lokola bamekano nini bakosala, ekosɛka ntango boni mpe mikano ekoya ntango nini
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Ezali malamu mpe komema moto ya libota to moninga oyo ayebi moto yango malamu. [NIA elimboli](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) ete minganga bakoki kotuna mituna ezala na moto yango to na moto ya libota mpo na bokolongono, nkisi, misala ya mokolo na mokolo mpe mbongwana ya ezaleli. Minganga bakoki mpe:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Kosala bamekano ya bokundoli, ya koluka bisika, ya likebi, ya kotánga mpe ya maloba
+- Kotinda bamekano ya makila, ya masuba mpe bamekano mosusu mpo na koluka bantina mosusu
+- Kotala soki ezali na mawa ya makanisi to mikakatano mosusu ya makanisi
+- Kotinda bamekano ya bɔɔngɔ lokola CT to MRI
+- Kotinda epai ya monganga ya mayele, lokola gériatre, neurologue, psychiatre gériatrique to neuropsychologue
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA elobi ete komeka makoki ya makanisi ezali eteni oyo esengeli na Medicare Annual Wellness Visit, oyo ekoki kozala ntango ya malamu mpo na kolobela mitungisi na yo. Ata bamekano mokuse oyo minganga basalelaka ekoki te yango moko mpo na koyeba démence. Ezali bobele litambe ya liboso mpo na botalisi ya mozindo, mpe koyeba ekoki kosɛnga mikolo mingi ya kokutana. NIA epesi toli ete bato oyo bazali na mikakatano ya bokundoli bazonga epai ya monganga nsima ya sanza 6 kino 12.
 
-## Raising the subject kindly
+## Kolobela likambo yango na boboto
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Soki ozali na mitungisi mpo na moto mosusu, pona ntango ya kimia mpe ya sekele. Lobela makambo ya polele oyo omoni, lokola komitungisa mpo na bokolongono na ye, kasi te lokola kofunda. Kopesa likanisi ya kokende na botalisi ya bokolongono ya momesano ekoki komonana pete koleka. Kotia moto yango na bikateli mpe kosolola na ye lokola mobange oyo azali. [Toli na biso mpo na kosolola](/caregiving/communication-tips/) ekoki kosalisa.
 
-## Talk with a doctor
+## Solola na monganga
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Soki omoni mbongwana ya bokundoli, ya makanisi, ya ezaleli to ya makoki ya mokolo na mokolo oyo ezali ya sika mpe ezali kokoba, zwa mokolo mpo na kokutana na monganga ya liboso. Soki ezali kobungisama ya makanisi ya mbalakaka, benga 911 to monganga ya moto yango mbala moko. Kokende kotala noki esalisaka mpo na koyeba bantina oyo ekoki kobonga mpe, soki ezali démence, ezali kopesa ntango mingi mpo na kobongisa makambo mpe kozwa lisalisi. Banzela mpe kobatela yo moko na ntango wana; tala [lisalisi na biso mpo na kobatela moto oyo obatelaka](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Lokasa oyo ezali sango ya momesano, ezali te toli ya monganga. Tala [maloba na biso mpo na makambo ya bokolongono](/medical-disclaimer/).

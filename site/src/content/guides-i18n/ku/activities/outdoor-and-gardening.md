@@ -1,33 +1,33 @@
 ---
-title: "چالاکیی دەرەوە و باخچەداری بۆ کەسانی لەگەڵ دیمێنشا"
-seoTitle: "باخچەداری و چالاکیی دەرەوە بۆ دیمێنشا"
-description: "بیرۆکەی باخچەداری و چالاکیی دەرەوە بۆ کەسانی لەگەڵ دیمێنشا، لەگەڵ باخچە بەرزکراوەکان، گۆڵدان و ڕێنمایی پاراستن لە گەرما، خۆر و وونبوون."
+title: "Çalakiyên derve û baxçevaniyê ji bo kesên bi demansê"
+seoTitle: "Baxçevanî û çalakiyên derve ji bo demansê"
+description: "Ramanên baxçevanî û çalakiyên derve ji bo kesên ku bi demansê dijîn, bi nivînên bilind, baxçeyên di konteyneran de û şîretên ewlehiyê ji bo germ, tav û gerîn."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  باخچەداری و کاتی دەرەوە دەتوانێت چالاکییەکی ئارام و ئاشنا بێت بۆ ئەو کەسەی
-  لەگەڵ دیمێنشا دەژێت. ئاودانی ڕووەکەکان، چاندنی گیا بەهاراتییەکان لە گۆڵداندا،
-  لابردنی گوڵە وشکبووەکان یان پیاسەیەکی کورت لە حەوشەیەکی سنوورداردا تاقی بکەرەوە.
-  باخچەی بەرزکراوە یان مێزێک بەکاربهێنە تاکوو کەسێک پێویستی بە چۆکدانە نەبێت،
-  دووربە لە ئامرازە تیژەکان و ڕووەکە ژەهراوییەکان، لە کاتی ساردتری ڕۆژدا بچنە دەرەوە،
-  و هەمیشە لەگەڵ ئەو کەسەدا بن.
+  Baxçevanî û dema li derve dikare ji bo kesek ku bi demansê dijî çalakiyek aram
+  û nas be. Avdana riwekan, çandina giyayan di kulikan de, rakirina kulîlkên
+  ziwa, an meşeke kurt li hewşeke dorpêçkirî biceribînin. Nivînên bilind an
+  maseyekê bi kar bînin da ku kesek neçar nemîne çokan deyne, ji amûrên tûj û
+  riwekên jehrîn dûr bisekinin, di beşên sartir ên rojê de derkevin derve, û her
+  dem bi kesê re bimînin.
 keyPoints:
-  - "ئەرکە سادەکانی باخچە وەک ئاودان، چاندنی تۆو، بۆنکردن و دەست لێدان بە گیا بەهاراتییەکان و کۆکردنەوەی گوڵ دەتوانرێت بە وەستان یان دانیشتن ئەنجام بدرێن."
-  - "باخچەی بەرزکراوە، گۆڵدان و مێزێکی سێبەردار باخچەکە دەهێننە ئاستی کەمەر و مەترسیی کەوتن کەمدەکەنەوە."
-  - "دووربە لە ئامرازە تیژەکان، ڕووەکی دڕکدار یان هەستیارکەر، و هەر شتێکی ژەهراوی. ئاگاداربە خاک وەک خواردن تێنەگەیەنرێت."
-  - "گەرما دەتوانێت بۆ کەسانی تەمەنمەزن مەترسیدار بێت. لە بەیانیان زوو یان ئێواران بچنە دەرەوە، ئاو و سێبەر لەگەڵ خۆتان ببەن، و لە یەکەم نیشانەی نەئاسوودەیی بگەڕێنەوە ژوورەوە."
-  - "زۆرێک لەو کەسانەی لەگەڵ دیمێنشا دەژین لە هەندێک کاتدا دەسووڕێنەوە. لە دەرەوە هەمیشە لەگەڵ ئەو کەسەدا بن و وێنەیەکی نوێ و ناسنامە لە لای خۆتان هەڵبگرن."
+  - "Karên hêsan ên baxçê wek avdan, çandina tovan, bêhna giyayan kirin û çinîna kulîlkan dikarin li ser piyan an jî rûniştî bên kirin."
+  - "Nivînên bilind, konteyner û maseyeke sergirtî baxçê digihînin asta çokê û xetera ketinê kêm dikin."
+  - "Ji amûrên tûj, riwekên tûj an ku çerm aciz dikin, û her tiştê jehrîn dûr bisekinin. Bala xwe bidin ku ax wek xwarin neyê şaş kirin."
+  - "Germî dikare ji bo mezinan xeternak be. Serê sibê an êvarê derkevin derve, av û siyê bi xwe re bibin, û dema yekem nîşanên nerehetiyê derkevin holê vegerin hundur."
+  - "Gelek kesên ku bi demansê dijîn di demekê de digerin. Li derve her dem bi kesê re bimînin û wêneyekî nû û nasnameyek li ber destê xwe bigirin."
 faq:
-  - q: "ئەو کەسەی لەگەڵ دیمێنشا دەژێت چ چالاکییەکی باخچەداری دەتوانێت بکات؟"
-    a: "ئاودانی ڕووەکەکان، چاندنی تۆو لە گۆڵدانی بچووکدا، بۆنکردن و دەست لێدان بە گیا بەهاراتییەکان، لابردنی گوڵە وشکبووەکان، کۆکردنەوەی سەوزە، ڕێکخستنی گوڵی بڕدراو و گەسککردنی ڕێگا هەموویان هەڵبژاردەی باشن. لەناو ماڵەوە، گۆڵدانێکی گیا بەهاراتی لەسەر پەنجەرە یان سینەیەکی خاک لەسەر مێزێکی داپۆشراو باش کاردەکات. ئەرکەکە بەپێی ئەوە هەڵبژێرە کە ئەو کەسە پێشتر حەزی لێ دەکرد و ئێستا بە ئاسوودەیی دەتوانێت بیکات."
-  - q: "چۆن پاراستنی ئەو کەسەی لەگەڵ دیمێنشا دەژێت لە گەرما دابین بکەم؟"
-    a: "کاتی دەرەوە بۆ بەیانی زوو یان ئێوارەی ساردتر پلانی بۆ دابنێ، کورت بیهێڵەرەوە، و زوو زوو ئاو پێشکەش بکە. سێبەر، کڵاوی فراوان، جلوبەرگی سووک و فرافیت و کرێمی پارێزەر لە خۆر هەڵبژێرە. کەسانی تەمەنمەزن مەترسییان بۆ نەخۆشیی پەیوەست بە گەرما زیاترە، و سەرلێشێواوی، سووڕانەوە یان ڕشانەوە دەتوانن نیشانەی ئاگاداری بن، بۆیە ئەگەر ئەمانەت بینی دەستبەجێ بگەڕێنەوە ژوورەوە و فێنکی بکەنەوە."
-  - q: "ئەگەر ئەو کەسە مەیلی سووڕانەوەی هەبێت، چۆن دەتوانین بچینە دەرەوە؟"
-    a: "هەموو کاتەکە لەگەڵ ئەو کەسەدا بە، حەوشە یان باخچەیەکی سنووردار بە دەرگای قوفڵکراو بەکاربهێنە، و دڵنیابە کە بازنی ناسنامە لەدەستدایە یان ناسنامە لەگەڵ خۆیدایە. وێنەیەکی نوێ لە لای خۆت هەڵبگرە. ئەگەر ئەو کەسە ون بوو، کۆمەڵەی ئەلزهایمەر ڕێنمایی دەکات کە ئەگەر لەماوەی 15 خولەکدا نەدۆزرایەوە، پەیوەندی بە 122 (ژمارەی فریاگوزاری) بکەیت."
-  - q: "ئەگەر باخچەمان نەبێت چی؟"
-    a: "چەند گۆڵدانێک لەسەر بەردەرگا، سندوقێکی پەنجەرە، یان سینەیەکی گیا بەهاراتی لەسەر مێزی چێشتخانە بەسە. دەتوانن سەردانێکی پارک، باخچەی گشتی یان باخچەی کۆمەڵایەتیش بکەن. دانیشتن لە دەرەوە و گوێگرتن لە دەنگی باڵندەکانیش چالاکییەکی دەرەوەیە."
+  - q: "Kesek ku bi demansê dijî dikare kîjan çalakiyên baxçevaniyê bike?"
+    a: "Avdana riwekan, çandina tovan di kulikên biçûk de, bêhnkirin û destgirtina giyayan, rakirina kulîlkên ziwa, çinîna sebzeyan, rêzkirina kulîlkên birînkirî û paqijkirina rêyekê hemû bijarteyên baş in. Li hundur, kulikek giyayê li ser peravê pencereyê an tepsiyek axê li ser maseyeke sergirtî baş dixebite. Karê li gorî tiştê ku kes berê jê hez dikir û niha bi rehetî dikare bike hilbijêrin."
+  - q: "Ez çawa dikarim kesek ku bi demansê dijî di germê de ewle bigirim?"
+    a: "Dema li derve ji bo sibê zû an êvara sartir plan bikin, kurt bihêlin, û gelek caran av pêşkêş bikin. Siyê, kulmeke fireh, cilên sivik û fireh û krema ber tavê hilbijêrin. Mezin di xetera nexweşiya germê de bêtir in, û tevlihevî, sergêjî an gêjbûn dikarin bibin nîşanên hişyariyê, ji ber vê yekê heke hûn wan bibînin tavilê herin hundur û sar bibin."
+  - q: "Heke ew mêldarê gerînê be, em çawa dikarin derkevin derve?"
+    a: "Di tevahiya wextê de bi kesê re bimînin, hewşek an baxçeyek dorpêçkirî ya bi deriyekî kilîtkirî bi kar bînin, û piştrast bikin ku ew bendek nasnameyê li xwe dike an nasnameyek bi xwe re digire. Wêneyekî nû li ber destê xwe bigirin. Heke kes winda bibe, tavilê bi polîs an karûbarên lezgîn ên herêmî re têkilî daynin; hejmareke diyarkirî ya xulekan li bendê nemînin. Ji bersivderan re bibêjin ku kes bi demansê dijî, ew dawî li ku hatiye dîtin û wêneyekî nû pêşkêş bikin."
+  - q: "Heke baxçeyek me tune be çi?"
+    a: "Çend kulik li ser eywanekê, sindoqek pencereyê, an tepsiyek giyayan li ser maseya metbexê bes e. Her weha hûn dikarin serdana parkekê, baxçeyek giştî an baxçeyek civakî bikin. Rûniştina li derve û guhdarîkirina çivîkan jî wekî çalakiyek derve tê hesibandin."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-بۆ زۆر کەس، باخچە یەکێکە لەو شوێنانەی زۆر باش دەیناسن. بیڵکردن، ئاودان و کۆکردنەوەی گوڵ ئەو توانایانە بەکاردەهێنن کە لە زووەوە فێربووون، و بوون لە دەرەوە هەوای تازە، ڕووناکی خۆر و دەنگی باڵندەکان دەهێنێت. پەیمانگای نیشتمانی تەمەن (National Institute on Aging) ئاگاداری کردن لە ڕووەکەکان، چاندنی گوڵ و سەوزە، و [قسەکردن دەربارەی چۆنیەتی گەشەکردنی ڕووەکەکان](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) لە نێو ئەو چالاکییانەدا دەخاتە ڕوو کە ڕەنگە کەسانی لەگەڵ نەخۆشی ئەلزهایمەر حەزیان لێ بێت. ئەم لاپەڕەیە باس لەوە دەکات کە چی تاقی بکەنەوە، چۆن باخچەکە ئاسانتر بکەن بۆ بەکارهێنان، و چۆن لەگەڵ گەرما، خۆر و سووڕانەوە پارێزراو بن.
+Ji bo gelek kesan, baxçe yek ji wan cihên herî nas e ku ew dizanin. Kolandin, avdan û çinîna kulîlkan jêhatîyên ku demeke dirêj berê hatine fêrkirin bi kar tînin, û bûna li derve hewaya teze, ronahiya rojê û dengê çivîkan tîne. Enstîtuya Neteweyî ya Pîrbûnê (National Institute on Aging) lênêrîna riwekan, çandina kulîlk û sebzeyan, û [axaftina li ser ka riwek çawa mezin dibin](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) di nav wan çalakiyan de dibêje ku dibe kesên bi nexweşiya Alzheimer jê kêfê bistînin. Ev rûpel behsa tiştên ku dikarin werin ceribandin, ka meriv çawa baxçeyekê ji bo karanînê hêsantir dike, û ka meriv çawa bi germ, tav û gerînê re ewle dimîne dike.
 
-## چ چالاکییەکی دەرەوە و باخچەداری باش کاردەکات؟
+## Kîjan çalakiyên derve û baxçevaniyê baş dixebitin?
 
-باشترین ئەرکەکان سادە و ئاشنان و دەتوانرێت بە وەستان یان دانیشتن ئەنجام بدرێن. بەپێی ئەوە هەڵبژێرە کە ئەو کەسە پێشتر حەزی لێ دەکرد.
+Karên çêtirîn hêsan û nas in û dikarin li ser piyan an jî rûniştî bên kirin. Li gorî tiştê ku kes berê jê hez dikir hilbijêrin.
 
-### لە باخچەدا
+### Li baxçê
 
-1. **ئاودان.** دەفرێکی ئاوی بچووک و سووک یان سەری شیلەیەکی نەرم و چەند گۆڵدانێک لە دەستڕاگەیشتن. ئاودان سەرەتایەکی ڕوون و کۆتاییەکی هەیە و هەڵەکردنی تێدا زەحمەتە.
-2. **چاندنی تۆو لە گۆڵداندا.** دامەزراوەی ئەلزهایمەری ئەمریکا پێشنیاری چاندنی تۆو لە گۆڵدانی بچووکدا و [سەیرکردنی گەشەکردنیان](https://alzfdn.org/dementia-activity-gardening/) دەکات. تۆوی گەورە وەک پاقڵە، گوڵەبەڕۆژە یان پەتا ئاسانترن بۆ دەستگرتن.
-3. **لابردنی گوڵە وشکبووەکان.** لابردنی گوڵە وشکبووەکان بە دەست ئەرکێکی نەرم و دووبارەبووەوەیە. ڕووەکی بێ دڕک هەڵبژێرە.
-4. **کۆکردنەوەی سەوزە یان گیا بەهاراتی.** تەماتەی بچووک، پاقڵە و گیا بەهاراتییەکان ئاسانن بۆ کۆکردنەوە و خۆشە بۆ تامکردن. بیانبە ژوورەوە بۆ بەکارهێنان لە نانی نیوەڕۆدا.
-5. **بۆنکردن و دەست لێدان بە گیا بەهاراتییەکان.** ڕێحان، پوونە و لاڤەندەر بۆنی بەهێز و خۆشیان هەیە. گەڵایەک لە نێوان پەنجەکانتدا بسووتێنە و پێشکەشی بکە.
-6. **گەسککردنی ڕێگا یان حەوشە.** گەسکێکی سووک لەسەر ڕوویەکی تەخت و وشک، ئەگەر هاوسەنگی باش بێت.
-7. **پڕکردنەوەی خواردنەری باڵندە.** دواتر پێکەوە دانیشن و سەیری ئەو باڵندانە بکەن کە دێن.
+1. **Avdan.** Avdankek biçûk û sivik an serê herikeke nerm û çend kulikên di dest de. Avdanê destpêk û dawiyeke zelal heye û zehmet e ku şaş were kirin.
+2. **Çandina tovan di kulikan de.** Weqfa Alzheimer a Amerîkayê (Alzheimer's Foundation of America) pêşniyar dike ku tovan di kulikên biçûk de biçînin û [temaşe bikin ka ew çawa mezin dibin](https://alzfdn.org/dementia-activity-gardening/). Tovên mezin wek fasûlî, gulberoj an bizin hêsantir têne girtin.
+3. **Rakirina kulîlkên ziwa.** Bi destan rakirina kulîlkên ziwa karekî nerm û dubare ye. Riwekên bê tûj hilbijêrin.
+4. **Çinîna sebze an giyayan.** Bacanên biçûk (cherry tomatoes), fasûlî û giyayên xweşbêhn hêsan tên çinîn û tamxweş in. Wan bînin hundur da ku di firavînê de bi kar bînin.
+5. **Bêhnkirin û destgirtina giyayan.** Rîhan, pûne û levanta bêhnên xurt û xweş hene. Pelê di navbera tiliyên xwe de bihênin û pêşkêş bikin.
+6. **Paqijkirina rêyek an hewşekê.** Ji bo rûberek rast û hişk firçeyek sivik, heke hevsengî baş be.
+7. **Dagirtina xwarindana çivîkan.** Paşê bi hev re rûnin û temaşe bikin ka kî tê serdanê.
 
-### لەناو ماڵەوە، کاتێک چوونە دەرەوە نەگونجاوە
+### Li hundur, dema ku derketina derve ne gengaz e
 
-- **باخچەی گیا بەهاراتی لەسەر پەنجەرە** وەک ڕێحانی سەوز، جەعفەری یان گەنی.
-- **چاندن لەسەر مێزێکی داپۆشراو.** دامەزراوەی ئەلزهایمەری ئەمریکا پێشنیاری بەکارهێنانی سینەی وەک سینەی خواردنگە دەکات بۆ ئەوەی خاک لە یەک شوێن بمێنێتەوە، و گواستنەوەی خاک بە کوپی بچووک.
-- **ڕێکخستنی گوڵ** بە گوڵی بڕدراو و گەڵا سەوزەکان لە حەوشە یان دوکان.
-- **پەستاندنی گوڵ** لە کاتییەکدا، دواتر لەسەر کارت بچەسپێندرێت. بۆ زیاتر سەیری [هونەر و دەستکار](/activities/arts-and-crafts/) بکە.
-- **دروستکردنی کیسی بچووکی لاڤەندەر یان گوڵ**، بیرۆکەیەکی تری دامەزراوەی ئەلزهایمەری ئەمریکا کە بۆنی باخچەکە دەهێنێتە ناو ماڵەوە.
+- **Baxçeyek giyayan li ser peravê pencereyê** ji reyhan, maydanoz an çîv.
+- **Çandina di kulikan de li ser maseyeke sergirtî.** AFA pêşniyar dike ku tepsiyên mîna yên xwaringehê bi kar bînin da ku ax li yek cihî bimîne û axê bi qedehên biçûk biguhezînin.
+- **Rêzkirina kulîlkan** bi kulîlkên birînkirî û keskayiyên ji hewşê an firoşgehê.
+- **Kulîlkên zextkirî** ji bendeyek kulîlkan, ku paşê li ser qertan têne zeliqandin. Ji bo bêtir, li [hunera destan û çêkirinê](/activities/arts-and-crafts/) binêrin.
+- **Çêkirina kîsikên levanta an gulê**, ramaneke din a AFA ye ku bêhna baxçê li hundur dihêle.
 
-### چوونە دەرەوە
+### Derketin û gerîn
 
-- **پیاسەیەکی کورت** بە دەوری گەڕەک، لە پارکێکدا یان ناوەندێکی فرۆشتنی گوڵ، بە لایەکی خاو و شوێنێک بۆ دانیشتن.
-- **دانیشتن لە دەرەوە** لەسەر بەردەرگا یان کورسییەک بۆ گوێگرتن لە دەنگی باڵندەکان و هەستکردن بە شنەبا. ئەمە بە تەنها چالاکییەکی تەواوە.
-- **سەردانی باخچەی گشتی** لە کاتێکی ئارامدا. NHS تێبینی دەکات کە هەندێک شوێن باخچەی هەستییان هەیە کە گیا بەهاراتی بۆنخۆش، پێوەستە جیاوازەکان و تایبەتمەندیی ئاویان تێدایە.
-- **خواردن دان بە مراوی یان سەیرکردنی باڵندەکان** لە کەنار گۆمێکدا، بە دووری پارێزراو لە لێواری ئاوەکە.
+- **Meşeke kurt** li dora taxê, li parkekê an navendek baxçevaniyê, bi lezek hêdî û bi cihê rûniştinê.
+- **Rûniştina li derve** li ser eywanekê an textê da ku guhdarî li çivîkan bikin û bayê hîs bikin. Ev bi serê xwe jî çalakiyek temam e.
+- **Serdana baxçeyek giştî** di demeke aram a rojê de. NHS destnîşan dike ku hin cihan baxçeyên hestî hene ku riwekên bêhnxweş, tevn û taybetmendiyên avê tê de ne.
+- **Xwarina werdek an temaşekirina çivîkan** li gola herêmî, bi dûrketina ji keviya avê ya ewle.
 
-## چۆن باخچەکە ئاسانتر بکەم بۆ بەکارهێنان؟
+## Ez çawa dikarim baxçeyekê ji bo karanînê hêsantir bikim?
 
-باخچەکە بۆ لای ئەو کەسە بهێنە، نەک ئەو کەسە بۆ لای باخچەکە.
+Baxçê bînin ber kesê, ne ku kesê bibin ber baxçê.
 
-- **باخچەی بەرزکراوە یان گۆڵدانی بەرز** نزیکەی ئاستی کەمەر واتای ئەوەیە پێویست بە چۆکدانە یان چەمینەوە ناکات.
-- **گۆڵدان لەسەر مێز** بۆ ئەو کەسانە گونجاوە کە کورسیی جووڵە بەکاردەهێنن یان حەز بە دانیشتن دەکەن.
-- **ڕێگای فراوان و تەخت** بەبێ بەردی شل یان شیلەی دانراو لەسەریان مەترسیی هەڵپەڕکێ کەمدەکاتەوە.
-- **کورسیی بە دەستەوە و سێبەردار** لەسەر ڕێگا، تاکوو هەمیشە دەرفەتێک بۆ پشوو دان هەبێت.
-- **ئامرازی دەستگرتنی ئەستوور و نەرم** کە بە ئاسانی دەگیرێن. مەقەست، چەقۆ و هەر شتێکی تیژ بەکارمەهێنە.
-- **ناوچەیەکی سنووردار بە دەرگای قوفڵکراو** کە ئەو کەسە دەتوانێت بە ئازادی تێیدا بگەڕێت کاتێک تۆ لە نزیکیدایت.
+- **Nivînên bilind an kulikên dirêj** bi qasî asta çokê tê vê wateyê ku ne hewce ye mirov çokan deyne an xwe bitewîne.
+- **Konteyner li ser maseyekê** ji bo kesên ku kursiya bi teker bi kar tînin an tercîh dikin rûnin baş dixebitin.
+- **Rêyên fireh û rast** bê kevirên sist an herikên ku li ser wan razane xetera lihevketinê kêm dikin.
+- **Rûniştgehên bi mil û siyê** li ser rê, da ku bêhnvedan her dem vebijarkek be.
+- **Amûrên bi destikên stûr û nerm** ku hêsan têne girtin. Ji meqesên baxçê, kêr û her tiştê tûj dûr bisekinin.
+- **Cihek dorpêçkirî bi deriyekî kilîtkirî** ku kes dikare bi azadî lê bigere dema ku hûn li nêzîk dimînin.
 
-## لە کام ڕووەکەکان دوور بکەومەوە؟
+## Divê ez ji kîjan riwekan dûr bisekinim?
 
-ئەو ڕووەکانە هەڵبژێرە کە دەست لێدانیان سەلامەتە و، ئەگەر بە تام بکرێن، سەلامەت بن. دامەزراوەی ئەلزهایمەری ئەمریکا ڕاوێژ دەکات ڕووەک بەکاربهێنرێت کە بە گشتی پێستی هەستیار ناکات، بۆ هەستیاری پشکنین بکرێت، و بە وردی چاودێری ئەو کەسانە بکرێت کە ڕەنگە خاک بە هەڵە وەک خواردن وەربگرن. ڕاوێژی پاراستنی ماڵەوەی پەیمانگای نیشتمانی تەمەن بریتییە لە لابردن یان قوفڵکردنی ڕووەکە ژەهراوییەکان.
+Riwekên ku ji bo destgirtinê ewle ne û, heke gengaz be, heke werin tamkirin jî ewle ne hilbijêrin. AFA şîret dike ku riwekên ku bi gelemperî çerm aciz nakin bi kar bînin, ji bo alerjiyan kontrol bikin, û ji nêz ve temaşe bikin ji bo kesê ku dibe axê wek xwarin şaş bike. Şîreta ewlehiya malê ya NIA rakirin an kilîtkirina riwekên jehrîn jî di nav xwe de digire.
 
-- دووربە لە گوڵی دڕکدار، کاکتوس، و ڕووەکانی شلەدار کە پێست هەستیار دەکەن.
-- پێش چاندن، هەر ڕووەکێک دڵنیای لێ نیت لەگەڵ ناوەندێکی کۆنترۆڵی ژەهر یان ناوەندێکی فرۆشتنی گوڵدا بپشکنە.
-- ڕووەکە دڵخوازە ئاشناکان دەتوانن هەستێکی خۆش بگەڕێننەوە. دامەزراوەی ئەلزهایمەری ئەمریکا گوڵ و کاکتوسی کریسمس وەک نموونە باس دەکات. جۆرە بێ دڕکەکان هەڵبژێرە.
-- پەتەکە، دەرمانی ڕووەک و دەرمانی گیاھەرزەکان بە قوفڵ هەڵبگرە، و لەو شوێنانە بەکاریان مەهێنە کە ئەو کەسە دەستی پێدەگات.
+- Ji gulên bi tûj, kaktus û riwekên ku şîreya wan çerm aciz dike dûr bisekinin.
+- Berî çandinê, her riweka ku hûn pê ne ewle ne bi navendek kontrola jehran an navendek baxçevaniyê ya herêmî re kontrol bikin.
+- Tiştên bijare û nas dikarin hestên xweş vegerînin. AFA gul û kaktusa Sersalê wekî mînak dibêje. Cureyên bê tûj hilbijêrin.
+- Zibl, dermanên kêzikan û dermanên giya yên nexwestî kilîtkirî bihêlin, û wan li deverên ku kes digihîje wan bi kar neynin.
 
-## چۆن لە گەرما و خۆر پارێزراو بم؟
+## Ez çawa dikarim di germ û tavê de ewle bimînim?
 
-کاتی دەرەوە بەپێی کەشوهەوا پلانی بۆ دابنێ. پەیمانگای نیشتمانی تەمەن ڕوون دەکاتەوە کە کەسانی تەمەنمەزن مەترسییان بۆ [نەخۆشیی پەیوەست بە گەرما](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) زیاترە، بەشێکی لەبەر ئەوەی جەستە بە باشی خۆی لەگەڵ گۆڕانی پلەی گەرما ناگونجێنێت و هەندێک دەرمان کاریگەری لەسەر مامەڵەکردنی جەستە لەگەڵ گەرما هەیە.
+Dema li derve li gorî hewayê plan bikin. NIA rave dike ku mezin di xetera [nexweşiya girêdayî germê](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) de bêtir in, beşek ji ber ku laş kêmtir baş xwe bi guherînên germahiyê re diguncîne û hin derman bandorê li awayê ku laş bi germê re mijûl dibe dikin.
 
-- **لە بەیانی زوو یان ئێواران بچنە دەرەوە.** لە مانگە گەرمەکاندا دووربە لە ناوەڕاستی ڕۆژ. پێوەری گەرما (heat index) بپشکنە، نەک تەنها پلەی گەرما.
-- **زوو زوو ئاو پێشکەش بکە.** چاوەڕێ مەکە ئەو کەسە بڵێت تینوویەتی. لە گەرمادا دووربە لە کحول و خواردنەوەی کافایینی.
-- **جلوبەرگی گونجاو لەبەر بکە.** جلوبەرگی ڕەنگی کراوە، فرافیت، کڵاوی فراوان و چاویلکەی خۆر.
-- **کرێمی پارێزەر لە خۆر بەکاربهێنە.** پەیمانگای نیشتمانی تەمەن کرێمی فراوان-پارێز (broad-spectrum) بە SPF 15 یان زیاتر پێشنیار دەکات، و لەماوەی ڕۆژدا دووبارە بکەرەوە.
-- **سێبەر هەڵبژێرە.** مێزی چاندن لەژێر دارێک یان چەتردا دابنێ.
-- **کورت بیهێڵەرەوە.** کاتێکی کورت لە دەرەوە دەتوانێت بەس بێت، بەتایبەتی لە ڕۆژانی گەرمدا.
-- **ئاگاداری نیشانەکانی ئاگادارکردنەوە بە.** پەیمانگای نیشتمانی تەمەن سەرئێشە، سەرلێشێواوی، سووڕانەوە یان ڕشانەوە وەک نیشانەی ئەگەرەی نەخۆشیی پەیوەست بە گەرما باس دەکات. ئەو کەسەی لەگەڵ دیمێنشا دەژێت ڕەنگە پێت نەڵێت هەستی بە ناخۆشی دەکات، بۆیە سەیری ڕووخسار و ڕەفتاری بکە. بگەڕێنەوە ژوورەوە، بە ئاو و قاوەیەکی فێنک فێنکی بکەنەوە، و ئەگەر بەخێرایی باشتر نەبوو یارمەتی پزیشکی وەربگرە. لێدانی گەرما (heat stroke)، بە نیشانەکانی وەک بێهۆشبوون، سەرلێشێواوی، یان پێستی وشک و سوور، حاڵەتێکی فریاگوزاری پزیشکییە: پەیوەندی بە 122 (ژمارەی فریاگوزاری) بکە.
+- **Serê sibê an êvarê derkevin derve.** Di mehên germ de ji nîvê rojê dûr bisekinin. Ne tenê germahiyê, lê nîşaneya germê jî kontrol bikin.
+- **Gelek caran av pêşkêş bikin.** Li bendê nemînin ku kes bibêje tî ye. Di germê de ji alkol û vexwarinên bi kafeîn dûr bisekinin.
+- **Li gorî wê cil li xwe bikin.** Cilên bi rengê ronî û fireh, kulmeke fireh û berçavkên rojê.
+- **Krema ber tavê bi kar bînin.** NIA krema ber tavê ya berfireh bi SPF 15 an jî zêdetir pêşniyar dike, ku di nav rojê de dîsa were danîn.
+- **Siyê hilbijêrin.** Maseya çandinê di bin darekê an sîwanekê de saz bikin.
+- **Kurt bihêlin.** Demeke kurt li derve dikare bes be, nemaze di rojên germ de.
+- **Bala xwe bidin nîşanên hişyariyê.** NIA serêş, tevlihevî, sergêjî an gêjbûnê wekî nîşanên gengaz ên nexweşiya germê dibêje. Kesek ku bi demansê dijî dibe ku ji we re nebêje ku xwe nexweş hîs dike, ji ber vê yekê li rû û tevgera wî/ê temaşe bikin. Herin hundur, bi av û paçikeke sar sar bibin, û heke ew zû baş nebe alîkariya bijîşkî bistînin. Lêdana germê, bi nîşanên wekî xelîsîn, tevlihevî, an çermê hişk û sor, rewşeke lezgîn a bijîşkî ye: 911 bang bikin.
 
-کەشوهەوای ساردیش گرنگە. لە زستاندا، کاتی دەرەوە کورت بهێڵەرەوە و دڵنیابە کە دەست و پێ گەرم و وشک دەمێننەوە.
+Hewaya sar jî girîng e. Di zivistanê de, dema li derve kurt bihêlin û piştrast bikin ku dest û ling germ û hişk dimînin.
 
-## کاتێک دەچینە دەرەوە، چۆن مامەڵە لەگەڵ سووڕانەوە بکەم؟
+## Dema ku em derdikevin derve ez çawa bi gerînê re mijûl dibim?
 
-هەر کاتێک لە دەرەوەن، لەگەڵ ئەو کەسەدا بە. کۆمەڵەی ئەلزهایمەر دەڵێت [لە هەر 10 کەسێک لەو کەسانەی لەگەڵ دیمێنشا دەژین، 6 کەسیان](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) لانیکەم جارێک دەسووڕێنەوە، و زۆریان زیاتر لە جارێک. ئەمە دەتوانێت لە هەر قۆناغێکدا ڕووبدات.
+Her gava ku ew li derve ne bi kesê re bimînin. Komeleya Alzheimer (Alzheimer's Association) dibêje ku [ji her deh kesên ku bi demansê dijîn şeş kes](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) dê herî kêm carekê bigerin, û gelek caran ji carekê zêdetir. Ev dikare di her qonaxê de çêbibe.
 
-[ڕێنماییەکانی پەیمانگای نیشتمانی تەمەن بۆ سووڕانەوە و ونبوون](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) ئەمانە لەخۆدەگرێت:
+[Şîretên NIA yên ji bo gerîn û winda bûnê](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) van tiştan di nav xwe de digirin:
 
-- دڵنیابە کە ئەو کەسە بازنی ناسنامە یان بازنی پزیشکی لەدەستدایە کە ناو، ناونیشان و ژمارەی تەلەفۆنی تۆی تێدایە، یان جلوبەرگەکانی نیشان بکە.
-- وێنە یان ڤیدیۆیەکی نوێی ئەو کەسە لە لای خۆت هەڵبگرە.
-- بە دراوسێکان ڕاگەیەنە کە ڕەنگە ئەو کەسە بسووڕێتەوە.
-- حەوشەکە بە پەرژین و دەرگای قوفڵکراو پارێزراو بکە.
-- ئەو کەسەی پێشتر سووڕاوەتەوە بە تەنها جێی مەهێڵە.
+- Piştrast bikin ku kes bendek nasnameyê an bijîşkî bi nav, navnîşan û jimareya telefona we li xwe dike, an cilên wî/ê nîşan bikin.
+- Wêneyek an vîdyoyek nû ya kesê bigirin.
+- Ji cîranan re bibêjin ku dibe kes bigere.
+- Hewşê bi têl û deriyekî kilîtkirî ewle bikin.
+- Kesek ku berê geriyaye bê çavdêrî nehêlin.
 
-کۆمەڵەی ئەلزهایمەر هەروەها پێشنیاری دروستکردنی ناوچەی ناوەوە و دەرەوە دەکات کە بە سەلامەتی دەتوانرێت تێیدا بگەڕێندرێت، و پلاندانانی چالاکییەکان بۆ ئەو کاتەی ڕۆژ کە بێئارامی زیاتر ڕوودەدات. پیاسەیەک لە باخچەیەکی سەلامەت و سنوورداردا دەتوانێت بۆ بێئارامیی کۆتایی ڕۆژ گونجاو بێت. سەیری ڕێبەرەکەمان بکە دەربارەی [بێئارامیی کۆتایی ڕۆژ](/caregiving/late-day-restlessness/).
+Komeleya Alzheimer jî pêşniyar dike ku deverên hundur û derve yên ku bi ewlehî dikarin werin gerîn werin afirandin, û çalakiyan ji bo wê dema rojê ku bêaramiya herî zêde pêkan e plan bikin. Meşeke li baxçeyek ewle û dorpêçkirî dikare ji bo bêaramiya dawiya rojê guncan be. Rêbernameya me ya li ser [bêaramiya dawiya rojê](/caregiving/late-day-restlessness/) binêrin.
 
-ئەگەر ئەو کەسە ون بوو، کۆمەڵەی ئەلزهایمەر ڕاوێژ دەکات دەستبەجێ ناوچە نزیکەکان بگەڕێنرێن و ئەگەر لەماوەی 15 خولەکدا نەدۆزرایەوە پەیوەندی بە 122 (ژمارەی فریاگوزاری) بکرێت. بە پۆلیس بڵێ کە ئەو کەسە دیمێنشای هەیە.
+Heke kes winda bibe, dema ku tavilê bi polîs an karûbarên lezgîn ên herêmî re têkilî didin li cihên ewle yên nêzîk bigerin. Berî ragihandinê hejmareke diyarkirî ya xulekan li bendê nemînin. [Gotareke kovara Wezareta Dadê ya Amerîkayê ya sala 2021 li ser lêkolînên kesên windabûyî](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) dibêje ku divê dezgehên qanûnê heyameke li bendê ya diyarkirî nexwazin û nîşanên mîna demansê wekî xemeke xetera bilind dibêje. Rêbazên ragihandinê yên herêmî cuda ne. Kengî û li ku derê kes dawî hatiye dîtin, çi li xwe kiriye û wêneyekî nû parve bikin. Rêberiya bersivderên herêmî bişopînin; bi tena serê xwe li cihên neewle negerin.
 
-## لەگەڵ گۆڕانەکاندا، چۆن باخچەداری بگونجێنم؟
+## Dema ku tişt diguherin ez çawa baxçevaniyê li gorî rewşê diguncînim?
 
-| ئەگەر ئەمە ئێستا قورس بووە | ئەمە تاقی بکەرەوە |
+| Heke ev tişt niha zehmet bûye | Li şûna wê vê biceribînin |
 | --- | --- |
-| چاندنی تەواوی باخچەیەک | چاندنی تەنها یەک تۆو لە یەک گۆڵداندا |
-| پاڵەوێنە (جیاکردنەوەی گیاھەرزە لە ڕووەک) | ئاودان، یان لابردنی گوڵە وشکبووە دیارەکان |
-| پیاسەکردن بەناو باخچەدا | دانیشتن لەسەر مێزێک لەگەڵ سینەیەکی خاک و ڕووەکێک |
-| چوونە دەرەوە | گۆڵدانێکی گیا بەهاراتی لەسەر مێزی چێشتخانە، یان دانیشتن لە کەنار پەنجەرەیەکی کراوە |
-| ئەنجامدانی هەر ئەرکێک | پێکەوە دانیشتن لە دەرەوە، گوێگرتن و سەیرکردن |
+| Çandina tevahiya nivînekê | Çandina tovekê di kulikekê de |
+| Rakirina giya yên nexwestî (cudakirina wan ji riwekan) | Avdan, an rakirina kulîlkên ziwa yên eşkere |
+| Gerîna li dora baxçê | Rûniştina li maseyekê bi tepsiyek axê û riwekekê |
+| Bi tevahî derketina derve | Kulikek giyayan li ser maseya metbexê, an rûniştinek li kêleka pencereyeke vekirî |
+| Kirina her karekî | Bi hev re rûniştina li derve, guhdarîkirin û temaşekirin |
 
-هەندێک کەس حەز دەکەن سەیری کارکردنت بکەن. پەیمانگای نیشتمانی تەمەن تێبینی دەکات کە ڕێگەدان بە کەسێک بۆ سەیرکردن بەس باشە ئەگەر ئەوەی حەزی لێیە.
+Hin kes tercîh dikin ku temaşe bikin dema ku hûn dixebitin. NIA destnîşan dike ku heke ev tiştê ku kes jê kêfê digire be, bila kes tenê temaşe bike jî baş e.
 
-## کەی دەبێت بگەڕێینەوە ژوورەوە؟
+## Em kengî divê vegerin hundur?
 
-بگەڕێنەوە ژوورەوە کاتێک ئەو کەسە ماندوو، گەرم، سارد، بێئارام دەردەکەوێت یان ئامادەیە تەواو بکات. دە خولەکی کورت و خۆش باشترە لە نیوەڕۆیەکی درێژ کە بە بێئاسوودەیی کۆتایی دێت. زوو تەواوکردن دەرئەنجامێکی باشە.
+Dema ku kes westiyayî, germ, sar, nerehet an amade xuya dike ku biqedîne herin hundur. Deh xulekên kurt û xweş ji nîvrovek dirêj ku bi tengahiyê diqede çêtir e. Zû rawestan encamek baş e.
 
-## باخچەکە لەسەر شاشە بهێنە ناو ماڵەوە
+## Baxçê li ser ekranê bînin hundur
 
-لە ڕۆژانی باراناویدا، [Sort Together](/games/sort-together/) سەبەتەیەکی باخچەی هەیە بۆ پۆلێنکردنی وێنەکان، و [Conversation Cards](/games/conversation-cards/) پرسیاری کراوەی تێدایە کە دەتوانن ببنە هۆی باسکردنی چیرۆکەکانی باخچە. ئەگەر لە گەرمادا هاتنەوە ژوورەوە و هەست بە پەلەپەل کرد، [Calm Breathing](/games/calm-breathing/) وەستانێکی خاو و ئارام پێشکەش دەکات کە دەتوانن پێکەوە ئەنجامی بدەن. بۆ بیرۆکەی زیاتر کە لەسەر دەست لێدان، بۆنکردن و گوێگرتن بنیات نراون، سەیری [ڕێبەری چالاکییە هەستییەکانمان](/activities/sensory/) بکە.
+Di rojên baranê de, [Bi Hev re Rêz Bikin](/games/sort-together/) selikek baxçê ji bo rêzkirina wêneyan heye, û [Kartên Axaftinê](/games/conversation-cards/) pirsên vekirî dihewîne ku dikarin bibin sedema çîrokên baxçê. Heke hûn ji germê bi hesteke lezgînî vegerin hundur, [Bêhna Aram](/games/calm-breathing/) rawestgeheke hêdî û bêdeng pêşkêş dike ku hûn dikarin bi hev re parve bikin. Ji bo bêtir ramanên ku li ser destgirtin, bêhnkirin û deng hatine avakirin, rêbernameya me ya [çalakiyên hestî](/activities/sensory/) binêrin.

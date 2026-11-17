@@ -1,34 +1,34 @@
 ---
-title: "Preguntas fáciles de cultura general para adultos mayores con demencia, sin presión"
-seoTitle: "Trivia fácil para adultos mayores con demencia: 50 preguntas"
-description: "50 preguntas fáciles de trivia para adultos mayores con demencia, con opciones de respuesta y temas para conversar, y cómo jugar sin que nadie se sienta examinado."
+title: "Trivial fácil para mayores con demencia, sin presión"
+seoTitle: "Trivial para mayores con demencia, con respuestas"
+description: "50 preguntas fáciles de trivial para mayores con demencia, con opciones de respuesta y temas para conversar, y cómo hacerlo sin poner a nadie a prueba."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  La trivia fácil para adultos mayores con demencia funciona cuando se siente
-  como una charla, no como un examen. Pregunte por cosas aprendidas hace mucho,
-  como canciones antiguas, refranes, fiestas y la vida cotidiana, y ofrezca
-  siempre dos o tres opciones. Diga la respuesta sin problema, nunca ponga a
-  nadie en evidencia, no lleve puntos y use cada respuesta para empezar una
-  historia. Las preguntas de «esto o aquello», sin respuesta equivocada, van
-  bien en las etapas más avanzadas.
+  El trivial fácil para personas mayores con demencia funciona mejor cuando se
+  siente como una charla, no como una prueba. Haga preguntas sobre cosas
+  aprendidas hace mucho tiempo, como canciones antiguas, refranes, fiestas y la
+  vida cotidiana, y ofrezca siempre dos o tres opciones. Dé la respuesta con
+  naturalidad, nunca señale a una sola persona, evite llevar puntaje y use cada
+  respuesta para iniciar una historia. Las preguntas de «esto o aquello», sin
+  respuesta incorrecta, son adecuadas para las etapas más avanzadas.
 keyPoints:
-  - "Pregunte por cosas conocidas desde hace mucho: canciones, refranes, fiestas, comida y la vida cotidiana de hace años."
+  - "Haga preguntas sobre cosas muy conocidas: canciones, refranes, fiestas, comida y vida cotidiana de hace años."
   - "Ofrezca dos o tres opciones para que la respuesta se pueda reconocer en lugar de tener que recordarla."
-  - "Diga la respuesta con calidez y siga adelante. Cualquier intento que dé pie a una historia es un buen intento."
-  - "Sin puntos, sin equipos compitiendo por llegar primero, sin preguntarle a una sola persona. Deje que las respuestas vengan de todo el grupo."
-  - "Cuando elegir entre respuestas se vuelva difícil, pase a preguntas de esto o aquello que no tienen respuesta correcta."
+  - "Diga la respuesta con amabilidad y siga adelante. Cualquier respuesta que dé pie a una historia es una buena respuesta."
+  - "Sin puntos, sin equipos compitiendo, sin señalar a una sola persona. Deje que las respuestas surjan de todo el grupo."
+  - "Cuando elegir entre respuestas se vuelve difícil, pase a preguntas de «esto o aquello» sin respuesta correcta."
 faq:
-  - q: "¿La trivia es una buena actividad para personas con demencia?"
-    a: "Puede serlo, si se hace con suavidad. La Alzheimer's Foundation of America incluye la trivia entre las actividades para la etapa inicial. Haga preguntas sobre temas conocidos desde hace mucho, ofrezca opciones, nunca ponga a una persona en evidencia y use las respuestas como una puerta a la conversación, no como un examen."
-  - q: "¿Qué temas funcionan mejor para la trivia con personas con demencia?"
-    a: "Suelen funcionar mejor las cosas aprendidas hace mucho: canciones y cantantes populares de la juventud de la persona, refranes conocidos, fiestas, comida, deportes y la vida cotidiana, como el lechero o los teléfonos de disco. Evite las noticias recientes y cualquier cosa que obligue a recordar algo de un momento anterior de la misma sesión."
-  - q: "¿Cómo hago trivia en una residencia sin avergonzar a nadie?"
-    a: "Lea cada pregunta a todo el grupo, muestre o diga las opciones y reciba respuestas de cualquiera. No le pregunte a personas en particular ni lleve puntos. Diga la respuesta con una sonrisa, sea cual sea el intento, y haga una pregunta para seguir, como «¿Quién de aquí fue alguna vez a un autocine?», para convertirla en historias."
-  - q: "¿Qué puedo hacer en lugar de trivia en las etapas más avanzadas?"
-    a: "Pase a preguntas sin respuesta equivocada, como «¿Café o té?» o «¿Playa o montaña?», y a completar juntos refranes o canciones conocidas. Mirar imágenes y describirlas juntos también funciona bien."
+  - q: "¿Es el trivial una buena actividad para personas que viven con demencia?"
+    a: "Puede serlo, si se hace con delicadeza. La Alzheimer's Foundation of America incluye el trivial entre las actividades para la etapa inicial. Elija preguntas sobre temas muy conocidos, ofrezca opciones, nunca ponga a una sola persona en aprietos y use las respuestas como una forma de iniciar una conversación, no como una prueba."
+  - q: "¿Qué temas funcionan mejor para un trivial con personas con demencia?"
+    a: "Suelen funcionar mejor las cosas aprendidas hace mucho tiempo: canciones y cantantes populares de la juventud de la persona, refranes conocidos, fiestas, comida, deportes y la vida cotidiana, como el reparto de leche o los teléfonos de disco. Evite las noticias recientes y cualquier cosa que requiera recordar algo de antes en la misma sesión."
+  - q: "¿Cómo puedo hacer un trivial en una residencia sin avergonzar a nadie?"
+    a: "Lea cada pregunta a todo el grupo, muestre o diga las opciones y acepte respuestas de cualquier persona. No señale a personas en particular ni lleve puntaje. Diga la respuesta con una sonrisa, sea cual sea lo que se haya respondido, y haga una pregunta de seguimiento como «¿Quién ha ido alguna vez a un autocine?» para convertirlo en historias."
+  - q: "¿Qué puedo hacer en lugar de un trivial en las etapas más avanzadas?"
+    a: "Pase a preguntas sin respuesta incorrecta, como «¿Café o té?» o «¿Playa o montaña?», y a completar juntos refranes o canciones conocidos. Mirar imágenes y describirlas en compañía también funciona muy bien."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -47,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-La trivia o las preguntas de cultura general son una de las actividades de grupo más pedidas en las residencias y en los centros de día, y muchas familias también juegan en la mesa de la cocina. Hecha de la manera habitual, con puntos y con una sola persona respondiendo, puede hacer que alguien con demencia se sienta en evidencia. Hecha con suavidad, es una manera animada de escuchar historias. Aquí abajo hay 50 preguntas fáciles con opciones de respuesta y un tema para conversar en cada una, y después, cómo dirigir una sesión.
+El trivial es una de las actividades en grupo más solicitadas en residencias y centros de día, y muchas familias también lo juegan en la mesa de la cocina. Cuando se hace de la forma habitual, con puntos y una sola persona respondiendo, puede hacer que una persona con demencia se sienta en aprietos. Cuando se hace con delicadeza, es una forma animada de escuchar historias. A continuación encontrará 50 preguntas fáciles con opciones de respuesta y algo de lo que hablar en cada una, seguidas de cómo organizar una sesión.
 
-## ¿Cómo se hace que la trivia funcione para alguien con demencia?
+## ¿Cómo puede hacer que el trivial funcione para una persona con demencia?
 
-Que se trate de reconocer y recordar cosas de hace mucho, y que toda respuesta sea bienvenida.
+Hágalo sobre reconocer y recordar cosas de hace mucho tiempo, y procure que cada respuesta sea bienvenida.
 
-1. **Pregunte por el pasado lejano.** La [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dice que el síntoma temprano más común del alzhéimer es la dificultad para recordar información aprendida recientemente. Las canciones, los refranes y la vida cotidiana de hace décadas suelen ser un terreno más fácil.
-2. **Dé siempre opciones.** Elegir la respuesta correcta entre dos o tres es mucho más fácil que sacarla de la nada.
-3. **Lea las preguntas en voz alta y muéstrelas en grande.** Una pizarra blanca o una tableta en alto ayuda a quienes oyen menos.
-4. **Diga la respuesta sin problema.** Si nadie la sabe, dígala con calidez y siga. Nunca diga «Vamos, usted sabe esto».
-5. **Sin puntos.** Ni por persona ni por mesa. Si el grupo quiere un número, lleve un solo total para todos.
-6. **Nunca le pregunte a una sola persona.** Deje que respondan todos. Si están los dos solos, respondan juntos: «Yo creo que es el piano. ¿Usted qué cree?».
+1. **Pregunte sobre el pasado lejano.** La [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) señala que el síntoma temprano más común del Alzheimer es la dificultad para recordar información aprendida recientemente. Las canciones, los refranes y la vida cotidiana de hace décadas suelen ser un terreno más accesible.
+2. **Ofrezca siempre opciones.** Elegir la respuesta correcta entre dos o tres es mucho más fácil que tener que decirla sin ayuda.
+3. **Lea las preguntas en voz alta y muéstrelas en grande.** Una pizarra o una tableta sostenida en alto ayuda a las personas que oyen menos.
+4. **Dé la respuesta con naturalidad.** Si nadie la sabe, dígala con amabilidad y siga adelante. Nunca diga «Vamos, usted lo sabe».
+5. **Sin puntaje.** Ni para personas individuales ni para mesas. Si alguien quiere un número, lleve un solo total para todo el grupo.
+6. **Nunca señale a una sola persona.** Deje que las respuestas vengan de cualquiera. Si están a solas, respondan juntos: «Yo creo que es el piano. ¿Y usted qué piensa?».
 7. **Use el tema para conversar.** La respuesta es el comienzo, no el final. Las historias son el verdadero objetivo.
-8. **Que sea breve.** Diez preguntas con historias entre medio son más que suficientes.
+8. **Que sea breve.** Diez preguntas con historias entre medias son suficientes.
 
-El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) resume la regla principal de forma sencilla: esté atento a la frustración y asegúrese de que la persona se sienta capaz. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) incluye la trivia entre las actividades para la etapa inicial. En la etapa intermedia, quédese en dos opciones y apóyese en los temas para conversar. Más adelante, pase a las preguntas de esto o aquello que están más abajo.
+El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) resume la regla principal de forma sencilla: esté atento a la frustración y asegúrese de que la persona sienta que lo está haciendo bien. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) incluye el trivial entre las actividades para la etapa inicial. En la etapa intermedia, mantenga solo dos opciones y apóyese en los temas para conversar. Más adelante, pase a las preguntas de «esto o aquello» que encontrará más abajo.
 
-## Trivia de música y espectáculos
+## Trivial de música y entretenimiento
 
-La respuesta está en **negrita**. Adáptelas a la persona: alguien que creció con boleros querrá cantantes distintos de alguien que creció con el rock and roll.
+La respuesta está en **negrita**. Adapte estas preguntas a la persona: alguien que creció con Motown preferirá cantantes distintos a alguien que creció con las grandes orquestas.
 
-| Pregunta | Opciones | Para conversar |
+| Pregunta | Opciones | De qué hablar |
 | --- | --- | --- |
-| ¿A quién llamaban el Rey del Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | ¿Alguna vez vio a Elvis en la televisión? |
-| ¿Qué cantante y actor mexicano cantaba «Amorcito corazón»? | **Pedro Infante**, Jorge Negrete, Javier Solís | ¿Veía usted las películas de Pedro Infante? |
-| Bing Crosby soñaba con una blanca... | **Navidad**, boda, casa | Canten juntos una línea |
-| A la cantante cubana Celia Cruz la llamaban la Reina de la... | **Salsa**, ópera, ranchera | ¿Qué música se bailaba en las fiestas? |
+| ¿A quién llamaban el rey del rock and roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | ¿Vio alguna vez a Elvis en la televisión? |
+| ¿Qué cantante era conocido como Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | ¿Cuál es su canción favorita de Sinatra? |
+| Bing Crosby soñaba con una Navidad... | **blanca**, de boda, en casa | Canten juntos una frase |
+| Louis Armstrong cantaba «What a Wonderful...» | Day, **World**, Life | ¿Qué hace que el mundo sea maravilloso para usted? |
 | ¿En qué película cantó Judy Garland «Over the Rainbow»? | **El mago de Oz**, Lo que el viento se llevó, Cantando bajo la lluvia | ¿Dónde veía sus películas favoritas? |
-| ¿A qué comediante le decían «Chespirito»? | **Roberto Gómez Bolaños**, Mario Moreno, Germán Valdés | ¿Qué programas veían en familia? |
-| ¿A quién llamaban «el Charro Cantor»? | **Jorge Negrete**, Javier Solís, Agustín Lara | ¿Jugaba de niño a los vaqueros o a los charros? |
-| ¿Quién presentaba el programa «Sábado Gigante»? | Raúl Velasco, **Don Francisco**, Chabelo | ¿Qué programas veía los fines de semana? |
-| ¿Qué instrumento tiene 88 teclas? | Guitarra, **piano**, trompeta | ¿Alguien de su familia tocaba algún instrumento? |
-| ¿Qué baile se cuenta un, dos, tres; un, dos, tres? | **Vals**, twist, tango | ¿Dónde iba a bailar? |
+| ¿Quién interpretó a Lucy en «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | ¿Qué programas veía su familia junta? |
+| ¿Qué vaquero montaba un caballo llamado Trigger? | **Roy Rogers**, Gene Autry, John Wayne | ¿Jugaba a los vaqueros cuando era niño? |
+| ¿Quién presentó «The Tonight Show» durante 30 años? | Ed Sullivan, **Johnny Carson**, Bob Hope | ¿Se quedaba despierto hasta tarde para ver la televisión? |
+| ¿Qué instrumento tiene 88 teclas? | Guitarra, **piano**, trompeta | ¿Alguien en su familia tocaba algún instrumento? |
+| ¿Qué baile se cuenta uno, dos, tres, uno, dos, tres? | **Vals**, twist, tango | ¿Adónde iba a bailar? |
 
-Para saber más sobre la música, vea [actividades con música](/activities/music/).
+Para saber más sobre la música, consulte [actividades musicales para la demencia](/activities/music/).
 
-## Trivia de la vida cotidiana
+## Trivial sobre la vida cotidiana
 
-| Pregunta | Opciones | Para conversar |
+| Pregunta | Opciones | De qué hablar |
 | --- | --- | --- |
-| Antes de la lavadora, mucha ropa se lavaba a mano en un... | **Lavadero**, horno, ropero | ¿Quién lavaba la ropa en su casa? |
-| ¿Quién llevaba la leche hasta la puerta de la casa? | El cartero, **el lechero**, el repartidor de periódicos | ¿Qué otras cosas llevaban a la casa? |
-| ¿Cómo se marcaba un número en un teléfono de disco? | Apretando botones, **girando el disco**, hablándole | Cuénteme del teléfono de su casa |
-| ¿Qué marca fabricaba el auto conocido como «escarabajo» o «vocho»? | **Volkswagen**, Ford, Chevrolet | Cuénteme de un auto que le gustaba |
-| ¿Dónde se compraba el pan recién hecho? | **En la panadería**, en la ferretería, en el banco | ¿Qué pan le gustaba más? |
-| ¿Qué juguete sube y baja colgado de un hilo? | Trompo, **yoyó**, canica | ¿Con qué juguetes le encantaba jugar? |
-| Un autocine era un lugar para ver... | **Películas desde el auto**, partidos, desfiles | ¿Con quién iba? |
-| ¿Qué se pegaba en un sobre para enviar una carta por correo? | **Una estampilla**, una moneda, una foto | ¿A quién le escribía cartas? |
-| ¿Dónde se guardaban las monedas para ahorrar? | **En una alcancía**, en el horno, en un florero | ¿Ahorraba monedas de niño? |
-| ¿Con qué se escribía en el pizarrón de la escuela? | **Con tiza**, con crayones, con pincel | ¿Cómo llegaba a la escuela? |
+| Antes de los refrigeradores, en muchas casas se mantenía la comida fría en un... | **arcón de hielo**, horno, desván | ¿Quién traía el hielo? |
+| ¿Quién llevaba la leche a la puerta en botellas de vidrio? | El cartero, **el lechero**, el repartidor de periódicos | ¿Qué más llevaban a la casa? |
+| ¿Cómo se marcaba en un teléfono de disco? | Pulsando botones, **girando una rueda**, hablándole | Cuénteme cómo era el teléfono de su casa |
+| ¿Qué compañía fabricó el automóvil Model T? | **Ford**, Chevrolet, Buick | Cuénteme sobre un coche que le gustara |
+| ¿Dónde se podía encontrar a un «soda jerk»? | **En una fuente de sodas**, en una panadería, en un banco | ¿Qué pedía en el mostrador? |
+| ¿Qué juguete es un resorte de metal que puede bajar escaleras? | Yo-yo, **Slinky**, hula hoop | ¿Qué juguetes le gustaban? |
+| Un autocine era un lugar para ver... | **películas desde el coche**, partidos, desfiles | ¿Con quién iba? |
+| ¿De quién es el rostro que aparece en el billete de un dólar? | Lincoln, **George Washington**, Jefferson | ¿Qué se podía comprar con un dólar en aquel entonces? |
+| ¿De quién es el rostro que aparece en la moneda de un centavo? | **Abraham Lincoln**, Washington, Franklin | ¿Guardaba centavos en un frasco en aquel entonces? |
+| ¿De qué color suele ser un autobús escolar? | Rojo, **amarillo**, azul | ¿Cómo iba a la escuela? |
 
 ## Fiestas, naturaleza y lugares
 
-| Pregunta | Opciones | Para conversar |
+| Pregunta | Opciones | De qué hablar |
 | --- | --- | --- |
-| ¿Qué se celebra la noche del 24 de diciembre? | Año Nuevo, **Nochebuena**, Carnaval | ¿Qué no podía faltar en su mesa? |
-| En muchas casas se comen uvas a la medianoche para recibir... | **El Año Nuevo**, la Navidad, el carnaval | Cuénteme cómo recibían el Año Nuevo donde usted creció |
-| ¿Qué se rompe con un palo en las fiestas de cumpleaños? | **La piñata**, el pastel, el globo | Cuénteme de una fiesta de cumpleaños de su infancia |
-| En el Día de la Madre se suele regalar... | **Flores**, herramientas, llantas | ¿Cómo lo celebraban en su familia? |
-| ¿Cuántos colores tiene el arcoíris? | 5, **7**, 9 | ¿Cuál es su color favorito? |
-| ¿Cuál es el océano más grande del mundo? | **Pacífico**, Atlántico, Ártico | ¿Alguna vez fue a la playa? |
-| ¿En qué ciudad está la Torre Eiffel? | Londres, **París**, Roma | ¿A qué lugar le habría gustado viajar? |
-| ¿Qué hacen las abejas? | Leche, **miel**, seda | ¿Miel en el pan o en el té? |
-| La cría de la vaca se llama... | Potro, **ternero**, cabrito | ¿Alguna vez vivió cerca de una granja o de un rancho? |
+| ¿Qué festividad se celebra el cuarto jueves de noviembre? | Día del Trabajo, **Día de Acción de Gracias**, Día de los Caídos | ¿Qué no podía faltar en su mesa? |
+| ¿Para qué festividad se hacen las calabazas talladas? | **Halloween**, Pascua, Navidad | Cuénteme cómo era Halloween donde creció |
+| El cuatro de julio celebra la Declaración de... | Derechos, **Independencia**, Libertad | ¿Dónde veía los fuegos artificiales? |
+| ¿En qué mes se celebra el Día de la Madre? | Abril, **mayo**, junio | ¿Cómo lo celebraba su familia? |
+| ¿Cuántas estrellas tiene la bandera de los Estados Unidos? | 48, **50**, 52 | La bandera tuvo 48 estrellas hasta 1959. Cualquiera de las dos respuestas es un buen recuerdo |
+| ¿Qué océano está en la costa este? | Pacífico, **Atlántico**, Ártico | ¿Ha ido alguna vez a la playa? |
+| ¿En qué ciudad está la Estatua de la Libertad? | Boston, **Nueva York**, Filadelfia | ¿Ha estado en Nueva York? |
+| ¿Qué hacen las abejas? | Leche, **miel**, seda | ¿Miel en las tostadas o en el té? |
+| Una cría de vaca se llama... | potro, **ternero**, cabrito | ¿Vivió alguna vez cerca de una granja? |
 | ¿Qué flor alta y amarilla es famosa por girar hacia el sol? | Rosa, **girasol**, tulipán | ¿Qué crecía en su jardín? |
-| ¿Cuántos días tiene un año bisiesto? | 365, **366**, 360 | Cuénteme de un cumpleaños que le guste recordar |
+| ¿Cuántos días tiene un año bisiesto? | 365, **366**, 360 | Cuénteme sobre un cumpleaños que recuerde |
 | ¿Qué estación viene después del invierno? | Otoño, **primavera**, verano | ¿Cuál es su estación favorita? |
 
-## Trivia de comida y deportes
+## Trivial de comida y deportes
 
-| Pregunta | Opciones | Para conversar |
+| Pregunta | Opciones | De qué hablar |
 | --- | --- | --- |
-| Las pasas son... secas | Ciruelas, **uvas**, cerezas | ¿Le ponían pasas al arroz con leche en su casa? |
-| La masa de las tortillas y las arepas se hace con... | **Maíz**, arroz, papa | ¿Quién cocinaba en su casa? |
-| Café con... | **Leche**, sal, vinagre | ¿Cómo le gusta el café? |
-| El guacamole se hace sobre todo con... | Arvejas, **aguacate**, pepino | ¿Qué botanas o picadas se servían en las fiestas? |
-| ¿Qué postre se hace con leche, huevos y caramelo? | **Flan**, ensalada, sopa | ¿Qué postre preparaba usted? |
-| ¿Cuántos jugadores tiene un equipo de fútbol en la cancha? | 7, 9, **11** | ¿De qué equipo era usted? |
-| ¿Qué palabra se grita cuando la pelota entra en la portería? | **Gol**, punto, jonrón | ¿Jugaba a la pelota de niño? |
-| ¿En qué deporte se hizo famoso Pelé? | Boxeo, **fútbol**, golf | ¿Iba a ver partidos al estadio? |
-| ¿Cuántos hoyos tiene un campo de golf normal? | 9, **18**, 24 | ¿Alguna vez jugó al golf, o al minigolf? |
-| ¿En qué deporte se batea un jonrón? | **Béisbol**, hockey, básquetbol | ¿Quién veía deportes en su casa? |
+| Las pasas son... | ciruelas secas, **uvas secas**, cerezas secas | ¿Llevaba pasas en el almuerzo? |
+| Las ciruelas pasas son... | **ciruelas secas**, higos secos, manzanas secas | ¿A quién de su familia le encantaban las ciruelas pasas? |
+| Mantequilla de cacahuete y... | **mermelada**, queso, jamón | ¿Crujiente o suave? |
+| El guacamole se hace sobre todo de... | guisantes, **aguacates**, pepinos | ¿Qué aperitivos había en las fiestas? |
+| ¿Qué pastel es un favorito del Día de Acción de Gracias? | **De calabaza**, de limón, de cereza | ¿Qué pastel preparaba? |
+| ¿Cuántos jugadores tiene un equipo de béisbol en el campo? | 7, **9**, 11 | ¿Por qué equipo animaba? |
+| ¿Cuántos strikes hacen un out en el béisbol? | Dos, **tres**, cuatro | ¿Jugó alguna vez al béisbol? |
+| ¿Por qué deporte fue famoso Babe Ruth? | Boxeo, **béisbol**, golf | ¿Iba a ver partidos de béisbol? |
+| ¿Cuántos hoyos tiene un campo de golf estándar? | 9, **18**, 24 | ¿Ha jugado alguna vez al golf o al minigolf? |
+| ¿En qué deporte se anota un touchdown? | **Fútbol americano**, hockey, baloncesto | ¿Quién veía el fútbol americano en su casa? |
 
 ## Refranes conocidos
 
-Completar un refrán se apoya en el lenguaje aprendido hace mucho y a menudo sale con facilidad. Nuestro juego [Complete el refrán](/games/finish-the-saying/) tiene muchos más, y basta un toque para mostrar cualquier final.
+Completar un refrán se apoya en el lenguaje aprendido hace mucho tiempo y suele resultar más sencillo. Nuestro juego [Completa el refrán](/games/finish-the-saying/) tiene muchos más, con la opción de tocar para ver cualquier final.
 
-| Refrán | Opciones | Para conversar |
+| Refrán | Opciones | De qué hablar |
 | --- | --- | --- |
-| Más vale pájaro en mano que ciento... | **Volando**, cantando, en el árbol | ¿Quién le decía este refrán? |
-| Al que madruga, Dios lo... | Saluda, **ayuda**, espera | ¿Usted es de mañanas? |
-| Camarón que se duerme se lo lleva la... | **Corriente**, marea, ola | ¿Le gusta estar cerca del mar? |
-| Barriga llena, corazón... | **Contento**, tranquilo, feliz | ¿Cuál es su comida favorita? |
-| De tal palo, tal... | Rama, **astilla**, hoja | ¿A quién de su familia se parece usted? |
-| Más vale tarde que... | Temprano, **nunca**, mañana | ¿Quién llegaba siempre tarde? |
-| No hay mal que por bien no... | **Venga**, pase, llegue | Cuénteme de un golpe de suerte |
-| Del dicho al hecho hay mucho... | **Trecho**, camino, tiempo | Cuénteme de alguien que solía decirlo |
+| Más vale prevenir que... | correr, **lamentar**, olvidar | ¿Quién le decía esto? |
+| A quien madruga, Dios le... | escucha, **ayuda**, acompaña | ¿Es usted de levantarse temprano? |
+| No vendas la piel del oso antes de... | dormir, **cazarlo**, verlo | ¿Su familia criaba animales? |
+| Más vale pájaro en mano que ciento... | perdidos, **volando**, lejos | ¿Quién era la persona más ahorradora de su familia? |
+| El hogar es donde está el... | jardín, **corazón**, calor | ¿Qué hace que un lugar se sienta como hogar? |
+| Más vale tarde que... | temprano, **nunca**, mal | ¿Quién llegaba siempre tarde? |
+| No hay mal que por bien no... | pase, **venga**, llegue | Cuénteme sobre un golpe de suerte |
+| Las acciones hablan más que las... | **palabras**, canciones, promesas | Cuénteme sobre alguien que decía eso |
 
-## Preguntas de esto o aquello, sin respuesta equivocada
+## Preguntas de «esto o aquello» sin respuesta incorrecta
 
-Van bien en todas las etapas, también más adelante, porque no hay nada que acertar. Pregunte, escuche y comparta también su propia respuesta.
+Estas preguntas son adecuadas para todas las etapas, incluso las más avanzadas, porque no hay nada que acertar. Pregunte, escuche y comparta también su propia respuesta.
 
 - ¿Café o té?
 - ¿Playa o montaña?
 - ¿Perros o gatos?
 - ¿Verano o invierno?
-- ¿Flan o pastel?
+- ¿Pastel o tarta?
 - ¿Bailar o mirar?
 - ¿Amanecer o atardecer?
-- ¿Patio o balcón?
+- ¿Porche delantero o patio trasero?
 - ¿Radio o discos?
-- ¿Huevos revueltos o fritos?
+- ¿Tortitas o huevos?
 - ¿Rosas o margaritas?
-- ¿Viaje en tren o en auto?
+- ¿Viaje en tren o viaje en coche?
 
-Para invitaciones a conversar acompañadas de imágenes, pruebe nuestras [tarjetas de conversación](/games/conversation-cards/) para imprimir.
+Para ideas de conversación que acompañen imágenes, pruebe nuestras [Tarjetas de conversación](/games/conversation-cards/) para imprimir.
 
-## ¿Cómo se dirige una sesión de trivia en una residencia o en un grupo?
+## ¿Cómo organizar una sesión de trivial en una residencia o en grupo?
 
-1. **Siente a las personas de modo que puedan ver y oír.** Audífonos puestos, lentes puestos, televisor apagado.
-2. **Preséntela como una charla.** «Tengo unas preguntas sobre los tiempos de antes, y seguro que ustedes saben más que yo».
+1. **Coloque a las personas de forma que puedan ver y oír.** Audífonos puestos, gafas puestas, la televisión apagada.
+2. **Preséntelo como una charla.** «Tengo algunas preguntas sobre los viejos tiempos, y seguro que ustedes saben más que yo».
 3. **Lea cada pregunta dos veces y muestre las opciones en grande.**
-4. **Reciba respuestas de cualquier parte del salón.** Repita las buenas respuestas para que todos las oigan.
-5. **Diga la respuesta para todos,** y luego lance al grupo el tema para conversar.
-6. **Siga la energía del grupo.** Si una pregunta da pie a diez minutos de historias, déjela.
-7. **Termine con una canción o una ronda de esto o aquello,** para que todos terminen con algo fácil.
+4. **Acepte respuestas de cualquier parte de la sala.** Repita las buenas respuestas para que todos las oigan.
+5. **Diga la respuesta para todos,** y luego haga al grupo la pregunta para conversar.
+6. **Siga la energía del momento.** Si una pregunta da pie a diez minutos de historias, déjelo fluir.
+7. **Termine con una canción o una ronda de «esto o aquello»,** para que todos acaben con algo sencillo.
 
-Para otros formatos de grupo, como el bingo de imágenes y cantar juntos, vea [actividades de grupo para residencias](/activities/care-home-groups/).
+Para otros formatos en grupo, como el bingo de imágenes o cantar juntos, consulte [actividades en grupo para residencias](/activities/care-home-groups/).
 
 ## Cuándo cambiar el plan
 
-Si alguien parece preocupado, se queda callado o dice «no sé» más de una vez, hágalo más fácil: baje a dos opciones, respondan juntos o pase a preguntas de esto o aquello. Si el grupo prefiere conversar toda la tarde sobre una sola pregunta, es un éxito. El objetivo nunca fueron las respuestas correctas. Era pasar un rato en buena compañía.
+Si nota que alguien se preocupa, se queda en silencio o dice «No lo sé» más de una vez, hágalo más fácil: reduzca a dos opciones, respondan juntos o pase a preguntas de «esto o aquello». Si el grupo prefiere hablar de una sola pregunta toda la tarde, eso también es un éxito. El objetivo nunca fueron las respuestas correctas. Era pasar un rato agradable en buena compañía.

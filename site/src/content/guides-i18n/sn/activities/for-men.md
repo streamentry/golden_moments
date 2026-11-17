@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Zviitwa zvevarume vanorarama nedementia"
+seoTitle: "Zviitwa zvevarume vanorarama nedementia"
+description: "Mazano ezviitwa zvevarume vanorarama nedementia, akavakirwa pabasa ravo, zvavaifarira nemaitiro avo, pamwe nemazano ekuzviita zvakachengeteka."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Zviitwa zvakanakira murume ari kurarama nedementia zvinobva muupenyu hwake:
+  basa raakaita, zvinhu zvaaifarira uye maitiro aaiita zuva nezuva. Aimboshanda
+  muhofisi anogona kufarira kuronga mapepa, makanika anogona kufarira kubata
+  maturusi akachena, uye anofarira mitambo anogona kufarira mutambo wekare.
+  Zvinofarirwa zvinosiyana pamurume nemurume, saka tangirai nemunhu wacho, kwete
+  nekuti murume.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Tangirai nenhoroondo yemurume uyu: basa rake, zvaaifarira, maitiro ake uye zvaaizvikudza nazvo."
+  - "Mabasa ane chinangwa chaicho, akadai sekuronga zvinhu zvesimbi, kugeza mota kana kukwesha danda, anowanzokodzera kupfuura zviitwa zvinonzwa sekirasi."
+  - "Havasi varume vese vanofarira maturusi kana mitambo. Vazhinji vanofarira kubika, mimhanzi, kurima, unyanzvi kana kutarisira vamwe. Bvunzai, cherechedzai uye teverai zvaanoda."
+  - "Itai kuti mabasa akaita seabasa ave akachengeteka nekubvisa maturusi anopinza uye nekutarisa, uye muarerutse sezvo kugona kuchichinja."
+  - "Kuti „kwete“ zvinotenderwa. Ipai basa rekubatsira, kwete murairo, uye moedzezve rimwe zuva."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Ndezvipi zviitwa zvinofarirwa nevarume vanorarama nedementia?"
+    a: "Hapana runyorwa rumwe chete, nekuti zvinofarirwa nevarume zvinosiyana sezvinoita zvevamwe vese. Nzvimbo dzakanaka dzekutangira mabasa ane chekuita nebasa rake rekare, sekuronga mapepa kana kuronga nzungu nemabhaudhi, pamwe nezvaaifarira, sekuredza, mota, mimhanzi, kubika kana mitambo. Cherechedzai zvaanoita ega movakira pazviri."
+  - q: "Baba vangu vanoramba kuenda kuzviitwa zveboka. Ndingaita sei?"
+    a: "Vanhu vazhinji, varume nevakadzi, vanoramba zviitwa zvinonzwa sekirasi kana zvinoita sezvevana vadiki. Edzai kupa basa rekubatsira: „Mungandibatsira kuronga izvi here?“ Mapoka madiki kana kuva nemunhu mumwe chete anogonawo kunzwa zvakanaka kupfuura kamuri ine vanhu vazhinji."
+  - q: "Zvakachengeteka here kumurega achishandisa maturusi?"
+    a: "Chete kana paine anotarisira uye pachishandiswa maturusi akachengeteka. Bvisai maturusi emagetsi, mablade nezvese zvinopinza, uye mupe mabasa akadai sekukwesha danda, kuronga zvinhu zvesimbi zvakachena, kana kusunga mabhaudhi makuru nemaoko. Alzheimer's Association inokurudzira kubvisa zvinhu zvine njodzi muwekishopu kuitira kuti basa rakaita sekukwesha rigone kuitwa zvakachengeteka."
+  - q: "Aimbova nyanzvi pabasa rake. Mabasa ari nyore haanganzwi sekusaremekedzwa here?"
+    a: "Zvinogona kudaro kana akaunzwa sebasa risina basa. Ratidzai basa iri serubatsiro rwechokwadi, shandisai zvinhu zvevanhu vakuru, uye sarudzai chinhu chiri pedyo nebasa rake rekare, sekutarisa runyorwa, kuronga faira kana kubatsira kugadzira tsamba dzekutumira. Kana ainyatsoziva chimwe chinhu, chiitiko chine hukama asi chisina kufanana chinogona kunzwa zviri nani pane kuenzaniswa nebasa rake rekare."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Vanhu vanowanzotsvaga „zviitwa zvevarume vanorarama nedementia“ nekuti mazano anowanzo kupiwa anoita seasina kukodzera murume wavo. Kunetseka ikoko kunonzwisisika. Asi mhinduro haisi runyorwa rwezviitwa „zvechirume“. Kutanga nemurume uyu chaiye: zvaaiita pabasa, zvaaiita pakupera kwevhiki, uye zvaimuita kuti anzwe anokosha. Zvinofarirwa zvakasiyana kumunhu wese. Varume vazhinji vanofarira kubika, kurima, kupenda kana kuimba, uye vakadzi vazhinji vanofarira mota nebaseball.
 
-## How do I find activities he will actually enjoy?
+## Ndingawana sei zviitwa zvaangafarira zvechokwadi?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Tangirai nenhoroondo yeupenyu hwake. Alzheimer's Association inokurudzira kuvaka [hurongwa hwezuva nezuva](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) hunobva pane zvinodiwa nemunhu, zvaasingadi, zvaanogona uye zvaanofarira, pamwe nemarongerwo aaiita zuva rake kare. Zvibvunzei kuti:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Aishanda basa rei?** Muhofisi, papurazi, mufekitari, basa remaoko, muchiuto, kutengesa, kudzidzisa, kutyaira, kana kumba?
+- **Aiiitei panguva yake yekuzorora?** Kuredza, kutamba makadhi, kuveza matanda, mitambo, kuchechi, mimhanzi, kubika, kana kushanda pamota mugaraji?
+- **Maitiro ake aive api?** Kofi nebepanhau mangwanani ega ega? Kutarisa mamiriro ekunze? Kugeza mota neMugovera?
+- **Chii chaanotanga kuita ega?** Sangano rinoti kana munhu akatanga mabasa asina kukumbirwa, sekutsvaira pasi, mabasa iwayo anogona kuva chikamu chemaitiro ake.
+- **Chii chaanodzivisa?** Vamwe vanhu vanofarira kuona mitambo; vamwe vanovhiringidzwa nekumhanya kwayo neruzha. Cherechedzai paanoratidza kufara, kusagadzikana kana kushatirwa.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Tauraizve nenhengo dzemhuri neshamwari dzekare. Vanogona kuyeuka zvinhu zvaaifarira zvisisiri muchiitiko chezuva nezuva.
 
-## Activity ideas based on past work
+## Mazano ezviitwa anoenderana nebasa rekare
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association inopa muenzaniso wakajeka: aimboshanda muhofisi anogona kufarira mabasa ekuronga, sekuiisa mari mumudziyo wayo, kubatsira kugadzira tsamba dzekutumira kana kunyora runyorwa rwezvekuita, ukuwo aimbova murimi kana muchengeti webindu angafarira kushanda mubindu. Pfungwa iyi inoshandawo kumabasa akawanda.
 
-| Past work | Activity ideas | Simpler version |
+| Basa rekare | Mazano ezviitwa | Shanduro iri nyore |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Hofisi kana bhizinesi | Kuronga mapepa mumaforodha, kuisa zvitambi patsamba, kutarisa runyorwa, kuronga dhirowa redhesiki | Kurongedza tsamba; kuisa mapepa clip mubhokisi |
+| Mabasa emaoko kana makanika | Kuronga nzungu, mabhaudhi nemawasha akachena; kusunga mabhaudhi makuru nemaoko; kutarisa makatalog ematurusi | Kuronga nezvikamu zviviri mumakapu maviri |
+| Kurima kana kuchengeta nzvimbo | Kudiridza, kudyara mumapoto, kuunganidza mashizha, kutarisa bindu | Kugara panze imi muchishanda; kubata mapaketi emhodzi |
+| Chiuto | Kupukuta shangu, kuronga dhirowa, kutarisa mifananidzo yenguva yaaiva muchiuto kana achizvifarira | Kuteerera mimhanzi yenguva iyoyo |
+| Kutengesa kana kubatsira vatengi | Kukwazisa vaenzi, kugovera zvekudya zvidiki, kuronga makuponi | Kugara pedyo nesuo kuti akwazise |
+| Kudzidzisa | Kuverenga zvinonzwika, kuronga mabhuku, kuronga mifananidzo nemisoro | Kutarisa bhuku remifananidzo pamwe chete |
+| Kutyaira kana zvekufambisa | Kutarisa mepu kana magazini ekare emota, kugeza mota | Kuona mota dzichipfuura muri pavharanda |
+| Kumba nemhuri | Kupeta mbatya, kugadzira tafura, kubatsira pakubika | Kutsetsenura maservhete; kukurunga muto |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Dzimwe ndangariro, dzakadai sekuva muchiuto, dzinogona kumutsa manzwiro akasimba. Teverai zvaanoda, chengetai hurukuro nezvekare iri yakanaka, uye chinjai nyaya zvinyoro nyoro kana achiratidza kusagadzikana.
 
-## Activity ideas based on hobbies
+## Mazano ezviitwa anoenderana nezvaaifarira
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Kuveza matanda.** Kukwesha danda rakatsetseka kana kupenda kiti yeimba yeshiri. Alzheimer's Association inokurudzira kubvisa zvinhu nematurusi zvine njodzi muwekishopu kuitira kuti chiitiko chakaita sekukwesha chive chinonakidza uye chakachengeteka.
+2. **Kuredza.** Kuronga bhokisi rezvekuredza kwakabviswa zvikokovono, kutarisa magazini ekuredza, kana kugara padziva pamwe chete.
+3. **Mota.** Kugeza mota, kupukuta chrome, kutarisa mifananidzo yemota dzekare, kana kuenda rwendo semupfuuri.
+4. **Mitambo.** Kuona mutambo wekare kana pfupiso, kukandana bhora rakapfava, kuisa mabhora egorofu pakapeti, kana kuronga makadhi ebaseball.
+5. **Makadhi nemitambo.** Kutamba mutambo wakapfava wemakadhi waanoziva, madhomino, kana kutendeutsa makadhi kutsvaga anofanana. Zviitei zvisina kuomarara uye musachengete zvibodzwa.
+6. **Mimhanzi.** Nziyo dzenguva yaaiva mumakore gumi kusvika makumi maviri, bhendi raaifarira, kana rwiyo rwechechi. Onai [gwara redu rezviitwa zvemimhanzi](/activities/music/).
+7. **Kubika nekugocha.** Kusuka miriwo, kukurunga muto, kuumba maburger, kana kutsanangura magadziriro aaiita chili yake yaizivikanwa imi muchiibika.
+8. **Bepanhau.** Alzheimer's Association inoti munhu aigara achiverenga bepa anogona kuramba achifarira kuzviita, kunyange kana asingakwanisi kunzwisisa zvese zviri mukati. Kofi nebepanhau zvinogona kuramba zviri chikamu chemangwanani.
+9. **Kuvaka.** Makiti emhando dzine zvidimbu zvikuru kana maseti ari nyore ekuvaka evanhu vakuru. Sarudzai zvidimbu zviri nyore kubata.
+10. **Kutarisira chimwe chinhu.** Kupa mhuka chikafu, kuzadza mudziyo weshiri, kana kudiridza zvirimwa. NIA inonyora [kupa chikafu, kuchenesa kana kufambisa mhuka](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pakati pezviitwa zvinogona kufarirwa nevanhu.
 
-## How do I offer an activity without it feeling like busywork?
+## Ndingapa sei chiitiko pasina kuti chinzwe sebasa risina basa?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Chiratidzei serubatsiro rwechokwadi. Alzheimer's Association inokurudzira kubvunza kuti „Mungandibatsira here?“ uye kubatanidza mabasa nechinangwa. Enzanisai:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „Munoda kuronga mabhaudhi aya here?“ (zvinonzwa sekuedzwa)
+- „Ndakatenga bhegi rezvinhu zvakasanganiswa uye ndinoda kuti izvi zvirongwe ndisati ndagadzirisa sherufu. Mungandibatsira here?“ (zvinonzwa sebasa)
 
-Other tips:
+Mamwe mazano:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Shandisai zvinhu zvevanhu vakuru.** Maturusi chaiwo akabviswa mipendero inopinza, makatalog chaiwo, tsamba chaidzo.
+- **Shandai makatarisana.** Vanhu vaviri vari kushanda pabasa pamwe chete ushamwari. Munhu mumwe achitarisa mumwe anotarisirwa.
+- **Musagadzirisa zvaaita.** Kana mabhaudhi akaenda mukapu isiri iyo, regai zvakadaro. Chinokosha inguva yamunenge muri pamwe chete nemanzwiro ekubatsira.
+- **Mubatsirei kutanga.** Alzheimer's Association inoti vanhu vazhinji vachiri kuda kuita zvinhu asi vanonetsekana kuronga nekutanga. Itai chekutanga pamwe chete.
 
-## How do I adapt as things change?
+## Ndingachinja sei zvinhu sezvazvinova zvakaoma?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Sezvo dementia ichiwedzera, Alzheimer's Association inokurudzira kuunza mabasa ari nyore uye anodzokororwa, uye kuva makagadzirira kuti munhu atore chikamu chishoma. Murume aimbo gadzirazve injini anogona zvino kufarira kubata sipana yakachena uye kutaura nezvemota, kana kukuonai muchishanda. Kuona kunotorwa sekutora chikamu.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Kana ainyatsoziva chimwe chinhu, chiitiko chine hukama chinogona kunzwa zviri nani pane basa rake rekare. Sangano rinoti nyanzvi yekudhirowa inogona kushungurudzika nekuchinja kwebasa rake, ukuwo munhu aingoita zvekuzvivaraidza angafarira nzira itsva. Izvi ndizvo zvimwe chete kune muvezi wehuni ane ruzivo.
 
-## Safety with work-style tasks
+## Kuchengeteka pamabasa akaita seabasa
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Bvisai maturusi emagetsi, mablade, zvipikiri nezvikururu zvine miromo inopinza.
+- Kiyai pendi thinner, peturu nemakemikari.
+- Chengetai makiyi emota pasingaonekwi kana asisatyairi.
+- Tarisisai mabasa ese emuwekishopu neemubindu.
+- Sarudzai zvidimbu zvikuru zvisingagoni kumedzwa.
 
-## What if he says no?
+## Ko kana akati kwete?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Zvikoshesi. Kuti „kwete“ kungareva kuti basa racho rinonzwa rakaoma, seremwana mudiki kana kuti harisi iro nhasi. Alzheimer's Association inoyambira kuti musamanikidze. Edzai rimwe basa, imwe nguva, kana kungogara pamwe chete. Onai [zvekuita kana akati kwete](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Mitambo nehurukuro zvinokodzera
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) inoshandisa zvirevo zvinozivikanwa zvekuAmerica uye inotungamira kuhurukuro. [Conversation Cards](/games/conversation-cards/) ine mibvunzo yakasununguka, isina bvunzo, yakarongwa nemisoro, inogona kuvhura nyaya dzebasa nezvaaifarira. [Picture Puzzle](/games/picture-puzzle/) inochengeta mufananidzo wese uchionekwa pamunenge muchichinjana zvidimbu, uye [Word Search](/games/word-search/) ine mavara makuru inogona kudhindwa yoitwa nepeni patafura yekicheni. Kuti muwane nzira dzekutaura nezvekare kwake musingamuedzi, onai [gwara redu rekurangarira zvekare](/activities/reminiscence/).

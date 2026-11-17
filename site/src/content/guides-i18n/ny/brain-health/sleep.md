@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Tulo ndi Umoyo wa Ubongo: Zomwe Kafukufuku Akusonyeza"
+seoTitle: "Tulo ndi Matenda a Kuiwala: Zomwe Kafukufuku Akusonyeza"
+description: "Zomwe kafukufuku akusonyeza pa tulo ndi chiopsezo cha matenda a kuiwala, chifukwa chake kafukufuku wa kuyeretsa ubongo akadali woyambirira, ndi zizolowezi zothandiza za tulo."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Kafukufuku wina wanthawi yayitali amagwirizanitsa kugona pangʼono pakati pa moyo ndi chiopsezo
+  chachikulu cha matenda a kuiwala, ndipo kafukufuku wa mu labotale akusonyeza kuti tulo lingathandize
+  ubongo kuchotsa zinyalala. Umboni uwu ukadali woyambirira, ndipo bungwe la Lancet Commission la 2024
+  silinatchule tulo ngati chimodzi mwa zinthu zomwe zingasinthidwe. Zizolowezi zokhazikika za tulo
+  zimathandiza momwe mumamvera tsiku lililonse. Mavuto a tulo mwa anthu amene akukhala ndi matenda a
+  kuiwala ndi ofala ndipo ndi bwino kuwafotokozera dokotala.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Kafukufuku wa ku UK womwe unatsatira anthu pafupifupi 8,000 kwa zaka 25 unagwirizanitsa kugona maola asanu ndi limodzi kapena kuchepera pakati pa moyo ndi chiopsezo chachikulu cha matenda a kuiwala."
+  - "Kusintha kwa tulo kungakhalenso chizindikiro choyambirira cha matenda a kuiwala, kotero nʼkovuta kudziwa chomwe chimayambitsa china."
+  - "Kafukufuku wonena za tulo kuchotsa beta-amyloid mu ubongo ndi weniweni koma ukadali woyambirira, ndipo zambiri mwa izo zachitika pa mbewa."
+  - "Vuto la kupuma movutikira pogona (sleep apnea) ndi lofala, limatha kuthandizidwa ndipo kafukufuku amagwirizanitsa ndi matenda a kuiwala; kugona mokhudzidwa ndi kumva tulo masana ndi zinthu zoyenera kuziyangʼanitsa."
+  - "Musayambe, musasiye kapena musasinthe mankhwala a tulo kapena zothandizira kugona popanda kukaonana ndi dokotala."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Kodi kugona mosayenera kumayambitsa Alzheimer’s?"
+    a: "Izi sizinaonetsedwe. Kafukufuku wina amagwirizanitsa kugona pangʼono ndi chiopsezo chachikulu cha matenda a kuiwala, koma matenda a kuiwalawo amasokonezanso tulo, nthawi zambiri zaka zingapo matendawo asanadziwike. Bungwe la Lancet Commission la 2024 linaona kuti umboniwo sunali wokhazikika mokwanira kuti tulo litchulidwe ngati chinthu chomwe chingasinthidwe."
+  - q: "Kodi achikulire amafunika kugona maola angati?"
+    a: "Bungwe la National Institute on Aging limanena kuti achikulire amafunika kugona pafupifupi mofanana ndi anthu ena achikulire, maola 7 mpaka 9 usiku uliwonse. Anthu ambiri achikulire amagona ndikudzuka mofulumira kuposa kale, ndipo izi ndi zofala."
+  - q: "Nʼchifukwa chiyani munthu amene akukhala ndi matenda a kuiwala amagona masana ndikudzuka usiku?"
+    a: "Matenda a kuiwala angasokoneze ndondomeko ya thupi ya tulo ndi kudzuka, motero nthawi za tulo ndi kudzuka zimasokonekera. Kupweteka, kusowa chochita, njala kapena zotsatira za mankhwala zingathandizenso pa izi. Kuwala kwa masana, zochitika za tsiku lililonse ndi ndondomeko yabata madzulo zingathandize. Dokotala angayangʼane zifukwa zomwe zingathandizidwe."
+  - q: "Kodi ndingamupatse munthu amene ndimamusamalira mankhwala othandizira kugona?"
+    a: "Yambani mwakambirana ndi dokotala wake, kuphatikizapo za mankhwala ogulidwa popanda kalata ya dokotala. Bungwe la National Institute on Aging limanena kuti mankhwala ena a tulo angawonjezere chiopsezo cha chizungulire, kugwa ndi chisokonezo mwa anthu amene ali ndi Alzheimer’s."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Tulo ndi umoyo wa ubongo zimalumikizana, koma momwe zimalumikizanirana zikufufuzidwabe. Kafukufuku wina amagwirizanitsa kugona pangʼono ndi chiopsezo chachikulu cha matenda a kuiwala. Nawonso matenda a kuiwala nthawi zambiri amasokoneza tulo. Tsamba ili likufotokoza zomwe kafukufuku akusonyeza ndi zomwe sakusonyeza, limapereka zizolowezi zothandiza za tulo, ndipo limafotokoza mavuto a tulo omwe amapezeka kawirikawiri mwa anthu amene akukhala ndi matenda a kuiwala. Silikupereka malangizo okhudza mankhwala a tulo; zokambirana zimenezo ndi za dokotala.
 
-## Is poor sleep linked with dementia?
+## Kodi kugona mosayenera kumalumikizidwa ndi matenda a kuiwala?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Kafukufuku wina wanthawi yayitali amagwirizanitsa kugona pangʼono ndi chiopsezo chachikulu cha matenda a kuiwala, koma umboniwo sunatsimikizike.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Kafukufuku wa ku UK wa zaka 25.** Ofufuza anatsatira anthu achikulire pafupifupi 8,000 mu [kafukufuku wa Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Anthu amene ankagona maola asanu ndi limodzi kapena kuchepera ali ndi zaka 50 kapena 60 anali ndi chiopsezo chachikulu cha matenda a kuiwala pambuyo pake poyerekeza ndi amene ankagona maola asanu ndi awiri. Anthu amene ankagona maola asanu ndi limodzi kapena kuchepera ali ndi zaka 50, 60 ndi 70 anali ndi chiopsezo chokwera pafupifupi 30% poyerekeza ndi amene ankagona maola asanu ndi awiri nthawi zonse. Uwu unali kafukufuku wowonera, kotero ukusonyeza kugwirizana, osati chifukwa chenicheni.
+- **Maganizo a bungwe la Lancet Commission.** [Bungwe la Lancet Commission la 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) silinawonjezere tulo pa mndandanda wake wa zinthu 14 zomwe zingasinthidwe. Linaona kuti umboniwo sunali wokhazikika mokwanira. Chimodzi mwa zifukwa zake ndi „reverse causation“: kusintha kwa ubongo chifukwa cha matenda a kuiwala kumayamba zaka zambiri matendawo asanadziwike ndipo kungasokoneze tulo. Mu kafukufuku wina waukulu, kugwirizana pakati pa kugona kwambiri ndi matenda a kuiwala kunatha pamene zaka zisanu zoyambirira za kutsatira zidachotsedwa.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Choncho, kugona pangʼono usiku umodzi kapena iwiri si chifukwa chodera nkhawa. Tulo lokhazikika komanso labwino ndi loyenera kuliyesetsa chifukwa limathandiza momwe mumamvera, kukhala tcheru ndi chitetezo lero.
 
-## What is the "brain-clearing" sleep research?
+## Kodi kafukufuku wa „kuyeretsa ubongo“ pa tulo ndi wotani?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Mwina mwawerengapo kuti tulo „limatsuka“ ubongo. Lingaliro limeneli likuchokera ku kafukufuku weniweni, koma ukadali woyambirira.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Pa mbewa.** Kafukufuku wa mu 2013 [womwe NIH inafotokoza](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) unapeza kuti malo pakati pa maselo a ubongo anakula pafupifupi 60% pamene mbewa zinkagona. Madzi ankayenda mosavuta mu ubongo, kudzera mʼnjira yomwe ofufuza amatcha glymphatic system. Beta-amyloid, puloteni yogwirizanitsidwa ndi Alzheimer’s, imachoka mofulumira mu ubongo wa mbewa zomwe zinkagona.
+- **Mwa anthu.** [Kafukufuku waungʼono wa mu 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) unasanthula anthu 20 athanzi azaka 22 mpaka 72 pambuyo pa usiku wogona bwinobwino komanso pambuyo pa usiku wosagona. Pambuyo pa usiku wosagona, chizindikiro cha sikani ya ubongo chosonyeza beta-amyloid chinakwera pafupifupi 5% mʼdera lomwe limaphatikizapo hippocampus, gawo lofunika pa kukumbukira. Olemba anati uwu ndi umboni woyambirira. Sanadziwe ngati kusinthaku kumatha munthu akapuma, kapena ngati kumasonyeza kuchedwa kwa kuchotsa kapena kupanga kwa beta-amyloid yochulukirapo.
+- **Zimagwirizana mbali zonse ziwiri.** Bungwe la Lancet Commission limanena kuti kuchuluka kwa beta-amyloid kungasokonezenso tulo mwa achikulire.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Zopeza zimenezi zimathandiza kumvetsetsa chifukwa chake ofufuza ali ndi chidwi ndi tulo. Sizikusonyeza kuti tulo labwino limateteza ku Alzheimer’s.
 
-## What sleep habits may help?
+## Kodi zizolowezi ziti za tulo zingathandize?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Achikulire amafunika kugona maola pafupifupi 7 mpaka 9 usiku uliwonse, mofanana ndi anthu ena achikulire, malinga ndi [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Malangizo ake akuphatikizapo:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Khalani ndi ndondomeko yokhazikika.** Gonani ndikudzuka pa nthawi yomweyo tsiku lililonse, ngakhale kumapeto kwa sabata.
+- **Pangani ndondomeko yokonzekera kugona.** Werengani, mvetserani nyimbo zofatsa kapena sambirani madzi ofunda musanagone.
+- **Pangani chipinda chogona kukhala chomasuka,** chosatentha kwambiri kapena chozizira kwambiri.
+- **Chepetsani kumwa zakumwa zokhala ndi caffeine mochedwa masana.** Khofi, tiyi, zakumwa zoziziritsa kukhosi ndi chokoleti zingakusowetseni tulo.
+- **Pewani mowa,** ngakhale pangʼono, malinga ndi malangizo a NIA.
+- **Pewani kudya kwambiri maola awiri kapena atatu musanagone,** komanso kumwa zakumwa zambiri mochedwa masana.
+- **Chitani masewera olimbitsa thupi nthawi zonse, koma osati mkati mwa maola 3 musanagone.** Onani [malangizo athu okhudza masewera olimbitsa thupi](/brain-health/exercise/).
+- **Musamagwiritse ntchito zida za pa intaneti mʼchipinda chogona.** NIA imalangiza kuti musamaonere TV kapena kugwiritsa ntchito kompyuta, foni kapena tabuleti kumeneko.
+- **Pewani kugona masana mochedwa kapena madzulo** ngati mungathe.
 
-## Sleep problems in dementia
+## Mavuto a tulo mwa anthu amene akukhala ndi matenda a kuiwala
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Kusintha kwa tulo ndi kofala mwa anthu amene akukhala ndi matenda a kuiwala. [NIA imatchula](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) kugona kwambiri kapena pangʼono, kudzuka kambirimbiri usiku, komanso kugona masana kwambiri. Imafotokozanso za sundowning: kusakhazikika, kukwiya kapena chisokonezo chomwe chimayamba kapena kuipira pamene kuwala kwa masana kukutha.
 
-Caregiver tips from the NIA include:
+Malangizo a NIA kwa anthu osamalira akuphatikizapo:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Pezani kuwala kwa masana ndi kuyenda koyambirira.** Tulukani panja kapena khalani pafupi ndi zenera masana, ndipo thandizani munthuyo kukhala wochita zinthu tsiku lililonse. Kuwala kowala kungathandize kukonza ndondomeko ya thupi.
+2. **Konzani zochitika zolimbikitsa mʼmawa.** Yesani kusamba mʼmawa kapena kudya chakudya chachikulu masana.
+3. **Sungani tulo ta masana kukhala taufupi komanso koyambirira.** Chepetsani kugona mochedwa masana.
+4. **Pangani madzulo kukhala abata.** Chepetsani kuwala, chepetsani phokoso ndipo sewerani nyimbo zofatsa ngati munthuyo amazikonda. Malangizo athu okhudza [kusakhazikika mochedwa masana](/caregiving/late-day-restlessness/) ali ndi malingaliro enanso.
+5. **Khalani ndi ndondomeko yokhazikika yogonera.** Kuwerengera mokweza pa nthawi yomweyo usiku uliwonse ndi chitsanzo chimodzi cha NIA. [Ndondomeko yokhazikika ya tsiku lililonse](/activities/daily-routine/) imathandizanso.
+6. **Chepetsani caffeine ndi mowa.**
+7. **Gwiritsani ntchito nyali zazingʼono usiku** mʼchipinda chogona, mʼkhonde ndi mʼbafa.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Pa nkhani ya kudzuka usiku, [malangizo a chitetezo panyumba a NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) akuphatikizapo nyali zazingʼono usiku kapena masensa oyatsa okha, mipiringidzo yogwirira mʼbafa, tepi yowala mʼmbali mwa masitepe, ndi kusunga mankhwala pamalo otsekedwa.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Ntchito yaifupi komanso yabata madzulo ingakuthandizeni nonse kukhala omasuka. Yesani kupuma pangʼonopangʼono ndi [Calm Breathing](/games/calm-breathing/) kapena makhadi ochepa a [Conversation Cards](/games/conversation-cards/). Pewani chilichonse chosangalatsa kwambiri musanagone, ndipo siyani nthawi iliyonse pamene munthuyo waona kuti wakwaniritsa.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Tulo tosokonekera limatopetsanso anthu osamalira. [Malangizo athu a kudzisamalira kwa anthu osamalira](/caregiving/caregiver-self-care/) ali ndi njira zopezera mpumulo ndi thandizo.
 
-## What about sleep apnea?
+## Nanga bwanji za vuto la kupuma movutikira pogona (sleep apnea)?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sleep apnea imayambitsa kupuma kutha kwakanthawi kochepa munthu akagona, nthawi zambiri kambirimbiri usiku umodzi. NIA imati ngati silithandizidwa, lingayambitse mavuto monga kuthamanga kwa magazi, sitiroko kapena kutayika kwa kukumbukira. Zizindikiro zake zikuphatikizapo kugona mokhudzidwa komanso kumva tulo masana, ndipo anthu ambiri sadziwa kuti ali nawo. Bungwe la Lancet Commission limafotokoza za kafukufuku wowunika maphunziro 11 momwe anthu omwe anali ndi sleep apnea anali ndi chiopsezo chokwera pafupifupi 43% cha matenda a kuiwala. Komabe, maphunziro ochepa mwa amenewo sanaganizire za kulemera kwa thupi, kotero kugwirizanaku sikudziwika bwino.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sleep apnea imatha kuzindikiridwa ndikuthandizidwa. NIA imati makina a CPAP pafupifupi nthawi zonse amathandiza. Ngati inu kapena munthu amene mumamusamalira mumagona mokhudzidwa, mumasiya kupuma mukagona, kapena mumamva tulo kwambiri masana, uzani dokotala.
 
-## A note about sleep medicines
+## Chidziwitso chokhudza mankhwala a tulo
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Sitikupereka malangizo okhudza mankhwala a tulo kapena zowonjezera. NIA imati mankhwala a tulo angathandize kwakanthawi kochepa koma si mankhwala ochiritsira kusowa tulo. Imanenanso kuti mankhwala ena operekedwa kuti athandize anthu amene ali ndi Alzheimer’s kugona angawonjezere chiopsezo cha chizungulire, kugwa ndi chisokonezo. Musayambe, musasiye kapena musasinthe mankhwala aliwonse a tulo, kuphatikizapo othandizira kugona ogulidwa popanda kalata ya dokotala, popanda kukaonana ndi dokotala kapena wazamankhwala.
 
-## Talk with a doctor
+## Kambiranani ndi dokotala
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Onani dokotala ngati inu kapena munthu amene mumamusamalira mumakhala otopa nthawi zonse, mumavutika kugona usiku wambiri, mumagona mokhudzidwa, kapena mumasiya kupuma usiku. Ngati mavuto a tulo mwa munthu amene akukhala ndi matenda a kuiwala akupitirira, [NIA imalangiza](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) kuti mufunse malangizo a zachipatala. Kuyezetsa kungathandize kupeza zifukwa monga kupweteka, vuto lina la tulo, matenda ena kapena zotsatira za mankhwala. Chisokonezo chodzidzimutsa, kapena kusintha kodzidzimutsa kwa tulo limodzi ndi chisokonezo, kumafuna chithandizo chachangu. Werengani [nthawi yoti muwone dokotala](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Tsamba ili ndi mfundo zachidziwitso, osati malangizo a zachipatala. Onani [chodzikanira chathu pa nkhani za zachipatala](/medical-disclaimer/).

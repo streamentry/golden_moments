@@ -1,34 +1,36 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Kuchezera Munthu Wokhala ndi Matenda a Kuiwala"
+seoTitle: "Kuchezera Munthu Wokhala ndi Matenda a Kuiwala"
+description: "Zoyenera kuchita pochezera munthu wokhala ndi matenda a kuiwala: zoti mubwere nazo, zochitika zosavuta, maulendo afupipafupi ndi kutsanzikana bwino."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Mukamachezera munthu wokhala ndi matenda a kuiwala kumalo osamalira kapena
+  kuchipatala, sungani zinthu mosavuta: nenani dzina lanu mukafika, bweretsani
+  chinthu choti mugawane monga zithunzi, nyimbo kapena chakudya chomwe amakonda,
+  ndipo chitani chinthu chimodzi chosavuta limodzi. Maulendo afupipafupi,
+  okhazikika nthawi zambiri amayenda bwino kuposa aatali, osachitika kawirikawiri.
+  Konzani kutsanzikana modekha komanso mofanana nthawi zonse kuti kuchoka kukhale
+  kosavuta kwa nonsenu.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Mulonjereni munthuyo ndi dzina lake ndipo nenani kuti ndinu ndani, kuti asavutike kuganiza: ‘Moni Amayi, ndine Susan, mwana wanu wamkazi.’"
+  - "Bweretsani chinthu chimodzi kapena ziwiri zoti mugawane, monga kabuku ka zithunzi, nyimbo zomwe amakonda, bulangeti lofewa kapena chakudya chomwe ogwira ntchito avomereza."
+  - "Maulendo afupipafupi, okhazikika nthawi zambiri amayenda bwino kuposa aatali, osachitika kawirikawiri. Kupezeka kwanu ndikofunika kuposa zimene munganene."
+  - "Kuchipatala, perekani kwa ogwira ntchito pepala limodzi lofotokoza za munthuyo ndipo uzani dokotala nthawi yomweyo ngati pali kusintha kwadzidzidzi."
+  - "Konzani njira yochokera: nenani nthawi imene mungakhale, gwiritsani ntchito mawu ofanana otsanzikana nthawi iliyonse, ndipo chokanipo osachedwa kwambiri."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Ndibweretse chiyani ndikamachezera munthu wokhala ndi matenda a kuiwala?"
+    a: "Bweretsani chinthu choti mugawane osati choti mukambirane mokakamiza. Kabuku kakang'ono ka zithunzi, mndandanda wa nyimbo zomwe amakonda, bulangeti lofewa, mafuta odzola m'manja, magazini yokhudza zomwe ankakonda kale, kapena chakudya chomwe ogwira ntchito avomereza zonse zimathandiza. Kunyumba yosamalira, zithunzi za banja ndi zinthu zodziwika zingathandizenso kuti chipindacho chikhale ngati kwawo."
+  - q: "Ndikhale nthawi yayitali bwanji ndikamachezera munthu wokhala ndi matenda a kuiwala?"
+    a: "Palibe nthawi yolondola. Mabanja ambiri amaona kuti maulendo afupipafupi, okhazikika amagwira bwino ntchito kuposa aatali, osachitika kawirikawiri, chifukwa munthuyo angatope msanga ndipo sangakumbukire nthawi imene mwakhala. Onani zizindikiro za kutopa ndipo chokani ulendo ukadali wabwino."
+  - q: "Ndinganene chiyani akafunsa kupita kwawo?"
+    a: "Yankhani mmene akumvera, osati mawu enieniwo. ‘Ndikufuna kupita kwawo’ nthawi zambiri kumatanthauza ‘Sindikumva bwino kapena chitetezo.’ Yesani kunena kuti, ‘Ndiuzeni za kwanu,’ onani zithunzi limodzi, kapena perekani mwayi woyenda pang'ono kapena chakudya. Kukangana kapena kufotokoza chifukwa chake sangathe kuchoka nthawi zambiri kumawonjezera nkhawa."
+  - q: "Bwanji ngati sandizindikira?"
+    a: "Zingapweteke, koma yesani kusawongolera kapena kufunsa kuti ‘Simukundidziwa?’ Dzidziwitseni modekha komanso mosavuta ndipo sangalalani ndi nthawi imene muli limodzi. Anthu ambiri amakhalabe osangalala ndi kucheza ndipo amamva kutentha kwa ulendo ngakhale sangakumbukire kuti ndinu ndani."
+  - q: "Ndingathandize bwanji pa nthawi imene ali kuchipatala?"
+    a: "Khalani ndi munthuyo pamene mungathe, muthandizeni kudya ndi kumwa, ndipo bweretsani zinthu zodziwika monga zithunzi. Perekani kwa ogwira ntchito pepala lofotokoza za moyo wake wa tsiku ndi tsiku, dzina lomwe amakonda, zomwe amakonda, zomwe sakonda ndi zizindikiro za ululu. Uzani dokotala nthawi yomweyo ngati munthuyo akuoneka kuti waipiratu kapena wasintha mwadzidzidzi, chifukwa kusokonezeka kwadzidzidzi kungasonyeze vuto la thanzi."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +55,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Kuchezera munthu amene mumamukonda kumalo osamalira anthu okhala ndi matenda a kuiwala, kunyumba yosamalira okalamba kapena kuchipatala kungabweretse malingaliro ambiri. Mungadzifunse zoti munene, zoti mubweretse, kapena ngati ulendowo ndi wofunika ngakhale munthuyo sangaukumbukire. Ndi wofunika. National Institute on Aging imanena kuti anthu okhala ndi matenda a Alzheimer's [nthawi zambiri amasangalala ndi kucheza](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ngakhale sakukumbukira kuti mlendo ndi ndani. Tsambali limapereka njira zothandiza musanapite, pa nthawi ya ulendo ndi mutamaliza, komanso malangizo apadera pa nthawi imene munthu ali kuchipatala.
 
-## How do I get ready for a visit?
+## Ndingakonzekere bwanji ulendo?
 
-A little planning makes the visit easier for both of you.
+Kukonzekera pang'ono kumapangitsa ulendowo kukhala wosavuta kwa nonsenu.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Sankhani nthawi yabwino.** Dementia Australia imalimbikitsa kuchezera pamene munthuyo nthawi zambiri amakhala womasuka komanso wokhazikika, zomwe kwa anthu ambiri zimakhala m'mawa kapena masana. Family Caregiver Alliance imalimbikitsa kudziwa ndondomeko ya malowo ndi kuchezera pa [nthawi ya ufulu osati nthawi ya zochitika za kumaloko](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Funsani ogwira ntchito.** Funsani mmene munthuyo wakhalira lero, ndipo onetsetsani malamulo okhudza chakudya, ziweto kapena kutuluka panja.
+- **Konzani chikwama chaching'ono cha ulendo.** Chinthu chimodzi kapena ziwiri choti mugawane ndi chokwanira (onani mndandanda pansipa).
+- **Konzani nkhani zochepa zoti mukambirane.** Munthuyo sangakhale ndi nkhani zatsopano zoti agawane, choncho bweretsani zanu: nkhani za banja, za nyengo, masewera a mpira, kapena nkhani yoseketsa.
+- **Khalani ndi chiyembekezo chenicheni.** Maulendo ena adzakhala ofunda komanso odzaza nkhani. Ena adzakhala a chete kapena ovuta. Zonsezi ndi zachilendo.
 
-## What should I bring?
+## Ndibweretse chiyani?
 
-Bring things to share, not things that test. Good choices include:
+Bweretsani zinthu zoti mugawane, osati zinthu zoyesa kukumbukira. Zosankha zabwino ndi izi:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Kabuku kakang'ono ka zithunzi** zokhala ndi zithunzi zazikulu, zomveka bwino. Lembani kumbuyo kwake kuti ogwira ntchito adziwe.
+- **Mndandanda wa nyimbo** zomwe amakonda pa foni, ndi mahedifoni osavuta kapena sipika yaying'ono.
+- **Chinthu chofewa choti agwire,** monga bulangeti, mpango kapena juzi yodziwika.
+- **Mafuta odzola m'manja** kuti musisire m'manja modekha, ngati munthuyo amakonda kukhudzidwa.
+- **Magazini kapena buku la zithunzi** lokhudza zomwe ankakonda kale, monga kulima dimba, magalimoto, mbalame kapena kuphika.
+- **Chakudya chomwe amakonda,** ngati ogwira ntchito anena kuti ndi chotetezeka.
+- **Zinthu zodziwika za m'chipinda.** Family Caregiver Alliance imalimbikitsa maluwa, zomera, zithunzi za banja ndi zojambula, kapena chithunzi chachikulu cha zithunzi za banja zakale.
+- **Tabuleti,** yoonera zithunzi za banja kapena kusewera masewera ofatsa limodzi.
 
-## What can we do together during a visit?
+## Tingachite chiyani limodzi pa nthawi ya ulendo?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Kuchita chinthu limodzi kumachepetsa kupsinjika kwa kukambirana. Dementia Australia imalimbikitsa kuyang'ana zithunzi, ntchito yosavuta ya manja, kubzala mbewu, nyimbo, kugawana chakudya, kapena kuyenda pang'ono mozungulira malowo. Nazi malingaliro ena:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Onani zithunzi.** Nenani zimene mukuwona: “Onani chipewa chija.” “Gombe ili likuoneka lokongola.” Lolani munthuyo atsogolere. Pewani kufunsa kuti “Uyu ndani?”
+2. **Imbani nyimbo ndi kuyimba limodzi.** Nyimbo zodziwika zingakweze mtima ndipo zingabweretse nthawi yosangalatsa limodzi, ngakhale kukamba kuli kovuta.
+3. **Yendani pang'ono.** Family Caregiver Alliance imalimbikitsa kuyenda mozungulira malowo, makamaka m'munda ngati ulipo. Kuyenda ndi njinga ya olumala nachonso n'koyenera.
+4. **Sisirani m'manja.** Mafuta odzola pang'ono ndi kusisita m'manja modekha kungakhale kotsitsimula.
+5. **Thandizani pa kudzikongoletsa.** Dementia Australia imanena za kupesa tsitsi, kupaka utoto pa zikhadabo kapena kuthandiza munthuyo kuvala chovala chomwe amakonda, ngati amasangalala nazo.
+6. **Sewerani masewera osavuta.** Family Caregiver Alliance imalimbikitsa makhadi, domino, kapena chilichonse chimene munthuyo ankasewera kale. Pa tabuleti, [Picture Pairs](/games/picture-pairs/) angaseweredwe ndi zithunzi zooneka ndipo popanda nthawi yowerengera. [Photo Pairs](/games/photo-pairs/) amasintha zithunzi zimene mwasankha kukhala masewera ofananitsa, ndipo zithunzizo zimakhala mu msakatuli wanu.
+7. **Onerani chinthu limodzi.** Family Caregiver Alliance imalimbikitsa mafilimu oseketsa ndi akale. Ngakhale munthuyo sangatsatire nkhaniyo, mukhoza kukhala pafupi ndikusangalala ndi nthawi limodzi.
+8. **Werengani mokweza.** Ndakatulo yaifupi, ndime yokondedwa, kapena kalata yochokera kwa munthu wa m'banja.
+9. **Khalani chete limodzi.** Kugwirana manja kapena kukhala chete limodzi ndi ulendo weniweni. Alzheimer's Association imanena kuti n'koyenera kusadziwa zoti munene, ndipo kupezeka kwanu ndikofunika kwambiri.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) angathandize mukasowa zoti munene. Khadi lililonse lili ndi chithunzi ndi funso lotseguka.
 
-## How should I talk during the visit?
+## Ndiyankhule bwanji pa nthawi ya ulendo?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Dzidziwitseni nthawi iliyonse.** “Moni Abambo, ndine Mark, mwana wanu wamwamuna.” NIA imalimbikitsa alendo kudziwitsa mwachidule kuti ayambe kukambirana.
+- **Yandikirani kuchokera kutsogolo** ndipo khalani pamlingo wa maso ake.
+- **Osawongolera kapena kukangana.** NIA imalangiza alendo kuti asawongolere munthuyo akalakwitsa kapena akaiwala china chake.
+- **Khalani oleza mtima** pamene mawu akupeza movuta. Perekani nthawi yokwanira.
+- **Yankhani mmene akumvera.** Ngati munthuyo akuoneka wachisoni kapena wodandaula, vomerezani zimenezo musanasinthe nkhani.
+- **Pewani mafunso oyesa kukumbukira** monga “Mukundikumbukira?” kapena “Munadya chiyani masana?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Onani [malangizo athu okhudza kulankhulana](/caregiving/communication-tips/) kuti mudziwe zambiri.
 
-## What do I do when they say "I want to go home"?
+## Ndichite chiyani akamanena kuti “Ndikufuna kupita kwawo”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Yankhani mmene akumvera pa mawuwo (buku lathu la [pamene munthu akupempha mobwerezabwereza kupita kwawo](/caregiving/asking-to-go-home/) limafotokoza zambiri). Family Caregiver Alliance imafotokoza kuti “Ndikufuna kupita kwawo” nthawi zambiri ndi njira yonenera kuti “Sindikumva bwino,” ndipo imalimbikitsa mayankho monga “Ndiuzeni za kwanu” kapena “Kodi mumakonda chiyani kwambiri kwanu?” Dementia Australia imawonjezera kuti “kwawo” kungatanthauze nthawi kapena malo amene munthuyo ankamva otetezeka, monga ubwana wake.
 
-Try:
+Yesani:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- kuvomereza mmene akumvera: “Zikuoneka kuti mukusowa kwanu.”
+- kupereka chitonthozo podzera kukhudza, ngati akufuna
+- kuyang'ana zithunzi kapena kukamba za nyumba ya banja
+- kupereka mwayi woyenda, kumwa kapena kudya
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Pewani kukangana kapena kufotokoza chifukwa chake sangathe kuchoka. Nthawi zambiri sizithandiza ndipo zimawonjezera nkhawa.
 
-## How long should a visit be?
+## Ulendo ukhale wautali bwanji?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Maulendo afupipafupi, okhazikika nthawi zambiri amagwira bwino ntchito. Family Caregiver Alliance imanena kuti munthuyo nthawi zambiri sakumbukira ngati mwakhala mphindi zisanu kapena maola asanu, ndipo imalimbikitsa kuti maulendo atatu afupipafupi pa sabata angakhale abwino kuposa ulendo umodzi wautali. Dementia Australia imanena kuti palibe chiwerengero cholondola cha maulendo kapena utali wolondola.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+M'masabata oyamba munthuyo atasamukira kumalo osamalira anthu okhala ndi matenda a kuiwala, Family Caregiver Alliance imalimbikitsa kuchezera kawirikawiri, kenako pang'onopang'ono kukhazikitsa ndondomeko yokhazikika. Funsani ogwira ntchito zimene akuona.
 
-## How do I leave without upsetting them?
+## Ndingachoke bwanji popanda kumuvutitsa?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Kuchoka kungakhale gawo lovuta kwambiri. Dementia Australia imalimbikitsa:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Nenani nthawi imene mungakhale mukangofika.** “Nditha kukhala ola limodzi, kenako ndikupita kukagula zinthu.”
+- **Gwiritsani ntchito ntchito ngati mapeto achilengedwe.** “Tikamaliza nyimbo iyi, ndichoka.”
+- **Gwirizanitsani ndi nthawi ya chakudya kapena ntchito ina,** kapena pemphani ogwira ntchito kuti athandize munthuyo kuyamba chinthu china.
+- **Sungani kutsanzikana kukhala kwachidule komanso kofanana nthawi iliyonse.** Kuchedwa, kupepesa kapena kukhala “pang'ono chabe” kungapangitse kutsanzikana kwam'tsogolo kukhala kovuta.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Mukachoka, n'kwachilendo kumva chisoni. Dzipatseni mpumulo. Ngati munthuyo wakhumudwa, ogwira ntchito nthawi zambiri amatha kumuthandiza kukhala bata posachedwa.
 
-## Visiting someone with dementia in the hospital
+## Kuchezera munthu wokhala ndi matenda a kuiwala kuchipatala
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Chipatala ndi malo aphokoso, osadziwika komanso odzaza anthu osadziwika, zomwe zingakhale zovuta kwambiri kwa munthu amene akukhala ndi matenda a kuiwala. Buku la NIA la [kutenga munthu wokhala ndi matenda a Alzheimer's kuchipatala](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) limalimbikitsa:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Khalani ndi munthu winawake pafupi ndi munthuyo** nthawi zambiri momwe zingathekere: munthu wa m'banja, mnzake wokhulupirika kapena munthu wosamalira wolipidwa.
+- **Perekani kwa ogwira ntchito pepala la zambiri za munthuyo** lofotokoza za moyo wake wa tsiku ndi tsiku, dzina lomwe amakonda, zomwe amakonda ndi zomwe sakonda, zinthu zomwe zingamuvutitse, ndi zizindikiro za ululu zomwe sizinganenedwe ndi mawu. Ikani makope m'chipindamo ndi pa desiki ya anamwino.
+- **Thandizani pa kudya ndi kumwa.** Anthu achikulire angakhale opanda chakudya chokwanira ali kuchipatala. Tsegulani zotengera, thandizani pa chakudya, idyani limodzi, ndipo perekani zakumwa.
+- **Bweretsani zinthu zotonthoza** monga zithunzi kapena zinthu zauzimu.
+- **Chepetsani phokoso.** Zimitsani TV ndipo chepetsani phokoso la foni ndi la zolankhulira za m'chipatala.
+- **Yesani zizolowezi zotsitsimula,** monga nyimbo zofatsa, kuwerenga, kupemphera, kuyimba kapena kuyang'ana zithunzi zakale.
+- **Limbikitsani kuyenda mozungulira** momwe zingathekere motetezeka, ndi chilolezo cha ogwira ntchito.
+- **Uzani dokotala nthawi yomweyo ngati munthuyo akuoneka kuti waipiratu kapena wasintha mwadzidzidzi.** NIA imafotokoza kuti kusokonezeka kwakukulu kwadzidzidzi, kotchedwa delirium, kungayambitsidwe ndi mavuto monga matenda, kutentha thupi, kusowa madzi m'thupi kapena zotsatira za mankhwala, ndipo kumafunika chithandizo cha dokotala.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Ulendo wafupipafupi, wodekha wokhala ndi nkhope yodziwika ndi nyimbo yokondedwa ukhoza kukhala gawo lotonthoza kwambiri pa tsiku la kuchipatala.
 
-## Bringing children on a visit
+## Kubwera ndi ana paulendo
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Ana angabweretse chisangalalo chochuluka. Awakonzekeretseni pasadakhale ndi mawu osavuta komanso oona, sungani ulendowo kukhala wafupipafupi, ndipo apatseni ntchito, monga kuwonetsa chithunzi chimene ajambula kapena kupereka chithunzi. NIA imanena kuti ana ndi anthu okhala ndi matenda a Alzheimer's angasangalale ndi zochitika zosavuta limodzi, monga kuyang'ana kabuku ka zithunzi kapena kumvetsera nyimbo. Dementia Australia imalimbikitsa kukonza chikwama chaching'ono cha zokhwasula-khwasula kapena zinthu zachete kuti ana aang'ono azikhala otanganidwa.
 
-## Take care of yourself too
+## Samalirani inunso
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Kuchezera kungakhale kotopetsa komanso kokhudza mtima, makamaka ngati munthuyo wasintha kwambiri. N'koyenera kuchezera mocheperapo ngati mukufunikira, kubwera ndi mnzanu kuti akuthandizeni, kapena kuchoka msanga pa tsiku lovuta. Kuti mupeze malingaliro osamalira inu eni, onani [kudzisamalira kwa munthu wosamalira](/caregiving/caregiver-self-care/). Ngati mukukhala kutali, onani buku lathu la [mafoni ndi mavidiyo oyimbirana](/activities/phone-and-video-calls/).
