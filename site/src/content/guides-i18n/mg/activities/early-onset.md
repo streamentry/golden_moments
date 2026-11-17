@@ -1,33 +1,34 @@
 ---
-title: "Hetsika ho an'ny demensia mialoha ny 65 taona"
-seoTitle: "Hetsika ho an'ny demensia aloha: ideas"
-description: "Hetsika ho an'ny demensia aloha, rehefa manomboka alohan'ny 65 taona: liana, fitsangatsangana, mozika tamin'ny fahanterany, ary fanohanana ho an'ny vady sy zanaka."
+title: "Hetsika ho an'ny dementia aloha loatra: Hevitra"
+seoTitle: "Hetsika ho an'ny dementia aloha loatra"
+description: "Hetsika ho an'ny dementia aloha loatra, rehefa miseho alohan'ny faha-65 taona ny soritr'aretina: fialam-boly, fitsangatsanganana, mozika ary fanohanana."
 section: activities
 order: 26
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Ny demensia aloha dia manomboka alohan'ny 65 taona, matetika rehefa mbola
-  miasa, mitondra fiara na mampiofana zanaka ny olona. Tazomy ny liany sy ny
-  fifandraisany, misafidiana fitsangatsangana izay toa azy, ampiasao mozika sy
-  sary avy amin'ny taonany, ary avelao izy hitantana ny drafitra. Ny vady sy
-  ny zanaka dia mila fanohanana koa, ary ny Alzheimer's Association dia
-  mampandeha vondrona ho azy ireo.
+  Ny dementia aloha loatra dia manomboka alohan'ny faha-65 taona, matetika raha
+  mbola miasa, mitondra fiara na mitaiza zanaka ny olona iray. Tohizo ny
+  fialam-boliny sy ny fisakaizany, mifidiana fitsangatsanganana izay mahatsapa
+  ho azy manokana, ampiasao ny mozika sy ny sary avy amin'ny androny, ary avelao
+  izy hitarika ny fanapahan-kevitra. Mila fanohanana koa ny mpiara-miombon'antoka
+  sy ny zanaka efa lehibe, ary manana vondrona ho azy ireo ny Alzheimer's
+  Association.
 keyPoints:
-  - "Ny demensia aloha dia manomboka alohan'ny 65 taona. Matetika mahatsapa ny olona fa tsy mifanaraka amin'ny taonany ny hetsika omena."
-  - "Tazonina ny olona ho mpitantana ny safidy, na amin'ny liana hovandrana na amin'ny fitsangatsangana hoentina."
-  - "Ny mozika, sary ary tantara avy amin'ny taona 20 ka hatramin'ny 50 matetika dia lasa lanjany kokoa noho ny hetsika avy amin'ny taona antitra."
-  - "Mitohy mavitrika sy mifandray amin'ny olona raha tiany, ary ampifanaraho ny hafainganam-pandehany fa tsy soloina ny hetsika."
-  - "Ny mpikarakara, indrindra ny vady sy ny zanaka, dia mahazo tombony amin'ny vondrona fanohanana misy mpiara-dia."
+  - "Ny dementia aloha loatra dia manomboka alohan'ny faha-65 taona. Matetika ny olona no mahatsapa fa tsy mifanaraka amin'ny taonany ny hetsika atolotra."
+  - "Avelao ilay olona hifehy ny safidy, manomboka amin'ny fialam-boly andramana ka hatramin'ny fitsangatsanganana kasaina."
+  - "Ny mozika, ny sary ary ny tantara tamin'ny roapolo ka hatramin'ny dimampolo taonany dia matetika manana heviny bebe kokoa noho ny hetsika avy amin'ny fiainana taty aoriana."
+  - "Mijanòna ho mavitrika sy hifanerasera raha tiany izany, ary amboary ny hafainganana fa tsy soloy ny hetsika."
+  - "Mahasoa ho an'ny mpikarakara, indrindra ny mpiara-miombon'antoka sy ny zanaka efa lehibe, ny vondrona fanohanana."
 faq:
-  - q: "Inona no demensia aloha?"
-    a: "Demensia izay manomboka alohan'ny 65 taona. Ny Alzheimer's Association dia manamarika fa ny Alzheimer dia heverina ho aloha rehefa miely amin'ny olona ambanin'ny 65 taona. Tsy dia iray amin'ny demensia manomboka any amin'ny taona antitra ny aloha, nefa tsy vitsy izany, ary matetika samy hafa ny traikefa: mbola miasa, mitondra fiara ary miteraka ny olona."
-  - q: "Inona avy ireo hetsika mety amin'ny olona manana demensia aloha?"
-    a: "Ny hetsika mifanaraka amin'ny fiainany ho olon-dehibe no tsara indrindra: liana tiany, fitsangatsangana miaraka amin'ny namana, andraikitra fanampiana, asa sakafo ho an'ny fianakaviana, mozika avy amin'ny fahatanorany, na dia any amin'ny toerana tiany. Avelao izy hifidy, ary ampifanaraho ny halaviran'ny fotoana sy ny firaisana fa tsy ny hetsika tenany."
-  - q: "Aiza no hahitan'ny vady na zanaka fanohanana?"
-    a: "Ny Alzheimer's Association dia manolotra vondrona fanohanana ho an'ny mpikarakara maimaim-poana, anisan'izany ny vondrona ho an'ny olona miahy olona manana demensia aloha. Azonao antsoina ny Helpline 24/7 amin'ny 800.272.3900 mba hanontanianao momba ny vondrona sy ny loharano."
-  - q: "Tokony ho mbola manao ny hetsika tiany ve ny olona manana demensia aloha?"
-    a: "Eny, raha azo antoka izy ary tiany. Ny liana, ny fiangonana, ny fanatanjahantena ary ny fotoana fifandraisana dia ampahany amin'ny fiainana feno. Ampifanaraho ny toerana, ampiarahao namana ary mialohava ny fitsaharana, ary ajanony rehefa tsy mahafinaritra intsony ny hetsika."
+  - q: "Inona no atao hoe dementia aloha loatra?"
+    a: "Dementia manomboka alohan'ny faha-65 taona izany. Milaza ny Alzheimer's Association fa heverina ho miseho amin'ny olona mbola tanora ny Alzheimer raha miantraika olona latsaky ny 65 taona. Tsy fahita matetika toy ny dementia miseho taty aoriana ny dementia aloha loatra, saingy tsy vitsy koa, ary matetika hafa ny traikefa: mety mbola miasa, mitondra fiara ary mitaiza zanaka ilay olona."
+  - q: "Inona avy ireo hetsika mety ho an'ny olona miaina miaraka amin'ny dementia aloha loatra?"
+    a: "Ny hetsika mifanaraka amin'ny fiainany maha-olon-dehibe no mety indrindra: fialam-boly efa mahazatra, fitsangatsanganana an-tongotra miaraka amin'ny namana, asa an-tsitrapo, fikarakarana sakafo ho an'ny fianakaviana, mozika tamin'ny fahatanorany, na fitsidihana toerana tiany. Avelao izy hifidy, ary amboary ny faharetan'ny fotoana sy ny mpiara-miasa fa tsy ny hetsika mihitsy."
+  - q: "Aiza no ahafahan'ny mpiara-miombon'antoka na ny zanaka efa lehibe mahita fanohanana?"
+    a: "Manolotra vondrona fanohanana maimaim-poana ho an'ny mpikarakara ny Alzheimer's Association, anisan'izany ireo vondrona ho an'ny olona mikarakara olona voan'ny dementia miseho amin'ny olona mbola tanora. Afaka miantso ny laharana fanampiana 24/7 ao aminy amin'ny 800.272.3900 ianao mba hanontany momba ireo vondrona sy loharano."
+  - q: "Tokony hanohy ireo hetsika ankafiziny ve ny olona miaina miaraka amin'ny dementia aloha loatra?"
+    a: "Eny, raha mbola azo antoka izany ary tiany. Anisan'ny fiainana feno ny fialam-boly, ny fiangonana na fikambanana ara-pinoana, ny fanatanjahan-tena ary ny fotoana iarahana amin'ny hafa. Amboary ny toerana, mitondrà olona hiaraka aminy ary manomàna fotoana fialan-tsasatra, ary ajanòny rehefa tsy mahafaly intsony ilay hetsika."
 sources:
   - title: "Younger-onset dementia caregivers share the importance of support groups"
     publisher: "Alzheimer's Association, West Territory (Alzheimer's and Dementia Blog)"
@@ -46,45 +47,45 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Ny torolalana ny demensia ankapobeny dia matetika mifototra amin'ny olona any amin'ny taona fitopolo sy valopolo. Ho an'ny olona voamarina any amin'ny efa-polo na dimampolo taona, ny fiainana isan'andro dia hafa. Mbola mety hanana asa, trosa an-trano, zanaka tanora any an-trano na ray aman-dreny tokony hotazonina izy. Ny hetsika dia tokony hanaiky ny fiainana ho olon-dehibe. Ity torolalana ity dia mampiseho ny zavatra miova, ny zavatra azo andramana, ary ny toerana ahitan'ny vady sy zanaka fanohanana.
+Ny ankamaroan'ny fampahalalana momba ny dementia dia mihevitra fa efa eo amin'ny fitopolo na valamplo taonany ilay olona. Ho an'ny olona voamarina fa voan'izany teo amin'ny efapolo na dimampolo taonany, hafa ny zava-misy andavanandro. Mety mbola manana asa, trosa trano, tanora iray tapitrisa ao an-trano na ray aman-dreny tokony hokarakaraina izy. Tokony haneho izany fiainana maha-olon-dehibe izany ny hetsika. Ity torolalana ity dia miresaka ny zavatra miova, izay azo andramana, ary ny toerana ahafahan'ny mpiara-miombon'antoka sy ny zanaka efa lehibe mahita fanohanana.
 
-## Inona no demensia aloha?
+## Inona no atao hoe dementia aloha loatra?
 
-Demensia aloha dia demensia izay manomboka alohan'ny 65 taona, antsoina koa hoe younger-onset. Ny [bilaogin'ny Alzheimer's Association](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) dia mamaritra ny Alzheimer ho younger-onset rehefa miely amin'ny olona ambanin'ny 65 taona, ary manamarika fa ny fikarakarana olona toy izany dia "manana fanamby manokana". Mitovy amin'ny fiainana any aoriana ny famantarana, nefa ny fanantenan'ny olona, ny andraikiny ary ny fiaraha-monina dia tsy mitovy.
+Ny dementia aloha loatra dia dementia manomboka alohan'ny faha-65 taona, ary indraindray antsoina hoe dementia miseho amin'ny olona mbola tanora. Ny [blaogy an'ny Alzheimer's Association](https://www.alzheimersblog.org/2023/11/17/younger-onset-dementia-caregivers-share-the-importance-of-support-groups/) dia mamaritra ny Alzheimer ho miseho amin'ny olona mbola tanora rehefa miantraika olona latsaky ny 65 taona izany, ary manamarika fa ny fikarakarana olona mbola tanora toy izany « dia mitondra fanamby manokana ». Mety hitovy amin'ny any aoriana kokoa ny soritr'aretina, saingy tsy mitovy ny zavatra andrasan'ilay olona, ny andraikiny ary ny fiarahamonina misy azy.
 
-Satria tsy dia mahazatra izany, ny olona dia mety miandry ela kokoa vao hahazo diagnostika, ary ny fianakaviana mety tsy mahita olona hiresahana aminy. Mahafaly ny mahafantatra fa misy olona hafa mizara ny traikefa mitovy.
+Satria tsy fahita matetika izany, mety ela kokoa vao mahazo fitiliana ny olona, ary mety hahatsapa ny fianakaviana fa tsy manana olona hiresahana. Matetika manamaivana ny fahatsapana ny fahafantarana fa misy olona hafa miaina traikefa mitovy amin'izany.
 
-## Tazomy ny olon-dehibe ao amin'ny hetsika
+## Avelao ilay olon-dehibe hitarika ny hetsika
 
-Ny olon-dehibe manana demensia aloha matetika tsy tia ho tratra toy ny zazakely. Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dia manoro hampifanaraka ny hetsika amin'ny zavatra azon'ny olona atao sy tiany. Ho an'ny olona any amin'ny dimampolo taona, izany dia mety ho:
+Matetika ny olon-dehibe miaina miaraka amin'ny dementia aloha loatra dia tsy te-ho raisina toy ny ankizy. Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dia manoro hevitra ny hanitsy ny hetsika mifanaraka amin'izay mbola azon'ny olona atao sy ankafiziny. Ho an'ny olona eo amin'ny dimampolo taonany, mety midika izany hoe:
 
-- **Mitahiry liana mahazatra,** toy ny asa tanana amin'ny hazo, fanatanjahantena, karatra, klioba boky na kôrô, miaraka amin'ny fanampiana kely na fotoana fohy kokoa.
-- **Mandeha an-tongotra na mamily bisikileta miaraka amin'ny namana,** amin'ny lalana fantany tsara.
-- **Mahandro sakafo an-tokantrano,** ary ny olona manao ireo ampahany azony atao.
-- **Manao fanampiana na fanompoana** amin'ny andraikitra safidiny, toy ny fandamina fanomezana na fanampiana amin'ny hetsika an-tsekoly.
-- **Mandamina dia** ho any amin'ny toerana manan-danja aminy, miaraka amin'ny namana sy drafitra fohy.
-- **Mandany fotoana miaraka amin'ny zafikely, zanakan-drahalahy na zanakavavy,** mizara lalao na tetikasa.
+- **Tohizo ny fialam-boly efa mahazatra,** toy ny asa hazo, fanatanjahan-tena, karatra, klioban'ny boky na amboaram-peo, miaraka amin'ny fanampiana kely na fotoana fohy kokoa.
+- **Mandehana an-tongotra na mitaingina bisikileta miaraka amin'olona iray,** amin'ny lalana efa fantany tsara.
+- **Mikarakara sakafo ho an'ny fianakaviana,** ka avelao ilay olona hanao ireo ampahany azony atao.
+- **Manao asa an-tsitrapo na manampy** amin'ny andraikitra fidiny, toy ny fanasokajiana fanomezana na fanampiana amin'ny hetsika any an-tsekoly.
+- **Manomàna fitsangatsanganana** mankany amin'ny toerana manan-danja ho azy, miaraka amin'olona iray sy fandaharam-potoana tsotra.
+- **Mandany fotoana miaraka amin'ny zafikely, zana-drahalahy na zana-drahavavy,** mizara lalao na tetikasa iray.
 
-Avelao ny olona hifidy. Ny fanontaniana hoe "Inona no tianao hataonao amin'ny tolakandro?" dia tsara kokoa noho ny fifidianana ho azy.
+Avelao ilay olona hifidy. Ny fanontaniana hoe « Inona no tianao hatao amin'ity tolakandro ity? » dia maneho fanajana bebe kokoa noho ny misafidy ho azy.
 
-## Ampiasao ny mozika sy ny fahatsiarovana avy amin'ny taonany
+## Ampiasao ny mozika sy ny fahatsiarovana avy amin'ny androny
 
-Ny mozika sy ny sary avy amin'ny taona roapolo, telopolo ary efapolo an'ny olona dia mety hampiditra fahatsapana mafana sy resaka malefaka. Ny [torolalana momba ny hetsika mozika](/activities/music/) dia manazava ny fomba hanaovana playlist, ary ny [hetsika fahatsiarovana](/activities/reminiscence/) dia mampiseho ny fomba hizarana sary sy tantara tsy misy fanontaniana fitsapana. Ho an'ny lalao mahery kokoa ho an'ny olon-dehibe, andramo [ny karatra resaka](/games/conversation-cards/), misy fanentanana malalaka momba ny asa, fianakaviana, namana sy fianakaviana.
+Ny mozika sy ny sary tamin'ny roapolo, telopolo ary efapolo taonany dia afaka mampipoitra fahatsapana mahafinaritra sy resaka mora. Ny torolalanay momba ny [hetsika miaraka amin'ny mozika](/activities/music/) dia manazava ny fomba fananganana lisitra mozika, ary ny [hetsika fizarana fahatsiarovana](/activities/reminiscence/) dia mampiseho ny fomba fizarana sary sy tantara nefa tsy manao fanadinana. Ho an'ny lalao mifanaraka kokoa amin'ny olon-dehibe, andramo ny [karatra resaka](/games/conversation-cards/), miaraka amin'ny fanontaniana misokatra momba ny asa, ny dia, ny namana ary ny fianakaviana.
 
-Ny sary mitovy amin'ny fianakaviana azo ampiasaina ho lalao koa dia mety ho tsara, satria sary olona sy toerana manan-danja amin'ny olona ireo. [Photo pairs](/games/photo-pairs/) dia mitahiry ny sary ao amin'ny browser amin'io fitaovana io.
+Mety hiasa tsara koa ny lalao mampiaraka sary avy amin'ny sarin'ny fianakaviana, satria ahitana olona sy toerana manan-danja ho an'ilay olona ireo sary ireo. Ny [mampiaraka sary](/games/photo-pairs/) dia mitazona ireo sary ao amin'ny navigateur amin'io fitaovana io.
 
-## Asa, fiara sy fiainana isan'andro
+## Asa, fitondrana fiara ary fiainana andavanandro
 
-Olona maro manana demensia aloha no mbola miasa, mitondra fiara na mitantana vola. Tsy hetsika amin'ny fomba mahazatra ireo, nefa manamboatra izay azon'ny olona atao. Resaho amin'ny dokotera ny fitondrana fiara sy ny fiarovana amin'ny asa, ary jereo raha tiany ny fanampiana amin'ny vola na ny fotoana voatondro. Ny tanjona dia ny fiarovana ny voninahitra mba hiarahan'ny olona amin'ny zavatra rehetra tiany.
+Maro amin'ireo olona miaina miaraka amin'ny dementia aloha loatra no mbola miasa, mitondra fiara na mitantana vola. Tsy hetsika amin'ny heviny mahazatra ireo, saingy misy fiantraikany amin'izay azon'ilay olona atao. Miresaha amin'ny dokoterany momba ny fiarovana amin'ny fitondrana fiara sy ny asa, ary diniho raha tiany ny hahazo fanampiana amin'ny vola na ny fotoana miaraka amin'ny dokotera. Ny tanjona dia ny hiaro ny fahamendrehany sady hampiditra azy araka izay tiany.
 
-Ho an'ny torolalana momba ny fomba isan'andro sy ny fitazonana hetsika, jereo [fomba fandaharam-potoana malemy isan'andro](/activities/daily-routine/) sy [asa an-trano ho hetsika](/activities/household-tasks/).
+Raha mila torolalana momba ny fanao andavanandro sy ny fijanonana ho mavitrika, jereo ny [fanao andavanandro malefaka](/activities/daily-routine/) sy ny [asa ao an-trano ho hetsika](/activities/household-tasks/).
 
-## Fanohanana ho an'ny vady sy zanaka
+## Fanohanana ho an'ny mpiara-miombon'antoka sy ny zanaka efa lehibe
 
-Matetika ny vady sy ny zanaka dia tsy mahatsapa fifandraisana. Ny fikarakarana dia mety ho toy ny asa faharoa eo ambonin'ny asa sy fianakaviana. Ny lahatsoratry ny bilaogin'ny Alzheimer's Association dia milaza fa ny mpikarakara ao amin'ny vondrona younger-onset nahita fa mahasoa ireo vondrona ireo amin'ny olana ara-pitantanana toy ny drafitra ara-dalàna, ary koa amin'ny fahatsapana ho takatry ny olona. Milaza koa izy fa ny Association dia mampandeha vondrona fanohanana maimaim-poana ho an'ny mpikarakara, anisan'izany ny vondrona ho an'ny olona miahy olona manana demensia aloha, ary telo amin'izy ireo mihaona an-tserasera ny alatsinainy sy ny alarobia.
+Matetika ny mpiara-miombon'antoka sy ny zanaka efa lehibe no mahatsapa ho manirery. Mety ho toy ny asa faharoa eo an-tampon'ny asa sy ny fianakaviana ny fikarakarana. Ny lahatsoratra ao amin'ny blaogin'ny Alzheimer's Association dia mitatitra fa ireo mpikarakara ao amin'ny vondrona ho an'ny dementia miseho amin'ny olona mbola tanora dia nahita fa nanampy izany tamin'ny olana azo tsapain-tanana toy ny fandaminana ara-dalàna, ary koa tamin'ny fahatsapana fotsiny fa misy mahatakatra. Milaza koa izy io fa ny Fikambanana dia manana vondrona fanohanana maimaim-poana ho an'ny mpikarakara, anisan'izany ireo vondrona ho an'ny olona mikarakara olona voan'ny dementia miseho amin'ny olona mbola tanora, ary telo amin'izy ireo no mihaona an-tserasera amin'ny Alatsinainy sy Alarobia.
 
-Mba hanontanianao momba ny vondrona, antsoy ny Helpline 24/7 an'ny Association amin'ny 800.272.3900. Ny [torolalana momba ny tenan'ny mpikarakara](/caregiving/caregiver-self-care/) dia mandrakotra fitsaharana, fanampiana fohy ary famantarana ny fahatapahan-kevitra.
+Raha hanontany momba ireo vondrona, antsoy ny laharana fanampiana 24/7 an'ny Fikambanana amin'ny 800.272.3900. Ny [torolalana momba ny fikarakarana tena ho an'ny mpikarakara](/caregiving/caregiver-self-care/) dia miresaka momba ny fialan-tsasatra, ny fotoana fitsaharana ary ny famantarana ny harerahana be loatra.
 
-## Ny dingana dia mbola manan-danja
+## Mbola zava-dehibe ny dingana
 
-Ny dingana misy ny olona dia mbola manova izay mahasoa. Aloha, ny olona maro dia afaka manao ny hetsika tsotra nefa misy fanovana, ary ny [hetsika amin'ny dingana voalohany](/activities/early-stage/) dia manana ideas bebe kokoa. Any aoriana, ny hetsika dia lasa tsotra kokoa sy ara-pahatsapana kokoa, araka ny nosoratana ao amin'ny [hetsika amin'ny dingana farany](/activities/late-stage/). Ovao ny hetsika rehefa miova ny olona, ary anontanio izy izay tiany rehefa afaka milaza izany.
+Mbola mandrafitra izay manampy ny dingan'ny dementia eo amin'ilay olona. Tany am-boalohany, ny ankamaroan'ny olona dia afaka manao ny hetsika mahazatra azy miaraka amin'ny fanovana kely, ary misy hevitra bebe kokoa ao amin'ny torolalanay momba ny [hetsika amin'ny dingana voalohany](/activities/early-stage/). Any aoriana, lasa tsotra kokoa sy mifantoka kokoa amin'ny fahatsapana ny hetsika, araka ny voalaza ao amin'ny [hetsika amin'ny dingana farany](/activities/late-stage/). Ovay ny hetsika arakaraka ny fiovan'ilay olona, ary anontanio izy izay tiany isaky ny afaka milaza izany izy.

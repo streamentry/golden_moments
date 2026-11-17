@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Zochita 101 Zosavuta kwa Anthu Okhala ndi Kuiwalika"
+seoTitle: "Malingaliro 101 a Zochita kwa Anthu Okhala ndi Kuiwalika"
+description: "Malingaliro 101 osavuta, a munthu wamkulu, kwa anthu omwe akukhala ndi matenda a kuiwalika, ndi momwe mungawasinthire zinthu zikavuta."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Zochita zabwino kwa anthu omwe akukhala ndi matenda a kuiwalika zimakhala
+  zodziwika, za munthu wamkulu komanso zosavuta kuchita limodzi: kupinda zovala,
+  kusanja zinthu, kuphika, nyimbo, kuyang'ana zithunzi, kuyenda, kulima dimba,
+  kucheza ndi chiweto komanso masewera osavuta. Sankhani zimene munthuyo wakhala
+  akuzikonda, thandizani pa mbali zovuta, ndipo siyani akatopa. Kukhala ndi nthawi
+  yabwino limodzi n'kofunika kuposa kumaliza chilichonse.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Yambani ndi moyo wa munthuyo: ntchito yake, zomwe amakonda kuchita, chikhulupiriro chake ndi nyimbo zomwe amakonda ndi chitsogozo chabwino kwambiri."
+  - "Chepetsani chochitika chilichonse pakafunika: masitepe ochepa, zosankha zochepa, inuyo chitani mbali yovutayo."
+  - "Kungoyang'ana, kugwira chinachake kapena kungokhala pafupi zonsezi zikutanthauza kutenga nawo mbali."
+  - "Siyani kapena sinthani mukawona kutopa, kukhumudwa kapena kusowa chidwi. Kusiya msanga ndi chotsatira chabwino."
+  - "Kuchita limodzi n'kofunika kuposa kuchita molondola."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Ndi zochita ziti zomwe zili zabwino kwa munthu amene ali ndi matenda a kuiwalika?"
+    a: "Zochita zodziwika zomwe munthuyo wakhala akuchita kwa zaka zambiri, koma atazipangitsa kukhala zosavuta pang'ono: kupinda zovala, kuyala tebulo, kuphika, nyimbo, kuyang'ana zithunzi, kuyenda, kulima dimba komanso kucheza ndi chiweto. Sankhani zinthu zomwe zimamveka za munthu wamkulu komanso zothandiza, ndipo muzichite limodzi."
+  - q: "Chochitika chiyenera kutenga nthawi yayitali bwanji?"
+    a: "Palibe nthawi yoyenera. Mphindi zochepa zopinda mataulo zikhoza kukhala zokwanira tsiku lina, ndipo ola limodzi m'dimba likhoza kumveka losavuta tsiku lina. Lolani munthuyo ayende pa liwiro lake ndipo siyani pamene zikadali zosangalatsa."
+  - q: "Bwanji ngati munthuyo akukana kuchita chochitika?"
+    a: "Musamukakamize. Kukana kungatanthauze kuti ntchitoyo ikumuvuta, nthawi si yabwino, kapena watopa kapena sakumva bwino. Yesaninso nthawi ina, perekani njira yosavuta kwambiri, kapena yambani ntchitoyo nokha pafupi ndikumupempha kuti akuthandizeni."
+  - q: "Kodi masewera olimbikitsa ubongo ndi abwino kwa anthu omwe ali ndi matenda a kuiwalika?"
+    a: "Masewera angakhale njira yosangalatsa yochezera limodzi, koma palibe masewera omwe asonyezedwa kuti amachiza, amachepetsa kapena amaletsa matenda a kuiwalika. Sankhani masewera opanda nthawi yowerengera, opanda manambala a mapointi kapena mawu osonyeza kuti walakwitsa, ndipo muwaone ngati chochitika chochita limodzi, osati mayeso."
+  - q: "Ndingatani kuti zochita zisamaoneke ngati za ana?"
+    a: "Gwiritsani ntchito zinthu zenizeni za munthu wamkulu: mataulo enieni, maphikidwe enieni, nyimbo za akulu ndi zipangizo zenizeni zojambulira, komanso zithunzi za nkhani za akulu. Fotokozani ntchito ngati thandizo lomwe mukulifuna moona mtima, ndipo lankhulani ndi munthuyo ngati munthu wamkulu yemwe ali."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Chochitika chabwino kwambiri kwa munthu amene akukhala ndi matenda a kuiwalika nthawi zambiri chimakhala china chake chimene amadziwa kale kuchichita, atachipangitsa kukhala chosavuta pang'ono ndikumachichita limodzi ndi munthu amene amamukhulupirira. M'munsimu muli malingaliro 101, ogawidwa m'magulu, ndipo lililonse lili ndi momwe mungalikonzere komanso momwe mungalichepetsere likavuta. Simukufuna zipangizo zapadera, ndipo simuyenera kumaliza chilichonse. Masana abwino angakhale dengu limodzi la mataulo ndi kapu ya khofi limodzi.
 
-## How do you choose the right activity?
+## Kodi mungasankhe bwanji chochitika choyenera?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Sankhani potengera munthuyo, osati mndandandawu: yambani ndi zimene wakhala akuzikonda komanso zimene angachite momasuka lero.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Ganizirani za ntchito yake ndi zomwe amakonda.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) imalimbikitsa kuti munthu amene kale ankagwira ntchito mu ofesi angasangalale kusanja ndalama zachitsulo kapena kukonza makalata, ndipo munthu wokonda kulima dimba angasangalale kugwira ntchito pabwalo.
+- **Onani zimene akuchita kale.** Ngati abambo anu amasesa khonde mmawa uliwonse popanda kupemphedwa, phatikizani zimenezo mu tsiku lawo.
+- **Konzani mogwirizana ndi momwe alili.** Kutopa, kuona, kumva, kuwawa kwa manja ndi kusakhazikika kwa thupi zonsezi n'zofunika kuziganizira.
+- **Onani mmene akumvera.** Zochita zaphokoso kapena zambiri zimakondweretsa ena koma zimaopseza ena.
+- **Perekani cholinga.** Kupinda matewera a chakudya cha ku tchalitchi kumamveka kothandiza kuposa kuchita zinthu chifukwa chongofuna kuchita.
 
-### A rough guide by stage
+### Chitsogozo chachidule malinga ndi gawo
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Matenda a kuiwalika nthawi zambiri amafotokozedwa m'magawo oyambirira, apakati ndi omaliza. Awa ndi mayina osakhazikika, osati mabokosi, ndipo anthu ambiri amakhala ndi masiku abwino ndi ovuta, choncho tsatirani zimene mukuona lero. [Mndandanda wa Alzheimer's Foundation of America malinga ndi gawo](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) umatsatira njira yofanana.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Nkhani | Gawo loyambirira | Gawo lapakati | Gawo lomaliza |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Zimene mungazindikire | Nthawi zambiri amatha kuchita okha; kukonza zinthu, mayina atsopano ndi malo aphokoso zimavuta | Amafuna thandizo poyamba ndi pa masitepe; mawu amavuta kupeza | Amafuna thandizo pa chisamaliro chambiri cha tsiku ndi tsiku; zomverera za thupi n'zofunika kwambiri |
+| Zochita zomwe nthawi zambiri zimayenera | Makhadi, masewera a pa bolodi, kuphika, kulima dimba, kulemba, maulendo, magulu | Kupinda zovala, kusanja zinthu, masitepe osavuta ophikira, kuimba, ma albamu a zithunzi, kuyenda motsogozedwa | Nyimbo zomwe amakonda, kusisita manja, zinthu zofewa zogwira, kuwerengeredwa, kukhala panja |
+| Udindo wanu | Mnzake: mufunseni thandizo lomwe akufuna | Konzani, sonyezani, thandizani pa mbali zovuta | Bweretsani chochitikacho kwa iwo; kukhalapo kwanu ndi chochitikacho |
+| Malingaliro ena | [Gawo loyambirira](/activities/early-stage/) | [Gawo lapakati](/activities/middle-stage/) | [Gawo lomaliza](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Kodi mungayambe bwanji chochitika ndi munthu amene ali ndi matenda a kuiwalika?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Yambani pang'ono, yambani pamodzi naye, ndipo pangani kuti zikhale zosavuta kuvomera. Anthu ambiri amafunabe kutenga nawo mbali koma zimawavuta kukonza kapena kuyamba.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Sankhani nthawi imene ali bwino,** nthawi zambiri m'mawa.
+2. **Konzani zonse pasadakhale** kuti muyambe nthawi yomweyo.
+3. **Pemphani thandizo, osati kuyesa kuchita bwino kwambiri:** “Kodi mungandithandizeko ndi izi?”
+4. **Yambani ndinu.** Pindani thaulo loyamba ndikumusiya alowe nawo. Kusonyeza kumathandiza kuposa kufotokoza.
+5. **Perekani sitepe imodzi pa nthawi.**
+6. **Inuyo gwirani mbali yovuta kwambiri.** Alzheimer's Association imalimbikitsa kuti muyeze nokha zosakaniza, kenako mupereke supuni kuti asakanize.
+7. **Lolani zichitike m'njira yawo.** Mataulo opindidwa mosiyana alibe vuto.
+8. **Siyani zikasiya kukhala zosangalatsa.** Kusakhazikika, kukwinya kapena mawu akuti “Sindingathe” ndi zizindikiro zoti musinthe kapena mupumule.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Onaninso [momwe mungasewerere limodzi](/caregiving/how-to-play-together/) ndi [malangizo a kulankhulana](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Ntchito za tsiku ndi tsiku pakhomo
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Ntchito zapakhomo ndi zodziwika komanso zothandiza, zomwe zimapangitsa kuti zikhale malo abwino oyambira. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) imatchula kutsuka mbale, kuyala tebulo, kusesa, kusanja makalata ndi kupinda zovala pakati pa zochita zomwe anthu angasangalale nazo. Zambiri mu [ntchito zapakhomo](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Pindani mataulo ofunda.** Tulutsani dengu la zovala kuchokera mu chowumitsira pa tebulo ndikumapinda limodzi. Pambuyo pake, kungowongola ndi kuunjika kumathandizanso.
+2. **Phatikizani masokosi.** Yambani ndi mitundu yosiyana kwambiri. Pambuyo pake, kungosanja owala ndi akuda ndikokwanira.
+3. **Yalani tebulo.** Perekani mtundu umodzi wa zinthu pa nthawi. Yalani malo amodzi nokha ngati chitsanzo.
+4. **Tsukani kapena yanikani mbale.** Madzi ofunda a sopo ndi mbale zosathyoka. Kuyanika mutakhala pansi kumapepuka kwa miyendo.
+5. **Pukutani tebulo.** Perekani nsalu yonyowa mutatha kudya. Ndi ntchito yeniyeni ya manja osakhazikika.
+6. **Sanjani makalata.** Ikani makatabu ndi makalata osafunikira mu “sungani” ndi “tayani.” Sungani makalata enieni a ndalama kutali.
+7. **Dulani makuponi.** Lumo lopanda msonga lakuthwa ndi timapepala ta masitolo. Pambuyo pake, kuzungulira zakudya zomwe amakonda kumathandizanso.
+8. **Sanjani ndalama zachitsulo.** Sanjani ndalama m'makapu kapena muzipange m'magulu. Pewani zinthu zazing'ono ngati munthuyo amaika zinthu m'kamwa.
+9. **Sesani kapena pukutani fumbi.** Tsache lopepuka pa khonde, kapena chida chotalika chopukutira mutakhala pa mpando.
+10. **Thandizani kuphika.** Kutsuka ndiwo zamasamba, kung'amba letesi, kusakaniza. Inuyo gwirani mpeni ndi moto.
+11. **Phikani chakudya cha banja.** Gwiritsani ntchito khadi la maphikidwe olembedwa ndi dzanja lawo ngati mulinalo. Pambuyo pake, akhoza kungolawa.
+12. **Gwirani ntchito ya mu ofesi.** Pindani makalata, ikani m'maenvulopu ndi kumata masitampu, kapena lembani pamodzi mndandanda wa zogula.
 
-## Music
+## Nyimbo
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Nyimbo zodziwika zimatha kufikira anthu ngakhale mawu akavuta. [Malangizo a nyimbo a Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) amalimbikitsa nyimbo zodziwika, popanda malonda komanso TV itazimitsidwa. Onani [zochita za nyimbo](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Pangani mndandanda wa nyimbo za munthuyo.** Nyimbo za pa unyamata wawo, za pa ukwati wawo, za ku tchalitchi kwawo ndi za chikhalidwe chawo.
+14. **Imbani limodzi.** Yambani kuimba nokha. Kung'ung'uza kapena kumvetsera kumawerengedwa.
+15. **Gwirani kamvekedwe.** Ombani m'manja, gundani mawondo kapena gundani ng'oma yaing'ono ya m'manja. Izi zimagwira ntchito mutakhala pansi ngakhale m'gawo lomaliza.
+16. **Vinani.** Vinani pang'onopang'ono kukhitchini, kapena yendetsani thupi mutakhala pansi mogwirana manja.
+17. **Sewerani chimbale chonse.** Nyimbo yomwe amakonda kuyambira koyamba mpaka kumapeto, ndi khofi ndipo popanda china chilichonse chochitika.
+18. **Lankhulani za nyimboyo.** Pemphani nkhani, osati mfundo: “Ndiuzeni za mavinidwe omwe munkapitako.”
+19. **Onerani filimu ya nyimbo kapena konsati yojambulidwa.** Chiwonetsero chomwe ankachikonda chimakhala chabwino madzulo. Imani nthawi iliyonse.
+20. **Sewerani chida choimbira chodziwika.** Munthu amene kale ankasewera piyano angasangalale ndi nyimbo zosavuta; pambuyo pake, mawu ochepa oimbidwa limodzi.
+21. **Mvetserani nyimbo zamoyo.** Konsati yaifupi ya m'dera kapena kuyeserera kwa kwaya. Khalani pafupi ndi potulukira.
 
-## Reminiscence: photos, objects and stories
+## Kukumbukira: zithunzi, zinthu ndi nkhani
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Sangalalani ndi zakale limodzi popanda kuyesa kukumbukira. Pewani mafunso akuti “Kodi mukukumbukira...?” ndi “Uyu ndani?” ndipo m'malo mwake gwiritsani ntchito mawu oyitanira nkhani. Onani [zochita zokumbukira](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Yang'anani chimbale cha zithunzi.** Nenani zimene mukuona: “Kavalidwe kabwino kwambiri. Ndiuzeni za tsiku limeneli.” Vomerezani mayina aliwonse omwe agwiritsa ntchito.
+23. **Pangani bokosi la zikumbutso.** Bokosi la nsapato lokhala ndi zinthu za m'moyo wawo, monga baji ya ntchito kapena khadi la maphikidwe. Tulutsani chinthu chimodzi pa nthawi.
+24. **Yambani buku la nkhani ya moyo.** Zithunzi zochepa pa tsamba lililonse ndi mawu ofotokozera a zilembo zazikulu. Zimathandiza anthu atsopano odzamuthandiza kumudziwa munthuyo.
+25. **Gwiritsani ntchito makhadi oyambitsa kukambirana.** [Makhadi oyambitsa kukambirana](/games/conversation-cards/) amaphatikiza chithunzi ndi funso lotseguka.
+26. **Pangani masewera a zithunzi za banja.** [Zithunzi zofanana](/games/photo-pairs/) zimasintha zithunzi zanu kukhala masewera ofananitsa.
+27. **Onerani makanema apabanja kapena TV yakale.** Fotokozani limodzi m'malo mofunsa mafunso.
+28. **Gwirani zinthu za pa ntchito yawo yakale.** Sipana, chida cha dokotala, buku la zowerengera. Nthawi zambiri manja amatsogolera nkhani.
+29. **Phikani chakudya cha paubwana wawo.** Akhoza kusakaniza, kulawa kapena kungokhala nanu kukhitchini.
+30. **Yang'anani mapu a malo omwe anakhalako.** Tsatirani misewu yodziwika mu atlasi yaikulu pamene mukukambirana.
 
-## Creative activities
+## Zochita zaluso
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Zojambula zimakhudza kuchita, osati chinthu chomalizidwa. Sungani zipangizo za munthu wamkulu komanso zotetezeka. Onani [zojambula ndi ntchito zamanja](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Jambulani ndi utoto wa madzi.** Pepala lokhuthala, mitundu yochepa. Ngati kuyamba kukuvuta, tsogolerani mikwingwirima yoyamba limodzi.
+32. **Pentani zojambula za akulu.** Maluwa kapena zofunda, osati makatuni. [Masamba athu opaka utoto](/games/coloring/) amagwira ntchito pa sikirini kapena atasindikizidwa.
+33. **Pangani kolaji.** Ng'ambani zithunzi za m'magazini za minda, magalimoto kapena chakudya ndikumata pansi. Pambuyo pake, kungosankha zithunzi ndikokwanira.
+34. **Konzani maluwa.** Mtolo wa maluwa ogulidwa ku sitolo ndi vase. Pambuyo pake, maluwa ochepa mu mtsuko.
+35. **Lukani kapena kuluka ndi nkhoko limodzi.** Mizere yosavuta ndi singano zazikulu. Pambuyo pake, kukulunga ulusi kukhala mipira.
+36. **Pangani makhadi a banja.** Sitanpani, sainani kapena konzani makhadi a tsiku lobadwa ndi ofunira kuchira kwa anthu enieni.
+37. **Umbani dongo louma pa mpweya.** Kandani mbale yaing'ono. Gwiritsani ntchito zipangizo zopanda poizoni ndipo khalani pafupi.
+38. **Sambani ndi kumaliza matabwa.** Kiti ya nyumba ya mbalame yodulidwa kale ndi pepala la mchenga, popanda zida zamagetsi. Onani [zochita za amuna](/activities/for-men/).
+39. **Lembani kapena nenani kalata.** Kwa mdzukulu kapena bwenzi lakale. Ngati kulemba kukuvuta, iwo amalankhula ndipo inu mumalemba.
 
-## Outdoors and gardening
+## Panja ndi kulima dimba
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Mpweya wabwino ndi kuwala kwa dzuwa ndi anzake abwino. Onani [zochita zakunja ndi kulima dimba](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Thirirani zomera.** Chitsulo chaching'ono chothirira ndi miphika yochepa. Kuthirira tsiku lililonse kumapereka ndondomeko ya tsiku.
+41. **Bzalani mu mphika.** Uikeni pa tebulo kuti pasakhale amene akugwada. Tidzomera tating'ono timakhala tosavuta kuposa mbewu.
+42. **Chotsani udzu kapena maluwa ofota.** Valani magolovesi, ndipo gwirani kamodzi pa bedi limodzi laling'ono.
+43. **Sesani masamba.** Malo amodzi ang'ono. Pambuyo pake, kugwira thumba lotseguka ndi ntchito yeniyeni.
+44. **Yendani njira yodziwika.** Kuzungulira nyumba kapena kupita ku bokosi la makalata. Njira yaifupi ndi yabwino.
+45. **Khalani panja limodzi.** Mpando pa khonde pa tsiku lofunda bwino. Yang'anani mitambo kapena anthu akudutsa.
+46. **Dyetsani mbalame.** Dzazani chodyetsera mbalame limodzi ndikumayang'ana kuchokera pawindo.
+47. **Tsukani galimoto.** Nkhokwe, siponji, masana ofunda. Kutsuka ma hubcap ndi ntchito yabwino ya sitepe imodzi.
 
-## Sensory activities
+## Zochita zogwiritsa ntchito zomverera
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Kukhudza, kununkhiza, kulawa, kumva ndi kuona zimakhala zofunika kwambiri matenda a kuiwalika akamakula. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) imatchula nyimbo, zinthu zogwira ndi kusisita manja pa magawo omaliza. Onani kaye ngati pali ziwengo kapena kuopsa kotsamwa; onani [zochita zogwiritsa ntchito zomverera](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Sisitani manja.** Funsani kaye ndipo gwiritsani ntchito mafuta pang'ono. Sankhani opanda fungo ngati simukutsimikiza za khungu kapena ziwengo.
+49. **Khuzeni nsalu.** Dengu la nsalu za velvet, corduroy, ubweya ndi satin kuti azisise ndi kuzipinda.
+50. **Nunkhizani zitsamba ndi khofi.** Pikani timbewu ta mint kapena rosemary ndi zala zanu. Pewani fungo lamphamvu ngati pali mavuto opuma.
+51. **Pesani tsitsi lawo.** Pang'onopang'ono komanso mofatsa, ngati amasangalala nazo.
+52. **Gawani nsalu yofunda.** Ya manja ndi nkhope pa tsiku lozizira. Yesani kutentha kwake kaye.
+53. **Fufuzani epuloni ya zochita.** Mabatani akulu ndi mazipu osokeredwa molimba. Onetsetsani kuti palibe chimene chingamasuke.
+54. **Lawani chakudya chomwe amakonda.** Supuni yaing'ono, mu kapangidwe komwe angadye motetezeka.
+55. **Sewerani phokoso la chilengedwe.** Mvula, mafunde kapena kulira kwa mbalame pa voliyumu yotsika.
+56. **Onerani china chake choyenda pang'onopang'ono.** Nkhokwe ya nsomba, kanema wa chilengedwe kapena chipale chofewa chikugwa.
 
-## Games and puzzles
+## Masewera ndi mapazulo
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Masewera amagwira ntchito bwino ngati palibe nthawi yowerengera, manambala a mapointi kapena kukakamizidwa. Ngati masewera ayamba kumveka ngati mayeso, wayikeni pambali. Onani [kusankha mapulogalamu ndi masewera](/caregiving/choosing-apps-and-games/) ndi [masewera a ubongo](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Fananitsani zithunzi.** [Zithunzi zofanana](/games/picture-pairs/) zimalola zithunzi kukhala zotseguka, kotero zimakhudza kuona, osati kukumbukira.
+58. **Pezani chithunzi chomwecho.** [Pezani chofanana](/games/find-the-same/) imapereka zosankha ziwiri mpaka zinayi. Chezani za chithunzi chilichonse.
+59. **Sanjani m'madengu.** [Sanjani limodzi](/games/sort-together/) zili ngati kusanja masokosi pa sikirini.
+60. **Pangani jigsaw ya zidutswa zazikulu.** Zithunzi za akulu, chiwerengero chosavuta cha zidutswa. [Chithunzi cha pazulo](/games/picture-puzzle/) imasiya chithunzi chonse chikuonekera. Zambiri mu [mapazulo a anthu okhala ndi matenda a kuiwalika](/activities/puzzles/).
+61. **Sewerani masewera akale a makhadi.** Aliwonse omwe wakhala akusewera kwa zaka zambiri. Pambuyo pake, kusanja makhadi potengera mtundu ndi masewera okha.
+62. **Sewerani ma domino.** Fananitsani malekezero. Pambuyo pake, kungoyika matayala pamzere ndikokwanira.
+63. **Yesani kufufuza mawu a zilembo zazikulu.** [Kusaka mawu](/games/word-search/) kwathu kuli ndi mawu opita mopingasa ndi pansi pokha, ndipo kumasindikizidwa.
+64. **Malizani mawu odziwika.** [Malizani mawuwa](/games/finish-the-saying/) zimakulolani kuwonetsa mapeto nthawi iliyonse.
+65. **Sewerani bingo ya zithunzi.** [Bingo ya zithunzi](/games/picture-bingo/) ndi yabwino kwa mabanja ndi magulu. Thandizani kuzindikira makhadi momasuka.
+66. **Sewerani chekeni.** Sungani malamulo mosakhwima. Kusuntha zidutswa pamene mukukambirana kumawerengedwa.
 
-## Movement
+## Kuyenda ndi kuchita masewera olimbitsa thupi
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA imalimbikitsa kuyenda, njinga yokhazikika, mabande otambasulira, kuponyera mpira wofewa kapena baluni, kunyamula zitini za supu ndi mavidiyo olimbitsa thupi a anthu achikulire. Funsani dokotala musanayambe china chatsopano, makamaka ngati pali mavuto a kusakhazikika kwa thupi.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Ponyeranani baluni.** Khalani moyang'anana. Limayenda pang'onopang'ono, kotero n'losavuta kuligwira.
+68. **Tsatirani kanema wolimbitsa thupi mutakhala pansi** wopangidwira anthu achikulire, limodzi.
+69. **Tambasulani ndi bande.** Kukoka manja mofatsa ndi bande lopepuka mutakhala pansi.
+70. **Nyamulani zitini za supu.** Kukweza manja pang'onopang'ono, mwina motsagana ndi nyimbo.
+71. **Palani njinga yokhazikika.** Mphindi zochepa zosavuta, inuyo muli pafupi.
+72. **Vinani ndi nsalu zopepuka.** Gweyani nsalu zopepuka motsatira nyimbo, mutakhala pansi kapena mutaimirira.
+73. **Yendani muli ndi cholinga.** Kukatumiza kalata kapena kukagula khofi. Kukhala ndi chifukwa chopitira kumamveka kwachilengedwe.
+74. **Pumulani ndi kupuma limodzi.** Chepetsani liwiro limodzi ndi [kupuma modekha](/games/calm-breathing/).
 
-## Social activities
+## Zochita zocheza ndi anthu
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Kukhala ndi anthu ena n'kofunika ngakhale mayina akavuta, ndipo magulu ang'ono ndi osavuta kuposa akulu. NIA imanena kuti munthu angasakumbukire amene wabwera, koma nthawi zambiri amasangalalabe ndi kukhalapo kwawo. Onani [kuyendera](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Khalani ndi mlendo mmodzi kapena awiri pa nthawi.** Maulendo aafupi m'chipinda chabata, ndi zithunzi zoti muziyang'ana.
+76. **Imbani foni ya kanema ndi banja.** Mafoni aafupi, liwu limodzi pa nthawi. Onani [mafoni ndi kuyimbirana pa kanema](/activities/phone-and-video-calls/).
+77. **Yesani malo ochezera a kukumbukira.** Misonkhano yosakhazikika ya anthu omwe akukhala ndi matenda a kuiwalika ndi omwe amawasamalira. Funsani Area Agency on Aging ya kwanuko zomwe zilipo pafupi.
+78. **Kadyeni panja pa nthawi yabata.** NIA imalimbikitsa malo odyera odziwika komanso abata pa nthawi yopanda anthu ambiri, ndi tebulo pafupi ndi chimbudzi.
+79. **Pitani ku malo a anthu achikulire kapena pulogalamu ya masana.** Kampani kwa iwo komanso mpumulo kwa inu.
+80. **Chezani ndi ana.** Ulendo waifupi komanso wabata wa zidzukulu, kapena kuwerengera buku la zithunzi kwa mwana wamng'ono.
+81. **Gawani nyuzipepala pamodzi ndi khofi.** Werengani mitu mokweza. Chizolowezi chimenechi n'chofunika kuposa nkhani zomwezo.
+82. **Thandizani wina.** Pindani mapulogalamu a ku tchalitchi kapena pangani khadi la mnansi.
 
-## Faith and spiritual activities
+## Zochita za chikhulupiriro ndi zauzimu
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Tsatirani chikhulupiriro cha munthuyo, kapena ngati alibe. NIA imalimbikitsa misonkhano yodziwika, kuwerenga, nyimbo zopatulika, pemphero, kusinkhasinkha ndi miyambo ya maholide.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Pitani ku msonkhano wodziwika.** Sankhani wabata, khalani pafupi ndi njira yodutsamo, ndipo auzeni anthu kumeneko za matenda a kuiwalikawo.
+84. **Onerani msonkhano pa intaneti** masiku amene kutuluka n'kovuta kwambiri.
+85. **Pempherani kapena werengani limodzi.** Mawu odziwika, owerengedwa pang'onopang'ono. Akhoza kulowa nawo pa mbali zomwe akuzidziwa.
+86. **Imbani nyimbo za tchalitchi kapena nyimbo zopatulika** za chikhulupiriro chawo.
+87. **Sungani miyambo ya maholide.** Makandulo a batire, dalitso, zokongoletsera zomwe ankagwiritsa ntchito nthawi zonse.
+88. **Gawani nthawi yabata.** Khalani m'dimba kapena onerani kulowa kwa dzuwa limodzi.
 
-## Pets and animals
+## Ziweto ndi nyama
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA imalimbikitsa kudyetsa, kupesa, kuyendetsa, kapena kukhala ndi kugwira chiweto.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Pesani galu kapena mphaka wofatsa** ndi mikwingwirima yayitali, yodekha.
+90. **Dyetsani chiweto limodzi.** Inuyo yezani; iwo athire.
+91. **Yendetsani galu limodzi.** Inuyo gwirani chingwe.
+92. **Gwirani chiweto pa miyendo.** Mphaka wofatsa pa bulangeti ukhoza kukhala wokhazika mtima pansi.
+93. **Landirani nyama zobwera kudzacheza.** Malo ena osamalira ndi mapulogalamu a masana amalandira nyama zochezera. Funsani kwanuko.
+94. **Perekani nyama yofewa yowoneka ngati yeniyeni.** Ngati kulibe chiweto, anthu ena amasangalala kugwira mphaka kapena galu wofewa wowoneka ngati weniweni. Mupatseni mosavuta, osati ngati chidole, ndipo vomerezani ngati akukana.
 
-## Seasonal activities
+## Zochita za nyengo
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Sungani miyambo, koma muzipangitse kukhala yosavuta. NIA imalimbikitsa kukhala oona mtima pa zimene mungakwanitse komanso kukhala ndi malo abata opumulirako pa nthawi ya maholide otanganidwa.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Kongoletsani malinga ndi nyengo.** Dzungu, nkhata ya pakhomo kapena maluwa atsopano pa tebulo.
+96. **Pangani chakudya cha pa holide.** Kugudubuza mtanda kapena kuyika zokometsera pa makeke. Inuyo gwirani uvuni.
+97. **Pachikani zokongoletsera.** Zokongoletsera zosathyoka, zoperekedwa chimodzi pa nthawi.
+98. **Yendani galimoto kukaona magetsi.** Ulendo waifupi madzulo womwe sumafuna china chilichonse kupatula kukhalapo limodzi.
+99. **Bzalani mababu a masika.** Kanikizani mababu mu mphika m'dzinja ndikumayang'anira akamamera.
+100. **Chotsani masamba a chimanga kapena nyemba.** Ntchito ya pa khonde m'chilimwe ndi mbale pa miyendo.
+101. **Lembani maadiresi pa makhadi a holide.** Iwo asaine, amate sitampu kapena atseke; inuyo gwirani maadiresi.
 
-## What if an activity is not working?
+## Bwanji ngati chochitika sichikuyenda bwino?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Siyani, ndipo yesani china chosiyana nthawi ina. NIA imalimbikitsa kuyang'anira kukhumudwa ndikumulola munthuyo kungoyang'ana ngati akufuna. Kukana nthawi zambiri kumatanthauza kuti ntchitoyo ndi yovuta kwambiri, nthawi si yabwino, kapena pali china chake chomuvutitsa, monga kupweteka, njala kapena phokoso. Chepetsani ntchitoyo, yesani m'mawa kwambiri, kapena yambani nokha ndikuona ngati alowa nawo. Onani [akakana](/caregiving/when-they-say-no/) ndi [kusakhazikika madzulo](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Kuti mukonze zochita pakati pa chakudya ndi kupuma, onani [ndondomeko yodekha ya tsiku ndi tsiku](/activities/daily-routine/). Pa zinthu zoti mukhale nazo zokonzeka, onani [zochita zosindikizidwa](/activities/printable/), ndipo ngati mukutsogolera gulu, [zochita za magulu m'nyumba zosamalira](/activities/care-home-groups/). Kupuma kwanu nanunso n'kofunika: onani [kudzisamalira kwa wosamalira](/caregiving/caregiver-self-care/).

@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Zviitiko zvekurangarira: Mabhokisi nenyaya dzehupenyu"
+seoTitle: "Zviitiko zvekurangarira kune vane dementia"
+description: "Maitiro ekugovana ndangariro nemunhu anorarama nedementia pasina kumubvunza mibvunzo: kutaura nemifananidzo, mabhokisi endangariro nemabhuku ehupenyu."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Kurangarira zvinoreva kunakidzwa nenguva yekare pamwe chete kuburikidza
+  nemifananidzo, zvinhu, mimhanzi nenyaya. Gadzirai bhokisi rendangariro,
+  gadzirai bhuku riri nyore renyaya yehupenyu, kana tarisai mifananidzo makagara
+  padivi nepadivi. Musambobvunza mibvunzo yekuedza: siyai “Unoyeuka here?” uye
+  “Uyu ndiani?” uye shandisai kukoka kwakasununguka kwakadai sekuti “Ndiudzei
+  nezveizvi.” Hurukuro inodziya inokosha kupfuura kuwana chokwadi chose.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Kurangarira ihurukuro, kwete bvunzo. Kururama hakuna basa; kunakidzwa ndiko kunokosha."
+  - "Tsivai ‘Unoyeuka here...?’ uye ‘Uyu ndiani?’ nemashoko nekukoka kwakadai sekuti ‘Ndiudzei nezvezuva iri.’"
+  - "Bhokisi rendangariro rine zvinhu zveupenyu hwemunhu rinopa maoko nehurukuro chinhu chekubata."
+  - "Bhuku renyaya yehupenyu rinobatsira mhuri, vashanyi nevanochengeta kuziva munhu, kwete chirwere chete."
+  - "Kana ndangariro ikaunza kusuwa, nyaradza kutanga uye chinja zvinyoro nyoro."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Chii chinonzi kurangarira kune vanhu vanorarama nedementia?"
+    a: "Kurangarira kugovana ndangariro nezvakaitika kare, kazhinji kuburikidza nemifananidzo, zvinhu, mimhanzi kana mavhidhiyo. Zvinogona kuitwa muri vaviri kana muboka. Chinangwa kuva nehurukuro inofadza uye ine zvainoreva, kwete kuedza izvo munhu anogona kuyeuka."
+  - q: "Sei ndisingafaniri kubvunza kuti ‘Unoyeuka here?’"
+    a: "Mibvunzo inoedza ndangariro inogona kuita kuti munhu anzwe kunyara kana kushushikana kana mhinduro isingauyi. National Institute on Aging inotaura kuti kubvunza kana munhu achiyeuka chimwe chinhu kana mumwe munhu zviri pakati pezvinhu zvinofanira kudziviswa. Taura pamusoro pezvaunoona, uye rega munhu awedzere chero zvaanoda."
+  - q: "Ndinofanira kuisa chii mubhokisi rendangariro?"
+    a: "Sarudza zvinhu zvakachengeteka uye zvakasimba zvine chekuita nehupenyu hwemunhu: zvinhu zvebasa, midziyo yezvaanofarira, sikavha yaanofarira, makadhi epositi, makadhi emabikirwo, zviyeuchidzo zvemitambo kana makopi emifananidzo. Dzivisa zvinhu zvinopinza, zvinhu zvidiki zvinogona kumedzwa, uye zvekutanga zvisingatsiviwi."
+  - q: "Ko kana vakakanganisa chokwadi?"
+    a: "Zvisiye zvakadaro. Kana amai venyu vachiti mufananidzo unoratidza hanzvadzi yavo asi ari muzukuru wavo, hazvina kuipa. Kururamisa kunoshandura nguva inodziya kuita bvunzo. Tevera nyaya yavari kutaura uye munakirwe nayo pamwe chete."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Kurangarira zvinongoreva kunakidzwa nenguva yekare pamwe chete. Kune vanhu vazhinji vanorarama nedementia, ndangariro dzemakumi emakore apfuura dzinogona kuramba dzakajeka kupfuura zvakaitika mangwanani ano. Mifananidzo, zvinhu zvinozivikanwa, mimhanzi nenyaya zvinogona kumutsa ndangariro idzodzo uye kukupai chimwe chinhu chinodziya chekugovana. Mutemo mumwe chete: ihurukuro, kwete bvunzo.
 
-## What is reminiscence, and how is it different from quizzing?
+## Chii chinonzi kurangarira, uye chakasiyana sei nekubvunza mibvunzo?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Kurangarira kugovana ndangariro kuburikidza nemifananidzo, zvinhu, mimhanzi kana vhidhiyo, pamwero unonzwika zvakanaka kumunhu. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) inotsanangura izvi sekugovana zvakaitika kare nenyaya kuburikidza nemifananidzo, zvinhu, mavhidhiyo kana mimhanzi, mubhuku kana patablet. Kubvunza mibvunzo kwakasiyana: kunokumbira munhu kuti ape mhinduro chaiyo, uye izvozvo zvinogona kuunza kunyara panzvimbo pekunakidzwa.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) inotaura kuti kubvunza munhu kana achiyeuka chimwe chinhu kana mumwe munhu chinhu chinofanira kudziviswa. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) inokurudzira kudzivisa mibvunzo inovimba nendangariro dzenguva pfupi uye kutaura nezvenguva yakapfuura kare.
 
-| Instead of | Try |
+| Panzvimbo pekuti | Edzai |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| “Unoyeuka izvi here?” | “Izvi zvinoita sezuva raifadza. Ndiudzei nezvazvo.” |
+| “Uyu ndiani?” | “Uyu ndiTete Rose vari kumahombekombe. Tarirai ngowani iyoyo.” |
+| “Izvi zvaiva mugore ripi?” | “Izvi zvinoita seimba yekare. Zvaiva zvakaita sei kugara ikoko?” |
+| “Aiwa, haasi Bill, ndiFrank.” | “Anoita seanofarira kutamba.” |
+| “Watondiudza izvozvo kare.” | “Ndinoda nyaya iyoyo.” |
 
-## How do you talk about photos without quizzing?
+## Mungataura sei nezvemifananidzo musina kubvunza mibvunzo?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Tangai nezvamunoona, mozosiya mukana wekuti munhu awedzere chimwe chinhu kana achida.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Garai padivi nepadivi.** Batai arubhamu pakati penyu kuitira kuti muri kutarisa pamwe chete, kwete kuyedza mumwe nemumwe muri mhiri kwetafura.
+2. **Sarudzai mifananidzo mishoma.** Mifananidzo mishanu yakanaka iri nani pane bhokisi rose. Mapikicha makuru uye akajeka anoshanda zvakanyanya.
+3. **Taurai mazita evanhu imi.** “Ndiwe nababa pazuva remuchato wenyu” zvinobvisa kumanikidzwa.
+4. **Taurai pamusoro pezvinhu zvidiki.** Mbatya, mota, chikafu, mamiriro ekunze, zviso. “Mota yakanaka. Inopenya kwazvo.”
+5. **Kokai, musamanikidza.** “Ndiudzei nezve...” kana “Chii chamunoona?” Kunyarara hakuna kuipa.
+6. **Teverai zvavanotungamira.** Kana vakatanga kutaura nezvechimwe chinhu zvachose, endai nazvo.
+7. **Mirai apo zvichiri kunakidza.** Vharai arubhamu kuneta kusati kwatanga.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Kuti muwane mifananidzo yakagadzirirwa kutanga hurukuro, edzai [conversation cards](/games/conversation-cards/). Kuti mushandure mifananidzo yemhuri yenyu kuita mutambo wakapfava wekufananidza, edzai [photo pairs](/games/photo-pairs/); mifananidzo yamunosarudza inoramba iri mubrowser menyu.
 
-## How do you make a memory box?
+## Mungagadzira sei bhokisi rendangariro?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Bhokisi rendangariro igaba rine zvinhu zveupenyu hwemunhu zvinogona kubatwa uye kutaurwa nezvazvo.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Sarudzai bhokisi rakasimba** riri nyore kuvhura, rakadai sebhokisi reshangu, bhokisi rengowani kana bhokisi diki remapuranga.
+2. **Sarudzai musoro mumwe kana musanganiswa.** Basa, chinhu chaanofarira, nzvimbo, makore, kana zvishoma zvezvose.
+3. **Unganidzai zvinhu zvakachengeteka.** Zvinhu zvishanu kusvika gumi zvakakwana kutanga.
+4. **Shandisai makopi ezvinhu zvinokosha.** Kopai mifananidzo nemagwaro zvisingatsiviwi uye chengetai zvekutanga zvakanaka.
+5. **Budisai chinhu chimwe panguva.** Ipai chimwe, taurai zvishoma nezvacho, uye muone kuti hurukuro inoenda kupi.
 
-Ideas to include:
+Mazano ezvekubatanidza:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Basa:** bheji rezita, chishandiso chidiki, chigamba cheyunifomu, bhuku rekunyora, pini yemukoti, bhuku remabikirwo repaimba yekudyira.
+- **Kumba:** kadhi remabikirwo rakanyorwa nemaoko avo, tauro rekicheni, sikavha kana tai yavanofarira.
+- **Zvinhu zvavanofarira:** chiredzo chekuredza chisina chirauro, bhora rebaseball, bhora reshinda, pakiti yemhodzi.
+- **Nzvimbo:** makadhi epositi, mepu, chiyeuchidzo chevashanyi, chidimbu chepepanhau reguta rekumusha.
+- **Mhuri:** makopi emifananidzo, mufananidzo wakadhirowewa nemwana, kukoka kwemuchato.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Musabatanidze zvinhu zvinopinza, zvinhu zvidiki zvinogona kumedzwa, uye chero chinhu chingadzosa ndangariro dzinorwadza kunze kwekunge muchiziva kuti chinogamuchirwa.
 
-## How do you make a life-story book?
+## Mungagadzira sei bhuku renyaya yehupenyu?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Bhuku renyaya yehupenyu iarubhamu iri nyore ine mifananidzo nemashoko mapfupi anotsanangura nezvehupenyu hwemunhu. Chinhu chamunogona kutarisa pamwe chete, uye chinobatsira vashanyi nevanochengeta kuona munhu wese.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Sarudzai chimiro.** Bhinda rine mapurasitiki ekuchengetedza mapepa, bhuku remifananidzo rakadhindwa, kana mharidzo yemifananidzo patablet.
+2. **Rongai zvikamu zvishoma.** Uduku, chikoro, basa, mhuri, nzvimbo dzavakagara, kutenda, zvinhu zvavanofarira, chikafu nemimhanzi zvavanofarira.
+3. **Isai mufananidzo mumwe kana miviri papeji imwe neimwe** nemashoko mapfupi, makuru: “Mary, ane makore 22, achitanga basa kubhangi.”
+4. **Isai zvavanofarira nemaitiro emazuva ose.** “Anonwa kofi nemukaka. Anoda nziyo dzeSvondo. Haafariri TV ine ruzha.” Izvi zvinobatsira chero ani zvake anomuchengeta.
+5. **Batanidzai munhu wacho** sezvaanoda, pakusarudza mifananidzo, kutaura nyaya kana kungotarisa zvichigadzirwa.
+6. **Rambai muchiwedzera.** Hazvifaniri kupedzwa kuti zvive zvinobatsira.
 
-## More reminiscence ideas
+## Mamwe mazano ekurangarira
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Ridzai mimhanzi yehudiki hwavo** uye taurai nezvkwainovaendesa. Onai [zviitiko zvemimhanzi](/activities/music/).
+- **Onai mavhidhiyo epamba kana zvirongwa zvepaTV** zvemakumi emakore avaifarira.
+- **Bikai chikafu chepaudiki hwavo** uye regai kunhuhwirira kutungamire hurukuro.
+- **Tarirai mepu** yeguta rekumusha kwavo uye teverai migwagwa yavanoziva.
+- **Batai makatalogi ekare kana magazini** uye taurai nezvemitengo, mafashoni nemota.
+- **Rekodhai nyaya dzavo** pafoni, nemvumo yavo, kuitira mhuri.
+- **Govanai panguva yekufona.** Ratidzai mufananidzo mumwe panguva yekufona kwevhidhiyo; onai [kufona pafoni nekufona kwevhidhiyo](/activities/phone-and-video-calls/).
+- **Uyai nemufananidzo kana chinhu pamunoshanya.** Zvinopa kushanya chinhu chiri nyore chekutarisa; onai [kushanya](/activities/visiting/).
 
-## What if a memory is painful?
+## Ko kana ndangariro ichirwadza?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Dzimwe ndangariro dzinounza kusuwa, kuzvidemba kana kutya. Kana munhu akasuruvara, mirai, munyaradzei uye chinjai musoro wenyaya kana chiitiko zvinyoro nyoro. Musapokane nezvakaitika. Family Caregiver Alliance inopa zano rekusavavarira kuita kuti munhu abvume kuti akanganisa uye inokurudzira kupindura manzwiro aanoratidza, ayo ari echokwadi. Kana vakataura nezvemumwe munhu akashaya sekunge achiri mupenyu, pindurai manzwiro acho: “Munosuwa naye. Ndiudzei nezvake.”
 
-## What does the research say?
+## Tsvakiridzo inoti chii?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Ongororo yeCochrane yekurangarira](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), yakaongorora miedzo 22 nevanhu 1,972, yakaona kuti mhedzisiro yacho yakanga isingawirirani, iri diki uye ichisiyana zvichienderana nenzvimbo nemaitiro. Haina kuwana humbowo hwekukuvadza kuvanhu vanorarama nedementia. Tinokurudzira kurangarira nekuti kunogona kuunza nguva inodziya uye ine zvainoreva pamwe chete, kwete semushonga. Kuti muwane zvimwe pamusoro pehurukuro iri nyore, onai [mazano ekukurukurirana](/caregiving/communication-tips/).

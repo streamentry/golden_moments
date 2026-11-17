@@ -1,36 +1,36 @@
 ---
-title: "Xweparastina Lênêrîneran: Bêhnvedan û Nîşanên Westandinê"
-seoTitle: "Xweparastina Lênêrînerê Demansê: Bêhnvedan û Piştgirî"
-description: "Nîşanên westandina lênêrîneran, çawa bêhnvedan û komên piştgiriyê bibînin, û xetên alîkariyê yên belaş li Dewletên Yekbûyî, wekî 1-800-272-3900."
+title: "Xweparêziya lênêr: Bêhnvedan, piştgirî û nîşanên westandinê"
+seoTitle: "Xweparêziya lênêrên demansê: Bêhnvedan û piştgirî"
+description: "Nîşanên westandina lênêran, çawa bêhnvedan û komên piştgiriyê bibînin, û xetên alîkariyê yên bêpere li Amerîkayê, wekî Xeta Alîkariyê ya 24/7 ya Alzheimer's Association û Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Lênêrîna kesekî ku bi demansê dijî karekî dijwar e, û xema xwe girtin beşek ji
-  vê karê ye. Bala xwe bidin nîşanên hişyariyê wekî westîn, hêrsbûn, xewa
-  nebaş û dûrketina ji hevalan. Ji bo karên taybet alîkariyê bixwazin, lênêrîna
-  bêhnvedanê bi kar bînin û beşdarî komeke piştgiriyê bibin. Alîkariya belaş
-  li Dewletên Yekbûyî Xeta Alîkariyê ya 24/7 ya Alzheimer's Association li
-  1-800-272-3900 û Eldercare Locator li 1-800-677-1116 dihewîne.
+  Lênêrîna kesekî ku bi demansê dijî karekî dijwar e, û xwedîderketina li xwe
+  jî beşek ji vê karê ye. Bala xwe bidin nîşanên hişyariyê wekî westiyayî,
+  hêrsbûn, xewê nebaş û dûrketina ji hevalan. Ji bo karên taybet alîkariyê
+  bixwazin, lênihêrîna bêhnvedanê bi kar bînin û beşdarî komeke piştgiriyê
+  bibin. Alîkariya bêpere li Amerîkayê Xeta Alîkariyê ya 24/7 ya Alzheimer's
+  Association li 1-800-272-3900 û Eldercare Locator li 1-800-677-1116 dihewîne.
 keyPoints:
-  - "Westandin bi gelemperî wekî westîn, hêrsbûn, xewa nebaş, xemgînî û paşguhkirina lênihêrîna tenduristiya we xuya dibe."
-  - "Lênêrîna bêhnvedanê demekê dide we ku bêhna xwe vedin, ji çend saetan heta çend hefteyan, li malê an li navendeke lênêrînê."
+  - "Westandin gelek caran wekî westiyayî, hêrsbûn, xewê nebaş, xemgînî û paşguhkirina lênihêrîna tenduristiya xwe derdikeve holê."
+  - "Lênihêrîna bêhnvedanê bêhnvedanekê dide we, ji çend demjimêran heta çend hefteyan, li malê an li cihê lênihêrînê."
   - "Ji bo karên taybet alîkariyê bixwazin; gelek kes dixwazin alîkariyê bikin lê nizanin çawa."
-  - "Xeta Alîkariyê ya 24/7 ya Alzheimer's Association (1-800-272-3900) her dem piştgiriyeke belaş û nehênî pêşkêş dike."
-  - "Eldercare Locator (1-800-677-1116) we bi karûbarên herêmî ve girê dide, tevî Area Agency on Aging a we."
-  - "Heke hûn xwe di rewşeke krîzê de hîs bikin, bangî 988 bikin an peyamekê bişînin. Di rewşeke acîl de, bangî 112 bikin."
+  - "Xeta Alîkariyê ya 24/7 ya Alzheimer's Association (1-800-272-3900) di her demê de piştgiriyeke bêpere û nepen pêşkêş dike."
+  - "Eldercare Locator (1-800-677-1116) we bi karûbarên herêmî, wekî Ajansa Herêmî ya li ser Pîran, ve girêdide."
+  - "Heke hûn xwe di rewşeke krîzê de hîs bikin, telefon bikin an peyamê bişînin 988. Di rewşeke lezgîn de, telefon bikin 911."
 faq:
-  - q: "Nîşanên westandina lênêrîneran çi ne?"
-    a: "Nîşanên hevpar di nav xwe de westî, zêde bar hîskirin an xemanî, zû hêrsbûn an bêsebrî, tengasiyên xewê, xemgînî an bêhêvîtî, dûrketina ji hevalan, gelek caran serêş an êş, û paşguhkirina xwarin, werzîş an lênihêrîna bijîşkî ya xwe dihewîne. Heke nîşanên weha bi rêkûpêk çêdibin, bi bijîşkê xwe re bipeyivin."
-  - q: "Ez çawa dikarim li nêzî xwe lênêrîna bêhnvedanê bibînim?"
-    a: "Bi Eldercare Locator (1-800-677-1116 an eldercare.acl.gov) dest pê bikin da ku bigihîjin Area Agency on Aging a herêmî ya xwe, ARCH National Respite Locator Service, an Xeta Alîkariyê ya Alzheimer's Association li 1-800-272-3900. Malbat, heval û dilxwaz jî dikarin lênêrîna bêhnvedanê peyda bikin."
-  - q: "Gelo Medicare lêçûna lênêrîna bêhnvedanê dide?"
-    a: "Ji bo kesekî ku lênêrîna hospîsê werdigire, li gorî National Institute on Aging, Medicare piraniya lêçûna heta pênc rojên li pey hev ên lênêrîna bêhnvedanê li nexweşxaneyekê an navendeke lênêrîna pispor vedigire. Piraniya bîmeya tenduristiyê ya taybet lênêrîna bêhnvedanê nagire; Medicaid û hin planên bîmeya lênêrîna demdirêj dibe ku alîkariyê bikin."
-  - q: "Gelo Xeta Alîkariyê ya Alzheimer's Association bi rastî belaş e û bi şev jî berdest e?"
-    a: "Erê. Alzheimer's Association dibêje ku Xeta Alîkariyê ya wê li 1-800-272-3900 belaş, nehênî ye û 24 saetan, 365 rojên salê bi karmendan tê xebitandin, û alîkarî bi gelek zimanan heye. Ji bo karûbara veguhestinê 711 bikar bînin."
-  - q: "Gelo xweperestî ye ku ez ji lênêrînê bêhna xwe vedim?"
-    a: "Na. Bêhnvedan alîkariya we dike ku hûn lênihêrînê bidomînin, û lênêrîna bêhnvedanê jî dikare ji kesê ku hûn lênihêrîna wî dikin re guhertinek di hevaltiyê û çalakiyan de bîne. Gelek lênêrîner paşê dibêjin ku xwezî wan zûtir alîkariyê xwastiba."
+  - q: "Nîşanên westandina lênêran çi ne?"
+    a: "Nîşanên berbelav westiyayî, sergirtîbûn an fikar, zû hêrsbûn an bêsebrîbûn, pirsgirêkên xewê, xemgînî an bêhêvîbûn, dûrketina ji hevalan, gelek caran serêş an êş, û paşguhkirina xwarin, werzîş an lênihêrîna bijîşkî ya xwe dihewîne. Heke nîşanên bi vî rengî bi rêkûpêk çêdibin, bi bijîşkê xwe re bipeyivin."
+  - q: "Ez çawa dikarim li nêzî xwe lênihêrîna bêhnvedanê bibînim?"
+    a: "Bi Eldercare Locator (1-800-677-1116 an eldercare.acl.gov) dest pê bikin da ku xwe bigihînin Ajansa Herêmî ya li ser Pîran, Karûbarê Lêgerîna Bêhnvedanê ya Neteweyî ya ARCH, an jî Xeta Alîkariyê ya Alzheimer's Association li 1-800-272-3900. Malbat, heval û dilxwaz jî dikarin lênihêrîna bêhnvedanê peyda bikin."
+  - q: "Gelo Medicare lênihêrîna bêhnvedanê dide?"
+    a: "Li gorî Enstîtuya Neteweyî ya li ser Pîrbûnê, ji bo kesekî ku lênihêrîna hospîsê werdigire, Medicare piraniya lêçûna heta pênc rojên li pey hev ên lênihêrîna bêhnvedanê li nexweşxaneyekê an sazîyeke jêhatî ya hemşîretîyê dide. Piraniya bîmeya tenduristiyê ya taybet lênihêrîna bêhnvedanê nade; Medicaid û hin planên bîmeya lênihêrîna demdirêj dibe ku alîkariyê bikin."
+  - q: "Gelo Xeta Alîkariyê ya Alzheimer's Association bi rastî bêpere ye û şevê jî heye?"
+    a: "Erê. Alzheimer's Association dibêje ku Xeta Alîkariyê ya wê li 1-800-272-3900 bêpere û nepen e, di her demê de, 365 rojên salê karmend lê hene, û alîkarî bi gelek zimanan heye. Ji bo karûbarekê ragihandinê 711 bikar bînin."
+  - q: "Gelo xweperestî ye ku ez ji lênêrînê bêhnvedanekê bistînim?"
+    a: "Na. Bêhnvedan alîkariya we dike ku hûn lênihêrînê bidomînin, û lênihêrîna bêhnvedanê dikare ji kesê ku hûn lê dinêrin re jî guhertinek di hevaltî û çalakiyan de bîne. Gelek lênêr pişt re dibêjin ku dixwazin wan zûtir alîkariyê xwastiba."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-Heke hûn lênêrîna kesekî ku bi demansê dijî dikin, dibe ku hûn vê rûpelê dereng, westiyayî û bi lîsteyeke karên neqediyayî dixwînin. Ev tiştekî normal e. Xema xwe girtin ne luks e û ne jî xelatek e ji bo qedandina her tiştî. Ew tiştê ku dihêle hûn berdewam bikin e.
+Heke hûn lênihêrîna kesekî ku bi demansê dijî dikin, dibe ku hûn vê rûpelê dereng, westiyayî û bi lîsteyeke karên ku we nekirine dixwînin. Ev tiştekî asayî ye. Xwedîderketina li xwe ne luks e û ne jî xelatek e ji bo qedandina her tiştî. Ew tişt e ku dihêle hûn berdewam bikin.
 
-Ev rûpel nîşanên hişyariya westandinê, çawa bêhnvedanek rast bistînin, li ku derê piştgiriyê bibînin û xetên alîkariyê yên belaş li Dewletên Yekbûyî yên ku hûn îro dikarin bangî wan bikin vedibêje.
+Ev rûpel li ser nîşanên hişyariyê yên westandinê, çawa bêhnvedanek rast bistînin, li ku derê piştgiriyê bibînin, û xetên alîkariyê yên bêpere li Amerîkayê ku hûn dikarin îro telefon bikin diaxive.
 
-## Nîşanên westandina lênêrîneran çi ne?
+## Nîşanên westandina lênêran çi ne?
 
-Westandin bi gelemperî hêdî hêdî çêdibe, ji ber vê yekê baş e ku hûn nîşanên hişyariya xwe nas bikin. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) nîşanên stresa lênêrîneran rêz dike, di nav wan de:
+Westandin gelek caran hêdî hêdî çêdibe, ji ber vê yekê baş e ku hûn nîşanên xwe yên hişyariyê nas bikin. [Enstîtuya Neteweyî ya li ser Pîrbûnê (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) nîşanên stresê yên lênêran rêz dike, di nav wan de:
 
-- westî, zêde bar hîskirin an xemanî;
-- zû hêrsbûn an bêsebrî;
-- tenêtî an ji kesên din qutbûn hîskirin;
-- tengasiyên xewê, an têr ranewestin;
-- xemgînî an bêhêvîtî hîskirin, an eleqeya xwe bi tiştên ku berê kêfa we dianîn winda kirin;
+- hîskirina westiyayî, sergirtî an fikar;
+- zû hêrsbûn an bêsebrîbûn;
+- hîskirina tenêtî an qutbûna ji kesên din;
+- pirsgirêkên xewê, an bes xew nekirin;
+- hîskirina xemgînî an bêhêvî, an windakirina eleqeya li tiştên ku berê kêfa we jê dihat;
 - gelek caran serêş, êş an pirsgirêkên din ên laşî;
-- wext tunebe ku hûn werzîşê bikin an ji bo xwe xwarinên tendurist amade bikin;
-- paşguhkirina serşokê an lênêrîna kesane ya din;
-- bi awayekî nebaş bikaranîna alkolê an dermanan, tevî dermanên bi reçete.
+- wextê ji bo werzîşê an çêkirina xwarinê tendurist ji bo xwe tune be;
+- paşguhkirina serşokê an lênêrîna din a kesane;
+- bikaranîna şaş a alkol an dermanan, di nav wan de dermanên bi reçete.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) nîşanên din jî zêde dike wekî înkarkirina nexweşiyê, hêrs li ser kesê ku hûn lênihêrîna wî dikin («ew tenê serhişk e»), xemanî li ser pêşerojê, tengasiyên balkişandinê, û pirsgirêkên tenduristiyê yên ku bandorê li we dikin. Ew şîret dike ku hûn bi bijîşkê xwe re bipeyivin heke nîşanên weha bi rêkûpêk çêdibin.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) nîşanên wekî înkarkirina nexweşiyê, hêrsbûna li hember kesê nexweş („ew tenê serhişk e“), fikara li ser pêşerojê, zehmetiya li ser balkişandinê, û pirsgirêkên tenduristiyê ku bandorê dikin jî lê zêde dike. Ew şîret dike ku heke nîşanên bi vî rengî bi rêkûpêk li we derkevin, bi bijîşkê xwe re bipeyivin.
 
-Şîreta NIA ev e ku li bendê nemînin heta ku hûn bi tevahî westiyayî bibin. Nîşanên xwe zû bibînin û li gorî wan tevbigirin.
+Şîreta NIA ev e ku li bendê nemînin heta ku hûn bi tevahî bêhêz bibin. Nîşanên xwe zû bibînin û li gorî wan tevbigirin.
 
-## Îro, di nav pênc deqeyan de, ez dikarim çi bikim?
+## Îro, di pênc deqeyan de, ez dikarim çi bikim?
 
-Bêhnvedanên piçûk jî girîng in. Ti yek ji van westandinê çareser nakin, lê dibe ku ji we re bibin alîkar ku hûn ji nîvroyeke dijwar derbas bibin.
+Bêhnvedanên biçûk jî girîng in. Tu yek ji van tiştan westandinê çareser nake, lê ew dikarin ji we re bibin alîkar ku hûn piştî nîvroyekê dijwar derbas bibin.
 
-- **Derkeve derve.** Li eywanê rûnê an heta qutiya posteyê bimeşin, dema ku ew kes ewle û aram e.
-- **Hêdî bêhna xwe bide.** Berî ku hûn bersiva pirsek dijwar bidin, çend bêhnvedanên hêdî bistînin. Hûn dikarin bêhnvedaneke [Bêhna Aram (Calm Breathing)](/games/calm-breathing/) jî bi kesê ku hûn lênihêrîna wî dikin re parve bikin.
-- **Hinek av vexwe û tiştekî bixwe.** Hêsan e ku meriv xwarinên xwe ji bîr bike.
-- **Ji hevalekî re peyamekê bişîne.** Ne ji bo xwestina tiştekî, tenê ji bo girêdanê.
-- **Tiştekî baş ji xwe re bibêje.** [Rêbera NIA ya ji bo xema xwe girtin](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) pêşniyar dike ku hûn bibêjin: «Ez çi ji destê min tê dikim», «Ez bêkêmasî nînim, û ev ne pirsgirêk e», û «Ez ê kêfa wan demên ku em dikarin bi aramî bi hev re bin kêf bikim».
+- **Derkevin derve.** Li ber derî rûnin an heta qutiya nameyan bimeşin, dema ku kes ewle û aram e.
+- **Hêdî bêhna xwe bistînin.** Berî ku hûn bersiva pirsekê dijwar bidin, çend caran hêdî bêhna xwe bistînin. Hûn dikarin bêhnvedaneke [Bêhna Aram](/games/calm-breathing/) jî bi kesê ku hûn lê dinêrin re parve bikin.
+- **Hinek av vexwin û tiştekî bixwin.** Ji bîrkirina xwarinên xwe hêsan e.
+- **Ji hevalekî re peyamekê bişînin.** Ne ji bo xwestina tiştekî, tenê ji bo girêdanê.
+- **Tiştekî xweş ji xwe re bibêjin.** [Rêbera NIA ya li ser xwedîderketina li xwe](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) hevokên wekî „Ez ya çêtirîn a xwe dikim dikim“, „Ez bêkêmasî nînim, û ev baş e“ û „Ez ê kêfa wan kêliyan bikim dema ku em dikarin bi aramî bi hev re bin“ pêşniyar dike.
 
-## Lênêrîna bêhnvedanê çi ye, û ez çawa wê bistînim?
+## Lênihêrîna bêhnvedanê çi ye, û ez çawa dikarim wê bistînim?
 
-Lênêrîna bêhnvedanê lênêrîneke demkurt e ji bo kesê ku hûn lê dinêrin, da ku hûn bikaribin bêhna xwe bidin. [Rûpela NIA ya derbarê lênêrîna bêhnvedanê de](https://www.nia.nih.gov/health/caregiving/what-respite-care) rave dike ku ew dikare ji çend saetan heta çend hefteyan bidome û dikare li malê, li navendeke lênihêrîna tenduristiyê an li navendeke lênêrîna rojane were kirin.
+Lênihêrîna bêhnvedanê lênêrînek kurt-dem e ji bo kesê ku hûn lê dinêrin, da ku hûn bikarin bêhnvedin. [Rûpela NIA ya li ser lênihêrîna bêhnvedanê](https://www.nia.nih.gov/health/caregiving/what-respite-care) rave dike ku ew dikare ji çend demjimêran heta çend hefteyan bidome û dikare li malê, li sazîyeke lênihêrîna tenduristiyê an li navendeke lênihêrîna rojane ya mezinan pêk were.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) cureyên hevpar wiha rave dike:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) cureyên berbelav wiha rave dike:
 
 | Cure | Ew çi ye |
 | --- | --- |
-| Alîkariya li malê | Hevalek, xizmek, dilxwazek an hevkarek an arîkarek bi pere tê malê |
-| Navenda lênêrîna rojane | Çalakiyên plansazkirî wekî muzîk û huner di hawîrdoreke komî ya ewle de; gelek caran veguhestin û xwarin jî tên pêşkêş kirin |
-| Mayîna şevê an demkurt | Civakeke lênêrîna demdirêj ji bo şevekê, çend rojan an çend hefteyan lênêrîna wî kesî dike |
+| Alîkariya li malê | Hevalek, xizmek, dilxwazek an hevalek/hevalbendek yan arîkarekî dayî tê malê |
+| Navenda rojane ya mezinan | Çalakiyên plankirî wekî muzîk û huner di hawîrdoreke komî ya ewle de; gelek caran veguhastin û xwarin jî têne pêşkêş kirin |
+| Şevînî an mayîna kurt | Civakeke lênihêrîna demdirêj ji bo şevekê, çend rojan an çend hefteyan lênêrîna kesê dike |
 
-**Kî lêçûnê dide?** Li gorî NIA, lênêrîna bêhnvedanê ya ji malbat, heval an dilxwazan dibe ku belaş be. Karûbarên pispor bi saet an roj drav didin. Ji bo kesekî ku lênêrîna hospîsê werdigire, Medicare piraniya lêçûna heta pênc rojên li pey hev ên lênêrîna bêhnvedanê li nexweşxaneyekê an navendeke lênêrîna pispor vedigire. Medicaid dibe ku alîkariyê bike. Piraniya bîmeya tenduristiyê ya taybet lênêrîna bêhnvedanê nagire, her çend hin planên bîmeya lênêrîna demdirêj wê digirin.
+**Kî dide?** Li gorî NIA, lênihêrîna bêhnvedanê ji malbat, heval an dilxwazan dibe ku bêpere be. Karûbarên profesyonel li gorî demjimêr an rojê pere distînin. Ji bo kesekî ku lênihêrîna hospîsê werdigire, Medicare piraniya lêçûna heta pênc rojên li pey hev ên bêhnvedanê li nexweşxaneyekê an sazîyeke jêhatî ya hemşîretîyê dide. Medicaid dibe ku alîkariyê bike. Piraniya bîmeya tenduristiyê ya taybet lênihêrîna bêhnvedanê nade, her çend hin planên bîmeya lênihêrîna demdirêj didin.
 
-**Şîret:** Alzheimer's Association pêşniyar dike ku hûn dabînkerên lênêrîna bêhnvedanê di rewşeke ne-acîl de biceribînin, da ku heke ji nişka ve alîkariya we pêwîst bibe ew amade bin.
+**Şîret:** Alzheimer's Association pêşniyar dike ku hûn dabînkerên lênihêrîna bêhnvedanê di rewşeke ne-lezgîn de biceribînin, da ku heke hûn ji nişka ve alîkariyê hewce bikin ew amade bin.
 
-## Ez dikarim li nêzî xwe alîkariyê li ku bibînim?
+## Ez dikarim li nêzî xwe li ku derê alîkariyê bibînim?
 
-Çend karûbarên belaş li Dewletên Yekbûyî dikarin we ber bi alîkariya herêmî ve bibin.
+Çend karûbarên bêpere li Amerîkayê dikarin we ber bi alîkariya herêmî ve bibin.
 
-- **Xeta Alîkariyê ya 24/7 ya Alzheimer's Association: 1-800-272-3900.** [Xeta Alîkariyê](https://www.alz.org/help-support/resources/helpline) belaş û nehênî ye, her roj û her demjimêrê di tevahiya salê de bi karmendan tê xebitandin, û bi zêdetirî 200 zimanan bi rêya karmendên duzimanî an wergêran alîkarî heye. Ji bo karûbara veguhestinê 711 bikar bînin. Hûn dikarin li ser guherînên tevgerê, stresa lênêrîneran, vebijarkên lênêrîna bêhnvedanê, bernameyên herêmî û zêdetir bipeyivin, û ji bo axaftineke dirêjtir bi şêwirmendek lênêrînê re bixwazin. Karmend şîreta bijîşkî nadin.
-- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), karûbareke giştî ya Administration for Community Living, we bi karûbarên ji bo mezinên pîr û malbatên wan ve girê dide. Hûn dikarin bang bikin, peyam bişînin, serhêl sohbet bikin an ji karmendên perwerdekirî re e-name bişînin, an jî li gorî cihê bigerin. Ew dikare we ber bi Area Agency on Aging a herêmî ya we ve bibe.
-- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) alîkariya we dike ku hûn dabînkerên lênêrîna bêhnvedanê li gorî dewletê bibînin, û pêşniyar dike ku heke dewleta we yek hebe, pêşî bi State Respite Coalition an bernameya Lifespan Respite re têkilî daynin. ARCH destnîşan dike ku ew dabînkeran kontrol nake, ji ber vê yekê ezmûn û paşxaneya wan bi xwe binirxînin.
+- **Xeta Alîkariyê ya 24/7 ya Alzheimer's Association: 1-800-272-3900.** [Xeta Alîkariyê](https://www.alz.org/help-support/resources/helpline) bêpere û nepen e, di her demê de, her rojê salê karmend lê hene, û bi zêdetirî 200 zimanan bi rêya karmendên dudengî an wergêran alîkarî heye. Ji bo karûbarekê ragihandinê 711 bikar bînin. Hûn dikarin li ser guhertinên tevgerê, stresa lênêrînê, vebijarkên bêhnvedanê, bernameyên herêmî û zêdetir bipeyivin, û ji bo sohbeteke dirêjtir bi şêwirmendekî lênêrînê re bixwazin. Karmend şîreta bijîşkî nadin.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), karûbareke giştî ya Rêveberiya Jiyana Civakî, we bi karûbarên ji bo mezinên pîr û malbatên wan ve girêdide. Hûn dikarin telefon bikin, peyamê bişînin, serhêl sohbet bikin an e-nameyê bişînin karmendên perwerdekirî, an jî li gorî cihê bigerin. Ew dikare we ber bi Ajansa Herêmî ya li ser Pîran ve bibe.
+- **Karûbarê Lêgerîna Bêhnvedanê ya Neteweyî ya ARCH.** [Lêgerîna bêhnvedanê ya ARCH](https://archrespite.org/caregiver-resources/respitelocator/) ji we re dibe alîkar ku hûn li gorî dewletê dabînkerên lênihêrîna bêhnvedanê bibînin, û pêşniyar dike ku heke dewleta we yek hebe, pêşî bi Koalîsyona Bêhnvedanê ya Dewletê an bernameya Bêhnvedanê ya Lifespan re têkilî daynin. ARCH destnîşan dike ku ew dabînkeran kontrol nake, ji ber vê yekê ezmûn û paşxaneya wan bi xwe binirxînin.
 
 ## Ez çawa dikarim komeke piştgiriyê bibînim?
 
-Ji Xeta Alîkariyê bipirsin an serhêl li komên li nêzî xwe bigerin. Alzheimer's Association [komên piştgiriyê dimeşîne](https://www.alz.org/help-support/community/support-groups) ji bo lênêrîneran û kesên ku bi demansê dijîn, bi awayê rû bi rû û serhêl, bi rêberiya asankarkerên perwerdekirî. Gelek cih jî komên taybet pêşkêş dikin, wek nimûne ji bo lênêrînerên mezin an ji bo kesên ku bi Alzheimer's ya destpêka ciwan an qonaxa destpêkê dijîn. Ew di heman demê de ALZConnected jî dimeşîne, civakeke serhêl a belaş ku lê de lênêrîner şîretên xwe parve dikin.
+Ji Xeta Alîkariyê bipirsin an jî serhêl li komên li nêzî xwe bigerin. Alzheimer's Association [komên piştgiriyê dimeşîne](https://www.alz.org/help-support/community/support-groups) ji bo lênêran û kesên ku bi demansê dijîn, rû bi rû û serhêl, bi rêveberiya hêsankerên perwerdekirî. Gelek cih jî komên taybet pêşkêş dikin, bo nimûne ji bo lênêrên mezin an ji bo kesên ku bi Alzheimer a destpêka ciwan an qonaxa destpêkê dijîn. Di heman demê de ALZConnected jî mêvandar dike, civakeke serhêl a bêpere ku tê de lênêr şîretan parve dikin.
 
-Komên piştgiriyê dikarin bibin cihê ku hûn bê dadbarî bêhna xwe berdin, ji kesên ku vê rê derbas kirine şîretên pratîk bistînin, û xwe kêmtir tenê hîs bikin. Heke koma yekem ji we re ne guncaw e, yekeke din biceribînin.
+Komên piştgiriyê dikarin bibin cihê ku hûn bêyî dadbariyê xwe vala bikin, şîretên pratîk ji kesên ku vê derbas kirine bistînin, û xwe kêmtir tenê hîs bikin. Heke koma yekem ne li gorî we ye, yekî din biceribînin.
 
 ## Ez çawa ji malbat û hevalan alîkariyê bixwazim?
 
-Taybet bin. Gelek kes dixwazin alîkariyê bikin lê nizanin çi pêşkêş bikin. NIA pêşniyar dike:
+Taybet bin. Gelek kes dixwazin alîkariyê bikin lê nizanin çi pêşniyar bikin. NIA pêşniyar dike:
 
-- **Lîsteyekê bihêlin** ji karên ku kesên din dikarin bikin, û bihêlin mirov hilbijêrin.
+- **Lîsteyekê bihêlin** ji karên ku kesên din dikarin li ser xwe bigirin, û bihêlin kes bixwe hilbijêrin.
 - **Bi piçûk dest pê bikin** heke xwestin dijwar e.
-- **Karê li gorî kesê hilbijêrin.** Xwişka ku ji xwarinçêkirinê hez dike, pêncşeman şîvê tîne. Cîranê ku di forman de baş e, di kaxezan de alîkariyê dike.
-- **Peyam an e-name bişînin** heke rû bi rû xwestin ne rehet e.
-- **Bersivekê pratîk bikin** ji bo dema ku kesek alîkariyê pêşkêş dike: «Spas ji bo pirsê. Ev tiştê ku tu dikarî bikî ye.»
+- **Karê li gorî kesê bikin.** Xizmê ku ji xwarinçêkirinê hez dike, pêncşeman şîvê tîne. Cîranê ku di formayan de baş e, di kaxezan de alîkariyê dike.
+- **Peyam an e-nameyê bişînin** heke rû bi rû xwestin ne rehet e.
+- **Bersivekê tetbîq bikin** ji bo dema ku kesek alîkariyê pêşniyar dike: „Spas ji bo pirsînê. Ev tiştê ku tu dikarî bikî ye.“
 - **Li bendê hin bersivên na bin** û hewl bidin ku wan kesane negirin.
 
-Fikrên din: ji kesekî bixwazin ku heftê carekê nîvroyekê bi wî kesî re bimîne, wî bibin derkevineke kurt, an were serdanê û bi hev re lîstikekê bilîzin. [Rêbera me ya ji bo bi hev re lîstinê](/caregiving/how-to-play-together/) hêsan e ku bi mêvanan re were parve kirin.
+Ramanên din: ji kesekî bixwazin ku hefteyê nîvroyekê bi kesê re bimîne, wî/wê bibe derketinek kurt, an jî were serdanê û bi hev re lîstikekê bilîzin. [Rêbera me ya li ser bi hev re lîstinê](/caregiving/how-to-play-together/) hêsan e ku bi mêvanan re were parve kirin.
 
-## Ger tiştek ji min re çêbibe çi?
+## Heke ji min re tiştekî çêbibe çi?
 
-Niha planeke hêsan a paşerojê çêkin. NIA pêşniyar dike ku hûn bi malbat an hevalên nêzîk re biryar bidin ka kî dê bikeve şûnê, û defterekê bihêlin ku tê de hejmarên acîl, derman, şîretên tevgerê yên ku alîkariyê dikin, û çalakiyên bijare hebin. Alzheimer's Association jî pêşniyar dike ku têkiliyên bijîşkî yên wî kesî û lîsteyeke nûjen a dermanan hêsan werin dîtin.
+Niha planeke hêsan a piştgiriyê çêkin. NIA pêşniyar dike ku bi malbat an hevalên nêzîk re biryar bidin ka kî dê bikeve şûnê, û defterekê bihêlin ku tê de hejmarên lezgîn, derman, şîretên tevgerê yên ku dixebitin, û çalakiyên bijare hebin. Alzheimer's Association jî pêşniyar dike ku têkiliyên bijîşkî yên kesê û lîsteyeke nûjen a dermanan hêsan peyda bibin.
 
-## Kengî divê ez alîkariya pispor an acîl bistînim?
+## Kengê divê ez alîkariya profesyonel an lezgîn bistînim?
 
-Bi bijîşkê xwe re bipeyivin heke nîşanên stresê bi rêkûpêk çêdibin, heke hûn xwe xemgîn hîs dikin, an heke hûn di rûbirûbûna rewşê de tengasiyê dikişînin. Ji bijîşkê xwe re bibêjin ku hûn lênêrîner in. NIA destnîşan dike ku şêwirmend û xebatkarên civakî dikarin di hestên dijwar û plansaziyê de alîkariyê bikin, û ku Medicare, Medicaid û hin bîmeyên taybet dibe ku hin lêçûnên tenduristiya derûnî bidin.
+Heke nîşanên stresê bi rêkûpêk in, heke hûn xwe depresyon hîs dikin, an jî heke hûn di derbaskirinê de zehmetiyê dikişînin, bi bijîşkê xwe re bipeyivin. Ji bijîşkê xwe re bibêjin ku hûn lênêr in. NIA destnîşan dike ku şêwirmend û xebatkarên civakî dikarin di hestên dijwar û plankirinê de alîkariyê bikin, û ku Medicare, Medicaid û hin bîmeyên taybet dibe ku hin lêçûnên tenduristiya derûnî bidin.
 
-Heke hûn xwe di rewşeke krîzê de hîs bikin an fikrên zirarê li xwe kirinê hene, bangî 988 bikin an peyamekê bişînin da ku bigihîjin [988 Suicide & Crisis Lifeline](https://988lifeline.org/), ku belaş e û 24/7 berdest e. Heke kesek di xetereya yekser de be, bangî 112 bikin.
+Heke hûn xwe di rewşeke krîzê de hîs dikin an jî ramanên zirardayîna xwe hene, telefon bikin an peyamê bişînin 988 da ku xwe bigihînin [Xeta Jiyanê ya 988 ji bo Qeyran û Xwekujiyê](https://988lifeline.org/), ku bêpere ye û 24/7 heye. Heke kesek di metirsiyeke tavilê de be, telefon bikin 911.
 
-## Gelo çalakiyên hevpar dikarin ji min re jî bibin bêhnvedan?
+## Gelo çalakiyên hevpar dikarin ji min re jî bêhnvedanekê bidin?
 
-Carinan. Çalakiyeke aram ku hûn her du jê kêfê digirin dikare ji bo we û ji bo kesê ku hûn lênihêrîna wî dikin bibe beşeke nermtir a rojê: guhdarîkirina stranên kevn, li wêneyan mêze kirin, an lîstikek wekî [Kartên Axaftinê (Conversation Cards)](/games/conversation-cards/) ku bersiveke rast nagire. Heke ew kes ji hevaltiyê kêfê digire, danişîneke komî ya bi [Bingoya Wêneyan (Picture Bingo)](/games/picture-bingo/) li navendeke mezinan an bernameyeke lênêrîna rojane dikare saetek bêhnvedanê bide we. Ji bo fikran li [çalakiyên ji bo komên li mala lênêrînê](/activities/care-home-groups/) binêrin.
+Carinan. Çalakiyeke aram ku hûn her du jê kêfê digirin dikare beşek nermtir a rojê bibe, hem ji bo we hem jî ji bo kesê ku hûn lê dinêrin: guhdarîkirina stranên kevn, li wêneyan mêzekirin, an lîstikek wekî [Kartên Sohbetê](/games/conversation-cards/) ku ne hewceyî bersivên rast e. Heke kes ji hevaltîyê kêfê digire, danişîneke komî bi [Bîngoya Wêneyan](/games/picture-bingo/) li navendeke mezinan an bernameyeke lênihêrîna rojane ya mezinan dikare demjimêrekê bêhnvedanê bide we. Ji bo ramanan li [çalakiyên ji bo komên li malên lênêrînê](/activities/care-home-groups/) binêrin.

@@ -1,34 +1,36 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Misala ya kobenga mpo na moto na bokɔnɔ ya kobosana"
+seoTitle: "Misala ya kobenga na video mpe bokɔnɔ ya kobosana"
+description: "Mabongisi ya kobenga na video mpe na telefone mpo na mabota oyo bazali mosika: kolakisa biloko, kotanga na mongongo makasi, koyemba, masano na écran moko mpe toli mpo na basungi."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Kobenga moto oyo azali kobika na bokɔnɔ ya kobosana ekendaka malamu mingi
+  soki ezali mokuse, mbala na mbala, mpe esalemi na likambo moko ya kosala
+  elongo, lokola kolakisa nyama ya ndako to elanga, kotala bafɔtɔ, kotanga na
+  mongongo makasi, koyemba nzembo oyo alingaka to kosakana lisano ya boboto na
+  écran moko. Benga na ngonga moko kaka mokolo na mokolo soki ekoki, tika ete
+  moto moko kaka aloba na mbala moko, mpe senga moto moko oyo azali pembeni na
+  ye asunga.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Mosala moko epesaka kobenga ndenge mpe elongolaka bozito ya masolo. Bongisa likambo moko ya pete mpo na kokabola."
+  - "Kobenga mokuse, mbala na mbala, na ngonga moko ya mokolo ekoki kosala malamu koleka kobenga ya molai oyo esalemaka mingi te."
+  - "Moto moko kaka aloba na mbala moko. Kobenga ya bato ebele na masolo oyo ekatani ezali mpasi mpo na kolanda, mingi mingi soki koyoka ezali mpasi."
+  - "Mosungi oyo azali pembeni akoki kobongisa aparɛyi, kovanda pembeni ya moto, mpe kozala lokola « maboko » mpo na lisano to bafɔtɔ."
+  - "Soki kobenga ezali kokende malamu te lelo, kosuka na boboto ezali malamu. Komeka lisusu lobi ezali malamu."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Nakoki kosala nini na kobenga ya video na moto oyo azali kobika na bokɔnɔ ya kobosana?"
+    a: "Bongisa mosala moko ya pete: lakisa elanga na yo, nyama ya ndako to kikuku; talá bafɔtɔ ya kala elongo; tangá poemɛ mokuse to mokanda na mongongo makasi; yembá nzembo oyo alingaka; lambá bilei moko elongo na ntango moko; to bosakana lisano ya boboto ya bilili na écran moko. Misala epesaka kobenga likambo ya kotala mpo ete moto azala na posa te ya komema masolo."
+  - q: "Kobenga ya video esengeli kozala molai boni?"
+    a: "Mingi mingi, mokuse koleka ndenge okanisaka. Minuti mike ya boboto ekoki kokoka, mingi mingi soki moto alembaka noki. Kobenga mbala na mbala na ngonga moko ya mokolo ekoki kozala na ntina mingi koleka molai ya kobenga mokomoko."
+  - q: "Nini kosala soki ayokaka likambo te to ayokaka mabe na kobenga ya video?"
+    a: "Bato mosusu bakoki koyoka ete elongi na écran ezali kobulunganya. Meká kobenga ya telefone pamba, nsango ya video oyo bakomi mpe oyo mosungi akoki kotɛlɛmisa na ntango ya kimya, to bakarti mpe bafɔtɔ na posita. Soki kobenga ekendeki mabe, kosuka na boboto mpe meká lisusu mokolo mosusu to na ngonga mosusu."
+  - q: "Ndenge nini nakoki kosalisa mama na ngai abenga na video soki akoki kosalela telefone te?"
+    a: "Senga ndeko ya libota, mosungi ya ndako to mosali ya esika ya kobatela abanda kobenga mpe asimba to atɛlɛmisa aparɛyi. Bisika mingi ya kobatela esalisaka mabota na kobenga ya video, yango wana tuna nini bazali kopesa. Tablɛti oyo etɛlami likolo, na écran monene mpe na mongongo oyo eyokani malamu, esalaka ete nyonso ezala pete mpo na bato nyonso."
+  - q: "Tokoki kosakana lisano elongo na video?"
+    a: "Iyo. Ndenge ya pete koleka ezali ete moto moko akabola écran na ye na programɛ ya kobenga na video, mpe mosusu ayebisa ye elili nini asengeli kofina. To mosungi oyo azali pembeni akoki kofungola lisano moko na tablɛti mpe kofina mpo na moto wana ntango bozali kosolola. Poná masano oyo ezangi elembo ya ntango to banzete."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +52,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Kofanda mosika na moto oyo azali kobika na bokɔnɔ ya kobosana ekoki kopesa mawa mpe liyoki ya kozanga makoki. Kobenga na telefone mpe na video ekoki kozwa esika ya koyamba te, kasi ekoki kaka komema bantango ya solo ya boyokani soki obongisi yango malamu. Likambo ya ntina ezali kotika komeka kosala masolo ya momesano lokola na mikolo nyonso mpe kobongisa likambo moko ya pete ya kokabola na esika na yango. Lokasa oyo ezali kolobela misala oyo ekoki kosalema na video mpe na telefone, ndenge ya kobongisa kobenga, mpe nini moto oyo azali pembeni akoki kosala mpo na kosunga.
 
-## Why plan an activity for a call?
+## Mpo na nini kobongisa mosala mpo na kobenga?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Mosala moko epesaka kobenga ndenge. « Ozali ndenge nini? Osalaki nini lelo? » esengaka ete moto akanisa mpe apesa eyano, oyo ekoki kozala mpasi mpe kopesa mitungisi. « Tala, tomati ekomeli » esengaka eloko moko te epai na ye.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association elobi ete masolo na bituluku ya minene na video ekoki kozala mpasi, mpe etoli [kopesa kobenga ebongiseli](https://www.alz.org/help-support/caregiving/holidays) na makambo lokola koyemba banzembo to kokabola bafɔtɔ.
 
-## What activities work on a video call?
+## Misala nini ekoki kosalema na kobenga ya video?
 
-### Show and tell
+### Kolakisa mpe kolobela
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Memá mokili na yo epai na bango. Tambwisa kamera malembe na elanga na yo, lakisa mbwa, lakisa nini ozali kolamba, tombola elili ya mwana ya mokitani na yo, to tala na telefone na yo na lininisa na mopɛpɛ ya neige. Lobela oyo ozali komona na maloba ya pete mpe tika mwa ntango mpo na bango bapesa eyano. Mituna ezali na tina te.
 
-### Look at photos together
+### Kotala bafɔtɔ elongo
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Tombola fɔtɔ ya kala ya papye liboso ya kamera, to kabola écran na yo mpo na kolakisa bafɔtɔ monene mike-mike, moko na moko. Lobela oyo ozali komona: « Tala ekoti ya Nkɔkɔ. » Koboya kotuna « Oyo nani? » to « Ozali kokanisa? » Soki moto abengi nkombo ya moto mosusu na libunga, ndima yango kaka. Talá [lisungi na biso ya bokundoli](/activities/reminiscence/) mpo na mituna ya boboto.
 
-### Read aloud
+### Kotanga na mongongo makasi
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Tangá poemɛ mokuse, nzembo ya losambo, buku ya bana oyo balingaka na mwana ya mokitani na kobenga moko, mokanda ya ndeko ya libota, to lokasa ya buku oyo alingaki. Kotanga na mongongo makasi epesaka moto eloko ya kimya ya koyoka kozanga posa ya kozongisa eyano.
 
-### Sing or listen to music together
+### Koyemba to koyoka miziki elongo
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Yembá nzembo oyo ayebi malamu, to bɛtá nzembo oyo alingaka epai na yo. Koyemba elongo ezali pete koleka koloba mpo na bato mingi. Talá [lisungi na biso ya misala ya miziki](/activities/music/).
 
-### Cook or bake at the same time
+### Kolamba to kosala mikate elongo na ntango moko
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association etoli kobongisa kobenga ya video mpo na kolamba to kosala mikate ya bilei ya sipesiale elongo. Bongisá kobenga na bikuku nyonso mibale. Moto oyo azali pembeni akoki koningisa to komeka ntango ozali kolanda karti ya bilei na bango ya kala.
 
-### Watch something together
+### Kotala eloko moko elongo
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Ebungeli yango etoli lisusu kotala filmɛ oyo balingaka na ntango moko uta na bandako ya ndenge na ndenge ntango bozali kosolola na telefone to na video. Mpo na moto oyo azali kobika na bokɔnɔ ya kobosana, eteni mokuse, episode ya kala ya televizio to lisano ya ndembo ekoki kosala malamu koleka filmɛ mobimba.
 
-### Play a gentle game on a shared screen
+### Kosakana lisano ya boboto na écran moko
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Ba programɛ mingi ya kobenga na video epesaka nzela ya kokabola écran na yo. Yo ofungoli lisano mpe ofini; moto mosusu ayebisi yo to alakisaka elili nini opona. To mosungi oyo azali pembeni afungoli lisano moko na tablɛti mpe afini mpo na ye ntango bozali kosolola.
 
-Games that work well this way:
+Masano oyo ekoki kosala malamu na ndenge oyo:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** otangaka maloba ya boyebi, ye alobaka suka na yango, mpe elandi motuna ya koloba na mongongo.
+- **[Picture Pairs](/games/picture-pairs/):** lisano ya boboto ya kokokanisa na bilili minene oyo ekoki kotikala polele, kozanga elembo ya ntango mpe kozanga banzete.
+- **[Conversation Cards](/games/conversation-cards/):** elili mpe motuna ya polele mpo na kosolola elongo.
+- **[Photo Pairs](/games/photo-pairs/):** lisano ya kokokanisa oyo esalemi na bafɔtɔ oyo oponi na aparɛyi na yo moko. Bafɔtɔ etikalaka na navigateur na yo, mpe moto amonaka yango na nzela ya écran oyo okaboli.
 
-### Recorded messages
+### Basango oyo bakomi liboso
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Ntango kobenga na bomoi ezali mpasi, koma video mokuse: mbote, nzembo, to kotambola na elanga na yo. Mosungi akoki kotɛlɛmisa yango na ntango ya kimya, mbala nyonso oyo moto asepelaka na yango. Alzheimer's Association elobeli kokoma mpe kotinda bantango ya sipesiale, lokola bana kofungola bakado.
 
-## What about plain phone calls?
+## Bongo kobenga ya telefone pamba?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Kobenga ya telefone pamba ezali kaka na ntina. Dementia Australia etoli [kobenga na ngonga moko kaka mokolo na mokolo](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) mpe kozanga kokende mbangu, mpo ete bato oyo bazali kobika na bokɔnɔ ya kobosana bakoki kozwa ntango mpo na kokɔta na masolo. Na telefone:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Lobá nkombo na yo mpe boyokani na yo mbala moko: « Mbote Papa, ezali Jenny, mwana na yo ya mwasi. »
+- Lobá malembe, na bafraze mokuse, likanisi moko na mbala moko.
+- Pesá sango na esika ya kosenga yango: « Nalambaki bilei na yo ya pot roast lobi na mpokwa. »
+- Tangá poemɛ mokuse, to yembá verse ya nzembo oyo alingaka.
+- Tiká yango mokuse mpe suká na liloba ya boboto.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia elobi lisusu ete kobenga ya video ekoki kosalisa ntango koloba ekomi mpasi, mpo ete moto akoki komona elongi na yo. Soki kobenga ya telefone ekomi kobulunganya, meká video, to ndenge mosusu.
 
-## How do I set up a video call that works?
+## Ndenge nini nakoki kobongisa kobenga ya video oyo ekosala malamu?
 
-**Before the call:**
+**Liboso ya kobenga:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Poná ngonga ya mbala na mbala** ntango moto azali mingi mingi na bopemi, mpe landá yango. Momesano esalisaka.
+2. **Bongisá yango na mosungi oyo azali pembeni.** Nsango mokuse mokolo moko liboso ekoki kosalisa ye abongisa.
+3. **Talá aparɛyi.** Tablɛti oyo etɛlami likolo ezali pete koleka telefone oyo basimbi na loboko. Talá soki etondi na courant, écran ezali kongɛnga, mpe mongongo ezali makasi mpo na koyoka. Fungolá makomi ya nse ya écran soki programɛ epesi yango mpe soki moto atangaka malamu.
+4. **Bongisá mosala moko** mpe bongisá biloko nyonso liboso.
 
-**During the call:**
+**Na ntango ya kobenga:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Vandá pene ya kamera** na pole ya malamu, kotala lininisa ya maninisa na esika ya kotika yango na sima na yo.
+- **Mikomisá** mbala nyonso, na nkombo mpe boyokani na yo.
+- **Moto moko kaka aloba na mbala moko.** Alzheimer's Association elobi ete masolo oyo ekatani ezali mpasi mpo na bato oyo bazali kobika na bokɔnɔ ya kobosana mpe mpo na bato oyo bazali na mikakatano ya koyoka. Soki bandeko mosusu bakɔti, bosengeli koloba na molɔngɔ to botika bato mibale to misato kaka.
+- **Tuná motuna moko na mbala moko.** Family Caregiver Alliance etoli [mituna ya pete oyo eyano ezali iyo to te](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), mpe kolakisa baponami soki ekoki.
+- **Pesá nzela na ntango ya kimya ya molai.** Zela eyano. Ezali malamu kopesa liloba soki azali koluka yango.
+- **Salelá elongi mpe mongongo na yo.** Sɛkɛ, ningisa moto, mpe batelá mongongo na yo ya boboto. Elobeli ya nzoto mingi mingi elobaka mingi koleka maloba.
+- **Kobongisa te.** Soki moto alobi eloko oyo ezali ya solo te, tiká yango ndenge ezali.
 
-**Ending the call:**
+**Kosuka kobenga:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Suká liboso moto alemba, soki ekoki na ntango ya malamu.
+- Salelá mbote ya suka moko kaka mbala nyonso: « Nakobenga yo lobi na midi. Nalingi yo. »
+- Komela yango molai te.
 
-## Tips for the helper on site
+## Batoli mpo na mosungi oyo azali pembeni
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Soki ozali molongani, mosungi ya ndako, ndeko to mosali oyo azali kosunga na kobenga, yo nde osalaka ete yango ekoka.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Bongisá esika ya kimya.** Kanga televizio mpe kanga ekuke.
+- **Bandá kobenga yo moko,** na sima pesa moto tablɛti oyo etɛlami likolo to simba yango na nivo ya miso.
+- **Vandá pembeni na ye, liboso na ye te.** Kozala na yo epesaka kimya. Pesa mwa bokundoli na boboto soki esengeli: « Tala, ezali Jenny. »
+- **Zalá maboko.** Tombola bafɔtɔ, finá lisano, balola tablɛti mpo na kolakisa shambre.
+- **Talá bilembo ya bolembu to ya komitungisa,** mpe yebisa moto oyo azali kobenga ntango ya kosuka ekomi.
+- **Yebisa moto oyo abengaki nini esalaki malamu.** « Asepelaki mingi na mbwa » esalisaka kobongisa kobenga oyo ekolanda.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA etoli ete bandeko oyo bazali mosika bakoki kosalisa moto ya mobange [ayekola makambo ya telefone na ye](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), lokola kobenga na video. Na biteni ya sima, mosungi akokani kosengela kosalela aparɛyi mobimba mpo na moto yango. Yango ezali malamu.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Soki moto afandaka na esika ya kobatela, Alzheimer's Foundation of America etoli kotuna soki esika yango esalisaka mabota na kobenga ya video. AFA elobeli lisusu mabota kotindelana bafɔtɔ na nzela ya basali ya esika ya kobatela, mpe kotinda bilei ya mike oyo balingaka to biloko ya kimya, sima ya kotuna nini esika yango endimaka.
 
-## What if the call doesn't go well?
+## Nini kosala soki kobenga ekendeki malamu te?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Kobenga mosusu ekoki kozala ya kobulunganya, ya kozanga molunge to ya komitungisa. Yango ezali mbeba na yo te, mpe elingi koloba te ete kobenga ezali na ntina te.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Soki moto amoni écran lokola eloko ya kobulunganya, balolá na kobenga ya telefone to na nsango oyo ekomami.
+- Soki akomi komitungisa, ndimá mawa na ye, lobá eloko ya kobɔndisa, mpe suká na boboto.
+- Soki kobenga ekendaka mabe mingi na ngonga moko ya mokolo, meká na ngonga mosusu.
+- Soki akanisi ete ozali moto mosusu, ndimá yango na boboto.
 
-It is fine to end early. A short, warm call is a good outcome.
+Ezali malamu kosuka noki. Kobenga mokuse mpe ya boboto ezali mbano ya malamu.
 
-## Between calls
+## Kati na kobenga
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Tikala pene na bango na banzela mosusu. Dementia Australia etoli kotinda bakarti, ba email, bafɔtɔ to bakado ya mike. Karti ya posita ya pɔsɔ na pɔsɔ na fɔtɔ moko monene mpe mokanda mokuse ekoki kotangama lisusu mpe lisusu. [Conversation Cards](/games/conversation-cards/) oyo ekoki kobimama na imprimante mpe kotindama epai ya mosungi ekoki kopesa likambo ya masolo oyo ebongi mpo na kobenga oyo ekolanda.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Mpo na toli ya kopona mpe kobongisa tablɛti, talá [tablɛti mpe ba écran](/caregiving/tablets-and-screens/). Mpo na ntango ya kozala elongo na miso na miso, talá lisungi na biso ya [kokende kotala](/activities/visiting/).

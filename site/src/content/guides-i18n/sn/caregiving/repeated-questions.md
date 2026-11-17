@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Kana Munhu Anorarama neDementia Achidzokorora Mubvunzo"
+seoTitle: "Dementia: Mibvunzo Inodzokororwa, Zvekutaura Nekuita"
+description: "Sei munhu anorarama nedementia achidzokorora mubvunzo mumwe chete, nzira dzakadzikama dzekupindura, maturusi anobatsira, uye nguva yekuona chiremba."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Mibvunzo inodzokororwa inowanzoitika mudementia: kazhinji munhu haayeuke kuti
+  akambobvunza, uye mubvunzo wacho unowanzova nekunetseka kuri mukati. Pindurai
+  makadzikama uye muchipfupisa sokunge kekutanga, pindurai manzwiro ari seri
+  kwemubvunzo, uye musamboti “wakambobvunza kare.” Nyora mhinduro painoonekwa,
+  taura nezvezviitiko nguva pfupi zvisati zvaitika, uye mupe chimwe chinhu
+  chinonakidza chekuita. Kuchinja kunongoerekana kwaitika kunoda kuonekwa
+  nachiremba.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Kazhinji munhu haayeuke kuti akambobvunza; hazviitwi nemaune."
+  - "Mubvunzo wacho unowanzovanza manzwiro, akadai sekunetseka nezvekuronga kana kuda kunzwa akachengeteka."
+  - "Pindurai makadzikama, muchipfupisa uye netsitsi, sokunge kekutanga. Musamboti “wakambobvunza kare.”"
+  - "Kanyorwa, bhodhi, wachi kana karenda zvinoonekwa zvinogona kupindura mubvunzo panzvimbo penyu."
+  - "Taura nezvezviitiko zvinonetsa nguva pfupi zvisati zvaitika."
+  - "Zororai zvishoma pamunoda, uye fonerai chiremba kana paine shanduko inongoerekana yaitika."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Sei baba vangu vanorarama nedementia vachiramba vachidzokorora mubvunzo mumwe chete?"
+    a: "Dementia inokanganisa kurangarira kwezvinhu zvichangobva kuitika, saka vanogona kunge vasingayeuke zvechokwadi kuti vakambobvunza kana kunzwa mhinduro. Kazhinji mubvunzo wacho unenge uinewo manzwiro, akadai sekunetseka nezvichaitika kana kuda kuvimbiswa. Kupindura manzwiro iwayo kunowanzobatsira kupfuura kudzokorora chokwadi chete."
+  - q: "Ndinofanira kuvaudza here kuti vakatobvunza?"
+    a: "Aiwa. Hazvigoni kuvabatsira kurangarira uye zvinogona kunzwika sekutsiurwa. Masangano edementia anokurudzira kupindura makadzikama nguva dzose, sokunge kekutanga, uye kuchengeta mhinduro iri pfupi."
+  - q: "Kunyora mhinduro pasi kunobatsira here?"
+    a: "Zvinogona kubatsira, kana munhu achiri kukwanisa kuverenga. Kanyorwa, bhodhi rine hurongwa hwanhasi, wachi hombe kana karenda pavanowanzo tarisa zvinovaita kuti vazvionere mhinduro. Nongedzai kwazviri zvinyoro pane kuti “ndakakuudza.”"
+  - q: "Ndinofanira kutaura nezvenguva yekuona chiremba kana nzendo riini?"
+    a: "Nguva yacho yava pedyo. Kutaura nezvekuona chiremba kana rwendo mazuva akawanda zvisati zvaitika kunogona kushanduka kuva maawa emibvunzo izere nekunetseka. Vaudzei nguva pfupi zvisati zvaitika, makadzikama, nezvichaitika zvinotevera."
+  - q: "Kudzokorora kunova chikonzero chekufonera chiremba riini?"
+    a: "Kana mibvunzo, kuvhiringika kana maitiro zvikangoerekana zvachinja kana kuipa zvakanyanya mukati memaawa kana mazuva, fonerai chiremba wavo nekukurumidza. Utachiona, mushonga mutsva, kurwadziwa, kuvimbiswa kana kushaikwa kwemvura mumuviri zvinogona kukonzera kuvhiringika kunongoerekana kwaitika kunonzi delirium, kunoda rubatsiro rwekukurumidza."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +59,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“Chiremba tiri kuenda nguvai?” Mushure memaminitsi gumi: “Chiremba tiri kuenda nguvai?” Kunzwa mubvunzo mumwe chete uchidzokororwa zvakare nezvakare ndechimwe chezvinhu zvinonetesa pakuchengeta munhu anorarama nedementia. Zvinowanzoitika, hazviitwi nemaune, uye kune nzira dzakadzikama dzekupindura nadzo dzinoita kuti zuva rive nyore kwamuri mese.
 
-## Why does someone with dementia ask the same question over and over?
+## Sei munhu anorarama nedementia achidzokorora mubvunzo mumwe chete kakawanda?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Kazhinji imhaka yekurangarira. Dementia inokanganisa kurangarira kwezvinhu zvichangobva kuitika, saka munhu anowanzosayeuka kuti akambobvunza, kana kuti haayeuke mhinduro. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) inotsanangura kubvunza mibvunzo kakawanda sechinhu chinowanzoitika uye chinotarisirwa.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Mubvunzo wacho unowanzova ne manzwirowo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) inotsanangura kuti mubvunzo unodzokororwa unogona kuratidza kunetseka, kukumbira rubatsiro, kana kushushikana uye kusanzwa akachengeteka, uye kuti munhu anenge achitsvaga kunyaradzwa uye zvinhu zvinozivikanwa. “Tiri kuenda riini?” zvinogona kureva kuti “Ndiri kunetseka nekuenda.” Kufinhwa, kutya, ruzha uye kuchinja kwemaitiro ezuva nezuva zvinogona kuzvikonzera, uye mubvunzo unodzokororwa unogonawo kuratidza chimwe chinodiwa, chakadai sekuenda kuchimbuzi ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Ndinofanira kuti chii?
 
-Answer calmly and briefly, as if it were the first time.
+Pindurai makadzikama uye muchipfupisa, sokunge kekutanga.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Chengetai mhinduro iri pfupi uye yakafanana.** “Chiremba tiri kuenda na two o'clock. Ndichange ndiinemi.” Mhinduro inoramba yakafanana iri nyore kunzwisisa.
+- **Pindurai manzwiro ari seri kwemubvunzo.** “Muri kufunga nezvechiremba. Tiri kuenda masikati ano, uye ndichakutyairai. Hapana chamunofanira kuita.”
+- **Shandisai izwi rine hushamwari uye kubata zvinyoro,** kana vachifarira kubatwa. Alzheimer's Association inokurudzira kuramba makadzikama uye kusashandisa nharo kana kupikisana.
+- **Ipai mhinduro yavari kutsvaga,** kakawanda sezvavanokumbira. Alzheimer's Association inoti idzokororei kakawanda sezvavanobvunza.
 
-## What should I avoid?
+## Ndezvipi zvandinofanira kudzivisa?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“Wakandibvunza izvozvo kare.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) inokurudzira kusavaudza kuti vachangobvunza. Hazvigoni kuvabatsira kurangarira, uye zvinogona kunzwika sekutsiurwa.
+- **Tsananguro refu.** Mashoko akawanda anoreva zvinhu zvakawanda zvekukanganwa.
+- **Kugomera, kukungurutsa maziso kana izwi rakaomarara.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) inokurudzira mwoyo murefu uye kusaratidza kushatirwa. Izvi zvakaoma; onai chikamu chiri pazasi nezvekuzorora.
 
-## Simple tools that answer the question for you
+## Maturusi ari nyore anopindura mubvunzo panzvimbo penyu
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Kana munhu achiri kukwanisa kuverenga, mhinduro yakanyorwa yaanoona inowanzobatsira kupfuura inotaurwa.
 
-| Tool | How to use it |
+| Chishandiso | Mashandisirwo acho |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Kanyorwa kemavara makuru | “Chiremba nhasi na 2 pm. Mary achatyaira.” Isai pavanowanzo tarisa |
+| Bhodhi | Hurongwa hwanhasi mumitsara mitatu kana mina; pukutai uye nyorazve mangwanani ega ega |
+| Wachi hombe ine zuva nerinhi | Inobatsira pa “Nhasi izuva ripi?” uye “Yasvika nguva here?” |
+| Karenda | Dzorai zuva rimwe nerimwe; tenderedzai zuva rekushanya rinotevera |
+| Mifananidzo inozivikanwa | Mufananidzo wemunhu ari kuuya unogona kupindura “Ndiani ari kushanya?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Mazano aya anobva ku [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ne [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Nongedzai kukanyorwa zvinyoro (“Ngatitarisei bhodhi tese”) pane kuti “Ndakakunyorera.”
 
-## Tell them about events close to the time
+## Vaudzei nezvezviitiko nguva yacho yava pedyo
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Kutaura nezvenguva yekuona chiremba kana rwendo mazuva akawanda zvisati zvaitika kunogona kushanduka kuva maawa emibvunzo izere nekunetseka. Family Caregiver Alliance ne Alzheimer's Los Angeles dzinokurudzira kutaura nezvezvirongwa, kunyanya zvinonetsa zvakadai sekushanya kuna chiremba kana kugeza, nguva pfupi zvisati zvaitika chete. Ipapo taurai zvichaitika zvinotevera, nhanho imwe panguva.
 
-## Activities that can shift attention
+## Zviitwa zvinogona kubatsira kutsausa pfungwa
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Kana mapindura uye maratidza kunzwisisa manzwiro avo, chiitwa chakadzikama uye chinonakidza chinogona kubatsira, kunyanya kana kufinhwa kuri iko kuri kukonzera mibvunzo. Kwese kwataurwa pamusoro apa kunokurudzira kutungamirira pfungwa kune chimwe chinhu chinodiwa nemunhu.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Mutambo mupfupi, uri nyore pamwe chete.** [Picture pairs](/games/picture-pairs/) inoita kuti mifananidzo irambe ichionekwa, saka hapana chinofanira kurangarirwa.
+2. **Basa rinozivikanwa.** Kupeta matauro, kuronga masokisi kana kugadzira tafura. [Sort together](/games/sort-together/) ishanduro yacho iri pachidzitiro.
+3. **Taura nezvechinhu chavanoda.** [Conversation cards](/games/conversation-cards/) dzinopa mazano akazaruka asina mhinduro chaiyo.
+4. **Mimhanzi, kufamba zvishoma kana chekudya chidiki.** National Institute on Aging inozvitaura pakati penzira dziri nyore dzekutungamirira pfungwa kune chimwe chinhu.
+5. **Kumbomira kwakanyarara.** Garai mese, tarisai nepahwindo, kana muedze [calm breathing](/games/calm-breathing/) pamwe chete.
 
-If they return to the question, answer it again, kindly. That is fine.
+Kana vakadzokera kumubvunzo, upindurei zvakare, netsitsi. Hazvina kuipa.
 
-## Look for patterns
+## Cherechedzai maitiro
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association inokurudzira kucherechedza kana mibvunzo ichiuya panguva dzakati dzezuva, pedyo nevanhu vamwe chete kana munzvimbo dzakati. Kana ichigara ichitanga vashanyi vasati vasvika, kana masikati kwanyanya, munogona kuronga mberi: kanyorwa nezvekushanya, chiitwa chinozivikanwa chakagadzirirwa, kamuri yakanyarara. Gwaro redu re [zviitwa zvakadzikama masikati kwanyanya](/caregiving/late-day-restlessness/) rinogona kubatsira kana manheru ari iwo akaoma.
 
-## Take care of yourself
+## Zvichengeteiwo imi
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Kupindura mubvunzo mumwe chete kekamakumi maviri kunonetesa. Kana muchinzwa mwoyo murefu wenyu uchipera uye munhu wamunochengeta akachengeteka, pindai mune imwe kamuri kwemaminitsi mashoma mofema, sezvinokurudzirwa ne [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) inokurudzira vachengeti kukumbira rubatsiro uye kufunga nezverubatsiro rwekuzorora. Mamwe mazano ari mu [gwaro redu rekuzvichengeta semuchengeti](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Ndinofanira kufonera chiremba riini?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Fonerai chiremba wavo nekukurumidza kana mibvunzo, kuvhiringika kana maitiro zvikangoerekana zvachinja kana kuipa zvakanyanya mukati memaawa kana mazuva. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) inoti maitiro anongoerekana achinja kana anochinja nekukurumidza, kunyanya mushure meutachiona kana kuchinja kwemushonga, anofanira kuudzwa chiremba nekukurumidza. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) inotsanangura kuti utachiona, mishonga, kushaikwa kwemvura mumuviri, kurwadziwa kana kuvimbiswa zvinogona kukonzera delirium, kuvhiringika kunongoerekana kwaitika uye kwakanyanya kunoda kurapwa nekukurumidza. Fonai 911 kana paine ari munjodzi.

@@ -1,35 +1,29 @@
 ---
-title: "Vespera maltrankvilo: trankvilaj posttagmezaj agadoj"
-seoTitle: "Vespera maltrankvilo: trankvilaj agadoj"
-description: "Mildaj rutinoj, ŝanĝoj en la ĉambro kaj trankvilaj agadoj, kiuj povas helpi mildigi malfrutagan maltrankvilon ĉe demenco, kaj kiam kontakti kuraciston."
+title: "Krepuskema agito: trankvilaj posttagmezaj agadoj"
+seoTitle: "Krepuskema agito: trankvilaj agadoj"
+description: "Trankvilaj rutinoj, ŝanĝoj de ĉambro kaj milda agado, kiuj povas mildigi vesperan maltrankvilon ĉe demenco, kaj kiam voki kuraciston."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Vespera maltrankvilo estas maltrankvilo, konfuzo aŭ incitiĝemo, kiu komenciĝas
-  aŭ pliiĝas en la malfrua posttagmezo aŭ vespero. Praktikaj paŝoj, kiuj povas
-  helpi, inkluzivas konstantan ĉiutagan rutinon, taglumon kaj agadon pli frue en
-  la tago, malpli da malfruaj dormetoj, malpli da kafeino, helajn enĉambrajn
-  lumojn antaŭ krepusko, pli trankvilan hejmon kaj trankvilajn agadojn kiel
-  muzikon, fotojn aŭ faldadon de tolaĵo. Novaj aŭ pliiĝantaj simptomoj bezonas
-  kontrolon de kuracisto.
+  Krepuskema agito estas maltrankvilo, konfuzo aŭ malagrabla humoro, kiu komenciĝas aŭ pligraviĝas en la malfrua posttagmezo aŭ vespero. Praktikaj paŝoj, kiuj povas helpi, inkluzivas stabilan ĉiutagan rutinojn, lumon kaj agadon pli frue en la tago, malpli da malfruaj dormetoj, malpli da kofeino, helajn internajn lumojn antaŭ krepusko, pli trankvilan hejmon kaj mildajn agadojn kiel muzikon, fotojn aŭ faldadon de lavitaĵo. Novaj aŭ pligraviĝantaj simptomoj bezonas kontrolon de kuracisto.
 keyPoints:
-  - "Vespera maltrankvilo signifas maltrankvilon aŭ konfuzon, kiu komenciĝas aŭ pliiĝas kiam la taglumo malfortiĝas."
-  - "Planu postulemajn taskojn, elirojn kaj banadon por la mateno aŭ frua posttagmezo."
-  - "Taglumo, ĉiutaga promenado, malpli da malfruaj dormetoj kaj malpli da kafeino pli malfrue en la tago povas helpi, ke vesperoj pasu pli trankvile."
-  - "Ŝaltu lumojn antaŭ krepusko, malpliigu bruon kaj transiru al trankvilaj, konataj agadoj."
-  - "Tenu notojn por rimarki kaŭzojn, kaj restu trankvila kaj trankviliga kiam la maltrankvilo komenciĝas."
-  - "Konsultu kuraciston pri novaj aŭ pliiĝantaj simptomoj: doloro, infekto aŭ medikamentoj povas ludi rolon."
+  - "Krepuskema agito signifas maltrankvilon aŭ konfuzon, kiu komenciĝas aŭ pligraviĝas kiam la taglumo paliĝas."
+  - "Metu postulemajn taskojn, ekskursojn kaj banadon en la matenon aŭ fruan posttagmezon."
+  - "Taglumo, ĉiutaga promenado, malpli da malfruaj dormetoj kaj malpli da kofeino poste en la tago povas helpi, ke vesperoj pasu pli trankvile."
+  - "Ŝaltu lumojn antaŭ krepusko, malpliigu bruon kaj transiru al mildaj, konataj agadoj."
+  - "Konservu taglibron por trovi ekagigilojn, kaj restu trankvila kaj afabla kiam komenciĝas maltrankvilo."
+  - "Konsultu kuraciston pri novaj aŭ pligraviĝantaj simptomoj: doloro, infekto aŭ medikamentoj povas ludi rolon."
 faq:
-  - q: "Je kiu horo de la tago vespera maltrankvilo kutime okazas?"
-    a: "Ĝi kutime komenciĝas aŭ pliiĝas en la malfrua posttagmezo aŭ frua vespero, kiam la taglumo malfortiĝas. La preciza tempo varias de persono al persono, tial teni mallongan notaron dum semajno aŭ du povas helpi."
-  - q: "Kiuj agadoj helpas pri vespera maltrankvilo?"
-    a: "Trankvilaj, konataj kaj malmulte postulemaj agadoj kutime plej bone taŭgas en la malfrua posttagmezo: trankviliga muziko, rigardado de fotoj, ŝatata televida programo aŭ filmo, faldado de tolaĵo, mallonga promenado aŭ manĝeto kune. Gardu novajn aŭ malfacilajn agadojn por pli frue en la tago."
-  - q: "Ĉu vespera maltrankvilo povas esti signo de medicina problemo?"
-    a: "Ĝi povas plimalboniĝi pro sanproblemoj kiel doloro, infektoj kiel urinvojaj infektoj, dormoproblemoj aŭ flankefikoj de medikamentoj. Se la maltrankvilo estas nova, subita aŭ pliiĝanta, kontaktu la kuraciston de la persono."
-  - q: "Ĉu mi demandu la kuraciston pri medikamento por vespera maltrankvilo?"
-    a: "Tio estas temo por priparoli kun la kuracisto. La Alzheimer's Association diras, ke aliroj sen medikamentoj ĝenerale estas preferataj unue, kaj ke ajna medikamento por vespera agitiĝo estu konsiderata nur post pesado de riskoj kaj avantaĝoj. Ĉi tiu paĝo ne donas konsilojn pri medikamentoj."
+  - q: "Je kiu parto de la tago kutime okazas krepuskema agito?"
+    a: "Ĝi kutime komenciĝas aŭ pligraviĝas en la malfrua posttagmezo aŭ frua vespero, kiam la taglumo paliĝas. La ĝusta tempo varias de persono al persono, tial konservi mallongan taglibron dum semajno aŭ du povas helpi."
+  - q: "Kiuj agadoj helpas kontraŭ krepuskema agito?"
+    a: "Mildaj, konataj, malmulte postulemaj agadoj kutime plej bone funkcias en la malfrua posttagmezo: trankviliga muziko, rigardado de fotoj, ŝatata televida programo aŭ filmo, faldado de lavitaĵo, mallonga promenado aŭ manĝeto kune. Lasu novajn aŭ defiajn agadojn por pli frue en la tago."
+  - q: "Ĉu krepuskema agito povas esti signo de io medicina?"
+    a: "Ĝi povas pligraviĝi pro sanproblemoj kiel doloro, infektoj kiel urinduktaj infektoj, dormproblemoj aŭ efikoj de medikamentoj. Se maltrankvilo estas nova, subita aŭ pligraviĝanta, kontaktu la kuraciston de la persono."
+  - q: "Ĉu mi demandu la kuraciston pri medikamento por krepuskema agito?"
+    a: "Tio estas konversacio por havi kun la kuracisto. La Alzheimer-Asocio diras, ke aliron sen medikamentoj oni ĝenerale preferas unue, kaj ke ajna medikamento por vespera maltrankvilo estu konsiderata nur post pesado de riskoj kaj avantaĝoj. Ĉi tiu paĝo ne donas konsilon pri medikamentoj."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Multaj familioj rimarkas la saman ŝablonon: matenoj estas sufiĉe trankvilaj, sed dum la posttagmezo pasas, la persono vivanta kun demenco fariĝas maltrankvila, zorgoplena, konfuzita aŭ incitiĝema. La persono povas iri tien kaj reen, peti „iri hejmen” eĉ kiam ĝi estas hejme, aŭ facile ĉagreniĝi. Tion oni ofte nomas vespera maltrankvilo.
+Multaj familioj rimarkas la saman ŝablonon: matene la situacio estas sufiĉe trankvila, sed kiam la posttagmezo pasas, la persono vivanta kun demenco fariĝas maltrankvila, anksia, konfuzita aŭ malagrabla. Li aŭ ŝi eble marŝetas tien kaj reen, petas "iri hejmen" eĉ kiam li aŭ ŝi estas hejme, aŭ facile maltrankviliĝas. Oni ofte nomas tion krepuskema agito.
 
-Ne ekzistas unu sola solvo, sed ŝanĝoj en la ritmo de la tago, en la ĉambro kaj en la speco de agadoj, kiujn vi proponas, povas helpi, ke malfruaj posttagmezoj estu pli trankvilaj. Ĉi tiu paĝo kolektas praktikajn, ne-medicinajn ideojn de la National Institute on Aging kaj la Alzheimer's Association. Ĝi ne estas medicina konsilo. Se simptomoj estas novaj, subitaj aŭ pliiĝantaj, parolu kun la kuracisto de la persono.
+Ne ekzistas ununura solvo, sed ŝanĝoj en la ritmo de la tago, en la ĉambro kaj en la speco de agadoj, kiujn vi ofertas, povas fari malfruajn posttagmezojn pli trankvilaj. Ĉi tiu paĝo kolektas praktikajn, ne-medicinajn ideojn de la National Institute on Aging kaj la Alzheimer-Asocio. Ĝi ne estas medicina konsilo. Se simptomoj estas novaj, subitaj aŭ pligraviĝantaj, parolu kun la kuracisto de la persono.
 
-## Kio estas vespera maltrankvilo?
+## Kio estas krepuskema agito?
 
-Vespera maltrankvilo estas maltrankvilo, agitiĝo, incitiĝemo aŭ konfuzo, kiu komenciĝas aŭ pliiĝas kiam la taglumo malfortiĝas, en la malfrua posttagmezo aŭ frua vespero. La [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) rimarkas, ke troa laciĝo povas pliigi malfrutagan maltrankvilon.
+Krepuskema agito estas maltrankvilo, ekscitiĝo, malagrabla humoro aŭ konfuzo, kiu komenciĝas aŭ pligraviĝas kiam la taglumo paliĝas, en la malfrua posttagmezo aŭ frua vespero. La [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) rimarkigas, ke troa laceco povas pliigi malfru-tagan maltrankvilon.
 
-## Kio povas plimalbonigi malfrutagan maltrankvilon?
+## Kio povas pligravigi malfru-tagan maltrankvilon?
 
-Pluraj aferoj povas kontribui, ofte kune. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) listigas faktorojn kiel:
+Pluraj aferoj povas kontribui, ofte kune. La [Alzheimer-Asocio](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) listigas faktorojn kiel:
 
-- elĉerpiĝo post plena tago;
-- novaj aŭ konfuzaj medioj;
-- „interna korpohorloĝo”, kiu ne estas en paŝo, tiel ke la persono estas dormema tage kaj veka nokte;
-- malforta lumo kaj ombroj, kiuj povas esti konfuzaj;
-- sentado de streĉo aŭ frustriĝo de homoj ĉirkaŭe;
-- bezono de malpli da dormo, kio estas ofta ĉe pli aĝaj plenkreskuloj.
+- laceco post plena tago;
+- novaj aŭ konfuzaj ĉirkaŭaĵoj;
+- "interna korpa horloĝo", kiu estas malĝusta, lasante la personon dormema tage kaj veka nokte;
+- malmulta lumo kaj ombroj, kiuj povas konfuzi;
+- kapti streson aŭ frustriĝon de homoj ĉirkaŭ ili;
+- bezono de malpli da dormo, kio estas ofta ĉe maljunuloj.
 
-La NIA aldonas pli ĝeneralajn kaŭzojn de agitiĝo, inkluzive de doloro, deprimo aŭ streĉo, tro malmulta ripozo, konstipo, tro da bruo aŭ tro da homoj, kaj certaj medikamentoj aŭ interagoj inter medikamentoj.
+La NIA aldonas kaŭzojn de ekscitiĝo ĝenerale, inkluzive doloron, depresion aŭ streson, tro malmultan ripozon, mallakson, tro da bruo aŭ tro da homoj, kaj iujn medikamentojn aŭ interagojn de medikamentoj.
 
-## Kiel mi povas plani la tagon por pli trankvilaj vesperoj?
+## Kiel mi povas plani la tagon por fari vesperojn pli trankvilaj?
 
-Movu postulemajn aferojn pli frue kaj tenu la malfruan posttagmezon milda kaj antaŭvidebla. Kaj la NIA kaj la Alzheimer's Association rekomendas regulan rutinon. Ekzempla tago, por adapti al via propra situacio:
+Movu postulemajn aferojn pli frue kaj tenu la malfruan posttagmezon milda kaj antaŭvidebla. Kaj la NIA kaj la Alzheimer-Asocio rekomendas regulan rutinojn. Ekzempla tago, por adapti al via propra:
 
-| Tempo | Kio povas helpi |
+| Tempo | Kion povas helpi |
 | --- | --- |
-| Mateno | Rendevuoj, banado, eliroj kaj ajna tasko, kiu postulas penon, kiam multaj homoj estas plej viglaj |
+| Mateno | Rendevuoj, banado, ekskursoj kaj ajna tasko, kiu postulas penon, kiam multaj homoj estas plej atentaj |
 | Malfrua mateno | Tempo ekstere aŭ apud suna fenestro; promenado aŭ alia agado |
-| Tagmezo | Pli granda tagmanĝo (la Alzheimer's Association sugestas pli grandan tagmanĝon kaj pli malpezan vespermanĝon) |
-| Frua posttagmezo | Ripozo se bezonate, sed evitu longajn dormetojn malfrue en la tago |
-| Meza ĝis malfrua posttagmezo | Trankvilaj, konataj agadoj; manĝeto kaj trinkaĵo; neniu kafeino |
-| Antaŭ krepusko | Ŝaltu enĉambrajn lumojn kaj fermu kurtenojn antaŭ ol fariĝas malhele |
-| Vespero | Pli malpeza manĝo, trankvila muziko, malmulta stimulado, konstanta enlitiĝa rutino |
+| Tagmezo | Pli granda tagmanĝo (la Alzheimer-Asocio sugestas pli grandan tagmanĝon kaj malpli pezan vespermanĝon) |
+| Frua posttagmezo | Ripozo se necesa, sed evitu longajn dormetojn malfrue en la tago |
+| Meza ĝis malfrua posttagmezo | Mildaj, konataj agadoj; manĝeto kaj trinkaĵo; neniu kofeino |
+| Antaŭ krepusko | Ŝaltu internajn lumojn kaj fermu kurtenojn antaŭ ol mallumiĝas |
+| Vespero | Malpli peza vespermanĝo, trankviliga muziko, malmulta stimulo, stabila vespera rutino |
 
 Kelkaj specifaj punktoj el la fontoj:
 
-- **Taglumo.** La NIA sugestas aranĝi tempon ekstere aŭ apud fenestro por sunlumo ĉiutage.
-- **Ĉiutaga movado, sed ne tro multe.** Celu esti korpe aktiva ĉiutage sen plani tro multajn agadojn, diras la NIA.
-- **Trinkaĵoj pli malfrue en la tago.** Evitu alkoholaĵojn kaj trinkaĵojn kun kafeino, kiel kafon aŭ kolaaĵon, pli malfrue en la tago (NIA). La Alzheimer's Association ankaŭ mencias nikotinon.
-- **Dormetoj.** Ne kuraĝigu longajn dormetojn kaj endormiĝojn malfrue en la tago (NIA). La Alzheimer's Association sugestas limigi tagajn dormetojn se nokta dormo estas problemo.
+- **Taglumo.** La NIA sugestas aranĝi tempon ekstere aŭ apud fenestro por suna lumo ĉiutage.
+- **Ĉiutaga movado, sed ne tro multe.** Celu esti fizike aktiva ĉiun tagon sen plani tro da agadoj, diras la NIA.
+- **Trinkaĵoj poste en la tago.** Evitu alkoholon kaj trinkaĵojn kun kofeino, kiel kafon aŭ kolon, poste en la tago (NIA). La Alzheimer-Asocio ankaŭ mencias nikotinon.
+- **Dormetoj.** Malrekomendu longajn dormetojn kaj dormetadon malfrue en la tago (NIA). La Alzheimer-Asocio sugestas limigi tagajn dormetojn se nokta dormo estas problemo.
 
-Por pliaj ideoj pri konstanta tago, vidu [agadojn por ĉiutaga rutino](/activities/daily-routine/).
+Por pli pri konstruado de stabila tago, vidu [agadojn de ĉiutaga rutino](/activities/daily-routine/).
 
 ## Kiel mi povas fari la hejmon pli trankvila en la malfrua posttagmezo?
 
 Malpliigu bruon, aldonu lumon kaj tenu konatajn aferojn proksime.
 
-- **Hela, egala lumigado.** La Alzheimer's Association rekomendas teni la hejmon bone lumigita vespere. Lumigu la spacon antaŭ ol aperas ombroj.
-- **Malpli da bruo.** Malŝaltu aŭ mallaŭtigu la televidilon kaj radion, kaj limigu vizitantojn aŭ okupatajn hejmajn laborojn en ĉi tiu tempo. La Alzheimer's Association sugestas malpliigi vesperan stimuladon kiel televidilon, hejmajn taskojn kaj laŭtan muzikon.
-- **Konataj komfortaĵoj.** La NIA sugestas trankviligan muzikon kaj teni ŝatatajn objektojn kaj fotojn ĉirkaŭ la hejmo.
-- **Kontroloj de komforto.** La Alzheimer's Association rekomendas kontroli pri doloro, malsato, soifo, konstipo, plena veziko, laciĝo, infektoj kaj haŭta iritado, kaj teni la ĉambron je komforta temperaturo.
-- **Via propra humoro.** Homoj sentas streĉon. La NIA sugestas malrapidigi kaj provi malstreĉiĝi, se viaj propraj zorgoj povas pliigi la streĉon.
+- **Hela, ega lumigo.** La Alzheimer-Asocio rekomendas teni la hejmon bone prilumita vespere. Prilumu la spacon antaŭ ol aperas ombroj.
+- **Malpli da bruo.** Malŝaltu aŭ malpliigu la televidilon kaj radion, kaj limigu vizitantojn aŭ okupajn hejmajn laborojn tiutempe. La Alzheimer-Asocio sugestas redukti vesperan stimulon kiel televidilon, hejmajn laborojn kaj laŭtan muzikon.
+- **Konataj komfortaĵoj.** La NIA sugestas trankviligan muzikon kaj teni tre ŝatatajn objektojn kaj fotojn ĉirkaŭ la hejmo.
+- **Kontroloj de komforto.** La Alzheimer-Asocio rekomendas kontroli doloron, malsaton, soifon, mallakson, plenan vezikon, lacecon, infektojn kaj haŭtan iriton, kaj teni la ĉambron je komforta temperaturo.
+- **Via propra humoro.** Homoj kaptas streson. La NIA sugestas malrapidigi kaj provi malstreĉiĝi se viaj propraj zorgoj povas aldoni al la streĉo.
 
-## Kiujn trankvilajn agadojn ni povas fari en la malfrua posttagmezo?
+## Kiujn mildajn agadojn ni povas fari en la malfrua posttagmezo?
 
-Elektu agadojn, kiuj estas konataj, senhastaj kaj facile ĉesigeblaj. La Alzheimer's Association sugestas trankvilajn agadojn kiel mildan muzikon, fotojn aŭ ŝatatan filmon, kaj promenadon kune por mildigi maltrankvilon. La NIA sugestas manĝeton aŭ trinkaĵon, ŝatatan televidan programon, muzikon, promenadon, legadon aŭ simplan hejman taskon kiel faldadon de tolaĵo.
+Elektu agadojn, kiuj estas konataj, senhuraj kaj facile interrompeblaj. La Alzheimer-Asocio sugestas trankviligajn agadojn kiel trankviligan muzikon, fotojn aŭ ŝatatan filmon, kaj promenadon kune por mildigi maltrankvilon. La NIA sugestas manĝeton aŭ trinkaĵon, ŝatatan televidan programon, muzikon, promenadon, legadon aŭ simplan hejman laboron kiel faldadon de lavitaĵo.
 
 Ideoj por provi:
 
-1. **Faldi tolaĵon kune.** La NIA sugestas tian simplan hejman taskon. Mantukoj estas facile teneblaj, kaj la tasko havas klaran finon.
-2. **Ludi ŝatatan muzikon.** Konataj kantoj el pli junaj jaroj, je malalta laŭteco. Kunhumi sufiĉas. Pliaj ideoj estas en [muzikaj agadoj](/activities/music/).
-3. **Rigardi fotojn.** Fotoalbumo, aŭ kelkaj familiaj bildoj en [Photo Pairs](/games/photo-pairs/) kun la bildoj lasitaj videblaj, povas gvidi al trankvila interparolo.
-4. **Fari mallongan promenadon.** Ĉirkaŭ la ĝardeno, la kvartalo aŭ koridoro, antaŭ ol fariĝas malhele.
-5. **Kunhavi manĝeton kaj trinkaĵon.** Ion simplan, varman kaj sen kafeino, kune ĉe la tablo.
-6. **Milda kongruigado.** [Picture Pairs](/games/picture-pairs/) kun kvar kaheloj kaj videblaj bildoj estas facile komencigebla kaj facile ĉesigebla.
-7. **Kolorado.** [Coloring](/games/coloring/) sur ekrano aŭ sur presita paĝo, sen celo fini.
-8. **Rigardado kaj interparolado.** [Conversation Cards](/games/conversation-cards/) ofertas bildon kaj malferman instigon. Simple rigardi sufiĉas.
-9. **Spira paŭzo.** [Calm Breathing](/games/calm-breathing/) estas malrapida, trankvila paŭzo, kiun vi mem komencas kaj ĉesigas.
-10. **Manaj taskoj.** Ordigi butonojn aŭ ŝtrumpojn, glatigi molan kovrilon aŭ teni konatan objekton. Vidu [sentumajn agadojn](/activities/sensory/).
+1. **Faldi lavitaĵon kune.** La NIA sugestas tiun specon de simpla hejma laboro. Bantukoj estas facile manipuleblaj, kaj la tasko havas klaran finon.
+2. **Ludi ŝatatan muzikon.** Konataj kantoj el iliaj junaj jaroj, je malalta laŭteco. Humi ankaŭ validas. Pliaj ideoj en [muzikaj agadoj](/activities/music/).
+3. **Rigardi fotojn.** Fotolbumo aŭ kelkaj familiaj bildoj en [Photo Pairs](/games/photo-pairs/) kun la bildoj lasitaj videblaj, povas konduki al trankvila konversacio.
+4. **Fari mallongan promenadon.** Ĉirkaŭ la ĝardeno, la bloko aŭ koridoro, antaŭ ol mallumiĝas.
+5. **Dividi manĝeton kaj trinkaĵon.** Io simpla, varma kaj senkofeina, ĉe la tablo kune.
+6. **Milda kongruado.** [Picture Pairs](/games/picture-pairs/) kun kvar kaheloj kaj bildoj videblaj estas facile komenci kaj facile fini.
+7. **Kolorado.** [Coloring](/games/coloring/) sur ekrano aŭ sur printita paĝo, sen celo fini.
+8. **Rigardado kaj parolado.** [Conversation Cards](/games/conversation-cards/) ofertas bildon kaj malferman demandon. Simple rigardi sufiĉas.
+9. **Spir-paŭzo.** [Calm Breathing](/games/calm-breathing/) estas malrapida, trankvila paŭzo, kiun vi mem komencas kaj finas.
+10. **Manaj taskoj.** Ordigi butonojn aŭ ŝtrumpojn, glatigi molan kovrilon aŭ teni konatan objekton. Vidu [sensajn agadojn](/activities/sensory/).
 
-Evitu novajn ludojn, okupatajn elirojn kaj ĉion, kio postulas multe da memoro aŭ koncentriĝo malfrue en la tago. Gardu tion por la mateno.
+Evitu novajn ludojn, okupajn ekskursojn kaj ion ajn, kio postulas multe da memoro aŭ koncentriĝo malfrue en la tago. Lasu tion por la mateno.
 
-## Kion mi faru kiam maltrankvilo komenciĝas?
+## Kion mi faru kiam komenciĝas maltrankvilo?
 
-Restu trankvila, trankviligu kaj milde direktu aliloken. La NIA sugestas paroli trankvile, aŭskulti la zorgojn de la persono, eviti disputojn, trankviligi la personon, ke ĝi estas sekura, kaj uzi mildan tuŝon se tio helpas. Poste provu distri: manĝeto, trinkaĵo, muziko aŭ promenado.
+Restu trankvila, certigu kaj delikate redirektu. La NIA sugestas paroli trankvile, aŭskulti la zorgojn de la persono, eviti argumentojn, certigi al li aŭ ŝi, ke li aŭ ŝi estas sekura, kaj uzi mildan tuŝon se tio helpas. Poste provu distron: manĝeton, trinkaĵon, muzikon aŭ promenadon.
 
-La Alzheimer's Association sugestas frazojn kiel „Vi estas sekura ĉi tie” kaj „Mi bedaŭras, ke vi estas ĉagrenita”, kaj konsilas aldoni lumon, malrapidigi kaj limigi stimuladon. Ne enfermu, ne ĉirkaŭpremu kaj ne retenu la personon, kaj ne disputu kun ĝi.
+La Alzheimer-Asocio sugestas frazojn kiel "Vi estas sekura ĉi tie" kaj "Mi bedaŭras, ke vi estas maltrankvila", kaj konsilas aldoni lumon, malrapidigi kaj limigi stimulon. Ne enfermu, ne amasu ĉirkaŭe aŭ ne limigu la personon, nek argumentu kun li aŭ ŝi.
 
-Se la persono fariĝas agresema, la NIA konsilas resti je sekura distanco ĝis la konduto ĉesas. En urĝa situacio, voku la lokan urĝnumeron (en multaj landoj 112) kaj klarigu, ke la persono havas demencon.
+Se la persono fariĝas agresema, la NIA konsilas resti je sekura distanco ĝis la konduto ĉesas. En urĝa okazaĵo, voku la lokajn urĝajn servojn kaj klarigu, ke la persono havas demencon. Nia [gvidilo pri respondi al kolero kaj agresemo](/caregiving/when-anger-becomes-aggression-with-dementia/) kovras tujan sekurecon kaj kion fari poste.
 
-Niaj gvidiloj pri [komunikado](/caregiving/communication-tips/) kaj [kion fari kiam la persono diras ne](/caregiving/when-they-say-no/) havas pliajn ideojn pri trankviligaj vortoj.
+Niaj gvidiloj pri [komunikado](/caregiving/communication-tips/) kaj [kion fari kiam ili diras ne](/caregiving/when-they-say-no/) havas pli pri trankviligaj vortoj.
 
-## Kiel mi trovu la kaŭzojn?
+## Kiel mi trovas la ekagigilojn?
 
-Tenu mallongan notaron dum semajno aŭ du. La Alzheimer's Association rekomendas noti, kio okazas antaŭ epizodoj de vespera maltrankvilo, por identigi kaŭzojn. Notu la horon kiam la maltrankvilo komenciĝis, kio okazis en la horo antaŭe, dormetojn, manĝojn kaj trinkaĵojn, vizitantojn, bruon kaj lumon. Kunportu la notojn al la kuracisto. La NIA rimarkas, ke spuri ŝanĝojn en konduto povas helpi al zorgantoj kaj sanprofesiuloj rekoni ŝablonon.
+Konservu mallongan taglibron dum semajno aŭ du. La Alzheimer-Asocio rekomendas registri, kio okazas antaŭ epizodoj de krepuskema agito, por identigi ekagigilojn. Rimarku la tempon, kiam komenciĝis maltrankvilo, kio okazis en la horo antaŭe, dormetojn, manĝojn kaj trinkaĵojn, vizitantojn, bruon kaj lumon. Alportu la taglibron al la kuracisto. La NIA rimarkigas, ke konservi trakon de kondutŝanĝoj povas helpi prizorgantojn kaj sanlaboristojn rekoni ŝablonon.
 
-## Kiam mi kontaktu kuraciston pri vespera maltrankvilo?
+## Kiam mi devas voki kuraciston pri krepuskema agito?
 
-Kontaktu la kuraciston de la persono se la maltrankvilo estas nova, subite pli forta aŭ aperas kun aliaj ŝanĝoj. La NIA diras, ke subitaj aŭ rapide ŝanĝiĝantaj kondutŝanĝoj, precipe post infekto aŭ lastatempaj ŝanĝoj en medikamentoj, estu tuj raportitaj al kuracisto.
+Kontaktu la kuraciston de la persono se maltrankvilo estas nova, subite pligraviĝis aŭ venas kun aliaj ŝanĝoj. La NIA diras, ke subitaj aŭ rapide ŝanĝiĝantaj kondutŝanĝoj, precipe post infekto aŭ lastatempaj ŝanĝoj de medikamentoj, estu tuj atentigitaj al kuracisto.
 
-Petu la kuraciston kontroli aferojn, kiuj povas malfaciligi vesperojn. La Alzheimer's Association mencias korpajn problemojn kiel urinvojajn infektojn, inkontinencon, sindromon de maltrankvilaj kruroj kaj dorman apneon, kaj sugestas demandi, kiuj horoj de la tago estas plej taŭgaj por ĉiu medikamento. La NIA listigas doloron, konstipon kaj flankefikojn aŭ interagojn de medikamentoj inter eblaj kaŭzoj de agitiĝo.
+Petu la kuraciston kontroli aferojn, kiuj povas malfaciligi vesperojn. La Alzheimer-Asocio mencias fizikajn problemojn kiel urinduktajn infektojn, inkontinenco, maltrankvilajn krurojn kaj dorman apneon, kaj sugestas demandi, kiuj horoj de la tago estas plej bonaj por ĉiu medikamento. La NIA listigas doloron, mallakson kaj efikojn de medikamentoj aŭ interagojn inter eblaj kaŭzoj de ekscitiĝo.
 
-La Alzheimer's Association diras, ke aliroj sen medikamentoj ĝenerale estas preferataj por dormoproblemoj ligitaj al Alzheimer-malsano, kaj ke medikamento por malfrutaga agitiĝo estu konsiderata nur se tiuj malsukcesas, post pesado de riskoj kaj avantaĝoj. Tiu decido apartenas al la kuracisto. Ne komencu, ne ĉesigu kaj ne ŝanĝu ajnan medikamenton, dormhelpon aŭ suplementon sen medicina konsilo.
+La Alzheimer-Asocio diras, ke aliron sen medikamentoj oni ĝenerale preferas por dormproblemoj ligitaj al Alzhejmero, kaj ke medikamento por malfru-taga maltrankvilo estu konsiderata nur se tiuj malsukcesas, post pesado de riskoj kaj avantaĝoj. Tiu decido apartenas al la kuracisto. Ne komencu, ne ĉesu kaj ne ŝanĝu iun ajn medikamenton, dormhelpilon aŭ suplementon sen medicina konsilo.
 
-## Kiel mi mem travivu la vesperojn?
+## Kiel mi travivas la vesperojn mem?
 
-Malfruaj posttagmezoj povas esti la plej malfacila parto de la tago por zorganto. Se vi povas, petu familianon, amikon aŭ pagatan helpanton transpreni la malfruan posttagmezon kelkajn tagojn semajne, eĉ dum horo. Nia gvidilo pri [memzorgo por zorgantoj](/caregiving/caregiver-self-care/) listigas eblojn por portempa anstataŭa zorgo kaj la senpagan 24/7 helplinion de la Alzheimer's Association.
+Malfruaj posttagmezoj povas esti la plej malfacila parto de la tago por prizorganto. Se vi povas, petu familianon, amikon aŭ pagatan helpanton preni la malfruan posttagmezon kelkajn tagojn semajne, eĉ dum horo. Nia gvidilo pri [memzorgado de prizorganto](/caregiving/caregiver-self-care/) listigas ripozajn eblojn kaj la senpagan 24/7 helptelefonon de la Alzheimer-Asocio.

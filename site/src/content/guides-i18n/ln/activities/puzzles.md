@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Ba puzzle mpo na bato bazali na bokoni ya kobosana: ba jigsaw, ba puzzle ya maloba mpe ba puzzle ya kolaybia na internet"
+seoTitle: "Ba puzzle mpo na bokoni ya kobosana: jigsaw mpe ba puzzle ya maloba"
+description: "Ndenge ya kopona ba jigsaw, ba puzzle ya maloba mpe ya kolaybia na internet mpo na moto azali na bokoni ya kobosana: bonene ya biteni, bililingi, mikanda ya minene, kosala elongo mpe ntango ya kokomisa pete."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Puzzle oyo ezali malamu koleka mpo na moto azali na bokoni ya kobosana ezali oyo
+  akoki kosilisa na lisalisi moke mpe kosepela na nzela. Pona ba jigsaw ezanga
+  biteni mingi mpe na biteni monene, elilingi ya polele ya moto monene, tika
+  elilingi ya sanduku emonana, mpe banda na biteni ya zingazinga. Ba puzzle ya
+  koluka maloba mpe ba crossword esalaka malamu na mikanda ya minene. Ba puzzle
+  ya kolaybia na internet ezanga biteni minei esalaka malamu na ntango ya katikati.
+  Tika ntango ezwi esengo.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Pona na ndenge esalaka, te na nkombo ya eteni: soki puzzle ezokomisa mosala, meka mosusu na biteni moke koleka."
+  - "Biteni monene, makasi mpe elilingi ya polele na baparte ya langi ndenge na ndenge ezali pete koleka biteni moke mpe likolo monene."
+  - "Bililingi ya bato minene ezali na ntina. Ba zamba, ba cuisine, ba motuka mpe banyama, te ba dessin ya bana."
+  - "Kosala elongo ezali ntina. Pesaka biteni, salelaka biteni ya zingazinga, tika likopo ya sanduku emonana."
+  - "Ba puzzle ya koluka maloba ya mikanda minene mpe ba puzzle ya kolaybia na internet ezanga biteni minei to libwa ezali ofele awa na site."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Biteni boni ya puzzle ezali malamu mpo na moto azali na bokoni ya kobosana?"
+    a: "Ezali te motango moko ya solo. Moto oyo asalaka ba puzzle na biteni nkoto moko akoki kaka kosepela na biteni nkama mingi na ebandeli, nzokande basusu basalaka malamu na biteni mwa moke ya minene. Soki puzzle ezokomisa mosala to ezali kopesa pasi, kende na biteni moke koleka. Puzzle na biso ya elilingi ezalaka na biteni minei to libwa."
+  - q: "Ba puzzle ya jigsaw ezali malamu mpo na bato bazali na bokoni ya kobosana?"
+    a: "Bato mingi balingaka yango, mingimingi soki balingaki ba puzzle liboso. Puzzle epesaka maboko mosala, mokano ya polele mpe elilingi ya kolobela. Puzzle moko te emonisi ete ekoki kobikisa to kokitisa bokoni ya kobosana, yango wana pona yango mpo na esengo mpe lisanga."
+  - q: "Ndenge nini nakoki kosala ntango moto akoki lisusu te kosala jigsaw?"
+    a: "Komisa yango moke mpe sala mingi yo moko: pesa biteni moko moko, to tika kaka biteni mwa moke ya suka mpo na ye. Meka puzzle ya biteni minei na internet, kokabola biteni na langi, to kaka kotala elilingi ya kosilisa elongo."
+  - q: "Ba crossword mpe ba puzzle ya koluka maloba esalaka mpo na bokoni ya kobosana?"
+    a: "Ekoki na ebandeli, na mikanda ya minene. Ba puzzle ya koluka maloba oyo ezali na maloba kaka na zamba mpe na se ezali pete koleka oyo ezali na diagonale to na sima. Tanga ba mosolo to liste ya maloba na mongongo makasi mpe sala yango elongo."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Jigsaw oyo etandami na mesa ya kolia ezali moko ya ba mosala oyo ezali pete koleka mpo na kosala elongo. Bokoki kofanda elongo kozanga mposa ya koloba, elilingi epesaka eloko ya kolobela, mpe kotia eteni ya suka esalisaka motema. Kasi ba puzzle esengeli kobongwana ndenge bokoni ya kobosana ebongwanaka. Puzzle oyo ezali makasi mingi ekoki kobongola molongo ya kimya na molongo ya pasi. Lokasa oyo elobeli ndenge ya kopona mpe kotia ba jigsaw, ba puzzle ya maloba mpe ba puzzle ya kolaybia na internet, mpe nini okoki kosala ntango ekomi makasi.
 
-## Are puzzles good for people with dementia?
+## Ba puzzle ezali malamu mpo na bato bazali na bokoni ya kobosana?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Bato mingi balingaka yango, mingimingi ba oyo basalaka ba puzzle liboso. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) etangaka ba puzzle ya koluka maloba, ba jeu ya ba carte mpe ba jeu ya bitala kati na ba mosala mpo na eteni ya ebandeli, mpe [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) elobeli ba jeu ya internet mpe ba puzzle na ba tablette lokola ndenge moko ya kotikala na esengo.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Ba puzzle ezali te traitement. Puzzle moko te emonisi ete ekoki kokitisa to kotelema bokoni ya kobosana; guide na biso oyo etali [ba jeu ya mayele mpe bokoni ya kobosana](/brain-health/brain-games/) elobeli bolukiluki. Ntina ya kosala puzzle ezali ete ekoki kozala ngonga ya kitoko mpe ya komituna elongo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) elobeli boye: tala esengo, te bosilisi.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Ndenge nini okoki kopona jigsaw puzzle mpo na moto azali na bokoni ya kobosana?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Tala nini moto alingaka mpe ndenge puzzle ya suka esalemaki, te nkombo ya eteni.
 
-### Number of pieces
+### Motango ya biteni
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ezali te motango ya solo. Moto oyo asalaka ba puzzle banda kala akoki kaka kosepela na biteni nkama mingi na ebandeli, nzokande mosusu asepelaka mingi na biteni mwa moke. Mobeko ya pete: soki puzzle ya suka ezokomisa mosala, pona moko na biteni pene na ndambo. Soki esilaki noki mpe alingi lisusu, kende likolo mwa moke.
 
-### Piece size and feel
+### Bonene mpe ndenge ya biteni
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Biteni monene** ezali pete komona, kozwa mpe kobongola.
+- **Biteni makasi, ya makasi** ezali kokanga mpe ezali kopasuka te soki ekwe.
+- **Surface ya matte** ekitisaka kongenga na se ya mwinda mpe na fenetre.
+- **Boya biteni moke** soki moto akoki kotia biloko na monoko, oyo ekoki kosalema na sima na bokoni ya kobosana.
 
-### The picture
+### Elilingi
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Bililingi ya bato minene.** Ba zamba, ba cuisine, ba motuka ya kala, banyama ya bilanga, mboka ya pembeni ya mai, to likambo alingaka mingi. Te ba dessin ya bana to eloko etalaka lokola jugu ya bana.
+- **Baparte ya langi ndenge na ndenge.** Ndako ya langi motane, masuwa ya langi ble mpe bilanga ya langi vert ezali pete koleka likolo oyo etondi ndambo ya puzzle.
+- **Ya koyeba mpe ya ye moko.** Elilingi ya esika avandaki to mosala alingaki mingi epesaka bino mposa mingi ya koloba. Ba boutique mosusu bakoki kobongola elilingi ya libota na jigsaw.
 
-## How do you do a puzzle together?
+## Ndenge nini bosali puzzle elongo?
 
-Set it up so the person can get straight to the enjoyable part.
+Tia yango boye ete moto akoki kokoma mbala moko na esengo.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Pona esika ya malamu.** Mwinda malamu, kiti na maboko, mpe mesa to plate oyo ekoki kotika puzzle.
+2. **Tia likopo ya sanduku** esika bino mibale bokoki komona yango.
+3. **Balola biteni nyonso** liboso ya kobanda.
+4. **Sala ba biteni ya zingazinga** yo moko, to sala libanda liboso mpe tika kati mpo na ye.
+5. **Kabola biteni na langi** na ba plate mwa moke.
+6. **Pesa eteni moko moko** soki biteni mingi ezali kopesa pasi. "Namoni ete oyo ezali eteni ya ndako."
+7. **Loba mpo na elilingi,** te mpo na ndenge bosili. "Oyo etali lokola masuwa ya tata na ngai."
+8. **Tika yango wana.** Bozonga kuna mikolo mingi. Ezali te na lombangu.
+9. **Tika na ntango ya malamu,** sima ya kotia eteni moko, ntango ezwi kaka esengo.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) elakisi kosalisa moto abanda, kotala soki pasi ezali koya mpe kotika ye kaka kotala soki asepelaka mingi na bongo. Kotala yo ozali kotia biteni mpe kolakisa esika moko ekoki kokoma ezali kaka kosangana.
 
-## Easy online puzzles
+## Ba puzzle ya kolaybia na internet
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Puzzle ya tablette ezali na matomba: biteni ezali kobunga te, bililingi monene etondi na ecran, mpe mesa ezali kosukola te.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+[Picture puzzle](/games/picture-puzzle/) na biso ya ofele akabola elilingi na biteni minei to libwa. Finela biteni mibale mpo na kobongola bisika kino elilingi ekokoka. Elilingi mobimba etikali na ecran lokola guide, ezali te na ngonga, mpe okoki kotika na ntango nyonso. Biteni minei esalaka malamu mpo na bato mingi na eteni ya katikati soki moto azali pembeni.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Mpo na masano ya elilingi oyo ezali pete koleka, meka [Find the same](/games/find-the-same/), esika ofinelaka elilingi ezali ndenge moko na oyo ezali likolo, to [Sort together](/games/sort-together/), esika bililingi ekendaka na ba pani lokola cuisine to zamba.
 
-## Word puzzles: word searches and crosswords
+## Ba puzzle ya maloba: ba puzzle ya koluka maloba mpe ba crossword
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Ba puzzle ya maloba esalaka mpo na bato oyo balingaki yango liboso, mingimingi na ebandeli ya bokoni ya kobosana.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Puzzle ya koluka maloba ya mikanda minene.** [Word search](/games/word-search/) na biso ya ofele esalelaka ba lettre monene mpe maloba mwa moke kaka, ezali kokende na zamba mpe na se, te na diagonale to na sima. Salela yango na ecran to bima yango.
+- **Tanga liste na mongongo makasi.** Moto moko atangaka liloba, mosusu alukaka yango. Kokotisa kaka lettre ya liboso ezali malamu.
+- **Ba crossword ya mikanda minene** uta na ba buku ya puzzle ekoki kosala na ebandeli. Tanga ba mosolo na mongongo makasi, kabola kaka stylo mpe tika ba eyano elongo. Ba crossword ya pete, na motó moko, ezali malamu koleka oyo ezali makasi mingi.
+- **Loba mpo na maloba.** "Zamba" ekoki komema bino na miniti zomi mpo na ba tomati.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Mpo na ba mosala mosusu ya papier mpe ndenge ya kobima yango ete emonana malamu mpe ekangama malamu, tala [ba mosala ya koprinta ya ofele mpo na bokoni ya kobosana](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Ba puzzle nini esalaka na eteni moko na moko?
 
-Stages overlap, and good and hard days are normal.
+Ba eteni ekutanaka, mpe mikolo ya malamu mpe ya pasi ezali ya ndenge na ndenge.
 
-| Stage | Puzzles that often fit | Your role |
+| Eteni | Ba puzzle oyo ekoki kosala | Mosala na yo |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Ebandeli | Ba jigsaw ya koyeba na biteni moke koleka liboso, ba crossword mpe ba puzzle ya koluka maloba ya mikanda minene, ba puzzle ya internet na biteni libwa | Moko ya lisanga: tika ye apona, sala lisalisi soki asengi |
+| Katikati | Ba jigsaw na biteni mwa moke ya minene, ba puzzle ya internet na biteni minei, puzzle ya koluka maloba batangaka elongo | Tia yango, kabola biteni, pesa eteni moko moko |
+| Suka | Kotala elilingi ya kosilisa elongo, Find the same na bililingi mibale, kobomba biteni mwa moke ya minene | Memela ye yango; lisanga na yo ezali mosala |
 
-## When should you make a puzzle easier, or stop?
+## Ntango nini osengeli kokomisa puzzle pete, to kotika?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Tala soki azali kolela, kobwakisa biteni, koloba mbala mingi "Nakoki te" to komonana na mpasi. Yango ezali bilembo ya kobongola eloko, te ya kokende liboso na makasi.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Komisa yango moke.** Biteni moke koleka, to tika kaka biteni mwa moke ya suka mpo na ye.
+- **Sala mingi yo moko** mpe beta ye mpo na asala ba eteni ya pete.
+- **Bongola na eloko mosusu ya pembeni:** kokabola biteni na langi, puzzle ya internet na biteni minei, to [kolala na langi](/games/coloring/).
+- **Tika.** Tia yango pembeni mpe sila kafe moko. Okoki kozonga mokolo mosusu, to te.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Soki ba puzzle ekomi kokundola yo nini ezali makasi, ezali malamu kotika yango. Ezali na nzela mingi mosusu ya kosalela ngonga ya malamu elongo; [ba likanisi ya ba mosala 101](/activities/ideas/) ezali esika ya malamu ya koluka.

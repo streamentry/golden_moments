@@ -1,34 +1,35 @@
 ---
-title: "Når en person med demens siger nej til eller bliver frustreret over en aktivitet"
-seoTitle: "Når en person med demens afviser en aktivitet"
-description: "Hvorfor en person med demens kan afvise eller blive ked af en aktivitet, hvad du kan prøve i stedet, og hvornår en pludselig ændring kræver en læge."
+title: "Når et menneske med demens siger nej til en aktivitet"
+seoTitle: "Når et menneske med demens siger nej til en aktivitet"
+description: "Hvorfor et menneske med demens kan sige nej eller blive frustreret, hvad du kan prøve i stedet, hvad du bør undgå, og hvornår en pludselig ændring kræver læge."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Når en person med demens siger nej, så accepter det roligt, og prøv igen senere
-  eller tilbyd noget andet. Afvisning har ofte en årsag: opgaven føles for svær eller
-  barnlig, personen er træt, har smerter, er sulten eller overvældet af støj. Argumentér
-  ikke, og pres ikke. Forenkl, tilbyd to valg, eller bed om deres hjælp. Pludselig eller
-  hurtigt skiftende adfærd, især efter en infektion eller ny medicin, kræver hurtig
-  lægehjælp.
+  Når et menneske med demens siger nej, så acceptér det roligt og prøv igen
+  senere eller tilbyd noget andet. Et nej har ofte en årsag: opgaven føles for
+  svær eller barnlig, personen er træt, har smerter, er sulten eller
+  overvældet af støj. Undgå at diskutere eller insistere. Gør det enklere,
+  tilbyd to valgmuligheder, eller bed om personens hjælp. Pludselig eller
+  hurtigt ændret adfærd, især efter en infektion eller ny medicin, kræver
+  hurtigt kontakt til en læge.
 keyPoints:
-  - "Et »nej« er et svar, der skal respekteres, ikke et problem, der skal overvindes."
-  - "Afvisning har som regel en årsag: for svært, for barnligt, træthed, sygdom, ubehag eller overvældelse."
-  - "Træd tilbage, vent, og prøv senere, på et andet tidspunkt eller med en enklere version."
-  - "At bede om deres hjælp virker bedre end at bede dem præstere."
-  - "Argumentér ikke, pres ikke, quiz ikke og ret ikke. Tjek dig selv for at skynde dig eller presse."
-  - "Pludselig eller hurtigt skiftende adfærd, især med infektion eller ny medicin, skal til lægen med det samme."
+  - "Et „nej“ er et svar, der skal respekteres, ikke et problem, der skal løses."
+  - "Et nej har som regel en årsag: for svært, for barnligt, træthed, ubehag, sygdom eller for mange indtryk."
+  - "Træk dig tilbage, vent, og prøv igen senere, på et andet tidspunkt eller i en enklere udgave."
+  - "Det virker bedre at bede om hjælp end at bede personen om at præstere."
+  - "Undgå at diskutere, insistere, udspørge eller rette. Vær også opmærksom på, om du selv har for travlt eller står for tæt på."
+  - "Pludselig eller hurtigt ændret adfærd, især ved infektion eller ny medicin, bør vurderes af en læge med det samme."
 faq:
-  - q: "Er det okay at lade dem springe aktiviteter over helt?"
-    a: "Ja, på en given dag. At sidde sammen, lytte til musik eller bare se verden gå forbi kan være nok. Hvis en person over uger holder op med at nyde alt, så nævn det for deres læge, da nedtrykthed, smerte eller andre helbredsproblemer kan være en del af billedet."
-  - q: "Hvorfor afviser de ting, de plejede at elske?"
-    a: "En gammel hobby kan blive frustrerende, når den nu kræver færdigheder, som demens har gjort sværere, og personen kan føle sig flov. Prøv en enklere del af den samme aktivitet, for eksempel at sortere knapper i stedet for at sy, eller at kigge på haveplanter i stedet for at plante."
-  - q: "Skal jeg prøve at overtale dem?"
-    a: "Nej. At presse en person til at gøre noget, demens har gjort svært, er en kendt udløser for agitation. Accepter nejet, skift emne, og tilbyd igen senere eller på en anden måde."
+  - q: "Er det i orden at lade dem springe aktiviteter helt over?"
+    a: "Ja, på en given dag. At sidde sammen, lytte til musik eller kigge ud af vinduet kan være nok. Hvis nogen holder op med at nyde næsten alt over flere uger, så nævn det for deres læge, da lavt humør, smerter eller andre helbredsproblemer kan spille en rolle."
+  - q: "Hvorfor siger de nej til ting, de tidligere holdt af?"
+    a: "En gammel interesse kan blive frustrerende, når den nu kræver evner, som demens har gjort sværere, og personen kan føle sig flov. Prøv en enklere del af den samme aktivitet, for eksempel at sortere knapper i stedet for at sy, eller at se billeder af haver i stedet for at plante."
+  - q: "Bør jeg prøve at overtale dem?"
+    a: "Nej. At presse nogen til at gøre noget, som demens har gjort svært, er en kendt udløser for uro. Acceptér nej'et, skift emne, og spørg igen senere eller på en anden måde."
   - q: "Hvornår er en ændring i adfærd en nødsituation?"
-    a: "Ring 112, hvis nogen er i fare, eller hvis der er tegn på en medicinsk nødsituation. Ved pludselig forvirring eller adfærd, der ændrer sig hurtigt over timer eller dage, især med feber, infektion eller ny medicin, så kontakt personens læge med det samme."
+    a: "Ring 911, hvis nogen er i fare eller har tegn på en akut medicinsk nødsituation. Ved pludselig forvirring eller adfærd, der ændrer sig hurtigt i løbet af timer eller dage, især ved feber, infektion eller ny medicin, skal du kontakte deres læge med det samme."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Du har gjort alt klar, tilbudt et spil eller en gåtur og hørt »Nej«. Eller aktiviteten starter godt og slutter med en tablet skubbet væk og et skarpt ord. Det er nedslående, og det er meget almindeligt. Afvisning og frustration er som regel et budskab, ikke stædighed. At finde ud af, hvad budskabet er, viser ofte, hvad du skal prøve næste gang.
+Du har gjort alting klar, foreslår et spil eller en gåtur og får svaret „Nej“. Eller aktiviteten starter godt, men ender med, at en tablet bliver skubbet væk og et skarpt ord. Det kan være nedslående, og det er meget almindeligt. Et nej og frustration er som regel et signal, ikke stædighed. Når du prøver at forstå, hvad signalet handler om, kan det ofte vise, hvad du kan prøve bagefter.
 
-## Hvorfor afviser en person med demens aktiviteter?
+## Hvorfor siger et menneske med demens nej til aktiviteter?
 
-Som regel er der en grund, selvom personen ikke kan sætte den i ord. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bemærker, at modstand kan betyde, at personen ikke kan udføre opgaven, eller at de er bange for at prøve. Almindelige årsager omfatter:
+Der er som regel en grund, selv hvis personen ikke kan sætte ord på den. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) beskriver, at modstand kan betyde, at personen ikke kan klare opgaven eller er bange for at prøve. Almindelige årsager er:
 
-- **Det føles for svært.** Aktiviteten kræver nu færdigheder, demens har gjort vanskelige, og det er flovt at fejle foran nogen.
-- **Det føles barnligt.** Voksne lægger mærke til tegnefilmsagtige billeder, sang-agtige stemmer og aktiviteter, der ser ud, som om de er lavet til børn.
+- **Det føles for svært.** Aktiviteten kræver nu evner, som demens har gjort sværere, og det kan være pinligt at fejle foran nogen.
+- **Det føles barnligt.** Voksne lægger mærke til tegneserieagtige billeder, en syngende tone og aktiviteter, der ser ud til at være lavet til børn.
 - **Træthed.** Mange har mindre energi senere på dagen. Se [rolige aktiviteter sidst på eftermiddagen](/caregiving/late-day-restlessness/).
-- **Fysisk ubehag.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nævner smerte, manglende søvn, besvær med at se eller høre, forstoppelse, sult, tørst og bivirkninger af ny medicin som mulige årsager til nød.
-- **For meget på én gang.** En høj tv, flere samtaler eller et fyldt rum kan være overvældende.
-- **Presset.** NIA nævner at blive presset til at gøre noget, Alzheimers har gjort meget svært, eller til at huske begivenheder eller personer, som en årsag til agitation.
-- **Lavt humør.** Tab af interesse for ting kan være et tegn på depression, som er værd at tage op med en læge.
-- **De har simpelthen ikke lyst.** Voksne må gerne sige nej.
+- **Fysisk ubehag.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nævner smerter, søvnmangel, problemer med at se eller høre, forstoppelse, sult, tørst og bivirkninger fra ny medicin som mulige årsager til ubehag.
+- **For meget på én gang.** Et højt tv, flere samtaler eller et rum med mange mennesker kan være overvældende.
+- **Følelsen af at blive presset.** NIA nævner, at det kan skabe uro at blive presset til at gøre noget, som Alzheimers har gjort meget svært, eller til at huske begivenheder eller personer.
+- **Lavt humør.** At miste interessen for ting kan være et tegn på depression, og det er værd at tage op med en læge.
+- **De har simpelthen ikke lyst.** Voksne har lov til at sige nej.
 
-## Hvad skal jeg prøve, når de siger nej?
+## Hvad kan jeg prøve, når de siger nej?
 
-Accepter nejet roligt, og skift så noget: tidspunktet, aktiviteten, sværhedsgraden eller måden, du spørger på.
+Acceptér nej'et roligt, og ændr så noget: tidspunktet, aktiviteten, sværhedsgraden eller den måde, du spørger på.
 
-1. **Lad det ligge for nu.** »Det er fint. Måske senere.« Gå så videre til noget andet uden et suk.
-2. **Prøv igen senere.** Alzheimer's Association foreslår at prøve igen senere eller på et andet tidspunkt på dagen.
-3. **Gør det mindre.** Ét match i stedet for et helt spil. Ét håndklæde i stedet for kurven med vasketøj. Færre billeder, færre valg, billeder der forbliver synlige.
-4. **Tilbyd to valg.** »Vil du kigge på fuglebillederne eller høre lidt musik?« Et valg giver en følelse af kontrol tilbage.
-5. **Bed om hjælp i stedet for præstation.** »Kunne du hjælpe mig med at sortere de her?« eller »Kan du sige mig, hvilken farve der ser bedst ud?« At blive behøvet føles meget anderledes end at blive testet.
-6. **Start den selv.** Begynd aktiviteten ved siden af dem uden at spørge. Mange deltager, når noget allerede er i gang, og hvis de ikke gør, har du stadig brugt tid sammen.
-7. **Skift til noget fysisk eller beroligende.** En kort gåtur, musik, en snack, at folde tøj eller en fælles [rolig vejrtrækning](/games/calm-breathing/)-pause. NIA foreslår at lede opmærksomheden hen på musik, en bog eller en gåtur.
-8. **Lad dem gøre det på deres måde.** Hvis de vil spille anderledes, end reglerne siger, så gå med det. Alzheimer's Association råder til at være fleksibel.
+1. **Slip det for nu.** „Det er helt i orden. Måske senere.“ Gå derefter videre til noget andet uden at sukke.
+2. **Prøv igen senere.** Alzheimer's Association foreslår at prøve igen senere eller på et andet tidspunkt af dagen.
+3. **Gør det mindre.** Ét match i stedet for et helt spil. Ét håndklæde i stedet for hele vasketøjskurven. Færre billeder, færre valgmuligheder, billederne liggende synligt.
+4. **Tilbyd to valgmuligheder.** „Vil du gerne se på fuglebillederne eller lytte til lidt musik?“ Et valg giver en følelse af kontrol tilbage.
+5. **Bed om hjælp i stedet for en præstation.** „Kan du hjælpe mig med at sortere disse?“ eller „Kan du fortælle mig, hvilken farve der ser bedst ud?“ Det føles meget anderledes at blive brug for end at blive testet.
+6. **Begynd selv.** Start aktiviteten ved siden af personen uden at spørge. Mange deltager, når noget allerede er i gang, og hvis de ikke gør, har I stadig brugt tid sammen.
+7. **Skift til noget fysisk eller beroligende.** En kort gåtur, musik, en lille snack, at folde tøj eller en fælles pause med [rolig vejrtrækning](/games/calm-breathing/). NIA foreslår at flytte opmærksomheden til musik, en bog eller en gåtur.
+8. **Lad dem gøre det på deres egen måde.** Hvis de vil lege på en anden måde end reglerne siger, så følg med. Alzheimer's Association råder til at være fleksibel.
 
-## Hvad skal jeg sige, når de bliver frustrerede?
+## Hvad kan jeg sige, når de bliver frustrerede?
 
-Sæt farten ned, sænk stemmen og berolig. [Alzheimer's Associations vejledning om agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) foreslår at træde tilbage og spørge om lov, bruge rolige, positive udsagn og tilbyde et valg mellem to muligheder. Sætninger i den ånd:
+Sæt farten ned, sænk stemmen og vær beroligende. [Alzheimer's Associations vejledning om uro](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) foreslår at træde lidt tilbage og bede om lov, bruge rolige, positive udsagn og tilbyde et guidet valg mellem to muligheder. Sætninger i den ånd:
 
-- »Jeg er ked af det, den her er irriterende. Lad os stoppe.«
-- »Du klarer det fint. Jeg er lige her.«
-- »Har du tid til at hjælpe mig med noget andet?«
-- »Skal vi i stedet have en kop te?«
+- „Det er jeg ked af, den her er irriterende. Lad os stoppe.“
+- „Du klarer det fint. Jeg er lige her.“
+- „Har du tid til at hjælpe mig med noget andet?“
+- „Skal vi tage en kop te i stedet?“
 
-Afslut derefter aktiviteten uden at gøre det til en stor sag. Vores [kommunikationstips](/caregiving/communication-tips/) har mere om, hvad du skal sige.
+Afslut derefter aktiviteten uden at gøre det til en stor sag. Vores [råd om kommunikation](/caregiving/communication-tips/) har mere om, hvad du kan sige.
 
 ## Hvad bør jeg undgå?
 
 Nogle naturlige reaktioner har en tendens til at gøre det værre.
 
-- **Argumentere eller insistere.** »Kom nu, bare én mere« eller »Du elsker det her« hjælper sjældent.
-- **Quizzing eller rettelser.** »Du ved godt, hvad det her er« eller »Nej, den er forkert« lægger pres på.
-- **At tage det personligt.** NIA minder pårørende om, at sygdommen, ikke personen, forårsager disse ændringer.
-- **Presse på eller skynde sig.** Alzheimer's Association råder til ikke at hæve stemmen, vise alarm, klemme op, presse, holde fast, kritisere, ignorere eller diskutere med personen, og til at undgå pludselige bevægelser uden for deres synsfelt.
-- **Bruge skyldfølelse.** »Jeg har sat alt det her op for dig« får jer begge til at have det værre.
-- **Give etiketter.** »Stædig« eller »svær« skjuler den rigtige grund og gør det sværere at løse.
+- **At diskutere eller insistere.** „Kom nu, bare én gang til“ eller „Du elsker jo det her“ hjælper sjældent.
+- **At udspørge eller rette.** „Du ved godt, hvad det er“ eller „Nej, den er forkert“ lægger pres på.
+- **At tage det personligt.** NIA minder om, at det er sygdommen, ikke personen, der forårsager disse ændringer.
+- **At stå for tæt på eller skynde.** Alzheimer's Association råder til ikke at hæve stemmen, vise alarm, trænge personen op i et hjørne, stå for tæt på, fastholde, kritisere, ignorere eller diskutere med personen, og til at undgå pludselige bevægelser uden for deres synsfelt.
+- **At bruge skyldfølelse.** „Jeg har gjort det hele klar til dig“ efterlader jer begge med en dårligere følelse.
+- **At sætte mærkater på.** „Stædig“ eller „besværlig“ skjuler den egentlige årsag og gør det sværere at finde en løsning.
 
-## Hvordan finder jeg ud af, hvad der ligger bag gentagne afvisninger?
+## Hvordan kan jeg finde ud af, hvad der ligger bag gentagne afvisninger?
 
-Før en simpel note i en til to uger. NIA siger, at det at følge adfærdsændringer kan hjælpe pårørende og sundhedspersonale med at genkende et mønster og finde årsagen.
+Skriv enkle noter i en uge eller to. NIA fortæller, at det kan hjælpe både pårørende og sundhedspersonale at holde øje med ændringer i adfærd for at genkende et mønster og finde årsagen.
 
-Notér:
+Skriv kort ned:
 
-- tidspunktet på dagen;
-- hvad du tilbød, og hvordan du spurgte;
-- hvad der foregik omkring dig (støj, besøgende, fjernsyn);
-- hvordan de sov, spiste og drak, og hvornår de sidst var på toilettet;
-- nye mediciner eller nylig sygdom.
+- tidspunktet på dagen
+- hvad du tilbød, og hvordan du spurgte
+- hvad der foregik omkring jer (støj, besøgende, tv)
+- hvordan personen sov, spiste og drak, og hvornår vedkommende sidst var på toilettet
+- ny medicin eller nylig sygdom.
 
-Mønstre viser sig ofte hurtigt: afvisninger, der kun sker efter kl. 16, kun med et bestemt spil, eller kun når fjernsynet er tændt. Family Caregiver Alliances [guide til demensadfærd](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) siger det enkelt: vi kan ikke ændre personen, men vi kan ændre vores egen adfærd og omgivelserne.
+Mønstre viser sig ofte hurtigt: afvisninger, der kun sker efter 4 p.m., kun med et bestemt spil, eller kun når tv'et er tændt. Family Caregiver Alliances [guide til adfærd ved demens](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) siger det enkelt: Vi kan ikke ændre personen, men vi kan ændre vores egen adfærd og omgivelserne.
 
-## Hvornår skal jeg tale med en læge om afvisning eller frustration?
+## Hvornår bør jeg tale med en læge om afvisning eller frustration?
 
-Tal med en læge, når adfærden ændrer sig pludselig, hurtigt eller sammen med tegn på sygdom. NIA siger, at pludselige eller hurtigt svingende adfærdsændringer, især hvis personen har haft en infektion eller nylige medicinændringer, straks skal tages op med en læge.
+Tal med en læge, når adfærden ændrer sig pludseligt, hurtigt eller sammen med tegn på sygdom. NIA fortæller, at pludselige eller hurtigt skiftende ændringer i adfærd, især hvis personen har haft en infektion eller nylige ændringer i medicin, straks bør tages op med en læge.
 
-Kontakt personens læge hurtigt, hvis du lægger mærke til:
+Kontakt deres læge hurtigt, hvis du bemærker:
 
-- pludselig forvirring eller en stor ændring over timer eller dage;
-- tegn på smerte, såsom grimasser, at beskytte en kropsdel eller nyt besvær med at bevæge sig;
-- feber eller andre tegn på infektion;
-- nye eller ændrede mediciner efterfulgt af en ændring i adfærd;
-- tab af interesse for næsten alt, tårevædethed eller tilbagetrækning, der varer mere end et par uger;
-- afvisning af mad eller drikke.
+- pludselig forvirring eller en stor ændring i løbet af timer eller dage
+- tegn på smerter, såsom at personen trækker sig, beskytter en del af kroppen eller har nye problemer med at bevæge sig
+- feber eller andre tegn på infektion
+- ny eller ændret medicin efterfulgt af en ændring i adfærd
+- manglende interesse for næsten alt, grådlabilitet eller tilbagetrækning, der varer mere end et par uger
+- at personen nægter at spise eller drikke.
 
-Alzheimer's Association anbefaler et grundigt lægetjek for alle med adfærdssymptomer, især når de opstår pludselig. Family Caregiver Alliance råder også til at tjekke med lægen først, fordi adfærdsproblemer kan have en medicinsk årsag. Start, stop eller ændr ikke nogen medicin uden at tale med en læge eller apoteker.
+Alzheimer's Association anbefaler en grundig lægelig vurdering for alle med adfærdsmæssige symptomer, især hvis de opstår pludseligt. Family Caregiver Alliance råder også til først at tale med lægen, fordi adfærdsændringer kan have en medicinsk årsag. Start, stop eller ændr ikke medicin uden at tale med en læge eller en farmaceut.
 
-Ring 112, hvis nogen er i fare, eller hvis der er tegn på en medicinsk nødsituation. NIA foreslår, at du fortæller dispatcheren, at personen har demens.
+Hvis nogen er i fare, eller hvis der er tegn på en akut medicinsk nødsituation, skal du ringe 911. NIA foreslår at fortælle alarmcentralen, at personen har demens. For konkrete råd om sikkerhed, hvis vrede bliver fysisk, kan du læse vores [guide til vrede og aggression ved demens](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Er det okay, hvis vi slet ikke gør noget?
+## Er det i orden, hvis vi slet ikke laver noget?
 
-Ja. Nogle dage er den bedste aktivitet ingen aktivitet: at sidde sammen, holde i hånden, lytte til en yndlingsplade eller se fuglene ude ved vinduet. Det er ikke en fiasko. Vores [guide til at spille sammen](/caregiving/how-to-play-together/) forklarer, hvorfor det at stoppe tidligt, eller aldrig at begynde, nogle gange er det rigtige valg.
+Ja. Nogle dage er den bedste aktivitet ingen aktivitet: at sidde sammen, holde hinanden i hånden, lytte til et yndlingsnummer eller se på fugle uden for vinduet. Det er ikke en fiasko. Vores [guide til at lave aktiviteter sammen](/caregiving/how-to-play-together/) forklarer, hvorfor det kan være det rigtige at stoppe tidligt eller slet ikke at starte.

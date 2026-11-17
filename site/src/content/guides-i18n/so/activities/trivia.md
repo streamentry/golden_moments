@@ -1,33 +1,34 @@
 ---
-title: "Su’aalo Fudud oo Waayeelka ku nool Dementia, Cadaadis La’aan"
-seoTitle: "Su’aalo Fudud oo Dementia: 50 Su’aalood"
-description: "50 su’aalood oo fudud oo waayeelka ku nool dementia loogu talagalay, oo leh doorashooyin iyo qodobbo wadahadal, iyo sida loo wado si aan qofna loo imtixaamin."
+title: "Su’aalo fudud oo madadaalo ah dadka waaweyn ee waallida qaba"
+seoTitle: "Su’aalo madadaalo dadka waaweyn ee waallida qaba"
+description: "50 su’aalood oo madadaalo fudud ah oo loogu talagalay dadka waaweyn ee la nool waallida, oo leh jawaabo la doorto iyo qodobbo sheeko lagu bilaabo."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Su’aalaha fudud ee waayeelka ku nool dementia waxay shaqeeyaan marka ay u
-  dhawaadaan wadahadal, ma aha imtixaan. Weydii waxyaabo la bartay muddo hore,
-  sida hees, hadallo, dabaaldegyo iyo nolosha maalinlaha ah, mar kastana sii
-  laba ama saddex doorasho. Jawaabta si xor ah sii, ha doorin qof gaar ah, dhibco
-  ha samayn, oo jawaab kasta u isticmaal bilow sheeko. Su’aalaha “tan mise tii”
-  ee aan lahayn jawaab khaldan ayaa ku habboon marxaladaha dambe.
+  Su’aalaha madadaalada ah ee dadka waaweyn ee la nool waallida waxay si fiican
+  u shaqeeyaan marka ay u ekaadaan sheeko lala wadaagayo, ee aysan u ekayn
+  imtixaan. Weydii waxyaabo hore loo bartay, sida heeso duug ah, maahmaahyo,
+  ciidaha iyo nolol maalmeedka, oo had iyo jeer bixi laba ama saddex doorasho.
+  Jawaabta si naxariis leh u sheeg, qofna ha u kala saarin, dhibco ha isticmaalin,
+  oo jawaab kasta u isticmaal inaad sheeko ku bilowdo. Su’aalaha “kan ama kaas”
+  ee aan lahayn jawaab khaldan waxay ku habboon yihiin marxaladaha dambe.
 keyPoints:
-  - "Weydii waxyaabo muddo dheer la yaqaan: hees, hadallo, dabaaldegyo, cunto iyo nolosha maalinlaha ah ee sannadihii hore."
-  - "Sii laba ama saddex doorasho si jawaabta loo aqoonsan karo halkii laga soo xusuusan lahaa."
-  - "Jawaabta si diirran dheh oo ka sii wad. Qiyaas kasta oo bilaabda sheeko waa qiyaas wanaagsan."
-  - "Dhibco ma jiraan, kooxo is-dhaafsanaya ma jiraan, hal qof lama magacaabo. Jawaabuhu ha ka yimaadaan qolka oo dhan."
-  - "Marka doorashada jawaabaha ay adkaato, u wareeg su’aalaha tan-mise-tii ee aan lahayn jawaab sax ah."
+  - "Weydii waxyaabo muddo dheer la yaqaanay: heeso, maahmaahyo, ciidaha, cunto iyo nolol maalmeedka sannado hore."
+  - "Bixi laba ama saddex doorasho si jawaabta loo aqoonsado halkii laga soo xasuusan lahaa."
+  - "Jawaabta si diirran u sheeg oo sii wad. Qiyaas kasta oo sheeko bilaabta waa qiyaas fiican."
+  - "Dhibco ma jiraan, kooxo tartamaya ma jiraan, qofna si gaar ah ha loogu yeedhin. Jawaabuhu ha ka yimaadaan qof kasta oo qolka jooga."
+  - "Marka ay adkaato kala doorashada jawaabaha, u beddel su’aalaha kan ama kaas ee aan lahayn jawaab sax ah."
 faq:
-  - q: "Ma waxqabad wanaagsan baa su’aalaha fudud ee dadka ku nool dementia?"
-    a: "Waa noqon kartaa, haddii si jilicsan loo wado. Alzheimer's Foundation of America waxay su’aalaha fudud ku taxdaa waxqabadyada marxaladda hore. Su’aalaha ka dhig kuwo ku saabsan mowduucyo muddo dheer la yaqaan, sii doorashooyin, hal qof ha la hor dhigin, oo jawaabaha u daawee sidii albaab wadahadal, ma aha imtixaan."
-  - q: "Mowduucyo kee ayaa ugu fiican su’aalaha fudud ee dementia?"
-    a: "Waxyaabaha muddo hore la bartay inta badan way ugu fiican yihiin: hees iyo fannaaniin caan ah oo dhalinyaranimada qofka ka mid ahaa, hadallo la yaqaan, dabaaldegyo, cunto, ciyaaro iyo nolosha maalinlaha ah. Ka fogow wararka dhawaan iyo wax kasta oo u baahan inaad xusuusato wax ka horreeyay fadhigan."
-  - q: "Sidee u wadaa su’aalaha guri daryeel anigoon qofna ceeb gelin?"
-    a: "Su’aal kasta u akhri kooxda oo dhan, tus ama sheeg doorashooyinka, oo ka soo dhawow jawaab qof kasta. Ha magacaabin shaqsiyaad ama ha celin dhibco. Jawaabta ku dheh dhoola cadeyn, wax kasta oo la qiyaasay, oo weydii su’aal dabagal ah sida ‘Yaa halkan ka mid ah weligii ciyaaray kubbadda cagta?’ si ay u noqoto sheekooyin."
-  - q: "Maxaan samayn karaa halkii su’aalo fudud marxaladaha dambe?"
-    a: "U wareeg su’aalo aan lahayn jawaab khaldan, sida ‘Qaxwo mise shaah?’ ama ‘Xeeb mise buuro?’, iyo dhammaystirka hadallo ama heeso la yaqaan oo wadajir ah. Sawirro la wada fiiriyo oo la wada sharaxo sidoo kale si fiican ayay u shaqeeyaan."
+  - q: "Su’aalaha madadaalada ah ma yihiin waxqabad ku habboon dadka la nool waallida?"
+    a: "Way noqon karaan, haddii si deggan loo sameeyo. Alzheimer's Foundation of America waxay ku taxdaa su’aalaha madadaalada waxqabadka ku habboon marxaladda hore. Su’aalaha ka dhig mowduucyo muddo dheer la yaqaanay, bixi doorashooyin, qofna ha gelin xaalad cadaadis ah, oo jawaabaha u arag sidii waddo sheeko loo bilaabo halkii ay ka ahaan lahaayeen imtixaan."
+  - q: "Mowduucyadee ayaa ugu wanaagsan su’aalaha madadaalada ee waallida?"
+    a: "Waxyaabaha hore loo bartay ayaa badanaa ugu habboon: heesaha iyo fannaaniinta caanka ahaa ee yaraantii qofka, maahmaahyo la yaqaan, ciidaha, cuntada, ciyaaraha, iyo nolol maalmeedka sida keenista caanaha ama taleefannada wareega. Ka fogow wararka dhawaa iyo wax kasta oo u baahan in la xasuusto wax hore ugu dhacay isla kulanka."
+  - q: "Sideen ugu qabtaa su’aalaha madadaalada guriga daryeelka anigoo aan qofna ka xishoonayn?"
+    a: "Su’aal kasta u akhri kooxda oo dhan, tus ama dheh doorashooyinka, oo soo dhawoow jawaabaha qof kasta. Ha u yeedhin shaqsiyaad gaar ah hana xajin dhibco. Jawaabta si dhoola-caddeyn leh u sheeg si kasta oo loo qiyaasay, oo weydii su’aal daba socota sida ‘Yaa halkan mar aaday goob filim lagu daawado gaariga dhexdiisa?’ si aad ugu beddesho sheekooyin."
+  - q: "Maxaan samayn karaa halkii su’aalaha madadaalada marxaladaha dambe?"
+    a: "U beddel su’aalo aan lahayn jawaab khaldan, sida ‘Qaxwo ama shaah?’ ama ‘Xeeb ama buuraha?’, iyo dhamaystirka maahmaahyo ama heeso la yaqaan oo wadajir ah. Daawashada sawirro iyo ka wada sheekayntooda sidoo kale si fiican ayay u shaqaysaa."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Su’aalaha fudud waa mid ka mid ah waxqabadyada kooxeed ee ugu badan ee laga codsado guryaha daryeelka iyo barnaamijyada maalinta, qoysas badan na waxay ku ciyaaraan miiska jikada. Haddii si caadi ah loo wado, oo dhibco leh iyo hal qof oo jawaabaya, waxay qofka ku nool dementia ka dhigi kartaa mid dareema inuu cadaadis ku jiro. Haddii si jilicsan loo wado, waa hab firfircoon oo sheekooyin lagu maqlo. Hoos waxaa ku yaal 50 su’aalood oo fudud oo leh doorashooyin jawaab iyo wax laga wada hadlo mid kasta, ka dibna sida fadhi loo wado. Su’aalahan waxaa loo habeeyay akhristayaasha Soomaaliga ah; u hagaaji qofka aad daryeeleyso.
+Su’aalaha madadaalada ah waa mid ka mid ah waxqabadka kooxda ee loogu baahida badan yahay guryaha daryeelka iyo barnaamijyada maalinta, qoysas badanna waxay ku ciyaaraan miiska jikada. Marka loo sameeyo sida caadiga ah, oo leh dhibco iyo hal qof oo ka jawaabaya, waxay qofka la nool waallida ka dhigi karaan inuu dareemo in cadaadis la saaray. Marka si deggan loo sameeyo, waa hab firfircoon oo sheekooyin lagu maqlo. Hoos waxaa ku yaal 50 su’aalood oo fudud oo leh jawaabo la doorto iyo wax laga wada hadlo oo mid kasta la socda, waxaana ku xiga sida loo qabto kulanka.
 
-## Sidee u shaqeeya su’aalaha fudud qof ku nool dementia?
+## Sidee su’aalaha madadaalada uga dhigi kartaa kuwo u shaqeeya qofka la nool waallida?
 
-Ka dhig mid ku saabsan aqoonsiga iyo xusuusta waxyaabaha muddo hore dhacay, oo jawaab kastaba ka dhig mid soo dhawaysan.
+Ka dhig kuwo ku saabsan aqoonsiga iyo xusuusashada waxyaabihii hore, oo ka dhig jawaab kasta mid la soo dhawaynayo.
 
-1. **Weydii waayihii hore.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) waxay sheegtaa in calaamadda hore ee ugu badan ee Alzheimer ay tahay dhibaatada xusuusta macluumaad cusub oo la bartay. Hees, hadallo iyo nolosha maalinlaha ah ee tobanaan sano ka hor inta badan waa dhul ka fudud.
-2. **Mar kasta sii doorashooyin.** Doorashada jawaabta saxda ah laba ama saddex ka mid ah aad ayay uga fududahay in wax kasta laga soo saaro.
-3. **Su’aalaha kor u akhri oo weyn u tus.** Sabuurad cad ama taablad la qabto ayaa caawisa dadka maqalkoodu yar yahay.
-4. **Jawaabta si xor ah sii.** Haddii cidna aysan aqoon, si diirran u dheh oo ka sii wad. Weligaa ha odhan “Ka soo wad, waad taqaanaa.”
-5. **Dhibco ha jirin.** Ha loo samayn shaqsiyaadka ama miisaska. Haddii dadku doonayaan lambar, hal wadarta kooxda ku hay.
-6. **Weligaa ha magacaabin hal qof.** U ogolow jawaabaha inay ka yimaadaan qof kasta. Haddii aad qof keliya la joogto, wada jawaab: “Waxaan u maleynayaa waa piano. Adiguna maxaad u malaynaysaa?”
-7. **Isticmaal qodobka wadahadalka.** Jawaabtu waa bilow, ma aha dhammaad. Sheekooyinku waa hadafka runta ah.
-8. **Ka dhig mid gaaban.** Toban su’aalood oo sheekooyin ay u dhexeeyaan way ku filan yihiin.
+1. **Weydii waxyaabihii waagii hore.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) waxay sheegtaa in calaamadda hore ee ugu badan ee cudurka Alzheimers ay tahay dhibaato xusuusashada macluumaadka dhowaan la bartay. Heesaha, maahmaahyada iyo nolol maalmeedkii tobannaan sano ka hor badanaa waa dhul fudud.
+2. **Had iyo jeer bixi doorashooyin.** Ka doorashada jawaabta saxda ah laba ama saddex waxay aad uga fududahay in laga soo saaro xusuusta la’aantood.
+3. **Su’aalaha kor u akhri oo si weyn u muuji.** Sabuurad cad ama tablet kor loo hayo waxay caawisaa dadka maqalkoodu yaraaday.
+4. **Jawaabta si xor ah u bixi.** Haddii qofna uusan garanayn, si naxariis leh u sheeg oo sii wad. Weligaa ha odhan “Kaalay, waad taqaannaa tan.”
+5. **Dhibco ha isticmaalin.** Shakhsiyaad ha u dhigin, miisaska hana u dhigin. Haddii dadku rabaan tiro, hal wadarta kooxda u hay.
+6. **Qof keliya ha u yeedhin.** Jawaabuhu ha ka yimaadaan qof kasta. Marka aad laba qof tihiin, si wadajir ah uga jawaaba: “Waxaan u maleynayaa inay tahay biyaano. Adigu maxaad u malaynaysaa?”
+7. **Isticmaal qodobka wada sheekaysiga.** Jawaabtu waa bilow, ma aha dhammaad. Sheekooyinku waa yoolka dhabta ah.
+8. **Ka dhig mid gaaban.** Toban su’aalood oo ay dhexdooda jiraan sheekooyin way ku filan yihiin.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) waxay xeerka ugu muhiimsan si fudud u sheegtaa: ka feejignow niyad-jabka oo hubi in qofku dareemo guul. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) waxay su’aalaha fudud ku taxdaa waxqabadyada marxaladda hore. Marxaladda dhexe, ku sii hay laba doorasho oo ku tiirso qodobbada wadahadalka. Goor dambe, u wareeg su’aalaha tan-mise-tii ee hoose.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) waxay xeerka aasaasiga ah si fudud u sheegtaa: fiiri calaamadaha niyad-jabka oo hubi in qofku dareemo guul. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) waxay ku taxdaa su’aalaha madadaalada waxqabadka marxaladda hore. Marxaladda dhexe, ku koob laba doorasho oo ku tiirsanow qodobada wada sheekaysiga. Mar dambe, u beddel su’aalaha kan ama kaas ee hoos ku yaal.
 
-## Su’aalaha muusikada iyo madadaalada
+## Su’aalo madadaalo oo ku saabsan muusigga iyo madadaalada
 
-Jawaabta waxaa lagu qoray **far cad (bold)**. Qofka u hagaaji: qof ku soo koray hees gaar ah ayaa u baahan kara fannaaniin kale.
+Jawaabtu waa **midda madow**. Ku habbee qofka: qof ku soo koray muusigga Motown wuxuu doonayaa fannaaniin ka duwan qof ku soo koray kooxaha waaweyn ee muusigga.
 
-| Su’aal | Doorashooyin | Ka hadal |
+| Su’aal | Doorashooyin | Ka wada hadla |
 | --- | --- | --- |
-| Qalabkee muusik ayaa leh 88 fure? | Gitaar, **piano**, turumbeeto | Qof qoyskiina ka mid ah ma ku ciyaari jiray? |
-| Qalabkee muusik ayaa afka laga afuufaa? | **Turumbeeto**, durbaan, piano | Ma weligaa dhegaysatay qof turumbeeto ku ciyaaraya? |
-| Qalabkee muusik ayaa xadhig leh? | **Gitaar**, durbaan, turumbeeto | Ma jeclayd inaad gitaar dhegaysato? |
-| Durbaanka sidee loo ciyaaraa? | **Waa la garaacaa**, waa la afuufaa, waa la cunaa | Ma maqashay durbaan dabaaldeg lagu ciyaarayo? |
-| Hees marka la heesayo, maxaa la isticmaalaa? | **Cod**, indho, sanka | Hees kee ayaad jeceshahay? |
-| Wararka iyo heesaha guriga laga dhegeysto waa... | **Raadiyo**, shaah, dhir | Raadiyahaaga ma dhegeysan jirtay? |
-| Telefishinku inta badan wuxuu muujiyaa... | **Sawirro iyo cod**, ur, dhadhan | Barnaamij kee ayuu qoyskiinu wada daawan jiray? |
-| Marka muusik la dhegeysto oo jidhka la dhaqaajiyo, waxaa la yiraahdaa... | **Cayaar**, hurdo, cuntakarin | Cayaar ma jeclayd, xaggee ku ciyaari jirtay? |
-| Soomaalidu waxay caan ku tahay... | **Gabay iyo suugaan af ah**, baraf, dhisme dhaadheer | Gabay ma xusuustaa? |
-| Gitaarka, piano-ga iyo turumbeetada dhammaantood waa... | **Qalab muusik**, cunto, dhar | Qalabka kee ayaad ugu jeceshahay codkiisa? |
+| Yaa lagu naanaysi jiray Boqorka Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Waligaa ma ku aragtay Elvis telefishanka? |
+| Fannaankee lagu naanaysi jiray Ol’ Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Heeskee Sinatra ah ayaad ugu jeceshahay? |
+| Bing Crosby wuxuu ku riyoonayay kirismas... | **cad**, aroos, guri | Si wadajir ah u heesa hal sadar |
+| Louis Armstrong wuxuu ku heesay “What a Wonderful...” | Day, **World**, Life | Maxaa aduunka ka dhigaya mid qurux badan adiga kugu ah? |
+| “Over the Rainbow” waxaa ku heesay Judy Garland filimkee? | **The Wizard of Oz**, Gone with the Wind, Singin’ in the Rain | Xaggee ku daawan jirtay filimadaad aad ugu jeceshahay? |
+| Yaa ciyaaray Lucy ee “I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Barnaamijyo noocee ah ayay qoyskaaga si wadajir ah u daawan jireen? |
+| Cowboy-gee ayaa fuushan faras lagu magacaabo Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Ma ciyaari jirtay ciyaarta cowboys-ga markaad yaraayd? |
+| Yaa martigeliyay “The Tonight Show” muddo 30 sano ah? | Ed Sullivan, **Johnny Carson**, Bob Hope | Ma sii jeedi jirtay habeenkii si aad telefishanka u daawato? |
+| Qalabkee muusig ayaa leh 88 furayaal? | Gitaar, **biyaano**, buun | Ma jiray qof qoyskaaga ka mid ah oo ciyaari jiray? |
+| Qoob-ka-ciyaarkee ayaa lagu tiriyaa hal-laba-saddex, hal-laba-saddex? | **Waltz**, twist, tango | Xaggee ku tegi jirtay qoob-ka-ciyaarka? |
 
-Wax dheeraad ah oo ku saabsan muusikada, eeg [waxqabadyada muusikada ee dementia](/activities/music/).
+Wixii dheeraad ah oo ku saabsan muusigga, eeg [waxqabadka muusigga ee waallida](/activities/music/).
 
-## Su’aalaha nolosha maalinlaha ah
+## Su’aalo madadaalo oo ku saabsan nolol maalmeedka
 
-| Su’aal | Doorashooyin | Ka hadal |
+| Su’aal | Doorashooyin | Ka wada hadla |
 | --- | --- | --- |
-| Maalinta ka dambaysa Khamiista waa... | **Jimce**, Arbaco, Sabti | Maalinta Jimcaha sidee ku qaadan jirtay? |
-| Toddobaadku maalmo meeqa ah? | 5, **7**, 10 | Maalinta toddobaadka ee aad ugu jeceshahay waa kee? |
-| Sannadku bilo meeqa leeyahay? | 10, **12**, 14 | Bisha aad dhalatay waa kee? |
-| Shaah waxaa lagu cabbaa... | **Koob**, saxan, kabo | Shaahaaga sidee u cabbi jirtay? |
-| Waqtiga waxaa lagu eegaa... | **Saacad**, miis, koob | Saacad ma lahayd qof qoyskiina ka mid ah? |
-| Gacmaha waxaa lagu dhaqaa biyo iyo... | **Saabuun**, sonkor, cusbo | Saabuunta nooceeda ayaad isticmaali jirtay? |
-| Cagaha waxaa lagu xidhaa... | **Kabo**, koofiyad, gacmo-xidh | Kabahaaga waayihii hore ma xasuustaa? |
-| Madaxa waxaa la saaraa... | **Koofiyad**, kabo, sharaabaad | Koofiyad ama masar ma jeclayd? |
-| Cuntada waxaa lagu karsadaa... | **Jikada**, qolka hurdada, bakhaarka | Yaa jikada ku karsan jiray guriga? |
-| Biyaha waxaa lagu qaadaa... | **Jeerigaan**, saxan, kabo | Biyaha meesha laga keeni jiray ma xasuustaa? |
+| Kahor qaboojiyeyaasha, guryo badan waxay cuntada ku qaboojin jireen... | **Sanduuq baraf**, foorno, saqaf-sare | Yaa keen jiray barafka? |
+| Yaa caanaha ku keeni jiray albaabka dhalooyin quraarad ah? | Boostada, **ninka caanaha keena**, wiilka wargeyska keena | Maxaa kale oo guriga la keen jiray? |
+| Sideed u garaaci jirtay taleefanka wareega? | Adigoo badhammo riixaya, **adigoo giraangir wareejinaya**, adigoo la hadlaya | Ii sheeg taleefankii gurigiinna yaallay |
+| Shirkaddee samaysay gaariga Model T? | **Ford**, Chevrolet, Buick | Ii sheeg gaari aad jeclaan jirtay |
+| Xaggee laga heli jiray qofka cabitaanka soodhada ka iibiya miiska? | **Goob cabitaan laga iibiyo**, goob rooti lagu dubo, bangi | Maxaad ka dalban jirtay miiska? |
+| Ciyaartee waa il bir ah oo jaranjarooyinka hoos u socon karta? | Yo-yo, **Slinky**, hula hoop | Ciyaartoydee ayaad jeclaan jirtay? |
+| Drive-in-ku wuxuu ahaa meel lagu daawado... | **Filimo adigoo gaarigaaga ku jira**, ciyaaraha kubbadda, dhoolatusyo | Yaa kula socday? |
+| Yaa wejigiisu ku yaal doollarka halka ah? | Lincoln, **George Washington**, Jefferson | Halkii doollar muxuu iibsan jiray waagaas? |
+| Yaa wejigiisu ku yaal lacagta hal senti ah? | **Abraham Lincoln**, Washington, Franklin | Ma ku kaydsan jirtay senti dhalo dhexdeed waagaas? |
+| Midabkee baska dugsigu badanaa leeyahay? | Casaan, **jaalle**, buluug | Sideed iskuulka u tegi jirtay? |
 
-## Dabaaldegyada, dabeecadda iyo meelaha
+## Su’aalo madadaalo oo ku saabsan ciidaha, dabeecadda iyo meelaha
 
-| Su’aal | Doorashooyin | Ka hadal |
+| Su’aal | Doorashooyin | Ka wada hadla |
 | --- | --- | --- |
-| Bisha ugu dambeysa sannadka waa... | Nofembar, **Diseembar**, Janaayo | Sannadka dhammaadkiisa sidee u xusi jirteen? |
-| Bisha soonka ee Muslimiintu qaataan waxaa la yiraahdaa... | **Ramadaan**, Janaayo, Diseembar | Ramadaanka sidee ku qaadan jirteen? |
-| Bisha Ramadaan dhammaadkeeda waxaa la dabaaldegaa... | **Ciidul Fidri**, maalinta dhalashada, sannad-guuro | Ciidda sidee ku qaadan jirteen? |
-| Soomaaliya xeebteeda bari waxaa ku taal badweynta... | Atlantic, **Hindiya**, Arctic | Ma weligaa tagtay xeebta? |
-| Waa kee mid ka mid ah wabiyada waaweyn ee Soomaaliya? | **Webiga Shabeelle**, Webiga Niil, Webiga Congo | Ma aragtay webiga? |
-| Xayawaanka lagu yaqaan “markabka lamadegaanka” waa... | **Geel**, eey, fardo | Geel ma lahayd qoyskaagu? |
-| Shinnidu waxay sameysaa... | Caano, **malab**, xariir | Malabka ma jeceshahay? |
-| Qorraxdu waxay ka soo baxdaa... | **Bari**, galbeed, waqooyi | Subaxda ma jeclayd inaad hore u toostid? |
-| Biyaha badda dhadhankooda waa... | Macaan, **cusbo leh**, dhanaan | Ma weligaa dhadhamisay biyaha badda? |
-| Xilliga ka dambeeya Jiilaalka waa... | **Gu’**, Xagaa, Dayr | Xilliga kee ayaad jeceshahay? |
-| Sannadka ay ku jirto 29 Febraayo (leap year) wuxuu leeyahay maalmo... | 365, **366**, 360 | Ii sheeg maalin dhalasho oo aad xusuusato |
-| Hal gacan faro meeqa ayay leedahay? | 4, **5**, 6 | Ma lagu baray inaad faraha ku tiriso? |
+| Ciiddee baa ku beegan khamiista afraad ee Nofeembar? | Labor Day, **Thanksgiving**, Memorial Day | Maxaa had iyo jeer miiskaaga saarnaa? |
+| Jack-o’-lanterns waxaa loo sameeyaa ciiddee? | **Halloween**, Easter, Christmas | Ii sheeg Halloween-kii aad ku soo kortay |
+| Afaraad ee Luulyo wuxuu xusaa Baaqa... | Xuquuqda, **Madax-bannaanida**, Xorriyadda | Xaggee ku daawan jirtay rashka? |
+| Maalinta Hooyooyinku waa bisha kee? | Abriil, **Maajo**, Juun | Sidee qoyskaagu u dabaal-degi jiray? |
+| Immisa xiddigood ayaa ku yaal calanka Mareykanka? | 48, **50**, 52 | Calanku wuxuu lahaa 48 xiddigood ilaa 1959. Labada jawaaboodba waa xusuus fiican |
+| Baddee baa ku taal Xeebta Bari? | Baasifig, **Atlaantik**, Arktik | Waligaa ma tagtay xeebta? |
+| Magaaladee baa Taallada Xorriyaddu ku taal? | Boston, **New York**, Philadelphia | Ma tagtay New York? |
+| Shinnidu maxay sameysaa? | Caano, **malab**, xariir | Malab rooti la mariyo ama shaah lagu daro? |
+| Ilmaha lo’da waxaa la yiraahdaa... | Faras yar, **weylo**, orgi yar | Waligaa ma ku nooleed meel u dhow beer xoolo? |
+| Ubaxkee dheer ee jaallaha ah ayaa caan ku ah u jeedsashada qorraxda? | Ubax, **gabbaldaye**, tulip | Maxaa ku beeri jiray beertaada? |
+| Immisa maalmood ayaa ku jira sannad booddo? | 365, **366**, 360 | Ii sheeg maalintii dhalasho ee aad xasuusato |
+| Xilligee baa ka dambeeya jiilaalka? | Dayrta, **gu’ga**, xagaaga | Xilligee ayaad ugu jeceshahay? |
 
-## Su’aalaha cuntada iyo ciyaaraha
+## Su’aalo madadaalo oo ku saabsan cuntada iyo ciyaaraha
 
-| Su’aal | Doorashooyin | Ka hadal |
+| Su’aal | Doorashooyin | Ka wada hadla |
 | --- | --- | --- |
-| Canjeero waxaa inta badan laga sameeyaa... | **Bur**, caano, malab | Canjeero ma jeceshahay, maxaadna la cuntay? |
-| Marka la furto soonka, dad badan waxay ku furtaan... | **Timir**, bur ceeriin, cusbo | Timirtu ma ahayd cuntadii ay qoyskaagu jeclaayeen? |
-| Moos bisil midabkiisu waa... | Buluug, **jaalle**, casaan | Moos ma jeceshahay? |
-| Caano geel waxaa laga helaa... | **Geel**, shinni, kalluun | Caanaha geela ma cabbi jirtay? |
-| Sonkortu dhadhankeedu waa... | **Macaan**, dhanaan, cusbo | Shaahaaga sonkor ma ku dari jirtay? |
-| Liinta dhadhankeedu waa... | Macaan, **dhanaan**, cusbo | Liin ma ku dari jirtay shaahaaga? |
-| Cuntada ugu horreysa ee subaxda waxaa la yiraahdaa... | **Quraac**, qado, casho | Quraacda maxaad cuni jirtay? |
-| Cuntada habeenkii la cuno waxaa la yiraahdaa... | Quraac, qado, **casho** | Cashada yaa karsan jiray? |
-| Kooxda kubbadda cagta waxay garoonka ku leedahay ... ciyaartoy | 9, **11**, 13 | Kooxda kee ayaad taageeri jirtay? |
-| Ciyaarta kubbadda cagta waxay socotaa ... daqiiqo, guud ahaan | 60, **90**, 120 | Ma ciyaari jirtay kubbadda cagta? |
+| Sabiibku waa canab... | Plums, **la qalajiyey**, jeeriga | Ma ku ridi jirtay sabiib qadada? |
+| Prunes-ku waa... | **Plums la qalajiyey**, berde la qalajiyey, tufaax la qalajiyey | Yaa qoyskaaga ka mid ahaa ee jeclaa prunes-ka? |
+| Subagga lawska iyo... | **Jele**, farmaajo, hilib doofaar | Jajaban ama siman? |
+| Guacamole badanaa waxaa laga sameeyaa... | Digir cagaaran, **avokado**, qajaar | Cunto noocee ah oo la rusheeyo ayaa xafladaha la keen jiray? |
+| Keeg kee baa caan ku ah Thanksgiving? | **Bocor**, liin dhanaan, jeeri | Keeg kee ayaad samayn jirtay? |
+| Immisa ciyaartoy ayaa koox kubbadda koleyga ahi ku leedahay garoonka? | 7, **9**, 11 | Kooxdee ayaad taageeri jirtay? |
+| Immisa jeer oo la seego ayaa ka dhigaya qofka baxay kubbadda koleyga? | Laba, **saddex**, afar | Waligaa ma ciyaartay kubbad? |
+| Babe Ruth wuxuu caan ku ahaa ciyaartee? | Feerka, **kubbadda koleyga**, golf | Ma tegi jirtay ciyaaraha kubbadda? |
+| Immisa god ayaa ku yaal garoon golf oo caadi ah? | 9, **18**, 24 | Waligaa ma ciyaartay golf, ama mini golf? |
+| Ciyaartee ayaad ku dhalisaa touchdown? | **Kubbadda cagta Mareykanka**, xeegada barafka, kubbadda kolayga | Yaa daawan jiray kubbadda cagta Mareykanka gurigiinna? |
 
-## Hadallo la yaqaan
+## Maahmaahyo la yaqaan
 
-Halkan waxaa lagu soo qaaday salaamo iyo hadallo maalinle ah oo dadka badani si fudud u dhammaystiraan. Maahmaaho halkan ma ku jiraan, si aan u ilaalino sax ahaanta. Haddii qofka iyo qoyskiisu yaqaanaan maahmaaho ama gabayo gaar ah, ku dar iyaga. Ciyaarteena Ingiriisiga ah ee [Dhammaystir maahmaahda](/games/finish-the-saying/) ayaa tusaale dheeraad ah ka bixisa.
+Dhamaystirka maahmaahdu waxay ka timaadaa luqad hore loo bartay oo badanaa si fudud ayay u timaadaa. Ciyaarteena [Dhamaystir maahmaahda](/games/finish-the-saying/) waxay leedahay kuwo kale oo badan, oo leh taabasho si loo muujiyo dhammaad kasta.
 
-| Hadal | Doorashooyin | Ka hadal |
+| Maahmaah | Doorashooyin | Ka wada hadla |
 | --- | --- | --- |
-| Subax ... | **wanaagsan**, hurdo, cunto | Yaa kaa salaami jiray subaxdii? |
-| Galab ... | **wanaagsan**, qoyan, dheer | Galabta maxaad samayn jirtay? |
-| Habeen ... | **wanaagsan**, qoyan, dheer | Habeenkii sidee u hurdi jirtay? |
-| Asalaamu calaykum – jawaabtu waa Wacalaykumu ... | **salaam**, subax, habeen | Salaanta yaa kuu bartay? |
-| Nabad ... | **gelyo**, cunto, subax | Marka lagu sii huraayo sidee u dhihi jirtay? |
-| Soo ... | **dhawoow**, dhaqaaq, dhaaf | Marti yaa ku soo booqan jiray? |
-| Mahad... | **sanid**, cuntakarin, shaah | Yaa ahaa qofka ugu mahad naqda qoyskiinna? |
-| Is ka ... | **warran**, seexo, cun | Salaanta sidee u dhihi jirtay? |
+| Tufaax maalin kasta wuxuu ka fogeeyaa... | **Dhaqtarka**, roobka, bisadda | Yaa sidan kuu odhan jiray? |
+| Shimbirta hore waxay heshaa... | Baska, **gooryaanka**, tareenka | Ma tahay qof subaxii firfircoon? |
+| Ha tirin digaagga ka hor intaysan... | **Dillaacin**, seexan, heesin | Qoyskaagu ma hayn jiray digaag? |
+| Hal senti oo la kaydiyo waa hal senti oo... | **La helay**, la waayay, la kharash gareeyay | Yaa ahaa qofka kaydsada ee qoyskaaga? |
+| Gurigu waa meesha ay... | Beertu tahay, **qalbigu yahay**, jikadu tahay | Maxaa meel ka dhiga mid guriga u eg? |
+| Inaad daahdo way ka fiican tahay inaadan... | Horeyn, **waligaa iman**, ka xumaan | Yaa had iyo jeer daahi jiray? |
+| Daruur kasta waxay leedahay... | **Dhinac qalin ah**, malqacad, lacag | Ii sheeg nasiib aad heshay |
+| Ficilladu waxay ka dhawaaq weyn yihiin... | **Erayada**, muusigga, onkodka | Ii sheeg qof sidaas odhan jiray |
 
-## Su’aalaha tan-mise-tii ee aan lahayn jawaab khaldan
+## Su’aalaha kan ama kaas ee aan lahayn jawaab khaldan
 
-Tani waxay ku habboon yihiin marxalad kasta, oo ay ku jirto marxaladaha dambe, maxaa yeelay wax sax ah oo la helo ma jiro. Weydii, dhegayso, oo adigana jawaabtaada la wadaag.
+Kuwani waxay ku habboon yihiin marxalad kasta, xitaa marxaladaha dambe, sababtoo ah ma jiraan wax sax ah oo la helo. Weydii, dhagayso, oo adiguna jawaabtaada la wadaag.
 
-- Qaxwo mise shaah?
-- Xeeb mise buuro?
-- Eey mise bisad?
-- Xagaa mise Jiilaal?
-- Keeg mise rooti?
-- Cayaar mise daawasho?
-- Qorrax-soo-bax mise qorrax-dhac?
-- Fadhi banaanka mise fadhi gudaha?
-- Raadiyo mise telefishin?
-- Canjeero mise ukun?
-- Ubax casaan mise ubax jaalle?
-- Baabuur mise socod?
+- Qaxwo ama shaah?
+- Xeeb ama buuraha?
+- Eeyo ama bisado?
+- Xagaa ama jiilaal?
+- Keeg ama doolsho?
+- Qoob-ka-ciyaar ama daawasho?
+- Qorrax-soobax ama qorrax-dhac?
+- Barxadda hore ama barxadda dambe?
+- Raadiyo ama cajalado?
+- Canjeero ama ukumo?
+- Ubaxyo casaan ah ama ubaxyo yaryar?
+- Safar tareen ama safar gaari?
 
-Su’aalo wadahadal oo sawirro la socdaan, isku day [Kaararka wadahadalka](/games/conversation-cards/) ee la daabaci karo.
+Su’aalo wada sheekaysi oo sawirro la socda, isku day kaararkeena la daabacan karo ee [Kaararka wada sheekaysiga](/games/conversation-cards/).
 
-## Sidee u wadaa fadhi su’aalo ah guri daryeel ama koox?
+## Sideed ugu qabtaa kulan su’aalo madadaalo ah guriga daryeelka ama koox?
 
-1. **Dadka u fadhiisi si ay u arkaan oo u maqlaan.** Qalabka maqalka gal, muraayadaha xidh, TV-ga dami.
-2. **Ku bilow wadahadal.** “Su’aalo ku saabsan wakhtiyadii hore ayaan haystaa, waxaana hubaa inaad ka badan ogtahay.”
-3. **Su’aal kasta laba jeer akhri oo doorashooyinka weyn tus.**
-4. **Jawaabaha ka soo dhawow meel kasta oo qolka ah.** Jawaabaha wanaagsan ku celi si qof kasta u maqlo.
-5. **Jawaabta qof kasta u dheh,** ka dibna qodobka wadahadalka qolka weydii.
+1. **Dadku ha fadhiistaan si ay u arki karaan oo u maqli karaan.** Aaladaha maqalka ha ku jiraan, muraayadaha indhaha ha xidhaan, telefishankana ha dansanaado.
+2. **U soo bandhig sidii sheeko.** “Waxaan hayaa su’aalo ku saabsan waagii hore, waxaanan hubaa inaad iga taqaannaan wax badan.”
+3. **Su’aal kasta laba jeer akhri oo doorashooyinka si weyn u muuji.**
+4. **Soo dhawoow jawaabaha meel kasta oo qolka ka timaada.** Jawaabaha wanaagsan ku celi si qof walba u maqlo.
+5. **Jawaabta qof walba u sheeg,** ka dibna su’aasha daba socota u weydii qolka.
 6. **Raac tamarta.** Haddii hal su’aal ay bilowdo toban daqiiqo oo sheekooyin ah, u daa.
-7. **Ku soo gabagabee hees ama wareeg tan-mise-tii,** si qof kastaa u dhammeeyo wax fudud.
+7. **Ku dhammee hees ama wareeg su’aalaha kan ama kaas ah,** si qof walba uu ugu dhammeeyo wax fudud.
 
-Qaabab kale oo kooxeed, oo ay ku jiraan bingo sawir iyo wada-heesidda, eeg [waxqabadyada kooxeed ee guryaha daryeelka](/activities/care-home-groups/).
+Qaabab kale oo kooxeed, oo ay ku jiraan bingo sawirro iyo heeso wadajir ah, eeg [waxqabadka kooxaha ee guryaha daryeelka](/activities/care-home-groups/).
 
-## Goorma qorshaha la beddelaa
+## Goorma ayaa qorshaha la beddelaa
 
-Haddii qof u muuqdo mid walaacsan, aamusa ama yiraahda “ma ogi” in ka badan hal mar, ka dhig mid ka fudud: ku dhaaf laba doorasho, wada jawaab, ama u wareeg su’aalaha tan-mise-tii. Haddii kooxdu doorbido inay hal su’aal galabta oo dhan ka hadlaan, taasi waa guul. Ujeedadu marna ma ahayn jawaabaha saxda ah. Waxay ahayd wakhti wanaagsan oo lagu wada qaato.
+Haddii qof u muuqdo mid walwalsan, aamuso ama in ka badan hal jeer yiraahdo “Ma aqaan”, ka dhig mid fudud: hoos u dhig laba doorasho, si wadajir ah uga jawaaba, ama u beddel su’aalaha kan ama kaas. Haddii kooxdu ay doorbidayso inay hal su’aal ka hadasho galabtii oo dhan, taasi waa guul. Ujeeddadu weligeed ma ahayn jawaabaha saxda ah. Waxay ahayd waqti lala qaato dad wanaagsan.

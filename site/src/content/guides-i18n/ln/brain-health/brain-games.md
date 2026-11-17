@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Masano ya bongo ekangolaka bokono ya kobosana ?"
+seoTitle: "Masano ya bongo mpe bokono ya kobosana"
+description: "Makambo oyo bolukiluki elobi na ntina ya masano ya bongo mpe bokono ya kobosana : kolekisa makanisi, ACTIVE mpe likambo ya Lumosity, na maloba ya pete."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Masano moko te ya bongo emonisami ete ekangolaka bokono ya kobosana. Masano ya
+  bongo ya ordinatɛrɛ esalisaka mingi na misala oyo bato bazali komeka. Bolukiluki
+  moko ya ACTIVE ekangisaki kolekisa moko ya mbangu, elongo na bakonzi ya kobakisa,
+  na motángo moke ya bokono ya kobosana oyo emonisami na boumeli ya mbula 20, ezali
+  likambo ya moke. Mpo na bato oyo bazali kobika na bokono ya kobosana, kolekisa
+  makanisi na etuluku emonisaka matomba ya mike mpe ya ntango mokuse. Masano ezali
+  malamu mingi mpo na kosepela mpe kozala elongo.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Bolukiluki ya kolekisa bongo emonisi ete bato bakómaka malamu na misala oyo bazali komeka, kasi ezali na bilembeteli moke ete yango ekoki kosalisa na makambo ya mokolo na mokolo."
+  - "Na bolukiluki ACTIVE, kaka bato oyo basalaki kolekisa ya mbangu ya lolenge moko elongo na bakonzi ya kobakisa bazalaki na motángo moke ya bokono ya kobosana oyo emonisami na boumeli ya mbula 20. Kolekisa ya mbangu kozanga bakonzi ya kobakisa, kolekisa ya bobatelami mpe ya kokanisa emonisaki yango te."
+  - "Na 2016, kompanyi oyo esalaki Lumosity efutaki $2 million mpo na kokokisa boyokani na FTC na ntina ya maloba ete bazangaki bilembeteli ya siansi mpo na makambo oyo balobaki lokola kopekisa bokono ya kobosana."
+  - "Mpo na bato oyo bazali na bokono ya kobosana ya pete to ya katikati, bituluku ya kolekisa makanisi emonisaka matomba ya mike mpe ya ntango mokuse mpo na makanisi mpe matomba ya polele mpo na kosolola mpe koyokana na bato mosusu."
+  - "Masano ya Golden Moments ezali mpo na kosepela mpe mpo na kolekisa ntango elongo. Ezali lisalisi ya monganga te mpe ekangolaka to ekitisaka bokono ya kobosana te."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Masano ya bongo ekangolaka bokono ya Alzheimer ?"
+    a: "Masano moko te ya bongo emonisami ete ekangolaka bokono ya Alzheimer to bokono mosusu ya kobosana. National Institute on Aging elobi ete ezali na bilembeteli ya kokoka te mpo na koloba ete baaplikasio ya mombongo ya kolekisa bongo ezali na bopusi oyo emonanaki na bolukiluki ya siansi. Masano ekoki kaka kozala lolenge ya malamu ya kolekisa ntango."
+  - q: "Bolukiluki ACTIVE emonaki nini na ntina ya kolekisa ya mbangu mpe bokono ya kobosana ?"
+    a: "Na botalisi ya 2026, balukiluki bakangisaki makambo ya bato ya ACTIVE na mikanda ya Medicare na boumeli ya mbula 20. Bato oyo basalaki kolekisa ya mbangu ya kosala makambo mpe bazwaki ata bokonzi moko ya kobakisa bazalaki na motángo moke ya bokono ya kobosana oyo emonisami, soki tokokanisi bango na etuluku oyo ezwaki kolekisa te. Kolekisa ya mbangu kozanga bakonzi ya kobakisa, mpe kolekisa ya bobatelami to ya kokanisa, emonisaki bopusi ya monene te."
+  - q: "Masano mpe bilembo ya kokanisa ezali malamu mpo na moto oyo azali kobika na bokono ya kobosana ?"
+    a: "Ekoki kozala malamu, soki moto yango azali kosepela na yango. Kolekisa makanisi na etuluku, oyo ezali na masano ya maloba, bilembo ya kokanisa, miziki mpe masolo, emonisaka matomba ya mike mpe ya ntango mokuse mpo na makanisi, mpe matomba ya polele mpo na kosolola mpe koyokana na bato mosusu. Kosepela, kasi te mbano ya komekama, ezali mokano ya malamu."
+  - q: "Mpo na nini FTC epesaki Lumosity etumbu ?"
+    a: "Na 2016, Federal Trade Commission efundaki ete Lumos Labs esalaki maloba na ntina ya masano na yango, bakisa mpe kopekisa kokita ya makoki mpo na mbula to bokono ya kobosana, kozanga bilembeteli ya siansi mpo na kolendisa yango. Kompanyi endimaki kofuta $2 million mpe kozala na bilembeteli ya siansi ya kotyela motema liboso ya koloba makambo ya ndenge wana na mikolo ekoya."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,100 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Masano ya bongo ezali bisika nyonso, mpe mingi elakaka kobatela makanisi na bino. Soki ozali kobatela moto oyo azali kobika na bokono ya kobosana, to ozali komitungisa mpo na bobatelami na yo moko, ezali ya ndenge ya kotuna soki kosakana na yango ekoki kosalisa. Tala makambo oyo bolukiluki emonisi mpenza, bakisa mpe biteni oyo epesi elikya mpe biteni oyo epesi elikya te.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Oyo ezali sango ya ndenge nyonso, kasi te toli ya monganga. Tala
+[likebisi na biso mpo na makambo ya monganga](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Masano ya bongo ekangolaka bokono ya kobosana ?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Masano moko te ya bongo emonisami ete ekangolaka bokono ya kobosana. National Institute on Aging (NIA) ekebisi bato bázala na bokebi na maloba oyo elobi ete masano ya ordinatɛrɛ mpe ya internet ekoki kobongisa bobatelami, mpe elobi ete ezali na bilembeteli ya kokoka te ete aplikasio moko ya mombongo ya kolekisa bongo ezali na bopusi ndenge moko na kolekisa oyo bamekaki na bolukiluki ya monganga ([NIA na ntina ya kopekisa bokono ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Yango elingi koloba te ete masano ezali na tina te. Elingi koloba ete motuya na yango ezali na kosepela, kozala elongo mpe momesano ya mokolo na mokolo, kasi te na kobatela moto na bokono ya kobosana.
 
-## What is "near transfer", and why does it matter?
+## « Near transfer » ezali nini, mpe mpo na nini ezali na tina ?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Ntango omeki mosala moko, mbala mingi okómaka malamu na mosala yango. Balukiluki babengi yango bopusi ya kolekisa. Motuna ya makasi ezali soki bobongisami yango **ekendaka** na makambo mosusu : na misala ya ndenge moko (near transfer) to na bomoi ya mokolo na mokolo, lokola kobatela bakita to kokamba mbongo (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Botalisi moko ya monene ya 2016 etalaki bolukiluki oyo bakompanyi ya kolekisa bongo babengaki lokola bilembeteli na bango ya malamu koleka. Emonaki bilembeteli mingi ete bato bakómaka malamu na misala oyo bamekaki, bilembeteli moke ete bakómaka malamu na misala ya penepene, mpe bilembeteli moke mpenza ete kolekisa ebongisaka makanisi ya mokolo na mokolo. Bolukiluki mingi mpe ezalaki na mabunga ya ndenge esalemaki, oyo ekomisaki mikano ya makasi mpasi
+([Simons mpe baninga, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Botalisi elobi nini na ntina ya kolekisa bongo na ordinatɛrɛ ?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Botalisi ya Cochrane, oyo esangisi bolukiluki ya malamu koleka, etalaki kolekisa ya ordinatɛrɛ oyo eumeli poso 12 to koleka :
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Bato ya mikolo ya malamu banda mbula 65 mpe koleka :** bolukiluki mwambe na bato 1,183. Bilembeteli ezalaki ya ntalo moke to moke mpenza. Ekoki kozala na litomba ya mike kaka nsima ya kolekisa, kasi ezali na bilembeteli ya polele te ete yango eumelaka
+  ([Botalisi ya Cochrane, bato ya mikolo ya malamu](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Bato oyo bazali na mikakatano ya mike ya makanisi :** bolukiluki mwambe na bato 660. Bolukiluki moko te elobaki soki bato bakómaki na bokono ya kobosana sima, mpe bilembeteli ezalaki ya bolembu mingi mpo na kozwa mikano
+  ([Botalisi ya Cochrane, mikakatano ya mike ya makanisi](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Bolukiluki ACTIVE emonaki nini ?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE ezali bolukiluki ya monene na États-Unis oyo ebandaki na 1998 na bato 2,802 ya mbula 65 mpe koleka, oyo bazalaki kofanda bango moko mpe bazangaki mikakatano ya monene ya bobatelami to ya makanisi. Bato batyamaki na lolenge ya libaku na moko ya bituluku misato ya kolekisa na bituluku ya mike (mbangu ya kosala makambo, bobatelami, to kokanisa) to na etuluku oyo ezwaki kolekisa te. Kolekisa ezalaki kino bakonzi zomi na boumeli ya poso mitano to motoba. Bato mosusu oyo basilisaki mingi ya bakonzi ya liboso bapesamaki lisusu, na lolenge ya libaku, **bakonzi ya kobakisa** pene na mbula moko mpe misato sima.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Kolekisa ya mbangu ezalaki na komona mpe kosala makambo na sango oyo emonanaki na tango mokuse koleka mpe koleka, na nivo oyo ezalaki kobongwana soki moto azali kobonga.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Na 2026, balukiluki bakangisaki bato 2,021 na mikanda na bango ya Medicare na boumeli ya mbula 20 ([Botalisi ya ACTIVE ya mbula 20](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Tala mpenza makambo oyo bamonaki :
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Kolekisa ya mbangu elongo na ata bokonzi moko ya kobakisa :** motángo moke ya bokono ya kobosana oyo emonisami, soki tokokanisi na etuluku oyo ezwaki kolekisa te (hazard ratio ya 0.75, oyo elingi koloba pene na motángo moke ya 25%).
+- **Kolekisa ya mbangu kozanga bakonzi ya kobakisa :** motángo moke te.
+- **Kolekisa ya bobatelami to ya kokanisa :** bopusi ya monene te na bokono ya kobosana oyo emonisami.
+- **Etuluku moko na moko ya kolekisa mobimba, soki tokokanisi na etuluku oyo ezwaki kolekisa te :** ezalaki lokola motángo moke, kasi ezalaki monene na mitángo te.
 
-### The limits of this finding
+### Ndelo ya likambo oyo
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Etali **lolenge moko ya sikisiki ya kolekisa ya mbangu oyo etambwisamaki na bato, elongo na bakonzi ya kobakisa**, kasi te masano nyonso ya bongo.
+- Mbano ya monene eutaki na **etuluku ya kati** (bato oyo basilisaki mingi ya bakonzi ya liboso mpe bapesamaki bakonzi ya kobakisa), kasi te na etuluku mobimba ya kolekisa ya mbangu.
+- Bokono ya kobosana emekamaki na **bâcode ya emoniseli na mikanda ya Medicare**, kasi te na kotala moto moko na moko. Pene na ndambo moko ya minei ya bato ya ebandeli batikamaki mpo ete bazalaki na Medicare Advantage, oyo ezangi mikanda ya mobimba.
+- Bato ya bolukiluki bazangaki mikakatano ya monene ya makanisi ntango babandaki. Mbano yango elobi eloko te mpo na masano mpo na bato **oyo bazali kobika na bokono ya kobosana** sikoyo.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Ezali mbano ya kosala ete moto akanisa, oyo esengeli bolukiluki mosusu. Ezali bilembeteli te ete aplikasio moko ekangolaka bokono ya kobosana.
 
-## What did the FTC say about Lumosity?
+## FTC elobaki nini na ntina ya Lumosity ?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Na sanza ya yambo 2016, Lumos Labs, kompanyi oyo esalaki Lumosity, endimaki kofuta $2 million mpo na kokokisa boyokani na makambo ya lokuta ya Federal Trade Commission. FTC elobaki ete kompanyi yango esalaki maloba, kozanga bilembeteli ya siansi ya kokoka, ete masano na yango ekoki kobongisa mosala na esika ya mosala mpe na kelasi, mpe ekoki kopekisa kokita ya makoki mpo na mbula, mikakatano ya mike ya makanisi, bokono ya kobosana mpe bokono ya Alzheimer. Mokano yango esengi kompanyi ezala na bilembeteli ya siansi ya kotyela motema liboso ya koloba makambo ya ndenge wana na mikolo ekoya ([Sango ya FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Liteya mpo na mabota : bózala na bokebi na lisano, aplikasio to manaka nyonso oyo elakaka kobatela bobatelami to kopekisa bokono ya kobosana.
 
-## Can games help someone who already has dementia?
+## Masano ekoki kosalisa moto oyo azali kobika na bokono ya kobosana ?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Ekoki kobakisa eloko ya malamu na mokolo, mpe yango ezali na tina mingi. Lolenge oyo etalelamaki mingi ezali **kolekisa makanisi** : misala ya kosepela na etuluku lokola masolo, kokundola makambo ya kala, masano ya maloba, bilembo ya kokanisa mpe miziki, mbala mingi na etuluku ya mike oyo etambwisami na moto moko.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Botalisi ya Cochrane ya 2023 ya bolukiluki 37 na bato 2,766 oyo bazali na bokono ya kobosana ya pete to ya katikati emonaki
+([Botalisi ya Cochrane ya kolekisa makanisi](https://pubmed.ncbi.nlm.nih.gov/39804128/)) :
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **litomba ya mike mpe ya ntango mokuse** na bomekoli ya makanisi (bilembeteli ya ntalo ya katikati) ;
+- **bobongisami ya tina mpo na kosolola mpe koyokana na bato mosusu** (bilembeteli ya ntalo ya likoló, uta na bolukiluki ya moke) ;
+- **matomba ya mike** mpo na lolenge ya kobika, ezalela ya motema mpe bizaleli.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Matomba emekamaki mingi kaka nsima ya manaka ya pene na poso zomi, mpe bolukiluki moke etalaki soki eumelaki. Kolekisa makanisi ezali manaka ya etuluku oyo ebongisami, yango wana mbano yango ekoki kokokana na moto oyo azali kosakana ye moko na tableti te.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Komisyo ya Lancet ya 2024 elobi mpe ete manaka ya misala ezali na tina mpo na bato oyo bazali kobika na bokono ya kobosana, mpo na kobatela kosepela mpe tina ya bomoi
+([Komisyo ya Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Masano ezali mpenza malamu mpo na nini ?
 
-When chosen well, games can offer:
+Soki eponami malamu, masano ekoki kopesa :
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Kosepela.** Kolekisa ngonga ya malamu ezali na tina mpo na yango moko.
+- **Boyokani.** Kosakana pembeni ya moto mosusu epesaka likambo ya pete ya kokabola ntango masolo ezali makasi. Tala [ndenge ya kosakana elongo](/caregiving/how-to-play-together/).
+- **Momesano.** Mosala oyo eyebani na ngonga moko na mokolo ekoki komema kimia.
+- **Kondima makoki na ye.** Misala oyo ekokani na makambo oyo moto akoki naino kosala malamu epesaka ye nzela ya koyoka ete azali na makoki, kasi te ete bazali komeka ye.
+- **Masolo.** Elilingi to lisese oyo eyebani ekoki kofungola lisolo. Meká
+  [bakarte ya masolo](/games/conversation-cards/) to
+  [kosilisa lisese](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Makambo oyo esengeli koboya : batángo ya ngonga, bapointi, milongo ya kolonga mpe eloko nyonso oyo emonani lokola bomekoli ya bobatelami. Soki moto akómi na motungisi, telemá. Kotelema liboso, to kokutana kaka elongo, ezali mbano ya malamu. Buku na biso ya
+[kopona baaplikasio mpe masano](/caregiving/choosing-apps-and-games/) ezali na liste ya kotala.
 
-## Where Golden Moments fits
+## Golden Moments ezali wapi
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Masano ya Golden Moments, lokola [bililingi oyo ekokani](/games/picture-pairs/),
+[puzzle ya bililingi](/games/picture-puzzle/) mpe
+[boluki ya maloba na mikanda minene](/games/word-search/), esalemi mpo na kosepela mpe mpo na kolekisa ntango elongo. Ezangi ngonga mpe ezangi bapointi. Ezali **te** lisalisi ya monganga, mpe **ekangolaka** to **ekitisaka** bokono ya kobosana **te**. Tosepeli koloba yango polele, na esika ya kolaka eloko oyo lisano moko te ekoki kopesa.
 
-## Talk with a doctor
+## Sololá na monganga
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Soki ozali komitungisa mpo na mbongwana ya bobatelami na yo moko to na moto oyo ozali kobatela, kendá komona monganga na esika ya kotya elikya na aplikasio. Monganga akoki koluka bantina oyo ekoki kosalisama mpe kosolola na bino na ntina ya matambe oyo ezali na bilembeteli ya malamu, lokola kobatela tension mpe kotala koyoka. Tala
+[Bokono ya kobosana ekoki kopekamisa ?](/brain-health/can-dementia-be-prevented/) mpo na koyeba makambo mosusu. Soki libulungano eyebani mbala moko to mbongwana mosusu eyaka mbala moko, luka lisalisi ya monganga ya nokinoki.

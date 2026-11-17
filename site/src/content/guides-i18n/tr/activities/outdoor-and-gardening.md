@@ -1,33 +1,34 @@
 ---
-title: "Demansı Olan Kişiler İçin Bahçe ve Dış Mekân Etkinlikleri"
-seoTitle: "Demans İçin Bahçe İşleri ve Dış Mekân Etkinlikleri"
-description: "Demansla yaşayan kişiler için bahçe ve dış mekân etkinlik fikirleri; yüksek yataklar, saksı bahçeleri ve sıcak, güneş ve kaybolma için güvenlik ipuçları."
+title: "Demans Yaşayan Kişiler İçin Açık Hava ve Bahçe Etkinlikleri"
+seoTitle: "Demans İçin Bahçe ve Açık Hava Etkinlikleri"
+description: "Demans yaşayan kişiler için bahçe ve açık hava etkinliği fikirleri; yükseltilmiş bahçe yatakları, saksı bahçeleri, sıcak, güneş ve gezinme için güvenlik ipuçları."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Bahçe işleri ve dışarıda vakit geçirmek, demansla yaşayan biri için sakin ve
-  tanıdık bir etkinlik olabilir. Sulamayı, otları saksıya dikmeyi, solmuş
-  çiçekleri koparmayı ya da çitle çevrili bir bahçede kısa bir yürüyüşü
-  deneyin. Kimsenin diz çökmemesi için yüksek yataklar ya da bir masa kullanın,
-  keskin aletlerden ve zehirli bitkilerden kaçının, günün serin saatinde çıkın
-  ve kişinin yanında kalın.
+  Bahçeyle ilgilenmek ve açık havada zaman geçirmek, demans yaşayan bir kişi
+  için sakin ve tanıdık bir etkinlik olabilir. Sulama, saksıya ot dikme,
+  solmuş çiçekleri temizleme ya da çitle çevrili bir bahçede kısa bir yürüyüş
+  deneyebilirsiniz. Kimsenin diz çökmek zorunda kalmaması için yükseltilmiş
+  bahçe yatakları veya bir masa kullanın, keskin aletlerden ve zehirli
+  bitkilerden kaçının, günün daha serin saatlerinde dışarı çıkın ve her zaman
+  kişinin yanında olun.
 keyPoints:
-  - "Sulamak, tohum ekmek, otların kokusunu almak ve çiçek toplamak gibi basit bahçe işleri ayakta ya da oturarak yapılabilir."
-  - "Yüksek yataklar, saksılar ve örtülü bir masa bahçeyi bel hizasına getirir ve düşme riskini azaltır."
-  - "Keskin aletlerden, dikenli ya da tahriş edici bitkilerden ve zehirli her şeyden kaçının. Toprağın yiyecek sanılmamasına dikkat edin."
-  - "Sıcak, yaşlı yetişkinler için tehlikeli olabilir. Sabah erken ya da akşam geç çıkın, su ve gölge getirin ve rahatsızlığın ilk belirtisinde içeri girin."
-  - "Demansla yaşayan pek çok kişi bir noktada kaybolabilir. Dışarıdayken kişinin yanında kalın; güncel bir fotoğraf ve kimlik bilgisini hazır tutun."
+  - "Sulama, saksıya tohum ekme, otları koklama ve çiçek toplama gibi basit bahçe işleri ayakta ya da oturarak yapılabilir."
+  - "Yükseltilmiş bahçe yatakları, saksılar ve üstü kapalı bir masa, bahçeyi bel hizasına getirir ve düşme riskini azaltır."
+  - "Keskin aletlerden, dikenli ya da tahriş edici bitkilerden ve zehirli her şeyden kaçının. Toprağın yiyecek sanılmadığından emin olun."
+  - "Sıcak, yaşlı yetişkinler için tehlikeli olabilir. Sabahın erken saatlerinde ya da akşamüzeri dışarı çıkın, su ve gölge bulundurun, ilk rahatsızlık belirtisinde içeri geçin."
+  - "Demans yaşayan birçok kişi zaman zaman gezinme davranışı gösterebilir. Dışarıdayken kişinin yanında olun ve güncel bir fotoğraf ile kimliği hazır bulundurun."
 faq:
-  - q: "Demansı olan biri hangi bahçe işlerini yapabilir?"
-    a: "Çiçekleri sulamak, küçük saksılara tohum ekmek, otlara dokunup kokularını almak, solmuş çiçekleri koparmak, sebze toplamak, kesme çiçek düzenlemek ve bir yolu süpürmek iyi seçeneklerdir. İçeride, pencere kenarında bir otlar saksısı ya da örtülü bir masada bir tepsi toprak iyi çalışır. İşi, kişinin eskiden neyden hoşlandığına ve şimdi rahatça neyi yapabildiğine göre seçin."
-  - q: "Demansı olan birini sıcakta nasıl güvende tutarım?"
-    a: "Dışarıda geçirilecek zamanı daha serin olan sabahın erken ya da akşamın geç saatlerine planlayın, kısa tutun ve sık sık su verin. Gölge, geniş kenarlı bir şapka, hafif bol giysiler ve güneş kremi seçin. Yaşlı yetişkinler sıcağa bağlı hastalıklar için daha yüksek risk altındadır; kafa karışıklığı, baş dönmesi ya da mide bulantısı uyarı işaretleri olabilir. Bunları fark ederseniz hemen içeri girip serinleyin."
-  - q: "Kaybolma eğilimi varsa dışarı nasıl çıkarız?"
-    a: "Tüm süre boyunca kişinin yanında kalın, kapısı sürgülü, çitle çevrili bir bahçe kullanın ve kimlik bileziği takmasını ya da yanında kimlik taşımasını sağlayın. Güncel bir fotoğrafı hazır tutun. Kişi kaybolursa Alzheimer's Association, 15 dakika içinde bulunamazsa ABD'de 911'i aramayı öneriyor; Türkiye'de bunun karşılığı 112'dir."
-  - q: "Bahçemiz yoksa ne olur?"
-    a: "Bir verandada ya da balkonda birkaç saksı, bir çiçeklik ya da mutfak masasında bir tepsi otlar yeterlidir. Bir parka, halka açık bir bahçeye ya da bir mahalle bahçesine de gidebilirsiniz. Dışarıda oturup kuş seslerini dinlemek de bir dış mekân etkinliğidir."
+  - q: "Demans yaşayan bir kişi hangi bahçe etkinliklerini yapabilir?"
+    a: "Bitkileri sulamak, küçük saksılara tohum ekmek, otları koklamak ve dokunmak, solmuş çiçekleri temizlemek, sebze toplamak, kesme çiçekleri düzenlemek ve bir yolu süpürmek iyi seçeneklerdir. İç mekânda, pencere kenarında bir saksı ot ya da üstü kapalı bir masada toprak tepsisi de işe yarar. Etkinliği, kişinin daha önce nelerden hoşlandığına ve şimdi rahatça neler yapabildiğine göre seçin."
+  - q: "Demans yaşayan birini sıcakta nasıl güvende tutabilirim?"
+    a: "Dışarıda geçirilen zamanı daha serin olan sabahın erken saatleri ya da akşam için planlayın, kısa tutun ve sık sık su ikram edin. Gölge, geniş siperlikli bir şapka, açık renkli bol giysiler ve güneş kremi tercih edin. Yaşlı yetişkinlerde sıcağa bağlı hastalık riski daha yüksektir; kafa karışıklığı, baş dönmesi ya da mide bulantısı uyarı işaretleri olabilir. Bunları fark ederseniz hemen içeri geçin ve serinleyin."
+  - q: "Gezinme eğilimi varsa nasıl dışarı çıkabiliriz?"
+    a: "Tüm süre boyunca kişinin yanında olun; sürgülü kapısı olan çitle çevrili bir bahçe ya da avlu kullanın ve kişinin kimlik bileziği taktığından ya da kimliğini yanında taşıdığından emin olun. Güncel bir fotoğrafı hazır bulundurun. Kişi kaybolursa yerel polisle ya da acil durum hizmetleriyle hemen iletişime geçin; belirli bir süre beklemeyin. Yetkililere kişinin demans yaşadığını, en son nerede görüldüğünü söyleyin ve güncel bir fotoğraf verin."
+  - q: "Bahçemiz yoksa ne yapabiliriz?"
+    a: "Balkonda birkaç saksı, bir pencere önü saksısı ya da mutfak masasında bir ot tepsisi yeterlidir. Bir parka, halka açık bir bahçeye ya da bir toplum bahçesine de gidebilirsiniz. Dışarıda oturup kuşları dinlemek de bir açık hava etkinliğidir."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +45,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +56,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Pek çok kişi için bahçe, bildikleri en tanıdık yerlerden biridir. Kazmak, sulamak ve çiçek toplamak çok önceden öğrenilmiş becerileri kullanır; dışarıda olmak ise temiz hava, güneş ışığı ve kuş sesi getirir. National Institute on Aging; bitkilere bakmak, çiçek ve sebze dikmek ve [bitkilerin nasıl büyüdüğünü konuşmayı](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), Alzheimer hastalığı olan kişilerin keyif alabileceği etkinlikler arasında sayıyor. Bu sayfa neleri deneyeceğinizi, bir bahçeyi kullanımı nasıl kolaylaştıracağınızı ve sıcak, güneş ve kaybolma konusunda nasıl güvende kalacağınızı ele alır.
+Birçok kişi için bahçe, en tanıdık yerlerden biridir. Toprağı kazmak, sulamak ve çiçek toplamak uzun zaman önce öğrenilmiş becerileri kullanır; dışarıda olmak ise temiz hava, güneş ışığı ve kuş sesleri getirir. National Institute on Aging, bitkilerle ilgilenmeyi, çiçek ve sebze ekmeyi ve [bitkilerin nasıl büyüdüğü hakkında konuşmayı](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) Alzheimer hastalığı yaşayan kişilerin hoşlanabileceği etkinlikler arasında sayar. Bu sayfada neler deneyebileceğinizi, bahçeyi kullanımı daha kolay hâle nasıl getirebileceğinizi ve sıcak, güneş ile gezinme durumunda nasıl güvende kalabileceğinizi bulabilirsiniz.
 
-## Hangi dış mekân ve bahçe etkinlikleri işe yarar?
+## Hangi açık hava ve bahçe etkinlikleri iyi olur?
 
-En iyi işler basit, tanıdık ve ayakta ya da oturarak yapılabilenlerdir. Kişinin eskiden neyden hoşlandığına göre seçin.
+En iyi işler basit, tanıdık ve ayakta ya da oturarak yapılabilen işlerdir. Seçiminizi, kişinin eskiden nelerden keyif aldığına göre yapın.
 
 ### Bahçede
 
-1. **Sulamak.** Küçük, hafif bir sulama kabı ya da nazik bir hortum başlığı ve erişilebilir birkaç saksı. Sulamanın net bir başı ve sonu vardır ve yanlış yapması zordur.
-2. **Saksılara tohum ekmek.** Alzheimer's Foundation of America, küçük saksılara tohum ekmeyi ve [büyümelerini izlemeyi](https://alzfdn.org/dementia-activity-gardening/) öneriyor. Fasulye, ayçiçeği ya da bezelye gibi büyük tohumları tutmak daha kolaydır.
-3. **Solmuş çiçekleri koparmak.** Solmuş çiçekleri elle koparmak nazik ve tekrarlı bir iştir. Dikensiz bitkiler seçin.
-4. **Sebze ya da ot toplamak.** Çeri domates, fasulye ve otlar toplaması kolay ve tadı güzeldir. Öğle yemeğinde kullanmak için içeri getirin.
-5. **Otlara dokunmak ve kokularını almak.** Biberiye, nane ve lavantanın güçlü, hoş kokuları vardır. Bir yaprağı parmaklarınız arasında ovun ve uzatın.
-6. **Bir yolu ya da verandayı süpürmek.** Dengesi sağlamsa düz, kuru bir yüzeyde hafif bir süpürge.
-7. **Kuş yemliğini doldurmak.** Sonra birlikte oturup kimin ziyarete geldiğini izleyin.
+1. **Sulama.** Küçük, hafif bir sulama kabı ya da yumuşak akışlı bir hortum başlığı ve ulaşılabilecek birkaç saksı. Sulamanın belirgin bir başlangıcı ve bitişi vardır; yanlış yapmak zordur.
+2. **Saksılara tohum ekmek.** Alzheimer’s Foundation of America, küçük saksılara tohum ekmeyi ve [büyümelerini izlemeyi](https://alzfdn.org/dementia-activity-gardening/) önerir. Fasulye, ayçiçeği ya da bezelye gibi büyük tohumları tutmak daha kolaydır.
+3. **Solmuş çiçekleri temizlemek.** Solmuş çiçekleri elle koparmak nazik ve tekrarlı bir iştir. Dikensiz bitkiler seçin.
+4. **Sebze ya da ot toplamak.** Kiraz domates, fasulye ve otlar kolayca toplanır ve tadına bakması hoş olabilir. Öğle yemeğinde kullanmak için içeri getirin.
+5. **Otları koklamak ve dokunmak.** Biberiye, nane ve lavantanın güçlü, hoş kokuları vardır. Bir yaprağı parmaklarınızın arasında ovalayın ve uzatın.
+6. **Bir yolu ya da terası süpürmek.** Denge yerindeyse düz ve kuru bir zeminde hafif bir süpürgeyle.
+7. **Kuş yemliğini doldurmak.** Sonra birlikte oturup kimin geldiğini izleyin.
 
-### İçeride, dışarı çıkmak mümkün olmadığında
+### Dışarı çıkmak mümkün olmadığında iç mekânda
 
-- **Pencere kenarında bir ot bahçesi:** fesleğen, maydanoz ya da frenk soğanı.
-- **Örtülü bir masada saksıya dikmek.** AFA, toprağı tek bir yerde tutmak için kafeterya tipi tepsiler kullanmayı ve toprağı küçük kaplarla taşımayı öneriyor.
-- **Çiçek düzenlemek;** bahçeden ya da bir manavdan/çiçekçiden alınmış kesme çiçekler ve yeşilliklerle.
-- **Bir buketten preslenmiş çiçekler;** sonra kartlara yapıştırılır. Daha fazlası için [sanat ve el işlerine](/activities/arts-and-crafts/) bakın.
-- **Lavanta ya da gül kesecikleri yapmak;** bahçenin kokusunu içeride tutan başka bir AFA fikri.
+- **Pencere kenarında ot bahçesi**: fesleğen, maydanoz ya da frenk soğanı.
+- **Üstü kapalı bir masada saksılama.** AFA, toprağı tek bir yerde tutmak için kafeterya tarzı tepsiler kullanmayı ve toprağı küçük kaplarla taşımayı önerir.
+- **Çiçek düzenleme**: bahçeden ya da marketten alınan kesme çiçekler ve yeşilliklerle.
+- **Kurutulmuş çiçekler**: bir buketten alınan çiçekleri daha sonra kartlara yapıştırmak için kurutabilirsiniz. Daha fazlası için [sanat ve el işi etkinlikleri](/activities/arts-and-crafts/) sayfasına bakın.
+- **Lavanta ya da gül keseleri yapmak**: bahçenin kokusunu iç mekâna taşıyan bir başka AFA önerisi.
 
-### Dışarı çıkıp gezmek
+### Dışarıda dolaşmak
 
-- **Kısa bir yürüyüş;** mahallede, bir parkta ya da bir çiçek satış yerinde, yavaş bir tempoda ve oturacak bir yerle.
-- **Dışarıda oturmak;** bir verandada, balkonda ya da bir bankta kuşları dinlemek ve esintiyi hissetmek. Bu, tek başına eksiksiz bir etkinliktir.
-- **Halka açık bir bahçeyi ziyaret etmek;** günün sakin bir saatinde. NHS, bazı yerlerde kokulu bitkiler, dokular ve su öğeleri içeren duyu bahçeleri olduğunu belirtiyor.
-- **Yerel bir gölette ördekleri beslemek ya da kuşları izlemek;** su kenarından güvenli bir mesafede durarak.
+- **Kısa bir yürüyüş**: mahallenin çevresinde, bir parkta ya da bir bahçe merkezinde, yavaş tempoda ve oturacak bir yer olacak şekilde.
+- **Dışarıda oturmak**: bir verandada ya da bankta kuşları dinleyerek ve esintiyi hissederek. Bu tek başına eksiksiz bir etkinliktir.
+- **Halka açık bir bahçeyi ziyaret etmek**: günün sakin bir saatinde. NHS, kokulu bitkiler, farklı dokular ve su ögeleri bulunan duyusal bahçelerin olduğu yerler olabileceğini belirtir.
+- **Ördekleri beslemek ya da kuşları izlemek**: yerel bir gölette, su kenarından güvenli bir uzaklıkta durarak.
 
-## Bir bahçeyi kullanımı nasıl daha kolay hâle getiririm?
+## Bahçeyi kullanımı daha kolay hâle nasıl getirebilirim?
 
-Bahçeyi kişiye getirin, kişiyi bahçeye değil.
+Bahçeyi kişinin olduğu yere yaklaştırın, kişiyi bahçeye zorlamayın.
 
-- **Yaklaşık bel hizasındaki yüksek yataklar ya da uzun saksılar,** diz çökmeyi ya da eğilmeyi gerektirmez.
-- **Masa üstündeki saksılar,** tekerlekli sandalye kullanan ya da oturmayı tercih eden kişiler için işe yarar.
-- **Gevşek taşların ya da yerde uzanan hortumların olmadığı geniş, düz yollar** takılma riskini azaltır.
-- **Yol boyunca kolçaklı ve gölgeli oturma yerleri;** böylece dinlenmek her zaman bir seçenek olur.
-- **Tutması kolay, kalın ve yumuşak saplı aletler.** Budama makaslarını, bıçakları ve keskin her şeyi bir kenara bırakın.
-- **Kapısı sürgülü, çitle çevrili bir alan;** siz yakında dururken kişinin özgürce keşfedebileceği.
+- **Yükseltilmiş bahçe yatakları ya da yüksek saksılar** yaklaşık bel hizasında olduğunda diz çökmeye ya da eğilmeye gerek kalmaz.
+- **Masa üzerindeki saksılar** tekerlekli sandalye kullanan ya da oturmayı tercih eden kişiler için uygundur.
+- **Geniş ve düz yollar**; üzerinde gevşek taşlar ya da uzanan hortumlar olmadığında takılma riskini azaltır.
+- **Kolçaklı ve gölgeli oturma yerleri** yol boyunca dinlenmeyi her zaman mümkün kılar.
+- **Kalın ve yumuşak saplı aletler** tutması daha kolaydır. Budama makası, bıçak ve keskin her şeyden kaçının.
+- **Sürgülü kapısı olan çitle çevrili bir alan**; siz yakınlarda dururken kişinin özgürce dolaşabilmesini sağlar.
 
 ## Hangi bitkilerden kaçınmalıyım?
 
-Dokunması güvenli ve mümkünse tadılırsa da güvenli bitkiler seçin. AFA, cildi genellikle tahriş etmeyen bitkiler kullanmayı, alerjileri kontrol etmeyi ve toprağı yiyecek sanabilecek kişilere yakından dikkat etmeyi öneriyor. NIA'nın ev güvenliği önerileri, zehirli bitkilerin kaldırılmasını ya da kilit altına alınmasını içerir.
+Dokunması güvenli ve mümkünse tadına bakıldığında da güvenli bitkiler seçin. AFA, cildi tahriş etmeyen bitkiler kullanmayı, alerjileri kontrol etmeyi ve toprağı yiyecek sanabilecek kişileri yakından izlemeyi önerir. NIA’nın ev güvenliği önerileri arasında zehirli bitkileri ortadan kaldırmak ya da kilitlemek de yer alır.
 
-- Dikenli gülleri, kaktüsleri ve özsuyu cildi tahriş eden bitkileri kullanmayın.
-- Emin olmadığınız bir bitkiyi dikmeden önce bir zehir danışma merkezine (Türkiye'de Ulusal Zehir Danışma Merkezi, 114) ya da yerel bir çiçekçiye danışın.
-- Tanıdık favoriler hoş duyguları geri getirebilir. AFA örnek olarak gülleri ve Noel kaktüsünü anıyor. Dikensiz çeşitler seçin.
-- Gübreleri, böcek ilaçlarını ve ot öldürücüleri kilitli tutun ve kişinin ulaşabileceği alanlarda kullanmayın.
+- Dikenli güllerden, kaktüslerden ve cildi tahriş eden özsuyu olan bitkilerden kaçının.
+- Emin olmadığınız bir bitkiyi dikmeden önce bir zehir danışma merkezi ya da yerel bir bahçe merkeziyle kontrol edin.
+- Tanıdık ve sevilen bitkiler hoş duygular uyandırabilir. AFA, örnek olarak gül ve yılbaşı kaktüsünü anar. Dikensiz türleri seçin.
+- Gübreleri, böcek ilaçlarını ve yabani ot öldürücüleri kilitli tutun; kişinin ulaşabileceği alanlarda kullanmayın.
 
-## Sıcakta ve güneşte nasıl güvende kalırım?
+## Sıcak ve güneşte nasıl güvende kalabilirim?
 
-Dışarıda geçirilecek zamanı havaya göre planlayın. NIA, yaşlı yetişkinlerin [sıcağa bağlı hastalıklar](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) için daha yüksek risk altında olduğunu açıklıyor; bunun nedeni kısmen vücudun sıcaklık değişimlerine daha az iyi uyum sağlaması ve bazı ilaçların vücudun sıcağı nasıl yönettiğini etkilemesidir.
+Dışarıda geçirilen zamanı havaya göre planlayın. NIA, yaşlı yetişkinlerin [sıcağa bağlı hastalıklara](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) karşı daha yüksek risk altında olduğunu açıklar; bunun nedenlerinden biri vücudun sıcaklık değişikliklerine daha zor uyum sağlaması ve bazı ilaçların vücudun ısıyı yönetmesini etkilemesidir.
 
-- **Erken ya da geç çıkın.** Sıcak aylarda günün ortasından kaçının. Yalnızca sıcaklığa değil, hissedilen sıcaklığa da bakın.
-- **Sık sık su verin.** Kişinin susadığını söylemesini beklemeyin. Sıcakta alkolden ve kafeinli içeceklerden kaçının.
-- **Buna uygun giyinin.** Açık renkli, bol giysiler, geniş kenarlı bir şapka ve güneş gözlüğü.
-- **Güneş kremi kullanın.** NIA, geniş spektrumlu SPF 15 ya da daha yüksek bir krem öneriyor ve gün içinde yenilenmesini tavsiye ediyor.
-- **Gölge seçin.** Saksı masasını bir ağacın ya da şemsiyenin altına kurun.
-- **Kısa tutun.** Özellikle sıcak günlerde dışarıda kısa bir süre yeterli olabilir.
-- **Uyarı işaretlerine dikkat edin.** NIA, baş ağrısı, kafa karışıklığı, baş dönmesi ya da mide bulantısını sıcağa bağlı hastalığın olası belirtileri olarak sıralıyor. Demansı olan biri kendini iyi hissetmediğini size söylemeyebilir; yüzüne ve davranışına bakın. İçeri girin, su ve soğuk bir bezle serinletin ve hızlıca düzelmezse tıbbi yardım alın. Bayılma, kafa karışıklığı ya da kuru, kızarmış cilt gibi belirtilerle seyreden sıcak çarpması bir tıbbi acil durumdur: 112'yi arayın.
+- **Sabahın erken saatlerinde ya da akşam dışarı çıkın.** Sıcak aylarda günün ortasından kaçının. Yalnızca sıcaklığa değil, hissedilen sıcaklığa da bakın.
+- **Sık sık su ikram edin.** Kişinin susadığını söylemesini beklemeyin. Sıcakta alkolden ve kafeinli içeceklerden kaçının.
+- **Havaya uygun giyinin.** Açık renkli, bol giysiler, geniş siperlikli bir şapka ve güneş gözlüğü.
+- **Güneş kremi kullanın.** NIA, gün içinde yenilenen geniş spektrumlu SPF 15 ya da üzeri bir güneş kremi önerir.
+- **Gölgeyi tercih edin.** Saksılama masasını bir ağacın ya da şemsiyenin altına kurun.
+- **Kısa tutun.** Özellikle sıcak günlerde kısa bir süre dışarıda olmak yeterli olabilir.
+- **Uyarı işaretlerine dikkat edin.** NIA, baş ağrısı, kafa karışıklığı, baş dönmesi ya da mide bulantısını sıcağa bağlı hastalığın olası belirtileri arasında sayar. Demans yaşayan bir kişi kendini iyi hissetmediğini size söylemeyebilir; bu nedenle yüz ifadesini ve davranışlarını gözlemleyin. İçeri geçin, su ve serin bir bezle serinletin; kişi kısa sürede düzelmezse tıbbi yardım alın. Bayılma, kafa karışıklığı ya da kuru, kızarmış cilt gibi belirtilerle görülen sıcak çarpması tıbbi bir acil durumdur: 911’i arayın.
 
-Soğuk hava da önemlidir. Kışın dışarıda geçirilen zamanı kısa tutun ve ellerin ve ayakların sıcak ve kuru kalmasını sağlayın.
+Soğuk hava da önemlidir. Kışın dışarıda geçirilen zamanı kısa tutun ve ellerin ile ayakların sıcak ve kuru kalmasını sağlayın.
 
-## Dışarı çıktığımızda kaybolmayı nasıl yönetirim?
+## Dışarıdayken gezinme davranışını nasıl ele alabilirim?
 
-Kişi dışarıdayken her zaman yanında kalın. Alzheimer's Association, [demansla yaşayan 10 kişiden 6'sının](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) en az bir kez kaybolacağını ve pek çoğunun bunu birden fazla kez yaşadığını söylüyor. Bu, herhangi bir evrede olabilir.
+Kişi dışarıdayken her zaman yanında olun. Alzheimer’s Association, [demans yaşayan her 10 kişiden altısının](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) en az bir kez gezinme davranışı göstereceğini ve birçok kişinin bunu birden fazla kez yaşayacağını belirtir. Bu, herhangi bir evrede olabilir.
 
-NIA'nın [kaybolma ve yolunu şaşırma ipuçları](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) şunları içerir:
+NIA’nın [gezinme ve kaybolma](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) için önerileri şunlardır:
 
-- Kişinin adı, adresi ve sizin telefon numaranızın yazılı olduğu bir kimlik ya da tıbbi bileklik taktığından emin olun ya da giysilerini etiketleyin.
+- Kişinin üzerinde adı, adresi ve telefon numaranız yazılı bir kimlik ya da tıbbi bilezik olduğundan emin olun ya da giysilerini etiketleyin.
 - Kişinin güncel bir fotoğrafını ya da videosunu bulundurun.
-- Komşulara kişinin kaybolabileceğini bildirin.
-- Bahçeyi bir çit ve kilitli bir kapıyla güvenceye alın.
-- Kaybolma geçmişi olan birini gözetimsiz bırakmayın.
+- Komşulara kişinin gezinme davranışı gösterebileceğini söyleyin.
+- Bahçeyi çit ve kilitli bir kapıyla güvenli hâle getirin.
+- Daha önce gezinme davranışı göstermiş birini gözetimsiz bırakmayın.
 
-Alzheimer's Association ayrıca güvenle keşfedilebilecek iç ve dış mekân alanları oluşturmayı ve huzursuzluğun en olası olduğu saate göre etkinlikler planlamayı öneriyor. Güvenli, çevrili bir bahçede yürüyüş, günün geç saatlerindeki huzursuzluk için iyi bir seçenek olabilir. [Günün geç saatlerindeki huzursuzluk](/caregiving/late-day-restlessness/) rehberimize bakın.
+Alzheimer’s Association ayrıca güvenle keşfedilebilecek iç ve dış alanlar oluşturmayı ve huzursuzluğun en olası olduğu gün saatine yönelik etkinlikler planlamayı önerir. Güvenli, kapalı bir bahçede yürüyüş, günün ilerleyen saatlerindeki huzursuzluk için iyi bir seçenek olabilir. [Günün ilerleyen saatlerindeki huzursuzluk](/caregiving/late-day-restlessness/) rehberimize de göz atabilirsiniz.
 
-Kişi gerçekten kaybolursa Alzheimer's Association hemen yakın çevrede aramayı ve 15 dakika içinde bulunamazsa ABD'de 911'i aramayı öneriyor; Türkiye'de 112'yi arayın. Polise kişinin demansı olduğunu söyleyin.
+Kişi kaybolursa yerel polisle ya da acil durum hizmetleriyle hemen iletişime geçerken yakındaki güvenli yerleri de kontrol edin. Bildirmeden önce belirli bir süre beklemeyin. 2021 tarihli [kayıp kişi soruşturmalarına ilişkin bir U.S. Department of Justice dergi makalesi](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=), kolluk kuvvetlerinin belirli bir bekleme süresi şart koşmaması gerektiğini belirtir ve demansa benzer belirtileri yüksek riskli bir durum olarak sayar. Yerel bildirim prosedürleri değişiklik gösterebilir. Kişinin en son ne zaman ve nerede görüldüğünü, ne giydiğini ve güncel bir fotoğrafını paylaşın. Yerel görevlilerin yönlendirmelerine uyun; güvenli olmayan yerlerde tek başınıza arama yapmayın.
 
-## Durumlar değiştikçe bahçe işlerini nasıl uyarlarım?
+## Durum değiştikçe bahçe etkinliklerini nasıl uyarlayabilirim?
 
-| Bu zorlaştıysa | Bunun yerine şunu deneyin |
+| Bu zorlaşmışsa | Bunun yerine bunu deneyin |
 | --- | --- |
-| Bütün bir yatağa dikim yapmak | Bir saksıya bir tohum ekmek |
-| Yabani otları ayıklamak (otları bitkilerden ayırmak) | Sulamak ya da belli olan solmuş çiçekleri koparmak |
-| Bahçede dolaşmak | Bir tepsi toprak ve bir bitkiyle masada oturmak |
-| Dışarı çıkmak | Mutfak masasında bir otlar saksısı ya da açık bir pencerenin yanında bir koltuk |
-| Herhangi bir iş yapmak | Birlikte dışarıda oturup dinlemek ve bakmak |
+| Tüm bir bahçe yatağına ekim yapmak | Tek bir saksıya tek bir tohum ekmek |
+| Ot ayıklamak (otları bitkilerden ayırt etmek) | Sulama yapmak ya da belirgin şekilde solmuş çiçekleri temizlemek |
+| Bahçede dolaşmak | Toprak tepsisi ve bir bitkiyle masada oturmak |
+| Dışarı çıkmak | Mutfak masasında bir saksı ot ya da açık bir pencerenin yanında bir koltuk |
+| Herhangi bir iş yapmak | Birlikte dışarıda oturmak, dinlemek ve etrafa bakmak |
 
-Bazı kişiler sizin çalışmanızı izlemeyi tercih eder. NIA, kişinin keyif aldığı şey buysa sadece izlemesine izin vermenin sorun olmadığını belirtiyor.
+Bazı kişiler sizin çalışmanızı izlemeyi tercih edebilir. NIA, kişinin hoşlandığı şey buysa yalnızca izlemesine izin vermenin uygun olduğunu belirtir.
 
-## Ne zaman içeri girmeliyiz?
+## Ne zaman içeri geçmeliyiz?
 
-Kişi yorgun, sıcak, üşümüş, huzursuz ya da bitirmeye hazır göründüğünde içeri girin. Kısa ve hoş on dakika, sıkıntıyla biten uzun bir öğleden sonradan iyidir. Erken durmak iyi bir sonuçtur.
+Kişi yorgun, sıcak, üşümüş, tedirgin görünüyorsa ya da bitirmeye hazırsa içeri geçin. Rahatsızlıkla biten uzun bir öğleden sonra yerine, hoş geçen kısa on dakika daha iyidir. Erken bitirmek iyi bir sonuçtur.
 
-## Bahçeyi ekranda içeri getirin
+## Bahçeyi ekranda içeri taşıyın
 
-Yağmurlu günlerde, [Birlikte ayıralım](/games/sort-together/) resimleri ayırmak için bir bahçe sepeti sunar; [Sohbet kartları](/games/conversation-cards/) ise bahçe hikâyelerine yol açabilecek açık sorular içerir. Sıcaktan aceleyle içeri girdiyseniz, [Sakin nefes](/games/calm-breathing/) birlikte paylaşabileceğiniz yavaş, sessiz bir mola sunar. Dokunma, koku ve sese dayalı daha fazla fikir için [duyusal etkinlikler rehberimize](/activities/sensory/) bakın.
+Yağmurlu günlerde [Sort Together](/games/sort-together/) içinde resimleri sıralamak için bir bahçe sepeti bulunur ve [Conversation Cards](/games/conversation-cards/) bahçe anılarına yol açabilecek açık uçlu sorular içerir. Sıcaktan aceleyle içeri girdiyseniz, [Calm Breathing](/games/calm-breathing/) birlikte paylaşabileceğiniz yavaş ve sakin bir mola sunar. Dokunma, koku ve ses üzerine kurulu daha fazla fikir için [duyusal etkinlikler rehberimize](/activities/sensory/) göz atın.

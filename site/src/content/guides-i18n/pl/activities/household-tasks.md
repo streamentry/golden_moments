@@ -1,32 +1,33 @@
 ---
-title: "Prace domowe jako zajęcia dla osób z demencją"
-seoTitle: "Zajęcia domowe przy demencji: codzienne czynności"
-description: "Składanie, sortowanie, nakrywanie do stołu i proste gotowanie to sensowne zajęcia dla osób z demencją. Jak je zorganizować, dostosować i zadbać o bezpieczeństwo."
+title: "Domowe zajęcia dla osób żyjących z demencją"
+seoTitle: "Domowe zajęcia przy demencji: codzienne czynności"
+description: "Składanie, sortowanie, nakrywanie do stołu i proste gotowanie mogą być wartościowymi zajęciami dla osób żyjących z demencją. Jak je przygotować bezpiecznie."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Codzienne obowiązki, takie jak składanie ręczników, sortowanie skarpetek,
+  Codzienne prace domowe, takie jak składanie ręczników, parowanie skarpetek,
   nakrywanie do stołu, wycieranie blatów, podlewanie roślin i pomoc przy
-  prostym gotowaniu, mogą dać osobie z demencją prawdziwy sposób, by pomagać.
-  Wybieraj zadania, które zna, dziel je na pojedyncze kroki, usuwaj ostre lub
-  gorące zagrożenia i ceń udział bardziej niż wykonanie „dobrze”.
+  prostym gotowaniu, mogą dać osobie żyjącej z demencją prawdziwą możliwość
+  pomocy. Wybieraj znane jej zadania, dziel je na pojedyncze kroki, usuń ostre
+  i gorące przedmioty oraz ceniaj sam udział bardziej niż wykonanie zadania
+  „właściwie”.
 keyPoints:
-  - "Znajome obowiązki mogą pomóc osobie poczuć się potrzebną i częścią domu, co często znaczy więcej niż to, jak dobrze praca zostanie wykonana."
+  - "Znane prace domowe mogą pomóc osobie poczuć się potrzebną i być częścią domowej codzienności, co często ma większe znaczenie niż to, jak dobrze zadanie zostało wykonane."
   - "Dziel każde zadanie na pojedyncze kroki, pokazuj zamiast tłumaczyć i po cichu przejmuj każdy krok, który stał się trudny."
-  - "Zamknij noże, środki czystości i kapsułki do prania, a przed wspólnym gotowaniem dodaj osłony na pokrętła kuchenki albo automatyczne wyłączanie."
-  - "Złożonych ręczników nie trzeba składać ponownie na oczach osoby. Jeśli coś musisz zrobić od nowa, zrób to później i poza jej wzrokiem."
-  - "Jeśli zadanie wywołuje frustrację, przejdź do łatwiejszego kroku, spróbuj innym razem albo po prostu posiedźcie razem."
+  - "Schowaj noże, środki czystości i kapsułki do prania, a przed wspólnym gotowaniem załóż osłony na pokrętła kuchenki lub ustaw automatyczne wyłączanie."
+  - "Złożonych ręczników nie trzeba składać ponownie przy osobie. Jeśli naprawdę trzeba coś poprawić, zrób to później i tak, aby osoba tego nie widziała."
+  - "Jeśli zadanie wywołuje frustrację, przejdź do łatwiejszego kroku, spróbuj innym razem albo po prostu usiądźcie razem."
 faq:
-  - q: "W jakich obowiązkach osoba z demencją nadal może pomagać?"
-    a: "Wiele osób nadal potrafi składać pranie, dobierać skarpetki, sortować sztućce, nakrywać do stołu, wycierać blat, ścierać kurze, zamiatać, podlewać rośliny albo mieszać ciasto w misce. Wybieraj zadania, które osoba wykonywała dawniej, i dopasuj je do tego, co potrafi teraz. W późniejszych stadiach wystarczyć może pojedynczy powtarzany ruch, na przykład wygładzanie serwetek."
+  - q: "W jakich pracach domowych może jeszcze pomagać osoba z demencją?"
+    a: "Wiele osób może nadal składać pranie, dobierać skarpetki do pary, sortować sztućce, nakrywać do stołu, wycierać blat, ścierać kurze, zamiatać, podlewać roślin lub mieszać ciasto w misce. Wybieraj zadania, które osoba wykonywała wcześniej, i dopasuj je do tego, co potrafi teraz. Na późniejszych etapach wystarczający może być jeden powtarzany ruch, na przykład wygładzanie serwetek."
   - q: "Czy osoba z demencją może bezpiecznie pomagać w kuchni?"
-    a: "Może, przy ścisłym nadzorze i odpowiednim przygotowaniu. Trzymaj noże, środki czystości i wszystko, co gorące, poza zasięgiem, używaj osłon na pokrętła kuchenki albo automatycznego wyłączania i daj osobie bezpieczne zadanie, na przykład mycie warzyw, mieszanie albo ustawianie talerzy. Nigdy nie zostawiaj jej samej z włączoną kuchenką."
-  - q: "Co, jeśli złoży coś źle albo narobi bałaganu?"
-    a: "Zostaw to. Celem jest wspólny czas i poczucie bycia potrzebnym, a nie idealny wynik. Jeśli coś naprawdę trzeba zrobić od nowa, poczekaj do później i zrób to, gdy osoba nie patrzy, żeby nie czuła się poprawiana."
-  - q: "Co, jeśli odmawia pomocy?"
-    a: "„Nie” może oznaczać, że zadanie wydaje się teraz zbyt trudne, mylące albo męczące. Nie naciskaj. Spróbuj prostszej wersji, zaproś osobę, żeby po prostu dotrzymywała Ci towarzystwa, albo zapytaj ponownie o lepszej porze dnia."
+    a: "Może, przy ścisłym nadzorze i odpowiednim przygotowaniu. Trzymaj noże, środki czystości i wszystko, co gorące, poza zasięgiem, używaj osłon na pokrętła kuchenki lub automatycznego wyłączania i daj osobie bezpieczne zadanie, takie jak mycie warzyw, mieszanie lub wykładanie talerzy. Nigdy nie zostawiaj jej samej przy włączonej kuchence."
+  - q: "Co zrobić, jeśli osoba coś źle złoży lub narobi bałaganu?"
+    a: "Pozwól na to. Celem jest wspólny czas i poczucie bycia potrzebnym, a nie idealny efekt. Jeśli coś naprawdę trzeba poprawić, poczekaj i zrób to później, gdy osoba nie patrzy, aby nie czuła się poprawiana."
+  - q: "Co zrobić, jeśli osoba nie chce pomóc?"
+    a: "Odmowa może oznaczać, że zadanie wydaje się teraz zbyt trudne, niejasne lub męczące. Nie nalegaj. Spróbuj prostszej wersji, zaproś osobę, aby po prostu dotrzymała Ci towarzystwa, albo zapytaj ponownie w lepszej porze dnia."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Wiele osób z demencją przez dziesiątki lat prowadziło dom, wychowywało rodzinę albo dbało o porządek w miejscu pracy. Prośba o pomoc przy prawdziwych obowiązkach potrafi powiedzieć „nadal jesteś częścią tego domu” tak, jak niewiele innych zajęć. Ta strona opisuje, jakie zadania zwykle się sprawdzają, jak je zorganizować, jak dostosowywać w miarę zmian i jak zadbać o bezpieczeństwo w kuchni i pralni.
+Wiele osób żyjących z demencją przez dziesięciolecia prowadziło dom, wychowywało rodzinę lub dbało o porządek w pracy. Prośba o pomoc w prawdziwych domowych obowiązkach może powiedzieć „nadal jesteś częścią tego domu” tak, jak niewiele innych zajęć. Na tej stronie opisujemy, jakie zadania zwykle się sprawdzają, jak je przygotować, jak je dostosowywać, gdy sytuacja się zmienia, oraz jak dbać o bezpieczeństwo w kuchni i pralni.
 
-## Dlaczego codzienne obowiązki sprawdzają się jako zajęcia?
+## Dlaczego codzienne obowiązki dobrze sprawdzają się jako zajęcia?
 
-Obowiązki działają, bo są znajome i mają jasny cel. National Institute on Aging wymienia mycie naczyń, nakrywanie do stołu, zamiatanie, ścieranie kurzu, sortowanie poczty, składanie prania i segregowanie odpadów wśród [codziennych zajęć, które mogą sprawiać przyjemność osobom z chorobą Alzheimera](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association zauważa, że zadania takie jak nakrywanie do stołu mogą pomóc osobie [poczuć się cenioną częścią domu](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Obowiązki domowe sprawdzają się, ponieważ są znane i mają wyraźny cel. National Institute on Aging wymienia zmywanie naczyń, nakrywanie do stołu, zamiatanie, ścieranie kurzu, sortowanie poczty, składanie prania i sortowanie odpadów do recyklingu wśród [codziennych zajęć, które mogą sprawiać przyjemność osobom z chorobą Alzheimera](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer’s Association zauważa, że zadania takie jak nakrywanie do stołu mogą pomóc osobie [poczuć się ważną częścią domowej codzienności](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-Obowiązek ma też własny powód, by go zacząć. Łatwiej odpowiedzieć „tak” na „Pomożesz mi z tymi ręcznikami?” niż na „Chcesz zrobić jakieś zajęcie?”
+Obowiązek domowy ma też w sobie własny powód, by zacząć. Łatwiej odpowiedzieć „tak” na „Pomożesz mi z tymi ręcznikami?” niż na „Czy chcesz zrobić jakieś zajęcie?”.
 
-## Jakie prace domowe warto wypróbować?
+## Jakie domowe zadania warto wypróbować?
 
-Zacznij od zadań, które osoba wykonywała dawniej, a potem dopasuj je do tego, co potrafi dzisiaj.
+Zacznij od zadań, które osoba wykonywała wcześniej, a potem dopasuj je do tego, co potrafi dziś.
 
-### Pranie i bielizna pościelowa
+### Pranie i pościel
 
-- **Składanie ręczników i myjek.** Podaj kosz małych, płaskich rzeczy. Ręczniki są wyrozumiałe: nie ma złego sposobu ich składania.
-- **Dobieranie skarpetek.** Połóż na stole mieszany stos. Jeśli trudno dostrzec pary, użyj tylko dwóch albo trzech bardzo różnych kolorów.
-- **Wygładzanie i układanie w stos.** Serwetki, poszewki albo ściereczki można wygładzić i ułożyć w stos. Dobrze sprawdza się to później, gdy składanie stało się zbyt wieloma krokami.
+- **Składanie ręczników i ściereczek.** Podaj kosz z małymi, płaskimi rzeczami. Ręczniki są wyrozumiałe: nie ma jednego złego sposobu, by je złożyć.
+- **Dobieranie skarpetek do pary.** Połóż na stole wymieszaną stertę. Jeśli pary trudno zauważyć, użyj tylko dwóch lub trzech bardzo różnych kolorów.
+- **Wygładzanie i układanie w stos.** Serwetki, poszewki na poduszki lub ściereczki kuchenne można wygładzić i ułożyć w stos. To dobrze sprawdza się później, gdy składanie ma zbyt wiele kroków.
 
 ### Stół i kuchnia
 
-- **Nakrywanie do stołu.** Ułóż jedno nakrycie jako wzór i pozwól osobie je skopiować. Jeśli to za dużo, podawaj po jednej rzeczy: „Tu jest widelec do każdego talerza”.
-- **Sortowanie sztućców.** Wymieszaj czyste widelce, łyżki i noże do smarowania w pojemniku i posortuj je do tacki z przegródkami. Ostre noże odłóż.
-- **Wycieranie naczyń.** Plastikowe albo niestłukliwe naczynia i miękka ściereczka sprawiają, że to bezpieczne zadanie.
-- **Wycieranie stołu lub blatów.** Wilgotna ściereczka i wolna powierzchnia. Alzheimer's Association radzi podać ściereczkę, jeśli ktoś już pociera stół ręką, co zamienia niespokojny ruch w użyteczny.
+- **Nakrywanie do stołu.** Ułóż jedno nakrycie jako wzór i pozwól osobie je skopiować. Jeśli to za dużo, podawaj jedną rzecz na raz: „Proszę, widelec do każdego talerza”.
+- **Sortowanie sztućców.** Wymieszaj czyste widelce, łyżki i noże do masła w pojemniku i posortuj je do tacki z przegródkami. Zostaw ostre noże poza zasięgiem.
+- **Wycieranie naczyń.** Plastikowe lub nietłukące naczynia i miękka ściereczka sprawiają, że to bezpieczne zadanie.
+- **Wycieranie stołu lub blatów.** Wilgotna ściereczka i pusta powierzchnia. Alzheimer’s Association sugeruje, aby podać ściereczkę, jeśli ktoś już pociera stół ręką, zamieniając niespokojny ruch w pożyteczną czynność.
 
-### W całym domu
+### W domu
 
-- **Ścieranie kurzu.** Miękka ściereczka do kurzu i kilka stabilnych powierzchni, na przykład stolik kawowy albo półka z książkami.
-- **Sortowanie poczty.** Podaj ulotki reklamowe i katalogi do posortowania na stosy: zachować, wyrzucić do segregacji, otworzyć później. Prawdziwe rachunki i ważne pisma trzymaj gdzie indziej.
-- **Segregowanie odpadów.** Czyste puszki, butelki i papier do osobnych pojemników.
-- **Zamiatanie.** Mała miotła na tarasie albo na podłodze w kuchni, jeśli równowaga jest pewna.
+- **Ścieranie kurzu.** Miękka ściereczka do kurzu i kilka stabilnych powierzchni, na przykład stolik kawowy lub półka na książki.
+- **Sortowanie poczty.** Podaj ulotki i katalogi do podziału na stosy: zachować, do recyklingu, otworzyć później. Prawdziwe rachunki i czeki trzymaj w innym miejscu.
+- **Sortowanie odpadów do recyklingu.** Czyste puszki, butelki i papier do osobnych pojemników.
+- **Zamiatanie.** Mała miotła na tarasie lub w kuchni, jeśli osoba pewnie utrzymuje równowagę.
 - **Podlewanie roślin.** Mała, lekka konewka i kilka roślin w łatwym zasięgu.
 
 ### Proste gotowanie pod nadzorem
 
-Gotowanie może przywołać silne, przyjemne uczucia. NIA radzi pozwolić osobie zebrać składniki, odmierzać, mieszać i wlewać albo po prostu powiedzieć komuś innemu, jak zrobić ulubiony przepis. Dobre zadania to:
+Gotowanie może przywołać silne, miłe wspomnienia. NIA sugeruje, aby pozwolić osobie zbierać składniki, odmierzać, mieszać i nalewać albo po prostu opowiedzieć komuś innemu, jak przygotować ulubiony przepis. Dobre zadania to:
 
 - mycie warzyw lub owoców
-- mieszanie ciasta albo sałatki
+- mieszanie ciasta lub zimnej sałatki
 - rwanie sałaty
-- smarowanie tostów tępym nożem
-- układanie ciasta na blasze
-- układanie dodatków na pizzy
+- smarowanie tostów masłem tępym nożem
+- układanie ciasteczek na blasze
+- nakładanie dodatków na pizzę
 
-Jeśli odmierzanie stanie się trudne, Alzheimer's Association radzi, żebyś dokończyła lub dokończył odmierzanie, a potem podała osobie inny krok, na przykład mieszanie.
+Jeśli odmierzanie staje się trudne, Alzheimer’s Association sugeruje, abyś samodzielnie odmierzył składniki, a potem podał osobie inny krok, na przykład mieszanie.
 
-## Jak przygotować obowiązek, żeby poszło dobrze?
+## Jak przygotować zadanie, aby poszło dobrze?
 
-1. **Wybierz dobrą porę.** Wybierz część dnia, w której osoba jest zwykle wypoczęta i spokojna. Dla wielu osób to poranek.
-2. **Oczyść przestrzeń.** Jedno zadanie, jedna powierzchnia, nic zbędnego na stole.
-3. **Zaproś, nie zlecaj.** „Przydałaby mi się pomoc z tym” działa lepiej niż „Pora składać pranie”.
-4. **Pokaż pierwszą rzecz.** Złóż powoli jeden ręcznik, potem podaj następny. Pokazanie jest jaśniejsze niż tłumaczenie.
-5. **Podawaj jeden krok naraz.** Zbyt wiele poleceń naraz może przytłaczać. Poczekaj, aż jeden krok się skończy, zanim nazwiesz następny.
-6. **Pracujcie obok siebie.** Wykonywanie tej samej pracy obok siebie jest towarzystwem, a nie nadzorem.
-7. **Mów o zadaniu, nie o wyniku.** „Są takie miękkie” albo „Opowiedz mi, jak lubiłaś porządkować szafę z bielizną” zaprasza do rozmowy bez sprawdzania kogokolwiek.
+1. **Wybierz odpowiednią porę.** Wybierz część dnia, kiedy osoba jest zwykle wypoczęta i spokojna. Dla wielu osób jest to poranek.
+2. **Oczyść miejsce.** Jedno zadanie, jedna powierzchnia, nic zbędnego na stole.
+3. **Zaproś, nie polecaj.** „Przydałaby mi się pomoc z tymi ręcznikami” działa lepiej niż „Czas złożyć pranie”.
+4. **Pokaż pierwszy przykład.** Złóż jeden ręcznik powoli, a potem podaj następny. Pokazywanie jest jaśniejsze niż tłumaczenie.
+5. **Podawaj jeden krok na raz.** Zbyt wiele poleceń naraz może przytłoczyć. Poczekaj, aż jeden krok się skończy, zanim nazwiesz kolejny.
+6. **Pracujcie obok siebie.** Wykonywanie tego samego zadania obok siebie przypomina wspólne spędzanie czasu, a nie nadzór.
+7. **Rozmawiaj o zadaniu, nie o wyniku.** „Jakie one miękkie” albo „Opowiedz mi, jak lubiłeś układać szafę z pościelą” zachęca do rozmowy bez sprawdzania kogokolwiek.
 
-## Jak dostosowywać obowiązki, gdy zmieniają się możliwości?
+## Jak dostosowywać obowiązki, gdy możliwości się zmieniają?
 
-Możliwości zmieniają się z czasem, a nawet z dnia na dzień. Alzheimer's Association radzi przechodzić ku prostszym, bardziej powtarzalnym zadaniom w miarę postępu choroby.
+Możliwości zmieniają się z czasem, a nawet z dnia na dzień. Alzheimer’s Association sugeruje przechodzenie do prostszych, bardziej powtarzalnych zadań w miarę postępu choroby.
 
 | Jeśli to stało się trudne | Spróbuj zamiast tego |
 | --- | --- |
-| Składanie dużych prześcieradeł | Składanie myjek albo wygładzanie serwetek |
-| Nakrywanie pełnego stołu | Kładzenie jednej serwetki przy każdym miejscu |
+| Składanie dużych prześcieradeł | Składanie ściereczek lub wygładzanie serwetek |
+| Nakrywanie całego stołu | Kładzenie jednej serwetki przy każdym miejscu |
 | Sortowanie poczty na kategorie | Układanie kopert w jeden stos |
-| Przygotowywanie według przepisu | Mieszanie albo patrzenie i próbowanie, gdy Ty gotujesz |
-| Zamiatanie całej podłogi | Wycieranie jednego małego stolika |
-| Wykonanie zadania w ogóle | Siedzenie z Tobą i dotrzymywanie Ci towarzystwa, gdy Ty pracujesz |
+| Wykonywanie przepisu | Mieszanie albo oglądanie i próbowanie, gdy Ty gotujesz |
+| Zamiatanie całej podłogi | Wycieranie jednego małego stołu |
+| Wykonywanie zadania w ogóle | Siedzenie z Tobą i dotrzymywanie Ci towarzystwa, gdy Ty je wykonujesz |
 
-Patrzenie się liczy. NIA zauważa, że niektóre osoby po prostu lubią patrzeć, a to też dobry sposób na udział.
+Samo oglądanie też się liczy. NIA zauważa, że niektóre osoby po prostu lubią patrzeć, i to również jest dobry sposób uczestniczenia.
 
-## Jak zachować bezpieczeństwo przy pracach domowych?
+## Jak dbać o bezpieczeństwo podczas domowych zadań?
 
-Bezpieczeństwo jest najważniejsze, zwłaszcza w kuchni. [Wskazówki NIA dotyczące bezpieczeństwa w domu dla opiekunów osób z chorobą Alzheimera](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) obejmują:
+Bezpieczeństwo jest najważniejsze, szczególnie w kuchni. [Wskazówki dotyczące bezpieczeństwa w domu dla opiekunów osób z chorobą Alzheimera](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) od NIA obejmują:
 
-- Zamknij albo usuń środki czystości, w tym kapsułki do prania, które mogą wyglądać jak cukierki.
-- Przechowuj noże, nożyczki i elektronarzędzia w zamykanym miejscu.
-- Dodaj do kuchenki osłony na pokrętła i automatyczny wyłącznik.
-- Połóż napisy „Stop” albo „Bardzo gorące” przy piekarniku, tosterze i żelazku, tak by nie mogły się zapalić.
-- Ustaw podgrzewacz wody na 120°F (około 49°C), żeby zmniejszyć ryzyko poparzenia.
-- Usuń sztuczne owoce i magnesy w kształcie jedzenia, które mogą wyglądać na jadalne.
+- Zamknij lub usuń środki czystości, w tym kapsułki do prania, które mogą wyglądać jak cukierki.
+- Przechowuj noże, nożyczki i elektronarzędzia w zamkniętym miejscu.
+- Załóż zabezpieczenia na pokrętła i automatyczne wyłączanie kuchenki.
+- Umieść znaki „Stop” lub „Bardzo gorące” przy piekarniku, tosterze i żelazku tak, aby nie mogły się zapalić.
+- Ustaw podgrzewacz wody na 120°F, aby zmniejszyć ryzyko oparzenia.
+- Usuń sztuczne owoce i magnesy w kształcie jedzenia, które mogą wyglądać jak coś do jedzenia.
 
-Pomaga jeszcze kilka praktycznych nawyków:
+Pomaga też kilka praktycznych nawyków:
 
-- Zostawaj w pokoju, ilekroć używana jest kuchenka, piekarnik albo ostre narzędzie.
-- Do wycierania i nakrywania do stołu używaj niestłukliwych naczyń.
+- Pozostań w pokoju, gdy używana jest kuchenka, piekarnik lub ostre narzędzie.
+- Używaj nietłukących naczyń do wycierania i nakrywania stołu.
 - Podczas zamiatania lub mycia podłogi utrzymuj ją suchą i wolną od przeszkód.
-- Jeśli osoba kiedyś używała narzędzi, Alzheimer's Association radzi usunąć z warsztatu niebezpieczne przedmioty, żeby bezpieczne zadanie, na przykład szlifowanie kawałka drewna, nadal mogło sprawiać przyjemność.
+- Jeśli osoba kiedyś korzystała z narzędzi, Alzheimer’s Association sugeruje usunięcie niebezpiecznych przedmiotów z warsztatu, aby wciąż możliwe było bezpieczne zadanie, takie jak szlifowanie kawałka drewna.
 
-## Co, jeśli robi to „źle”?
+## Co zrobić, jeśli osoba zrobi to „źle”?
 
-Odpuść. Ręcznik złożony na trzy zamiast na pół nadal jest złożonym ręcznikiem. Alzheimer's Association mówi to wprost: ważne jest wspólnie spędzony czas i to, że osoba czuje się potrzebna, a nie to, czy ręczniki są złożone prawidłowo. Jeśli coś naprawdę trzeba zrobić od nowa, poczekaj do później i zrób to poza jej wzrokiem.
+Odpuść. Ręcznik złożony na trzy części zamiast na pół to nadal złożony ręcznik. Alzheimer’s Association mówi wprost: liczy się wspólnie spędzony czas i poczucie bycia potrzebnym, a nie to, czy ręczniki są złożone idealnie. Jeśli coś naprawdę trzeba poprawić, poczekaj i zrób to później, tak aby osoba tego nie widziała.
 
-Poprawianie na bieżąco może zamienić przyjemne zadanie w przypomnienie o tym, co zostało utracone. „Dziękuję, to duża pomoc” prawie zawsze jest właściwą odpowiedzią.
+Poprawianie w danej chwili może zamienić przyjemne zajęcie w przypomnienie o tym, co zostało utracone. „Dziękuję, to duża pomoc” to prawie zawsze właściwe słowa.
 
-## Kiedy skończyć?
+## Kiedy warto przerwać?
 
-Skończ albo zmień zajęcie, gdy zauważysz oznaki frustracji, zmęczenia albo utraty zainteresowania. Wcześniejsze zakończenie to dobry wynik, a nie porażka. Możesz:
+Przerwij lub zmień zajęcie, gdy zauważysz oznaki frustracji, zmęczenia lub utraty zainteresowania. Wcześniejsze zakończenie to dobry wynik, a nie porażka. Możesz:
 
 - przejść do łatwiejszego kroku
-- przejść do czegoś odprężającego, na przykład muzyki albo filiżanki kawy
-- spróbować później albo innego dnia
-- po prostu posiedzieć razem
+- wybrać coś spokojnego, na przykład muzykę lub filiżankę kawy
+- spróbować ponownie później lub innego dnia
+- po prostu usiąść razem
 
-Jeśli osoba mówi „nie”, nie naciskaj. Łagodne sposoby reagowania znajdziesz w poradniku [co robić, gdy odmawia](/caregiving/when-they-say-no/).
+Jeśli osoba mówi „nie”, nie nalegaj. Zobacz [co zrobić, gdy osoba mówi „nie”](/caregiving/when-they-say-no/), aby poznać łagodne sposoby reagowania.
 
-## Mało wymagające dodatki na spokojniejszą chwilę
+## Proste dodatki na spokojniejszą chwilę
 
-Gdy prace fizyczne nie są możliwe, sortowanie i dopasowywanie nadal można robić na siedząco. [Sortujmy razem](/games/sort-together/) pozwala dotykać obrazków i przenosić je do koszyków z kuchni albo z ogrodu, a [Pary obrazków](/games/picture-pairs/) to łagodna gra w dopasowywanie z dużymi obrazkami i bez stopera. [Karty do rozmowy](/games/conversation-cards/) mają otwarte propozycje rozmowy o domu i rodzinie, które dobrze pasują do kawy po skończonej pracy.
+Gdy fizyczne obowiązki nie są możliwe, sortowanie i dobieranie w pary można nadal robić na siedząco. [Sort Together](/games/sort-together/) pozwala dotykać obrazków i przenosić je do koszyków z kuchni lub ogrodu, a [Picture Pairs](/games/picture-pairs/) to łagodna gra w dobieranie par z dużymi obrazkami i bez licznika czasu. [Conversation Cards](/games/conversation-cards/) zawierają otwarte pytania o dom i rodzinę, które dobrze pasują do kawy po skończonym zadaniu.
 
-Pomoc we wpasowaniu obowiązków w dzień znajdziesz w naszym poradniku o [spokojnym rytmie dnia](/activities/daily-routine/). Więcej pomysłów według stadiów znajdziesz w [zajęciach w średnim stadium](/activities/middle-stage/).
+Aby dowiedzieć się, jak wpleść domowe obowiązki w plan dnia, zobacz nasz przewodnik o [spokojnej codziennej rutynie](/activities/daily-routine/). Więcej pomysłów dopasowanych do etapu znajdziesz w artykule o [zajęciach na etap środkowy](/activities/middle-stage/).

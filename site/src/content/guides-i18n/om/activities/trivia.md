@@ -1,34 +1,34 @@
 ---
-title: "Gaaffii salphaa nama dementia wajjin jiraatuuf, dhiibbaa malee"
-seoTitle: "Gaaffii salphaa dementiaaf: gaaffii 50"
-description: "Gaaffii salphaa 50 nama dementia wajjin jiraatuuf, filannoo deebii fi wanta haasa’uuf wajjin, akkamitti tokkoon tokkoon isaa osoo hin qoramin geggeessuu."
+title: "Gaaffiiwwan Salphaa Namoota Dhukkuba Sammuu Dagachuu Waliin Jiraataniif"
+seoTitle: "Gaaffiiwwan Salphaa Namoota Dhukkuba Sammuu Dagachuu Waliin Jiraataniif"
+description: "Gaaffiiwwan salphaa 50 filannoo deebii fi yaadota haasawaatiin, akkasumas akka namni kamiyyuu akka qoramaa itti hin dhaga'amne gochuuf."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gaaffiin salphaan nama dementia wajjin jiraatuuf, yeroo haasaa fakkaatu malee
-  qormaata hin fakkaanne, gaarii hojjeta. Wanta duraan baratan, akka sirba
-  durii, ayyaana, nyaata fi jireenya guyyaa guyyaa, gaafadhaa, yeroo hundaa
-  filannoo lama ykn sadi kennaa. Deebii tola kennaa, nama tokko illee adda hin
-  baasinaa, qabxii dhiisaa, deebii tokkoon tokkoon isaa seenaa jalqabuuf
-  fayyadamaa. Gaaffii “kana moo kana” kan deebii dogoggoraa hin qabne
-  sadarkaa boodaatiif mijaa’aa dha.
+  Gaaffiiwwan salphaa namoota dhukkuba sammuu dagachuu waliin jiraataniif yeroo
+  akka haasawaatti, osoo hin taane akka qormaataatti dhaga'aman milkaa'u. Wantoota
+  bara dheeraan dura barataman, akka sirboota durii, mammaaksota, ayyaanotaa fi
+  jireenya guyyaa guyyaa gaafadhu, yeroo hunda filannoo lama yookaan sadii kenni.
+  Deebii ho'aadhaan kenni, nama tokko illee addatti hin qorin, qabxii dhiisi, fi
+  deebii hunda seenaa jalqabuuf itti fayyadami. Gaaffiiwwan "Kana moo sana" deebii
+  dogoggoraa hin qabne sadarkaa boodaa irratti ni mijatu.
 keyPoints:
-  - "Wanta duraan baratan irratti gaafadhaa: sirba, ayyaana, nyaata fi jireenya guyyaa guyyaa waggoota dura."
-  - "Filannoo lama ykn sadi kennaa, kanaaf deebiin yaadachuu osoo hin ta’in beekuudhaan argama."
-  - "Deebii ho’aan himaa achiis darbaa. Tilmaamni seenaa jalqabu hundi tilmaama gaarii dha."
-  - "Qabxii hin kennin, garee wal-ariifatu hin godhin, nama tokko hin waamin. Deebiin kutaa guutuu irraa haa dhufu."
-  - "Yoo deebii filachuun ulfaate, gara gaaffii “kana moo kana” kan deebii sirrii hin qabnetti jijjiiraa."
+  - "Wantoota yeroo dheeraa beekaman gaafadhu: sirboota, mammaaksota, ayyaanota, nyaataa fi jireenya guyyaa guyyaa waggoota darban keessaa."
+  - "Akka deebiin yaadachuu osoo hin taane beekamuuf filannoo lama yookaan sadii kenni."
+  - "Deebii ho'aadhaan kenniitii itti fufi. Yaadni seenaa jalqabu kamiyyuu yaada gaarii dha."
+  - "Qabxii hin qabu, gareewwan wal dorgoman hin qaban, nama tokko hin waamin. Deebiin nama kutaa keessa jiru kam irraa iyyuu haa dhufu."
+  - "Yeroo deebiilee keessaa filachuun ulfaataa ta'u, gara gaaffiiwwan 'kana moo sana' deebii sirrii hin qabneetti jijjiiri."
 faq:
-  - q: "Gaaffiin salphaan nama dementia wajjin jiraatuuf hojii gaarii dha?"
-    a: "Ni danda’a, yoo suuta jedhanii geggeeffame. Alzheimer's Foundation of America gaaffii salphaa hojiiwwan sadarkaa jalqabaa keessaa tarreessa. Gaaffii mata-dureewwan duraan baratamaniin kaa’aa, filannoo kennaa, nama tokko osoo hin waamin, deebiin akka karaa haasaatti malee akka qormaataatti hin fudhatinaa."
-  - q: "Mata-dureewwan kamtu gaaffii dementiaaf caalaatti gaarii hojjeta?"
-    a: "Wanta duraan baratan yeroo baay’ee caalaatti gaarii hojjeta: sirboota fi faarfattoota yeroo dargaggummaa nama sanaa, ayyaana, nyaata, tapha, fi jireenya guyyaa guyyaa. Oduu dhiyoo fi wanta yeroo sagantaa duraa yaadachuu barbaadu irraa of qusadhaa."
-  - q: "Mana kunuunsaa keessatti nama tokko osoo hin qaanessin gaaffii akkamitti geggeessuu?"
-    a: "Gaaffii hunda garee guutuudhaaf dubbisaa, filannoowwan agarsiisaa ykn himaa, deebii nama kamiyyuu irraa simadhaa. Namoota tokkoon tokkoon hin waamin, qabxii hin qabin. Deebiin maal iyyuu yoo ta’e kolfaan himaa, achiis gaaffii itti aanu, akka ‘Isin keessaa eenyutu ayyaana kana waliin kabajee beeka?’, gaafadhaa, kunis seenaa ta’a."
-  - q: "Sadarkaa boodaa keessatti gaaffii bakka maal gochuu dandeenya?"
-    a: "Gara gaaffii deebii dogoggoraa hin qabne, akka ‘Buna moo shaayii?’ ykn ‘Galaana moo tulluu?’, deemaa, akkasumas wanta beekaman waliin xumuruu. Suuraa waliin ilaaluu fi ibsuunis gaarii hojjeta."
+  - q: "Gaaffiin tapha gaarii namoota dhukkuba sammuu dagachuu waliin jiraataniif ta'uu danda'aa?"
+    a: "Eeyyee, yoo laafinaan geggeeffame ta'uu danda'a. Alzheimer's Foundation of America gaaffiiwwan hojiiwwan sadarkaa jalqabaa keessa jiran keessaa tokko akka ta'e tarreesse. Gaaffiiwwan mata duree yeroo dheeraa beekaman irratti haa turan, filannoo kenni, nama tokko illee yeroo tokkootti hin rakkisin, deebiiwwanis akka qormaataa osoo hin taane akka karaa haasawaatti ilaali."
+  - q: "Mata dureewwan gaaffii dhukkuba sammuu dagachuuf mijatan kam fa'i?"
+    a: "Wantoonni bara dheeraan dura barataman caalaatti ni hojjatu: sirboota fi faarfattoota beekamoo yeroo ijoollummaa nama sanaa, mammaaksota beekamoo, ayyaanota, nyaataa, ispoortii fi jireenya guyyaa guyyaa akka aannan fidamuu fi bilbiloota naanna'an. Oduu haarawaa fi waan yeroo taphaa kana keessatti yaadatamuu gaafatu kamiyyuu dhiisi."
+  - q: "Mana kunuunsaa keessatti osoo nama tokko illee hin qaaneffatin gaaffii akkamittan geggeessa?"
+    a: "Gaaffii hunda garee guutuuf dubbisi, filannoowwan agarsiisi yookaan himi, deebii nama kam irraa iyyuu simadhu. Namoota dhuunfaa hin waamin yookaan qabxii hin galmeessin. Waan yaadame kam irratti iyyuu ililleedhaan deebii kenniitii, gaaffii hordoffii akka 'As keessaa eenyutu 'drive-in' deeme beekaa?' gaafachuun gara seenaatti jijjiiri."
+  - q: "Sadarkaa boodaa irratti gaaffii iddoo maalin gochuu danda'a?"
+    a: "Gara gaaffiiwwan deebii dogoggoraa hin qabneetti jijjiiri, fakkeenyaaf 'Buna moo shaayii?' yookaan 'Bishaan qarqara galaanaa moo gaara?', akkasumas mammaaksota yookaan sirboota beekamoo waliin xumuruu. Fakkiiwwan ilaaluu fi waliin ibsuu illee gaariidhaan ni hojjeta."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -47,139 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Gaaffiin salphaan hojiiwwan garee mana kunuunsaa fi sagantaawwan guyyaa keessatti baay’ee gaafataman keessaa isa tokko dha, maatiiwwan baay’eenis minjaala mana nyaataa irratti ni taphatu. Akkaataa idilee, qabxii fi nama tokko deebisuu wajjin yoo geggeeffame, nama dementia wajjin jiraatu akka dhiibbaa irra jiru isaanitti dhaga’amsiisuu danda’a. Suuta jedhee yoo geggeeffame, seenaa dhaggeeffachuuf karaa ho’aa dha. Gaaffiiwwan salphaa 50 armaan gadii, filannoo deebii fi wanta tokkoon tokkoon isaaf haasa’uu wajjin, itti aansee akkamitti sagantaa geggeessuu ibsa.
+Gaaffiin hojiiwwan garee keessatti baay'ee barbaadaman keessaa tokko dha, manneen kunuunsaa fi sagantaawwan guyyaa keessatti akkasumas maatiin hedduun minjaala nyaataa irratti ni taphatu. Haala baratameen, qabxii fi nama tokko qofa deebisuun yoo geggeeffame, nama dhukkuba sammuu dagachuu waliin jiraatu akka nama qoramaa ta'eetti dhaga'amuu danda'a. Laafinaan yoo geggeeffame garuu, seenaa dhaga'uuf karaa gammachiisaa ta'a. Armaan gaditti gaaffiiwwan salphaa 50 filannoo deebii fi waan irratti haasa'amu waliin, sana booddee immoo akkaataa taphicha geggeessuu qabdu argita.
 
-Gaaffiiwwan kun Afaan Oromoo dubbattootaaf qophaa’aniiru. Nama isin kunuunsitaniif sirreessaa; gaaffii tokko tokko maatii isaanii biratti hin beekamne ta’uu danda’a, kanaaf gaaffii nama sanaaf mijaa’u filadhaa.
+## Nama dhukkuba sammuu dagachuu waliin jiraatuuf gaaffii akkamitti mijataa gochuu dandeenya?
 
-## Gaaffiin nama dementia wajjin jiraatuuf akkamitti hojjeta?
+Waa'ee wantoota bara dheeraa dura beekamanii fi yaadatamuu danda'an irratti haa hundaa'u, deebiin hundis akka simatamu godhi.
 
-Wanta durii beekuu fi yaadachuu irratti taasisaa, deebii hunda immoo simadhaa.
+1. **Waa'ee darbee fagoo gaafadhu.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) mallattoon jalqabaa baay'ee mul'atu kan Alzheimer's ta'e odeeffannoo haaraa baratame yaadachuu rakkachuu akka ta'e ibsa. Sirboonni, mammaaksonnii fi jireenyi guyyaa guyyaa waggoota kurnanii darban keessaa yeroo baay'ee laaftuu dha.
+2. **Yeroo hunda filannoo kenni.** Deebii sirrii lama yookaan sadii keessaa filachuun waan homaa irraa eegaluun yaaduu caalaa salphaa dha.
+3. **Gaaffiiwwan sagaleen dubbisiitii guddaa agarsiisi.** Gabatee adii yookaan taableetiin ol kaafamee namoota sirriitti hin dhageenye gargaaruu danda'a.
+4. **Deebii bilisaan kenni.** Yoo namni tokko illee hin beekne, ho'aadhaan himiitii gara itti aanutti darbi. "Kottu, kana ni beekta" hin jedhin.
+5. **Qabxii hin qabu.** Nama dhuunfaatiifis ta'e minjaalotaatiifis hin qabu. Yoo namoonni lakkoofsa barbaadan, qabxii garee tokko qofa tursiisi.
+6. **Nama tokko illee hin waamin.** Deebiin nama kam irraa iyyuu haa dhufu. Tokkoo fi tokkoon yoo ta'e, waliin deebisaa: "Ani akka isaatti 'piano' natti fakkaata. Ati hoo maal jetta?"
+7. **Yaada haasawaa fayyadami.** Deebiin jalqaba qofa, xumura miti. Galmi dhugaa seenaa dhaga'uu dha.
+8. **Gabaabaa tursiisi.** Gaaffiiwwan kudhan, gidduutti seenaawwan waliin, ga'aa dha.
 
-1. **Waa’ee yeroo fagoo gaafadhaa.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) mallattoon jalqabaa Alzheimer baay’inaan mul’atu odeeffannoo haaraa baratame yaadachuu rakkachuu dha jedha. Sirboonni, jechoonni fi jireenyi guyyaa guyyaa waggoota kurnan dura yeroo baay’ee lafa salphaa dha.
-2. **Yeroo hundaa filannoo kennaa.** Deebii sirrii lama ykn sadi keessaa filachuun duwwaa irraa dhiheessuu caalaa baay’ee salphaa dha.
-3. **Gaaffii sagalee ol dubbisaa, guddaa agarsiisaa.** Boordii adii ykn taabileetii ol qabame nama dhaga’uu xiqqaa qabu ni gargaara.
-4. **Deebii tola kennaa.** Yoo namni tokkollee hin beekne, ho’aan himaa achiis darbaa. Gonkumaa “Kottu, ati ni beekta” hin jedhinaa.
-5. **Qabxii hin kennin.** Nama tokkoon tokkoof ykn minjaalaaf hin kenninaa. Yoo namoonni lakkoofsa barbaadan, waliigala garee tokko qofa qabadhaa.
-6. **Gonkumaa nama tokko hin waamin.** Deebiin nama kamiyyuu irraa haa dhufu. Yoo nama tokko wajjin jirtan, waliin deebisaa: “Ani piano natti fakkaata. Ati maal sitti fakkaata?”
-7. **Wanta haasa’uuf fayyadamaa.** Deebiin jalqaba, xumura miti. Seenaan kaayyoo dhugaa dha.
-8. **Gabaabsaa.** Gaaffii kudhan seenaa gidduu qabu baay’ee ga’aa dha.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) seera bu'uuraa kana salphaatti ibsa: aarii dhufu ilaalii fi akka namichi milkaa'ina itti dhaga'u mirkaneessi. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) gaaffiiwwan hojiiwwan sadarkaa jalqabaa keessa jiran keessaa tokko akka ta'e tarreesse. Sadarkaa giddu galeessaa keessatti filannoo lama qofa irra turiitii yaadota haasawaa irratti hundaa'i. Boodarra immoo gara gaaffiiwwan "kana moo sana" armaan gaditti argamanitti jijjiiri.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) seera ijoo salphaatti ibsa: dhiphina eeggadhaa, namni sun milkaa’uu akka dhaga’u mirkaneessaa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) gaaffii salphaa hojiiwwan sadarkaa jalqabaa keessaa tarreessa. Sadarkaa giddu galeessaa keessatti, filannoo lama qofa kennaa, wantoota haasa’uu irratti hirkadhaa. Boodatti, gara gaaffii “kana moo kana” armaan gaditti jijjiiraa.
+## Gaaffiiwwan muuziqaa fi bashannanaa
 
-## Gaaffii muuziqaa fi gammachuu
+Deebiin **jabeessee** barreeffameera. Kanneen kana nama sanaaf mijjeessi: namni Motown waliin guddate faarfattoota namni 'big band' waliin guddate barbaadu irraa adda ta'an barbaada.
 
-Deebiin **jabaan** barreeffameera. Nama sanaaf sirreessaa: gaaffiin tokko tokko maatii keessatti hin beekamne ta’uu danda’a.
-
-| Gaaffii | Filannoo | Waa’ee haasa’aa |
+| Gaaffii | Filannoo | Waan irratti haasa'amu |
 | --- | --- | --- |
-| Dibbee akkamitti taphatama? | **Dha’uudhaan**, afuufuudhaan, nyaachuudhaan | Maatii keessaa eenyutu dibbee ykn meeshaa muuziqaa taphata ture? |
-| Sirba sirbuuf maal fayyadamna? | **Sagalee**, ija, funyaan | Sirba kam jaallattu? |
-| Muuziqaa dhaggeeffachuuf maal fayyadamna? | **Gurra**, funyaan, miila | Muuziqaa kamtu isin gammachiisa? |
-| Raadiyoon maal nuuf fida? | **Sagalee**, urgaa, dhandhama | Raadiyoo eenyuu wajjin dhaggeeffachaa turtan? |
-| Televiziyoonii maal agarsiisa? | **Suuraa fi sagalee**, urgaa, dhandhama | Sagantaa kam maatiin keessan waliin ilaalaa turtan? |
-| Yeroo gammannu maal goona? | **Kolfina**, rafna, soomna | Yeroo dhumaa maaltu isin kolfise? |
-| Sirba gammachiisaa yeroo dhaggeeffannu harka keenyaan maal goona? | **Walitti rukutna**, boona, rafna | Sirba kam yeroo dhaggeeffattan harka walitti rukuttu? |
-| Piano furtuu meeqa qaba? | 80, **88**, 100 | Maatii keessaa eenyutu piano taphata ture? |
+| Eenyutu Mootii Rock and Roll jedhamuun beekama? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Elvis TV irratti argitee beektaa? |
+| Faarfataan Ol' Blue Eyes jedhamuun beekamu eenyu? | Dean Martin, **Frank Sinatra**, Perry Como | Sirba Sinatra keessaa kam jaallatta? |
+| Bing Crosby adii waa'ee... abjoota ture | **Kiristaana (Christmas)**, cidhaa, manaa | Sarara tokko waliin faarfadhaa |
+| Louis Armstrong "What a Wonderful..." jedhee faarfate | Guyyaa, **Addunyaa**, Jireenya | Wantoonni addunyaa kana miidhagsan siif maali? |
+| "Over the Rainbow" fiilmii kam keessatti Judy Garlandiin faarfatame? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Fiilmiiwwan jaallatamoo kee eessatti ilaalte? |
+| "I Love Lucy" keessatti Lucy kan taphatte eenyu? | **Lucille Ball**, Doris Day, Betty White | Maatiin kee waliin sagantaa TV kam ilaaluu turte? |
+| Qotiyyoon 'cowboy' farda 'Trigger' jedhamu yaabbatu eenyu ture? | **Roy Rogers**, Gene Autry, John Wayne | Ijoollummaatti 'cowboy' taphattee beektaa? |
+| "The Tonight Show" waggaa soddomaaf geggeesse eenyu? | Ed Sullivan, **Johnny Carson**, Bob Hope | TV ilaaluuf yeroo dheeraa turtee beektaa? |
+| Meeshaan muuziqaa furtuu 88 qabu maali? | Giitaara, **piano**, tarumpetii | Maatii kee keessaa namni tokko ni taphataa turee? |
+| Sirbi tokko-lama-sadii, tokko-lama-sadii jedhamuun lakkaa'amu maali? | **Waltz**, twist, tango | Sirbuuf eessa deemtu ture? |
 
-Muuziqaa irratti caalaatti argachuuf, [hojiiwwan muuziqaa dementiaaf](/activities/music/) ilaalaa.
+Waa'ee muuziqaa dabalataaf, [sochiiwwan muuziqaa namoota dhukkuba sammuu dagachuu waliin jiraataniif](/activities/music/) ilaali.
 
-## Gaaffii jireenya guyyaa guyyaa
+## Gaaffiiwwan jireenya guyyaa guyyaa
 
-| Gaaffii | Filannoo | Waa’ee haasa’aa |
+| Gaaffii | Filannoo | Waan irratti haasa'amu |
 | --- | --- | --- |
-| Torbanni guyyaa meeqa qaba? | 5, **7**, 10 | Guyyaa torbanii isin jaallattan kam? |
-| Waggaan ji’a meeqa qaba? | 10, **12**, 14 | Ji’i dhaloota keessanii kami? |
-| Sanbata booda guyyaan dhufu kami? | Wiixata, **Dilbata**, Kamisa | Dilbata akkamitti dabarsitu turtan? |
-| Wiixata booda guyyaan dhufu kami? | **Kibxata**, Jimaata, Sanbata | Wiixata ganama maal hojjechaa turtan? |
-| Jimaata dura guyyaan dhufu kami? | **Kamisa**, Dilbata, Roobii | Jimaata maal gochuu jaallattan? |
-| Sa’aatiin maal nutti agarsiisa? | **Yeroo**, bishaan, nyaata | Maatii keessaa eenyutu sa’aatii qaba ture? |
-| Harka tokko irratti quba meeqa jira? | 4, **5**, 6 | Quba irratti lakkaa’uu baraa turtan? |
-| Mataa irratti maal kaa’ama? | **Koofiyaa**, kophee, saamunaa | Koofiyaa jaallattan ture? |
-| Miila irratti maal uffanna? | **Kophee**, koofiyaa, ija | Kophee durii kam yaadattu? |
-| Harka dhiqachuuf bishaan fi maal fayyadamna? | **Saamunaa**, sukkaara, cuuphaa | Saamunaa gosa kam fayyadamaa turtan? |
-| Halkan maal goona? | **Rafna**, qonna, taphanna | Halkan akkamitti rafuu jaallattan? |
-| Ija lamaan maal goona? | **Ilaalla**, dhaga’na, urgaa’na | Wanta ilaaluuf bareedaa isin kam jaallattan? |
+| Firiijii duraan, manneen hedduun nyaata qabbanaa'aa keessa kaa'u turan... | **'Icebox'**, odoo, gola darbii | Eenyutu cabbii fidee ture? |
+| Eenyutu aannan qarabaa gilaasii keessa balbala bira gahe? | Poostaa geessu, **aannan geessu**, barruulee geessu | Wanti biraa mana sanatti fidamu maali ture? |
+| Bilbila naanna'u akkamitti bilbilta turte? | Furtuu dhiibuun, **geengoo naannessuun**, itti dubbachuun | Waa'ee bilbila mana keessanii natti himi |
+| Dhaabbanni konkolaataa Model T hojjete kam? | **Ford**, Chevrolet, Buick | Waa'ee konkolaataa jaallatte tokkoo natti himi |
+| 'Soda jerk' eessatti argita ture? | **'Soda fountain' keessatti**, mana daabboo keessatti, baankii keessatti | Kaawuntarii irratti maal ajajta turte? |
+| Taphi meeshaa sibiilaa naanna'aa gulantaa irraa gad bu'uu danda'u maali? | Yo-yo, **Slinky**, hula hoop | Taphiiwwan kam jaallatta turte? |
+| 'Drive-in' iddoon... ilaalaniidha | **Fiilmii konkolaataa keessaa**, tapha kubbaa, hiriira | Eenyu waliin deemte? |
+| Fuula eenyutuu doolaara tokkoo irratti argama? | Lincoln, **George Washington**, Jefferson | Yeroo sana doolaarri tokko maal bita ture? |
+| Fuula eenyutuu saantima ('penny') irratti argama? | **Abraham Lincoln**, Washington, Franklin | Yeroo sana saantimoota qodaa keessa kuustaa turtee? |
+| Halluun otoobisii mana barumsaa yeroo baay'ee maali? | Diimaa, **keelloo**, cuquliisa | Gara mana barumsaatti akkamitti deemta turte? |
 
-## Ayyaana, uumama fi iddoowwan
+## Ayyaanota, uumamaa fi iddoowwan
 
-Ayyaanni fi iddoowwan tokko tokko maatii fi hawaasa nama sanaa irratti hundaa’uun garaagarummaa qabu. Kan isaanii ta’e filadhaa; kan hin ta’in dhiisaa.
-
-| Gaaffii | Filannoo | Waa’ee haasa’aa |
+| Gaaffii | Filannoo | Waan irratti haasa'amu |
 | --- | --- | --- |
-| Aduun eessaa ba’a? | **Bahaa**, lixa, kaaba | Ganama aduun yeroo ba’u eessa turtan? |
-| Roobni eessaa kufa? | **Samii irraa**, lafa irraa, bishaan keessaa | Rooba keessa kufuu ykn deemuu yaadattuu? |
-| Qurxummiin eessa jiraata? | **Bishaan keessa**, muka irra, mana keessa | Qurxummii nyaattanii beektuu? |
-| Simbirroon maal gochuu danda’a? | **Balali’uu**, deemuu qofa, bishaan keessa jiraachuu qofa | Simbirroo kam ilaaluu jaallattu? |
-| Sa’aan maal kennitti? | **Aannan**, buna, damma | Maatii keessan sa’a qabaa turtanii? |
-| Lukkuun maal kennitti? | **Hanqaaquu**, aannan, damma | Lukkuu mana keessan keessa ture? |
-| Margaan halluu maali? | **Magariisa**, diimaa, gurraacha | Dhaabaa keessan keessa maal guddata ture? |
-| Kanniisa (bees) maal tolchu? | **Damma**, aannan, dhadhaa | Damma jaallattu? |
-| Biqiltuun maal barbaada guddachuuf? | **Bishaan fi aduu**, dhagaa qofa, ibidda | Isin biqiltuu kam kunuunsitanii beektuu? |
-| Irreecha maali? | **Ayyaana galataa**, tapha kubbaa, gabaa | Irreecha akkamitti kabajaa turtan? |
-| Ji’a Ramadaan keessa Muslimoonni maal godhu? | **Soomu**, deemu, taphatu | Ramadaan akkamitti dabarsaa turtan? |
-| Finfinneen maali? | **Magaalaa guddoo Itiyoophiyaa**, galaana, tulluu | Finfinnee deemtanii beektuu? |
+| Ayyaanni Kamisa afuraffaa ji'a Sadaasa keessa ta'u maali? | Guyyaa Hojjetaa, **'Thanksgiving'**, 'Memorial Day' | Yeroo hunda maaltu minjaala kee irra ture? |
+| 'Jack-o'-lantern' ayyaana kamiif hojjetama? | **'Halloween'**, 'Easter', Kiristaana (Christmas) | Iddoo itti guddattetti waa'ee 'Halloween' natti himi |
+| Guyyaan Fulbaana afuraffaa Ibsa... ni kabaja | Mirgaa, **Bilisummaa (Independence)**, Walabummaa | Ibidda ayyaanaa ('fireworks') eessatti ilaalte? |
+| Guyyaan Haadhotaa ji'a kam keessa ta'a? | Ebla, **Caamsaa**, Waxabajjii | Maatiin kee akkamitti kabajaa ture? |
+| Alaabaan Ameerikaa urjii meeqa qaba? | 48, **50**, 52 | Alaabaan kun hanga bara 1959tti urjii 48 qaba ture. Deebiin lamaan isaanii iyyuu yaadannoo gaarii dha |
+| Galaanni qarqara ba'aatiin argamu kam? | Paasifik, **Atilaantik**, Aarktik | Bishaan qarqara galaanaa deemtee beektaa? |
+| Siidaan Bilisummaa (Statue of Liberty) magaalaa kam keessa argama? | Boston, **New York**, Philadelphia | New York deemtee beektaa? |
+| Kannisiin maal hojjetu? | Aannan, **damma**, haarrii | Damma daabboo irratti moo shaayii keessa? |
+| Ilmoon sa'aa maaliin waamama? | 'Foal', **jabbii ('calf')**, 'kid' | Qonnaatti dhihoo jiraattee beektaa? |
+| Daraaraan dheeraa keelloo kan aduutti gara galuu beekamu maali? | Ababoo, **suufii ('sunflower')**, tulip | Iddoo biqiltuu kee keessatti maaltu biqilaa ture? |
+| Waggaa 'leap year' keessatti guyyoonni meeqa jiru? | 365, **366**, 360 | Waa'ee guyyaa dhalootaa yaadattu tokkoo natti himi |
+| Gannaan booda waqtiin kam dhufa? | Birraa, **arfaasaa**, bona | Waqtiin ati jaallattu kam? |
 
-## Nyaata fi tapha
+## Gaaffiiwwan nyaataa fi ispoortii
 
-| Gaaffii | Filannoo | Waa’ee haasa’aa |
+| Gaaffii | Filannoo | Waan irratti haasa'amu |
 | --- | --- | --- |
-| Dhadhaan maal irraa tolfama? | **Aannan**, bishaan, daakuu | Dhadhaa eenyutu mana keessatti tolchaa ture? |
-| Buddeenni maal irraa tolfama? | **Daakuu**, aannan, damma | Buddeena eenyutu mana keessatti tolchaa ture? |
-| Xaafiin maali? | **Midhaan**, kuduraa, bineensa | Xaafii nyaata kamiif fayyadamaa turtan? |
-| Sukkaarri dhandhama maal qaba? | **Mi’aawaa**, cuuphaa, ho’aa | Shaayii keessan sukkaara itti naqaa turtanii? |
-| Buna maal irraa argama? | **Biqiltuu irraa**, bineensa irraa, dhagaa irraa | Buna eenyuu wajjin dhugaa turtan? |
-| Dheebuun nu yeroo qabu maal dhugna? | **Bishaan**, biyyee, dhagaa | Bishaan eessaa fidaa turtan? |
-| Nyaanni maal nuuf kenna? | **Humna**, hirribaa, kophee | Nyaata kamtu isin gammachiisa ture? |
-| Garee kubbaa miilaa tokko keessatti taphattoonni dirree irratti meeqa? | 7, **11**, 15 | Garee kam deeggaraa turtan? |
-| Kubbaan miilaa maal fayyadamuun taphatama? | **Miilaan**, harkaan qofa, mataan qofa | Kubbaa miilaa taphattanii beektuu? |
-| Taphni kubbaa miilaa waliigalatti daqiiqaa meeqa? | 60, **90**, 120 | Kubbaa miilaa daawwachuu deemtanii beektuu? |
+| 'Raisin' ija... gogaa dha | 'Plum', **wayinii**, 'cherry' | Nyaata manaa keessatti 'raisin' qabattee deemtaa turtee? |
+| 'Prune' ija... gogaa dha | **'Plum'**, harbuu, appilii | Maatii kee keessaa eenyutu 'prune' jaallataa ture? |
+| 'Peanut butter' fi... | **'Jelly'**, baaduu, foon lukkuu | Kan caccabe ('crunchy') moo kan lallaafaa ('smooth')? |
+| 'Guacamole' irra caalaan kan hojjetamu... irraa | Atara, **avokaadoo**, kukkumbarrii | Yeroo ayyaanaatti 'dip' kamtu ba'aa ture? |
+| 'Pie' kamtu 'Thanksgiving' irratti beekamaa dha? | **'Pumpkin'**, loomii, 'cherry' | 'Pie' kam hojjetta turte? |
+| Gareen beesbolii dirree irratti taphattoota meeqa qaba? | 7, **9**, 11 | Garee kam deeggartaa turte? |
+| Beesbolii keessatti 'strike' meeqatu 'out' taasisa? | Lama, **sadii**, afur | Kubbaa taphattee beektaa? |
+| Babe Ruth ispoortii kamiin beekamaa ture? | Rukuttaa, **beesbolii**, golfii | Tapha kubbaa ilaaluu deemtee beektaa? |
+| Dirreen golfii idilee boolla meeqa qaba? | 9, **18**, 24 | Golfii yookaan 'mini golf' taphattee beektaa? |
+| Ispoortii kam keessatti 'touchdown' galmeessita? | **Kubbaa miillaa Ameerikaa ('Football')**, haakii, kubbaa kachoo | Mana keessanitti eenyutu kubbaa miillaa Ameerikaa ilaaluu ture? |
 
-## Lakkoofsaa, halluu fi tartiiba
+## Mammaaksota beekamoo
 
-Kutaan kun gaaffii himata xumuruu (finish the saying) bakka bu’a: lakkoofsaa, halluu fi tartiiba wantoota beekaman irratti hundaa’a. Dubbii durii (proverbs) kutaa kana keessatti hin galchine, dhugaa isaanii eeguuf. Yoo namni sun fi maatiin isaa dubbii durii ykn sirba beekan, itti dabalaa. Taphni keenya [Himata xumuri](/games/finish-the-saying/) fakkeenya dabalataa qaba.
+Mammaaksa xumuruu afaan bara dheeraan dura baratame irratti hundaa'a, yeroo baay'ees salphaatti ni dhufa. Taphiin keenya [Mammaaksa xumuri](/games/finish-the-saying/) kanneen biroo hedduu qaba, xumura kamiyyuu argisiisuuf tuquu dandeessa.
 
-| Gaaffii | Filannoo | Waa’ee haasa’aa |
+| Mammaaksa | Filannoo | Waan irratti haasa'amu |
 | --- | --- | --- |
-| Aannan halluun isaa maali? | **Adii**, gurraacha, diimaa | Aannan akkamitti dhugaa turtan? |
-| Dhiigni halluun isaa maali? | **Diimaa**, adii, magariisa | Halluu kam jaallattu? |
-| Tokko, lama, ___? | **Sadii**, shan, jaha | Maatii keessaa ijoollee meeqa turtan? |
-| Lama fi lama walitti dabaluun meeqa? | 3, **4**, 5 | Lakkaa’uu eenyutu isin barsiise? |
-| Kudhan irraa shan hir’isuun meeqa? | 4, **5**, 6 | Maallaqa lakkaa’uu jaallattanii? |
-| Galgala booda maal dhufa? | **Halkan**, ganama, guyyaa | Galgala maal gochuu jaallattan? |
-| Jimaata, Sanbata, ___? | **Dilbata**, Wiixata, Kamisa | Dilbata maal gochuu jaallattan? |
-| Aduun bahaa irraa ba’ee eessatti lixa? | **Lixa**, kaaba, bahaa | Aduu lixuu yeroo ilaaltan maal yaaddu turtan? |
+| "An apple a day keeps the..." (Appiliin guyyaa guyyaatti...) | **Doctor away (hakiima fageessa)**, rooba fageessa, adurree fageessa | Eenyutu kana sitti himaa ture? |
+| "The early bird catches the..." (Simbirroon ganama kaatu...) | Konkolaataa, **raammoo ('worm')**, baabura | Nama ganamaan ka'uu moo? |
+| "Don't count your chickens before they..." (Lukkuu kee utuu hin...) | **Dhalatin hin lakkaa'in ('Hatch')**, rafin hin lakkaa'in, faarfatin hin lakkaa'in | Maatiin kee lukkuu horsiisaa turee? |
+| "A penny saved is a penny..." (Saantimni qusatame saantima...) | **Argame ('Earned')**, bade, baafame | Maatii kee keessaa qusataan eenyu ture? |
+| "Home is where the..." (Manni iddo...) | Iddoon biqiltuu jiru, **onneen jiru ('heart is')**, iddoon kushinaa jiru | Iddoon tokko akka manaatti maal isa taasisa? |
+| "Better late than..." (Turaan gaarii dha...) | Dursanii, **gonkumaa hin dhufne ('never')**, gaabbii | Eenyutu yeroo hunda tura ture? |
+| "Every cloud has a silver..." (Duumessa hunda keessa...) | **Qarqara meetii ('Lining')**, fal'aana, saantima | Waa'ee carraa gaarii tokkoo natti himi |
+| "Actions speak louder than..." (Gocha...) | **Jechaa caalaa ('Words')**, muuziqaa caalaa, kakawwee caalaa | Waa'ee nama akkas jedhe tokkoo natti himi |
 
-## Gaaffii “kana moo kana” deebii dogoggoraa hin qabne
+## Gaaffiiwwan "kana moo sana" deebii dogoggoraa hin qabne
 
-Kunneen sadarkaa hundaaf, boodaas dabalatee, mijaa’aa dha, sababni isaas wanta sirriitti deebisuu hin jiru. Gaafadhaa, dhaggeeffadhaa, deebii keessanis qooddadhaa.
+Kanneen kun sadarkaa hundaaf, kan boodaa dabalatee, ni mijatu, sababni isaas wanti sirriin hin jiru. Gaafadhu, dhaggeeffadhu, fi deebii kee illee qoodi.
 
 - Buna moo shaayii?
-- Galaana moo tulluu?
+- Bishaan qarqara galaanaa moo gaara?
 - Saree moo adurree?
-- Yeroo ho’aa moo yeroo qabbanaa’aa?
-- Buddeena moo keeki?
-- Sirbuu moo dhaggeeffachuu?
-- Aduu ba’uu moo aduu lixuu?
-- Mana duratti moo duubatti taa’uu?
-- Raadiyoo moo televiziyoona?
-- Hanqaaquu moo buddeena?
-- Abdaa moo muduraa?
-- Imala konkolaataan moo miilaan?
+- Bona moo ganna?
+- 'Pie' moo keeki?
+- Sirbuu moo ilaaluu?
+- Aduu ba'uu moo aduu lixuu?
+- Barcuma fuulduraa moo oobdii duubaa?
+- Raadiyoo moo 'record'?
+- 'Pancake' moo hanqaaquu?
+- Ababoo moo 'daisy'?
+- Imala baaburaa moo imala konkolaataa?
 
-Kaka’umsa haasaa suuraa wajjin deemuuf, [Kaartii haasaa](/games/conversation-cards/) maxxanfamoo keenya yaalaa.
+Gaaffiiwwan haasawaa fakkii waliin deeman argachuuf, kaardiiwwan haasawaa maxxanfamoo [Kaardiiwwan haasawaa](/games/conversation-cards/) yaali.
 
-## Mana kunuunsaa ykn garee keessatti sagantaa gaaffii akkamitti geggeessuu?
+## Mana kunuunsaa yookaan garee keessatti gaaffii akkamitti geggeessita?
 
-1. **Namoota akka arguu fi dhaga’uu danda’aniif teessisaa.** Meeshaa dhaga’uu galchaa, gilaasii uffadhaa, TV cufaa.
-2. **Akka haasaatti beeksisaa.** “Waa’ee yeroo durii gaaffii qaba, isin immoo na caalaa akka beektan nan abdadha.”
-3. **Gaaffii tokkoon tokkoon al lama dubbisaa, filannoo guddaa agarsiisaa.**
-4. **Deebii kutaa irraa iddoo kamiyyuu irraa simadhaa.** Deebii gaarii deddeebisaa, kanaaf nama hundi ni dhaga’a.
-5. **Deebii hundaaf himaa,** achiis waa’ee haasa’uu garee gaafadhaa.
-6. **Humna hordofaa.** Yoo gaaffiin tokko seenaa daqiiqaa 10 jalqabe, haa ta’u.
-7. **Sirba ykn gaaffii “kana moo kana” wajjin xumuraa,** kanaaf hundi wanta salphaa irratti xumura.
+1. **Namoota akka arganii fi dhaga'an taphachiisi.** Meeshaaleen dhageettii, ija ilaaluu, fi TV cufi.
+2. **Akka haasawaatti beeksisi.** "Gaaffiiwwan waa'ee bara darbee muraasa qaba, isin immoo ana caalaa beektu jedheen amana."
+3. **Gaaffii hunda yeroo lama dubbisiitii filannoowwan guddaa agarsiisi.**
+4. **Deebii kutaa kam irraa iyyuu dhufu simadhu.** Deebiiwwan gaarii akka namni hundi dhaga'uuf irra deebi'i.
+5. **Deebii hundaaf kenni,** sana booddee gaaffii haasawaa kutaa sanaaf gaafadhu.
+6. **Haaluma isaa hordofi.** Yoo gaaffiin tokko seenaa daqiiqaa kudhaniif jalqabe, haa ta'u.
+7. **Sirba yookaan marsaa 'kana moo sana' tiin xumuri,** akka namni hundi waan salphaa tokkoon xumuruuf.
 
-Bifa garee biroo, picture bingo fi waliin faarfachuu dabalatee, argachuuf [hojiiwwan garee mana kunuunsaaf](/activities/care-home-groups/) ilaalaa.
+Haala garee biroof, 'picture bingo' fi waliin faarfachuu dabalatee, [sochiiwwan garee mana kunuunsaatiif](/activities/care-home-groups/) ilaali.
 
-## Yeroo karoora jijjiiruu
+## Yoom karooricha jijjiiruu qabna
 
-Yoo namni tokko yaaddoo agarsiise, calla’e ykn “hin beeku” al tokko ol jedhe, salphisaa: filannoo lamatti gad-buusaa, waliin deebisaa, ykn gara gaaffii “kana moo kana”tti jijjiiraa. Yoo garreen gaaffii tokko irratti guyyaa guutuu haasa’uu filate, kun milkaa’ina. Kaayyoon deebii sirrii gonkumaa hin turre. Yeroo hiriyyaa gaarii wajjin dabarsuu ture.
+Yoo namni tokko yaadda'aa fakkaate, cal'ise yookaan yeroo tokkoo ol "Ani hin beeku" jedhe, salphisi: filannoo lama qofa kennuuf gadi bu'i, waliin deebisi, yookaan gara gaaffiiwwan "kana moo sana"tti jijjiiri. Yoo gareen gaaffii tokko irratti guyyaa guutuu haasa'uu filate, sun milkaa'ina. Galmi keenya deebii sirrii argachuu hin turre. Yeroo gaarii waliin dabarsuu ture.

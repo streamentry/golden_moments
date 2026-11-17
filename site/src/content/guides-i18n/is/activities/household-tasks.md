@@ -1,33 +1,33 @@
 ---
 title: "Heimilisverk sem athafnir fyrir fólk með heilabilun"
-seoTitle: "Heimilisathafnir við heilabilun: Dagleg verk"
-description: "Að brjóta saman þvott, flokka hluti, leggja á borð og elda einfaldan mat geta verið þýðingarmiklar athafnir fyrir fólk með heilabilun. Hvernig á að undirbúa þær, aðlaga og gæta öryggis."
+seoTitle: "Heimilisverk við heilabilun: verkefni í daglegu lífi"
+description: "Þvottabrot, flokkun, borðhald og einföld matargerð geta verið innihaldsríkar athafnir. Hvernig má skipuleggja, aðlaga og gera þau örugg."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Dagleg verk eins og að brjóta saman handklæði, para saman sokka, leggja á
-  borð, þurrka af borðum, vökva plöntur og hjálpa til við einfaldan matargerð
-  geta gefið einstaklingi sem lifir með heilabilun raunverulega leið til að
-  leggja sitt af mörkum. Veljið verk sem viðkomandi þekkir, skiptið þeim niður í
-  eitt skref í einu, fjarlægið beitta hluti og hita og leggið áherslu á að taka
-  þátt fremur en að gera hlutina „rétt“.
+  Dagleg heimilisverk eins og að brjóta saman handklæði, para saman sokka, setja
+  á borð, þurrka af borðum, vökva plöntur og hjálpa til við einfalda matargerð
+  geta gefið einstaklingi sem lifir með heilabilun raunverulega leið til að taka
+  þátt. Veljið verkefni sem viðkomandi þekkir, skiptið þeim niður í eitt skref í
+  einu, fjarlægið beitta hluti og hita, og metið þátttökuna meira en að verkið
+  sé gert „rétt“.
 keyPoints:
-  - "Þekkt heimilisverk geta hjálpað einstaklingi að líða gagnlega og finna fyrir því að hann sé hluti af heimilinu, sem skiptir oft meira máli en hversu vel verkið er unnið."
-  - "Skiptið hverju verki í einstök skref, sýnið frekar en útskýrið og takið hljóðlega yfir skref sem eru orðin erfið."
-  - "Læsið hnífum, hreinsiefnum og þvottaefnishylkjum inni og setjið upp öryggishnappa á eldavél eða sjálfvirka slökkvun áður en þið eldið saman."
-  - "Ekki þarf að brjóta saman handklæði að nýju fyrir framan einstaklinginn. Ef þú þarft að laga eitthvað, gerðu það síðar og þar sem viðkomandi sér það ekki."
-  - "Ef verkefni veldur gremju, skiptið yfir í auðveldara skref, reynið aftur síðar eða setjist bara saman."
+  - "Þekkt heimilisverk geta hjálpað einstaklingi að finnast hann nýtast og vera hluti af heimilinu, sem skiptir oft meira máli en hversu vel verkið er unnið."
+  - "Skiptið hverju verkefni niður í einstök skref, sýnið frekar en útskýrið og takið hljóðlega yfir hvert skref sem er orðið erfitt."
+  - "Læsið hnífum, hreinsiefnum og þvottaefnishylkjum inni og setjið hlífar á hnúða eldavélarinnar eða sjálfvirka slökkvun áður en þið eldið saman."
+  - "Ekki þarf að brjóta saman handklæði aftur fyrir framan einstaklinginn. Ef endilega þarf að laga eitthvað, gerið það síðar og þar sem hann sér það ekki."
+  - "Ef verkefni veldur gremju, skiptið yfir í auðveldara skref, reynið aftur seinna eða setjist bara saman."
 faq:
   - q: "Hvaða heimilisverk getur einstaklingur með heilabilun enn hjálpað til við?"
-    a: "Margir geta enn brotið saman þvott, parað saman sokka, flokkað hnífapör, lagt á borð, þurrkað af borði, ryksugað, sópað, vökvað plöntur eða hrært deig í skál. Veljið verk sem einstaklingurinn gerði áður og aðlagið þau að því sem hann ræður við núna. Á síðari stigum getur ein einföld, endurtekin hreyfing, eins og að strauja servíettur, verið nægileg."
-  - q: "Er óhætt fyrir einstakling með heilabilun að hjálpa til í eldhúsinu?"
-    a: "Það getur verið það, með nánu eftirliti og réttu undirbúningi. Hafið hnífa, hreinsiefni og allt sem er heitt úr færi, notið öryggishnappa á eldavél eða sjálfvirka slökkvun og gefið einstaklingnum öruggt verkefni eins og að þvo grænmeti, hræra eða setja fram diska. Skiljið hann aldrei eftir einan með kveikta eldavél."
-  - q: "Hvað ef viðkomandi bregður hlutum rangt saman eða gerir rusl?"
-    a: "Leyfið því að vera. Markmiðið er samverustund og tilfinning um að vera gagnlegur, ekki fullkomin útkoma. Ef eitthvað þarf örugglega að laga, bíðið þar til síðar og gerið það þegar einstaklingurinn er ekki að horfa, svo hann finni ekki fyrir því að vera leiðréttur."
+    a: "Margir geta enn brotið saman þvott, parað saman sokka, flokkað hnífapör, sett á borð, þurrkað af borði, rykþurrkað, sópað, vökvað plöntur eða hrært deig í skál. Veljið verkefni sem einstaklingurinn gerði áður og aðlagið þau að því sem hann ræður við núna. Á síðari stigum getur ein einföld, endurtekin hreyfing, eins og að slétta servíettur, verið nægileg."
+  - q: "Er öruggt fyrir einhvern með heilabilun að hjálpa til í eldhúsinu?"
+    a: "Það getur verið það, með nánu eftirliti og réttu undirbúningi. Hafið hnífa, hreinsiefni og allt sem er heitt undan frá, notið hlífar á hnúða eldavélarinnar eða sjálfvirka slökkvun og gefið einstaklingnum öruggt verk eins og að þvo grænmeti, hræra eða setja fram diska. Skiljið hann aldrei eftir einan með kveikt á eldavélinni."
+  - q: "Hvað ef viðkomandi brýtur rangt saman eða gerir sóðaskap?"
+    a: "Leyfið því að vera. Markmiðið er að eyða tíma saman og skapa tilfinningu um að nýtast, ekki að fá fullkomna útkomu. Ef eitthvað þarf sannarlega að laga, bíðið þar til síðar og gerið það þegar einstaklingurinn horfir ekki á, svo honum finnist ekki verið að leiðrétta sig."
   - q: "Hvað ef viðkomandi neitar að hjálpa til?"
-    a: "Nei getur þýtt að verkefnið finnist of erfitt, ruglingslegt eða þreytandi akkúrat núna. Þrýstið ekki á. Prófið einfaldari útgáfu, bjóðið viðkomandi að halda ykkur bara félagsskap í staðinn eða spyrjið aftur á hentugri tíma dags."
+    a: "Nei getur þýtt að verkefnið finnist of erfitt, ruglingslegt eða þreytandi í augnablikinu. Þrýstið ekki á. Prófið einfaldari útgáfu, bjóðið viðkomandi að halda ykkur bara félagsskap í staðinn eða spyrjið aftur á hentugri tíma dags."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Margir sem lifa með heilabilun eyddu áratugum í að sjá um heimili, ala upp fjölskyldu eða halda utan um vinnustað. Að vera beðinn um að hjálpa til við raunveruleg heimilisverk getur sagt „þú ert enn hluti af þessu heimili“ á þann hátt sem fáar aðrar athafnir gera. Á þessari síðu er fjallað um hvaða verk virka oftast vel, hvernig á að undirbúa þau, hvernig á að aðlaga þau eftir því sem hlutirnir breytast og hvernig á að gæta öryggis í eldhúsi og þvottahúsi.
+Margir sem lifa með heilabilun hafa varið áratugum í að sjá um heimili, ala upp fjölskyldu eða halda utan um vinnustað. Að vera beðin(n) um að hjálpa til við raunveruleg heimilisverk getur sagt „þú ert enn hluti af þessu heimili“ á þann hátt sem fáar aðrar athafnir gera. Á þessari síðu er fjallað um hvaða verkefni virka oft vel, hvernig má undirbúa þau, hvernig má aðlaga þau eftir því sem hlutirnir breytast og hvernig hægt er að halda eldhúsi og þvottaherbergi öruggu.
 
-## Af hverju virka dagleg heimilisverk vel sem athafnir?
+## Hvers vegna virka dagleg heimilisverk vel sem athafnir?
 
-Heimilisverk virka vel vegna þess að þau eru kunnugleg og hafa skýran tilgang. National Institute on Aging nefnir uppþvott, að leggja á borð, að sópa, að ryksuga, að flokka póst, að brjóta saman þvott og að flokka endurvinnanlegt efni meðal [daglegra athafna sem fólk með Alzheimer-sjúkdóm getur haft gaman af](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer’s Association bendir á að verkefni eins og að leggja á borð geti hjálpað einstaklingi að [líða eins og mikilvægur hluti af heimilinu](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Heimilisverk virka vel vegna þess að þau eru kunnugleg og hafa skýran tilgang. Landssjúkrahúsið öldrunarrannsókna í Bandaríkjunum (National Institute on Aging) telur upp að vaska upp, setja á borð, sópa, rykþurrka, flokka póst, brjóta saman þvott og flokka endurvinnanlegt efni meðal [daglegra verkefna sem fólk með Alzheimer-sjúkdóm kann að njóta](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer-samtökin (Alzheimer's Association) benda á að verkefni eins og að setja á borð geti hjálpað einstaklingi að [finnast hann vera verðmætur hluti af heimilinu](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-Heimilisverk fylgir líka eigin ástæða til að byrja. „Gætirðu hjálpað mér með þessi handklæði?“ er auðveldara að segja já við en „Viltu gera eitthvað?“
+Heimilisverk fela líka í sér eigin ástæðu til að byrja. „Gætirðu hjálpað mér með þessi handklæði?“ er oft auðveldara að segja já við en „Viltu gera einhverja athöfn?“
 
 ## Hvaða heimilisverk er gott að prófa?
 
-Byrjið á verkum sem einstaklingurinn gerði áður og aðlagið þau að því sem hann ræður við í dag.
+Byrjið á verkefnum sem einstaklingurinn gerði áður og aðlagið þau að því sem hann ræður við í dag.
 
 ### Þvottur og rúmföt
 
-- **Að brjóta saman handklæði og þvottaklúta.** Réttið að viðkomandi körfu með litlum, flötum hlutum. Handklæði eru þakklát: það er engin röng leið til að brjóta saman handklæði.
+- **Að brjóta saman handklæði og þvottaklúta.** Fái einstaklingnum körfu með litlum, flötum hlutum. Handklæði eru auðveld í meðförum: það er engin röng leið til að brjóta þau saman.
 - **Að para saman sokka.** Setjið blandaðan hrúgu á borðið. Ef erfitt er að sjá pörin, notið aðeins tvo eða þrjá mjög ólíka liti.
-- **Að strauja og stafla.** Hægt er að strauja servíettur, koddaver eða eldhúsklúta og stafla þeim. Þetta virkar vel síðar, þegar það er orðið of mörg skref að brjóta hlutina saman.
+- **Að slétta og stafla.** Hægt er að slétta servíettur, koddaver eða eldhúsrúllur og stafla þeim. Þetta virkar vel síðar, þegar það eru orðin of mörg skref að brjóta saman.
 
 ### Borð og eldhús
 
-- **Að leggja á borð.** Leggið fram einn borðbúnað sem fyrirmynd og látið einstaklinginn herma eftir. Ef það er of mikið, réttið að honum einn hlut í einu: „Hér er gaffall fyrir hvern disk.“
-- **Að flokka hnífapör.** Blandið hreinum göfflum, skeiðum og smjörhnífum í íláti og flokkið þá í bakka með hólfum. Látið beitta hnífa vera.
-- **Að þurrka diska.** Plast- eða óbrjótanlegir diskar og mjúkur klútur gera þetta að öruggu verkefni.
-- **Að þurrka af borði eða vinnuborðum.** Rakur klútur og hreint yfirborð. Alzheimer’s Association leggur til að bjóða viðkomandi klút ef hann er nú þegar að nudda borðið með hendinni og breyta þannig órólegri hreyfingu í gagnlegt verk.
+- **Að setja á borð.** Leggið eina borðstillingu sem fyrirmynd og látið einstaklinginn herma eftir henni. Ef það er of mikið, rétti að einn hlut í einu: „Hér er gaffall fyrir hvern disk.“
+- **Að flokka hnífapör.** Blandið hreinum göfflum, skeiðum og smjörhnífum í fötu og flokkum þeim í bakka með hólfum. Hafið beitta hnífa undan frá.
+- **Að þurrka diska.** Plast- eða óbrjótanlegir diskar og mjúkur klútur gera þetta að öruggu verki.
+- **Að þurrka af borði eða vinnuborðum.** Rakur klútur og hreint yfirborð. Alzheimer-samtökin leggja til að bjóða upp á klút ef einhver er þegar að nudda borðið með hendinni og breyta þannig órólegri hreyfingu í gagnlegt verk.
 
-### Um allt heimilið
+### Um húsið
 
-- **Að ryksuga.** Mjúkur ryksugari og nokkur traust yfirborð, eins og sófaborð eða bókahilla.
-- **Að flokka póst.** Réttið að viðkomandi ruslpóst og bæklinga til að flokka í hrúgur: geyma, endurvinna, opna síðar. Hafið raunverulega reikninga og ávísanir annars staðar.
+- **Rykþurrkun.** Mjúkur rykbursti og fáir traustir fletir, eins og sófaborð eða bókahilla.
+- **Að flokka póst.** Fáið viðkomandi ruslpóst og vörulista til að flokka í hrúgur: geyma, endurvinna, opna síðar. Hafið raunverulega reikninga og ávísanir annars staðar.
 - **Að flokka endurvinnanlegt efni.** Hreinar dósir, flöskur og pappír í aðskildar tunnur.
-- **Að sópa.** Lítill sópi á verönd eða eldhúsgólfi, ef jafnvægið er gott.
-- **Að vökva plöntur.** Lítil, létt vatnskanna og nokkrar plöntur í góðu færi.
+- **Að sópa.** Lítil sópa á verönd eða eldhúsgólfi, ef jafnvægið er gott.
+- **Að vökva plöntur.** Lítil, létt kanna og nokkrar plöntur í góðu færi.
 
-### Einfaldur matargerð með eftirliti
+### Einföld matargerð með eftirliti
 
-Að elda getur vakið sterkar, notalegar tilfinningar. National Institute on Aging leggur til að láta einstaklinginn safna hráefnum, mæla, hræra og hella eða einfaldlega segja einhverjum öðrum hvernig á að búa til eftirlætisrétt. Góð verkefni eru til dæmis:
+Matargerð getur vakið sterkar, ánægjulegar tilfinningar. Landssjúkrahúsið öldrunarrannsókna leggur til að láta einstaklinginn safna hráefnum, mæla, hræra og hella, eða einfaldlega segja einhverjum öðrum hvernig á að elda uppáhaldsrétt. Góð verk eru til dæmis:
 
 - að þvo grænmeti eða ávexti
 - að hræra deig eða kalda salatskál
 - að rífa salat
-- að smyrja ristað brauð með sljóum hníf
-- að setja kökudeig á bökunarplötu
+- að smyrja ristuð brauð með sljórri hníf
+- að setja smákökudeig á bökunarplötu
 - að setja álegg á pizzu
 
-Ef það verður erfitt að mæla, leggur Alzheimer’s Association til að þú ljúkir mælingunum og réttir síðan að viðkomandi annað skref, eins og að hræra.
+Ef mælingar verða erfiðar leggja Alzheimer-samtökin til að þið ljúkið við mælingarnar og fáið viðkomandi síðan annað skref, eins og að hræra.
 
 ## Hvernig undirbý ég heimilisverk svo það gangi vel?
 
-1. **Veljið réttan tíma.** Veljið þann tíma dags þegar einstaklingurinn er yfirleitt hvíldur og rólegur. Hjá mörgum er það á morgnana.
-2. **Hreinsið vinnusvæðið.** Eitt verkefni, eitt yfirborð, ekkert auka á borðinu.
-3. **Bjóðið, ekki skipið fyrir.** „Mig vantar smá aðstoð við þetta“ virkar betur en „Nú er kominn tími til að brjóta saman þvott.“
-4. **Sýnið fyrsta skrefið.** Brjótið eitt handklæði saman hægt og rólega og réttið svo það næsta að. Að sýna er skýrara en að útskýra.
-5. **Gefið eitt skref í einu.** Of margar leiðbeiningar í einu geta verið yfirþyrmandi. Bíðið eftir að einu skrefi sé lokið áður en næsta er nefnt.
-6. **Vinnið hlið við hlið.** Að gera sama verkið hvort við hliðina á öðru er meira eins og félagsskapur en eftirlit.
-7. **Talið um verkefnið, ekki útkomuna.** „Þessi eru svo mjúk“ eða „Segðu mér hvernig þér líkaði að hafa fataskápinn“ býður upp á samræður án þess að prófa neinn.
+1. **Veljið réttan tíma.** Veljið þann tíma dags þegar einstaklingurinn er yfirleitt hvíldur og rólegur. Fyrir marga er það að morgni til.
+2. **Hreinsið rýmið.** Eitt verkefni, eitt yfirborð, ekkert óþarfa á borðinu.
+3. **Bjóddu, ekki skipa.** „Mér kæmi vel aðstoð við þetta“ virkar betur en „Nú er kominn tími til að brjóta saman þvott.“
+4. **Sýnið fyrsta skrefið.** Brjótið eitt handklæði saman hægt og rólega og réttu svo það næsta. Að sýna er skýrara en að útskýra.
+5. **Gefið eitt skref í einu.** Of margar leiðbeiningar í einu geta verið yfirþyrmandi. Bíðið þar til einu skrefi er lokið áður en næsta er nefnt.
+6. **Vinnið hlið við hlið.** Að gera sama verkið saman hlið við hlið er eins og félagsskapur, ekki eftirlit.
+7. **Talið um verkefnið, ekki útkomuna.** „Þessi eru svo mjúk“ eða „Segðu mér hvernig þú hafðir gaman af að hafa línuskápinn“ býður upp á samtal án þess að prófa neinn.
 
-## Hvernig aðlaga ég heimilisverk eftir því sem færnin breytist?
+## Hvernig aðlaga ég heimilisverk eftir því sem getu breytist?
 
-Færnin breytist með tímanum og jafnvel frá degi til dags. Alzheimer’s Association leggur til að fara í átt að einfaldari og endurteknari verkefnum eftir því sem sjúkdómurinn þróast.
+Geta breytist með tímanum og jafnvel frá degi til dags. Alzheimer-samtökin leggja til að fara í átt að einfaldari og endurteknari verkefnum eftir því sem ástandið þróast.
 
 | Ef þetta er orðið erfitt | Prófið þetta í staðinn |
 | --- | --- |
-| Að brjóta saman stór lök | Að brjóta saman þvottaklúta eða strauja servíettur |
-| Að leggja á heilt borð | Að setja eina servíettu við hvert sæti |
+| Að brjóta saman stór rúmföt | Að brjóta saman þvottaklúta eða slétta servíettur |
+| Að setja heila borðstillingu | Að setja eina servíettu við hvert sæti |
 | Að flokka póst í flokka | Að stafla umslögum í eina hrúgu |
-| Að fylgja uppskrift | Að hræra, eða horfa og smakka á meðan þú eldar |
-| Að sópa allt gólf | Að þurrka af einu litlu borði |
-| Að gera verkefnið yfir höfuð | Að sitja hjá þér og halda þér félagsskap á meðan þú gerir það |
+| Að fylgja uppskrift | Að hræra, eða horfa á og bragða á meðan þið eldið |
+| Að sópa allt gólfið | Að þurrka af einu litlu borði |
+| Að gera verkefnið yfir höfuð | Að sitja hjá ykkur og halda ykkur félagsskap á meðan þið gerið það |
 
-Að horfa á telst líka. National Institute on Aging bendir á að sumir njóti þess einfaldlega að horfa á og að það sé fín leið til að taka þátt.
+Að horfa á telur líka. Landssjúkrahúsið öldrunarrannsókna bendir á að sumir njóti einfaldlega þess að horfa á og að það sé fín leið til að taka þátt.
 
-## Hvernig gæti ég öryggis við heimilisverk?
+## Hvernig held ég heimilisverkum öruggum?
 
-Öryggi kemur fyrst, sérstaklega í eldhúsinu. [Ráð National Institute on Aging um öryggi á heimilum fyrir aðstandendur einstaklinga með Alzheimer-sjúkdóm](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) fela í sér:
+Öryggi kemur fyrst, sérstaklega í eldhúsinu. [Ráð um öryggi á heimili fyrir umönnunaraðila fólks með Alzheimer-sjúkdóm](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) frá Landssjúkrahúsi öldrunarrannsókna fela meðal annars í sér:
 
-- Læsið inni eða fjarlægið hreinsiefni, þar á meðal þvottaefnishylki, sem geta litið út eins og nammi.
+- Læsið inni eða fjarlægið hreinsiefni, þar með talin þvottaefnishylki, sem geta litið út eins og nammi.
 - Geymið hnífa, skæri og rafmagnsverkfæri á læstum stað.
-- Setjið upp öryggishnappa og sjálfvirka slökkvun á eldavélina.
-- Setjið „Stopp“ eða „Mjög heitt“ merki nálægt ofni, brauðrist og járni þannig að þau geti ekki kviknað í.
-- Stillið hitavatnið á 49 °C (120 °F) til að draga úr hættu á bruna.
-- Fjarlægið gerviávexti og segulmagn með matarlíkjum, sem geta litið út fyrir að vera æt.
+- Setjið öryggishnúða og sjálfvirka slökkvun á eldavélina.
+- Setjið merki með „Stopp“ eða „Mjög heitt“ nálægt ofni, brauðrist og straujárni, þannig að þau geti ekki kviknað í.
+- Stillið hitann á heitavatnstankinum á 120°F til að draga úr hættu á bruna.
+- Fjarlægið gerviávexti og segla í matarlagi sem geta litið út eins og hægt sé að borða þá.
 
-Nokkrir aðrir hagnýtir vanar hjálpa:
+Nokkur önnur hagnýt ráð hjálpa einnig:
 
 - Verið í herberginu þegar kveikt er á eldavél, ofni eða beitt verkfæri eru í notkun.
-- Notið óbrjótanlega diska þegar þurrkað er og lagt á borð.
-- Haldið gólfum þurrum og lausu við hindranir á meðan sópað er eða þurrkað.
-- Ef einstaklingurinn vann áður með verkfæri leggur Alzheimer’s Association til að fjarlægja hættulega hluti úr verkstæðinu svo enn sé hægt að njóta öruggs verkefnis, eins og að pússa viðarbút.
+- Notið óbrjótanlega diska til að þurrka og setja á borð.
+- Haldið gólfum þurrum og hreinum meðan verið er að sópa eða skúra.
+- Ef einstaklingurinn notaði áður verkfæri, leggja Alzheimer-samtökin til að fjarlægja hættulega hluti úr smiðjunni svo enn sé hægt að njóta öruggs verks, eins og að pússa viðarbút.
 
-## Hvað ef viðkomandi gerir þetta „rangt“?
+## Hvað ef þetta er gert „rangt“?
 
-Leyfið því að vera. Handklæði sem er brotið í þriðjunga í staðinn fyrir helminga er samt samanbrotið handklæði. Alzheimer’s Association orðar það skýrt: það sem skiptir máli er að eyða tíma saman og að einstaklingnum líði gagnlega, ekki hvort handklæðin séu brotin saman á fullkominn hátt. Ef eitthvað þarf örugglega að gera upp á nýtt, bíðið þar til síðar og gerið það þar sem viðkomandi sér það ekki.
+Leyfið því að líða hjá. Handklæði sem er brotið í þriðjunga í stað helminga er samt samanbrotið handklæði. Alzheimer-samtökin orða það skýrt: það sem skiptir máli er að eyða tíma saman og að einstaklingnum finnist hann nýtast, ekki hvort handklæðin séu brotin saman á réttan hátt. Ef eitthvað þarf sannarlega að gera aftur, bíðið þar til síðar og gerið það þar sem viðkomandi sér það ekki.
 
-Að leiðrétta á staðnum getur breytt notalegu verki í áminningu um það sem hefur tapast. „Takk fyrir, þetta hjálpar mikið“ er næstum alltaf rétti hluturinn að segja.
+Að leiðrétta í augnablikinu getur breytt ánægjulegu verki í áminningu um það sem glatað hefur verið. „Takk fyrir, þetta hjálpar mikið“ er næstum alltaf rétt að segja.
 
 ## Hvenær ættum við að hætta?
 
-Hættið eða skiptið um verkefni þegar þið sjáið merki um gremju, þreytu eða minnkandi áhuga. Að hætta snemma er góður árangur, ekki mistök. Þið getið:
+Hættið eða skiptið um verkefni þegar þið sjáið merki um gremju, þreytu eða minnkandi áhuga. Að hætta snemma er góður árangur, ekki misheppnun. Þið getið:
 
 - skipt yfir í auðveldara skref
-- farið yfir í eitthvað rólegra, eins og tónlist eða kaffibolla
+- farið yfir í eitthvað rólegt, eins og tónlist eða kaffibolla
 - reynt aftur síðar eða annan dag
-- einfaldlega setist saman
+- einfaldlega setið saman
 
-Ef einstaklingurinn segir nei, þrýstið ekki á. Sjá [hvað á að gera þegar viðkomandi segir nei](/caregiving/when-they-say-no/) til að fá leiðbeiningar um mild viðbrögð.
+Ef einstaklingurinn segir nei, þrýstið ekki á. Sjáið [hvað á að gera þegar viðkomandi segir nei](/caregiving/when-they-say-no/) til að fá vægar leiðir til að bregðast við.
 
 ## Auðveld viðbót fyrir rólegri stund
 
-Þegar líkamleg heimilisverk eru ekki möguleg er samt hægt að flokka og para saman hluti sitjandi. [Sort Together](/games/sort-together/) gerir kleift að ýta á myndir og setja þær í körfur fyrir eldhús eða garð, og [Picture Pairs](/games/picture-pairs/) er mildur pörunarleikur með stórum myndum og án tímamarka. [Conversation Cards](/games/conversation-cards/) bjóða upp á opin orð um heimili og fjölskyldu sem passa vel við kaffibolla þegar verkinu er lokið.
+Þegar líkamleg heimilisverk eru ekki möguleg er enn hægt að flokka og para saman hlutina sitjandi. [Sort Together](/games/sort-together/) gerir kleift að pikka á myndir í eldhús- eða garðkörfur og [Picture Pairs](/games/picture-pairs/) er vægur pörunarleikur með stórum myndum og án tímamælis. [Conversation Cards](/games/conversation-cards/) innihalda opin spurningar um heimili og fjölskyldu sem passa vel við kaffibolla þegar verkinu er lokið.
 
-Til að fá hjálp við að fella heimilisverk inn í daginn, sjá leiðbeiningar okkar um [rólega daglega rútínu](/activities/daily-routine/). Fyrir fleiri hugmyndir eftir stigum, sjá [athafnir á miðstigi](/activities/middle-stage/).
+Til að fá aðstoð við að fella heimilisverk inn í daginn, sjáið leiðbeiningar okkar um [rólega daglega rútínu](/activities/daily-routine/). Fyrir fleiri hugmyndir eftir stigum, sjáið [athafnir á miðstigi](/activities/middle-stage/).

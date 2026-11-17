@@ -1,32 +1,33 @@
 ---
-title: "Dejavnosti s spominjanjem: spominske škatle, življenjske zgodbe in fotografije"
-seoTitle: "Spominjanje pri demenci: ideje brez kviza"
-description: "Kako deliti spomine z osebo z demenco brez kviza: pogovor ob fotografijah, spominske škatle in knjige življenjske zgodbe ter izrazi, ki ohranjajo sprostitev."
+title: "Dejavnosti s spomini: škatle, zgodbe in fotografije"
+seoTitle: "Dejavnosti s spomini pri demenci: brez spraševanja"
+description: "Kako deliti spomine z osebo, ki živi z demenco, brez spraševanja: pogovor ob fotografijah, škatle spominov in knjige življenjske zgodbe."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Spominjanje pomeni skupno uživanje v preteklosti prek fotografij, predmetov, glasbe
-  in zgodb. Naredite spominsko škatlo, sestavite preprosto knjigo življenjske zgodbe
-  ali skupaj poglejte fotografije. Nikoli ne spraševajte kot na kvizu: izogibajte se
-  „Ali se spomnite?“ in „Kdo je to?“ ter uporabite odprta povabila, kot je „Povejte mi
-  o tem.“ Topel pogovor je pomembnejši od natančnih dejstev.
+  Spominjanje pomeni, da se skupaj prijetno spominjate preteklosti ob
+  fotografijah, predmetih, glasbi in zgodbah. Naredite škatlo spominov,
+  pripravite preprosto knjigo življenjske zgodbe ali si skupaj oglejte
+  fotografije. Nikoli ne sprašujte: izpustite „Ali se spomnite?“ in „Kdo je
+  to?“ ter uporabite odprta vabila, kot je „Povejte mi o tem.“ Topel pogovor
+  je pomembnejši od tega, ali so dejstva pravilna.
 keyPoints:
-  - "Spominjanje je pogovor, ne preizkus. Natančnost ni pomembna, pomemben je užitek."
-  - "Namesto „Ali se spomnite ...?“ in „Kdo je to?“ uporabite komentarje in povabila, kot je „Povejte mi o tem dnevu.“"
-  - "Spominska škatla s predmeti iz življenja osebe da rokam in pogovoru nekaj, česar se lahko držijo."
-  - "Knjiga življenjske zgodbe pomaga družini, obiskovalcem in osebju spoznati osebo, ne le diagnoze."
-  - "Če spomin prinese žalost, najprej pomirite in nežno preidite naprej."
+  - "Spominjanje je pogovor, ne preizkus. Natančnost ni pomembna, pomembno je, da je prijetno."
+  - "Namesto „Ali se spomnite ...?“ in „Kdo je to?“ uporabite pripombe in vabila, kot je „Povejte mi o tem dnevu.“"
+  - "Škatla spominov s predmeti iz življenja osebe daje rokam in pogovoru nekaj otipljivega."
+  - "Knjiga življenjske zgodbe pomaga družini, obiskovalcem in negovalcem spoznati osebo, ne le diagnoze."
+  - "Če spomin vzbudi žalost, najprej potolažite in se nežno usmerite drugam."
 faq:
-  - q: "Kaj je spominjanje za osebe z demenco?"
-    a: "Spominjanje je deljenje spominov in preteklih izkušenj, pogosto s pomočjo fotografij, predmetov, glasbe ali videoposnetkov. Lahko poteka med dvema ali v skupini. Cilj je prijeten, smiseln pogovor, ne preverjanje, kaj se oseba lahko spomni."
-  - q: "Zakaj ne bi smel vprašati „Ali se spomnite?“"
-    a: "Vprašanja, ki preverjajo spomin, lahko osebo zaradi odgovora, ki ne pride, spravijo v zadrego ali tesnobo. Nacionalni inštitut za staranje med stvari, ki se jim je treba izogibati, uvršča vprašanje, ali se oseba spomni nečesa ali nekoga. Namesto tega komentirajte, kar vidite, in pustite, da oseba doda, kar želi."
-  - q: "Kaj naj dam v spominsko škatlo?"
-    a: "Izberite varne, trdne predmete, povezane z življenjem osebe: stvari iz službe, opremo za hobi, njen najljubši šal, razglednice, kartone z recepti, spominke s športnih dogodkov ali kopije fotografij. Izogibajte se ostrim predmetom, drobnim stvarem, ki bi jih lahko pogoltnili, in nenadomestljivim izvirnikom."
-  - q: "Kaj, če se zmotijo v dejstvih?"
-    a: "Pustite. Če vaša mama pravi, da fotografija kaže njeno sestro, čeprav je to njena sestrična, je to v redu. Popravljanje spremeni topel trenutek v preizkus. Sledite zgodbi, ki jo pripovedujejo, in jo uživajte skupaj."
+  - q: "Kaj je spominjanje za osebe, ki živijo z demenco?"
+    a: "Spominjanje je deljenje spominov in preteklih izkušenj, pogosto s pomočjo fotografij, predmetov, glasbe ali videoposnetkov. Lahko poteka v dvoje ali v skupini. Cilj je prijeten in smiseln pogovor, ne preverjanje, česa se oseba lahko spomni."
+  - q: "Zakaj ne bi smel/a vprašati „Ali se spomnite?“"
+    a: "Vprašanja, ki preverjajo spomin, lahko povzročijo, da se oseba počuti nerodno ali vznemirjeno, kadar odgovor ne pride. Nacionalni inštitut za staranje med stvarmi, ki se jim je treba izogniti, navaja tudi spraševanje, ali se nekdo nečesa ali nekoga spomni. Namesto tega komentirajte, kar vidite, in dovolite osebi, da doda, kar želi."
+  - q: "Kaj naj dam v škatlo spominov?"
+    a: "Izberite varne, trpežne predmete, povezane z življenjem osebe: pripomočke iz dela, pripomočke za hobije, najljubši šal, razglednice, recepte, športne spominke ali kopije fotografij. Izogibajte se ostrim predmetom, majhnim predmetom, ki bi jih lahko pogoltnili, in nenadomestljivim izvirnikom."
+  - q: "Kaj pa, če zamešajo dejstva?"
+    a: "Pustite. Če vaša mama reče, da je na fotografiji njena sestra, čeprav je njena sestrična, je to v redu. S popravljanjem se topel trenutek spremeni v preizkus. Spremljajte zgodbo, ki jo pripoveduje, in jo uživajte skupaj."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Spominjanje preprosto pomeni skupno uživanje v preteklosti. Mnogim ljudem z demenco so spomini izpred desetletij bolj jasni kot to, kar se je zgodilo zjutraj. Fotografije, znani predmeti, glasba in zgodbe lahko ti spomini odprejo in vam dajo nekaj toplega za deljenje. Eno pravilo: gre za pogovor, nikoli za kviz.
+Spominjanje preprosto pomeni, da se skupaj prijetno spominjate preteklosti. Pri mnogih osebah, ki živijo z demenco, ostajajo spomini izpred desetletij jasnejši od tega, kar se je zgodilo danes zjutraj. Fotografije, domači predmeti, glasba in zgodbe lahko te spomine obudijo ter vam dajo nekaj lepega, kar lahko delite. Eno pravilo je: to je pogovor, nikoli ne preizkus.
 
-## Kaj je spominjanje in po čem se razlikuje od kviza?
+## Kaj je spominjanje in kako se razlikuje od spraševanja?
 
-Spominjanje pomeni deljenje spominov prek fotografij, predmetov, glasbe ali videa, v tempu osebe. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ga opisuje kot deljenje preteklih izkušenj in zgodb s pomočjo fotografij, predmetov, videoposnetkov ali glasbe, v knjigi ali na tablici. Kviz je drugačen: od osebe zahteva pravilen odgovor, to pa lahko prinese zadrego namesto užitka.
+Spominjanje je deljenje spominov ob fotografijah, predmetih, glasbi ali videoposnetkih, v tempu, ki ustreza osebi. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ga opisuje kot deljenje preteklih izkušenj in zgodb s pomočjo fotografij, predmetov, videoposnetkov ali glasbe, v knjigi ali na tabličnem računalniku. Spraševanje je drugačno: od osebe zahteva pravilen odgovor, kar lahko namesto užitka prinese nelagodje.
 
-[Nacionalni inštitut za staranje](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) med stvari, ki se jim je treba izogibati, uvršča vprašanje osebi, ali se spomni nečesa ali nekoga. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) predlaga, naj se izogibate vprašanjem, ki se opirajo na kratkoročni spomin, in namesto tega govorite o bolj oddaljeni preteklosti.
+[Nacionalni inštitut za staranje](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) med stvarmi, ki se jim je treba izogniti, navaja spraševanje, ali se oseba nečesa ali nekoga spomni. [Zveza družinskih skrbnikov](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) priporoča, naj se izogibate vprašanjem, ki se zanašajo na kratkoročni spomin, in se raje pogovarjate o bolj oddaljeni preteklosti.
 
 | Namesto | Poskusite |
 | --- | --- |
-| „Ali se spomnite tega?“ | „Izgleda kot srečen dan. Povejte mi o njem.“ |
-| „Kdo je to?“ | „Tukaj je teta Rose na plaži. Poglejte tisti klobuk.“ |
-| „Katero leto je bilo to?“ | „Izgleda kot stara hiša. Kako je bilo živeti tam?“ |
-| „Ne, to ni Bill, to je Frank.“ | „Videti je, da se je imel zelo lepo.“ |
-| „Že ste mi to povedali.“ | „Ta zgodba mi je zelo všeč.“ |
+| „Ali se spomnite tega?“ | „To je videti kot srečen dan. Povejte mi o tem.“ |
+| „Kdo je to?“ | „Tukaj je teta Roza na plaži. Poglejte ta klobuk.“ |
+| „Katero leto je bilo to?“ | „To je videti kot stara hiša. Kakšno je bilo živeti tam?“ |
+| „Ne, to ni Janez, to je Franc.“ | „Videti je, kot da se je zelo zabaval.“ |
+| „To ste mi že povedali.“ | „To zgodbo imam zelo rada/rad.“ |
 
-## Kako govoriti o fotografijah, ne da bi spraševali kot na kvizu?
+## Kako se pogovarjati ob fotografijah brez spraševanja?
 
-Začnite s tem, kar vidite, nato pustite prostor, da oseba doda kaj, če želi.
+Začnite s tem, kar vidite, nato pa pustite prostor, da oseba po želji kaj doda.
 
-1. **Sedite drug ob drugem.** Album držite med seboj, da skupaj gledate, ne da bi preizkušali čez mizo.
-2. **Izberite nekaj fotografij.** Pet dobrih fotografij je boljših kot cela škatla. Najbolje delujejo velike, jasne slike.
-3. **Imena povejte sami.** „Tukaj ste vi in oče na poročni dan“ odvzame pritisk.
-4. **Komentirajte podrobnosti.** Oblačila, avtomobili, hrana, vreme, obrazi. „Kakšen avto. Tako se sveti.“
-5. **Vabite, ne zahtevajte.** „Povejte mi o ...“ ali „Kaj opazite?“ Tišina je v redu.
-6. **Sledite njihovemu vodenju.** Če govorijo o čem povsem drugem, jim sledite.
-7. **Ustavite, dokler je še prijetno.** Zaprite album, preden se pojavi utrujenost.
+1. **Sedita drug ob drugem.** Album držita med vama, da gledate skupaj, ne da bi preizkušali drug drugega čez mizo.
+2. **Izberite nekaj fotografij.** Pet dobrih fotografij je bolje kot cela škatla. Najbolje so vidne velike, jasne fotografije.
+3. **Ljudje poimenujte sami.** „Tukaj sta ti in oče na vajin poročni dan“ zmanjša pritisk.
+4. **Komentirajte podrobnosti.** Oblačila, avtomobili, hrana, vreme, obrazi. „Kakšen avtomobil. Tako bleščeč je.“
+5. **Povabite, ne zahtevajte.** „Povejte mi o ...“ ali „Kaj opazite?“ Tudi tišina je v redu.
+6. **Sledite njihovemu vodstvu.** Če začnejo govoriti o čem povsem drugem, nadaljujte tam.
+7. **Končajte, dokler je še prijetno.** Zaprite album, preden se pojavi utrujenost.
 
-Za pripravljena slikovna izhodišča poskusite [kartice za pogovor](/games/conversation-cards/). Če želite svoje družinske fotografije spremeniti v nežno igro ujemanja, poskusite [Pari fotografij](/games/photo-pairs/); fotografije, ki jih izberete, ostanejo v vašem brskalniku.
+Za že pripravljene slikovne spodbudne kartice preizkusite [pogovorne kartice](/games/conversation-cards/). Če želite svoje družinske fotografije spremeniti v nežno igro iskanja parov, preizkusite [fotografske pare](/games/photo-pairs/); fotografije, ki jih izberete, ostanejo v vašem brskalniku.
 
-## Kako narediti spominsko škatlo?
+## Kako narediti škatlo spominov?
 
-Spominska škatla je posoda s predmeti iz življenja osebe, ki jih lahko drži in o katerih se pogovarja.
+Škatla spominov je posoda s predmeti iz življenja osebe, ki jih je mogoče prijeti v roke in se ob njih pogovarjati.
 
-1. **Izberite trdno škatlo,** ki se jo lahko enostavno odpre, na primer škatlo za čevlje, klobučnico ali majhen leseni zaboj.
+1. **Izberite trpežno škatlo**, ki jo je enostavno odpreti, na primer škatlo za čevlje, klobukarsko škatlo ali majhno leseno skrinjico.
 2. **Izberite temo ali mešanico.** Delo, hobi, kraj, desetletje ali malo vsega.
-3. **Zberite varne predmete.** Za začetek je dovolj pet do deset stvari.
-4. **Uporabite kopije dragocenih stvari.** Nenadomestljive fotografije in dokumente kopirajte, originale pa varno shranite.
-5. **Predmete jemljite ven enega za drugim.** Podajte en predmet, rečite nekaj o njem in poglejte, kam vodi pogovor.
+3. **Zberite varne predmete.** Za začetek je dovolj pet do deset predmetov.
+4. **Za dragocene stvari uporabite kopije.** Nenadomestljive fotografije in dokumente kopirajte, izvirnike pa shranite na varno.
+5. **Predmete jemljite ven enega za drugim.** Podajte enega, nekaj povejte o njem in poglejte, kam se pogovor razvije.
 
-Ideje za vključitev:
+Predlogi, kaj lahko vključite:
 
-- **Delo:** značka z imenom, majhno orodje, našivek s uniforme, knjiga evidenc, značka medicinske sestre, kuharska knjiga iz restavracije.
-- **Dom:** kartica z receptom v njihovem rokopisu, kuhinjska krpa, najljubši šal ali kravata.
-- **Hobiji:** ribiška vaba brez kavlja, bejzbol, klobčič preje, vrečka semen.
-- **Kraji:** razglednice, zemljevidi, turistični spominek, izrezek iz časopisa z domačega kraja.
-- **Družina:** kopije fotografij, otrokova risba, poročno vabilo.
+- **Delo:** značka z imenom, majhno orodje, našitek z uniforme, knjiga, značka medicinske sestre, kuharska knjiga iz restavracije.
+- **Dom:** recept v njihovem rokopisu, kuhinjska krpa, najljubši šal ali kravata.
+- **Hobiji:** ribiška vaba brez trnka, žoga za baseball, klobčič volne, vrečka semen.
+- **Kraji:** razglednice, zemljevidi, turistični spominek, izrezek iz domačega časopisa.
+- **Družina:** kopije fotografij, otroška risba, poročno vabilo.
 
-Izpustite ostre predmete, drobne stvari, ki bi jih lahko pogoltnili, in vse, kar bi lahko prineslo boleče spomine, razen če veste, da je to dobrodošlo.
+Izpustite ostre predmete, majhne stvari, ki bi jih lahko pogoltnili, in vse, kar bi lahko obudilo boleče spomine, razen če veste, da so dobrodošli.
 
 ## Kako narediti knjigo življenjske zgodbe?
 
-Knjiga življenjske zgodbe je preprost album fotografij in kratkih podnapisov o življenju osebe. Je nekaj, kar si skupaj ogledate, in pomaga obiskovalcem ter osebju za oskrbo videti celoten človek.
+Knjiga življenjske zgodbe je preprost album fotografij in kratkih napisov o življenju osebe. Je nekaj, kar si lahko ogledate skupaj, hkrati pa pomaga obiskovalcem in negovalcem videti celotno osebo.
 
-1. **Izberite obliko.** Mapo z zaščitnimi fasciklami, natisnjeno fotoknjigo ali diaprojekcijo na tablici.
-2. **Načrtujte nekaj poglavij.** Otroštvo, šola, delo, družina, kraji, kjer so živeli, vera, hobiji, najljubše jedi in glasba.
-3. **Dodajte eno ali dve fotografiji na stran** s kratkim podnapisom v velikem tisku: „Mary, stara 22 let, začenja delati v banki.“
-4. **Vključite všečke in navade.** „Pije kavo z mlekom. Ima rad nedeljske cerkvene pesmi. Ne mara glasne televizije.“ To pomaga vsakomur, ki skrbi zanje.
-5. **Vključite osebo,** kolikor želi, pri izbiranju fotografij, pripovedovanju zgodb ali le pri gledanju, kako nastaja.
-6. **Dopolnjujte jo.** Ni treba, da je končana, da je koristna.
+1. **Izberite obliko.** Mapo z ovojnicami za liste, natisnjeno fotoknjigo ali predstavitev na tabličnem računalniku.
+2. **Načrtujte nekaj poglavij.** Otroštvo, šola, delo, družina, kraji bivanja, vera, hobiji, najljubša hrana in glasba.
+3. **Na vsako stran dodajte eno ali dve fotografiji** s kratkim napisom v veliki pisavi: „Marija, stara dvaindvajset let, ko je začela delati v banki.“
+4. **Vključite všečke in navade.** „Kavo pije z mlekom. Ima rada nedeljske pesmi. Ne mara glasne televizije.“ To pomaga vsakomur, ki zanjo skrbi.
+5. **Vključite osebo** toliko, kolikor želi, pri izbiri fotografij, pripovedovanju zgodb ali samo opazovanju, kako nastaja.
+6. **Dodajajte sproti.** Ni treba, da je končana, da je koristna.
 
-## Več idej za spominjanje
+## Več zamisli za spominjanje
 
-- **Predvajajte glasbo iz njihove mladosti** in govorite o tem, kam jih ta popelje. Glejte [glasbene dejavnosti](/activities/music/).
-- **Oglejte si domače filme ali televizijske oddaje** iz njihovih priljubljenih desetletij.
-- **Skuhajte jed iz otroštva** in naj vonj vodi pogovor.
-- **Oglejte si zemljevid** njihovega domačega kraja in s prstom sledite znanim ulicam.
-- **Prelistajte stare kataloge ali revije** in govorite o cenah, modi in avtomobilih.
+- **Predvajajte glasbo iz njihove mladosti** in se pogovorite, kam jih popelje. Oglejte si [glasbene dejavnosti](/activities/music/).
+- **Oglejte si domače videoposnetke ali televizijske oddaje** iz njihovih najljubših desetletij.
+- **Skuhajte jed iz otroštva** in pustite, da vonjave vodijo pogovor.
+- **Oglejte si zemljevid** njihovega domačega kraja in sledite znanim ulicam.
+- **Listajte po starih katalogih ali revijah** ter se pogovarjajte o cenah, modi in avtomobilih.
 - **Posnemite njihove zgodbe** na telefon, z njihovim dovoljenjem, za družino.
-- **Delite med klici.** Med video klicem dvignite eno fotografijo; glejte [telefonske in video klice](/activities/phone-and-video-calls/).
-- **Ob obisku prinesite fotografijo ali predmet.** Obisku da lahko enostavno osredotočenost; glejte [obiske](/activities/visiting/).
+- **Delite med klici.** Med videoklicem pokažite eno fotografijo; glejte [telefonski in video klici](/activities/phone-and-video-calls/).
+- **Na obisk prinesite fotografijo ali predmet.** Obisku da enostavno središče; glejte [obiski](/activities/visiting/).
 
-## Kaj, če je spomin boleč?
+## Kaj pa, če je spomin boleč?
 
-Nekateri spomini prinesejo žalost, obžalovanje ali strah. Če se oseba razburi, se ustavite, jo potolažite in nežno zamenjajte temo ali dejavnost. Ne prepirajte se o tem, kaj se je zgodilo. Family Caregiver Alliance svetuje, naj ne poskušate prepričati osebe, da se moti, in naj se odzovete na čustva, ki jih kaže, ker so resnična. Če govori o nekom, ki je umrl, kot da bi bil živ, se odzovite na čustvo: „Pogrešate jo. Povejte mi o njej.“
+Nekateri spomini prinesejo žalost, obžalovanje ali strah. Če se oseba vznemiri, se ustavite, jo potolažite in nežno spremenite temo ali dejavnost. Ne prepirajte se o tem, kaj se je zgodilo. Zveza družinskih skrbnikov svetuje, naj osebe ne poskušate prepričati, da se moti, in priporoča odziv na občutke, ki jih kaže, saj so resnični. Če govori o nekom, ki je umrl, kot da bi bil še živ, se odzovite na občutek: „Pogrešate jo. Povejte mi o njej.“
 
-## Kaj pravijo raziskave?
+## Kaj pravi raziskovanje?
 
-[Pregled Cochrane o spominjanju](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), ki zajema 22 preskušanj in 1.972 oseb, je ugotovil, da so bili učinki nedosledni, majhni in so se razlikovali glede na okolje in obliko. Ni zaznal dokazov o škodi za osebe z demenco. Spominjanje priporočamo, ker lahko naredi topel, smiseln skupen čas, ne kot zdravljenje. Za več o lahkem pogovoru glejte [nasvete za sporazumevanje](/caregiving/communication-tips/).
+[Pregled Cochrane o spominjanju](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), ki je zajel dvaindvajset preskušanj in tisoč devetsto dvainsedemdeset oseb, je ugotovil, da so bili učinki nedosledni, majhni in odvisni od okolja ter oblike. Ni našel dokazov o škodi za osebe z demenco. Spominjanje predlagamo, ker lahko pomeni topel in smiseln skupen čas, ne kot zdravljenje. Za več o lahkotnem pogovoru glejte [nasveti za sporazumevanje](/caregiving/communication-tips/).

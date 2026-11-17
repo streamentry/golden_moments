@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Kusala Kudya ndi Matenda a Kuiwala: Zomwe Kafukufuku Akunena"
+seoTitle: "Kusala Kudya ndi Matenda a Kuiwala: Kafukufuku"
+description: "Umboni mwa anthu pa kusala kudya ndi matenda a kuiwala ndi wochepa. Dziwani zoopsa kwa achikulire ndi kufunika kodya mokwanira."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Palibe umboni wokwanira wosonyeza kuti kusala kudya kumateteza kapena
+  kuchepetsa matenda a kuiwala. Kafukufuku wambiri wachitika pa nyama, ndipo
+  kafukufuku mwa achikulire ndi wochepa komanso waufupi. Kusala kudya kungakhale
+  koopsa kwa achikulire: kuchepa thupi ndi minofu, kutsika kwa shuga mʼmagazi
+  kwa amene akumwa mankhwala ena a matenda a shuga, kuchepa kwa madzi mʼthupi
+  ndi kugwa. Kwa anthu omwe akukhala ndi matenda a kuiwala, kudya ndi kumwa
+  mokwanira nthawi zambiri ndiye nkhani yaikulu. Lankhulani ndi dokotala kaye.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging imanena kuti palibe umboni wokwanira wolimbikitsira zakudya zilizonse za kusala kudya kapena kuchepetsa kalori, makamaka kwa achikulire."
+  - "Kafukufuku wambiri wokhudza kusala kudya ndi kukalamba wachitika pa nyama, ndipo zotsatira zake sizingagwire ntchito mofanana kwa anthu."
+  - "Zoopsa zomwe zingakhalepo kwa achikulire ndi monga kuchepa thupi mosakonzekera, kuchepa kwa minofu, kutsika kwa shuga mʼmagazi kwa amene akumwa mankhwala ena a matenda a shuga, kuchepa kwa madzi mʼthupi, chizungulire ndi kugwa."
+  - "Anthu omwe akukhala ndi matenda a kuiwala nthawi zambiri amaiwala kudya kapena kumwa, kapena amaganiza kuti adya kale. Kuwathandiza kudya ndi kumwa mokwanira nthawi zambiri kumakhala kofunika kwambiri kuposa nthawi yomwe akudya."
+  - "Musagwiritse ntchito kusala kudya kwa munthu amene akukhala ndi matenda a kuiwala. Lankhulani ndi dokotala kapena katswiri wa zakudya musanasinthe kadyedwe."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Kodi kusala kudya kumateteza ku matenda a Alzheimer?"
+    a: "Palibe umboni wokwanira wosonyeza kuti zimatero. Kafukufuku wambiri wachitika pa nyama, ndipo kafukufuku mwa anthu nthawi zambiri wakhala waufupi, mwa achinyamata kapena anthu onenepa, ndipo umayangʼana kuchepa thupi. National Institute on Aging imanena kuti palibe umboni wokwanira wolimbikitsira zakudya za kusala kudya kwa anthu onse."
+  - q: "Kodi kusala kudya nʼkotetezeka kwa achikulire?"
+    a: "Mwina sikungakhale kotetezeka. Kusala kudya kungayambitse kuchepa thupi ndi minofu mosakonzekera, kuchepa kwa madzi mʼthupi, chizungulire ndi kugwa, ndipo kungachititse kuti shuga mʼmagazi atsike kwambiri kwa anthu omwe akumwa insulini kapena mankhwala ena a matenda a shuga. Mayo Clinic imanena kuti mwina sikungakhale koyenera kwa anthu omwe ali pachiopsezo chachikulu cha kufooka kwa mafupa ndi kugwa. Lankhulani ndi dokotala musanayese."
+  - q: "Kodi munthu amene ali ndi matenda a kuiwala ayenera kuyesa kusala kudya?"
+    a: "Ayi. Anthu omwe akukhala ndi matenda a kuiwala nthawi zambiri amavutika kudya ndi kumwa mokwanira, ndipo kusadya bwino kungapangitse makhalidwe ovuta kuwonjezeka komanso kuchepa thupi. Kusala kudya kumawonjezera zoopsa popanda phindu lotsimikizika. Mʼmalo mwake, yangʼanani pa zakudya zanthawi zonse, tizakudya tomwe amakonda komanso kumwa mokwanira."
+  - q: "Kodi ndi zizindikiro ziti zosonyeza kuti munthu amene ali ndi matenda a kuiwala sakudya kapena sakumwa mokwanira?"
+    a: "Yangʼanani kuchepa thupi, zovala kumasuka, kutopa, kufooka, kudzimbidwa, kapena kukana chakudya. Zizindikiro za kuchepa kwa madzi mʼthupi zomwe National Institute on Aging yatchula ndi monga pakamwa pouma, chizungulire, kugunda kwa mtima mwachangu ndi kuona zinthu zomwe kulibe. Uzani dokotala wawo ngati muona izi."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Kusala kudya, monga kudya mkati mwa maola asanu ndi atatu okha kapena kuchepetsa kwambiri kalori masiku awiri pa sabata, kumakambidwa kwambiri, ndipo nkhani zina zimati mwina kungateteze ubongo. Ngati ndinu wachikulire, kapena mukusamalira munthu amene akukhala ndi matenda a kuiwala, nazi zomwe kafukufuku akusonyeza kwenikweni, komanso chifukwa chake kuchenjera nʼkofunika.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Izi ndi mfundo zongodziwitsa, osati malangizo a zachipatala. Musayambe kusala kudya, kapena kusintha kadyedwe ka munthu amene mukumusamalira, popanda kulankhula ndi dokotala kapena katswiri wa zakudya. Onani [chidziwitso chathu cha zachipatala](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Kodi kusala kudya kumateteza ku matenda a kuiwala?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Palibe umboni wokwanira wosonyeza kuti kusala kudya kumateteza kapena kuchepetsa matenda a kuiwala. National Institute on Aging (NIA) imanena kuti palibe umboni wokwanira wolimbikitsira zakudya zilizonse za kuchepetsa kalori kapena kusala kudya, ndipo kuti pakufunika kuphunzira zambiri za momwe zimagwirira ntchito komanso chitetezo chake, makamaka kwa achikulire ([NIA pa kuchepetsa kalori ndi kusala kudya](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Chifukwa chake umboni ndi wochepa
 
-The NIA gives several reasons:
+NIA imapereka zifukwa zingapo:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Kafukufuku wambiri wachitika pa nyama.** Kafukufuku pa nyongolotsi, ntchentche, mbewa ndi anyani wapereka zotsatira zochititsa chidwi, koma zotsatirazi sizingagwire ntchito mofanana kwa anthu. Ngakhale pa nyama, zotsatira zimasiyana; mu mitundu ina ya mbewa, kuchepetsa kalori kunafupikitsa moyo.
+- **Kafukufuku mwa anthu wakhala waufupi.** Wambiri unatha milungu ingapo kapena miyezi ingapo.
+- **Kafukufuku wambiri mwa anthu umayangʼana kuchepa thupi** mwa anthu onenepa, osati kukumbukira kapena matenda a kuiwala.
+- **Achikulire nthawi zambiri samaphatikizidwa.** Kafukufuku wambiri anaphatikiza anthu azaka 60 kapena kuchepera.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Kafukufuku wowunika wa mu 2026 unayangʼana makamaka kusala kudya mwa achikulire azaka 60 kapena kuposerapo. Unapeza kuti umboni mu gulu ili la zaka udakali wochepa, ndi kafukufuku wochepa, nthawi yotsatira yaufupi komanso njira zosiyanasiyana. Zotsatira zokhudza kuganiza ndi kukumbukira zinachokera ku kafukufuku wina payekha, osati zotsatira zophatikizidwa. Kafukufukuyu unanenanso kuti kafukufuku wina analumikiza nthawi yodyera yaifupi kwambiri kapena kusala kudya kwa nthawi yaitali ndi zotsatira zoipa, ndipo olembawo analimbikitsa kuchenjera kwa achikulire ([kafukufuku wowunika wa mu 2026 mu Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Ofufuza ena amaganiza kuti kusintha kwa thupi kuyamba kugwiritsa ntchito mafuta panthawi ya kusala kudya kungakhudze ubongo, koma izi zikadali lingaliro lomwe likuphunziridwa. NIA imanena kuti sayansi pa nkhaniyi si yotsimikizika.
 
-## What are the risks of fasting for older adults?
+## Kodi zoopsa za kusala kudya kwa achikulire ndi ziti?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Kusala kudya si kuyesa kopanda ngozi kwa achikulire ambiri. Zoopsa zomwe zingakhalepo ndi izi:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Kuchepa thupi mosakonzekera.** Kudya zochepa kuposa zomwe thupi limafuna kungayambitse kuchepa thupi ndi kuchepa kwa mphamvu za minofu, zomwe zingachititse munthu kufooka.
+- **Kuchepa kwa minofu ndi mafupa.** Mu kafukufuku wa zaka ziwiri wothandizidwa ndi NIA wokhudza kuchepetsa kalori mwa achinyamata ndi achikulire apakati, otenga nawo mbali anachepa pangʼono kuchuluka kwa mafupa ndi minofu.
+- **Kutsika kwa shuga mʼmagazi ndi mankhwala a matenda a shuga.** Anthu omwe akumwa insulini kapena mankhwala ena a matenda a shuga shuga wawo mʼmagazi akhoza kutsika kwambiri ngati alumpha kapena achedwetsa chakudya, malinga ndi [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Shuga wotsika mʼmagazi ungayambitse chizungulire, chisokonezo ndi kukwiya.
+- **Kuchepa kwa madzi mʼthupi.** Ngati zakumwa zalumphidwanso pamodzi ndi chakudya, munthu akhoza kukhala ndi madzi ochepa mʼthupi.
+- **Chizungulire ndi kugwa.** Mayo Clinic imanena kuti kusala kudya kungachititse anthu kumva kutopa kwambiri ndi chizungulire, komanso kuti mwina si kadyedwe kabwino kwa anthu omwe ali pachiopsezo chachikulu cha kufooka kwa mafupa ndi kugwa ([Mayo Clinic pa kusala kudya](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Zotsatira zina.** Mayo Clinic imatchulanso kupweteka kwa mutu, kusintha kwa maganizo ndi kudzimbidwa, ndipo imanena kuti pali umboni wina wosonyeza kuti kusala kudya kwa maola 16 ndi kudya mkati mwa maola 8 kungawonjezere chiopsezo cha matenda a mtima poyerekeza ndi nthawi zina zodyera. Umboni umenewu si wotsimikizika.
 
-## Why is eating enough the bigger concern with dementia?
+## Nʼchifukwa chiyani kudya mokwanira kuli nkhani yaikulu pa matenda a kuiwala?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Kwa anthu omwe akukhala ndi matenda a kuiwala, vuto lomwe limapezeka kwambiri nthawi zambiri ndi kupeza chakudya ndi zakumwa **zokwanira**, osati zochuluka. Alzheimerʼs Association imafotokoza kuti anthu ali pakati kapena kumapeto kwa matendawa amatha kusokonezeka ndi kusankha zakudya, amaiwala kudya, kapena amaganiza kuti adya kale. Imawonjezeranso kuti kusadya bwino kungapangitse makhalidwe ovuta kuwonjezeka komanso kuchepa thupi ([Alzheimerʼs Association pa chakudya ndi kudya](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimerʼs Society imanena kuti kusadya mokwanira kungayambitse kuchepa thupi, kuchepa kwa mphamvu za minofu, kutopa ndi kufooka, zomwe zingachititse munthu kufooka komanso kulephera kuchira msanga ku matenda opatsirana ([Alzheimerʼs Society pa chilakolako cha chakudya](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Pa zifukwa izi, kusala kudya si lingaliro labwino kwa munthu amene akukhala ndi matenda a kuiwala.** Chakudya chomwe chalumphidwa chingasanduke mosavuta chakudya chomwe chaphonyedwa. Kusintha kulikonse pa kadyedwe ka munthu amene ali ndi matenda a kuiwala kuyenera kutsogoleredwa ndi dokotala wawo kapena katswiri wa zakudya.
 
-## What are the warning signs of poor eating or drinking?
+## Kodi ndi zizindikiro ziti zosonyeza kuti sakudya kapena sakumwa bwino?
 
-Watch for:
+Yangʼanani:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Kuchepa thupi**, kapena zovala kumayamba kumasuka.
+- **Kusiya chakudya kapena kukana kudya**, kapena kusunga chakudya mʼkamwa.
+- **Kutopa kapena kufooka.**
+- **Kudzimbidwa**, komwe kungalumikizane ndi zakudya ndi kuchepa kwa madzi mʼthupi.
+- **Zizindikiro za kuchepa kwa madzi mʼthupi.** NIA imatchula pakamwa pouma, chizungulire, kugunda kwa mtima mwachangu, ndi kuona zinthu zomwe kulibe, zomwe zingayambitsidwenso ndi matenda a kuiwala ([NIA pa mavuto azachipatala ofala](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Kusowa chilakolako cha chakudya kumatha kukhala ndi zifukwa zambiri: mano opweteka kapena mano oikapo omasuka, mankhwala atsopano, kukhumudwa, kudzimbidwa, kuchepa kwa kuyenda, kapena kusintha kwa kamvekedwe ka zakudya ndi kununkhiza. Uzani dokotala wa munthuyo za zizindikiro zilizonsezi. Atha kufufuza chomwe chikuyambitsa ndipo angakulimbikitseni kukaonana ndi katswiri wa zakudya kapena kumwa zowonjezera zakudya.
 
-## How can you help someone eat and drink enough?
+## Kodi mungathandize bwanji munthu kudya ndi kumwa mokwanira?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Perekani zakudya zazingʼono ndi tizakudya pafupipafupi**, mʼmalo mwa zakudya zazikulu zitatu.
+- **Perekani zakudya zomwe amakonda**, ndipo khalani okonzeka kusintha pamene zokonda zawo zikusintha. Zakudya zokoma zitha kukhala zabwino ngati chilakolako cha chakudya chachepa; funsani dokotala ngati pali zifukwa za umoyo zoletsera shuga.
+- **Ikani zakumwa pafupi** ndipo perekani makapu angʼonoangʼono tsiku lonse. Msuzi, zipatso, zakumwa zosakaniza za zipatso ndi mkaka wosakaniza zimawerengedwanso.
+- **Idyani limodzi** ngati nʼkotheka. Nthawi ya chakudya ndi mwayi wokhala limodzi, osati ntchito yoti muifulumizitse.
+- **Yesani zakudya zogwirika ndi manja**, monga masangweji, tizidutswa ta zipatso kapena tizidutswa ta nkhuku, ngati kugwiritsa ntchito zipangizo zodyera kwavuta.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Kalozera wathu wa [zakudya](/brain-health/diet/) ali ndi malingaliro ena a nthawi ya chakudya. Kuthandiza kukonza chakudya kungakhalenso ntchito yosangalatsa yochitira limodzi; onani [ntchito zapakhomo](/activities/household-tasks/).
 
-## Talk with a doctor
+## Lankhulani ndi dokotala
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Musanayese njira iliyonse ya kusala kudya, lankhulani ndi dokotala wanu kapena katswiri wa zakudya, makamaka ngati mukumwa mankhwala a matenda a shuga kapena kuthamanga kwa magazi, mwachepa thupi posachedwapa, kapena mwagwapo kale. Kwa munthu amene akukhala ndi matenda a kuiwala, funsani dokotala wawo za kuchuluka kwa zakudya ndi zakumwa zomwe ayenera kumadya tsiku lililonse, mʼmalo mofunsa za kusala kudya.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Pezani thandizo lachipatala mwachangu ngati pali chisokonezo chodzidzimutsa, kukomoka, kapena zizindikiro za shuga wotsika kwambiri mʼmagazi zomwe sizikutha msanga.

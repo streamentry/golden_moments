@@ -1,32 +1,32 @@
 ---
-title: "Kazi za Nyumbani Kama Shughuli kwa Watu Wenye Dementia"
-seoTitle: "Shughuli za Nyumbani kwa Dementia: Kazi za Kila Siku"
-description: "Kukunja nguo, kupanga vitu, kuweka meza na kupika kwa urahisi ni shughuli zenye maana kwa watu wenye dementia. Jinsi ya kuziandaa na kuzifanya salama."
+title: "Kazi za Nyumbani kwa Wanaoishi na Shida ya Kumbukumbu"
+seoTitle: "Shughuli za Nyumbani kwa Shida ya Kumbukumbu"
+description: "Kukunja, kupanga, kuandaa meza na kupika kwa urahisi kunaweza kuwa shughuli zenye maana kwa watu wanaoishi na shida ya kumbukumbu. Jinsi ya kuziandaa na kuzifanya kwa usalama."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kazi za kila siku kama kukunja taulo, kupanga soksi, kuweka meza, kufuta
-  kaunta, kumwagilia mimea na kusaidia kupika vitu rahisi zinaweza kumpa mtu
-  anayeishi na dementia njia halisi ya kusaidia. Chagua kazi anazozijua, ligawe
-  jambo hatua moja baada ya nyingine, ondoa vitu vyenye ncha kali au joto kali,
-  na thamini kushiriki kuliko kufanya "kikamilifu".
+  Kazi za kila siku kama kukunja taulo, kupanga soksi, kuandaa meza, kupangusa
+  sehemu za kupikia, kumwagilia mimea na kusaidia kupika kwa urahisi zinaweza
+  kumpa mtu anayeishi na shida ya kumbukumbu njia halisi ya kusaidia. Chagua
+  kazi anazozijua, zigawanye hatua moja baada ya nyingine, ondoa hatari za vitu
+  vyenye ncha kali au moto, na uthamini kushiriki kuliko kufanya kazi "vizuri".
 keyPoints:
-  - "Kazi za kawaida zinaweza kumsaidia mtu ajisikie ana manufaa na ni sehemu ya nyumba, jambo ambalo mara nyingi lina maana kuliko ubora wa kazi yenyewe."
-  - "Gawa kila kazi katika hatua moja moja, onyesha badala ya kuelekeza kwa maneno, na chukua kimya kimya hatua yoyote iliyokuwa ngumu."
-  - "Funga visu, bidhaa za kusafishia na vidonge vya sabuni mahali salama, na weka vifuniko vya vifundo vya jiko au kifaa cha kuzima kiotomatiki kabla ya kupika pamoja."
-  - "Taulo zilizokunjwa si lazima zikunjwe tena mbele ya mtu huyo. Kama ni lazima kurekebisha kitu, fanya baadaye na bila yeye kuona."
-  - "Kazi ikileta hasira, badilisha kwenda hatua rahisi zaidi, jaribu tena siku nyingine, au kaeni pamoja tu."
+  - "Kazi za kawaida zinaweza kumsaidia mtu ajisikie wa manufaa na kuwa sehemu ya familia, jambo ambalo mara nyingi ni muhimu zaidi kuliko jinsi kazi inavyofanywa vizuri."
+  - "Gawanya kila kazi kuwa hatua moja, onyesha badala ya kueleza kwa maneno, na uchukue kwa utulivu hatua yoyote ambayo imekuwa ngumu."
+  - "Weka visų, bidhaa za kusafisha na vifurushi vya sabuni ya kufulia mbali, na ongeza vifuniko vya vitufe vya jiko au kifaa cha kuzima jiko chenyewe kabla ya kupika pamoja."
+  - "Taulo zilizokunjwa hazihitaji kukunjwa upya mbele ya mtu huyo. Ikiwa lazima urekebishe kitu, fanya baadaye na mbali naye."
+  - "Ikiwa kazi inaleta kuchanganyikiwa, badili kwenda hatua rahisi zaidi, jaribu tena wakati mwingine, au kaeni pamoja tu."
 faq:
-  - q: "Mtu mwenye dementia bado anaweza kusaidia kazi gani za nyumbani?"
-    a: "Watu wengi bado wanaweza kukunja nguo, kulinganisha soksi, kupanga vijiko na uma, kuweka meza, kufuta kaunta, kupangusa vumbi, kufagia, kumwagilia mimea au kukoroga bakuli la unga. Chagua kazi ambazo mtu huyo alizifanya zamani na zilinganishe na anachoweza kufanya sasa. Katika hatua za baadaye, harakati moja inayorudiwa, kama kunyoosha leso, inaweza kutosha."
-  - q: "Je, ni salama kwa mtu mwenye dementia kusaidia jikoni?"
-    a: "Inaweza kuwa salama, kwa usimamizi wa karibu na maandalizi yanayofaa. Weka visu, bidhaa za kusafishia na kitu chochote chenye joto mbali na mkono wake, tumia vifuniko vya vifundo vya jiko au kifaa cha kuzima kiotomatiki, na mpe kazi salama kama kuosha mboga, kukoroga au kupanga sahani. Usimwache peke yake jiko likiwa limewashwa."
-  - q: "Je, akikunja vibaya au akifanya fujo?"
-    a: "Acha tu. Lengo ni kuwa pamoja na kujisikia ana manufaa, si matokeo kamilifu. Kama kitu kinahitaji kweli kurekebishwa, subiri hadi baadaye na ukifanye mtu huyo asipoona, ili asijisikie amerekebishwa."
-  - q: "Je, akikataa kusaidia?"
-    a: "Kukataa kunaweza kumaanisha kwamba kazi inahisiwa kuwa ngumu, ya kuchanganya au ya kuchosha kwa sasa. Usilazimishe. Jaribu toleo rahisi zaidi, mwalike akae nawe badala yake, au muulize tena wakati mwingine wa siku unaofaa zaidi."
+  - q: "Ni kazi gani za nyumbani ambazo mtu aliye na shida ya kumbukumbu bado anaweza kusaidia?"
+    a: "Watu wengi bado wanaweza kukunja nguo, kuoanisha soksi, kupanga vyombo vya mezani, kuandaa meza, kupangusa kaunta, kufuta vumbi, kufagia, kumwagilia mimea au kukoroga uji wa keki kwenye bakuli. Chagua kazi ambazo mtu huyo alikuwa akizifanya hapo awali na uzilinganishe na anachoweza kufanya sasa. Katika hatua za baadaye, mwendo mmoja unaorudiwa, kama kulainisha leso za mezani, unaweza kutosha."
+  - q: "Je, ni salama kwa mtu aliye na shida ya kumbukumbu kusaidia jikoni?"
+    a: "Inaweza kuwa salama, kwa uangalizi wa karibu na maandalizi sahihi. Weka visų, bidhaa za kusafisha na kitu chochote chenye joto mbali, tumia vifuniko vya vitufe vya jiko au kifaa cha kuzima jiko chenyewe, na mpe mtu huyo kazi salama kama kuosha mboga, kukoroga au kuweka sahani mezani. Usimwache peke yake jiko likiwa limewashwa."
+  - q: "Itakuwaje akikunjakunja vibaya au akifanya fujo?"
+    a: "Acha iwe hivyo. Lengo ni kuwa pamoja na kujisikia kuwa wa manufaa, si matokeo kamili. Ikiwa kitu kinahitaji kurekebishwa, subiri hadi baadaye na ukifanye mtu huyo asipoona, ili asijisikie amerekebishwa."
+  - q: "Itakuwaje akikataa kusaidia?"
+    a: "Kukataa kunaweza kumaanisha kuwa kazi inaonekana ngumu sana, inachanganya au inachosha kwa sasa. Usimsukume. Jaribu toleo rahisi zaidi, mwalike akufuatane tu, au muulize tena wakati mzuri zaidi wa siku."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Watu wengi wanaoishi na dementia walitumia miongo mingi kuendesha nyumba, kulea familia au kuweka mahali pa kazi katika mpangilio. Kuombwa kusaidia kazi halisi kunaweza kusema "bado wewe ni sehemu ya nyumba hii" kwa njia ambayo shughuli chache nyingine zinaweza. Ukurasa huu unaeleza ni kazi zipi mara nyingi hufaa, jinsi ya kuziandaa, jinsi ya kuzirekebisha mambo yanapobadilika, na jinsi ya kuweka jiko na sehemu ya kufulia salama.
+Watu wengi wanaoishi na shida ya kumbukumbu walitumia miongo mingi kusimamia nyumba, kulea familia au kuweka mambo katika utaratibu mahali pa kazi. Kuombwa kusaidia katika kazi halisi za nyumbani kunaweza kusema „bado wewe ni sehemu ya familia hii” kwa njia ambayo shughuli nyingine chache zinaweza kufanya. Ukurasa huu unaeleza ni kazi gani zinazoweza kufaa, jinsi ya kuziandaa, jinsi ya kuzibadilisha mambo yanapobadilika, na jinsi ya kuweka usalama jikoni na katika chumba cha kufulia.
 
-## Kwa nini kazi za kila siku zinafaa kama shughuli?
+## Kwa nini kazi za kila siku hufaa kama shughuli?
 
-Kazi hizi zinafaa kwa sababu zinajulikana na zina kusudi lililo wazi. National Institute on Aging inataja kuosha vyombo, kuweka meza, kufagia, kupangusa vumbi, kupanga barua, kukunja nguo na kupanga taka zinazoweza kutumika tena miongoni mwa [shughuli za kila siku ambazo watu wenye Alzheimer wanaweza kufurahia](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association inabainisha kwamba kazi kama kuweka meza zinaweza kumsaidia mtu [ajisikie sehemu yenye thamani ya nyumba](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Kazi za nyumbani hufaa kwa sababu ni za kawaida na zina lengo lililo wazi. National Institute on Aging inataja kuosha vyombo, kuandaa meza, kufagia, kufuta vumbi, kupanga barua, kukunja nguo na kupanga taka zinazoweza kuchakatwa miongoni mwa [shughuli za kila siku ambazo watu wenye ugonjwa wa Alzheimer wanaweza kufurahia](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association inabainisha kuwa kazi kama kuandaa meza zinaweza kumsaidia mtu [ajisikie kuwa sehemu muhimu ya familia](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-Kazi pia huja na sababu yake ya kuanza. "Unaweza kunisaidia na taulo hizi?" ni rahisi kujibu ndiyo kuliko "Je, ungependa kufanya shughuli?"
+Kazi ya nyumbani pia huwa na sababu yake ya kuanza. „Unaweza kunisaidia na taulo hizi?” ni rahisi kukubali kuliko „Je, ungependa kufanya shughuli?”
 
-## Ni kazi zipi za nyumbani zinafaa kujaribu?
+## Ni kazi gani za nyumbani ni vizuri kujaribu?
 
-Anza na kazi ambazo mtu huyo alizifanya zamani, kisha zilinganishe na anachoweza kufanya leo.
+Anza na kazi ambazo mtu huyo alikuwa akizifanya hapo awali, kisha uzilinganishe na anachoweza kufanya leo.
 
-### Nguo na mashuka
+### Kufua na vitambaa
 
-- **Kukunja taulo na vitambaa vidogo vya kuoshea uso.** Mkabidhi kikapu chenye vitu vidogo na bapa. Taulo husamehe makosa: hakuna njia mbaya ya kukunja.
-- **Kulinganisha soksi.** Weka rundo lililochanganyika mezani. Kama jozi zinakuwa ngumu kuziona, tumia rangi mbili au tatu tu zinazotofautiana sana.
-- **Kunyoosha na kupanga.** Leso, foronya au vitambaa vya kukaushia vyombo vinaweza kunyooshwa na kupangwa juu ya kimoja. Hii hufaa zaidi baadaye, kukunja kunapokuwa na hatua nyingi mno.
+- **Kukunja taulo na vitambaa vidogo.** Mpe kikapu chenye vitu vidogo na tambarare. Taulo ni rahisi: hakuna njia mbaya ya kuzikunja.
+- **Kuoanisha soksi.** Weka rundo lililochanganyika mezani. Ikiwa jozi zinakuwa ngumu kutambua, tumia rangi mbili au tatu tu ambazo ni tofauti sana.
+- **Kulainisha na kupanga.** Leso za mezani, mifuko ya mito au taulo za vyombo zinaweza kulainishwa na kupangwa. Hii hufaa baadaye, wakati kukunja kumekuwa na hatua nyingi mno.
 
 ### Meza na jikoni
 
-- **Kuweka meza.** Weka sehemu moja ya mlo kama kielelezo na mwache mtu huyo aigize. Kama ni nyingi mno, mkabidhi kitu kimoja kwa wakati mmoja: "Hii hapa uma kwa kila sahani."
-- **Kupanga vijiko na uma.** Changanya uma, vijiko na visu butu vilivyo safi kwenye kontena, kisha upange kwenye trei yenye vyumba. Usiweke visu vyenye ncha kali.
-- **Kukausha vyombo.** Vyombo vya plastiki au visivyovunjika na taulo laini hufanya hii kuwa kazi salama.
-- **Kufuta meza au kaunta.** Kitambaa chenye unyevu na sehemu iliyo wazi. Alzheimer's Association inapendekeza kutoa kitambaa kama mtu tayari anasugua meza kwa mkono, ili kugeuza harakati ya kutotulia kuwa ya manufaa.
+- **Kuandaa meza.** Andaa mpangilio mmoja wa meza kama mfano na umwache mtu huyo auige. Ikiwa hiyo ni nyingi, mpe kitu kimoja baada ya kingine: „Hii hapa ni uma kwa kila sahani.”
+- **Kupanga vyombo vya mezani.** Changanya uma, vijiko na visu vya siagi vilivyo safi kwenye bakuli kisha vipange kwenye trei yenye sehemu. Usiongeze visu vyenye ncha kali.
+- **Kukausha vyombo.** Vyombo vya plastiki au visivyovunjika na kitambaa laini hufanya hii kuwa kazi salama.
+- **Kupangusa meza au kaunta.** Kitambaa chenye unyevunyevu na sehemu iliyo wazi. Alzheimer's Association inapendekeza kumpa kitambaa mtu ikiwa tayari anasugua meza kwa mkono, na hivyo kubadilisha mwendo wa kutotulia kuwa kitu cha manufaa.
 
 ### Kuzunguka nyumba
 
-- **Kupangusa vumbi.** Kitambaa laini cha vumbi na sehemu chache imara, kama meza ya sebuleni au rafu ya vitabu.
-- **Kupanga barua.** Mkabidhi barua za matangazo na katalogi za kupanga katika marundo: kuhifadhi, kutumia tena, kufungua baadaye. Weka bili halisi na hundi mahali pengine.
-- **Kupanga taka zinazoweza kutumika tena.** Makopo, chupa na karatasi vilivyo safi kwenye vyombo tofauti.
-- **Kufagia.** Ufagio mdogo kwenye ua au sakafu ya jikoni, kama usawa wa mwili uko thabiti.
-- **Kumwagilia mimea.** Kopo dogo na jepesi la kumwagilia na mimea michache iliyo karibu na mkono.
+- **Kufuta vumbi.** Kitambaa cha kufutia vumbi na sehemu chache imara, kama meza ya kahawa au rafu ya vitabu.
+- **Kupanga barua.** Mpe matangazo na katalogi za kupanga kwenye marundo: hifadhi, weka kwenye taka zinazoweza kuchakatwa, fungua baadaye. Weka bili halisi na hundi mahali pengine.
+- **Kupanga taka zinazoweza kuchakatwa.** Makopo, chupa na karatasi safi katika mapipa tofauti.
+- **Kufagia.** Ufagio mdogo kwenye ua au sakafu ya jikoni, ikiwa usawa wa mwili uko vizuri.
+- **Kumwagilia mimea.** Chombo kidogo na chepesi cha kumwagilia na mimea michache iliyo karibu.
 
-### Kupika kwa urahisi kukiwa na usimamizi
+### Kupika kwa urahisi kwa uangalizi
 
-Kupika kunaweza kurudisha hisia kali na za kupendeza. NIA inapendekeza kumruhusu mtu akusanye viungo, apime, achanganye na amimine, au aeleze tu mtu mwingine jinsi ya kupika mapishi anayopenda. Kazi nzuri ni pamoja na:
+Kupika kunaweza kurudisha hisia nzuri na zenye nguvu. NIA inapendekeza kumruhusu mtu huyo kukusanya viungo, kupima, kuchanganya na kumimina, au kumweleza mtu mwingine tu jinsi ya kupika chakula anachokipenda. Kazi nzuri ni pamoja na:
 
 - kuosha mboga au matunda
-- kukoroga unga wa kugonga au saladi baridi
-- kuchambua majani ya saladi
-- kupaka siagi kwenye mkate wa kuchoma kwa kisu butu
+- kukoroga uji au saladi baridi
+- kurarua lettuce
+- kupaka siagi kwenye tosti kwa kisu kisicho na ncha kali
 - kuweka unga wa biskuti kwenye trei
 - kuweka viungo juu ya pizza
 
-Kama kupima kunakuwa ngumu, Alzheimer's Association inapendekeza umalize kupima wewe kisha umkabidhi hatua nyingine, kama kukoroga.
+Ikiwa kupima kunakuwa kugumu, Alzheimer's Association inapendekeza wewe umalize kupima kisha umpe hatua tofauti, kama kukoroga.
 
-## Nitaandaaje kazi ili iende vizuri?
+## Ninawezaje kuandaa kazi ili iende vizuri?
 
-1. **Chagua wakati unaofaa.** Chagua sehemu ya siku ambayo mtu huyo kwa kawaida amepumzika na yuko mtulivu. Kwa watu wengi ni asubuhi.
-2. **Safisha nafasi.** Kazi moja, sehemu moja, bila kitu cha ziada mezani.
-3. **Karibisha, usigawie.** "Ningefurahi kupata msaada na hivi" hufanya kazi vizuri kuliko "Ni wakati wa kukunja nguo."
-4. **Onyesha ya kwanza.** Kunja taulo moja polepole, kisha mkabidhi inayofuata. Kuonyesha ni wazi zaidi kuliko kueleza.
-5. **Toa hatua moja kwa wakati.** Maelekezo mengi kwa pamoja yanaweza kuzidiwa. Subiri hatua moja ikamilike kabla ya kutaja inayofuata.
-6. **Fanyeni kazi kando kwa kando.** Kufanya kazi ileile mkiwa karibu kunahisiwa kama ushirika, si usimamizi.
-7. **Zungumza kuhusu kazi, si matokeo.** "Hizi ni laini sana" au "Niambie ulivyopenda kuweka kabati la mashuka" huleta mazungumzo bila kumjaribu mtu.
+1. **Chagua wakati unaofaa.** Chagua sehemu ya siku ambayo kwa kawaida mtu huyo hupumzika na yuko mtulivu. Kwa watu wengi huu ni asubuhi.
+2. **Andaa eneo.** Kazi moja, sehemu moja, hakuna vitu vya ziada mezani.
+3. **Alika, usiamuru.** „Ningependa msaada wako na hizi” hufanya kazi vizuri kuliko „Ni wakati wa kukunja nguo.”
+4. **Onyesha ya kwanza.** Kunja taulo moja taratibu, kisha mpe inayofuata. Kuonyesha ni wazi zaidi kuliko kueleza.
+5. **Toa hatua moja baada ya nyingine.** Maelekezo mengi kwa wakati mmoja yanaweza kumlemea. Subiri hatua moja ikamilike kabla ya kutaja inayofuata.
+6. **Fanyeni kazi pamoja.** Kufanya kazi moja upande kwa upande huhisi kama urafiki, si uangalizi.
+7. **Zungumzieni kazi, si matokeo.** „Hizi ni laini sana” au „Niambie ulipendaje kupanga kabati la vitambaa” huwalika mazungumzo bila kumjaribu mtu yeyote.
 
-## Nitarekebishaje kazi uwezo unapobadilika?
+## Ninawezaje kubadilisha kazi kadri uwezo unavyobadilika?
 
-Uwezo hubadilika kadiri muda unavyopita na hata siku hadi siku. Alzheimer's Association inapendekeza kuelekea kazi rahisi zaidi na zinazorudiwa ugonjwa unapoendelea.
+Uwezo hubadilika kadri muda unavyosonga na hata siku hadi siku. Alzheimer's Association inapendekeza kuhamia kazi rahisi zaidi na zinazojirudia kadri ugonjwa unavyoendelea.
 
-| Kama hiki kimekuwa kigumu | Jaribu hiki badala yake |
+| Ikiwa hii imekuwa ngumu | Jaribu hii badala yake |
 | --- | --- |
-| Kukunja mashuka makubwa | Kukunja vitambaa vidogo au kunyoosha leso |
-| Kuweka meza nzima | Kuweka leso moja kwenye kila kiti |
-| Kupanga barua katika makundi | Kupanga bahasha katika rundo moja |
+| Kukunja mashuka makubwa | Kukunja vitambaa vidogo au kulainisha leso za mezani |
+| Kuandaa meza nzima | Kuweka leso moja ya mezani katika kila kiti |
+| Kupanga barua kwa makundi | Kuweka bahasha kwenye rundo moja |
 | Kufuata mapishi | Kukoroga, au kutazama na kuonja unapopika |
-| Kufagia sakafu nzima | Kufuta meza moja ndogo |
-| Kufanya kazi yenyewe | Kukaa nawe na kukuweka kampuni unapoifanya |
+| Kufagia sakafu nzima | Kupangusa meza moja ndogo |
+| Kufanya kazi yenyewe | Kukaa nawe na kukufuatana unapofanya kazi |
 
-Kutazama pia kunahesabiwa. NIA inabainisha kwamba watu wengine hufurahia tu kutazama, na hiyo ni njia nzuri ya kushiriki.
+Kutazama kunahesabika. NIA inabainisha kuwa baadhi ya watu hufurahia tu kutazama, na hiyo ni njia nzuri ya kushiriki.
 
-## Nitaweka kazi za nyumbani salamaje?
+## Ninawezaje kuweka usalama katika kazi za nyumbani?
 
-Usalama huja kwanza, hasa jikoni. [Vidokezo vya usalama nyumbani kwa walezi wa watu wenye Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) vya NIA ni pamoja na:
+Usalama unakuja kwanza, hasa jikoni. [Vidokezo vya usalama nyumbani kwa walezi wa watu wenye ugonjwa wa Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) vya NIA vinajumuisha:
 
-- Funga au ondoa bidhaa za kusafishia, ikiwemo vidonge vya sabuni ya kufulia, ambavyo vinaweza kuonekana kama peremende.
-- Hifadhi visu, mikasi na zana za umeme mahali palipofungwa.
-- Ongeza vifundo vya usalama na swichi ya kuzima kiotomatiki kwenye jiko.
-- Weka alama za "Simama" au "Moto sana" karibu na oveni, kibaniko na pasi, zikiwekwa mahali ambapo haziwezi kushika moto.
-- Weka hita ya maji kwenye 120°F (karibu 49°C) ili kupunguza hatari ya kuungua kwa maji ya moto.
-- Ondoa matunda bandia na sumaku zenye umbo la chakula, ambazo zinaweza kuonekana kama zinaliwa.
+- Funga au ondoa bidhaa za kusafisha, ikiwa ni pamoja na vifurushi vya sabuni ya kufulia, ambavyo vinaweza kuonekana kama peremende.
+- Hifadhi visų, mkasi na zana za umeme mahali palipofungwa.
+- Weka vifuniko vya usalama na kifaa cha kuzima jiko chenyewe kwenye jiko.
+- Weka alama za „Simama” au „Moto sana” karibu na oveni, kibaniko cha mkate na pasi, katika nafasi ambapo haziwezi kuwaka moto.
+- Weka hita ya maji kwenye 120°F ili kupunguza hatari ya kuungua na maji ya moto.
+- Ondoa matunda ya bandia na sumaku zenye umbo la chakula, ambazo zinaweza kuonekana kana kwamba ni za kuliwa.
 
-Mazoea machache ya vitendo zaidi yanasaidia:
+Mazoea mengine ya vitendo pia husaidia:
 
-- Kaa chumbani wakati wowote jiko, oveni au zana yenye ncha kali inapotumika.
-- Tumia vyombo visivyovunjika kwa kukausha na kuweka meza.
-- Weka sakafu kavu na wazi unapofagia au kupiga deki.
-- Kama mtu huyo aliwahi kutumia zana, Alzheimer's Association inapendekeza kuondoa vitu hatari kwenye karakana ili kazi salama, kama kusugua kipande cha mbao, iendelee kufurahiwa.
+- Kaa chumbani kila wakati jiko, oveni au kifaa chenye ncha kali kinapotumika.
+- Tumia vyombo visivyovunjika kwa kukausha na kuandaa meza.
+- Weka sakafu kavu na bila vitu vingi wakati wa kufagia au kupangusa sakafu.
+- Ikiwa mtu huyo aliwahi kutumia zana, Alzheimer's Association inapendekeza kuondoa vitu hatari kutoka kwenye karakana ili kazi salama, kama kusugua kipande cha mbao, bado iweze kufurahisha.
 
-## Je, akifanya "vibaya"?
+## Itakuwaje wakifanya "vibaya"?
 
-Acha iwe. Taulo iliyokunjwa mara tatu badala ya mbili bado ni taulo iliyokunjwa. Alzheimer's Association inasema wazi: kinachojalisha ni kutumia muda pamoja na mtu kujisikia ana manufaa, si kama taulo zimekunjwa ipasavyo. Kama kitu kinahitaji kweli kufanywa upya, subiri hadi baadaye na ukifanye bila yeye kuona.
+Acha iwe hivyo. Taulo iliyokunjwa mara tatu badala ya mara mbili bado ni taulo iliyokunjwa. Alzheimer's Association inasema wazi: kinachohitajika ni kutumia muda pamoja na mtu huyo kujisikia kuwa wa manufaa, si kama taulo zimekunjwa vizuri au la. Ikiwa kweli kitu kinahitaji kurekebishwa, subiri hadi baadaye na ukifanye mtu huyo asipoona.
 
-Kurekebisha papo hapo kunaweza kugeuza kazi ya kupendeza kuwa ukumbusho wa kilichopotea. "Asante, hiyo ni msaada mkubwa" karibu kila wakati ni jambo sahihi la kusema.
+Kusahihisha papo hapo kunaweza kubadilisha kazi ya kupendeza kuwa ukumbusho wa kilichopotea. „Asante, hiyo ni msaada mkubwa” karibu kila mara ni jambo sahihi kusema.
 
-## Tunapaswa kuacha lini?
+## Ni lini tunapaswa kuacha?
 
-Acha au badilisha unapoona dalili za hasira, uchovu au kupoteza hamu. Kumaliza mapema ni matokeo mazuri, si kushindwa. Unaweza:
+Acha au badili unapogundua dalili za kuchanganyikiwa, uchovu au kupoteza hamu. Kumaliza mapema ni matokeo mazuri, si kushindwa. Unaweza:
 
 - kubadilisha kwenda hatua rahisi zaidi
-- kuhamia kitu cha kupumzika, kama muziki au kikombe cha chai
+- kuhamia kitu cha kupumzisha, kama muziki au kikombe cha kahawa
 - kujaribu tena baadaye au siku nyingine
 - kukaa pamoja tu
 
-Kama mtu huyo anasema hapana, usilazimishe. Tazama [nini cha kufanya wanaposema hapana](/caregiving/when-they-say-no/) kwa njia za upole za kujibu.
+Ikiwa mtu huyo anakataa, usimsukume. Tazama [cha kufanya anaposema hapana](/caregiving/when-they-say-no/) kwa njia za upole za kujibu.
 
-## Vitu vya ziada vyenye juhudi ndogo kwa wakati tulivu
+## Mambo rahisi zaidi kwa wakati wa utulivu
 
-Kazi za mwili zisipowezekana, kupanga na kulinganisha bado kunaweza kufanywa ukiwa umeketi. [Panga pamoja](/games/sort-together/) hukuruhusu kugusa picha na kuziweka kwenye vikapu vya jikoni au bustani, na [Jozi za picha](/games/picture-pairs/) ni mchezo wa taratibu wa kulinganisha wenye picha kubwa na bila saa. [Kadi za mazungumzo](/games/conversation-cards/) ina maswali wazi kuhusu nyumbani na familia yanayoendana vizuri na kikombe cha chai baada ya kazi kumalizika.
+Wakati kazi za kimwili haziwezekani, kupanga na kuoanisha bado kunaweza kufanywa ukiwa umekaa. [Sort Together](/games/sort-together/) hukuruhusu kugusa picha na kuziweka kwenye vikapu vya jikoni au bustani, na [Picture Pairs](/games/picture-pairs/) ni mchezo mpole wa kuoanisha wenye picha kubwa na bila kipima muda. [Conversation Cards](/games/conversation-cards/) ina maswali ya wazi kuhusu nyumba na familia ambayo yanafaa vizuri baada ya kazi kukamilika.
 
-Kwa msaada wa kuweka kazi katika siku, tazama mwongozo wetu wa [ratiba tulivu ya kila siku](/activities/daily-routine/). Kwa mawazo zaidi kulingana na hatua, tazama [shughuli za hatua ya kati](/activities/middle-stage/).
+Kwa msaada wa kujumuisha kazi za nyumbani katika siku, tazama mwongozo wetu wa [ratiba ya siku yenye utulivu](/activities/daily-routine/). Kwa mawazo zaidi kulingana na hatua, tazama [shughuli za hatua ya kati](/activities/middle-stage/).

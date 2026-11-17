@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Maitiro ezuva nezuva emunhu anorarama nedementia"
+seoTitle: "Maitiro ezuva nezuva edementia: Muenzaniso"
+description: "Muenzaniso wakasununguka wezuva remunhu anorarama nedementia, une kudya, zviitiko nezororo, nemazano ekugadzirisa mazuva akaoma."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Maitiro ezuva nezuva akapfava anoita kuti kumuka, kudya, kuzvichengeta uye
+  kurara zviitike panguva dzinenge dzakafanana, anoisa chiitiko chikuru panguva
+  iyo munhu anenge akasvinura, uye anoenzanisa zviitiko nezororo. Gadzirai
+  maitiro aya kubva mutsika dzemazuva ese dzemunhu wacho, musazadze zuva rose
+  nezvinhu, ivai nechiedza chezuva nekufamba zuva rega rega, uye shandurai
+  hurongwa kana zuva richida kudaro.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Nguva dzakafanana dzekumuka, kudya, kuzvichengeta nekurara dzinopa zuva chimiro chinozivikanwa."
+  - "Isai chiitiko chikuru panguva iyo munhu anenge akanaka zvikuru, kazhinji mangwanani."
+  - "Musazadze miniti yega yega. Zororo nenguva yerunyararo zviriwo muchirongwa."
+  - "Chiedza chezuva, kufamba zuva rega rega, nekudzivisa kurara kwenguva refu masikati kana kunwa chinwiwa chine caffeine manheru zvinogona kubatsira kudzikisa kusagadzikana kwemanheru."
+  - "Maitiro ezuva nezuva igwara, kwete mutemo. Chinjai, pfupisai kana kusiyira chero chinhu pamazuva akaoma."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Sei maitiro ezuva nezuva achibatsira munhu anorarama nedementia?"
+    a: "Zuva rinozivikanwa rinoreva sarudzo nezvinoshamisa zvishoma, izvo vanhu vazhinji vanorarama nedementia vanowana zvichinyaradza. Alzheimer's Association inoti zuva rakarongwa rinokubvumirai kushandisa nguva shoma pakufunga zvekuita uye nguva yakawanda pazvinhu zvamunofarira mese. Zvinobatsirawo vanochengeta kuronga zuva ravo."
+  - q: "Ndeapi maitiro akanaka ezuva nezuva emunhu anorarama nedementia?"
+    a: "Hapana hurongwa humwe hwakakwana. Hurongwa hwakanaka hunochengeta kumuka, kudya nekurara panguva dzinenge dzakafanana, hunoisa kuzvichengeta nechiitiko chikuru panguva iyo munhu anenge akanaka, hunosanganisira nguva yekuva panze kana pedyo nehwindo, uye hunosiya nzvimbo yezororo. Gadzirai hurongwa kubva pamaitiro emunhu wacho ehupenyu hwake hwose."
+  - q: "Munhu anorarama nedementia anofanira kurara masikati here?"
+    a: "Zororo pfupi rinogona kubatsira, kunyanya mushure mekudya kwemasikati. National Institute on Aging inokurudzira kudzivisa kurara kwenguva refu kana kutsumwaira masikati kana manheru, sezvo kuneta kana kusazorora zvakanaka kunogona kuwedzera kusagadzikana kwemanheru. Kana kurara kuri dambudziko chairo, taurirai nachiremba wavo."
+  - q: "Ko kana vachiramba kutevera maitiro ezuva nezuva?"
+    a: "Regai zvadaro kwechinguva, moedza zvakare gare gare kana neimwe nzira. Kuramba kunogona kureva kuti vaneta, havanzwe zvakanaka, vari kurwadziwa kana kuti havasati vagadzirira. Maitiro aya aripo kuti aite kuti zuva rive nyore, saka shandurai pane kumanikidza."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Maitiro ezuva nezuva akapfava anopa zuva chimiro chinozivikanwa: kumuka, kudya, chiitiko chidiki, zororo, uye kurara panguva dzinenge dzakafanana. Anoderedza sarudzo nezvinoshamisa, uye anokupai hurongwa panguva dzamungadai muchinetseka kuti moitei zvinotevera. Maitiro ari pazasi muenzaniso, kwete mutemo. Shandisai sehwaro, mozvigadzirisa kuti zvienderane nemunhu wamunochengeta.
 
-## Why does a daily routine help?
+## Sei maitiro ezuva nezuva achibatsira?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Maitiro akatsiga anobatsira nekuti nzira dzinozivikanwa dziri nyore kutevera pane itsva. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) inoti zuva rakarongwa rinoreva nguva shoma yekusarudza zvekuita uye nguva yakawanda yezviitiko zvinofadza, uye inoti nguva dzenguva dzose dzekumuka nekurara dzinogona kubatsira nematambudziko ekurara uye kusagadzikana kwemanheru. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) inokurudzira kugeza, kupfeka nekudya panguva dzakafanana zuva rega rega sechikamu cheimba yakadzikama, uye [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) inokurudzirawo kuchengeta maitiro akafanana.
 
-## A sample gentle day
+## Muenzaniso wezuva rakapfava
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Nguva dziri pano ingori mienzaniso. Endesai zuva rose mberi kana kumashure kuti rienderane nemaitiro emunhu wacho.
 
-| Time | What happens | Ideas | On a harder day |
+| Nguva | Zvinoitika | Mazano | Pazuva rakaoma |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Kumuka, kugeza, kupfeka | Kurongeka kwakafanana zuva rega rega; gadzirai hembe nenzira yazvichapfekwa | Chengetai kuzvichengeta kuri nyore; hembe yakachena yakakwana |
+| 8:45 a.m. | Kudya kwemangwanani | Kofi nepepanhau rinoravirwa zvinonzwika, kana redhiyo | Dyai mese makanyarara, pasina kumanikidzwa kutaura |
+| 9:30 a.m. | Chiitiko chikuru | Kupeta hembe, kubika, kurima, rwendo rupfupi kana kufamba | Shanduro pfupi, kana muvasiye vachikuonai muchiita |
+| 10:30 a.m. | Nguva yerunyararo | Mimhanzi, bhuku remifananidzo, kana kugara pedyo nehwindo | Zororai pachigaro chavanofarira |
+| 11:00 a.m. | Kubatsira pakudya kwemasikati | Kusuka miriwo, kugadzira tafura | Imi bikai; ivo ngavave nemi |
+| 12:00 p.m. | Kudya kwemasikati nekuchenesa | Kupukuta tafura, kuomesa ndiro shoma | Siyai mabasa epamba |
+| 1:00 p.m. | Zororo pfupi | Simudzai tsoka, mimhanzi yakapfava | Zvakafanana |
+| 2:00 p.m. | Kunze kana kufamba-famba | Kufamba, kugara pavharanda, kudiridza zvirimwa, kukanda bharumu | Garai pedyo nehwindo rine zuva |
+| 3:00 p.m. | Kushamwaridzana kana kugadzira | Kushanya, kufona, [picture pairs](/games/picture-pairs/), kupenda, makadhi | Kunwa nechinodyiwa mese |
+| 4:30 p.m. | Nguva yekudzikama | Vharai maketeni, batidzai mwenje, basa rakadzikama sekupeta matauro madiki | Mimhanzi inozivikanwa, ruzha rwakaderera |
+| 5:30 p.m. | Kudya kwemanheru | Kubatsira kukurunga kana kugadzira tafura | Chikafu chakareruka, chinozivikanwa |
+| 6:30 p.m. | Manheru pamwe chete | Kurangarira pamwe chete mushure mechikafu chinotapira, makadhi, chirongwa chavanofarira, kukwiza maoko zvinyoro | Kuvapo makanyarara |
+| 8:00 p.m. | Maitiro ekurara | Geza kana kuzvigeza, hembe dzekurara, mimhanzi yakapfava, mwenje wakaderera | Pfupisai zvose; nyaradzo inotanga |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Muenzaniso uyu unotevera chimiro chehurongwa hwemuenzaniso hweAlzheimer's Association hwedanho rekutanga nerepakati, hunotangira pakuzvichengeta nekudya kwemangwanani, huchienderera nemabasa epamba, kufamba, mimhanzi, zororo nekushanya, kusvika pakudya kwemanheru, kurangarira pamwe uye kugadzirira kurara.
 
-## How do you build your own routine?
+## Munogadzira sei maitiro enyu ezuva nezuva?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Tangirai kubva pamaitiro emunhu wacho ehupenyu hwake hwose, kwete kubva pachati. Alzheimer's Association inokurudzira kufunga zvinhu izvi musati maronga:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Zvavanofarira, zvavasingafarire, zvavanogona nezvavanoda.**
+- **Mavairo avaiita zuva ravo.** Munhu aimuka kare uye aigara achifamba nembwa anofanira kuramba achifamba mangwanani. Munhu anofarira kurara anonoka haangafariri kutanga na8 a.m.
+- **Nguva yezuva yavanenge vari nani.** Isai kugeza, rwendo uye chiitiko chikuru ipapo.
+- **Nguva yakakwana** yekudya, kugeza nekupfeka, kuti pasava nekumhanyiswa.
+- **Nguva dzenguva dzose dzekumuka nekurara.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Sosi imwe cheteyo inokurudzira kusanganisira musanganiswa wemabasa epamba, kudya, kuzvichengeta, zviitiko zvekugadzira, kufamba-famba, nguva yekushamwaridzana, zviitiko zvemweya uye nguva dzisingarongerwi, dzakaita seshamwari inouya kuzoshanya.
 
-### Try it for a week, then adjust
+### Edzai kwevhiki, mozogadzirisa
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Nyora chinyorwa chipfupi zuva rega rega. Alzheimer's Association inokurudzira kubvunza kuti ndezvipi zviitiko zvakashanda zvakanaka uye nei, kana paive nenguva dzaive nezvakawanda zvaizoitika kana zvishoma zvekuita, uye kana hurongwa husingarongerwi hwakafadza kana kukonzera kunetseka. Chengetai zvinoshanda uye shandurai zvisingashande.
 
-### Make it visible
+### Itai kuti zvionekwe
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Kana munhu achiri kukwanisa kuverenga, bhodhi jena kana kadhi rine mavara makuru rine hurongwa hwezuva rinogona kunyaradza. Chengetai zviri pfupi: "Kudya kwemangwanani. Kufamba naSarah. Kudya kwemasikati. Zororo." Vamwe vanhu vanova nani vasingazivi zviri mberi kwenguva; Family Caregiver Alliance inokurudzira kusakurukura hurongwa kusvikira nguva yacho yava pedyo kana zvichikonzera kunetseka.
 
-## How to adapt the routine
+## Mungagadzirisa sei maitiro aya
 
-### Leave room to breathe
+### Siyai nzvimbo yekufema
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Musazadze miniti yega yega. Alzheimer's Association inosimbisa kuti munhu anoda kuenzanisa zviitiko nezororo uye angada kumbomira kakawanda. Kana vachiita sevanofinhwa, vakavhiringika kana kushatirwa, chinjai chiitiko kana zororai.
 
-### Protect the late afternoon
+### Chengetedzai masikati anopera
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Vanhu vazhinji vanowedzera kusagadzikana zuva parinotanga kudzima. NIA inokurudzira kuva nenguva panze kana pedyo nehwindo kuti muwane chiedza chezuva zuva rega rega, kuva nemufambo zuva rega rega pasina kuronga zvakawandisa, kudzivisa caffeine nedoro manheru, uye kudzivisa kurara kwenguva refu masikati kana manheru. Dzimwe mhuri dzinoonawo zvichibatsira kuvhara maketeni nekubatidza mwenje zuva risati ranyura. Onai [late-day restlessness](/caregiving/late-day-restlessness/) uye [sleep](/brain-health/sleep/).
 
-### Change it as needs change
+### Shandurai maitiro sezvinodiwa pazvinoshanduka
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Danho rekutanga:** rongai maitiro aya mese. Munhu angada hurongwa hwakanyorwa hwaanogona kuzvichengetera ega.
+- **Danho repakati:** imi munotungamira zvakanyanya. Zviitiko zvipfupi, zororo rakawanda nemabasa akawanda anozivikanwa; onai [middle-stage activities](/activities/middle-stage/).
+- **Danho rekupedzisira:** maitiro aya anonyanya kutarisa nyaradzo, kudya nekuchengeta, paine nguva pfupi dzezvinonzwa zvakaita semimhanzi kana kukwiza maoko zvinyoro pakati; onai [late-stage activities](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Chinjai zviitiko, kwete chimiro chikuru
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Chengetai kudya, zororo nenguva yekurara zvakatsiga, uye chinjai zviitiko zviri pakati. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inokurudzira kuedza zviitiko zvakasiyana pamazuva akasiyana kuti zvinhu zvirambe zvichifadza. Mungabika neMuvhuro, kurima neChipiri, uye kutarisa mifananidzo neChitatu. [101 activity ideas](/activities/ideas/) uye [household tasks](/activities/household-tasks/) zvedu zvinogona kuzadza nguva idzodzo.
 
-## When the day goes sideways
+## Kana zuva risingafambi sezvakarongwa
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Mamwe mazuva haazoteveri hurongwa. Kurwara, husiku hwakaipa, kushanya kwachiremba kana kuchinja kwemamiriro ekunze kunogona kukanganisa zvose. Siyai hurongwa, chengetai zvinokosha (chikafu, chinwiwa, zororo, nyaradzo) uye edzai zvakare mangwana. Kana munhu akaramba chimwe chinhu, onai [when they say no](/caregiving/when-they-say-no/). Kumbomira kufema zvinyoro mese, se [calm breathing](/games/calm-breathing/), kunogona kubatsira mese kuti muzorore zvakare.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Maitiro enyu ezuva nezuva akakoshawo. Isai nguva dzekuzorora dzenyu, uye kumbirai mhuri kana basa rezororo reunochengeta kuti rikubatsirei kuwana nguva yenguva dzose yekuzorora. Onai [caregiver self-care](/caregiving/caregiver-self-care/).

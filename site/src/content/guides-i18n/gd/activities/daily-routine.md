@@ -79,7 +79,7 @@ Tha an eisimpleir seo a' leantainn cumadh plana sampaill Comann Alzheimer fhèin
 Tòisich bho mar a tha an neach air a bhith beò a-riamh, chan ann bho chairt. Tha Comann Alzheimer a' moladh smaoineachadh air na rudan seo mus plan thu:
 
 - **Na rudan as toil leotha, nach toil leotha, an neartan agus na h-ùidhean.**
-- **Mar a b' àbhaist dhaibh an latha a chur seachad.** Bu chòir do neach a dh'èireadh tràth agus a choisicheadh an cù a-riamh coiseachd tràth fhathast. Is dòcha nach còrd cuairt 8:00m ri neach a tha nas toiliche fadalach.
+- **Mar a b' àbhaist dhaibh an latha a chur seachad.** Bu chòir do neach a dh'èireadh tràth agus a choisicheadh an cù a-riamh coiseachd tràth fhathast. Is dòcha nach còrd cuairt 8m ri neach a tha nas toiliche fadalach.
 - **An àm den latha as fheàrr dhaibh.** Cuir ionnlaid, tursan agus a' phrìomh ghnìomhachd an sin.
 - **Ùine gu leòr** airson biadh, nighe agus èideadh, gus nach bi cabhag ann.
 - **Amannan cunbhalach airson dùsgadh agus na leapa.**

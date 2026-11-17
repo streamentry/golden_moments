@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Motuna ezongaka soki moto azali na bokono ya motu"
+seoTitle: "Motuna ezongaka: koyanola na kimia mpe kosala"
+description: "Ndenge ya koyeba mpo na nini motuna ezongaka, koloba na kimia, kosalela biloko ya pete, mpe soki esengeli kobenga monganga."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Motuna oyo ezongaka mbala na mbala ezali likambo ya mbala mingi na bokono ya motu: mbala mingi moto oyo atuni ayebisi lisusu te ete atunaki, mpe motuna yango ezalaka na makanisi ya kobanga to ya koluka kimia. Yanolaka na kimia mpe na bobele maloba moke lokola soki ozali koyanola mbala ya liboso, yanolaka mpo na makanisi oyo ezali na sima, mpe koloba te ete « otunaki yango déjà ». Koma eyano esika oyo akoki komona yango, loba makambo ya kokamwa bobele pene ya ntango yango, mpe pesa mosala oyo esepelisaka. Soki mbongwana esalemi mbala moko, esengeli kobenga monganga.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Mbala mingi moto oyo atuni ayebisi lisusu te ete atunaki; asaleli yango na mokano te."
+  - "Mbala mingi motuna yango ebombaka makanisi, lokola kobanga mpo na bokengi to koluka koyeba ete ozali na kimia."
+  - "Yanolaka na kimia, na bobele maloba moke mpe na bolingo, lokola soki ezali mbala ya liboso. Koloba te ete « otunaki yango déjà »."
+  - "Eteni ya mokanda, tableau moko, montre to kalandri oyo ezali na miso ekoki koyanola motuna mpo na yo."
+  - "Loba makambo ya kokamwa bobele pene ya ntango yango."
+  - "Zwa ntango ya kopema soki osengeli, mpe benga monganga mpo na mbongwana nyonso oyo esalemi mbala moko."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Mpo na nini tata na ngai oyo azali na bokono ya motu azongaka kotuna motuna moko kaka?"
+    a: "Bokono ya motu ebebisaka bokundoli ya mokuse, yango wana akoki kozala solo te ayebisi ete atunaki to ayokaki eyano. Mbala mingi motuna yango ezali mpe na makanisi, lokola kobanga mpo na makambo oyo ekoya to esengi koyeba ete azali na kimia. Koyanola makanisi yango esalisaka mbala mingi koleka kozongela kaka solo."
+  - q: "Nasengeli koloba ete atunaki yango déjà?"
+    a: "Te. Ekosalisa ye te akundola, mpe ekoki komonana lokola koteya ye. Mangomba ya bato oyo basalaka na bokono ya motu basalaka malamu koloba ete yanolaka na kimia mbala nyonso, lokola soki ezali mbala ya liboso, mpe kotika eyano ezala ya mokuse."
+  - q: "Kokoma eyano na mokanda esalisaka?"
+    a: "Ekoki kosalisa, ntango moto yango azali naino kokoka kotanga. Eteni ya mokanda, tableau oyo ezali na makambo ya lelo, montre monene to kalandri oyo ezali na esika oyo amonaka mbala mingi ekoki kopesa ye nzela ya koluka eyano ye moko. Lakisa ye na boboto, koloba te ete « nayebisaki yo »."
+  - q: "Ntango nini nasengeli koloba mpo na bokutani to makambo ya kobima?"
+    a: "Pene ya ntango yango. Koloba tango ya bokutani ya monganga to ya mobembo mikolo mingi liboso ekoki kobimisa motuna mingi ya kobanga. Yebisa ye bobele pene ya tango, na kimia, na makambo oyo ekosalema sima."
+  - q: "Ntango nini kozongela motuna ezali likambo ya kobenga monganga?"
+    a: "Soki mituna, litomba ya koyeba to ndenge ya kosala ebongwanaka mbala moko to ekomi mabe mingi na bangonga to mikolo, benga monganga na ye noki. Bokono, nkisi ya sika, mpasi, kovimba ya libumu to kozanga mayi ekoki kobimisa litomba ya koyeba ya mbala moko oyo babengaka delirium, oyo esengeli kosalisama noki."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +53,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+« Ngonga nini bokutani ya monganga ? » Sima ya miniti zomi : « Ngonga nini bokutani ya monganga ? » Koyoka motuna moko mbala na mbala ezali se moko ya makambo oyo elembisaka mingi soki ozali kobatela moto oyo azali na bokono ya motu. Ezali likambo ya mbala mingi, asaleli yango na mokano te, mpe ezali na ndenge ya koyanola na kimia oyo esalisaka bobomi ezala pete mpo na bino mibale.
 
-## Why does someone with dementia ask the same question over and over?
+## Mpo na nini moto oyo azali na bokono ya motu azongaka kotuna motuna moko mbala na mbala ?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Mbala mingi ezali mpo na bokundoli. Bokono ya motu ebebisaka bokundoli ya mokuse, yango wana moto yango akoki kokundola te ete atunaki, to kokundola te eyano. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) elobi ete kotuna mituna mbala mingi ezali likambo ya mbala mingi mpe oyo bazelaka.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Motuna yango ezalaka mpe na makanisi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) elobi ete motuna oyo ezongaka ekoki kolakisa kobanga, bosengi ya lisalisi, to kobanga mpe kozanga kimia, mpe mbala mingi moto yango alukaka kimia mpe kozala na esika oyo ayebi. « Tokokende tango nini ? » ekoki solo kolakisa ete « Nazali na kobanga mpo na kokende. » Kozanga mosala, kobanga, makelele mpe mbongwana ya makambo ya mokolo na mokolo ekoki kobimisa yango, mpe motuna oyo ezongaka ekoki mpe kolakisa esengeli, lokola kokende na ndako ya mino ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Nini nasengeli koloba ?
 
-Answer calmly and briefly, as if it were the first time.
+Yanolaka na kimia mpe na bobele maloba moke, lokola soki ezali mbala ya liboso.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Tika eyano ezala ya mokuse mpe ndenge moko.** « Bokutani ya monganga ezali na ngonga mibale ya midi. Nakokoma elongo na yo. » Eyano ya ndenge moko ezali mpasi te koyoka.
+- **Yanolaka makanisi.** « Ozali kotuna mpo na monganga. Ezali na sima ya midi, mpe nakokumba biso. Ozali na likambo te ya kosala. »
+- **Salela mongongo ya malamu mpe kokweya na boboto,** soki alingaka kokweya. Alzheimer's Association elobi ete tika ozala na kimia mpe koloba te na makasi to kotia tembe.
+- **Pesa eyano oyo alukaka,** mbala mingi ndenge esengeli. Alzheimer's Association elobi ete zongela yango mbala mingi ndenge atunaka.
 
-## What should I avoid?
+## Nini nasengeli kokima ?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **« Otunaki yango déjà. »** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) elobi ete koloba ete atunaki kaka sikoyo esalisaka te. Ekosalisa ye te akundola, mpe ekoki komonana lokola koteya ye.
+- **Maloba mingi.** Maloba mingi ebimisa makambo mingi ya kokundola.
+- **Kopema makasi, kokanga miso to mongongo ya makasi.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) elobi ete kozala na motema molayi mpe kolakisa kanda te. Ezali mpasi; tala eteni mpo na kopema na se.
 
-## Simple tools that answer the question for you
+## Bisaleli ya pete oyo eyanolaka motuna mpo na yo
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Ntango moto yango azali naino kokoka kotanga, eyano oyo ekomami mpe azali komona yango mbala mingi esalisaka koleka eyano oyo oyokani.
 
-| Tool | How to use it |
+| Esaleli | Ndenge ya kosalela yango |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Eteni ya mokanda na makomi minene | « Monganga lelo na ngonga mibale ya midi. Mary akokumba. » Tia yango esika oyo amonaka mingi |
+| Tableau moko | Makambo ya lelo na milongo misato to minei; pambwisa mpe koma lisusu mokolo nyonso na tongo |
+| Montre monene oyo ezali na mokolo mpe mokolo ya sanza | Esalisaka mpo na « Mokolo nini lelo ? » mpe « Tango ekokomi ? » |
+| Kalandri | Koma lisusu mokolo nyonso; simba bokutani ya sima |
+| Bafoto ya bato oyo ayebi | Foto ya moto oyo akoya ekoki koyanola « Nani akoya kotala ? » |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Makanisi yango eutaka na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) mpe [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Lakisa mokanda na boboto (« Tokotala tableau elongo ») koloba te ete « Nakomelaki yo yango ».
 
-## Tell them about events close to the time
+## Loba makambo ya kokamwa pene ya ntango yango
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Koloba tango ya bokutani to ya mobembo mikolo mingi liboso ekoki kobimisa mituna mingi ya kobanga. Family Caregiver Alliance mpe Alzheimer's Los Angeles nyonso mibale basalaka malamu koloba makambo oyo ekosalema, mingimingi makambo ya kokamwa lokola bokutani ya monganga to kosukola nzoto, bobele pene ya tango yango. Sima loba makambo oyo ekosalema sima, moko moko.
 
-## Activities that can shift attention
+## Misala oyo ekoki kobongola makanisi
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Sima ya koyanola mpe koyamba makanisi, mosala ya kimia oyo esepelisaka ekoki kosalisa, mingimingi soki kozanga mosala ezali mpo na mituna. Bitikala nyonso ezali likoló elobi ete bongola makanisi mpo na likambo oyo alingaka.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Mokano moko moke mpe pete.** [Picture pairs](/games/picture-pairs/) etikaka bafoto ezala na miso, yango wana moto asengeli te kokundola.
+2. **Mosala oyo ayebi.** Kolata mampi, kopanza basokisi to kotia mesa. [Sort together](/games/sort-together/) ezali mosala na écran.
+3. **Loba mpo na likambo oyo alingaka mingi.** [Conversation cards](/games/conversation-cards/) epesaka mituna ya polele oyo ezali na eyano ya malamu te.
+4. **Miziki, kobima pembeni to kolia eloko moke.** National Institute on Aging elobi makambo yango lokola ndenge ya boboto ya kobongola makanisi.
+5. **Ntango ya kimia.** Vanda elongo, tala na libanda ya lininisa, to bosala elongo ntango moko ya [calm breathing](/games/calm-breathing/).
 
-If they return to the question, answer it again, kindly. That is fine.
+Soki azongaka na motuna, yanola yango lisusu na bolingo. Ezali malamu.
 
-## Look for patterns
+## Luka bilembo ya ndenge moko
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association elobi ete tala soki mituna eyaka na bangonga mosusu ya mokolo, na bato mosusu to na bisika mosusu. Soki eyaka ntango nyonso liboso ya bato oyo bakoya kotala, to na sima ya midi, okoki kobongisa makambo liboso: mokanda mpo na bokutani, mosala oyo ayebi oyo ezali tayari, shambre ya kimia mingi. Guide na biso mpo na [misala ya kimia na sima ya midi](/caregiving/late-day-restlessness/) ekoki kosalisa soki bangonga ya pokwa ezali mpasi mingi.
 
-## Take care of yourself
+## Tala yo moko
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Koyanola motuna moko mbala ya zomi na mibale elembisaka mingi. Soki omoni ete motema molayi ezali kosila mpe moto yango azali na libateli, kende na shambre mosusu mpo na miniti moke mpe pesa pema, ndenge [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) elobi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) elobi ete bato oyo basalaka na bato mosusu basengeli koluka lisalisi mpe komona soki bakoki kozwa ntango ya kopema. Makanisi mosusu ezali na [guide na biso mpo na kobatela bato oyo basalaka na bato mosusu](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Ntango nini nasengeli kobenga monganga ?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Benga monganga na ye noki soki mituna, litomba ya koyeba to ndenge ya kosala ebongwanaka mbala moko to ekomi mabe mingi na bangonga to mikolo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) elobi ete mbongwana ya mbala moko to ya noki, mingimingi sima ya bokono to mbongwana ya nkisi, esengeli koyebisa monganga noki. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) elobi ete bokono, nkisi, kozanga mayi, mpasi to kovimba ya libumu ekoki kobimisa delirium, litomba ya koyeba ya mbala moko mpe ya makasi oyo esengeli kosalisama noki. Benga 911 soki moto moko azali na likama.

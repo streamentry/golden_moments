@@ -1,31 +1,36 @@
 ---
-title: "Když člověk s demencí pořád žádá, aby šel domů"
-seoTitle: "Demence a žádost jít domů: co říct"
-description: "Proč člověk s demencí žádá jít domů, i když je doma, co říct, uklidňující aktivity a jak ho udržet v bezpečí, když se pokusí odejít."
+title: "Když člověk s demencí chce stále domů"
+seoTitle: "Člověk s demencí chce domů: co říct"
+description: "Proč se člověk žijící s demencí ptá na domov, i když je doma, co říct, jaké uklidňující činnosti vyzkoušet a jak zajistit bezpečí, pokud se pokusí odejít."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Když člověk s demencí stále žádá, aby šel domů, „domov“ často znamená pocit bezpečí nebo místo z minulosti, ne budovu. Nehádejte se s ním, že doma je. Uznejte pocit, ujistěte ho, že je v bezpečí, zeptejte se na jeho domov a pak jemně přejděte k fotkám, hudbě, svačině, procházce nebo jednoduchému úkolu. Zkontrolujte hlad, žízeň, potřebu na toaletu nebo bolest. Pokud to začalo náhle, zavolejte jeho lékaři.
+  Když se člověk žijící s demencí stále ptá na domov, „domov“ často znamená
+  pocit bezpečí nebo místo z minulosti, ne konkrétní budovu. Nepřesvědčujte ho,
+  že je doma. Pojmenujte jeho pocit, ujistěte ho, že je v bezpečí, zeptejte se
+  na domov a pak jemně přejděte k fotografiím, hudbě, svačině, procházce nebo
+  jednoduchému úkolu. Zkontrolujte hlad, žízeň, potřebu toalety nebo bolest.
+  Pokud se to objeví náhle, zavolejte jeho lékaři.
 keyPoints:
-  - "„Chci jít domů“ často znamená „necítím se v bezpečí nebo klidně“, ne žádost o adresu."
-  - "Hádání se nebo dokazování, že jsou doma, obvykle zhorší úzkost. Reagujte raději na pocit."
-  - "Požádejte ho, aby vám vyprávěl o domově, a pak nabídněte fotky, hudbu, svačinu, procházku nebo jednoduchý úkol."
-  - "Zkontrolujte věci, které lze napravit: hlad, žízeň, toaletu, bolest, příliš horko nebo zima, hluk, únavu."
-  - "Pokud se to opakuje každé pozdní odpoledne, může jít o sundowning. Stálý režim a dobré světlo mohou pomoci."
-  - "Připravte se na bezpečí, pokud se pokusí odejít, a při jakékoli náhlé změně volejte lékaři."
+  - "„Chci jít domů“ často znamená „necítím se v bezpečí nebo v klidu“, ne žádost o adresu."
+  - "Hádání nebo dokazování, že je člověk doma, obvykle zhoršuje úzkost. Reagujte raději na jeho pocit."
+  - "Požádejte ho, aby vám povyprávěl o domově, a pak nabídněte fotografie, hudbu, svačinu, procházku nebo jednoduchý úkol."
+  - "Zkontrolujte, zda nejde o něco, co lze snadno vyřešit: hlad, žízeň, toaletu, bolest, příliš velké teplo nebo zimu, hluk, únavu."
+  - "Pokud se to děje každé pozdní odpoledne, může jít o večerní neklid; pomoci může stálý režim a dostatek světla."
+  - "Myslete na bezpečí, pokud se člověk pokusí odejít, a při jakékoli náhlé změně zavolejte jeho lékaři."
 faq:
-  - q: "Proč moje maminka s demencí pořád žádá, aby šla domů, když je doma?"
-    a: "Demence může povědomé místnosti zdát cizími a lidé mají někdy pocit, že jsou v dřívějším období života. „Domov“ může znamenat dům z dětství, nebo prostě pocit bezpečí a pohodlí. Odpovědět na tento pocit obvykle funguje lépe než ukazovat, kde zrovna je."
-  - q: "Co mám říct, když chtějí jít domů?"
-    a: "Zkuste „Tady jste v bezpečí a já jsem s vámi“, potom „Povězte mi o svém domově.“ Poslouchejte, ukažte fotku nebo zazpívejte písničku a nabídněte nápoj nebo krátkou procházku. Vyhněte se větě „Jste doma“ řečené jako oprava, protože může znít, jako byste člověku říkali, že se mýlí."
-  - q: "Je v pořádku říct, že půjdeme domů později?"
-    a: "Rodiny i organizace zabývající se demencí se v tom liší. Mnozí začínají upřímnou útěchou a přesměrováním a nevinnou lež si nechávají na chvíle, kdy by pravda jen vyvolala tíseň, se kterou člověk nedokáže pracovat. Ať zvolíte cokoli, buďte laskaví a důslední a nikdy si nedělejte legraci z jeho vnímání reality."
-  - q: "Co když se pokusí opustit dům?"
-    a: "Zůstaňte klidní a jděte s ním, místo abyste mu bránili. Krátká procházka často potřebu uklidní. Předem zaveďte bezpečnostní opatření, například identifikační náramek, zvonek u dveří a aktuální fotku. Pokud se ztratí, začněte hned hledat, a pokud ho nenajdete do 15 minut, volejte 112 a řekněte, že člověk má demenci."
-  - q: "Kdy mám volat lékaři?"
-    a: "Zavolejte jeho lékaři co nejdříve, pokud žádosti nebo zmatenost začaly náhle nebo se během hodin či dnů výrazně zhoršily, zejména s horečkou, novým lékem nebo příznaky infekce močových cest. Náhlá zmatenost může být delirium, které vyžaduje neodkladnou péči. Pokud je někdo v ohrožení, volejte 112."
+  - q: "Proč se moje maminka s demencí stále ptá na domov, když je doma?"
+    a: "Demenční onemocnění může způsobit, že známé místnosti působí cize, a lidé někdy mají pocit, že žijí v dřívějším období života. „Domov“ může znamenat dům z dětství, nebo jednoduše pocit bezpečí a pohody. Reakce na tento pocit obvykle funguje lépe než připomínání, kde se právě nachází."
+  - q: "Co mám říct, když se ptá na domov?"
+    a: "Zkuste říct: „Tady jste v bezpečí a já tu s vámi zůstanu,“ a pak: „Povězte mi o svém domově.“ Naslouchejte, ukažte fotografii nebo pusťte písničku a nabídněte pití nebo krátkou procházku. Vyhněte se větě „Vy jste doma“ jako opravě, protože člověk může mít pocit, že mu říkáte, že se mýlí."
+  - q: "Je v pořádku říct, že domů půjdeme později?"
+    a: "Rodiny i organizace zaměřené na demenci se v tomto liší. Mnohé začínají upřímným uklidněním a jemným odvedením pozornosti a k laskavé nepravdě se uchýlí jen ve chvílích, kdy by pravda způsobila jen utrpení, se kterým si člověk nedokáže poradit. Ať už zvolíte cokoli, buďte laskaví a důslední a nikdy se nevysmívejte tomu, jak člověk vnímá realitu."
+  - q: "Co když se pokusí odejít z domu?"
+    a: "Zachovejte klid a jděte s ním raději ven, než abyste mu bránili; krátká procházka často nutkání odejít zmírní. Bezpečnostní kroky si připravte předem, například identifikační náramek, zvonek na dveřích a aktuální fotografii. Pokud se člověk pohřešuje, prověřte blízká bezpečná místa a zároveň neprodleně kontaktujte místní policii nebo záchranné služby. Nečekejte před nahlášením stanovený počet minut."
+  - q: "Kdy mám zavolat lékaři?"
+    a: "Bezodkladně zavolejte jeho lékaři, pokud se otázky nebo zmatenost objeví náhle nebo se během hodin či dnů výrazně zhorší, zejména při horečce, novém léku nebo příznacích infekce močových cest. Náhlá zmatenost může být delirium, které vyžaduje neodkladnou péči. Pokud je někdo v ohrožení, volejte 911."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -45,6 +50,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -62,87 +70,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-„Chci jít domů.“ Pro mnoho rodin je to jedna z nejtěžších vět, jaké mohou slyšet, zvlášť když člověk, o kterého pečují, sedí ve svém vlastním obývacím pokoji. Je to časté, může se to objevit v kterékoli fázi demence a existují klidné, praktické způsoby, jak reagovat. Tato stránka se věnuje tomu, co tato slova často znamenají, co říct, jaké aktivity mohou v danou chvíli pomoci, a jak zůstat v bezpečí.
+„Chci jít domů.“ Pro mnoho rodin patří tato slova k těm nejtěžším, obzvlášť když člověk, o kterého pečujete, sedí ve vlastním obývacím pokoji. Je to běžné, může se to stát v jakékoli fázi demence a existují klidné a praktické způsoby, jak reagovat. Tato stránka vysvětluje, co slova často znamenají, co říct, jaké činnosti mohou v danou chvíli pomoci a jak zůstat v bezpečí.
 
-## Proč člověk s demencí pořád žádá, aby šel domů?
+## Proč se člověk žijící s demencí stále ptá na domov?
 
-Obvykle je „domov“ spíše pocit než místo. Alzheimer's Society to popisuje jako pocit pohodlí a jistoty, nebo domov z minulosti, ne samotný dům. Demence může povědomé místnosti udělat cizími a člověk může mít pocit, že žije v dřívějším období života, kdy domovem byl dům z dětství nebo místo, kde vychovával své děti.
+Obvykle je „domov“ spíš pocit než místo. Alzheimer's Society jej popisuje jako pocit pohodlí a bezpečí nebo jako domov z minulosti, nikoli jako samotnou budovu. Demenční onemocnění může způsobit, že známé místnosti vypadají cize, a člověk může mít pocit, že žije v dřívějším období života, kdy domovem byl dům z dětství nebo místo, kde vychovával své děti.
 
-Slova mohou také znamenat, že je právě teď něco jiného špatně: má hlad, žízeň, potřebuje na záchod, bolí ho, je mu příliš horko nebo zima, je unavený, osamělý, vystrašený nebo přetížený hlukem. [Národní institut pro stárnutí](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) mezi příčiny neklidu uvádí bolest, hluk, osamělost, změny režimu a léky.
+Tato slova mohou být také znamením, že právě teď není něco v pořádku: člověk má hlad, žízeň, potřebuje na toaletu, má bolest, je mu příliš teplo nebo zima, je unavený, osamělý, vystrašený nebo zahlcený hlukem. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) uvádí mezi příčinami neklidu bolest, hluk, osamělost, změny v režimu a léky.
 
-## Co říct, když žádají, aby šli domů?
+## Co mám říct, když se ptá na domov?
 
-Reagujte na pocit, ne na slova. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) radí nesnažit se člověka přesvědčit, že se mýlí. Jeho pocity jsou skutečné, takže nejdřív odpovězte útěchou a ujištěním a pak jemně přesměrujte.
+Reagujte na pocit, ne na slova. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nedoporučuje snažit se člověka přesvědčit, že se mýlí: jeho pocity jsou skutečné, proto nejdříve odpovězte uklidněním a ujištěním a pak jemně odveďte pozornost.
 
-Fráze, které často pomáhají:
+Věty, které často pomáhají:
 
-- **Pojmenujte pocit.** „Zdá se, že vám chybí domov.“
-- **Ujistěte ho.** „Tady jste v bezpečí a já jsem s vámi.“ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) doporučuje jednoduchá slova „Tady jste v bezpečí.“
-- **Pozvěte ho ke vzpomínání.** „Povězte mi o svém domově. Jaká byla vaše kuchyně?“ Mluvit o vzdálené minulosti je obvykle příjemnější než otázky na dnešek.
-- **Nabídněte něco společně.** „Dáme si nejdřív čaj?“ nebo „Pomůžete mi s těmito ručníky?“
+- **Pojmenujte pocit.** „Slyším, že vám chybí domov.“
+- **Ujistěte ho.** „Tady jste v bezpečí a já tu s vámi zůstanu.“ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) navrhuje jednoduchá slova „Tady jste v bezpečí.“
+- **Vybídněte ke vzpomínkám.** „Povězte mi o svém domově. Jaká byla vaše kuchyň?“ Ptát se na dávnou minulost je obvykle příjemnější než otázky na dnešek.
+- **Nabídněte něco společného.** „Nejdřív si dáme šálek čaje,“ nebo „Pomohl byste mi s těmito ručníky?“
 
-Vlídný tón a položená ruka na paži, pokud má člověk rád dotyk, mohou říct víc než slova.
+Vřelý tón a dotek na paži, pokud má člověk dotek rád, mohou říct víc než slova.
 
 ## Čemu se vyhnout?
 
-- **Hádání nebo vysvětlování.** „Teď tady bydlíte“ nebo „Tohle je váš domov už čtyřicet let“ po něm chce přijmout něco, co mu demence přijmout ztěžuje, a může to působit, jako byste mu říkali, že se mýlí.
+- **Hádání nebo vysvětlování.** „Teď bydlíte tady“ nebo „Tohle je váš domov už 40 let“ žádá člověka, aby přijal něco, co mu demence ztěžuje přijmout, a může to působit, jako byste mu říkali, že se mýlí.
 - **Vyptávání.** „Copak si nepamatujete?“ nebo „Jaká je adresa?“ přidává tlak.
-- **Rozzlobené blokování dveří.** Pokud se vydá ven, zůstaňte klidní a jděte s ním. Krátká procházka společně potřebu často uklidní.
-- **Spěchání.** Dejte mu čas mluvit o domově, než změníte téma.
+- **Zlostné bránění ve dveřích.** Pokud se vydá ven, zachovejte klid a jděte s ním. Krátká společná procházka často nutkání odejít zmírní.
+- **Spěch.** Dejte mu čas povyprávět o domově, než změníte téma.
 
-## Aktivity, které mohou v danou chvíli pomoci
+## Činnosti, které mohou v danou chvíli pomoci
 
-Poté, co jste uznali pocit, může klidná, známá aktivita přesunout pozornost, aniž by pocit odbývala.
+Poté, co pojmenujete jeho pocit, může klidná a známá činnost jemně přesunout pozornost, aniž by pocit popírala.
 
-1. **Prohlédněte si fotky domova a rodiny.** Listujte a komentujte („Podívejte, ta zahrada“), místo abyste kladli otázky. Na telefonu nebo tabletu [dvojice fotek](/games/photo-pairs/) promění vaše vlastní rodinné fotky v jemnou hru na párování a fotky zůstanou ve vašem zařízení.
-2. **Mluvte o domově.** [Karty k rozhovoru](/games/conversation-cards/) nabízejí otevřené podněty o domech, kuchyních, sousedech a svátcích, bez správných odpovědí.
-3. **Pusťte hudbu, kterou má rád.** Národní institut pro stárnutí mezi způsoby, jak zklidnit neklid, uvádí uklidňující hudbu. Viz naše [hudební aktivity](/activities/music/).
-4. **Dejte si svačinu nebo nápoj.** Hlad a žízeň mohou vypadat jako neklid. Šálek čaje nebo oblíbená pochoutka je také malý rituál toho, že je člověk doma.
-5. **Jděte na procházku nebo si sedněte venku.** Pohyb a denní světlo pomáhají, zejména dříve během dne.
-6. **Dejte mu známou práci.** Skládání prádla, třídění příborů nebo zalévání rostlin mohou obnovit pocit, že se stará o domácnost.
-7. **Zpomalte všechno.** Vypněte televizi, omezte hluk a odlesky a zkuste společnou pauzu [klidné dýchání](/games/calm-breathing/).
+1. **Prohlížejte si fotografie domova a rodiny.** Otáčejte stránky a spíš něco poznamenejte („Podívejte se na tu zahradu“), než abyste se ptali. V telefonu nebo tabletu promění [Fotografie v párech](/games/photo-pairs/) vaše vlastní rodinné fotografie v jemnou hru na hledání dvojic a fotografie zůstávají ve vašem zařízení.
+2. **Povídejte si o domově.** [Kartičky s otázkami](/games/conversation-cards/) nabízejí otevřené podněty o domech, kuchyních, sousedech a svátcích, bez správných odpovědí.
+3. **Pusťte hudbu, kterou má rád.** National Institute on Aging uvádí uklidňující hudbu mezi způsoby, jak zklidnit neklid. Podívejte se na naše [aktivity s hudbou](/activities/music/).
+4. **Nabídněte svačinu nebo pití.** Hlad a žízeň mohou vypadat jako neklid. Šálek čaje nebo oblíbená pochoutka jsou také malým rituálem pocitu domova.
+5. **Jděte na procházku nebo si sedněte ven.** Pohyb a denní světlo pomáhají, zejména dříve během dne.
+6. **Dejte mu známý úkol.** Skládání prádla, třídění příborů nebo zalévání květin může vrátit pocit, že se člověk stará o svůj domov.
+7. **Zpomalte všechno kolem.** Vypněte televizi, omezte hluk a ostré světlo a vyzkoušejte společnou chvilku [klidného dýchání](/games/calm-breathing/).
 
-Pokud jeden nápad nezabere, zkuste jiný později. I tiché sezení spolu je dobrý výsledek.
+Pokud jeden nápad nezabere, zkuste později jiný. I klidné společné posezení je dobrý výsledek.
 
-## Zkontrolujte příčinu, kterou můžete napravit
+## Zkontrolujte příčinu, kterou můžete vyřešit
 
-| Kontrola | Co zkusit |
+| Co zkontrolovat | Co vyzkoušet |
 | --- | --- |
-| Hlad nebo žízeň | Nabídněte nápoj a malou svačinu |
-| Potřeba na toaletu | Nabídněte návštěvu koupelny klidně a bez zbytečného shonu |
-| Bolest nebo nepohodlí | Hledejte příznaky, jako je křivení obličeje, držení části těla nebo zácpa, a řekněte to lékaři |
-| Příliš horko nebo zima | Upravte vrstvu oblečení nebo teplotu v místnosti |
-| Hluk nebo tlačenice | Přesuňte se do tišší místnosti, vypněte televizi |
-| Únava nebo přetížení podněty | Odpočinek, ztlumené světlo, tichá hudba |
-| Pozdní odpoledne | Viz oddíl o sundowningu níže |
+| Hlad nebo žízeň | Nabídněte pití a malou svačinu |
+| Potřeba toalety | Nabídněte návštěvu toalety, klidně a bez zbytečného rozruchu |
+| Bolest nebo nepohoda | Všímejte si známek, jako je škubání bolestí, držení části těla nebo zácpa, a řekněte o tom lékaři |
+| Příliš teplo nebo zima | Přidejte nebo uberte vrstvu oblečení, nebo upravte teplotu v místnosti |
+| Hluk nebo přeplněný prostor | Přejděte do tišší místnosti, vypněte televizi |
+| Únava nebo přetížení podněty | Odpočiňte si, ztlumte světlo, pusťte tichou hudbu |
+| Pozdní odpoledne | Podívejte se na část o večerním neklidu níže |
 
-Alzheimer's Society doporučuje vést krátký záznam o tom, kdy se žádosti objevují, například před jídlem, po návštěvách nebo za soumraku. Vzorce usnadňují plánování dopředu.
+Alzheimer's Society doporučuje vést si krátký záznam o tom, kdy se otázky objevují, například před jídlem, po návštěvě nebo za soumraku. Díky vzorcům se dá lépe plánovat dopředu.
 
-## Je v pořádku použít nevinnou lež?
+## Je v pořádku říct laskavou nepravdu?
 
-Je to skutečná debata a laskaví rodiny se dostávají na různá místa. Alzheimer's Society říká, že neexistuje jediná správná odpověď: nepravdy mohou některé lidi učinit podezřívavějšími, takže se rozhodněte podle toho, co je v nejlepším zájmu člověka, a jednejte důsledně. Podle názoru spoluředitele Penn Memory Center je výchozí pravda a jemná lež je přijatelná jen tehdy, když člověk nedokáže zpracovat konkrétní pravdu. Nikdy byste si neměli vysmívat jeho realitě.
+To je skutečné dilema a laskavé rodiny se v něm neshodnou. Alzheimer's Society uvádí, že neexistuje jediná správná odpověď: nepravdy mohou některé lidi učinit podezíravějšími, proto se rozhodněte podle toho, co je pro daného člověka nejlepší, a buďte důslední. Podle spolureditele Penn Memory Center je pravda výchozí volbou a laskavá nepravda je přijatelná jen tehdy, když člověk nedokáže určitou pravdu zpracovat, a nikdy byste se neměli vysmívat jeho vnímání reality.
 
-Mnoho pečujících zjistí, že funguje střední cesta: nejdřív upřímná útěcha a přesměrování („Dnes přespíme tady a já jsem tu s vámi“), bez hádání o tom, kde je domov.
+Mnoho pečujících lidí zjišťuje, že funguje střední cesta: nejdřív upřímné uklidnění a jemné odvedení pozornosti („Dnes večer zůstaneme tady a já jsem tady s vámi“), aniž by se hádali o tom, kde je domov.
 
-## Co když se to opakuje každé odpoledne nebo večer?
+## Co když se to děje každé odpoledne nebo večer?
 
-Neklid, který začíná nebo se zhoršuje pozdě odpoledne, se často nazývá sundowning. [Národní institut pro stárnutí](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) doporučuje stálý režim, denní světlo a aktivitu, méně pozdních šlofíků a žádnou kofein ani alkohol pozdě během dne. Pomoci může také rozsvítit světla ještě před setměním. Náš návod [klidné aktivity pozdě odpoledne](/caregiving/late-day-restlessness/) nabízí víc nápadů.
+Neklid, který začíná nebo se zhoršuje v pozdním odpoledni, se často nazývá večerní neklid. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) doporučuje stálý denní režim, denní světlo a aktivitu, méně pozdního spánku a žádnou kofein ani alkohol pozdě během dne. Pomoci může také rozsvítit světla ještě před setměním. Náš průvodce [klidnými aktivitami pro pozdní odpoledne](/caregiving/late-day-restlessness/) nabízí více.
 
-## Jak je udržet v bezpečí, když se pokusí odejít?
+## Jak zajistit bezpečí, pokud se člověk pokusí odejít
 
-Žádost jít domů může vést k bloudění. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) odhaduje, že šest z deseti lidí žijících s demencí alespoň jednou bloudí.
+Otázky na domov mohou vést k toulání. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) odhaduje, že šest z deseti lidí žijících s demencí se alespoň jednou zatoulá.
 
 **Připravte se předem:**
 
-- Identifikační nebo lékařský náramek se jménem a vaším telefonním číslem a štítky v oblečení. [Národní institut pro stárnutí](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) zmiňuje MedicAlert a program Safe and Found Alzheimer's Association, který může stát peníze.
-- Zvonek nebo alarm u dveří a zámky umístěné vysoko nebo nízko. Člověka nikdy nezamykejte samotného.
-- Aktuální fotku zblízka a seznam míst, kam by mohl jít, například bývalý domov nebo pracoviště.
-- Řekněte důvěryhodným sousedům a dejte jim své číslo.
+- Identifikační nebo zdravotní náramek se jménem člověka a vaším telefonním číslem a štítky v oblečení. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) zmiňuje program MedicAlert a Alzheimer's Association Safe and Found, který může být zpoplatněný.
+- Zvonek nebo alarm na dveřích a zámky umístěné vysoko nebo nízko. Nikdy nezamykat člověka samotného uvnitř.
+- Aktuální fotografii obličeje zblízka a seznam míst, kam by mohl jít, například bývalý domov nebo pracoviště.
+- Informujte důvěryhodné sousedy a dejte jim své číslo.
 
-**Pokud se ztratí:** začněte hledat hned. Alzheimer's Association uvádí, že mnoho lidí se najde do 1,5 míle. Pokud ho nenajdete do 15 minut, volejte 112 a řekněte, že člověk má demenci. Pokud je někdo v ohrožení, volejte 112 okamžitě.
+**Pokud se člověk pohřešuje:** prověřte blízká bezpečná místa a zároveň neprodleně kontaktujte místní policii nebo záchranné služby. Nečekejte před nahlášením stanovený počet minut. [Článek U.S. Department of Justice z roku 2021 o vyšetřování pohřešovaných osob](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) uvádí, že policejní složky by neměly vyžadovat stanovenou čekací dobu; také uvádí příznaky podobné demenci jako důvod zvýšeného rizika. Místní postupy při nahlášení se mohou lišit. Sdělte zasahujícím, že člověk žije s demencí, uveďte poslední známé místo a aktuální fotografii a postupujte podle jejich pokynů. Pokud je k dispozici další pomocník, požádejte ho, aby zůstal u telefonu. Neprohledávejte nebezpečná místa sami.
 
-## Kdy mám volat lékaři?
+## Kdy mám zavolat lékaři?
 
-Zavolejte jeho lékaři co nejdříve, pokud žádosti nebo zmatenost začaly náhle, nebo se během hodin či dnů výrazně zhoršily. [Národní institut pro stárnutí](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) uvádí, že náhlé nebo rychle se měnící chování, zejména po infekci nebo změně léků, by mělo být zkontrolováno hned. Náhlá zmatenost může být delirium, které podle [NHS](https://www.nhs.uk/symptoms/confusion/) vyžaduje urgentní pomoc. Infekce močových cest jsou u starších lidí častou příčinou.
+Bezodkladně zavolejte jeho lékaři, pokud se otázky nebo zmatenost objeví náhle, nebo se během hodin či dnů výrazně zhorší. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) uvádí, že náhlé nebo rychle se měnící chování, zejména po infekci nebo změně léků, by mělo být ihned prověřeno. Náhlá zmatenost může být delirium, o kterém [NHS](https://www.nhs.uk/symptoms/confusion/) uvádí, že vyžaduje neodkladnou pomoc; infekce močových cest jsou u starších lidí častou příčinou.
 
-Pomůže také zmínit při další návštěvě ustálený vzorec, protože se na něm mohou podílet bolest, nízká nálada, problémy se spánkem nebo vedlejší účinky léků.
+Pomáhá také zmínit dlouhodobější vzorec při příští návštěvě lékaře, protože roli mohou hrát i bolest, špatná nálada, potíže se spánkem nebo vedlejší účinky léků.

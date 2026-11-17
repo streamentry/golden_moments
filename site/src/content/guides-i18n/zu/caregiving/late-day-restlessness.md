@@ -1,35 +1,35 @@
 ---
-title: "I-Sundowning: Imisebenzi Ethulile Yasentambama Ne-Dementia"
-seoTitle: "I-Sundowning: Imisebenzi Ethulile Yasentambama"
-description: "Izinhlelo ezithambile, izinguquko egumbini nemisebenzi ethulile engase yehlise ukungaphumuli ekupheleni kosuku ne-dementia, nokuthi nishayela nini udokotela."
+title: "I-Sundowning: Imisebenzi Ethulile Ntambama Kubantu Abaphila Nesifo Sokukhohlwa"
+seoTitle: "I-Sundowning: Imisebenzi Ethulile Ntambama"
+description: "Imikhuba emnene, izinguquko egumbini nemisebenzi ethulile engasiza ukwehlisa ukungazinzi ntambama, nokuthi ubonane nodokotela nini ngezimpawu ezintsha."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  I-Sundowning ukungaphumuli, ukudideka noma ukucasuka okuqala noma okwanda
-  ntambama ephuzile noma kusihlwa. Izinyathelo ezisebenzayo ezingase zisize
-  zihlanganisa uhlelo lwansuku zonke olunzinzile, ukukhanya kwemini nomsebenzi
-  ekuseni, ukulala kancane ntambama, ikhafini encane, amalambu akhanyayo
-  ngaphakathi ngaphambi kokuhlwa, ikhaya elithule kakhulu, nemisebenzi
-  ethulile njengomculo, izithombe noma ukugoqa izingubo ezigeziwe. Izimpawu
-  ezintsha noma ezisiba zimbi zidinga ukuhlolwa udokotela.
+  I-sundowning ukungazinzi, ukudideka noma ukucasuka okuqala noma kuba kubi
+  kakhulu ntambama noma kusihlwa. Izinyathelo ezingasiza zihlanganisa uhlelo
+  lwansuku zonke olungaguquguquki, ukukhanya kwelanga nokwenza okuthile
+  ekuseni, ukunciphisa ukulala emini sekuntambama, ukuphuza ikhofi elincane,
+  ukukhanyisa izibani endlini ngaphambi kokuhwalala, ikhaya elithule, kanye
+  nemisebenzi ethulile enjengomculo, izithombe noma ukugoqa izingubo. Izimpawu
+  ezintsha noma eziba zimbi kakhulu zidinga ukuhlolwa udokotela.
 keyPoints:
-  - "I-Sundowning isho ukungaphumuli noma ukudideka okuqala noma okwanda njengoba ukukhanya kwemini kuncipha."
-  - "Bekani imisebenzi edinga umzamo, uhambo nokugeza ekuseni noma ntambama ekuqaleni."
-  - "Ukukhanya kwemini, uhambo lwansuku zonke, ukulala kancane ntambama nekhafini encane ekupheleni kosuku kungase kusize kusihlwa kuhambe kahle."
-  - "Khanyisani amalambu ngaphambi kokuhlwa, nciphisani umsindo, futhi nishintshele emisebenzini ethulile, ejwayelekile."
-  - "Gcinani irekhodi ukuze nibone izinto ezibangela, futhi nihlale nizolile nimqinisekisa uma ukungaphumuli kuqala."
-  - "Thintanani nodokotela ngezimpawu ezintsha noma ezisiba zimbi: ubuhlungu, ukusulelwa noma imithi kungaba nengxenye."
+  - "I-sundowning kusho ukungazinzi noma ukudideka okuqala noma kuba kubi kakhulu lapho kuhwalala."
+  - "Yenza imisebenzi enzima, ukuvakasha nokugeza ekuseni noma ekuqaleni kwantambama."
+  - "Ukukhanya kwelanga, ukuhamba nsuku zonke, ukulala kancane emini sekuntambama nokunciphisa ikhofi ntambama kungasiza ukuba kusihlwa kube lula."
+  - "Khanyisa izibani ngaphambi kokuhwalala, wehlise umsindo, bese ushintshela emisebenzini ethulile nejwayelekile."
+  - "Gcina umbhalo omfushane ukuze ubone okungadala lokhu, futhi uhlale uzolile uqinisekisa umuntu lapho ukungazinzi kuqala."
+  - "Bonana nodokotela ngezimpawu ezintsha noma eziba zimbi kakhulu: ubuhlungu, ukutheleleka noma imithi kungaba nomthelela."
 faq:
   - q: "I-sundowning ivame ukwenzeka ngasiphi isikhathi sosuku?"
-    a: "Ivame ukuqala noma ukwanda ntambama ephuzile noma ekuqaleni kokuhlwa, njengoba ukukhanya kwemini kuncipha. Isikhathi esiqondile siyahluka kumuntu nomuntu, yingakho ukugcina irekhodi elifushane isonto noma amabili kungasiza."
-  - q: "Yimiphi imisebenzi esiza i-sundowning?"
-    a: "Imisebenzi ethulile, ejwayelekile, edinga umzamo omncane ivame ukusebenza kangcono ntambama ephuzile: umculo othulisayo, ukubuka izithombe, uhlelo noma ifilimu ethandekayo, ukugoqa izingubo ezigeziwe, uhambo olufushane, noma ukudla okuncane ndawonye. Beka imisebenzi emisha noma enzima ekuseni."
-  - q: "Ingabe i-sundowning ingaba uphawu lwento yezokwelapha?"
-    a: "Ingenziwa mbi yizinkinga zezempilo ezifana nobuhlungu, ukusulelwa okufana nokusulelwa endleleni yomchamo, izinkinga zokulala noma imiphumela emibi yemithi. Uma ukungaphumuli kusha, kuzumayo noma kuya ngokuba kubi, thintanani nodokotela womuntu."
-  - q: "Ingabe kufanele ngibuze udokotela ngomuthi we-sundowning?"
-    a: "Lokho kuyingxoxo okufanele ibe nodokotela. I-Alzheimer's Association ithi izindlela ezingabandakanyi imithi ngokuvamile zikhethwa kuqala, nokuthi noma yimuphi umuthi wokukhathazeka kwasebusuku kufanele kucatshangelwe kuphela ngemva kokulinganisa ubungozi nenzuzo. Leli khasi alinikezi iseluleko ngemithi."
+    a: "Ivame ukuqala noma ukuba yimbi kakhulu ntambama noma kusihlwa, lapho ukukhanya kwemini kuncipha. Isikhathi sangempela siyahluka kumuntu ngamunye, yingakho ukugcina umbhalo omfushane isonto noma amabili kungasiza."
+  - q: "Yimiphi imisebenzi engasiza nge-sundowning?"
+    a: "Imisebenzi ethulile, ejwayelekile nengadingi umzamo omkhulu ivame ukusebenza kahle ntambama: umculo opholile, ukubuka izithombe, uhlelo lwe-TV noma ifilimu ethandwayo, ukugoqa izingubo, ukuhamba kancane, noma ukudla okuncane ndawonye. Gcina imisebenzi emisha noma enzima ukuze yenziwe ekuseni."
+  - q: "Ingabe i-sundowning ingaba uphawu lwenkinga yezempilo?"
+    a: "Ingabhebhethekiswa yizinkinga zempilo ezinjengobuhlungu, ukutheleleka okufana nokutheleleka komgudu womchamo, izinkinga zokulala noma imiphumela emibi yemithi. Uma ukungazinzi kumusha, kuqale kungazelelwe noma kuba kubi kakhulu, xhumana nodokotela womuntu omnakekelayo."
+  - q: "Ingabe kufanele ngibuze udokotela ngemithi ye-sundowning?"
+    a: "Lokho kuyinkulumo okufanele nibe nayo nodokotela. I-Alzheimer's Association ithi izindlela ezingasebenzisi imithi zivame ukukhethwa kuqala, nokuthi noma yimuphi umuthi wokungazinzi kusihlwa kufanele ucabangelwe kuphela ngemva kokulinganisa ubungozi nezinzuzo. Leli khasi alinikezi iseluleko semithi."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Imindeni eminingi ibona iphethini efanayo: ekuseni kuthule kahle, kodwa njengoba intambama iqhubeka, umuntu ophila ne-dementia uyaphumula kancane, ukhathazeka, uyadideka noma uyacasuka. Angase ahambehambe, acele “ukuya ekhaya” noma esekhaya, noma akhathazeke kalula. Lokhu kuvame ukubizwa ngokuthi i-sundowning.
+Imindeni eminingi iyasibona lesi simo esifanayo: ekuseni kuba nokuthula, kodwa njengoba usuku luqhubeka ntambama, umuntu ophila nesifo sokukhohlwa uba nokungazinzi, ukukhathazeka, ukudideka noma ukucasuka. Angase ahambe ehla enyuka, acele “ukugoduka” ngisho noma esekhaya, noma acasuke kalula. Lokhu kuvame ukubizwa ngokuthi i-sundowning.
 
-Akukho okukodwa okuyilungisayo, kodwa izinguquko ekuhambeni kosuku, egumbini nasohlotsheni lwemisebenzi enikunikezayo zingase zenze intambama ithule kakhulu. Leli khasi liqoqa imibono esebenzayo, engeyona eyezokwelapha, evela ku-National Institute on Aging nase-Alzheimer's Association. Akuyona iseluleko sezokwelapha. Uma izimpawu zintsha, ziyazuma noma ziya ngokuba zimbi, khulumani nodokotela womuntu.
+Ayikho indlela eyodwa exazulula konke, kodwa izinguquko ohlelweni losuku, egumbini nasezinhlotsheni zemisebenzi oyinikezayo kungasiza ukuthi ntambama kube nokuthula okwengeziwe. Leli khasi liqoqa imibono engokoqobo, engeyona eyokwelapha evela ku-National Institute on Aging naku-Alzheimer's Association. Akusona iseluleko sezokwelapha. Uma izimpawu zimusha, ziqale kungazelelwe noma ziba zimbi kakhulu, khuluma nodokotela womuntu omnakekelayo.
 
 ## Iyini i-sundowning?
 
-I-Sundowning ukungaphumuli, ukukhathazeka, ukucasuka noma ukudideka okuqala noma okwanda njengoba ukukhanya kwemini kuncipha, ntambama ephuzile noma ekuqaleni kokuhlwa. I-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ithi ukudinwa ngokweqile kungakhulisa ukungaphumuli ekupheleni kosuku.
+I-sundowning ukungazinzi, ukucasuka noma ukudideka okuqala noma kuba kubi kakhulu lapho ukukhanya kwemini kuncipha, ntambama noma kusihlwa. I-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) iphawula ukuthi ukukhathala kakhulu kungandisa ukungazinzi sekuntambama.
 
-## Yini engenza ukungaphumuli ekupheleni kosuku kube kubi kakhulu?
+## Yini engenza ukungazinzi ntambama kube kubi nakakhulu?
 
-Izinto eziningana zingabangela, ngokuvamile ndawonye. I-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ibala izici ezifana nalezi:
+Izinto eziningana zingaba nomthelela, ngokuvamile kanyekanye. I-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ibala izici ezinjengalezi:
 
 - ukukhathala ngemva kosuku olugcwele;
 - indawo entsha noma edidayo;
-- “iwashi lomzimba langaphakathi” elingahambelani, elishiya umuntu enobuthongo emini futhi evukile ebusuku;
-- ukukhanya okuphansi nethunzi, okungadida;
-- ukuzwa ukukhathazeka noma ukucasuka kwabantu abamzungezile;
-- ukudinga ukulala okuncane, okujwayelekile kubantu abadala.
+- “iwashi langaphakathi lomzimba” elingahambi kahle, okwenza umuntu alale emini kodwa aphapheme ebusuku;
+- ukukhanya okuncane nezithunzi, okungadida;
+- ukuzwa ingcindezi noma ukukhungatheka kwabantu abaseduze;
+- ukudingeka ukulala okuncane, okuvamile kubantu asebekhulile.
 
-I-NIA yengeza izimbangela zokukhathazeka ngokujwayelekile, kuhlanganise nobuhlungu, ukudangala noma ukukhathazeka, ukuphumula okuncane, ukuqumba, umsindo omkhulu noma abantu abaningi kakhulu, nemithi ethile noma ukuhlangana kwemithi.
+I-NIA yengeza ngezimbangela zokucasuka ngokujwayelekile, ezihlanganisa ubuhlungu, ukucindezeleka noma ingcindezi, ukuphumula okuncane, ukuqunjelwa, umsindo omningi noma abantu abaningi, kanye nemithi ethile noma ukusebenzisana kwemithi.
 
-## Ngihlela kanjani usuku ukuze kusihlwa kuthule kakhulu?
+## Ngingaluhlela kanjani usuku ukuze kusihlwa kube nokuthula okwengeziwe?
 
-Hambisani izinto ezinzima kusenesikhathi bese nigcina intambama ithambile futhi ibikezelekile. Zombili i-NIA ne-Alzheimer's Association zincoma uhlelo oluvamile. Usuku oluyisibonelo, ongaluvumelanisa nolwakho:
+Hambisa izinto ezinzima ekuseni futhi wenze isikhathi santambama sibe mnene futhi singaguquguquki. Kokubili i-NIA ne-Alzheimer's Association batusa uhlelo lwansuku zonke olujwayelekile. Nasi isibonelo sosuku, ongalushintsha ukuze luhambisane nani:
 
-| Isikhathi | Okungase kusize |
+| Isikhathi | Okungasiza |
 | --- | --- |
-| Ekuseni | Ukuhlangana nodokotela, ukugeza, uhambo nanoma yimuphi umsebenzi odinga umzamo, lapho abantu abaningi bephaphame kakhulu |
-| Phakathi nekuseni | Isikhathi ngaphandle noma eceleni kwefasitela elinelanga; ukuhamba noma omunye umsebenzi |
-| Emini | Isidlo sasemini esikhulu (i-Alzheimer's Association iphakamisa isidlo sasemini esikhulu nesidlo sakusihlwa esilula) |
-| Ntambama ekuqaleni | Ukuphumula uma kudingeka, kodwa gwemani ukulala isikhathi eside ntambama |
-| Ntambama phakathi nokuphela | Imisebenzi ethulile, ejwayelekile; ukudla okuncane nokuphuza; akukho khafini |
-| Ngaphambi kokuhlwa | Khanyisani amalambu angaphakathi bese nivala amakhethini ngaphambi kokuba kube mnyama |
-| Kusihlwa | Isidlo esilula, umculo othulile, ukuvusa okuncane, uhlelo olunzinzile lokulala |
+| Ekuseni | Ukuya kudokotela, ukugeza, ukuvakasha nanoma yimuphi umsebenzi odinga umzamo, lapho abantu abaningi bevame ukuphaphama kakhulu |
+| Ngasekupheleni kwekuseni | Isikhathi ngaphandle noma eduze kwefasitela elinelanga; ukuhamba noma omunye umsebenzi |
+| Emini | Isidlo sasemini esikhulu kancane (i-Alzheimer's Association iphakamisa isidlo sasemini esikhulu kancane nesidlo sakusihlwa esilula) |
+| Ekuqaleni kwantambama | Ukuphumula uma kudingeka, kodwa gwema ukulala isikhathi eside emini sekuntambama |
+| Maphakathi nantambama kuya ntambama | Imisebenzi ethulile nejwayelekile; ukudla okuncane nokuphuzwayo; akukho okune-caffeine |
+| Ngaphambi kokuhwalala | Khanyisa izibani endlini futhi uvale amakhethini ngaphambi kokuba kube mnyama |
+| Kusihlwa | Isidlo sakusihlwa esilula, umculo othulile, izinto ezimbalwa ezikhuthazayo, uhlelo lokulala olungaguquguquki |
 
-Amaphuzu ambalwa athile avela emithonjeni:
+Amaphuzu ambalwa aqondile avela emithonjeni:
 
-- **Ukukhanya kwemini.** I-NIA iphakamisa ukuhlela isikhathi ngaphandle noma eceleni kwefasitela ukuze kutholakale ilanga nsuku zonke.
-- **Ukunyakaza nsuku zonke, kodwa hhayi kakhulu.** Yenzani umzamo wokuba nomsebenzi womzimba nsuku zonke ngaphandle kokuhlela imisebenzi eminingi kakhulu, kusho i-NIA.
-- **Okuphuzwayo ekupheleni kosuku.** Gwemani utshwala nokuphuza okune-khafini, njengekhofi noma i-cola, ekupheleni kosuku (i-NIA). I-Alzheimer's Association iphinde ikhulume nge-nicotine.
-- **Ukulala emini.** Ncengani umuntu ukuba angalali isikhathi eside noma angozeli ekupheleni kosuku (i-NIA). I-Alzheimer's Association iphakamisa ukunciphisa ukulala emini uma ukulala ebusuku kuyinkinga.
+- **Ukukhanya kwelanga.** I-NIA iphakamisa ukuhlela isikhathi ngaphandle noma eduze kwefasitela ukuze uthole ukukhanya kwelanga nsuku zonke.
+- **Ukuhamba nsuku zonke, kodwa hhayi kakhulu.** Zama ukwenza okuthile okunyakazisa umzimba nsuku zonke ngaphandle kokuhlela imisebenzi eminingi, kusho i-NIA.
+- **Okuphuzwayo ntambama.** Gwema utshwala neziphuzo ezine-caffeine, njengekhofi noma i-cola, ntambama (NIA). I-Alzheimer's Association iphinde ikhulume nge-nicotine.
+- **Ukulala emini.** Gwema ukulala isikhathi eside nokozela emini sekuntambama (NIA). I-Alzheimer's Association iphakamisa ukunciphisa ukulala emini uma ukulala ebusuku kuyinkinga.
 
-Ukuze nithole okwengeziwe ngokwakha usuku olunzinzile, bheka [imisebenzi yohlelo lwansuku zonke](/activities/daily-routine/).
+Ukuze uthole okwengeziwe ngokwakha usuku oluzinzile, bheka [imisebenzi yohlelo lwansuku zonke](/activities/daily-routine/).
 
-## Ngiyenza kanjani ikhaya libe thule ntambama ephuzile?
+## Ngingalenza kanjani ikhaya lithule kakhudlwana ntambama?
 
-Nciphisani umsindo, nengeze ukukhanya futhi nigcine izinto ezijwayelekile seduze.
+Nciphisa umsindo, engeza ukukhanya futhi ugcine izinto ezijwayelekile ziseduze.
 
-- **Ukukhanya okukhanyayo, okulinganayo.** I-Alzheimer's Association incoma ukugcina ikhaya likhanyiswe kahle kusihlwa. Khanyisani indawo ngaphambi kokuba kuvele amathunzi.
-- **Umsindo omncane.** Vala noma wehlise i-TV nomsakazo, futhi nincipha izivakashi noma imisebenzi yasendlini ematasa ngalesi sikhathi. I-Alzheimer's Association iphakamisa ukunciphisa ukuvusa kusihlwa okufana ne-TV, imisebenzi yasendlini nomculo ophezulu.
-- **Izinto ezijwayelekile zenduduzo.** I-NIA iphakamisa umculo othulisayo nokugcina izinto nezithombe ezithandwayo zihlezi ezungeze ikhaya.
-- **Ukuhlola induduzo.** I-Alzheimer's Association incoma ukuhlola ubuhlungu, indlala, ukoma, ukuqumba, isinye esigcwele, ukudinwa, ukusulelwa nokucasuka kwesikhumba, nokugcina igumbi lisezingeni lokushisa elinethezekile.
-- **Isimo senu sengqondo.** Abantu bayakuzwa ukukhathazeka. I-NIA iphakamisa ukwehlisa isivinini nokuzama ukuphumula uma izinkathazo zenu zingase zingeze ingcindezi.
+- **Ukukhanya okukhanyayo nokulinganayo.** I-Alzheimer's Association itusa ukuthi ikhaya ligcinwe likhanya kahle kusihlwa. Khanyisa indawo ngaphambi kokuba kuvele izithunzi.
+- **Umsindo omncane.** Cisha noma wehlise i-TV nomsakazo, futhi unciphise izivakashi noma imisebenzi eminingi yasendlini ngalesi sikhathi. I-Alzheimer's Association iphakamisa ukunciphisa izinto ezikhuthazayo kusihlwa ezifana ne-TV, imisebenzi yasendlini nomculo ophakeme.
+- **Izinto ezijwayelekile eziduduzayo.** I-NIA iphakamisa umculo opholile nokugcina izinto nezithombe ezithandwayo zisekhaya.
+- **Ukuhlola induduzo.** I-Alzheimer's Association itusa ukuhlola ubuhlungu, indlala, ukoma, ukuqunjelwa, isinye esigcwele, ukukhathala, ukutheleleka nokucasuka kwesikhumba, nokugcina igumbi lisezingeni lokushisa elinethezekile.
+- **Imizwa yakho.** Abantu bayakuzwa ukucindezeleka. I-NIA iphakamisa ukuthi wehlise ijubane uzame ukuziphumuza uma ukukhathazeka kwakho kungase kwengeze ukungezwani.
 
-## Yimiphi imisebenzi ethulile esingayenza ntambama ephuzile?
+## Yimiphi imisebenzi ethulile esingayenza ntambama?
 
-Khethani imisebenzi ejwayelekile, engashiyi ngokushesha futhi elula ukumisa. I-Alzheimer's Association iphakamisa imisebenzi ethulisayo efana nomculo othulile, izithombe noma ifilimu ethandekayo, nokuhamba ndawonye ukunciphisa ukungaphumuli. I-NIA iphakamisa ukudla okuncane noma into yokuphuza, uhlelo lwe-TV oluthandekayo, umculo, uhambo, ukufunda, noma umsebenzi olula wasendlini njengokugoqa izingubo ezigeziwe.
+Khetha imisebenzi ejwayelekile, engenziwa ngokuthula futhi okulula ukuyiyeka. I-Alzheimer's Association iphakamisa imisebenzi eduduzayo njengomculo othulile, izithombe noma ifilimu ethandwayo, nokuhamba ndawonye ukuze kwehliswe ukungazinzi. I-NIA iphakamisa ukudla okuncane noma okuphuzwayo, uhlelo lwe-TV oluthandwayo, umculo, ukuhamba, ukufunda, noma umsebenzi olula wasendlini njengokugoqa izingubo.
 
 Imibono ongayizama:
 
-1. **Goqani izingubo ezigeziwe ndawonye.** I-NIA iphakamisa lolu hlobo lomsebenzi olula wasendlini. Amathawula alula ukuphatha, futhi umsebenzi unesiphetho esicacile.
-2. **Dlalani umculo athanda kakhulu.** Izingoma ezijwayelekile zeminyaka yakhe yobusha, ngevolumu ephansi. Ukuhlokoma nakho kuyabalwa. Imibono eminye ikhasini [lemisebenzi yomculo](/activities/music/).
-3. **Bukani izithombe.** I-albhamu yezithombe, noma izithombe ezimbalwa zomndeni emdlalweni othi [Amapheya ezithombe zomndeni](/games/photo-pairs/), zishiywe zibonakala, zingaholela engxoxweni ethulile.
-4. **Hambani uhambo olufushane.** Ezungeze insimu, ibhlokhi noma ngaphakathi endlini, ngaphambi kokuba kube mnyama.
-5. **Wabelaneni ngokudla okuncane nokuphuza.** Into elula, efudumele, engenakhafini, etafuleni ndawonye.
-6. **Ukufanisa okuthambile.** [Amapheya ezithombe](/games/picture-pairs/) ngamakhadi amane nezithombe zibonakala kulula ukuqala futhi kulula ukumisa.
-7. **Ukufaka imibala.** [Amakhasi okufaka imibala](/games/coloring/) esikrinini noma ekhasini eliphrintiwe, ngaphandle kwenhloso yokuqeda.
-8. **Ukubuka nokukhuluma.** [Amakhadi engxoxo](/games/conversation-cards/) anikeza isithombe nesikhuthazo esivulekile. Ukubuka nje kwanele.
-9. **Ukuma kokuphefumula.** [Ukuphefumula okuthulile](/games/calm-breathing/) kuyisikhathi sokuma esihamba kancane, esithule enisiqalayo futhi nisimisa nina ngokwenu.
-10. **Imisebenzi yezandla.** Ukuhlunga izinkinobho noma amasokisi, ukubushelelezisa ingubo ethambile, noma ukubamba into ejwayelekile. Bheka [imisebenzi yemizwa](/activities/sensory/).
+1. **Goqani izingubo ndawonye.** I-NIA iphakamisa lolu hlobo lomsebenzi olula wasendlini. Amathawula alula ukuwabamba, futhi umsebenzi unesiphetho esicacile.
+2. **Dlalani umculo othandwayo.** Izingoma ezijwayelekile zasebusheni babo, ngevolumu ephansi. Ukuhuba kanye nabo kwanele. Thola eminye imibono ku-[imisebenzi yomculo](/activities/music/).
+3. **Bukani izithombe.** I-albhamu yezithombe, noma izithombe ezimbalwa zomndeni ku-[Photo Pairs](/games/photo-pairs/) nezithombe zibonakala, kungaholela engxoxweni ethulile.
+4. **Hambani kancane.** Engadini, eduze kwekhaya noma ephasishi, ngaphambi kokuba kube mnyama.
+5. **Yidlani okuncane niphuze ndawonye.** Okulula, okufudumele nokungenayo i-caffeine, etafuleni ndawonye.
+6. **Ukuqondanisa okumnene.** [Picture Pairs](/games/picture-pairs/) ngamathayela amane nezithombe ezibonakalayo kulula ukuqalisa futhi kulula ukuyeka.
+7. **Ukufaka imibala.** [Coloring](/games/coloring/) esikrinini noma ephepheni eliphrintiwe, ngaphandle kwenhloso yokuqeda.
+8. **Ukubuka nokuxoxa.** [Conversation Cards](/games/conversation-cards/) zinikeza isithombe nombuzo ovulekile. Ukubuka nje kwanele.
+9. **Ukuphumula ngokuphefumula.** [Calm Breathing](/games/calm-breathing/) kuyikhefu elihamba kancane nelithulile oziliqalela futhi uzimisele wena.
+10. **Imisebenzi yezandla.** Ukuhlunga izinkinobho noma amasokisi, ukushelela ingubo ethambile, noma ukubamba into ejwayelekile. Bheka [imisebenzi yezinzwa](/activities/sensory/).
 
-Gwemani imidlalo emisha, uhambo olumatasa nanoma yini ecela inkumbulo noma ukugxila okuningi ekupheleni kosuku. Zibekeni ekuseni.
+Gwema imidlalo emisha, ukuvakasha okumatasa nanoma yini edinga inkumbulo noma ukugxila okukhulu ntambama. Gcina lokho ekuseni.
 
-## Ngenzenjani uma ukungaphumuli kuqala?
+## Kufanele ngenzeni lapho ukungazinzi kuqala?
 
-Hlalani nizolile, nimqinisekise, futhi nimholele kwenye into ngobumnene. I-NIA iphakamisa ukukhuluma ngokuthula, ukulalela izinkathazo zomuntu, ukugwema izimpikiswano, ukumqinisekisa ukuthi ulondekile, nokusebenzisa ukuthinta okuthambile uma kusiza. Bese nizama ukuphambukisa: ukudla okuncane, into yokuphuza, umculo noma uhambo.
+Hlala uzolile, uqinisekise, bese uqondisa ngobumnene kwenye into. I-NIA iphakamisa ukukhuluma ngokuzotha, ukulalela ukukhathazeka komuntu, ukugwema ukuphikisana, ukumqinisekisa ukuthi uphephile, nokusebenzisa ukuthinta okumnene uma kusiza. Bese uzama ukuphazamisa ngobumnene: ukudla okuncane, okuphuzwayo, umculo noma ukuhamba.
 
-I-Alzheimer's Association iphakamisa amazwi afana nokuthi “Nilondekile lapha” no-“Ngiyaxolisa ukuthi nikhathazekile”, futhi iluleka ukwengeza ukukhanya, ukwehlisa isivinini nokunciphisa ukuvusa. Ningamcindezeli ekhoneni, ningamsondeli kakhulu noma nimphoqe, futhi ningaphikisani naye.
+I-Alzheimer's Association iphakamisa imisho enjengokuthi “Uphephile lapha” nokuthi “Ngiyaxolisa ukuthi ukhathazekile,” futhi yeluleka ukwengeza ukukhanya, wehlise ijubane futhi unciphise izinto ezikhuthazayo. Ungamvaleli ekhoneni, ungamminyanisa noma umbambe ngenkani, futhi ungaphikisani naye.
 
-Uma umuntu eba nobudlova, i-NIA iluleka ukuhlala ebangeni eliphephile kuze kume lokho kuziphatha. Esimeni esiphuthumayo, shayelani inombolo yezimo eziphuthumayo yendawo yakini futhi nichaze ukuthi umuntu une-dementia.
+Uma umuntu eba nolaka, i-NIA yeluleka ukuthi uhlale kude ngokuphephile kuze kube yilapho ukuziphatha sekuphelile. Esimweni esiphuthumayo, shayela u-911 uchaze ukuthi umuntu unesifo sokukhohlwa. Umhlahlandlela wethu [wokusabela entukuthelweni nasolakeni](/caregiving/when-anger-becomes-aggression-with-dementia/) ukhuluma ngokuphepha ngokushesha nokuthi yini okufanele yenziwe ngemva kwalokho.
 
-Imihlahlandlela yethu ethi [Izeluleko zokuxhumana](/caregiving/communication-tips/) neyethi [Okufanele nikwenze uma esho ukuthi cha](/caregiving/when-they-say-no/) inamazwi amaningi athulisayo.
+Imihlahlandlela yethu mayelana [nokuxhumana](/caregiving/communication-tips/) kanye [nokuthi wenzeni uma ethi cha](/caregiving/when-they-say-no/) ineminye imibono ngamazwi aduduzayo.
 
-## Ngithola kanjani izinto ezibangela?
+## Ngizithola kanjani izinto ezibangela lokhu?
 
-Gcinani irekhodi elifushane isonto noma amabili. I-Alzheimer's Association incoma ukulandelela lokho okwenzeka ngaphambi kwezigameko ze-sundowning ukuze kutholakale izinto ezibangela. Qaphelani isikhathi ukungaphumuli okuqale ngaso, okwenzeke ehoreni langaphambilini, ukulala, ukudla nokuphuza, izivakashi, umsindo nokukhanya. Lethani irekhodi kudokotela. I-NIA ithi ukulandelela izinguquko ekuziphatheni kungasiza abanakekeli nabahlinzeki bezempilo ukubona iphethini.
+Gcina umbhalo omfushane isonto noma amabili. I-Alzheimer's Association itusa ukulandelela okwenzeka ngaphambi kwezigameko ze-sundowning ukuze kutholakale izinto ezibangela lokhu. Bhala phansi isikhathi ukungazinzi okuqale ngaso, okwenzekile ehoreni elingaphambi kwalokho, ukulala emini, ukudla nokuphuzwayo, izivakashi, umsindo nokukhanya. Phatha lo mbhalo kudokotela. I-NIA iphawula ukuthi ukulandelela izinguquko ekuziphatheni kungasiza abanakekeli nabasebenzi bezempilo babone iphethini.
 
-## Ngishayela nini udokotela mayelana ne-sundowning?
+## Kufanele ngishayele udokotela nini nge-sundowning?
 
-Thintanani nodokotela womuntu uma ukungaphumuli kusha, kwanda ngokuzumayo, noma kuza nezinye izinguquko. I-NIA ithi izinguquko ezizumayo noma ezishintshashintshayo ngokushesha ekuziphatheni, ikakhulukazi ngemva kokusulelwa noma izinguquko zakamuva zemithi, kufanele zibikwe kudokotela ngokushesha.
+Xhumana nodokotela womuntu omnakekelayo uma ukungazinzi kumusha, kuba kubi ngokuzumayo, noma kuhambisana nezinye izinguquko. I-NIA ithi izinguquko zokuziphatha eziqala ngokuzumayo noma ezishintsha ngokushesha, ikakhulukazi ngemva kokutheleleka noma izinguquko zakamuva emithini, kufanele zibikelwe udokotela ngokushesha.
 
-Celani udokotela ahlole izinto ezingenza kusihlwa kube nzima. I-Alzheimer's Association ikhuluma ngezinkinga zomzimba ezifana nokusulelwa endleleni yomchamo, ukuvuza komchamo (incontinence), imilenze engaphumuli (restless legs) ne-sleep apnea, futhi iphakamisa ukubuza ukuthi yiziphi izikhathi zosuku ezingcono emithini ngayinye. I-NIA ibala ubuhlungu, ukuqumba nemiphumela emibi yemithi noma ukuhlangana kwemithi phakathi kwezimbangela ezingaba khona zokukhathazeka.
+Cela udokotela ahlole izinto ezingenza kusihlwa kube nzima. I-Alzheimer's Association ikhuluma ngezinkinga zomzimba ezifana nokutheleleka komgudu womchamo, ukungakwazi ukuzibamba, imilenze engahlali ndawonye kanye ne-sleep apnea, futhi iphakamisa ukubuza ukuthi yiziphi izikhathi zosuku ezingcono kakhulu kumuthi ngamunye. I-NIA ibala ubuhlungu, ukuqunjelwa kanye nemiphumela emibi noma ukusebenzisana kwemithi phakathi kwezimbangela ezingaba khona zokucasuka.
 
-I-Alzheimer's Association ithi izindlela ezingabandakanyi imithi ngokuvamile zikhethwa kuqala ezinkingeni zokulala ezihlobene ne-Alzheimer's, nokuthi umuthi wokukhathazeka ekupheleni kosuku kufanele ucatshangelwe kuphela uma lezo zehluleka, ngemva kokulinganisa ubungozi nenzuzo. Lowo nqumo ungokukadokotela. Ningaqali, ningayeki noma ningashintshi noma yimuphi umuthi, usizo lokulala noma isithasiselo ngaphandle kweseluleko sezokwelapha.
+I-Alzheimer's Association ithi izindlela ezingasebenzisi imithi zivame ukukhethwa kuqala ezinkingeni zokulala ezihlobene ne-Alzheimer's, nokuthi imithi yokungazinzi ntambama kufanele icatshangelwe kuphela uma lezo zindlela zingasebenzi, ngemva kokulinganisa ubungozi nezinzuzo. Leso sinqumo ngesikadokotela. Ungaqali, ungayeki noma ungashintshi noma yimuphi umuthi, isiza sokulala noma isithasiselo ngaphandle kweseluleko sezokwelapha.
 
-## Ngikudlula kanjani kusihlwa mina?
+## Ngingadlula kanjani kusihlwa mina ngokwami?
 
-Ntambama ephuzile kungaba yingxenye enzima kakhulu yosuku lomnakekeli. Uma ningakwazi, celani ilungu lomndeni, umngane noma umsizi ohlawulelwayo ukuthi athathe ntambama ephuzile izinsuku ezimbalwa ngesonto, ngisho nehora elilodwa. [Umhlahlandlela wethu wokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) ubala izinketho zokuphumulisa abanakekeli (respite) kanye nomugqa wosizo we-dementia ezweni lakini, uma ukhona.
+Isikhathi santambama singaba yingxenye enzima kakhulu yosuku lomonakekeli. Uma kungenzeka, cela ilungu lomndeni, umngane noma umsizi okhokhelwayo ukuthi asize ntambama izinsuku ezimbalwa ngesonto, ngisho nehora elilodwa. Umhlahlandlela wethu [wokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) ubala izindlela zokuthola ukuphumula kanye nolayini wosizo lwamahora angamashumi amabili nane nsuku zonke, lwamahhala we-Alzheimer's Association.

@@ -1,34 +1,34 @@
 ---
-title: "Waxqabadyada Dareenka, Dadka ku nool Dementia"
-seoTitle: "Waxqabadyada Dareenka ee Dementia: Fikrado iyo Badbaado"
-description: "Waxqabadyo dareen oo loogu talagalay dadka ku nool dementia, laga bilaabo masaajka gacmaha ilaa dambiisha maro iyo codadka dabeecadda, oo leh talooyin badbaado."
+title: "Hawlaha dareenka ee dadka la nool xusuus-la’aanta"
+seoTitle: "Hawlaha dareenka: fikrado iyo badbaado"
+description: "Hawlaha dareenka ee dadka la nool xusuus-la’aanta, laga bilaabo duugista gacanta ilaa dambiilasha dharka iyo dhawaaqa dabiiciga, oo leh talooyin badbaado."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Waxqabadyada dareenku waxay isticmaalaan taabasho, ur, dhadhan, dhawaaq iyo
-  aragti: masaaj gacmeed oo tartiib ah, dambiil maro jilicsan, geedo udgoon oo
-  la urto, codadka dabeecadda, ama shimbiraha oo daaqad laga daawado. Waxay ku
-  habboon yihiin marxalad kasta, gaar ahaan marxaladaha dambe. Marka hore hubi
-  khatarta cunaha ku xayirmidda, xasaasiyadda, dhibaatooyinka maqaarka iyo
-  ur-nuglaanta, hal shay mar kasta sii, oo jooji haddii qofku u muuqdo mid
-  aan raaxo lahayn.
+  Hawlaha dareenka waxay isticmaalaan taabashada, urta, dhadhanka, dhawaaqa iyo
+  aragga: duugis tartiib ah oo gacanta ah, dambiil ay ku jiraan dhar jilicsan,
+  dhir udgoon oo cusub oo la urinayo, dhawaaqyo dabiici ah, ama daawashada
+  shimbiraha daaqadda. Waxay ku habboon yihiin marxalad kasta, gaar ahaan
+  marxaladaha dambe. Marka hore hubi halista margashada, xasaasiyadda,
+  dhibaatooyinka maqaarka iyo dareenka urta, hal shay mar keliya sii, oo jooji
+  haddii qofka aad daryeesho u muuqdo mid aan raaxo qabin.
 keyPoints:
-  - "Waxqabadyada dareenku jawaab sax ah ma u baahna, taasna waxay ka dhigaysaa inay ka shaqeeyaan marxalad kasta, xataa sariirta ama kursiga."
-  - "Hal dareen mar kasta bixi, qol aamusan ku jira, oo weydii ama ku dhawaaq ka hor intaadan taabanin."
-  - "Ka fogow waxyaabaha yaryar iyo wax kasta oo u eg ama u ur leh cunto laakiin aan cunto ahayn, maadaama dadku wax afka gelin karaan."
-  - "Hubi xasaasiyadda, dhibaatooyinka maqaarka iyo kuwa neefsashada ka hor intaadan isticmaalin kareemada, ur ama cunto."
-  - "Caddayn xooggan ma jirto in aromatherapy ay caawiso calaamadaha dementia; isticmaal ur oo keliya raaxo fudud, haddii aad isticmaasho."
+  - "Hawlaha dareenka uma baahna jawaabo sax ah, taas oo ka dhigaysa inay ku habboon yihiin marxalad kasta, xitaa marka qofku sariirta ama kursiga ku jiro."
+  - "Hal dareen mar keliya ku bixi qol deggan, oo weydii ama ogeysii ka hor intaadan taaban."
+  - "Ka fogow walxaha yaryar iyo wax kasta oo u eg ama u uraya cunto laakiin aan ahayn, maadaama dadku ay afka gelin karaan."
+  - "Hubi xasaasiyadda, dhibaatooyinka maqaarka iyo dhibaatooyinka neefsashada ka hor intaadan isticmaalin kareemyo, ur ama cunto."
+  - "Ma jiraan caddayn sugan oo muujinaysa in daawaynta udgoonka ay ka caawiso calaamadaha xusuus-la’aanta; urta u isticmaal oo keliya raaxo fudud, haddii ay habboon tahay."
 faq:
-  - q: "Waa maxay waxqabadyada dareenka ee wanaagsan ee qof qaba dementia?"
-    a: "Fikrado fudud waxaa ka mid ah masaaj gacmeed oo tartiib ah oo kareem lagu marinayo, taabashada maro jilicsan, urista geedo udgoon ama qaxwo, dhegaysiga muusik la jecel yahay ama codadka dabeecadda, daawashada shimbiraha ama kalluunka weel ku jira, iyo dhadhaminta cunto la jecel yahay oo qaab badbaado leh. Hal shay mar kasta sii oo fiiri sida qofku uga jawaabayo."
-  - q: "Ma badbaado baa waxqabadyada dareenka qof wax afka gelinaya?"
-    a: "Waa noqon karaan, iyadoo la taxadarayo. Isticmaal oo keliya shay waaweyn oo aan la liqi karin, ka fogow wax yaryar ama jabi kara, oo kareemada, saabuunta iyo alaabta ur leh meel gaarkiisa ka baxsan ku hay ka dib, maadaama ay u eg yihiin ama u ur yihiin cunto. Qofka la joog wakhtiga oo dhan."
-  - q: "Ma caawisaa aromatherapy dementia?"
-    a: "Dib-u-eegis Cochrane ayaa helay in aan jirin caddayn xooggan oo aromatherapy ay caawiso dadka qaba dementia, in kasta oo daraasaaduhu yar yihiin oo aanay isku waafaqsanayn. Haddii qofku ku raaxaysto ur jilicsan oo la yaqaan, taasi waa fiican tahay, laakiin ka fogow saliidaha udgoonka ee xooggan (essential oils), gaar ahaan marka dhibaato neefsasho ama xasaasiyad jirto."
-  - q: "Waa maxay dharka-hore ama go’a waxqabadka gacmaha?"
-    a: "Waa maro, dharka-hore (apron) ama go’ lugaha la saaro oo ay ku tolan yihiin waxyaabo la qabto si adag, sida badhamo waaweyn, siib, ribbon iyo balaastar qallafsan. Waxay gacmaha mashquulka ah siinayaan wax ay sahamiyaan. Si joogto ah u hubi wax furan oo la jiidi karo."
+  - q: "Waa maxay hawlaha dareenka ee wanaagsan ee qofka la nool xusuus-la’aanta?"
+    a: "Fikrado fudud waxaa ka mid ah duugis tartiib ah oo gacanta ah oo lagu sameeyo kareem, taabashada dhar jilicsan, urinta dhir udgoon oo cusub ama qaxwo, dhagaysiga muusig la jecel yahay ama dhawaaqyo dabiici ah, daawashada shimbiraha ama haanta kalluunka, iyo dhadhaminta cunto la jecel yahay oo leh qaab ammaan ah. Hal shay mar keliya sii oo fiiri sida qofku uga jawaabo."
+  - q: "Hawlaha dareenka ma ammaan bay u yihiin qof wax afka gelinaya?"
+    a: "Way noqon karaan, iyadoo si taxaddar leh loo sameeyo. Isticmaal oo keliya walxo waaweyn oo aan la liqi karin, ka tag wax kasta oo yar ama jabaya, oo kareemyada, saabuunta iyo alaabta udgoon ka fogee marka la isticmaalo ka dib, maadaama ay u ekaan karaan ama u uri karaan cunto. La joog qofka inta hawsha lagu jiro."
+  - q: "Daawaynta udgoonka ma ka caawisaa xusuus-la’aanta?"
+    a: "Dib-u-eegis ay samaysay Cochrane ma helin caddayn sugan oo muujinaysa in daawaynta udgoonka ay caawiso dadka la nool xusuus-la’aanta, inkastoo daraasaduhu ay yaryaraayeen oo aan iswaafaqsanayn. Haddii qofku ku raaxaysto ur khafiif ah oo la yaqaan, taasi way fiican tahay, laakiin ka fogow saliidaha udgoonka ee xooggan, gaar ahaan haddii ay jiraan dhibaatooyin neefsasho ama xasaasiyad."
+  - q: "Waa maxay marada ama gogosha hawsha gacmaha mashquuliya?"
+    a: "Waa maro, hor-marad ama gogol dhabta la saaro oo ay si adag ugu tolanyihiin waxyaabo la taaban karo, sida badhammo waaweyn, sibirro, xargo iyo qaybo kala duwan oo dhar ah. Waxay gacmaha mashquulka ah siisaa wax ay sahamiyaan. Si joogto ah u hubi si aad u aragto wax dabacsan oo laga bixin karo."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -49,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Waxqabadyada dareenku waxay isticmaalaan shanta dareen: taabasho, ur, dhadhan, dhawaaq iyo aragti. Xusuus, tallaabooyin iyo jawaab sax ah looma baahna, sidaas darteed waxay ka shaqeyn karaan marxalad kasta. Waxay ugu muhiimsan yihiin marxaladaha dambe. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) waxay xustaa in marxaladda dambe adduunka inta badan lagu dareemo dareenka, iyo in daryeel lagu muujin karo taabasho, dhawaaq, aragti, dhadhan iyo ur. Dhowr hubin oo badbaado ah ayaa waxqabadyadan u dhigaya kuwo dadka oo dhan raaxo u ah.
+Hawlaha dareenka waxay isticmaalaan shanta dareen: taabashada, urta, dhadhanka, dhawaaqa iyo aragga. Uma baahna xusuus, tillaabooyin ama jawaabo sax ah, sidaas darteed way ku habboonaan karaan marxalad kasta. Waxay aad muhiim u yihiin marxaladaha dambe. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) waxay xustaa in marxaladda dambe adduunka inta badan lagu dareemo dareemayaasha, iyo inaad daryeel ku muujin karto taabasho, dhawaaq, arag, dhadhan iyo ur. Hubinno yar oo badbaado ah ayaa hawlahan ka dhigaya kuwo qof walba u raaxo leh.
 
-## Waa maxay waxqabadyada dareenka ee dementia?
+## Waa maxay hawlaha dareenka ee xusuus-la’aanta?
 
-Waxqabadyada dareenku waa khibrado fudud oo hal dareen mar kasta ku salaysan, sida taabashada maro, urista geedo udgoon ama dhegaysiga roob. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) waxay sheegtaa in waxqabadyada marxaladda dambe inta badan ay u baahan yihiin in diiradda la saaro dareenka, waxayna xustaa muusik, waxyaabo la taabto oo la qabto, iyo masaaj gacmeed. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) waxay xustaa in dadka marxaladda dambe ay u baahan karaan si xooggan inay wax u dhow qabtaan raaxo darteed.
+Hawlaha dareenka waa waayo-aragnimooyin fudud oo lagu dhiso hal dareen mar keliya, sida dareemidda dhar, urinta dhir udgoon ama dhagaysiga roobka. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) waxay sheegtaa in hawlaha marxaladda dambe badanaa ay u baahan yihiin inay diiradda saaraan dareemayaasha, waxayna xustaa muusig, walxo la taabto oo la qabto, iyo duugista gacanta. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) waxay xustaa in dadka ku jira marxaladda dambe ay yeelan karaan baahi xooggan oo ah inay shay u qabtaan si ay u helaan raaxo.
 
-## Fikrado, dareen kasta
+## Fikrado dareen, dareen kasta si gooni ah
 
 ### Taabasho
 
-- **Masaaj gacmeed.** Kareem yar gacmahaaga ku kululee oo tartiib uga marmar curcurka gacanta (wrist) ilaa faraha. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) waxay xustaa masaaj kareem aan ur lahayn lagu sameeyo raaxo darteed.
-- **Dambiil maro ah.** Afargeesyo waaweyn oo maro ah oo velvet, corduroy, fleece, satin iyo suuf ah oo la taabto, la laablaabo oo laga hadlo.
-- **Maro diirran.** Maro diirran oo qoyan oo gacmaha loogu talagalay maalin qabow. Kulaylka marka hore ku tijaabi curcurkaaga (wrist).
-- **Dharka-hore ama go’ lugaha la saaro.** Badhamo waaweyn, siib, ribbon iyo balaastar qallafsan oo si adag loo tolay.
-- **Laablaabid iyo siman yeelid.** Dambiil maro yaryar oo nadiif ah ama maro cuntada oo la laablaabo, la isku dul dhigo oo mar kale la laablaabo.
-- **Wax jilicsan oo la qabto.** Go’ fleece ah, barkin ama xayawaan jilicsan oo run u eg, si fudud loo siiyo, marnaba sidii ciyaarad.
+- **Duugista gacanta.** Gacmahaaga ku diiri kareem yar, si tartiib ahna uga salaax curcurka ilaa faraha. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) waxay xustaa duugista iyadoo la isticmaalayo kareem aan ur lahayn si raaxo loo helo.
+- **Dambiil dhar ah.** Xabbado waaweyn oo ah maro jilicsan sida velvet, corduroy, fleece, satin iyo dhogor oo la salaaxo, la laabo oo laga hadlo.
+- **Marada gacmo-dhaqashada oo diiran.** Maro diiran oo qoyan oo gacmaha lagu qabto maalinta qabow. Marka hore heerkulka ku hubi curcurkaaga.
+- **Marada hawsha ama gogosha dhabta.** Badhammo waaweyn, sibirro, xargo iyo qaybo dhar ah oo kala duwan oo si adag loogu tolay.
+- **Laabidda iyo simidda.** Dambiil ay ku jiraan marada gacmo-dhaqashada ama marada miiska oo nadiif ah si loo laabo, loo raso oo mar kale loo laabo.
+- **Wax jilicsan oo la qabto.** Buste fleece ah, barkin ama xayawaan jilicsan oo u eg mid dhab ah, oo si fudud loo bixiyo, ee aan ahayn sidii ay wax lagu ciyaaro.
 
 ### Ur
 
-- **Geedo udgoon oo cusub.** Caleemaha mint, rosemary, basil ama lavender farahaaga ku dhex xoq oo gudbi.
-- **Urta jikada.** Qaxwo la karinayo, rooti la dubayo, qorfe ama burtukaan cusub oo la furayo oo u dhow.
-- **Ubaxyo.** Dhowr ubax oo cusub ka keen beerta ama dukaanka.
-- **Alaab la yaqaan.** Saabuunta ama kareemka ay had iyo jeer isticmaali jireen, haddii maqaarkoodu u dulqaato.
+- **Dhir udgoon oo cusub.** Caleemaha reexaanta, rosemary, basil ama lavender farahaaga ku xoq oo u soo dhoweey qofka.
+- **Uryada jikada.** Qaxwo la karinayo, rooti la dubayo, qorfe ama liin la diirayo oo dhow.
+- **Ubax.** Soo qaado ubax yar oo cusub oo ka yimid beerta ama dukaanka.
+- **Wax la yaqaan oo ay had iyo jeer isticmaali jireen.** Saabuunta ama kareemka ay had iyo jeer isticmaali jireen, haddii maqaarkoodu u adkeysan karo.
 
 ### Dhadhan
 
-- **Dhadhan la jecel yahay.** Malqacad yar oo wax ay jecel yihiin ah, sida yogurt ama jalaato, oo qaab ay si badbaado leh u maamuli karaan.
-- **Caawinta dubista.** Miro ama wax yar oo macaan oo la dhadhamiyo inta aad wada dubanayso.
-- **Cunto xilliga ah.** Miro xilliga ah ama cabitaan diirran, oo heerkul badbaado leh la bixiyo.
+- **Dhadhan la jecel yahay.** Qaado yar oo ah wax ay jecel yihiin, sida applesauce, pudding ama jalaato, oo leh qaab ay si ammaan ah u maamuli karaan.
+- **Ka caawinta dubista.** Dhadhaminta miro ama in yar oo kareem macaan ah marka aad wada dubaysaan.
+- **Cuntooyinka xilliga.** Qaraha xagaaga, tufaax diiran xilliga dayrta, oo lagu bixiyo heerkul ammaan ah.
 
 ### Dhawaaq
 
-- **Muusik la jecel yahay.** Heeso la yaqaan oo cod jilicsan leh; eeg [waxqabadyada muusikada](/activities/music/).
-- **Codadka dabeecadda.** Roob, mawjado ama hees shimbireed. NIA waxay xustaa in muusikada, dhawaaqa cad iyo codadka dabeecadda ay u muuqdaan kuwo dadka qaarkood nasiya.
-- **Codkaaga.** Kor u akhris, hees aan erayo lahayn ama sheeko sheegid.
-- **Qalab muusik oo fudud.** Durbaan gacmeed, shaker ama bell yar oo muusikada lagu raaco.
+- **Muusig la jecel yahay.** Heeso la yaqaan oo codkoodu hooseeyo; eeg [hawlaha muusiga](/activities/music/).
+- **Dhawaaqyo dabiici ah.** Roob, hirarka badda ama heesta shimbiraha. NIA waxay xustaa in muusigga, dhawaaqa cad iyo dhawaaqyada dabiiciga ah ay u muuqdaan inay dadka qaarkood dejiso.
+- **Codkaaga.** Ku akhrinta cod dheer, hees-hoosaad, ama sheeko u sheegid.
+- **Aalado fudud oo muusig ah.** Durbaan gacmeed, ruxmo ama gambaleel si ay muusigga ula socdaan.
 
-### Aragti
+### Arag
 
-- **Daaqadda daawashadeeda.** Weelka cuntada shimbiraha ee daaqadda dibadda ku yaal, carruur guriga u soo laabanaya, ama roob da’aya.
-- **Weel kalluun ama muuqaal tartiib ah.** Dhaqdhaqaaq jilicsan oo aan cod weyn lahayn.
-- **Sawirro waaweyn.** Hal sawir oo cad mar kasta, oo heerka indhaha lagu hayo.
-- **Midab iyo qaab.** Qaybo maro ah oo midab leh, ubaxyo ama maro cunto oo midabaysan oo la kala saaro, ama bog midabayn oo fudud oo ka mid ah [bogagga midabaynta](/games/coloring/).
-- **Banaanka.** NHS waxay soo jeedinaysaa beero dareenka ah oo leh dhir udgoon, dhir kala duwan oo taabasho ah iyo biyo. Eeg [waxqabadyada banaanka iyo beerista](/activities/outdoor-and-gardening/).
+- **Daawashada daaqadda.** Meel shimbiraha lagu quudiyo oo daaqadda ka baxsan, carruur guriga ku soo laabanaya, ama baraf soo dhacaya.
+- **Haanta kalluunka ama muuqaal tartiib ah.** Dhaqdhaqaaq deggan oo aan lahayn dhawaaq dheer.
+- **Sawirro waaweyn.** Hal sawir oo cad mar keliya, oo la dhigayo heerka indhaha.
+- **Midab iyo naqshad.** Kala soocidda xabbado dhar ah oo midab leh, ubax ama marada miiska oo midab leh, ama bog fudud oo midabeyn ah oo ka mid ah qaybta [midabaynta](/games/coloring/).
+- **Bannaanka.** NHS waxay soo jeedisaa beero dareen leh oo ay ku jiraan dhir udgoon, qaabab kala duwan oo la taaban karo iyo astaamo biyo ah. Eeg [hawlaha bannaanka iyo beerta](/activities/outdoor-and-gardening/).
 
-## Sida loo sameeyo sanduuq dareenka
+## Sida loo sameeyo sanduuqa dareenka
 
-1. **Dooro mowduuc** la xiriira nolosha qofka: xeebta, beerta, jikada, goobta shaqada, tolista.
-2. **Dooro shan ama lix shay oo waaweyn oo badbaado ah,** sida qolof badeed weyn, malqacad alwaax ah, masar jilicsan, bac yar oo lavender engegan oo la tolay, ama gabal alwaax ah oo siman.
-3. **Hubi shay kasta** qaybo yaryar, geesood af leh, dun dabacsan iyo wax jabi kara.
-4. **Hal shay mar kasta soo bax.** Gacanta u gudbi, sharax, oo qofka ha sahamiyo.
-5. **Sanduuqa meel dhig ka dib** si uu u noqdo mid gaar ah oo shayada mar kale la hubiyo ka hor mar xigta.
+1. **Dooro mawduuc** la xiriira nolosha qofka: xeebta, beerta, jikada, aqoon-isweydaarsiga, tolidda.
+2. **Dooro shan ama lix walxood oo waaweyn oo ammaan ah,** sida qolof weyn oo badeed, qaaddo alwaax ah, maro jilicsan, bac yar oo lavender qalalan ah oo si fiican loo tolay, ama baloog alwaax ah oo siman.
+3. **Hubi walx kasta** si aad u aragto qaybo yaryar, geeso fiiqan, dun dabcay ama wax jabaya.
+4. **Hal walx mar keliya soo saar.** Gacanta u geli, sharax, oo qofka u oggolow inuu sahamiyo.
+5. **Sanduuqa dib u dhig marka hawshu dhammaato** si uu u ahaado mid gaar ah oo walxaha mar kale loo hubiyo ka hor inta aan mar kale la isticmaalin.
 
-## Badbaadada ugu horrayn
+## Badbaadada marka hore
 
-Waxqabadyada dareenku waa jilicsan yihiin, laakiin dhowr khatar ayaa muhiim ah. Dadka qaar ee ku nool dementia waxay waxyaabaha aan cuntada ahayn u qaldamaan cunto, liqiddu na waxay noqon kartaa mid sii adkaata wakhti ka dib; NIA waxay ka digaysaa in dhibaatooyinka liqidda marxaladda dambe ay kordhiyaan khatarta cunaha ku xayirmidda.
+Hawlaha dareenka waa kuwo deggan, laakiin dhowr halisood ayaa muhiim ah. Dadka qaarkood ee la nool xusuus-la’aanta waxay walxaha aan cuntada ahayn u qaadan karaan cunto, liqiddu way adkaan kartaa muddo ka dib; NIA waxay ka digtaa in dhibaatooyinka liqidda ee marxaladda dambe ay kordhiyaan halista margashada.
 
-| Khatar | Waxa la sameeyo |
+| Halista | Waxa la sameeyo |
 | --- | --- |
-| Cunaha ku xayirmid (choking) | Isticmaal oo keliya shay aad u weyn oo aan la liqi karin. Sanduuqa ha ku jirin badhamo, beads, lacag, kubbado yaryar ama ciyaarado yaryar oo furan. Cunto bixi oo keliya qaabab ay kooxda daryeelku sheegto inay badbaado yihiin. |
-| Waxyaabo u eg cunto | NIA waxay ku talinaysaa in kareemada, saabuunta, shaambuuga iyo cadarka la xidho, maadaama ay u eg yihiin ama u ur yihiin cunto, iyo in miro been ah laga saaro. Alaabta dareenka meel dhig ka dib isticmaalka. |
-| Xasaasiyad | Hubi xasaasiyadda lawska, latex, suufka, dhirta ama ur udgoon ka hor intaadan bilaabin. |
-| Ur xooggan | Ka fogow cadar xooggan iyo saliidaha muhiimka ah, gaar ahaan haddii neefta ama dhibaato neefsasho kale jirto. Ur jilicsan oo dabiici ah ayaa badbaado badan. |
-| Maqaar | Ka hor masaajka hubi maqaar xanuun leh, dillaacay ama nugul. Cadaadis jilicsan isticmaal oo jooji haddii ay wejiga rujiyaan. |
-| Heerkul | Maradaha diirran iyo cabitaannada marka hore ku tijaabi curcurkaaga. |
-| Wax af leh ama sun ah | Qalab af leh, muraayad ama alaab farshaxan oo sun ah ha isticmaalin. |
+| Margasho | Isticmaal oo keliya walxo aad u waaweyn oo aan la liqi karin. Ha ku darin badhammo, kuul, qadaadiic, marmaro ama carruurtu ku ciyaarto oo yaryar sanduuqa dhexdiisa. Cunto sii oo keliya qaababka ay kooxda daryeelku sheegaan inay ammaan yihiin. |
+| Waxyaabaha u eg cunto | NIA waxay ku talisaa in la xiro kareemyada, saabuunta, shaambooyinka iyo cadarka, kuwaas oo u ekaan karaan ama u uri karaan cunto, iyo in la fogeeyo miraha aan dhab ahayn. Alaabta dareenka dhig meel xiran marka la isticmaalo ka dib. |
+| Xasaasiyad | Hubi xasaasiyadda lawska, cinjirka, dhogorta, dhirta ama udgoonka ka hor intaadan bilaabin. |
+| Ur xooggan | Ka fogow cadarka xooggan iyo saliidaha udgoonka, gaar ahaan haddii ay jiraan neef ama dhibaatooyin kale oo neefsasho. Uryada khafiifka ah ee dabiiciga ah ayaa ka ammaan badan. |
+| Maqaarka | Hubi maqaarka si aad u aragto nabaro, dillaac ama maqaarka oo jilicsan ka hor duugista. Cadaadis jilicsan isticmaal oo jooji haddii ay weji xanuun sameeyaan. |
+| Heerkulka | Marooyinka diiran iyo cabbitaannada marka hore ku hubi curcurkaaga. |
+| Walxaha fiiqan ama sunta ah | Ha isticmaalin qalab fiiqan, muraayad ama agab farsamo oo sun ah. |
 
-## Ma caawisaa aromatherapy?
+## Daawaynta udgoonka ma caawisaa?
 
-Inta badan maya, ugu yaraan ma jirto faa’iido la cabbiri karo. [Dib-u-eegis Cochrane oo ku saabsan aromatherapy ee dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ayaa eegay 13 daraasadood oo ay ku jireen 708 qof, dhammaantood guryaha daryeelka, waxayna heleen in aan jirin caddayn rumaysad leh oo faa’iido ah. Daraasaaduhu waa yaryaryihiin, natiijooyinku isma waafaqin, waxyeelooyin la socda (side effects) na si liita ayaa loo soo sheegay. Haddii qofku ku raaxaysto ur jilicsan oo la yaqaan, sida lavender beerta ka timid, taasi waa sabab fiican oo la wadaago. Ma aha daaweyn.
+Waxay u badan tahay inaanay si la qiyaasi karo wax u caawin. [Dib-u-eegis ay Cochrane ka samaysay daawaynta udgoonka ee xusuus-la’aanta](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) waxay eegtay 13 daraasadood oo ay ku jireen 708 qof, dhammaantoodna waxay ku sugnaayeen guryo daryeel, mana helin caddayn sugan oo faa’iido ah. Daraasaduhu way yaryaraayeen, natiijooyinkuna way iskhilaafeen, waxyeellooyinkana si liidata ayaa loo diiwaangeliyey. Haddii qofku ku raaxaysto ur khafiif ah oo la yaqaan, sida lavender ka timid beerta, taasi waa sabab fiican oo lagu wadaago. Ma aha daawayn.
 
-## Sida loo bixiyo waxqabad dareen
+## Sida loo bixiyo hawl dareen ah
 
-- **Dooro wakhti aamusan** oo TV-ga damis.
-- **Ka soo dhawow hore,** magaciisa dheh, oo weydii ama u sheeg ka hor intaadan taabanin: “Kareem baan haystaa. Ma rabtaa inaan gacmahaaga masaajo ka siiyo?”
-- **Hal shay mar kasta sii** si aanu u culaysin.
-- **Fiiri jawaabta.** Wejiga oo jilicsan, gacmaha oo dabacsan ama dhoola cadeyn waa calaamado wanaagsan. Gacanta oo la iska jiido, wejiga oo xumaada ama degganaan la’aan waxay tilmaamaan inaad joojiso.
-- **Ka dhig mid gaaban.** Shan daqiiqo oo deggan waa fadhi wanaagsan.
+- **Dooro waqti deggan** oo dami telefishinka.
+- **Hore uga soo dhowow,** magacooda ku dheh, oo weydii ama u sheeg ka hor intaadan taaban: “Waxaan hayaa kareem. Ma jeclaan lahayd in gacanta laguugu duugo?”
+- **Hal shay mar keliya sii** si aanu u culaysin.
+- **Fiiri jawaabta.** Waji deggan, gacmo nasan ama dhoolla-cadeyn waa calaamado wanaagsan. Dib u gurasho, wejiga oo isku urura ama degganaan la’aan waxay ka dhigan tahay in la joojiyo.
+- **Ku hay waqti gaaban.** Shan daqiiqo oo deggan waa waqti fiican.
 
-Nasasho neefsasho oo tartiib ah oo wada samayn, sida [nasasho neefsasho deggan](/games/calm-breathing/), waxay noqon kartaa hab jilicsan oo lagu soo gabagabeeyo. Fikrado dheeraad ah oo sariirta agteeda ah, eeg [waxqabadyada marxaladda dambe](/activities/late-stage/), isla markaana degganaan la’aanta fiidka, eeg [degganaan la’aanta galabta](/caregiving/late-day-restlessness/).
+Nasasho tartiib ah oo neefsasho ah oo aad wada qaadataan, sida [neefsashada deggan](/games/calm-breathing/), waxay noqon kartaa hab wanaagsan oo lagu dhammeeyo. Fikrado dheeraad ah oo sariirta agteeda ah, eeg [hawlaha marxaladda dambe](/activities/late-stage/), iyo xasillooni-darrada fiidkii, eeg [degganaan-darrada maalintii dambe](/caregiving/late-day-restlessness/).

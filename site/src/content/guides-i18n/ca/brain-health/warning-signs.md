@@ -1,28 +1,28 @@
 ---
-title: "Primers signes de demència i quan cal consultar un metge"
-seoTitle: "Primers signes de demència i quan consultar un metge"
-description: "Signes habituals de demència, com es diferencien de l’envelliment normal, causes tractables dels problemes de memòria i com preparar la visita al metge."
+title: "Símptomes inicials de la demència i quan cal acudir al metge"
+seoTitle: "Símptomes inicials de la demència i quan cal anar al metge"
+description: "Símptomes inicials comuns de la demència, com es diferencien del deteriorament normal per l'edat, causes tractables dels problemes de memòria i com preparar una visita mèdica."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  La pèrdua de memòria que altera la vida diària, les dificultats amb tasques conegudes, la confusió sobre el temps o el lloc, i els canvis d’ànim o de judici poden ser primers signes de demència. Moltes altres condicions, com els problemes de tiroide, la falta de vitamina B12, els efectes secundaris de medicaments, la depressió i els problemes de son, poden causar canvis semblants. Només un professional qualificat pot fer un diagnòstic. La confusió sobtada necessita atenció urgent.
+  La pèrdua de memòria que altera la vida quotidiana, les dificultats amb tasques habituals, la confusió sobre el temps o el lloc i els canvis d'estat d'ànim o de judici poden ser símptomes inicials de la demència. Moltes altres situacions, com ara problemes de tiroide, nivells baixos de vitamina B12, efectes secundaris de medicaments, depressió i problemes de son, poden provocar canvis semblants. Només una persona professional qualificada del camp mèdic pot fer el diagnòstic. Una confusió que apareix de manera sobtada requereix atenció urgent.
 keyPoints:
-  - "Els oblits ocasionals són habituals amb l’edat; els canvis que alteren la vida de cada dia val la pena revisar-los."
-  - "L’Alzheimer’s Association descriu 10 senyals d’alerta, cadascun amb un canvi habitual relacionat amb l’edat per comparar."
-  - "Els problemes de tiroide, la falta de vitamina B12, els efectes secundaris dels medicaments, la depressió, les infeccions i els problemes de son poden afectar la memòria, i alguns tenen tractament."
-  - "Només un professional qualificat pot diagnosticar la demència; els qüestionaris en línia i les autoproves no ho poden fer."
-  - "La confusió que apareix de cop, en hores o dies, pot ser un delirium i necessita atenció mèdica urgent."
+  - "És habitual oblidar-se de coses de tant en tant amb l'edat; en canvi, cal revisar els canvis que alteren la vida diària."
+  - "L'Alzheimer's Association descriu deu senyals d'alerta, cadascun amb un canvi habitual associat a l'edat per comparar."
+  - "Problemes de tiroide, nivells baixos de vitamina B12, efectes secundaris de medicaments, depressió, infeccions i problemes de son poden afectar la memòria, i alguns es poden tractar."
+  - "Només una persona professional qualificada del camp mèdic pot diagnosticar la demència; els qüestionaris i les proves en línia no ho poden fer."
+  - "Una confusió que apareix de manera sobtada, en qüestió d'hores o dies, pot ser delirium i requereix atenció mèdica urgent."
 faq:
-  - q: "Els oblits són una part normal de l’envelliment?"
-    a: "Una mica, sí. El National Institute on Aging diu que perdre coses o oblidar una factura sol ser un oblit lleu relacionat amb l’edat. La demència no és una part normal de l’envelliment. Els problemes de memòria que dificulten tasques quotidianes com conduir, usar el telèfon o trobar el camí de tornada a casa val la pena comentar-los amb un metge."
+  - q: "El fet d'oblidar-se de coses és una part normal de l'envelliment?"
+    a: "En part, sí. El National Institute on Aging diu que, de vegades, deixar coses en un lloc equivocat o oblidar-se d'una factura sol ser una lleu oblit que s'associa a l'edat. La demència no és una part normal de l'envelliment. Cal consultar-ho amb una persona professional si els problemes de memòria fan difícil fer tasques diàries com conduir, usar el telèfon o trobar el camí de tornada a casa."
   - q: "Els problemes de memòria poden tenir una causa diferent de la demència?"
-    a: "Sí. El National Institute on Aging enumera, entre altres, problemes de tiroide, de ronyó o de fetge, efectes secundaris de medicaments, depressió i ansietat, falta de vitamina B12, consum excessiu d’alcohol, problemes de son, infeccions i lesions al cap. Alguns d’aquests milloren quan es tracten, i per això és important fer una revisió mèdica."
-  - q: "Puc fer una prova de demència a casa?"
-    a: "No. Només un professional qualificat pot diagnosticar la demència, a partir de la història clínica, una exploració física, proves de memòria i de pensament, anàlisis i, de vegades, exploracions cerebrals. Fins i tot les proves breus que fan servir els metges no bastent per si soles per diagnosticar la demència."
-  - q: "Què he de fer si algú es confon de cop?"
-    a: "Demani ajuda mèdica de seguida. La confusió sobtada pot ser un delirium, que el Departament de Veterans dels Estats Units (VA) descriu com una emergència mèdica. Truqui de seguida al professional sanitari de la persona o al número d’emergències, quedi’s amb ella i anoti els medicaments que pren."
+    a: "Sí. El National Institute on Aging menciona problemes de tiroide, ronyó o fetge, efectes secundaris de medicaments, depressió i ansietat, nivells baixos de vitamina B12, consum perjudicial d'alcohol, problemes de son, infeccions i lesions al cap, entre d'altres. Alguns d'aquests poden millorar un cop tractats, i per això és important una revisió mèdica."
+  - q: "Puc fer una prova de demència a casa d'algú?"
+    a: "No. Només una persona professional qualificada del camp mèdic pot diagnosticar la demència, mitjançant una història clínica, un examen físic, proves de memòria i de pensament, proves de laboratori i, de vegades, proves d'imatge del cervell. Fins i tot les proves breus que fan les persones professionals no són suficients, per si soles, per diagnosticar la demència."
+  - q: "Què he de fer si algú es confon de manera sobtada?"
+    a: "Demana ajuda mèdica de seguida. Una confusió sobtada pot ser delirium, que el VA descriu com una emergència mèdica. Truca immediatament a la persona professional de salut de la persona o truca al 911, queda't al seu costat i pren nota de qualsevol medicament que prengui."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -50,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Notar canvis en la pròpia memòria, o en la d’una persona estimada, pot fer molta por. Aquesta pàgina pot ajudar-lo a decidir quan demanar hora amb el metge i a preparar-la. No pot dir si algú té demència. **Només un professional qualificat pot diagnosticar la demència**, i moltes condicions que causen problemes de memòria no són demència. Li demanem que no es fiï de les proves en línia ni de les autoproves.
+Adonar-se de canvis en la pròpia memòria, o en la d'una persona estimada, pot fer por. Aquesta pàgina us pot ajudar a decidir quan demanar una visita mèdica i com preparar-la. No pot dir si algú té demència. **Només una persona professional qualificada del camp mèdic pot diagnosticar la demència**, i moltes situacions que provoquen problemes de memòria no són demència. Si us plau, no us basi en qüestionaris ni proves en línia.
 
-## Quins són els primers signes de demència?
+## Quins són els símptomes inicials de la demència?
 
-L’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/10_signs) descriu 10 primers signes. Els compara amb un canvi habitual relacionat amb l’edat. Amb les nostres paraules:
+L'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) descriu deu símptomes inicials. En compara cadascun amb un canvi habitual associat a l'edat. Dit amb les nostres paraules:
 
-| Senyal que val la pena comprovar | Més habitual amb l’edat |
+| Senyal que convé revisar | Més habitual amb l'edat |
 | --- | --- |
-| Pèrdua de memòria que altera la vida diària, com oblidar esdeveniments recents o preguntar una i altra vegada la mateixa cosa | De tant en tant oblidar un nom o una cita i recordar-ho més tard |
-| Dificultats per planificar o resoldre problemes, com seguir una recepta coneguda o portar el control de les factures | Un error ocasional amb les factures de casa |
-| Dificultat per acabar tasques conegudes a casa, a la feina o fora de casa | De tant en tant, necessitar ajuda amb la programació del microones o per gravar un programa de televisió |
-| Perdre el fil de les dates, de les estacions o de on es troba | Equivocar-se del dia de la setmana i després adonar-se’n |
-| Dificultat nova per calcular distàncies, llegir o distingir colors | Canvis de visió per cataractes |
-| Problemes nous amb les paraules, com quedar-se a mitja conversa o dir les coses amb un nom equivocat | De tant en tant costar trobar la paraula adequada |
-| Posar les coses en llocs estranys i no poder refer els passos | Perdre coses de tant en tant i trobar-les refent els passos |
-| Mal judici, com amb els diners o la higiene personal | Prendre una decisió dolenta de tant en tant |
-| Allunyar-se de les aficions, la feina o les activitats socials | De tant en tant no tenir ganes d’anar a un esdeveniment familiar o social |
-| Canvis d’ànim o de personalitat, com confondre’s, sentir-se sospitós, temorós o ansiós | Tenir maneres de fer ben establertes i sentir-se irritable quan es trenca una rutina |
+| Pèrdua de memòria que altera la vida quotidiana, com oblidar-se d'esdeveniments recents o fer la mateixa pregunta una vegada i una altra | De tant en tant oblidar-se d'un nom o d'una cita i recordar-ho més tard |
+| Dificultats per planificar o resoldre problemes, com seguir una recepta habitual o portar el control de les factures | De tant en tant equivocar-se amb les factures de la llar |
+| Dificultat per acabar tasques habituals a casa, a la feina o quan se surt | De tant en tant necessitar ajuda amb la configuració d'un microones o per gravar un programa de televisió |
+| Perdre el fil de les dates, les estacions o del lloc on s'és | Equivocar-se amb el dia de la setmana i després esbrinar-lo |
+| Noves dificultats per jutjar distàncies, llegir o diferenciar colors | Canvis de visió per cataractes |
+| Nous problemes amb les paraules, com aturar-se a mitja conversa o dir les coses amb un altre nom | De tant en tant costar trobar la paraula adequada |
+| Deixar coses en llocs estranys i no poder retrocedir els passos | De tant en tant perdre coses i trobar-les retrocedint els passos |
+| Mal judici, per exemple amb els diners o amb la cura personal | De tant en tant prendre una decisió poc encertada |
+| Allunyar-se d'aficions, de la feina o d'activitats socials | De tant en tant no tenir ganes d'anar a una trobada familiar o social |
+| Canvis d'estat d'ànim o de personalitat, com ara confusió, sospita, por o ansietat | Tenir formes determinades de fer les coses i sentir-se irritat quan es trenca una rutina |
 
-Un sol senyal no vol dir demència. El que importa és un **canvi respecte del que és normal per a aquella persona**, sobretot si fa més difícil la vida de cada dia.
+Un sol senyal no significa demència. El que importa és un **canvi respecte al que és habitual en aquesta persona**, sobretot si fa més difícil la vida quotidiana.
 
-## En què es diferencia l’envelliment normal de la demència?
+## En què es diferencia l'envelliment normal de la demència?
 
-El [NIA](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) diu que moltes persones grans noten que recorden les coses més lentament, o que de tant en tant perden coses o obliden una factura. Solen ser senyals d’oblit lleu. **La demència no és una part normal de l’envelliment.** Els problemes de memòria greus dificulten les activitats de cada dia, com conduir, usar el telèfon o trobar el camí de tornada a casa.
+El [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) diu que moltes persones grans noten que recorden les coses més lentament o que de vegades deixen coses en un lloc equivocat o s'obliden d'una factura. Normalment, això són signes d'un lleu oblit. **La demència no és una part normal de l'envelliment.** Els problemes de memòria greus fan que les activitats diàries siguin difícils, com conduir, usar el telèfon o trobar el camí de tornada a casa.
 
-El NIA aconsella parlar amb un metge si una persona:
+El NIA suggereix parlar amb una persona professional si algú:
 
 - Fa les mateixes preguntes una vegada i una altra
-- Es perd en llocs que coneixia molt bé
+- Es perd en llocs que abans coneixia bé
 - Té dificultats per seguir receptes o indicacions
-- Es confon més amb el temps, les persones i els llocs
-- Deixa de cuidar-se, com menjar malament, no banyar-se o tenir conductes poc segures
+- Es confon més sovint sobre el temps, les persones i els llocs
+- Deixa de cuidar-se, per exemple menja malament, no es renta o es comporta de manera insegura
 
-Algunes persones tenen **deteriorament cognitiu lleu (DCL)**. Vol dir més problemes de memòria o de pensament que altres persones de la seva edat, però encara poden gestionar la vida de cada dia. El NIA diu que el DCL pot ser un primer signe de l’Alzheimer, però no tothom amb DCL el desenvolupa.
+Algunes persones tenen **deteriorament cognitiu lleu (DCL)**. Això vol dir tenir més problemes de memòria o de pensament que altres persones de la mateixa edat, tot i poder seguir amb la vida diària. El NIA diu que el DCL pot ser un senyal inicial de l'Alzheimer, però no totes les persones amb DCL l'acaben desenvolupant.
 
 ## Què més pot causar problemes de memòria?
 
-Moltes coses a part de la demència poden afectar la memòria, i algunes milloren amb tractament. El NIA enumera:
+Moltes coses a més de la demència poden afectar la memòria, i algunes milloren amb tractament. El NIA menciona:
 
-- **Problemes de tiroide, de ronyó o de fetge**
-- **Efectes secundaris dels medicaments**
+- **Problemes de tiroide, ronyó o fetge**
+- **Efectes secundaris de medicaments**
 - **Depressió i ansietat**
-- **Falta de vitamina B12** o no menjar prou aliments saludables
+- **Nivells baixos de vitamina B12** o no menjar prou aliments saludables
 - **Problemes de son**
-- **Consum problemàtic d’alcohol o de drogues**
-- **Infeccions, coàguls o tumors** al cervell
+- **Consum perjudicial d'alcohol o drogues**
+- **Infeccions, coàguls de sang o tumors** al cervell
 - **Lesió al cap**, com una commoció cerebral
-- **Estrès o dol importants**, com la jubilació o la mort de la parella
+- **Estrès o dol importants**, com la jubilació o la pèrdua d'una parella
 
-Els problemes d’audició i de visió també es poden confondre amb confusió; vegi la nostra [guia sobre l’audició](/brain-health/hearing/). Per això és important una revisió mèdica. Segons l’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), els metges sovint demanen anàlisis de sang per comprovar problemes de tiroide, falta de vitamines i infeccions. Un [son](/brain-health/sleep/) de qualitat i el tractament de la depressió també val la pena comentar-los.
+Els problemes d'audició i de visió també poden confondre's amb confusió; consulteu la nostra [guia sobre l'audició](/brain-health/hearing/). Per això és important una revisió mèdica. Segons l'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), sovint es demanen anàlisis de sang per revisar la tiroide, deficiències de vitamines i infeccions. També convé parlar del bon [son](/brain-health/sleep/) i del tractament de la depressió.
 
 ## La confusió sobtada és una emergència
 
-**La confusió que apareix ràpidament, en hores o dies, necessita atenció mèdica urgent.** Podria ser un delirium. El [Departament de Veterans dels Estats Units (VA)](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) descriu el delirium com una emergència mèdica i aconsella trucar de seguida al professional sanitari de la persona o al número d’emergències (112 a Europa, 911 als Estats Units). Els signes inclouen:
+**Una confusió que apareix de manera ràpida, en qüestió d'hores o dies, requereix atenció mèdica urgent.** Pot ser delirium. El [VA descriu el delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) com una emergència mèdica i aconsella trucar immediatament a la persona professional de salut de la persona o trucar al 911. Alguns senyals són:
 
-- Alts i baixos en la capacitat de pensar amb claredat
-- Dificultat per mantenir l’atenció
+- Canvis en la capacitat de pensar amb claredat
+- Dificultat per prestar atenció
 - Pensament desorganitzat
 - Estar inusualment adormit, o inusualment inquiet i agitat
 
-Això pot passar a qualsevol persona, inclosa la que ja viu amb demència. Segons el [NHS](https://www.nhs.uk/symptoms/confusion/), les causes habituals inclouen infeccions (les infeccions urinàries són habituals en persones grans i en persones amb demència), ictus, glucosa baixa en sang en persones amb diabetis, lesions al cap i alguns medicaments. Mentre espera ajuda, quedi’s amb la persona i tranquil·litzi-la amb paraules curtes i senzilles. No li faci moltes preguntes, i anoti els medicaments que pren.
+Això pot passar a qualsevol persona, incloses les que ja viuen amb demència. Segons el [NHS](https://www.nhs.uk/symptoms/confusion/), les causes habituals inclouen infeccions (les infeccions del tracte urinari són habituals en persones grans i en persones que viuen amb demència), ictus, baix nivell de sucre en sang en persones amb diabetis, lesions al cap i alguns medicaments. Mentre espereu ajuda, quedeu-vos al costat de la persona i tranquil·litzeu-la amb paraules curtes i senzilles. No li feu moltes preguntes i pren nota de qualsevol medicament que prengui.
 
-## Com em preparo per a la visita al metge?
+## Com preparo la visita mèdica?
 
-Una bona visita comença amb bones notes. L’[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) aconsella portar:
+Una bona visita comença amb bones notes. L'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggereix portar:
 
-1. **Una llista dels canvis** de memòria, d’ànim i de conducta, amb exemples concrets i aproximadament quan van començar
-2. **Problemes de salut passats i actuals**, incloent-hi els antecedents familiars de problemes de memòria
-3. **Totes les receptes i els medicaments sense recepta**
-4. **Qualsevol vitamina o suplement**
-5. **Les seves preguntes**, com quines proves es faran, quant duren i quan arribaran els resultats
+1. **Una llista dels canvis** en memòria, estat d'ànim i comportament, amb exemples concrets i aproximadament quan van començar
+2. **Problemes de salut passats i actuals**, incloent-hi qualsevol antecedent familiar de problemes de memòria
+3. **Tots els medicaments amb recepta i els que es compren sense recepta**
+4. **Qualsevol vitamina o complement**
+5. **Les vostres preguntes**, com ara quines proves es faran, quant de temps duren i quan arribaran els resultats
 
-També ajuda portar un familiar o un amic que conegui bé la persona. El [NIA explica](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) que els metges poden preguntar tant a la persona com a un familiar sobre la salut, els medicaments, les activitats diàries i els canvis de conducta. Els metges també poden:
+També ajuda portar un familiar o una persona propera que conegui bé la persona. El [NIA explica](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) que les persones professionals poden preguntar tant a la persona com a un familiar sobre la salut, els medicaments, les activitats diàries i els canvis de comportament. També poden:
 
-- Fer proves de memòria, de resolució de problemes, d’atenció, de càlcul i de llenguatge
-- Demanar anàlisis de sang, d’orina i altres proves per buscar altres causes
-- Comprovar si hi ha depressió o altres problemes de salut mental
-- Demanar exploracions cerebrals com una TAC o una ressonància magnètica
-- Derivar a un especialista, com un geriatre, un neuròleg, un psiquiatre geriàtric o un neuropsicòleg
+- Fer proves de memòria, resolució de problemes, atenció, càlcul i llenguatge
+- Demanar anàlisis de sang, d'orina i altres proves per buscar altres causes
+- Revisar si hi ha depressió o altres condicions de salut mental
+- Demanar proves d'imatge del cervell com la TC o la ressonància magnètica
+- Derivar a una persona especialista, com ara una persona geriatra, neuròloga, psiquiatra geriàtrica o neuropsicòloga
 
-El NIA assenyala que una avaluació cognitiva és una part obligatòria de la Medicare Annual Wellness Visit, que pot ser un bon moment per plantejar les preocupacions. Fins i tot les proves breus que fan servir els metges no bastent per si soles per diagnosticar la demència. Són un primer pas cap a una avaluació més completa, i el diagnòstic pot necessitar més d’una visita. El NIA aconsella que les persones amb problemes de memòria tornin al metge cada 6 a 12 mesos.
+El NIA assenyala que una avaluació cognitiva és una part obligatòria de la visita anual de benestar de Medicare, que pot ser un bon moment per expressar preocupacions. Fins i tot les proves breus que fan les persones professionals no són suficients, per si soles, per diagnosticar la demència. Són un primer pas cap a una avaluació més completa, i el diagnòstic pot requerir més d'una visita. El NIA aconsella que les persones amb problemes de memòria tornin a veure la persona professional cada sis o dotze mesos.
 
-## Com plantejar el tema amb delicadesa
+## Com abordar el tema amb delicadesa
 
-Si hi ha preocupació per una altra persona, triï un moment tranquil i privat. Parli de coses concretes que hagi notat, plantejant-ho com una preocupació per la seva salut i no com una crítica. Proposar una revisió general pot semblar menys alarmant. Inclogui la persona en les decisions i parli-li com a l’adult que és. Els nostres [consells de comunicació](/caregiving/communication-tips/) poden ajudar.
+Si us preocupa algú altre, trieu un moment tranquil i en privat. Parleu de coses concretes que heu observat, presentant-ho com una preocupació per la seva salut i no com una crítica. Suggerir una revisió general pot semblar menys alarmant. Involucreu la persona en les decisions i parleu-li com a la persona adulta que és. Els nostres [consells de comunicació](/caregiving/communication-tips/) us poden ajudar.
 
-## Parli amb un metge
+## Parleu amb una persona professional
 
-Si nota canvis de memòria, de pensament, d’ànim o de capacitats quotidianes que són nous i continuen passant, demani hora amb el metge de família. Davant d’una confusió sobtada, truqui de seguida al 112 (a Europa) o al 911 (als Estats Units), o al professional sanitari de la persona. Fer-se revisar d’hora vol dir que es poden trobar causes tractables i que, si es tracta de demència, hi ha més temps per planificar i trobar suport. Cuidi’s també durant tot això; vegi la nostra [guia d’autocura per a persones cuidadores](/caregiving/caregiver-self-care/).
+Si observeu canvis en la memòria, el pensament, l'estat d'ànim o les capacitats diàries que són nous i es mantenen, demaneu una cita amb una persona professional d'atenció primària. En cas de confusió sobtada, truqueu al 911 o a la persona professional de salut de la persona de seguida. Fer una revisió a temps permet trobar causes que es poden tractar i, si es tracta de demència, dóna més temps per planificar i trobar suport. També cuideu-vos en aquest procés; consulteu la nostra [guia d'autocura per a persones cuidadores](/caregiving/caregiver-self-care/).
 
-Aquesta pàgina és informació general, no un consell mèdic. Vegi el nostre [avís d’informació sobre salut](/medical-disclaimer/).
+Aquesta pàgina és informació general, no consell mèdic. Consulteu el nostre [avís mèdic](/medical-disclaimer/).

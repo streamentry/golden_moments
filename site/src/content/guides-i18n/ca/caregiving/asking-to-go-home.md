@@ -1,31 +1,37 @@
 ---
-title: "Quan algú amb demència demana sempre tornar a casa"
-seoTitle: "La demència demana tornar a casa: què dir"
-description: "Per què una persona que viu amb demència demana tornar a casa encara que sigui a casa, què dir, activitats tranquil·litzadores i com mantenir-la segura si intenta sortir."
+title: "Quan una persona amb demència vol tornar a casa"
+seoTitle: "Demència i voler tornar a casa: què dir"
+description: "Per què una persona que viu amb demència demana tornar a casa encara que hi sigui, què dir, activitats calmants i com mantenir-la segura."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Quan algú amb demència demana sempre tornar a casa, «casa» sovint vol dir una sensació de seguretat o un lloc del passat, no un edifici. No discuteixi que ja hi és. Reconegui el sentiment, asseguri-li que està segura, pregunti-li per la casa, i després passi amb delicadesa a fotos, música, un refrigeri, una passejada o una tasca senzilla. Comprovi si té gana, set, ganes d’anar al lavabo o dolor. Si comença de cop, truqui al metge de la persona.
+  Quan algú amb demència demana tornar a casa una vegada i una altra, «casa»
+  sovint vol dir una sensació de seguretat o un lloc del passat, no un edifici.
+  No discutiu dient-li que ja és a casa. Reconeixeu el que sent, doneu-li
+  seguretat, pregunteu-li per casa seva i, després, passeu amb suavitat a mirar
+  fotos, escoltar música, prendre un berenar, fer una passejada o una tasca
+  senzilla. Comproveu si té gana, set, necessitat d'anar al lavabo o dolor. Si
+  comença de sobte, truqueu al seu metge o metgessa.
 keyPoints:
-  - "«Vull tornar a casa» sovint vol dir «no em sento segura ni tranquil·la», no una petició d’una adreça."
-  - "Discutir o demostrar que ja hi és sol fer que el malestar empitjori. Respongui al sentiment en lloc d’això."
-  - "Demani que li expliqui com és casa seva, i després ofereixi fotos, música, un refrigeri, una passejada o una tasca senzilla."
-  - "Comprovi si hi ha alguna cosa que es pugui arreglar: gana, set, lavabo, dolor, massa calor o fred, soroll, cansament."
-  - "Si passa cada tarda a l’hora de posta de sol, pot ser *sundowning*; una rutina estable i bona llum poden ajudar."
-  - "Prepari-ho per si intenta marxar, i truqui al metge per qualsevol canvi sobtat."
+  - "«Vull tornar a casa» sovint vol dir «no em sento segur o segura ni tranquil o tranquil·la», no una petició d'una adreça."
+  - "Discutir o intentar demostrar que ja és a casa sol empitjorar l'angoixa. Responeu al que sent."
+  - "Demaneu-li que us expliqui coses de casa seva i, després, oferiu fotos, música, un berenar, una passejada o una tasca senzilla."
+  - "Comproveu si hi ha alguna cosa que es pugui resoldre: gana, set, anar al lavabo, dolor, massa calor o fred, soroll, cansament."
+  - "Si passa cada tarda al final del dia, pot ser inquietud al capvespre; una rutina estable i bona llum poden ajudar."
+  - "Planifiqueu la seguretat si intenta marxar i truqueu al seu metge o metgessa davant de qualsevol canvi sobtat."
 faq:
-  - q: "Per què la meva mare amb demència demana sempre tornar a casa quan ja hi és?"
-    a: "La demència pot fer que les habitacions conegudes semblin estranyes, i de vegades la persona sent que és en una etapa anterior de la vida. «Casa» pot voler dir la casa de la infància o simplement la sensació de seguretat i comoditat. Respondre a aquest sentiment sol funcionar millor que assenyalar on és."
-  - q: "Què he de dir quan demanen tornar a casa?"
-    a: "Proveu «Aquí està a salvo, i em quedo amb vostè» i després «Expliqui’m com és casa seva». Escolti, comparteixi una foto o una cançó, i ofereixi una beguda o una passejada curta. Eviti dir «Ja és a casa» com a correcció, perquè pot semblar que se li diu que s’equivoca."
-  - q: "Està bé dir que tornarem a casa més tard?"
-    a: "Les famílies i les organitzacions de demència no hi estan d’acord. Molts comencen amb un consol sincer i una reorientació, i reserven una petita mentida amable per als moments en què la veritat només causaria un malestar que la persona no pot processar. Triï el que triï, sigui amable i coherent, i no es burli mai de la seva percepció de la realitat."
-  - q: "Què faig si intenten sortir de casa?"
-    a: "Mantingui la calma i camini amb la persona en lloc de bloquejar-li el pas; una passejada curta sovint calma l’impuls. Prepari mesures de seguretat amb antelació, com una polsera d’identificació, timbres a la porta i una foto recent. Si desapareix, comenci a buscar-la de seguida, i truqui al 112 (a Europa) o al 911 (als Estats Units) si no l’ha trobat en 15 minuts, dient que la persona té demència."
-  - q: "Quan he de trucar al metge?"
-    a: "Truqui aviat al metge de la persona si la petició o la confusió comença de cop o empitjora molt en hores o dies, sobretot amb febre, un medicament nou o signes d’infecció d’orina. La confusió sobtada pot ser un delirium, que necessita atenció urgent. Truqui al 112 o al 911 si algú està en perill."
+  - q: "Per què la meva mare amb demència demana tornar a casa encara que ja hi és?"
+    a: "La demència pot fer que les habitacions conegudes semblin estranyes, i de vegades les persones se senten en una etapa anterior de la vida. «Casa» pot ser la casa de la infància o, simplement, la sensació d'estar segur o segura i còmode. Respondre a aquest sentiment sol funcionar millor que assenyalar on és."
+  - q: "Què hauria de dir quan demana tornar a casa?"
+    a: "Podeu provar amb «Aquí estàs segur o segura i em quedo amb tu» i, després, «Explica'm coses de casa teva». Escolteu, compartiu una foto o una cançó i oferiu-li alguna cosa per beure o una passejada curta. Eviteu dir «Ja ets a casa» com a correcció, perquè pot sentir que li dieu que s'equivoca."
+  - q: "Està bé dir que ja hi anirem més tard?"
+    a: "Les famílies i les organitzacions especialitzades en demència tenen opinions diferents. Moltes comencen amb un consol honest i una redirecció suau, i es guarden una mentida piadosa per als moments en què la veritat només causaria una angoixa que la persona no pot gestionar. Feu el que feu, sigueu amable i coherent, i no us en burleu mai de la seva manera de viure la realitat."
+  - q: "I si intenta sortir de casa?"
+    a: "Mantingueu la calma i camineu amb la persona en lloc de bloquejar-la; sovint una passejada curta ajuda a calmar aquesta necessitat. Poseu mesures de seguretat amb antelació, com ara una polsera identificativa, timbres a les portes i una foto recent. Si la persona desapareix, comproveu els llocs segurs propers mentre us poseu en contacte de seguida amb la policia local o els serveis d'emergència. No espereu un nombre determinat de minuts abans d'avisar."
+  - q: "Quan hauria de trucar al metge o la metgessa?"
+    a: "Truqueu de seguida al seu metge o metgessa si la petició o la confusió comencen de sobte o empitjoren molt en qüestió d'hores o dies, sobretot si hi ha febre, un medicament nou o signes d'una infecció del tracte urinari. Una confusió sobtada pot ser un deliri i necessita atenció urgent. Truqueu al 911 si algú corre perill."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -45,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -62,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-«Vull tornar a casa.» Per a moltes famílies, és una de les coses més difícils d’escoltar, sobretot quan la persona a qui cuida està asseguda a la seva pròpia sala d’estar. És habitual, pot passar en qualsevol etapa de la demència, i hi ha maneres tranquil·les i pràctiques de respondre. Aquesta pàgina explica què volen dir sovint aquestes paraules, què dir, quines activitats poden ajudar en aquell moment i com mantenir la seguretat.
+«Vull tornar a casa». Per a moltes famílies, és una de les coses més difícils de sentir, sobretot quan la persona que cuideu és asseguda al seu propi menjador. És habitual, pot passar en qualsevol etapa de la demència i hi ha maneres tranquil·les i pràctiques de respondre. En aquesta pàgina trobareu què solen significar aquestes paraules, què dir, activitats que poden ajudar en aquell moment i com mantenir la seguretat.
 
-## Per què una persona amb demència demana sempre tornar a casa?
+## Per què una persona amb demència demana tornar a casa una vegada i una altra?
 
-Normalment, «casa» és més un sentiment que un lloc. L’Alzheimer’s Society la descriu com una sensació de confort i seguretat, o una casa del passat, més que la casa en si. La demència pot fer que les habitacions conegudes semblin estranyes, i una persona pot sentir que viu en una etapa anterior de la vida, quan la casa era la de la infància o el lloc on va criar els fills.
+Normalment, «casa» és més un sentiment que un lloc. L'Alzheimer's Society ho descriu com una sensació de confort i seguretat, o una casa del passat, més que no pas l'edifici en si. La demència pot fer que les habitacions conegudes semblin estranyes, i la persona pot sentir que viu en una etapa anterior de la vida, quan casa era la casa de la infància o el lloc on va criar els seus fills.
 
-Les paraules també poden ser un senyal que alguna cosa no va bé en aquell moment: pot tenir gana, set, ganes d’anar al lavabo, dolor, calor o fred excessius, cansament, solitud, por, o el soroll l’aclapara. El [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) enumera el dolor, el soroll, la solitud, els canvis de rutina i els medicaments entre les causes de l’agitació.
+Aquestes paraules també poden ser un senyal que, ara mateix, hi ha alguna altra cosa que no va bé: té gana, set, necessitat d'anar al lavabo, dolor, massa calor o fred, cansament, se sent sola, espantada o aclaparada pel soroll. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) inclou el dolor, el soroll, la soledat, els canvis de rutina i els medicaments entre les causes de l'agitació.
 
-## Què he de dir quan demanen tornar a casa?
+## Què hauria de dir quan demana tornar a casa?
 
-Respongui al sentiment, no a les paraules. La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) aconsella no intentar convèncer la persona que s’equivoca: els seus sentiments són reals, així que primer respongui amb consol i tranquil·litat, i després reorienti amb delicadesa.
+Responeu al que sent, no a les paraules literals. La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) aconsella no intentar convèncer la persona que s'equivoca: el que sent és real, així que responeu primer amb confort i tranquil·litat i, després, redirigiu-la amb suavitat.
 
 Frases que sovint ajuden:
 
-- **Anomeni el sentiment.** «Sembla que troba a faltar casa seva.»
-- **Doni seguretat.** «Aquí està a salvo, i em quedo amb vostè.» L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggereix les paraules senzilles «Aquí està a salvo».
-- **Convidi a recordar.** «Expliqui’m com és casa seva. Com era la cuina?» Preguntar pel passat llunyà sol ser més còmode que les preguntes sobre el dia d’avui.
-- **Ofereixi alguna cosa junts.** «Prenguem primer un te?» o «M’ajudaria a plegar aquestes tovalles?»
+- **Poseu nom al que sent.** «Sembla que trobes a faltar casa teva».
+- **Doneu tranquil·litat.** «Aquí estàs segur o segura i em quedo amb tu». L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) proposa les paraules senzilles «Aquí estàs segur o segura».
+- **Convideu-la a recordar.** «Explica'm coses de casa teva. Com era la teva cuina?». Preguntar pel passat llunyà sol ser més còmode que fer preguntes sobre avui.
+- **Oferiu fer alguna cosa junts.** «Prenem primer una tassa de te» o «M'ajudaries amb aquestes tovalloles?».
 
-Un to càlid i una mà al braç, si a la persona li agrada el contacte, poden dir més que les paraules.
+Un to càlid i una mà al braç, si li agrada el contacte, poden dir més que les paraules.
 
-## Què he d’evitar?
+## Què hauria d'evitar?
 
-- **Discutir o explicar.** «Ara viu aquí» o «Aquesta ha estat la seva casa durant 40 anys» li demanen que accepti una cosa que la demència fa difícil d’acceptar, i pot semblar que li diuen que s’equivoca.
-- **Fer preguntes com un examen.** «No se’n recorda?» o «Quina és l’adreça?» afegeixen pressió.
-- **Bloquejar la porta amb enuig.** Si volen sortir, mantingui la calma i camini amb la persona. Una passejada curta junts sovint calma l’impuls.
-- **Tenir pressa.** Doni temps perquè parli de casa abans de canviar de tema.
+- **Discutir o donar explicacions.** Dir «Ara vius aquí» o «Aquesta ha estat casa teva durant quaranta anys» demana que accepti una cosa que la demència fa difícil d'acceptar, i pot sentir que li dieu que s'equivoca.
+- **Fer preguntes com si fos un examen.** «No te'n recordes?» o «Quina és l'adreça?» afegeix pressió.
+- **Bloquejar la porta amb empipament.** Si s'encamina cap a fora, mantingueu la calma i camineu amb la persona. Sovint, fer una passejada curta junts ajuda a calmar aquesta necessitat.
+- **Córrer.** Doneu-li temps per parlar de casa abans de canviar de tema.
 
 ## Activitats que poden ajudar en aquell moment
 
-Després de reconèixer el sentiment, una activitat tranquil·la i coneguda pot desviar l’atenció sense menysprear-lo.
+Després d'haver reconegut el que sent, una activitat tranquil·la i familiar pot desviar l'atenció sense ignorar-la.
 
-1. **Mirar fotos de casa i de la família.** Giri les pàgines i faci comentaris («Miri aquell jardí») en lloc de fer preguntes. En una tauleta o un mòbil, les [Parelles de fotos](/games/photo-pairs/) converteixen les fotos de família que triï en un joc tranquil d’aparellar, i les fotos es queden al dispositiu.
-2. **Parlar de casa.** Les [targetes de conversa](/games/conversation-cards/) ofereixen preguntes obertes sobre cases, cuines, veïns i festes, sense respostes correctes.
-3. **Posar música que li agrada.** El NIA inclou la música relaxant entre les maneres de calmar l’agitació. Vegi les nostres [activitats de música](/activities/music/).
-4. **Prendre un refrigeri o una beguda.** La gana i la set poden semblar inquietud. Una tassa de te o un dolç preferit és també un petit ritual de sentir-se a casa.
-5. **Fer una passejada o seure fora.** El moviment i la llum del dia ajuden, sobretot al principi del dia.
-6. **Donar una feina coneguda.** Plegar la roba, ordenar els coberts o regar les plantes poden fer tornar la sensació de portar una casa.
-7. **Alentir-ho tot.** Apagui la televisió, redueixi el soroll i els enlluernaments, i prove una pausa de [respiració tranquil·la](/games/calm-breathing/) compartida.
+1. **Mireu fotos de casa i de la família.** Passeu les pàgines i feu comentaris («Mira quin jardí») en lloc de fer preguntes. En un telèfon o una tauleta, [Parella de fotos](/games/photo-pairs/) converteix les vostres fotos de família en un joc d'aparellar suau, i les fotos es queden al vostre dispositiu.
+2. **Parleu de casa.** [Targetes de conversa](/games/conversation-cards/) ofereixen propostes obertes sobre cases, cuines, veïns i festes, sense respostes correctes.
+3. **Poseu música que li agradi.** El National Institute on Aging inclou la música relaxant entre les maneres de calmar l'agitació. Consulteu les nostres [activitats amb música](/activities/music/).
+4. **Oferiu un berenar o alguna cosa per beure.** La gana i la set poden semblar inquietud. Una tassa de te o un berenar preferit també és un petit ritual de sentir-se a casa.
+5. **Sortiu a passejar o seieu a fora.** El moviment i la llum del dia ajuden, sobretot a primera hora.
+6. **Proposeu-li una tasca coneguda.** Doblegar la roba, ordenar coberts o regar les plantes pot recuperar la sensació de tenir cura de la llar.
+7. **Alentiu-ho tot.** Apagueu la televisió, reduïu el soroll i l'enlluernament i proveu una pausa compartida de [respiració tranquil·la](/games/calm-breathing/).
 
-Si una idea no funciona, provi-ne una altra més tard. Seure en silenci junts també és un bon resultat.
+Si una idea no funciona, proveu-ne una altra més tard. Seure junts en silenci també és un bon resultat.
 
-## Comprovi si hi ha una causa que es pugui arreglar
+## Comproveu si hi ha una causa que es pugui resoldre
 
-| Comprovi | Què provar |
+| Comproveu | Què podeu provar |
 | --- | --- |
-| Gana o set | Ofereixi una beguda i un petit refrigeri |
-| Necessita anar al lavabo | Ofereixi d’anar al lavabo, amb calma i sense fer-ne cap escàndol |
-| Dolor o malestar | Busqui senyals com fer ganyotes, subjectar una part del cos o restrenyiment, i digui-ho al metge de la persona |
-| Massa calor o massa fred | Ajusti una capa de roba o la temperatura de l’habitació |
-| Soroll o aglomeració | Passi a una habitació més tranquil·la, apagui la televisió |
-| Cansament o sobreestimulació | Descans, baixi la llum de l’habitació, posi música suau |
-| Última hora de la tarda | Vegi l’apartat sobre el *sundowning* més avall |
+| Gana o set | Oferiu alguna cosa per beure i un berenar petit |
+| Necessitat d'anar al lavabo | Oferiu anar al lavabo, amb calma i sense donar-hi importància |
+| Dolor o malestar | Fixeu-vos en signes com fer una ganyota, aguantar-se una part del cos o restrenyiment, i expliqueu-ho al seu metge o metgessa |
+| Massa calor o massa fred | Ajusteu una capa de roba o la temperatura de l'habitació |
+| Soroll o massa gent | Aneu a una habitació més tranquil·la i apagueu la televisió |
+| Cansament o massa estimulació | Descanseu, abaixeu la llum i poseu música suau |
+| Final de la tarda | Mireu l'apartat sobre la inquietud al capvespre |
 
-L’Alzheimer’s Society suggereix anotar breument quan es fa la petició, com abans dels àpats, després de les visites o al capvespre. Els patrons faciliten planificar amb antelació.
+L'Alzheimer's Society suggereix portar un registre breu de quan passa, per exemple abans dels àpats, després de les visites o al capvespre. Els patrons fan més fàcil planificar-ho amb antelació.
 
-## Està bé dir una mentida pietosa?
+## Està bé dir una mentida piadosa?
 
-És un debat real, i les famílies amables arriben a conclusions diferents. L’Alzheimer’s Society diu que no hi ha una única resposta correcta: les mentides poden fer que algunes persones desconfiïn més, així que cal decidir què és millor per a la persona i ser coherent. Al Penn Memory Center, la postura exposada per un dels codirectors és que la veritat és l’opció per defecte, que una mentida suau només és acceptable quan la persona no pot processar una veritat concreta, i que mai no s’ha de burlar de la seva realitat.
+És un debat real, i famílies benintencionades arriben a conclusions diferents. L'Alzheimer's Society diu que no hi ha una única resposta correcta: les mentides poden fer que algunes persones sospitin més, així que decidiu què és millor per a la persona i sigueu coherents. Al Penn Memory Center, l'opinió del codirector és que la veritat és el punt de partida i que una mentida piadosa només és acceptable quan la persona no pot processar una veritat concreta, i que mai no us n'hauríeu de burlar de la seva realitat.
 
-Moltes persones cuidadores troben que funciona un camí intermedi: primer un consol sincer i una reorientació («Ens quedarem aquí aquesta nit, i sóc aquí amb vostè»), sense discutir on és la casa.
+Moltes persones cuidadores troben un camí entremig que funciona: primer consol honest i redirecció («Aquesta nit ens quedarem aquí i jo sóc aquí amb tu»), sense discutir sobre on és casa.
 
-## Què passa si succeeix cada tarda o cada vespre?
+## I si passa cada tarda o cada vespre?
 
-La inquietud que comença o empitjora a última hora de la tarda sovint s’anomena *sundowning*. El [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggereix un horari estable, llum del dia i activitat diària, menys migdiades a última hora i ni cafeïna ni alcohol a última hora del dia. Encendre els llums abans que es faci fosc també pot ajudar. La nostra [guia sobre activitats tranquil·les a última hora de la tarda](/caregiving/late-day-restlessness/) n’explica més.
+La inquietud que comença o empitjora al final de la tarda sovint s'anomena síndrome del capvespre. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggereix un horari estable, llum solar i activitat cada dia, menys migdiades tardanes i evitar la cafeïna o l'alcohol al final del dia. Encendre els llums abans que es faci fosc també pot ajudar. La nostra guia d'[activitats tranquil·les per al final de la tarda](/caregiving/late-day-restlessness/) té més informació.
 
-## Com mantenir-la segura si intenta marxar
+## Com mantenir la seguretat si intenta marxar
 
-Demanar tornar a casa pot portar a l’errància. L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) calcula que sis de cada deu persones que viuen amb demència vagaran almenys una vegada.
+Demanar tornar a casa pot portar a deambular. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) calcula que sis de cada deu persones que viuen amb demència deambularan almenys una vegada.
 
-**Prepari-ho amb antelació:**
+**Prepareu-vos amb antelació:**
 
-- Una polsera d’identificació o mèdica amb el nom de la persona i el número de telèfon de qui la cuida, i etiquetes a la roba. El [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) menciona el programa MedicAlert i Safe and Found de l’Alzheimer’s Association, que pot tenir costos.
-- Un timbre o una alarma a la porta, i pestells col·locats alt o baix. Mai no tanqui la persona sola a dins.
-- Una foto recent de primer pla, i una llista de llocs on podria anar, com una antiga casa o un lloc de feina.
-- Expliqui-ho als veïns de confiança, i doni’ls el seu número de telèfon.
+- Una polsera identificativa o mèdica amb el seu nom i el vostre número de telèfon, i etiquetes a la roba. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) esmenta el programa MedicAlert and Alzheimer's Association Safe and Found, que pot tenir un cost.
+- Un timbre o una alarma a la porta i panys col·locats a dalt o a baix. No tanqueu mai la persona sola amb clau.
+- Una foto recent de primer pla i una llista de llocs on podria anar, com ara una casa o una feina anteriors.
+- Aviseu veïns de confiança i doneu-los el vostre número.
 
-**Si desapareix:** comenci a buscar de seguida; l’Alzheimer’s Association assenyala que moltes persones es troben a menys de 1,5 milles. Si no l’ha trobat en 15 minuts, truqui al 112 (a Europa) o al 911 (als Estats Units) i digui que la persona té demència. Truqui al 112 o al 911 de seguida si algú està en perill.
+**Si desapareix:** comproveu els llocs segurs propers mentre us poseu en contacte de seguida amb la policia local o els serveis d'emergència. No espereu un nombre determinat de minuts abans d'avisar. Un [article del U.S. Department of Justice del 2021 sobre investigacions de persones desaparegudes](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) diu que els cossos policials no haurien d'exigir un període d'espera establert; també inclou símptomes semblants als de la demència com a motiu d'alt risc. Els procediments locals per avisar poden variar. Expliqueu als equips d'emergència que la persona té demència, compartiu l'última ubicació coneguda i una foto recent, i seguiu les seves indicacions. Si hi ha una altra persona que pugui ajudar, demaneu-li que es quedi al costat del telèfon. No busqueu sola o sol en llocs que no siguin segurs.
 
-## Quan he de trucar al metge?
+## Quan hauria de trucar al metge o la metgessa?
 
-Truqui aviat al metge de la persona si la petició o la confusió comença de cop, o empitjora molt en hores o dies. El [NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) diu que els comportaments sobtats o que canvien ràpidament, sobretot després d’una infecció o d’un canvi de medicament, s’han de revisar de seguida. La confusió sobtada pot ser un delirium, que segons el [NHS](https://www.nhs.uk/symptoms/confusion/) necessita ajuda urgent; les infeccions urinàries són una causa habitual en persones grans.
+Truqueu de seguida al seu metge o metgessa si la petició o la confusió comencen de sobte o empitjoren molt en qüestió d'hores o dies. El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) diu que els canvis de comportament sobtats o que evolucionen ràpidament, sobretot després d'una infecció o d'un canvi de medicació, s'han de revisar de seguida. Una confusió sobtada pot ser un deliri, que segons l'[NHS](https://www.nhs.uk/symptoms/confusion/) necessita ajuda urgent; les infeccions del tracte urinari són una causa freqüent en persones grans.
 
-També ajuda esmentar un patró constant a la pròxima visita, ja que el dolor, l’estat d’ànim baix, els problemes de son o els efectes secundaris dels medicaments hi poden tenir un paper.
+També és útil comentar un patró que es manté en el temps a la propera visita, ja que el dolor, l'estat d'ànim baix, els problemes de son o els efectes secundaris dels medicaments també hi poden tenir a veure.

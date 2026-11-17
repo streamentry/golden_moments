@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Misala ya miziki mpo na bokono bwa kobosana makambo"
+seoTitle: "Miziki mpo na bokono bwa kobosana makambo: makanisi"
+description: "Ndenge ya kokabola miziki na moto azali kobika na bokono bwa kobosana makambo: kosala liste ya miziki, misala 15 ya pete, mpe toli mpo na etape nyonso."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Miziki ezali moko ya misala ya pete mingi oyo bokoki kosala elongo na moto
+  azali kobika na bokono bwa kobosana makambo. Bosala liste ya miziki oyo
+  ewutaka na bolenge na ye, na kondima na ye mpe na libota na ye. Bobeta yango
+  kozanga piblisite to makelele mosusu, mpe boyemba, bobeta maboko, boningana
+  to boyoka yango elongo. Bopona miziki ya kimya to ya esengo kolanda tango,
+  botika mongongo na se, mpe botika soki nzembo moko epesi ye mawa.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Miziki oyo moto ayebi malamu esalaka malamu koleka: miziki oyo alingaki na bolenge na ye, mpe miziki ya kondima, ya mimeseno mpe ya makambo ya libota."
+  - "Bobeta likambo moko na mbala moko, kozanga piblisite mpe kozanga televizyó oyo ezali kobeta."
+  - "Koyemba, kobeta maboko, koningana mpe koyoka kaka ezali banzela nyonso ya kosangana."
+  - "Bosalela miziki ya kimya mpo na kokitisa motema mpe miziki ya makasi mpo na kopesa esengo, mpe botalá ndenge moto azali koyoka."
+  - "Bolukiluki na misala ya miziki oyo esalemi na ndenge ya ebongiseli ezali moke; tozali kopesa likanisi ya miziki lokola eloko ya malamu ya kokabola, kasi te lokola kisi."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Lolenge nini ya miziki nde malamu mpo na moto azali kobika na bokono bwa kobosana makambo?"
+    a: "Miziki oyo moto ayebi mpe alingaki banda kala, mingi mbala oyo ya bambula na ye ya bolenge mpe ya ebandeli ya bokóló, elongo na miziki ya kondima, ya mimeseno mpe ya bafɛti ya libota. Soki ekoki kosalema, botika ye apona. Botalá elongi mpe nzoto na ye mpo na koyeba oyo alingaka, mpe botika nyonso oyo emonani kopesa ye mawa."
+  - q: "Esengeli tosala na ba écouteurs?"
+    a: "Bato mosusu balingaka ba écouteurs mpo ekangaka makelele, kasi bamosusu bamonaka yango mpasi to ekosaka bango. Bomeka naino na haut-parleur mpo boyoka elongo. Soki bosaleli ba écouteurs, botika mongongo na se mpe botikala pene na ye."
+  - q: "Miziki ekoki kosalisa soki moto azali kotambola-tambola mingi to azali na mobulungano?"
+    a: "Miziki ya kimya mpe ya boyebi ekoki kosalisa kobongisa ezaleli ya kimya, mpe Alzheimer's Association epesi likanisi ya kosalela miziki mpo na kobongisa mopepe oyo bolingi. Esalaka bongo ntango nyonso te. Soki moto azali na mawa, botalá mpe soki azali na mpasi, nzala, makelele to mposa ya kopema."
+  - q: "Bato bazali na etape ya suka ya bokono bwa kobosana makambo bakoki naino kosepela na miziki?"
+    a: "Ebele bakoki. Alzheimer's Association elobi ete moto oyo azali na etape ya suka akoki naino kobeta rythme to koyemba nzembo ya bolenge na ye. Bovanda pene, bobeta miziki malembe mpe bosimba loboko na ye to boningana elongo."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Miziki ezali moko ya makambo ya pete mingi oyo bokoki kokabola na moto azali kobika na bokono bwa kobosana makambo. Esengaka eloko te: biyano ya malamu te, matambe ya kolanda te. Nzembo oyo moto ayebi malamu ekoki komema elili, kobeta makolo to maloba mike ya koyemba, ata na mokolo oyo lisolo ezali mpasi. Oyo esengeli kaka ezali miziki oyo ebongi mpo na moto yango mpe mwa tango ya kimya mpo na kobeta yango.
 
-## What music activities work for people with dementia?
+## Misala nini ya miziki esalaka malamu mpo na bato bazali kobika na bokono bwa kobosana makambo?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Koyoka, koyemba, kobeta maboko, koningana mpe kolobela miziki nyonso esalaka malamu. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) epesi likanisi ya kobeta miziki, kolobela miziki mpe moyembi, koyemba to kobina na banzembo oyo eyebani malamu, mpe kokende na bakonsɛrɛ to manaka ya miziki na esika oyo bozali. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ebakisi ete kininga lokola kobeta maboko to kobina ekoki kobakisa esengo, mpe ete miziki ekoki kozala ndenge ya kokangama na moto ata soki maloba ekomi mpasi.
 
-## How do you build a personal playlist?
+## Ndenge nini ya kosala liste ya miziki ya moto moko?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Eloko ya ntina mingi oyo bokoki kosala ezali liste ya miziki oyo ezali na ntina mpo na moto yango. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) elobeli mpe miziki oyo ezali na ntina mpo na moto. Tala ndenge ya pete ya kosala yango.
 
-### Start with their life
+### Bobanda na bomoi na ye
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Bambula na ye ya bolenge mpe ya ebandeli ya bokóló.** Bokanisa miziki oyo ezalaki na radio, na mabina mpe na bafilime ntango azalaki elenge.
+- **Makambo minene.** Miziki ya libala na ye, ya libina ya liboso, to albome ya mobembo ya libota oyo alingaki mingi.
+- **Kondima mpe mimeseno.** Banzembo ya losambo, gospel, miziki ya kondima, to banzembo na monoko na ye ya liboso.
+- **Mosala mpe misala mosusu.** Miziki ya bato ya soda, banzembo ya mosala, to miziki oyo ekangami na tango moko ya mosala ya soda.
+- **Oyo libota ebandelaka.** Botuna bandeko, bana mpe baninga ya kala miziki nini bazalaki kobeta to koyemba tango nyonso.
 
-### Think in genres, not just songs
+### Bokanisa lolenge ya miziki, kasi te banzembo kaka
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Soki boyebi te esika ya kobanda, bomeka mwa miniti ya lolenge moko na moko oyo elandi mpe botalá eyano: big band mpe swing, doo-wop, Motown mpe soul, rock and roll ya ebandeli, country mpe western, bluegrass, gospel mpe banzembo ya losambo, banzembo ya Broadway, jazz, miziki ya Latin lokola boleros to mariachi, polka, folk mpe classique. Bobomba oyo ememaka elili to kobeta makolo; botika oyo ememaka elongi ya mawa.
 
-### Make it easy to play
+### Bosala ete ezala pete mpo na kobeta
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Kozanga piblisite.** Alzheimer's Association ekebisi ete piblisite ekoki kobimisa mobulungano. Bosalela miziki oyo ezwami na aparɛyi, ba CD, ba disque to service oyo ezangi piblisite.
+- **Aparɛyi moko ya pete.** Haut-parleur moko oyo ezali na butɔ monene moko, to liste ya miziki oyo ebongisami liboso, mpo moto nyonso akoka kobanda yango.
+- **Baliste mibale ya mikuse.** Liste moko ya kimya mpo na kokitisa motema mpe liste moko ya esengo mpo na kotombola morale.
+- **Bokoma nkombo.** Bokoma nkombo ya moto mpe "miziki oyo alingaka" na aparɛyi mpo bato ya libota oyo bakoya kotala mpe basali bakoka kosalela yango.
 
-## 15 music activities to try
+## Misala 15 ya miziki ya komeka
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Boyoka elongo.** Bovanda pembeni na pembeni kozanga eloko mosusu. Koyoka yango moko ezali mosala ya kokoka.
+2. **Boyemba elongo.** Bobanda koyemba bino moko. Kolola malembe to kofungola monoko ndenge nzembo ezali kokende ezali mpe malamu.
+3. **Bobeta maboko to bobeta rythme.** Bobeta na mabolongo, na mesa, to na ngɔmbɛ ya maboko to eloko ya kobeta.
+4. **Bobina malembe.** Bosimbana maboko mpe boningana na kikuku, to bobina bovandi, boningana maboko elongo.
+5. **Bobina na elamba ya pete.** Boningisa bilamba ya pete kolanda miziki, botɛlɛmi to bovandi.
+6. **Bolobela miziki.** Bobengisa, kasi bomeka te: "Oyo ezali lokola esika ya kobina. Yebisa ngai makambo ya mabina." Kotuna te ata moke "Obosani nzembo oyo te?"
+7. **Bobeta albome mobimba.** Botia disque oyo alingaki, kobanda tii na suka, na mwa kafe.
+8. **Botalá bafoto ya ba albome.** Bafoto ya kala ya ba disque ezali malamu mpo na kolobela bilamba, mituka mpe elongi.
+9. **Botalá miziki ya bafilime.** Filime ya miziki to konsɛrɛ ya tango na ye ekoki kozala malamu na mpokwa. Bopema mwa moke na kati.
+10. **Bobeta esaleli ya miziki oyo ayebi.** Moto oyo azalaki kobeta piano to guitare akoki kosepela kobeta mwa moke. Na sima, kopona mwa noti mike elongo ekoki kokoka.
+11. **Miziki ntango ya mosala.** Bobeta banzembo oyo alingaka ntango bozali kopikisa bilamba to kobongisa mesa.
+12. **Nzembo ya ntongo.** Bobanda mokolo nyonso na nzembo moko ya esengo lokola eteni ya momesano.
+13. **Boyemba banzembo ya losambo to ya kondima.** Bobeta miziki ya kondima na ye mpe boyemba elongo.
+14. **Bokota na lisanga ya koyemba.** NHS elobeli ete masanga ya koyemba ezali malamu mpo na morale mpe bozali malamu. Botuna pene na bino soki ezali na bakɔrɛ ya bato bazali kobika na bokono bwa kobosana makambo.
+15. **Bokende koyoka miziki na bomoi.** Konsɛrɛ ya mikuse na esika ya mboka to libanda. Bovanda pene ya liboso mpo na kobima, mpe bokende ntango nyonso bolingi.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Mpo na mosala mosusu ya pete ya maloba na masapo oyo eyebani, bomeka [finish the saying](/games/finish-the-saying/), epai wapi bokoki ntango nyonso kolakisa suka.
 
-## Matching music to the moment
+## Kokokanisa miziki na tango
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association epesi likanisi ya kosalela miziki mpo na kobongisa mopepe oyo bolingi: miziki ya kimya mpo na mopepe ya kimya, mpe nzembo ya esengo ya bolenge ya moto mpo na kotombola morale.
 
-| Moment | Try | Tip |
+| Tango | Bomeka | Toli |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Kolamuka | Nzembo ya boyebi, ya esengo | Nzembo moko na ntongo nyonso ekomi elembo ya malembe |
+| Misala ya ndako | Banzembo ya esengo oyo alingaka | Miziki ekoki kosala ete mosala ezala lokola bozali na moninga |
+| Bilei | Miziki ya malembe kozanga maloba | Botika yango na se mpo eyokana te na kolia |
+| Mpokwa ya suka | Miziki ya kimya, ya boyebi na pole malamu | Botalá [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Kolala | Miziki ya malembe, ya kimya | Bokitisa mongongo mpe pole elongo |
+| Etape ya suka | Banzembo oyo alingaka mingi, malembe mingi | Bovanda pene mpe bosimba loboko |
 
-## Tips for a good experience
+## Batoli mpo na tango ya malamu
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Bokanga makelele mosusu.** Alzheimer's Association epesi likanisi ya kokanga maninisa mpe bikuke mpe kokanga televizyó mpo miziki ezala mongongo kaka.
+- **Botika mongongo na se.** Miziki esengeli kozala malamu, te makasi. Soki moto asalelaka bamasini ya koyoka, botalá soki ezali mpe ezali kosala malamu; botalá [hearing](/brain-health/hearing/).
+- **Botalá banzembo oyo ekoki komema mawa.** Nzembo mosusu ekoki kobimisa mawa, bitumba to kobungisa moto. Soki nzembo epesi ye mawa, bobɔndisa ye mpe bobongola yango.
+- **Botika ye akamba.** Soki ekoki, botika moto apona miziki, mpe bondima soki alobi te.
+- **Botika ntango nyonso.** Miniti mitano ya miziki ezali mosala ya malamu. Kokanga yango mpe kovanda kimya ezali mpe malamu.
 
-## What does the research say about music and dementia?
+## Bolukiluki elobi nini na ntina ya miziki mpe bokono bwa kobosana makambo?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Makambo oyo eyebani ezali moke. [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) etalaki boyekoli 30 ya misala ya miziki oyo esalemi na ndenge ya ebongiseli, mingi na masanga na bandako ya kobatela. Emonaki ete misala yango ekoki kokitisa mwa moke bilembo ya mawa ya motema soki tokokanisi na lisalisi ya mokolo na mokolo, kasi emonaki bopusi ya polele te na mobulungano, bozali malamu to kokanisa mpe kobosana makambo, mpe emonaki bopusi te oyo ewumelaki sima ya misala.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Tokabolaka miziki mpo ezali ndenge ya malamu mpe ya pete ya kolekisa tango elongo, kasi te lokola kisi. Mpo na bisika ya masanga, botalá [care home group activities](/activities/care-home-groups/); mpo na kosalela miziki elongo na bafoto mpe masolo, botalá [reminiscence activities](/activities/reminiscence/).

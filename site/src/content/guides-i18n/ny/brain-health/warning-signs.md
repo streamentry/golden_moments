@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Zizindikiro zoyamba za kuiwala ndi kukaonana ndi dokotala"
+seoTitle: "Zizindikiro zoyamba za kuiwala ndi kukaonana ndi dokotala"
+description: "Zizindikiro zoyamba za matenda a kuiwala, kusiyana kwake ndi kukalamba, zifukwa zina za mavuto a kukumbukira, ndi kukonzekera kukaonana ndi dokotala."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Kutaya kukumbukira komwe kusokoneza moyo wa tsiku ndi tsiku, kuvutika kugwira ntchito zodziwika,
+  kusokonezeka pa nthawi kapena malo, komanso kusintha kwa maganizo kapena kuweruza zinthu kungakhale
+  zizindikiro zoyamba za matenda a kuiwala. Mavuto ena ambiri, kuphatikizapo mavuto a chithokomiro,
+  kuchepa kwa vitamini B12, zotsatira za mankhwala, kupsinjika maganizo ndi mavuto a tulo, angayambitsenso
+  kusintha kofanana. Katswiri wa zachipatala wokha ndi amene angadziwe matendawa. Kusokonezeka komwe
+  kumayamba mwadzidzidzi kumafunika thandizo lachipatala mwachangu.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Kuiwala nthawi zina kumakhala kofala tikamakalamba; kusintha komwe kumasokoneza moyo wa tsiku ndi tsiku kuyenera kufufuzidwa."
+  - "Alzheimer's Association imafotokoza zizindikiro 10 zochenjeza, chilichonse chili ndi chitsanzo cha kusintha kofala chifukwa cha ukalamba poyerekeza."
+  - "Mavuto a chithokomiro, kuchepa kwa vitamini B12, zotsatira za mankhwala, kupsinjika maganizo, matenda opatsirana ndi mavuto a tulo zonse zingakhudze kukumbukira, ndipo zina mwa izi zingathandizidwe."
+  - "Katswiri wa zachipatala wokha ndi amene angadziwe matenda a kuiwala; mayeso a pa intaneti kapena odziyesera nokha sangakwanitse."
+  - "Kusokonezeka komwe kumayamba mwadzidzidzi, mkati mwa maola kapena masiku, kungakhale delirium ndipo kumafunika thandizo lachipatala mwachangu."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Kodi kuiwala ndi mbali yachibadwa ya ukalamba?"
+    a: "Zina ndi choncho. National Institute on Aging imanena kuti kuyika zinthu molakwika kapena kuiwala kulipira bilu nthawi zina nthawi zambiri kumakhala kuiwala pang'ono chifukwa cha ukalamba. Matenda a kuiwala si mbali yachibadwa ya ukalamba. Mavuto a kukumbukira omwe amapangitsa kuti ntchito za tsiku ndi tsiku monga kuyendetsa galimoto, kugwiritsa ntchito foni kapena kupeza njira yobwerera kunyumba zikhale zovuta ayenera kufufuzidwa ndi dokotala."
+  - q: "Kodi mavuto a kukumbukira angayambitsidwe ndi zinthu zina osati matenda a kuiwala?"
+    a: "Inde. National Institute on Aging imatchula, mwa zina, mavuto a chithokomiro, impso kapena chiwindi, zotsatira za mankhwala, kupsinjika maganizo ndi nkhawa, kuchepa kwa vitamini B12, kumwa mowa mopitirira muyeso, mavuto a tulo, matenda opatsirana ndi kuvulala mutu. Ena mwa mavutowa amatha kusintha munthu akalandira chithandizo, ndipo ichi ndi chimodzi mwa zifukwa zomwe kufufuza kwachipatala kuli kofunikira."
+  - q: "Kodi ndingayezetse munthu matenda a kuiwala kunyumba?"
+    a: "Ayi. Katswiri wa zachipatala wokha ndi amene angadziwe matenda a kuiwala, pogwiritsa ntchito mbiri ya zaumoyo, kufufuza thupi, mayeso a kukumbukira ndi kuganiza, mayeso a mu labotale ndipo nthawi zina kujambula zithunzi za ubongo. Ngakhale mayeso achidule omwe madokotala amagwiritsa ntchito sakwanira okha kudziwa matenda a kuiwala."
+  - q: "Kodi ndiyenera kuchita chiyani ngati munthu wasokonezeka mwadzidzidzi?"
+    a: "Pezani thandizo lachipatala nthawi yomweyo. Kusokonezeka mwadzidzidzi kungakhale delirium, yomwe VA imafotokoza kuti ndi ngozi yachipatala. Imbani foni kwa wothandizira zaumoyo wa munthuyo nthawi yomweyo kapena imbani 911, khalani naye pafupi, ndipo lembani mankhwala aliwonse amene akumwa."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Kuzindikira kusintha kwa kukumbukira kwanu, kapena kwa munthu amene mumamukonda, kungakhale kochititsa mantha. Tsambali lingakuthandizeni kusankha nthawi yoti mupite kukaonana ndi dokotala komanso momwe mungakonzekere. Silingakuuzeni ngati munthu ali ndi matenda a kuiwala. **Katswiri wa zachipatala wokha ndi amene angadziwe matenda a kuiwala**, ndipo matenda ambiri omwe amayambitsa mavuto a kukumbukira si matenda a kuiwala. Chonde musadalire mayeso a pa intaneti kapena odziyesera nokha.
 
-## What are the early signs of dementia?
+## Kodi zizindikiro zoyamba za matenda a kuiwala ndi ziti?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) imafotokoza zizindikiro 10 zoyamba. Chizindikiro chilichonse chimayerekezera ndi kusintha kofala chifukwa cha ukalamba. M'mawu athu:
 
-| Sign worth checking | More typical with age |
+| Chizindikiro choyenera kufufuzidwa | Zomwe zimakhala zofala kwambiri ndi ukalamba |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Kutaya kukumbukira komwe kumasokoneza moyo wa tsiku ndi tsiku, monga kuiwala zomwe zachitika posachedwa kapena kufunsa chinthu chomwecho mobwerezabwereza | Kuiwala dzina kapena nthawi yokumana nthawi zina ndikuzikumbukira pambuyo pake |
+| Kuvutika kukonza zinthu kapena kuthetsa mavuto, monga kutsatira njira yophikira yodziwika kapena kusunga ndondomeko ya mabilu | Kulakwitsa nthawi zina polipira mabilu apakhomo |
+| Kuvutika kumaliza ntchito zodziwika kunyumba, kuntchito kapena mukakhala kunja | Kufunika thandizo nthawi ndi nthawi pa kasinthidwe ka microwave kapena kujambula pulogalamu ya pa TV |
+| Kutaya nzeru pa masiku, nyengo kapena komwe muli | Kusokoneza tsiku la sabata, kenako n’kulizindikira |
+| Kuvutika kwatsopano kuweruza mtunda, kuwerenga kapena kusiyanitsa mitundu | Kusintha kwa maso chifukwa cha ng'ala (cataracts) |
+| Mavuto atsopano ndi mawu, monga kuyima pakati pa kukambirana kapena kutcha zinthu mayina olakwika | Kuvutika nthawi zina kupeza liwu loyenera |
+| Kuyika zinthu m'malo achilendo osadziwa komanso kulephera kukumbukira komwe munaziyika | Kuyika zinthu molakwika nthawi ndi nthawi ndikuzipeza pobwerera m'mbuyo |
+| Kuweruza molakwika, monga pa nkhani ya ndalama kapena kudzisamalira | Kupanga chisankho cholakwika nthawi zina |
+| Kusiya zokonda, ntchito kapena zochitika za anthu | Kusafuna kupita ku chochitika cha banja kapena cha anthu nthawi zina |
+| Kusintha kwa maganizo kapena umunthu, monga kusokonezeka, kukayikira, kuchita mantha kapena kukhala ndi nkhawa | Kukhala ndi njira zokhazikika zochitira zinthu komanso kukhumudwa pamene ndondomeko yasokonekera |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Chizindikiro chimodzi chokha sichikutanthauza matenda a kuiwala. Chofunikira ndi **kusintha kuchokera pa momwe munthuyo amakhalira**, makamaka ngati kumapangitsa moyo wa tsiku ndi tsiku kukhala wovuta.
 
-## How is normal aging different from dementia?
+## Kodi ukalamba wachibadwa umasiyana bwanji ndi matenda a kuiwala?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) imanena kuti anthu ambiri okalamba amazindikira kuti amakumbukira zinthu pang'onopang'ono, kapena nthawi zina amayika zinthu molakwika kapena kuiwala bilu. Izi nthawi zambiri zimakhala zizindikiro za kuiwala pang'ono. **Matenda a kuiwala si mbali yachibadwa ya ukalamba.** Mavuto akulu a kukumbukira amapangitsa ntchito za tsiku ndi tsiku kukhala zovuta, monga kuyendetsa galimoto, kugwiritsa ntchito foni kapena kupeza njira yobwerera kunyumba.
 
-The NIA suggests talking with a doctor if someone:
+NIA imalimbikitsa kukambirana ndi dokotala ngati munthu:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Amafunsa mafunso omwewo mobwerezabwereza
+- Amasokera m'malo omwe ankawadziwa bwino
+- Amavutika kutsatira njira zophikira kapena malangizo
+- Amasokonezeka kwambiri pa nthawi, anthu ndi malo
+- Amasiya kudzisamalira, monga kudya mosayenera, kusasamba kapena kuchita zinthu mosatetezeka
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Anthu ena amakhala ndi **mild cognitive impairment (MCI)**. Izi zikutanthauza kukhala ndi mavuto a kukumbukira kapena kuganiza ochulukirapo kusiyana ndi anzawo a msinkhu wawo, koma amatha kusamalira moyo wa tsiku ndi tsiku. NIA imanena kuti MCI ingakhale chizindikiro choyamba cha Alzheimer's, koma si onse omwe ali ndi MCI amene amayamba matendawa.
 
-## What else can cause memory problems?
+## Kodi ndi zinthu zinanso ziti zomwe zingayambitse mavuto a kukumbukira?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Pali zinthu zambiri kupatula matenda a kuiwala zomwe zingakhudze kukumbukira, ndipo zina zimakhala bwino munthu akalandira chithandizo. NIA imatchula:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Mavuto a chithokomiro, impso kapena chiwindi**
+- **Zotsatira za mankhwala**
+- **Kupsinjika maganizo ndi nkhawa**
+- **Kuchepa kwa vitamini B12** kapena kusadya chakudya chokwanira chathanzi
+- **Mavuto a tulo**
+- **Kugwiritsa ntchito mowa kapena mankhwala osokoneza bongo mopitirira muyeso**
+- **Matenda opatsirana, magazi oundana kapena zotupa** mu ubongo
+- **Kuvulala mutu**, monga kugwedezeka kwa ubongo
+- **Kupsinjika kwakukulu kapena chisoni**, monga kupuma pantchito kapena kumwalira kwa mwamuna kapena mkazi wanu
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Mavuto akumva ndi kuona angathenso kuoneka ngati kusokonezeka; onani [kalozera wathu wokhudza kumva](/brain-health/hearing/). Ichi ndi chifukwa chake kufufuza kwachipatala kuli kofunikira. Malinga ndi [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), madokotala nthawi zambiri amalamula mayeso a magazi kuti aone mavuto a chithokomiro, kuchepa kwa mavitamini ndi matenda opatsirana. Ndibwinonso kunena za [tulo labwino](/brain-health/sleep/) komanso chithandizo cha kupsinjika maganizo.
 
-## Sudden confusion is an emergency
+## Kusokonezeka mwadzidzidzi ndi ngozi yachipatala
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Kusokonezeka komwe kumayamba mwachangu, mkati mwa maola kapena masiku, kumafunika thandizo lachipatala mwachangu.** Kungakhale delirium. [VA imafotokoza delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) kuti ndi ngozi yachipatala ndipo imalangiza kuti muyimbire foni wothandizira zaumoyo wa munthuyo nthawi yomweyo kapena kuyimba 911. Zizindikiro zake ndi izi:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Kukwera ndi kutsika kwa luso loganiza bwino
+- Kuvutika kusamala zinthu
+- Maganizo osalongosoka
+- Kugona kwambiri modabwitsa, kapena kukhala osakhazikika komanso ovutika kwambiri modabwitsa
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Izi zingachitikire aliyense, kuphatikizapo anthu omwe akukhala kale ndi matenda a kuiwala. Malinga ndi [NHS](https://www.nhs.uk/symptoms/confusion/), zifukwa zofala zimaphatikizapo matenda opatsirana (matenda a mkodzo ndi ofala kwa anthu okalamba ndi anthu omwe akukhala ndi matenda a kuiwala), sitiroko, kutsika kwa shuga m'magazi kwa anthu omwe ali ndi matenda a shuga, kuvulala mutu ndi mankhwala ena. Mukudikirira thandizo, khalani ndi munthuyo ndipo mumutsimikizire ndi mawu achidule komanso osavuta. Musamufunse mafunso ambiri, ndipo lembani mankhwala aliwonse amene akumwa.
 
-## How do I prepare for the doctor's appointment?
+## Kodi ndingakonzekere bwanji kukaonana ndi dokotala?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Kukaonana kwabwino ndi dokotala kumayamba ndi zolemba zabwino. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) imalimbikitsa kubweretsa:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Mndandanda wa zosintha** pa kukumbukira, maganizo ndi khalidwe, ndi zitsanzo zenizeni komanso nthawi yomwe zidayamba
+2. **Mavuto a zaumoyo akale ndi apano**, kuphatikizapo mbiri ya banja yokhudza mavuto a kukumbukira
+3. **Mankhwala onse olembedwa ndi dokotala komanso ogula popanda kalata ya dokotala**
+4. **Mavitamini kapena zowonjezera zakudya zilizonse**
+5. **Mafunso anu**, monga mayeso omwe adzachitidwe, nthawi yomwe amatenga komanso nthawi yomwe zotsatira zidzatuluke
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Ndibwinonso kubwera ndi wachibale kapena mnzanu amene amamudziwa bwino munthuyo. [NIA ikufotokoza](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) kuti madokotala angafunse munthuyo komanso wachibale za zaumoyo, mankhwala, zochitika za tsiku ndi tsiku komanso kusintha kwa khalidwe. Madokotala angathenso:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Kupereka mayeso a kukumbukira, kuthetsa mavuto, kusamala zinthu, kuwerengera ndi chilankhulo
+- Kulamula mayeso a magazi, mkodzo ndi ena kuti apeze zifukwa zina
+- Kufufuza kupsinjika maganizo kapena mavuto ena a thanzi la maganizo
+- Kulamula kujambula zithunzi za ubongo monga CT kapena MRI
+- Kutumiza kwa katswiri, monga dokotala wa anthu okalamba, katswiri wa minyewa, katswiri wa matenda a maganizo a anthu okalamba kapena katswiri wa neuropsychology
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA imanena kuti kuyezetsa kukumbukira ndi kuganiza ndi gawo lofunikira pa Medicare Annual Wellness Visit, yomwe ingakhale nthawi yabwino kuyambitsa nkhaniyi. Ngakhale mayeso achidule omwe madokotala amagwiritsa ntchito sakwanira okha kudziwa matenda a kuiwala. Ndi gawo loyamba chabe lofikira ku kufufuza kokwanira, ndipo kuzindikira matendawa kungatenge maulendo oposa amodzi. NIA imalangiza kuti anthu omwe ali ndi mavuto a kukumbukira azibwereranso kwa dokotala miyezi 6 mpaka 12 iliyonse.
 
-## Raising the subject kindly
+## Momwe mungayambitsire nkhaniyi mwachifundo
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Ngati mukuda nkhawa ndi munthu wina, sankhani nthawi yabata komanso yachinsinsi. Nenani za zinthu zenizeni zomwe mwazindikira, monga chizindikiro cha kudera nkhawa zaumoyo wake osati kumudzudzula. Kupempha kuti apite ku kafukufuku wa zaumoyo wamba kungakhale kosavuta kulandira. Phatikizani munthuyo pa zisankho ndipo lankhulani naye ngati munthu wamkulu. [Malangizo athu olankhulirana](/caregiving/communication-tips/) angathandize.
 
-## Talk with a doctor
+## Lankhulani ndi dokotala
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Ngati mwaona kusintha kwa kukumbukira, kuganiza, maganizo kapena luso la tsiku ndi tsiku komwe ndi kwatsopano komanso kumapitirira, konzani nthawi yokaonana ndi dokotala wamkulu. Ngati pali kusokonezeka mwadzidzidzi, imbani 911 kapena wothandizira zaumoyo wa munthuyo nthawi yomweyo. Kufufuza msanga kumathandiza kuti zifukwa zomwe zingathandizidwe zipezeke ndipo, ngati ndi matenda a kuiwala, pamakhala nthawi yochulukirapo yokonzekera ndi kupeza chithandizo. Dzisamalireni inunso pa nthawiyi; onani [kalozera wathu wodzisamalira kwa munthu amene akusamalira wina](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Tsambali ndi uthenga wamba, si malangizo azachipatala. Onani [chidziwitso chathu cha zachipatala](/medical-disclaimer/).

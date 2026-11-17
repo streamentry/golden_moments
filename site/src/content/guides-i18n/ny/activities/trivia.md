@@ -1,32 +1,35 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Mafunso Osavuta kwa Okhala ndi Matenda a Kuiwala"
+seoTitle: "Mafunso Osavuta a Matenda a Kuiwala, Ndi Mayankho"
+description: "Mafunso 50 osavuta okhala ndi mayankho ndi mfundo zoyankhulirana, komanso momwe mungachitire popanda kumupangitsa wina kumva ngati akuyesedwa."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Mafunso osavuta kwa anthu amene akukhala ndi matenda a kuiwala amagwira bwino
+  ntchito akakhala ngati kucheza, osati mayeso. Funsani za zinthu zimene
+  anaphunzira kalekale, monga nyimbo zakale, miyambi, masiku achikondwerero ndi
+  moyo wa tsiku ndi tsiku, ndipo nthawi zonse perekani zosankha ziwiri kapena
+  zitatu. Nenani yankho momasuka, musasankhe munthu mmodzi kuti ayankhe,
+  musawerenge mapointi, ndipo gwiritsani ntchito yankho lililonse kuyambitsa
+  nkhani. Mafunso a “ichi kapena icho” opanda yankho lolakwika amagwira bwino
+  ntchito pa magawo a pambuyo pake.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Funsani za zinthu zozoloŵereka zakale: nyimbo, miyambi, masiku achikondwerero, chakudya ndi moyo wa tsiku ndi tsiku wa zaka zapitazo."
+  - "Perekani zosankha ziwiri kapena zitatu kuti yankho lizidziŵika mosavuta, osati kukumbukiridwa movutikira."
+  - "Nenani yankho mwachifundo ndipo pitirirani. Lingaliro lililonse limene layambitsa nkhani ndi labwino."
+  - "Palibe mapointi, palibe magulu othamanga, palibe kuyitana munthu mmodzi. Lolani mayankho abwere kuchokera kwa aliyense m’chipindamo."
+  - "Pamene kusankha pakati pa mayankho kukuvuta, sinthani kukhala mafunso a ichi kapena icho opanda yankho lolondola."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Kodi mafunso osangalatsa ndi ntchito yabwino kwa anthu amene akukhala ndi matenda a kuiwala?"
+    a: "Angakhale, ngati achitika mofatsa. Alzheimer’s Foundation of America imatchula mafunso osangalatsa pakati pa ntchito za pa gawo loyambirira. Sungani mafunso pa mitu yozoloŵereka yakale, perekani zosankha, musamuike munthu mmodzi pamavuto, ndipo gwiritsani ntchito mayankho ngati njira yoyambitsira kukambirana osati ngati mayeso."
+  - q: "Kodi mitu iti imagwira bwino ntchito pa mafunso a anthu amene akukhala ndi matenda a kuiwala?"
+    a: "Zinthu zimene zinaphunziridwa kalekale nthawi zambiri zimagwira bwino ntchito: nyimbo ndi oimba otchuka a mu ubwana wa munthuyo, miyambi yozoloŵereka, masiku achikondwerero, chakudya, maseŵera, ndi moyo wa tsiku ndi tsiku monga kubweretsedwa kwa mkaka ndi mafoni ozungulira. Pewani nkhani zaposachedwa ndi chilichonse chimene chimafuna kukumbukira china chake cha m’kati mwa nthawi yomweyo."
+  - q: "Kodi ndingachite bwanji mafunso osangalatsa m’nyumba yosamalira anthu popanda kuchititsa manyazi aliyense?"
+    a: "Werengani funso lililonse kwa gulu lonse, sonyezani kapena nenani zosankha, ndipo landirani mayankho kuchokera kwa aliyense. Musayitane anthu payekhapayekha kapena kuwerenga mapointi. Nenani yankho ndi kumwetulira kaya anthu analingalira chiyani, ndipo funsani funso lotsatira monga “Kodi ndani pano anakapitako ku malo oonera mafilimu m’galimoto?” kuti musandutse kukhala nkhani."
+  - q: "Kodi ndingachite chiyani m’malo mwa mafunso osangalatsa pa magawo a pambuyo pake?"
+    a: "Sinthani kukhala mafunso opanda yankho lolakwika, monga “Khofi kapena tiyi?” kapena “Nyanja kapena mapiri?”, komanso kumalizitsa pamodzi miyambi kapena nyimbo zozoloŵereka. Kuonera zithunzi ndi kuzifotokoza pamodzi kumathandizanso kwambiri."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +48,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Mafunso osangalatsa ndi amodzi mwa ntchito zimene anthu amazifuna kwambiri m’nyumba zosamalira anthu ndi m’mapulogalamu a masana, ndipo mabanja ambiri amawachitanso patebulo la kukhitchini. Akachitika mwanjira yodziŵika, yokhala ndi mapointi ndi munthu mmodzi kuyankha, angachititse munthu amene akukhala ndi matenda a kuiwala kumva ngati waikidwa pamavuto. Akachitika mofatsa, amakhala njira yosangalatsa yomvera nkhani. M’munsimu muli mafunso 50 osavuta okhala ndi zosankha za mayankho ndi china choti mukambirane pa funso lililonse, kenako njira yochitira ntchitoyi.
 
-## How do you make trivia work for someone with dementia?
+## Kodi mungachite bwanji kuti mafunso osangalatsa agwire bwino ntchito kwa munthu amene akukhala ndi matenda a kuiwala?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Chitani kuti cholinga chikhale kuzindikira ndi kukumbukira zinthu zakale, ndipo landirani yankho lililonse.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Funsani za zakale zakutali.** [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) imanena kuti chizindikiro choyambirira chodziŵika kwambiri cha matenda a Alzheimer ndi kuvutika kukumbukira zinthu zatsopano zimene waphunzira. Nyimbo, miyambi ndi moyo wa tsiku ndi tsiku wa zaka zambiri zapitazo nthawi zambiri zimakhala zosavuta kukumbukira.
+2. **Nthawi zonse perekani zosankha.** Kusankha yankho lolondola pakati pa ziwiri kapena zitatu kumakhala kosavuta kuposa kulipeza lokha popanda chithandizo.
+3. **Werengani mafunso mokweza ndipo muwaonetse mokulirapo.** Bodi loyera kapena tabuleti yokwezedwa imathandiza anthu amene sakumva bwino.
+4. **Nenani yankho momasuka.** Ngati palibe amene wadziŵa, nenani mofatsa ndipo pitirirani. Musanene kuti “Mukudziŵa zimenezi.”
+5. **Palibe mapointi.** Osati kwa munthu payekha ndipo osati kwa magulu. Ngati anthu akufuna nambala, sungani chiwerengero chimodzi cha gulu lonse.
+6. **Musayitane munthu mmodzi.** Lolani mayankho abwere kuchokera kwa aliyense. Mukakhala awiri okha, yankhani pamodzi: “Ndikuganiza kuti ndi piyano. Inu mukuganiza bwanji?”
+7. **Gwiritsani ntchito mfundo yoyankhulirana.** Yankho ndi chiyambi, osati mapeto. Nkhani ndi cholinga chenicheni.
+8. **Sungani nthawi kukhala yaifupi.** Mafunso khumi okhala ndi nkhani pakati pawo ndi okwanira.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) imafotokoza lamulo lofunika kwambiri m’njira yosavuta: yang’anani ngati pali kukhumudwa ndipo onetsetsani kuti munthuyo akumva kuti wachita bwino. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) imatchula mafunso osangalatsa pakati pa ntchito za pa gawo loyambirira. Pa gawo lapakati, sungani zosankha ziwiri zokha ndipo tsamirani pa mfundo zoyankhulirana. Pambuyo pake, sinthani kukhala mafunso a ichi kapena icho ali m’munsimu.
 
-## Music and entertainment trivia
+## Mafunso a nyimbo ndi zosangalatsa
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Yankho lili mu **mawu akuda**. Sinthani mafunso awa kuti agwirizane ndi munthuyo: munthu amene anakulira ndi nyimbo za Motown angafune oimba osiyana ndi munthu amene anakulira ndi nyimbo za magulu akuluakulu.
 
-| Question | Choices | Talk about |
+| Funso | Zosankha | Zoyankhulirana |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Kodi ndani ankatchedwa Mfumu ya Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Kodi munamuonapo Elvis pa TV? |
+| Kodi ndi woimba uti amene ankadziŵika ndi dzina loti Ol’ Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Ndi nyimbo iti ya Sinatra imene mumakonda kwambiri? |
+| Bing Crosby analota za Khirisimasi yoyera, anati “a white...” | **Christmas**, wedding, house | Imbani pamodzi mzere umodzi |
+| Louis Armstrong anaimba kuti “What a Wonderful...” | Day, **World**, Life | Ndi chiyani chimene chimapangitsa dziko kukhala lokongola kwa inu? |
+| “Over the Rainbow” anaimbidwa ndi Judy Garland mu filimu iti? | **The Wizard of Oz**, Gone with the Wind, Singin’ in the Rain | Kodi munkawonera kuti mafilimu amene mumakonda? |
+| Kodi ndani anasewera Lucy mu “I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Ndi mapulogalamu ati a pa TV amene banja lanu linkawonera pamodzi? |
+| Kodi ndi woweta ng’ombe wa mu filimu uti amene anakwera kavalo wotchedwa Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Kodi munkaseŵera maseŵera a ng’ombe muli ana? |
+| Kodi ndani anatsogolera “The Tonight Show” kwa zaka 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | Kodi munkakhala osagona mpaka mochedwa kuti muonere TV? |
+| Kodi ndi chida chiti cha nyimbo chimene chili ndi makiyi 88? | Gitala, **piyano**, lipenga | Kodi panali wina m’banja mwanu amene ankaseŵera chida cha nyimbo? |
+| Kodi ndi kuvina kuti kumene kumawerengedwa kuti chimodzi-chiwiri-chitatu, chimodzi-chiwiri-chitatu? | **Waltz**, twist, tango | Kodi munkapita kuti kukavina? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Kuti mudziŵe zambiri za nyimbo, onani [ntchito za nyimbo kwa anthu okhala ndi matenda a kuiwala](/activities/music/).
 
-## Everyday life trivia
+## Mafunso a moyo wa tsiku ndi tsiku
 
-| Question | Choices | Talk about |
+| Funso | Zosankha | Zoyankhulirana |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Firiji isanakhalepo, m’nyumba zambiri chakudya chinkasungidwa mozizira mu... | **Icebox**, uvuni, chipinda chapamwamba | Kodi ndani ankabweretsa ayezi? |
+| Kodi ndani ankabweretsa mkaka pakhomo m’mabotolo agalasi? | Wopereka makalata, **wogulitsa mkaka**, mnyamata wogulitsa manyuzipepala | Ndi zinthu zinanso ziti zimene zinkabweretsedwa kunyumba? |
+| Kodi munkayimba bwanji foni yozungulira? | Kukanikiza mabatani, **kuzungulira gudumu**, kuyankhula nayo | Ndiuzeni za foni imene inali m’nyumba mwanu |
+| Kodi ndi kampani iti imene inapanga galimoto ya Model T? | **Ford**, Chevrolet, Buick | Ndiuzeni za galimoto imene munkakonda |
+| Kodi munkapeza kuti munthu wotchedwa soda jerk? | **Pa malo ogulitsa zakumwa zotchedwa soda fountain**, pa malo ophika buledi, ku banki | Kodi munkalamula chiyani pa kauntala? |
+| Kodi ndi chidole chiti chopangidwa ndi kasupe wachitsulo chimene chingayende pamasitepe? | Yo-yo, **Slinky**, hula hoop | Ndi zidole ziti zimene munkazikonda? |
+| Malo otchedwa drive-in anali malo oonera... | **Mafilimu muli m’galimoto yanu**, maseŵera a mpira, maulendo okondwerera | Kodi munkapita ndi ndani? |
+| Kodi ndi nkhope ya ndani imene ili pa dola imodzi? | Lincoln, **George Washington**, Jefferson | Kodi dola imodzi inkagula chiyani nthawi imeneyo? |
+| Kodi ndi nkhope ya ndani imene ili pa ndalama ya penny? | **Abraham Lincoln**, Washington, Franklin | Kodi munkasunga ndalama za penny mu mtsuko nthawi imeneyo? |
+| Kodi basi ya sukulu nthawi zambiri imakhala ya mtundu wanji? | Yofiira, **yachikasu**, yabuluu | Kodi munkapita bwanji ku sukulu? |
 
-## Holidays, nature and places
+## Mafunso a masiku achikondwerero, chilengedwe ndi malo
 
-| Question | Choices | Talk about |
+| Funso | Zosankha | Zoyankhulirana |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Kodi ndi tsiku liti lachikondwerero limene limakhala Lachinayi la mlungu wachinayi mu Novembala? | Labor Day, **Thanksgiving**, Memorial Day | Kodi nthawi zonse pankakhala chiyani pa tebulo lanu? |
+| Nyali za Jack-o’-lantern zimapangidwira tsiku liti lachikondwerero? | **Halloween**, Easter, Christmas | Ndiuzeni za Halloween kumene munakulira |
+| Tsiku la Fourth of July limakondwerera Declaration of... | Rights, **Independence**, Freedom | Kodi munkawonera kuti zophulika zamoto? |
+| Tsiku la Amayi limakhala mu mwezi uti? | Epulo, **Meyi**, Juni | Kodi banja lanu linkakondwerera bwanji? |
+| Kodi pali nyenyezi zingati pa mbendera ya dziko la America? | 48, **50**, 52 | Mbendera inali ndi nyenyezi 48 mpaka 1959. Yankho lililonse ndi kukumbukira kwabwino |
+| Kodi ndi nyanja iti imene ili ku East Coast? | Pacific, **Atlantic**, Arctic | Kodi munapitako ku gombe? |
+| Kodi Statue of Liberty ili mu mzinda uti? | Boston, **New York**, Philadelphia | Kodi munapitako ku New York? |
+| Kodi njuchi zimapanga chiyani? | Mkaka, **uchi**, silika | Uchi pa buledi wokazinga kapena mu tiyi? |
+| Mwana wa ng’ombe amatchedwa... | Foal, **calf**, kid | Kodi munakhalapo pafupi ndi famu? |
+| Kodi ndi duwa litali lachikasu liti limene limadziŵika kuti limatembenukira ku dzuŵa? | Rose, **mpendadzuwa**, tulip | Kodi m’munda mwanu munkamera chiyani? |
+| Kodi chaka chodumpha chimakhala ndi masiku angati? | 365, **366**, 360 | Ndiuzeni za tsiku lobadwa limene mumalikumbukira |
+| Kodi ndi nyengo iti imene imabwera pambuyo pa dzinja? | Autumn, **masika**, chilimwe | Kodi nyengo imene mumakonda kwambiri ndi iti? |
 
-## Food and sports trivia
+## Mafunso a chakudya ndi maseŵera
 
-| Question | Choices | Talk about |
+| Funso | Zosankha | Zoyankhulirana |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Zipatso zouma zotchedwa raisin zimachokera ku... | Plums, **mphesa**, yamatcheri | Kodi munkayika raisin mu zakudya za masana? |
+| Zipatso zouma zotchedwa prunes zimachokera ku... | **Plums**, nkhuyu, maapulo | Kodi ndani m’banja mwanu ankakonda prunes? |
+| Peanut butter ndi... | **Jelly**, tchizi, hamu | Wophwanyika kapena wosalala? |
+| Guacamole imapangidwa kwambiri ndi... | Nandolo, **mapeyala a avocado**, nkhaka | Ndi zakudya zoti muviike zotani zimene zinkabwera pa maphwando? |
+| Kodi ndi chitumbuwa chiti chimene chimakondedwa pa Thanksgiving? | **Chitumbuwa cha dzungu**, la mandimu, la yamatcheri | Kodi ndi chitumbuwa chiti chimene munkapanga? |
+| Kodi gulu la baseball limakhala ndi oseŵera angati pabwalo? | 7, **9**, 11 | Kodi munkachirikiza gulu liti? |
+| Kodi ma strike angati amapanga out mu baseball? | Awiri, **atatu**, anayi | Kodi munaseŵerapo mpira? |
+| Babe Ruth anali wotchuka pa maseŵera ati? | Nkhonya, **baseball**, gofu | Kodi munkapitako ku maseŵera a mpira? |
+| Kodi pabwalo lokhazikika la gofu pamakhala mabowo angati? | 9, **18**, 24 | Kodi munaseŵerapo gofu, kapena mini gofu? |
+| Kodi ndi maseŵera ati amene mumapeza touchdown? | **Mpira waku America**, hockey, basketball | Kodi ndani ankawonera mpira waku America kunyumba kwanu? |
 
-## Familiar sayings
+## Miyambi yozoloŵereka
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Kumaliza mwambi kumadalira chilankhulo chimene chinaphunziridwa kalekale ndipo nthawi zambiri kumakhala kosavuta. Maseŵera athu a [Malizitsani mwambi](/games/finish-the-saying/) ali ndi miyambi yambiri, yokhala ndi mwayi wodina kuti muone mapeto ake.
 
-| Saying | Choices | Talk about |
+| Mwambi | Zosankha | Zoyankhulirana |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Kodi ndani ankakuuza mwambi uwu? |
+| The early bird catches the... | Bus, **worm**, train | Kodi ndinu munthu wa m’maŵa? |
+| Don’t count your chickens before they... | **Hatch**, sleep, sing | Kodi banja lanu linkaweta nkhuku? |
+| A penny saved is a penny... | **Earned**, lost, spent | Kodi ndani m’banja mwanu anali wosunga ndalama? |
+| Home is where the... | Garden is, **heart is**, kitchen is | Kodi ndi chiyani chimene chimapangitsa malo kumva ngati kwathu? |
+| Better late than... | Early, **never**, sorry | Kodi ndani nthawi zonse ankachedwa? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Ndiuzeni za mwayi wabwino umene munakumana nawo |
+| Actions speak louder than... | **Words**, music, thunder | Ndiuzeni za munthu amene ankanena zimenezi |
 
-## This-or-that questions with no wrong answer
+## Mafunso a ichi kapena icho opanda yankho lolakwika
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Awa amagwira ntchito pa gawo lililonse, kuphatikizapo magawo a pambuyo pake, chifukwa palibe chimene chingakhale cholakwika. Funsani, mvetserani, ndipo gawani yankho lanu nanunso.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Khofi kapena tiyi?
+- Nyanja kapena mapiri?
+- Agalu kapena amphaka?
+- Chilimwe kapena dzinja?
+- Chitumbuwa kapena keke?
+- Kuvina kapena kuonera?
+- Kutuluka kwa dzuŵa kapena kulowa kwa dzuŵa?
+- Khonde lakutsogolo kapena bwalo lakumbuyo?
+- Wailesi kapena marekodi?
+- Mapanikeke kapena mazira?
+- Maluwa a rozi kapena daisies?
+- Ulendo wa sitima kapena ulendo wa galimoto?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Kuti mupeze mafunso oyambitsa kukambirana okhala ndi zithunzi, yesani makadi athu osindikizidwa a [Makhadi oyankhulirana](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Kodi mungachite bwanji ntchitoyi m’nyumba yosamalira anthu kapena m’gulu?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Khazikani anthu kuti athe kuona ndi kumva.** Zida zothandizira kumva zikhale m’makutu, magalasi avalidwe, ndipo TV izimitsidwe.
+2. **Yambitsani ngati kucheza.** “Ndili ndi mafunso okhudza masiku akale, ndipo ndikukhulupirira kuti mukudziŵa zambiri kuposa ine.”
+3. **Werengani funso lililonse kawiri ndipo sonyezani zosankha mokulirapo.**
+4. **Landirani mayankho kuchokera kulikonse m’chipindamo.** Bwerezani mayankho abwino kuti aliyense amve.
+5. **Nenani yankho kwa onse,** kenako funsani funso loyankhulirana kwa chipinda chonse.
+6. **Tsatirani mmene zinthu zikuyendera.** Ngati funso limodzi layambitsa nkhani za mphindi khumi, lolani zipitirire.
+7. **Malizani ndi nyimbo kapena mafunso a ichi kapena icho,** kuti aliyense amalize ndi china chake chosavuta.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Kuti mupeze njira zina za m’magulu, kuphatikizapo bingo ya zithunzi ndi kuimba pamodzi, onani [ntchito za m’magulu m’nyumba zosamalira anthu](/activities/care-home-groups/).
 
-## When to change the plan
+## Nthawi yoti musinthe dongosolo
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Ngati wina akuoneka wodera nkhawa, wakhala chete kapena wanena kuti “Sindidziŵa” kuposa kamodzi, pangani kuti zikhale zosavuta: chepetsani kukhala zosankha ziwiri, yankhani pamodzi, kapena sinthani kukhala mafunso a ichi kapena icho. Ngati gululo likufuna kukambirana funso limodzi masana onse, zimenezo ndi zopambana. Cholinga sichinali mayankho olondola. Chinali nthawi yokhala pamodzi mwabwino.

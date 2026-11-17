@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Ntango moto oyo azali na dementia alobi kozonga na ndako"
+seoTitle: "Dementia mpe koloba kozonga na ndako: Koloba nini"
+description: "Mpo na nini moto oyo azali na dementia alobaka kozonga na ndako, nini koloba, misala ya kimia ya komeka, mpe ndenge ya kobatela ye soki alingi kobima."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Ntango moto oyo azali na dementia azali koloba mbala na mbala ete alingi
+  kozonga na ndako, «ndako» ekoki kolakisa mposa ya kozala na kimia to esika ya
+  kala, kasi ndako moko boye te. Koswana na ye te ete azali na ndako. Ndima
+  ndenge azali koyoka, yebisa ye ete azali na kimia, tuna ye makambo ya ndako,
+  na nsima kende na malembe na bafɔtɔ, miziki, eloko ya kolia, kotambola mokuse
+  to mosala ya pete. Tala soki azali na nzala, posa ya mayi, posa ya kokende na
+  zongo, to mpasi. Soki ebandi mbala moko, benga monganga na ye.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Nalingi kozonga na ndako» elingi mbala mingi koloba «Nazali koyoka kimia te to nazali na kimia te», kasi esengeli ya adresi te."
+  - "Koswana to kolakisa ete azali na ndako ekoki kobakisa pasi ya makanisi. Yanolaka na ndenge azali koyoka."
+  - "Senga ye ayebisa yo makambo ya ndako na ye, na nsima pesa bafɔtɔ, miziki, eloko ya kolia, kotambola mokuse to mosala ya pete."
+  - "Tala soki ezali na likambo oyo okoki kobongisa: nzala, posa ya mayi, zongo, mpasi, molunge to malili mingi, makelele, kolemba."
+  - "Soki ezali kosalema na pokwa nyonso, ekoki kozala «sundowning»; manaka ya malamu mpe pole ekoki kosalisa."
+  - "Bongisa makambo mpo na kobatela soki ameki kobima, mpe benga monganga na ye soki mbongwana eyebani mbala moko."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Mpo na nini mama na ngai oyo azali na dementia azali koloba mbala na mbala kozonga na ndako atako azali na ndako?"
+    a: "Dementia ekoki kosala ete bashambre oyo eyebani emonana lokola ya sika, mpe bato mosusu bakoki koyoka lokola bazali na eleko mosusu ya bomoi. «Ndako» ekoki kozala ndako ya bomwana to kaka koyoka kimia mpe malamu. Koyanola na yango ekoki kosala malamu koleka kolakisa ye esika azali."
+  - q: "Naloba nini ntango atunaki kozonga na ndako?"
+    a: "Meka koloba «Ozali na kimia awa, mpe nazali elongo na yo,» na nsima «Yebisa ngai makambo ya ndako na yo.» Yoka ye, talisa fɔtɔ to yemba nzembo, mpe pesa ye mayi to kotambola mokuse. Koboya koloba «Ozali na ndako» lokola kobongola ye, mpo ekoki kosala ete ayoka lokola bazali koloba ete azali na libunga."
+  - q: "Ezali malamu koloba ete tokokende na ndako sima?"
+    a: "Mabanga mpe bibongiseli ya dementia bakeseni na likanisi oyo. Bamingi babandaka na kobondisa na bosolo mpe kobongola likebi, mpe babatelaka lokuta ya malembe kaka mpo na bantango oyo bosolo ekoki kopesa pasi oyo moto akoki koyika te. Nionso oyo oponi, zala na boboto mpe na ndenge moko, mpe kotyola te ndenge ye amoni makambo."
+  - q: "Soki ameki kobima na ndako, nasala nini?"
+    a: "Tikala kimia mpe tambola elongo na ye na esika ya kopekisa ye; kotambola mokuse ekoki kokitisa mposa yango. Bongisa makambo ya libateli liboso, lokola bilembo ya komonana na nkombo, kingó ya ekuke mpe fɔtɔ ya sika. Soki moto azali komonana te, luka na bisika ya pembeni oyo ezali na kimia ntango ozali koyebisa bato ya mibeko ya esika to misala ya mbalakaka noki. Kozela te minutɛ ya sikisiki liboso ya koyebisa."
+  - q: "Ntango nini nasengeli kobenga monganga?"
+    a: "Benga monganga na ye noki soki kotuna yango to mobulungano ebandi mbala moko to ekomi makasi mingi na boumeli ya bangonga to mikolo, mingi mingi soki ezali na fɛ́vɛlɛ, nkisi ya sika to bilembo ya infection ya nzela ya masuba. Mobulungano oyo ebandi mbala moko ekoki kozala delirium, oyo esengeli lisalisi ya noki. Benga 911 soki moto moko azali na likama."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Nalingi kozonga na ndako.» Mpo na mabota mingi, ezali moko ya makambo ya mpasi koleka koyoka, mingi mingi ntango moto oyo ozali kobatela avandi na ndako na ye moko. Ezali likambo oyo ekoki kosalema mingi, ekoki kobima na etape nyonso ya dementia, mpe ezali na banzela ya kimia mpe ya malamu mpo na koyanola. Lokasa oyo elobeli nini maloba yango elingi mbala mingi koloba, nini koloba, misala oyo ekoki kosalisa na tango wana, mpe ndenge ya kobatela moto.
 
-## Why does someone with dementia keep asking to go home?
+## Mpo na nini moto oyo azali na dementia alobaka mbala na mbala kozonga na ndako?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Mbala mingi, «ndako» ezali mposa ya koyoka malamu, kasi esika te. Alzheimer's Society elobi ete ezali koyoka kimia mpe libateli, to ndako ya kala, kasi ndako moko boye te. Dementia ekoki kosala ete bashambre oyo eyebani emonana lokola ya sika, mpe moto akoki koyoka lokola azali na eleko mosusu ya bomoi, ntango ndako ezalaki ndako ya bomwana to esika oyo abokolaki bana na ye.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Maloba yango ekoki mpe kolakisa ete ezali na likambo mosusu oyo ezali kosala pasi sikoyo: azali na nzala, na posa ya mayi, alingi kokende na zongo, azali na mpasi, azali koyoka molunge to malili mingi, alembi, azali ye moko, azali na bobangi, to makelele ezali mingi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) etangi mpasi, makelele, kozala ye moko, mbongwana ya manaka mpe bankisi lokola makambo oyo ekoki kopesa mobulungano.
 
-## What should I say when they ask to go home?
+## Naloba nini ntango atunaki kozonga na ndako?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Yanola na ndenge azali koyoka, kasi na maloba na ye te. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) epesi toli ya komeka te kondimisa moto ete azali na libunga: ndenge azali koyoka ezali ya solo, yango wana yanola liboso na bobondisi mpe kimia, na nsima bongola likebi na malembe.
 
-Phrases that often help:
+Maloba oyo ekoki kosalisa:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Loba ndenge azali koyoka.** «Ezalaka lokola ozali kozanga ndako na yo.»
+- **Bondisa ye.** «Ozali na kimia awa, mpe nazali elongo na yo.» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) epesi likanisi ya maloba ya pete: «Ozali na kimia awa.»
+- **Senga ye abimisa makanisi.** «Yebisa ngai makambo ya ndako na yo. Kikuku na yo ezalaki ndenge nini?» Kotuna makambo ya kala ekoki kozala pete koleka kotuna makambo ya lelo.
+- **Pesa likanisi ya kosala eloko elongo.** «Tomela tii liboso,» to «Okoki kosalisa ngai na bitambala oyo?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Mongongo ya boboto mpe kosimba loboko na ye, soki alingaka kosimbama, ekoki koloba mingi koleka maloba.
 
-## What should I avoid?
+## Nini nasengeli koboya kosala?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Koswana to kolimbola mingi.** «Ofandi awa sikoyo» to «Ozalaki na ndako oyo mbula 40» esengi ye andima likambo oyo dementia ekomisi mpasi, mpe ekoki kosala ete ayoka lokola bazali koloba ete azali na libunga.
+- **Kotuna mituna mingi lokola ekzamɛ.** «Okomoni te?» to «Adresi ezali nini?» ebakisi bokasi.
+- **Kopekisa ekuke na kanda.** Soki akei libanda, tikala kimia mpe tambola elongo na ye. Kotambola mokuse elongo ekoki kokitisa mposa yango.
+- **Kokende mbangu mingi.** Pesa ye tango ya kolobela ndako liboso ya kobongola lisolo.
 
-## Activities that can help in the moment
+## Misala oyo ekoki kosalisa na tango wana
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Sima ya kondima ndenge azali koyoka, mosala ya kimia mpe oyo eyebani ekoki kobongola likebi kozanga koboya ndenge azali koyoka.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Talá bafɔtɔ ya ndako mpe ya libota.** Balola nkasa mpe loba makanisi («Talá elanga wana») na esika ya kotuna mituna. Na telefone to tablɛti, [Photo pairs](/games/photo-pairs/) ekomisi bafɔtɔ ya libota na yo lisano ya kokokanisa ya malembe, mpe bafɔtɔ etikalaka na aparɛyi na yo.
+2. **Lobá makambo ya ndako.** [Conversation cards](/games/conversation-cards/) epesaka mituna ya polele na tina ya bandako, bikuku, bandeko ya pembeni mpe bafɛti, kozanga eyano ya malamu to ya mabe.
+3. **Yembá miziki oyo alingaka.** National Institute on Aging etangi miziki ya kimia lokola moko ya banzela ya kokitisa mobulungano. Talá [misala ya miziki](/activities/music/) na biso.
+4. **Pesa ye eloko ya kolia to ya komela.** Nzala mpe posa ya mayi ekoki komonana lokola kozanga kimia. Kopo ya tii to eloko ya kolia oyo alingaka ezali mpe momesano ya moke ya koyoka lokola azali na ndako.
+5. **Kende kotambola to vanda libanda.** Kotambola mpe pole ya moyi esalisaka, mingi mingi liboso na mokolo.
+6. **Pesa ye mosala oyo eyebani.** Kopinda bilamba, kobongisa bakiyɛ ya mesa to kosopa mayi na banzeté ekoki kozongisa likanisi ya kobatela ndako.
+7. **Kitisa makambo nyonso.** Kanga televizyó, kitisa makelele mpe pole makasi, mpe meka kopema na kimia elongo na [calm breathing](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Soki likanisi moko esali te, meka mosusu sima. Kovanda kimia elongo ezali mpe mbano ya malamu.
 
-## Check for a cause you can fix
+## Tala likambo oyo okoki kobongisa
 
-| Check | What to try |
+| Tala | Nini komeka |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Nzala to posa ya mayi | Pesa mayi mpe eloko ya kolia ya moke |
+| Alingi kokende na zongo | Pesa ye nzela ya kokende na zongo, na kimia mpe kozanga mobulu |
+| Mpasi to kozanga malamu | Luka bilembo lokola kobungisa elongi, kosimba eteni ya nzoto to kokangama ya libumu, mpe yebisa monganga na ye |
+| Molunge to malili mingi | Bongisa elamba to molunge ya shambre |
+| Makelele to bato mingi | Kende na shambre ya kimia, kanga televizyó |
+| Kolemba to makambo mingi | Pema, kitisa pole, yemba miziki ya malembe |
+| Pokwa ya nsuka | Talá eteni ya sundowning awa na nse |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society epesi likanisi ya kokoma mokanda mokuse ya ntango oyo kotuna yango esalemaka, na ndakisa liboso ya bilei, sima ya bapaya, to na pokwa. Komona ndenge ezali kosalema esalisaka kobongama liboso.
 
-## Is it okay to tell a white lie?
+## Ezali malamu koloba lokuta ya moke?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Oyo ezali tembe ya solo, mpe mabota ya boboto bakoki kozwa bikateli ya ndenge na ndenge. Alzheimer's Society elobi ete ezali na eyano moko ya malamu mpo na bato nyonso te: makambo oyo ezali ya solo te ekoki kosala ete bato mosusu bándima moke moke te, yango wana pona oyo ezali malamu mpo na moto yango mpe tikala na ndenge moko. Na Penn Memory Center, makanisi ya mokambi moko ezali ete bosolo ezali likanisi ya liboso, mpe lokuta ya malembe endimami kaka soki moto akoki kososola bosolo yango te, mpe osengeli naino kotyola te ndenge ye amoni makambo.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Babokoli mingi bamoni ete nzela ya katikati esalaka malamu: kobondisa na bosolo mpe kobongola likebi liboso («Tokotikala awa lelo na butu, mpe nazali awa pene na yo»), kozanga koswana na ye mpo na esika ndako ezali.
 
-## What if it happens every afternoon or evening?
+## Soki esalemaka na pokwa to na mpokwa nyonso?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Kozanga kimia oyo ebandaka to ekomaka makasi na pokwa ya nsuka babengaka yango mbala mingi sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) epesi likanisi ya manaka ya ndenge moko, pole ya moyi mpe misala ya mokolo na mokolo, kopona te kopema mingi na nsuka ya mokolo, mpe komela te café to masanga na nsuka ya mokolo. Kopelisa mwinda liboso ya molili ekoki mpe kosalisa. Lisungi na biso ya [misala ya kimia mpo na pokwa ya nsuka](/caregiving/late-day-restlessness/) ezali na makambo mosusu.
 
-## Keeping them safe if they try to leave
+## Ndenge ya kobatela ye soki ameki kobima
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Koloba ete alingi kozonga na ndako ekoki kokamba na kotambola mosika kozanga boyebi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ekani ete bato motoba kati na zomi oyo bazali kobika na dementia bakotambola mosika mbala moko ata moke.
 
-**Prepare ahead:**
+**Bongama liboso:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Bilembo ya komonana to ya bokolongono na nkombo na ye mpe nimero na yo ya telefone, mpe bilembo na bilamba na ye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) elobeli programa MedicAlert mpe Alzheimer's Association Safe and Found, oyo ekoki kosenga mbongo.
+- Kingó ya ekuke to alarme, mpe bafungola oyo otiami likolo to na nse. Kokanga moto yango ye moko na kati te.
+- Fɔtɔ ya sika ya pene, mpe liste ya bisika oyo akoki kokende, lokola ndako to esika ya mosala ya kala.
+- Yebisa bandeko ya pembeni oyo okoki kotiela motema, mpe pesa bango nimero na yo.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Soki azali komonana te:** luka na bisika ya pembeni oyo ezali na kimia ntango ozali koyebisa bato ya mibeko ya esika to misala ya mbalakaka noki. Kozela te minutɛ ya sikisiki liboso ya koyebisa. Lisolo ya [U.S. Department of Justice ya 2021 mpo na koluka bato oyo bazali komonana te](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) elobi ete bibongiseli ya mibeko esengeli te kosenga eleko ya kozela; elobeli mpe bilembo ya dementia lokola likambo ya likama makasi. Mayele ya koyebisa ekoki kozala ndenge na ndenge na esika na yo. Yebisa bato ya lisalisi ete moto azali na dementia, kabola esika ya nsuka oyo eyebanaki mpe fɔtɔ ya sika, mpe landa toli na bango. Soki moto mosusu azali mpo na kosalisa, senga ye atikala pene ya telefone. Koluka te na bisika ya likama yo moko.
 
-## When should I call a doctor?
+## Ntango nini nasengeli kobenga monganga?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Benga monganga na ye noki soki kotuna yango to mobulungano ebandi mbala moko, to ekomi makasi mingi na boumeli ya bangonga to mikolo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) elobi ete bizaleli oyo ebongwani mbala moko to noki mingi, mingi mingi sima ya infection to mbongwana ya nkisi, esengeli kotala yango noki. Mobulungano oyo ebandi mbala moko ekoki kozala delirium, oyo [NHS](https://www.nhs.uk/symptoms/confusion/) elobi ete esengeli lisalisi ya noki; ba infection ya nzela ya masuba ezali ntina oyo emonanaka mingi na mibange.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Ezali mpe malamu kolobela ndenge yango ezali kosalema mbala na mbala na mokutano ya monganga oyo ekoya, mpo mpasi, mawa, mikakatano ya mpongi to banzela ya mabe ya nkisi ekoki kozala na kati.

@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Zviitwa zveVanhu Vanorarama neDementia: Mazano 101"
+seoTitle: "Mazano Ezviitwa zveDementia: Zviitwa 101"
+description: "Zviitwa 101 zviri nyore, zvevakuru, zvevanhu vanorarama nedementia, kubva pakupeta matauro kusvika kumimhanzi nemifananidzo, uye kuti mungazvigadzirisa sei."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Zviitwa zvakanaka zvevanhu vanorarama nedementia zvinowanzojairika, zvakakodzera
+  vakuru uye zviri nyore kuita pamwe chete: kupeta hembe, kuronga zvinhu,
+  kubika, mimhanzi, kuona mifananidzo, kufamba, kurima gadheni, kuva nemhuka
+  dzinovaraidza uye mitambo iri nyore. Sarudzai zvagara zvichifarirwa nemunhu
+  wacho, itai imi zvikamu zvinonetsa, uye mirai kana aneta. Nguva yakanaka
+  yamunopedza muri pamwe chete inokosha kupfuura kupedza chero chinhu.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Tangirai nehupenyu hwemunhu wacho: basa rake, zvaanofarira, kutenda kwake nemimhanzi yaanoda ndizvo zvinonyatsokubatsirai."
+  - "Iti chiitiko chese chive chidiki kana zvichidiwa: nhanho shoma, sarudzo shoma, imi moita chikamu chinonetsa."
+  - "Kuona, kubata chinhu kana kungogara pedyo zvese zvinonzi kutora chikamu."
+  - "Mirai kana kuchinja kana mukaona kuneta, kushushikana kana kufinhwa. Kugumisa nguva isati yakwana mhedzisiro yakanaka."
+  - "Kuita pamwe chete kunokosha kupfuura kuzviita nemazvo."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Ndezvipi zviitwa zvakanaka zvemunhu ane dementia?"
+    a: "Zviitwa zvajairika izvo munhu wacho agara achiita kwemakore, zvakaitwa zviri nyore zvishoma: kupeta hembe, kugadzira tafura, kubika, mimhanzi, kuona mifananidzo, kufamba, kurima gadheni uye kuva nemhuka inoriritirwa. Sarudzai zvinhu zvinonzwa zvakakodzera vakuru uye zvinobatsira, muzviite pamwe chete."
+  - q: "Chiitiko chinofanira kutora nguva yakareba sei?"
+    a: "Hakuna kureba kwakaringana. Maminitsi mashoma ekupeta matauro anogona kukwana rimwe zuva, uye awa imwe mugadheni inogona kunzwa iri nyore rimwe zuva. Regai munhu wacho atungamire kumhanya kwacho uye gumisai chiitiko chichiri kunakidza."
+  - q: "Ko kana munhu wacho akaramba kuita chiitiko?"
+    a: "Musamanikidza. Kuramba kunogona kureva kuti basa racho rinonzwa rakaoma, nguva haina kunaka, kana kuti aneta kana kusagadzikana. Edzai zvakare pane imwe nguva, mupai nzira iri nyore, kana tangai basa racho imi muri pedyo uye mukokei kuti abatsire."
+  - q: "Mitambo yepfungwa yakanaka here kuvanhu vanorarama nedementia?"
+    a: "Mitambo inogona kuva nzira inofadza yekupedza nguva muri pamwe chete, asi hapana mutambo wakaratidzwa kuti unorapa, unononotsa kana kumisa dementia. Sarudzai mitambo isina nguva inoverengwa, zvibodzwa kana manzwi ekuti mhinduro yatadza, uye muitore senguva yekuita pamwe chete, kwete semuyedzo."
+  - q: "Ndingaita sei kuti zviitwa zvisanzwa sezvevana?"
+    a: "Shandisai zvinhu chaizvo zvevakuru: matauro chaiwo, mabikirwo chaiwo, mimhanzi nezvekudhirowa zvevakuru, nemifananidzo ine misoro yakakodzera vakuru. Taurai nezvemabasa se rubatsiro rwamunonyatsoda, uye taurai nemunhu wacho semunhu mukuru waari."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Chiitiko chakanakira munhu anorarama nedementia kazhinji chinhu chaagara achiziva kuita, chakaitwa kuti chive nyore zvishoma uye chichiitwa pamwe chete nemunhu waanovimba naye. Pazasi pane mazano 101, akaiswa mumapoka, rimwe nerimwe riine marongedzero aro uye kuti mungachiita sei kuti chive nyore kana zvaoma. Hamudi midziyo yakakosha, uye hamufaniri kupedza chero chinhu. Masikati akanaka anogona kuva dengu rimwe rematauro nekofi yamunonwa muri pamwe chete.
 
-## How do you choose the right activity?
+## Munosarudza sei chiitiko chakakodzera?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Sarudzai zvichienderana nemunhu wacho, kwete rondedzero: tangirai nezvaagara achifarira uye zvaanokwanisa kuita zvakanaka nhasi.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Fungai nezvebasa rake nezvaanofarira.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) inoti aimboshanda muhofisi anogona kufarira kuronga mari kana kubatsira kuunganidza tsamba, uye murimi wegadheni anogona kufarira basa repayadhi.
+- **Cherechedzai zvaanoita kare.** Kana baba venyu vachitsvaira pavheranda mangwanani ega ega pasina kukumbirwa, zviisei murongwa wezuva.
+- **Rongai muchifunga nezvezvaasingakwanisi.** Kuneta, kuona, kunzwa, kurwadziwa kwemaoko uye kuenzanisa zvese zvinokosha.
+- **Tarirai manzwiro ake.** Zviitwa zvine ruzha kana zvakabatikana zvinokodzera vamwe asi zvinotyisa vamwe.
+- **Ipai chiitiko chacho chinangwa.** Kupeta mapepa etafura emusangano wechechi kunonzwa kune basa kupfuura chiitwa chinoitwa pachacho chete.
 
-### A rough guide by stage
+### Gwaro pfupi maererano nedanho
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Dementia inowanzotsanangurwa mumatanho ekutanga, epakati uye ekupedzisira. Aya mazita akasununguka, haasi mabhokisi, uye vanhu vazhinji vane mazuva ari nani nemazuva akaoma, saka teverai zvamunoona nhasi. [Rondedzero yeAlzheimer's Foundation of America maererano nedanho](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inotevera maitiro akafanana.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Musoro | Danho rekutanga | Danho repakati | Danho rekupedzisira |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Zvamungaona | Anonyanya kuzvimiririra; kuronga, mazita matsva nenzvimbo dzine vanhu vakawanda zvinova zvakaoma | Anoda rubatsiro pakutanga uye panhanho; mazwi anouya zvishoma | Anoda rubatsiro pazvinhu zvakawanda zvezuva nezuva; manzwiro emuviri ndiwo anonyanya kukosha |
+| Zviitwa zvinowanzoenderana | Makadhi, mitambo yebhodhi, kubika, kurima gadheni, kunyora, kufamba kunze, makirabhu | Kupeta hembe, kuronga zvinhu, nhanho dziri nyore dzekubika, kuimba, maabhumu emifananidzo, kufamba muchitungamirirwa | Mimhanzi yaanofarira, kukwizwa kwemaoko, zvinhu zvinyoro zvekubata, kuverengerwa, kugara panze |
+| Basa renyu | Mudiwa: bvunzai kuti anoda rubatsiro rwupi | Gadzirai, ratidzai, itai imi zvikamu zvinonetsa | Uyai nechiitiko kwaari; kuva kwenyu pedyo ndicho chiitiko chacho |
+| Mamwe mazano | [Danho rekutanga](/activities/early-stage/) | [Danho repakati](/activities/middle-stage/) | [Danho rekupedzisira](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Munotanga sei chiitiko nemunhu ane dementia?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Tangai zvishoma, tangai muri pamwe chete, uye itai kuti zvive nyore kuti ati hongu. Vanhu vazhinji vachiri kuda kutora chikamu asi vanoona zvakaoma kuronga kana kutanga.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Sarudzai nguva yakanakira munhu wacho,** kazhinji mangwanani.
+2. **Gadzirai zvinhu zvese kutanga** kuti mugone kutanga ipapo.
+3. **Kumbirai rubatsiro, kwete kuratidza kugona:** «Mungandibatsira here nezvinhu izvi?»
+4. **Tangai imi.** Petai tauro rekutanga murege achibatana nemi. Kuratidza kunopfuura kutsanangura.
+5. **Ipai nhanho imwe panguva.**
+6. **Itai imi chikamu chakaomesesa.** Alzheimer's Association inoti muyere zvinhu zvekubika imi, mogozopa chipunu kuti akurungise.
+7. **Regai zviitwe nenzira yake.** Matauro akapetwa zvakasiyana akanaka.
+8. **Mirai kana chisisanakidze.** Kutambisa-tambisa, kuunyana kumeso kana kuti «Handikwanisi» zviratidzo zvekuchinja kana kuzorora.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Onaiwo [maitirwo ezvinhu pamwe chete](/caregiving/how-to-play-together/) uye [mazano ekukurukurirana](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Mabasa ezuva nezuva pamba
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Mabasa epamba anozivikanwa uye anobatsira, saka inzvimbo yakanaka yekutangira. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inotaura kugeza ndiro, kugadzira tafura, kutsvaira, kuronga tsamba nekupeta hembe sezviitwa zvinogona kufarirwa nevanhu. Zvimwe pa [mabasa epamba](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Petai matauro anodziya.** Dururirai dengu kubva mumuchina wekuomesa hembe patafura mupete muri pamwe chete. Gare gare, kutsetseka nekuturika zvichiri kubatsira.
+2. **Enzanisai masokisi.** Tangai nemavara akasiyana zvikuru. Gare gare, kuparadzanisa chiedza nerima zvakakwana.
+3. **Gadzirai tafura.** Ipai rudzi rumwe rwezvinhu panguva. Gadzirai nzvimbo imwe imi semuenzaniso.
+4. **Gezai kana pukutai ndiro.** Mvura inodziya ine sipo uye ndiro dzisingaputsike. Kupukuta makagara pasi kunorerutsira makumbo.
+5. **Pukutai tafura.** Ipai jira nyoro mushure mekudya. Ibasa chairo remaoko asingagari.
+6. **Rongai tsamba.** Mabhuku ezvitoro netsamba dzisingadiwi mu «chengeta» ne «rasa». Chengetai mabhiri chaiwo kure.
+7. **Chekai makuponi.** Chigero chine muromo wakatenderera nemapepa ezvitoro. Gare gare, kutenderedza chikafu chaanofarira kunobatsirawo.
+8. **Rongai mari yesimbi.** Rongai mari mumakapu kana muiise mumapepa ekumonerera. Siyai zvinhu zvidiki kana munhu wacho achiisa zvinhu mumuromo.
+9. **Tsvairai kana pukutai guruva.** Mutsvairo wakareruka pavheranda, kana chibatiso chakareba chekupukuta guruva chinoshandiswa makagara pachigaro.
+10. **Batsirai kugadzira chikafu.** Kusuka miriwo, kubvarura lettuce, kukurunga. Imi munobata mapanga nekupisa.
+11. **Bikai resipi yemhuri.** Shandisai kadhi rakanyorwa neruoko rwake kana munaro. Gare gare, anogona kuva anoravira.
+12. **Itai basa remuhofisi.** Petai tsamba, dziisei muhamvuropu nekuisa zvitambi, kana nyorai rondedzero yezvekutenga muri pamwe chete.
 
-## Music
+## Mimhanzi
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Mimhanzi inozivikanwa inogona kusvika kuvanhu kunyange mazwi akaoma. [Mazano emimhanzi eAlzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) anokurudzira nziyo dzinozivikanwa, pasina kushambadzira uye TV yakadzimwa. Onai [zviitwa zvemimhanzi](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Gadzirai rondedzero yemimhanzi yake.** Mimhanzi yenguva yake yevechidiki, yemuchato wake, yechechi yake netsika dzake.
+14. **Imbai pamwe chete.** Tangai kuimba imi. Kungoimba zvisina mazwi kana kuteerera zvinokwanawo.
+15. **Chengetai mutinhimira.** Ombai maoko, rovai mabvi kana kurova ngoma diki yemaoko. Zvinoita makagara pasi uye mumatanho ekupedzisira.
+16. **Tambai.** Tambai zvinyoro mukicheni, kana zunzai makagara pasi makabatana maoko.
+17. **Ridzai dambarefu rose.** Rekodhi yaanofarira kubva pakutanga kusvika kumagumo, nekofi uye pasina chimwe chinhu chiri kuitika.
+18. **Taurai nezvemimhanzi.** Kokai nyaya, kwete chokwadi: «Ndiudzei nezvemitambo yamakapinda.»
+19. **Onai bhaisikopo remimhanzi kana konisati yakarekodhwa.** Chiratidziro chaaida chinoita manheru akanaka. Mirai chero nguva.
+20. **Ridzai chiridzwa chinozivikanwa.** Aimbotamba piyano anogona kufarira zvidimbu zviri nyore; gare gare, manotsi mashoma pamwe chete.
+21. **Teererai mimhanzi inoridzwa mhenyu.** Konisati pfupi yenharaunda kana kudzidzira kwekwaya. Garai pedyo nemukova wekubuda.
 
-## Reminiscence: photos, objects and stories
+## Kurangarira: mifananidzo, zvinhu nenyaya
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Fadzai pamwe chete nezvekare musina kuzviedza. Siyai mibvunzo yakaita sekuti «Munorangarira here…?» uye «Uyu ndiani?» uye shandisai kukoka kwakavhurika. Onai [zviitwa zvekurangarira](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Tarirai bhuku remifananidzo.** Taurai zvamunoona: «Rokwe iri rakazonaka. Ndiudzei nezvezuva iri.» Bvumiranai nemazita api neapi aanoshandisa.
+23. **Gadzirai bhokisi rendangariro.** Bhokisi reshangu rine zvinhu zvehupenyu hwake, sebheji rebasa kana kadhi reresipi. Budisai chinhu chimwe panguva.
+24. **Tangai bhuku renyaya yehupenyu.** Mifananidzo mishoma papeji rimwe nerimwe ine tsananguro dzakanyorwa nemavara makuru. Zvinobatsira vabatsiri vatsva kuziva munhu wacho.
+25. **Shandisai makadhi ekukurukurirana.** [Conversation cards](/games/conversation-cards/) anobatanidza mufananidzo nekukoka kwekukurukurirana kwakavhurika.
+26. **Gadzirai mutambo wemifananidzo yemhuri.** [Photo pairs](/games/photo-pairs/) inoshandura mifananidzo yenyu kuita mutambo wekuenzanisa.
+27. **Onai mavhidhiyo epamba kana terevhizheni yekare.** Taurai pamusoro pezvamunoona pamwe chete pane kubvunza mibvunzo.
+28. **Batai zvinhu zvaishandiswa pabasa rake.** Chipanera, stethoscope, bhuku rekunyorera. Maoko anowanzo tungamirira nyaya.
+29. **Bikai chikafu chehudiki hwake.** Anogona kukurunga, kuravira kana kungogara mukicheni nemi.
+30. **Tarirai mepu yenzvimbo dzaakagara.** Teverai migwagwa inozivikanwa muatlasi hombe muchitaura.
 
-## Creative activities
+## Zviitwa zvekugadzira
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Zvekudhirowa nezvekugadzira ndezvekuita, kwete chinhu chinopera chakakwana. Chengetai midziyo yakakodzera vakuru uye yakachengeteka. Onai [zvekudhirowa nekugadzira](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Pendai nemapendi emvura.** Bepa gobvu, mavara mashoma. Kana kutanga zvakaoma, tungamirai mitsara yekutanga pamwe chete.
+32. **Pendai mifananidzo yevakuru.** Maruva kana machira akarukwa, kwete makatuni. Mapeji edu e [kupenda](/games/coloring/) anoshanda pachidzitiro kana akadhindwa.
+33. **Gadzirai mufananidzo wekunamira.** Bvarurai mifananidzo yemagadheni, mota kana chikafu kubva mumagazini muiname pasi. Gare gare, kungosarudza mifananidzo zvakakwana.
+34. **Rongai maruva.** Sumbu remaruva kubva kuchitoro nevhasi. Gare gare, madzinde mashoma muhari.
+35. **Rukai kana kukorocheta pamwe chete.** Mitsara iri nyore netsono hombe. Gare gare, kumonera shinda kuita mabhora.
+36. **Gadzirai makadhi emhuri.** Isai zvitambi, sainai kana shongedzai makadhi ekuzvarwa neekuti apore nekukurumidza evanhu chaivo.
+37. **Umbai ivhu rinooma roga.** Gadzirai ndiro diki. Shandisai zvinhu zvisina muchetura uye garai pedyo.
+38. **Kweshai mupedze huni.** Kiti yeimba yeshiri yakatogadzirwa kare nebepa rekukweshera, pasina michina yemagetsi. Onai [zviitwa zvevarume](/activities/for-men/).
+39. **Nyora kana taura tsamba.** Kune muzukuru kana shamwari yekare. Kana kunyora zvakaoma, iye anotaura imi monyora.
 
-## Outdoors and gardening
+## Panze nekurima gadheni
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Mhepo itsva nechiedza chemasikati zvinofadza. Onai [zviitwa zvepanze nekurima gadheni](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Diridzirai zvirimwa.** Chigubhu chidiki chemvura nemapoto mashoma. Kudiridza zuva nezuva kunopa zuva hurongwa.
+41. **Dyarai mupoto.** Riisei patafura kuti pasave neanopfugama. Zvirimwa zvidiki zviri nyore pane mbeu.
+42. **Bvisai masora kana maruva akaoma.** Magurovhosi mumaoko, kamubhedha kadiki panguva.
+43. **Kwevai mashizha.** Nzvimbo diki. Gare gare, kubata bhegi rakazaruka ibasa chairo.
+44. **Fambai nenzira inozivikanwa.** Kutenderera bhuroko kana kuenda kubhokisi retsamba. Kupfupika kwakanaka.
+45. **Garai panze pamwe chete.** Chigaro chepavheranda pazuva rakanaka. Tarirai makore kana vanhu vanopfuura.
+46. **Ipai shiri chikafu.** Zadzai chinodyiwa neshiri pamwe chete motarisa muri pahwindo.
+47. **Sukai mota.** Bhaketi, chipanje, masikati anodziya. Kusuka mavhiri ibasa rakanaka renhanho imwe.
 
-## Sensory activities
+## Zviitwa zvinobata manzwiro
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Kubata, kunhuwidza, kuravira, kunzwa nekuona zvinonyanya kukosha dementia painokura. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) inotaura nezvemimhanzi, zvinhu zvekubata nekukwizwa kwemaoko mumatanho ekupedzisira. Tarirai kutanga kana paine zvinhu zvinokonzera allergy kana njodzi yekudzipwa; onai [zviitwa zvinobata manzwiro](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Kwirai maoko.** Bvunzai kutanga uye shandisai mafuta mashoma. Sarudzai asina kunhuhwirira kana musina chokwadi neganda kana allergy.
+49. **Batai machira.** Dengu rine velvet, corduroy, wool nesatin zvekupuruzira nekupeta.
+50. **Nhuwidzai miriwo nekofi.** Puruzirai mint itsva kana rosemary pakati peminwe. Siyai kunhuhwirira kwakasimba kana paine matambudziko ekufema.
+51. **Pfekai bvudzi rake.** Zvishoma nezvishoma uye zvinyoro, kana achizvifarira.
+52. **Govanai jira rinodziya.** Rekugeza maoko nechiso pazuva rinotonhora. Edzai kupisa kwaro kutanga.
+53. **Shandisai epuroni yezviitwa.** Mabhatani makuru nemazipisi akasonerwa zvakasimba. Tarirai kuti hapana chinogona kubva.
+54. **Ravirai chinhu chinonaka chaanofarira.** Chipunu chidiki, mumamiriro aanogona kubata zvakachengeteka.
+55. **Ridzai manzwi ezvisikwa.** Mvura inonaya, masaisai kana kurira kweshiri zvinyoro.
+56. **Tarirai chinhu chinofamba zvishoma.** Tangi rehove, vhidhiyo yezvisikwa kana chando chinodonha.
 
-## Games and puzzles
+## Mitambo nemapuzzle
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Mitambo inoshanda kana pasina nguva inoverengwa, zvibodzwa kana kumanikidzwa. Kana imwe ikatanga kunzwa semuyedzo, ibvisei. Onai [kusarudza maapp nemitambo](/caregiving/choosing-apps-and-games/) uye [mitambo yepfungwa](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Enzanisai mifananidzo.** [Picture pairs](/games/picture-pairs/) inoita kuti mifananidzo irambe yakatarisa kumusoro, saka ndeyekucherechedza, kwete kurangarira.
+58. **Tsvagai mufananidzo wakafanana.** [Find the same](/games/find-the-same/) inopa sarudzo mbiri kusvika ina. Taurai nezvemufananidzo wega wega.
+59. **Rongai mumadengu.** [Sort together](/games/sort-together/) zvakaita sekuronga masokisi pachidzitiro.
+60. **Itai jigsaw rine zvidimbu zvikuru.** Mifananidzo yevakuru, nhamba yezvidimbu iri nyore. [Picture puzzle](/games/picture-puzzle/) inochengeta mufananidzo wese uchioneka. Zvimwe pa [mapuzzle edementia](/activities/puzzles/).
+61. **Tambai mutambo wekare wemakadhi.** Wese waagara achitamba kwemakore. Gare gare, kuronga makadhi nemavara mutambo pachawo.
+62. **Tambai dominoes.** Enzanisai magumo. Gare gare, kungoronga matiles mumutsara zvakanaka.
+63. **Edzai kutsvaga mazwi ane mavara makuru.** [word search](/games/word-search/) yedu ine mazwi anoyambuka nepasi chete, uye inodhindwa.
+64. **Pedzisai zvirevo zvinozivikanwa.** [Finish the saying](/games/finish-the-saying/) inokutenderai kuratidza magumo chero nguva.
+65. **Tambai picture bingo.** [Picture bingo](/games/picture-bingo/) inokodzera mhuri nemapoka. Batsirai kumaka makadhi zvakasununguka.
+66. **Tambai checkers.** Chengetai mitemo yakareruka. Kufambisa zvidimbu muchitaura zvinokwana.
 
-## Movement
+## Kufamba kwemuviri
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA inokurudzira kufamba, bhasikoro risingafambi, mabhande ekutambanudza, kukanda bhora rakapfava kana bharumu, kusimudza magaba esoup nemavhidhiyo ekurovedza muviri evakuru. Bvunzai chiremba musati matanga chinhu chitsva, kunyanya kana paine matambudziko ekuenzanisa.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Kandai bharumu.** Garai makatarisana. Rinofamba zvishoma, saka zviri nyore kuribata.
+68. **Teverai vhidhiyo yekurovedza muviri makagara pasi** yakaitirwa vakuru, muri pamwe chete.
+69. **Tambanudzai nebhandi.** Kudhonza maoko zvinyoro nebhandi rakareruka makagara pasi.
+70. **Simudzai magaba esoup.** Kusimudza maoko zvishoma nezvishoma, pamwe chete nemimhanzi.
+71. **Tasvai bhasikoro risingafambi.** Maminitsi mashoma zviri nyore, imi muri pedyo.
+72. **Tambai nezvijira.** Zunza zvijira zvakareruka kumimhanzi, makagara pasi kana makamira.
+73. **Fambai muine chinangwa.** Kunoendesa tsamba kana kunotenga kofi. Chikonzero chekuenda chinonzwa chiri chechisikigo.
+74. **Govanai kumbomira kwekufema.** Dzikamai pamwe chete ne [kufema kwakadzikama](/games/calm-breathing/).
 
-## Social activities
+## Zviitwa zvepamwe nevanhu
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Kuva nevanhu kunokosha kunyange mazita akaoma, uye mapoka madiki ari nyore pane makuru. NIA inoti munhu anogona kusarangarira kuti mushanyi ndiani asi anowanzofarira kuva naye. Onai [kushanya](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Ivai nemushanyi mumwe kana vaviri panguva.** Kushanya kupfupi mumba mune runyararo, muine mifananidzo yekutarisa.
+76. **Fonai mhuri nevhidhiyo.** Kufona kupfupi, izwi rimwe panguva. Onai [kufona parunhare nepavhidhiyo](/activities/phone-and-video-calls/).
+77. **Edzai memory café.** Misangano isina kurongwa yevanhu vanorarama nedementia nevanozvichengeta. Bvunzai Area Agency on Aging yenyu zviri pedyo.
+78. **Dyirai kunze panguva yakanyarara.** NIA inokurudzira resitorendi inozivikanwa, yakanyarara panguva isina vanhu vakawanda, netafura iri pedyo nechimbuzi.
+79. **Shanyirai nzvimbo yevakuru kana chirongwa chemasikati.** Kuva nevanhu kwaari uye kuzorora kwamuri.
+80. **Pedzai nguva nevana.** Kushanya kupfupi, kwakadzikama kubva kuvazukuru, kana kuverengera mwana mudiki bhuku remifananidzo.
+81. **Govanai bepanhau pamusoro pekofi.** Verengai misoro mikuru zvinonzwika. Tsika yacho inokosha kupfuura nhau pachadzo.
+82. **Batsirai mumwe munhu.** Petai mapurogiramu echechi kana gadzirai kadhi remuvakidzani.
 
-## Faith and spiritual activities
+## Zviitwa zvekutenda nezvemweya
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Teverai tsika yemunhu wacho, kana pasina. NIA inokurudzira minamato inozivikanwa, kuverenga, mimhanzi inoyera, munamato, kufungisisa netsika dzemazororo.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Endai kumusangano unozivikanwa.** Sarudzai wakanyarara, garai pedyo nenzira yekufamba, uye zivisai vanhu varipo nezvedementia.
+84. **Onai musangano pamhepo** pamazuva apo kubuda kunenge kwakaoma.
+85. **Namatai kana verengai pamwe chete.** Mazwi anozivikanwa, verengai zvishoma nezvishoma. Anogona kubatana nemi pazvikamu zvaanoziva.
+86. **Imbai nziyo dzechitendero kana mimhanzi inoyera** yetsika yake.
+87. **Chengetai tsika dzemazororo.** Makenduru ebhatiri, chikomborero, zvekushongedza zvaagara achishandisa.
+88. **Govanai nguva yakanyarara.** Garai mubindu kana tarisai zuva richinyura muri pamwe chete.
 
-## Pets and animals
+## Mhuka dzinovaraidza nedzimwe mhuka
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA inokurudzira kupa chikafu, kupfeka, kufamba, kana kugara nekubata mhuka inoriritirwa.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Pfekai imbwa kana katsi yakadzikama** nemitsara mirefu, inononoka.
+90. **Ipai mhuka chikafu pamwe chete.** Imi muyere; iye adurure.
+91. **Fambai nembwa pamwe chete.** Imi mubate tambo.
+92. **Batai mhuka pamakumbo.** Katsi yakadzikama pagumbeze inogona kunyaradza zvikuru.
+93. **Gamuchirai mhuka dzinouya kushanya.** Dzimwe dzimba dzekuchengeta nezvirongwa zvemasikati dzinogamuchira kushanya kwemhuka. Bvunzai munharaunda menyu.
+94. **Ipai mhuka yakapfava yakafanana neychaiyo.** Kana pasina mhuka chaiyo, vamwe vanhu vanofarira kubata katsi kana imbwa yakapfava yakaita sey chaiyo. Ipei zviri nyore, kwete sechitoyi, uye gamuchirai kuramba.
 
-## Seasonal activities
+## Zviitwa zvemwaka
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Chengetai tsika, asi zviri nyore. NIA inokurudzira kuva nezvinogoneka uye kuva nenzvimbo yakanyarara yekuzorora panguva dzemazororo dzakabatikana.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Shongedzai zvemwaka.** Manhanga, chishongo chepamusuwo kana maruva matsva patafura.
+96. **Gadzirai chinonaka chemazororo.** Monerai mukanyiwa kana isai chando pamakuki. Imi mubate ovheni.
+97. **Turikai zvekushongedza.** Zvekushongedza zvisingaputsike, muchipa chimwe panguva.
+98. **Tyairai munoona magetsi.** Kufamba kupfupi kwemanheru hakukumbiri chinhu kunze kwekuva pamwe chete.
+99. **Dyarai mababu echirimo.** Dzirai mababu mupoto mumatsutso motarisa zvirimwa zvichibuda.
+100. **Bvisai matehwe echibage kana mapizi.** Basa repasvondo rechirimo riine ndiro pamakumbo.
+101. **Nyora makero pamakadhi emazororo.** Iye anosaina, anoisa chitambi kana kunama; imi munobata kero.
 
-## What if an activity is not working?
+## Ko kana chiitiko chisiri kufamba zvakanaka?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Mirai, uye edzai chimwe chinhu pane imwe nguva. NIA inokurudzira kutarisa kushushikana uye kurega munhu wacho achingoona kana achida. Kuramba kunowanzo reva kuti basa rakaoma, nguva haina kunaka, kana kuti pane chimwe chinhu chiri kumunetsa, sekurwadziwa, nzara kana ruzha. Chiitei chidiki, edzai mangwanani-ngwanani, kana tangai imi muone kana achibatana. Onai [pavanoti kwete](/caregiving/when-they-say-no/) uye [kusagadzikana kwemasikati](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Kuti muise zviitwa pakati pekudya nekuzorora, onai [hurongwa hwezuva hwakapfava](/activities/daily-routine/). Kuti muve nezvinhu zvakagadzirira, onai [zviitwa zvinodhindwa](/activities/printable/), uye kana muchitungamirira boka, [zviitwa zveboka munzvimbo dzekuchengeta](/activities/care-home-groups/). Kuzorora kwenyuwo kunokosha: onai [kuzvichengeta kwemuchengeti](/caregiving/caregiver-self-care/).

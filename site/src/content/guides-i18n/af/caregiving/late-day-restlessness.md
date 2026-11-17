@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Rustige aktiwiteite vir laatmiddag"
-seoTitle: "Sundowning: Rustige laatmiddag-aktiwiteite"
-description: "Gereelde roetines, kamerveranderings en rustige aktiwiteite wat late-dag-onrus kan help verminder, plus wanneer u 'n dokter moet bel oor nuwe of erger simptome."
+title: "Sonsonderangsindroom: Rustige laatmiddag-aktiwiteite"
+seoTitle: "Sonsonderangsindroom: Rustige laatmiddag-aktiwiteite"
+description: "Sagte roetines, kamerveranderinge en rustige aktiwiteite wat laatmiddag-onrustigheid by demensie kan verlig, en wanneer om ’n dokter te kontak."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is onrus, verwarring of prikkelbaarheid wat in die laatmiddag of
-  aand begin of erger word. Praktiese stappe wat dalk help, sluit in 'n vaste
-  daaglikse roetine, daglig en aktiwiteit vroeër op die dag, minder laat
-  dutjies, minder kafeïen, helder binnelig voor skemer, 'n stiller huis, en
-  rustige aktiwiteite soos musiek, foto's of klere vou. Nuwe of erger simptome
-  moet deur 'n dokter nagegaan word.
+  Sonsonderangsindroom is onrustigheid, verwarring of geïrriteerdheid wat in
+  die laatmiddag of aand begin of vererger. Praktiese stappe wat kan help,
+  sluit in ’n vaste daaglikse roetine, daglig en aktiwiteit vroeër in die dag,
+  minder laat dutjies, minder kafeïen, helder binnenshuise ligte voor skemer,
+  ’n rustiger huis, en kalm aktiwiteite soos musiek, foto’s of wasgoed vou.
+  Nuwe of verergerende simptome moet deur ’n dokter nagegaan word.
 keyPoints:
-  - "Sundowning beteken onrus of verwarring wat begin of erger word soos die daglig verval."
-  - "Plaas veeleisende take, uitstappies en badtyd in die oggend of vroeg in die middag."
-  - "Daglig, 'n daaglikse stapwandeling, minder laat dutjies en minder kafeïen laat in die dag kan help dat die aande soepeler verloop."
-  - "Skakel lig aan voor skemer, verlaag geraas, en skakel oor na rustige, bekende aktiwiteite."
-  - "Hou 'n dagboek om snellers op te spoor, en bly kalm en gerusstellend wanneer onrus begin."
-  - "Sien 'n dokter vir nuwe of erger simptome: pyn, infeksie of medisyne kan 'n rol speel."
+  - "Sonsonderangsindroom beteken onrustigheid of verwarring wat begin of vererger wanneer daglig vervaag."
+  - "Doen veeleisende take, uitstappies en badtyd in die oggend of vroeë middag."
+  - "Daglig, ’n daaglikse wandeling, minder laat dutjies en minder laatmiddag-kafeïen kan aande makliker maak."
+  - "Skakel ligte aan voor skemer, verminder geraas en skakel oor na kalm, bekende aktiwiteite."
+  - "Hou ’n kort aantekeningboek om snellers te herken, en bly kalm en gerusstellend wanneer onrustigheid begin."
+  - "Sien ’n dokter vir nuwe of verergerende simptome: pyn, infeksie of medisyne kan ’n rol speel."
 faq:
-  - q: "Op watter tyd van die dag kom sundowning gewoonlik voor?"
-    a: "Dit begin of word gewoonlik erger in die laatmiddag of vroeg in die aand, soos die daglig verval. Die presiese tyd verskil van persoon tot persoon, daarom kan 'n kort dagboek vir een of twee weke help."
-  - q: "Watter aktiwiteite help met sundowning?"
-    a: "Rustige, bekende aktiwiteite met min inspanning werk gewoonlik die beste in die laatmiddag: kalmerende musiek, foto's kyk, 'n gunstelingprogram of -fliek op TV, klere vou, 'n kort stap of 'n versnapering saam. Bewaar nuwe of uitdagende aktiwiteite vir vroeër op die dag."
-  - q: "Kan sundowning 'n teken van 'n mediese probleem wees?"
-    a: "Gesondheidsprobleme soos pyn, infeksies soos urienweginfeksies, slaapprobleme of newe-effekte van medisyne kan dit vererger. As onrus nuut, skielik of erger is, kontak die persoon se dokter."
-  - q: "Moet ek die dokter oor medisyne vir sundowning vra?"
-    a: "Dit is 'n gesprek om met die dokter te voer. Die Alzheimer's Association sê nie-medisyne-benaderings word gewoonlik eerste voorkeur gegee, en dat enige medisyne vir onrus in die aand slegs oorweeg moet word nadat die risiko's en voordele opgeweeg is. Hierdie bladsy gee nie medisynadvies nie."
+  - q: "Watter tyd van die dag gebeur sonsonderangsindroom gewoonlik?"
+    a: "Dit begin of vererger gewoonlik in die laatmiddag of vroeë aand, wanneer daglig vervaag. Die presiese tyd wissel van persoon tot persoon, en daarom kan ’n kort aantekeningboek vir ’n week of twee help."
+  - q: "Watter aktiwiteite help met sonsonderangsindroom?"
+    a: "Kalm, bekende aktiwiteite wat min moeite verg, werk gewoonlik die beste in die laatmiddag: strelende musiek, na foto’s kyk, ’n gunsteling-TV-program of -fliek, wasgoed vou, ’n kort wandeling, of saam ’n peuselhappie eet. Hou nuwe of uitdagende aktiwiteite vir vroeër in die dag."
+  - q: "Kan sonsonderangsindroom ’n teken van iets medies wees?"
+    a: "Dit kan vererger word deur gesondheidsprobleme soos pyn, infeksies soos urienweginfeksies, slaapprobleme of newe-effekte van medisyne. As onrustigheid nuut, skielik of besig is om te vererger, kontak die persoon se dokter."
+  - q: "Moet ek die dokter oor medisyne vir sonsonderangsindroom vra?"
+    a: "Dit is ’n gesprek om met die dokter te voer. Die Alzheimer’s Association sê dat benaderings sonder medisyne gewoonlik eerste verkies word, en dat enige medisyne vir aand-onrustigheid net oorweeg moet word nadat risiko’s en voordele opgeweeg is. Hierdie bladsy gee nie raad oor medisyne nie."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Baie families merk dieselfde patroon: die oggende is redelik rustig, maar soos die middag verloop, word die persoon met demensie onrustig, angstig, verward of prikkelbaar. Hulle kan heen en weer loop, vra om "huis toe te gaan" selfs al is hulle tuis, of maklik ontsteld raak. Dit word dikwels sundowning genoem.
+Baie gesinne merk dieselfde patroon op: oggende is redelik rustig, maar soos die middag aangaan, word die persoon wat met demensie leef onrustig, angstig, verward of geïrriteerd. Die persoon loop dalk heen en weer, vra om „huis toe“ te gaan al is hulle by die huis, of raak maklik ontsteld. Dit word dikwels sonsonderangsindroom genoem.
 
-Daar is geen enkele oplossing nie, maar veranderinge in die dag se ritme, die kamer en die soort aktiwiteite wat u aanbied, kan laatmiddae dalk rustiger maak. Hierdie bladsy bied praktiese, nie-mediese idees van die National Institute on Aging en die Alzheimer's Association. Dit is nie mediese advies nie. As simptome nuut, skielik of erger is, praat met die persoon se dokter.
+Daar is nie een oplossing nie, maar veranderinge aan die dag se ritme, die kamer en die soort aktiwiteite wat jy aanbied, kan laatmiddae rustiger maak. Hierdie bladsy versamel praktiese, nie-mediese idees van die National Institute on Aging en die Alzheimer’s Association. Dit is nie mediese advies nie. As simptome nuut, skielik of besig is om te vererger, praat met die persoon se dokter.
 
-## Wat is sundowning?
+## Wat is sonsonderangsindroom?
 
-Sundowning is onrus, agitasie, prikkelbaarheid of verwarring wat begin of erger word soos die daglig verval, in die laatmiddag of vroeg in die aand. Die [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) meld dat té moeg wees laatmiddag-onrus kan verhoog.
+Sonsonderangsindroom is onrustigheid, opgewondenheid, geïrriteerdheid of verwarring wat begin of vererger wanneer daglig vervaag, in die laatmiddag of vroeë aand. Die [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) merk op dat om té moeg te wees laatmiddag-onrustigheid kan verhoog.
 
-## Wat kan laatdag-onrus erger maak?
+## Wat kan laatmiddag-onrustigheid vererger?
 
-Verskeie dinge kan bydra, dikwels saam. Die [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) noem faktore soos:
+Verskeie dinge kan bydra, dikwels saam. Die [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) noem faktore soos:
 
-- uitputting na 'n vol dag;
+- uitputting ná ’n vol dag;
 - nuwe of verwarrende omgewings;
-- 'n "interne liggaamsklok" wat uit pas is, sodat die persoon bedags slaperig is en snags wakker is;
+- ’n „interne liggaamsklok“ wat uit pas is, sodat die persoon bedags slaperig en snags wakker is;
 - swak lig en skaduwees, wat verwarrend kan wees;
-- die opvang van spanning of frustrasie by mense rondom hulle;
+- die optel van spanning of frustrasie by mense rondom hulle;
 - minder slaap nodig hê, wat algemeen is by ouer volwassenes.
 
-Die NIA voeg algemene oorsake van agitasie by, insluitend pyn, depressie of stres, te min rus, verstopping, te veel geraas of te veel mense, en sekere medisyne of medisynewisselwerkings.
+Die NIA noem ook oorsake van opgewondenheid in die algemeen, insluitend pyn, depressie of stres, te min rus, hardlywigheid, te veel geraas of te veel mense, en sekere medisyne of wisselwerkings tussen medisyne.
 
 ## Hoe kan ek die dag beplan om aande rustiger te maak?
 
-Skuif veeleisende dinge vroeër en hou die laatmiddag sag en voorspelbaar. Sowel die NIA as die Alzheimer's Association beveel 'n gereelde roetine aan. 'n Voorbeeld van 'n dag, om by u eie aan te pas:
+Skuif veeleisende dinge vroeër toe en hou die laatmiddag sag en voorspelbaar. Beide die NIA en die Alzheimer’s Association beveel ’n gereelde roetine aan. ’n Voorbeeld van ’n dag, wat jy by julle eie situasie kan aanpas:
 
 | Tyd | Wat kan help |
 | --- | --- |
-| Oggend | Afsprake, bad, uitstappies en enige taak wat moeite verg, wanneer baie mense die meeste wakker is |
-| Laat oggend | Tyd buitekant of by 'n sonnige venster; 'n stap of ander aktiwiteit |
-| Middag | 'n groter ete (die Alzheimer's Association stel 'n groter middagete en 'n ligter aandete voor) |
-| Vroeg in die middag | Rus indien nodig, maar vermy lang dutjies laat in die dag |
-| Middag tot laatmiddag | Rustige, bekende aktiwiteite; 'n versnapering en drankie; geen kafeïen nie |
-| Voor skemer | Skakel binneligte aan en trek die gordyne toe voordat dit donker word |
-| Aand | 'n ligter maaltyd, sagte musiek, min prikkeling, 'n vaste slaaptyd-roetine |
+| Oggend | Afsprake, badtyd, uitstappies en enige taak wat moeite verg, wanneer baie mense die wakkerste is |
+| Laat oggend | Tyd buite of by ’n sonnige venster; ’n wandeling of ander aktiwiteit |
+| Middag | ’n Groter middagete (die Alzheimer’s Association stel ’n groter middagete en ’n ligter aandete voor) |
+| Vroeë middag | Rus indien nodig, maar vermy lang dutjies laat in die dag |
+| Middel tot laatmiddag | Kalm, bekende aktiwiteite; ’n peuselhappie en iets om te drink; geen kafeïen nie |
+| Voor skemer | Skakel binnenshuise ligte aan en trek gordyne toe voordat dit donker word |
+| Aand | ’n Ligter maaltyd, rustige musiek, min prikkels, ’n vaste slaaptydroetine |
 
-'n Paar spesifieke punte uit die bronne:
+’n Paar spesifieke punte uit die bronne:
 
-- **Daglig.** Die NIA stel voor dat u elke dag tyd buite of by 'n venster vir sonlig reël.
-- **Daaglikse beweging, maar nie te veel nie.** Mik daarna om elke dag fisiek aktief te wees sonder om te veel aktiwiteite te beplan, sê die NIA.
-- **Drankies laat in die dag.** Vermy alkohol en drankies met kafeïen, soos koffie of kola, laat in die dag (NIA). Die Alzheimer's Association noem ook nikotien.
-- **Dutjies.** Ontmoedig lang dutjies en aan die slaap raak laat in die dag (NIA). Die Alzheimer's Association beveel aan dat middagdutjies beperk word as slaap in die nag 'n probleem is.
+- **Daglig.** Die NIA stel voor om elke dag tyd buite of by ’n venster in die sonlig te reël.
+- **Daaglikse beweging, maar nie te veel nie.** Probeer elke dag fisiek aktief wees sonder om te veel aktiwiteite te beplan, sê die NIA.
+- **Laatmiddag-drankies.** Vermy alkohol en drankies met kafeïen, soos koffie of kola, laat in die dag (NIA). Die Alzheimer’s Association noem ook nikotien.
+- **Dutjies.** Ontmoedig lang dutjies en indommel laat in die dag (NIA). Die Alzheimer’s Association stel voor om dutjies bedags te beperk as nagslaap ’n probleem is.
 
-Vir meer oor die opbou van 'n vaste dag, sien [daaglikse roetine-aktiwiteite](/activities/daily-routine/).
+Vir meer oor hoe om ’n vaste dag te bou, sien [daaglikse roetine-aktiwiteite](/activities/daily-routine/).
 
-## Hoe maak ek die huis laatmiddag rustiger?
+## Hoe kan ek die huis in die laatmiddag rustiger maak?
 
 Verminder geraas, voeg lig by en hou bekende dinge naby.
 
-- **Helder, gelykmatige lig.** Die Alzheimer's Association beveel aan dat die huis saans goed verlig is. Maak die ruimte lig voordat skaduwees verskyn.
-- **Minder geraas.** Skakel die TV en radio af of verlaag dit, en beperk besoekers of besige huishoudelike werk op hierdie tyd. Die Alzheimer's Association stel voor dat prikkeling in die aand verminder word, soos TV, huishoudelike werk en harde musiek.
-- **Bekende troos.** Die NIA stel sagte musiek voor en dat geliefde voorwerpe en foto's in die huis bly.
-- **Troostoetse.** Die Alzheimer's Association beveel aan dat u kyk na pyn, honger, dors, verstopping, 'n vol blaas, moegheid, infeksies en velirritasie, en dat die kamer op 'n gemaklike temperatuur bly.
-- **U eie gemoedstoestand.** Mense neem spanning waar. Die NIA stel voor dat u stadiger maak en probeer ontspan as u eie kommer die spanning verhoog.
+- **Helder, eweredige beligting.** Die Alzheimer’s Association beveel aan om die huis in die aand goed verlig te hou. Maak die ruimte lig voordat skaduwees verskyn.
+- **Minder geraas.** Skakel die TV en radio af of sagter, en beperk besoekers of besige huishoudelike take op hierdie tyd. Die Alzheimer’s Association stel voor om aandprikkels soos TV, take en harde musiek te verminder.
+- **Bekende gemak.** Die NIA stel strelende musiek voor en om geliefde voorwerpe en foto’s in die huis te hou.
+- **Gemakkontroles.** Die Alzheimer’s Association beveel aan om te kyk vir pyn, honger, dors, hardlywigheid, ’n vol blaas, moegheid, infeksies en velirritasie, en om die kamer op ’n gemaklike temperatuur te hou.
+- **Jou eie gemoed.** Mense tel spanning op. Die NIA stel voor om stadiger te maak en te probeer ontspan as jou eie bekommernisse die spanning kan verhoog.
 
-## Watter rustige aktiwiteite kan ons laatmiddag doen?
+## Watter rustige aktiwiteite kan ons in die laatmiddag doen?
 
-Kies aktiwiteite wat bekend, ongehaas en maklik om te stop is. Die Alzheimer's Association stel kalmerende aktiwiteite voor, soos rustige musiek, foto's of 'n gunstelingfliek, en 'n stap saam om onrus te verminder. Die NIA stel 'n versnapering of drankie, 'n gunstelingprogram op TV, musiek, 'n stap, lees, of 'n eenvoudige huishoudelike taak soos klere vou voor.
+Kies aktiwiteite wat bekend, onhaastig en maklik is om te stop. Die Alzheimer’s Association stel strelende aktiwiteite voor soos kalm musiek, foto’s of ’n gunstelingfliek, en ’n saam-stap om onrustigheid te verlig. Die NIA stel ’n peuselhappie of iets om te drink voor, ’n gunsteling-TV-program, musiek, ’n wandeling, lees, of ’n eenvoudige huishoudelike taak soos wasgoed vou.
 
 Idees om te probeer:
 
-1. **Vou klere saam.** Die NIA stel hierdie soort eenvoudige huishoudelike taak voor. Handdoeke is maklik om te hanteer, en die taak het 'n duidelike einde.
-2. **Speel gunstelingmusiek.** Bekende liedjies uit hul jonger jare, teen 'n lae volume. Saamsing met die neurie tel mee. Meer idees in [musiekaktiwiteite](/activities/music/).
-3. **Kyk na foto's.** 'n Fotoalbum, of 'n paar familiefoto's in [Photo Pairs](/games/photo-pairs/) met die prente sigbaar, kan lei tot rustige gesprek.
-4. **Neem 'n kort stap.** In die tuin, om die blok of in 'n gang, voordat dit donker word.
-5. **Deel 'n versnapering en 'n drankie.** Iets eenvoudigs, warm en sonder kafeïen, saam aan die tafel.
-6. **Sagte pas-pas.** [Picture Pairs](/games/picture-pairs/) met vier teëls en die prente sigbaar is maklik om mee te begin en maklik om mee op te hou.
-7. **Kleur.** [Coloring](/games/coloring/) op die skerm of op 'n gedrukte bladsy, sonder die doel om klaar te maak.
-8. **Kyk en praat.** [Conversation Cards](/games/conversation-cards/) bied 'n prent en 'n oop vraag. Net kyk is genoeg.
-9. **'n Asemhalingspouse.** [Calm Breathing](/games/calm-breathing/) is 'n stadige, stil pouse wat u self begin en stop.
-10. **Handtake.** Knope of sokkies sorteer, 'n sagte kombersie gladstryk, of 'n bekende voorwerp vashou. Sien [sensoriese aktiwiteite](/activities/sensory/).
+1. **Vou wasgoed saam.** Die NIA stel hierdie soort eenvoudige huishoudelike taak voor. Handdoeke is maklik om te hanteer, en die taak het ’n duidelike einde.
+2. **Speel gunstelingmusiek.** Bekende liedjies uit hul jonger jare, teen ’n sagte volume. Saamsing of neurie tel ook. Meer idees in [musiekaktiwiteite](/activities/music/).
+3. **Kyk na foto’s.** ’n Fotoalbum, of ’n paar gesinsfoto’s in [Photo Pairs](/games/photo-pairs/) met die prentjies sigbaar, kan tot rustige gesprekke lei.
+4. **Maak ’n kort wandeling.** In die tuin, om die blok of in ’n gang, voordat dit donker word.
+5. **Deel ’n peuselhappie en iets om te drink.** Iets eenvoudigs, warms en sonder kafeïen, saam by die tafel.
+6. **Sagte pasmaak.** [Picture Pairs](/games/picture-pairs/) met vier teëls en prentjies sigbaar is maklik om te begin en maklik om te stop.
+7. **Inkleur.** [Coloring](/games/coloring/) op ’n skerm of op ’n gedrukte bladsy, sonder die doel om klaar te maak.
+8. **Kyk en gesels.** [Conversation Cards](/games/conversation-cards/) bied ’n prentjie en ’n oop vraag. Om net te kyk is genoeg.
+9. **’n Asemhalingspouse.** [Calm Breathing](/games/calm-breathing/) is ’n stadige, stil pouse wat jy self begin en stop.
+10. **Take met die hande.** Sorteer knope of sokkies, streel ’n sagte kombers glad, of hou ’n bekende voorwerp vas. Sien [sintuiglike aktiwiteite](/activities/sensory/).
 
-Vermy nuwe speletjies, besige uitstappies en enigiets wat baie geheue of konsentrasie vra laat in die dag. Bewaar dit vir die oggend.
+Vermy nuwe speletjies, besige uitstappies en enigiets wat laat in die dag baie geheue of konsentrasie vra. Hou dit vir die oggend.
 
-## Wat moet ek doen wanneer onrus begin?
+## Wat moet ek doen wanneer onrustigheid begin?
 
-Bly kalm, gee gerustheid en lei die aandag versigtig af. Die NIA stel voor dat u rustig praat, na die persoon se kommer luister, twisgesprekke vermy, die persoon verseker dat hulle veilig is, en sagte aanraking gebruik as dit help. Probeer dan afleiding: 'n versnapering, 'n drankie, musiek of 'n stap.
+Bly kalm, stel gerus en lei sagkens af. Die NIA stel voor om rustig te praat, na die persoon se bekommernisse te luister, argumente te vermy, hulle te verseker dat hulle veilig is, en sagte aanraking te gebruik as dit help. Probeer dan aandag wegtrek: ’n peuselhappie, iets om te drink, musiek of ’n wandeling.
 
-Die Alzheimer's Association stel frases soos "Jy is hier veilig" en "Dit spyt my dat u ontsteld is" voor, en raai aan om lig by te voeg, stadiger te maak en prikkeling te beperk. Moenie die persoon in 'n hoek dring, op hulle toe beweeg of hulle vashou nie, en moenie met hulle stry nie.
+Die Alzheimer’s Association stel frases voor soos „Jy is hier veilig“ en „Ek is jammer dat jy ontsteld is“, en raai aan om meer lig by te voeg, stadiger te maak en prikkels te beperk. Moenie die persoon in ’n hoek vaskeer, saamdrom of vaskeer nie, en moenie met hulle stry nie.
 
-As die persoon aggressief word, raai die NIA aan om op 'n veilige afstand te bly totdat die gedrag ophou. In 'n noodgeval, bel die plaaslike noodnommer (in Suid-Afrika 112 vanaf 'n selfoon, of 10111) en verduidelik dat die persoon demensie het.
+As die persoon aggressief raak, raai die NIA aan om op ’n veilige afstand te bly totdat die gedrag ophou. In ’n noodgeval, skakel 911 en verduidelik dat die persoon demensie het. Ons [gids oor hoe om op woede en aggressie te reageer](/caregiving/when-anger-becomes-aggression-with-dementia/) dek onmiddellike veiligheid en wat om daarna te doen.
 
-Ons gidse oor [kommunikasie](/caregiving/communication-tips/) en [wat om te doen wanneer hulle nee sê](/caregiving/when-they-say-no/) bevat meer oor kalmerende woorde.
+Ons gidse oor [kommunikasie](/caregiving/communication-tips/) en [wat om te doen wanneer hulle nee sê](/caregiving/when-they-say-no/) het meer oor kalmerende woorde.
 
-## Hoe vind ek die snellers?
+## Hoe vind ek die snellers uit?
 
-Hou 'n kort dagboek vir een of twee weke. Die Alzheimer's Association beveel aan dat u dit wat voorafgaan aan sundowning-episodes naspoor om snellers te identifiseer. Teken die tyd wat die onrus begin het, wat in die uur daarvoor gebeur het, dutjies, maaltye en drankies, besoekers, geraas en lig aan. Neem die dagboek na die dokter toe. Die NIA meld dat die hou van rekord van gedragsveranderinge caregivers en gesondheidsorgverskaffers kan help om 'n patroon te herken.
+Hou ’n kort aantekeningboek vir ’n week of twee by. Die Alzheimer’s Association beveel aan om te skryf wat gebeur voor episodes van sonsonderangsindroom om snellers te herken. Skryf die tyd neer wanneer onrustigheid begin het, wat in die uur tevore gebeur het, dutjies, etes en drankies, besoekers, geraas en lig. Neem die aantekeninge saam na die dokter. Die NIA merk op dat dit kan help om gedragsveranderinge by te hou sodat versorgers en gesondheidsorgverskaffers ’n patroon kan raak sien.
 
-## Wanneer moet ek 'n dokter bel oor sundowning?
+## Wanneer moet ek ’n dokter oor sonsonderangsindroom skakel?
 
-Kontak die persoon se dokter as onrus nuut is, skielik erger word, of gepaard gaan met ander veranderinge. Die NIA sê dat skielike of vinnig wisselende gedragsveranderinge, veral na 'n infeksie of onlangse medisynewisseling, onmiddellik aan 'n dokter voorgelê moet word.
+Kontak die persoon se dokter as onrustigheid nuut is, skielik vererger, of saam met ander veranderinge voorkom. Die NIA sê skielike of vinnig wisselende gedragsveranderinge, veral ná ’n infeksie of onlangse medisyneveranderinge, moet onmiddellik onder ’n dokter se aandag gebring word.
 
-Vra die dokter om te kyk na dinge wat aande moeiliker kan maak. Die Alzheimer's Association noem fisiese probleme soos urienweginfeksies, inkontinensie, rustelose bene en slaapapnee, en stel voor dat u vra watter tye van die dag die beste is vir elke medisyne. Die NIA noem pyn, verstopping en medisyne-newe-effekte of -wisselwerkings onder moontlike oorsake van agitasie.
+Vra die dokter om te kyk na dinge wat aande moeiliker kan maak. Die Alzheimer’s Association noem fisieke probleme soos urienweginfeksies, inkontinensie, rustelose bene en slaapapnee, en stel voor om te vra watter tye van die dag die beste vir elke medisyne is. Die NIA lys pyn, hardlywigheid en newe-effekte of wisselwerkings van medisyne as moontlike oorsake van opgewondenheid.
 
-Die Alzheimer's Association sê nie-medisyne-benaderings word gewoonlik eerste voorkeur gegee vir slaapprobleme wat met Alzheimer's verband hou, en dat medisyne vir laatmiddag-agitasie slegs oorweeg moet word as dié misluk, nadat die risiko's en voordele opgeweeg is. Daardie besluit berus by die dokter. Moenie enige medisyne, slaapmiddel of aanvulling begin, staak of verander sonder mediese advies nie.
+Die Alzheimer’s Association sê dat benaderings sonder medisyne gewoonlik verkies word vir slaapprobleme wat met Alzheimer se siekte verband hou, en dat medisyne vir laatmiddag-onrustigheid net oorweeg moet word as dit nie help nie, nadat risiko’s en voordele opgeweeg is. Daardie besluit behoort by die dokter. Moenie enige medisyne, slaaphulpmiddel of aanvulling begin, stop of verander sonder mediese advies nie.
 
 ## Hoe kom ek self deur die aande?
 
-Laatmiddae kan die moeilikste deel van 'n versorger se dag wees. As u kan, vra 'n familielid, vriend of betaalde helper om die laatmiddag 'n paar dae per week te oorneem, al is dit net vir 'n uur. Ons gids oor [self-sorg vir versorgers](/caregiving/caregiver-self-care/) lys respyt-opsies en die gratis Alzheimer's Association 24/7 Helpline.
+Laatmiddae kan die moeilikste deel van ’n versorger se dag wees. As jy kan, vra ’n familielid, vriend of betaalde helper om ’n paar dae per week vir die laatmiddag te help, selfs vir ’n uur. Ons gids oor [selfsorg vir versorgers](/caregiving/caregiver-self-care/) lys verligtingsopsies en die gratis 24/7-hulplyn van die Alzheimer’s Association.

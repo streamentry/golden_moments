@@ -1,33 +1,34 @@
 ---
-title: "Demensiya uchun bogʻ va ochiq havo mashgʻulotlari"
-seoTitle: "Demensiya uchun bogʻbonlik va ochiq havo mashgʻuloti"
-description: "Demensiya bilan yashayotganlar uchun bogʻbonlik va ochiq havo gʻoyalari: koʻtarma ekish joylari, idishlarda ekish, issiq, quyosh va adashib ketish xavfsizligi."
+title: "Demansda ochiq havo va bog‘dorchilik mashg‘ulotlari"
+seoTitle: "Demansda bog‘dorchilik va ochiq havo mashg‘ulotlari"
+description: "Demans bilan yashayotgan odamlar uchun bog‘dorchilik va ochiq havo mashg‘ulotlari, baland ko‘chatlar, idishli bog‘lar hamda issiq, quyosh va adashib qolishdan saqlanish bo‘yicha maslahatlar."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Bogʻbonlik va ochiq havoda boʻlish demensiya bilan yashayotgan inson uchun
-  sokin va tanish mashgʻulot boʻlishi mumkin. Suv quyish, idishlarga
-  dorivor oʻtlar ekish, soʻlgan gullarni uzish yoki toʻsiq bilan oʻralgan hovlida
-  qisqa sayr qilishni sinab koʻring. Hech kim tiz choʻkmasligi uchun koʻtarma
-  ekish joyi yoki stoldan foydalaning, oʻtkir asboblar va zaharli oʻsimliklardan
-  saqlaning, kunning salqin vaqtida chiqing va inson bilan doim birga boʻling.
+  Bog‘dorchilik va ochiq havoda vaqt o‘tkazish demans bilan yashayotgan odam
+  uchun tinch, tanish mashg‘ulot bo‘lishi mumkin. Gullarga suv quyish, o‘tlarni
+  tuvakka ekish, so‘lib qolgan gullarni uzib tashlash yoki panjarali hovlida
+  qisqa sayr qilishni sinab ko‘ring. Hech kim tiz cho‘kishiga hojat qolmasligi
+  uchun baland ko‘chatlar yoki stol ishlating, o‘tkir asboblar va zaharli
+  o‘simliklardan saqlaning, kunning salqinroq vaqtida tashqariga chiqing va
+  har doim odam bilan birga bo‘ling.
 keyPoints:
-  - "Suv quyish, urugʻ ekish, dorivor oʻtlarni hidlash va gul uzish kabi oddiy bogʻ ishlarini tik turib ham, oʻtirib ham bajarish mumkin."
-  - "Koʻtarma ekish joylari, idishlar va yopilgan stol bogʻni bel balandligiga keltiradi va yiqilish xavfini kamaytiradi."
-  - "Oʻtkir asboblar, tikanli yoki tirnaydigan oʻsimliklar va har qanday zaharli narsadan saqlaning. Tuproq ovqat bilan adashtirilmasligiga e’tibor bering."
-  - "Issiq keksa kattalar uchun xavfli boʻlishi mumkin. Erta yoki kech chiqing, suv va soya olib boring va noqulaylikning birinchi belgisida ichkariga kiring."
-  - "Demensiya bilan yashayotgan koʻp odam qachondir adashib ketadi. Tashqarida inson bilan birga boʻling va yaqinda olingan surat hamda shaxsini tasdiqlovchi ma’lumotni yoningizda saqlang."
+  - "Suv quyish, urug‘ ekish, o‘tlarni hidlash va gullarni terish kabi oddiy bog‘ ishlarini tik turib ham, o‘tirib ham bajarish mumkin."
+  - "Baland ko‘chatlar, idishlar va usti yopiq stol bog‘ni bel balandligiga olib chiqadi va yiqilish xavfini kamaytiradi."
+  - "O‘tkir asboblar, tikanli yoki terini bezovta qiluvchi o‘simliklar hamda zaharli narsalardan saqlaning. Tuproq ovqat deb adashmasligiga e’tibor bering."
+  - "Issiq keksa odamlar uchun xavfli bo‘lishi mumkin. Erta tongda yoki kechqurun tashqariga chiqing, suv va soyani tayyor tuting va noqulaylikning ilk belgilarida darhol uyga kiring."
+  - "Demans bilan yashayotgan ko‘plab odamlar qachondir adashib ketishi mumkin. Tashqarida odam bilan doimo birga bo‘ling, yaqinda olingan surat va shaxsni tasdiqlovchi hujjatni yoningizda saqlang."
 faq:
-  - q: "Demensiyali inson qanday bogʻbonlik ishlarini bajara oladi?"
-    a: "Oʻsimliklarga suv quyish, kichik idishlarga urugʻ ekish, dorivor oʻtlarni hidlash va ushlab koʻrish, soʻlgan gullarni uzish, sabzavot terish, kesilgan gullarni guldasta qilish va yoʻlakni sipirish yaxshi tanlov. Uy ichida deraza tokchasidagi dorivor oʻt idishi yoki yopilgan stol ustidagi tuproqli patnis yaxshi ishlaydi. Ishni inson oldin nimadan zavq olganiga va hozir nimani qulay bajara olishiga qarab tanlang."
-  - q: "Demensiyali insonni issiqda qanday xavfsiz saqlayman?"
-    a: "Ochiq havodagi vaqtni salqin erta ertalab yoki kechga rejalashtiring, qisqa qiling va tez-tez suv taklif qiling. Soya, keng labli shlyapa, yengil keng kiyim va quyoshdan himoya kremini tanlang. Keksa kattalarda issiqdan kasallanish xavfi yuqoriroq, chalkashlik, bosh aylanishi yoki koʻngil aynishi ogohlantiruvchi belgilar boʻlishi mumkin, shuning uchun ularni sezsangiz, darhol ichkariga kirib salqinlating."
-  - q: "Agar adashib ketishga moyil boʻlsa, qanday qilib tashqariga chiqamiz?"
-    a: "Butun vaqt inson bilan birga boʻling, darvozasi ilgakli toʻsiq bilan oʻralgan hovli yoki bogʻdan foydalaning va unda shaxsini koʻrsatuvchi bilaguzuk boʻlishiga yoki hujjat olib yurishiga ishonch hosil qiling. Yaqinda olingan suratni yoningizda saqlang. Inson yoʻqolsa, Alsgeymer assotsiatsiyasi uni 15 daqiqa ichida topa olmasangiz, favqulodda raqamga qoʻngʻiroq qilishni maslahat beradi."
-  - q: "Agar bogʻimiz boʻlmasa-chi?"
-    a: "Ayvondagi bir nechta idish, deraza oldidagi quti yoki oshxona stolidagi dorivor oʻtlar patnisi yetarli. Shuningdek, bogʻ, jamoat bogʻi yoki mahalla bogʻiga borishingiz mumkin. Tashqarida oʻtirib qushlar sayrashini tinglash ham ochiq havo mashgʻuloti hisoblanadi."
+  - q: "Demans bilan yashayotgan odam qanday bog‘dorchilik ishlarini qila oladi?"
+    a: "O‘simliklarga suv quyish, kichik tuvaklarga urug‘ ekish, o‘tlarni hidlash va ushlab ko‘rish, so‘lib qolgan gullarni uzib tashlash, sabzavot terish, kesilgan gullarni joylashtirish va yo‘lakni supurish — bularning barchasi yaxshi tanlov bo‘lishi mumkin. Uy ichida deraza tokchasidagi o‘t tuvagi yoki usti yopiq stolda tuproq solingan patnis ham juda mos keladi. Ishni odam avval nimalarni yoqtirganiga va hozir qulay bajara olishiga qarab tanlang."
+  - q: "Demans bilan yashayotgan odamni issiqda qanday xavfsiz saqlash mumkin?"
+    a: "Ochiq havoda bo‘lishni kunning salqinroq vaqti — erta tong yoki kechqurun — uchun rejalashtiring, qisqa tuting va tez-tez suv ichishni taklif qiling. Soya, keng chetli shlyapa, yengil va keng kiyim hamda quyoshdan himoyalovchi vositani tanlang. Keksa odamlarda issiq urishi xavfi yuqoriroq bo‘ladi, chalkashlik, bosh aylanishi yoki ko‘ngil aynishi ogohlantiruvchi belgilar bo‘lishi mumkin, shuning uchun bularni sezsangiz darhol uyga kiring va salqinlashing."
+  - q: "Agar odam adashib ketishga moyil bo‘lsa, qanday qilib tashqariga chiqishimiz mumkin?"
+    a: "Butun vaqt davomida odam bilan birga bo‘ling, qulfli darvozasi bo‘lgan panjarali hovli yoki bog‘dan foydalaning va odamda shaxsni tasdiqlovchi bilaguzuk bo‘lishiga yoki shaxsiy hujjatini yonida olib yurishiga ishonch hosil qiling. Yaqinda olingan suratni yoningizda saqlang. Agar odam yo‘qolib qolsa, mahalliy politsiya yoki tez tibbiy yordam xizmatlariga darhol murojaat qiling; ma’lum daqiqa kutib o‘tirmang. Xizmat xodimlariga odamda demans borligini, uni oxirgi marta qayerda ko‘rganingizni ayting va yaqinda olingan suratni bering."
+  - q: "Agar bizda bog‘ bo‘lmasa-chi?"
+    a: "Ayvonda bir nechta tuvak, deraza oldidagi gultuvak yoki oshxona stolida o‘tlar solingan patnisning o‘zi kifoya. Shuningdek, parkka, jamoat bog‘iga yoki mahalla bog‘iga borishingiz mumkin. Tashqarida o‘tirib, qushlar sayrashini tinglash ham ochiq havodagi mashg‘ulot hisoblanadi."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +45,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +56,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Koʻpchilik uchun bogʻ eng tanish joylardan biri. Kovlash, suv quyish va gul uzish ancha oldin oʻrganilgan koʻnikmalardan foydalanadi, ochiq havoda esa toza havo, quyosh nuri va qush sayrashi bor. Milliy qarilik instituti (National Institute on Aging) oʻsimliklarga qarash, gul va sabzavot ekish hamda [oʻsimliklar qanday oʻsayotgani haqida gaplashish](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)ni Alsgeymer bilan yashayotganlar yoqtirishi mumkin boʻlgan mashgʻulotlar qatoriga kiritadi. Bu sahifada nimani sinab koʻrish, bogʻdan foydalanishni qanday osonlashtirish hamda issiq, quyosh va adashib ketish xavfidan qanday saqlanish haqida gap boradi.
+Ko‘p odamlar uchun bog‘ eng tanish joylardan biridir. Tuproqni kovlash, suv quyish va gullarni terish uzoq vaqt oldin o‘rganilgan ko‘nikmalardan foydalanadi, tashqarida bo‘lish esa toza havo, quyosh nuri va qushlar sayrashini beradi. National Institute on Aging Altsgeymer bilan yashayotgan odamlar yoqtirishi mumkin bo‘lgan mashg‘ulotlar qatorida o‘simliklarga g‘amxo‘rlik qilish, gullar va sabzavotlar ekish hamda [o‘simliklar qanday o‘sayotganini suhbatlashishni](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ko‘rsatadi. Bu sahifada nimalarni sinab ko‘rish mumkinligi, bog‘dan foydalanishni qanday osonlashtirish hamda issiq, quyosh va adashib qolish paytida qanday xavfsiz bo‘lish haqida so‘z yuritiladi.
 
-## Qaysi ochiq havo va bogʻbonlik mashgʻulotlari yaxshi ishlaydi?
+## Qaysi ochiq havo va bog‘dorchilik mashg‘ulotlari mos keladi?
 
-Eng yaxshi ishlar oddiy, tanish va tik turib ham, oʻtirib ham bajariladigan ishlar. Inson avval nimadan zavq olganiga qarab tanlang.
+Eng yaxshi ishlar oddiy, tanish va tik turib ham, o‘tirib ham bajariladigan ishlar bo‘ladi. Odam avval nimalarni yoqtirganiga qarab tanlang.
 
-### Bogʻda
+### Bog‘da
 
-1. **Suv quyish.** Kichik, yengil leyka yoki yumshoq shlang uchligi va yetib boʻladigan joyda bir nechta idish. Suv quyishning aniq boshi va oxiri bor, uni xato qilish qiyin.
-2. **Idishlarga urugʻ ekish.** Amerika Alsgeymer jamgʻarmasi (Alzheimer's Foundation of America) kichik idishlarga urugʻ ekib, [ularning oʻsishini kuzatishni](https://alzfdn.org/dementia-activity-gardening/) maslahat beradi. Loviya, kungaboqar yoki noʻxat kabi yirik urugʻlar bilan ishlash osonroq.
-3. **Soʻlgan gullarni uzish.** Soʻlgan gullarni qoʻl bilan uzib tashlash yumshoq, takrorlanuvchi ish. Tikansiz oʻsimliklarni tanlang.
-4. **Sabzavot yoki dorivor oʻtlarni terish.** Mayda pomidor, loviya va dorivor oʻtlarni terish oson va tatib koʻrish yoqimli. Ularni tushlikda ishlatish uchun ichkariga olib kiring.
-5. **Dorivor oʻtlarni hidlash va ushlab koʻrish.** Biberiya, yalpiz va lavandaning kuchli, yoqimli hidi bor. Bargni barmoqlaringiz orasida ishqalab, uzating.
-6. **Yoʻlak yoki maydonchani sipirish.** Muvozanat barqaror boʻlsa, tekis va quruq sirtda yengil supurgi.
-7. **Qush oziqlantirgichini toʻldirish.** Keyin birga oʻtirib, kimlar mehmonga kelishini tomosha qiling.
+1. **Suv quyish.** Kichik, yengil sug‘orgich yoki mayin oqimli shlang uchi va qo‘l yetadigan joyda turgan bir nechta tuvak yetarli. Suv quyishning aniq boshlanishi va tugashi bor, uni noto‘g‘ri qilish qiyin.
+2. **Tuvaklarga urug‘ ekish.** Alzheimer's Foundation of America kichik tuvaklarga urug‘ ekishni va [ularning o‘sishini kuzatishni](https://alzfdn.org/dementia-activity-gardening/) tavsiya qiladi. Loviya, kungaboqar yoki no‘xat kabi yirik urug‘larni ushlash osonroq.
+3. **So‘lib qolgan gullarni uzib tashlash.** So‘lib qolgan gullarni qo‘l bilan chimdib olish mayin va takrorlanuvchi ishdir. Tikansiz o‘simliklarni tanlang.
+4. **Sabzavot yoki o‘tlarni terish.** Gilos pomidorlari, loviya va o‘tlarni terish oson va ularni tatib ko‘rish yoqimli. Tushlikda ishlatish uchun ularni uyga olib kiring.
+5. **O‘tlarni hidlash va ushlab ko‘rish.** Rozmarin, yalpiz va lavandaning xushbo‘y hidi kuchli bo‘ladi. Bargni barmoqlaringiz orasida ishqalang va yaqin tutib hidlating.
+6. **Yo‘lak yoki hovlini supurish.** Muvozanat barqaror bo‘lsa, tekis va quruq yuzada yengil supurgi bilan.
+7. **Qushlar uchun yem idishini to‘ldirish.** So‘ng birga o‘tirib, kim kelib qo‘nishini tomosha qiling.
 
-### Uyda, tashqariga chiqish imkoni boʻlmaganda
+### Tashqariga chiqish imkoni bo‘lmaganda, uy ichida
 
-- **Deraza tokchasidagi dorivor oʻtlar bogʻchasi**: rayhon, ja’fari yoki piyozbargdan.
-- **Yopilgan stolda ekish.** AFA tuproqni bir joyda ushlash uchun oshxona patnislaridan foydalanishni va tuproqni kichik stakanchalar bilan koʻchirishni maslahat beradi.
-- **Gul tuzish**: hovlidan yoki doʻkondan olingan kesilgan gullar va yashilliklar bilan.
-- **Guldastadan quritilgan gullar**, keyin ularni tabrik kartochkalariga yopishtirish. Koʻproq gʻoyalar uchun [rassomlik va hunarmandchilik](/activities/arts-and-crafts/) sahifasiga qarang.
-- **Lavanda yoki atirgul xalta-xushboʻylagichlari tayyorlash**: bogʻ hidini uyda saqlaydigan yana bir AFA gʻoyasi.
+- **Deraza tokchasidagi o‘t bog‘i**: rayhon, petrushka yoki ko‘k piyoz.
+- **Usti yopiq stolda tuvakka ekish.** AFA tuproqni bir joyda ushlab turish uchun oshxona patnislaridan foydalanishni va tuproqni kichik stakanlar bilan ko‘chirishni taklif qiladi.
+- **Gul tuzish**: hovlidan yoki do‘kondan olingan kesilgan gullar va ko‘katlar bilan.
+- **Guldastadan gullarni quritish**, keyinroq ularni otkritkalarga yopishtirish. Ko‘proq g‘oyalar uchun [qo‘l san’ati mashg‘ulotlari](/activities/arts-and-crafts/) sahifasiga qarang.
+- **Lavanda yoki atirgul xaltachalari tayyorlash** — bu ham AFA taklif qiladigan, bog‘ hidini uy ichiga olib kiradigan usul.
 
-### Tashqariga chiqib, aylanib kelish
+### Tashqariga chiqish
 
-- **Qisqa sayr**: mahalla, bogʻ yoki gul doʻkoni atrofida, sekin qadam bilan va oʻtiradigan joy bilan.
-- **Tashqarida oʻtirish**: ayvon yoki skameykada qushlar sayrashini tinglash va shabadani his qilish. Bu oʻz-oʻzidan toʻliq mashgʻulot.
-- **Jamoat bogʻiga borish**: kunning tinch vaqtida. NHS ba’zi joylarda hidli oʻsimliklar, teginish uchun sirtlar va suv inshootlari boʻlgan sezgi bogʻlari borligini qayd etadi.
-- **Oʻrdaklarga yem berish yoki qushlarni kuzatish**: mahalliy hovuzda, suv chetidan xavfsiz masofada turib.
+- **Qisqa sayr**: uy atrofida, parkda yoki ko‘chatlar sotiladigan joyda, sekin yurib va o‘tiradigan joy bo‘lishiga e’tibor qaratib.
+- **Tashqarida o‘tirish**: ayvonda yoki skameykada qushlar sayrashini tinglab va shabadani his qilib. Bu o‘zi ham to‘liq mashg‘ulot bo‘lishi mumkin.
+- **Jamoat bog‘iga tashrif** kunning tinch vaqtida. NHS ba’zi joylarda xushbo‘y o‘simliklar, turli yuzalar va suv manbalari bo‘lgan sezgi bog‘lari mavjudligini ta’kidlaydi.
+- **Mahalliy suv havzasi yonida o‘rdaklarga don berish yoki qushlarni tomosha qilish**, suv chetidan xavfsiz masofada turib.
 
-## Bogʻdan foydalanishni qanday osonlashtiraman?
+## Bog‘dan foydalanishni qanday osonlashtirish mumkin?
 
-Bogʻni insonga yaqinlashtiring, aksincha emas.
+Bog‘ni odamga yaqinlashtiring, odamni bog‘ga moslashishga majburlamang.
 
-- **Bel balandligidagi koʻtarma ekish joylari yoki baland gul tuvaklari** tiz choʻkish yoki egilishni talab qilmaydi.
-- **Stol ustidagi idishlar** nogironlik aravachasida yuradigan yoki oʻtirishni afzal koʻradigan odamlar uchun mos.
-- **Keng, tekis yoʻlaklar**, ustida boʻshashgan toshlar yoki yotgan shlanglar boʻlmasa, qoqilish xavfini kamaytiradi.
-- **Yoʻl boʻyida suyanchiqli oʻrindiqlar va soya**, shunda dam olish imkoni doim boʻladi.
-- **Yogʻon, yumshoq dastali asboblar**, ushlash oson. Butoq qaychilari, pichoq va har qanday oʻtkir narsani qoldiring.
-- **Darvozasi ilgakli toʻsiq bilan oʻralgan joy**, siz yaqin turgan paytda inson erkin aylanib yurishi uchun.
+- **Baland ko‘chatlar yoki baland tuvaklar** taxminan bel balandligida bo‘lsa, tiz cho‘kish yoki engashishga hojat qolmaydi.
+- **Stol ustidagi idishlar** nogironlar aravachasidan foydalanadigan yoki o‘tirishni afzal ko‘radigan odamlar uchun qulay.
+- **Keng va tekis yo‘laklar** — bo‘sh toshlar yoki yo‘lak ustida yotgan shlanglarsiz — qoqilib ketish xavfini kamaytiradi.
+- **Yo‘l-yo‘lakay qo‘ltiqli o‘rindiqlar va soya**, dam olish har doim mumkin bo‘lishi uchun.
+- **Yo‘g‘on, yumshoq dastali asboblar**, ushlash oson bo‘lgan. Butash qaychisi, pichoq va har qanday o‘tkir narsadan voz keching.
+- **Qulfli darvozasi bo‘lgan panjarali hudud** — siz yaqin atrofda bo‘lganingizda odam bemalol aylanib yurishi uchun.
 
-## Qaysi oʻsimliklardan saqlanishim kerak?
+## Qaysi o‘simliklardan saqlanish kerak?
 
-Ushlash xavfsiz va, ideal holda, tatib koʻrilsa ham xavfsiz oʻsimliklarni tanlang. AFA terini odatda tirnamaydigan oʻsimliklardan foydalanishni, allergiyani tekshirishni va tuproqni ovqat deb adashtirishi mumkin boʻlgan insonni diqqat bilan kuzatishni maslahat beradi. NIAning uy xavfsizligi boʻyicha tavsiyalari zaharli oʻsimliklarni olib tashlash yoki qulflashni oʻz ichiga oladi.
+Tegsa xavfsiz va, imkoni bo‘lsa, tatib ko‘rilsa ham xavfsiz o‘simliklarni tanlang. AFA odatda terini bezovta qilmaydigan o‘simliklardan foydalanishni, allergiyani tekshirishni va tuproqni ovqat deb adashishi mumkin bo‘lgan odamlarni diqqat bilan kuzatishni tavsiya qiladi. NIAning uy xavfsizligi bo‘yicha maslahatlarida zaharli o‘simliklarni olib tashlash yoki qulflab qo‘yish ham bor.
 
-- Tikanli atirgul, kaktus va shirasi terini tirnaydigan oʻsimliklardan saqlaning.
-- Ishonchingiz komil boʻlmagan har qanday oʻsimlikni ekishdan oldin zaharlanish markazi yoki mahalliy gul doʻkonidan tekshiring.
-- Tanish sevimli oʻsimliklar yoqimli his-tuygʻularni qaytarishi mumkin. AFA misol sifatida atirgul va Rojdestvo kaktusini keltiradi. Tikansiz navlarni tanlang.
-- Oʻgʻitlar, pestitsidlar va begona oʻtga qarshi vositalarni qulflab saqlang va ularni inson yetadigan joylarda ishlatmang.
+- Tikanli atirgullar, kaktuslar va terini bezovta qiladigan shirasi bor o‘simliklardan saqlaning.
+- Ishonchingiz komil bo‘lmagan har qanday o‘simlikni ekishdan oldin zaharlarni nazorat qilish markazi yoki mahalliy ko‘chat do‘koni bilan tekshiring.
+- Tanish, yoqimli o‘simliklar iliq hislarni qaytarishga yordam berishi mumkin. AFA misol sifatida atirgul va Rojdestvo kaktusini eslatadi. Tikansiz navlarini tanlang.
+- O‘g‘itlar, pestitsidlar va begona o‘tlarni yo‘qotuvchi vositalarni qulflab qo‘ying va odam yetib boradigan joylarda ulardan foydalanmang.
 
-## Issiq va quyoshda qanday xavfsiz boʻlaman?
+## Issiq va quyoshda qanday xavfsiz bo‘lish mumkin?
 
-Ochiq havodagi vaqtni ob-havoga qarab rejalashtiring. NIA keksa kattalarda [issiqdan kasallanish](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) xavfi yuqoriroq ekanini tushuntiradi, chunki tana harorat oʻzgarishiga kamroq moslashadi va ba’zi dorilar tananing issiqqa munosabatiga ta’sir qiladi.
+Ochiq havoda bo‘lish vaqtini ob-havoga qarab rejalashtiring. NIA keksa odamlarda [issiq bilan bog‘liq kasalliklar](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) xavfi yuqoriroq ekanini tushuntiradi. Buning sabablari orasida tananing harorat o‘zgarishlariga moslashuvi sekinroq bo‘lishi va ba’zi dorilar tananing issiqqa javob berishiga ta’sir qilishi bor.
 
-- **Erta yoki kech chiqing.** Issiq oylarda kunning oʻrtasidan saqlaning. Faqat haroratni emas, issiqlik indeksini ham tekshiring.
-- **Tez-tez suv taklif qiling.** Inson chanqaganini aytishini kutmang. Issiqda spirtli va kofeinli ichimliklardan saqlaning.
-- **Mos kiyining.** Och rangli, keng kiyim, keng labli shlyapa va quyoshdan saqlovchi koʻzoynak.
-- **Quyoshdan himoya kremidan foydalaning.** NIA keng spektrli SPF 15 yoki undan yuqorisini tavsiya qiladi va kun davomida qayta surtishni maslahat beradi.
-- **Soyani tanlang.** Ekish stolini daraxt yoki soyabon ostiga qoʻying.
-- **Qisqa qiling.** Tashqarida qisqa vaqt yetarli boʻlishi mumkin, ayniqsa issiq kunlarda.
-- **Ogohlantiruvchi belgilarga e’tibor bering.** NIA bosh ogʻrigʻi, chalkashlik, bosh aylanishi yoki koʻngil aynishini issiqdan kasallanishning mumkin boʻlgan belgilari sifatida keltiradi. Demensiyali inson oʻzini yomon his qilayotganini sizga aytmasligi mumkin, shuning uchun uning yuzi va xatti-harakatiga qarang. Ichkariga kiring, suv va salqin lattada salqinlating va tezda yaxshilanmasa, tibbiy yordam soʻrang. Hushdan ketish, chalkashlik yoki quruq, qizargan teri kabi belgilar bilan kechadigan issiq urishi tibbiy favqulodda holat: favqulodda raqamga qoʻngʻiroq qiling.
+- **Erta yoki kech chiqing.** Issiq oylarda kunning o‘rtasidan saqlaning. Faqat haroratni emas, issiqlik indeksini ham tekshiring.
+- **Tez-tez suv taklif qiling.** Odam chanqaganini aytishini kutmang. Issiqda spirtli ichimliklar va kofeinli ichimliklardan saqlaning.
+- **Mos kiyining.** Och rangli, keng kiyim, keng chetli shlyapa va quyoshdan saqlaydigan ko‘zoynak.
+- **Quyoshdan himoyalovchi vositadan foydalaning.** NIA keng spektrli, SPF 15 yoki undan yuqori vositani tavsiya qiladi; kun davomida qayta surting.
+- **Soyani tanlang.** Tuvakka ekish stolini daraxt yoki soyabon ostiga qo‘ying.
+- **Qisqa tuting.** Ayniqsa issiq kunlarda tashqarida qisqa vaqt bo‘lishning o‘zi kifoya bo‘lishi mumkin.
+- **Ogohlantiruvchi belgilarga e’tibor bering.** NIA issiq ta’siridan kelib chiqadigan kasallikning mumkin bo‘lgan belgilari sifatida bosh og‘rig‘i, chalkashlik, bosh aylanishi yoki ko‘ngil aynishini ko‘rsatadi. Demans bilan yashayotgan odam o‘zini yomon his qilayotganini aytmasligi mumkin, shuning uchun uning yuz ifodasi va xatti-harakatlariga e’tibor bering. Uyga kiring, suv va salqin mato bilan salqinlashing, agar tez yaxshilanmasa, tibbiy yordamga murojaat qiling. Hushdan ketish, chalkashlik yoki quruq, qizarib ketgan teri kabi belgilari bo‘lgan issiq urishi — bu shoshilinch tibbiy holat: 911 raqamiga qo‘ng‘iroq qiling.
 
-Sovuq ob-havo ham muhim. Qishda ochiq havodagi vaqtni qisqa qiling va qoʻl hamda oyoqlar issiq va quruq boʻlishiga ishonch hosil qiling.
+Sovuq ob-havo ham muhim. Qishda tashqarida bo‘lish vaqtini qisqa tuting va qo‘l-oyoqlar iliq hamda quruq bo‘lishiga ishonch hosil qiling.
 
-## Tashqariga chiqqanda adashib ketishga qanday yondashaman?
+## Tashqariga chiqqanimizda adashib qolishga qanday munosabatda bo‘lish mumkin?
 
-Inson tashqarida boʻlsa, doim u bilan birga boʻling. Alsgeymer assotsiatsiyasi [demensiya bilan yashayotgan 10 kishidan 6 nafari](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) kamida bir marta adashib ketishini, koʻpchiligi esa bir martadan koʻp adashishini aytadi. Bu istalgan bosqichda sodir boʻlishi mumkin.
+Odam tashqarida bo‘lganida har doim uning yonida bo‘ling. Alzheimer's Association [har 10 demans bilan yashayotgan odamdan oltitasi](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) kamida bir marta adashib ketishini va ko‘pchilik buni bir necha marta qilishini aytadi. Bu har qanday bosqichda sodir bo‘lishi mumkin.
 
-NIAning [adashib ketish va yoʻqolish boʻyicha maslahatlari](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) quyidagilarni oʻz ichiga oladi:
+NIAning [adashib qolish va yo‘qolib qolish bo‘yicha maslahatlariga](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) quyidagilar kiradi:
 
-- Insonda ismi, manzili va sizning telefon raqamingiz yozilgan shaxsiy yoki tibbiy bilaguzuk boʻlishiga ishonch hosil qiling yoki kiyimlariga yozib qoʻying.
-- Insonning yaqinda olingan surati yoki videosini saqlang.
-- Qoʻshnilarga insonning adashib ketishi mumkinligini ayting.
-- Hovlini toʻsiq va qulflangan darvoza bilan xavfsiz qiling.
-- Oldin adashib ketgan insonni qarovsiz qoldirmang.
+- Odamda uning ismi, manzili va telefon raqamingiz yozilgan shaxsni tasdiqlovchi yoki tibbiy bilaguzuk bo‘lishiga ishonch hosil qiling yoki kiyimlariga yorliq qo‘ying.
+- Odamning yaqinda olingan surati yoki videosini saqlang.
+- Qo‘shnilarga odam adashib ketishi mumkinligini ayting.
+- Hovlini panjara va qulfli darvoza bilan xavfsiz qiling.
+- Ilgari adashib ketgan odamni qarovsiz qoldirmang.
 
-Alsgeymer assotsiatsiyasi shuningdek, xavfsiz oʻrganish mumkin boʻlgan ichki va tashqi joylar yaratishni hamda bezovtalik eng koʻp boʻladigan kun vaqti uchun mashgʻulotlarni rejalashtirishni maslahat beradi. Xavfsiz, yopiq bogʻda sayr qilish kunning oxiridagi bezovtalikka yaxshi mos kelishi mumkin. [Kunning oxiridagi bezovtalik](/caregiving/late-day-restlessness/) haqidagi qoʻllanmamizga qarang.
+Alzheimer's Association shuningdek, ichkarida va tashqarida xavfsiz aylanib yurish mumkin bo‘lgan hududlar yaratishni hamda bezovtalik ko‘proq kuzatiladigan vaqtga mos mashg‘ulotlar rejalashtirishni taklif qiladi. Xavfsiz, yopiq bog‘da sayr qilish kunning kechki paytidagi bezovtalikka mos kelishi mumkin. [Kunning kechki paytidagi bezovtalik](/caregiving/late-day-restlessness/) bo‘yicha qo‘llanmamizga qarang.
 
-Inson yoʻqolsa, Alsgeymer assotsiatsiyasi atrofni darhol qidirishni va 15 daqiqa ichida topilmasa, favqulodda raqamga qoʻngʻiroq qilishni maslahat beradi. Politsiyaga insonda demensiya borligini ayting.
+Agar odam yo‘qolib qolsa, mahalliy politsiya yoki tez tibbiy yordam xizmatlariga darhol murojaat qilish bilan birga yaqin atrofdagi xavfsiz joylarni tekshiring. Xabar berishdan oldin ma’lum daqiqa kutib o‘tirmang. 2021-yildagi [AQSh Adliya vazirligining yo‘qolgan odamlarni qidirish bo‘yicha jurnal maqolasi](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) huquqni muhofaza qilish organlari ma’lum kutish vaqtini talab qilmasligi kerakligini aytadi va demansga o‘xshash holatlarni yuqori xavf sifatida ko‘rsatadi. Mahalliy xabar berish tartiblari farq qilishi mumkin. Odam oxirgi marta qachon va qayerda ko‘rilganini, ustida qanday kiyim borligini va yaqinda olingan suratini ulashing. Mahalliy xizmat xodimlarining ko‘rsatmalariga amal qiling; xavfsiz bo‘lmagan joylarda yolg‘iz qidirmang.
 
-## Bogʻbonlikni vaziyat oʻzgarganda qanday moslashtiraman?
+## Vaqt o‘tishi bilan bog‘dorchilikni qanday moslashtirish mumkin?
 
-| Bu qiyinlashgan boʻlsa | Buning oʻrniga buni sinab koʻring |
+| Agar bu qiyinlashgan bo‘lsa | Buning o‘rniga sinab ko‘ring |
 | --- | --- |
-| Butun gulzorni ekish | Bitta idishga bitta urugʻ ekish |
-| Begona oʻtni yulish (begona oʻt bilan oʻsimlikni ajratish) | Suv quyish yoki aniq soʻlgan gullarni uzish |
-| Bogʻ aylanib yurish | Stol oldida tuproqli patnis va oʻsimlik bilan oʻtirish |
-| Umuman tashqariga chiqish | Oshxona stolida dorivor oʻt idishi yoki ochiq deraza yonida oʻrindiq |
-| Har qanday ishni bajarish | Birga tashqarida oʻtirib, tinglash va qarash |
+| Butun ko‘chat maydonini ekish | Bitta tuvakka bitta urug‘ ekish |
+| Begona o‘tlarni yulish (o‘simliklardan ajratish) | Suv quyish yoki aniq so‘lib qolgan gullarni uzib tashlash |
+| Bog‘ bo‘ylab yurish | Tuproq va o‘simlik solingan patnis bilan stol yonida o‘tirish |
+| Umuman tashqariga chiqish | Oshxona stolida o‘t tuvagi yoki ochiq deraza yonida o‘tirish |
+| Biror ishni bajarish | Tashqarida birga o‘tirish, tinglash va atrofga qarash |
 
-Ba’zi odamlar sizning ishlayotganingizni tomosha qilishni afzal koʻradi. NIA, agar inson shuni yoqtirsa, uning shunchaki tomosha qilishiga imkon berish yaxshi ekanini qayd etadi.
+Ba’zi odamlar siz ishlayotganingizni tomosha qilishni afzal ko‘radi. NIA agar odam shuni yoqtirsa, shunchaki tomosha qilishiga ruxsat berish ham yaxshi ekanini ta’kidlaydi.
 
-## Qachon ichkariga kiramiz?
+## Qachon uyga kirishimiz kerak?
 
-Inson charchagan, issiq yoki sovuq his qilayotgan, bezovta yoki ishni tugatishga tayyor koʻrinsa, ichkariga kiring. Qisqa, yoqimli oʻn daqiqa azob bilan tugaydigan uzoq tushdan keyindan yaxshiroq. Barvaqt toʻxtash yaxshi natija.
+Agar odam charchagan, issiq yoki sovuq his qilayotgan, bezovta bo‘lgan yoki yetarli deb hisoblagan bo‘lsa, ichkariga kiring. Qisqa, yoqimli o‘n daqiqa qayg‘u bilan tugaydigan uzoq tushdan ko‘ra yaxshiroqdir. Erta yakunlash — bu yaxshi natija.
 
-## Bogʻni ekran orqali uyga olib kiring
+## Bog‘ni ekranda uy ichiga olib kiring
 
-Yomgʻirli kunlarda [Birga saralash](/games/sort-together/)da rasmlarni saralash uchun bogʻ savati bor, [Suhbat kartalari](/games/conversation-cards/)da esa bogʻ haqidagi hikoyalarga olib kelishi mumkin boʻlgan ochiq savollar mavjud. Issiqdan shoshib kirgan boʻlsangiz, [Sokin nafas](/games/calm-breathing/) birga oʻtkazish mumkin boʻlgan sekin, tinch tanaffus taklif qiladi. Teginish, hid va tovushga asoslangan koʻproq gʻoyalar uchun [sezgi mashgʻulotlari qoʻllanmamizga](/activities/sensory/) qarang.
+Yomg‘irli kunlarda [Sort Together](/games/sort-together/) o‘yinida rasmlarni saralash uchun bog‘ savati bor, [Conversation Cards](/games/conversation-cards/) esa bog‘ haqidagi xotiralarga olib borishi mumkin bo‘lgan ochiq savollarni o‘z ichiga oladi. Agar issiqdan shoshilib kirib kelgan bo‘lsangiz, [Calm Breathing](/games/calm-breathing/) birga baham ko‘rish mumkin bo‘lgan sekin, sokin tanaffusni taklif qiladi. Teginish, hid va tovushga asoslangan ko‘proq g‘oyalar uchun [sezgi mashg‘ulotlari bo‘yicha qo‘llanmamiz](/activities/sensory/)ga qarang.

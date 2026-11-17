@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Zviitwa Zvakadzikama Masikati Kwononoka"
+seoTitle: "Sundowning: Zviitwa Zvakadzikama Masikati"
+description: "Maitiro akapfava, shanduko mumba nezviitwa zvakadzikama zvinogona kubatsira kuderedza kusagadzikana kwemanheru muvanhu vanorarama nedementia, uye nguva yekuona chiremba."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning kusagadzikana, kuvhiringika kana kutsamwa kunotanga kana
+  kuwedzera masikati kwononoka kana manheru. Matanho anoshanda anogona
+  kubatsira anosanganisira maitiro ezuva nezuva akatsiga, chiedza chezuva
+  nezviitwa mangwanani, kukotsira kushoma masikati kwononoka, caffeine
+  shoma, mwenje wakajeka mumba zuva risati ranyura, imba yakanyarara, uye
+  zviitwa zvakadzikama zvakaita semimhanzi, mifananidzo kana kupeta mbatya.
+  Zviratidzo zvitsva kana zviri kuwedzera zvinoda kuongororwa nachiremba.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning zvinoreva kusagadzikana kana kuvhiringika kunotanga kana kuwedzera chiedza chezuva pachinopera."
+  - "Itai mabasa anorema, kushanya nekugeza mangwanani kana masikati ekutanga."
+  - "Chiedza chezuva, kufamba kwezuva nezuva, kukotsira kushoma masikati kwononoka uye caffeine shoma masikati kwononoka zvinogona kubatsira manheru kuti afambe zvakanaka."
+  - "Batidzai mwenje zuva risati ranyura, deredzai ruzha, uye chinjirai kuzviitwa zvakadzikama, zvinozivikanwa."
+  - "Chengetai zvinyorwa zvipfupi kuti muone zvinokonzeresa, uye rambai makadzikama muchivimbisa kana kusagadzikana kwatanga."
+  - "Onai chiremba kana paine zviratidzo zvitsva kana zviri kuwedzera: kurwadziwa, utachiona kana mishonga zvinogona kuva nechikamu."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Sundowning inowanzoitika panguva ipi yezuva?"
+    a: "Inowanzoitika kana kuwedzera masikati kwononoka kana manheru ekutanga, chiedza chezuva pachinopera. Nguva chaiyo inosiyana pamunhu nemunhu, ndosaka kuchengeta zvinyorwa zvipfupi kwevhiki imwe kana mbiri kuchigona kubatsira."
+  - q: "Ndezvipi zviitwa zvinobatsira kana paine sundowning?"
+    a: "Zviitwa zvakadzikama, zvinozivikanwa uye zvisingaremi zvinowanzo shanda zvakanaka masikati kwononoka: mimhanzi inonyaradza, kuona mifananidzo, chirongwa chepaTV kana bhaisikopo chamunofarira, kupeta mbatya, kufamba zvishoma, kana kudya zvekudya zvidiki pamwe chete. Chengetai zviitwa zvitsva kana zvakaoma kuti zviitwe kare kwezuva."
+  - q: "Sundowning ingava chiratidzo chedambudziko reutano here?"
+    a: "Inogona kuwedzerwa nematambudziko ehutano akadai sekurwadziwa, utachiona hwakaita seutachiona hweweti, matambudziko ekurara kana mhedzisiro yemishonga. Kana kusagadzikana kuri kutsva, kuchingoerekana kwatanga kana kuri kuwedzera, taurai nachiremba wemunhu wamunochengeta."
+  - q: "Ndinofanira kubvunza chiremba nezvemishonga yesundowning here?"
+    a: "Ihurukuro yamunofanira kuita nachiremba. Alzheimer's Association inoti nzira dzisina mishonga dzinowanzo fungwa kutanga, uye kuti mushonga upi zvawo wekudzikamisa manheru unofanira kufungwa chete mushure mekutarisa njodzi nezvingabatsira. Peji rino haripi mazano emishonga."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Mhuri dzakawanda dzinoona maitiro akafanana: mangwanani anenge akadzikama, asi masikati paanopfuurira, munhu anorarama nedementia anotanga kusagadzikana, kunetseka, kuvhiringika kana kutsamwa. Anogona kufamba-famba, kukumbira “kuenda kumba” kunyange ari kumba, kana kugumbuka nyore. Izvi zvinowanzonzi sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Hapana mhinduro imwe chete, asi kuchinja mafambiro ezuva, mamiriro emumba uye rudzi rwezviitwa zvamunopa zvinogona kuita kuti masikati kwononoka ave akadzikama. Peji rino rinounganidza mazano anoshanda, asiri ekurapa, kubva kuNational Institute on Aging nekuAlzheimer's Association. Harisi zano rekurapa. Kana zviratidzo zviri zvitsva, zvichingoerekana zvaitika kana zviri kuwedzera, taurai nachiremba wemunhu wamunochengeta.
 
-## What is sundowning?
+## Chii chinonzi sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning kusagadzikana, kushushikana, kutsamwa kana kuvhiringika kunotanga kana kuwedzera chiedza chezuva pachinopera, masikati kwononoka kana manheru ekutanga. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) inoti kuneta zvakanyanya kunogona kuwedzera kusagadzikana kwemasikati kwononoka.
 
-## What can make late-day restlessness worse?
+## Chii chingawedzera kusagadzikana kwemasikati kwononoka?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Zvinhu zvakawanda zvinogona kubatsira, kazhinji pamwe chete. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) inonyora zvinhu zvakadai se:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- kuneta mushure mezuva rakareba;
+- nzvimbo itsva kana dzinovhiringa;
+- “wachi yomukati yemuviri” isiri kufambirana, zvichiita kuti munhu anzwe hope masikati uye amuke usiku;
+- chiedza chishoma nemimvuri, izvo zvinogona kuvhiringa;
+- kutora kushushikana kana kugumbuka kwevanhu vakamupoteredza;
+- kuda kurara kushoma, izvo zvinowanzoitika kuvanhu vakuru.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA inowedzerawo zvikonzero zvekushushikana zvakawanda, zvinosanganisira kurwadziwa, kuora mwoyo kana kushushikana, kuzorora kushoma, kuita tsvina yakaoma, ruzha rwakanyanya kana vanhu vakawandisa, uye mimwe mishonga kana kusanganiswa kwemishonga.
 
-## How can I plan the day to make evenings calmer?
+## Ndingaronga sei zuva kuti manheru ave akadzikama?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Isai zvinhu zvinorema kare uye chengetai masikati kwononoka akapfava uye achizivikanwa. NIA neAlzheimer's Association dzinokurudzira maitiro enguva dzose. Muenzaniso wezuva, wamunogona kuchinja kuti uenderane nemi:
 
-| Time | What may help |
+| Nguva | Zvingabatsira |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Mangwanani | Kusangana nachiremba, kugeza, kushanya uye basa ripi zvaro rinoda simba, panguva iyo vanhu vazhinji vanenge vakasvinura |
+| Mangwanani apfuura | Nguva panze kana pedyo nehwindo rine zuva; kufamba kana chimwe chiitwa |
+| Masikati | Kudya kukuru kwemasikati (Alzheimer's Association inokurudzira kudya kukuru kwemasikati uye kudya kwakapfava kwemanheru) |
+| Masikati ekutanga | Kuzorora kana zvichidiwa, asi dzivisai kukotsira kwenguva refu masikati kwononoka |
+| Masikati kusvika masikati kwononoka | Zviitwa zvakadzikama, zvinozivikanwa; zvekudya zvidiki nechinwiwa; pasina caffeine |
+| Zuva risati ranyura | Batidzai mwenje mumba uye vharai maketeni kusati kwasviba |
+| Manheru | Kudya kwakapfava kwemanheru, mimhanzi yakanyarara, zvinhu zvishoma zvinomutsa pfungwa, maitiro enguva dzose ekurara |
 
-A few specific points from the sources:
+Mamwe mapoinzi chaiwo kubva muzvinyorwa:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Chiedza chezuva.** NIA inokurudzira kuronga nguva yekuva panze kana pedyo nehwindo kuti muwane chiedza chezuva zuva rega rega.
+- **Kufamba kwezuva nezuva, asi kwete zvakanyanya.** Edzai kuita zvekusimbisa muviri zuva rega rega pasina kuronga zviitwa zvakawandisa, inodaro NIA.
+- **Zvinwiwa masikati kwononoka.** Dzivisai doro nezvinwiwa zvine caffeine, zvakaita sekofi kana cola, masikati kwononoka (NIA). Alzheimer's Association inotaurawo nezvenicotine.
+- **Kukotsira.** Dzivisai kukotsira kwenguva refu nekutsumwaira masikati kwononoka (NIA). Alzheimer's Association inokurudzira kuderedza kukotsira kwemasikati kana kurara kweusiku kuri dambudziko.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Kuti muwane rumwe ruzivo nezvekuvaka zuva rakatsiga, onai [zviitwa zvemaitiro ezuva nezuva](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Ndingaita sei kuti imba ive yakadzikama masikati kwononoka?
 
-Reduce noise, add light and keep familiar things close.
+Deredzai ruzha, wedzerai chiedza uye chengetai zvinhu zvinozivikanwa pedyo.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Mwenje wakajeka, wakaenzana.** Alzheimer's Association inokurudzira kuti imba ive nemwenje wakakwana manheru. Vhenekerai nzvimbo mimvuri isati yaonekwa.
+- **Ruzha rushoma.** Dzimai kana deredzai TV neredhiyo, uye deredzai vashanyi kana mabasa epamba akawanda panguva iyi. Alzheimer's Association inokurudzira kuderedza zvinomutsa pfungwa manheru zvakaita seTV, mabasa epamba nemimhanzi ine ruzha.
+- **Zvinonyaradza zvinozivikanwa.** NIA inokurudzira mimhanzi inonyaradza uye kuchengeta zvinhu nemifananidzo zvinodiwa pedyo mumba.
+- **Kutarisa kunyaradzwa.** Alzheimer's Association inokurudzira kutarisa kurwadziwa, nzara, nyota, kuita tsvina yakaoma, dundira rakazara, kuneta, utachiona nekushatirwa kweganda, uye kuchengetedza tembiricha yemumba yakasununguka.
+- **Manzwiro enyu.** Vanhu vanotora kushushikana. NIA inokurudzira kudzikama uye kuedza kuzorora kana kunetseka kwenyu kuchiwedzera kusagadzikana.
 
-## What calm activities can we do in the late afternoon?
+## Ndezvipi zviitwa zvakadzikama zvatinogona kuita masikati kwononoka?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Sarudzai zviitwa zvinozivikanwa, zvisina kumhanya uye zviri nyore kumisa. Alzheimer's Association inokurudzira zviitwa zvinonyaradza zvakaita semimhanzi yakadzikama, mifananidzo kana bhaisikopo rinodiwa, uye kufamba pamwe chete kuti kuderedze kusagadzikana. NIA inokurudzira zvekudya zvidiki kana chinwiwa, chirongwa chepaTV chamunofarira, mimhanzi, kufamba, kuverenga, kana basa repamba rakapfava rakaita sekupeta mbatya.
 
-Ideas to try:
+Mazano ekuedza:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Petai mbatya pamwe chete.** NIA inokurudzira rudzi urwu rwebasa repamba rakapfava. Matauro ari nyore kubata, uye basa racho rine magumo akajeka.
+2. **Ridzai mimhanzi inodiwa.** Nziyo dzinozivikanwa kubva pamakore avo ekudiki, nenzwi rakaderera. Kuimba nenzwi rakaderera kwakaringana. Mazano akawanda ari pa [zviitwa zvemimhanzi](/activities/music/).
+3. **Onai mifananidzo.** Bhuku remifananidzo, kana mifananidzo mishoma yemhuri mu [Photo Pairs](/games/photo-pairs/) mifananidzo yakasiiwa ichionekwa, zvinogona kutungamirira kukurukurirano yakanyarara.
+4. **Fambai zvishoma.** Mubindu, munharaunda kana mukoridho, kusati kwasviba.
+5. **Govanai zvekudya zvidiki nechinwiwa.** Chinhu chakapfava, chinodziya uye chisina caffeine, patafura pamwe chete.
+6. **Kufananidza kwakapfava.** [Picture Pairs](/games/picture-pairs/) ine mataira mana uye mifananidzo ichionekwa zviri nyore kutanga uye zviri nyore kumisa.
+7. **Kupenda.** [Coloring](/games/coloring/) pachidzitiro kana pabepa rakadhindwa, pasina chinangwa chekupedzisa.
+8. **Kutarisa nekutaura.** [Conversation Cards](/games/conversation-cards/) dzinopa mufananidzo nemubvunzo wakasununguka. Kungotarisa kwakakwana.
+9. **Kumbomira kwekufema.** [Calm Breathing](/games/calm-breathing/) kumbomira kunononoka, kwakanyarara kwamunotanga nekumisa mega.
+10. **Mabasa emaoko.** Kuronga mabhatani kana masokisi, kupfavisa gumbeze rakapfava, kana kubata chinhu chinozivikanwa. Onai [zviitwa zvinobata pfungwa](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Dzivisai mitambo mitsva, kushanya kwakabatikana uye chinhu chipi zvacho chinoda kuyeuka kwakawanda kana kuisa pfungwa zvakanyanya masikati kwononoka. Chengetai izvozvo mangwanani.
 
-## What should I do when restlessness starts?
+## Ndinofanira kuita sei kana kusagadzikana kwatanga?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Rambai makadzikama, vimbisai, uye mutsause zvinyoro nyoro. NIA inokurudzira kutaura zvakadzikama, kuteerera zvinonetsa munhu wamunochengeta, kudzivisa kupokana, kumuvimbisa kuti akachengeteka, uye kushandisa kubata zvinyoro nyoro kana zvichibatsira. Mozopedzisira maedza kumutsaura pfungwa: zvekudya zvidiki, chinwiwa, mimhanzi kana kufamba.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association inokurudzira mitsara yakaita sekuti “Makachengeteka pano” uye “Ndine urombo kuti muri kunetseka,” uye inokurudzira kuwedzera chiedza, kudzikama uye kuderedza zvinomutsa pfungwa. Musavharira, kusundidzira kana kudzora munhu wacho, kana kupokana naye.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Kana munhu wacho akatanga kuita hasha, NIA inokurudzira kugara kure zvakakwana kusvika maitiro acho amira. Panguva yechimbichimbi, fonerai 911 uye tsanangurai kuti munhu wacho anorarama nedementia. Gwaro redu re [kupindura kutsamwa nehasha](/caregiving/when-anger-becomes-aggression-with-dementia/) rinotaura nezvekuchengeteka kwepakarepo uye zvekuita mushure.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Magwaro edu e [kutaurirana](/caregiving/communication-tips/) uye [zvekuita kana vachiti kwete](/caregiving/when-they-say-no/) ane mamwe mazano pamusoro pemashoko anonyaradza.
 
-## How do I find the triggers?
+## Ndingaziva sei zvinokonzeresa?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Chengetai zvinyorwa zvipfupi kwevhiki imwe kana mbiri. Alzheimer's Association inokurudzira kunyora zvinoitika sundowning isati yatanga kuti muzive zvinokonzeresa. Nyorei nguva yakatanga kusagadzikana, zvakaitika muawa imwe chete yapfuura, kukotsira, zvekudya nezvinwiwa, vashanyi, ruzha nechiedza. Uyai nezvinyorwa zvacho kuna chiremba. NIA inoti kuchengetedza zvinyorwa zvekuchinja kwemaitiro kunogona kubatsira vanochengeta nevashandi vehutano kuona maitiro.
 
-## When should I call a doctor about sundowning?
+## Ndinofanira kufonera chiremba riini nezvesundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Taurai nachiremba wemunhu wamunochengeta kana kusagadzikana kuri kutsva, kuchingoerekana kwawedzera, kana kuchiuya pamwe nedzimwe shanduko. NIA inoti shanduko dzemaitiro dzinongoerekana dzaitika kana dzinokurumidza kuchinja-chinja, kunyanya mushure meutachiona kana kuchinja kwemishonga kwazvino, dzinofanira kuudzwa chiremba nekukurumidza.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Kumbirai chiremba kuti aongorore zvinhu zvinogona kuita kuti manheru ave akaoma. Alzheimer's Association inotaura nezvematambudziko emuviri akadai seutachiona hweweti, kusagona kubata weti, makumbo asingazorori nekurara zvakaoma kufema (sleep apnea), uye inokurudzira kubvunza kuti ndeapi nguva dzezuva dzakanakira mushonga wega wega. NIA inonyora kurwadziwa, kuita tsvina yakaoma uye mhedzisiro yemishonga kana kusanganiswa kwemishonga sezvimwe zvezvingakonzeresa kushushikana.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association inoti nzira dzisina mishonga dzinowanzo fungwa pakutanga pamatambudziko ekurara ane chekuita neAlzheimer's, uye kuti mushonga wekudzikamisa masikati kwononoka unofanira kufungwa chete kana idzodzo dzikatadza, mushure mekutarisa njodzi nezvingabatsira. Sarudzo iyoyo ndeyachiremba. Musatanga, kumisa kana kuchinja mushonga upi zvawo, mushonga wekurara kana zvinowedzera pasina zano rekurapa.
 
-## How do I get through the evenings myself?
+## Ndingapfuura sei nemanheru ini pachangu?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Masikati kwononoka anogona kuva nguva yakaoma zvikuru yezuva kumunhu anochengeta. Kana zvichikwanisika, kumbirai nhengo yemhuri, shamwari kana mubatsiri anobhadharwa kuti abatsire masikati kwononoka mazuva mashoma pavhiki, kunyange kweawa imwe chete. Gwaro redu re [kuzvichengeta semunhu anochengeta](/caregiving/caregiver-self-care/) rinonyora sarudzo dzekuzorora uye Alzheimer's Association 24/7 Helpline yemahara.

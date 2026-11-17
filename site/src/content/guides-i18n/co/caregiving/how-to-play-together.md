@@ -1,37 +1,37 @@
 ---
-title: "Cumu ghjucà cù una persona chì vive cù a dimenza"
-seoTitle: "Cumu ghjucà cù una persona chì vive cù a dimenza"
-description: "Una guida pratica per ghjucà cù una persona chì vive cù a dimenza: preparazione, ritmu, senza currezzioni, adattà i ghjochi è sapè quandu piantà."
+title: "Cumu ghjucà cù una persona chì campa cù a dimenza"
+seoTitle: "Cumu ghjucà cù una persona chì campa cù a dimenza"
+description: "Guida pratica per ghjucà cù una persona chì campa cù a dimenza: preparazione, ritimu, ùn currege micca, facilità i ghjochi è sapè quandu piantà."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Cunsiderate un ghjocu cum’è un mumentu passatu inseme, micca cum’è una prova.
+  Cunsiderate un ghjocu cum’è un mumentu inseme, micca cum’è una prova.
   Sceglite un mumentu calmu di a ghjurnata, pusatevi fiancu à fiancu in una
   stanza tranquilla è prupunite un ghjocu simplice. Lasciate chì a persona
-  sceglia u so ritmu, ùn curregete micca i sbagli senza impurtanza, rendite u
-  ghjocu più faciule à u primu segnu di difficultà è aduprate l’imaghjini per
-  fà nasce una cunversazione. Piantate mentre si sta sempre bè. Finisce prima,
-  o sempliciamente fighjà inseme, hè un bellu risultatu.
+  sceglia u ritimu, ùn curregite micca i sbagli senza impurtanza, rendite u
+  ghjocu più faciule à u primu segnu di difficultà è trasfurmate e fiure in
+  cunversazione. Piantate mentre si sta sempre bè. Finisce prima, o ancu solu
+  fighjulà inseme, hè un bellu risultatu.
 keyPoints:
-  - "U scopu hè di passà un bellu mumentu è di stà vicini, micca di finisce o di dà risposte ghjuste."
-  - "Preparate tuttu nanzu: stanza tranquilla, bona luce, occhiali è apparechji acustichi messi, televisione spenta, un ghjocu prontu."
-  - "Ùn curregete micca i sbagli senza impurtanza. Dite « Pruvemu cusì » o cuntinuate simpliciamente."
-  - "Rendite un ghjocu più faciule nanzu chì a frustrazione cresce: menu ritratti, menu scelte, ritratti lasciati visibili."
-  - "Aduprate i ritratti cum’è puntu di partenza per e storie cù « Parlami di... » invece di « Ti arricordi di...? »"
-  - "Piantate à i primi segni di stanchezza o di fastidiu. Piantà prima hè una riescita, micca un fiascu."
+  - "L’ughjettivu hè u piacè è a cumplicità, micca di finisce o di risponde ghjustu."
+  - "Preparate tuttu prima: stanza tranquilla, bona luce, occhiali è apparechji auditivi messi, televisione spenta, un ghjocu prontu."
+  - "Ùn curregite micca i sbagli senza impurtanza. Dite « Pruvemu cusì » o cuntinuate simpliciamente."
+  - "Rendite un ghjocu più faciule prima chì a frustrazione cresca: menu fiure, menu scelte, fiure lasciate à a vista."
+  - "Aduprate e fiure cum’è puntu di partenza per e storie cù « Parlàtemi di... » invece di « Vi arricurdate di...? »"
+  - "Piantate à i primi segni di stanchezza o di fastidiu. Piantà prima hè un successu, micca un fiascu."
 faq:
   - q: "Quantu tempu duvemu ghjucà?"
-    a: "Ùn ci hè una durata ghjusta. Per parechje persone, pochi minuti bastanu, è certi ghjorni una sola partita hè abbastanza. Fighjate a persona piuttostu chè l’ore, è piantate mentre pare sempre rilassata."
-  - q: "Duvemu lascialla vince o fà finta di ùn vede i sbagli?"
-    a: "In un ghjocu spartutu è senza pressione, ùn ci hè nunda da vince o da perde. S’è un sbagliu ùn disturba micca a persona, lasciate corre. S’ella pare disturbata, aiutatela cù discrezione o rendite u ghjocu più faciule senza falli rimarcà."
-  - q: "È s’ella preferisce fighjammi ghjucà?"
-    a: "Va bè. U National Institute on Aging suggerisce di lascià a persona fighjà simpliciamente s’ella pare preferì cusì. Parlate di ciò chì videte è invitatela à mustrà o à sceglie ogni volta ch’ella ne hà voglia."
+    a: "Ùn ci hè micca una durata ghjusta. Per parechje persone, qualchì minutu basta, è certi ghjorni una sola volta hè abbastanza. Fighjulà a persona piuttostu chè l’ora, è piantate mentre pare sempre tranquilla."
+  - q: "Devu lascialla vince o fà finta di ùn vede micca i sbagli?"
+    a: "In un ghjocu spartutu è senza pressione, ùn ci hè nunda da vince o da perde. Se un sbagliu ùn disturba micca a persona, lasciate corre. S’ellu pare disturballa, aiutatela discretamente o rendite u ghjocu più faciule senza fallu rimarcà."
+  - q: "È s’ella preferisce fighjulammi ghjucà?"
+    a: "Va bè. U National Institute on Aging suggerisce di lascià a persona solu fighjulà s’ellu pare ch’ella preferisca cusì. Parlate di ciò chì vedite è invitatela à mustrà o à sceglie quandu ne hà voglia."
   - q: "Sti ghjochi servenu à pruvà a memoria?"
-    a: "Innò. I nostri ghjochi sò attività simplici da fà inseme per passà un bellu mumentu è cunversà. Ùn sò micca una prova di memoria, ùn misuranu nunda è ùn sò micca un trattamentu per a dimenza."
-  - q: "Qualessu ghjocu hè megliu per cumincià?"
-    a: "Cuminciate cù quellu più simplice chì si adatta à a persona. Picture Pairs cù 4 tessere è i ritratti lasciati visibili, o Find the Same cù 2 scelte, sò punti di partenza dolci. Conversation Cards vanu bè s’a persona preferisce parlà piuttostu chè tuccà u schermu."
+    a: "Innò. I nostri ghjochi sò attività simplici è spartute per u piacè è a cunversazione. Ùn sò micca una prova di memoria, ùn misuranu nunda è ùn sò micca un trattamentu per a dimenza."
+  - q: "Qualessu ghjocu hè megliu per principià?"
+    a: "Principiate cù quellu più simplice chì cunvene à a persona. Picture Pairs cù quattru tessere è e fiure lasciate à a vista, o Find the Same cù duie scelte, sò punti di partenza dolci. Conversation Cards vanu bè se a persona preferisce parlà piuttostu chè tuccà."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,127 +50,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-Un bellu ghjocu cù una persona chì vive cù a dimenza ùn s’assumiglia micca à una cumpetizione. S’assumiglia à duie persone pusate vicinu, chì mostranu ritratti, ridenu di un dettu è parlanu di ciò chì vene in mente. U ghjocu hè solu una scusa per passà un mumentu inseme.
+Un bellu ghjocu cù una persona chì campa cù a dimenza ùn s’assumiglia micca à una cumpetizione. S’assumiglia à duie persone pusate vicinu, chì mostranu fiure, ridenu per un dettu è parlanu di ciò chì vene. U ghjocu hè solu una scusa per passà un mumentu inseme.
 
-Sta guida spiega cumu preparà, cumu seguità u ritmu di un ghjocu, ciò chì si pò dì quandu qualcosa va « male », cumu rende ogni ghjocu più faciule o un pocu più sfidante, cumu trasfurmallu in una cunversazione è cumu sapè quandu piantà. Funziona per i nostri [ghjochi](/games/) è ancu per e carte, i puzzle è i ghjochi da tavulinu chì avete dighjà.
+Sta guida spiega cumu preparà, cumu dà u ritimu à un ghjocu, ciò chì si pò dì quandu qualcosa va « male », cumu rende ogni ghjocu più faciule o un pocu più difficiule, cumu trasfurmallu in cunversazione è cumu sapè quandu piantà. Funziona per i nostri [ghjochi](/games/) è ancu per e carte, i puzzle è i ghjochi di tavula chì avete dighjà.
 
-## Chì hè u megliu modu di ghjucà cù una persona chì vive cù a dimenza?
+## Qualessu hè u megliu modu di ghjucà cù una persona chì campa cù a dimenza?
 
-Mettite l’accentu nantu à u piacè, micca nantu à u risultatu. Hè u cunsigliu principale di e [indicazioni di l’Alzheimer’s Association nant’à l’attività](https://www.alz.org/help-support/caregiving/daily-care/activities): appughjatevi nant’à ciò chì a persona sà sempre fà, aiutatela à cumincià, fate voi e parte più difficili è ùn criticate nè curregete l’attività senza perìculu.
+Mettite l’accentu nantu à u piacè, micca nantu à a riescita. Hè u cunsigliu principale di [i cunsiglii di l’Alzheimer’s Association nantu à l’attività](https://www.alz.org/help-support/caregiving/daily-care/activities): appughjatevi nantu à e capacità chì a persona hà sempre, aiutatela à principià, finite voi e parte più difficiule, è ùn criticate nè curregite l’attività senza impurtanza.
 
-In pratica, significa:
+In pratica, vole dì:
 
-- **Pusatevi accantu à ella, micca di fronte.** Fiancu à fiancu, pudete vede tramindui u schermu o a tavula, è l’aiutu pare un travagliu fattu inseme piuttostu chè una surveglianza.
-- **Prupunite un ghjocu per volta.** Una lista di scelte pò parè una prova nanzu ancu di cumincià.
-- **Seguitate ciò ch’ella vole fà.** S’ella vole tuccà i ritratti à u so modu, parlà di un ritrattu per dece minuti o piantà dopu duie volte, eccu u ghjocu d’oghje.
-- **Cuntate i belli mumenti, micca e partite finite.** Un surrisu, una storia o una meza ora tranquilla hè u risultatu chì cercate.
+- **Pusatevi accantu à ella, micca di pettu.** Fiancu à fiancu, pudete vede tramindui u schermu o a tavula, è l’aiutu pare un travagliu in squadra piuttostu chè una surveglianza.
+- **Prupunite un ghjocu à a volta.** Un menù di scelte pò parè una prova prima ancu di principià.
+- **Seguitate a so guida.** S’ella vole tuccà e fiure in u so ordine, parlà di una fiura per dece minuti o piantà dopu duie volte, hè quessu u ghjocu d’oghje.
+- **Cuntate i belli mumenti, micca e parte finite.** Un surrisu, una storia o una meza ora tranquilla hè u risultatu chì circate.
 
-## Cumu mi preparu nanzu di cumincià?
+## Cumu mi preparu prima di principià?
 
-Qualchì minutu di preparazione evita a maiò parte di a frustrazione chì si dà spessu a culpa à u ghjocu stessu.
+Qualchì minutu di preparazione evita a maiò parte di a frustrazione chì si mette spessu nant’à u contu di u ghjocu.
 
-1. **Sceglite u mumentu di a ghjurnata induve ella si sente megliu.** E [indicazioni di u National Institute on Aging (NIA) nant’à l’adattazione di l’attività](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggeriscenu di prugrammà l’uscite è l’attività quandu a persona hè à u so megliu. Per parechje persone, hè à mezu à a matina. A fine di u dopu meziornu hè spessu più difficiule; videte [attività calme in fine di dopu meziornu](/caregiving/late-day-restlessness/).
-2. **Rendite a stanza tranquilla.** Spenghje a televisione è a radiò, è chjudite a porta s’ella hè pussibule. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ricumanda di limità u rumore è e distrazzioni nanzu di pruvà à parlà.
-3. **Verificate prima u cunfortu.** Una bevanda vicinu, un passu à u bagnu nanzu, una sedia cunfortèvule, è occhiali è apparechji acustichi messi.
-4. **Illuminate bè u spaziu.** Una luce viva è uniforme, senza riflessi nant’à u schermu, rende i ritratti più faciuli à vede.
-5. **Preparate u ghjocu nanzu di pusavvi.** Apertulu, sceglite i parametri è mettite u vulume voi. Dopu, girate u schermu versu ella. Per cunsiglii nant’à a tavuletta, videte [preparà una tavuletta o un telefuninu](/caregiving/tablets-and-screens/).
-6. **Appughjate l’apparechju.** Un supportu o una custodia chì tene a tavuletta dritta vole dì chì nimu hà bisognu di tenela, è hè più faciule di mustrà.
+1. **Sceglite u so megliu mumentu di a ghjurnata.** [I cunsiglii di u National Institute on Aging (NIA) per adattà l’attività](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggeriscenu di pianificà l’uscite è l’attività à u mumentu di a ghjurnata induve a persona si sente megliu. Per parechje persone hè a mità di a mattina. A fine di u dopu meziornu hè spessu più difficiule; fighjate [attività calme à a fine di u dopu meziornu](/caregiving/late-day-restlessness/).
+2. **Rendite a stanza tranquilla.** Spenghje a televisione è a radiò, è chjude a porta s’ellu hè pussibule. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) cunsiglia di limità u rumore è e distrazzioni prima di pruvà à parlà.
+3. **Verificate prima u cunfortu.** Una bevanda vicinu, un passaghju à u bagnu prima, una sedia còmuda, è occhiali è apparechji auditivi messi.
+4. **Illuminate bè u spaziu.** Una luce viva è uniforme, senza riflessi nant’à u schermu, rende e fiure più faciule à vede.
+5. **Preparate u ghjocu prima di pusavvi.** Aprìtelu, sceglite i parametri è regulate u vulume voi stessu. Dopu girate u schermu versu ella. Per cunsiglii nant’à a tavuletta, fighjate [preparà una tavuletta o un telefunu](/caregiving/tablets-and-screens/).
+6. **Appughjate l’apparechju.** Un supportu o una custodia chì tene a tavuletta diritta vole dì chì nimu hà bisognu di tenela, è hè più faciule di mustrà.
 
-## Cumu a invitu senza mette pressione?
+## Cumu l’invitalla senza pressione?
 
-Fate una pruposta simplice è faciule à ricusà. Eccu qualchì frasa chì pò aiutà:
+Fate un invitu simplice è faciule à ricusà. Eccu qualchì frasa chì spessu funziona bè:
 
-- « Aghju trovu qualchì ritrattu di giardinu. Vuleti fighjalli cun mè? »
-- « Mi pudete aiutà cù stu puzzle? Ùn ci la facciu micca. »
-- « Preferite i fiori o l’acelli oghje? » (una scelta trà duie cose hè più faciule chè una dumanda aperta)
-- « Stò facendu una carta per a vostra surella. Qualessu culore ci mettemu? »
+- « Aghju trovu qualchì fiura di giardinu. Vulete fighjalle cun mè? »
+- « Pudereste aiutammi cù stu puzzle? Sò bluccatu. »
+- « Preferite i fiori o l’acelli oghje? » (una scelta trà duie hè più faciule chè una dumanda aperta)
+- « Stò facendu una carta per a vostra surella. Chì culore devu mette quì? »
 
-L’Alzheimer’s Association suggerisce di spiegà u scopu di un’attività, per esempiu fà una carta per un amicu, perchè una ragione li dà un sensu. Dumandà aiutu pò ancu funziunà bè, perchè a persona si pò sente utile.
+L’Alzheimer’s Association suggerisce di spiegà u scopu di un’attività, cum’è fà una carta per un amicu, perchè una ragione li dà un sensu. Dumandà aiutu funziona ancu perchè permette à a persona di sentesi utile.
 
-S’ella dice innò, accettatelu. Pruvate torna più tardi o prupunite qualcosa d’altru. A nostra guida nantu à [ciò chì fà quandu dice di nò](/caregiving/when-they-say-no/) va più luntanu.
+S’ella dice di nò, accettatelu. Pruvate torna più tardi o prupunite qualcosa d’altru. A nostra guida nantu à [ciò chì fà quandu dice di nò](/caregiving/when-they-say-no/) va più luntanu.
 
-## Quantu deve durà un ghjocu, è à chì ritmu duvemu andà?
+## Quantu tempu deve durà un ghjocu, è à chì ritimu duvemu andà?
 
-Lasciate chì a persona sceglia u ritmu è pensate à mumenti corti. Ùn ci hè una durata ideale pruvata per un ghjocu spartutu. Da dui à cinque minuti tranquilli ponu esse una attività cumpleta.
+Lasciate chì a persona sceglia u ritimu, è pensate à mumenti brevi. Ùn ci hè micca una durata ideale basata nantu à prove per un ghjocu spartutu. Dui à cinque minuti calmi ponu esse un’attività cumpleta.
 
-- **Aspettate più longu chè ciò chì pare naturale.** U NIA cunsiglia di lascià più tempu à a persona per risponde è di pruvà à ùn l’interrompe. Cuntate sin’à dece in capu nanzu d’aiutà.
-- **Un passu per volta.** Date una sola istruzzione corta (« Toccate un ritrattu »), dopu aspettate. Mostrate piuttostu chè spiegà: indicate induve tuccà.
-- **Fate pause senza prublema.** S’ella si ferma per parlà di un ritrattu, u ghjocu pò aspettà. Ùn ci hè bisognu di andà in furia.
-- **Lasciatela fighjà.** U NIA rimarca chì certe persone preferiscenu fighjà, è hè una scelta valida.
+- **Aspettate più longu chè ciò chì pare naturale.** U NIA cunsiglia di lascià più tempu à a persona per risponde è di pruvà à ùn l’interrompe micca. Cuntate sin’à dece in capu vostru prima d’aiutà.
+- **Un passu à a volta.** Date una sola istruzzione corta (« Tuccate una fiura »), poi aspettate. Mostrate piuttostu chè spiegà: indicate induve tuccà.
+- **Fate pause liberamente.** S’ella si ferma per parlà di una fiura, u ghjocu pò aspettà. Ùn ci hè bisognu di pressà.
+- **Lasciatela fighjulà.** U NIA nota chì certe persone preferiscenu fighjulà, è hè una scelta valida.
 
 ## Devu currege e risposte sbagliate?
 
-Innò. Currege una persona torna è torna li pò fà sente ch’ella ùn ci riesce micca, ancu quandu u fate cù bona intenzione. L’Alzheimer’s Association cunsiglia di ùn criticà nè currege l’attività senza perìculu. In un ghjocu, guasi tutti i sbagli sò senza perìculu.
+Innò. Currege dolcemente qualchissia torna è torna li face sente ch’ellu fiasca, ancu cù bone intenzioni. L’Alzheimer’s Association cunsiglia di ùn criticà nè currege l’attività senza impurtanza. In un ghjocu, guasi ogni sbagliu hè senza impurtanza.
 
-| Invece di | Pruvate cù |
+| Invece di | Pruvate |
 | --- | --- |
 | « Innò, hè sbagliatu. » | « Pruvemu cusì. » (un esempiu datu da u NIA) |
-| « Ùn hè micca una coppia. Fighjate torna. » | Ùn dite nunda è ghjucate u prossimu turnu, o « Oh, tramindui sò rossi. » |
-| « Ti arricordi di quale hè? » | « Parlami di stu ritrattu. » |
-| « Avete dighjà fattu quessa. » | « Quessa hè bella. Facemula torna. » |
-| « Andemu, a sapete. » | « Vuleti ch’ì vi mustri a fine? » |
+| « Ùn sò micca listessi. Fighjate torna. » | Ùn dite nunda è fate u prossimu giru, o « Oh, tramindui sò rossi. » |
+| « Vi arricurdate di quale hè? » | « Parlàtemi di sta fiura. » |
+| « Avete dighjà fattu quessa. » | « Hè una bella scelta. Facìmula torna. » |
+| « Andemu, a sapete. » | « Vulete chì vi mostri a fine? » |
 
-S’è un sbagliu a frustra chjaramente, aiutate cù discrezione. Indicate u ritrattu ghjustu, ghjucate voi un turnu, o rendite u ghjocu più faciule à a prossima volta. S’è un dettu finisce in modu stranu, ridite inseme. A so fine pò esse ancu megliu.
+Se un sbagliu a frustra chjaramente, aiutatela discretamente. Indicate a fiura ghjusta, ghjucate un giru voi, o rendite u ghjocu più faciule à a prossima volta. Se un dettu finisce in modu divertente ma sbagliatu, ridite inseme. A so fine pò esse ancu megliu.
 
 ## Cumu possu rende un ghjocu più faciule o più difficiule?
 
-Adattate u ghjocu à a persona in quellu ghjornu, micca à una tappa. A stessa persona pò avè bisognu di una versione più simplice a sera chè a matina. U primu cunsigliu di u NIA hè di sceglie un’attività adatta à ciò chì a persona pò fà è di fà in modu ch’ella si senta à l’aghju.
+Adattate u ghjocu à a persona in quellu ghjornu, micca à un’etichetta di stadiu. A stessa persona pò avè bisognu di una versione più simplice a sera chè a mattina. U primu cunsigliu di u NIA hè di sceglie un’attività adatta à ciò chì a persona pò fà è di assicuravvi ch’ella si senta in riescita.
 
-| Ghjocu | Renditelu più faciule | Renditelu un pocu più difficiule |
+| Ghjocu | Per rendelu più faciule | Per rendelu un pocu più difficiule |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Cuminciate cù 4 tessere è lasciate i ritratti visibili | Più tessere, o piattate i ritratti s’ella si sente à l’aghju |
-| [Find the Same](/games/find-the-same/) | 2 scelte | Sin’à 4 scelte |
-| [Sort Together](/games/sort-together/) | Voi tenite u ritrattu, ella indica u paneru | Ella tocca u ritrattu è u paneru da per ella |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pezzi, parlate prima di u ritrattu sanu | 9 pezzi |
-| [Finish the Saying](/games/finish-the-saying/) | Mustrate a fine, dopu ditela inseme | Lasciatela dì a fine nanzu di tuccà |
+| [Picture Pairs](/games/picture-pairs/) | Principiate cù quattru tessere è lasciate e fiure à a vista | Più tessere, o piattate e fiure s’ellu hè còmode |
+| [Find the Same](/games/find-the-same/) | Duie scelte | Sin’à quattru scelte |
+| [Sort Together](/games/sort-together/) | Tenite voi a fiura, ella indica u paneru | Tocca ella a fiura è u paneru da per ella |
+| [Picture Puzzle](/games/picture-puzzle/) | Quattru pezzi, parlate prima di a fiura sana | Nove pezzi |
+| [Finish the Saying](/games/finish-the-saying/) | Mostrate a fine, poi ditela inseme | Lasciatela dì a fine prima di tuccà |
 | [Word Search](/games/word-search/) | Stampatelu, circate una parolla inseme, indicate a so prima lettera | Lasciatela sceglie a prossima parolla da truvà |
-| [Coloring](/games/coloring/) | Voi sceglite dui culori, ella sceglie trà elli | Ella sceglie tutti i culori |
-| [Conversation Cards](/games/conversation-cards/) | Fighjate solu u ritrattu inseme | Aduprate e dumande aperte nant’à a carta |
-| [Photo Pairs](/games/photo-pairs/) | Qualchì ritrattu di famiglia assai caru | Aghjunghjite più ritratti |
-| [Picture Bingo](/games/picture-bingo/) | Una persona d’aiutu si mette accantu à ogni ghjucadore | I ghjucadori marcanu e so carte da per elli |
-| [Calm Breathing](/games/calm-breathing/) | Pusatevi è fighjatelu inseme | Respirate pianu pianu inseme |
+| [Coloring](/games/coloring/) | Sceglite voi dui culori, ella sceglie trà i dui | Sceglie ella tutti i culori |
+| [Conversation Cards](/games/conversation-cards/) | Fighjulà solu a fiura inseme | Aduprate e dumande aperte nant’à a carta |
+| [Photo Pairs](/games/photo-pairs/) | Qualchì fotò di famiglia cara | Aghjunghje più fotò |
+| [Picture Bingo](/games/picture-bingo/) | Una persona accantu à ogni ghjucadore per aiutà | I ghjucadori marcanu e so carte da per elli |
+| [Calm Breathing](/games/calm-breathing/) | Pusassi è fighjulallu solu inseme | Respirà pianu pianu inseme |
 
-Segni chì u ghjocu hè troppu difficiule: pause longhe chì parenu preoccupate piuttostu chè attente, « ùn ci la facciu » ripetutu, l’apparechju alluntanatu, o sbagli chì a disturbanu. Segni chì pò esse troppu faciule: noia, o quand’ella dice ch’ella si sente trattata cum’è un zitellu. S’ella accade, rispettatelu è passate à qualcosa chì pare più adultu, cum’è una ricerca di parolle, un puzzle fattu cù una vera fotografia, o una cunversazione nant’à un ritrattu di u so vechju travagliu.
+Segni chì u ghjocu hè troppu difficiule: pause longhe chì parenu preoccupate piuttostu chè pensose, « Ùn ci riescu » ripetutu, l’apparechju spintu luntanu, o sbagli chì a disturbanu. Segni chì forse hè troppu faciule: noia, o s’ella dice ch’hè una cosa da zitelli. S’ella accade, rispettatelu è cambiate versu qualcosa chì pare più adultu, cum’è una ricerca di parolle, un puzzle cù una vera fotò, o parlà di una fiura di u so anticu mistieru.
 
-## Cumu possu trasfurmà un ghjocu in una cunversazione?
+## Cumu trasfurmà un ghjocu in cunversazione?
 
-Aduprate ogni ritrattu cum’è una invitazione à parlà, è pigliate ciò ch’ella dice cum’è una bona risposta. Per parechje famiglie, hè a parte più bella di ghjucà.
+Aduprate ogni fiura cum’è un invitu à parlà, è cunsiderate ciò ch’ella dice cum’è una bona risposta. Per parechje famiglie, hè a parte più bella di u ghjucà.
 
-- **Fate dumande aperte, senza risposta ghjusta o sbagliata.** « Chì rimarcate? » « Qualessu vi piace? » « Parlami d’una cucina cusì. »
-- **Sparte prima qualcosa di voi.** « A mo minnanna avia un cane cusì. » A vostra storia a pò aiutà à sparte a soia.
-- **Seguitate ciò chì nasce.** S’è un ritrattu d’una vittura porta à una storia di viaghju, a storia diventa l’attività. Lasciate u ghjocu in pausa.
-- **Ùn verificate micca i fatti.** Quandu si rammentanu i ricordi, una cunversazione piacevule conta più chè i dettagli precisi. S’è a storia cambia da l’ultima volta, goditevi a nova versione.
-- **Aduprate e dumande dighjà pruposte.** [Finish the Saying](/games/finish-the-saying/) face seguità ogni dettu da una dumanda per parlà, è [Conversation Cards](/games/conversation-cards/) sò pensate propiu per què. [Photo Pairs](/games/photo-pairs/) adopra i vostri ritratti di famiglia, chì spessu facenu nasce e storie più ricche.
+- **Fate dumande aperte, senza risposta sbagliata.** « Chì rimarcate? » « Qualessa vi piace? » « Parlàtemi di una cucina cum’è questa. »
+- **Spartite prima.** « A mo minnanna avia un cane cusì. » A vostra storia li rende più faciule di sparte a soia.
+- **Seguitate u filu.** Se una fiura di vittura porta à una storia di viaghju, a storia hè l’attività. Lasciate u ghjocu in pausa.
+- **Ùn verificate micca i fatti.** In a rimembranza, una cunversazione piacevule conta più chè i dettagli precisi. Se a storia cambia da l’ultima volta, godevi a nova versione.
+- **Aduprate l’inviti integrati.** [Finish the Saying](/games/finish-the-saying/) prupone un invitu à parlà dopu ogni dettu, è [Conversation Cards](/games/conversation-cards/) sò pensate propiu per quessa. [Photo Pairs](/games/photo-pairs/) adopra e vostre fotò di famiglia, chì spessu facenu nasce e storie più ricche.
 
-Truverete più idee in e nostre guide nantu à [l’attività di rimemorazione](/activities/reminiscence/) è [i cunsiglii di cumunicazione](/caregiving/communication-tips/).
+Truverete più idee in e nostre guide nantu à [l’attività di rimembranza](/activities/reminiscence/) è [i cunsiglii per a cumunicazione](/caregiving/communication-tips/).
 
 ## Quandu duvemu piantà?
 
-Piantate à i primi segni di stanchezza o di fastidiu, è megliu un pocu prima. L’Alzheimer’s Association cunsiglia di piantà o di cambià un’attività quandu l’attenzione cala o quandu a frustrazione cresce.
+Piantate à i primi segni di stanchezza o di fastidiu, è megliu ancu un pocu prima. L’Alzheimer’s Association cunsiglia di piantà o di cambià un’attività quandu l’attenzione cala o quandu cresce a frustrazione.
 
-Fighjate s’ella:
+Fighjate:
 
-- sbadiglia, si lascia andà o ùn fighja più u schermu;
-- si move in cuntinuu, si alza o dumanda d’andà;
-- suspira, risponde pocu, o dice « ùn sò micca bonu o bona per què »;
-- tocca u schermu à casu o alluntana l’apparechju;
-- pare triste, irritata, o cambia d’umore di colpu.
+- sbadigli, corpu affundatu o sguardu chì si alluntana da u schermu;
+- agitazione, alzassi, o dumandà d’andassine;
+- suspiri, risposte corte, o « Ùn sò micca bravu à quessa »;
+- tuccà à casu o spinghje l’apparechju luntanu;
+- lacrime, irritazione, o un cambiamentu subitu d’umore.
 
 Cumu piantà bè:
 
-- **Finite cù qualcosa di faciule.** Una ultima coppia ch’ella pò fà, o un ultimu ritrattu da ammirà.
-- **Mettite a ragione nant’à voi.** « Mi feria bè una tazza di tè. Piantemu quì? » evita di dà l’idea ch’ella abbia fattu male.
-- **Passate à qualcosa di fisicu o di calmante.** Una corta spassighjata, un spuntinu, piegà a biancheria o ascultà musica.
-- **Dite qualcosa di caldu.** « M’hè piaciutu fà què cun voi. » Ùn ci hè bisognu di felicitazioni per avè fattu « ghjustu », solu u piacè d’avè passatu stu mumentu inseme.
+- **Finite cù qualcosa di faciule.** Un ultimu abbinu ch’ella pò fà, o una d’ultima fiura da ammirà.
+- **Fate cum’è s’ella fussi una scelta vostra.** « Mi ferìa bè una tazza di tè. Vulemu piantà quì? » evita di dà l’idea ch’ella abbia fattu male.
+- **Passate à qualcosa di fisicu o di calmante.** Una corta spasseggiata, un spuntinu, piegà a biancheria o ascultà musica.
+- **Dite qualcosa di caldu.** « M’hè piaciutu fà quessa cun voi. » Nisun cumplimentu per avè « fattu bè », solu u piacè di u mumentu spartutu.
 
-Finisce prima, cambià i piani, o lascià perde u ghjocu per stà simpliciamente inseme sò tutti belli risultati.
+Finisce prima, cambià i piani, o lascià perde u ghjocu per stassi simpliciamente inseme sò tutti belli risultati.
 
-## Pudemu ghjucà in gruppu o per videuchjamata?
+## Pudemu ghjucà in gruppu o per videochjama?
 
-Iè, cù un pocu più di preparazione. In gruppu, limitatevi à poche persone, mettite una persona d’aiutu accantu à quelli chì ne anu bisognu è sceglite un ghjocu cù un scopu chjaru da spartà. [Picture Bingo](/games/picture-bingo/) hà carte da stampà è un annunziatore nant’à u schermu per i gruppi. Videte [attività per i gruppi in una casa di cura](/activities/care-home-groups/) per sapenne di più.
+Iè, cù un pocu più di preparazione. In gruppu, tenite un picculu numeru di persone, pusate qualchissia accantu à quelli chì anu bisognu d’aiutu, è sceglite un ghjocu cù un puntu cumunu chjaru. [Picture Bingo](/games/picture-bingo/) hà carte da stampà è un animatore nant’à u schermu per i gruppi. Fighjate [attività per gruppi in residenza](/activities/care-home-groups/) per sapenne di più.
 
-Per videuchjamata, a persona in chjama pò discrive un ritrattu mentre qualchissia in stanza mostra è tocca. Tenite e chjame corte è familiari. A nostra guida nant’à [e chjame telefoniche è e videuchjamate](/activities/phone-and-video-calls/) hà più cunsiglii.
+Durante una videochjama, a persona in chjama pò discrive una fiura mentre qualchissia in a stanza mostra è tocca. Tenite e chjame corte è famigliari. A nostra guida nantu à [e chjame è e videochjame](/activities/phone-and-video-calls/) hà più cunsiglii.
 
-## È s’è un ghjocu ùn funziona proprio micca?
+## È se un ghjocu ùn funziona micca?
 
-Certi ghjorni nunda ùn và bè, è ùn hè micca culpa vostra nè di a persona. Mettite u ghjocu da cantu è pruvate torna in un altru mumentu di a ghjurnata, cù un altru ghjocu, o senza ghjocu. Parechje belle attività ùn anu nunda à fà cù i schermi: musica, piegà l’asciugamani, fighjà un album di ritratti, o fà una corta spassighjata. Fighjate e nostre [idee d’attività](/activities/ideas/) per truvà altre pruposte.
+Certi ghjorni nunda ùn và bè, è ùn hè micca colpa vostra nè soia. Mettite u ghjocu da cantu è pruvate torna à un altru mumentu di a ghjurnata, cù un altru ghjocu, o senza ghjocu. Parechje belle attività ùn anu nunda à fà cù i schermi: musica, piegà l’asciugamani, fighjulà un album di fotò, o una corta spasseggiata. Fighjate e nostre [idee d’attività](/activities/ideas/) per truvà altre idee.

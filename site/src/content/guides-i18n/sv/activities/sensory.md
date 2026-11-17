@@ -1,32 +1,33 @@
 ---
-title: "Sinnesaktiviteter för personer med demens"
-seoTitle: "Sinnesaktiviteter vid demens: idéer och säkerhet"
-description: "Sinnesaktiviteter för personer som lever med demens, från handmassage och tygkorgar till naturljud, med tydliga säkerhetsnoteringar om kvävning, allergier och dofter."
+title: "Sensoriska aktiviteter för personer med demens"
+seoTitle: "Sensoriska aktiviteter vid demens: idéer och säkerhet"
+description: "Sensoriska aktiviteter för personer som lever med demens, från handmassage till tygkorgar och naturljud, med tydliga råd om kvävning, allergier och dofter."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sinnesaktiviteter använder beröring, lukt, smak, ljud och syn: en långsam
-  handmassage, en korg med mjuka tyger, färska örter att lukta på, naturljud eller
-  att titta på fåglar vid ett fönster. De passar alla skeden och är särskilt värdefulla
-  senare. Kontrollera först risker för kvävning, allergier, hudproblem och
-  känslighet för dofter, erbjud en sak i taget och sluta om personen verkar oroad.
+  Sensoriska aktiviteter använder känsel, lukt, smak, hörsel och syn: en lugn
+  handmassage, en korg med mjuka tyger, färska örter att lukta på, naturljud
+  eller att titta på fåglar vid ett fönster. De passar i alla skeden och är
+  särskilt värdefulla senare. Kontrollera först risk för kvävning, allergier,
+  hudproblem och känslighet för dofter, erbjud en sak i taget och avsluta om
+  personen verkar orolig.
 keyPoints:
-  - "Sinnesaktiviteter kräver inga rätta svar, vilket gör att de fungerar i alla skeden, även i säng eller stol."
-  - "Erbjud ett sinne i taget i ett lugnt rum, och fråga eller säg till innan du rör vid."
-  - "Undvik små föremål och allt som ser ut som eller luktar som mat men inte är det, eftersom personer kan stoppa saker i munnen."
-  - "Kontrollera allergier, hudproblem och andningsbesvär innan du använder kräm, dofter eller livsmedel."
-  - "Det finns inga övertygande belägg för att aromaterapi hjälper vid demens; använd dofter enbart för enkel njutning, om alls."
+  - "Sensoriska aktiviteter kräver inga rätta svar, vilket gör att de fungerar i alla skeden, även i sängen eller en stol."
+  - "Erbjud ett sinne i taget i ett lugnt rum, och fråga eller säg till innan du rör vid personen."
+  - "Undvik små föremål och allt som ser ut eller luktar som mat men inte är det, eftersom personer kan stoppa saker i munnen."
+  - "Kontrollera allergier, hudproblem och andningsbesvär innan du använder lotion, dofter eller mat."
+  - "Det finns inga övertygande bevis för att aromaterapi lindrar symtom vid demens; använd dofter bara för enkel njutning, om alls."
 faq:
-  - q: "Vilka är bra sinnesaktiviteter för någon med demens?"
-    a: "Enkla idéer är en långsam handmassage med kräm, att känna på mjuka tyger, att lukta på färska örter eller kaffe, att lyssna på favoritmusik eller naturljud, att titta på fåglar eller ett akvarium, och att smaka en favoritmat i en säker konsistens. Erbjud en sak i taget och se hur personen reagerar."
-  - q: "Är sinnesaktiviteter säkra för någon som stoppar saker i munnen?"
-    a: "De kan vara det, med omsorg. Använd bara stora föremål som inte kan sväljas, undvik allt litet eller sprickbart, och förvara kräm, tvålar och doftprodukter utom räckhåll efteråt, eftersom de kan se ut eller lukta som mat. Var kvar hos personen hela tiden."
+  - q: "Vilka sensoriska aktiviteter passar någon med demens?"
+    a: "Enkla idéer är en lugn handmassage med lotion, att känna på mjuka tyger, att lukta på färska örter eller kaffe, att lyssna på favoritmusik eller naturljud, att titta på fåglar eller ett akvarium och att smaka på en favoritmat i en säker konsistens. Erbjud en sak i taget och lägg märke till hur personen reagerar."
+  - q: "Är sensoriska aktiviteter säkra för någon som stoppar saker i munnen?"
+    a: "Det kan de vara, med omsorg. Använd bara stora föremål som inte kan sväljas, hoppa över allt som är litet eller ömtåligt, och lägg undan lotion, tvål och doftprodukter efteråt, eftersom de kan se ut eller lukta som mat. Stanna hos personen hela tiden."
   - q: "Hjälper aromaterapi vid demens?"
-    a: "En Cochrane-översikt fann inga övertygande belägg för att aromaterapi hjälper personer med demens, även om studierna var små och inkonsekventa. Om personen tycker om en mild, välbekant doft är det bra, men undvik starka eteriska oljor, särskilt vid andningsproblem eller allergier."
-  - q: "Vad är en sysselsättningsförkläde?"
-    a: "Det är ett stycke tyg, ett förkläde eller en knävärmare med saker att hantera fastsydda ordentligt, till exempel stora knappar, blixtlås, band och strukturerade lappar. Det ger rastlösa händer något att utforska. Kontrollera det ofta så att inget som sitter löst kan dras av."
+    a: "En Cochrane-översikt fann inga övertygande bevis för att aromaterapi hjälper personer med demens, även om studierna var små och inte entydiga. Om personen tycker om en mild, välbekant doft är det helt fint, men undvik starka eteriska oljor, särskilt vid andningsbesvär eller allergier."
+  - q: "Vad är ett pysselförkläde eller en aktivitetsfilt?"
+    a: "Det är ett tygstycke, förkläde eller en filt för knät med saker att känna på som är ordentligt fastsydda, till exempel stora knappar, dragkedjor, band och lappar med olika struktur. Det ger händer som vill ha något att göra något att utforska. Kontrollera det ofta så att inget har lossnat."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -47,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sinnesaktiviteter använder de fem sinnena: beröring, lukt, smak, ljud och syn. De kräver inget minne, inga steg och inga rätta svar, så de kan fungera i alla skeden. De betyder mest senare. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) noterar att världen i senare skede främst upplevs genom sinnena, och att man kan visa omtanke genom beröring, ljud, syn, smak och lukt. Några säkerhetskontroller gör att aktiviteterna blir avslappnade för alla.
+Sensoriska aktiviteter använder de fem sinnena: känsel, lukt, smak, hörsel och syn. De kräver inget minne, inga steg och inga rätta svar, så de kan fungera i alla skeden. De betyder mest senare. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) beskriver att man i det sena skedet främst upplever världen genom sinnena, och att du kan visa omtanke genom beröring, ljud, syn, smak och lukt. Några säkerhetskontroller gör dessa aktiviteter avkopplande för alla.
 
-## Vad är sinnesaktiviteter vid demens?
+## Vad är sensoriska aktiviteter vid demens?
 
-Sinnesaktiviteter är enkla upplevelser som bygger på ett sinne i taget, till exempel att känna på tyg, lukta på örter eller lyssna på regn. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) säger att aktiviteter i senare skede ofta behöver fokusera på sinnena, och nämner musik, föremål att känna på och hantera, samt handmassage. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) noterar att personer i senare skede kan ha ett starkt behov av att hålla något nära för tröstens skull.
+Sensoriska aktiviteter är enkla upplevelser som bygger på ett sinne i taget, som att känna på tyg, lukta på örter eller lyssna på regn. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) beskriver att aktiviteter i sena skeden ofta behöver fokusera på sinnena och nämner musik, föremål att röra vid och hantera samt handmassage. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) beskriver att personer i det sena skedet kan ha ett starkt behov av att hålla i något för att känna trygghet.
 
-## Sinnesidéer, sinne för sinne
+## Sensoriska idéer, sinne för sinne
 
-### Beröring
+### Känsel
 
-- **Handmassage.** Värm lite kräm i händerna och stryk långsamt från handleden till fingertopparna. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) nämner att massera med oparfymerad kräm för trygghetens skull.
-- **Tygkorg.** Stora bitar av sammet, manchester, fleece, satin och ull att stryka, vika och prata om.
+- **Handmassage.** Värm lite lotion i händerna och stryk långsamt från handled till fingertoppar. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) nämner massage med oparfymerad lotion för att ge välbefinnande.
+- **Tygkorg.** Stora tygbitar av sammet, manchester, fleece, satin och ull att stryka över, vika och prata om.
 - **Varm tvättlapp.** En varm, fuktig trasa för händerna en kall dag. Testa temperaturen på din egen handled först.
-- **Sysselsättningsförkläde eller knävärmare.** Stora knappar, blixtlås, band och strukturerade lappar fastsydda ordentligt.
+- **Pysselförkläde eller aktivitetsfilt.** Stora knappar, dragkedjor, band och lappar med olika struktur som är ordentligt fastsydda.
 - **Vika och släta ut.** En korg med rena tvättlappar eller servetter att vika, stapla och vika igen.
-- **Något mjukt att hålla i.** En fleecefilt, en kudde eller ett verklighetstroget mjukt djur, erbjudet enkelt, aldrig som en leksak.
+- **Något mjukt att hålla i.** En fleecefilt, en kudde eller ett realistiskt mjukisdjur, som erbjuds enkelt, aldrig som en leksak.
 
 ### Lukt
 
-- **Färska örter.** Gnugga mynta-, rosmarin-, basilika- eller lavenderblad mellan fingrarna och låt personen känna på dem.
+- **Färska örter.** Gnid mynta, rosmarin, basilika eller lavendelblad mellan fingrarna och håll fram dem.
 - **Köksdofter.** Kaffe som bryggs, bröd som rostas, kanel eller en apelsin som skalas i närheten.
-- **Blommor.** Ta in några färska blommor från trädgården eller livsmedelsaffären.
-- **En välbekant produkt.** Tvålen eller krämen personen alltid använde, om huden tål den.
+- **Blommor.** Ta in några färska blommor från trädgården eller mataffären.
+- **En välbekant produkt.** Den tvål eller lotion som personen alltid har använt, om huden tål den.
 
 ### Smak
 
-- **En favoritsmak.** En liten sked av något hen älskar, till exempel äppelmos, pudding eller glass, i en konsistens som kan ätas säkert.
-- **Hjälp med bakning.** Smaka på frukt eller lite glasyr medan ni bakar tillsammans.
-- **Säsongsgodis.** Vattenmelon på sommaren, varm cider på hösten, serverat i en säker temperatur.
+- **En favoritsmak.** En liten sked av något personen tycker om, till exempel äppelmos, pudding eller glass, i en konsistens som personen kan hantera säkert.
+- **Hjälpa till med bakning.** Att smaka på frukt eller lite glasyr medan ni bakar tillsammans.
+- **Säsongsgott.** Vattenmelon på sommaren, varm äppelmust på hösten, serverat i en säker temperatur.
 
-### Ljud
+### Hörsel
 
-- **Favoritmusik.** Välbekanta sånger på en mild volym; se [musikaktiviteter](/activities/music/).
-- **Naturljud.** Regn, vågor eller fågelsång. NIA noterar att musik, vitt brus och naturljud verkar lugna vissa människor.
-- **Din röst.** Läsa högt, nynna eller berätta en historia.
-- **Enkla instrument.** En handtrumma, ett skakinstrument eller en klocka att spela med till musik.
+- **Favoritmusik.** Välbekanta sånger i låg volym; se [musikaktiviteter](/activities/music/).
+- **Naturljud.** Regn, vågor eller fågelsång. NIA beskriver att musik, vitt brus och naturljud verkar lugna en del personer.
+- **Din röst.** Högläsning, nynnande eller att berätta något.
+- **Enkla instrument.** En handtrumma, skallra eller klocka att spela med i musiken.
 
 ### Syn
 
-- **Fönstertittande.** En fågelmatare utanför fönstret, barn som går hem från skolan, eller snö som faller.
-- **Ett akvarium eller en långsam video.** Mjuk rörelse utan högt ljud.
+- **Titta ut genom fönstret.** En fågelmatare utanför fönstret, barn på väg hem eller snö som faller.
+- **Ett akvarium eller en lugn video.** Långsamma rörelser utan högt ljud.
 - **Stora foton.** En tydlig bild i taget, hållen i ögonhöjd.
-- **Färg och mönster.** Sortera ljusa tygrester, blommor eller färgade servetter, eller en enkel målarbild från vår samling [målarbilder](/games/coloring/).
-- **Utomhus.** NHS föreslår sinnesträdgårdar med doftande växter, strukturer och vattenspel. Se [utomhus- och trädgårdsaktiviteter](/activities/outdoor-and-gardening/).
+- **Färg och mönster.** Att sortera färgglada tygbitar, blommor eller färgade servetter, eller en enkel målarbild från vårt set [målarbilder](/games/coloring/).
+- **Utomhus.** NHS föreslår sensoriska trädgårdar med doftväxter, olika strukturer och inslag av vatten. Se [utomhus- och trädgårdsaktiviteter](/activities/outdoor-and-gardening/).
 
-## Hur gör man en sinneslåda?
+## Så gör du en sensorisk låda
 
-1. **Välj ett tema** kopplat till personens liv: stranden, trädgården, köket, verkstaden, sömnaden.
-2. **Välj fem eller sex stora, säkra föremål,** till exempel ett stort snäckskal, en träsked, en mjuk scarf, en syltad påse med torkad lavendel, eller ett slätt trästycke.
-3. **Kontrollera varje föremål** för små delar, vassa kanter, lösa trådar och allt som kan gå sönder.
-4. **Ta fram ett föremål i taget.** Lämna över det, beskriv det och låt personen utforska.
-5. **Lägg undan lådan efteråt** så att den förblir speciell, och kontrollera föremålen igen före nästa gång.
+1. **Välj ett tema** som hör ihop med personens liv: stranden, trädgården, köket, verkstaden, sömnad.
+2. **Välj fem eller sex stora, säkra föremål,** till exempel en stor snäcka, en träslev, en mjuk halsduk, en påse med torkad lavendel som är ihopsydd eller ett slätt träblock.
+3. **Kontrollera varje föremål** så att det inte finns små delar, vassa kanter, lösa trådar eller något som kan gå sönder.
+4. **Ta fram ett föremål i taget.** Räck över det, beskriv det och låt personen utforska.
+5. **Ställ undan lådan efteråt** så att den förblir speciell och föremålen kan kontrolleras igen nästa gång.
 
 ## Säkerhet först
 
-Sinnesaktiviteter är milda, men några risker spelar roll. Vissa personer med demens kan ta icke-livsmedel för mat, och att svälja kan bli svårare med tiden; NIA varnar för att sväljproblem i senare skede ökar risken för kvävning.
+Sensoriska aktiviteter är lugna, men några risker är viktiga att känna till. Vissa personer som lever med demens kan ta fel på saker som inte är mat, och det kan bli svårare att svälja med tiden; NIA varnar för att sväljsvårigheter i sena skeden ökar risken för kvävning.
 
-| Risk | Vad du gör |
+| Risk | Vad du kan göra |
 | --- | --- |
-| Kvävning | Använd bara föremål som är för stora att svälja. Inga knappar, pärlor, mynt, kulor eller små leksaker lösa i en låda. Erbjud mat bara i konsistenser som vårdteamet säger är säkra. |
-| Saker som ser ut som mat | NIA råder att låsa in kräm, tvålar, schampo och parfym, som kan se ut eller lukta som mat, och att ta bort konstgjord frukt. Lägg undan sinnesprodukter efter användning. |
-| Allergier | Kontrollera allergi mot nötter, latex, ull, växter eller dofter innan du börjar. |
-| Starka dofter | Undvik starka parfymer och eteriska oljor, särskilt vid astma eller andra andningsproblem. Milda, naturliga dofter är säkrare. |
-| Hud | Kontrollera att huden inte är öm, sprucken eller skör innan massage. Använd mjukt tryck och sluta om personen rynkar på näsan. |
-| Temperatur | Testa varma tvättlappar och drycker på din egen handled först. |
-| Vassa eller giftiga föremål | Inga vassa verktyg, glas eller giftiga hantverksmaterial. |
+| Kvävning | Använd bara föremål som är för stora för att sväljas. Inga knappar, pärlor, mynt, kulor eller små leksaker löst i en låda. Erbjud bara mat i konsistenser som vårdteamet säger är säkra. |
+| Saker som ser ut som mat | NIA råder till att låsa in lotion, tvål, schampo och parfym, som kan se ut eller lukta som mat, och att ta bort konstgjord frukt. Lägg undan sensoriska produkter efter användning. |
+| Allergier | Kontrollera om det finns allergier mot nötter, latex, ull, växter eller doftämnen innan du börjar. |
+| Starka dofter | Undvik starka parfymer och eteriska oljor, särskilt vid astma eller andra andningsbesvär. Mildare, naturliga dofter är säkrare. |
+| Hud | Kontrollera om huden är öm, skadad eller skör före massage. Använd ett mjukt tryck och sluta om personen rycker till. |
+| Temperatur | Testa varma trasor och drycker på din egen handled först. |
+| Vassa eller giftiga föremål | Inga vassa verktyg, inget glas och inga giftiga pysselmaterial. |
 
 ## Hjälper aromaterapi?
 
-Sannolikt inte på något mätbart sätt. En [Cochrane-översikt om aromaterapi vid demens](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) granskade 13 studier med 708 personer, alla på äldreboenden, och fann inga övertygande belägg för nytta. Studierna var små, resultaten skiljde sig åt och biverkningarna var dåligt redovisade. Om personen tycker om en mild, välbekant doft, som lavendel från trädgården, är det en fin anledning att dela den. Det är inte en behandling.
+Förmodligen inte på något mätbart sätt. En [Cochrane-översikt om aromaterapi vid demens](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) granskade 13 studier med 708 personer, alla på vård- och omsorgsboenden, och fann inga övertygande bevis för nytta. Studierna var små, resultaten gick isär och biverkningar rapporterades dåligt. Om personen tycker om en mild, välbekant doft, som lavendel från trädgården, är det en fin anledning att dela den. Det är ingen behandling.
 
-## Hur erbjuder jag en sinnesaktivitet?
+## Så erbjuder du en sensorisk aktivitet
 
-- **Välj ett lugnt ögonblick** och stäng av tv:n.
-- **Närma dig framifrån,** säg personens namn, och fråga eller berätta innan du rör vid: ”Jag har lite kräm. Vill du ha en handmassage?”
-- **Erbjud en sak i taget** så att det inte blir överväldigande.
-- **Titta på reaktionen.** Ett mjukare ansikte, avslappnade händer eller ett leende är bra tecken. Att dra undan, rynka pannan eller vara rastlös betyder att du ska sluta.
-- **Håll det kort.** Fem lugna minuter är ett bra pass.
+- **Välj ett lugnt tillfälle** och stäng av tv:n.
+- **Närma dig framifrån,** säg personens namn och fråga eller berätta innan du rör vid personen: ”Jag har lite lotion. Vill du ha en handmassage?”
+- **Erbjud en sak i taget** så att det inte blir för mycket.
+- **Lägg märke till reaktionen.** Ett mjukare ansikte, avslappnade händer eller ett leende är goda tecken. Att dra sig undan, rynka pannan eller bli rastlös betyder att du ska sluta.
+- **Håll det kort.** Fem lugna minuter är en bra stund.
 
-En stunds långsam andning tillsammans, som [lugn andning](/games/calm-breathing/), kan vara ett milt sätt att avsluta. För fler idéer vid sängen, se [aktiviteter i senare skede](/activities/late-stage/), och för oro på kvällen, se [oro sent på dagen](/caregiving/late-day-restlessness/).
+En lugn andningspaus tillsammans, som [lugn andning](/games/calm-breathing/), kan vara ett fint sätt att avsluta. För fler idéer vid sängen, se [aktiviteter i sena skeden](/activities/late-stage/), och för oro senare på dagen, se [oro senare på dagen](/caregiving/late-day-restlessness/).

@@ -1,32 +1,34 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Misala mpo na mibali oyo bazali na bokono ya kobosana"
+seoTitle: "Misala mpo na mibali na bokono ya kobosana"
+description: "Makanisi ya misala mpo na mibali oyo bazali na bokono ya kobosana, kolanda mosala, bilinga mpe momeseno na bango, na batoli mpo na kosala yango na kimia."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Misala ya malamu koleka mpo na mobali oyo azali kobika na bokono ya kobosana
+  ewuti na bomoi na ye moko: mosala oyo asalaki, bilinga oyo alingaki mpe
+  momeseno oyo azalaki na yango mokolo na mokolo. Moto oyo azalaki kosala na
+  biro akoki kosepela kobongisa mikanda, moto oyo azalaki makaniki akoki
+  kosepela kosimba bisaleli ya peto, mpe moto oyo alingaka masano akoki kosepela
+  lisano ya kala. Makambo oyo bato balingaka ekeseni na mobali moko na mosusu,
+  yango wana bandá na moto yango, kasi te na kozala na ye mobali.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Bandá na lisolo ya bomoi ya mobali oyo: mosala na ye, bilinga na ye, momeseno na ye mpe makambo oyo azalaki komikumisa na yango."
+  - "Misala oyo ezali na ntina ya solo, lokola kobongisa bisaleli, kosukola motuka to kopɛtola libaya, ekoki kosepelisa mingi koleka misala oyo emonanaka lokola kelasi."
+  - "Mibali nyonso te balingaka bisaleli to masano. Mingi basepelaka kolamba, miziki, bilanga, mayele ya kosala biloko to kobatela basusu. Tuná, talá mpe landá ndenge na ye."
+  - "Salá ete misala ya lolenge ya mosala ezala na kimia na kolongola bisaleli ya makasi mpe na kotala malamu, mpe lembisá yango soki makoki ekómi kobongwana."
+  - "Koloba te ezali malamu. Pesá ye esika ya kosalisa, kasi te mokumba ya makasi, mpe meká lisusu mokolo mosusu."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Misala nini mibali oyo bazali na bokono ya kobosana basepelaka?"
+    a: "Liste moko te ezali, mpo makambo oyo mibali balingaka ekeseni lokola ya bato nyonso. Bandela ya malamu ezali misala oyo ekangami na mosala na ye ya kala, lokola kobongisa mikanda to kobongisa ba écrou mpe ba boulon, elongo na bilinga oyo alingaki, lokola koboma mbisi, mituka, miziki, kolamba to masano. Talá makambo oyo asalaka ye moko mpe bongisá misala na likoló na yango."
+  - q: "Tata na ngai aboyaka misala ya etuluku. Nakoki kosala nini?"
+    a: "Bato mingi, mibali mpe basi, baboyaka misala oyo emonanaka lokola kelasi to lokola ya bana mike. Meká kopesa ye mosala na esika ya yango: « Okoki kosalisa ngai kobongisa biloko oyo? » Etuluku ya moke to kosala na moto moko ekoki komonana pete koleka etuluku ya monene."
+  - q: "Ezali na kimia kotika ye asalela bisaleli?"
+    a: "Kaka soki ozali kotala malamu mpe ozali kosalela bisaleli ya kimia. Longolá bisaleli ya kuran, banzela ya kokata mpe eloko nyonso ya makasi, mpe pesá misala lokola kopɛtola eteni ya libaya, kobongisa bisaleli ya peto, to kokanga ba boulon ya minene na maboko. Alzheimer’s Association elobi ete elongolami biloko ya likama na esika ya mosala mpo ete mosala lokola kopɛtola libaya ekoki kokoba kosepelisa na kimia."
+  - q: "Azalaki moto ya mayele na mosala. Misala ya pete ekoki koyokisa ye mabe?"
+    a: "Ekoki soki emonisami lokola mosala ya pamba. Lakisá ete ezali lisalisi ya solo, salelá biloko ya mikóló, mpe poná eloko oyo ekokani na mosala na ye ya kala, lokola kotala liste, kobongisa dosiye to kosalisa na kobongisa mikanda mpo na kotinda. Soki azalaki na mayele mingi na eloko moko, mosala oyo ekangani kasi ekeseni ekoki komonana malamu koleka kokokanisa yango na mosala ya kala."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +47,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Bato mingi balukaka « misala mpo na mibali oyo bazali na bokono ya kobosana » mpo makanisi oyo epesamaka mbala mingi emonanaka lokola ekokani te na mobali oyo bazali kobatela. Yango ezali likambo ya solo. Kasi eyano ezali te liste ya misala « ya mibali ». Eyano ezali kobanda na mobali oyo moko: mosala nini asalaki mpo na kozwa mbongo, asalaki nini na mikolo ya mpɔsi, mpe nini ezalaki kopesa ye liyoki ete azali na ntina. Makambo oyo bato balingaka ekeseni mpo na moto nyonso. Mibali mingi balingaka kolamba, kosala bilanga, kotya langi to koyemba, mpe basi mingi balingaka mituka mpe basebɔlɛ.
 
-## How do I find activities he will actually enjoy?
+## Ndenge nini nakoki koyeba misala oyo akosepela mpenza?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Bandá na lisolo ya bomoi na ye. Alzheimer’s Association elobi ete tosala [manaka ya mokolo](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) kolanda makambo oyo moto alingaka, oyo alingaka te, makoki na ye mpe makambo oyo asepelaka na yango, mpe ndenge azalaki kobongisa mokolo na ye liboso. Mituná:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Mosala na ye ezalaki nini?** Biro, bilanga, izini, mosala ya maboko, soda, koteka, koteya, kotambwisa motuka, to kobatela ndako?
+- **Asalaki nini na ntango ya malamu?** Koboma mbisi, masano ya bakarte, mosala ya mabaya, masano, ndako-nzambe, miziki, kolamba, to motuka na garaje?
+- **Momeseno na ye ezalaki nini?** Kafé mpe zulunale ntongo nyonso? Kotala tango? Kosukola motuka mposo nyonso?
+- **Nini akobandaka ye moko?** Association elobi ete soki moto abandaka misala kozanga ete batuná ye, lokola kokɔmba, misala yango ekoki kokɔta na momeseno.
+- **Nini aboyaka?** Bato mosusu basepelaka kotala masano; basusu bazwaka yango lokola makelele mingi to mbangu mingi. Talá tango amonanaka na esengo, na bobangi to na kanda.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Sololá mpe na libota mpe baninga ya kala. Bakoki koyebisa makambo oyo alingaki kala kasi abosanaki na mikolo oyo.
 
-## Activity ideas based on past work
+## Makanisi ya misala kolanda mosala ya kala
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer’s Association epesi ndakisa ya polele: moto oyo azalaki kosala na biro akoki kosepela na misala ya kobongisa, lokola kotia mbongo na esika na yango, kosalisa na kobongisa mikanda mpo na kotinda to kosala liste ya makambo ya kosala, nzokande moto oyo azalaki mosali bilanga akoki kosepela kosala na bilanga. Likanisi yango ekoki kosalelama na misala mingi.
 
-| Past work | Activity ideas | Simpler version |
+| Mosala ya kala | Makanisi ya misala | Lolenge ya pete |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Biro to mombongo | Kobongisa mikanda na ba dosiye, kotya mbɛmbɛ na ba enveloppe, kotala liste, kobongisa tiroir ya biro | Kotondisa ba enveloppe; kotia ba trombone na kati ya sanduku |
+| Mosala ya maboko to makaniki | Kobongisa ba écrou, ba boulon mpe ba rondelle ya peto; kokanga ba boulon ya minene na maboko; kotala ba kataloge ya bisaleli | Kobongisa na bonene na bakɔpɔ mibale |
+| Bilanga to kobatela esika | Kosopa mayi, kotia banzete na bakɔpɔ, kosangisa nkasa, kotala bilanga | Kofanda libanda ntango ozali kosala; kosimba basache ya nkona |
+| Soda | Kopɛtola sapato, kobongisa tiroir, kotala bafoto ya ntango ya soda soki asepelaka na yango | Koyoka miziki ya eleko wana |
+| Koteka to kosalela bato | Koyamba bapaya, kopesa bilei ya mike, kobongisa ba coupon | Kofanda pembeni ya ekuke mpo na kopesa mbote |
+| Koteya | Kotánga na mongongo makasi, kobongisa babuku, kobongisa bililingi na bituluku | Kotalela buku ya bililingi elongo |
+| Kotambwisa motuka to komema biloko | Kotala bakarte to bazulunale ya mituka ya kala, kosukola motuka | Kotala mituka koleka wuta na veranda |
+| Ndako mpe libota | Kokangola bilamba, kobongisa mesa, kosalisa na kolamba | Konyata ba napkin; kovurunga |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Makanisi mosusu, lokola mosala ya soda, ekoki komema mayoki makasi. Landá ndenge na ye, tiká masolo ya kala ezala ya malamu, mpe bongolá likambo na boboto soki omoni ete azali na mawa to azali kotungisama.
 
-## Activity ideas based on hobbies
+## Makanisi ya misala kolanda bilinga
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Mosala ya mabaya.** Kopɛtola eteni ya libaya ya peto to kotya langi na ndako ya bandeke ya kit. Alzheimer’s Association elobi ete elongolami biloko mpe bisaleli ya likama na esika ya mosala mpo ete mosala lokola kopɛtola libaya ezala ya esengo mpe ya kimia.
+2. **Koboma mbisi.** Kobongisa sanduku ya bisaleli ya koboma mbisi nsima ya kolongola ndobo, kotala bazulunale ya koboma mbisi, to kofanda pembeni ya liziba elongo.
+3. **Mituka.** Kosukola motuka, kopɛtola bibende, kotala bafoto ya mituka ya kala, to kokende kotambola na motuka lokola mopasaje.
+4. **Masano.** Kotala lisano ya kala to biteni ya malamu, kobwaka ndembo ya pete, kotia mabɔlɔ ya gɔlɛfɛ na tapi, to kobongisa bakarte ya basebɔlɛ.
+5. **Bakarte mpe masano.** Lisano ya pete ya bakarte oyo ayebi malamu, ba domino, to kobalola bakarte mpo na koluka oyo ekokani. Tiká yango ezala pete mpe tiká kotánga bapointi.
+6. **Miziki.** Banzembo ya ntango azalaki elenge, lingomba oyo alingaki, to nzembo ya ndako-nzambe. Talá [lisalisi na biso mpo na misala ya miziki](/activities/music/).
+7. **Kolamba mpe kotumba na mɔtɔ.** Kosukola ndunda, kovurunga mɔniɔkɔ, kosala ba boule ya nyama, to kolimbola ndenge azalaki kosala piment na ye ya malamu ntango ozali kolamba yango.
+8. **Zulunale.** Alzheimer’s Association elobi ete moto oyo azalaki kotánga zulunale ntango nyonso akoki kokoba kosepela na yango, ata soki azali lisusu te kolanda makambo nyonso malamu. Kafé mpe zulunale ekoki kotikala na momeseno ya ntongo.
+9. **Kotonga.** Ba kit ya modele ya biteni ya minene to ba ensemble ya kotonga ya pete mpo na mikóló. Poná biteni oyo ezali pete mpo na kosimba.
+10. **Kobatela eloko moko.** Koleisa nyama ya ndako, kotondisa esika ya koleisa bandeke, to kosopa mayi na banzete. NIA etángi [koleisa, kobongisa to kotambwisa nyama ya ndako](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kati na misala oyo bato mosusu bakoki kosepela na yango.
 
-## How do I offer an activity without it feeling like busywork?
+## Ndenge nini nakoki kopesa mosala kozanga ete emonana lokola mosala ya pamba?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Lakísá yango lokola lisalisi ya solo. Alzheimer’s Association elobi ete tuná « Okoki kosalisa ngai? » mpe kangisá misala na ntina moko. Talá bokeseni:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- « Olingi kobongisa ba boulon oyo? » (eyokani lokola komeka)
+- « Nasombaki saki moko ya bisaleli ya ndenge na ndenge mpe nasengeli kobongisa yango liboso nabongisa etagere. Okoki kopesa ngai maboko? » (eyokani lokola mosala)
 
-Other tips:
+Batoli mosusu:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Salelá biloko ya mikóló.** Bisaleli ya solo oyo basonge na yango elongolami, ba kataloge ya solo, ba enveloppe ya solo.
+- **Salá pembeni na pembeni.** Bato mibale oyo bazali kosala mosala moko ezali boninga. Moto moko oyo azali kotala mosusu ezali lokola bokɛngeli.
+- **Kobongisa te.** Soki ba boulon ekɔti na kɔpɔ ya mabe, tiká yango ndenge wana. Ntina ezali ntango oyo bozali kosalela elongo mpe liyoki ya kozala na ntina.
+- **Salisá ye kobanda.** Alzheimer’s Association elobi ete bato mingi bazali naino na posa ya kosala makambo kasi bakutanaka na mokakatano ya kobongisa mpe kobanda. Bandá eloko ya liboso elongo.
 
-## How do I adapt as things change?
+## Ndenge nini nakoki kobongola soki makambo ekómi kobongwana?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Ntango bokono ya kobosana ekómi makasi, Alzheimer’s Association elobi ete tokɔtisa misala ya pete mingi mpe ya kozongela, mpe tózala pene mpo moto akoka kozwa esika ya kosala moke. Mobali oyo azalaki kotonga bamotɛrɛ akoki sikoyo kosepela kosimba efungola ya peto mpe koloba na ntina ya mituka, to kotala yo ozali kosala. Kotala ezali mpe kosangana.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Soki azalaki na mayele mingi na eloko moko, mosala oyo ekangani ekoki komonana malamu koleka mosala na ye ya kala. Association elobi ete moto ya mayele ya kotya langi akoki koyoka mawa soki mosala na ye ebongwani, nzokande moto oyo asalaka yango mpo na esengo akoki kosepela na lolenge ya sika. Ezali ndenge moko mpo na mosali mabaya ya mayele.
 
-## Safety with work-style tasks
+## Kimia na misala ya lolenge ya mosala
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Longolá bisaleli ya kuran, banzela ya kokata, bapointe mpe ba vis oyo ezali na basonge ya makasi.
+- Kangá diluant ya langi, esansi mpe biloko ya chimiques.
+- Batelá bafungola ya motuka esika oyo akomona te soki azali lisusu te kotambwisa motuka.
+- Talá malamu misala nyonso ya esika ya mosala mpe ya bilanga.
+- Poná biteni ya minene oyo ekoki komelama te.
 
-## What if he says no?
+## Soki alobi te?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Ndima yango. Koloba te ekoki kolakisa ete mosala emonanaka makasi mingi, lokola ya bana mike to ezali malamu te lelo. Alzheimer’s Association ekebisi ete tótilisa ye te na makasi. Meká mosala mosusu, ntango mosusu, to bofanda kaka elongo. Talá [nini kosala soki alobi te](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Masano mpe masolo oyo ekokani
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) esalelaka masapo ya Amerika oyo eyebani mpe efungolaka nzela mpo na masolo. [Conversation Cards](/games/conversation-cards/) ezali na mituna ya polele, kozanga komeka, na bituluku, oyo ekoki kofungola masolo ya mosala mpe bilinga. [Picture Puzzle](/games/picture-puzzle/) etiki elilingi mobimba emonana ntango bozali kobongola biteni, mpe [Word Search](/games/word-search/) ya mikanda ya minene ekoki kobimama na imprimer mpe kosalema na ekomeli na mesa ya kolia. Mpo na koyeba ndenge ya koloba na ntina ya kala na ye kozanga komeka ye, talá [lisalisi na biso mpo na koyebisa makambo ya kala](/activities/reminiscence/).

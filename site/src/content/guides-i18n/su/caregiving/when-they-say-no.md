@@ -1,35 +1,35 @@
 ---
-title: "Upami Jalma kalayan Demensia Nolak atanapi Kesel dina Kagiatan"
-seoTitle: "Upami Jalma kalayan Demensia Nolak Kagiatan"
-description: "Naha jalma anu hirup kalayan demensia bisa nolak atanapi kesel dina kagiatan, naon anu kedah dicobian, naon anu kedah dihindari, sarta iraha kedah ka dokter."
+title: "Nalika Jalma anu Hirup jeung Déménsia Nolak Kagiatan"
+seoTitle: "Nalika Jalma anu Hirup jeung Déménsia Nolak Kagiatan"
+description: "Naha jalma anu hirup jeung déménsia bisa nolak atanapi kesel kana kagiatan, naon anu tiasa dicobian, anu kedah dijauhkeun, sarta iraha parlu ka dokter."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Upami jalma kalayan demensia nyarios henteu, tampi kalayan tenang sarta
-  cobian deui engké atanapi tawiskeun hal séjén. Panolakan mindeng aya
-  alesanana: pagawéanana karasa teuing hésé atanapi siga budak, anjeunna
-  capé, nyeri, lapar, atanapi kawalahan ku sora. Ulah pasea atanapi maksa.
-  Basajankeun, tawiskeun dua pilihan, atanapi menta tulung ka anjeunna.
-  Paripolah anu ngadadak atanapi gancang robah, khususna sanggeus inféksi
-  atanapi obat anyar, peryogi dokter gancang.
+  Nalika jalma anu hirup jeung déménsia nyebut henteu, tarima kalayan tenang
+  teras cobian deui engké atanapi tawarkeun anu béda. Panolakan sering aya
+  alesanana: pancén karasa sesah teuing atanapi siga keur budak, aranjeunna
+  capé, nyeri, lapar, atanapi kakeueum ku ribut. Entong ngabantah atanapi maksa.
+  Sederhanakeun, tawarkeun dua pilihan, atanapi nyuhunkeun bantosanana. Parobahan
+  kalakuan anu ngadadak atanapi gancang robah, utamana saatos inféksi atanapi
+  nginum obat anyar, kedah geuwat dipariksa ka dokter.
 keyPoints:
-  - "Hiji \"henteu\" téh waleran anu kedah dihargaan, lain masalah anu kedah dielehkeun."
-  - "Panolakan biasana aya panyababna: teuing hésé, teuing siga budak, capé, teu séhat, teu genah, atanapi kawalahan."
-  - "Mundur, antosan, sarta cobian engké, dina waktos séjén, atanapi ku versi anu langkung basajan."
-  - "Menta tulung ka anjeunna langkung hasil tibatan nyuruh anjeunna tampil."
-  - "Ulah pasea, maksa, nguji atanapi ngoréksi. Pariksa diri anjeun ngeunaan buru-buru atanapi ngadeukeutan teuing."
-  - "Paripolah anu ngadadak atanapi gancang robah, khususna sareng inféksi atanapi obat anyar, kedah langsung dibawa ka dokter."
+  - "Kecap “henteu” mangrupikeun jawaban anu kedah dihormat, sanés masalah anu kedah dipaksakeun."
+  - "Panolakan biasana aya sababna: sesah teuing, siga keur budak, capé, teu damang, teu ngarareunah, atanapi kakeueum."
+  - "Mundur heula, antosan, teras cobian deui engké, dina waktos anu béda, atanapi nganggo vérsi anu leuwih saderhana."
+  - "Nyuhunkeun bantosanana langkung hadé tibatan naroskeun aranjeunna pikeun némbongkeun kamampuh."
+  - "Entong ngabantah, maksa, nguji atanapi ngabenerkeun. Pariksa diri anjeun naha gancang teuing atanapi ngariung teuing."
+  - "Parobahan kalakuan anu ngadadak atanapi gancang robah, utamana upami aya inféksi atanapi obat anyar, kedah geuwat ka dokter."
 faq:
-  - q: "Naha teu nanaon ngantep anjeunna ngaliwatan kagiatan sakabéhna?"
-    a: "Enya, dina poé naon waé. Diuk babarengan, ngadéngékeun musik atanapi ningali dunya ngaliwat bisa geus cekap. Upami jalma eureun resep kana sagalana salila sababaraha minggu, béjaan dokterna, sabab wanda anu handap, nyeri atanapi masalah kaséhatan séjén bisa jadi bagian tina gambaranana."
-  - q: "Naha anjeunna nolak hal anu baheulana dipikaresepna?"
-    a: "Hobi heubeul bisa jadi matak kesel nalika ayeuna peryogi kaahlian anu geus dijantenkeun langkung hésé ku demensia, sarta jalmana meureun ngarasa éra. Cobian bagian anu langkung basajan tina kagiatan anu sarua, saperti ngagolongkeun kancing tibatan ngaput, atanapi ningali gambar kebon tibatan nanem."
-  - q: "Naha abdi kedah nyobian ngayakinkeun anjeunna?"
-    a: "Henteu. Maksa jalma ngalakukeun hal anu geus dijantenkeun hésé ku demensia téh pamicu kagelisahan anu dipikanyaho. Tampi panolakanana, ganti topik, sarta tawiskeun deui engké atanapi ku cara anu béda."
-  - q: "Iraha parobahan paripolah téh darurat?"
-    a: "Telepon nomer darurat di wewengkon anjeun upami aya anu aya dina bahaya atanapi gaduh tanda kaayaan darurat médis. Pikeun bingung ngadadak atanapi paripolah anu robah gancang dina sababaraha jam atanapi poé, khususna sareng muriang, inféksi atanapi obat anyar, ngahubungan dokterna langsung."
+  - q: "Naha henteu kunanaon upami aranjeunna henteu miluan kagiatan nanaon?"
+    a: "Muhun, dina dinten-dinten tangtu henteu kunanaon. Diuk babarengan, ngadangukeun musik atanapi ningali ka luar ogé tiasa cekap. Upami salami sababaraha minggu batur eureun resep kana sagala rupa, wartoskeun ka dokterna, sabab wanda sedih, nyeri atanapi masalah kaséhatan séjén tiasa janten bagian tina kaayaan éta."
+  - q: "Naha aranjeunna nolak hal-hal anu baheula dipikaresep?"
+    a: "Hobi anu baheula tiasa janten nyeri haté nalika ayeuna butuh kamampuh anu parantos langkung sesah kusabab déménsia, sareng jalmina tiasa ngarasa éra. Cobian bagian anu leuwih saderhana tina kagiatan anu sami, contona milah kancing tinimbang ngajahit, atanapi ningali gambar kebon tinimbang melak."
+  - q: "Naha kuring kedah nyobian ngayakinkeun aranjeunna?"
+    a: "Henteu. Maksa batur ngalakukeun hal anu parantos sesah kusabab déménsia mangrupikeun salah sahiji pamicu kagelisahan anu dipikanyaho. Tarima waé panolakanna, gentos topik obrolan, teras tawarkeun deui engké atanapi ku cara anu béda."
+  - q: "Iraha parobahan kalakuan janten kaayaan darurat?"
+    a: "Telepon 911 upami aya anu dina bahaya atanapi nunjukkeun tanda-tanda darurat médis. Pikeun kabingungan anu ngadadak atanapi kalakuan anu gancang robah dina sababaraha jam atanapi dinten, utamana upami dibarengan muriang, inféksi atanapi obat anyar, geuwat hubungi dokterna."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -51,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Anjeun geus nyiapkeun sagalana, nawiskeun kaulinan atanapi leumpang, sarta ngadéngé "Henteu." Atanapi kagiatanana dimimitian kalayan hadé sarta ditungtungan ku tablét anu ditolak sarta kecap anu seukeut. Éta matak ngurangan sumanget, sarta éta umum pisan. Panolakan sareng kesel biasana mangrupa pesen, lain keukeuh. Néangan naon pesenna mindeng nunjukkeun naon anu kedah dicobian salajengna.
+Anjeun parantos nyiapkeun sadayana, nawarkeun kaulinan atanapi jalan-jalan, teras kadéngé „Henteu“. Atanapi kagiatanana ngamimitian kalayan saé tapi ditungtungan ku tablet anu didorong ngajauhan sareng kecap anu rada keras. Éta tiasa matak sedih, sareng ieu sering pisan kajadian. Panolakan sareng rasa frustasi biasana mangrupikeun pesen, sanés kateguhan haté. Ngartos naon éta pesenna sering tiasa nunjukkeun naon anu kedah dicobian salajengna.
 
-## Naha jalma kalayan demensia nolak kagiatan?
+## Naha jalma anu hirup jeung déménsia nolak kagiatan?
 
-Biasana aya alesan, sanaos jalmana teu bisa nyarioskeunana dina kecap. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) nyatet yén lalawanan meureun hartosna jalmana teu bisa ngalakukeun pagawéanana atanapi sieun nyobian. Panyabab anu umum kaasup:
+Biasana aya alesanana, sanajan jalmina teu tiasa ngécéskeunana ku kecap. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) nyebatkeun yén panolakan tiasa hartosna jalmina henteu tiasa ngalakukeun pancén éta atanapi sieun nyobian. Sabab anu umum di antarana:
 
-- **Karasa teuing hésé.** Kagiatanana ayeuna peryogi kaahlian anu geus dijantenkeun hésé ku demensia, sarta gagal di hareupeun batur téh ngerakeun.
-- **Karasa siga budak.** Déwasa perhatikeun gambar kartun, sora anu dilagukeun sareng kagiatan anu katingali siga dijieun pikeun barudak.
-- **Capé.** Seueur jalma gaduh tanaga anu langkung saeutik dina waktos anu langkung engké dina sapoé. Tingali [kagiatan soré anu tenang](/caregiving/late-day-restlessness/).
-- **Teu genah fisik.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nyebatkeun nyeri, kurang saré, kasusah ningali atanapi ngadéngé, sembelit, lapar, haus sareng éfék samping obat anyar salaku panyabab kasusah anu mungkin.
-- **Teuing seueur anu kajadian.** TV anu tarik, sababaraha obrolan atanapi rohangan anu rame bisa matak kawalahan.
-- **Ngarasa didorong.** NIA nyebatkeun didorong pikeun ngalakukeun hal anu geus dijantenkeun hésé pisan ku Alzheimer, atanapi pikeun ngingetkeun kajadian atanapi jalma, salaku panyabab kagelisahan.
-- **Wanda handap.** Leungit minat kana hal-hal bisa jadi tanda depresi, anu pantes diangkat ka dokter.
-- **Anjeunna ukur teu hoyong.** Déwasa kenging nyarios henteu.
+- **Karasa sesah teuing.** Kagiatan éta ayeuna butuh kamampuh anu parantos langkung sesah kusabab déménsia, sareng gagal di payuneun batur tiasa matak éra.
+- **Karasa siga keur budak.** Jalma déwasa terang gambar anu siga kartun, sora anu siga keur ngodorong budak, sareng kagiatan anu katingalina didamel pikeun barudak.
+- **Capé.** Seueur jalma gaduh tanaga anu langkung saeutik engké soré. Tingali [kagiatan anu tenang dina soré](/caregiving/late-day-restlessness/).
+- **Teu ngarareunah dina awak.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nyebatkeun nyeri, kirang saré, gangguan ningali atanapi ngadangu, kabebeng, lapar, haus, sareng efek samping obat anyar salaku kamungkinan panyabab kasedih atanapi karésahan.
+- **Loba teuing anu kajadian.** TV anu gandeng, sababaraha obrolan sakaligus, atanapi rohangan anu rame tiasa matak kakeueum.
+- **Ngarasa dipaksa.** NIA nyebatkeun yén dipaksa ngalakukeun hal anu parantos sesah pisan kusabab Alzheimer, atanapi dipaksa nginget kajadian atanapi jalma, tiasa nyababkeun kagelisahan.
+- **Wanda sedih.** Leungiteun minat kana sagala rupa tiasa janten tanda depresi, anu saéna disebatkeun ka dokter.
+- **Éta mah mémang teu hoyong.** Jalma déwasa ngagaduhan hak pikeun nyebut henteu.
 
-## Naon anu kedah dicobian nalika anjeunna nyarios henteu?
+## Naon anu kedah dicobian nalika aranjeunna nyebut henteu?
 
-Tampi panolakan kalayan tenang, tuluy robah hiji hal: waktosna, kagiatanana, tingkat kasusahanana atanapi cara anjeun naros.
+Tarima waé kalayan tenang, teras robih hiji hal: waktosna, kagiatanana, tingkat kasusahanna atanapi cara anjeun naroskeunana.
 
-1. **Antep heula.** "Teu nanaon. Meureun engké." Tuluy pindah ka hal séjén tanpa narik napas kesel.
-2. **Cobian deui engké.** Alzheimer's Association nyarankeun nyobian deui engké, atanapi dina waktos anu béda dina sapoé.
-3. **Jieun langkung leutik.** Hiji pasangan tibatan sakabéh kaulinan. Hiji anduk tibatan sakabéh karanjang cucian. Langkung saeutik gambar, langkung saeutik pilihan, gambar tetep kaciri.
-4. **Tawiskeun dua pilihan.** "Badé ningali gambar manuk atanapi ngadéngékeun musik?" Pilihan méré deui rasa kendali.
-5. **Menta tulung tibatan nyuruh tampil.** "Tiasa ngabantosan abdi ngagolongkeun ieu?" atanapi "Tiasa nyarioskeun warna mana anu katingali pangsaéna?" Dipikabutuh karasa béda pisan ti diuji.
-6. **Mimitian ku anjeun sorangan.** Mimitian kagiatanana gigireun anjeunna tanpa naros. Seueur jalma milu nalika hiji hal geus lumangsung, sarta upami henteu, anjeun tetep geus nyéépkeun waktos babarengan.
-7. **Ganti ka hal fisik atanapi nenangkeun.** Leumpang sakeudeung, musik, cemilan, ngalipet cucian, atanapi réhat [napas tenang](/games/calm-breathing/) babarengan. NIA nyarankeun ngalihkeun perhatian ka musik, buku atanapi leumpang.
-8. **Antep anjeunna ngalakukeun ku cara anjeunna.** Upami anjeunna hoyong maén béda ti aturanna, turutan. Alzheimer's Association nyarankeun luwes.
+1. **Anteupkeun heula ayeuna.** „Henteu kunanaon. Meureun engké waé.“ Teras teraskeun kana hal séjén tanpa ngarenghap panjang.
+2. **Cobian deui engké.** Alzheimer's Association nyarankeun pikeun nyobian deui engké, atanapi dina waktos anu béda dina sadinten.
+3. **Jantenkeun langkung leutik.** Hiji pasangan waé tinimbang sakabeh kaulinan. Hiji anduk waé tinimbang sakaranjang cucian. Gambar anu leuwih saeutik, pilihan anu leuwih saeutik, gambar tetep katingali.
+4. **Tawarkeun dua pilihan.** „Hoyong ningali gambar manuk atanapi ngadangukeun musik?“ Pilihan tiasa masihan rasa kendali deui.
+5. **Nyuhunkeun bantosan tinimbang némbongkeun kamampuh.** „Tiasa ngabantosan abdi milah ieu?“ atanapi „Tiasa nyarioskeun warna mana anu katingalina langkung saé?“ Ngarasa diperyogikeun karasana béda pisan sareng ngarasa diuji.
+6. **Mimitian ku anjeun nyalira.** Mimitian kagiatan di gigireunana tanpa naros. Seueur jalma miluan nalika kagiatan geus lumangsung, sareng upami henteu, anjeun tetep parantos nyéépkeun waktos babarengan.
+7. **Ganti ka hal anu langkung fisik atanapi menenangkan.** Jalan-jalan sakedap, musik, tuang saeutik, ngalipet cucian, atanapi jeda [napas anu tenang](/games/calm-breathing/) babarengan. NIA nyarankeun pikeun ngalihkeun perhatian ka musik, buku atanapi jalan-jalan.
+8. **Anteupkeun aranjeunna ngalakukeun ku cara sorangan.** Upami aranjeunna hoyong ngalakukeun ku cara anu béda ti aturan, turutan waé. Alzheimer's Association nyarankeun pikeun tetep fleksibel.
 
-## Naon anu kedah dicarioskeun nalika anjeunna kesel?
+## Naon anu kedah dicarioskeun nalika aranjeunna frustasi?
 
-Lalaunan, rendahkeun sora anjeun sarta yakinkeun. [Pituduh Alzheimer's Association ngeunaan kagelisahan](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) nyarankeun mundur sarta menta idin, maké pernyataan anu tenang sarta positif, sarta nawiskeun pilihan anu dituntun antara dua pilihan. Kalimah dina sumanget éta:
+Lambatkeun, handapkeun sora anjeun sareng tenangkeun. [Pituduh Alzheimer's Association ngeunaan kagelisahan](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) nyarankeun pikeun mundur heula sareng naros idin, nganggo ucapan anu tenang sareng positip, sarta nawarkeun pilihan anu dipandu antara dua hal. Conto kalimah dina sumanget éta:
 
-- "Hapunten, ieu ngaganggu. Hayu urang eureun."
-- "Bapak/Ibu tos saé. Abdi aya di dieu."
-- "Tiasa ngabantosan abdi pikeun hal séjén?"
-- "Badé nginum téh wae?"
+- „Hapunten, ieu matak ngaganggu. Urang eureunkeun waé.“
+- „Anjeun teu kunanaon. Abdi aya di dieu.“
+- „Anjeun gaduh waktos teu kanggo ngabantosan abdi dina hal anu sanés?“
+- „Kumaha upami urang ngopi atanapi nginum téh waé?“
 
-Tuluy tungtungan kagiatanana tanpa ngajantenkeun éta masalah ageung. [Tip komunikasi](/caregiving/communication-tips/) kami gaduh langkung seueur ngeunaan naon anu kedah dicarioskeun.
+Teras eureunkeun kagiatanana tanpa ngajantenkeunana janten masalah ageung. [Tips komunikasi](/caregiving/communication-tips/) kami ngagaduhan langkung seueur ngeunaan naon anu tiasa dicarioskeun.
 
-## Naon anu kedah dihindari?
+## Naon anu kedah dijauhkeun?
 
-Sababaraha réaksi alami condong ngajantenkeun langkung parah.
+Sababaraha réaksi anu alami condong ngajantenkeun kaayaan langkung parah.
 
-- **Pasea atanapi maksa.** "Ayo, sakali deui" atanapi "Bapak/Ibu resep ieu" jarang ngabantosan.
-- **Nguji atanapi ngoréksi.** "Bapak/Ibu terang ieu naon" atanapi "Henteu, éta salah" nambihan tekenan.
-- **Nyandak pribadi.** NIA ngingetkeun anu ngarawat yén panyakitna, lain jalmana, anu nyababkeun parobahan ieu.
-- **Ngurilingan atanapi buru-buru.** Alzheimer's Association nyarankeun ulah ngagedékeun sora, némbongkeun kasieun, ngurung, ngurilingan, nahan, ngritik, teu malire atanapi pasea sareng anjeunna, sarta ulah ngalakukeun gerakan ngadadak di luar pandanganana.
-- **Maké rasa salah.** "Abdi geus nyiapkeun sagala ieu kanggo Bapak/Ibu" ngajantenkeun duanana langkung goréng.
-- **Méré labél.** "Keukeuh" atanapi "hésé diurus" nyumputkeun alesan anu saleresna sarta ngajantenkeun langkung hésé ngabéréskeunana.
+- **Ngabantah atanapi maksa.** „Cobi sakali deui waé“ atanapi „Anjeun kan resep ieu“ jarang ngabantosan.
+- **Nguji atanapi ngabenerkeun.** „Anjeun terang ieu naon“ atanapi „Henteu, éta lepat“ nambihan tekenan.
+- **Nganggap éta hal pribadi.** NIA ngingetkeun yén panyakitna, sanés jalmina, anu nyababkeun parobahan ieu.
+- **Ngariung teuing atanapi ngagancangkeun.** Alzheimer's Association nyarankeun ulah ngagedéan sora, nunjukkeun kahariwang, ny sudutkeun, ngariung teuing, nahan, ngritik, teu malire atanapi ngabantah jalmina, sareng ngajauhan gerakan ngadadak di luar paningalina.
+- **Ngagunakeun rasa salah.** „Abdi parantos nyiapkeun sadaya ieu kanggo anjeun“ bakal ngajantenkeun duanana ngarasa langkung goréng.
+- **Méré labél.** Nyebut „keras kapala“ atanapi „hese“ nyumputkeun alesan anu sabenerna sareng ngajantenkeun langkung hese pikeun direngsekeun.
 
-## Kumaha urang bisa nyaho naon anu aya di tukangeun panolakan anu diulang?
+## Kumaha cara terang naon anu aya di balik panolakan anu terus-terusan?
 
-Jieun catetan basajan salila saminggu atanapi dua minggu. NIA nyebatkeun nyatet parobahan paripolah bisa ngabantosan anu ngarawat sareng panyadia perawatan kaséhatan ngakuan pola sarta manggihan panyababna.
+Catet sacara saderhana salami saminggu atanapi dua minggu. NIA nyebatkeun yén nyatet parobahan kalakuan tiasa ngabantosan anu ngasuh sareng panyadia kaséhatan pikeun mikawanoh pola sareng milarian panyababna.
 
 Catet:
 
-- waktos dina sapoé;
-- naon anu anjeun tawiskeun sarta kumaha anjeun naros;
-- naon anu kajadian di sabudeureun anjeun (sora, tamu, TV);
-- kumaha anjeunna saré, dahar sareng nginum, sarta iraha pamungkas ka kamar mandi;
-- obat anyar atanapi gering anu anyar.
+- waktos dina sadinten;
+- naon anu anjeun tawarkeun sareng kumaha cara anjeun naroskeunana;
+- naon anu kajadian di sabudeureun (ribut, tamu, TV);
+- kumaha saréna, tuang sareng nginumna, sareng iraha terakhir ka kamar mandi;
+- obat anyar atanapi panyakit anu nembe kaalaman.
 
-Pola mindeng muncul gancang: panolakan anu ukur kajadian sanggeus jam 4 soré, ukur sareng kaulinan anu tangtu, atanapi ukur nalika TV hurung. [Pituduh paripolah demensia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ti Family Caregiver Alliance nyebatkeunana kalayan basajan: urang teu bisa ngarobah jalmana, tapi urang bisa ngarobah paripolah urang sorangan sareng lingkunganana.
+Pola sering gancang katingali: panolakan anu ngan ukur kajadian saatos 4 p.m., ngan ukur ku kagiatan anu tangtu, atanapi ngan ukur nalika TV hurung. [Pituduh ngeunaan kalakuan déménsia ti Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nyarioskeunana kalayan sederhana: urang henteu tiasa ngarobih jalmina, tapi urang tiasa ngarobih kalakuan urang sorangan sareng lingkunganana.
 
-## Iraha kedah ngobrol sareng dokter ngeunaan panolakan atanapi kesel?
+## Iraha kuring kedah ngobrol ka dokter ngeunaan panolakan atanapi frustasi?
 
-Obrolkeun ka dokter nalika paripolah robah ngadadak, gancang, atanapi babarengan sareng tanda gering. NIA nyebatkeun parobahan paripolah anu ngadadak atanapi gancang naék-turun, khususna upami jalmana nembé ngalaman inféksi atanapi parobahan obat, kedah dibawa ka perhatian dokter langsung.
+Obrolkeun ka dokter nalika kalakuan robah sacara ngadadak, gancang, atanapi dibarengan tanda-tanda panyakit. NIA nyebatkeun yén parobahan kalakuan anu ngadadak atanapi gancang robah-robah, utamana upami jalmina nembe ngagaduhan inféksi atanapi parobahan obat, kedah langsung disampaikeun ka dokter.
 
-Hubungan dokterna gancang upami anjeun ningali:
+Geuwat hubungi dokterna upami anjeun perhatikeun:
 
-- bingung ngadadak atanapi parobahan ageung dina sababaraha jam atanapi poé;
-- tanda nyeri, saperti raray nyeri, ngajaga hiji bagian awak, atanapi kasusah anyar ngagerakkeun awak;
-- muriang atanapi tanda inféksi séjén;
-- obat anyar atanapi robah anu dituturkeun ku parobahan paripolah;
-- leungit minat kana ampir sagalana, ceurik atanapi ngajauhan anu langkung ti sababaraha minggu;
-- nolak dahar atanapi inuman.
+- kabingungan anu ngadadak atanapi parobahan ageung dina sababaraha jam atanapi dinten;
+- tanda-tanda nyeri, sapertos nyerengeh nahan nyeri, ngajaga bagian awak anu tangtu, atanapi ragrag anyar dina gerak;
+- muriang atanapi tanda-tanda inféksi anu sanés;
+- obat anyar atanapi obat anu robah, dituturkeun ku parobahan kalakuan;
+- leungiteun minat kana ampir sadayana, sering ceurik atanapi narik diri salami leuwih ti sababaraha minggu;
+- nolak tuang atanapi nginum.
 
-Alzheimer's Association nyarankeun pamariksaan médis anu lengkep pikeun saha waé anu gaduh gejala paripolah, khususna nalika muncul ngadadak. Family Caregiver Alliance ogé nyarankeun mariksa heula ka dokter, sabab masalah paripolah meureun gaduh panyabab médis. Ulah ngamimitian, ngeureunkeun atanapi ngarobah obat naon waé tanpa ngobrol sareng dokter atanapi apoteker.
+Alzheimer's Association nyarankeun pamariksaan médis anu lengkep pikeun saha waé anu ngagaduhan gejala kalakuan, utamana upami munculna ngadadak. Family Caregiver Alliance ogé nyarankeun pikeun pariksa ka dokter heula, sabab masalah kalakuan tiasa gaduh panyabab médis. Entong ngamimitian, ngeureunkeun atanapi ngarobih obat naon waé tanpa ngobrol ka dokter atanapi apotéker.
 
-Upami aya anu aya dina bahaya atanapi aya tanda kaayaan darurat médis, telepon nomer darurat di wewengkon anjeun. NIA nyarankeun nyarioskeun ka patugas anu ngawaler telepon darurat yén jalmana gaduh demensia.
+Upami aya anu dina bahaya atanapi aya tanda-tanda darurat médis, telepon 911. NIA nyarankeun pikeun nyarioskeun ka petugas yén jalmina hirup jeung déménsia. Pikeun léngkah-léngkah kaamanan langsung nalika amarah janten fisik, tingali [pituduh kami ngeunaan amarah sareng agresi dina déménsia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Naha teu nanaon upami urang teu ngalakukeun nanaon?
+## Naha henteu kunanaon upami urang henteu ngalakukeun nanaon?
 
-Enya. Sababaraha poé, kagiatan anu pangsaéna nyaéta teu aya kagiatan: diuk babarengan, nyekel leungeun, ngadéngékeun lagu karesep, atanapi ningali manuk ti jandéla. Éta lain kagagalan. [Pituduh maén babarengan](/caregiving/how-to-play-together/) kami nerangkeun naha ngeureunkeun langkung awal, atanapi teu pernah ngamimitian, bisa jadi kaputusan anu bener.
+Muhun. Dina sababaraha dinten, kagiatan anu pangsaéna nyaéta henteu aya kagiatan: diuk babarengan, silih cekel leungeun, ngadangukeun lagu karesep, atanapi ningali manuk di luar jandela. Éta sanés kagagalan. [Pituduh kami ngeunaan maén babarengan](/caregiving/how-to-play-together/) ngajelaskeun naha eureun langkung awal, atanapi henteu ngamimitian pisan, tiasa janten pilihan anu leres.

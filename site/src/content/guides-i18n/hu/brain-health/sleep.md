@@ -1,33 +1,33 @@
 ---
-title: "Alvás és agyi egészség: mit sugall a kutatás, és mi segít"
-seoTitle: "Alvás és demencia: mit sugall a kutatás"
-description: "Mit sugall a kutatás az alvás és a demencia kockázata között, miért korai még az agy-megtisztításról szóló kutatás, és milyen alvási szokások valók idősebbeknek."
+title: "Alvás és agyegészség: mit mutat a kutatás?"
+seoTitle: "Alvás és demencia: mit mutat a kutatás?"
+description: "Mit mutatnak a kutatások az alvás és a demencia kockázata között, miért korai még az agytisztításról szóló kutatás, és milyen alvási szokások segíthetnek."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Egyes hosszú távú vizsgálatok a középkori rövid alvást magasabb demencia-kockázattal
-  kapcsolják össze, a laboratóriumi kutatások pedig arra utalnak, hogy az alvás segíthet
-  az agynak megtisztulni a salakanyagoktól. Ez a bizonyíték még korai, a 2024-es
-  Lancet-bizottság pedig nem sorolta az alvást a módosítható kockázati tényezők közé. A
-  rendszeres alvási szokások segítenek a napi közérzetben. Demenciával élő személyeknél
-  az alvási problémák gyakoriak, és érdemes megbeszélni őket orvossal.
+  Egyes hosszú távú vizsgálatok összefüggést találtak a középkorban tapasztalt rövid alvás és a
+  demencia magasabb kockázata között, és laboratóriumi kutatások szerint az alvás segíthet az
+  agynak a salakanyagok eltávolításában. Ezek az eredmények még koraiak, és a 2024-es Lancet
+  Bizottság nem sorolta az alvást a módosítható kockázati tényezők közé. A rendszeres alvási
+  szokások segíthetnek abban, hogy jobban érezze magát a mindennapokban. A demenciával élő
+  embereknél gyakoriak az alvási nehézségek, ezért érdemes orvossal beszélni róluk.
 keyPoints:
-  - "Egy brit, mintegy 8000 embert 25 éven át követő vizsgálat a középkorban napi hat vagy annál kevesebb órai alvást magasabb demencia-kockázattal kapcsolt össze."
-  - "Az alvásváltozások a demencia korai jelei is lehetnek, ezért nehéz megmondani, mi az ok és mi a következmény."
-  - "Az alvás béta-amiloid eltávolítására gyakorolt hatásáról szóló kutatás valós, de korai, és nagy része egereken készült."
-  - "Az alvási apnoé gyakori, kezelhető, és tanulmányokban demenciával hozták összefüggésbe; a hangos horkolást és a nappali álmosságot érdemes ellenőrizni."
-  - "Orvos nélkül soha ne kezdjen, hagyjon abba vagy változtasson alvásgyógyszert vagy alvássegítőt."
+  - "Egy brit vizsgálat, amely mintegy 8 000 embert követett 25 éven át, összefüggést talált a középkori hat órás vagy rövidebb alvás és a demencia magasabb kockázata között."
+  - "Az alvás megváltozása a demencia korai jele is lehet, ezért nehéz megállapítani az ok-okozati kapcsolatot."
+  - "Az alvás szerepéről a béta-amiloid agyból való eltávolításában szóló kutatások valósak, de koraiak, és nagy részük egereken történt."
+  - "Az alvási apnoé gyakori, kezelhető, és a vizsgálatok összefüggésbe hozzák a demenciával; a hangos horkolást és a nappali álmosságot érdemes kivizsgáltatni."
+  - "Soha ne kezdjen el, ne hagyjon abba és ne változtasson meg alvásgyógyszert vagy altatót orvos nélkül."
 faq:
-  - q: "Okozza az alvászavar az Alzheimer-kórt?"
-    a: "Ezt nem mutatták ki. Egyes tanulmányok a rövid alvást magasabb demencia-kockázattal kapcsolják össze, de maga a demencia is megzavarja az alvást, gyakran évekkel a diagnózis előtt. A 2024-es Lancet-bizottság szerint a bizonyíték túl ellentmondásos ahhoz, hogy az alvást módosítható kockázati tényezőként vegye fel."
-  - q: "Mennyi alvásra van szükségük az idősebb felnőtteknek?"
-    a: "A National Institute on Aging szerint az idősebb felnőtteknek nagyjából ugyanannyi alvásra van szükségük, mint másoknak, éjszakánként 7–9 órára. Sok idősebb ember korábban fekszik le és korábban ébred, mint régen, ez pedig gyakori."
-  - q: "Miért alszik nappal, és ébred éjjel a demenciával élő személy?"
-    a: "A demencia befolyásolhatja a belső óráját, ezért az alvás és az ébrenlét ideje összekeveredhet. Fájdalom, unalom, éhség vagy gyógyszermellékhatás is szerepet játszhat. A napfény, a napi tevékenység és a nyugodt esti rutin segíthet. Az orvos olyan okokat kereshet, amelyek kezelhetők."
-  - q: "Adjak alvássegítőt annak a személynek, akit gondozok?"
-    a: "Először beszéljen a személy orvosával, az vény nélkül kapható termékekről is. A National Institute on Aging szerint egyes alvásgyógyszerek szédülést, eséseket és zavartságot okozhatnak Alzheimer-kórral élő személyeknél."
+  - q: "A rossz alvás Alzheimer-kórt okoz?"
+    a: "Ezt nem bizonyították. Egyes vizsgálatok összefüggést találnak a rövid alvás és a demencia magasabb kockázata között, de maga a demencia is megzavarja az alvást, gyakran már évekkel a diagnózis előtt. A 2024-es Lancet Bizottság úgy ítélte meg, hogy a bizonyítékok nem elég következetesek ahhoz, hogy az alvást a módosítható kockázati tényezők közé sorolják."
+  - q: "Mennyi alvásra van szüksége az idősebb felnőtteknek?"
+    a: "A National Institute on Aging szerint az idősebb felnőtteknek körülbelül ugyanannyi alvásra van szükségük, mint más felnőtteknek: éjszakánként 7–9 órára. Sok idős ember korábban fekszik le és kel fel, mint korábban, ami gyakori."
+  - q: "Miért alszik nappal és ébred fel éjszaka valaki, aki demenciával él?"
+    a: "A demencia hatással lehet a szervezet belső órájára, így az alvás és az ébrenlét ideje felborulhat. A fájdalom, az unalom, az éhség vagy a gyógyszerek mellékhatásai is közrejátszhatnak. A nappali fény, a mindennapi tevékenység és a nyugodt esti rutin segíthet. Az orvos megvizsgálhatja, vannak-e kezelhető okok."
+  - q: "Adjak altatót annak, akiről gondoskodom?"
+    a: "Először beszéljen a kezelőorvosával, a vény nélkül kapható készítményekről is. A National Institute on Aging megjegyzi, hogy egyes alvásgyógyszerek növelhetik a szédülés, az elesés és a zavartság kockázatát az Alzheimer-kórral élő embereknél."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -58,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Az alvás és az agyi egészség egyértelműen összefügg, de az összefüggés módja még most derül ki. Egyes tanulmányok a rövid alvást magasabb demencia-kockázattal hozzák összefüggésbe. A demencia viszont gyakran megzavarja az alvást. Ez az oldal bemutatja, mit mutat és mit nem mutat a kutatás, gyakorlati alvási szokásokat ad, és a demenciában gyakori alvási problémákról szól. Alvásgyógyszerekről nem ad tanácsot; ezt a beszélgetést orvossal kell folytatni.
+Az alvás és az agyegészség egyértelműen összefügg, de azt, hogyan kapcsolódnak egymáshoz, még vizsgálják. Egyes kutatások összefüggést találnak a rövid alvás és a demencia magasabb kockázata között. A demencia pedig gyakran megzavarja az alvást. Ez az oldal bemutatja, mit mutatnak és mit nem mutatnak a kutatások, gyakorlati tanácsokat ad az alvási szokásokhoz, és kitér a demenciával élő embereknél gyakori alvási nehézségekre. Az alvásgyógyszerekről nem ad tanácsot; erről orvossal érdemes beszélni.
 
-## Összefügg-e a rossz alvás a demenciával?
+## Összefügg a rossz alvás a demenciával?
 
-Egyes hosszú távú tanulmányok a rövid alvást magasabb demencia-kockázattal kapcsolják össze, de a bizonyíték nem tisztázott.
+Egyes hosszú távú vizsgálatok összefüggést találnak a rövid alvás és a demencia magasabb kockázata között, de a bizonyítékok nem egyértelműek.
 
-- **Egy 25 éves brit vizsgálat.** A kutatók mintegy 8000 felnőttet követtek nyomon a [Whitehall II vizsgálatban](https://www.nature.com/articles/s41467-021-22354-2). Akik 50 vagy 60 éves korukban hat órát vagy annál kevesebbet aludtak, később magasabb demencia-kockázattal jártak, mint akik hét órát aludtak. Akik 50, 60 és 70 évesen is hat órát vagy annál kevesebbet aludtak, mintegy 30%-kal magasabb kockázattal jártak, mint akik rendszeresen hét órát aludtak. Ez megfigyelő vizsgálat volt, ezért összefüggést mutat, nem okot.
-- **A Lancet-bizottság véleménye.** A [2024-es Lancet-bizottság](https://doi.org/10.1016/S0140-6736(24)01296-0) nem vette fel az alvást a 14 módosítható kockázati tényező közé. A bizonyítékot nem elég következetesnek ítélte. Az egyik ok a „fordított ok-okozat”: a demencia agyi változásai évekkel a diagnózis előtt kezdődnek, és zavarhatják az alvást. Egy nagy vizsgálatban a hosszú alvás és a demencia közötti összefüggés eltűnt, miután az első öt év követési adatait félretették.
+- **Egy 25 éves brit vizsgálat.** A kutatók mintegy 8 000 felnőttet követtek a [Whitehall II vizsgálatban](https://www.nature.com/articles/s41467-021-22354-2). Azoknál, akik 50 vagy 60 éves korukban hat órát vagy kevesebbet aludtak, később magasabb volt a demencia kockázata, mint azoknál, akik hét órát aludtak. Azoknál, akik 50, 60 és 70 éves korukban is hat órát vagy kevesebbet aludtak, körülbelül 30%-kal magasabb volt a kockázat, mint azoknál, akik rendszeresen hét órát aludtak. Ez megfigyeléses vizsgálat volt, így összefüggést mutat, nem ok-okozati kapcsolatot.
+- **A Lancet Bizottság véleménye.** A [2024-es Lancet Bizottság](https://doi.org/10.1016/S0140-6736(24)01296-0) nem vette fel az alvást a 14 módosítható kockázati tényező közé. Úgy ítélte meg, hogy a bizonyítékok nem elég következetesek. Ennek egyik oka a „fordított ok-okozatiság”: a demenciával járó agyi változások már évekkel a diagnózis előtt elkezdődnek, és megzavarhatják az alvást. Egy nagy vizsgálatban a hosszú alvás és a demencia közötti összefüggés eltűnt, amikor a követés első öt évét nem vették figyelembe.
 
-Ezért egy rövid éjszaka időnként nem ok az aggodalomra. A rendszeres, jó minőségű alvásra érdemes törekedni, mert ma is segíti a hangulatot, az éberséget és a biztonságot.
+Így egy-egy rövidebb éjszaka miatt nem kell aggódni. A rendszeres, jó minőségű alvásra azonban érdemes törekedni, mert segíti a hangulatot, az éberséget és a biztonságot a mindennapokban.
 
-## Mi az a „agy-megtisztító” alvás kutatás?
+## Mi az „agytisztító” alváskutatás?
 
-Lehet, hogy olvasta már, hogy az alvás „megtisztítja” az agyat. Ez az elképzelés valós kutatásból származik, de még korai.
+Talán olvasott már arról, hogy az alvás „kitisztítja” az agyat. Ez az elképzelés valós kutatásokon alapul, de még korai szakaszban van.
 
-- **Egereken.** Egy [2013-as, az NIH által ismertetett tanulmány](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) szerint az agysejtek közötti tér mintegy 60%-kal nőtt, amikor az egerek aludtak. A folyadék könnyebben áramlott az agyban, az úgynevezett glimfatikus rendszeren keresztül. A béta-amiloid, egy az Alzheimer-kórral összefüggésbe hozott fehérje, gyorsabban távozott az alvó egerek agyából.
-- **Embereknél.** Egy kis, [2018-as tanulmány](https://www.pnas.org/doi/10.1073/pnas.1721694115) 22 és 72 év közötti, 20 egészséges felnőttet vizsgált, egy normális éjszaka után és egy alvás nélküli éjszaka után. Az alvás nélküli éjszaka után az agyi képalkotáson a béta-amiloidra utaló jel mintegy 5%-kal nőtt a hippocampust is magában foglaló területen, amely a memória szempontjából fontos. A szerzők ezt előzetes bizonyítéknak nevezték. Nem tudták, hogy a változás pihenés után eltűnik-e, vagy lassabb eltávolítást, esetleg több amiloid képződését tükrözi.
-- **Kétirányú.** A Lancet-bizottság szerint az amiloid-felhalmozódás idősebb felnőtteknél maga is megzavarhatja az alvást.
+- **Egerekben.** Egy 2013-as vizsgálat, amelyet az [NIH ismertetett](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), azt találta, hogy az agysejtek közötti tér körülbelül 60%-kal megnőtt, amikor az egerek aludtak. A folyadék könnyebben áramlott át az agyon az úgynevezett glifatikus rendszeren keresztül. A béta-amiloid, az Alzheimer-kórral összefüggésbe hozott fehérje, gyorsabban távozott az alvó egerek agyából.
+- **Emberekben.** Egy kisebb [2018-as vizsgálat](https://www.pnas.org/doi/10.1073/pnas.1721694115) 20 egészséges, 22 és 72 év közötti felnőttet vizsgált egy normál éjszaka után, majd egy alvás nélküli éjszaka után. Az álmatlan éjszaka után az agyi képalkotás során a béta-amiloidra utaló jel körülbelül 5%-kal emelkedett egy olyan területen, amely a hippokampuszt is magában foglalja, vagyis a memóriában fontos szerepet játszó agyi területet. A szerzők ezt előzetes bizonyítéknak nevezték. Nem tudták, hogy a változás elmúlik-e pihenés után, és azt sem, hogy lassabb eltávolítást vagy több amiloid termelődését tükrözi-e.
+- **Kétirányú kapcsolat.** A Lancet Bizottság megjegyzi, hogy az amiloid felhalmozódása maga is megzavarhatja az alvást idősebb felnőtteknél.
 
-Ezek a megállapítások segítenek megérteni, miért érdekli a kutatókat az alvás. Nem bizonyítják, hogy a jobb alvás megelőzi az Alzheimer-kórt.
+Ezek az eredmények segítenek megérteni, miért érdeklődnek a kutatók az alvás iránt. Nem bizonyítják, hogy a jobb alvás megelőzi az Alzheimer-kórt.
 
 ## Milyen alvási szokások segíthetnek?
 
-A [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) szerint az idősebb felnőtteknek nagyjából 7–9 óra alvásra van szükségük éjszakánként, ugyanúgy, mint másoknak. Javaslatai:
+Az idősebb felnőtteknek éjszakánként körülbelül 7–9 óra alvásra van szükségük, ugyanannyira, mint más felnőtteknek – állítja a [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Javaslatai közé tartozik:
 
-- **Tartson rendszeres időbeosztást.** Feküdjön le és keljen fel minden nap ugyanabban az időben, még hétvégén is.
-- **Alakítson ki elcsendesedési rutint.** Lefekvés előtt olvasson, hallgasson nyugtató zenét, vagy vegyen meleg fürdőt.
+- **Tartson rendszeres napirendet.** Minden nap ugyanabban az időben feküdjön le és keljen fel, hétvégén is.
+- **Alakítson ki esti lecsendesedési rutint.** Lefekvés előtt olvasson, hallgasson megnyugtató zenét, vagy vegyen egy meleg fürdőt.
 - **Tegye kényelmessé a hálószobát,** ne legyen se túl meleg, se túl hideg.
-- **Korlátozza a koffeint a nap végén.** A kávé, a tea, az üdítő és a csokoládé ébren tarthat.
-- **Kerülje az alkoholt,** még kis mennyiségben is, javasolja az NIA.
-- **Kerülje a nagy ételeket a lefekvés előtti 2–3 órában,** és a nagy italokat a nap végén.
-- **Mozogjon rendszeresen, de ne a lefekvés előtti 3 órában.** Lásd: [testmozgásról szóló útmutatónk](/brain-health/exercise/).
-- **Ne vigyen képernyőt a hálószobába.** Az NIA azt javasolja, hogy ott ne nézzen tévét, és ne használjon számítógépet, telefont vagy táblagépet.
-- **Ha lehet, kerülje a késő délutáni vagy esti szundítást.**
+- **Korlátozza a koffeint a nap későbbi részében.** A kávé, a tea, az üdítő és a csokoládé ébren tarthatja.
+- **Kerülje az alkoholt,** még kis mennyiségben is – tanácsolja az NIA.
+- **Kerülje a nagy étkezéseket lefekvés előtt két-három órán belül,** és a nagy mennyiségű folyadékot a nap végén.
+- **Mozogjon rendszeresen, de lefekvés előtt 3 órán belül ne.** Lásd a [mozgásról szóló útmutatónkat](/brain-health/exercise/).
+- **Tartsa távol a képernyőket a hálószobától.** Az NIA azt javasolja, hogy ott ne nézzen tévét, és ne használjon számítógépet, telefont vagy táblagépet.
+- **Ha lehet, kerülje a késő délutáni vagy esti szunyókálást.**
 
-## Alvási problémák demenciánál
+## Alvási nehézségek demencia esetén
 
-Az alvásváltozások gyakoriak demenciánál. Az [NIA felsorolja](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) a sok vagy kevés alvást, az éjszakai többszöri ébredést és a nappali sok szundítást. Leírja a napnyugtai zavartságot (sundowning) is: a nyugtalanságot, izgatottságot vagy zavartságot, amely a napfény csökkenésével kezdődik vagy erősödik.
+A demenciával élő embereknél gyakoriak az alvásbeli változások. Az [NIA felsorolja](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) a túl sok vagy túl kevés alvást, az éjszakai gyakori ébredést és a nappali sok szunyókálást. Leírja a napnyugati nyugtalanságot is: ezt a nyugtalanságot, izgatottságot vagy zavartságot, amely a nappali fény csökkenésével kezdődik vagy romlik.
 
-Az NIA gondozóknak szóló tippjei:
+Az NIA gondozóknak szóló tanácsai:
 
-1. **Kapjon korán napfényt és mozgást.** Menjen ki, vagy üljön ablak mellé nappal, és segítsen a személynek minden nap mozogni. Az erős fény segíthet beállítani a belső órát.
-2. **Az energikus tevékenységeket tervezze a délelőttre.** Próbálja a fürdést reggelre tenni, vagy a legnagyobb étkezést délre.
-3. **Tartsa rövidre és korán a szundításokat.** Korlátozza a késő délutáni elszundítást.
-4. **Tegye nyugodttá az estét.** Halkítsa a fényeket, csökkentse a zajt, és ha a személy szereti, játsszon nyugtató zenét. A [késő délutáni nyugtalanságról szóló útmutatónk](/caregiving/late-day-restlessness/) további ötleteket ad.
-5. **Tartson állandó lefekvési rutint.** Az NIA példája, hogy minden este ugyanabban az időben olvasnak fel. Az [állandó napi rutin](/activities/daily-routine/) is segít.
+1. **Biztosítson nappali fényt és mozgást a nap elején.** Menjenek ki a szabadba, vagy üljenek ablak közelébe napközben, és segítsen, hogy az adott személy minden nap mozogjon. Az erős fény segíthet a belső óra helyreállításában.
+2. **Az aktívabb tevékenységeket tervezze délelőttre.** Próbálja a fürdést délelőttre időzíteni, vagy a legbőségesebb étkezést délre tenni.
+3. **A szunyókálás legyen rövid és korai.** Korlátozza a nap későbbi részében való szundikálást.
+4. **Tegye nyugodttá az estét.** Vegye lejjebb a világítást, csökkentse a zajt, és játsszon le megnyugtató zenét, ha az érintett személy szereti. A [késő délutáni nyugtalanságról](/caregiving/late-day-restlessness/) szóló útmutatónkban további ötleteket talál.
+5. **Tartson fenn állandó esti rutint.** Az NIA egyik példája az, hogy minden este ugyanabban az időben olvas fel. A [kiszámítható napi rutin](/activities/daily-routine/) is segíthet.
 6. **Korlátozza a koffeint és az alkoholt.**
-7. **Használjon éjszakai fényeket** a hálószobában, a folyosón és a fürdőszobában.
+7. **Használjon éjszakai fényt** a hálószobában, a folyosón és a fürdőszobában.
 
-Az éjszakai ébredésekhez az NIA [otthoni biztonsági tippjei](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) között szerepel az éjszakai lámpa vagy automatikus fényérzékelő, a fürdőszobai kapaszkodó, a lépcsőfokok széléhez való feltűnő színű szalag, és a gyógyszerek zárt helyen való tárolása.
+Az éjszakai ébredésekhez az NIA [otthoni biztonsági tanácsai](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) közé tartoznak az éjszakai lámpák vagy automatikus fényérzékelők, a fürdőszobai kapaszkodók, a lépcsők széleire ragasztott élénk színű szalag, valamint a gyógyszerek zárható helyen tartása.
 
-Egy rövid, csendes esti tevékenység segíthet mindkettőjüknek megnyugodni. Próbáljon ki egy lassú [nyugodt légzés](/games/calm-breathing/) szünetet, vagy néhány lazább [beszélgetőkártyát](/games/conversation-cards/). Kerülje az ágy közelében az izgató tevékenységeket, és álljon le, amikor a személy elege lett.
+Egy rövid, nyugodt esti tevékenység segíthet mindkettőjüknek lecsendesedni. Próbáljanak ki egy lassú [Nyugodt légzés](/games/calm-breathing/) gyakorlatot vagy néhány kötetlen [Beszélgetőkártyát](/games/conversation-cards/). Lefekvés előtt kerüljenek minden élénkítő tevékenységet, és hagyják abba, amikor az érintett személynek elég volt.
 
-A megszakított alvás a gondozót is kimerítheti. A [gondoskodás önmagunkról szóló útmutatónk](/caregiving/caregiver-self-care/) ad ötleteket a pihenéshez és a segítséghez.
+A megszakított alvás a gondozókat is nagyon megterheli. A [gondozói önellátásról szóló útmutatónk](/caregiving/caregiver-self-care/) a pihenéshez és a segítségkéréshez ad ötleteket.
 
 ## Mi a helyzet az alvási apnoéval?
 
-Az alvási apnoé alvás közben rövid légzésszüneteket okoz, gyakran éjszakánként többször. Az NIA szerint kezelés nélkül olyan problémákhoz vezethet, mint a magas vérnyomás, a stroke vagy az emlékezetkiesés. Jelei közé tartozik a hangos horkolás és a nappali álmosság, és sok ember nem is tudja, hogy van nála. A Lancet-bizottság egy 11 tanulmányt áttekintő elemzésről ír, amely szerint az alvási apnoés embereknél mintegy 43%-kal magasabb volt a demencia kockázata. Kevés tanulmány vette figyelembe a testsúlyt, ezért az összefüggés bizonytalan.
+Az alvási apnoé rövid légzésszüneteket okoz alvás közben, gyakran sokszor egy éjszaka alatt. Az NIA szerint, ha nem kezelik, olyan problémákhoz vezethet, mint a magas vérnyomás, a stroke vagy a memóriavesztés. A jelei közé tartozik a hangos horkolás és a nappali álmosság, és sokan nem is tudják, hogy érintettek. A Lancet Bizottság egy 11 vizsgálatot áttekintő elemzést ismertet, amelyben az alvási apnoéval élőknél körülbelül 43%-kal magasabb volt a demencia kockázata. Ezek közül a vizsgálatok közül azonban kevés vette figyelembe a testsúlyt, ezért az összefüggés bizonytalan.
 
-Az alvási apnoé diagnosztizálható és kezelhető. Az NIA szerint a CPAP-gép szinte mindig segít. Ha Ön vagy az Ön által gondozott személy hangosan horkol, alvás közben megáll a légzése, vagy nappal nagyon álmos, szóljon orvosnak.
+Az alvási apnoé felismerhető és kezelhető. Az NIA megjegyzi, hogy a CPAP-készülék szinte mindig segít. Ha Ön vagy az a személy, akiről gondoskodik, hangosan horkol, alvás közben leáll a légzése, vagy napközben nagyon álmos, beszéljen orvossal.
 
-## Egy megjegyzés az alvásgyógyszerekről
+## Megjegyzés az alvásgyógyszerekről
 
-Nem adunk tanácsot alvásgyógyszerekről vagy étrend-kiegészítőkről. Az NIA szerint az alvásgyógyszerek rövid ideig segíthetnek, de nem gyógyítják az álmatlanságot. Azt is megjegyzi, hogy az Alzheimer-kórral élő személyek alvásának segítésére adott egyes gyógyszerek szédülést, eséseket és zavartságot okozhatnak. Ne kezdjen, hagyjon abba vagy változtasson alvásgyógyszert, beleértve a vény nélkül kapható alvássegítőket sem, orvosával vagy gyógyszerészével való beszélgetés nélkül.
+Nem adunk tanácsot alvásgyógyszerekről vagy étrend-kiegészítőkről. Az NIA megjegyzi, hogy az alvásgyógyszerek rövid ideig segíthetnek, de nem gyógyítják meg az álmatlanságot. Azt is megjegyzi, hogy egyes gyógyszerek, amelyeket az Alzheimer-kórral élő emberek alvásának segítésére adnak, növelhetik a szédülés, az elesés és a zavartság kockázatát. Ne kezdjen el, ne hagyjon abba és ne változtasson meg semmilyen alvásgyógyszert, beleértve a vény nélkül kapható altatókat sem, anélkül hogy orvossal vagy gyógyszerésszel beszélne.
 
 ## Beszéljen orvossal
 
-Forduljon orvoshoz, ha Ön vagy az Ön által gondozott személy állandóan fáradt, a legtöbb éjszaka nehezen alszik, hangosan horkol, vagy éjszaka megáll a légzése. Ha a demenciával járó alvási problémák tartósan fennállnak, az [NIA azt javasolja](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning), hogy kérjen orvosi tanácsot. Egy vizsgálat olyan okokat is felderíthet, mint a fájdalom, egy másik alvászavar, egy betegség vagy egy gyógyszer mellékhatása. A hirtelen zavartság, vagy a hirtelen alvásváltozás zavartsággal együtt sürgős ellátást igényel. Olvassa el: [a demencia korai jelei és mikor kell orvoshoz fordulni](/brain-health/warning-signs/).
+Forduljon orvoshoz, ha Ön vagy az a személy, akiről gondoskodik, állandóan fáradt, a legtöbb éjszakán nehezen alszik, hangosan horkol, vagy éjszaka légzésszünetei vannak. Ha a demenciával járó alvási nehézségek nem múlnak el, az [NIA azt tanácsolja](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning), hogy kérjen orvosi tanácsot. Egy vizsgálat feltárhat olyan okokat, mint a fájdalom, más alvászavar, betegség vagy gyógyszermellékhatás. A hirtelen fellépő zavartság, vagy a hirtelen alvásváltozás zavartsággal együtt, sürgős ellátást igényel. Olvassa el, [mikor érdemes orvoshoz fordulni](/brain-health/warning-signs/).
 
-Ez az oldal általános tájékoztatás, nem orvosi tanács. Olvassa el [egészségügyi tájékoztatónkat](/medical-disclaimer/).
+Ez az oldal általános tájékoztatás, nem orvosi tanács. Lásd az [orvosi nyilatkozatot](/medical-disclaimer/).

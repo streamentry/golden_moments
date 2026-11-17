@@ -1,34 +1,33 @@
 ---
 title: "Fattori di risicu di demenza: i 14 di a Cummissione Lancet"
-seoTitle: "Fattori di risicu di demenza: i 14 di Lancet"
-description: "I 14 fattori di risicu di demenza chì si ponu cambià, citati da a Cummissione Lancet 2024, per tappa di vita, cù ciò chì a ricerca mostra."
+seoTitle: "I 14 fattori di risicu di demenza secondu a Lancet"
+description: "I 14 fattori di risicu di demenza chì si ponu cambià (Lancet 2024), per tappa di vita, cù i ligami di a ricerca è ciò chì pudete discute cù un duttore."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A Cummissione Lancet 2024 hà citatu 14 fattori di risicu di demenza chì si
-  ponu forse cambià: menu educazione, perdita di l’uditu, colesterolu LDL altu,
-  depressione, ferita à a testa, poca attività fisica, diabete, tabagismu,
-  pressione arteriale alta, obesità, cunsumu eccessivu d’alcol, isolamentu
-  suciale, inquinamentu di l’aria è perdita di a vista micca curata. Inseme,
-  sò ligati à circa 45 % di i casi in u mondu, senza garanzia per una persona
-  sola.
+  A Cummissione Lancet di u 2024 hà numinatu 14 fattori di risicu di demenza
+  chì si ponu potenzialmente cambià: menu istruzione, perdita di l'uditu,
+  colesterolu LDL altu, depressione, ferita à a testa, inattività, diabete,
+  fumu, pressione alta, obesità, cunsumu eccessivu d'alcol, isolamentu suciale,
+  inquinamentu di l'aria è perdita di vista micca trattata. Insieme sò ligati
+  cù circa 45% di i casi in u mondu, senza garanzia per nimu.
 keyPoints:
-  - "I 14 fattori toccanu tutta a vita: unu à l’iniziu di a vita, dece à meza età è trè più tardi."
-  - "A perdita di l’uditu è u colesterolu LDL altu à meza età sò ognunu ligati à circa 7 % di i casi di demenza in u mondu, e parte più grande per un fattore solu."
-  - "Queste percentuale sò stime per a pupulazione è supponenu un ligame di causa è effettu. Certi ligami ponu esse solu in parte causali."
-  - "L’età è i geni, chì nimu pò cambià, sò ancu fattori di risicu impurtanti. Riduce i 14 risichi ùn guarantisce micca chì una persona eviterà a demenza."
-  - "A maiò parte di i passi cuncernati, cum’è verificà a pressione, l’uditu è a vista, sò boni per a salute in altri modi è vale a pena di parlane cù un medicu."
+  - "I 14 fattori coprenu tutta a vita: unu in a prima età, deci in l'età di mezu è trè in l'età avanzata."
+  - "A perdita di l'uditu è u colesterolu LDL altu in l'età di mezu sò ognunu ligati cù circa 7% di i casi di demenza in u mondu, e parte più grande di ogni fattore singulu."
+  - "Queste percentuale sò stime di pupulazione chì supponenu una causa è un effettu. Certi ligami ponu esse solu in parte causali."
+  - "L'età è i geni, chì nimu pò cambià, sò ancu fattori di risicu maiò. Riduce i 14 risichi ùn garantisce à nimu di schivà a demenza."
+  - "A maiuranza di i passi implicati, cumu cuntrullà a pressione, l'uditu è a vista, sò boni per a salute in altri modi è valenu a pena di esse discussi cù un duttore."
 faq:
-  - q: "Chì sò i 14 fattori di risicu mudificabili di a demenza?"
-    a: "A Cummissione Lancet 2024 hà citatu menu educazione, perdita di l’uditu, colesterolu LDL altu, depressione, ferita cerebrale traumatica, poca attività fisica, diabete, tabagismu, pressione arteriale alta, obesità, alcol eccessivu, isolamentu suciale, inquinamentu di l’aria è perdita di a vista micca curata. Inseme, sò ligati à guasi a metà di i casi di demenza in u mondu."
-  - q: "Qualessu fattore di risicu di demenza conta di più?"
-    a: "À livellu di a pupulazione mundiale, a Cummissione hà stimatu chì a perdita di l’uditu è u colesterolu LDL altu à meza età sò ognunu ligati à circa 7 % di i casi, seguitati da menu educazione è isolamentu suciale à circa 5 % ognunu. I fattori chì contanu di più per una persona dipendenu da a so salute, dunque un medicu hè a guida a più adatta."
-  - q: "Ci sò dui fattori novi aghjunti in u 2024?"
-    a: "Iè. U raportu 2024 hà aghjuntu u colesterolu LDL (« cattivu ») altu à meza età è a perdita di a vista micca curata più tardi in a vita à i 12 fattori citati in u 2020. A Cummissione i hà ligati rispettivamente à circa 7 % è 2 % di i casi."
-  - q: "L’età hè un fattore di risicu mudificabile?"
-    a: "Innò. L’età hè u più grande fattore di risicu cunnisciutu per a malatia d’Alzheimer, è ùn si pò micca cambià. I geni ghjocanu ancu un rolu. I 14 fattori di sta pagina sò quelli chì a ricerca suggerisce chì si ponu forse cambià."
+  - q: "Quelli sò i 14 fattori di risicu mudificabili per a demenza?"
+    a: "A Cummissione Lancet di u 2024 hà numinatu menu istruzione, perdita di l'uditu, colesterolu LDL altu, depressione, ferita traumatica à u cervellu, inattività fisica, diabete, fumu, pressione alta, obesità, alcol eccessivu, isolamentu suciale, inquinamentu di l'aria è perdita di vista micca trattata. Insieme sò ligati cù guasi a metà di i casi di demenza in u mondu."
+  - q: "Quale fattore di risicu di demenza conta di più?"
+    a: "In a pupulazione mundiale, a Cummissione hà stimatu chì a perdita di l'uditu è u colesterolu LDL altu in l'età di mezu sò ognunu ligati cù circa 7% di i casi, seguitati da menu istruzione è isolamentu suciale à circa 5% ognunu. Quali fattori contanu di più per una persona dipende da a so salute, dunque u duttore hè a guida migliore."
+  - q: "Sò i dui novi fattori di risicu aghjunti in u 2024?"
+    a: "Iè. U rapportu di u 2024 hà aghjuntu u colesterolu LDL (quellu «cativu») in l'età di mezu è a perdita di vista micca trattata in l'età avanzata à i 12 fattori numinati in u 2020. A Cummissione li hà ligati cù circa 7% è 2% di i casi rispettivamente."
+  - q: "L'età hè un fattore di risicu mudificabile?"
+    a: "No. L'età hè u fattore di risicu cunnisciutu più grande per a malatia d'Alzheimer, è ùn si pò cambià. I geni anu ancu un rollu. I 14 fattori di sta pagina sò quelli chì a ricerca suggerisce chì si ponu potenzialmente cambià."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,127 +49,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-Un fattore di risicu hè qualcosa ligatu à una pussibilità più alta di sviluppà una
-malatia. Ùn hè micca una causa in ogni casu, è avè un fattore ùn vole micca dì
-chì svilupperete a demenza. Sta pagina elenca i 14 fattori di risicu di demenza
-chì a Cummissione Lancet 2024 dice chì si ponu forse cambià, cù ciò chì a
-ricerca li assucia, è ciò chì pudete discute cù un medicu.
+Un fattore di risicu hè qualcosa chì hè ligata cù una pussibilità più alta di sviluppà una cundizione. Ùn hè micca una causa in ogni casu, è avè unu ùn vole micca dì chì vi verrà a demenza. Sta pagina elenca i 14 fattori di risicu di demenza chì a Cummissione Lancet di u 2024 dice chì si ponu potenzialmente cambià, cù ciò chì a ricerca li liga, è ciò chì pudete discute cù un duttore.
 
-Per avè una vista più larga, cumpresi i risultati di grandi prucessi, cuminciate
-cù [Si pò prevene a demenza? Ciò chì dice a ricerca](/brain-health/can-dementia-be-prevented/).
-Hè una infurmazione generale, micca un cunsigliu medicale; vidite u nostru
-[avvertimentu medicale](/medical-disclaimer/).
+Per avè una vista più larga, cumpresu ciò chì anu truvatu i grandi studii, cuminciate cù [A demenza si pò impedì? Ciò chì dice a ricerca](/brain-health/can-dementia-be-prevented/). Queste sò informazioni generali, micca cunsigli medichi; cunsultate u nostru [avvertimentu medicu](/medical-disclaimer/).
 
-## Chì sò i 14 fattori di risicu di a demenza?
+## Quelli sò i 14 fattori di risicu per a demenza?
 
-A [Cummissione Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
-scritta da 27 circadori nantu à a demenza, hà stimatu chì 14 fattori di risicu
-chì si ponu forse cambià raprisentanu inseme circa 45 % di i casi di demenza in
-u mondu. A percentuale per ogni fattore quì sottu hè a stima di a Cummissione
-di a parte di i casi mundiali ligata à quellu fattore, arrundita à numeri
-interi. E cifre si sovrapponenu, perchè parechje persone anu più risichi à a
-volta, ed hè per quessa chì facenu 45 % è micca più.
+A [Cummissione Lancet di u 2024](https://doi.org/10.1016/S0140-6736(24)01296-0), scritta da 27 ricercatori di demenza, hà stimatu chì 14 fattori di risicu chì si ponu potenzialmente cambià rapprisentanu inseme circa 45% di i casi di demenza in u mondu. A percentuale di ogni fattore quì sottu hè a stima di a Cummissione di a parte di casi in u mondu ligata cù ellu, arrotondata à numeri intieri. E cifre si sovrapponenu, perchè parechje persone anu parechji risichi à u stessu tempu, è hè per quessa chì s'aghjunghjenu à 45% è micca di più.
 
-| Fattore di risicu | Tappa di vita | Parte di i casi | Ciò chì a ricerca assucia | Ciò chì pudete fà |
+| Fattore di risicu | Tappa di vita | Parte di i casi | Ciò chì a ricerca liga | Ciò chì pudete fà |
 | --- | --- | --- | --- | --- |
-| Menu educazione | Iniziu di a vita | 5 % | Menu anni di scola hè ligatu à un risicu più altu. Esse mentalmente attivu à meza età pare ancu prutettivu, ancu per e persone cù poca scola. | Cuntinuate à amparà è à fà attività chì stimulanu a mente à ogni età: lettura, passatempi, corsi, ghjochi cù altre persone. |
-| Perdita di l’uditu | Meza età | 7 % | A perdita di l’uditu micca curata hè ligata à un risicu più altu. I studii chì seguitanu e persone cù u tempu liganu l’usu di apparechji auditivi à un risicu più bassu. | Fate cuntrullà l’uditu. Dumandate se l’apparechji auditivi ponu aiutà, è purtateli s’elli sò prescritti. Prutigite l’arechje da i rumori forti. |
-| Colesterolu LDL altu | Meza età (da circa 40 anni) | 7 % | Un colesterolu LDL (« cattivu ») altu à meza età hè ligatu à un risicu più altu. I studii d’osservazione liganu l’usu di statine à un risicu più bassu, ma i prucessi più tardi in a vita ùn l’anu micca dimustratu. | Dumandate à u vostru medicu se u vostru colesterolu deve esse cuntrullatu è ciò chì si pò fà, s’ellu ci hè bisognu. |
-| Depressione | Meza età | 3 % | A depressione hè ligata à un risicu più altu. Più tardi in a vita, a depressione pò ancu esse un segnu iniziale di demenza. | Parlà à un medicu di un umore bassu o di una perdita d’interessu chì dura più di duie settimane. A depressione si pò curà. |
-| Ferita cerebrale traumatica | Meza età | 3 % | Una ferita à a testa à ogni età è per ogni causa, cumpresi i sporti di cuntattu, hè ligata à un risicu più altu. | Purta un cascu per a bicicletta è i sporti di cuntattu. Dumandate cumu prevene e cascate. Ripusate è fatevi cuntrullà dopu una ferita à a testa. |
-| Poca attività fisica | Meza età | 2 % | E persone chì facenu eserciziu è sport anu menu prubabilità di sviluppà a demenza. E prove da i prucessi sò sempre limitate. | Dumandate chì attività hè sicura per voi, è truvate qualcosa chì vi piace. Vidite a nostra [guida nantu à l’eserciziu](/brain-health/exercise/). |
-| Diabete | Meza età | 2 % | U diabete, soprattuttu quandu cumencia à meza età o dura più longu, hè ligatu à un risicu più altu. | Fate cuntrullà u zuccheru in u sangue. S’è avete u diabete, travagliate cù a vostra squadra di cura per gestiscelu in modu sicuru. |
-| Tabagismu | Meza età | 2 % | U tabagismu hè ligatu à un risicu più altu. I studii mostranu chì l’antichi fumadori ùn anu micca u listessu risicu aumentatu chì e persone chì cuntinueghjanu à fumà. | Dumandate aiutu per smette. Vale a pena di smette à ogni età. |
-| Pressione arteriale alta | Meza età | 2 % | A pressione arteriale alta à meza età hè ligata à un risicu più altu. I prucessi nantu à i medicamenti per a pressione suggerenu un risicu un pocu più bassu di demenza o di difficultà cognitive. | Cunniscite i vostri valori. A Cummissione suggerisce un valore massimu di 130 o menu da circa 40 anni; dumandate chì scopu hè adattu per voi. |
-| Obesità | Meza età | 1 % | L’obesità à meza età hè ligata à un risicu più altu, è aumenta ancu u risicu di diabete. | Dumandate à u vostru medicu quale hè un pesu sanu per voi. E persone più anziane ùn devenu micca fà dieta per perde pesu senza cunsigliu medicale. |
-| Cunsumu eccessivu d’alcol | Meza età | 1 % | U cunsumu forte d’alcol hè ligatu à un risicu più altu. Riduce un cunsumu forte hè ligatu à un risicu più bassu. | Dumandate quale hè un limite sicuru per voi, soprattuttu cù i vostri medicamenti. |
-| Isolamentu suciale | Più tardi in a vita | 5 % | I cuntatti suciali pocu frequenti sò ligati à un risicu più altu. | Rimanite in cuntattu cù altre persone in modu chì vi piace. Vidite a nostra [guida nantu à i ligami suciali](/brain-health/social-connection/). |
-| Inquinamentu di l’aria | Più tardi in a vita | 3 % | Vive cù più inquinamentu di l’aria hè ligatu à un risicu più altu. I studii liganu un’aria più pulita à un risicu più bassu. | Hè soprattuttu una questione di pulitiche pubbliche. Verificate l’avvisi lucali nantu à a qualità di l’aria è limitate u tempu fora in i ghjorni assai inquinati. |
-| Perdita di a vista micca curata | Più tardi in a vita | 2 % | I prublemi di vista micca curretti sò ligati à un risicu più altu. Un grande studiu in i Stati Uniti hà ligatu l’operazione di a cataratta à un risicu più bassu. | Fate esami regulari di a vista. Dumandate se prublemi cum’è a cataratta ponu esse curati. |
+| Menu istruzione | Prima età | 5% | Menu anni di scola sò ligati cù un risicu più altu. Esse mentalmente attivu in l'età di mezu pare ancu prutettivu, ancu per e persone cù poca istruzione. | Cuntinuate à amparà è à fà cose chì occupanu a mente à ogni età: leghje, passatempi, corsi, ghjochi cù l'altri. |
+| Perdita di l'uditu | Età di mezu | 7% | A perdita di l'uditu micca trattata hè ligata cù un risicu più altu. L'studii chì seguitanu e persone in u tempu liganu l'usu di l'apparecchi acustici cù un risicu più bassu. | Fate verificà l'uditu. Dumandate s'è l'apparecchi acustici puderebbenu aiutà, è purtate li s'elli sò prescritti. Pruteghjite l'arechje da u rumore forte. |
+| Colesterolu LDL altu | Età di mezu (da circa 40) | 7% | U colesterolu LDL («cativu») altu in l'età di mezu hè ligatu cù un risicu più altu. L'studii d'osservazione liganu l'usu di statine cù un risicu più bassu, ma i studii in l'età avanzata ùn anu micca mostratu questu. | Dumandate à u vostru duttore s'è u vostru colesterolu deve esse verificatu è chì fà, s'è qualcosa, à questu riguardu. |
+| Depressione | Età di mezu | 3% | A depressione hè ligata cù un risicu più altu. In l'età avanzata, a depressione pò ancu esse un segnu primariu di demenza. | Dite à un duttore s'è site bassu di morale o s'è avete persu l'interessu per più di duie settimane. A depressione si pò trattà. |
+| Ferita traumatica à u cervellu | Età di mezu | 3% | Una ferita à a testa à ogni età è da ogni fonte, cumpresi i sport di cuntattu, hè ligata cù un risicu più altu. | Purtate un cascu per andà in bicicletta è per i sport di cuntattu. Dumandate infurmazioni nantu à a prevenzione di e cadute. Riposatevi è fatevi verificà dopu una ferita à a testa. |
+| Inattività fisica | Età di mezu | 2% | E persone chì facenu eserciziu è sport anu menu pussibilità di sviluppà a demenza. L'evidenze di i studii sò ancora limitate. | Dumandate chì attività hè sicura per voi, è truvate qualcosa chì vi piace. Cunsultate a nostra [guida à l'eserciziu](/brain-health/exercise/). |
+| Diabete | Età di mezu | 2% | U diabete, sopratuttu quandu cummencia in l'età di mezu o dura più longu, hè ligatu cù un risicu più altu. | Fate verificà u zuccheru in u sangue. S'è avete u diabete, travagliate cù a vostra squadra di cura per gestillu in sicurezza. |
+| Fumu | Età di mezu | 2% | U fumu hè ligatu cù un risicu più altu. L'studii trovanu chì l'ex-fumatori ùn anu micca u stessu risicu altu di e persone chì cuntinuanu à fumà. | Dumandate un sustegnu per smette. Vale a pena smette à ogni età. |
+| Pressione alta | Età di mezu | 2% | A pressione alta in l'età di mezu hè ligata cù un risicu più altu. L'studii di i medicamenti per a pressione suggeriscenu un risicu mudestu più bassu di demenza o di prublemi cognitivi. | Cunnoscite i vostri numeri. A Cummissione suggerisce un numeru superiore di 130 o menu da circa 40 anni; dumandate chì obiettivu vi cunvene. |
+| Obesità | Età di mezu | 1% | L'obesità in l'età di mezu hè ligata cù un risicu più altu, è accresce ancu u risicu di diabete. | Dumandate à u vostru duttore chì pesu hè sanu per voi. L'adulti anziani ùn devenu micca fà dieti per dimagrì senza cunsigliu medicu. |
+| Alcol eccessivu | Età di mezu | 1% | U cunsumu eccessivu d'alcol hè ligatu cù un risicu più altu. Riduce u cunsumu eccessivu hè ligatu cù un risicu più bassu. | Dumandate chì limitu hè sicuru per voi, sopratuttu cù i vostri medicamenti. |
+| Isolamentu suciale | Età avanzata | 5% | Cuntatti suciali rari sò ligati cù un risicu più altu. | Mantenete i cuntatti cù e persone in i modi chì vi piacenu. Cunsultate a nostra [guida à u ligame suciale](/brain-health/social-connection/). |
+| Inquinamentu di l'aria | Età avanzata | 3% | Vive cù più inquinamentu di l'aria hè ligatu cù un risicu più altu. L'studii liganu un'aria più pulita cù un risicu più bassu. | Hè soprattuttu una quistione di pulitica publica. Cunsultate l'allerti lucali nantu à a qualità di l'aria è limitate u tempu fora in i ghjorni assai inquinati. |
+| Perdita di vista micca trattata | Età avanzata | 2% | I prublemi di vista micca curati sò ligati cù un risicu più altu. Un grande studiu americanu hà ligatu a chirurgia di a cataratta cù un risicu più bassu. | Fate visite regulare à l'oculistu. Dumandate s'è prublemi cum'è a cataratta ponu esse trattati. |
 
 ## Cumu devu leghje ste percentuale?
 
-Cù prudenza. U raportu di a Cummissione stessu mette in avanti parechji punti da
-tene à mente:
+Cun attenzione. U rapportu stessu di a Cummissione face parechji punti chì vale a pena di ricurdà:
 
-- **Discrivenu pupulazioni, micca persone.** U [riassuntu di u raportu](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  di l’University College London nota chì riduce u risicu funziona à livellu di
-  pupulazione è ùn guarantisce micca chì una persona sola eviterà a demenza.
-- **Supponenu un ligame di causa è effettu.** L’autori anu inclusu solu fattori
-  cù prove cunvincente, ma dicenu chì certi ligami ponu esse solu in parte
-  causali.
-- **Sò cifre mundiale.** A maiò parte di i dati venenu da paesi à altu redditu,
-  è a vera parte per un paese o una cumunità pò esse diversa.
-- **E piccule percentuale ponu sempre esse impurtanti.** Un fattore ligatu à 2 %
-  di i casi in u mondu tocca sempre un numeru assai grande di persone.
+- **Descrivenu pupulazioni, micca persone.** U [riassuntu di u rapportu](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) di l'University College London nota chì riduce u risicu funziona à livellu di pupulazione è ùn garantisce micca chì una persona schiverà a demenza.
+- **Supponenu una causa è un effettu.** L'autori anu inclusu solu fattori cù evidenze convincenti, ma dicenu chì certi ligami ponu esse solu in parte causali.
+- **Sò cifre mundiale.** A maiuranza di i dati venenu da paesi à redditu altu, è a parte vera per un paese o una cumunità serà diversa.
+- **Percentuale chjuche ponu contà listessu.** Un fattore ligatu cù 2% di i casi in u mondu tocca sempre un numeru assai grande di persone.
 
-## Qualessi fattori di risicu sò stati aghjunti in u 2024?
+## Quali fattori di risicu sò stati aghjunti in u 2024?
 
-U raportu 2024 hà aghjuntu dui fattori à i 12 citati in u 2020:
+U rapportu di u 2024 hà aghjuntu dui fattori à i 12 numinati in u 2020:
 
-- **Colesterolu LDL altu à meza età**, ligatu à circa 7 % di i casi.
-- **Perdita di a vista micca curata più tardi in a vita**, ligata à circa 2 %
-  di i casi.
+- **Colesterolu LDL altu in l'età di mezu**, ligatu cù circa 7% di i casi.
+- **Perdita di vista micca trattata in l'età avanzata**, ligata cù circa 2% di i casi.
 
-## Qualessi fattori di risicu ùn si ponu cambià?
+## Quali fattori di risicu ùn si ponu micca cambià?
 
-U National Institute on Aging dice chì
-[l’età hè u più grande fattore di risicu cunnisciutu per l’Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-è nimu ùn a pò cambià. I geni ghjocanu ancu un rolu; un genu cunnisciutu chì
-influenza u risicu d’Alzheimer si chjama APOE. U NIA aghjunghje chì i
-scienziati ùn capiscenu ancu cumplettamente ciò chì causa l’Alzheimer in a
-maiò parte di e persone. A Cummissione Lancet nota chì i risichi chì si ponu
-forse cambià ponu esse ridotti qualunque sia u risicu geneticu di una persona.
+U National Institute on Aging dice chì [l'età hè u fattore di risicu cunnisciutu più grande per l'Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), è nimu ùn pò cambià lu. I geni anu ancu un rollu; un gene ben cunnisciutu chì influenza u risicu d'Alzheimer si chjama APOE. U NIA aghjunge chì i scientisti ùn capiscenu ancu interamente ciò chì provoca l'Alzheimer in a maiuranza di e persone. A Cummissione Lancet nota chì i risichi potenzialmente mudificabili ponu esse ridutti indipendentemente da u risicu geneticu di a persona.
 
-Perchè l’età è i geni anu un rolu cusì impurtante, parechje persone chì ùn anu
-nimu di i 14 fattori di risicu sviluppanu quantunque a demenza. Ùn hè micca
-culpa di nimu.
+Siccome l'età è i geni anu un rollu cusì grande, parechje persone chì ùn anu nimu di i 14 fattori di risicu sviluppanu listessu a demenza. Quella ùn hè a colpa di nimu.
 
-## Chì dicenu e prove di i prucessi nantu à u cambiamentu di sti risichi?
+## Chì dice l'evidenza di i studii nantu à u cambiamentu di sti risichi?
 
-Assucià un fattore di risicu à a demenza ùn hè micca listessu chè pruvà chì
-cambià lu riduce u risicu di demenza. Eccu qualchì esempiu di ciò chì mostranu
-e prove:
+Ligà un fattore di risicu cù a demenza ùn hè micca a listessa cosa chì pruvà chì cambi lu abbassa u risicu di demenza. Eccu uni pochi d'esempii di induve si trova l'evidenza di i studii:
 
-- **Pressione arteriale.** In u prucessu SPRINT MIND, un scopu di pressione più
-  bassu hà riduttu in modu significativu u deterioramentu cognitivu ligeru. Ùn
-  hà micca riduttu in modu significativu a demenza probabile, ancu se u
-  prucessu pò esse statu troppu chjucu per mustrallu ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Apparechji auditivi.** A Cummissione Lancet descrive un prucessu di trè anni
-  nantu à l’apparechji auditivi chì ùn hà trovu nisun effettu generale nantu à
-  u pensamentu, ma un benefiziu in un sottugruppu di persone à risicu più altu.
-  I studii chì seguitanu e persone cù u tempu liganu l’usu di apparechji
-  auditivi à un risicu più bassu. A nostra [guida nantu à l’uditu](/brain-health/hearing/) ne parla di più.
-- **Attività fisica.** U National Institute on Aging dice chì ùn ci hè micca
-  abbastanza prove da prucessi clinichi per cunclude chì l’eserciziu pò prevene
-  o rallentà u deterioramentu cognitivu ligeru o l’Alzheimer, ancu se certi
-  studii suggerenu chì pò aiutà cù u calu ligatu à l’età
-  ([NIA nantu à a prevenzione di l’Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Pressione di u sangue.** In u studiu SPRINT MIND, un obiettivu di pressione più bassu hà riduttu in modu significativu u prublema cognitivu lieve. Ùn hà micca riduttu in modu significativu a demenza probabile, benchè u studiu puderia esse statu troppu chjucu per mustralu ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Apparecchi acustici.** A Cummissione Lancet descrive un studiu di trè anni nantu à l'apparecchi acustici chì ùn hà truvatu alcun effettu generale nantu à u pensiero, ma un benefiziu in un sottugruppu di persone à risicu più altu. L'studii chì seguitanu e persone in u tempu liganu l'usu di l'apparecchi acustici cù un risicu più bassu. A nostra [guida à l'uditu](/brain-health/hearing/) ne dice di più.
+- **Attività fisica.** U National Institute on Aging dice chì ùn ci hè micca abbastanza evidenza di studii clinichi per cunclude chì l'eserciziu pò impedì o rallentà u prublema cognitivu lieve o l'Alzheimer, benchè certi studii suggeriscenu chì pò aiutà cù u calu ligatu à l'età ([NIA nantu à a prevenzione di l'Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-I longhi prucessi chì aspettanu chì a demenza si sviluppi sò lenti è cari,
-dunque per parechji fattori e megliu prove cuntinueranu à vene da studii chì
-seguitanu e persone per anni. Ste prove sò utili, ma sò menu forte chè quelle
-di un prucessu.
+I studii longhi chì aspettanu chì a demenza si sviluppi sò lenti è costosi, dunque per parechji fattori a megliu evidenza cuntinuerà à vene da studii chì seguitanu e persone per anni. Quella evidenza hè utile, ma hè più debule di un studiu clinico.
 
-## È u sonnu è l’alimentazione?
+## E u sonnu è l'alimentazione?
 
-A Cummissione hà esaminatu u sonnu è l’alimentazione, ma ùn l’hà micca aghjunti
-à a lista, perchè e prove ùn eranu micca abbastanza forte o coerente. E nostre
-guide nantu à u [sonnu](/brain-health/sleep/) è l’[alimentazione](/brain-health/diet/)
-spieganu ciò chì si sà.
+A Cummissione hà esaminatu u sonnu è l'alimentazione ma ùn li hà micca aghjunti à a lista, perchè l'evidenza ùn era micca abbastanza solida o custante. E nostre guide à u [sonnu](/brain-health/sleep/) è à [l'alimentazione](/brain-health/diet/) spieganu ciò chì hè cunnisciutu.
 
-## Parlate cù un medicu
+## Parlate cù un duttore
 
-Una visita annuale hè un bonu mumentu per parlà di sti temi. Pudete purtà sta
-lista è dumandà:
+Una visita annuale hè un bon mumentu per affruntà sti temi. Pudete purtà sta lista è dumandà:
 
-- Quali sò i mo valori di pressione arteriale, zuccheru in u sangue è
-  colesterolu, è ci n’hè chì anu bisognu d’attenzione?
-- Devu fà cuntrullà l’uditu è a vista?
-- L’attività chì facciu hè sicura è abbastanza per mè?
-- Qualchì medicamentu miu pò influenzà a memoria o u pensamentu?
+- Quelli sò i mo numeri di pressione, di zuccheru in u sangue è di colesterolu, è qualchissia hà bisognu d'attenzione?
+- Devu fà verificà l'uditu è l'ochji?
+- L'attività chì facciu hè sicura è basta per mè?
+- Qualchissia di i mo medicamenti pò influenzà a memoria o u pensiero?
 
-Prima di cambià medicamenti, alimentazione, digiunu, eserciziu o cumplementi,
-parlate prima cù un medicu. S’è voi o a persona di a quale vi occupate avete
-una cunfusione subita, una debulezza da un latu o difficultà à parlà, chjamate
-u 15, u 18 o u 112.
+Prima di cambià medicamenti, alimentazione, digiunu, eserciziu o integratori, parlate prima cù un duttore. S'è voi o qualchissia chì vi curate avete una cunfusione improvvisa, una debulezza da una parte, o difficultà à parlà, chjamate u 112.

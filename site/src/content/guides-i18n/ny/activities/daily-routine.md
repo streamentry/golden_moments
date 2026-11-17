@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Ndondomeko Yofatsa ya Tsiku la Munthu Wokhala ndi Dementia"
+seoTitle: "Ndondomeko ya Tsiku: Chitsanzo Chosinthika"
+description: "Chitsanzo chosinthika cha tsiku la munthu wokhala ndi dementia, chokhala ndi zakudya, zochitika ndi kupuma, komanso momwe mungapangire ndikusintha masiku ovuta."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Ndondomeko yofatsa ya tsiku ndi tsiku imasunga nthawi zodziwika zodzuka,
+  zodyera, zosamalira thupi ndi zogona, imaika zochitika zazikulu pa nthawi
+  imene munthuyo ali tcheru kwambiri, ndipo imalinganiza zochitika ndi kupuma.
+  Ipangeni potengera zomwe munthuyo wakhala akuchita moyo wake wonse, isakhale
+  yodzaza kwambiri, pezani kuwala kwa dzuwa ndi kuyenda tsiku lililonse, ndipo
+  sinthani ndondomekoyi momasuka tsikulo likafuna kutero.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Nthawi zokhazikika zodzuka, zodyera, zosamalira thupi ndi zogona zimapatsa tsikulo mawonekedwe odziwika."
+  - "Ikani zochitika zazikulu pa nthawi imene munthuyo amakhala bwino kwambiri tsikulo, nthawi zambiri mʼmawa."
+  - "Musadzaze mphindi iliyonse. Kupuma ndi nthawi yachete ndi mbali ya ndondomekoyi."
+  - "Kuwala kwa dzuwa, kuyenda tsiku lililonse, komanso kupewa kugona kwanthawi yayitali masana kapena kumwa zakumwa za caffeine mochedwa zingathandize kuchepetsa kusakhazikika kumadzulo."
+  - "Ndondomeko ndi chitsogozo, si lamulo. Sinthani, chepetsani kapena siyani chilichonse masiku ovuta."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Nʼchifukwa chiyani ndondomeko imathandiza munthu wokhala ndi dementia?"
+    a: "Tsiku lodziwika bwino limatanthauza zosankha zochepa ndi zodabwitsa zochepa, zomwe anthu ambiri amene akukhala ndi dementia amaziona kukhala zolimbikitsa. Alzheimer's Association imanena kuti tsiku lokonzekera limakuthandizani kugwiritsa ntchito nthawi yochepa poganizira zoyenera kuchita komanso nthawi yambiri pa zinthu zimene nonsenu mumasangalala nazo. Zimathandizanso osamalira kukonza bwino tsiku lawo."
+  - q: "Ndondomeko yabwino ya tsiku ndi tsiku kwa munthu wokhala ndi dementia ndi yotani?"
+    a: "Palibe ndondomeko imodzi yokha yoyenera. Yabwino imasunga nthawi zodziwika zodzuka, zodyera ndi zogona, imaika nthawi yosamalira thupi ndi zochitika zazikulu pomwe munthuyo ali bwino kwambiri, imaphatikizapo nthawi yokhala panja kapena pafupi ndi zenera, ndipo imasiya malo opumira. Ipangeni mogwirizana ndi momwe munthuyo wakhala akukhalira moyo wake wonse."
+  - q: "Kodi munthu wokhala ndi dementia ayenera kugona masana?"
+    a: "Kupuma kwakanthawi kochepa kungathandize, makamaka pambuyo pa chakudya chamasana. National Institute on Aging imalimbikitsa kupewa kugona kwanthawi yayitali kapena kugona mochedwa masana, chifukwa kutopa kwambiri kapena kusapuma mokwanira kungachulukitse kusakhazikika kumadzulo. Ngati vuto la kugona ndi lalikulu, lankhulani ndi dokotala wake."
+  - q: "Bwanji ngati akukana kutsatira ndondomekoyi?"
+    a: "Siyani panthawiyo ndipo yesaninso pambuyo pake kapena mʼnjira ina. Kukana kungatanthauze kuti atopa, sakumva bwino, akumva ululu kapena sangakhale okonzeka. Ndondomekoyi ilipo kuti tsiku likhale losavuta, choncho isintheni mʼmalo moikakamiza."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Ndondomeko yofatsa imapatsa tsikulo mawonekedwe odziwika: kudzuka, kudya, kuchita zinthu pangʼono, kupuma, ndi kugona pa nthawi zofanana. Imachepetsa zosankha ndi zodabwitsa, ndipo imakupatsani dongosolo pa nthawi zimene mukanakhala mukudabwa zoyenera kuchita. Ndondomeko ili pansipa ndi chitsanzo, si lamulo. Igwiritseni ntchito ngati poyambira, kenako muikonze mogwirizana ndi munthu amene mumamusamalira.
 
-## Why does a daily routine help?
+## Nʼchifukwa chiyani ndondomeko ya tsiku ndi tsiku imathandiza?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Ndondomeko yokhazikika imathandiza chifukwa zizolowezi zodziwika zimakhala zosavuta kutsatira kusiyana ndi zatsopano. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) imanena kuti tsiku lokonzekera limachepetsa nthawi yoganizira zoyenera kuchita ndipo limawonjezera nthawi ya zochitika zosangalatsa, komanso imanena kuti nthawi zokhazikika zodzuka ndi zogona zingathandize pa mavuto a kugona ndi kusakhazikika kumadzulo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) imalimbikitsa kusamba, kuvala zovala ndi kudya pa nthawi zofanana tsiku lililonse monga gawo la nyumba yamtendere, ndipo [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) imalimbikitsanso kusunga ndondomeko zomwezo.
 
-## A sample gentle day
+## Chitsanzo cha tsiku lofatsa
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Nthawi ndi zitsanzo zokha. Sinthani tsiku lonse kuti liyambe mofulumira kapena mochedwa kuti ligwirizane ndi momwe munthuyo amachitira zinthu.
 
-| Time | What happens | Ideas | On a harder day |
+| Nthawi | Zochitika | Malingaliro | Pa tsiku lovuta |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Kudzuka, kusamba, kuvala | Ndondomeko yomweyo tsiku lililonse; ikani zovala motsatira momwe azivalira | Sungani chisamaliro kukhala chosavuta; malaya atsopano ndi okwanira |
+| 8:45 a.m. | Chakudya chamʼmawa | Khofi ndi nyuzipepala yowerengedwa mokweza, kapena wailesi | Idyani limodzi mwakachetechete, popanda kukakamiza kukambirana |
+| 9:30 a.m. | Zochitika zazikulu | Kupinda zovala, kuphika, kulima, kutuluka pangʼono kapena kuyenda | Kuchita pangʼono, kapena awaloleni akuonerereni mukuchita |
+| 10:30 a.m. | Nthawi yachete | Nyimbo, chimbale cha zithunzi, kapena kukhala pafupi ndi zenera | Kupuma pa mpando wokonda |
+| 11:00 a.m. | Kuthandiza kukonza chakudya chamasana | Kusamba masamba, kuyala patebulo | Inu phikani; iwo akhale nanu limodzi |
+| 12:00 p.m. | Chakudya chamasana ndi kukonza | Kupukuta tebulo, kuumitsa mbale zochepa | Siyani ntchito za mʼnyumba |
+| 1:00 p.m. | Kupuma kwakanthawi kochepa | Kweza mapazi, nyimbo zofewa | Chimodzimodzi |
+| 2:00 p.m. | Panja kapena zochitika zolimbitsa thupi | Kuyenda, kukhala pa khonde, kuthirira mbewu, kuponyera mpira wopepuka | Kukhala pafupi ndi zenera la dzuwa |
+| 3:00 p.m. | Kucheza kapena kupanga zinthu | Kuchezera, kuyimba foni, [picture pairs](/games/picture-pairs/), kujambula utoto, makadi | Chakumwa ndi chotupitsa limodzi |
+| 4:30 p.m. | Nthawi yokhazikika | Tsekani makatani, yatsani magetsi, ntchito yofatsa monga kupinda nsalu zazingʼono | Nyimbo zodziwika, phokoso lochepa |
+| 5:30 p.m. | Chakudya chamadzulo | Thandizani kusakaniza kapena kuyala patebulo | Chakudya chosavuta, chodziwika |
+| 6:30 p.m. | Madzulo limodzi | Kukumbukira pamodzi mutadya zokoma, makadi, pulogalamu yokondedwa, kapena kukhudza dzanja mofatsa | Kukhala limodzi mwakachete |
+| 8:00 p.m. | Ndondomeko yogona | Kusamba kapena kutsuka, zovala zogona, nyimbo zofewa, magetsi ochepa | Fupikitsani chilichonse; chitonthozo chikhale patsogolo |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Chitsanzochi chikutsatira mawonekedwe a ndondomeko ya chitsanzo ya Alzheimer's Association ya magawo oyamba ndi apakati, yomwe imayambira pa chisamaliro cha thupi ndi chakudya chamʼmawa, kenako ntchito za mʼnyumba, kuyenda, nyimbo, kupuma ndi maulendo, mpaka chakudya chamadzulo, kukumbukira ndi kukonzekera kugona.
 
-## How do you build your own routine?
+## Kodi mungapange bwanji ndondomeko yanu?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Yambani ndi momwe munthuyo wakhala akukhalira moyo wake, osati ndi tchati. Alzheimer's Association imalimbikitsa kuganizira zinthu izi musanakonze ndondomeko:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Zomwe amakonda, zomwe sakonda, mphamvu zake ndi zomwe zimamuchititsa chidwi.**
+- **Momwe ankagwiritsira ntchito tsiku lake kale.** Munthu amene ankadzuka mofulumira ndipo nthawi zonse ankayenda ndi galu wake ayenerabe kuyenda mofulumira. Munthu amene amakonda kugona mochedwa sangasangalale kuyamba 8 a.m.
+- **Nthawi imene amakhala bwino kwambiri tsikulo.** Ikani kusamba, maulendo ndi zochitika zazikulu pa nthawiyo.
+- **Nthawi yokwanira** yodyera, kusamba ndi kuvala, kuti pasakhale kuthamanga.
+- **Nthawi zokhazikika zodzuka ndi zogona.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Gwero lomweli limalimbikitsa kuphatikiza ntchito za mʼnyumba, zakudya, chisamaliro cha thupi, zochitika zolenga, zochitika zolimbitsa thupi, kucheza, zochitika zauzimu ndi nthawi zosakonzekera, monga bwenzi litabwera modzidzimutsa.
 
-### Try it for a week, then adjust
+### Yesani kwa sabata imodzi, kenako sinthani
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Lembani mfundo zosavuta tsiku lililonse. Alzheimer's Association imalimbikitsa kudzifunsa kuti ndi zochitika ziti zomwe zayenda bwino komanso chifukwa chake, ngati panali nthawi zimene zinthu zinali zambiri kwambiri kapena panalibe chochita, komanso ngati mapulani osakonzekera anali osangalatsa kapena anabweretsa nkhawa. Sungani zomwe zikugwira ntchito ndipo sinthani zomwe sizikugwira ntchito.
 
-### Make it visible
+### Ipangeni kuti izioneka
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Ngati munthuyo angathenso kuwerenga, bolodi loyera kapena khadi la zilembo zazikulu lofotokoza ndondomeko ya tsikulo lingakhale lolimbikitsa. Lisungeni kukhala lalifupi: „Chakudya chamʼmawa. Kuyenda ndi Sarah. Chakudya chamasana. Kupuma.“ Anthu ena amakhala bwino popanda kudziwa zomwe zidzachitike patapita nthawi; Family Caregiver Alliance imalimbikitsa kuti musakambirane mapulani mpaka nthawi yoti achitike itayandikira ngati zimabweretsa nkhawa.
 
-## How to adapt the routine
+## Momwe mungasinthire ndondomeko
 
-### Leave room to breathe
+### Siyani malo opumiramo
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Musadzaze mphindi iliyonse. Alzheimer's Association imatsindika kuti munthuyo amafunika kulinganiza zochitika ndi kupuma ndipo angafunike mipata yopumira pafupipafupi. Ngati akuoneka wotopa, wosakhazikika kapena wokwiya, sinthani zochitika kapena apumeni.
 
-### Protect the late afternoon
+### Tetezani masana ochedwa
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Anthu ambiri amakhala osakhazikika kwambiri dzuwa likamalowa. NIA imalimbikitsa kukhala panja kapena pafupi ndi zenera kuti mupeze kuwala kwa dzuwa tsiku lililonse, kukhala ochita zinthu tsiku lililonse popanda kukonza zambiri, kupewa zakumwa za caffeine ndi mowa mochedwa, komanso kupewa kugona kwanthawi yayitali mochedwa masana. Mabanja ena amaonanso kuti zimathandiza kutseka makatani ndi kuyatsa magetsi dzuwa lisanalowe. Onani [late-day restlessness](/caregiving/late-day-restlessness/) ndi [sleep](/brain-health/sleep/).
 
-### Change it as needs change
+### Sinthani pamene zosowa zikusintha
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Gawo loyamba:** konzani ndondomekoyi limodzi. Munthuyo angafune ndondomeko yolembedwa yomwe amayiyangʼanira yekha.
+- **Gawo lapakati:** inu mumatsogolera kwambiri. Zochitika zazifupi, kupuma kochulukirapo ndi ntchito zambiri zodziwika; onani [middle-stage activities](/activities/middle-stage/).
+- **Gawo lomaliza:** ndondomekoyi imayangʼana pa chitonthozo, zakudya ndi chisamaliro, ndi nthawi zazifupi za zochitika zolimbikitsa monga nyimbo kapena kukhudza dzanja mofatsa pakati pa nthawi zimenezo; onani [late-stage activities](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Sinthani zochitika, osati mawonekedwe ake
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Sungani nthawi za zakudya, kupuma ndi zogona kukhala zokhazikika, ndipo sinthani zochitika zapakati. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) imalimbikitsa kuyesa zochitika zosiyanasiyana masiku osiyanasiyana kuti zinthu zisakhale zotopetsa. Mungaphike Lolemba, kulima Lachiwiri ndi kuyangʼana zithunzi Lachitatu. [101 activity ideas](/activities/ideas/) ndi [household tasks](/activities/household-tasks/) zathu zingathandize kudzaza nthawizo.
 
-## When the day goes sideways
+## Tsiku likasokonekera
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Masiku ena sadzatsatira ndondomeko iliyonse. Kudwala, usiku wosagona bwino, ulendo wa dokotala kapena kusintha kwa nyengo kungasokoneze chilichonse. Siyani ndondomekoyo, sungani zofunika (chakudya, chakumwa, kupuma, chitonthozo) ndipo yesaninso mawa. Ngati munthuyo akukana chinachake, onani [when they say no](/caregiving/when-they-say-no/). Kupuma pangʼono limodzi, monga [calm breathing](/games/calm-breathing/), kungathandize nonsenu kukhazikikanso.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Ndondomeko yanu nanunso ndi yofunika. Ikani nthawi yopumira nokha, ndipo pemphani achibale kapena ntchito yopereka mpumulo kuti akuthandizeni kukhala ndi nthawi yopuma yokhazikika. Onani [caregiver self-care](/caregiving/caregiver-self-care/).

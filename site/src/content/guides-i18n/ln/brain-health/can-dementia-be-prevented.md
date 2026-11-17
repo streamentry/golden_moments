@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Bakoki kopekisa demansia? Oyo bolukiluki elobi"
+seoTitle: "Kopekisa demansia? Oyo bolukiluki elobi"
+description: "Oyo Komisi ya Lancet ya 2024 mpe bomekoli ya minene emonaki mpo na kokitisa makama ya demansia, oyo emonaki te, mpe makambo ya kolobela na monganga."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Moto moko te akoki kolaka ete demansia ekopekisama. Komisi ya Lancet ya 2024
+  ekani ete pene na ndambo ya makambo ya demansia na mokili mobimba ekangani na
+  makambo 14 ya makama oyo ekoki mbala mosusu kobongwana, lokola tension ya
+  likolo, kobungisa koyoka mpe kozanga kosala ngalasisi ya nzoto. Bomekoli
+  emonisi matomba ya moke na bomekoli ya makanisi, kasi ezali te elembo ete
+  makambo ya demansia ekokita. Bato mingi oyo basalaka makambo nyonso "malamu"
+  bakoki kaka kozwa demansia, mpe ezali foti ya moto moko te.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Komisi ya Lancet ya 2024 ekangisi pene na 45% ya makambo ya demansia na mokili mobimba na makambo 14 ya makama oyo ekoki mbala mosusu kobongwana. Yango ezali ekano mpo na bato ebele, ezali te elaka mpo na moto moko."
+  - "Kokitisa makama elakisi kokitisa libaku na kati ya bato ebele. Elakisi te ete moto moko akoki koboya demansia."
+  - "Bomekoli ya minene lokola FINGER, US POINTER mpe SPRINT MIND emonisi matomba ya moke na bomekoli ya makanisi to na bobungisi ya moke ya makanisi, kasi moko te emonisaki ete manaka ya bomoi epekisaka demansia."
+  - "Mibu ya mbotama ezali likama monene oyo eyebani mpo na maladi ya Alzheimer, mpe ekoki kobongwana te. Bato mingi oyo bazali na bizaleli ya malamu ya bomoi bakoki kaka kozwa demansia."
+  - "Makambo oyo batalelaka mingi, lokola kosalisa tension ya likolo, kosalela bisaleli ya koyoka mpe kotikala na mosala ya nzoto, ebongi kolobela yango na monganga mpo ezali kosalisa bokolongono na banzela mosusu mpe."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Bakoki kopekisa demansia?"
+    a: "Ezali na nzela moko te oyo endimami mpo na kopekisa demansia mpo na moto nyonso. Bolukiluki elakisi ete kokitisa makama mosusu, lokola tension ya likolo, kobungisa koyoka oyo esalisami te mpe komela makaya, ekoki kokitisa libaku ya demansia na kati ya bato ebele to kopekisa yango ebanda na lombango. Ezali kaka mabaku, ezali te bilaka."
+  - q: "Motango ya 45% ya Komisi ya Lancet elakisi nini?"
+    a: "Komisi ya Lancet ya 2024 ekani ete pene na 45% ya makambo ya demansia na mokili mobimba ekangani na makambo 14 ya makama oyo, na likanisi, ekoki kobongwana. Ekano yango ekanisi ete makambo yango esalaka demansia, mpe bakomi balobi ete bokangani mosusu ekoki kozala ndambo ya ntina kaka. Elobeli bato ebele kasi elobi te makama ya moto moko."
+  - q: "Soki tata to mama na ngai azalaki na bomoi ya malamu, mpo na nini azwaki demansia?"
+    a: "Mibu ya mbotama, binkoko mpe makambo mingi oyo moto moko te akoki kotambwisa ezali na ndambo monene na demansia. Bakomi ya Komisi ya Lancet balobi ete kokitisa makama na kati ya bato ebele epesi te ndanga ete moto moko akokima demansia. Kozwa demansia elakisi te ete moto moko akwei."
+  - q: "Ezali sima mingi mpo na kokitisa makama ya demansia sima ya mibu 65?"
+    a: "Komisi ya Lancet elobi ete ezali ntango nyonso te ya liboso mingi to ya sima mingi mpo na kokitisa makama, atako mingi ya bilembo etali eleko ya katikati ya bomoi. Kosalisa mikakatano ya koyoka mpe ya komona, kotikala na mosala ya nzoto mpe kobatela boyokani na bato mosusu ezali ndakisa ya makambo ya kosala na mibu ya sima oyo etalelamaki. Lobela na monganga mpo na koyeba nini ekokani na bokolongono na yo."
+  - q: "Masano ya makanisi to bilei ya sipesiale epekisaka demansia?"
+    a: "Lisano moko te, eloko ya kolia moko te, nkisi ya kobakisa moko te to bilei moko te endimami ete epekisaka demansia. Bomekoli ya mibu misato ya bilei ya MIND emonisaki bokeseni ya motuya te na makanisi soki tokokanisi yango na bilei mosusu, mpe ba aplikasio ya mombongo mpo na koteya makanisi emonisami te ete ezali na matomba lokola oyo emonanaki na bomekoli ya bolukiluki."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Soki ozali kobatela moto oyo azali kobika na demansia, to omonaki tata to mama na yo azali kobika na yango, mbala mosusu omitunaki soki ekokaki kopekisama, mpe soki okoki kopekisa ete ekomela yo. Lokasa oyo elobeli polele oyo bolukiluki elobi mpenza. Eyano ya mokuse: moto moko te akoki kolaka ete demansia ekopekisama, kasi bolukiluki elakisi ete makama mosusu ekoki kokitisama, mpe kokitisa yango na kati ya bato ebele ekoki kosala ete bato moke bakezwa demansia to bakoyezwa na yango na sima.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Oyo ezali sango ya lolenge nyonso, ezali te toli ya monganga. Tosengi otanga [maloba na biso mpo na makambo ya bokolongono](/medical-disclaimer/) mpe olobela na monganga na ntina ya bokolongono na yo.
 
-## Can dementia be prevented?
+## Bakoki kopekisa demansia?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Ezali na nzela moko te oyo endimami mpo na kopekisa demansia mpo na moto nyonso. National Institute on Aging (NIA) elobi ete atako [eloko moko te endimami sikoyo mpo na kopekisa maladi ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), balukiluki bazwi mayele mosusu ya malamu mpe bazali koyekola nini ekoki kosala mpe nini ekoki kosala te.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Kasi oyo bolukiluki *emonisi* ezali ete makambo mosusu ya bokolongono mpe bizaleli ekangani na libaku monene ya kozwa demansia. Soki makama yango ekiti na kati ya bato ebele, ekoki kosala ete bato moke bakezwa demansia, to bakoyezwa na yango na sima ya bomoi. Yango ekeseni mpenza na elaka.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Elembo moko ya elikya: Komisi ya Lancet ya 2024 elobaki ete na mikili mosusu ya bozwi, bakisa mpe États-Unis mpe Royaume-Uni, ndambo ya bato ya mibu mingi oyo bazali na demansia ekiti. Bakomi bakanisi ete yango ekoki kozala ndambo mpo na mateya ya malamu, lisalisi ya bokolongono ya malamu mpe kobungisa mabe ya nzoto na boumeli ya bomoi, kolanda [lisolo ya University College London mpo na lapolo yango](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Komisi ya Lancet ya 2024 emonaki nini?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Komisi ya Lancet mpo na kopekisa, kosalisa mpe kobatela demansia ezali lisanga ya balukiluki 27 ya demansia oyo batalelaka bilembo nyonso mbala na mbala. Lapolo na bango ya 2024 etangaki **makambo 14 ya makama** oyo ekoki mbala mosusu kobongwana, mpe ekani ete esika moko ezali na ntina ya **pene na ndambo (pene na 45%) ya makambo ya demansia na mokili mobimba**. Na maloba ya bakomi, makambo yango ekokaki *na likanisi* kopekisama to kozela soki makama elongolamaki ([lapolo ya Komisi ya Lancet ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Makambo 14 yango, ekabwami kolanda eleko ya bomoi epai wapi bilembo ezali makasi mingi:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Bolenge:** mateya ya moke.
+- **Katikati ya bomoi (pene na mibu 40 kino 65):** kobungisa koyoka, LDL cholesterol ("mabe") ya likolo, mawa ya motema ya molayi, kozoka na moto, kozanga kosala ngalasisi ya nzoto, diabete, komela makaya, tension ya likolo, kilo ya mingi, mpe komela masanga mingi.
+- **Mibu ya sima:** kovanda yo moko, mbindo ya mopepe, mpe mikakatano ya komona oyo esalisami te.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Makambo mibale ya sika oyo ebakisamaki na 2024 ezalaki LDL cholesterol ya likolo mpe mikakatano ya komona oyo esalisami te. Makambo oyo ekangani na ndambo monene ya makambo ezalaki kobungisa koyoka mpe LDL cholesterol ya likolo (pene na 7% mokomoko), elandi na mateya ya moke mpe kovanda yo moko (pene na 5% mokomoko).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Lisolo na biso mpo na makambo ya makama](/brain-health/risk-factors/) etali makambo 14 nyonso na etanda, elobi nini bolukiluki ekangisi mpe nini okoki kosala.
 
-### What the 45% figure does not mean
+### Nini motango ya 45% elakisi te
 
-It is easy to misread this number, so it helps to be precise:
+Ezali pete kososola motango oyo, yango wana ezali malamu kozala polele:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Ezali ekano mpo na bato ebele.** Elobeli makambo ya demansia na mokili mobimba, kasi te mabaku na yo to mabaku ya tata to mama na yo.
+- **Ekanisi ete ezali na boyokani ya ntina.** Bakomi balobi ete batyaki kaka makambo ya makama oyo ezali na bilembo ya makasi, kasi ete bokangani mosusu ekoki kozala ndambo ya ntina kaka. Na ndakisa, mawa ya motema ya molayi na mibu ya sima ekoki kozala mbala mosusu elembo ya ebandeli ya demansia na esika ya kozala ntina na yango.
+- **Epesi ndanga te mpo na moto moko.** Lisolo ya UCL elobi ete kokitisa makama esalaka na nivo ya bato ebele mpe epesi te ndanga ete moto moko akokima demansia.
+- **Ndambo mosusu elobelami te na makambo oyo.** Mibu ya mbotama, binkoko mpe bantina oyo bato ya siansi bayebi naino te ezali na ndambo mosusu.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Bokeseni nini kati ya "kokitisa makama" mpe "kopekisa"?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Kokitisa makama** elakisi kokitisa mabaku. Soki lisanga monene ya bato ekitisi tension na bango, ekoki kozala ete bato moke na kati na bango bakozwa demansia na boumeli ya bambula mingi koleka soki basalaki bongo te. Bato mosusu na lisanga yango bakoki kaka kozwa yango.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Kopekisa** elakisi kotelemisa eloko moko ete esalema ata moke te. Mpo na demansia, bolukiluki ekoki naino te kolaka yango na moto nyonso lelo.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Balukiluki balobaka mpe mpo na **kopekisa ebanda na lombango**. Komisi ya Lancet elobi ete bilembo ya sika elakisi ete kokitisa makama ekoki kopusa sima ntango demansia ebandaka mpe kokitisa ntango oyo moto akobika na bokolongono ya mabe. Ata kozela ya bambula mike ekoki kozala na ntina monene mpo na moto mpe libota na ye.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Na site oyo, tosalelaka "kokitisa makama" mpe "ekangani na" na makanisi ya polele. Soki omoni eloko ya koteka, nkisi ya kobakisa to manaka oyo elakaka "kopekisa maladi ya Alzheimer", zala na bokebi. NIA epesi toli ya kotuna monganga liboso ya komeka nkisi to lisalisi nyonso oyo elakaka kopekisa maladi ya Alzheimer, mpo biloko ya ndenge wana ekoki kozala mabe, kobebisa mbongo, to nyonso mibale.
 
-## What have large trials found?
+## Bomekoli ya minene emonaki nini?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Bolukiluki oyo etalelaka ndenge makambo esalemaka na boumeli ya ntango ekoki komonisa bokangani. Bomekoli ya mbalakaka, epai bato batyami na manaka moko to na lisanga mosusu na libaku, ezali komekolo ya makasi mingi. Tala nini bomekoli mosusu oyo eyebani mingi emonaki.
 
-### FINGER (Finland)
+### FINGER (Finlande)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Bomekoli ya FINGER ekotisaki bato 1,260 ya mibu 60 kino 77 oyo bazalaki na makama monene ya demansia. Ndambo bazwaki manaka ya mibu mibale ya toli ya bilei, ngalasisi ya nzoto, masano ya makanisi na ordinatɛrɛ mpe botalisi ya bokolongono ya motema mpe ya nzoto; ndambo mosusu bazwaki toli ya bokolongono ya ndenge nyonso. Lisanga ya manaka esalaki mwa malamu moke na bomekoli ya makanisi, bokeseni ya moke kasi ya motuya na mibeko ya bolukiluki ([bomekoli ya FINGER na The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Bomekoli yango emeaki mbano ya bomekoli, kasi te ndimisami ya demansia.
 
-### US POINTER (United States)
+### US POINTER (États-Unis)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER ekotisaki bato 2,111 ya mibu 60 kino 79 oyo bazalaki kosala ngalasisi ya nzoto te mingi, bazalaki na bilei ya malamu te mpe bazalaki na makama mosusu. Mangomba nyonso mibale elendisamaki kosala mingi na nzoto mpe na makanisi, kolia malamu, kotikala na boyokani na bato mpe kotala bokolongono ya motema. Lisanga moko ezwaki manaka oyo ebongisami malamu na motambwisi; mosusu emitambwisaki yango moko. Na boumeli ya mibu mibale, mbano ya bomekoli ya makanisi ebongaki na **mangomba nyonso mibale**, mpe mwa mingi moke na lisanga oyo ebongisami malamu ([bomekoli ya US POINTER na JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Bakomi balobi ete esengeli kolanda lisusu mpo na koyeba soki bokeseni yango ezali na ntina na bomoi ya mokolo na mokolo. Lokola ezalaki na lisanga te ya "kosala eloko moko te", bomekoli ekoki te koloba soki manaka moko na moko esalisaki boni soki tokokanisi na kozanga kobongola eloko.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (tension ya likolo)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND etalelaki bato 9,361 ya États-Unis ya mibu 50 mpe koleka oyo bazalaki na tension ya likolo. Batyamaki na mokano ya tension ya se koleka (motango ya likolo na nse ya 120) to mokano ya momesano (na nse ya 140). Mokano ya se ekitisaki mingi **bobungisi ya moke ya makanisi**, eleko ya mikakatano ya komikundola mpe ya makanisi oyo ekoki koya liboso ya demansia. Mpo na **demansia oyo ekanisami**, ezalaki na makambo moke na lisanga ya mokano ya se, kasi bokeseni yango ezalaki te ya motuya na mibeko ya bolukiluki. Bomekoli esukaki liboso mpe ezalaki na makambo ya demansia moke koleka oyo bazelaki, yango wana ekoki kozala moke mingi mpo na koyanola na motuna yango ([SPRINT MIND na JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Nini botalisi ya bomekoli nyonso esangisi
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Botalisi ya Cochrane ya 2021 esangisaki bomekoli libwa ya minene ya manaka oyo esimbaka makama ebele na mbala moko, na bato koleka 18,000. Emonaki litomba ya moke na bomekoli ya makanisi, kasi **bokeseni ya polele te na motango ya bato oyo bazwaki demansia** na bomekoli mibale oyo emeaki yango ([botalisi ya Cochrane mpo na manaka ya makambo ebele](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Botalisi ya 2017 ya National Academies of Sciences, Engineering, and Medicine, oyo NIA esali lisolo na yango, emonaki bilembo "ya elikya kasi ya sikisiki te" mpo na mayele misato: kotambwisa tension ya likolo, kobakisa mosala ya nzoto, mpe koteya makanisi.
 
-## Does it matter when you start?
+## Ezali na ntina kobanda ntango nini?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Toli ya Komisi ya Lancet ezali kokitisa makama noki ndenge ekoki mpe kobatela yango na se mpo na ntango molai ndenge ekoki: "ndenge ezali liboso, ezali malamu" mpe "ndenge ezali molayi, ezali malamu." Elobi mpe ete ezali ntango nyonso te ya liboso mingi to ya sima mingi mpo na kokitisa makama. Mingi ya bilembo etali eleko ya katikati ya bomoi, pene na mibu 40 kino 65, kasi makambo mosusu, lokola mikakatano ya komona mpe kovanda yo moko, ezali makama ya mibu ya sima epai kosala eloko ekoki naino kozala na tina.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Lapolo elobi ete sikoyo ezali na bilembo ya makasi mingi ete komitika ntango molayi na likama epesaka bopusi monene. Na ndakisa, diabete oyo ebandi na katikati ya bomoi emonani lokola ezali na ntina mingi koleka diabete oyo ebandi na sima.
 
-## Is dementia risk the same for everyone?
+## Makama ya demansia ezali ndenge moko mpo na bato nyonso?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Te. Komisi emonaki ete bato ya mikili ya bozwi ya moke to ya katikati, bato ya bituluku ya moke mpe bato oyo bazali na mbongo moke mingi mingi bazali na makama oyo mingi, yango wana demansia ebandaka mingi na mibu ya mike. Makama mingi ekangani na makambo oyo bato bapona te, lokola lolenge ya mateya oyo bazwaki lokola bana, mopepe ya esika oyo bafandaka, mpe soki bilei ya malamu ezali na ntalo ya malamu mpe ezali pene.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Yango wana toli ya Komisi ezali mpo na bakonzi lokola ezali mpo na bato: mateya ya malamu mpo na bana nyonso, mopepe ya peto, bibongiseli mpo na kokitisa komela makaya, kokitisa sukali mpe mungwa na bilei oyo batekaka na bamagazini mpe na baresito, mpe bisaleli ya koyoka mpo na moto nyonso oyo azali na posa na yango. Milende ya moto ezali na ntina, kasi mokili oyo bato bazali kobika mpe ezali na ntina. Ezali ntina mosusu ya kopesa foti te na moto moko mpo na demansia.
 
-## What are the honest limits of this research?
+## Bandelo ya solosolo ya bolukiluki oyo ezali nini?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demansia esalaka bambula ebele mpo na kokola**, kasi bomekoli mingi eumelaka mibu mibale kino mitano. Komeka demansia yango moko, kasi te kaka mbano ya bomekoli, esengaka bolukiluki ya molayi mingi mpe ya monene mingi.
+- **Bomekoli mingi emekaka bomekoli ya makanisi.** Kobonga moke na bomekoli elakisi te ntango nyonso ete bato moke bakozwa demansia to ete bomoi ya mokolo na mokolo ekozala pete.
+- **Bato oyo bandimaka kokota na bomekoli bazalaka mingi na bokolongono ya malamu** mpe na mateya mingi koleka bato nyonso. Komisi ya Lancet elobi ete mingi ya bilembo ezali naino kouta na mikili ya bozwi mpe ete bituluku ya moke ezwami te mingi.
+- **Bokangani mosusu ezali na banzela nyonso mibale.** Kozanga kosala ngalasisi ya nzoto to kozanga boyokani na bato ekoki kozala bopusi ya ebandeli ya demansia, kasi te ntina kaka.
+- **Bomekoli ya bilei emonisi elikya moke kino sikoyo.** Bomekoli ya mibu misato ya bilei ya MIND emonisaki bokeseni ya motuya te na makanisi soki tokokanisi yango na bilei mosusu. Tala [lisolo na biso mpo na bilei](/brain-health/diet/).
+- **Masano ya makanisi endimami te ete epekisaka demansia.** Tala lisolo na biso mpo na [masano ya makanisi mpe demansia](/brain-health/brain-games/).
+- **Kokila bilei ezali na bilembo ya moke mingi mpo na bato**, mpe ekoki kozala na likama mpo na mikóló. Tala [lisolo na biso mpo na kokila bilei](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Soki moto asalaki makambo nyonso "malamu", mpo na nini azwaki kaka demansia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Pamba te demansia ezali te kaka mbano ya baponami. NIA elobi ete [mibu ya mbotama ezali likama monene oyo eyebani mpo na maladi ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), mpe moto moko te akoki kobongola yango. Binkoko ezali na ndambo. Mpe bato ya siansi bayebi naino te mpenza nini esalaka maladi ya Alzheimer mpo na bato mingi. Ata soki makambo nyonso 14 ya makama elongolamaki, ekano ya Komisi ya Lancet yango moko etiki koleka ndambo ya makambo kozanga ndimbola.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Yango wana soki ozali kobatela moto oyo asalaka ngalasisi ya nzoto, aliaki malamu, amelaki makaya te mpe azwaki kaka demansia, eloko moko te ekendeki mabe mpo na ye, to mpo na yo. Soki yo moko ozali kobika na demansia, ezali foti na yo te. Komiyoka mabe ezali mingi na mabota, kasi ebongi te. Oyo ezali na ntina sikoyo ezali kimia, boyokani mpe mikolo ya malamu, mpe [makanisi na biso ya misala](/activities/ideas/) mpe [lisolo na biso mpo na kobatela yo moko lokola mobateli](/caregiving/caregiver-self-care/) ezali bisika ya malamu mpo na kobanda.
 
-## What steps can you talk over with a doctor?
+## Makambo nini okoki kolobela na monganga?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Oyo ezali makambo oyo batalelamaki mingi. Ebongi kolobela yango na botali ya monganga mpo mingi na yango esalisaka bokolongono ya motema, ezalela ya motema mpe komikokisa, ata soki bopusi na yango na demansia ekomonana ndenge nini.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Tension ya likolo.** Tuna motango na yo ezali boni mpe mokano nini ekokani na yo. Komisi ya Lancet epesi likanisi ya koluka motango ya likolo ya 130 to na se kobanda pene na mibu 40, kasi mokano ya malamu mpo na mokóló etali bokolongono na ye mobimba.
+2. **Koyoka.** Tuna mpo na bomekoli ya koyoka, mpe soki bisaleli ya koyoka ekoki kosalisa. [Lisolo na biso mpo na koyoka](/brain-health/hearing/) elimboli bolukiluki.
+3. **Komona.** Sala bomekoli ya miso mbala na mbala mpe tuna soki mikakatano lokola cataracte ekoki kosalisama.
+4. **Cholesterol.** Tuna soki LDL cholesterol na yo esengeli kotalama mpe soki esengeli kobongola eloko.
+5. **Sukali ya makila.** Soki ozali na diabete, tuna ndenge ya kotambwisa yango na kimia.
+6. **Ezalela ya motema.** Mawa ya motema ya molayi ezali mingi mpe ekoki kosalisama. Yebisa monganga soki omiyokaka mabe to obungisi posa ya makambo koleka baposo mibale.
+7. **Komela makaya mpe masanga.** Tuna lisalisi mpo na kotika komela makaya mpe mpo na ndelo ya kimia mpo na masanga.
+8. **Koningana.** Tuna lolenge nini ya mosala ya nzoto ezali na kimia mpo na yo. [Lisolo na biso mpo na ngalasisi ya nzoto](/brain-health/exercise/) ezali na makanisi.
+9. **Kobatela moto.** Lata ekoti ya moto mpo na kowelisa velo mpe masano ya kobundana, mpe tuna ndenge ya kopekisa kokweya.
+10. **Kotikala na boyokani na bato.** Ntango elongo na bato mosusu ezali eteni ya bomoi ya malamu. Tala lisolo na biso mpo na [boyokani na bato](/brain-health/social-connection/), mpe mpo na [pongi](/brain-health/sleep/) mpe.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Liboso ya kobongola bankisi, bilei, nkisi ya kobakisa, kokila bilei to ngalasisi ya nzoto, lobela na monganga na yo liboso, mingimingi soki ozali na maladi ya motema, diabete, likambo ya kokweya na kala, to soki ozali kobika na demansia.
 
-## Talk with a doctor
+## Lobela na monganga
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Soki omoni mbongwana ya komikundola to ya makanisi oyo etungisi yo, na yo moko to na moto mosusu, zwa mokolo ya kokutana na monganga. NIA elobi ete [mikakatano ya komikundola ekoki kozala na bantina mosusu](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), lokola bopusi ya bankisi, mikakatano ya thyroïde, mawa ya motema ya molayi to vitamine B12 ya moke, mpe ete mikakatano mosusu ekoki kosila soki ntina na yango esalisami. [Lisolo na biso mpo na bilembo ya likebi](/brain-health/warning-signs/) elimboli nini osengeli kotala.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Luka lisalisi ya lombango** mpo na mbongwana ya mbalakata: libulungano ya mbalakata, bolembu to kokufa ya eteni moko ya nzoto, mikakatano ya koloba, to mpasi makasi ya moto ekoki kozala bilembo ya AVC to likama mosusu. Benga 911.
 
-## Where Golden Moments fits
+## Esika nini Golden Moments ezali
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments esalaka misala ya pete ya kosala elongo, lokola [bakarte ya masolo](/games/conversation-cards/), [bingo ya bilili](/games/picture-bingo/) mpe [kopema ya kimia](/games/calm-breathing/). Ezali mpo na kosepela mpe mpo na kolekisa ntango elongo. Ezali te lisalisi ya monganga, mpe epekisaka te to ekitisaka te demansia.

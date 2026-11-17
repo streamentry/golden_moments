@@ -1,33 +1,33 @@
 ---
-title: "Zajęcia na świeżym powietrzu i ogrodnictwo dla osób z demencją"
-seoTitle: "Ogrodnictwo i zajęcia na dworze dla osób z demencją"
-description: "Pomysły na ogrodnictwo i zajęcia na dworze dla osób z demencją, z podwyższonymi grządkami, uprawą w donicach oraz wskazówkami o upale, słońcu i oddalaniu się."
+title: "Ogród i zajęcia na świeżym powietrzu przy demencji"
+seoTitle: "Ogród i zajęcia na świeżym powietrzu przy demencji"
+description: "Pomysły na zajęcia w ogrodzie i na świeżym powietrzu dla osób żyjących z demencją, z podwyższonymi grządkami, donicami i wskazówkami dotyczącymi upału, słońca i oddalania się."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Ogrodnictwo i czas na dworze mogą być spokojnym, znajomym zajęciem dla
-  osoby z demencją. Spróbujcie podlewania, sadzenia ziół w doniczkach,
-  usuwania przekwitłych kwiatów albo krótkiego spaceru po ogrodzonym ogrodzie.
-  Używaj podwyższonych grządek lub stołu, żeby nikt nie musiał klęczeć, unikaj
-  ostrych narzędzi i trujących roślin, wychodź w chłodniejszej porze dnia i
-  zawsze zostawaj z osobą.
+  Prace w ogrodzie i czas na świeżym powietrzu mogą być spokojnym, znajomym
+  zajęciem dla osoby żyjącej z demencją. Możecie spróbować podlewania, sadzenia
+  ziół w doniczkach, usuwania przekwitłych kwiatów lub krótkiego spaceru po
+  ogrodzonym podwórku. Korzystajcie z podwyższonych grządek lub stołu, aby nikt
+  nie musiał klękać, unikajcie ostrych narzędzi i roślin trujących, wychodźcie
+  w chłodniejszej porze dnia i zawsze zostawajcie z osobą, którą się opiekujesz.
 keyPoints:
-  - "Proste prace w ogrodzie, takie jak podlewanie, sadzenie nasion w doniczkach, wąchanie ziół i zrywanie kwiatów, można wykonywać na stojąco lub na siedząco."
-  - "Podwyższone grządki, donice i stół pod zadaszeniem przenoszą ogród na wysokość pasa i zmniejszają ryzyko upadków."
-  - "Unikaj ostrych narzędzi, kolczastych albo drażniących roślin i wszystkiego, co trujące. Pilnuj, żeby ziemi nie wziąć za jedzenie."
-  - "Upał może być niebezpieczny dla starszych osób. Wychodź wcześnie lub późno, zabierz wodę i cień i wejdź do środka przy pierwszych oznakach dyskomfortu."
-  - "Wiele osób z demencją w pewnym momencie się oddala. Zostawaj z osobą na dworze i miej pod ręką świeże zdjęcie oraz dokument tożsamości."
+  - "Proste prace w ogrodzie, takie jak podlewanie, sianie nasion w doniczkach, wąchanie ziół i zbieranie kwiatów, można wykonywać na stojąco lub na siedząco."
+  - "Podwyższone grządki, donice i nakryty stół pozwalają mieć ogród na wysokości pasa i zmniejszają ryzyko upadku."
+  - "Unikajcie ostrych narzędzi, roślin kłujących lub drażniących oraz wszystkiego, co trujące. Uważajcie, aby ziemia nie została pomylona z jedzeniem."
+  - "Upał może być niebezpieczny dla osób starszych. Wychodźcie wcześnie rano lub później, miejcie ze sobą wodę i cień, a przy pierwszych oznakach dyskomfortu wróćcie do domu."
+  - "Wiele osób żyjących z demencją w pewnym momencie oddala się z domu. Zostawajcie z osobą na zewnątrz i miejcie pod ręką aktualne zdjęcie oraz dokument tożsamości."
 faq:
-  - q: "Jakie prace ogrodnicze może wykonywać osoba z demencją?"
-    a: "Podlewanie roślin, sadzenie nasion w małych doniczkach, wąchanie i dotykanie ziół, usuwanie przekwitłych kwiatów, zrywanie warzyw, układanie ciętych kwiatów i zamiatanie ścieżki to dobre wybory. W domu dobrze sprawdza się doniczka z ziołami na parapecie albo taca z ziemią na stole pod zadaszeniem. Wybierz zadanie według tego, co osoba lubiła dawniej i co może robić wygodnie teraz."
-  - q: "Jak zadbać o bezpieczeństwo osoby z demencją w upale?"
-    a: "Zaplanuj czas na dworze na chłodniejszy wczesny ranek albo wieczór, niech będzie krótki, i często proponuj wodę. Wybierz cień, kapelusz z szerokim rondem, lekkie, luźne ubranie i krem z filtrem. Starsze osoby są bardziej narażone na choroby wywołane upałem, a dezorientacja, zawroty głowy albo nudności mogą być znakami ostrzegawczymi, więc jeśli je zauważysz, od razu wejdźcie do środka i ochłodźcie się."
-  - q: "Jak wychodzić na dwór, jeśli osoba ma skłonność do oddalania się?"
-    a: "Zostawaj z osobą przez cały czas, korzystaj z ogrodzonego podwórka albo ogrodu z zamykaną furtką i upewnij się, że nosi opaskę z danymi albo ma przy sobie dokument. Miej pod ręką świeże zdjęcie. Jeśli osoba zaginie, Alzheimer's Association radzi dzwonić pod numer alarmowy (w Polsce 112, w USA 911), jeśli nie zostanie odnaleziona w ciągu 15 minut."
-  - q: "Co, jeśli nie mamy ogrodu?"
-    a: "Wystarczy kilka donic na balkonie, skrzynka na parapecie albo taca z ziołami na kuchennym stole. Można też odwiedzić park, ogród publiczny albo ogródek działkowy czy wspólnotowy. Siedzenie na dworze i słuchanie ptaków też jest zajęciem na świeżym powietrzu."
+  - q: "Jakie prace w ogrodzie może wykonywać osoba z demencją?"
+    a: "Podlewanie roślin, sianie nasion w małych doniczkach, wąchanie i dotykanie ziół, usuwanie przekwitłych kwiatów, zbieranie warzyw, układanie ściętych kwiatów i zamiatanie ścieżki to dobre wybory. W domu dobrze sprawdzi się doniczka z ziołami na parapecie lub taca z ziemią na nakrytym stole. Dobierajcie zajęcie do tego, co osoba lubiła wcześniej i co może teraz wygodnie robić."
+  - q: "Jak dbać o bezpieczeństwo osoby z demencją w upale?"
+    a: "Planujcie czas na zewnątrz na chłodniejszy poranek lub wieczór, niech będzie krótki i często podawajcie wodę. Wybierajcie cień, kapelusz z szerokim rondem, lekkie, luźne ubranie i krem z filtrem. Osoby starsze są bardziej narażone na choroby związane z upałem, a splątanie, zawroty głowy lub nudności mogą być sygnałami ostrzegawczymi, więc jeśli je zauważysz, od razu wróćcie do środka i schłodźcie się."
+  - q: "Jak możemy wychodzić na zewnątrz, jeśli osoba ma tendencję do oddalania się?"
+    a: "Zostawajcie z osobą przez cały czas, korzystajcie z ogrodzonego podwórka lub ogrodu z zamkniętą furtką i upewnijcie się, że osoba ma bransoletkę z danymi lub nosi przy sobie dokument tożsamości. Miejcie pod ręką aktualne zdjęcie. Jeśli osoba się zgubi, niezwłocznie skontaktujcie się z lokalną policją lub służbami ratunkowymi; nie czekajcie określonej liczby minut. Powiedzcie służbom, że osoba żyje z demencją, gdzie była widziana ostatnio, i przekażcie aktualne zdjęcie."
+  - q: "Co jeśli nie mamy ogrodu?"
+    a: "Wystarczy kilka doniczek na ganku, skrzynka na oknie lub taca z ziołami na kuchennym stole. Możecie też odwiedzić park, ogród publiczny lub ogród społeczny. Siedzenie na zewnątrz i słuchanie ptaków też jest zajęciem na świeżym powietrzu."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Dla wielu osób ogród to jedno z najbardziej znajomych miejsc. Kopanie, podlewanie i zrywanie kwiatów wykorzystują umiejętności nabyte dawno temu, a przebywanie na dworze to świeże powietrze, słońce i śpiew ptaków. National Institute on Aging wymienia opiekę nad roślinami, sadzenie kwiatów i warzyw oraz [rozmowę o tym, jak rosną rośliny](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) wśród zajęć, które mogą sprawiać przyjemność osobom z chorobą Alzheimera. Ta strona opisuje, co wypróbować, jak ułatwić korzystanie z ogrodu i jak zadbać o bezpieczeństwo w upale, na słońcu i przy oddalaniu się.
+Dla wielu osób ogród to jedno z najbardziej znajomych miejsc. Kopanie, podlewanie i zbieranie kwiatów wykorzystują umiejętności nabyte dawno temu, a przebywanie na zewnątrz daje świeże powietrze, światło słoneczne i śpiew ptaków. National Institute on Aging wymienia opiekę nad roślinami, sadzenie kwiatów i warzyw oraz [rozmawianie o tym, jak rosną rośliny](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) wśród zajęć, które mogą sprawiać przyjemność osobom z chorobą Alzheimera. Na tej stronie znajdziesz pomysły, co robić, jak ułatwić korzystanie z ogrodu i jak dbać o bezpieczeństwo w upale, w słońcu oraz gdy osoba ma tendencję do oddalania się.
 
-## Jakie zajęcia na dworze i w ogrodzie się sprawdzają?
+## Jakie zajęcia w ogrodzie i na świeżym powietrzu sprawdzają się dobrze?
 
-Najlepsze zadania są proste, znajome i można je wykonywać na stojąco lub na siedząco. Wybieraj według tego, co osoba dawniej lubiła.
+Najlepsze są proste, znajome czynności, które można wykonywać na stojąco lub na siedząco. Wybierajcie je na podstawie tego, co osoba lubiła kiedyś.
 
 ### W ogrodzie
 
-1. **Podlewanie.** Mała, lekka konewka albo łagodna końcówka węża ogrodowego i kilka doniczek w zasięgu ręki. Podlewanie ma wyraźny początek i koniec i trudno je zrobić źle.
-2. **Sadzenie nasion w doniczkach.** Alzheimer's Foundation of America radzi sadzić nasiona w małych doniczkach i [obserwować, jak rosną](https://alzfdn.org/dementia-activity-gardening/). Duże nasiona, takie jak fasola, słonecznik czy groch, łatwiej brać do ręki.
-3. **Usuwanie przekwitłych kwiatów.** Ręczne odrywanie przekwitłych kwiatów to łagodne, powtarzalne zadanie. Wybieraj rośliny bez kolców.
-4. **Zrywanie warzyw lub ziół.** Pomidorki koktajlowe, fasolę i zioła łatwo zerwać i miło spróbować. Przynieście je do domu i użyjcie do obiadu.
-5. **Wąchanie i dotykanie ziół.** Rozmaryn, mięta i lawenda mają mocny, przyjemny zapach. Rozetrzyj liść w palcach i podaj osobie.
-6. **Zamiatanie ścieżki lub tarasu.** Lekka miotła na płaskiej, suchej powierzchni, jeśli równowaga jest pewna.
-7. **Napełnianie karmnika dla ptaków.** Potem usiądźcie razem i patrzcie, kto przyleci z wizytą.
+1. **Podlewanie.** Mała, lekka konewka lub delikatna końcówka węża i kilka doniczek w zasięgu ręki. Podlewanie ma wyraźny początek i koniec i trudno je zrobić źle.
+2. **Sianie nasion w doniczkach.** Alzheimer's Foundation of America sugeruje sianie nasion w małych doniczkach i [obserwowanie, jak rosną](https://alzfdn.org/dementia-activity-gardening/). Duże nasiona, takie jak fasola, słoneczniki czy groszek, łatwiej wziąć do ręki.
+3. **Usuwanie przekwitłych kwiatów.** Odcinanie palcami zwiędłych kwiatów to delikatne, powtarzalne zajęcie. Wybierajcie rośliny bez kolców.
+4. **Zbieranie warzyw lub ziół.** Pomidorki koktajlowe, fasolka i zioła łatwo zebrać i miło spróbować. Zabierzcie je do domu, aby użyć przy obiedzie.
+5. **Wąchanie i dotykanie ziół.** Rozmaryn, mięta i lawenda mają wyraźny, przyjemny zapach. Potrzyjcie listek w palcach i podajcie go dalej.
+6. **Zamiatanie ścieżki lub tarasu.** Lekka miotła na płaskiej, suchej powierzchni, jeśli równowaga jest stabilna.
+7. **Napełnianie karmnika dla ptaków.** Potem usiądźcie razem i obserwujcie, kto przyleci.
 
-### W domu, gdy wyjście nie jest możliwe
+### W domu, gdy wyjście na zewnątrz nie jest możliwe
 
-- **Ogródek ziołowy na parapecie** z bazylią, pietruszką albo szczypiorkiem.
-- **Sadzenie w doniczkach przy stole pod zadaszeniem.** AFA radzi używać tac jak ze stołówki, żeby ziemia została w jednym miejscu, i przesypywać ziemię małymi kubkami.
-- **Układanie kwiatów** z ciętych kwiatów i zieleni z ogrodu albo ze sklepu.
-- **Suszone kwiaty** z bukietu, później przyklejane do kartek. Więcej w [pracach plastycznych](/activities/arts-and-crafts/).
-- **Robienie woreczków z lawendą albo różą**, kolejny pomysł AFA, który zachowuje zapach ogrodu w domu.
+- **Ogródek z ziół na parapecie** z bazylią, pietruszką lub szczypiorkiem.
+- **Sadzenie w doniczkach na nakrytym stole.** AFA sugeruje użycie tac w stylu stołówkowym, aby utrzymać ziemię w jednym miejscu, i przenoszenie ziemi małymi kubeczkami.
+- **Układanie kwiatów** ze ściętych kwiatów i zieleni z ogrodu lub sklepu spożywczego.
+- **Suszenie kwiatów** z bukietu, które później można przykleić na kartki. Więcej pomysłów znajdziesz w części [sztuka i rękodzieło](/activities/arts-and-crafts/).
+- **Robienie saszetek lawendowych lub różanych**, to kolejny pomysł AFA, który pozwala zachować zapach ogrodu w domu.
 
-### Wyjście z domu
+### Wyjścia poza dom
 
-- **Krótki spacer** wokół budynku, po parku albo po centrum ogrodniczym, w wolnym tempie i z miejscem do siedzenia.
-- **Siedzenie na dworze** na balkonie albo na ławce, żeby słuchać ptaków i czuć powiew wiatru. To pełne zajęcie samo w sobie.
-- **Odwiedziny w ogrodzie publicznym** o spokojnej porze dnia. NHS zauważa, że w niektórych miejscach są ogrody zmysłów z pachnącymi roślinami, fakturami i elementami wodnymi.
-- **Karmienie kaczek albo obserwowanie ptaków** nad pobliskim stawem, z zachowaniem bezpiecznej odległości od brzegu wody.
+- **Krótki spacer** wokół domu, po parku lub do centrum ogrodniczego, w wolnym tempie i z miejscem do siedzenia.
+- **Siedzenie na zewnątrz** na ganku lub ławce, aby posłuchać ptaków i poczuć powiew wiatru. To samo w sobie jest pełnym zajęciem.
+- **Wizyta w ogrodzie publicznym** o spokojniejszej porze dnia. NHS zauważa, że w niektórych miejscach są ogrody sensoryczne z pachnącymi roślinami, różnymi fakturami i elementami wodnymi.
+- **Karmienie kaczek lub obserwowanie ptaków** przy lokalnym stawie, zachowując bezpieczną odległość od brzegu.
 
 ## Jak ułatwić korzystanie z ogrodu?
 
-Przenieś ogród do osoby, a nie odwrotnie.
+Przybliżcie ogród do osoby, a nie odwrotnie.
 
-- **Podwyższone grządki albo wysokie donice** mniej więcej na wysokości pasa oznaczają brak klęczenia i schylania się.
-- **Donice na stole** sprawdzają się u osób, które korzystają z wózka albo wolą siedzieć.
-- **Szerokie, równe ścieżki** bez luźnych kamieni i bez węży ogrodowych leżących w poprzek zmniejszają ryzyko potknięć.
-- **Siedziska z podłokietnikami i cień** po drodze, żeby odpoczynek był zawsze możliwy.
-- **Narzędzia z grubymi, miękkimi uchwytami**, które łatwo chwycić. Pomiń sekatory, noże i wszystko, co ostre.
-- **Ogrodzony teren z zamykaną furtką**, który osoba może swobodnie badać, gdy Ty jesteś w pobliżu.
+- **Podwyższone grządki lub wysokie donice** na wysokości mniej więcej pasa oznaczają brak klękania i schylania się.
+- **Donice na stole** sprawdzają się u osób poruszających się na wózku lub wolących siedzieć.
+- **Szerokie, równe ścieżki** bez luźnych kamieni i węży leżących na drodze zmniejszają ryzyko potknięcia.
+- **Siedziska z podłokietnikami i cieniem** wzdłuż trasy, aby odpoczynek zawsze był możliwy.
+- **Narzędzia z grubymi, miękkimi uchwytami**, które łatwo trzymać. Odłóżcie sekatory, noże i wszystko, co ostre.
+- **Ogrodzony teren z zamykaną furtką**, po którym osoba może swobodnie się poruszać, gdy Ty jesteś w pobliżu.
 
-## Których roślin unikać?
+## Jakich roślin należy unikać?
 
-Wybieraj rośliny, które są bezpieczne w dotyku i najlepiej także w razie spróbowania. AFA radzi używać roślin, które zwykle nie podrażniają skóry, sprawdzić alergie i uważnie obserwować każdego, kto mógłby wziąć ziemię za jedzenie. Wskazówki NIA o bezpieczeństwie w domu obejmują usunięcie albo zamknięcie trujących roślin.
+Wybierajcie rośliny bezpieczne w dotyku i, jeśli to możliwe, bezpieczne po przypadkowym spróbowaniu. AFA radzi używać roślin, które zwykle nie podrażniają skóry, sprawdzać alergie i uważnie obserwować osoby, które mogą pomylić ziemię z jedzeniem. Porady NIA dotyczące bezpieczeństwa w domu obejmują usunięcie lub zamknięcie trujących roślin.
 
-- Unikaj kolczastych róż, kaktusów i roślin z sokiem, który podrażnia skórę.
-- Każdą roślinę, której nie jesteś pewna lub pewien, sprawdź w ośrodku toksykologicznym albo w lokalnym centrum ogrodniczym, zanim ją posadzisz.
-- Znajome ulubione rośliny mogą przywołać przyjemne uczucia. AFA wymienia jako przykłady róże i grudnik (kaktus bożonarodzeniowy). Wybieraj odmiany bez kolców.
-- Trzymaj nawozy, pestycydy i środki na chwasty pod kluczem i nie używaj ich w miejscach dostępnych dla osoby.
+- Unikajcie róż z kolcami, kaktusów i roślin z sokiem drażniącym skórę.
+- Jeśli nie masz pewności co do rośliny, sprawdź ją w ośrodku kontroli zatruć lub lokalnym centrum ogrodniczym przed posadzeniem.
+- Znajome, ulubione rośliny mogą przywołać miłe wspomnienia. AFA wymienia róże i grudnika jako przykłady. Wybierajcie odmiany bez kolców.
+- Trzymajcie nawozy, pestycydy i środki chwastobójcze zamknięte i nie używajcie ich w miejscach dostępnych dla osoby, którą się opiekujesz.
 
-## Jak zachować bezpieczeństwo w upale i na słońcu?
+## Jak dbać o bezpieczeństwo w upale i słońcu?
 
-Zaplanuj czas na dworze według pogody. NIA wyjaśnia, że starsze osoby są bardziej narażone na [choroby związane z upałem](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), częściowo dlatego, że organizm gorzej dostosowuje się do zmian temperatury, a niektóre leki wpływają na to, jak ciało radzi sobie z gorącem.
+Planujcie czas na zewnątrz zgodnie z pogodą. NIA wyjaśnia, że osoby starsze są bardziej narażone na [choroby związane z upałem](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), między innymi dlatego, że organizm gorzej dostosowuje się do zmian temperatury, a niektóre leki wpływają na to, jak radzi sobie z ciepłem.
 
-- **Wychodź wcześnie lub późno.** W ciepłych miesiącach unikaj środka dnia. Sprawdzaj temperaturę odczuwalną, a nie tylko temperaturę.
-- **Często proponuj wodę.** Nie czekaj, aż osoba powie, że chce jej się pić. W upale unikaj alkoholu i napojów z kofeiną.
-- **Ubierz się odpowiednio.** Jasne, luźne ubranie, kapelusz z szerokim rondem i okulary przeciwsłoneczne.
-- **Używaj kremu z filtrem.** NIA zaleca krem o szerokim spektrum i SPF 15 lub wyższym, nakładany ponownie w ciągu dnia.
-- **Wybierz cień.** Ustaw stół do sadzenia pod drzewem albo parasolem.
-- **Niech będzie krótko.** Krótki pobyt na dworze może w zupełności wystarczyć, zwłaszcza w ciepłe dni.
-- **Obserwuj oznaki ostrzegawcze.** NIA wymienia ból głowy, dezorientację, zawroty głowy lub nudności jako możliwe oznaki choroby wywołanej upałem. Osoba z demencją może nie powiedzieć, że źle się czuje, więc obserwuj jej twarz i zachowanie. Wejdźcie do środka, ochłodźcie się wodą i chłodną ściereczką i poszukaj pomocy medycznej, jeśli szybko jej nie przejdzie. Udar cieplny, z objawami takimi jak omdlenie, dezorientacja albo sucha, zaczerwieniona skóra, to stan nagły: zadzwoń pod numer alarmowy 112 (w USA: 911).
+- **Wychodźcie wcześnie lub później.** Unikajcie środka dnia w ciepłych miesiącach. Sprawdzajcie wskaźnik upału, nie tylko temperaturę.
+- **Często podawajcie wodę.** Nie czekajcie, aż osoba powie, że chce jej się pić. W upale unikajcie alkoholu i napojów z kofeiną.
+- **Ubierzcie się odpowiednio.** Jasne, luźne ubrania, kapelusz z szerokim rondem i okulary przeciwsłoneczne.
+- **Stosujcie krem z filtrem.** NIA zaleca krem o szerokim spektrum działania z filtrem SPF 15 lub wyższym, ponownie nakładany w ciągu dnia.
+- **Wybierajcie cień.** Ustawcie stół do sadzenia pod drzewem lub parasolem.
+- **Niech to będzie krótko.** Nawet krótka chwila na zewnątrz może wystarczyć, szczególnie w ciepłe dni.
+- **Zwracajcie uwagę na sygnały ostrzegawcze.** NIA wymienia ból głowy, splątanie, zawroty głowy lub nudności jako możliwe objawy choroby związanej z upałem. Osoba z demencją może nie powiedzieć, że źle się czuje, więc obserwujcie jej twarz i zachowanie. Wejdźcie do środka, schłodźcie się wodą i chłodnym kompresem i poszukajcie pomocy medycznej, jeśli stan szybko się nie poprawi. Udar cieplny, którego objawami mogą być omdlenie, splątanie lub sucha, zaczerwieniona skóra, to stan zagrożenia życia: zadzwońcie pod numer alarmowy 112.
 
-Zimna pogoda też ma znaczenie. Zimą ograniczaj czas na dworze i dbaj, by ręce i stopy pozostawały ciepłe i suche.
+Chłodna pogoda też ma znaczenie. Zimą skracajcie czas na zewnątrz i zadbajcie o to, by dłonie i stopy były ciepłe i suche.
 
-## Jak postępować z oddalaniem się, gdy wychodzimy na dwór?
+## Jak radzić sobie z oddalaniem się podczas wyjść na zewnątrz?
 
-Zostawaj z osobą zawsze, gdy jest na dworze. Alzheimer's Association podaje, że [sześć na dziesięć osób z demencją](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) oddali się przynajmniej raz, a wiele robi to więcej niż raz. Może się to zdarzyć na każdym etapie.
+Zostawajcie z osobą zawsze, gdy jest na zewnątrz. Alzheimer's Association podaje, że [sześć na 10 osób żyjących z demencją](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) oddali się przynajmniej raz, a wiele osób robi to częściej. Może się to zdarzyć na każdym etapie.
 
-[Wskazówki NIA o oddalaniu się i gubieniu drogi](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) obejmują:
+[Wskazówki NIA dotyczące oddalania się i gubienia drogi](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) obejmują między innymi:
 
-- Upewnij się, że osoba nosi opaskę z danymi lub opaskę medyczną z imieniem i nazwiskiem, adresem i Twoim numerem telefonu albo oznacz jej ubrania.
-- Miej świeże zdjęcie lub nagranie osoby.
-- Powiedz sąsiadom, że osoba może się oddalać.
-- Zabezpiecz podwórko ogrodzeniem i zamkniętą furtką.
-- Nie zostawiaj bez opieki osoby, która już się oddalała.
+- Upewnijcie się, że osoba nosi identyfikator lub bransoletkę medyczną z imieniem i nazwiskiem, adresem i Twoim numerem telefonu albo ma podpisane ubranie.
+- Miejcie aktualne zdjęcie lub nagranie wideo osoby.
+- Poinformujcie sąsiadów, że osoba może się oddalać.
+- Zabezpieczcie podwórko płotem i zamkniętą furtką.
+- Nie zostawiajcie bez opieki osoby, która miała już tendencję do oddalania się.
 
-Alzheimer's Association radzi też stworzyć wewnętrzne i zewnętrzne miejsca, które można bezpiecznie badać, i planować zajęcia na porę dnia, w której niepokój jest najbardziej prawdopodobny. Spacer po bezpiecznym, ogrodzonym ogrodzie może dobrze pasować do niepokoju pod wieczór. Zobacz nasz poradnik o [niepokoju pod wieczór](/caregiving/late-day-restlessness/).
+Alzheimer's Association sugeruje też stworzenie bezpiecznych miejsc w domu i na zewnątrz, po których można się swobodnie poruszać, oraz planowanie zajęć na porę dnia, gdy niepokój pojawia się najczęściej. Spacer po bezpiecznym, ogrodzonym ogrodzie może dobrze sprawdzić się przy niepokoju pod koniec dnia. Zobacz nasz przewodnik o [niepokoju pod koniec dnia](/caregiving/late-day-restlessness/).
 
-Jeśli osoba rzeczywiście zaginie, Alzheimer's Association radzi od razu przeszukać okolicę i zadzwonić pod numer alarmowy (w Polsce 112, w USA 911), jeśli nie zostanie odnaleziona w ciągu 15 minut. Powiedz policji, że osoba ma demencję.
+Jeśli osoba się zgubi, sprawdźcie pobliskie bezpieczne miejsca, jednocześnie niezwłocznie kontaktując się z lokalną policją lub służbami ratunkowymi. Nie czekajcie określonej liczby minut przed zgłoszeniem. [Artykuł w czasopiśmie Departamentu Sprawiedliwości USA dotyczący poszukiwań osób zaginionych](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) z 2021 roku wskazuje, że służby nie powinny wymagać stałego okresu oczekiwania, i wymienia objawy podobne do demencji jako powód do szczególnej ostrożności. Lokalne procedury zgłaszania mogą się różnić. Przekażcie, kiedy i gdzie osoba była widziana ostatnio, co ma na sobie, oraz aktualne zdjęcie. Postępujcie zgodnie ze wskazówkami służb; nie przeszukujcie niebezpiecznych miejsc w pojedynkę.
 
-## Jak dostosowywać ogrodnictwo w miarę zmian?
+## Jak dostosować prace w ogrodzie, gdy sytuacja się zmienia?
 
-| Jeśli to stało się trudne | Spróbuj zamiast tego |
+| Jeśli to stało się trudne | Spróbujcie zamiast tego |
 | --- | --- |
-| Sadzenie całej grządki | Sadzenie jednego nasiona w jednej doniczce |
-| Pielenie (odróżnianie chwastów od roślin) | Podlewanie albo usuwanie wyraźnie przekwitłych kwiatów |
+| Sadzenie na całej grządce | Posadzenie jednego nasiona w jednej doniczce |
+| Pielenie (odróżnianie chwastów od roślin) | Podlewanie lub usuwanie wyraźnie zwiędłych kwiatów |
 | Chodzenie po ogrodzie | Siedzenie przy stole z tacą ziemi i rośliną |
-| Wychodzenie na dwór w ogóle | Doniczka z ziołami na kuchennym stole albo miejsce przy otwartym oknie |
-| Wykonywanie jakiegokolwiek zadania | Wspólne siedzenie na dworze, słuchanie i patrzenie |
+| Jakiekolwiek wyjście na zewnątrz | Doniczka z ziołami na kuchennym stole lub miejsce przy otwartym oknie |
+| Wykonywanie jakiegokolwiek zadania | Wspólne siedzenie na zewnątrz, słuchanie i obserwowanie |
 
-Niektórzy wolą patrzeć, jak Ty pracujesz. NIA zauważa, że pozwolenie osobie, by po prostu patrzyła, jest w porządku, jeśli to lubi.
+Niektóre osoby wolą patrzeć, jak pracujesz. NIA zauważa, że pozwolenie osobie po prostu obserwować jest w porządku, jeśli sprawia jej to przyjemność.
 
-## Kiedy wejść do środka?
+## Kiedy wrócić do środka?
 
-Wejdźcie, gdy osoba wygląda na zmęczoną, zbyt rozgrzaną, zmarzniętą, niespokojną albo gotową, by skończyć. Krótkie, przyjemne dziesięć minut jest lepsze niż długie popołudnie, które kończy się cierpieniem. Wcześniejsze zakończenie to dobry wynik.
+Wróćcie, gdy osoba wygląda na zmęczoną, przegrzaną, zmarzniętą, niespokojną lub gotową, by skończyć. Krótkie, przyjemne dziesięć minut jest lepsze niż długie popołudnie kończące się przykrością. Wcześniejsze zakończenie to dobry wynik.
 
-## Ogród w domu na ekranie
+## Ogród na ekranie w domu
 
-W deszczowe dni [Sortujmy razem](/games/sort-together/) ma koszyk z ogrodu do sortowania obrazków, a [Karty do rozmowy](/games/conversation-cards/) zawierają otwarte propozycje rozmowy, które mogą prowadzić do ogrodowych opowieści. Jeśli wracasz z upału w pośpiechu, [Spokojny oddech](/games/calm-breathing/) proponuje powolną, cichą przerwę, którą możecie dzielić. Więcej pomysłów opartych na dotyku, zapachu i dźwięku znajdziesz w naszym [poradniku o zajęciach sensorycznych](/activities/sensory/).
+W deszczowe dni w [Sortowanie razem](/games/sort-together/) jest koszyk ogrodowy do sortowania obrazków, a [Karty do rozmowy](/games/conversation-cards/) zawierają otwarte pytania, które mogą prowadzić do opowieści o ogrodzie. Jeśli po powrocie z upału czujecie pośpiech, [Spokojny oddech](/games/calm-breathing/) oferuje wolną, cichą chwilę, którą możecie spędzić razem. Więcej pomysłów opartych na dotyku, zapachu i dźwięku znajdziesz w naszym [przewodniku po zajęciach sensorycznych](/activities/sensory/).

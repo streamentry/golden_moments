@@ -1,33 +1,35 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Kokila kolya ntango mosusu mpe bokono bwa kobosana"
+seoTitle: "Kokila kolya ntango mosusu: Makambo oyo bolukiluki elobi"
+description: "Makambo oyo emonisami na bato na tina na kokila kolya ntango mosusu mpe bokono bwa kobosana ezali moke. Yeba makama mpo na mikóló mpe ntina ya kolya malamu."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Makambo ya malamu oyo emonisi ete kokila kolya ntango mosusu epekisaka to
+  ekitisaka bokono bwa bokosani ezali te. Bolukiluki mingi esalemaki na banyama,
+  mpe bolukiluki na bato mikóló ezali moke mpe ya ntango mokuse. Kokila kolya
+  ekoki kozala na makama mpo na mikóló: kokita ya kilo mpe ya makasi ya nzoto,
+  sukali ya moke na makila soki moto azali komela nkisi mosusu ya diabɛtɛ,
+  kozanga mai na nzoto mpe kokweya. Mpo na bato bazali kobika na bokono bwa
+  kobosana, kolya mpe komela malamu ezalaka mbala mingi likambo ya ntina
+  koleka. Solola na monganga liboso.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging elobi ete makambo ezali naino te mpo na kolendisa lolenge nyonso ya kokila kolya to ya kokitisa bilei, mingi mingi mpo na mikóló."
+  - "Bolukiluki mingi na tina na kokila kolya mpe kokóma mobange eutaka na banyama, mpe mbano na yango ekoki kokesana na oyo ekoki kosalema na bato."
+  - "Makama oyo ekoki kozala mpo na mikóló ezali kokita ya kilo oyo elukamaki te, kobungisa makasi ya nzoto, sukali ya moke na makila soki moto azali komela nkisi mosusu ya diabɛtɛ, kozanga mai na nzoto, mitema kolemba mpe kokweya."
+  - "Bato bazali kobika na bokono bwa kobosana babosanaka mbala mingi kolya to komela, to bakanisaka ete basili. Kosalisa bango bázwa bilei mpe mai ya kokoka ezali mbala mingi likambo ya ntina koleka ntango oyo bazali kolya."
+  - "Kosalela kokila kolya mpo na moto oyo azali kobika na bokono bwa kobosana te. Solola na monganga to na moto ya mayele na bilei liboso ya kobongola lolenge ya kolya."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Kokila kolya ntango mosusu epekisaka bokono bwa Alzheimer?"
+    a: "Makambo ya malamu oyo emonisi yango ezali te. Bolukiluki mingi esalemaki na banyama, mpe bolukiluki na bato ezalaki mbala mingi ya ntango mokuse, na bilenge to na bato oyo bazalaki na kilo mingi, mpe etalaki mingi mingi kokita ya kilo. National Institute on Aging elobi ete makambo ezali naino te mpo na kolendisa lolenge ya kokila kolya epai ya bato nyonso."
+  - q: "Kokila kolya ntango mosusu ezali malamu mpo na mikóló?"
+    a: "Ekoki kozala malamu te. Kokila kolya ekoki komema kokita ya kilo mpe ya makasi ya nzoto oyo elukamaki te, kozanga mai na nzoto, mitema kolemba mpe kokweya, mpe ekoki kokitisa sukali ya makila na ndenge ya mabe mpo na bato oyo bazali komela insuline to nkisi mosusu ya diabɛtɛ. Mayo Clinic elobi ete ekoki kozala malamu te mpo na bato oyo bazali na likama ya kobungisa makasi ya mikuwa mpe ya kokweya. Solola na monganga liboso ya komeka yango."
+  - q: "Moto oyo azali kobika na bokono bwa kobosana asengeli komeka kokila kolya?"
+    a: "Te. Bato bazali kobika na bokono bwa kobosana bazalaka mbala mingi na mokakatano ya kozwa bilei mpe mai ya kokoka, mpe kozanga bilei ya malamu ekoki kobakisa banzela ya bizaleli mpe komema kokita ya kilo. Kokila kolya ebakisi makama kasi ezali na litomba oyo emonisami te. Tya likebi na bilei ya mbala na mbala, mwa bilei ya kolia oyo basepelaka na yango mpe mai ya kokoka."
+  - q: "Elembo nini emonisaka ete moto oyo azali kobika na bokono bwa kobosana azali kozwa bilei to mai te ya kokoka?"
+    a: "Tala soki azali kokita kilo, bilamba ekomi ya monene koleka, azali kolɛmba, azali na makasi te, azali na mpasi ya kokenda na zongo, to azali koboya bilei. Elembo ya kozanga mai na nzoto oyo National Institute on Aging etangi ezali monoko kokauka, mitema kolemba, motema kobeta mbangu mpe komona makambo oyo ezali te. Yebisa monganga na ye soki omoni makambo yango."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +57,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Kokila kolya ntango mosusu, lokola kolya kaka na kati ya bangonga mwambe to kokitisa bilei makasi mikolo mibale na poso, ezali kolobama mingi, mpe masolo mosusu elobaka ete ekoki kobatela bɔɔngɔ. Soki ozali mokóló, to ozali kosunga moto oyo azali kobika na bokono bwa kobosana, tala makambo oyo bolukiluki emonisi mpenza, mpe ntina oyo esengeli kozala na bokebi.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Oyo ezali sango ya mobimba, ezali toli ya monganga te. Kobanda kokila kolya te, to kobongola lolenge ya kolya ya moto oyo ozali kosunga te, soki osololi naino te na monganga to na moto ya mayele na bilei. Tala [liyebisi na biso na tina na makambo ya bokolongono](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Kokila kolya ntango mosusu epekisaka bokono bwa kobosana?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Makambo ya malamu oyo emonisi ete kokila kolya ntango mosusu epekisaka to ekitisaka bokono bwa kobosana ezali te. National Institute on Aging (NIA) elobi ete makambo ezali naino te mpo na kolendisa lolenge nyonso ya kokitisa bilei to ya kokila kolya, mpe ete esengeli koyeba makambo mingi lisusu na tina na ndenge yango esalaka malamu mpe na tina na bokengi na yango, mingi mingi mpo na mikóló ([NIA na tina na kokitisa bilei mpe kokila kolya](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Ntina oyo makambo oyo emonisami ezali moke
 
-The NIA gives several reasons:
+NIA epesi bantina mingi:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Bolukiluki mingi esalemaka na banyama.** Bolukiluki na bampanzi, bangungi, bampuku mpe bankima ebimisi mbano ya kokamwa, kasi mbano yango ekoki kokesana na oyo ekoki kosalema na bato. Ata na banyama, mbano ekeseni; na mwa mitindo mosusu ya bampuku, kokitisa bilei ekomisaki bomoi mokuse.
+- **Bolukiluki na bato ezalaki ya ntango mokuse.** Mingi ezalaki poso to basanza mike.
+- **Bolukiluki mingi na bato etalaki kokita ya kilo** na bato oyo bazalaki na kilo mingi, kasi etalaki bokundoli to bokono bwa kobosana te.
+- **Mikóló bazalaka mingi te na kati ya bolukiluki.** Bolukiluki mingi ezwaki bato ya mibu 60 to na nse ya yango.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Bolukiluki moko ya 2026 etalaki ndenge kokila kolya ntango mosusu esalaka na bato ya mibu 60 mpe koleka. Emonaki ete makambo oyo emonisami na etuluku oyo ya mibu ezali naino moke, na bolukiluki ya moke, ya ntango mokuse mpe ya lolenge ekeseni. Makambo oyo emonanaki na tina ya kokanisa mpe bokundoli eutaki na bolukiluki moko moko, kasi na mbano oyo esangisami ya bolukiluki mingi te. Bolukiluki yango elobaki mpe ete bolukiluki mosusu emonisaki boyokani kati na ntango mokuse ya kolya to mikolo mingi ya kokila kolya mpe mbano ya mabe, mpe bakomi balobaki ete mikóló basengeli kozala na bokebi ([bolukiluki ya 2026 na Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Bato mosusu ya bolukiluki bakanisaka ete ntango nzoto ebongwani mpo na kotumba mafuta na ntango ya kokila kolya, yango ekoki kosala eloko na bɔɔngɔ, kasi oyo ezali naino likanisi oyo bazali kotala. NIA elobi ete makambo ya siansi ezali naino polele te.
 
-## What are the risks of fasting for older adults?
+## Makama nini ezali mpo na mikóló soki bakili kolya?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Kokila kolya ezali komekama ya pamba te mpo na mikóló mingi. Makama oyo ekoki kozala ezali:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Kokita ya kilo oyo elukamaki te.** Kolya moke koleka oyo nzoto esengeli ekoki komema kokita ya kilo mpe kokita ya makasi ya nzoto, oyo ekoki kotika moto na bolembu mingi.
+- **Kobungisa makasi ya nzoto mpe ya mikuwa.** Na bolukiluki moko ya mibu mibale oyo NIA esungaki, na tina na kokitisa bilei epai ya bilenge mpe bato ya kati-kati, bato oyo basanganaki bazwaki mwa kokita ya makasi ya mikuwa mpe ya nzoto.
+- **Sukali ya moke na makila soki moto azali komela nkisi ya diabɛtɛ.** Bato oyo bazali komela insuline to nkisi mosusu ya diabɛtɛ bakoki kozwa sukali ya makila oyo ekiti mingi soki baleki bilei to bawumeli, ndenge [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) elobi. Sukali ya moke na makila ekoki komema mitema kolemba, pɛtɛ na makanisi mpe kanda.
+- **Kozanga mai na nzoto.** Soki moto ameli mai te elongo na bilei, akoki kozanga mai na nzoto.
+- **Mitema kolemba mpe kokweya.** Mayo Clinic elobi ete kokila kolya ntango mosusu ekoki kosala ete bato báyoka bolɛmbu makasi mpe mitema kolemba, mpe ete ekoki kozala lolenge ya kolya ya malamu te mpo na bato oyo bazali na likama ya kobungisa makasi ya mikuwa mpe ya kokweya ([Mayo Clinic na tina na kokila kolya ntango mosusu](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Bopusi mosusu.** Mayo Clinic etangi lisusu mpasi ya moto, mbongwana ya makanisi mpe mpasi ya kokenda na zongo, mpe elobi ete ezali na mwa makambo oyo emonisi ete kokila kolya bangonga 16 na ntango ya kolya ya bangonga 8 ekoki komatisa likama ya bokono bwa motema soki tokokanisi na bantango mosusu ya kolya. Makambo yango ezali naino polele te.
 
-## Why is eating enough the bigger concern with dementia?
+## Ntina nini kozwa bilei ya kokoka ezali likambo ya ntina koleka na bokono bwa kobosana?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Mpo na bato bazali kobika na bokono bwa kobosana, mokakatano mingi ezali kozwa bilei mpe mai **ya kokoka**, kasi mingi te. Alzheimer's Association elimboli ete bato oyo bazali na biteni ya kati mpe ya suka bakoki koyoka ete kopona bilei ezali mpasi, babosanaka kolya, to bakanisaka ete basili kolya. Elobi lisusu ete kozanga bilei ya malamu ekoki kobakisa banzela ya bizaleli mpe komema kokita ya kilo ([Alzheimer's Association na tina na bilei mpe kolya](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society elobi ete kozanga kolya malamu ekoki komema kokita ya kilo, kokita ya makasi ya nzoto, bolɛmbu mpe kozanga nguya, oyo ekoki kotika moto na bolembu mingi mpe na makoki moke ya kobika nsima ya bokono ya mikrobe ([Alzheimer's Society na tina na posa ya kolya](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Mpo na bantina oyo, kokila kolya ezali likanisi ya malamu te mpo na moto oyo azali kobika na bokono bwa kobosana.** Bilei oyo eleki ekoki kokoma pete bilei oyo ezangi mpenza. Mbongwana nyonso na lolenge ya kolya ya moto oyo azali na bokono bwa kobosana esengeli kotambwisama na monganga na ye to na moto ya mayele na bilei.
 
-## What are the warning signs of poor eating or drinking?
+## Elembo nini emonisaka ete moto azali kolya to komela malamu te?
 
-Watch for:
+Tala makambo oyo:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Kokita ya kilo**, to bilamba ekomi ya monene.
+- **Kotika bilei na sani to koboya kolya**, to kobatela bilei na monoko.
+- **Bolɛmbu to kozanga nguya.**
+- **Mpasi ya kokenda na zongo**, oyo ekoki koyokana na bilei mpe na kozanga mai na nzoto.
+- **Elembo ya kozanga mai na nzoto.** NIA etangi monoko kokauka, mitema kolemba, motema kobeta mbangu mpe komona makambo oyo ezali te, oyo ekoki mpe kouta na bokono bwa kobosana moko ([NIA na tina na mikakatano ya bokolongono oyo emonanaka mingi](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Posa ya kolya ekoki kozala moke mpo na bantina mingi: minoko kopasola to minu oyo ekangami malamu te, nkisi ya sika, mawa ya motema, mpasi ya kokenda na zongo, kosala mosala ya nzoto moke, to mbongwana na ndenge ya koyoka elengi ya bilei mpe nsolo. Yebisa monganga na ye soki omoni elembo moko ya oyo. Akoki koluka ntina na yango mpe kopesa toli ya moto ya mayele na bilei to ya bankisi ya kobakisa bilei.
 
-## How can you help someone eat and drink enough?
+## Ndenge nini okoki kosalisa moto álya mpe ámela malamu?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Pesa bilei ya mike mpe mwa bilei ya kolia mbala mingi**, na esika ya bilei minene misato.
+- **Pesa bilei oyo alingaka mingi**, mpe ndima kobongola soki elengi na ye ebongwani. Bilei ya sukali ekoki kozala malamu soki posa ya kolya ezali moke; tuna monganga soki ezali na ntina ya bokolongono ya kokitisa sukali.
+- **Batela masanga ya komela pene** mpe pesa mwa makɔpɔ mike na boumeli ya mokolo. Supu, mbuma, jus ya mbuma oyo esangisami mpe miliki oyo esangisami etalelamaka mpe lokola mai.
+- **Lya elongo** soki ekoki. Ntango ya kolya ezali libaku ya kozala elongo, kasi ezali mosala ya kosala na lombangu te.
+- **Meka bilei oyo ekoki kolyama na maboko**, lokola sandwich, biteni ya mbuma to biteni ya soso ya nkoko, soki kosalela mbeli ekomi mpasi.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+[Lisolo na biso na tina na bilei](/brain-health/diet/) ezali na makanisi mosusu mpo na ntango ya kolya. Kosalisa na kolamba ekoki mpe kozala mosala ya malamu ya kosala elongo; tala [misala ya ndako](/activities/household-tasks/).
 
-## Talk with a doctor
+## Solola na monganga
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Liboso ya komeka mwango nyonso ya kokila kolya, solola na monganga na yo to na moto ya mayele na bilei, mingi mingi soki ozali komela nkisi ya diabɛtɛ to ya tension, soki okiti kilo kala mingi te, to soki okweyi. Mpo na moto oyo azali kobika na bokono bwa kobosana, tuna monganga na ye bilei mpe mai boni asengeli kozwa mokolo na mokolo, na esika ya kotuna na tina ya kokila kolya.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Luka lisalisi ya monganga noki soki omoni pɛtɛ ya makanisi ya mbalakaka, kokufa nzoto to elembo ya sukali ya makila oyo ekiti makasi mpe ezali kobonga noki te.

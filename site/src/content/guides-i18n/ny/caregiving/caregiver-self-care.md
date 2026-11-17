@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Kusamalira Inu Nokha: Mpumulo, Thandizo ndi Zizindikiro za Kutopa Kwambiri"
+seoTitle: "Kusamalira Wosamalira: Mpumulo ndi Thandizo pa Demensiya"
+description: "Zizindikiro za kutopa kwambiri kwa wosamalira, momwe mungapezere mpumulo ndi magulu othandizira, komanso manambala aulere ku US kuphatikiza Alzheimer's Association 24/7 Helpline ndi Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Kusamalira munthu wokhala ndi demensiya n'kovuta, ndipo kudzisamalira n'kofunika kwambiri. Yang'anirani zizindikiro monga kutopa, kukwiya msanga, kusagona bwino komanso kuleka kucheza ndi anzanu. Pemphani thandizo pa ntchito zinazake, gwiritsani ntchito mpumulo wosamalira, ndipo lowani m'gulu lothandizira. Thandizo laulere ku US limaphatikizapo Alzheimer's Association 24/7 Helpline pa 1-800-272-3900 ndi Eldercare Locator pa 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Kutopa kwambiri nthawi zambiri kumawonekera pa kutopa, kukwiya msanga, kusagona bwino, chisoni komanso kusiya kusamalira thanzi lanu."
+  - "Mpumulo wosamalira umakupatsani nthawi yopuma, kuchokera maola angapo mpaka milungu ingapo, kunyumba kapena malo osamalira."
+  - "Pemphani thandizo pa ntchito zinazake; anthu ambiri amafuna kuthandiza koma sadziwa momwe angachitire."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) imapereka thandizo laulere komanso lachinsinsi nthawi iliyonse."
+  - "Eldercare Locator (1-800-677-1116) imakugwirizanitsani ndi ntchito zapafupi, kuphatikiza Area Agency on Aging ya m'dera lanu."
+  - "Ngati mukumva kuti muli m'chovuta chachikulu, imbani kapena tumizani uthenga pa 988. Pa ngozi, imbani 911."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Kodi zizindikiro za kutopa kwambiri kwa wosamalira ndi ziti?"
+    a: "Zizindikiro zodziwika bwino zimaphatikizapo kumva kutopa, kukhala ndi nkhawa kapena kupsinjika, kukwiya kapena kusapirira msanga, vuto logona, kumva chisoni kapena kusayembekeza, kuleka kucheza ndi anzanu, mutu kapena kupweteka kwa thupi pafupipafupi, komanso kusiya kudya, kuchita masewera olimbitsa thupi kapena kusamalira thanzi lanu. Ngati zizindikiro ngati izi zimachitika pafupipafupi, lankhulani ndi dokotala wanu."
+  - q: "Kodi ndingapeze bwanji mpumulo wosamalira pafupi ndi ine?"
+    a: "Yambani ndi Eldercare Locator (1-800-677-1116 kapena eldercare.acl.gov) kuti mulumikizane ndi Area Agency on Aging ya m'dera lanu, ARCH National Respite Locator Service, kapena Alzheimer's Association Helpline pa 1-800-272-3900. Abale, anzanu komanso anthu odzipereka amathanso kupereka mpumulo."
+  - q: "Kodi Medicare imalipira mpumulo wosamalira?"
+    a: "Kwa munthu amene akulandira chisamaliro cha hospice, Medicare imalipira ndalama zambiri za masiku asanu motsatizana a mpumulo wosamalira kuchipatala kapena malo osamalira odwala, malinga ndi National Institute on Aging. Inshuwalansi zambiri zachinsinsi sizimalipira mpumulo; Medicaid ndi mapulani ena a inshuwalansi ya chisamaliro cha nthawi yayitali angathandize."
+  - q: "Kodi Alzheimer's Association Helpline ndi yaulere ndithu komanso imatsegula usiku?"
+    a: "Inde. Alzheimer's Association ikuti Helpline pa 1-800-272-3900 ndi yaulere komanso yachinsinsi, imayankha nthawi iliyonse masiku onse a chaka, ndipo thandizo limapezeka m'zinenero zambiri. Imbani 711 kuti mugwiritse ntchito ntchito yomasulira mawu a foni."
+  - q: "Kodi kupuma kwa kanthawi posamalira ndi kulakwa?"
+    a: "Ayi. Kupuma kumakuthandizani kuti mupitirize kusamalira, ndipo mpumulo ukhoza kupatsanso munthu amene mumamusamalira kusintha kwa kucheza ndi zochitika. Othandizira ambiri pambuyo pake ananena kuti amafunitsitsa akanapempha thandizo msanga."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Ngati mukusamalira munthu wokhala ndi demensiya, mwina mukuwelenga izi mochedwa, mutatopa, ndipo muli ndi zinthu zambiri zomwe simunachite. Izi n'zachilendo. Kudzisamalira sikuli kwapadera kapena mphotho chifukwa chomaliza zonse. N'chomwe chimakuthandizani kupitiriza.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Tsamba ili likukambirana zizindikiro za kutopa kwambiri, momwe mungapezere nthawi yeniyeni yopuma, komwe mungapezere thandizo, komanso manambala aulere ku US omwe mungayimbire lero.
 
-## What are the signs of caregiver burnout?
+## Kodi zizindikiro za kutopa kwambiri kwa wosamalira ndi ziti?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Kutopa kwambiri nthawi zambiri kumabwera pang'onopang'ono, choncho n'kofunika kudziwa zizindikiro zanu. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ikulemba zizindikiro za kupsinjika kwa wosamalira, kuphatikiza:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- kumva kutopa, kukhala ndi nkhawa kapena kupsinjika;
+- kukwiya kapena kusapirira msanga;
+- kumva kukhala wekha kapena kusalumikizana ndi ena;
+- vuto logona, kapena kusagona mokwanira;
+- kumva chisoni kapena kusayembekeza, kapena kutaya chidwi ndi zinthu zomwe mumakonda kale;
+- mutu pafupipafupi, kupweteka kwa thupi kapena mavuto ena a thupi;
+- kusowa nthawi yochita masewera olimbitsa thupi kapena kukonzekera chakudya chathanzi;
+- kusiya kusamba kapena kusamalira thupi lanu;
+- kugwiritsa ntchito mowa kapena mankhwala mopitirira muyeso, kuphatikiza mankhwala olembedwa ndi dokotala.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ikuwonjezera zizindikiro monga kukana matendawa, kukwiya ndi munthu amene mukumusamalira (“akungofuna kuvuta”), nkhawa za tsogolo, vuto lolingalira bwino, komanso mavuto a thanzi omwe akuwononga. Ikulangiza kuti mukamva zizindikiro ngati izi pafupipafupi, lankhulani ndi dokotala wanu.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Langizo la NIA silinena kuti mudikire mpaka mutatopa kwambiri. Zindikirani zizindikiro zanu msanga ndipo chitani kanthu.
 
-## What can I do today, in five minutes?
+## Kodi ndingachite chiyani lero, m'mphindi zisanu?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Nthawi zazing'ono zopuma zimathandiza. Palibe chimodzi mwa izi chomwe chimathetsa kutopa kwambiri, koma zingakuthandizeni kupirira masana ovuta.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Tulukani kunja.** Khalani pakhonde kapena yendani kupita kumakalata pamene munthu ali otetezeka komanso atakhala pansi.
+- **Pumani pang'onopang'ono.** Tengani mpweya pang'onopang'ono musanayankhe funso lovuta. Mukhozanso kugawana nthawi yopuma ya [Calm Breathing](/games/calm-breathing/) ndi munthu amene mumamusamalira.
+- **Imwani madzi ndipo dyaniko kanthu.** N'kosavuta kuiwala kudya kwanu.
+- **Tumizirani mnzanu uthenga.** Osati kumupempha kanthu, koma kungolumikizana.
+- **Lankhulani mawu abwino kwa inu nokha.** Kalozera wa NIA wa [kusamalira inu nokha](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) akupangira mawu ngati “Ndikuchita zomwe ndingathe,” “Sindikwanira, ndipo ndizovomerezeka,” komanso “Ndidzasangalala ndi nthawi imene tikhoza kukhala pamodzi mwamtendere.”
 
-## What is respite care, and how do I get it?
+## Kodi mpumulo wosamalira ndi chiyani, ndipo ndingaupeze bwanji?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Mpumulo wosamalira ndi chisamaliro cha kanthawi kwa munthu amene mumamusamalira, kuti inu mupume. Tsamba la NIA la [mpumulo wosamalira](https://www.nia.nih.gov/health/caregiving/what-respite-care) likufotokoza kuti ukhoza kutenga maola angapo mpaka milungu ingapo ndipo ukhoza kuchitika kunyumba, malo azaumoyo kapena malo osamalira anthu akuluakulu masana.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) ikufotokoza mitundu yodziwika bwino:
 
-| Type | What it is |
+| Mtundu | Tanthauzo |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Thandizo kunyumba | Mnzanu, wachibale, munthu wodzipereka kapena wothandizira kapena wosamalira wolipidwa amabwera kunyumba |
+| Malo osamalira anthu akuluakulu masana | Zochitika zokonzedwa ngati nyimbo ndi luso muzokhala zotetezeka; nthawi zambiri amapereka mayendedwe ndi chakudya |
+| Kukhalako usiku kapena kwa masiku ochepa | Gulu losamalira nthawi yayitali limasamalira munthu usiku umodzi, masiku angapo kapena milungu ingapo |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Ndani amalipira?** Malinga ndi NIA, mpumulo wochokera kwa abale, anzanu kapena anthu odzipereka ukhoza kukhala waulere. Ntchito za akatswiri amalipira paola kapena patsiku. Kwa munthu amene akulandira chisamaliro cha hospice, Medicare imalipira ndalama zambiri za masiku asanu motsatizana a mpumulo kuchipatala kapena malo osamalira odwala. Medicaid ingathandize. Inshuwalansi zambiri zachinsinsi sizimalipira mpumulo, ngakhale mapulani ena a inshuwalansi ya chisamaliro cha nthawi yayitali amatero.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Langizo:** Alzheimer's Association imalangiza kuyesa opereka mpumulo pa nthawi yomwe si yovuta, kuti akhale okonzeka ngati mungafune thandizo mwadzidzidzi.
 
-## Where can I find help near me?
+## Kodi ndingapeze thandizo ku dera langa kuti?
 
-Several free US services can point you to local help.
+Ntchito zingapo zaulere ku US zingakulozerani thandizo la m'dera lanu.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) ndi yaulere komanso yachinsinsi, imayankha nthawi iliyonse tsiku lililonse la chaka, ndipo thandizo limapezeka m'zilankhulo zoposa 200 kudzera mwa ogwira ntchito olankhula zilankhulo ziwiri kapena omasulira. Imbani 711 kuti mugwiritse ntchito ntchito yomasulira mawu a foni. Mukhoza kukambirana za kusintha kwa khalidwe, kupsinjika kwa wosamalira, zosankha za mpumulo, mapulogalamu apafupi ndi zina, ndipo kupempha kukambirana kwanthawi yayitali ndi mlangizi wosamalira. Ogwira ntchito samapereka malangizo a zamankhwala.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), ntchito ya boma ya Administration for Community Living, imakugwirizanitsani ndi ntchito za anthu okalamba ndi mabanja awo. Mukhoza kuyimba foni, kutumiza uthenga, kucheza pa intaneti kapena kutumiza imelo kwa ogwira ntchito ophunzitsidwa, kapena kufufuza ndi malo anu. Ingakulozerani ku Area Agency on Aging ya m'dera lanu.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) imakuthandizani kupeza opereka mpumulo malinga ndi boma, ndipo ikulangiza kulumikizana ndi State Respite Coalition kapena pulogalamu ya Lifespan Respite poyamba ngati boma lanu ili nayo. ARCH ikunena kuti simayang'ana opereka, choncho onani zomwe akudziwa ndi mbiri yawo nokha.
 
-## How do I find a support group?
+## Kodi ndingapeze bwanji gulu lothandizira?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Funsani ku Helpline kapena fufuzani pa intaneti magulu apafupi ndi inu. Alzheimer's Association [imayendetsa magulu othandizira](https://www.alz.org/help-support/community/support-groups) kwa othandizira ndi anthu okhala ndi demensiya, kukumana pamaso ndi pa intaneti, motsogozedwa ndi anthu ophunzitsidwa. Malo ambiri amaperekanso magulu apadera, mwachitsanzo a othandizira achikulire kapena a anthu okhala ndi Alzheimer's yoyambirira. Imachitikanso ALZConnected, gulu laulere pa intaneti kumene othandizira amagawana malangizo.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Magulu othandizira akhoza kukhala malo onenera zomwe mukumva mosakondera, kupeza malangizo othandiza kuchokera kwa anthu omwe adakhalapo kale, komanso kumva kuti si inu nokha. Ngati gulu loyamba silikugwirizana, yesaninso lina.
 
-## How do I ask family and friends for help?
+## Kodi ndingapemphe bwanji thandizo kwa abale ndi anzanga?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Khalani omveka bwino. Anthu ambiri amafuna kuthandiza koma sadziwa zomwe angapereke. NIA ikupangira:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Khalani ndi mndandanda** wa ntchito zomwe ena angachite, ndipo mulole anthu asankhe.
+- **Yambani pang'ono** ngati kupempha kukuvutani.
+- **Gwirizanitsani ntchito ndi munthuyo.** Msuweni amene amakonda kuphika amabweretsa chakudya chamadzulo Lachinayi. Mnansi amene amaziwa bwino zolemba amathandiza ndi mapepala.
+- **Tumizani uthenga kapena imelo** ngati kupempha pamaso kukusokonezani.
+- **Yeserani kuyankha** pamene wina apereka thandizo: “Zikomo chifukwa chowafunsa. Ichi ndi chimene mungachite.”
+- **Yembekezani kuti ena angakane** ndipo musatengere mwamunthu.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Zina mwazinthu: pemphani wina kukhala ndi munthu kwa masana amodzi pa sabata, kumutengera paulendo waufupi, kapena kubwera kudzasewera masewera pamodzi. Kalozera wathu wa [kusewera pamodzi](/caregiving/how-to-play-together/) ndi wosavuta kugawana ndi alendo.
 
-## What if something happened to me?
+## Kodi bwanji ngati chinachake chikanandichitikira ine?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Konzani dongosolo lothandizira pano. NIA ikupangira kusankha ndi abale kapena anzanu apamtima amene angalowe m'malo, komanso kukhala ndi kabuku ka manambala a zadzidzidzi, mankhwala, malangizo a khalidwe omwe amathandiza, ndi zochitika zokondedwa. Alzheimer's Association ikulangizanso kusunga manambala a madokotala a munthuyo ndi mndandanda wa mankhwala womwe wasinthidwa kukhala pamalo opezeka mosavuta.
 
-## When should I get professional or urgent help?
+## Kodi nditafunika thandizo la akatswiri kapena thandizo la mwadzidzidzi liti?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Lankhulani ndi dokotala wanu ngati zizindikiro za kupsinjika zimachitika pafupipafupi, ngati mukumva chisoni, kapena ngati mukuvutika kulimbana nazo. Uzani dokotala wanu kuti ndinu wosamalira. NIA ikunena kuti alangizi ndi akatswiri a zaumoyo angathandize ndi mmene mukumva komanso kukonzekera, ndipo Medicare, Medicaid ndi inshuwalansi zina zachinsinsi zingalipire zina mwa ndalama zaumoyo wamaganizo.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Ngati mukumva kuti muli m'chovuta chachikulu kapena muli ndi maganizo odzipweteka, imbani kapena tumizani uthenga pa 988 kuti mulumikizane ndi [988 Suicide & Crisis Lifeline](https://988lifeline.org/), yaulere komanso imapezeka 24/7. Ngati wina ali pangozi pompopompo, imbani 911.
 
-## Can shared activities give me a break too?
+## Kodi zochitika zogwirizana zingandipatsenso mpumulo?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Nthawi zina. Chochitika chofatsa chomwe mumakonda pamodzi chingakhale mbali yabwino ya tsiku lanu monga momwe chingakhalire kwa munthu amene mumamusamalira: kumvetsera nyimbo zakale, kuyang'ana zithunzi, kapena masewera ngati [Conversation Cards](/games/conversation-cards/) omwe safuna mayankho olondola. Ngati munthu amasangalala ndi kucheza, nthawi yokumana ndi gulu mu [Picture Bingo](/games/picture-bingo/) ku malo a anthu okalamba kapena pulogalamu ya masana yosamalira akhoza kukupatsani ola limodzi la mpumulo. Onani [zochitika za magulu ku nyumba yosamalira](/activities/care-home-groups/) kuti mupeze malingaliro.

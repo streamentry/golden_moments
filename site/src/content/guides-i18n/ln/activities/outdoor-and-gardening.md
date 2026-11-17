@@ -1,32 +1,34 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Misala ya libándá mpe ya bilanga mpo na bato oyo bazali kobika na bokono bwa boubosu ya makanisi"
+seoTitle: "Misala ya bilanga mpe ya libándá mpo na bokono bwa boubosu ya makanisi"
+description: "Makanisi ya misala ya bilanga mpe ya libándá mpo na bato oyo bazali kobika na bokono bwa boubosu ya makanisi, elongo na bamatelé etombwami, bilanga ya bakɛsi, mpe malako mpo na molungé, moi mpe kotambola bipai na bipai."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Kosala bilanga mpe kolekisa ntango na libándá ekoki kozala mosala ya kimya
+  mpe ya koyebana mpo na moto oyo azali kobika na bokono bwa boubosu ya
+  makanisi. Bomeka komɛlisa mai, kotya matiti ya nsolo na bakɛsi, kolongola
+  bafololo oyo ekawuki to kotambola mwa moke na lopango ekangami. Bosalela
+  bamatelé etombwami to mesa mpo ete moto moko te afukama, boboya bisaleli ya
+  makasi mpe banzeté ya mabe to ya ngɛngɛ, bobima na ngonga ya malili, mpe
+  botikala ntango nyonso elongo na moto yango.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Misala ya pete ya bilanga lokola komɛlisa mai, kolona nkona, konuka nsolo ya matiti mpe kobuka bafololo ekoki kosalema ya kotɛlama to ya kovanda."
+  - "Bamatelé etombwami, bakɛsi mpe mesa ezipami ememaka bilanga na likoló ya loketo mpe ekitisaka likama ya kokweya."
+  - "Boboya bisaleli ya makasi, banzeté ya nzube to oyo epesaka mikakatano na nzoto, mpe nyonso oyo ezali na ngɛngɛ. Bosenzela malamu mpo ete mabelé etikala kozala lokola bilei te."
+  - "Molungé ekoki kozala likama mpo na mikóló. Bobima na ntongo makasi to na mpokwa, bomema mai mpe esika ya elili, mpe bozonga na ndako soki elembo ya liboso ya kozanga kimya emonani."
+  - "Bato mingi oyo bazali kobika na bokono bwa boubosu ya makanisi batambolaka bipai na bipai na ntango moko. Botikala ntango nyonso elongo na moto yango na libándá mpe bozala na fɔtɔ ya sika mpe mokanda ya koyeba moto."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Misala nini ya bilanga moto oyo azali na bokono bwa boubosu ya makanisi akoki kosala?"
+    a: "Komɛlisa banzeté mai, kolona nkona na bakɛsi ya mike, konuka mpe kosimba matiti ya nsolo, kolongola bafololo oyo ekawuki, kobuka ndunda, kobongisa bafololo bakatami mpe kopupola nzela ezali misala ya malamu. Na kati ya ndako, kɛsi ya matiti ya nsolo na fenɛtɛlɛ to sani ya mabelé na mesa ezipami ekoki kosala malamu. Bopona mosala kolanda oyo moto yango asepelaki kosala liboso mpe oyo akoki kosala malamu sikoyo."
+  - q: "Ndenge nini nakoki kobatela moto oyo azali na bokono bwa boubosu ya makanisi na molungé?"
+    a: "Bobongisa ntango ya libándá na ntongo ya malili to na mpokwa, bosala yango mokuse, mpe bopesa mai mbala mingi. Bopona esika ya elili, sapo ya monene, bilamba ya pete mpe ya kopɔla, mpe mafuta ya kobatela nzoto na moi. Mikóló bazali na likama mingi ya bokono oyo ewutaka na molungé, mpe kokangana ya makanisi, kingungungu to mposa ya kosanza ekoki kozala bilembo ya likebisi; yango wana, bozonga na ndako mpe bopesa malili noki soki bomoni yango."
+  - q: "Ndenge nini tokoki kobima na libándá soki alingaka kotambola bipai na bipai?"
+    a: "Botikala elongo na moto yango ntango nyonso, bosalela lopango to elanga ekangami na ekuke ekangami, mpe bosala ete alata libende ya ID to amema mokanda ya koyeba moto. Bozala na fɔtɔ ya sika. Soki moto abungi, bobenga noki bapolisi ya esika to misala ya likama; bozela te motango ya miniti oyo etiamaki. Boyebisa baoyo bayanoli ete moto azali na bokono bwa boubosu ya makanisi, esika oyo bamonaki ye mpo na suka, mpe bopesa fɔtɔ ya sika."
+  - q: "Bongo soki tozali na elanga te?"
+    a: "Bakɛsi mwa moke na veranda, kɛsi na fenɛtɛlɛ, to sani ya matiti ya nsolo na mesa ya kikuku ekoki. Bokoki mpe kokende na pakɛ, elanga ya bato nyonso to elanga ya mboka. Kovanda na libándá mpe koyoka loyembo ya bandɛkɛ ezali mpe mosala ya libándá."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +45,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +56,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Mpo na bato mingi, elanga ezali esika moko ya koyebana mingi. Kotimola, komɛlisa mai mpe kobuka bafololo esalelaka mayele oyo moto ayekolaki kala, mpe kozala na libándá ememaka mopepe ya sika, pole ya moi mpe loyembo ya bandɛkɛ. National Institute on Aging etangi kobatela banzeté, kolona bafololo mpe ndunda, mpe [kosolola ndenge banzeté ezali kokola](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kati na misala oyo bato oyo bazali na bokono bwa Alzheimer bakoki kosepela na yango. Lokasa oyo elobeli nini bokoki komeka, ndenge ya kosala ete elanga ezala pete mpo na kosalela, mpe ndenge ya kobatela nzoto na molungé, moi mpe kotambola bipai na bipai.
 
-## What outdoor and gardening activities work well?
+## Misala nini ya libándá mpe ya bilanga esalaka malamu?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Misala ya malamu ezali ya pete, ya koyebana, mpe ekoki kosalema ya kotɛlama to ya kovanda. Bopona kolanda oyo moto yango asepelaki kosala liboso.
 
-### In the garden
+### Na elanga
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Komɛlisa mai.** Kɛsi ya mike mpe ya pete ya komɛlisa mai to bambɔ ya pete mpe bakɛsi mwa moke oyo ezali pene. Komɛlisa mai ezali na ebandeli mpe nsuka ya polele mpe ezali mpasi te mpo na kosala mabe.
+2. **Kolona nkona na bakɛsi.** Alzheimer's Foundation of America epesi likanisi ya kolona nkona na bakɛsi ya mike mpe [kotala ndenge ezali kokola](https://alzfdn.org/dementia-activity-gardening/). Nkona ya minene lokola madesu, bafololo ya moi to petit pois ezali pete mpo na kosimba.
+3. **Kolongola bafololo oyo ekawuki.** Kolongola bafololo oyo ekawuki na maboko ezali mosala ya malembe mpe ya kozongela. Bopona banzeté oyo ezangi nzube.
+4. **Kobuka ndunda to matiti ya nsolo.** Tomati ya mike, madesu mpe matiti ya nsolo ezali pete mpo na kobuka mpe elengi mpo na kolia. Bomema yango na ndako mpo na kosalela na bilei ya midi.
+5. **Konuka mpe kosimba matiti ya nsolo.** Romarin, menthe mpe lavande ezali na nsolo ya makasi mpe ya malamu. Bofina nkasa moko na misapi mpe bopesa yango.
+6. **Kopupola nzela to veranda.** Mupupwɛ ya pete na esika ya patatalu mpe ya kokauka, soki kotɛlama ezali malamu.
+7. **Kotondisa esika ya kopesa bandɛkɛ bilei.** Sima bovanda elongo mpe botala banani bakoya.
 
-### Indoors, when going out is not possible
+### Na kati ya ndako, soki kobima ezali mpasi
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Kɛsi ya matiti ya nsolo na fenɛtɛlɛ** ya basilic, persil to ciboulette.
+- **Kotya banzeté na bakɛsi na mesa ezipami.** AFA epesi likanisi ya kosalela basani ya lolenge ya cantine mpo ete mabelé etikala na esika moko mpe komema mabelé na bakɔpɔ ya mike.
+- **Kobongisa bafololo** na bafololo bakatami mpe nkasa ya elanga to ya magazini.
+- **Kokaukisa bafololo** oyo eutá na liboke ya bafololo, mpo na kokangisa yango na bakarte na sima. Botala [misala ya maboko](/activities/arts-and-crafts/) mpo na makanisi mosusu.
+- **Kosala basache ya lavande to ya rose**, likanisi mosusu ya AFA oyo ebatelaka nsolo ya elanga na kati ya ndako.
 
-### Getting out and about
+### Kobima mpe kotambola mwa moke
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Kotambola mwa moke** zingazinga ya ndako, na pakɛ to na esika ya koteka banzeté, na malembe mpe na esika ya kovanda.
+- **Kovanda na libándá** na veranda to na banki mpo na koyoka bandɛkɛ mpe koyoka mopepe. Yango yango moko ekoki kozala mosala mobimba.
+- **Kokende kotala elanga ya bato nyonso** na ntango ya kimya. NHS elobi ete bisika mosusu ezali na bilanga ya mayoki oyo ezali na banzeté ya nsolo, ya kosimba na maboko mpe ya mayi.
+- **Kopesa badɛkɛ-dɛkɛ bilei to kotala bandɛkɛ** pene ya liziba ya mboka, kasi botikala mosika ya libongo ya mai.
 
-## How do I make a garden easier to use?
+## Ndenge nini nakoki kosala ete elanga ezala pete mpo na kosalela?
 
-Bring the garden up to the person, not the other way around.
+Bomema elanga epusana na moto, kasi te moto epusana na elanga.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Bamatelé etombwami to bakɛsi ya milai** pene ya likoló ya loketo elingi koloba ete moto asengeli kofukama to kogumbama te.
+- **Bakɛsi na mesa** esalaka malamu mpo na bato oyo basalelaka kiti ya batambolaka to balingaka kovanda.
+- **Banzela ya monene mpe ya patatalu** oyo ezangi mabanga ya kopanzana to bambɔ na nse ekitisaka likama ya kokweya.
+- **Bakiti oyo ezali na maboko mpe na elili** na nzela, mpo ete kopema ezala likanisi ya malamu ntango nyonso.
+- **Bisaleli oyo ezali na maboko ya minene mpe ya pete** mpo na kosimba. Botika bisaleli ya kokata, bambeli mpe nyonso oyo ezali makasi.
+- **Esika ekangami na ekuke ekangami** oyo moto akoki kotambola na bonsomi wana bozali pene.
 
-## Which plants should I avoid?
+## Banzeté nini nasengeli koboya?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Bopona banzeté oyo ezali malamu mpo na kosimba, mpe soki ekoki, malamu ata soki moto ameki kotɔkɔma yango. AFA epesi toli ya kosalela banzeté oyo epesaka mikakatano na poso ya nzoto te mingi, kotala soki ezali na alergi, mpe kosenzela malamu moto nyonso oyo akoki kokanisa ete mabelé ezali bilei. Toli ya NIA mpo na libateli ya ndako ezali na kolongola to kokanga banzeté ya ngɛngɛ.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Boboya baroze ya nzube, cactus, mpe banzeté oyo mai na yango epesaka mikakatano na poso ya nzoto.
+- Soki bozali na ntembe na nzete moko, botuna na centre antipoison to na esika ya koteka banzeté ya mboka liboso ya kolona yango.
+- Banzeté oyo moto ayebaki malamu ekoki kozongisa mayoki ya malamu. AFA etangi baroze mpe cactus ya Noël lokola bandakisa. Bopona mitindo oyo ezangi nzube.
+- Bobomba engrais, baprodui ya koboma banzelé mabe mpe baprodui mosusu ya elanga na esika ekangami, mpe bosalela yango te na bisika oyo moto akoki kokóma.
 
-## How do I stay safe in the heat and sun?
+## Ndenge nini nakoki kobatela nzoto na molungé mpe na moi?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Bobongisa ntango ya libándá kolanda tango ya likoló. NIA elobi ete mikóló bazali na likama mingi ya [bokono oyo ewutaka na molungé](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), mpo nzoto na bango emesana na mbongwana ya molungé na pete te mpe bankisi mosusu ebongolaka ndenge nzoto ezwaka molungé.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Bobima na ntongo makasi to na mpokwa.** Boboya katikati ya mokolo na basanza ya molungé. Botalaka indice ya molungé, kaka molungé yango moko te.
+- **Bopesa mai mbala mingi.** Bozela te ete moto aloba ete azali na mposa ya mai. Boboya masanga ya makasi mpe masanga oyo ezali na caféine na molungé.
+- **Bolata bilamba oyo ebongi.** Bilamba ya langi ya pole, ya kopɔla, sapo ya monene, mpe maneti ya moi.
+- **Bosalela mafuta ya kobatela nzoto na moi.** NIA epesi toli ya kosalela mafuta ya kobatela nzoto na moi ya SPF 15 to koleka, mpe kozongela kosalela yango na boumeli ya mokolo.
+- **Bopona esika ya elili.** Botia mesa ya kotya banzeté na bakɛsi na nse ya nzete to ya parasol.
+- **Bosala yango mokuse.** Ntango mwa moke na libándá ekoki kokoka, mingi mingi na mikolo ya molungé.
+- **Bosenzela bilembo ya likebisi.** NIA etangi mpasi ya motó, kokangana ya makanisi, kingungungu to mposa ya kosanza lokola bilembo oyo ekoki komonisa bokono oyo ewutaka na molungé. Moto oyo azali na bokono bwa boubosu ya makanisi akoki koyebisa bino te ete azali koyoka mabe, yango wana botalaka elongi mpe bizaleli na ye. Bozonga na ndako, bopesa malili na mai mpe elamba ya malili, mpe boluka lisalisi ya monganga soki azali kokoma malamu noki te. Koyoka molungé makasi mingi, elongo na bilembo lokola kokweya, kokangana ya makanisi, to poso ya nzoto ya kokauka mpe ya motane, ezali likama ya monganga: bobenga 911.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Tango ya malili ezali mpe na ntina. Na eleko ya malili, bosala ete ntango ya libándá ezala mokuse mpe bosala ete maboko mpe makolo etikala malamu mpe ya kokauka.
 
-## How do I handle wandering when we go outside?
+## Ndenge nini tokoki kosala soki atambolaka bipai na bipai na libándá?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Botikala elongo na moto yango ntango nyonso oyo azali na libándá. Alzheimer's Association elobi ete [bato motoba kati na 10 oyo bazali kobika na bokono bwa boubosu ya makanisi](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) bakotambola bipai na bipai ata mbala moko, mpe mingi bakosala yango mbala ebele. Ekoki kosalema na etape nyonso.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+[Batoli ya NIA mpo na kotambola bipai na bipai mpe kobunga nzela](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) ezali na:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Bosala ete moto alata libende ya ID to libende ya monganga oyo ezali na nkombo na ye, adresi na ye mpe nimero na bino ya telefone, to bokoma yango na bilamba na ye.
+- Bozala na fɔtɔ ya sika to video ya moto yango.
+- Boyebisa baninga ya pembeni ete moto akoki kotambola bipai na bipai.
+- Bokanga lopango na lopango ya mabaya mpe ekuke ekangami.
+- Botika te moto oyo ayebani na likambo ya kotambola bipai na bipai ye moko.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association epesi mpe likanisi ya kobongisa bisika ya kati mpe ya libándá oyo moto akoki kotambola na kimya, mpe kobongisa misala mpo na ngonga ya mokolo oyo kozanga kimya emonanaka mingi. Kotambola na elanga ya kimya mpe ekangami ekoki kozala malamu mpo na kozanga kimya ya mpokwa. Botala lisalisi na biso mpo na [kozanga kimya ya mpokwa](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Soki moto abungi, botalaka bisika ya kimya oyo ezali pene wana bozali kobenga noki bapolisi ya esika to misala ya likama. Bozela te motango ya miniti oyo etiamaki liboso ya koyebisa. [Lisolo ya U.S. Department of Justice ya mobu 2021 mpo na koluka bato oyo babungi](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) elobi ete misala ya mibeko esengeli kosɛnga te ntango ya kozela oyo etiamaki, mpe etangi bilembo ya bokono bwa boubosu ya makanisi lokola likambo ya likama mingi. Mitindo ya koyebisa ekeseni kolanda esika. Bokabola ntango mpe esika oyo bamonaki moto mpo na suka, bilamba oyo alati mpe fɔtɔ ya sika. Bolanda mitindo ya baoyo bayanoli; boluka te na bisika ya likama bino moko.
 
-## How do I adapt gardening as things change?
+## Ndenge nini nakoki kobongola misala ya bilanga soki makambo ebongwani?
 
-| If this has become hard | Try this instead |
+| Soki likambo oyo ekómi mpasi | Bomeka oyo na esika na yango |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Kolona matelé mobimba | Kolona nkona moko na kɛsi moko |
+| Kolongola matiti ya mabe (kokesenisa matiti ya mabe na banzeté) | Komɛlisa mai, to kolongola bafololo oyo ekawuki polele |
+| Kotambola zingazinga ya elanga | Kovanda na mesa elongo na sani ya mabelé mpe nzete moko |
+| Kobima na libándá | Kɛsi ya matiti ya nsolo na mesa ya kikuku, to kovanda pene ya fenɛtɛlɛ efungwami |
+| Kosala mosala nyonso | Kovanda na libándá elongo, koyoka mpe kotala |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Bato mosusu balingaka kaka kotala ndenge ozali kosala. NIA elobi ete kotika moto atala kaka ezali malamu soki ezali yango nde asepelaka na yango.
 
-## When should we head inside?
+## Ntango nini tosengeli kozonga na ndako?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Bozonga na ndako soki moto amonani kolɛmba, koyoka molungé, malili, kozanga kimya to alingi kosukisa. Minuti zomi ya malamu ezali malamu koleka mpokwa mobimba oyo esukaka na mpasi ya makanisi. Kosukisa noki ekoki kozala mbano ya malamu.
 
-## Bring the garden indoors on screen
+## Bomema elanga na kati ya ndako na écran
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Na mikolo ya mvula, [Sort Together](/games/sort-together/) ezali na kitunga ya elanga mpo na kobongisa bilili, mpe [Conversation Cards](/games/conversation-cards/) ezali na mituna ya kofungola oyo ekoki komema na masolo ya elanga. Soki bozongi na ndako uta na molungé mpe bozali koyoka lokoso, [Calm Breathing](/games/calm-breathing/) epesaka mwa ntango ya kimya mpe ya malembe oyo bokoki kokabola. Mpo na makanisi mosusu oyo etongami na kosimba, konuka mpe koyoka, botala lisalisi na biso ya [misala ya mayoki](/activities/sensory/).

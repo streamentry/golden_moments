@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Pongí mpe bokolongono bwa bwango: oyo bolukiluki elobi"
+seoTitle: "Pongí mpe bokɔnɔ bwa makanisi: oyo bolukiluki elobi"
+description: "Oyo bolukiluki elobi na ntina ya pongí mpe likámá ya bokɔnɔ bwa kobosana, mpo na nini bolukiluki ya kopetola bwango ezali naino ya ebandeli, mpe banzela ya malamu ya kolala mpo na mikóló mpe babateli."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Bolukiluki mosusu ya molai emonisi boyokani kati na kolala moke na katikati ya bomoi mpe likámá
+  ya monene ya kozwa bokɔnɔ bwa kobosana, mpe bolukiluki ya laboratware elobi ete pongí ekoki
+  kosalisa bwango kolongola bosɔtɔ. Makambo oyo emonisami ezali naino ya ebandeli, mpe Lisanga ya
+  Lancet ya 2024 etikaki te pongí na molɔngɔ ya makambo ya likámá oyo tokoki kobongola. Bizaleli ya
+  malamu ya pongí esalisaka ndenge ozali koyoka mokolo na mokolo. Mikakatano ya pongí ezali mingi
+  epai ya bato bazali kobika na bokɔnɔ bwa kobosana mpe ezali malamu kolobela yango na munganga.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Bolukiluki moko na Royaume-Uni oyo elandaki bato pene 8,000 na boumeli ya mibu 25 emonisaki boyokani kati na kolala bangonga motoba to moke na katikati ya bomoi mpe likámá ya monene ya bokɔnɔ bwa kobosana."
+  - "Mbongwana ya pongí ekoki mpe kozala elembo ya ebandeli ya bokɔnɔ bwa kobosana, yango wana ezali mpasi koyeba soki nini nde ezali ntina to nini nde ezali mbano."
+  - "Bolukiluki oyo etali ndenge pongí ekoki kolongola beta-amyloid na bwango ezali ya solo kasi ezali naino ya ebandeli, mingi na yango esalemi na bampuku."
+  - "Kopema mpasi na pongí (apnée du sommeil) ezali mingi, ekoki kosalisama mpe emonisami na boyokani na bokɔnɔ bwa kobosana na bolukiluki; kolola mongongo makasi na pongí mpe mpɔngi makasi na moyi ezali malamu kotala."
+  - "Kobanda te, kotika te, to kobongola te kisi to eloko ya kosalisa pongí kozanga munganga."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Pongí ya mabe ebimisaka maladi Alzheimer?"
+    a: "Yango emonisami naino te. Bolukiluki mosusu emonisi boyokani kati na kolala moke mpe likámá ya monene ya bokɔnɔ bwa kobosana, kasi bokɔnɔ bwa kobosana yango moko ebebisaka pongí, mbala mingi mibu ebele liboso ete bámona yango. Lisanga ya Lancet ya 2024 emonaki ete makambo oyo emonisami ekokani te mpo na kotia pongí na molɔngɔ ya makambo ya likámá oyo tokoki kobongola."
+  - q: "Mikóló basengeli kolala bangonga boni?"
+    a: "Ebongiseli ya National Institute on Aging elobi ete mikóló esengeli na pongí ndenge moko na bakóló mosusu, bangonga 7 tii 9 na butu. Mikóló mingi bakendaka kolala mpe balamukaka liboso koleka ndenge bazalaki kosala kala, mpe yango ezali likambo oyo emonanaka mingi."
+  - q: "Mpo na nini moto oyo azali kobika na bokɔnɔ bwa kobosana alalaka na moyi mpe alamukaka na butu?"
+    a: "Bokɔnɔ bwa kobosana ekoki kobebisa ngonga ya nzoto, yango wana ntango ya pongí mpe ya kolamuka ekoki kovanda na mobulungano. Mpasi ya nzoto, bolembɛ, nzala to bopusi ya bankisi ekoki mpe kozala na yango. Pole ya moyi, misala ya mokolo na mokolo mpe momesano ya kimya na mpokwa ekoki kosalisa. Munganga akoki koluka bantina oyo ekoki kosalisama."
+  - q: "Nasengeli kopesa moto oyo nazali kobatela eloko ya kosalisa pongí?"
+    a: "Solola liboso na munganga na ye, ata mpo na biloko oyo bazwaka kozanga ndingisa ya munganga. National Institute on Aging elobi ete bankisi mosusu ya pongí ekoki komatisa likámá ya kizunguzungu, kokweya mpe mobulungano ya makanisi epai ya bato bazali na maladi Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Pongí mpe bokolongono bwa bwango ezali na boyokani ya polele, kasi ndenge boyokani yango ezali ezali naino kolukilukama. Bolukiluki mosusu emonisi boyokani kati na kolala moke mpe likámá ya monene ya bokɔnɔ bwa kobosana. Na ngámbo mosusu, bokɔnɔ bwa kobosana mbala mingi ebebisaka pongí. Lokasa oyo elimboli oyo bolukiluki emonisi mpe oyo emonisi te, epesi banzela ya malamu ya pongí, mpe etali mikakatano ya pongí oyo emonanaka mingi epai ya bato bazali kobika na bokɔnɔ bwa kobosana. Epesi te toli na ntina ya bankisi ya pongí; lisolo yango esengeli kosalema na munganga.
 
-## Is poor sleep linked with dementia?
+## Pongí ya mabe ezali na boyokani na bokɔnɔ bwa kobosana?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Bolukiluki mosusu ya molai emonisi boyokani kati na kolala moke mpe likámá ya monene ya bokɔnɔ bwa kobosana, kasi makambo oyo emonisami ezali naino malamu te nyonso.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Bolukiluki ya Royaume-Uni ya mibu 25.** Balukiluki balandaki bato pene 8,000 na [bolukiluki Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Bato oyo bazalaki kolala bangonga motoba to moke na mibu 50 to 60 bazalaki na likámá ya monene ya kozwa bokɔnɔ bwa kobosana na sima koleka baoyo bazalaki kolala bangonga sambo. Bato oyo bazalaki kolala bangonga motoba to moke na mibu 50, 60 mpe 70 bazalaki na likámá ya monene pene 30% koleka baoyo bazalaki kolala bangonga sambo mbala mingi. Ezalaki bolukiluki ya kotala kaka, yango wana emonisi boyokani, kasi ntina te.
+- **Likanisi ya Lisanga ya Lancet.** [Lisanga ya Lancet ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ebakisaki pongí te na molɔngɔ na yango ya makambo 14 ya likámá oyo tokoki kobongola. Emonaki ete makambo oyo emonisami ekokani te mpenza. Ntina moko ezali « ntina oyo ezongi nsima »: mbongwana ya bwango oyo ewutaka na bokɔnɔ bwa kobosana ebandaka mibu ebele liboso ete bámona yango mpe ekoki kobebisa pongí. Na bolukiluki moko ya monene, boyokani kati na kolala mingi mpe bokɔnɔ bwa kobosana esilaki soki batiki pembeni mibu mitano ya liboso ya kolanda.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Yango elingi koloba ete butu moko to mibale ya pongí ya moke ezali te ntina ya komitungisa mingi. Koluka kozala na pongí ya malamu mpe ya mbala na mbala ezali na ntina mpo esalisaka ezalela, bokebi mpe bobateli lelo.
 
-## What is the "brain-clearing" sleep research?
+## Bolukiluki ya « kopetola bwango » ezali nini?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Okoki kozala otángi ete pongí « epetolaka » bwango. Likanisi yango ewuti na bolukiluki ya solo, kasi ezali naino ya ebandeli.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Na bampuku.** Bolukiluki moko ya 2013 [oyo NIH elobelaki](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) emonisaki ete esika kati na baselile ya bwango ekómaki monene pene 60% ntango bampuku ezalaki kolala. Mai ezalaki koleka na bwango na pete koleka, na nzela oyo balukiluki babengi système glymphatique. Beta-amyloid, proteini oyo ezali na boyokani na maladi Alzheimer, elongolamaki noki koleka na bwango ya bampuku oyo ezalaki kolala.
+- **Na bato.** [Bolukiluki ya moke ya 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) etalaki bato 20 ya nzoto kolɔngɔnɔ ya mibu 22 tii 72 sima ya butu ya malamu mpe sima ya butu oyo balalaki te. Sima ya butu oyo balalaki te, elembo ya scan ya bwango mpo na beta-amyloid emataki pene 5% na eteni moko oyo ezalaki na hippocampe, eteni ya ntina mpo na bokundoli. Bakomi balobaki ete ezali elembo ya ebandeli. Bayebaki te soki mbongwana yango esilaka sima ya kopema, to soki emonisi ete kolongola ezali malembe to beta-amyloid mingi ezali kosalama.
+- **Esalaka na bangámbo nyonso mibale.** Lisanga ya Lancet elobi ete kobakana ya amyloid ekoki mpe kobebisa pongí epai ya mikóló.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Makambo oyo emonisami esalisaka kolimbola mpo na nini balukiluki bazali na posa ya koyeba makambo mingi na ntina ya pongí. Emonisi te ete pongí ya malamu epekisaka maladi Alzheimer.
 
-## What sleep habits may help?
+## Bizaleli nini ya pongí ekoki kosalisa?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Mikóló esengeli na bangonga 7 tii 9 ya pongí na butu, ndenge moko na bakóló mosusu, kolanda [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Batoli na yango ezali:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Batela manaka ya ndenge moko.** Kendá kolala mpe lamuká na ngonga moko mokolo na mokolo, ata na mikolo ya mpɔtɔ.
+- **Sala momesano ya kokita kimya liboso ya pongí.** Tánga, yoká miziki ya kimya to zwa bain ya molungé liboso ya kolala.
+- **Sala ete shambre ya kolala ezala malamu,** ezala molungé mingi te to malili mingi te.
+- **Kitisa caféine na mpokwa.** Kawa, tii, soda mpe chocolat ekoki kopekisa yo kolala.
+- **Boya masanga,** ata moke, ndenge NIA etoli.
+- **Boya bilei ya minene na bangonga mibale to misato liboso ya kolala,** mpe biloko ya komɛla mingi na mpokwa.
+- **Sala ngalasisi mbala na mbala, kasi te na bangonga 3 liboso ya kolala.** Talá [lisolo na biso na ntina ya ngalasisi](/brain-health/exercise/).
+- **Tika baécran libanda ya shambre ya kolala.** NIA etoli ete kotala TV to kosalela ordinatɛrɛ, telefone to tableti kuna te.
+- **Boya kolala mwa pongí na mpokwa to na pokwa** soki ekoki kosalema.
 
-## Sleep problems in dementia
+## Mikakatano ya pongí na bokɔnɔ bwa kobosana
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Mbongwana ya pongí emonanaka mingi epai ya bato bazali kobika na bokɔnɔ bwa kobosana. [NIA elobeli](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) kolala mingi to moke mingi, kolamuka mbala mingi na butu, mpe kolala pongí mingi na moyi. Elobeli mpe sundowning: kozanga kimya, konyokwama to mobulungano oyo ebandaka to ekómaka makasi ntango pole ya moyi ezali kokita.
 
-Caregiver tips from the NIA include:
+Batoli ya NIA mpo na babateli ezali:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Zwa pole ya moyi mpe bosalisi ya nzoto na ntɔngɔ.** Bima libanda to vanda pembeni ya lininisa na moyi, mpe salisa moto azala na misala mokolo na mokolo. Pole ya makasi ekoki kosalisa kobongisa ngonga ya nzoto.
+2. **Bongisa misala oyo esengaka makasi mpo na ntɔngɔ.** Meka kosukola nzoto na ntɔngɔ to kolia bilei ya monene na midi.
+3. **Sala ete pongí ya mwa ntango ezala mokuse mpe ya liboso.** Kitisa kolala pongí na mpokwa.
+4. **Sala ete mpokwa ezala ya kimya.** Kitisa pole, kitisa makelele mpe bɛtá miziki ya kimya soki moto asepelaka na yango. Lisolo na biso na ntina ya [kozanga kimya na mpokwa](/caregiving/late-day-restlessness/) ezali na makanisi mosusu.
+5. **Batela momesano ya kolala oyo ebongwanaka te.** Kotánga na mongongo makasi na ngonga moko butu na butu ezali ndakisa moko ya NIA. [Momesano ya mokolo na mokolo oyo ebongwanaka te](/activities/daily-routine/) esalisaka mpe.
+6. **Kitisa caféine mpe masanga.**
+7. **Salelá mwinda ya moke ya butu** na shambre ya kolala, na nzela mpe na shambre ya kosukola.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Mpo na kolamuka na butu, [batoli ya bobateli ya ndako ya NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ezali na mwinda ya moke ya butu to bamasini oyo epelisaka pole yango moko, maboko ya kosimba na shambre ya kosukola, ruba ya langi ya kongɛnga na nsuka ya bamatelɛ, mpe bankisi ebombami na esika oyo ekangami.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Mosala moko ya mokuse mpe ya kimya na mpokwa ekoki kosalisa bino mibale kokita kimya. Meká kopema malembe na [Kopema ya kimya](/games/calm-breathing/) to bakartɛ mwa moke ya [Bakartɛ ya masolo](/games/conversation-cards/). Boya nyonso oyo etungisaka makanisi pembeni ya ntango ya kolala, mpe telá ntango nyonso oyo moto alingi.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Pongí oyo ekatanaka elembisaka mpe babateli. [Lisolo na biso na ntina ya komibatela lokola mobateli](/caregiving/caregiver-self-care/) ezali na banzela ya kozwa kopema mpe lisalisi.
 
-## What about sleep apnea?
+## Bongo kopema mpasi na pongí?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Kopema mpasi na pongí esalaka ete kopema etelema mwa mikolo mokuse na ntango ya pongí, mbala mingi mbala ebele na butu moko. NIA elobi ete soki esalisami te, ekoki komema mikakatano lokola tension ya likoló, AVC to kobungisa bokundoli. Bilembo ezali kolola mongongo makasi mpe koyoka mpɔngi makasi na moyi, mpe bato mingi bayebi te ete bazali na yango. Lisanga ya Lancet elobeli botali ya bolukiluki 11 epai wapi bato oyo bazalaki na kopema mpasi na pongí bazalaki na likámá ya monene pene 43% ya kozwa bokɔnɔ bwa kobosana. Kasi, bolukiluki mingi kati na yango etalaki te kilo ya nzoto, yango wana boyokani yango ezali naino malamu te mpenza.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Kopema mpasi na pongí ekoki komonana mpe kosalisama. NIA elobi ete masini ya CPAP esalisaka pene ntango nyonso. Soki yo to moto oyo ozali kobatela alolaka mongongo makasi, atelema kopema na ntango ya pongí, to azali na mpɔngi makasi na moyi, yebisa munganga.
 
-## A note about sleep medicines
+## Liloba moko na ntina ya bankisi ya pongí
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Topesi te toli na ntina ya bankisi ya pongí to biloko ya kobakisa. NIA elobi ete bankisi ya pongí ekoki kosalisa mpo na mwa ntango mokuse kasi ezali te nkisi mpo na kozanga pongí. Elobi mpe ete bankisi mosusu oyo bapesaka mpo na kosalisa bato bazali na maladi Alzheimer kolala ekoki komatisa likámá ya kizunguzungu, kokweya mpe mobulungano ya makanisi. Kobanda te, kotika te, to kobongola te kisi nyonso ya pongí, ata biloko ya kosalisa pongí oyo bazwaka kozanga ndingisa ya munganga, kozanga kosolola na munganga to farmacien.
 
-## Talk with a doctor
+## Solola na munganga
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Kendá komona munganga soki yo to moto oyo ozali kobatela azali ntango nyonso na bolembɛ, azali na mpasi ya kolala butu mingi, alolaka mongongo makasi, to atelema kopema na butu. Soki mikakatano ya pongí epai ya moto oyo azali kobika na bokɔnɔ bwa kobosana ekobi, [NIA etoli](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) koluka toli ya munganga. Kotalama ekoki komona bantina lokola mpasi ya nzoto, mikakatano mosusu ya pongí, bokɔnɔ mosusu to bopusi ya kisi. Mobulungano ya makanisi oyo eyebani mbala moko, to mbongwana ya pongí oyo eyebani mbala moko elongo na mobulungano ya makanisi, esengeli lisalisi ya nokinoki. Tánga [ntango nini osengeli kokende komona munganga](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Lokasa oyo ezali sango ya mokuse, ezali te toli ya munganga. Talá [maloba na biso ya kokebisa na makambo ya bokolongono](/medical-disclaimer/).

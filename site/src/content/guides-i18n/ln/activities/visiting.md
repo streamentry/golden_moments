@@ -1,34 +1,36 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Kotala moto na bokono ya kobosana makambo"
+seoTitle: "Kotala moto na bokono ya kobosana makambo: Malako"
+description: "Ndenge ya kotala moto na bokono ya kobosana makambo na ndako ya kobatela to lopitalo: oyo ya komema, misala ya pete mpe ndenge ya kolongwa na kimya."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Ntango ozali kokende kotala moto na bokono ya kobosana makambo na ndako ya
+  kobatela to na lopitalo, tika makambo ezala pete: yebisa nkombo na yo ntango
+  okomi, mema eloko moko ya kokabola lokola bafɔtɔ, miziki to bilei oyo alingaka,
+  mpe bosala eloko moko ya pete elongo. Mbala mingi, botali ya mokuse oyo esalemaka
+  mbala na mbala ekoki koleka malamu koleka botali ya molai oyo esalemaka moke.
+  Bongisa ndenge ya kolongwa na kimya mpe ndenge moko ntango nyonso mpo ete
+  kokabwana ezala pete mpo na bino nyonso mibale.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Pesa moto mbote na nkombo na ye mpe yebisa ye ozali nani, mpo ete asala milende te ya koyeba: « Mbote Mama, ezali ngai Susan, mwana na yo ya mwasi. »"
+  - "Mema eloko moko to mibale ya kokabola, lokola albɔm ya bafɔtɔ, miziki oyo alingaka, bulangiti ya pete to bilei oyo basali ya ndako bandimi."
+  - "Mbala mingi, botali ya mokuse oyo esalemaka mbala na mbala ekoki koleka malamu koleka botali ya molai oyo esalemaka moke. Kozala na yo ezali na ntina koleka makambo oyo okoloba."
+  - "Na lopitalo, pesa basali lokasa moko ya koyebisa makambo ya moto yango mpe yebisa monganga mbala moko soki omoni mbongwana ya mbalakaka."
+  - "Bongisa ndenge ya kokende: loba eleko nini okotikala, salela maloba ya ndenge moko ntango nyonso mpo na kokabwana, mpe kende kozanga kowumela mingi."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Nasengeli komema nini ntango nakeyi kotala moto na bokono ya kobosana makambo?"
+    a: "Mema biloko ya kokabola, kasi te biloko oyo etindi moto aloba mingi. Albɔm moke ya bafɔtɔ, liste ya banzembo oyo alingaka, bulangiti ya pete, krɛ́mɛ mpo na mabɔkɔ, zulunalo ya lisano to mosala oyo alingaki kala, to bilei oyo basali ya ndako bandimi ekoki kosalisa. Na ndako ya kobatela, bafɔtɔ ya libota mpe biloko oyo ayebi ekoki mpe kosalisa ete shambre eyokana lokola ndako."
+  - q: "Nasengeli kotikala eleko boni ntango nakeyi kotala moto na bokono ya kobosana makambo?"
+    a: "Eleko ya malamu ezali te. Mabota mingi emoni ete botali ya mokuse oyo esalemaka mbala na mbala ekoki kosala malamu koleka botali ya molai oyo esalemaka moke, mpo ete moto akoki kolemba noki mpe akoki kobosana eleko nini otikalaki. Tala bilembo ya bolembu mpe kende ntango botali ezali naino malamu."
+  - q: "Naloba nini soki asengi kozonga na ndako?"
+    a: "Yoka ndenge azali koyoka, kasi te kaka maloba na ye. « Nalingi kozonga na ndako » mbala mingi elingi koloba « Nazali koyoka kimya te to libateli te. » Meka koloba: « Yebisa ngai makambo ya ndako na yo, » botala bafɔtɔ elongo, to pesa likanisi ya kotambola mwa moke to kolia eloko. Koswana to kolimbola mpo na nini akoki kozonga te mbala mingi ebakisaka bobangi."
+  - q: "Ndenge nini soki ayebi ngai lisusu te?"
+    a: "Ekoki kopesa mawa, kasi meka kobongola ye te to kotuna « Oyebi ngai te? » Miyebisa na boboto mpe na pete, mpe bosepela na tango oyo bozali elongo. Bato mingi bakoki naino kosepela na botali ya moto mpe koyoka boboto, ata soki bakoki koyeba te ozali nani."
+  - q: "Nakoki kosalisa ndenge nini na ntango ya lopitalo?"
+    a: "Tikala pembeni ya moto ntango okoki, salisa ye kolia mpe komela, mpe mema biloko oyo ayebi lokola bafɔtɔ. Pesa basali lokasa oyo ezali na manaka na ye ya mokolo na mokolo, nkombo oyo alingaka babenga ye, biloko oyo alingaka, biloko oyo alingaka te mpe bilembo ya mpasi. Yebisa monganga mbala moko soki moto amoni lokola azali mabe to ndenge mosusu na mbalakaka, mpo ete libulungano ya mbalakaka ekoki kozala elembo ya likambo ya nzoto."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +55,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Kotala moto oyo olingaka na ndako ya kobatela bato oyo bazali na bokono ya kobosana makambo, na ndako ya bakóló to na lopitalo ekoki komema makanisi mpe mayoki mingi. Okoki komituna nini okoloba, nini okomema, to soki botali yango ezali na ntina ata soki akobosana yango. Ezali na ntina. National Institute on Aging elobi ete bato oyo bazali na bokono ya Alzheimer [mbala mingi basepelaka na botali ya bato](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ata soki bakoki kobosana moto oyo ayei kotala bango azali nani. Lokasa oyo epesi matambe ya kosalisa liboso ya botali, na ntango ya botali mpe sima ya botali, elongo na malako ya sikisiki mpo na ntango ya lopitalo.
 
-## How do I get ready for a visit?
+## Ndenge nini nakoki komibongisa liboso ya botali?
 
-A little planning makes the visit easier for both of you.
+Komibongisa mwa moke ekoki kosala ete botali ezala pete mpo na bino nyonso mibale.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Pona ntango ya malamu.** Dementia Australia epesi likanisi ya kokende ntango moto azali mbala mingi na bokasi ya makanisi, oyo mpo na bato mingi ezali na ntɔngɔ to pene ya midi. Family Caregiver Alliance epesi likanisi ya koyeba manaka ya ndako mpe kokende na [ntango ya ofele, kasi te na ntango ya misala](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Tuna basali ya ndako.** Tuna ndenge moto azali lelo, mpe tala mibeko nyonso oyo etali bilei, banyama ya ndako to kobima.
+- **Bongisa sakosi moke ya botali.** Eloko moko to mibale ya kokabola ekoki (tala liste awa na nse).
+- **Bongisa mwa masolo.** Moto akoki kozala na sango te ya kopesa, boye mema oyo ya yo: sango ya libota, tango ya likoló, lisano ya ndembo, to lisolo ya kosekisa.
+- **Bongisa elikya na yo.** Botali mosusu ekoki kozala ya malamu mpe ya masolo. Mosusu ekoki kozala kimya to mpasi. Nyonso mibale ezali ndenge ya bomoi.
 
-## What should I bring?
+## Nasengeli komema nini?
 
-Bring things to share, not things that test. Good choices include:
+Mema biloko ya kokabola, kasi te biloko oyo etali komeka. Makambo ya malamu ezali:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Albɔm moke ya bafɔtɔ** elongo na bafɔtɔ ya monene mpe ya polele. Koma nkombo na sima mpo na basali.
+- **Liste ya banzembo** oyo alingaka na telefone, elongo na bakask ya koyoka ya pete to eloko moke ya kobimisa mongongo.
+- **Eloko ya pete ya kosimba,** lokola bulangiti, esika ya nkingo to elamba oyo ayebi.
+- **Krɛ́mɛ mpo na mabɔkɔ** mpo na kosalisa mabɔkɔ na boboto, soki moto alingaka kosimbama.
+- **Zulunalo to buku ya bilili** ya likambo oyo alingaki kala, lokola bilanga, mituka, bandɛkɛ to kolamba.
+- **Bilei oyo alingaka,** soki basali ya ndako balobi ete ezali malamu.
+- **Biloko oyo ayebi mpo na shambre.** Family Caregiver Alliance epesi likanisi ya bafololo, banzete, bafɔtɔ ya libota mpe mayemi, to afishe monene ya bafɔtɔ ya libota ya kala.
+- **Tablɛti,** mpo na kotala bafɔtɔ ya libota to kosakana lisano ya pete elongo.
 
-## What can we do together during a visit?
+## Tokoki kosala nini elongo na ntango ya botali?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Kosala eloko moko elongo ekitisaka mokakatano ya koloba mingi. Dementia Australia epesi likanisi ya kotala bafɔtɔ, mosala ya mabɔkɔ ya pete, kolona banzete ya mike, koyoka miziki, kokabola bilei, to kotambola mwa moke na libándá. Makanisi mosusu:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Kotala bafɔtɔ.** Lakisa oyo ozali komona: « Tala sapo wana. » « Libongo oyo ezali kitoko. » Tika moto atambolisa. Koboya kotuna « Oyo azali nani? »
+2. **Kobeta miziki mpe koyemba.** Banzembo oyo ayebi ekoki kotombola ezaleli mpe kopesa tango ya malamu elongo, ata soki koloba ezali mpasi.
+3. **Kotambola mwa moke.** Family Caregiver Alliance epesi likanisi ya kotambola na ndako nyonso, mingimingi na elanga soki ezali. Kotambola na kiti ya batambolaka na ba-roues ekoki mpe.
+4. **Kosalisa mabɔkɔ na boboto.** Krɛ́mɛ moke mpe kosalisa mabɔkɔ malembe ekoki kopesa kimya.
+5. **Kosalisa na komibongisa.** Dementia Australia elobeli kopɛpola nsuki, kopakola verni na manzaka to kosalisa moto alata elamba oyo alingaka, soki asepelaka na yango.
+6. **Kosakana lisano ya pete.** Family Caregiver Alliance elobeli bakarte, domino, to lisano nyonso oyo moto asalanaki kala. Na tablɛti, [Picture Pairs](/games/picture-pairs/) ekoki kosakanama na bilili oyo etikali komonana mpe kozanga elembo ya ntango. [Photo Pairs](/games/photo-pairs/) ekómisaka bafɔtɔ oyo oponi lisano ya koluka bilili ya ndenge moko, mpe bafɔtɔ etikalaka na navigateur na yo.
+7. **Kotala eloko moko elongo.** Family Caregiver Alliance epesi likanisi ya bafilme ya kosekisa mpe bafilme ya kala. Ata soki moto akoki kolanda lisolo te, bokoki kovanda pembeni mpe kokabola tango elongo.
+8. **Kotanga na mongongo makasi.** Poème ya mokuse, eteni oyo alingaka, to mokanda uta na moto ya libota.
+9. **Kovanda kaka elongo.** Kosimbana na mabɔkɔ to kovanda kimya ezali botali ya solo. Alzheimer's Association elobi ete ezali malamu soki oyebi te nini ya koloba, mpe ete kozala na yo ezali na ntina mingi koleka nyonso.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) ekoki kosalisa ntango oyebi lisusu te nini ya koloba. Karte mokomoko ezali na elili mpe motuna ya kofungola lisolo.
 
-## How should I talk during the visit?
+## Nasengeli koloba ndenge nini na ntango ya botali?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Miyebisa ntango nyonso.** « Mbote Tata, ezali ngai Mark, mwana na yo ya mobali. » NIA epesi toli ete bato oyo bayei kotala bamiyebisa na bokuse mpo na kobanda lisolo.
+- **Pusana liboso na ye** mpe vanda na nivo ya miso na ye.
+- **Kobongola te to koswana te.** NIA epesi toli ete kobongola moto te soki asali libunga to abosani eloko.
+- **Zala na motema molai** ntango maloba ezali mpasi mpo na kozwa. Pesa ntango mingi.
+- **Yoka ndenge azali koyoka.** Soki moto amoni lokola azali na mawa to na mitungisi, yamba yango liboso ya kobongola lisolo.
+- **Koboya mituna ya komeka** lokola « Oyebi ngai te? » to « Oliaki nini na midi? »
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Tala [malako mpo na kosolola](/caregiving/communication-tips/) mpo na koyeba makambo mosusu.
 
-## What do I do when they say "I want to go home"?
+## Nasala nini soki alobi « Nalingi kozonga na ndako »?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Yoka mayoki oyo ezali na sima ya maloba (lisolo na biso ya [ntango moto azali kotuna mbala na mbala kozonga na ndako](/caregiving/asking-to-go-home/) elobeli yango mingi). Family Caregiver Alliance elimboli ete « Nalingi kozonga na ndako » mbala mingi elingi koloba « Nazali koyoka malamu te, » mpe epesi biyano lokola « Yebisa ngai makambo ya ndako na yo » to « Eloko nini olingaka mingi na ndako na yo? » Dementia Australia ebakisi ete « ndako » ekoki kolimbola ntango to esika oyo moto ayokaki libateli, lokola ntango ya bomwana.
 
-Try:
+Meka:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- kondima mayoki na ye: « Emonani ete ozali kozanga ndako. »
+- kopesa kimya na kosimba, soki andimi
+- kotala bafɔtɔ to kolobela ndako ya libota
+- kopesa likanisi ya kotambola, komela to kolia eloko
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Koboya koswana to kolimbola mpo na nini akoki kozonga te. Mbala mingi esalisaka te mpe mbala mingi ebakisaka bobangi.
 
-## How long should a visit be?
+## Botali esengeli kozala molai ndenge nini?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Botali ya mokuse oyo esalemaka mbala na mbala esalaka mbala mingi malamu koleka. Family Caregiver Alliance elobi ete moto mbala mingi abosanaka te soki otikalaki miniti mitano to bangonga mitano, mpe epesi likanisi ete botali misato ya mokuse na poso ekoki koleka malamu koleka botali moko ya molai. Dementia Australia elobi ete motango ya malamu ya botali to molai ya malamu ezali te.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Na baposó ya liboso sima ya kokóta na ndako ya kobatela bato oyo bazali na bokono ya kobosana makambo, Family Caregiver Alliance epesi likanisi ya kokende kotala mbala mingi, na nsima kokita malembe malembe na manaka ya mbala na mbala. Tuna basali nini bazali komona.
 
-## How do I leave without upsetting them?
+## Nakoki kokende ndenge nini kozanga kotungisa ye?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Kokende ekoki kozala eteni ya mpasi mingi. Dementia Australia epesi makambo oyo:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Loba eleko nini okotikala ntango okomi.** « Nakoki kotikala ngonga moko, na nsima nakeyi kosomba biloko. »
+- **Salela mosala moko lokola suka ya ndenge ya bomoi.** « Ntango tokosilisa nzembo oyo, nakokende. »
+- **Kokanisa yango na ntango ya kolia to ya mosala mosusu,** to senga basali basalisa moto akóta na mosala mosusu.
+- **Tika kokabwana ezala mokuse mpe ndenge moko ntango nyonso.** Kowumela mingi, koluka bolimbisi to kotikala « mwa moke lisusu » ekoki kosala ete kokabwana ya mikolo ekoya ezala mpasi koleka.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Sima ya kokende, ezali normal koyoka mawa. Pesa nzoto na yo ntango ya kopema. Soki moto atungisamaki, basali ya ndako bakoki mbala mingi kosalisa ye azwa kimya noki sima.
 
-## Visiting someone with dementia in the hospital
+## Kotala moto na bokono ya kobosana makambo na lopitalo
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Lopitalo ezali na makelele, ezali esika ya sika mpe etonda na bato oyo ayebi te, oyo ekoki kozala mpasi mingi mpo na moto oyo azali na bokono ya kobosana makambo. Lisolo ya NIA mpo na [komema moto na bokono ya Alzheimer na lopitalo](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) epesi toli oyo:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Luka ete moto moko atikala elongo na ye** mingi ndenge ekoki: moto ya libota, moninga ya kotyela motema to mosali ya kobatela oyo bafuti.
+- **Pesa basali lokasa ya makambo ya moto** oyo ezali na manaka na ye ya mokolo na mokolo, nkombo oyo alingaka babenga ye, biloko oyo alingaka mpe alingaka te, makambo oyo ekoki kotungisa ye, mpe bilembo ya mpasi oyo emonisami ata soki alobi te. Tia bakopi na shambre mpe na esika ya ba-infirmiers.
+- **Salisa na kolia mpe komela.** Bato ya mikóló bakoki kozanga bilei ya kokoka na lopitalo. Fungola biloko, salisa na bilei, lia elongo, mpe pesa mayi to masanga ya komela.
+- **Mema biloko oyo epesaka kimya** lokola bafɔtɔ to biloko ya losambo.
+- **Kitisa makelele.** Longola televizyó mpe kitisa mongongo ya telefone mpe ya bibeleli.
+- **Meka misala ya kimya,** lokola miziki ya malembe, kotanga, losambo, koyemba to kotala bafɔtɔ ya kala.
+- **Tinda ye atambola mwa moke** soki ezali malamu, na ndingisa ya basali.
+- **Yebisa monganga mbala moko soki moto amoni lokola azali mabe to ndenge mosusu na mbalakaka.** NIA elimboli ete libulungano ya makasi ya mbalakaka, oyo babengaka delirium, ekoki kouta na makambo lokola infɛkso, fyevɛ, kozanga mayi na nzoto to banzela ya nkisi, mpe esengeli likebi ya monganga.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Botali ya mokuse mpe ya kimya elongo na elongi oyo ayebi mpe nzembo oyo alingaka ekoki kozala eteni ya kimya mingi na mokolo ya lopitalo.
 
-## Bringing children on a visit
+## Komema bana na botali
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Bana bakoki komema boboto mingi. Bongisa bango liboso na maloba ya pete mpe ya solo, tika botali ezala mokuse, mpe pesa bango mosala moko, lokola kolakisa elili oyo bakoki to kopesa fɔtɔ. NIA elobi ete bana mpe bato oyo bazali na bokono ya Alzheimer bakoki kosepela na misala ya pete elongo, lokola kotala albɔm ya bafɔtɔ to koyoka miziki. Dementia Australia epesi likanisi ya komema sakosi moke ya bilei ya mike to biloko ya kimya mpo ete bana ya mike bazala na eloko ya kosala.
 
-## Take care of yourself too
+## Banza mpe mpo na yo moko
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Botali ekoki kolembisa nzoto mpe makanisi, mingimingi soki moto abongwani mingi. Ezali malamu kokende kotala moke soki ozali na posa na yango, komema moninga mpo na lisungi, to kokende liboso na mokolo ya mpasi. Mpo na makanisi ya kobatela yo moko, tala [kobatela moto oyo azali kobatela mosusu](/caregiving/caregiver-self-care/). Soki ofandi mosika, tala lisolo na biso ya [kobenga na telefone mpe na video](/activities/phone-and-video-calls/).

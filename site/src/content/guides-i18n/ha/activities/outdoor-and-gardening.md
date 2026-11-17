@@ -1,33 +1,33 @@
 ---
-title: "Ayyukan Waje da Aikin Lambu ga Masu Mantuwa"
-seoTitle: "Aikin Lambu da Ayyukan Waje ga Masu Mantuwa"
-description: "Shawarwarin aikin lambu da ayyukan waje ga masu rayuwa da mantuwa, tare da gadaje masu tasowa, lambun tukwane, da shawarwarin tsaro game da zafi, rana da yawo."
+title: "Ayyukan Waje da Lambu ga Masu Rayuwa da Dimensiya"
+seoTitle: "Ayyukan Lambu da Waje ga Dimensiya"
+description: "Shawarwarin ayyukan lambu da na waje ga mutanen da ke rayuwa da dimensiya, tare da gadon lambu mai tsayi, tukwane, da shawarwarin kariya daga zafi da rana."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Aikin lambu da zama a waje na iya zama aiki mai natsuwa kuma sananne ga mai
-  rayuwa da mantuwa. Ku gwada shayarwa, dasa ganyen girki a tukunya, yanke
-  busassun furanni ko ɗan yawo a cikin farfajiya mai shinge. Ku yi amfani da
-  gadaje masu tasowa ko tebur don kada kowa ya durƙusa, ku guji kayan aiki masu
-  kaifi da tsire-tsire masu guba, ku fita a lokacin rana mafi sanyi, kuma ku
-  kasance tare da mutumin koyaushe.
+  Aikin lambu da zama a waje na iya zama aiki mai nutsuwa da saba wa mutumin
+  da ke rayuwa da dimensiya. Ku gwada shayar da tsirrai, dasa ganye a tukunya,
+  cire furannin da suka bushe, ko yin ɗan gajeren tafiya a farfajiya mai shinge.
+  Ku yi amfani da gadon lambu mai tsayi ko tebur domin kada kowa ya durƙusa, ku
+  guji kayan aiki masu kaifi da tsirrai masu guba, ku fita a lokacin da yanayi ya
+  fi sanyi, kuma ku kasance tare da mutumin a kowane lokaci.
 keyPoints:
-  - "Ana iya yin ayyukan lambu masu sauƙi kamar shayarwa, dasa iri a tukunya, jin ƙamshin ganye da tsintar furanni a tsaye ko a zaune."
-  - "Gadaje masu tasowa, tukwane da tebur mai rufi suna kawo lambun zuwa tsayin ƙugu kuma suna rage haɗarin faɗuwa."
-  - "Ku guji kayan aiki masu kaifi, tsire-tsire masu ƙaya ko masu harzuƙa fata, da duk abin da yake da guba. Ku lura kada a ɗauki ƙasa a matsayin abinci."
-  - "Zafi na iya zama mai haɗari ga tsofaffi. Ku fita da sassafe ko da yamma, ku ɗauki ruwa da inuwa, kuma ku shiga ciki a farkon alamar rashin jin daɗi."
-  - "Mutane da yawa masu rayuwa da mantuwa suna yawo ba tare da sanin inda za su ba a wani lokaci. Ku kasance tare da mutumin a waje kuma ku riƙe sabon hoto da takardar shaida a hannu."
+  - "Ayyukan lambu masu sauƙi kamar shayar da tsirrai, dasa iri, sansana ganye da tsince furanni ana iya yin su a tsaye ko a zaune."
+  - "Gadon lambu mai tsayi, tukwane da tebur mai rufi suna ɗaga lambun zuwa matakin kugu kuma suna rage haɗarin faɗuwa."
+  - "Ku guji kayan aiki masu kaifi, tsirrai masu ƙaya ko masu ɓata fata, da duk wani abu mai guba. Ku kula kada a ɗauki ƙasa a matsayin abinci."
+  - "Zafi na iya zama haɗari ga manya. Ku fita da sassafe ko da yamma, ku tafi da ruwa da inuwa, kuma ku koma ciki idan kun ga alamar rashin jin daɗi."
+  - "Yawancin mutanen da ke rayuwa da dimensiya na iya yawo daga wuri a wani lokaci. Ku kasance tare da mutumin a waje kuma ku ajiye sabon hoto da katin shaida a kusa."
 faq:
-  - q: "Waɗanne ayyukan lambu mai mantuwa zai iya yi?"
-    a: "Shayar da shuke-shuke, dasa iri a ƙananan tukwane, jin ƙamshi da taɓa ganye, yanke busassun furanni, tsinto kayan lambu, shirya furannin da aka yanka da share hanya duk zaɓi ne masu kyau. A cikin gida, tukunyar ganyen girki a gefen taga ko tire na ƙasa a kan tebur mai rufi yana aiki da kyau. Ku zaɓi aikin bisa abin da mutumin ya ji daɗi a da kuma yake iya yi cikin sauƙi yanzu."
-  - q: "Yaya zan kiyaye lafiyar mai mantuwa a cikin zafi?"
-    a: "Ku tsara lokacin waje a sassafe ko da yamma lokacin da ya fi sanyi, ku sa shi ya zama gajere, kuma ku riƙa ba da ruwa akai-akai. Ku zaɓi inuwa, hula mai faɗin gefe, tufafi masu sauƙi da faɗi da man kariya daga rana. Tsofaffi suna cikin haɗari mafi girma na rashin lafiya da zafi ke jawowa, kuma ruɗewa, jiri ko tashin zuciya na iya zama alamun gargaɗi, don haka ku shiga ciki ku huce nan da nan idan kun lura da su."
-  - q: "Yaya za mu fita waje idan yana da tsarin yawo ba tare da sanin inda zai tafi ba?"
-    a: "Ku kasance tare da mutumin a duk lokacin, ku yi amfani da farfajiya ko lambu mai shinge da ƙofa mai ƙullewa, kuma ku tabbatar yana sanye da mundun shaida ko yana ɗauke da takardar shaida. Ku riƙe sabon hoto a hannu. Idan mutumin ya ɓace, Alzheimer’s Association ta ba da shawarar a kira lambar gaggawa ta yankinku idan ba a same shi ba cikin mintuna 15."
+  - q: "Waɗanne ayyukan lambu ne mutumin da ke da dimensiya zai iya yi?"
+    a: "Shayar da tsirrai, dasa iri a ƙananan tukwane, sansana da taɓa ganye, cire furannin da suka bushe, tsince kayan lambu, shirya furannin da aka yanka da share hanya duk zaɓi ne masu kyau. A cikin gida, tukunyar ganye a bakin taga ko tire na ƙasa a kan tebur mai rufi yana aiki sosai. Ku zaɓi aikin bisa abin da mutumin ya saba sha’awa a dā da abin da zai iya yi cikin kwanciyar hankali yanzu."
+  - q: "Ta yaya zan kiyaye mutumin da ke da dimensiya daga zafi?"
+    a: "Ku tsara lokacin fita waje a lokacin da yanayi ya fi sanyi da safe ko da yamma, ku sa ya zama na ɗan lokaci, kuma ku ba shi ruwa akai-akai. Ku zaɓi inuwa, hula mai faɗin baki, tufafi masu faɗi da sauƙi, da man kariya daga rana. Manya suna cikin haɗarin rashin lafiya da zafi ke haifarwa, kuma ruɗewa, juwa ko tashin zuciya na iya zama alamun gargaɗi, don haka ku koma cikin gida ku nemi hanyar sanyaya jiki nan da nan idan kun lura da su."
+  - q: "Ta yaya za mu fita waje idan yana yawan yawo?"
+    a: "Ku kasance tare da mutumin a kowane lokaci, ku yi amfani da farfajiya ko lambu mai shinge da ƙofa mai ƙullewa, kuma ku tabbatar yana sanye da munduwa ta shaida ko yana riƙe da katin shaida. Ku ajiye sabon hoto a kusa. Idan mutumin ya ɓace, ku tuntubi ’yan sandan yankinku ko sabis na gaggawa nan da nan; kada ku jira wani ƙayyadadden adadin mintuna. Ku gaya wa masu amsawa cewa mutumin yana da dimensiya, inda aka gan shi a ƙarshe, kuma ku ba da sabon hoto."
   - q: "Idan ba mu da lambu fa?"
-    a: "Wasu tukwane a baranda, akwatin furanni a taga, ko tire na ganyen girki a kan teburin kicin ya isa. Za ku iya kuma ziyartar wurin shakatawa, lambun jama’a ko lambun al’umma. Zama a waje da sauraron tsuntsaye ma ayyukan waje ne."
+    a: "’Yan tukwane a baranda, akwatin furanni a taga, ko tire na ganye a kan teburin dafa abinci ya isa. Haka kuma kuna iya ziyartar wurin shakatawa, lambun jama’a ko lambun al’umma. Zama a waje da sauraron kukan tsuntsaye ma aiki ne na waje."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Ga mutane da yawa, lambu yana ɗaya daga cikin wuraren da suka fi sani. Tono, shayarwa da tsintar furanni suna amfani da ƙwarewar da aka koya tuntuni, kuma kasancewa a waje yana kawo iska mai daɗi, hasken rana da waƙar tsuntsaye. National Institute on Aging ta lissafa kula da shuke-shuke, dasa furanni da kayan lambu, da [yin magana kan yadda shuke-shuken suke girma](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) cikin ayyukan da masu cutar Alzheimer za su ji daɗinsu. Wannan shafi yana bayani kan abin da za a gwada, yadda za a sa lambu ya zama mai sauƙin amfani, da yadda za a kiyaye lafiya game da zafi, rana da yawo ba tare da sanin inda za a tafi ba.
+Ga mutane da yawa, lambu na ɗaya daga cikin wuraren da suka fi saba da su. Tona ƙasa, shayarwa da tsince furanni suna amfani da ƙwarewar da aka koya tun da daɗewa, kuma zama a waje yana kawo iska mai daɗi, hasken rana da kukan tsuntsaye. Cibiyar National Institute on Aging ta jera kula da tsirrai, dasa furanni da kayan lambu, da [magana game da yadda tsirrai suke girma](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a cikin ayyukan da mutanen da ke da cutar Alzheimer za su iya jin daɗi. Wannan shafin yana bayanin abin da za a gwada, yadda za a sauƙaƙa amfani da lambu, da yadda za a kasance cikin aminci daga zafi, rana da yawo.
 
-## Waɗanne ayyukan waje da aikin lambu suke aiki da kyau?
+## Waɗanne ayyukan waje da na lambu suka fi dacewa?
 
-Mafi kyawun ayyuka su ne masu sauƙi, sanannu, kuma waɗanda za a iya yi a tsaye ko a zaune. Ku zaɓi bisa abin da mutumin ya saba jin daɗi.
+Ayyuka mafi kyau su ne masu sauƙi, masu saba da juna, kuma waɗanda za a iya yi a tsaye ko a zaune. Ku zaɓa bisa abin da mutumin ya saba jin daɗi da shi.
 
-### A lambu
+### A cikin lambu
 
-1. **Shayarwa.** Ƙaramin bokitin shayarwa mai sauƙi ko ƙaramin bututun ruwa mai laushi da wasu tukwane a inda zai kai. Shayarwa tana da farawa da ƙarewa a bayyane, kuma da wuya a yi ta ba daidai ba.
-2. **Dasa iri a tukwane.** Alzheimer’s Foundation of America ta ba da shawarar dasa iri a ƙananan tukwane da [kallon yadda suke girma](https://alzfdn.org/dementia-activity-gardening/). Manyan iri kamar wake ko furen rana sun fi sauƙin kamawa.
-3. **Yanke busassun furanni.** Tsintar furannin da suka bushe da hannu aiki ne mai laushi da ake maimaitawa. Ku zaɓi shuke-shuke marasa ƙaya.
-4. **Tsintar kayan lambu ko ganyen girki.** Ƙananan tumatir, wake da ganyen girki suna da sauƙin tsintowa kuma masu daɗin ɗanɗana. Ku kawo su cikin gida a yi amfani da su a abincin rana.
-5. **Jin ƙamshi da taɓa ganyen girki.** Rosemary, na’ana’a (mint) da lavender suna da ƙamshi mai ƙarfi da daɗi. Ku murje ganye tsakanin yatsu ku miƙa masa.
-6. **Share hanya ko farfajiya.** Ƙaramar tsintsiya a kan fili mai tsabta da bushe, idan daidaiton jiki yana da ƙarfi.
-7. **Cika wurin ciyar da tsuntsaye.** Sannan ku zauna tare ku kalli waɗanda suke zuwa ziyara.
+1. **Shayar da tsirrai.** Ƙaramar gwangwanin shayarwa mai sauƙi ko bututun ruwa mai laushi da ’yan tukwane a kusa. Shayarwa yana da farkon farawa da ƙarshen kammalawa, kuma yana da wuya a yi kuskure.
+2. **Dasa iri a tukwane.** Alzheimer’s Foundation of America ta ba da shawarar dasa iri a ƙananan tukwane da [kallon yadda suke girma](https://alzfdn.org/dementia-activity-gardening/). Manyan iri kamar wake, sunflower ko peas sun fi sauƙin riƙewa.
+3. **Cire furannin da suka bushe.** Cire furannin da suka kode da hannu aiki ne mai laushi da maimaituwa. Ku zaɓi tsirrai marasa ƙaya.
+4. **Tsince kayan lambu ko ganye.** Ƙananan tumatir, wake da ganye suna da sauƙin tsinkewa kuma suna da daɗin ɗanɗano. Ku shigo da su cikin gida don amfani da su wajen cin abincin rana.
+5. **Sansana da taɓa ganye.** Rosemary, mint da lavender suna da ƙamshi mai ƙarfi da daɗi. Ku goge ganye a tsakanin yatsunku ku mika shi kusa.
+6. **Share hanya ko baranda.** Tsintsiya mai sauƙi a kan fili mai faɗi da bushe, idan daidaituwar jiki tana da kyau.
+7. **Cika wurin ciyar da tsuntsaye.** Sannan ku zauna tare ku kalli waɗanda suka zo.
 
-### A cikin gida, lokacin da fita ba zai yiwu ba
+### A cikin gida, idan ba za a iya fita ba
 
-- **Lambun ganyen girki a gefen taga** na basil, faski (parsley) ko chives.
-- **Dasa a kan tebur mai rufi.** AFA ta ba da shawarar yin amfani da tire irin na ɗakin cin abinci don ajiye ƙasa a wuri ɗaya da motsa ƙasa da ƙananan kofuna.
-- **Shirya furanni** da furannin da aka yanka da ganyaye daga farfajiya ko kasuwa.
-- **Furanni da aka matse** daga damin furanni, a manna su daga baya a kan kati. Ku duba [ayyukan fasaha da sana’a](/activities/arts-and-crafts/) don ƙarin bayani.
-- **Yin ƙananan jakunkunan lavender ko wardi masu ƙamshi**, wata shawarar AFA da take riƙe ƙamshin lambu a cikin gida.
+- **Tukunyar ganye a bakin taga** na basil, parsley ko chives.
+- **Dasa a kan tebur mai rufi.** AFA ta ba da shawarar amfani da tire irin na kantin abinci don ajiye ƙasa a wuri ɗaya da motsa ƙasa da ƙananan kofuna.
+- **Shirya furanni** da furannin da aka yanka da ganyaye daga lambu ko kantin sayar da kayan abinci.
+- **Matsa furanni** daga kwandon furanni, daga baya a manne su a kan katunan gaisuwa. Ku duba [fasaha da sana’o’in hannu](/activities/arts-and-crafts/) don ƙarin bayani.
+- **Yin ƙananan jakunkuna na lavender ko furen wardi**, wani shawarwari ne na AFA da ke kawo ƙamshin lambu cikin gida.
 
-### Fita yawo
+### Fita waje da yawo
 
-- **Ɗan yawo kaɗan** a kewayen unguwa, wurin shakatawa ko cibiyar sayar da shuke-shuke, a hankali kuma da wurin zama.
-- **Zama a waje** a baranda ko kan benci don sauraron tsuntsaye da jin iskar. Wannan cikakken aiki ne da kansa.
-- **Ziyartar lambun jama’a** a lokacin rana da ba shi da cunkoso. NHS ta lura cewa wasu wurare suna da lambunan hankulan jiki masu shuke-shuke masu ƙamshi, sassa daban-daban na taɓawa da ruwa.
-- **Ciyar da agwagwa ko kallon tsuntsaye** a tafkin yankin, ana ajiye tazara mai aminci daga gefen ruwa.
+- **Ɗan gajeren tafiya** a kusa da unguwa, wurin shakatawa ko kantin sayar da tsirrai, a hankali tare da wurin zama.
+- **Zama a waje** a baranda ko benci don sauraron kukan tsuntsaye da jin iska. Wannan shi kaɗai cikakken aiki ne.
+- **Ziyartar lambun jama’a** a lokacin da mutane ba su da yawa a rana. NHS ta lura cewa wasu wurare suna da lambunan da ke motsa hankali da tsirrai masu ƙamshi, nau’ikan taɓawa da ruwa.
+- **Ciyar da agwagwa ko kallon tsuntsaye** a tafkin yankinku, tare da kiyaye tazara mai aminci daga gefen ruwa.
 
-## Yaya zan sa lambu ya zama mai sauƙin amfani?
+## Ta yaya zan sauƙaƙa amfani da lambu?
 
-Ku kawo lambun zuwa ga mutumin, ba mutumin zuwa lambun ba.
+Ku kawo lambun kusa da mutumin, ba shi ne ya matsa zuwa lambun ba.
 
-- **Gadaje masu tasowa ko manyan tukwane** a tsayin ƙugu suna nufin babu durƙusawa ko lankwasawa.
-- **Tukwane a kan tebur** suna aiki ga mutanen da suke amfani da keken guragu ko suka fi son zama.
-- **Hanyoyi masu faɗi da daidaito** ba tare da duwatsu marasa tsayawa ko bututun ruwa a kwance ba suna rage haɗarin tuntuɓe.
-- **Kujeru masu hannaye da inuwa** a hanya, don hutawa ya kasance zaɓi a koyaushe.
-- **Kayan aiki masu riƙo mai kauri da laushi** waɗanda suke da sauƙin kamawa. Ku bar almakashin yanke rassa, wuƙaƙe da duk abin da yake da kaifi.
-- **Wuri mai shinge da ƙofa mai ƙullewa** da mutumin zai iya yawo a cikinsa cikin ’yanci yayin da kuke kusa.
+- **Gadon lambu mai tsayi ko tukwane masu tsayi** a kusan matakin kugu suna nufin ba sai an durƙusa ko an sunkuya ba.
+- **Tukwane a kan tebur** suna dacewa da mutanen da ke amfani da keken guragu ko waɗanda suka fi son zama.
+- **Hanyoyi masu faɗi da daidaitacce** ba tare da duwatsu masu motsi ko bututun ruwa a ƙasa ba suna rage haɗarin tuntuɓe.
+- **Kujeru masu hannu da inuwa** a kan hanya, domin hutawa ya kasance zaɓi a kowane lokaci.
+- **Kayan aiki masu kauri da taushi a hannu** waɗanda suke da sauƙin riƙewa. Ku guji almakashi na reshe, wuƙaƙe da duk wani abu mai kaifi.
+- **Wuri mai shinge da ƙofa mai ƙullewa** wanda mutumin zai iya zagayawa cikin ’yanci yayin da kuke kusa.
 
-## Waɗanne shuke-shuke ya kamata in guji?
+## Waɗanne tsirrai ya kamata in guje su?
 
-Ku zaɓi shuke-shuke da suke da aminci a taɓa kuma, da fatan, da aminci idan an ɗanɗana. AFA ta ba da shawarar a yi amfani da shuke-shuke da ba sa harzuƙa fata, a bincika rashin lafiyar jiki (allergies), kuma a sa ido sosai ga duk wanda zai iya ɗaukar ƙasa a matsayin abinci. Shawarar aminci a gida ta NIA ta haɗa da cire shuke-shuke masu guba ko kulle su.
+Ku zaɓi tsirrai waɗanda ba su da haɗari ga taɓawa, kuma idan zai yiwu, ba su da haɗari ko da an ɗanɗana su. AFA ta ba da shawarar amfani da tsirrai waɗanda ba sa yawan ɓata fata, a duba ko akwai rashin jituwa, kuma a kula sosai da duk wanda zai iya ɗaukar ƙasa a matsayin abinci. Shawarwarin kiyaye gida na NIA sun haɗa da cire ko kulle tsirrai masu guba.
 
-- Ku guji wardi masu ƙaya, cactus, da shuke-shuke masu ruwan da yake harzuƙa fata.
-- Ku tambayi cibiyar kula da guba ko cibiyar sayar da shuke-shuke ta yankinku kan duk shukar da ba ku tabbatar da ita ba kafin ku dasa ta.
-- Abubuwan da aka saba da su na iya dawo da ji masu daɗi. AFA ta ambaci wardi da Christmas cactus a matsayin misalai. Ku zaɓi nau’ikan marasa ƙaya.
-- Ku kulle taki, magungunan kashe ƙwari da maganin ciyawa, kuma kada ku yi amfani da su a wuraren da mutumin zai iya kaiwa.
+- Ku guji wardi masu ƙaya, cacti, da tsirrai masu ruwan da ke ɓata fata.
+- Ku bincika duk wani tsirrai da ba ku da tabbaci a kansa a cibiyar kula da guba ko kantin sayar da tsirrai na yankinku kafin dasa shi.
+- Tsirrai da aka saba da su na iya dawo da jin daɗi. AFA ta ambaci wardi da cactus na Kirsimeti a matsayin misalai. Ku zaɓi nau’ikan marasa ƙaya.
+- Ku ajiye taki, magungunan kashe kwari da magungunan ciyawa a wuri mai kullewa, kuma kada ku yi amfani da su a wuraren da mutumin zai iya kaiwa.
 
-## Yaya zan kiyaye lafiya a cikin zafi da rana?
+## Ta yaya zan kasance cikin aminci daga zafi da rana?
 
-Ku tsara lokacin waje bisa yanayi. NIA ta bayyana cewa tsofaffi suna cikin haɗarin mafi girma na [rashin lafiya da zafi ke jawowa](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), a wani ɓangare saboda jiki yana daidaitawa da canjin zafi ba sosai ba, kuma wasu magunguna suna shafar yadda jiki yake jure zafi.
+Ku tsara lokacin fita waje bisa yanayi. NIA ta bayyana cewa manya suna cikin haɗarin [rashin lafiya da zafi ke haifarwa](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), wani ɓangare saboda jiki ba ya daidaitawa da sauye-sauyen zafin jiki cikin sauƙi, kuma wasu magunguna suna shafar yadda jiki ke jure zafi.
 
-- **Ku fita sassafe ko da yamma.** Ku guji tsakiyar rana a lokutan zafi. Ku duba ma’aunin zafi da danshi (heat index), ba kawai zafin yanayi ba.
-- **Ku riƙa ba da ruwa akai-akai.** Kada ku jira mutumin ya ce yana jin ƙishirwa. Ku guji barasa da abubuwan sha masu maganin kafeyin a lokacin zafi.
-- **Ku shirya tufafi.** Tufafi masu launi mai haske da faɗi, hula mai faɗin gefe da tabarau.
-- **Ku shafa man kariya daga rana.** NIA tana ba da shawarar man kariya mai faɗin kariya na SPF 15 ko sama da haka, a sake shafawa cikin rana.
-- **Ku zaɓi inuwa.** Ku sa teburin dasa a ƙarƙashin bishiya ko laima.
-- **Ku sa shi ya zama gajere.** Ɗan lokaci a waje na iya isa sosai, musamman a ranakun zafi.
-- **Ku lura da alamun gargaɗi.** NIA ta lissafa ciwon kai, ruɗewa, jiri ko tashin zuciya a matsayin alamun rashin lafiya da zafi zai iya jawowa. Mai mantuwa ba zai gaya muku yana jin ba shi da lafiya ba, don haka ku kalli fuskarsa da halayensa. Ku shiga ciki, ku huce da ruwa da kyalle mai sanyi, kuma ku nemi taimakon likita idan bai samu sauƙi da sauri ba. Bugun zafi, da alamu kamar suma, ruɗewa, ko fata busasshiya mai ja, gaggawa ce ta likita: ku kira lambar gaggawa ta yankinku.
+- **Ku fita da sassafe ko da yamma.** Ku guji tsakiyar rana a watanni masu zafi. Ku duba ma’aunin zafin da ake ji, ba kawai zafin jiki ba.
+- **Ku ba da ruwa akai-akai.** Kada ku jira mutumin ya ce yana jin ƙishirwa. Ku guji barasa da abubuwan sha masu caffeine a lokacin zafi.
+- **Ku sa tufafin da suka dace.** Tufafi masu launin haske da faɗi, hula mai faɗin baki da tabarau na rana.
+- **Ku yi amfani da man kariya daga rana.** NIA ta ba da shawarar man kariya mai faɗin kariya da SPF 15 ko fiye, ana maimaita shafawa a cikin rana.
+- **Ku zaɓi inuwa.** Ku kafa teburin dasa a ƙarƙashin bishiya ko laima.
+- **Ku sa ya zama na ɗan lokaci.** Ɗan gajeren lokaci a waje na iya isa, musamman a ranaku masu zafi.
+- **Ku kula da alamun gargaɗi.** NIA ta jera ciwon kai, ruɗewa, juwa ko tashin zuciya a matsayin alamun da za su iya nuna rashin lafiya da zafi ke haifarwa. Mutumin da ke da dimensiya ba zai iya gaya muku cewa ba ya jin daɗi ba, don haka ku kula da fuskarsa da halinsa. Ku koma cikin gida, ku sanyaya jiki da ruwa da mayafi mai sanyi, kuma ku nemi taimakon likita idan ba a samu sauƙi da sauri ba. Bugawar zafi, tare da alamomi kamar suma, ruɗewa, ko busasshiyar fata mai ja, gaggawar likita ce: ku kira 911.
 
-Yanayin sanyi ma yana da muhimmanci. A lokacin sanyi, ku sa lokacin waje ya zama gajere kuma ku tabbatar hannaye da ƙafafu suna da ɗumi da bushewa.
+Yanayin sanyi ma yana da muhimmanci. A lokacin hunturu, ku sa lokacin fita waje ya zama na ɗan lokaci kuma ku tabbatar hannaye da ƙafafu suna da ɗumi da bushewa.
 
-## Yaya zan magance yawo ba tare da sanin inda za a tafi ba lokacin da muka fita waje?
+## Ta yaya zan magance yawo lokacin da muka fita waje?
 
-Ku kasance tare da mutumin a duk lokacin da yake waje. Alzheimer’s Association ta ce [shida cikin 10 na masu rayuwa da mantuwa](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) za su yi yawo ba tare da sanin inda za su ba aƙalla sau ɗaya, kuma da yawa suna yin hakan fiye da sau ɗaya. Yana iya faruwa a kowane mataki.
+Ku kasance tare da mutumin a duk lokacin da yake waje. Alzheimer’s Association ta ce [mutane shida cikin 10 da ke rayuwa da dimensiya](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) za su yi yawo aƙalla sau ɗaya, kuma da yawa suna yin hakan fiye da sau ɗaya. Yana iya faruwa a kowane mataki.
 
-[Shawarwarin NIA kan yawo da ɓacewa](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) sun haɗa da:
+[Shawarwarin NIA game da yawo da ɓacewa](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) sun haɗa da:
 
-- Ku tabbatar mutumin yana sanye da mundun shaida ko na lafiya mai sunansa, adireshinsa da lambar wayarku, ko ku sa alama a tufafinsa.
-- Ku riƙe sabon hoto ko bidiyon mutumin.
-- Ku sanar da maƙwabta cewa mutumin na iya yin yawo ba tare da sanin inda zai tafi ba.
-- Ku kare farfajiya da shinge da ƙofa mai kulle.
-- Kada ku bar wanda ya taɓa yin irin wannan yawo shi kaɗai.
+- Ku tabbatar mutumin yana sanye da munduwa ta shaida ko ta likita dauke da sunansa, adireshinsa da lambar wayarku, ko ku sanya alamar shaida a tufafinsa.
+- Ku ajiye sabon hoto ko bidiyo na mutumin.
+- Ku sanar da maƙwabta cewa mutumin na iya yawo.
+- Ku kiyaye farfajiyar da shinge da ƙofa mai kullewa.
+- Kada ku bar mutumin da ke da tarihin yawo shi kaɗai.
 
-Alzheimer’s Association kuma ta ba da shawarar a samar da wurare a cikin gida da waje da za a iya bincika cikin aminci, kuma a tsara ayyuka a lokacin rana da rashin natsuwa ya fi yiwuwa. Yawo a cikin lambu mai aminci da shinge na iya dacewa da rashin natsuwa na ƙarshen rana. Ku duba jagorarmu kan [rashin natsuwa na ƙarshen rana](/caregiving/late-day-restlessness/).
+Alzheimer’s Association ta kuma ba da shawarar samar da wurare a ciki da waje waɗanda za a iya zagayawa cikin aminci, da tsara ayyuka a lokacin rana da rashin natsuwa ya fi bayyana. Tafiya a cikin lambu mai aminci da shinge na iya dacewa da rashin natsuwa a ƙarshen rana. Ku duba jagorarmu game da [rashin natsuwa a ƙarshen rana](/caregiving/late-day-restlessness/).
 
-Idan mutumin ya ɓace, Alzheimer’s Association ta ba da shawarar a nemi shi nan da nan a unguwar kusa da kuma a kira lambar gaggawa ta yankinku idan ba a same shi ba cikin mintuna 15. Ku gaya wa ’yan sanda cewa mutumin yana da mantuwa.
+Idan mutumin ya ɓace, ku duba wuraren da ke kusa masu aminci yayin da kuke tuntubar ’yan sandan yankinku ko sabis na gaggawa nan da nan. Kada ku jira wani ƙayyadadden adadin mintuna kafin ku ba da rahoto. [Makala ta U.S. Department of Justice a 2021 game da binciken mutanen da suka ɓace](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) ta ce hukumomin tsaro kada su bukaci wani ƙayyadadden lokacin jira kuma ta jera alamun da ke kama da na dimensiya a matsayin abin damuwa mai haɗari. Hanyoyin bayar da rahoto sun bambanta daga wuri zuwa wuri. Ku bayyana lokacin da wurin da aka gan mutumin a ƙarshe, abin da yake sanye da shi, da sabon hoto. Ku bi umarnin masu amsawa na yankinku; kada ku bincika wurare masu haɗari shi kaɗai.
 
-## Yaya zan daidaita aikin lambu yayin da abubuwa suke canzawa?
+## Ta yaya zan daidaita aikin lambu yayin da abubuwa suka canza?
 
-| Idan wannan ya zama mai wuya | Ku gwada wannan maimakon |
+| Idan wannan ya zama da wahala | Ku gwada wannan maimakon haka |
 | --- | --- |
-| Dasa gado gaba ɗaya | Dasa iri ɗaya a tukunya ɗaya |
-| Cire ciyawa (bambance ciyawa da shuke-shuke) | Shayarwa, ko yanke busassun furanni da suka bayyana a fili |
-| Yawo a kewayen lambu | Zama a teburi da tire na ƙasa da shuka |
-| Fita waje kwata-kwata | Tukunyar ganyen girki a teburin kicin, ko kujera kusa da taga a buɗe |
-| Yin kowane aiki | Zama a waje tare, ana saurare da kallo |
+| Dasa gaba ɗaya gadon lambu | Dasa iri ɗaya a tukunya ɗaya |
+| Cire ciyawa (banbance ciyawa da tsirrai) | Shayarwa, ko cire furannin da suka bushe da suke a bayyane |
+| Zagayawa a lambu | Zama a tebur tare da tire na ƙasa da tsirrai |
+| Fita waje gaba ɗaya | Tukunya ta ganye a kan teburin dafa abinci, ko zama kusa da taga a buɗe |
+| Yin kowane aiki | Zama tare a waje, kuna saurara kuna kallo |
 
-Wasu mutane sun fi son kallon ku kuna aiki. NIA ta lura cewa barin mutum ya kalla kawai ba laifi ba ne idan abin da yake jin daɗi ke nan.
+Wasu mutane sun fi son su kalle ku kuna aiki. NIA ta lura cewa barin mutumin ya kalli kawai ba laifi ba ne idan hakan ne yake jin daɗi da shi.
 
-## Yaushe ya kamata mu shiga ciki?
+## Yaushe ya kamata mu koma ciki?
 
-Ku shiga ciki idan mutumin ya yi kamar ya gaji, yana jin zafi, yana jin sanyi, yana jin ba daɗi ko ya shirya ya daina. Gajerun mintuna goma masu daɗi sun fi dogon la’asar da ke ƙarewa cikin damuwa. Tsayawa da wuri sakamako ne mai kyau.
+Ku koma ciki idan mutumin ya yi kama da gajiya, ya ji zafi, sanyi, rashin nutsuwa, ko yana shirye ya tsaya. Mintuna goma masu daɗi sun fi yawan sa’o’i masu tsawo da ke ƙarewa da damuwa. Tsayawa da wuri sakamako ne mai kyau.
 
-## A kawo lambun cikin gida ta allo
+## Ku kawo lambu cikin gida ta allo
 
-A ranakun ruwan sama, [Rarrabe tare](/games/sort-together/) yana da kwandon lambu don rarraba hotuna, kuma [Katunan hira](/games/conversation-cards/) yana ɗauke da tambayoyi buɗaɗɗu da za su iya kai ga labaran lambu. Idan kun shigo daga zafi cikin gaggawa, [Numfashi cikin natsuwa](/games/calm-breathing/) yana ba da hutu mai natsuwa da za ku iya rabawa. Don ƙarin shawarwari da suka dogara kan taɓawa, ƙamshi da sauti, ku duba [jagorar ayyukan hankulan jiki](/activities/sensory/).
+A ranakun da ake ruwan sama, [Sort Together](/games/sort-together/) yana da kwandon lambu don rarraba hotuna, kuma [Conversation Cards](/games/conversation-cards/) ya ƙunshi tambayoyi masu buɗewa waɗanda za su iya haifar da labaran lambu. Idan kun shigo daga zafi kuna jin gaggawa, [Calm Breathing](/games/calm-breathing/) yana ba da ɗan hutawa a hankali da nutsuwa da za ku iya rabawa tare. Don ƙarin ra’ayoyi da suka dogara da taɓawa, ƙamshi da sauti, ku duba [jagorarmu kan ayyukan da ke motsa hankali](/activities/sensory/).

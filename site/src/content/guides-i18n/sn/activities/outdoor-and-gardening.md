@@ -1,32 +1,34 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Zviitwa zvekunze nekurima gadheni"
+seoTitle: "Kurima gadheni nezviitwa zvekunze"
+description: "Mazano ekurima gadheni nezviitwa zvekunze zvemunhu anogara nechirwere chekukanganwa, zvinosanganisira mibhedha yakasimudzwa, mapoto, uye mazano ekuchengetedzeka pakupisa, zuva nekudzungaira."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Kurima gadheni nenguva yekuva panze zvinogona kuva chiitwa chakadzikama uye
+  chinozivikanwa kumunhu anogara nechirwere chekukanganwa. Edzai kudiridza,
+  kudyara miriwo inonhuhwirira mumapoto, kubvisa maruva akaoma kana kufamba
+  zvishoma muyadhi yakakomberedzwa. Shandisai mibhedha yakasimudzwa kana tafura
+  kuitira kuti pasave nemunhu anopfugama, dzivisai maturusi anopinza nezvirimwa
+  zvine muchetura, budai panze panguva inotonhorera yezuva, uye garai nemunhu
+  wacho nguva dzose.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Mabasa ari nyore ebindu akadai sekudiridza, kudyara mbeu mumapoto, kunhuwidza miriwo inonhuhwirira nekutanha maruva anogona kuitwa akamira kana akagara."
+  - "Mibhedha yakasimudzwa, mapoto netafura yakafukidzwa zvinounza gadheni padanho rechiuno uye zvinoderedza njodzi yekudonha."
+  - "Dzivisai maturusi anopinza, zvirimwa zvine minzwa kana zvinokanganisa ganda, uye chero chinhu chine muchetura. Tarisisai kuti ivhu risafungirwe sechikafu."
+  - "Kupisa kunogona kuva nengozi kuvanhu vakuru. Budai mangwanani kana manheru, muuye nemvura nemumvuri, uye pindai mumba pakutanga kuona kusagadzikana."
+  - "Vanhu vazhinji vanogara nechirwere chekukanganwa vanodzungaira pane imwe nguva. Garai nemunhu wacho panze uye chengetai mufananidzo wenguva pfupi yapfuura nechitupa pedyo."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Ndezvipi zviitwa zvekurima gadheni zvinogona kuitwa nemunhu ane chirwere chekukanganwa?"
+    a: "Kudiridza zvirimwa, kudyara mbeu mumapoto madiki, kunhuwidza nekubata miriwo inonhuhwirira, kubvisa maruva akaoma, kutanha miriwo, kuronga maruva akachekwa nekutsvaira nzira zvose isarudzo dzakanaka. Mukati meimba, poto remiriwo inonhuhwirira pahwindo kana tireyi yeivhu patafura yakafukidzwa zvinoshanda zvakanaka. Sarudzai basa zvichienderana nezvaifarirwa nemunhu wacho kare uye zvaanogona kuita zvakanaka iye zvino."
+  - q: "Ndingachengetedza sei munhu ane chirwere chekukanganwa akachengeteka pakupisa?"
+    a: "Rongai nguva yekuva panze mangwanani-ngwanani kana manheru kana kutonhorera, chengetai iri pfupi, uye mupai mvura kazhinji. Sarudzai mumvuri, ngowani ine muromo wakafara, mbatya dzakareruka dzakasununguka nekirimu yekudzivirira zuva. Vanhu vakuru vari panjodzi huru yekurwara nekupisa, uye kuvhiringika, dzungu kana kuda kurutsa zvinogona kuva zviratidzo zvekuyambira, saka pindai mumba uye mutonhorere pakarepo kana mukazviona."
+  - q: "Tingabuda sei panze kana achiwanzodzungaira?"
+    a: "Garai nemunhu wacho nguva yose, shandisai yadhi kana gadheni rakakomberedzwa rine gedhi rinokiya, uye muone kuti akapfeka bhandi rechitupa kana kuti ane chitupa. Chengetai mufananidzo wenguva pfupi yapfuura pedyo. Kana munhu wacho akashaika, batai mapurisa emunharaunda kana rubatsiro rwechimbichimbi nekukurumidza; musamirira nhamba yemaminitsi yakatarwa. Udzaivo vanopindura kuti munhu wacho ane chirwere chekukanganwa, paakaonekwa kekupedzisira uye mupe mufananidzo wenguva pfupi yapfuura."
+  - q: "Ko kana tisina gadheni?"
+    a: "Mapoto mashoma pavharanda, bhokisi repahwindo, kana tireyi yemiriwo inonhuhwirira patafura yekubikira zvakakwana. Munogonawo kushanyira paki, gadheni reveruzhinji kana gadheni renharaunda. Kugara panze muchiteerera shiri kunoverengwawo sechiitwa chekunze."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +45,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +56,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Kuvanhu vazhinji, gadheni ndeimwe yenzvimbo dzavanoziva zvikuru. Kuchera, kudiridza nekutanha maruva zvinoshandisa unyanzvi hwakadzidzwa kare, uye kuva panze kunounza mhepo yakachena, chiedza chezuva neruzha rweshiri. National Institute on Aging inotaura nezvekuchengeta zvirimwa, kudyara maruva nemiriwo, uye [kutaura nezvekukura kuri kuita zvirimwa](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pakati pezviitwa zvinogona kufarirwa nevanhu vane Alzheimer's. Peji rino rinotsanangura zvekuedza, maitirwo ekuita kuti gadheni rive nyore kushandisa, uye nzira yekugara wakachengeteka pakupisa, zuva nekudzungaira.
 
-## What outdoor and gardening activities work well?
+## Ndezvipi zviitwa zvekunze nekurima gadheni zvinoshanda zvakanaka?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Mabasa akanakisa ari nyore, anozivikanwa uye anogona kuitwa akamira kana akagara. Sarudzai zvichienderana nezvaiwanzofarirwa nemunhu wacho.
 
-### In the garden
+### Mugadheni
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Kudiridza.** Keni diki, rakareruka rekudiridza kana muromo wehosi unopfapfaidza zvinyoro-nyoro nemapoto mashoma ari pedyo. Kudiridza kune mavambo nemagumo akajeka uye zvakaoma kukanganisa.
+2. **Kudyara mbeu mumapoto.** Alzheimer's Foundation of America inokurudzira kudyara mbeu mumapoto madiki uye [kuona dzichikura](https://alzfdn.org/dementia-activity-gardening/). Mbeu huru dzakaita sebhinzi, sunflowers kana pizi dziri nyore kubata.
+3. **Kubvisa maruva akaoma.** Kubvisa maruva akaoma nemaoko ibasa rakapfava uye rinodzokororwa. Sarudzai zvirimwa zvisina minzwa.
+4. **Kutanha miriwo kana miriwo inonhuhwirira.** Matomatisi madiki, bhinzi nemiriwo inonhuhwirira zviri nyore kutanha uye zvinonaka kuravira. Muunzei nazvo mumba kuti muzvishandise pakudya kwemasikati.
+5. **Kunhuwidza nekubata miriwo inonhuhwirira.** Rosemary, mint nelavender zvine kunhuhwirira kwakasimba uye kunofadza. Kwenyai shizha pakati peminwe yenyu moripfuudza.
+6. **Kutsvaira nzira kana pabhara.** Mutsvairo wakareruka panzvimbo yakati sandara, yakaoma, kana kumira kwacho kwakadzikama.
+7. **Kuzadza mudziyo wekudyisa shiri.** Mozogara mese muchiona kuti ndiani anouya.
 
-### Indoors, when going out is not possible
+### Mukati meimba, kana kubuda panze kusingaite
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Gadheni diki remiriwo inonhuhwirira pahwindo** rine basil, parsley kana chives.
+- **Kudyara patafura yakafukidzwa.** AFA inokurudzira kushandisa matireyi akaita seokukafeteria kuti ivhu rigare panzvimbo imwe chete uye kufambisa ivhu nemakapu madiki.
+- **Kuronga maruva** nemaruva akachekwa nemashizha anobva muyadhi kana kuchitoro.
+- **Kutsikirira maruva** anobva muboka remaruva, ozonamirwa pamakadhi gare gare. Onai [zvekugadzira nemaoko](/activities/arts-and-crafts/) kuti muwane zvimwe.
+- **Kugadzira masacheti elavender kana rose**, iriwo pfungwa yeAFA inochengeta kunhuhwirira kwebindu mukati meimba.
 
-### Getting out and about
+### Kubuda kunofamba-famba
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Kufamba zvishoma** kutenderera nharaunda, mupaki kana kuchitoro chezvirimwa, zvishoma nezvishoma paine nzvimbo yekugara.
+- **Kugara panze** pavharanda kana pabhenji muchiteerera shiri uye kunzwa mhepo. Ichi pachacho chiitwa chakakwana.
+- **Kushanyira gadheni reveruzhinji** panguva yezuva yakanyarara. NHS inotaura kuti dzimwe nzvimbo dzine magadheni ekunzwa anonhuhwirira, ane zvinhu zvakasiyana zvekubata nezvinhu zvemvura.
+- **Kudyisa madhadha kana kuona shiri** padziva riri pedyo, muchichengeta chinhambwe chakachengeteka kubva pamahombekombe emvura.
 
-## How do I make a garden easier to use?
+## Ndingaita sei kuti gadheni rive nyore kushandisa?
 
-Bring the garden up to the person, not the other way around.
+Uyai negadheni kumunhu wacho, kwete kuti munhu wacho ndiye aende kugadheni.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Mibhedha yakasimudzwa kana mapoto marefu** ari padanho rechiuno zvinoreva kuti hapana kupfugama kana kukotama.
+- **Mapoto ari patafura** anoshanda kuvanhu vanoshandisa wiricheya kana vanoda kugara.
+- **Nzira dzakafara, dzakati sandara** dzisina matombo akasununguka kana mahosi akarara pamusoro padzo dzinoderedza njodzi yekugumburwa.
+- **Zvigaro zvine mavoko nemumvuri** munzira, kuitira kuti kuzorora kugare kuri sarudzo iripo.
+- **Maturusi ane mibato mikobvu, yakapfava** ari nyore kubata. Siyai zvekuchekerera, mapanga nezvimwe zvese zvinopinza.
+- **Nzvimbo yakakomberedzwa ine gedhi rinokiya** iyo munhu wacho anogona kuongorora akasununguka imi muri pedyo.
 
-## Which plants should I avoid?
+## Ndezvipi zvirimwa zvandinofanira kudzivisa?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Sarudzai zvirimwa zvakachengeteka kubata uye, kana zvichibvira, zvakachengeteka kana zvikaravirwa. AFA inorayira kushandisa zvirimwa zvisingawanzo kanganisa ganda, kutarisa nezveallergy, uye kutarisisa munhu upi zvake anogona kukanganisa ivhu sechikafu. Zano reNIA rekuchengetedzeka pamba rinosanganisira kubvisa kana kukiya zvirimwa zvine muchetura.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Dzivisai maroses ane minzwa, cacti, nezvirimwa zvine muto unokanganisa ganda.
+- Tarisisai chero chirimwa chamusina chokwadi nacho kunzvimbo inorapa muchetura kana kuchitoro chezvirimwa chiri pedyo musati machidyara.
+- Zvirimwa zvaizivikanwa kare zvinogona kumutsa manzwiro anofadza. AFA inotaura nezvemaroses necactus yeKisimusi semienzaniso. Sarudzai mhando dzisina minzwa.
+- Chengetai fetiraiza, mishonga yezvipembenene nemishonga yemasora zvakakiyiwa, uye musazvishandise munzvimbo dzinosvikirwa nemunhu wacho.
 
-## How do I stay safe in the heat and sun?
+## Ndingagara sei ndakachengeteka pakupisa nezuva?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Rongai nguva yekuva panze maererano nemamiriro ekunze. NIA inotsanangura kuti vanhu vakuru vari panjodzi huru ye[kurwara kunokonzerwa nekupisa](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), zvimwe nekuti muviri hauchinjiki zvakanaka pakuchinja kwetembiricha uye mimwe mishonga inokanganisa mabatirwo anoita muviri kupisa.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Budai mangwanani kana manheru.** Dzivisai pakati pezuva mumwedzi inodziya. Tarisisai kupisa kunonzwa muviri, kwete tembiricha chete.
+- **Ipai mvura kazhinji.** Musamirira kuti munhu wacho ati ane nyota. Dzivisai doro nezvinwiwa zvine caffeine pakupisa.
+- **Pfekai zvakakodzera.** Mbatya dzine ruvara rwakareruka, dzakasununguka, ngowani ine muromo wakafara nemagirazi ezuva.
+- **Shandisai kirimu yekudzivirira zuva.** NIA inokurudzira broad-spectrum SPF 15 kana kupfuura, ichidzokororwa kuiswa mukati mezuva.
+- **Sarudzai mumvuri.** Isai tafura yekudyara pasi pemuti kana amburera.
+- **Chengetai nguva iri pfupi.** Kanguva kapfupi panze kunogona kukwana, kunyanya pamazuva anodziya.
+- **Tarisisai zviratidzo zvekuyambira.** NIA inotaura musoro, kuvhiringika, dzungu kana kuda kurutsa sezviratidzo zvinogona kuratidza kurwara nekupisa. Munhu ane chirwere chekukanganwa anogona kusakuudzai kuti haasi kunzwa zvakanaka, saka tarisisai chiso chake nemaitiro ake. Pindai mumba, mutonhorere nemvura nemucheka unotonhorera, uye tsvagai rubatsiro rwekurapwa kana akasaita nani nekukurumidza. Heat stroke, ine zviratidzo zvakaita sekufenda, kuvhiringika, kana ganda rakaoma rakatsvuka, idambudziko rekurapwa rinoda kukurumidza: fonerai 911.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Mamiriro ekutonhora anokoshawo. Munguva yechando, chengetai nguva yekuva panze iri pfupi uye muone kuti maoko netsoka zvinogara zvichidziya uye zvakaoma.
 
-## How do I handle wandering when we go outside?
+## Ndingabata sei kudzungaira patinobuda panze?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Garai nemunhu wacho pese paanenge ari panze. Alzheimer's Association inoti [vatanhatu muvanhu 10 vanogara nechirwere chekukanganwa](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) vachadzungaira kamwe chete, uye vazhinji vanoita izvi kanopfuura kamwe. Zvinogona kuitika padanho ripi neripi.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+[Mazano eNIA ekudzungaira nekurasika](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) anosanganisira:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Muone kuti munhu wacho akapfeka chitupa kana bhandi rekurapwa rine zita rake, kero nenhamba yenyu yerunhare, kana kuti nyorai mazita pambatya dzake.
+- Chengetai mufananidzo kana vhidhiyo yenguva pfupi yapfuura yemunhu wacho.
+- Udzaivo vavakidzani kuti munhu wacho anogona kudzungaira.
+- Chengetedzai yadhi nefenzi uye gedhi rakakiyiwa.
+- Musasiye munhu ane nhoroondo yekudzungaira asina anotarisira.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association inokurudzirawo kugadzira nzvimbo dzemukati nedzekunze dzinogona kuongororwa zvakachengeteka, uye kuronga zviitwa panguva yezuva apo kusagadzikana kunowanzoitika. Kufamba mugadheni rakachengeteka, rakakomberedzwa kunogona kukodzera kusagadzikana kwemanheru. Onai gwara redu pamusoro pe[kusagadzikana kwemanheru](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Kana munhu wacho akashaika, tarisai nzvimbo dziri pedyo dzakachengeteka muchibata mapurisa emunharaunda kana rubatsiro rwechimbichimbi nekukurumidza. Musamirira nhamba yemaminitsi yakatarwa musati mataura. [Chinyorwa cheU.S. Department of Justice chegore ra2021 pamusoro pekuferefeta vanhu vakashaika](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) chinoti mapoka emutemo haafaniri kuda nguva yakatarwa yekumirira uye chinotaura zviratidzo zvakaita zvechirwere chekukanganwa senjodzi huru. Maitirwo ekuzivisa anosiyana munharaunda. Taurai kuti munhu wacho akaonekwa riini uye kupi kekupedzisira, zvaakapfeka uye mupe mufananidzo wenguva pfupi yapfuura. Tevedzerai mirairo yevanopindura vemunharaunda; musatsvaga munzvimbo dzisina kuchengetedzeka muri mega.
 
-## How do I adapt gardening as things change?
+## Ndingachinja sei kurima gadheni sezvo zvinhu zvichichinja?
 
-| If this has become hard | Try this instead |
+| Kana izvi zvaoma zvino | Edzai izvi panzvimbo yazvo |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Kudyara mubhedha wese | Kudyara mbeu imwe mupoto rimwe |
+| Kusakura (kusiyanisa masora nezvirimwa) | Kudiridza, kana kubvisa maruva akaoma anooneka zviri nyore |
+| Kufamba-famba mugadheni | Kugara patafura netireyi yeivhu nechirimwa |
+| Kubuda panze zvachose | Poto remiriwo inonhuhwirira patafura yekubikira, kana chigaro pedyo nehwindo rakazaruka |
+| Kuita chero basa | Kugara panze mese, muchiteerera uye muchitarisa |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Vamwe vanhu vanosarudza kukuonai muchishanda. NIA inotaura kuti kurega munhu achingotarisa zvakanaka kana ndizvo zvaanofarira.
 
-## When should we head inside?
+## Tinofanira kupinda mukati riini?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Pindai mukati kana munhu wacho achiratidza kuneta, kupisa, kutonhora, kusagadzikana kana kugadzirira kupedza. Maminitsi gumi mapfupi anofadza ari nani pane masikati marefu anopera nekushungurudzika. Kupedza nekukurumidza mhedzisiro yakanaka.
 
-## Bring the garden indoors on screen
+## Uyai negadheni mukati meimba pachiratidziro
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Pamazuva emvura, [Sort Together](/games/sort-together/) ine dengu rebindu rekuronga mifananidzo, uye [Conversation Cards](/games/conversation-cards/) ine mibvunzo yakasununguka inogona kutungamirira kunyaya dzebindu. Kana mukapinda mukati muchibva mukupisa muchinzwa muchimhanyiswa, [Calm Breathing](/games/calm-breathing/) inopa kumbomira kwakadzikama, kwakanyarara kwamunogona kugoverana. Kuti muwane mamwe mazano anovakirwa pakubata, kunhuwidza nekunzwa, onai gwara redu re[zviitwa zvekunzwa](/activities/sensory/).

@@ -1,33 +1,33 @@
 ---
-title: "Primi segni di dimenza è quandu vede u duttore"
-seoTitle: "Primi segni di dimenza è quandu vede u duttore"
-description: "Primi segni cumuni di dimenza, cumu si differenzianu da l'invechjamentu tipicu, cause trattabili di i prublemi di memoria è cumu preparà a visita."
+title: "Segni di principiu di demenza è quandu vede un duttore"
+seoTitle: "Segni di principiu di demenza è quandu vede un duttore"
+description: "Segni cumuni di principiu di demenza, a differenza cù l'invecchiamentu abituale, cause treatabili di prublemi di memoria, è cumu preparà una visita medica."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A perdita di memoria chì cumplicheghja a vita d'ogni ghjornu, e difficultà cù i gesti abituali,
-  a cunfusione nantu à u tempu o u locu, è i cambiamenti d'umore o di ghjudiziu ponu esse primi
-  segni di dimenza. Parechje altre cundizione, cum'è i prublemi di tiroide, un bassu livellu di
-  vitamina B12, l'effetti secundarii di i medicamenti, a depressione è i prublemi di sonnu, ponu
-  causà cambiamenti simili. Solu un prufessiunale di salute qualificatu pò fà un diagnosticu. Una
-  cunfusione chì apparisce di colpu richiede una cura urgente.
+  Perdita di memoria chì disturba a vita cutidiana, difficultà cù i travagli abituale,
+  cunfusione nantu à u tempu o u locu, è cambiamenti d'umore o di ghjudiziu ponu esse
+  segni di principiu di demenza. Assai altre cundizioni, cum'è prublemi di tiroide,
+  bassu vitamina B12, effetti secundari di medicamentu, depressione è prublemi di sonnu,
+  ponu pruvucà cambiamenti simili. Solu un clinician qualificatu pò diagnosticà.
+  A cunfusione improvvisa hà bisognu di cure urgenti.
 keyPoints:
-  - "E piccule sminticanze sò cumune cù l'età ; i cambiamenti chì cumplicheghjanu a vita d'ogni ghjornu meritanu d'esse verificati."
-  - "L'Alzheimer's Association descrive 10 segni d'avvertimentu, ognunu cù un cambiamentu tipicu ligatu à l'età per fà u paragone."
-  - "I prublemi di tiroide, un bassu livellu di vitamina B12, l'effetti secundarii di i medicamenti, a depressione, l'infezzione è i prublemi di sonnu ponu tutti influenzà a memoria, è certi ponu esse trattati."
-  - "Solu un prufessiunale di salute qualificatu pò diagnosticà a dimenza ; i quiz è l'autotest in linea ùn ponu micca."
-  - "Una cunfusione chì apparisce di colpu, in poche ore o ghjorni, pò esse un delirium è richiede una cura medica urgente."
+  - "A smemurata accasionale hè cumuna cù l'età; i cambiamenti chì disturbenu a vita cutidiana meritenu d'esse verificati."
+  - "L'Alzheimer's Association descrive 10 segni d'avertimentu, ognunu cù un cambiamentu abituale ligatu à l'età per paragone."
+  - "Prublemi di tiroide, bassu vitamina B12, effetti secundari di medicamentu, depressione, infezioni è prublemi di sonnu ponu tutti affettà a memoria, è uni pochi sò treatabili."
+  - "Solu un clinician qualificatu pò diagnosticà a demenza; i quiz in linea è l'autotest ùn ponu micca."
+  - "A cunfusione chì vene improvvisamente, in ore o ghjorni, pò esse deliriu è hà bisognu di cure mediche urgenti."
 faq:
-  - q: "E sminticanze facenu parte normale di l'invechjamentu ?"
-    a: "In parte, sì. U National Institute on Aging dice chì smarrisce ogni tantu qualchì cosa o sminticà una fattura hè di solitu una sminticanza lieve ligata à l'età. A dimenza ùn face micca parte normale di l'invechjamentu. I prublemi di memoria chì rendenu difficiule i gesti d'ogni ghjornu, cum'è guidà, aduprà u telefunu o ritruvà a strada di casa, meritanu d'esse verificati da un duttore."
-  - q: "I prublemi di memoria ponu vene da qualcosa altru chè a dimenza ?"
-    a: "Iè. U National Institute on Aging cita, frà altri, i prublemi di tiroide, di reni o di fegatu, l'effetti secundarii di i medicamenti, a depressione è l'ansietà, un bassu livellu di vitamina B12, l'abusu d'alcol, i prublemi di sonnu, l'infezzione è i traumi à a testa. Certi di sti prublemi si migliuranu dopu à u trattamentu, ed hè una ragione per a quale un cuntrollu medicu hè impurtante."
-  - q: "Possu fà una prova di dimenza in casa ?"
-    a: "Innò. Solu un prufessiunale di salute qualificatu pò diagnosticà a dimenza, cù una storia medica, un esame fisicu, prove di memoria è di pensamentu, analisi di laboratoriu è, qualchì volta, scansioni di u cervellu. Ancu e prove corte aduprate da i duttori ùn bastanu micca da sole per diagnosticà a dimenza."
-  - q: "Chì devu fà s'è qualchissia diventa cunfusu di colpu ?"
-    a: "Circate subitu aiutu medicu. Una cunfusione subitanea pò esse un delirium, chì u VA descrive cum'è un'urgenza medica. Chjamate subitu u duttore di a persona o chjamate u 15 o u 112, state cù ella, è nutate i medicamenti ch'ella piglia."
+  - q: "A smemurata hè una parte normale di l'invecchiamentu?"
+    a: "Un pocu sì. U National Institute on Aging dice chì mischjà qualcosa accasionale o sminticà una fattura hè di solitu una smemurata leggera, ligata à l'età. A demenza ùn hè micca una parte normale di l'invecchiamentu. I prublemi di memoria chì rendenu difficiuli travagli cutidiani cum'è guidà, usà u telefunu o truvà a strada di casa meritenu d'esse verificati cù un duttore."
+  - q: "I prublemi di memoria ponu esse causati da qualcosa altru chì a demenza?"
+    a: "Iè. U National Institute on Aging elenca prublemi di tiroide, di reni o di figatu, effetti secundari di medicamentu, depressione è ansietà, bassu vitamina B12, abusu d'alcool, prublemi di sonnu, infezioni è ferite à a testa, frà altri. Uni pochi di questi miglioranu una volta trattati, chì hè una ragione per chì un cuntrollu medicu importa."
+  - q: "Pò on testà qualchissia per a demenza in casa?"
+    a: "Non. Solu un clinician qualificatu pò diagnosticà a demenza, cù una storia medica, un esame fisicu, test di memoria è di pensamentu, test di laboratoriu è qualchì volta scansione cerebrale. Anche i test brevi chì usanu i duttori ùn bastanu micca da soli per diagnosticà a demenza."
+  - q: "Chì duvaghju fà s'è qualchissia diventa improvvisamente cunfusu?"
+    a: "Cercate aiutu medicu subitu. A cunfusione improvvisa pò esse deliriu, chì u VA descrive cum'è un'emergenza medica. Chjamate subitu u fornitore di cure sanitarie di a persona o chjamate u 911, state cun ella, è notate tutti i medicamentu chì piglia."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -55,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Nutà cambiamenti in a vostra memoria, o in quella di una persona cara, pò fà paura. Sta pagina vi pò aiutà à decide quandu piglià un appuntamentu cù u duttore è cumu preparavvi. Ùn pò micca dì vi s'è qualchissia hà a dimenza. **Solu un prufessiunale di salute qualificatu pò diagnosticà a dimenza**, è parechje cundizione chì causanu prublemi di memoria ùn sò micca dimenza. Ùn vi fidate micca di i quiz o di l'autotest in linea.
+Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
 
-## Chì sò i primi segni di dimenza ?
+## What are the early signs of dementia?
 
-L'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) descrive 10 primi segni. Accumpagna ognunu cù un cambiamentu tipicu ligatu à l'età per fà u paragone. Ecculi spiegati cù parolle semplici :
+The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
 
-| Segnu da verificà | Più tipicu cù l'età |
+| Sign worth checking | More typical with age |
 | --- | --- |
-| Perdita di memoria chì cumplicheghja a vita d'ogni ghjornu, cum'è sminticà avvenimenti recenti o dumandà a stessa cosa torna è torna | Sminticà ogni tantu un nome o un appuntamentu è arricurdassine dopu |
-| Difficultà à pianificà o à risolve prublemi, cum'è seguità una ricetta abituale o tene u contu di e fatture | Fà ogni tantu un sbagliu cù e fatture di casa |
-| Difficultà à finisce i gesti abituali in casa, à u travagliu o fora | Avè bisognu, di tantu in tantu, d'aiutu per un paràmetru di u microonde o per arregistrà un prugramma TV |
-| Perde a nozione di e date, di e stagioni o di u locu induve si trova | Sbaglià u ghjornu di a settimana, po' ritruvallu |
-| Novi prublemi per ghjudicà e distanze, leghje o distingue i culori | Cambiamenti di a vista dovuti à a cataratta |
-| Novi prublemi cù e parolle, cum'è firmassi à mezu à una cunversazione o chjamà e cose cù un nome sbagliatu | Avè qualchì volta difficultà à truvà a parolla ghjusta |
-| Mette e cose in lochi insoliti è ùn riesce à ritruvà i so passi | Smarrisce e cose di tantu in tantu è ritruvalle rifacendu i passi |
-| Ghjudiziu menu bonu, per esempiu cù i soldi o a cura persunale | Piglià ogni tantu una decisione pocu adatta |
-| Alluntanassi da i passatempi, da u travagliu o da l'attività suciali | Ùn avè ogni tantu voglia d'andà à una riunione di famiglia o suciale |
-| Cambiamenti d'umore o di persunalità, cum'è diventà cunfusu, suspettosu, timorosu o ansiosu | Avè abitudini ben stabilite è esse irritabile quandu una rutina hè cambiata |
+| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
+| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
+| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
+| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
+| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
+| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
+| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
+| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
+| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
+| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
 
-Un segnu solu ùn vole micca dì dimenza. L'impurtante hè un **cambiamentu rispettu à ciò chì hè normale per quella persona**, soprattuttu s'è rende a vita d'ogni ghjornu più difficiule.
+One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
 
-## Cumu si distingue l'invechjamentu normale da a dimenza ?
+## How is normal aging different from dementia?
 
-U [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) dice chì parechje persone anziane si rendenu contu ch'elli si arricordanu di e cose più pianu, o ch'elli smarriscenu ogni tantu qualchì cosa o sminticheghjanu una fattura. Di solitu sò segni di sminticanza lieve. **A dimenza ùn face micca parte normale di l'invechjamentu.** I prublemi seri di memoria rendenu difficiule l'attività d'ogni ghjornu, cum'è guidà, aduprà u telefunu o ritruvà a strada di casa.
+The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
 
-U NIA cunsiglia di parlà cù un duttore s'è qualchissia :
+The NIA suggests talking with a doctor if someone:
 
-- Face e listesse dumande torna è torna
-- Si perde in lochi ch'ellu cuniscia bè
-- Hà difficultà à seguità ricette o indicazioni
-- Diventa più cunfusu nantu à u tempu, e persone è i lochi
-- Smette di pigliassi cura d'ellu, per esempiu manghjendu male, ùn lavendusi micca o cumpurtendusi in modu pocu sicuru
+- Asks the same questions over and over
+- Gets lost in places they used to know well
+- Has trouble following recipes or directions
+- Becomes more confused about time, people and places
+- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
 
-Certe persone anu un **disturbu cognitivu lieve (MCI)**. Vole dì ch'elli anu più prublemi di memoria o di pensamentu chè altre persone di a listessa età, ma riescenu sempre à gestisce a vita d'ogni ghjornu. U NIA dice chì u MCI pò esse un segnu iniziale di a malatia d'Alzheimer, ma micca tutti quelli chì anu un MCI a svilupperanu.
+Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
 
-## Chì altru pò causà prublemi di memoria ?
+## What else can cause memory problems?
 
-Parechje cose, oltre à a dimenza, ponu influenzà a memoria, è certe si migliuranu cù u trattamentu. U NIA cita :
+Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
 
-- **Prublemi di tiroide, di reni o di fegatu**
-- **Effetti secundarii di i medicamenti**
-- **Depressione è ansietà**
-- **Bassu livellu di vitamina B12** o alimentazione pocu equilibrata
-- **Prublemi di sonnu**
-- **Abusu d'alcol o di droghe**
-- **Infezzione, coaguli di sangue o tumori** in u cervellu
-- **Trauma à a testa**, cum'è una cummuzione
-- **Stress forte o dolu**, cum'è a ghjubilazione o a perdita di u cumpagnu o di a cumpagna
+- **Thyroid, kidney or liver problems**
+- **Medicine side effects**
+- **Depression and anxiety**
+- **Low vitamin B12** or not eating enough healthy food
+- **Sleep problems**
+- **Alcohol or drug misuse**
+- **Infections, blood clots or tumors** in the brain
+- **Head injury**, such as a concussion
+- **Major stress or grief**, such as retirement or losing a spouse
 
-I prublemi d'uditu è di vista ponu ancu esse presi per cunfusione ; fighjate a nostra [guida nantu à l'uditu](/brain-health/hearing/). Hè per quessa chì un cuntrollu medicu hè impurtante. Sicondu l'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), i duttori dumandanu spessu analisi di sangue per verificà i prublemi di tiroide, e carenze di vitamine è l'infezzione. Vale a pena di parlà ancu di un bon [sonnu](/brain-health/sleep/) è di u trattamentu di a depressione.
+Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
 
-## A cunfusione subitanea hè un'urgenza
+## Sudden confusion is an emergency
 
-**Una cunfusione chì apparisce prestu, in poche ore o ghjorni, richiede una cura medica urgente.** Pò esse un delirium. U [VA descrive u delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) cum'è un'urgenza medica è cunsiglia di chjamà subitu u duttore di a persona o di chjamà u 15 o u 112. I segni includenu :
+**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
 
-- Alti è bassi in a capacità di pensà chjaramente
-- Difficultà à mantene l'attenzione
-- Pensamentu disurganizatu
-- Sonnulenza insolita, o à u cuntrariu agitazione è irrequietezza insolite
+- Ups and downs in the ability to think clearly
+- Trouble paying attention
+- Disorganized thinking
+- Being unusually sleepy, or unusually restless and agitated
 
-Questu pò accade à tutti, ancu à e persone chì campanu dighjà cù a dimenza. Sicondu u [NHS](https://www.nhs.uk/symptoms/confusion/), e cause cumune includenu l'infezzione (l'infezzione di e vie urinarie sò cumune in e persone anziane è in e persone chì campanu cù a dimenza), l'ictus, un bassu livellu di zuccheru in u sangue in e persone cù diabete, i traumi à a testa è certi medicamenti. Mentre aspettate l'aiutu, state cù a persona è rassicuralla cù parolle corte è semplici. Ùn li fate micca parechje dumande, è nutate i medicamenti ch'ella piglia.
+This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
 
-## Cumu preparà a visita da u duttore ?
+## How do I prepare for the doctor's appointment?
 
-Una bona visita principia cù note chjare. L'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) cunsiglia di purtà :
+A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
 
-1. **Una lista di i cambiamenti** in a memoria, l'umore è u cumpurtamentu, cù esempii precisi è, più o menu, quandu anu principiatu
-2. **I prublemi di salute passati è attuali**, cumpresa a storia di famiglia di prublemi di memoria
-3. **Tutti i medicamenti cù o senza ricetta**
-4. **Tutte e vitamine o i cumplementi**
-5. **E vostre dumande**, per esempiu chì prove seranu fatte, quantu tempu duranu è quandu i risultati seranu dispunibuli
+1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
+2. **Past and current health problems**, including any family history of memory problems
+3. **All prescriptions and over-the-counter medicines**
+4. **Any vitamins or supplements**
+5. **Your questions**, such as what tests will be done, how long they take and when results will come
 
-Aiuta ancu à vene cù un membru di a famiglia o un amicu chì cunosce bè a persona. U [NIA spiega](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) chì i duttori ponu fà dumande sia à a persona sia à un membru di a famiglia nantu à a salute, i medicamenti, l'attività d'ogni ghjornu è i cambiamenti di cumpurtamentu. I duttori ponu ancu :
+It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
 
-- Fà prove di memoria, di risoluzione di prublemi, d'attenzione, di calculu è di linguaghju
-- Dumandà analisi di sangue, d'urina è altre prove per circà altre cause
-- Verificà s'ellu ci hè depressione o altre cundizione di salute mentale
-- Dumandà scansioni di u cervellu cum'è una CT o una MRI
-- Mandà da un spezialistu, cum'è un geriatru, un neurologu, un psichiatru geriatricu o un neuropsiculogu
+- Give tests of memory, problem solving, attention, counting and language
+- Order blood, urine and other tests to look for other causes
+- Check for depression or other mental health conditions
+- Order brain scans such as CT or MRI
+- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
 
-U NIA nota chì una valutazione cognitiva face parte di a visita annuale di benessere di Medicare, ciò chì pò esse un mumentu naturale per parlà di e vostre preoccupazioni. Ancu e prove corte aduprate da i duttori ùn bastanu micca da sole per diagnosticà a dimenza. Sò un primu passu versu una valutazione più cumpleta, è u diagnosticu pò piglià più d'una visita. U NIA cunsiglia à e persone cù prublemi di memoria di turnà da u duttore ogni 6 à 12 mesi.
+The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
 
-## Parlà di u sughjettu cù delicatezza
+## Raising the subject kindly
 
-S'è site preoccupatu per qualchissia altru, sceglite un mumentu calmu è privatu. Parlate di cose precise chì avete nutatu, presentendule cum'è una preoccupazione per a so salute piuttostu chè una critica. Prupone un cuntrollu generale pò parè menu alarmante. Includite a persona in e decisioni è parlateli cum'è l'adultu ch'ella hè. I nostri [cunsiglii di cumunicazione](/caregiving/communication-tips/) ponu aiutà.
+If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
 
-## Parlate cù un duttore
+## Talk with a doctor
 
-S'è nutate cambiamenti di memoria, di pensamentu, d'umore o di capacità d'ogni ghjornu chì sò novi è chì cuntinueghjanu, pigliate un appuntamentu cù un duttore di medicina generale. In casu di cunfusione subitanea, chjamate subitu u 15 o u 112 o u duttore di a persona. Fassi verificà prestu permette di truvà e cause trattabili è, s'ellu si tratta di dimenza, dà più tempu per organizassi è truvà sustegnu. Pigliate cura ancu di voi in stu mumentu ; fighjate a nostra [guida nantu à a cura di sè per e persone chì accudiscenu](/caregiving/caregiver-self-care/).
+If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
 
-Sta pagina hè una infurmazione generale, micca un cunsigliu medicu. Fighjate a nostra [precisazione medica](/medical-disclaimer/).
+This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).

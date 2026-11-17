@@ -1,32 +1,33 @@
 ---
 title: "Kućni poslovi kao aktivnosti za osobe s demencijom"
 seoTitle: "Kućne aktivnosti za demenciju: svakodnevni poslovi"
-description: "Savijanje veša, razvrstavanje, postavljanje stola i kuhanje mogu biti smislene aktivnosti za osobe s demencijom. Kako ih pripremiti i prilagoditi."
+description: "Slaganje, razvrstavanje, postavljanje stola i jednostavno kuhanje mogu biti smislene aktivnosti za osobe s demencijom. Kako ih pripremiti i prilagoditi."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Svakodnevni poslovi, kao što su savijanje peškira, razvrstavanje čarapa,
-  postavljanje stola, brisanje kuhinjskih radnih površina, zalijevanje biljaka i
-  jednostavno kuhanje, mogu osobi s demencijom pružiti stvaran način da pomogne.
-  Odaberite zadatke koje poznaje, podijelite ih na korake, uklonite oštre ili
-  vruće predmete i cijenite učešće više nego to da se posao uradi „kako treba”.
+  Svakodnevni kućni poslovi poput slaganja peškira, razvrstavanja čarapa,
+  postavljanja stola, brisanja radnih površina, zalijevanja biljaka i pomoći
+  pri jednostavnom kuhanju mogu osobi koja živi s demencijom pružiti pravi
+  način da pomogne. Birajte poslove koje poznaje, podijelite ih na jedan
+  korak po korak, uklonite oštre ili vruće predmete i više cijenite
+  učešće nego „ispravno” obavljen posao.
 keyPoints:
-  - "Poznati poslovi mogu osobi pomoći da se osjeća korisno i dijelom domaćinstva, što često važi više nego koliko je posao dobro urađen."
-  - "Podijelite svaki zadatak na pojedinačne korake, pokažite umjesto da objašnjavate i tiho preuzmite svaki korak koji je postao težak."
-  - "Zaključajte noževe, sredstva za čišćenje i kapsule za veš, a prije zajedničkog kuhanja stavite zaštitne poklopce na ringle ili automatsko isključivanje."
-  - "Složeni peškiri ne moraju se ponovo slagati pred osobom. Ako nešto ipak morate ponoviti, uradite to kasnije i van njenog vidokruga."
-  - "Ako zadatak izaziva frustraciju, pređite na lakši korak, pokušajte ponovo kasnije ili jednostavno sjedite zajedno."
+  - "Poznati kućni poslovi mogu pomoći osobi da se osjeća korisno i kao dio domaćinstva, što je često važnije od toga koliko je posao dobro obavljen."
+  - "Podijelite svaki zadatak na pojedinačne korake, pokazujte umjesto da objašnjavate i tiho preuzmite svaki korak koji je postao težak."
+  - "Zaključajte noževe, sredstva za čišćenje i kapsule za deterdžent, a prije zajedničkog kuhanja stavite zaštitu na dugmad šporeta ili automatsko isključivanje."
+  - "Složene peškire ne treba ponovo slagati pred osobom. Ako nešto zaista morate prepraviti, učinite to kasnije i van njenog pogleda."
+  - "Ako zadatak izazove frustraciju, prijeđite na lakši korak, pokušajte ponovo drugi put ili jednostavno sjedite zajedno."
 faq:
-  - q: "Sa kojim poslovima osoba s demencijom još uvijek može pomoći?"
-    a: "Mnogi ljudi još uvijek mogu slagati veš, uparivati čarape, razvrstavati pribor za jelo, postavljati sto, obrisati radnu površinu, prašiti, pomesti, zalijevati biljke ili mješati tijesto. Odaberite poslove koje je osoba ranije radila i uskladite ih s onim što sada može. U kasnijim fazama može biti dovoljan i jedan ponavljajući pokret, kao što je glačanje salveta rukom."
-  - q: "Je li sigurno da osoba s demencijom pomaže u kuhinji?"
-    a: "Može biti, uz pažljiv nadzor i pravilnu pripremu. Noževe, sredstva za čišćenje i sve što je vruće držite izvan dosega, koristite zaštitne poklopce na ringlama ili automatsko isključivanje i dajte joj siguran zadatak, kao što je pranje povrća, miješanje ili postavljanje tanjira. Nikada je ne ostavljajte samu uz uključenu ringlu."
-  - q: "Šta ako slaže stvari pogrešno ili pravi nered?"
-    a: "Pustite je. Cilj je vrijeme zajedno i osjećaj da je korisna, a ne savršen rezultat. Ako nešto zaista treba ponoviti, sačekajte kasnije i uradite to kada osoba ne gleda, kako se ne bi osjećala ispravljeno."
+  - q: "S kojim kućnim poslovima osoba s demencijom još može pomoći?"
+    a: "Mnoge osobe još uvijek mogu slagati veš, uparivati čarape, razvrstavati escajg, postavljati sto, brisati radnu površinu, čistiti prašinu, mesti, zalijevati biljke ili miješati smjesu u zdjeli. Birajte poslove koje je osoba obavljala ranije i prilagodite ih onome što sada može. U kasnijim fazama može biti dovoljno i jedno ponovljeno kretanje, poput poravnavanja salveta."
+  - q: "Je li sigurno da neko s demencijom pomaže u kuhinji?"
+    a: "Može biti, uz pažljiv nadzor i dobru pripremu. Držite noževe, sredstva za čišćenje i sve što je vruće van dohvata, koristite zaštitu na dugmad šporeta ili automatsko isključivanje i dajte osobi siguran zadatak, poput pranja povrća, miješanja ili slaganja tanjira. Nikada je ne ostavljajte samu dok je šporet uključen."
+  - q: "Šta ako pogrešno savije stvari ili napravi nered?"
+    a: "Pustite to. Cilj je vrijeme provedeno zajedno i osjećaj korisnosti, a ne savršen rezultat. Ako nešto zaista treba prepraviti, sačekajte i učinite to kasnije, kada osoba ne gleda, kako se ne bi osjećala ispravljeno."
   - q: "Šta ako odbije da pomogne?"
-    a: "Odbijanje može značiti da zadatak trenutno djeluje pretežak, zbunjujuće ili zamorno. Nemojte insistirati. Pokušajte jednostavniju verziju, pozovite je da vam umjesto toga pravi društvo ili pitajte ponovo u boljem dijelu dana."
+    a: "„Ne” može značiti da se zadatak u tom trenutku čini preteškim, zbunjujućim ili napornim. Nemojte insistirati. Pokušajte s jednostavnijom verzijom, pozovite je da vam pravi društvo ili je pitajte ponovo u povoljnije doba dana."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Mnogi ljudi koji žive s demencijom proveli su decenije vodeći kućanstvo, odgajajući porodicu ili držeći red na radnom mjestu. Kada ih zamolite da pomognu u stvarnim kućnim poslovima, to može značiti „i dalje si dio ovog domaćinstva” na način na koji to malo koja druga aktivnost može. Ova stranica pokriva koji zadaci obično dobro funkcionišu, kako ih pripremiti, kako ih prilagoditi kako se stvari mijenjaju i kako kuhinju i perionicu učiniti sigurnima.
+Mnoge osobe koje žive s demencijom provele su desetljeća vodeći domaćinstvo, podižući porodicu ili održavajući red na radnom mjestu. Kada ih zamolite da pomognu u pravim kućnim poslovima, to može reći „još uvijek ste dio ovog doma” na način na koji to rijetko koja druga aktivnost može. Ova stranica objašnjava koji poslovi obično dobro funkcionišu, kako ih pripremiti, kako ih prilagoditi kako se stvari mijenjaju i kako održati kuhinju i prostoriju za veš sigurnim.
 
-## Zašto svakodnevni poslovi dobro funkcionišu kao aktivnosti?
+## Zašto su svakodnevni kućni poslovi dobre aktivnosti?
 
-Poslovi funkcionišu jer su poznati i imaju jasnu svrhu. Nacionalni institut za starenje (National Institute on Aging) među [dnevnim aktivnostima koje osobe s Alzheimerovom bolešću mogu voljeti](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) navodi pranje suđa, postavljanje stola, pometanje, prašinanje, razvrstavanje pošte, slaganje veša i razvrstavanje reciklaže. Alzheimerova udruga (Alzheimer's Association) napominje da zadaci poput postavljanja stola mogu pomoći osobi da se [osjeća kao vrijedan dio domaćinstva](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Kućni poslovi dobro funkcionišu jer su poznati i imaju jasan cilj. Nacionalni institut za starenje (National Institute on Aging) navodi pranje suđa, postavljanje stola, metenje, čišćenje prašine, razvrstavanje pošte, slaganje veša i razvrstavanje materijala za reciklažu među [svakodnevnim aktivnostima u kojima osobe s Alzheimerovom bolešću mogu uživati](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Udruženje za Alzheimerovu bolest (Alzheimer's Association) napominje da poslovi poput postavljanja stola mogu pomoći osobi da se [osjeća kao cijenjeni dio domaćinstva](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-Posao također sam po sebi ima razlog za početak. „Možete li mi pomoći s ovim peškirima?” lakše je prihvatiti nego „Želite li se baviti nekom aktivnošću?”
+Kućni posao ima i svoj razlog za početak. „Možete li mi pomoći s ovim peškirima?” lakše je prihvatiti nego „Želite li raditi neku aktivnost?”
 
-## Koji kućni poslovi su dobri za početak?
+## Koje kućne poslove vrijedi pokušati?
 
-Počnite s poslovima koje je osoba ranije radila, a zatim ih uskladite s onim što danas može.
+Počnite s poslovima koje je osoba obavljala ranije, a zatim ih prilagodite onome što danas može.
 
 ### Veš i posteljina
 
-- **Slaganje peškira i krpica.** Dajte joj korpu s malim, ravnim predmetima. Peškiri su blagi prema greškama: nema pogrešnog načina da se složi peškir.
-- **Uparivanje čarapa.** Stavite pomiješanu hrpu na sto. Ako je teško pronaći parove, koristite samo dvije ili tri vrlo različite boje.
-- **Glačanje i slaganje.** Salvete, jastučnice ili kuhinjski peškiri mogu se ravnati i slagati u gomilu. Ovo dobro funkcioniše kasnije, kada je slaganje postalo previše koraka.
+- **Slaganje peškira i malih krpa.** Dajte korpu s malim, ravnim stvarima. Peškiri su zahvalni: nema pogrešnog načina da se slože.
+- **Uparivanje čarapa.** Stavite pomiješanu hrpu na sto. Ako je parove teško uočiti, koristite samo dvije ili tri vrlo različite boje.
+- **Poravnavanje i slaganje.** Salvete, jastučnice ili kuhinjske krpe mogu se poravnati i složiti u hrpu. Ovo dobro funkcioniše i kasnije, kada slaganje ima previše koraka.
 
 ### Sto i kuhinja
 
-- **Postavljanje stola.** Postavite jedno mjesto kao model i pustite osobu da ga kopira. Ako je to previše, dajte joj jedan predmet u isto vrijeme: „Evo jedne viljuške za svaki tanjir.”
-- **Razvrstavanje pribora.** Pomiješajte čiste viljuške, kašike i maslačne nožiće u kutiju i razvrstajte ih u pregradeni pladanj. Oštre noževe ostavite van.
-- **Sušenje posuđa.** Plastično posuđe ili posuđe koje se ne lomi i mekan peškir čine ovo sigurnim poslom.
-- **Brisanje stola ili radnih površina.** Vlažna krpa i čista površina. Alzheimerova udruga predlaže da ponudite krpu ako je neko već trlja stol rukom, pa se nemirni pokret pretvara u koristan.
+- **Postavljanje stola.** Postavite jedno mjesto za jelo kao primjer i neka ga osoba kopira. Ako je to previše, dajte jedan predmet po predmet: „Evo viljuške za svaki tanjir.”
+- **Razvrstavanje escajga.** Pomiješajte čiste viljuške, kašike i noževe za puter u posudi i razvrstajte ih u ladicu s pregradama. Oštre noževe ostavite po strani.
+- **Brisanje suđa.** Plastično ili nelomljivo suđe i mekana krpa čine ovaj posao sigurnim.
+- **Brisanje stola ili radnih površina.** Vlažna krpa i čista površina. Udruženje za Alzheimerovu bolest predlaže da ponudite krpu ako osoba već trlja sto rukom, pretvarajući nemirno kretanje u koristan posao.
 
 ### Po kući
 
-- **Prašinanje.** Mekana krpa za prašinu i nekoliko čvrstih površina, kao što su stolić za kafu ili polica za knjige.
-- **Razvrstavanje pošte.** Dajte joj reklamnu poštu i katalog da razvrsta u gomile: zadrži, reciklira, otvori kasnije. Važne račune i čekove držite na drugom mjestu.
-- **Razvrstavanje reciklaže.** Očišćene limenke, boce i papir u odvojene kante.
-- **Pometanje.** Mala metla na terasi ili u kuhinji, ako je ravnoteža stabilna.
-- **Zalijevanje biljaka.** Mala, laka kanta za zalijevanje i nekoliko biljaka koje su lako dostupne.
+- **Čišćenje prašine.** Meka krpa za prašinu i nekoliko čvrstih površina, poput stolića ili police za knjige.
+- **Razvrstavanje pošte.** Dajte reklamnu poštu i kataloge da ih razvrsta u hrpe: zadržati, reciklirati, otvoriti kasnije. Prave račune i čekove držite na drugom mjestu.
+- **Razvrstavanje materijala za reciklažu.** Čiste konzerve, boce i papir u odvojene kante.
+- **Metenje.** Mala metla na terasi ili u kuhinji, ako je ravnoteža stabilna.
+- **Zalijevanje biljaka.** Mala, lagana kanta za zalijevanje i nekoliko biljaka na dohvat ruke.
 
 ### Jednostavno kuhanje uz nadzor
 
-Kuhanje može vratiti snažne, prijatne osjećaje. NIA predlaže da osoba skuplja sastojke, mjeri, miješa i sipa ili jednostavno kaže nekome kako da napravi omiljeni recept. Dobri poslovi su:
+Kuhanje može probuditi snažne, ugodne uspomene. Nacionalni institut za starenje predlaže da pustite osobu da prikupi sastojke, mjeri, miješa i sipa ili da jednostavno nekome drugom objasni kako se pravi omiljeno jelo. Dobri zadaci uključuju:
 
 - pranje povrća ili voća
-- miješanje tijesta za palačinke ili hladne salate
+- miješanje tijesta ili hladne salate
 - kidanje zelene salate
-- premazivanje tosta tupim nožem
-- stavljanje keksa od tijesta na pleh
-- stavljanje preliva na picu
+- mazanje putera na tost tupim nožem
+- stavljanje tijesta za kolače na pleh
+- stavljanje nadjeva na pizzu
 
-Ako mjerenje postane teško, Alzheimerova udruga predlaže da vi završite mjerenje, a zatim ponudite drugi korak, kao što je miješanje.
+Ako mjerenje postane teško, Udruženje za Alzheimerovu bolest predlaže da vi završite mjerenje, a zatim osobi date drugi korak, poput miješanja.
 
-## Kako da pripremim posao da prođe dobro?
+## Kako da pripremim kućni posao da prođe dobro?
 
-1. **Izaberite pravo vrijeme.** Odaberite dio dana kada je osoba obično odmorna i mirna. Kod mnogih ljudi to je jutro.
+1. **Odaberite pravo vrijeme.** Izaberite dio dana kada je osoba obično odmorna i mirna. Za mnoge je to jutro.
 2. **Očistite prostor.** Jedan zadatak, jedna površina, ništa suvišno na stolu.
-3. **Pozovite, ne dodjeljujte.** „Treba mi pomoć s ovim” djeluje bolje nego „Vrijeme je za slaganje veša.”
-4. **Pokažite prvi korak.** Složite jedan peškir polako, pa pružite sljedeći. Pokazivanje je jasnije od objašnjavanja.
-5. **Dajte jedan korak u isto vrijeme.** Previše uputstava odjednom može preplaviti. Sačekajte da se jedan korak završi prije nego što najavite sljedeći.
-6. **Radite jedno pored drugog.** Obavljanje istog posla jedno uz drugo djeluje kao društvo, a ne kao nadzor.
-7. **Razgovarajte o poslu, a ne o rezultatu.** „Ovo je tako mekano” ili „Recite mi kako ste držali ormar s posteljinom” poziva na razgovor, a da nikoga ne testira.
+3. **Pozovite, ne naređujte.** „Trebala bi mi pomoć oko ovoga” bolje funkcioniše nego „Vrijeme je za slaganje veša.”
+4. **Pokažite prvi primjer.** Polako složite jedan peškir, a zatim dodajte sljedeći. Pokazivanje je jasnije od objašnjavanja.
+5. **Dajte jedan korak po korak.** Previše uputa odjednom može zbuniti. Sačekajte da se jedan korak završi prije nego što spomenete sljedeći.
+6. **Radite jedno pored drugog.** Kada radite isti posao jedno pored drugog, to djeluje kao društvo, a ne kao nadzor.
+7. **Razgovarajte o poslu, ne o rezultatu.** „Ovo je tako mekano” ili „Recite mi kako ste voljeli da držite ormar s posteljinom” poziva na razgovor bez ispitivanja.
 
-## Kako prilagoditi poslove kako se sposobnosti mijenjaju?
+## Kako da prilagodim kućne poslove kako se sposobnosti mijenjaju?
 
-Sposobnosti se mijenjaju tokom vremena, pa čak i iz dana u dan. Alzheimerova udruga predlaže da kako bolest napreduje pređete na jednostavnije i ponavljajuće zadatke.
+Sposobnosti se mijenjaju s vremenom, pa čak i iz dana u dan. Udruženje za Alzheimerovu bolest predlaže da se, kako bolest napreduje, prelazi na jednostavnije zadatke s više ponavljanja.
 
-| Ako je ovo postalo teško | Probajte umjesto toga |
+| Ako je ovo postalo teško | Pokušajte ovo umjesto toga |
 | --- | --- |
-| Slaganje velikih čaršava | Slaganje krpica ili glačanje salveta |
-| Postavljanje punog stola | Stavljanje jedne salvete na svako mjesto |
-| Razvrstavanje pošte po kategorijama | Slaganje koverti u jednu gomilu |
-| Praćenje recepta | Miješanje ili gledanje i kušanje dok kuvate |
-| Pometanje cijele podloge | Brisanje jednog malog stola |
-| Bavljenje zadatkom uopšte | Sjediti uz vas i praviti vam društvo dok radite |
+| Slaganje velikih plahti | Slaganje malih krpa ili poravnavanje salveta |
+| Postavljanje cijelog stola | Stavljanje jedne salvete na svako mjesto |
+| Razvrstavanje pošte po kategorijama | Slaganje koverti u jednu hrpu |
+| Praćenje recepta | Miješanje ili gledanje i kušanje dok vi kuhate |
+| Metenje cijelog poda | Brisanje jednog malog stola |
+| Bilo kakvo obavljanje zadatka | Sjedenje s vama i pravljenje društva dok vi radite |
 
-I gledanje se računa. NIA napominje da neki ljudi jednostavno uživaju u gledanju, a to je također dobar način da učestvuju.
+I posmatranje se računa. Nacionalni institut za starenje napominje da neke osobe jednostavno uživaju u posmatranju, i to je sasvim dobar način učešća.
 
-## Kako da kućni poslovi budu sigurni?
+## Kako da kućni poslovi ostanu sigurni?
 
-Sigurnost ide prije svega, naročito u kuhinji. Savjeti NIA-e za [sigurnost doma za njegovatelje osoba s Alzheimerovom bolešću](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) uključuju:
+Sigurnost je na prvom mjestu, posebno u kuhinji. [Savjeti Nacionalnog instituta za starenje za sigurnost u kući za osobe koje brinu o nekome s Alzheimerovom bolešću](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) uključuju sljedeće:
 
-- Zaključajte ili uklonite sredstva za čišćenje, uključujući kapsule za deterdžent za veš, koje mogu ličiti na bombone.
-- Noževe, makaze i električne alate držite na zaključanom mjestu.
-- Dodajte sigurnosne ručice i automatski prekidač na šporet.
-- Stavite znakove „Stop” ili „Vrlo vruće” blizu rerne, tostera i peglе, tako da ne mogu da se zapale.
-- Podesite bojler na 49 °C kako biste smanjili rizik od opekotina.
-- Uklonite umjetno voće i magnete u obliku hrane, jer mogu izgledati jestivo.
+- Zaključajte ili uklonite sredstva za čišćenje, uključujući kapsule za deterdžent za veš, koje mogu ličiti na slatkiše.
+- Držite noževe, makaze i električne alate na zaključanom mjestu.
+- Postavite zaštitna dugmad i automatsko isključivanje na šporet.
+- Stavite znakove „Stop” ili „Vrlo vruće” pored rerne, tostera i pegle, tako da ne mogu izazvati požar.
+- Podesite bojler na 120°F kako biste smanjili rizik od opekotina.
+- Uklonite umjetno voće i magnete u obliku hrane, koji mogu izgledati jestivo.
 
-Još nekoliko praktičnih navika pomaže:
+Pomaže i nekoliko praktičnih navika:
 
 - Ostanite u prostoriji kad god su šporet, rerna ili oštar alat u upotrebi.
-- Za sušenje i postavljanje stola koristite posuđe koje se ne lomi.
-- Podovi trebaju biti suhi i slobodni dok pometate ili brišete.
-- Ako je osoba nekad koristila alate, Alzheimerova udruga predlaže da iz radionice uklonite opasne predmete, kako bi siguran zadatak, kao što je brušenje komada drveta, i dalje mogao da bude prijatan.
+- Koristite nelomljivo suđe za brisanje i postavljanje stola.
+- Držite podove suhim i čistim dok mešete ili brišete pod.
+- Ako je osoba ranije koristila alat, Udruženje za Alzheimerovu bolest predlaže da se opasni predmeti uklone iz radionice kako bi siguran zadatak, poput brušenja komada drveta, i dalje mogao biti ugodan.
 
-## Šta ako rade to „pogrešno”?
+## Šta ako to uradi „pogrešno”?
 
-Pustite. Peškir složen na tri dijela umjesto na dva i dalje je složen peškir. Alzheimerova udruga to kaže jasno: važno je provesti vrijeme zajedno i osjećaj osobe da je korisna, a ne da li su peškiri složeni kako treba. Ako nešto zaista mora da se ponovi, sačekajte kasnije i uradite to van njenog vidokruga.
+Pustite to. Peškir savijen na trećine umjesto na pola i dalje je složen peškir. Udruženje za Alzheimerovu bolest kaže jasno: važno je vrijeme provedeno zajedno i osjećaj da je osoba korisna, a ne da li su peškiri savršeno složeni. Ako nešto zaista mora biti prepravljeno, sačekajte i učinite to kasnije, van njenog pogleda.
 
-Ispravljanje u trenutku može pretvoriti prijatan posao u podsjetnik na ono što je izgubljeno. „Hvala, velika si mi pomoć” gotovo je uvijek pravo rješenje.
+Ispravljanje u tom trenutku može prijatan posao pretvoriti u podsjetnik na ono što je izgubljeno. „Hvala vam, ovo mi mnogo znači” gotovo je uvijek prava stvar za reći.
 
-## Kada da stanemo?
+## Kada treba stati?
 
-Stanite ili pređite na drugi zadatak kada primijetite znakove frustracije, umora ili gubitka interesa. Prekid ranije je dobar ishod, a ne neuspjeh. Možete:
+Stanite ili promijenite aktivnost kada primijetite znakove frustracije, umora ili gubitka interesa. Raniji završetak je dobar ishod, a ne neuspjeh. Možete:
 
-- preći na lakši korak
-- preći na nešto opuštajuće, kao što je muzika ili šolja kafe
-- pokušati ponovo kasnije ili nekog drugog dana
+- prijeći na lakši korak
+- preći na nešto opuštajuće, poput muzike ili šoljice kafe
+- pokušati ponovo kasnije ili drugog dana
 - jednostavno sjediti zajedno
 
-Ako osoba kaže ne, nemojte insistirati. Pogledajte [šta raditi kada kažu ne](/caregiving/when-they-say-no/) za nježne načine odgovora.
+Ako osoba kaže ne, nemojte insistirati. Pogledajte [šta učiniti kada kažu ne](/caregiving/when-they-say-no/) za nježne načine kako odgovoriti.
 
-## Mali dodatni prijedlozi za mirniji trenutak
+## Jednostavne dodatne ideje za mirniji trenutak
 
-Kada fizički poslovi nisu mogući, razvrstavanje i uparivanje mogu se raditi i sjedeći. [Sort Together](/games/sort-together/) omogućava da dodirujete slike i stavljate ih u košare za kuhinju ili baštu, a [Picture Pairs](/games/picture-pairs/) je nježna igra uparivanja s velikim slikama i bez tajmera. [Conversation Cards](/games/conversation-cards/) sadrži otvorena pitanja o domu i porodici, koja dobro idu uz kafu nakon završenog posla.
+Kada fizički poslovi nisu mogući, razvrstavanje i uparivanje i dalje se mogu raditi sjedeći. [Sort Together](/games/sort-together/) vam omogućava da dodirnete slike i stavite ih u korpe za kuhinju ili vrt, a [Picture Pairs](/games/picture-pairs/) je nježna igra uparivanja s velikim slikama i bez mjerenja vremena. [Conversation Cards](/games/conversation-cards/) nude otvorena pitanja o domu i porodici koja se dobro uklapaju uz kafu nakon obavljenog posla.
 
-Za pomoć u uklapanju poslova u dan pogledajte naš vodič o [mirnoj dnevnoj rutini](/activities/daily-routine/). Za više ideja po fazama pogledajte [aktivnosti za srednju fazu](/activities/middle-stage/).
+Za pomoć oko uklapanja kućnih poslova u dan pogledajte naš vodič za [mirnu svakodnevnu rutinu](/activities/daily-routine/). Za više ideja prema fazi pogledajte [aktivnosti za srednju fazu](/activities/middle-stage/).

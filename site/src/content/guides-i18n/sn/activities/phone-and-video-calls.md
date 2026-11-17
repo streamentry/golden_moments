@@ -1,34 +1,36 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Zvekuita pafoni nevhidhiyo nemunhu ane dementia"
+seoTitle: "Zvekuita pavhidhiyo nemunhu ane dementia"
+description: "Zvekuita parunhare nevhidhiyo nemhuri iri kure nemunhu ari kurarama nedementia: kuratidzana, kuverenga zvinonzwika, kuimba, mitambo yepachiratidziro nezano."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Kufona nemunhu ari kurarama nedementia kunonyatsofamba kana kuri kupfupi,
+  kuchiitwa nguva dzose uye kwakavakirwa pachinhu chamunoita mese, sekuratidza
+  mhuka yemumba kana bindu, kutarisa mafoto, kuverenga zvinonzwika, kuimba
+  rwiyo rwaanofarira kana kutamba mutambo wakapfava pachiratidziro
+  chamunogovana. Fonai panguva imwe chete zuva nezuva kana zvichikwanisika,
+  itai kuti munhu mumwe chete ataure panguva, uye kumbirai mumwe munhu aripo
+  kuti abatsire.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Chiitiko chinopa kufona chimiro uye chinobvisa mutoro wekuti panofanira kuva nehurukuro. Rongerai chinhu chimwe chete chakareruka chekugovana."
+  - "Kufona kupfupi, kunoitwa nguva dzose panguva imwe chete yezuva kunowanzo shanda zviri nani pane kufona kwenguva refu, kunoitika pano neapo."
+  - "Munhu mumwe chete ndiye anotaura panguva. Kufona kweboka kunenge kuchitaurirana kwakaoma kutevera, kunyanya kana paine dambudziko rekunzwa."
+  - "Mubatsiri aripo anogona kugadzira mudziyo, kugara pedyo nemunhu, uye kuva \"maoko\" emutambo upi zvawo kana mafoto."
+  - "Kana kufona kusiri kufamba zvakanaka nhasi, pedzisai zvakanaka. Kuedza zvakare mangwana zvakanaka."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Ndingaita sei pavhidhiyo call nemunhu ane dementia?"
+    a: "Rongerai chiitiko chimwe chete chakareruka: ratidzai bindu renyu, mhuka yemumba kana kicheni; tarisai mafoto ekare mese; verengai nhetembo pfupi kana tsamba zvinonzwika; imbai rwiyo rwaanoda; bikai resipi imwe chete panguva imwe chete; kana tambai mutambo wakapfava wemifananidzo pachiratidziro chamunogovana. Zviitiko zvinopa kufona chaanotarisa, saka munhu haafaniri kutakura hurukuro ega."
+  - q: "Vhidhiyo call inofanira kutora nguva yakareba sei?"
+    a: "Kazhinji ipfupi kupfuura zvamunofunga. Maminetsi mashoma anodziya anogona kukwana, kunyanya kana munhu achikurumidza kuneta. Kufona nguva dzose panguva imwe chete yezuva kunogona kukosha kupfuura kureba kwekufona kwega kwega."
+  - q: "Ko kana akavhiringika kana kushungurudzika nekuda kwevhidhiyo call?"
+    a: "Vamwe vanhu vanoona chiso chiri pachiratidziro chichivhiringa. Edzai kufona kweparunhare kwakajairika, vhidhiyo yakarekodhwa iyo mubatsiri yaanogona kuridza panguva yakadzikama, kana makadhi nemafoto zvinotumirwa netsamba. Kana kufona kukasafamba zvakanaka, kupedzisai zvakanaka moedza zvakare rimwe zuva kana pane imwe nguva."
+  - q: "Ndingabatsira sei amai vangu kuita vhidhiyo call kana vasingakwanisi kushandisa foni?"
+    a: "Kumbirai nhengo yemhuri, mubatsiri wepamba kana mushandi wepamba pevanochengetwa kuti atange kufona uye abate kana kutsigira mudziyo. Nzvimbo dzakawanda dzekuchengeta dzinobatsira mhuri kuita vhidhiyo call, saka bvunzai zvavanopa. Piritsi riri pachigadziko, rine chiratidziro chikuru uye ruzha runonzwika zvakakwana, zvinoita kuti zvive nyore kumunhu wese."
+  - q: "Tinogona kutamba mutambo tese tiri kure pavhidhiyo?"
+    a: "Hongu. Nzira iri nyore ndeyekuti mumwe munhu agovane chiratidziro chake muapp yevhidhiyo, mumwe achimuudza kuti abate mufananidzo upi. Kana kuti mubatsiri aripo anogona kuvhura mutambo mumwe chete papiritsi obata panzvimbo pemunhu imi muchimutungamirira nehurukuro. Sarudzai mitambo isina nguva inoverengwa kana zvibodzwa."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +52,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Kugara kure nemunhu ari kurarama nedementia kunogona kuita kuti munzwe musina simba rekubatsira. Kufona parunhare kana pavhidhiyo hakutsivi kumbundirana, asi kunogona kuunza nguva dzechokwadi dzekubatana kana mukazvigadzirisa zvakanaka. Chinokosha ndechekurega kuedza kuita hurukuro yakajairika yekubvunza zvese, moronga chimwe chinhu chakareruka chekugovana panzvimbo pazvo. Peji rino rinotaura nezvezviitiko zvinoshanda pavhidhiyo neparunhare, magadzirirwo ekufona, uye zvatingaitwa nemunhu aripo kuti abatsire.
 
-## Why plan an activity for a call?
+## Nei zvichibatsira kuronga chiitiko chekufona?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Chiitiko chinopa kufona chimiro. “Makadii? Maita sei nhasi?” zvinokumbira munhu kuti ayeuke uye ataure zvakaitika, izvo zvinogona kuva zvakaoma uye zvinonetsa. “Tarirai, madomasi aibva” hazvimukumbiri chinhu.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association inoti hurukuro nemapoka makuru pavhidhiyo dzinogona kuva dzakaoma, uye inokurudzira [kuwedzera chimiro pakufona](https://www.alz.org/help-support/caregiving/holidays) nezvinhu zvakaita sekuimba nziyo kana kugovana mifananidzo.
 
-## What activities work on a video call?
+## Ndezvipi zviitiko zvinoshanda pavhidhiyo call?
 
-### Show and tell
+### Ratidza uye tsanangura
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Uyai nenyika yenyu kwavari. Fambisai kamera zvishoma nezvishoma muchitenderera bindu, vazivisei imbwa, ratidzai zvamuri kubika, simudzai mufananidzo wakadhirowewa nemuzukuru, kana nongedzai foni nepahwindo kuti vaone chando. Tsanangurai zvamunoona nemashoko akareruka uye siyai kumbomira kuti vapindure. Hapana mibvunzo inodiwa.
 
-### Look at photos together
+### Tarirai mafoto mese
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Simudzai foto yekare yakadhindwa pamberi pekamera, kana goveranai chiratidziro chenyu kuratidza mafoto mashoma makuru rimwe panguva. Taurai nezvezvamunoona: “Tarirai ngowani yasekuru.” Regai kubvunza kuti “Ndiani uyu?” kana “Munoyeuka here?” Kana munhu akadoma mumwe munhu zvisiri izvo, endererai nazvo. Onai [gwaro redu rereminiscence](/activities/reminiscence/) kuti muwane mazano akapfava.
 
-### Read aloud
+### Verengai zvinonzwika
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Verengai nhetembo pfupi, pisarema, bhuku revana raanofarira kumuzukuru aripowo pakufona, tsamba inobva kuhama, kana peji rebhuku raaida. Kuverenga zvinonzwika kunopa munhu chinhu chakadzikama chekuteerera pasina kumanikidzwa kupindura.
 
-### Sing or listen to music together
+### Imbai kana teererai mimhanzi mese
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Imbai rwiyo rwaanoziva kwazvo, kana ridzai rwiyo rwaanofarira kudivi renyu. Kuimba pamwe chete kunogona kuva nyore kupfuura kutaura kuvanhu vazhinji. Onai [gwaro redu rezviitiko zvemimhanzi](/activities/music/).
 
-### Cook or bake at the same time
+### Bikai kana kubheka panguva imwe chete
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association inokurudzira kuronga vhidhiyo call yekubika kana kubheka resipi yakakosha mese. Gadzirai kufona mumakicheni ese ari maviri. Munhu aripo anogona kukurunga kana kuravira imi muchitevera kadhi ravo rekare reresipi.
 
-### Watch something together
+### Onai chimwe chinhu mese
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Sangano rinokurudzirawo kuona bhaisikopo ramunofarira panguva imwe chete muri mudzimba dzakasiyana muchitaura parunhare kana pavhidhiyo. Kumunhu ane dementia, chidimbu chipfupi, chikamu chekare chepurogiramu yeTV kana mutambo webhora zvinogona kushanda zviri nani pane firimu rose.
 
-### Play a gentle game on a shared screen
+### Tambai mutambo wakapfava pachiratidziro chamunogovana
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Maapp akawanda evhidhiyo call anokutenderai kugovana chiratidziro chenyu. Imi munovhura mutambo mobata; munhu anokuudzai kana kunongedzera mufananidzo waunofanira kusarudza. Kana kuti mubatsiri aripo anovhura mutambo mumwe chete papiritsi omubatira pavanenge vachitaura nemi.
 
-Games that work well this way:
+Mitambo inoshanda zvakanaka nenzira iyi:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** imi munoverenga chirevo chinozivikanwa, ivo vanotaura magumo acho, uye kunotevera kukurudzira kunotaurwa.
+- **[Picture Pairs](/games/picture-pairs/):** mutambo wakapfava wekufananidza une mifananidzo mikuru inogona kuramba ichionekwa, usina nguva inoverengwa uye usina zvibodzwa.
+- **[Conversation Cards](/games/conversation-cards/):** mufananidzo nekukurudzira kwakavhurika kwekutaura nezvako mese.
+- **[Photo Pairs](/games/photo-pairs/):** mutambo wekufananidza wakagadzirwa nemafoto amunosarudza pamudziyo wenyu. Mafoto anoramba ari mubrowser yenyu, uye munhu anoaona kuburikidza nechiratidziro chamunogovana.
 
-### Recorded messages
+### Mharidzo dzakarekodhwa
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Kana kufona kuri kurarama kwakaoma, rekodhai vhidhiyo pfupi: kukwazisa, rwiyo, kufamba mubindu renyu. Mubatsiri anogona kuiridza panguva yakadzikama, kakawanda sezvinofadza munhu. Alzheimer's Association inotaura nezvekurekodha nekutumira nguva dzakakosha, sekuvhura zvipo kwevana.
 
-## What about plain phone calls?
+## Ko kufona kweparunhare kwakajairika?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Kufona kweparunhare kuchine basa. Dementia Australia inokurudzira [kufona panguva imwe chete zuva nezuva](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) uye kusamhanyira, sezvo vanhu vari kurarama nedementia vachigona kutora nguva kuti vapinde muhurukuro. Parunhare:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Taurai zita renyu neukama hwenyu pakarepo: “Mhoro Baba, ndini Jenny, mwanasikana wenyu.”
+- Taurai zvishoma nezvishoma, nemitsara mipfupi, pfungwa imwe chete panguva.
+- Ipai nhau pane kudzikumbira: “Ndakabika resipi yenyu yenyama yakagochwa nezuro manheru.”
+- Verengai nhetembo pfupi, kana imbai ndima yerwiyo rwavanofarira.
+- Chengetai kupfupi uye pedzisai nemashoko anodziya.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia inotaurawo kuti vhidhiyo call dzinogona kubatsira kana kutaura kwava kuoma, sezvo munhu achikwanisa kuona chiso chenyu. Kana kufona kweparunhare kukatanga kuvhiringa, edzai vhidhiyo, kana kuita zvinopesana nazvo.
 
-## How do I set up a video call that works?
+## Ndingagadzira sei vhidhiyo call inoshanda?
 
-**Before the call:**
+**Kufona kusati kwaitwa:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Sarudzai nguva yakajairika** apo munhu anowanzozorora, uye rambai muchiitevera. Tsika inobatsira.
+2. **Ronganai nemubatsiri aripo.** Meseji zuva risati rasvika inovabatsira kuronga.
+3. **Tarisisai mudziyo.** Piritsi riri pachigadziko riri nyore kupfuura foni yakabatwa muruoko. Ivai nechokwadi kuti rakachajwa, chiratidziro chakajeka, uye ruzha rwakakwira zvakakwana. Batidzai mazwi anoratidzwa pachiratidziro kana app ichipa izvozvo uye munhu achiverenga zvakanaka.
+4. **Rongai chiitiko chimwe chete** uye ivai nezvese zvakagadzirwa.
 
-**During the call:**
+**Panguva yekufona:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Garai pedyo nekamera** mune chiedza chakanaka, makatarisana nehwindo kwete kuti hwindo rive kumashure kwenyu.
+- **Zvizivisei** nguva dzese, nezita renyu neukama hwenyu.
+- **Munhu mumwe chete anotaura panguva.** Alzheimer's Association inoti kutaura pamusoro peumwe kunoita kuti zvive zvakaoma kuvanhu vari kurarama nedementia uye vanhu vane dambudziko rekunzwa. Kana hama dzakawanda dzikapinda, chinjanai kana rambai muri vaviri kana vatatu.
+- **Bvunzai mubvunzo mumwe chete panguva.** Family Caregiver Alliance inokurudzira [mibvunzo yakapfava inopindurwa nehongu kana kwete](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), uye kuratidza sarudzo pazvinogoneka.
+- **Bvumirai kumbomira kwenguva refu.** Mirirai mhinduro. Zvakanaka kutaura izwi kana vari kuritsvaga.
+- **Shandisai chiso nenzwi renyu.** Nyemwererai, gutsurirai uye chengetai inzwi renyu richidziya. Matauriro anowanzo taura zvakawanda kupfuura mashoko.
+- **Musavagadzirise.** Kana munhu akataura chimwe chinhu chisiri icho, regai zvive zvakadaro.
 
-**Ending the call:**
+**Kupedza kufona:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Pedzisai munhu asati aneta, zvakanaka panguva yakanaka.
+- Shandisai nzira imwe chete yekuonekana nguva dzese: “Ndichakufonai mangwana masikati. Ndinokudai.”
+- Musazvirebesi.
 
-## Tips for the helper on site
+## Mazano emubatsiri aripo
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Kana muri murume kana mukadzi, mubatsiri, hanzvadzi kana hama, kana mushandi ari kubatsira pakufona, ndimi munoita kuti zvikwanisike.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Gadzirai nzvimbo yakanyarara.** Dzimai TV uye vharai musuwo.
+- **Tangai kufona imi,** mozoisa piritsi pachigadziko pamberi pemunhu kana kuribata padanho reziso.
+- **Garai padivi pavo, kwete pamberi pavo.** Kuvapo kwenyu kunovanyaradza. Vayeuchidzei zvinyoro kana zvichidiwa: “Tarirai, ndiJenny.”
+- **Ivai maoko.** Simudzai mafoto, batai mutambo, tendesai piritsi kuratidza kamuri.
+- **Tarisisai kuneta kana kushungurudzika,** uye zivisai ari kufona kana yava nguva yekupedza.
+- **Udzai ari kufona zvakashanda.** “Afarira imbwa” zvinobatsira kuronga kufona kunotevera.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA inokurudzira kuti hama dziri kure dzinogona kubatsira munhu mukuru [kudzidza mashandisirwo efoni yake](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), zvakaita sevhidhiyo call. Mumatanho anotevera, kazhinji mubatsiri ndiye achafanira kubata mudziyo zvachose. Izvozvo zvakanaka.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Kana munhu achigara pamba pevanochengetwa, Alzheimer's Foundation of America inokurudzira kubvunza kana nzvimbo iyoyo ichibatsira mhuri kuita vhidhiyo call. AFA inotaurawo nezvemhuri dzinotumirana mafoto nevashandi vanochengeta, uye kutumira zvekudya zvavanofarira kana zvinhu zvidiki zvinonyaradza, mushure mekutarisa zvinotenderwa nenzvimbo iyoyo.
 
-## What if the call doesn't go well?
+## Ko kana kufona kukasafamba zvakanaka?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Dzimwe nguva kufona kuchavhiringa, kusanakidza kana kushungurudza. Haisi mhosva yenyu, uye hazvirevi kuti kufona hakuna basa.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Kana munhu achiratidzika kuvhiringika nechiratidziro, chinjirai kukufona kweparunhare kana mharidzo yakarekodhwa.
+- Kana akashungurudzika, bvumai manzwiro acho, taurai chimwe chinhu chinonyaradza, uye pedzisai zvinyoro.
+- Kana kufona kuchiwanzosafamba zvakanaka pane imwe nguva yezuva, edzai imwe nguva.
+- Kana achifunga kuti muri mumwe munhu, endererai nazvo zvakanaka.
 
-It is fine to end early. A short, warm call is a good outcome.
+Zvakanaka kupedza nguva isati yakwana. Kufona kupfupi, kunodziya, mhedzisiro yakanaka.
 
-## Between calls
+## Pakati pekufona
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Rambai muripo nedzimwe nzira. Dementia Australia inokurudzira kutumira makadhi, maemail, mafoto kana zvipo zvidiki. Kadhi reposvo revhiki nevhiki rine foto imwe chete hombe netsamba pfupi rinogona kuverengwa zvakare uye zvakare. [Conversation cards](/games/conversation-cards/) dzinodhindiswa dzinotumirwa kumubatsiri dzinogona kupa kufona kunotevera musoro wakagadzirirwa.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Kuti muwane mazano ekusarudza nekugadzira piritsi, onai [mapiritsi nezviratidziro](/caregiving/tablets-and-screens/). Kuti muwane mazano enguva yamunenge muri pamwe chete, onai gwaro redu re[kushanya](/activities/visiting/).

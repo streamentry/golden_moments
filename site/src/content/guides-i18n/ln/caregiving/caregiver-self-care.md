@@ -1,36 +1,37 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Kobatela motéma ya moyangeli: bopemi, lisungi mpe bilembo ya kolɛmba makasi"
+seoTitle: "Kobatela motéma ya moyangeli wa démence: bopemi mpe lisungi"
+description: "Bilembo ya kolɛmba makasi ya moyangeli, ndenge ya koluka bopemi mpe masangá ya lisungi, mpe bapartele ya mbala moko ya libateli na États-Unis, longwa na Alzheimer’s Association 24/7 Helpline kino Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Koyangela moto azali na démence ezali mpenza mpasi, mpe komibatelaka ozali
+  ndambu ya mosala. Talela bilembo ya likama lokola kolɛmba makasi, konyokwama
+  noki, kolala malamu te mpe koboya bandeko na yo. Yebisa bato mosusu ete
+  basunga yo na makambo ya sikisiki, salela bopemi ya koyangela, mpe kota
+  na lisanga ya lisungi. Na États-Unis, okoki kozwa lisungi ya mbala moko
+  lokola Alzheimer’s Association 24/7 Helpline na 1-800-272-3900 mpe
+  Eldercare Locator na 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Kolɛmba makasi mbala mingi emonani na kolɛmba, konyokwama noki, kolala malamu te, mawa mpe kotika komibatelaka yo moko."
+  - "Bopemi ya koyangela epesi yo bopemi, banda bangonga mwa moke kino bapɔsɔ ebele, na ndako to na esika ya koyangela."
+  - "Yebisa bato ete basunga yo na mosala ya sikisiki; bato mingi balingi kosunga kasi bayebi ndenge nini te."
+  - "Alzheimer’s Association 24/7 Helpline (1-800-272-3900) epesi lisungi ya mbala moko mpe na bosekele ata ngonga nini."
+  - "Eldercare Locator (1-800-677-1116) ekangisi yo na mosala ya pembeni, ata na Area Agency on Aging ya esika na yo."
+  - "Soki omoni ete ozali na likama, bêla to tinda sango na 988. Na likama ya mpenza, bêla 911."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Bilembo ya kolɛmba makasi ya moyangeli ezali nini?"
+    a: "Bilembo ya mbala mingi ezali kolɛmba, komitungisa to koyoka kobanga, konyokwama noki, mpasi ya kolala, komitungisa to kobanga elonga te, koboya bandeko, motó to nzoto kosala mpasi mbala mingi, mpe kotika kolya, kosala sport to kokende kotala monganga mpo na yo moko. Soki bilembo lokola oyo esalemaka mbala mingi, yebisa monganga na yo."
+  - q: "Ndenge nini nazwa bopemi ya koyangela pene ya ngai?"
+    a: "Banda na Eldercare Locator (1-800-677-1116 to eldercare.acl.gov) mpo na kokóma na Area Agency on Aging ya esika na yo, na ARCH National Respite Locator Service, to na Alzheimer’s Association Helpline na 1-800-272-3900. Libota, bandeko mpe bato ya bolingi bakoki mpe kopesa bopemi."
+  - q: "Medicare efutaka bopemi ya koyangela?"
+    a: "Mpo na moto azwi lisungi ya hospice, Medicare efutaka mbongo mingi ya mikolo mitano ya bopemi ya koyangela nsima-nsima na lopitalo to na esika ya koyangela oyo ezali na ba infirmières, kolanda National Institute on Aging. Assurances ya ndenge mingi ya bokolongono efutaka bopemi te; Medicaid mpe bamiso ya assurance ya koyangela ya mikolo mingi ekoki kosunga."
+  - q: "Alzheimer’s Association Helpline ezali vraiment ya mbala moko mpe esalaka ata butu?"
+    a: "Ee. Alzheimer’s Association elobi ete Helpline na 1-800-272-3900 ezali ya mbala moko mpe na bosekele, basalaka yango butu na moyi mikolo nyonso ya mobu, mpe okoki kozwa lisungi na minoko mingi na nzela ya bato ya minoko mibale to ba interprète. Bêla 711 mpo na mosala ya relay."
+  - q: "Kozwa bopemi uta na koyangela ezali mabe?"
+    a: "Te. Bopemi esalisaka yo na kokoba koyangela, mpe bopemi ekoki mpe kopesa moto ozali koyangela yo ebongiseli ya sika ya kozala elongo mpe ya misala. Moyangeli mingi balobi sima ete balingaki kosenga lisungi noki koleka."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +68,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Soki ozali koyangela moto azali na démence, mbala mingi otangi makambo oyo na mpokwa, olɛmbi makasi, mpe ozali na etonda ya makambo oyoki naino te. Eza ndenge ya mbala mingi. Komibatelaka yo moko ezali lokola lifuti te mpo na kosukisa nyonso. Eza nde esalisaka yo na kokoba.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Lokasa oyo ezali kolakisa bilembo ya kolɛmba makasi, ndenge ya kozwa bopemi ya solo, bisika ya kozwa lisungi, mpe bapartele ya mbala moko ya libateli ya États-Unis okoki kobêla lelo.
 
-## What are the signs of caregiver burnout?
+## Bilembo ya kolɛmba makasi ya moyangeli ezali nini?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Kolɛmba makasi mbala mingi ekómaka noki-noki, yango wana ezali malamu koyeba bilembo na yo moko. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) elobi bilembo ya mpasi ya moyangeli, lokola:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- kolɛmba, komitungisa to koyoka kobanga;
+- konyokwama noki to koyoka koyokana te;
+- koyoka bolandi te to kozanga boyokani na bato mosusu;
+- mpasi ya kolala, to kozanga kolala malamu;
+- komitungisa to kobanga elonga te, to kotika makambo oyokaki esengo liboso;
+- motó, nzoto to mikakatano mosusu ya nzoto mbala mingi;
+- kozanga ntango ya kosala sport to ya koyamba bilei malamu mpo na yo moko;
+- kotika kokosa nzoto to kobatela nzoto na yo;
+- kosalela masanga to biloko mosusu ya koboma maboko, ata manganga.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ebakisi bilembo lokola koboya bokono, koyokana na moto (mopesi yo azali mpamba), kobanga makambo ya mikolo ekoya, mpasi ya koyeba makambo malamu, mpe mikakatano ya nzoto ekómi mingi. Elobi ete yebisa monganga na yo soki bilembo lokola oyo esalemaka mbala mingi.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Toza na likanisi ya NIA ete tozela te kino olɛmbi makasi mpenza. Yeba bilembo na yo noki mpe sala makambo.
 
-## What can I do today, in five minutes?
+## Nini nakoki kosala lelo, na miniti mitano?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Bopemi ya mwa moke ezali na ntina. Ezali kokokisa kolɛmba makasi te, kasi ekoki kosalisa yo koleka mokolo ya mpasi.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Bima libanda.** Vanda na esika ya libanda to kende na boîte ya mikanda ntango moto azali na libateli mpe azali malamu.
+- **Pema noki-noki.** Pema mwa moke liboso ya koyanola na motuna ya mpasi. Okoki mpe kosala [Calm Breathing](/games/calm-breathing/) elongo na moto ozali koyangela yo.
+- **Mela mayi mpe lia eloko.** Eza pete mingi koboya bilei na yo moko.
+- **Tinda sango na moninga moko.** Te mpo na kosenga eloko, kaka mpo na boyokani.
+- **Yebisa yo moko maloba ya malamu.** [Guide ya NIA mpo na komibatelaka](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) elobi maloba lokola: « Nasali makasi ndenge nakoki », « Nazali pamba te, mpe ezali malamu », mpe « Nakosepela na mikolo tokoki kozala elongo na kimya ».
 
-## What is respite care, and how do I get it?
+## Bopemi ya koyangela ezali nini, mpe ndenge nini nazwa yango?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Bopemi ya koyangela ezali koyangela moto ozali kobatela mpo na ntango mokuse, mpo ete ozwa bopemi. [Lokasa ya NIA mpo na bopemi ya koyangela](https://www.nia.nih.gov/health/caregiving/what-respite-care) elobi ete ekoki kozala banda bangonga mwa moke kino bapɔsɔ ebele mpe ekoki kosalema na ndako, na esika ya bokolongono to na centre ya mikolo mpo na bakolo.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) elobi mitindo ya mbala mingi:
 
-| Type | What it is |
+| Lolenge | Eloko nini yango eza |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Lisungi na ndako | Moninga, moto ya libota, moto ya bolingi to moto oyo bafuta akómi na ndako |
+| Centre ya mikolo | Misala ya boyangeli lokola miziki mpe bilei ya maboko na esika ya libateli; mbala mingi bapesaka bisi mpe bilei |
+| Kotika butu to mikolo mwa moke | Ndako ya koyangela bakolo ebatelaka moto butu, mikolo mwa moke to bapɔsɔ mwa moke |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Nani afutaka?** Kolanda NIA, bopemi kowuta na libota, bandeko to bato ya bolingi ekoki kofuta mbongo te. Mosala ya bato oyo bafuta efutamaka na ngonga to na mokolo. Mpo na moto azwi lisungi ya hospice, Medicare efutaka mbongo mingi ya mikolo mitano ya bopemi na lopitalo to na esika ya koyangela oyo ezali na ba infirmières. Medicaid ekoki kosunga. Assurances mingi ya bokolongono efutaka bopemi te, kasi bamiso ya assurance ya koyangela ya mikolo mingi ekoki.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Likambami:** Alzheimer’s Association elobi ete meka bapesi ya bopemi na ntango ya mokakatano te, mpo ete bazala tayari soki osengi lisungi noki.
 
-## Where can I find help near me?
+## Bisika nini nakoki kozwa lisungi pene na ngai?
 
-Several free US services can point you to local help.
+Mosala ya mbala moko ya États-Unis ekoki kolakisa yo bisika ya lisungi.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer’s Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) ezali ya mbala moko mpe na bosekele, basalaka yango butu na moyi mikolo nyonso ya mobu, mpe okoki kozwa lisungi na minoko koleka 200 na nzela ya bato ya minoko mibale to ba interprète. Bêla 711 mpo na mosala ya relay. Okoki koyebisa makambo ya ndenge ya kosala, mpasi ya moyangeli, bopemi, basala ya pembeni, mpe kosenga lisolo ya molayi na mokambi ya bosungi. Basaleli bapesaka toli ya monganga te.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), mosala ya Administration for Community Living, ekangisi yo na basala mpo na bakolo mpe mabota na bango. Okoki kobêla, kotinda sango, kosolola na internet to kotinda email na bato oyo bayebi, to koluka na esika. Ekoki kolakisa yo Area Agency on Aging ya esika na yo.
+- **ARCH National Respite Locator Service.** [Lokasa ya ARCH](https://archrespite.org/caregiver-resources/respitelocator/) esalisaka yo na koluka bapesi ya bopemi na etuka, mpe elobi ete soki etuka na yo ezali na yango, yebisa liboso State Respite Coalition to Lifespan Respite program. ARCH elobi ete etalaka bapesi te, yango wana tala expérience mpe makambo na bango yo moko.
 
-## How do I find a support group?
+## Ndenge nini nazwa lisanga ya lisungi?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Senga Helpline to luka na internet masangá pene na yo. Alzheimer’s Association [esalaka masangá ya lisungi](https://www.alz.org/help-support/community/support-groups) mpo na bayangeli mpe bato bazali na démence, na esika to na internet, oyo bato oyo bayebi bakambi. Bisika mingi epesaka mpe masangá ya ndenge moko, lokola mpo na bayangeli ya bakóló to mpo na bato bazali na Alzheimer na bolenge to na ebandeli. Epesaka mpe ALZConnected, esika ya mbala moko ya internet epai bayangeli bazali kokabola toli.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Masangá ya lisungi ekoki kozala esika ya koyebisa mawa na yo na kopanza te, kozwa toli ya solo kowuta na bato oyo bakutanaki na makambo yango, mpe komona ete ozali moko te. Soki lisanga ya liboso ebongi te, meka mosusu.
 
-## How do I ask family and friends for help?
+## Ndenge nini nasengi libota mpe bandeko kosunga?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Loba makambo ya sikisiki. Bato mingi balingi kosunga kasi bayebi te nini bapesa. NIA elobi:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Bomba elonga** ya misala bato mosusu bakoki kosala, mpe pesa bango boponi.
+- **Banda na mwa moke** soki kosenga ezali mpasi.
+- **Kangana mosala na moto.** Moto ya libota alingi kolamba apesa bilei na mokolo ya Misato. Moninga oyo ayebi mikanda asunga na mikanda.
+- **Tinda sango** soki koloba na elongi elongi ezali mpasi.
+- **Meka eyano** soki moto apesi lisungi: « Matondi mpo osengi. Tala oyo okoki kosala. »
+- **Yamba ete bato mosusu bakoboya** mpe meka kozwa yango mabe te.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Makambo mosusu: senga moto moko avanda elongo na moto mokolo moko na pɔsɔ, amema ye na mobembo ya mokuse, to akóma mpe basala jeu elongo. Guide na biso ya [kosala elongo](/caregiving/how-to-play-together/) ezali pete mpo na kokabola na bapaya.
 
-## What if something happened to me?
+## Soki eloko esalemaki na ngai?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Sala plan ya mokuse ya bokengeli sikoyo. NIA elobi ete bokoki na libota to bandeko ya penepene nani akokoma, mpe kobomba mokanda na ba numɛro ya likama, banganga, toli ya ndenge ya kosala oyo esalaka, mpe misala oyo alingaka. Alzheimer’s Association elobi mpe ete kobomba ba contact ya bokolongono ya moto mpe elonga ya banganga oyo ebongisami malamu ezali na esika ya pete.
 
-## When should I get professional or urgent help?
+## Ntango nini nasengi lisungi ya monganga to ya likama?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Yebisa monganga na yo soki bilembo ya mpasi ezalaka mbala mingi, soki omoni mawa, to soki ozali mpasi ya kolandana. Loba na monganga ete ozali moyangeli. NIA elobi ete bato ya conseil mpe ba travailleur ya social bakoki kosunga na mawa mpe na boyangeli, mpe Medicare, Medicaid mpe bamiso ya assurance ya bokolongono bakoki kofuta ndambu ya mbongo ya santé mentale.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Soki omoni ete ozali na likama to ozali na makanisi ya komiboma, bêla to tinda sango na 988 mpo na kokóma na [988 Suicide & Crisis Lifeline](https://988lifeline.org/), ya mbala moko mpe esalaka butu na moyi. Soki moto azali na likama ya mpenza, bêla 911.
 
-## Can shared activities give me a break too?
+## Misala ya kosala elongo ekoki kopesa ngai bopemi?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Mbala mosusu. Misala ya kimya oyokanaka elongo ekoki kozala ndambu ya mokolo ya pete mpo na yo mpe mpo na moto ozali koyangela yo: koyoka banzembo ya kala, kotala bafoto, to jeu lokola [Conversation Cards](/games/conversation-cards/) oyo ezali na eyano ya malamu te. Soki moto alingaka kozala elongo na bato, lisanga elongo na [Picture Bingo](/games/picture-bingo/) na centre ya bakolo to na programme ya mikolo ekoki kopesa yo ngonga moko ya bopemi. Tala [misala mpo na masangá ya ndako ya bakolo](/activities/care-home-groups/) mpo na makanisi.

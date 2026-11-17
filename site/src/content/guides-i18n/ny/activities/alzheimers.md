@@ -1,35 +1,38 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Zochita ndi Masewera a Anthu Okhala ndi Alzheimer's"
+seoTitle: "Zochita ndi Masewera a Alzheimer's: Malinga ndi Gawo"
+description: "Zochita ndi masewera a anthu okhala ndi Alzheimer's pa gawo lililonse, kutengera luso ndi zikumbutso zomwe zimakhalabe, ndi masewera aulere osewerera limodzi."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Zochita zabwino za munthu wokhala ndi Alzheimer's zimadalira zomwe zimakhalabe
+  kwa nthawi yaitali: luso lochita kwa zaka zambiri, nyimbo zakale, ntchito za
+  pakhomo zodziwika bwino komanso zinthu zomwe munthu amaona, amamva kapena
+  kugwira. Kumayambiriro, masewera a makadi, masewera a pa bolodi, kuphika ndi
+  maulendo nthawi zambiri zimathabe kugwira ntchito. Pakati pa matendawa, yesani
+  kupinda zovala, kusanja zinthu, kuyimba, ma albamu a zithunzi ndi masewera
+  osavuta a zithunzi. Kumapeto kwa matendawa, nyimbo, kukhudza modekha komanso
+  kukhala limodzi n’kofunika kwambiri. Sankhani malinga ndi mmene munthuyo alili
+  lero.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer's ndi chifukwa chodziwika kwambiri cha dementia, choncho malingaliro a zochita za anthu okhala ndi dementia amagwiranso ntchito pa Alzheimer's."
+  - "Zinthu zatsopano zimakhala zovuta kukumbukira poyamba, pomwe luso ndi nyimbo zomwe munaphunzira kalekale nthawi zambiri zimakhalabe kwa nthawi yaitali. Dalirani zimenezo."
+  - "Magawo a matendawa amatha kusiyana ndipo masiku abwino ndi ovuta ndi achilendo. Sankhani malinga ndi zomwe munthuyo angakwanitse komanso kusangalala nazo lero."
+  - "Sankhani masewera opanda nthawi yowerengera, zigoli kapena kufunsa mafunso okumbutsa, ndipo lolani zithunzi zizioneka."
+  - "Kuonerera, kugwira chinachake kapena kungokhala limodzi n’kutenganso mbali."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Ndi zochita ziti zomwe zili zabwino kwa munthu wokhala ndi Alzheimer's?"
+    a: "Zochita zodziwika bwino zomwe zasinthidwa pang’ono kuti zikhale zosavuta: kupinda zovala, kukonza tebulo, kuphika limodzi, nyimbo ndi kuyimba, kuyang’ana zithunzi, kuyenda, kulima dimba komanso kukhala ndi chiweto. Masewera osavuta a zithunzi, mapazulo osavuta ndi makadi oyambitsa kukambirana amathandizanso anthu ambiri. Sankhani zomwe munthuyo wakhala akusangalala nazo ndipo muchite limodzi naye."
+  - q: "Kodi masewera ndi abwino kwa anthu okhala ndi Alzheimer's?"
+    a: "Masewera akhoza kukhala njira yabwino yochezera limodzi ngati munthuyo amawasangalala nawo. Palibe masewera omwe asonyezedwa kuti amachiza, amachedwetsa kapena kuletsa Alzheimer's, choncho sankhani masewera chifukwa chosangalala: zithunzi zazikulu, zosankha zochepa, ndipo opanda nthawi yowerengera, zigoli kapena mawu osonyeza kuti walakwitsa."
+  - q: "Kodi pali kusiyana pakati pa zochita za dementia ndi zochita za Alzheimer's?"
+    a: "Kawirikawiri palibe. Alzheimer's ndi chifukwa chodziwika kwambiri cha dementia, ndipo malingaliro omwewo a zochita amagwira ntchito. Chomwe chimathandiza pa Alzheimer's ndikudziwa kuti zikumbutso zaposachedwa nthawi zambiri zimayamba kuzimiririka, choncho zochita zozikidwa pa luso lakale, nyimbo ndi zizolowezi nthawi zambiri zimayenda bwino."
+  - q: "Kodi munthu wokhala ndi Alzheimer's ya gawo lotsiriza angasangalale ndi chiyani?"
+    a: "Nyimbo zomwe amakonda, kukhudza dzanja modekha, zinthu zofewa zogwira, kuwerengeredwa nkhani, kukhala panja, komanso kukhala ndi munthu amene amamukhulupirira. Zisungeni kukhala zazifupi komanso zodekha, ndipo onani nkhope ndi thupi lake kuti muone zomwe akusangalala nazo."
+  - q: "Ndingathandize bwanji munthu wokhala ndi Alzheimer's kuti alowe nawo mu chochita?"
+    a: "Pemphani thandizo m’malo molengeza kuti ndi nthawi yochitira zinazake, konzani zonse pasadakhale, ndipo yambani nokha kuti athe kulowa nawo. Kusankha nthawi ya tsiku yomwe amakhala bwino kwambiri kumathandiza kwambiri. Ngati akana, yesaninso nthawi ina kapena mupatseni njira yosavuta."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +57,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ngati munthu amene mumamukonda ali ndi Alzheimer's, mwina mwaonapo kale kuti zinthu zina zimaiwalika msanga pomwe zina zimakhalabe. Angaiwale kuyimba foni kwa mmawa uno koma amakumbukirabe mawu onse a nyimbo, kupinda thaulo mmene amachitira nthawi zonse, kapena kugawira makadi popanda kuganizira. Zochita zabwino zimamangidwa pa luso limeneli lomwe limakhalabe. Tsambali likufotokoza chifukwa chake, kenako limapereka malingaliro a gawo lililonse komanso masewera aulere a patsamba lino omwe angagwirizane nawo.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Kodi Alzheimer's ndi yosiyana ndi dementia pankhani ya zochita?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Osati kwenikweni. Dementia ndi liwu lalikulu, ndipo Alzheimer's ndi chifukwa chake chodziwika kwambiri: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) imanena kuti imayambitsa 60 mpaka 80 peresenti ya milandu ya dementia. Pafupifupi zonse zomwe zalembedwa zokhudza zochita za anthu okhala ndi dementia zimagwiranso ntchito pa Alzheimer's, kuphatikizapo [malingaliro 101 a zochita](/activities/ideas/) athu.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Chomwe ndi chothandiza kudziwa ndi mmene kusintha kumachitikira nthawi zambiri. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) imafotokoza kuti Alzheimer's imayamba kuwononga mbali za ubongo zomwe zimagwira ntchito pa kukumbukira, ndipo kenako imakhudza chilankhulo, kuganiza ndi khalidwe la anthu. Alzheimer's Association imanena kuti chizindikiro choyamba chodziwika kwambiri ndi kuvutika kukumbukira zinthu zatsopano zomwe waphunzira. Aliyense amasiyana, ndipo anthu ambiri amakhala ndi zifukwa zosakanikirana, koma njira imeneyi imathandiza kudziwa zomwe nthawi zambiri zimagwira ntchito.
 
-## What kinds of activities suit Alzheimer's best?
+## Ndi zochita zamtundu wanji zomwe zimagwirizana bwino ndi Alzheimer's?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Zochita zomwe zimadalira zomwe munthu wakhala akudziwa komanso kuchita kwa nthawi yaitali nthawi zambiri zimayenda bwino kusiyana ndi zomwe zimafuna kuphunzira ndi kusunga zinthu zatsopano m’maganizo.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Luso lochita kwa nthawi yaitali.** Alzheimer's Association imanena kuti munthu angathabe kusewera nyimbo zosavuta zomwe anaphunzira pa piyano zaka zapitazo. Kuluka, kupala matabwa, kusakaniza makadi, kuukanda ufa ndi kupinda zovala ndi zofanana nazo.
+- **Nyimbo zakale ndi nyimbo zodziwika bwino.** Anthu ambiri amakumbukirabe mawu onse a nyimbo za pa unyamata wawo, nyimbo za tchalitchi ndi nyimbo za pa ukwati wawo. Onani [zochita za nyimbo](/activities/music/).
+- **Ntchito za tsiku ndi tsiku zothandiza.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) imatchula kutsuka mbale, kukonza tebulo, kusanja masokosi ndi kupinda zovala monga zochita zomwe anthu angasangalale nazo. Kumva kuti ndi othandiza n’kofunika.
+- **Kuzindikira osati kukumbutsa mokakamiza.** Kuloza chithunzi chofanana n’kosavuta kusiyana ndi kutchula dzina lake pokumbukira. Ndi chifukwa chake masewera a zithunzi omwe zonse zikuoneka amagwira ntchito bwino kuposa mafunso okumbutsa.
+- **Zokhudza mphamvu za thupi.** Kugwira, kununkhiza, kutentha, kulawa ndi kumva zimakhalabe ndi tanthauzo ngakhale mawu atayamba kuvuta. Onani [zochita zolimbikitsa mphamvu za thupi](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Zomwe nthawi zambiri siziyenda bwino: chilichonse chokhala ndi nthawi yowerengera, malamulo atsopano oti aphunzire, masitepe ambiri oti akumbukire, kapena mafunso oyesa kukumbukira, monga “Mukukumbukira kuti uyu ndani?” Zimenezi zimabweretsa patsogolo zomwe zimakhala zovuta kwambiri pa Alzheimer's.
 
-## Activities for early-stage Alzheimer's
+## Zochita za Alzheimer's ya gawo loyambirira
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Pa gawo loyambirira, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) imanena kuti munthu angathabe kuyendetsa galimoto, kugwira ntchito ndi kutenga nawo mbali pa zochitika za anthu, pomwe akuona kuti akuyamba kuiwala zinthu monga mawu odziwika kapena malo amene anayika zinthu. Njira yabwino kwambiri ndi kugwirira ntchito limodzi: mufunseni zomwe akufuna kupitiriza kuchita komanso thandizo lomwe angafune.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Pitilizani zosangalatsa zomwe amakonda kale.** Gofu, masewera a makadi, kusoka, kwaya ndi magulu a kutchalitchi, ndikusintha pang’ono monga magulu ang’onoang’ono ndi nthawi zabata.
+2. **Sewerani masewera odziwika a makadi ndi a pa bolodi.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) imatchula mafunso a chidziwitso, kusaka mawu, masewera a makadi ndi masewera a pa bolodi pa gawo loyambirira. Sewerani ngati gulu ngati kuwerengera zigoli kukuyamba kumuvutitsa, kapena siyani kuwerengera zigoli.
+3. **Phikani limodzi.** Muloleni kutsatira njira yophikira yomwe amaidziwa bwino pamene inu mukuthandiza kuwerenga masitepe.
+4. **Yambani ntchito yofotokoza nkhani ya moyo wake.** Zithunzi, maphikidwe ndi nkhani mu kabuku komwe iye akutsogolera. Onani [zochita zokumbukira zakale](/activities/reminiscence/).
+5. **Pitani kukaona malo.** Malo odyera omwe amakonda pa nthawi yabata, nyumba yosungiramo zinthu zakale pa ulendo wafupi, kuyenda paki.
+6. **Yesani mapazulo omwe iye wasankha.** Mawu ophatikiza a zilembo zazikulu, kusaka mawu ndi mapazulo a zithunzi. Onani [mapazulo a anthu okhala ndi dementia](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Malingaliro ena: [zochita za gawo loyambirira](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Zochita za Alzheimer's ya gawo lapakati
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association imafotokoza gawo lapakati ngati lomwe nthawi zambiri limatenga nthawi yaitali, ndipo limati likhoza kutenga zaka zambiri. Mawu amayamba kusokonekera, kukhumudwa kumabwera mosavuta, ndipo munthuyo amafunikira chisamaliro chochuluka. Alzheimer's Foundation of America imawonjezera kuti anthu ambiri amafunikira thandizo poyamba kapena kupitiriza zochita. Udindo wanu umasinthira ku kukonza zinthu pasadakhale, kusonyeza m’malo mofotokoza, komanso kuthandiza pa mbali zovuta.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Pindani, sanjani ndi kufananitsa.** Mataulo, masokosi, ziwiya, mabatani malinga ndi mtundu. Ntchito zenizeni, zochitidwa limodzi.
+2. **Imbani ndi kuyenda motsatira nyimbo.** Ombani m’manja, yendani pang’onopang’ono kapena vinani m’khitchini. Yambani kuyimba nokha ndipo muloleni alowe nawo.
+3. **Yang’anani ma albamu a zithunzi.** Fotokozani zomwe mukuwona ndipo mupempheni kuti afotokoze nkhani: “Galimoto yabwino imeneyi. Ndiuzeni za iyo.” Vomerezani mayina aliwonse omwe angagwiritse ntchito.
+4. **Sewerani masewera osavuta a zithunzi.** [Mafanizo a zithunzi](/games/picture-pairs/) okhala ndi zithunzi zinayi mpaka zisanu ndi chimodzi zosiidwa poyera, kapena [Pezani chofanana](/games/find-the-same/) chokhala ndi zosankha ziwiri kapena zitatu.
+5. **Malizani miyambi yodziwika bwino.** “Tsiku limodzi apulo…” Miyambi yophunzira kalekale nthawi zambiri imabwera mosavuta. Yesani [Malizani mwambi](/games/finish-the-saying/), komwe mungasonyeze mawu omaliza aliwonse podina kamodzi.
+6. **Thirirani ndi kusamalira zomera.** Miphika ya m’nyumba kapena dimba lokwezeka, ndi chithirira chaching’ono.
+7. **Pangani masewera ofananitsa kuchokera ku zithunzi za banja.** [Mafanizo a zithunzi za banja](/games/photo-pairs/) amagwiritsa ntchito zithunzi zomwe mwasankha pa chipangizo chanu, ndipo sizichoka pa chipangizocho.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Malingaliro ena: [zochita za gawo lapakati](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Zochita za Alzheimer's ya gawo lotsiriza
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Pa gawo lotsiriza, Alzheimer's Association imanena kuti anthu amataya kuthekera koyankha zomwe zikuchitika mozungulira komanso kukambirana, ngakhale angathabe kunena mawu kapena ziganizo zazifupi. Panthawi imeneyi, chochita chimatanthauza chitonthozo ndi kulumikizana, kumene munthuyo akupumula.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Imbani nyimbo zomwe amakonda** mofewa, popanda TV yomwe ingasokoneze.
+2. **Pangani kukhudza dzanja modekha** pogwiritsa ntchito mafuta onunkhira omwe amakonda.
+3. **Perekani zinthu zofewa zogwira:** bulangeti lofunda, nsalu yofewa, mwala wosalala.
+4. **Werengani mokweza** masalimo, ndakatulo kapena nkhani yodziwika bwino. Kayimbidwe ka mawu n’kofunika kuposa tanthauzo lake.
+5. **Khalani panja** pa mthunzi, kapena pafupi ndi zenera komwe mungayang’ane mbalame.
+6. **Yang’anani chithunzi chimodzi chachikulu limodzi.** Duwa la mpendadzuwa kapena galu lomwe ladzaza chinsalu cha tabuleti, inu mukufotokoza zomwe mukuwona.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Malingaliro ena: [zochita za gawo lotsiriza](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Ndi masewera ati omwe amagwira ntchito kwa munthu wokhala ndi Alzheimer's?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Sankhani masewera omwe palibe amene angalephere. Masewera onse patsamba lino ndi aulere, amagwira ntchito mu msakatuli ndipo alibe nthawi yowerengera, zigoli kapena kulembetsa.
 
-| Game | What you do | Often suits |
+| Masewera | Zomwe mumachita | Nthawi zambiri amagwirizana ndi |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Mafanizo a zithunzi](/games/picture-pairs/) | Fananitsani zithunzi zazikulu; zikhoza kusiyidwa poyera | Gawo loyambirira ndi lapakati |
+| [Pezani chofanana](/games/find-the-same/) | Dinani chithunzi chofanana ndi chomwe chili pamwamba | Gawo lapakati ndi lotsiriza, mothandizidwa |
+| [Malizani mwambi](/games/finish-the-saying/) | Sankhani mawu omaliza a mwambi wodziwika bwino, kapena muwasonyeze | Gawo loyambirira ndi lapakati |
+| [Pazulo ya zithunzi](/games/picture-puzzle/) | Sinthani zidutswa 4 kapena 9 kuti zibwerere m’malo mwake, chithunzi chikuoneka | Gawo loyambirira ndi lapakati |
+| [Makadi oyambitsa kukambirana](/games/conversation-cards/) | Chithunzi ndi funso lotseguka loyambitsa kukambirana | Gawo lililonse, muli ndi munthu wocheza naye |
+| [Mafanizo a zithunzi za banja](/games/photo-pairs/) | Masewera ofananitsa opangidwa kuchokera ku zithunzi zanu | Gawo loyambirira ndi lapakati |
+| [Kujambula utoto](/games/coloring/) | Dinani utoto, kenako mbali ya chithunzi; kapena musindikize | Gawo lililonse, mothandizidwa |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Kuti mudziwe momwe mungakhalire limodzi, kuchuluka kwa thandizo lomwe mungapereke komanso nthawi yosiya, werengani [momwe mungasewerere limodzi ndi munthu wokhala ndi dementia](/caregiving/how-to-play-together/). Ngati mukuganiza za “masewera okumbutsa”, onani [masewera okumbutsa a achikulire okhala ndi dementia](/activities/memory-games/).
 
-## How to make any activity easier
+## Momwe mungapangire chochita chilichonse kukhala chosavuta
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Malangizo a NIA amatsikira ku zizolowezi zingapo: sankhani chochita chogwirizana ndi zomwe munthuyo angakwanitse, muthandizeni kuyamba, yang’anani ngati akukhumudwa, onetsetsani kuti akumva kuti wachita bwino, ndipo muloleni kungoona ngati zimenezo ndi zomwe akusangalala nazo.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Sankhani nthawi ya tsiku yomwe amakhala bwino kwambiri,** ndipo sungani nthawi yochitira kukhala yaifupi.
+- **Konzani zonse pasadakhale** kuti muyambe nthawi yomweyo.
+- **Pemphani, osalamula.** “Mungandithandizeko?” zimagwira ntchito bwino kuposa “Ndi nthawi yochitira zinazake.”
+- **Chitani sitepe yoyamba nokha** ndipo muloleni alowe nawo.
+- **Perekani sitepe imodzi ndi chisankho chimodzi pa nthawi.**
+- **Lolani zichitike m’njira yawo.** Mataulo opindika mosafanana ali bwino.
+- **Lekani pamene zikadali zosangalatsa.** Kusiya msanga ndi zotsatira zabwino, osati kulephera. Ngati akana, onani [pamene munthu wokhala ndi dementia akuti ayi](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) imanena mophweka: ganizirani za kusangalala, osati zomwe wakwanitsa.

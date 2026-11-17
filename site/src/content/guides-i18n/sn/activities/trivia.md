@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Mibvunzo Yakareruka yeVakuru Vanogara neDementia"
+seoTitle: "Mibvunzo Yakareruka yeDementia, ine Mhinduro"
+description: "Mibvunzo 50 yakareruka yevakuru vanogara nedementia, ine sarudzo dzemhinduro nenzira dzekukurukura, pamwe nemaitiro ekuitisa pasina anonzwa achiongororwa."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Mibvunzo yakareruka yevakuru vanogara nedementia inoshanda zvakanaka kana
+  ichinzwa sehurukuro, kwete bvunzo. Bvunzai nezvezvinhu zvakadzidzwa kare,
+  zvakaita senziyo dzekare, zvirevo, mazororo noupenyu hwezuva nezuva, uye
+  nguva dzose ipai sarudzo mbiri kana nhatu. Ipai mhinduro nomutsa, musambosora
+  munhu mumwe chete, siyai zvibodzwa, uye shandisai mhinduro imwe neimwe
+  kutanga nyaya. Mibvunzo ye“ichi kana icho” isina mhinduro isiri iyo inokodzera
+  zvikuru muzvikamu zvokupedzisira.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Bvunzai nezvezvinhu zvakajairika kwenguva refu: nziyo, zvirevo, mazororo, chikafu noupenyu hwezuva nezuva hwemakore apfuura."
+  - "Ipai sarudzo mbiri kana nhatu kuitira kuti mhinduro izivikanwe pane kuirangarira yega."
+  - "Taura mhinduro nomutsa moenderera mberi. Chero fungidziro inotanga nyaya ifungidziro yakanaka."
+  - "Hapana zvibodzwa, hapana zvikwata zvinomhanya, hapana kusora munhu mumwe chete. Regai mhinduro dzibve kuna vose vari mumba."
+  - "Kana kusarudza pakati pemhinduro kwave kunetsa, chinjirai kumibvunzo yeichi kana icho isina mhinduro chaiyo."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Mibvunzo yemazivo chiitiko chakanaka here kuvanhu vanogara nedementia?"
+    a: "Zvinogona kuva zvakadaro, kana zvichiitwa zvinyoro nyoro. Alzheimer's Foundation of America inotaura mibvunzo yemazivo pakati pezviitiko zvedanho rekutanga. Chengetai mibvunzo pazvidzidzo zvakajairika kwenguva refu, ipai sarudzo, musambosora munhu mumwe chete, uye onai mhinduro senzira yokutanga hurukuro kwete bvunzo."
+  - q: "Ndezvipi zvidzidzo zvinoshanda zvakanyanya pamibvunzo yedementia?"
+    a: "Zvinhu zvakadzidzwa kare ndizvo zvinowanzo shanda zvakanyanya: nziyo nevaimbi vaizivikanwa muupwere hwomunhu, zvirevo zvakajairika, mazororo, chikafu, mitambo, noupenyu hwezuva nezuva zvakaita sekutakurwa kwemukaka nemafoni aitenderedzwa. Dzivisai nhau dzichangobva kuitika uye chero chinhu chinoda kurangarira chakaitika kare muchikamu ichi."
+  - q: "Ndingaitisa sei mibvunzo munzvimbo inochengeterwa vakwegura ndisina kunyadzisa munhu?"
+    a: "Verengai mubvunzo wega wega kuboka rose, ratidzai kana taurai sarudzo, uye gamuchirai mhinduro kubva kuna ani zvake. Musasora vanhu mumwe nemumwe kana kuchengeta zvibodzwa. Taura mhinduro muchinyemwerera pasinei nezvafungidzirwa, mobvunza mumwe mubvunzo unotevera wakaita se“Ndiani pano akambopinda mudhiraivhu-in?” kuti muishandure kuva nyaya."
+  - q: "Chii chandingaita pachinzvimbo chemibvunzo muzvikamu zvokupedzisira?"
+    a: "Chinjirai kumibvunzo isina mhinduro isiri iyo, yakaita se“Kofi kana tii?” kana “Gungwa kana makomo?”, uye kupedzisa pamwe chete zvirevo kana nziyo dzinozivikanwa. Kutarisisa mifananidzo pamwe chete nekuitsanangura kunoshandawo zvakanaka."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Mibvunzo yemazivo ndechimwe chezviitiko zvinonyanya kukumbirwa munzvimbo dzinochengeterwa vakwegura nemuzvirongwa zvemasikati, uye mhuri dzakawanda dzinoitamba patafura yekubikira. Kana ikaitiswa nenzira yakajairika, ine zvibodzwa uye munhu mumwe achipindura, inogona kuita kuti munhu anogara nedementia anzwe achisorwa. Kana ikaitiswa zvinyoro nyoro, inzira inofadza yokunzwa nyaya. Pazasi pane mibvunzo 50 yakareruka ine sarudzo dzemhinduro uye chinhu chekukurukura pamubvunzo wega wega, ichiteverwa nemaitiro ekuitisa chikamu.
 
-## How do you make trivia work for someone with dementia?
+## Mungaitei kuti mibvunzo ishande kumunhu anogara nedementia?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Itai kuti ive yokuziva uye kurangarira zvinhu zvekare kare, uye itai kuti mhinduro yega yega igamuchirwe.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Bvunzai nezvenguva yekare kare.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) inoti chiratidzo chinonyanya kuonekwa cheAlzheimer's pakutanga kunetseka kurangarira ruzivo ruchangobva kudzidzwa. Nziyo, zvirevo noupenyu hwezuva nezuva hwemakumi emakore apfuura zvinowanzova nyore.
+2. **Nguva dzose ipai sarudzo.** Kusarudza mhinduro chaiyo kubva pambiri kana nhatu kuri nyore zvikuru pane kuibudisa pasina chinhu.
+3. **Verengai mibvunzo zvinonzwika uye iratidzei yakakura.** Bhodhi chena kana piritsi rakasimudzwa zvinobatsira vanhu vasinganzwe zvakanaka.
+4. **Ipai mhinduro zviri nyore.** Kana pasina anoziva, itaurei nomutsa moenderera mberi. Musamboti “Hazvo, munoziva izvi.”
+5. **Hapana zvibodzwa.** Kwete kuvanhu mumwe nemumwe uye kwete kumatafura. Kana vanhu vachida nhamba, chengetai nhamba imwe yeboka rose.
+6. **Musambosora munhu mumwe chete.** Regai mhinduro dzibve kuna ani zvake. Kana muri vaviri chete, pindurai mose: “Ndinofunga kuti ipiyano. Imi munofungei?”
+7. **Shandisai nyaya yekukurukura.** Mhinduro ndiyo mavambo, kwete magumo. Nyaya ndidzo chinangwa chaicho.
+8. **Chengetai zvipfupi.** Mibvunzo gumi ine nyaya pakati payo yakakwana.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inotaura mutemo mukuru zviri nyore: tarisai kushungurudzika uye ivai nechokwadi chokuti munhu anonzwa kubudirira. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inotaura mibvunzo yemazivo pakati pezviitiko zvedanho rekutanga. Mudanho repakati, chengetai sarudzo mbiri uye vimbai nenyaya dzekukurukura. Gare gare, chinjirai kumibvunzo yeichi kana icho iri pazasi.
 
-## Music and entertainment trivia
+## Mibvunzo yemimhanzi nezvevaraidzo
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Mhinduro iri **mukati memavara matema**. Gadzirai izvi zvinoenderana nomunhu: munhu akakurira achiteerera Motown angada vaimbi vakasiyana nomunhu akakurira achiteerera big bands.
 
-| Question | Choices | Talk about |
+| Mubvunzo | Sarudzo | Zvekukurukura |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Ndiani aidanwa kunzi Mambo weRock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Makambomuona Elvis paTV here? |
+| Ndeupi muimbi aizonzi Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Ndeipi rwiyo rwaSinatra rwamunonyanya kufarira? |
+| Bing Crosby airota nezvechena... | **Kisimusi**, muchato, imba | Imbai mutsetse mumwe chete pamwe chete |
+| Louis Armstrong akaimba “What a Wonderful...” | Day, **World**, Life | Chii chinoita kuti nyika ive yakanaka kwamuri? |
+| “Over the Rainbow” yakaimbwa naJudy Garland mumufirimu upi? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Maiwanzoonera kupi mafirimu amaifarira? |
+| Ndiani airidza Lucy mu“I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Ndezvipi zvirongwa zvemhuri yenyu zvamaiwanzotarisa mose? |
+| Ndeupi mukomana wemombe aitasva bhiza rainzi Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Maigara muchitamba zvevakomana vemombe muupwere here? |
+| Ndiani akatungamirira “The Tonight Show” kwemakore 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | Maiwanzorara nguva yadarika kuti mutarise TV here? |
+| Ndechipi chiridzwa chine makiyi 88? | Gitare, **piyano**, hwamanda | Pane mumwe munhu mumhuri menyu airidza here? |
+| Ndeupi mutambo wekutamba unoverengwa one-two-three, one-two-three? | **Waltz**, twist, tango | Maienda kupi kunotamba? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Kuti muwane zvimwe nezvemimhanzi, onai [zviitiko zvemimhanzi zvevanhu vanogara nedementia](/activities/music/).
 
-## Everyday life trivia
+## Mibvunzo yezveupenyu hwezuva nezuva
 
-| Question | Choices | Talk about |
+| Mubvunzo | Sarudzo | Zvekukurukura |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Firiji dzisati dzavapo, dzimba dzakawanda dzaiisa chikafu chitonhore mu... | **Icebox**, ovheni, imba yepamusoro | Ndiani aiunza chando? |
+| Ndiani aiunza mukaka pamusuwo mumabhodhoro egirazi? | Mutakuri wetsamba, **mutakuri wemukaka**, mukomana wemapepanhau | Chii chimwe chaiunzwa pamba? |
+| Maitenderedza sei foni yerotari? | Kudzvanya mabhatani, **kutenderedza vhiri**, kutaura nayo | Ndiudzei nezvefoni yaive mumba menyu |
+| Ndeipi kambani yakagadzira motokari yeModel T? | **Ford**, Chevrolet, Buick | Ndiudzei nezvemotokari yamaiifarira |
+| Maigona kuwanepi soda jerk? | **Pasoda fountain**, pabheka, kubhangi | Maiodha chii pakaunda? |
+| Ndechipi chitoyi chitubu chesimbi chinogona kufamba chichidzika masitepisi? | Yo-yo, **Slinky**, hula hoop | Ndezvipi zvitoyi zvamaifarira? |
+| Drive-in yaive nzvimbo yekuona... | **Mafirimu uri mumotokari yako**, mitambo yebhora, maparade | Maienda nani? |
+| Chiso chaani chiri pabepa redhora rimwe chete? | Lincoln, **George Washington**, Jefferson | Dhora rimwe raiwana chii panguva iyoyo? |
+| Chiso chaani chiri papeni? | **Abraham Lincoln**, Washington, Franklin | Maichengeta mapeni muhari here panguva iyoyo? |
+| Bhazi rechikoro rinowanzo va neruvara rupi? | Dzvuku, **yero**, bhuruu | Maienda sei kuchikoro? |
 
-## Holidays, nature and places
+## Mazororo, zvakasikwa nenzvimbo
 
-| Question | Choices | Talk about |
+| Mubvunzo | Sarudzo | Zvekukurukura |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Ndeupi zororo ruri pachina chekupedzisira chaNovember? | Labor Day, **Thanksgiving**, Memorial Day | Chii chaigara chiri patafura yenyu? |
+| Jack-o'-lanterns dzinoitirwa zororo ripi? | **Halloween**, Easter, Kisimusi | Ndiudzei nezveHalloween kwamakakurira |
+| Fourth of July inopemberera Declaration ye... | Rights, **Independence**, Freedom | Maitarisa kupi mafireworks? |
+| Zuva raAmai riri mumwedzi upi? | Kubvumbi, **Chivabvu**, Chikumi | Mhuri yenyu yaipemberera sei? |
+| Nyeredzi ngani dziri pamureza weAmerica? | 48, **50**, 52 | Mureza waive nenyeredzi 48 kusvika 1959. Chero mhinduro ipi zvayo chirangaridzo chakanaka |
+| Ndeupi gungwa riri kuEast Coast? | Pacific, **Atlantic**, Arctic | Makamboenda kumahombekombe egungwa here? |
+| Statue of Liberty iri muguta ripi? | Boston, **New York**, Philadelphia | Makambosvika kuNew York here? |
+| Nyuchi dzinoita chii? | Mukaka, **uchi**, sirika | Uchi pachingwa kana mutii? |
+| Mwana wemombe anonzi... | Foal, **mhuru**, kid | Makambogara pedyo nepurazi here? |
+| Ndeipi ruva refu reyero rinozivikanwa nekutendeukira kuzuva? | Rose, **sunflower**, tulip | Chii chaikura mubindu renyu? |
+| Mazuva mangani ari mugore rinosvetuka? | 365, **366**, 360 | Ndiudzei nezvezuva rekuzvarwa ramunorangarira |
+| Ndeupi mwaka unouya mushure mechando? | Matsutso, **chirimo**, zhizha | Ndeupi mwaka wamunonyanya kufarira? |
 
-## Food and sports trivia
+## Mibvunzo yezvekudya nemitambo
 
-| Question | Choices | Talk about |
+| Mubvunzo | Sarudzo | Zvekukurukura |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Raisins mazambiringa akaomeswa... | Plums, **mazambiringa**, cherries | Maipakira raisins muzvekudya zvemasikati here? |
+| Prunes ma... akaomeswa | **Plums**, figs, maapuro | Ndiani mumhuri menyu aifarira prunes? |
+| Peanut butter ne... | **Jelly**, chizi, ham | Inopwanyika kana yakatsetseka? |
+| Guacamole inonyanya kugadzirwa ne... | Pizi, **maavocado**, magaka | Ndezvipi zvinodyiwa nemadhipi zvaiunzwa pamapati? |
+| Ndeipi pai inofarirwa paThanksgiving? | **Manhanga**, lemoni, cherry | Ndeipi pai yamaiita? |
+| Vatambi vangani vari muchikwata chebaseball vari mumunda? | 7, **9**, 11 | Ndechipi chikwata chamaitsigira? |
+| Mastrike mangani anoita out mubaseball? | Maviri, **matatu**, mana | Makambotamba bhora here? |
+| Babe Ruth aizivikanwa nemutambo upi? | Tsiva, **baseball**, gorofu | Maienda kumitambo yebhora here? |
+| Makomba mangani ari panhandare yegorofu yakajairika? | 9, **18**, 24 | Makambotamba gorofu, kana mini golf, here? |
+| Mumutambo upi maunowana touchdown? | **Nhabvu yeAmerica**, hockey, basketball | Ndiani aitarisa nhabvu yeAmerica kumba kwenyu? |
 
-## Familiar sayings
+## Zvirevo zvakajairika
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Kupedzisa chirevo kunobva pamutauro wakadzidzwa kare kare uye kazhinji kunouya zviri nyore. Mutambo wedu [Finish the saying](/games/finish-the-saying/) une zvimwe zvakawanda, nekubaya kuratidza chero magumo.
 
-| Saying | Choices | Talk about |
+| Chirevo | Sarudzo | Zvekukurukura |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Ndiani aiwanzokuudzai izvi? |
+| The early bird catches the... | Bus, **worm**, train | Muri munhu anomuka mangwanani here? |
+| Don't count your chickens before they... | **Hatch**, sleep, sing | Mhuri yenyu yaichengeta huku here? |
+| A penny saved is a penny... | **Earned**, lost, spent | Ndiani aichengeta mari mumhuri menyu? |
+| Home is where the... | Garden is, **heart is**, kitchen is | Chii chinoita kuti nzvimbo inzwe sekumba? |
+| Better late than... | Early, **never**, sorry | Ndiani aigara achinonoka? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Ndiudzei nezvenguva yamakava nerombo rakanaka |
+| Actions speak louder than... | **Words**, music, thunder | Ndiudzei nezvemumwe munhu aitaura izvozvo |
 
-## This-or-that questions with no wrong answer
+## Mibvunzo yeichi kana icho isina mhinduro isiri iyo
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Iyi inokodzera danho rega rega, kusanganisira rokupedzisira, nokuti hapana chinofanira kuwanikwa chakanaka. Bvunzai, teererai, uye goveraiwo mhinduro yenyu.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kofi kana tii?
+- Gungwa kana makomo?
+- Imbwa kana katsi?
+- Zhizha kana chando?
+- Pai kana keke?
+- Kutamba kana kutarisa?
+- Kubuda kwezuva kana kunyura kwezuva?
+- Kuvharanda kwekumberi kana chivanze chekumashure?
+- Redhiyo kana marekodhi?
+- Mapekeki kana mazai?
+- Maruva erose kana daisies?
+- Rwendo rwechitima kana rwendo rwemotokari?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Kuti muwane mibvunzo yehurukuro inoenderana nemifananidzo, edzai [Conversation cards](/games/conversation-cards/) dzedu dzinodhindwa.
 
-## How do you run a trivia session in a care home or group?
+## Mungaitisa sei chikamu chemibvunzo munzvimbo inochengeterwa vakwegura kana muboka?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Garai vanhu kuitira kuti vaone uye vanzwe.** Midziyo yekunzwa munzeve irimo, magirazi aripo, TV yakadzimwa.
+2. **Zvizivisei sehurukuro.** “Ndine mimwe mibvunzo nezvemazuva ekare, uye ndinofunga kuti munoziva zvakawanda kundipfuura.”
+3. **Verengai mubvunzo wega wega kaviri uye ratidzai sarudzo dzakakura.**
+4. **Gamuchirai mhinduro kubva kupi zvako mumba.** Dzokororai mhinduro dzakanaka kuitira kuti vose vanzwe.
+5. **Taurai mhinduro kuitira vose,** mobva mabvunza mubvunzo wekukurukura kuboka rose.
+6. **Teverai mafambiro esimba.** Kana mubvunzo mumwe ukatanga nyaya dzemaminitsi gumi, regai zvienderere.
+7. **Pedzisai nerwiyo kana nechikamu chemibvunzo yeichi kana icho,** kuitira kuti vose vapedze nechinhu chiri nyore.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Kuti muwane dzimwe nzira dzemaboka, kusanganisira picture bingo nekuimba pamwe chete, onai [zviitiko zvemaboka zvemunzvimbo dzinochengeterwa vakwegura](/activities/care-home-groups/).
 
-## When to change the plan
+## Nguva yekuchinja urongwa
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Kana mumwe munhu achiratidza kunetseka, akanyarara kana kuti akati “Handizivi” kanopfuura kamwe, itai kuti zvive nyore: dzikisai kusarudzo mbiri, pindurai mose, kana chinjirai kumibvunzo yeichi kana icho. Kana boka richida kutaura nezvemubvunzo mumwe masikati ese, kubudirira ikoko. Chinangwa hachina kumbova mhinduro dzakanaka. Chaive nguva iri mukambani yakanaka.

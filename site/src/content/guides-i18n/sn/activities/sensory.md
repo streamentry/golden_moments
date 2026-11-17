@@ -1,33 +1,34 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Zviitwa zvekunzwa zvevanhu vane dementia"
+seoTitle: "Zviitwa zvekunzwa zvedementia: Mazano nekuchengeteka"
+description: "Zviitwa zvekunzwa zvevanhu vanorarama nedementia, kubva pakukwiza maoko kusvika kumanzwi echisikigo, pamwe nezvekuchengeteka pakudzipwa, ganda nezvinonhuhwirira."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Zviitwa zvekunzwa zvinoshandisa kubata, kunhuwidza, kuravira, kunzwa
+  nekuona: kukwiza ruoko zvinyoro nyoro, dengu remachira akapfava, miriwo
+  mitsva yekunhuwidza, manzwi echisikigo, kana kuona shiri pahwindo.
+  Zvakakodzera padanho ripi neripi uye zvinonyanya kubatsira pamatanho
+  okupedzisira. Tangai matarisa njodzi dzekudzipwa, kusawirirana nezvimwe
+  zvinhu, matambudziko eganda uye kunzwa kunonhuhwirira zvakanyanya, ipai
+  chinhu chimwe panguva, uye mirai kana munhu achiratidza kusagadzikana.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Zviitwa zvekunzwa hazvidi mhinduro dzakarurama, saka zvinoshanda padanho ripi neripi, kunyange munhu ari pamubhedha kana pachigaro."
+  - "Ipai chinhu chimwe chete chekunzwa panguva munzvimbo yakanyarara, uye bvunzai kana zivisai musati mabata munhu."
+  - "Dzivisai zvinhu zvidiki uye chero chinhu chinotaridzika kana kunhuhwirira sechikafu asi chisiri, nekuti vanhu vanogona kuzviisa mumuromo."
+  - "Tarisa kana paine kusawirirana nezvimwe zvinhu, matambudziko eganda kana ekufema musati mashandisa mafuta ekuzora, zvinonhuhwirira kana chikafu."
+  - "Hapana humbowo hunogutsa hunoratidza kuti aromatherapy inobatsira zviratidzo zvedementia; shandisai zvinonhuhwirira chete kuti munhu afare, kana muchida."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Ndezvipi zviitwa zvekunzwa zvakanaka kumunhu ane dementia?"
+    a: "Mazano ari nyore anosanganisira kukwiza ruoko zvinyoro nyoro nemafuta ekuzora, kubata machira akapfava, kunhuwidza miriwo mitsva kana kofi, kuteerera mimhanzi yaanofarira kana manzwi echisikigo, kuona shiri kana tangi rehove, uye kuravira chikafu chaanofarira muchimiro chakachengeteka. Ipai chinhu chimwe panguva uye tarisai kuti munhu anopindura sei."
+  - q: "Zviitwa zvekunzwa zvakachengeteka here kumunhu anoisa zvinhu mumuromo?"
+    a: "Zvinogona kuva zvakachengeteka, kana mukangwarira. Shandisai zvinhu zvikuru chete zvisingagoni kumedzwa, siyai zvinhu zvidiki kana zvinoputsika, uye chengetai mafuta ekuzora, sipo nezvinonhuhwirira kure mushure mekushandisa, nekuti zvinogona kutaridzika kana kunhuhwirira sechikafu. Garai nemunhu nguva yose."
+  - q: "Aromatherapy inobatsira here padementia?"
+    a: "Ongororo yeCochrane haina kuwana humbowo hunogutsa hunoratidza kuti aromatherapy inobatsira vanhu vane dementia, kunyange hazvo zvidzidzo zvacho zvaive zvidiki uye zvisingaenderani. Kana munhu achifarira kunhuhwirira kwakapfava kwaanoziva, hazvina kuipa, asi dzivisai mafuta anonhuhwirira akasimba, kunyanya kana paine matambudziko ekufema kana kusawirirana nezvimwe zvinhu."
+  - q: "Chii chinonzi fidget kana epuroni yezviitwa?"
+    a: "Ichi chidimbu chemucheka, epuroni kana gumbeze remakumbo rine zvinhu zvekubata zvakasonerwa zvakasimba pairi, zvakaita semabhatani makuru, mazipi, maribhoni uye zvigamba zvine maumbirwo akasiyana. Zvinopa maoko anoda kugara achibata chimwe chinhu chekutsvaga. Chitarisai kazhinji kuti muone kana paine chinhu chasununguka chinogona kubviswa."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Zviitwa zvekunzwa zvinoshandisa pfungwa shanu: kubata, kunhuwidza, kuravira, kunzwa nekuona. Hazvidi kuyeuka, matanho ekutevera kana mhinduro dzakarurama, saka zvinogona kushanda padanho ripi neripi. Zvinonyanya kukosha pamatanho okupedzisira. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) inoti padanho rekupedzisira munhu anoona nyika zvakanyanya kuburikidza nepfungwa dzekunzwa, uye kuti munogona kuratidza rudo kuburikidza nekubata, ruzha, kuona, kuravira uye kunhuwidza. Kutarisa zvishoma zvekuchengeteka kunoita kuti zviitwa izvi zvinyaradze munhu wese.
 
-## What are sensory activities for dementia?
+## Chii chinonzi zviitwa zvekunzwa zvedementia?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Zviitwa zvekunzwa zviitiko zviri nyore zvinotarisa panzwisiso imwe panguva, zvakaita sekubata mucheka, kunhuwidza miriwo kana kuteerera mvura ichinaya. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) inoti zviitwa zvepamatanho okupedzisira zvinowanzoda kutarisa pfungwa dzekunzwa, uye inotaura nezvemimhanzi, zvinhu zvekubata nekutakurisa, uye kukwiza maoko. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inoti vanhu vari padanho rekupedzisira vanogona kuda zvikuru kubata chinhu pedyo kuti vanyaradzwe.
 
-## Sensory ideas, sense by sense
+## Mazano ezviitwa zvekunzwa, pfungwa nepfungwa
 
-### Touch
+### Kubata
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Kukwiza ruoko.** Dziyisai mafuta mashoma ekuzora mumaoko enyu mopfambisa zvinyoro nyoro kubva paruoko kusvika kuminwe. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) inotaura nezvekukwiza nemafuta ekuzora asina kunhuhwirira kuti munhu anyaradzwe.
+- **Dengu remachira.** Zvimedu zvikuru zvevelvet, corduroy, fleece, satin nemvere dzemakwai zvekupukuta, kupeta nekutaura nezvazvo.
+- **Mucheka unodziya.** Mucheka unodziya, wakanyorova wemaoko pazuva rinotonhora. Tangai maedza kupisa kwacho paruoko rwenyu.
+- **Epuroni yezviitwa kana gumbeze remakumbo.** Mabhatani makuru, mazipi, maribhoni uye zvigamba zvine maumbirwo akasiyana zvakasonerwa zvakasimba.
+- **Kupeta nekupukuta.** Dengu remachira ekupukuta maoko kana mapikiniki akachena ekupeta, kuisa pamusoro peimwe nekupetazve.
+- **Chimwe chinhu chakapfava chekubata.** Gumbeze refleece, mutsago kana mhuka yakapfava inotaridzika seyechokwadi, ichipiwa zviri nyore, kwete sechitoyi.
 
-### Smell
+### Kunhuwidza
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Miriwo mitsva.** Kwizai mashizha emint, rosemary, basil kana lavender pakati peminwe yenyu mugoapa kuti munhu anhuwidze.
+- **Kunhuhwirira kwemukicheni.** Kofi iri kubikwa, chingwa chiri kukangwa, sinamoni kana orenji iri kusvuurwa pedyo.
+- **Maruva.** Uyai nemaruva mashoma matsva kubva mubindu kana muchitoro.
+- **Chigadzirwa chaanoziva.** Sipo kana mafuta ekuzora aagara achishandisa, kana ganda rake richizvitambira.
 
-### Taste
+### Kuravira
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Kuravira kwaanofarira.** Chipunu chidiki chechimwe chinhu chaanoda, chakaita seapplesauce, pudding kana ice cream, muchimiro chaanogona kudya zvakachengeteka.
+- **Kubatsira pakubheka.** Kuravira michero kana frosting shoma pamunenge muchibheka mese.
+- **Zvinotapira zvemwaka.** Watermelon muzhizha, cider inodziya mumatsutso, zvichipiwa pakupisa kwakachengeteka.
 
-### Sound
+### Kunzwa
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Mimhanzi yaanofarira.** Nziyo dzaanoziva dzichirira zvinyoro nyoro; onai [zviitwa zvemimhanzi](/activities/music/).
+- **Manzwi echisikigo.** Mvura inonaya, masaisai kana kurira kweshiri. NIA inoti mimhanzi, ruzha ruchena uye manzwi echisikigo zvinoita sezvinonyaradza vamwe vanhu.
+- **Inzwi renyu.** Kuverenga zvinonzwika, kuimba zvisina mazwi, kana kutaura nyaya.
+- **Zviridzwa zviri nyore.** Ngoma diki, shaker kana bhero rekuridza pamwe chete nemimhanzi.
 
-### Sight
+### Kuona
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Kuona nepahwindo.** Chidyiro cheshiri chiri kunze kwehwindo, vana vari kufamba vachienda kumba, kana chando chichinaya.
+- **Tangi rehove kana vhidhiyo inofamba zvishoma.** Kufamba zvinyoro nyoro pasina ruzha rukuru.
+- **Mapikicha makuru.** Mufananidzo mumwe wakajeka panguva, wakatarisana nemaziso.
+- **Ruvara nemapatani.** Kuronga zvimedu zvemachira zvine mavara akajeka, maruva kana mapikiniki ane mavara, kana peji riri nyore rekupenda mavara kubva muchikamu chedu che[kupenda mavara](/games/coloring/).
+- **Kunze.** NHS inokurudzira mapindu anonzwika nepfungwa ane zvirimwa zvinonhuhwirira, maumbirwo akasiyana uye zvinhu zvemvura. Onai [zviitwa zvekunze nekubindu](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Maitiro ekugadzira bhokisi rezvinonzwiwa
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Sarudzai dingindira** rine chekuita nehupenyu hwemunhu: gungwa, bindu, kicheni, musangano wekugadzira, kusona.
+2. **Sarudzai zvinhu zvishanu kana zvitanhatu zvikuru, zvakachengeteka,** zvakaita segoko regungwa guru, chipunu chehuni, sikavha yakapfava, sachet yelavender yakaomeswa yakasonerwa yakavharwa, kana bhuroko rehuni rakatsetseka.
+3. **Tarisa chinhu chimwe nechimwe** kuti muone kana paine zvikamu zvidiki, mipendero inopinza, shinda dzakasununguka uye chero chinhu chinoputsika.
+4. **Budisai chinhu chimwe panguva.** Chipei, chitsanangurei, uye regai munhu achiongorora.
+5. **Chengetai bhokisi mushure mekushandisa** kuti rirambe rakakosha uye zvinhu zvitariswe zvakare nguva inotevera musati mashandisa.
 
-## Safety first
+## Kuchengeteka kutanga
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Zviitwa zvekunzwa zvinyoro nyoro, asi pane njodzi shoma dzinokosha. Vamwe vanhu vanorarama nedementia vanogona kuvhiringa zvinhu zvisiri zvekudya nezvekudya, uye kumedza kunogona kuoma nekufamba kwenguva; NIA inoyambira kuti matambudziko ekumedza pamatanho okupedzisira anowedzera njodzi yekudzipwa.
 
-| Risk | What to do |
+| Njodzi | Zvekuita |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Kudzipwa | Shandisai zvinhu zvakakura zvekuti hazvigoni kumedzwa chete. Hapana mabhatani, mabeads, mari, mabhora madiki kana matoyi madiki akasununguka mubhokisi. Ipai chikafu chete muchimiro chinonzi neboka rekuchengetedza chakachengeteka. |
+| Zvinhu zvinotaridzika sechikafu | NIA inopa zano rekukiya mafuta ekuzora, sipo, shampoo nepefuyumu, izvo zvinogona kutaridzika kana kunhuhwirira sechikafu, uye kubvisa michero yekunyepera. Chengetai zvigadzirwa zvekunzwa mushure mekushandisa. |
+| Kusawirirana nezvimwe zvinhu | Tarisa kana paine kusawirirana nenzungu, latex, mvere dzemakwai, zvirimwa kana zvinonhuhwirira musati matanga. |
+| Kunhuhwirira kwakasimba | Dzivisai pefuyumu dzakasimba nemafuta anonhuhwirira akasimba, kunyanya kana paine asima kana mamwe matambudziko ekufema. Kunhuhwirira kwakapfava, kwechisikigo kwakachengeteka. |
+| Ganda | Tarisa ganda kuti muone kana paine maronda, nzvimbo dzakavhurika kana ganda risina kusimba musati makwiza. Shandisai simba rakapfava uye mirai kana munhu achiratidza kurwadziwa. |
+| Kupisa | Edzai machira anodziya nezvinwiwa paruoko rwenyu kutanga. |
+| Zvinhu zvinopinza kana zvine muchetura | Hapana maturusi anopinza, girazi kana zvigadzirwa zveunyanzvi zvine muchetura. |
 
-## Does aromatherapy help?
+## Aromatherapy inobatsira here?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Zvingangodaro kwete nenzira inoyerika. [Ongororo yeCochrane yearomatherapy yedementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) yakaongorora zvidzidzo gumi nezvitatu zvevanhu 708, zvose zviri mudzimba dzekuchengeta, uye haina kuwana humbowo hunogutsa hwekubatsira. Zvidzidzo zvacho zvaive zvidiki, mhedzisiro yaisawirirana, uye mhedzisiro yakaipa haina kutaurwa zvakanaka. Kana munhu achifarira kunhuhwirira kwakapfava kwaanoziva, kwakaita selavender yekubindu, icho chikonzero chakanaka chekugovana naye. Haisi kurapwa.
 
-## How to offer a sensory activity
+## Maitiro ekupa chiitwa chekunzwa
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Sarudzai nguva yakanyarara** uye dzimai TV.
+- **Swederai kubva pamberi,** danai zita rake, uye bvunzai kana muvaudze musati mabata: “Ndine mafuta ekuzora. Munoda kuti ndikukwizei ruoko?”
+- **Ipai chinhu chimwe panguva** kuti zvisamuremedze.
+- **Tarisa mhinduro yake.** Chiso chakapfava, maoko akasununguka kana kunyemwerera zviratidzo zvakanaka. Kudzokera shure, kutswinya kumeso kana kusagadzikana zvinoreva kuti mirai.
+- **Chengetai nguva ipfupi.** Maminitsi mashanu akadzikama chiitiko chakanaka.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Kumbomira pamwe chete muchifema zvinyoro nyoro, se[calm breathing](/games/calm-breathing/), kunogona kuva nzira yakapfava yekupedzisa. Kuti muwane mamwe mazano epamubhedha, onai [zviitwa zvepamatanho okupedzisira](/activities/late-stage/), uye kana paine kusagadzikana kwemanheru, onai [kusagadzikana kwemanheru](/caregiving/late-day-restlessness/).

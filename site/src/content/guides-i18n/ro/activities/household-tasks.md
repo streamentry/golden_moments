@@ -1,33 +1,33 @@
 ---
-title: "Treburi casnice ca activități pentru persoanele cu demență"
-seoTitle: "Activități casnice pentru demență: treburi simple"
-description: "Împăturitul, sortatul, pusul mesei și gătitul simplu pot fi activități cu sens pentru persoanele cu demență. Cum le pregătiți, le adaptați și le păstrați în siguranță."
+title: "Sarcini casnice ca activități pentru demență"
+seoTitle: "Activități casnice pentru demență"
+description: "Împăturitul, sortatul, aranjarea mesei și gătitul simplu pot fi activități cu sens. Cum le pregătiți, le adaptați și le păstrați sigure."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treburile de zi cu zi, precum împăturitul prosoapelor, sortatul ciorapilor,
-  pusul mesei, ștersul blatului, udatul plantelor și ajutorul la gătit, pot oferi
-  unei persoane cu demență o cale reală de a ajuta. Alegeți treburi pe care le
-  cunoaște, împărțiți-le în pași mici, câte unul, scoateți din calea ei obiectele
-  tăioase sau fierbinți și prețuiți participarea mai mult decât faptul că treaba
-  este făcută „corect”.
+  Treburile zilnice, precum împăturitul prosoapelor, sortatul șosetelor,
+  aranjarea mesei, ștersul blaturilor, udarea plantelor și ajutorul la gătitul
+  simplu, pot oferi unei persoane care trăiește cu demență o modalitate reală
+  de a ajuta. Alegeți sarcini pe care le cunoaște, împărțiți-le în câte un pas,
+  îndepărtați obiectele ascuțite sau fierbinți și apreciați participarea mai
+  mult decât faptul de a face lucrurile „corect”.
 keyPoints:
-  - "Treburile familiare pot ajuta o persoană să se simtă utilă și parte din gospodărie, lucru care contează adesea mai mult decât cât de bine este făcută treaba."
-  - "Împărțiți fiecare treabă în pași singuri, arătați în loc să explicați și preluați discret orice pas care a devenit greu."
-  - "Încuiați cuțitele, produsele de curățat și capsulele de detergent și puneți capace pe butoanele aragazului sau un sistem de oprire automată înainte să gătiți împreună."
-  - "Prosoapele împăturite nu trebuie refăcute în fața persoanei. Dacă trebuie să refaceți ceva, faceți-o mai târziu, pe ascuns."
-  - "Dacă o treabă aduce frustrare, treceți la un pas mai ușor, încercați din nou altă dată sau stați pur și simplu împreună."
+  - "Treburile cunoscute pot ajuta o persoană să se simtă utilă și parte din casă, iar acest lucru contează adesea mai mult decât cât de bine este făcută treaba."
+  - "Împărțiți fiecare sarcină în pași simpli, arătați în loc să explicați și preluați discret orice pas care a devenit dificil."
+  - "Păstrați la loc sigur cuțitele, produsele de curățare și capsulele de detergent și adăugați capace pentru butoanele aragazului sau un sistem de oprire automată înainte de a găti împreună."
+  - "Prosoapele împăturite nu trebuie împăturite din nou în fața persoanei. Dacă trebuie să refaceți ceva, faceți-o mai târziu, când persoana nu vede."
+  - "Dacă o sarcină aduce frustrare, treceți la un pas mai ușor, încercați din nou altă dată sau stați pur și simplu împreună."
 faq:
-  - q: "La ce treburi mai poate ajuta o persoană cu demență?"
-    a: "Mulți oameni mai pot împătura rufe, potrivi ciorapi, sorta tacâmuri, pune masa, șterge un blat, șterge praful, mătura, uda plantele sau amesteca într-un bol cu aluat. Alegeți treburi pe care persoana le făcea în trecut și potriviți-le cu ceea ce poate face acum. În stadiile avansate, o singură mișcare repetată, de exemplu netezitul șervetelor, poate fi de ajuns."
-  - q: "Este sigur ca o persoană cu demență să ajute în bucătărie?"
-    a: "Poate fi, cu supraveghere atentă și cu pregătirea potrivită. Țineți cuțitele, produsele de curățat și tot ce este fierbinte la distanță, folosiți capace pentru butoanele aragazului sau oprire automată și dați persoanei o sarcină sigură, cum ar fi spălatul legumelor, amestecatul sau așezarea farfuriilor. Nu o lăsați niciodată singură cu aragazul pornit."
-  - q: "Ce fac dacă împăturește greșit sau face mizerie?"
-    a: "Lăsați așa. Scopul este timpul petrecut împreună și sentimentul de a fi util, nu un rezultat perfect. Dacă ceva trebuie cu adevărat refăcut, așteptați până mai târziu și faceți-o când persoana nu se uită, ca să nu se simtă corectată."
+  - q: "Cu ce treburi casnice poate ajuta în continuare o persoană care trăiește cu demență?"
+    a: "Multe persoane pot încă să împăturească rufele, să facă perechi de șosete, să sorteze tacâmurile, să aranjeze masa, să șteargă un blat, să șteargă praful, să mătură, să ude plantele sau să amestece aluatul într-un bol. Alegeți sarcini pe care persoana le-a făcut în trecut și potriviți-le cu ceea ce poate face acum. În etapele mai avansate, o singură mișcare repetată, cum ar fi netezirea șervețelelor, poate fi suficientă."
+  - q: "Este sigur ca o persoană care trăiește cu demență să ajute în bucătărie?"
+    a: "Poate fi, cu supraveghere atentă și cu o pregătire potrivită. Țineți cuțitele, produsele de curățare și orice este fierbinte la distanță, folosiți capace pentru butoanele aragazului sau un sistem de oprire automată și dați persoanei o sarcină sigură, precum spălarea legumelor, amestecatul sau așezarea farfuriilor. Nu o lăsați niciodată singură cu aragazul aprins."
+  - q: "Ce fac dacă împăturește lucrurile greșit sau face dezordine?"
+    a: "Lăsați lucrurile așa. Scopul este timpul petrecut împreună și sentimentul de a fi util, nu un rezultat perfect. Dacă ceva trebuie într-adevăr refăcut, așteptați până mai târziu și faceți-o când persoana nu se uită, ca să nu simtă că este corectată."
   - q: "Ce fac dacă refuză să ajute?"
-    a: "Un „nu” poate însemna că treaba i se pare acum prea grea, încurcată sau obositoare. Nu insistați. Încercați o variantă mai simplă, invitați-o să vă țină companie sau întrebați din nou la un moment mai bun al zilei."
+    a: "Un „nu” poate însemna că sarcina pare prea dificilă, confuză sau obositoare în acel moment. Nu insistați. Încercați o variantă mai simplă, invitați persoana să vă țină companie sau întrebați din nou într-un moment mai bun al zilei."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Mulți oameni care trăiesc cu demență au petrecut decenii conducând o gospodărie, crescând o familie sau ținând în ordine un loc de muncă. Să fie rugați să ajute la treburi reale poate spune „încă faceți parte din această gospodărie” într-un fel pe care puține alte activități îl pot spune. Această pagină arată ce treburi tind să funcționeze, cum le pregătiți, cum le adaptați când lucrurile se schimbă și cum păstrați în siguranță bucătăria și locul unde se spală rufele.
+Multe persoane care trăiesc cu demență au petrecut zeci de ani îngrijind o casă, crescând o familie sau menținând ordinea la locul de muncă. A fi invitate să ajute la treburi casnice reale poate spune „ești încă parte din această casă” într-un mod în care puține alte activități o pot face. Această pagină explică ce sarcini funcționează de obicei bine, cum să le pregătiți, cum să le adaptați pe măsură ce lucrurile se schimbă și cum să păstrați siguranța în bucătărie și în zona de spălat rufe.
 
-## De ce funcționează bine treburile de zi cu zi ca activități?
+## De ce funcționează bine treburile zilnice ca activități?
 
-Treburile funcționează pentru că sunt familiare și au un scop clar. National Institute on Aging include spălatul vaselor, pusul mesei, măturatul, ștersul prafului, sortatul corespondenței, împăturitul rufelor și sortatul deșeurilor reciclabile printre [activitățile zilnice de care se pot bucura persoanele cu boala Alzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association arată că treburi precum pusul mesei pot ajuta o persoană să [se simtă un membru apreciat al gospodăriei](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Treburile casnice funcționează deoarece sunt familiare și au un scop clar. National Institute on Aging include spălatul vaselor, aranjarea mesei, măturatul, ștersul prafului, sortarea corespondenței, împăturitul rufelor și sortarea materialelor reciclabile printre [activitățile zilnice de care se pot bucura persoanele cu Alzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association notează că sarcini precum aranjarea mesei pot ajuta o persoană să [se simtă un membru valoros al casei](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-O treabă vine și cu propriul motiv de a începe. Este mai ușor să spui „da” la „M-ați putea ajuta cu prosoapele astea?” decât la „Vreți să facem o activitate?”
+O treabă casnică vine și cu propriul motiv de a începe. „Mă poți ajuta cu aceste prosoape?” este mai ușor de acceptat decât „Ai vrea să faci o activitate?”.
 
-## Ce treburi casnice merită încercate?
+## Ce sarcini casnice merită încercate?
 
-Începeți cu treburi pe care persoana le făcea în trecut, apoi potriviți-le cu ce poate face astăzi.
+Începeți cu sarcini pe care persoana le-a făcut în trecut, apoi potriviți-le cu ceea ce poate face astăzi.
 
-### Rufe și lenjerie
+### Rufe și textile de casă
 
-- **Împăturitul prosoapelor și al lavetelor.** Dați-i un coș cu obiecte mici și plate. Prosoapele sunt îngăduitoare: nu există un mod greșit de a le împături.
-- **Potrivitul ciorapilor.** Puneți o grămadă amestecată pe masă. Dacă perechile devin greu de recunoscut, folosiți doar două sau trei culori foarte diferite.
-- **Netezit și stivuit.** Șervetele, fețele de pernă sau prosoapele de bucătărie pot fi netezite și puse una peste alta. Merge bine mai târziu, când împăturitul a ajuns să aibă prea mulți pași.
+- **Împăturitul prosoapelor și al lavetelor.** Dați persoanei un coș cu obiecte mici și plate. Prosoapele sunt îngăduitoare: nu există un mod greșit de a le împături.
+- **Potrivirea șosetelor.** Puneți o grămadă amestecată pe masă. Dacă perechile devin greu de recunoscut, folosiți doar două sau trei culori foarte diferite.
+- **Netezirea și stivuirea.** Șervețelele, fețele de pernă sau prosoapele de bucătărie pot fi netezite și puse una peste alta. Acest lucru funcționează bine mai târziu, când împăturitul implică prea mulți pași.
 
-### Masa și bucătăria
+### Masă și bucătărie
 
-- **Pusul mesei.** Așezați un singur loc la masă ca model și lăsați persoana să-l copieze. Dacă este prea mult, dați-i câte un obiect pe rând: „Iată o furculiță pentru fiecare farfurie.”
-- **Sortatul tacâmurilor.** Amestecați într-un lighean furculițe, linguri și cuțite fără vârf, curate, și sortați-le într-o tavă cu despărțituri. Lăsați deoparte cuțitele ascuțite.
-- **Ștersul vaselor.** Vasele din plastic sau neperisabile și un prosop moale fac din asta o treabă sigură.
-- **Ștersul mesei sau al blaturilor.** O cârpă umedă și o suprafață liberă. Alzheimer's Association sugerează să-i oferiți o cârpă dacă persoana freacă deja masa cu mâna, transformând o mișcare neliniștită într-una utilă.
+- **Aranjarea mesei.** Așezați un tacâm ca model și lăsați persoana să îl copieze. Dacă este prea mult, dați-i câte un obiect pe rând: „Iată o furculiță pentru fiecare farfurie”.
+- **Sortarea tacâmurilor.** Amestecați furculițe, linguri și cuțite de unt curate într-un recipient și sortați-le într-o tavă compartimentată. Lăsați la o parte cuțitele ascuțite.
+- **Uscarea vaselor.** Vasele din plastic sau din materiale care nu se sparg și un prosop moale fac din aceasta o sarcină sigură.
+- **Ștersul mesei sau al blaturilor.** O cârpă umedă și o suprafață liberă. Alzheimer's Association sugerează să oferiți o cârpă dacă cineva freacă deja masa cu mâna, transformând o mișcare neliniștită într-una utilă.
 
 ### Prin casă
 
-- **Ștersul prafului.** Un pămătuf moale și câteva suprafețe stabile, de exemplu o măsuță de cafea sau o bibliotecă.
-- **Sortatul corespondenței.** Dați-i publicitatea și cataloagele, ca să le pună în grămezi: păstrez, reciclez, deschid mai târziu. Facturile și cecurile adevărate țineți-le în altă parte.
-- **Sortatul deșeurilor reciclabile.** Conserve, sticle și hârtie curate, în coșuri separate.
-- **Măturatul.** O mătură mică pe terasă sau pe podeaua bucătăriei, dacă echilibrul este sigur.
-- **Udatul plantelor.** O stropitoare mică și ușoară și câteva plante la îndemână.
+- **Ștersul prafului.** Un pămătuf moale și câteva suprafețe stabile, cum ar fi o măsuță de cafea sau un raft de cărți.
+- **Sortarea corespondenței.** Dați persoanei reclame și cataloage de sortat în grămezi: păstrează, reciclează, deschide mai târziu. Păstrați facturile reale și cecurile în alt loc.
+- **Sortarea materialelor reciclabile.** Doze, sticle și hârtie curate în coșuri separate.
+- **Măturatul.** O mătură mică pe o terasă sau pe podeaua din bucătărie, dacă echilibrul este stabil.
+- **Udarea plantelor.** O stropitoare mică și ușoară și câteva plante la îndemână.
 
 ### Gătit simplu, cu supraveghere
 
-Gătitul poate readuce sentimente puternice și plăcute. NIA sugerează să lăsați persoana să adune ingredientele, să măsoare, să amestece și să toarne sau pur și simplu să-i spună altcuiva cum se face o rețetă preferată. Printre treburile potrivite se numără:
+Gătitul poate readuce amintiri plăcute și puternice. NIA sugerează să lăsați persoana să adune ingredientele, să măsoare, să amestece și să toarne sau pur și simplu să spună altcuiva cum se prepară o rețetă preferată. Sarcini potrivite includ:
 
-- spălatul legumelor sau al fructelor
-- amestecatul unui aluat sau al unei salate reci
-- ruptul frunzelor de salată
-- întinsul untului pe pâine prăjită cu un cuțit fără vârf
-- așezarea aluatului pentru biscuiți pe o tavă
+- spălarea legumelor sau a fructelor
+- amestecarea aluatului sau a unei salate reci
+- ruperea salatei
+- ungerea pâinii prăjite cu unt folosind un cuțit bont
+- așezarea aluatului de prăjituri pe o tavă
 - punerea toppingurilor pe o pizza
 
-Dacă măsuratul devine greu, Alzheimer's Association sugerează să terminați dumneavoastră măsuratul și apoi să-i dați alt pas, de exemplu amestecatul.
+Dacă măsuratul devine dificil, Alzheimer's Association sugerează să terminați dumneavoastră măsuratul și apoi să dați persoanei un alt pas, cum ar fi amestecatul.
 
-## Cum pregătesc o treabă ca să meargă bine?
+## Cum pregătesc o sarcină astfel încât să meargă bine?
 
-1. **Alegeți momentul potrivit.** Alegeți o parte a zilei când persoana este de obicei odihnită și liniștită. Pentru mulți oameni este dimineața.
-2. **Eliberați spațiul.** O treabă, o suprafață, nimic în plus pe masă.
-3. **Invitați, nu dați sarcini.** „Mi-ar prinde bine o mână de ajutor cu astea” merge mai bine decât „E timpul să împăturim rufele.”
-4. **Arătați primul exemplu.** Împăturiți un prosop încet, apoi dați-i-l pe următorul. Să arătați este mai clar decât să explicați.
-5. **Dați câte un pas pe rând.** Prea multe indicații deodată pot copleși. Așteptați să se termine un pas înainte să-l spuneți pe următorul.
-6. **Lucrați unul lângă altul.** Dacă faceți aceeași treabă alături, se simte ca o companie, nu ca o supraveghere.
-7. **Vorbiți despre treabă, nu despre rezultat.** „Sunt tare moi” sau „Povestiți-mi cum vă plăcea să țineți dulapul cu lenjerie” invită la conversație fără să testeze pe nimeni.
+1. **Alegeți momentul potrivit.** Alegeți o parte a zilei în care persoana este de obicei odihnită și calmă. Pentru multe persoane, acesta este dimineața.
+2. **Eliberați spațiul.** O singură sarcină, o singură suprafață, nimic în plus pe masă.
+3. **Invitați, nu dați sarcini.** „Mi-ar prinde bine un pic de ajutor cu acestea” funcționează mai bine decât „Este timpul să împăturim rufele”.
+4. **Arătați primul exemplu.** Împăturiți un prosop încet, apoi dați-i următorul. A arăta este mai clar decât a explica.
+5. **Dați câte un pas pe rând.** Prea multe indicații deodată pot copleși. Așteptați să se termine un pas înainte de a-l numi pe următorul.
+6. **Lucrați unul lângă altul.** A face aceeași treabă unul lângă celălalt seamănă mai mult cu compania decât cu supravegherea.
+7. **Vorbiți despre sarcină, nu despre rezultat.** „Sunt atât de moi” sau „Spune-mi cum îți plăcea să ții dulapul cu lenjerie” invită la conversație fără a pune pe nimeni la încercare.
 
-## Cum adaptez treburile când se schimbă capacitățile?
+## Cum adaptez treburile pe măsură ce abilitățile se schimbă?
 
-Capacitățile se schimbă în timp și chiar de la o zi la alta. Alzheimer's Association sugerează să treceți spre treburi mai simple și mai repetitive pe măsură ce boala avansează.
+Abilitățile se schimbă în timp și chiar de la o zi la alta. Alzheimer's Association sugerează trecerea către sarcini mai simple și mai repetitive pe măsură ce boala avansează.
 
-| Dacă acest lucru a devenit greu | Încercați în loc |
+| Dacă acest lucru a devenit dificil | Încercați în schimb |
 | --- | --- |
-| Împăturitul cearșafurilor mari | Împăturitul lavetelor sau netezitul șervetelor |
-| Pusul unei mese întregi | Așezarea unui șervet la fiecare loc |
-| Sortatul corespondenței pe categorii | Așezarea plicurilor într-o singură grămadă |
-| Urmarea unei rețete | Amestecatul sau privitul și gustatul cât gătiți |
-| Măturatul unei podele întregi | Ștersul unei mese mici |
-| Să facă treaba deloc | Să stea cu dumneavoastră și să vă țină companie cât lucrați |
+| Împăturitul cearșafurilor mari | Împăturitul lavetelor sau netezirea șervețelelor |
+| Aranjarea întregii mese | Așezarea unui șervețel la fiecare loc |
+| Sortarea corespondenței pe categorii | Stivuirea plicurilor într-o singură grămadă |
+| Urmarea unei rețete | Amestecatul sau privitul și degustatul în timp ce gătiți |
+| Măturatul întregii podele | Ștersul unei singure mese mici |
+| Realizarea sarcinii în sine | Să stea cu dumneavoastră și să vă țină companie în timp ce faceți treaba |
 
-Și privitul contează. NIA arată că unor persoane pur și simplu le place să privească, iar acesta este un mod bun de a participa.
+A privi contează și el. NIA notează că unor persoane le place pur și simplu să privească, iar aceasta este o modalitate bună de a participa.
 
-## Cum păstrez în siguranță treburile casnice?
+## Cum păstrez siguranța în timpul treburilor casnice?
 
-Siguranța vine pe primul loc, mai ales în bucătărie. [Sfaturile NIA pentru siguranța în casă, adresate îngrijitorilor persoanelor cu Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) includ:
+Siguranța este pe primul loc, mai ales în bucătărie. [Sfaturile NIA pentru siguranța casei pentru îngrijitorii persoanelor cu Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) includ:
 
-- Încuiați sau scoateți produsele de curățat, inclusiv capsulele de detergent pentru rufe, care pot arăta ca niște bomboane.
-- Păstrați cuțitele, foarfecele și sculele electrice într-un loc încuiat.
-- Adăugați butoane de siguranță și un întrerupător de oprire automată la aragaz.
-- Puneți semne cu „Stop” sau „Foarte fierbinte” lângă cuptor, prăjitorul de pâine și fierul de călcat, astfel încât să nu poată lua foc.
-- Reglați încălzitorul de apă la 120°F (aproximativ 49°C) ca să scădeți riscul de opărire.
-- Scoateți fructele artificiale și magneții în formă de mâncare, care pot părea comestibile.
+- Încuiați sau îndepărtați produsele de curățare, inclusiv capsulele de detergent pentru rufe, care pot semăna cu bomboane.
+- Depozitați cuțitele, foarfecile și uneltele electrice într-un loc încuiat.
+- Adăugați capace de siguranță pentru butoane și un sistem de oprire automată la aragaz.
+- Puneți semne cu „Stop” sau „Foarte fierbinte” lângă cuptor, prăjitorul de pâine și fierul de călcat, amplasate astfel încât să nu poată lua foc.
+- Setați boilerul la 120°F pentru a reduce riscul de opărire.
+- Îndepărtați fructele artificiale și magneții în formă de alimente, care pot părea comestibile.
 
-Câteva obiceiuri practice în plus ajută:
+Câteva obiceiuri practice în plus pot ajuta:
 
-- Rămâneți în încăpere cât timp aragazul, cuptorul sau o unealtă ascuțită sunt în folosință.
-- Folosiți vase care nu se sparg pentru ștersul vaselor și pusul mesei.
-- Țineți podelele uscate și libere cât măturați sau spălați.
-- Dacă persoana folosea cândva unelte, Alzheimer's Association sugerează să scoateți din atelier obiectele periculoase, ca să se poată bucura în continuare de o treabă sigură, de exemplu șlefuirea unei bucăți de lemn.
+- Rămâneți în încăpere ori de câte ori aragazul, cuptorul sau un obiect ascuțit este folosit.
+- Folosiți vase care nu se sparg pentru uscare și pentru aranjarea mesei.
+- Păstrați podelele uscate și libere în timp ce măturați sau spălați.
+- Dacă persoana a folosit cândva unelte, Alzheimer's Association sugerează îndepărtarea obiectelor periculoase din atelier, astfel încât o sarcină sigură, precum șlefuirea unei bucăți de lemn, să poată fi în continuare plăcută.
 
-## Ce fac dacă o face „greșit”?
+## Ce fac dacă nu face lucrurile „corect”?
 
-Lăsați-o așa. Un prosop împăturit în trei în loc de două tot prosop împăturit este. Alzheimer's Association spune simplu: contează timpul petrecut împreună și faptul că persoana se simte utilă, nu dacă prosoapele sunt împăturite cum trebuie. Dacă ceva trebuie cu adevărat refăcut, așteptați până mai târziu și faceți-o pe ascuns.
+Lăsați să treacă. Un prosop împăturit în trei în loc de în două este tot un prosop împăturit. Alzheimer's Association spune clar: ceea ce contează este timpul petrecut împreună și faptul că persoana se simte utilă, nu dacă prosoapele sunt împăturite perfect. Dacă ceva trebuie într-adevăr refăcut, așteptați până mai târziu și faceți-o când persoana nu vede.
 
-A corecta pe loc poate transforma o treabă plăcută într-o amintire a ceea ce s-a pierdut. „Mulțumesc, m-ați ajutat mult” este aproape întotdeauna ce trebuie spus.
+A corecta în acel moment poate transforma o activitate plăcută într-o amintire a ceea ce s-a pierdut. „Mulțumesc, este de mare ajutor” este aproape întotdeauna lucrul potrivit de spus.
 
-## Când ne oprim?
+## Când ar trebui să ne oprim?
 
-Opriți-vă sau schimbați activitatea când vedeți semne de frustrare, oboseală sau pierderea interesului. Să vă opriți mai devreme este un rezultat bun, nu un eșec. Puteți:
+Opriți-vă sau schimbați activitatea când observați semne de frustrare, oboseală sau pierdere a interesului. A încheia mai devreme este un rezultat bun, nu un eșec. Puteți:
 
-- să treceți la un pas mai ușor
-- să treceți la ceva odihnitor, cum ar fi muzica sau o ceașcă de cafea
-- să încercați din nou mai târziu sau în altă zi
-- să stați pur și simplu împreună
+- trece la un pas mai ușor
+- trece la ceva liniștitor, precum muzica sau o ceașcă de cafea
+- încerca din nou mai târziu sau în altă zi
+- pur și simplu să stați împreună
 
-Dacă persoana spune nu, nu insistați. Citiți [ce să faceți când spune nu](/caregiving/when-they-say-no/) pentru moduri blânde de a răspunde.
+Dacă persoana spune nu, nu insistați. Consultați [ce puteți face când spune nu](/caregiving/when-they-say-no/) pentru moduri blânde de a răspunde.
 
-## Încă o idee ușoară pentru un moment mai liniștit
+## Idei simple pentru un moment mai liniștit
 
-Când treburile fizice nu sunt posibile, sortatul și potrivitul se pot face și așezat. În [Sortare împreună](/games/sort-together/) puteți atinge imagini ca să le puneți în coșuri de bucătărie sau de grădină, iar [Perechi de imagini](/games/picture-pairs/) este un joc blând de potrivire, cu imagini mari și fără cronometru. [Cartonașele de conversație](/games/conversation-cards/) au întrebări deschise despre casă și familie, care se potrivesc bine cu o cafea după ce treaba s-a terminat.
+Când treburile fizice nu sunt posibile, sortatul și potrivirea pot fi făcute totuși stând jos. [Sort Together](/games/sort-together/) vă permite să atingeți imagini și să le puneți în coșuri pentru bucătărie sau grădină, iar [Picture Pairs](/games/picture-pairs/) este un joc blând de potrivire, cu imagini mari și fără cronometru. [Conversation Cards](/games/conversation-cards/) are întrebări deschise despre casă și familie, care se potrivesc bine cu o cafea după ce ați terminat.
 
-Pentru ajutor în a include treburile în ziua dumneavoastră, citiți ghidul nostru despre [o rutină zilnică liniștită](/activities/daily-routine/). Pentru mai multe idei pe stadii, citiți [activitățile pentru stadiul mijlociu](/activities/middle-stage/).
+Pentru ajutor în a include treburile casnice în ziua de zi cu zi, consultați ghidul nostru despre o [rutină zilnică liniștită](/activities/daily-routine/). Pentru mai multe idei în funcție de etapă, vedeți [activități pentru etapa de mijloc](/activities/middle-stage/).

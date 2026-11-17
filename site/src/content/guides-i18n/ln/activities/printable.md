@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Misala ya kokoma ya kofuta te mpo na bokono ya mawa"
+seoTitle: "Misala ya kokoma ya kofuta te: makomi monene"
+description: "Misala ya kokoma ya kofuta te: boluki ya maloba monene, bapaje ya kolala langi, ba karte ya masolo mpe bingo ya bilili, elongo na toli ya kokoma."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments epesi misala ya kokoma ya kofuta te: boluki ya maloba na
+  makomi monene, bapaje ya kolala langi, ba karte ya bilili mpo na masolo mpe
+  ba karte ya bingo ya bilili. Fungola lokasa moko ya lisano mpe salela
+  butɔ ya Kokoma. Koma na makomi monene, malamu, na papye ya makasi, tika
+  mosala moko na lokasa moko, mpe lambisa bapaje oyo olingi kosalela lisusu na
+  makomi ya kokoma mpe kofuta. Misala ya kokoma oyo osali na ndako, lokola
+  lokasa ya lisolo ya bomoi to manaka ya mokolo, esalaka mpe malamu.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Misala na biso ya kokoma ezali ya kofuta te: Boluki ya Maloba, Kolala Langi, Ba karte ya Masolo mpe Bingo ya Bilili. Lokasa moko ya lisano ezali na butɔ ya Kokoma."
+  - "Koma na makomi monene, malamu, na langi ya makasi, mpe tika mosala moko na lokasa moko."
+  - "Papye ya makasi to karte ya makasi ezali mpasi te kokanga mpe ebukani mbala mingi te. Lambisa bapaje mpo na kosalela yango lisusu na makomi ya kokoma mpe kofuta."
+  - "Misala ya kokoma oyo osali na ndako lokola lokasa ya lisolo ya bomoi, manaka ya mokolo to ba etiketi ya bilili na bikuke ezali pɛtɛɛ mpe esalaka malamu."
+  - "Lokasa ya kokoma ezali libyangi, ezali te mosala ya kelasi. Kosala ndambo na yango, to kosala yango te, ezali malamu."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Misala na bino ya kokoma mpo na bokono ya mawa ezali ya kofuta te?"
+    a: "Iyo. Bapaje ya Boluki ya Maloba, Kolala Langi, Ba karte ya Masolo mpe Bingo ya Bilili na site oyo ezali ya kosalela mpe ya kokoma ya kofuta te. Fungola lokasa ya lisano mpe salela butɔ ya Kokoma."
+  - q: "Misala nini ya kokoma ezali malamu mpo na bokono ya mawa?"
+    a: "Misala ya kokoma oyo ezali malamu ezali pɛtɛɛ, polele mpe mpo na baninga ya mikolo nyonso: boluki ya maloba na makomi monene na maloba kaka na kotambola mpe na kokita, bapaje ya kolala langi na bandelo ya polele, ba karte ya bilili oyo ebimisaka masolo, mpe bingo ya bilili mpo na masangani. Salela lisano kolanda makambo oyo moto alingaka mpe bokoki na ye ya sikawa, mpe tika mosala moko na lokasa moko."
+  - q: "Nasalisa ndenge nini misala ya kokoma emonana malamu mpe esalemi malamu?"
+    a: "Salela makomi monene, malamu, encre ya molili na papye ya pembe to ya kreme, mpe esika ebele ya pɛtɛɛ. Koma na papye ya makasi to karte ya makasi mpo lokasa etikalaka bobele, pona papye ya matiti mpo na kokitisa kongenga, mpe salela klipɔ ya ebale to tapis ya kokangama mpo na kokanga lokasa. Kolambisa esalisaka bapaje etikalaka ntango molai."
+  - q: "Nakoki kokoma misala na bino mpo na ndako ya bok care to programe ya mokolo?"
+    a: "Iyo. Basali ya misala bazali na ndako ya bok care mpe na programe ya mokolo bakoki kokoma bapaje na biso mpo na bavivant mpe masangani. Bingo ya Bilili esalemi mpo na masangani mpe ezali na moyebi ya lisano na écrane oyo okoki komonisa na TV to projetɛrɛ."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Mbala mosusu lisano ya malamu ezali lokasa ya papye mpe kalamo na mesa ya kolia. Misala ya kokoma esengeli te kofungola charge, ba mot de passe to écran, mpe ezali mpasi te komema yango na kotala moto to na masangani. Lokasa oyo elobi misala ya kokoma ya kofuta te na site na biso, ndenge ya kokoma yango mpo emonana malamu mpe ekangami malamu, elongo na ndambo ya misala ya kokoma ya pɛtɛɛ oyo osali na ndako oyo mabota mpe basali ya misala bamonaka esalaka malamu.
 
-## What free printable activities do you offer?
+## Bopesi misala nini ya kokoma ya kofuta te?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Bopesi misala minei ya kokoma ya kofuta te. Fungola moko ya bapaje ya lisano oyo mpe salela butɔ **Kokoma** mpo ozwa molongo oyo ekoki kokomama na imprimante.
 
-| Printable | What it is | Good for |
+| Mosala ya kokoma | Nini yango ezali | Ezali malamu mpo na |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Boluki ya Maloba](/games/word-search/) | Boluki ya maloba na makomi monene na maloba kaka na kotambola mpe na kokita | Ntango ya kimya na kalamo; moto oyo alangaki masano ya makanisi |
+| [Kolala Langi](/games/coloring/) | Bapaje ya kolala langi mpo na kokoma, to kolala langi na écran | Ntango ya bopemi mpe ya bokeli; na biteni nyonso na lisalisi |
+| [Ba karte ya Masolo](/games/conversation-cards/) | Ba karte ya bilili na mituna ya polele ya masolo kolanda motɔ́pɔ | Kotala, ba appels, bilei ya libota, masangani ya kokundola |
+| [Bingo ya Bilili](/games/picture-bingo/) | Ba karte ya bingo na bilili na esika ya nimero, elongo na moyebi ya lisano na écrane | Ba ndako ya bok care, programe ya mokolo, masangani ya libota |
 
-### Large-print word search
+### Boluki ya maloba na makomi monene
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Boluki ya Maloba](/games/word-search/) esalelaka makomi monene mpe etikaka maloba kaka na kotambola mpe na kokita, ezali na ba diagonales to maloba ya kozonga nsima te. Bosala yango elongo: moto moko atángi liloba moko na liste, mosusu aluki yango. Soki koluka maloba ekomi mpasi, bondima ko zinga litɛ́rɛ ya liboso ya liloba moko na moko elongo, to bobele tanga liste ya maloba na mongongo makasi mpe boloba mpo na liloba moko na moko.
 
-### Coloring pages
+### Bapaje ya kolala langi
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Bapaje ya [Kolala Langi](/games/coloring/) bakoki kokoma mpo na ba marqueurs to ba crayons ya langi, to kolala langi na tablette na kosimba langi, na nsima esika ya bilili. Mpo na bapaje ya kokoma, pesa ba marqueurs ya monene mpe langi mingi te na mbala moko. Tala buku na biso ya [misala ya mabɔkɔ mpe biloko](/activities/arts-and-crafts/) mpo na ndenge ya kotika kolala langi ezali ya baninga ya mikolo nyonso mpe ya bopemi.
 
-### Conversation cards
+### Ba karte ya masolo
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Ba karte ya Masolo](/games/conversation-cards/) esangisaka bilili ya polele na mituna ya polele, lokola "Yebisa ngai mpo na..." to "Oyoki nini?" Ekoma lokola libyangi ya polele, ezali te mituna ya bozwi mayele. Koma seti, kata yango, mpe tika ndambo na sac mpo na kotala to pembeni ya telefone mpo na ba appels. Esalaka mpe malamu na masangani ya [kokundola](/activities/reminiscence/).
 
-### Picture bingo cards
+### Ba karte ya bingo ya bilili
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Ba karte ya [Bingo ya Bilili](/games/picture-bingo/) esalelaka bilili na esika ya nimero. Koma karte moko mpo na mosani moko mpe salela moyebi ya lisano na écrane na ordinate, TV to projetɛrɛ. Tozali koloba kobenga kino karte ya moto moko na moko etondi, mpo moto moko te atikala. Tala [misala ya masangani mpo na ba ndako ya bok care](/activities/care-home-groups/) mpo na ndenge ya kotambwisa session.
 
-## How do I print activities so they are easy to use?
+## Nako ma ndenge nini kokoma misala mpo esalemi malamu mpe emonani malamu?
 
-Small changes in how you print make a big difference.
+Mbala mingi moke na ndenge ya kokoma esalaka ndenge monene.
 
-### Make it easy to see
+### Sala ete emonana malamu
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Makomi monene, malamu.** Salela parametre ya kokoma monene koleka oyo ekokani kaka na lokasa. Bika ba fontes ya kitoko to ya kokoma lokola mabɔkɔ.
+- **Langí ya makasi.** Encre ya molili na papye ya pembe to ya kreme. Bika kokoma na fond ya langi ya pɛtɛɛ to ya langi mosusu.
+- **Papye ya matiti** ekitisa kongenga na se ya miinda ya makasi.
+- **Tala ba lunetɛ mpe mwinda.** Alzheimer’s Association elobi ete mikakatano ya miso mpe matoi ekoki kokomisa masolo mpasi, mpe elobi kotala yango mbala na mbala. Mwinda ya polele mpe ya boyokani esalisaka mpe.
 
-### Make it easy to hold
+### Sala ete ekangami malamu
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Papye ya makasi to karte ya makasi** etikalaka bobele, ezali mpasi te kokanga, mpe etikalaka malamu soki basalela yango mbala mingi.
+- **Klipɔ ya ebale** to tapis ya kokangama ekangaka lokasa ete esukinaka te.
+- **Ba marqueurs ya monene to ba crayons ya monene** ezali mpasi te kokanga koleka ba stylos ya pɛtɛɛ.
 
-### Make it reusable
+### Sala ete ekoki kosalelama lisusu
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Lambisa bapaje** to tika yango na ba pochettes ya polele. Salela makomi ya kokoma mpe kofuta na ba boluki ya maloba mpe ba karte ya bingo, na nsima opangusa.
+- **Pona ba pochettes ya matiti** soki kongenga ezali likambo, mpe **zinga ba kokona** ya ba karte ya lambama na sizɛre mpo ezala malamu kokanga.
+- **Bomba dɔsi** ya ba oyo olingaka mpo osengeli te kokoma lokasa moko mbala na mbala.
 
-### Keep it simple
+### Tika ete ezala pɛtɛɛ
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Mosala moko na lokasa moko.** Boluki ya maloba moko to bilili moko, esangisa misala ebele te.
+- **Esika ebele ya pembe.** Lokasa ya mobulu ekoki koyokisa moto mpasi.
+- **Malako ya kotanga te, soki ekoki.** Lakisa moto oyo nini asengeli kosala na esika ya kotanga.
+- **Kata bapaje.** Soki lokasa mobimba ezali mingi, kata yango na ndambo mibale to bokita yango mpo kaka ndambo emonana.
 
-## Other useful printables you can make at home
+## Misala mosusu ya kokoma oyo okoki kosala na ndako
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Misala nyonso ya kokoma ya malamu ezali te lisano. Oyo ezali pɛtɛɛ kosala na mosala ya maloba mpe imprimante.
 
-### A life-story page
+### Lokasa ya lisolo ya bomoi
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Lokasa moko "po na ngai" na elilingi, nkombo oyo moto alingaka kobenga ye, esika oyo akolaki, mosala na ye, libota, bilei oyo alingaka, miziki mpe makambo oyo epesaka kimya to ekomisaka mpasi. Dementia Australia epesi toli ya [livre ya mikundoli](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) na makambo ya bomoi ya moto, makambo oyo alingaka mpe bato ya ntina, mpo na kosalisa ba oyo bazali kotala mpe basali ya bok care mpe mpo na kobima masolo.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Esalaka malamu mingi na ba hôpita mpe ba esika ya sika ya bok care. NIA epesi toli ya kopesa basali ya hôpital [feyele ya makambo ya moto](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) oyo ezalaka na manaka ya ye, nkombo oyo alingaka, makambo oyo alingaka mpe oyo alingaka te, makambo oyo ekoki kokomisa mpasi, mpe bilembo ya mpasi oyo emonani na nzoto te.
 
-### A daily schedule
+### Manaka ya mokolo
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Manaka ya pɛtɛɛ mpe ya monene ya mokolo na ba ngonga, maloba mingi te mpe elilingi moko ya pɛtɛɛ mpo na eteni moko na moko: kolia ya ntɔ́ngɔ́, kotambola, kolia ya midi, kopema, miziki, kolia ya pokwa. [Plan ya bok care ya mokolo](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ya Alzheimer’s Association epesi toli ya kolongola kolanda ba ngonga oyo moto azali malamu koleka, na ba ngonga ya kolamuka mpe kolala oyo ezali kaka ndenge moko mpe na boyokani ya mosala mpe bopemi. Tika yango na nivo ya miso, mbala mosusu na frigo, mpe tika ete ebongwana. Tala buku na biso ya [manaka ya mokolo](/activities/daily-routine/) mpo na makambo mingi.
 
-### Picture labels for rooms and drawers
+### Ba etiketi ya bilili mpo na bapart ya ndako mpe ba tiroirs
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA epesi toli ya kosalela ba signe ya langi ya makasi to bilili ya pɛtɛɛ mpo na [kotya etiketi na kabini ya mayi, shambre mpe cuisine](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Likambo moko oyo ezali mpe mpo na ba tiroirs mpe ba placard: elilingi ya basokisi na tiroir ya basokisi, ba kopo na placard ya ba kopo. Koma, lambisa mpe bombisa na scotch.
 
-### A sorting set
+### Seti ya kokabola
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Koma bilili ya biteni mibale ya pɛtɛɛ, lokola bambuma mpe bafololo to bisaleli mpe biloko ya cuisine, na karte ya makasi. Kata yango mpe bokabola yango na ba pani mibale elongo. Molongo na écrane ya likambo oyo ezali [Kosala Elongo](/games/sort-together/).
 
-### Song lyric sheets
+### Bapaje ya maloba ya banzembo
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Koma maloba ya banzembo mosusu oyo olingaka na makomi ya monene mingi mpo na koyemba elongo. Atako bato mosusu balingaka lisusu kotanga mingi te, bakoki koyoka malamu kokanga lokasa.
 
-### A family photo page
+### Lokasa ya bilili ya libota
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Lokasa moko na bilili minei kino motoba ya libota, moko na moko na nkombo ya liboso na nse. Ekoki kovanda na mesa mpo moto moko na moko akanga mpe aloba mpo na yango. Ba etiketi esalisaka ba oyo bazali kotala mpe basali ya bok care kosangana na masolo, mpe moto moko te asengeli kotuna "Oyo ezali nani?"
 
-### A recipe card
+### Karte ya recette
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Koma recette moko ya libota oyo olingaka na makomi monene. Salela yango mpo na kosala bilei elongo, to bobele mpo na koloba mpo na bilei ya kala.
 
-## How do I offer a printable without it feeling like homework?
+## Napesi ndenge nini mosala ya kokoma sans koyokisa moto ete ezali mosala ya kelasi?
 
-Present it as something to share, not a test.
+Pesa yango lokola likambo ya kosala elongo, ezali te komeka.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Vanda mpe banda yango yo moko.** "Nazali kosala boluki ya maloba oyo. Olingi kosalisa ngai koluka 'jardin'?"
+- **Sala elongo.** Bosangisa mikolo, to moto moko aluki mpe mosusu azingi.
+- **Komeka te kotya malamu to mabe.** Buku ya Alzheimer’s Association mpo na [misala na ndako](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) elobi kotika makanisi na mosala, ezali te na résultat, mpe na esengo na esika ya kobota.
+- **Tika bapaje ezala polele.** Buku moko elobi kotika ba scrapbooks, ba albums ya bilili to ba magazines ya kala na bisika oyo ekoki kokangami mpasi te. Ba karte ya kokoma mpe bapaje ya bilili bakoki kovanda na mesa ya pembeni ndenge moko.
+- **Tika ntango nyonso olingi.** Ndambo ya lokasa ya kolala langi ezali après-midi ya malamu. Ndenge moko mpe kobomba lokasa mpe komela kafe ezali malamu.
 
-## Where to find more
+## Wapi nazwi makambo mosusu?
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Tala misala nyonso na biso mpe [misala ya kokoma](/games/), to tala [misala mpo na biteni nyonso](/activities/ideas/) mpo na makanisi mosusu, na papye mpe na papye te.

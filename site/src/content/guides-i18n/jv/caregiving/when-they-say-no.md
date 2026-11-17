@@ -1,35 +1,35 @@
 ---
-title: "Manawi Tiyang Demensia Boten Purun Nindakaken Kegiatan"
-seoTitle: "Manawi Tiyang Demensia Boten Purun Nindakaken Kegiatan"
-description: "Kenging punapa tiyang demensia saged boten purun utawi jengkel kaliyan kegiatan, punapa ingkang saged dipuncobi, lan kapan kedah dhateng dokter."
+title: "Nalika Wong sing Urip karo Demensia Nolak Kegiatan"
+seoTitle: "Nalika Wong Demensia Nolak Kegiatan"
+description: "Napa wong sing urip karo demensia bisa nolak utawa jengkel nalika nindakake kegiatan, apa sing bisa dicoba, sing kudu disingkiri, lan kapan owah-owahan dadakan kudu dipriksa dokter."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Manawi tiyang demensia ngandika boten, tampi kanthi tentrem lan cobi malih
-  mangké utawi tawisaken ingkang benten. Boten purun asring wonten sababipun:
-  pakaryan karaos awrat sanget utawi kados laré, piyambakipun sayah, nyeri,
-  ngelih, utawi kesesa dening swanten. Ampun mbantah utawi meksa. Prasajakaken,
-  tawisaken kalih pilihan, utawi nyuwun pitulunganipun. Tindak-tanduk ingkang
-  dumadakan utawi cepet ewah, langkung-langkung sasampunipun infeksi utawi obat
-  énggal, mbetahaken dokter enggal.
+  Nalika wong sing urip karo demensia kandha ora, tampa kanthi tenang lan coba
+  maneh mengko utawa tawakake sing beda. Penolakan asring ana sebabe: tugas
+  krasa angel banget utawa kaya bocah-bocahan, dheweke sayah, lara, luwe, utawa
+  kewalahan amarga rame. Aja mbantah utawa meksa. Gampangake, tawakake rong
+  pilihan, utawa nyuwun tulung marang dheweke. Prilaku sing owah kanthi dadakan
+  utawa cepet, utamane sawise infeksi utawa obat anyar, kudu enggal dipriksa
+  menyang dokter.
 keyPoints:
-  - "“Boten” menika wangsulan ingkang kedah dipunajeni, sanes masalah ingkang kedah dipunsingkirake."
-  - "Boten purun limrahipun wonten sababipun: awrat sanget, kados laré sanget, sayah, boten sekeca badan, boten kepenak, utawi kesesa."
-  - "Mundur, enteni, lan cobi malih mangké, ing wekdal ingkang benten, utawi kanthi cara ingkang langkung prasaja."
-  - "Nyuwun pitulunganipun langkung sae tinimbang nyuwun piyambakipun nindakaken."
-  - "Ampun mbantah, meksa, nguji, utawi mbenerake. Priksa dhiri panjenengan manawi kesesa utawi nyesaki."
-  - "Tindak-tanduk ingkang dumadakan utawi cepet ewah, langkung-langkung kaliyan infeksi utawi obat énggal, kedah enggal dhateng dokter."
+  - "Tembung \"ora\" yaiku wangsulan sing kudu diajeni, dudu masalah sing kudu diatasi."
+  - "Penolakan biasane ana sebabe: angel banget, kaya bocah-bocahan, sayah, ora kepenak, utawa kewalahan."
+  - "Mundura dhisik, ngenteni, lan coba maneh mengko, ing wektu sing beda, utawa nganggo cara sing luwih gampang."
+  - "Nyuwun tulung marang dheweke luwih becik tinimbang njaluk dheweke nuduhake kabisane."
+  - "Aja tau mbantah, meksa, nguji, utawa mbenerake. Priksa awake dhewe, apa panjenengan kesusu utawa kakehan nyedhaki."
+  - "Prilaku sing owah kanthi dadakan utawa cepet banget, utamane yen ana infeksi utawa obat anyar, kudu enggal dipriksa menyang dokter."
 faq:
-  - q: "Punapa boten punapa-punapa manawi piyambakipun boten tumut kegiatan babar pisan?"
-    a: "Boten punapa-punapa, kangge dinten menapa kemawon. Lenggah sesarengan, mirengaken musik, utawi mirsani donya lumampah saged sampun cekap. Manawi tiyang menika ical remenipun dhateng sedaya salebeting pinten-pinten minggu, wartosaken dhateng dokteripun, amargi swasana manah ingkang andhap, nyeri, utawi masalah kasarasan sanes saged dados bageyan saking gambaran menika."
-  - q: "Kenging punapa piyambakipun boten purun ingkang rumiyin dipuntresnani?"
-    a: "Hobi lami saged dados nyusahaken manawi sapunika mbetahaken kaprigelan ingkang dipunwasiaken demensia, lan tiyang menika saged ngraos isin. Cobi bageyan ingkang langkung prasaja saking kegiatan ingkang sami, kadosta milah kancing minangka gantosipun njahit, utawi mirsani gambar taman minangka gantosipun nandur."
-  - q: "Punapa kula kedah nyobi nyakinaken piyambakipun?"
-    a: "Boten. Meksa tiyang nindakaken ingkang sampun dipundamel awrat dening demensia menika pemicu gelisah ingkang sampun dipunmangertosi. Tampi wangsulan boten, ewahi bab ingkang dipunrembag, lan tawisaken malih mangké utawi kanthi cara ingkang benten."
-  - q: "Kapan ewah-ewahan tindak-tanduk menika darurat?"
-    a: "Telpun nomer darurat ing wewengkon panjenengan manawi wonten tiyang ingkang bebaya utawi wonten tandha darurat medis. Kangge bingung dumadakan utawi tindak-tanduk ingkang ewah kanthi cepet salebeting jam utawi dinten, langkung-langkung kaliyan demam, infeksi, utawi obat énggal, enggal hubungi dokteripun."
+  - q: "Apa ora apa-apa yen dheweke ora melu kegiatan babar pisan?"
+    a: "Iya, ing dina tartamtu. Lungguh bebarengan, ngrungokake musik, utawa ndeleng kahanan ing njaba bisa wae wis cukup. Yen wong mandheg seneng karo apa wae sajrone pirang-pirang minggu, kandhakna marang doktese, amarga susahing ati, lara, utawa masalah kesehatan liyane bisa dadi salah sijine sebabe."
+  - q: "Napa dheweke nolak perkara sing biyen disenengi?"
+    a: "Kegiyatan sing biyen disenengi bisa dadi ngrantasi nalika saiki mbutuhake kabisan sing dadi luwih angel amarga demensia, lan wong mau bisa rumangsa isin. Coba bagean sing luwih gampang saka kegiatan sing padha, kayata milah kancing tinimbang njahit, utawa ndeleng gambar kebon tinimbang nandur."
+  - q: "Apa aku kudu nyoba ngyakinake dheweke?"
+    a: "Ora. Meksa wong nindakake perkara sing dadi angel amarga demensia iku kalebu pemicu kegelisahan sing wis dikenal. Tampa wangsulan ora, ganti topik, lan tawakake maneh mengko utawa kanthi cara sing beda."
+  - q: "Kapan owah-owahan prilaku dadi darurat?"
+    a: "Telpon 911 yen ana wong sing ana ing bebaya utawa nuduhake tandha-tandha darurat medis. Kanggo kebingungan dadakan utawa prilaku sing owah cepet sajrone pirang-pirang jam utawa dina, utamane yen ana demam, infeksi, utawa obat anyar, langsung hubungi doktese."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -51,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Panjenengan sampun nyawisaken sedaya, nawisaken dolanan utawi mlampah, lan mireng "Boten." Utawi kegiatan menika wiwitanipun sae nanging pungkasanipun tablet dipundorong lan wonten tembung ingkang atos. Menika nyuda semangat, lan menika limrah sanget. Boten purun lan jengkel limrahipun pesen, sanes bandel. Madosi punapa pesenipun asring nuduhaken punapa ingkang kedah dipuncobi candhakipun.
+Panjenengan wis nyiapake kabeh, nawakake dolanan utawa mlaku-mlaku, banjur krungu, “Ora.” Utawa kegiatane diwiwiti kanthi apik nanging pungkasane tablet disingkirake lan ana tembung sing kasar. Iku pancen bisa nggawe kuciwa, lan iku asring kedadeyan. Penolakan lan rasa jengkel biasane minangka pesen, dudu watak wangkal. Ngerteni apa pesene asring bisa nuduhake apa sing bisa dicoba sabanjure.
 
-## Kenging punapa tiyang demensia boten purun nindakaken kegiatan?
+## Napa wong sing urip karo demensia nolak kegiatan?
 
-Limrahipun wonten sababipun, senajan tiyang menika boten saged ngandharaken kanthi tembung. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) nyariyosaken bilih nolak saged tegesipun tiyang menika boten saged nindakaken pakaryan menika utawi ajrih nyobi. Sabab ingkang limrah kalebet:
+Biasane ana sebabe, sanajan wong mau ora bisa ngandhakake nganggo tembung. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) nyebutake yen penolakan bisa ateges wong mau ora bisa nindakake tugase utawa wedi nyoba. Sebab-sebab sing umum kalebu:
 
-- **Karaos awrat sanget.** Kegiatan menika sapunika mbetahaken kaprigelan ingkang dipundamel awrat dening demensia, lan gagal wonten ngajengipun tiyang sanes menika ndadosaken isin.
-- **Karaos kados laré.** Tiyang diwasa ngaosi gambar kartun, swanten kados nembang, lan kegiatan ingkang katingal kados dipundamel kangge laré.
-- **Sayah.** Kathah tiyang gadhah tenaga langkung sekedhik ing wekdal ingkang langkung sonten. Mirsani [kegiatan tentrem ing sonten](/caregiving/late-day-restlessness/).
-- **Boten sekeca badan.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nyebataken nyeri, kirang tilem, susah mirsani utawi mirengaken, sembelit, ngelih, ngelak, lan efek samping obat énggal minangka sabab ingkang saged damel susah.
-- **Kathah sanget ingkang kedadosan.** TV ingkang seru, kathah rembagan, utawi ruangan ingkang kebak saged nyesaki.
-- **Karaos dipundorong.** NIA nyebataken dipundorong nindakaken ingkang sampun dipundamel awrat sanget dening Alzheimer, utawi ngeling-eling kedadosan utawi tiyang, minangka sabab gelisah.
-- **Swasana manah andhap.** Ical remen dhateng bab-bab saged dados tandha depresi, ingkang prayogi dipunrembag kaliyan dokter.
-- **Namung boten kersa.** Tiyang diwasa kagungan hak ngandika boten.
+- **Krasa angel banget.** Kegiatan mau saiki mbutuhake kabisan sing dadi angel amarga demensia, lan gagal ing ngarepe wong liya bisa nggawe isin.
+- **Krasa kaya bocah-bocahan.** Wong diwasa bisa ngerti gambar sing kaya kartun, swara sing kaya nyanyi-nyanyi, lan kegiatan sing katon kaya digawe kanggo bocah.
+- **Sayah.** Akeh wong sing tenagane luwih sithik ing wayah sore. Delengen [kegiatan sing nyenengake ing wayah sore](/caregiving/late-day-restlessness/).
+- **Ora kepenak ing awak.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nyebutake lara, kurang turu, angel ndeleng utawa krungu, sembelit, luwe, ngelak, lan efek samping saka obat anyar minangka sabab sing bisa nyebabake rasa ora kepenak.
+- **Kakehan rangsangan.** TV sing banter, pirang-pirang obrolan, utawa kamar sing rame bisa nggawe kewalahan.
+- **Rumangsa dipeksa.** NIA nyebutake dipeksa nindakake perkara sing dadi angel banget amarga Alzheimer, utawa dipeksa ngeling-eling kedadeyan utawa wong, minangka salah sijine sebab kegelisahan.
+- **Atine lagi sedhih.** Kelangan minat marang perkara-perkara bisa dadi tandha depresi, sing patut dicritakake marang dokter.
+- **Dheweke mung ora pengin.** Wong diwasa nduweni hak kanggo kandha ora.
 
-## Punapa ingkang kedah kula cobi manawi piyambakipun ngandika boten?
+## Apa sing kudu dicoba nalika dheweke kandha ora?
 
-Tampi boten kanthi tentrem, lajeng ewahi sesuatu: wekdalipun, kegiatanipun, tingkat awratipun, utawi cara panjenengan nyuwun.
+Tampa wangsulan ora kanthi tenang, banjur ganti saperangan: wektune, kegiatane, tingkat kangelane, utawa carane panjenengan takon.
 
-1. **Lalekaken sapunika.** "Boten punapa-punapa. Mbok menawi mangké." Lajeng pindhah dhateng sanes tanpa ngambegan awrat.
-2. **Cobi malih mangké.** Alzheimer's Association nyaranaken nyobi malih mangké, utawi ing wekdal ingkang benten ing dinten.
-3. **Damel langkung alit.** Setunggal pasangan, sanes sedaya dolanan. Setunggal anduk, sanes sedaya kranjang umbah-umbah. Gambar langkung sekedhik, pilihan langkung sekedhik, gambar tetep katingal.
-4. **Tawisaken kalih pilihan.** "Panjenengan kersa mirsani gambar manuk utawi mirengaken musik?" Pilihan maringaken raos ngawasi malih.
-5. **Nyuwun pitulungan, sanes pagelaran.** "Saged panjenengan mbiyantu kula milah menika?" utawi "Saged panjenengan ngandhani warni pundi ingkang katingal paling sae?" Dipunbetahaken menika karaos benten sanget kaliyan dipunuji.
-6. **Wiwiti piyambak.** Wiwiti kegiatan wonten sacelakipun tanpa nyuwun. Kathah tiyang tumut sanalika wonten ingkang sampun mlampah, lan manawi boten, panjenengan taksih sampun nglampahi wekdal sesarengan.
-7. **Pindhah dhateng ingkang obah utawi nentremaken.** Mlampah cekak, musik, camilan, nlipet umbah-umbah, utawi ngaso [ambegan tentrem](/games/calm-breathing/) sesarengan. NIA nyaranaken ngalihaken kawigatosan dhateng musik, buku, utawi mlampah.
-8. **Aturi piyambakipun nindakaken kanthi caranipun.** Manawi piyambakipun kepéngin dolanan benten saking aturan, ndherekaken. Alzheimer's Association nyaranaken supados luwes.
+1. **Endhekna dhisik.** “Ora apa-apa. Mungkin mengko.” Banjur nerusake menyang perkara liya tanpa ambegan dawa.
+2. **Coba maneh mengko.** Alzheimer's Association nyaranake nyoba maneh mengko, utawa ing wektu sing beda ing dina iku.
+3. **Gawe luwih cilik.** Siji pasangan wae tinimbang dolanan kabeh. Siji andhuk wae tinimbang kranjang umbah-umbah. Gambar luwih sithik, pilihan luwih sithik, gambar tetep katon.
+4. **Tawakake rong pilihan.** “Panjenengan luwih seneng ndeleng gambar manuk utawa ngrungokake musik?” Pilihan bisa mbalekake rasa bisa ngontrol.
+5. **Nyuwun tulung tinimbang njaluk nuduhake kabisan.** “Apa panjenengan bisa nulungi aku milah iki?” utawa “Miturut panjenengan, warna endi sing paling apik?” Rumangsa dibutuhake iku rasane beda banget karo rumangsa dites.
+6. **Wiwiti dhewe.** Wiwiti kegiatane ing sandhinge dheweke tanpa takon. Akeh wong sing melu nalika ana sing wis lumaku, lan yen ora, panjenengan isih tetep nglampahi wektu bebarengan.
+7. **Ganti menyang perkara sing fisik utawa nyenengake.** Mlaku sedhela, ngrungokake musik, dhaharan cilik, lempit umbah-umbah, utawa ngaso [ambegan tenang](/games/calm-breathing/) bareng. NIA nyaranake ngalihake perhatian menyang musik, buku, utawa mlaku-mlaku.
+8. **Keparenga nindakake kanthi carane dhewe.** Yen dheweke pengin dolanan kanthi cara sing beda saka aturane, turuti wae. Alzheimer's Association nyaranake supaya luwes.
 
-## Punapa ingkang kedah kula andhikakaken manawi piyambakipun jengkel?
+## Apa sing kudu dakkandhakake nalika dheweke jengkel?
 
-Alon-alon, cekapaken swanten panjenengan, lan nentremaken. [Pitedah Alzheimer's Association bab gelisah](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) nyaranaken mundur lan nyuwun idin, ngginakaken ukara ingkang tentrem lan positif, lan nawisaken pilihan ingkang dipuntuntun antawis kalih. Ukara ingkang sejiwa:
+Alon-alon, suda swarane, lan wenehana panglipur. [Pandhuan Alzheimer's Association babagan kegelisahan](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) nyaranake supaya mundur lan njaluk idin, nggunakake ukara sing tenang lan positif, lan menehi pilihan sing dituntun antarane rong perkara. Tuladha ukara kanthi semangat sing padha:
 
-- "Nyuwun pangapunten, ingkang menika damel jengkel. Mangga kita mandhegaken."
-- "Panjenengan sampun sae. Kula wonten ing mriki."
-- "Panjenengan gadhah wekdal kangge mbiyantu kula bab sanes?"
-- "Mangga kita ngunjuk teh kemawon?"
+- “Ngapunten, sing iki ngganggu ya. Ayo mandheg.”
+- “Panjenengan wis becik. Aku ana ing kene.”
+- “Apa panjenengan duwe wektu nulungi aku perkara liyane?”
+- “Piye yen ngombe teh wae?”
 
-Lajeng pungkasana kegiatan tanpa ndadosaken perkara ageng. [Pitedah komunikasi](/caregiving/communication-tips/) kawula gadhah langkung kathah bab punapa ingkang kedah dipunandikakaken.
+Banjur pungkasane kegiatane tanpa digawe dadi perkara gedhe. [Tips komunikasi](/caregiving/communication-tips/) kita nduweni luwih akeh katrangan babagan apa sing bisa diucapake.
 
-## Punapa ingkang kedah dipunsingkiri?
+## Apa sing kudu disingkiri?
 
-Sawetawis tanggapan alami cenderung ndadosaken kahanan langkung awon.
+Sawetara reaksi sing lumrah asring malah nggawe kahanan luwih abot.
 
-- **Mbantah utawi meksa.** "Ayo, namung sepisan malih" utawi "Panjenengan remen menika" arang mbiyantu.
-- **Nguji utawi mbenerake.** "Panjenengan sumerep menika punapa" utawi "Boten, menika lepat" nambah tekanan.
-- **Nganggep pribadi.** NIA ngelingaken tiyang ingkang ngrawat bilih penyakitipun, sanes tiyangipun, ingkang nyebabaken ewah-ewahan menika.
-- **Nyesaki utawi kesesa.** Alzheimer's Association nyaranaken boten nginggilaken swanten, nuduhaken kaget, ngepung, nyesaki, ngempet, ngritik, ngabaikan, utawi mbantah tiyang menika, lan nyingkiri obahan dumadakan ingkang medal saking pandulunipun.
-- **Ngginakaken raos lepat.** "Kula sampun nyawisaken sedaya menika kangge panjenengan" ndadosaken kalih-kalihipun ngraos langkung awon.
-- **Maringi label.** "Bandel" utawi "awrat dipunadhepi" ndhelikaken sabab ingkang saestu lan ndadosaken langkung awrat dipunrampungaken.
+- **Mbantah utawa meksa.** “Ayo, siji maneh wae” utawa “Panjenengan seneng iki, lho” arang banget bisa mbantu.
+- **Nguji utawa mbenerake.** “Panjenengan ngerti iki apa” utawa “Ora, sing kuwi salah” nambah tekanan.
+- **Nganggep pribadi.** NIA ngelingake para sing ngrawat yen penyakit, dudu wong mau, sing nyebabake owah-owahan iki.
+- **Kakehan nyedhaki utawa kesusu.** Alzheimer's Association nyaranake supaya ora nambah banter swara, ora nuduhake rasa panik, ora pojokake, ora kakehan nyedhaki, ora nahan, ora ngritik, ora nglirwakake, lan ora mbantah wong mau, uga ngindhari gerakan dadakan sing ora katon saka pandelenge.
+- **Nggunakake rasa salah.** “Aku wis nyiapake kabeh iki kanggo panjenengan” nggawe panjenengan loro-lorone dadi luwih ora kepenak.
+- **Menehi cap.** “Wangkot” utawa “angel diatur” nutupi sebab sing sejatine lan nggawe luwih angel kanggo ditanggulangi.
 
-## Kados pundi madosi punapa ingkang wonten wingking boten purun ingkang bola-bali?
+## Kepiye carane ngerti apa sing ana ing mburi penolakan sing bola-bali?
 
-Cathet kanthi prasaja salebeting setunggal utawi kalih minggu. NIA ngandika bilih nglacak ewah-ewahan tindak-tanduk saged mbiyantu ingkang ngrawat lan penyedia layanan kasarasan mangertos pola lan mangertos sababipun.
+Gawe cathetan prasaja sajrone seminggu utawa rong minggu. NIA nyebutake yen nyathet owah-owahan prilaku bisa mbantu wong sing ngrawat lan tenaga kesehatan ngerti polane lan nggoleki sebabe.
 
-Cathet:
+Catheten:
 
-- wekdal ing dinten;
-- punapa ingkang panjenengan tawisaken lan kados pundi panjenengan nyuwun;
-- punapa ingkang kedadosan ing sakiwa tengen (swanten, tamu, TV);
-- kados pundi tilemipun, dhahar, lan unjukanipun, lan kapan pungkasan dhateng jamban;
-- obat énggal menapa kemawon utawi gerah ingkang énggal.
+- wektune;
+- apa sing panjenengan tawakake lan kepiye carane panjenengan takon;
+- apa sing kedadeyan ing sakupenge (rame, tamu, TV);
+- kepiye turu, mangan, lan ngombene, lan kapan pungkasan menyang jedhing;
+- obat anyar utawa penyakit sing lagi wae dialami.
 
-Pola asring katingal enggal: boten purun ingkang namung kedadosan sasampunipun jam 4 sonten, namung kaliyan dolanan tartamtu, utawi namung nalika TV murup. [Pandhuan tindak-tanduk demensia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) saking Family Caregiver Alliance ngandharaken kanthi prasaja: kita boten saged ngewahi tiyang menika, nanging kita saged ngewahi tindak-tanduk kita piyambak lan lingkungan.
+Pola asring katon kanthi cepet: penolakan sing mung kedadeyan sawise jam 4 sore, mung karo dolanan tartamtu, utawa mung nalika TV urip. [Pandhuan babagan prilaku demensia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) saka Family Caregiver Alliance nyebutake kanthi prasaja: kita ora bisa ngganti wong mau, nanging kita bisa ngganti prilaku kita dhewe lan lingkungane.
 
-## Kapan kedah rembagan kaliyan dokter bab boten purun utawi jengkel?
+## Kapan aku kudu ngobrol karo dokter babagan penolakan utawa rasa jengkel?
 
-Rembagan kaliyan dokter manawi tindak-tanduk ewah dumadakan, cepet, utawi sesarengan kaliyan tandha gerah. NIA ngandika bilih ewah-ewahan tindak-tanduk ingkang dumadakan utawi cepet obah, langkung-langkung manawi tiyang menika nembe ngalami infeksi utawi ewah obat, kedah sanalika dipunpanggihaken dhateng dokter.
+Ngobrol karo dokter nalika prilaku owah kanthi dadakan, cepet, utawa bebarengan karo tandha-tandha lara. NIA nyebutake yen owah-owahan prilaku sing dadakan utawa cepet fluktuatif, utamane yen wong mau lagi nandhang infeksi utawa bubar ana owah-owahan obat, kudu enggal dikandhakake marang dokter.
 
-Enggal hubungi dokteripun manawi panjenengan mangertos:
+Enggal hubungi doktese yen panjenengan weruh:
 
-- bingung dumadakan utawi ewah ageng salebeting jam utawi dinten;
-- tandha nyeri, kadosta mringis, nyekeli bageyan badan, utawi kesulitan obah ingkang énggal;
-- demam utawi tandha infeksi sanes;
-- obat énggal utawi ingkang dipunewahi ingkang dipunsusul ewah-ewahan tindak-tanduk;
-- ical remen dhateng meh sedaya, nangis, utawi nyingkir ingkang langkung saking kalih minggu;
-- nolak dhahar utawi ngunjuk.
+- kebingungan dadakan utawa owah-owahan gedhe sajrone pirang-pirang jam utawa dina;
+- tandha-tandha lara, kayata mringis, njaga bagean awak tartamtu, utawa dadi angel obah kanthi cara sing anyar;
+- demam utawa tandha-tandha infeksi liyane;
+- obat anyar utawa owah-owahan obat sing disusul owah-owahan prilaku;
+- kelangan minat marang meh kabeh perkara, gampang nangis, utawa narik diri sing suwene luwih saka sawetara minggu;
+- nolak mangan utawa ngombe.
 
-Alzheimer's Association nyaranaken pamriksan medis ingkang saestu kangge sinten kemawon ingkang gadhah gejala tindak-tanduk, langkung-langkung manawi katingal dumadakan. Family Caregiver Alliance ugi nyaranaken mriksa kaliyan dokter rumiyin, amargi masalah tindak-tanduk saged gadhah sabab medis. Ampun miwiti, mandhegaken, utawi ngewahi obat menapa kemawon tanpa rembagan kaliyan dokter utawi apoteker.
+Alzheimer's Association nyaranake pamriksan medis sing pepek kanggo sapa wae sing nduweni gejala prilaku, utamane yen katon kanthi dadakan. Family Caregiver Alliance uga nyaranake mriksa dhisik menyang dokter, amarga masalah prilaku bisa uga nduweni sebab medis. Aja miwiti, mandhegake, utawa ngganti obat apa wae tanpa ngobrol dhisik karo dokter utawa apoteker.
 
-Manawi wonten tiyang ingkang bebaya utawi wonten tandha darurat medis, telpun nomer darurat ing wewengkon panjenengan. NIA nyaranaken ngandhani petugas ingkang nampi telpun bilih tiyang menika gadhah demensia.
+Yen ana wong sing ana ing bebaya utawa ana tandha-tandha darurat medis, telpon 911. NIA nyaranake supaya ngandhani petugas yen wong mau urip karo demensia. Kanggo langkah-langkah keamanan langsung nalika nesu dadi tumindak fisik, delengen [pandhuan kita babagan nesu lan agresi ing demensia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Punapa boten punapa-punapa manawi kita boten nindakaken punapa-punapa?
+## Apa ora apa-apa yen kita ora nindakake apa-apa?
 
-Boten punapa-punapa. Sawetawis dinten, kegiatan ingkang paling sae inggih menika boten wonten kegiatan: lenggah sesarengan, nggandheng asta, mirengaken lagu kesenengan, utawi mirsani manuk saking jendhela. Menika sanes kegagalan. [Pandhuan dolanan sesarengan](/caregiving/how-to-play-together/) kawula ngandharaken kenging punapa mandheg langkung rumiyin, utawi boten miwiti babar pisan, saged dados pilihan ingkang leres.
+Iya. Ing sawetara dina, kegiatan sing paling apik yaiku ora ana kegiatan: lungguh bebarengan, gandhengan tangan, ngrungokake rekaman favorit, utawa ndeleng manuk saka jendhela. Iku dudu kegagalan. [Pandhuan kita babagan dolanan bebarengan](/caregiving/how-to-play-together/) nerangake napa mandheg luwih cepet, utawa ora diwiwiti babar pisan, bisa dadi pilihan sing bener.

@@ -1,33 +1,34 @@
 ---
-title: "Helppo tietovisa ikääntyneille dementiaa sairastaville ilman painetta"
-seoTitle: "Helppo tietovisa dementiaan: 50 kysymystä"
-description: "50 helppoa tietovisakysymystä dementiaa sairastaville vastausvaihtoehtoineen ja keskustelunaiheineen sekä ohjeet lempeään tietovisaan."
+title: "Helppo tietovisa muistisairaille aikuisille ilman painetta"
+seoTitle: "Tietovisakysymyksiä muistisairaille aikuisille"
+description: "Viisikymmentä helppoa tietovisakysymystä muistisairaille aikuisille vastausvaihtoehtoineen ja keskusteluaiheineen sekä vinkkejä rentoon visailuun."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Helppo tietovisa ikääntyneille dementiaa sairastaville toimii, kun se tuntuu
-  keskustelulta eikä kokeelta. Kysykää asioista, jotka on opittu kauan sitten,
-  kuten vanhoista lauluista, sanonnoista, juhlista ja arjesta, ja tarjotkaa aina
-  kaksi tai kolme vaihtoehtoa. Antakaa vastaus vapaasti, älkää nostako ketään esiin,
-  jättäkää pisteet pois ja käyttäkää jokaista vastausta tarinan aloittamiseen.
-  Kyllä vai ei -kysymykset ilman väärää vastausta sopivat myöhempiin vaiheisiin.
+  Helppo tietovisa toimii muistisairaan aikuisen kanssa, kun se tuntuu
+  keskustelulta eikä kokeelta. Kysykää kauan sitten opituista asioista, kuten
+  vanhoista lauluista, sanonnoista, juhlapyhistä ja arjesta, ja tarjoa aina
+  kaksi tai kolme vaihtoehtoa. Kertokaa oikea vastaus lämpimästi, älkää koskaan
+  laittako ketään yksin vastuuseen, jättäkä pisteet pois ja käyttäkää jokaista
+  vastausta tarinan alkuna. ”Tämä vai tuo” -kysymykset, joissa ei ole väärää
+  vastausta, sopivat myöhempiin vaiheisiin.
 keyPoints:
-  - "Kysykää pitkään tutuista asioista: lauluista, sanonnoista, juhlista, ruoista ja arjesta vuosien takaa."
-  - "Tarjotkaa kaksi tai kolme vaihtoehtoa, jotta vastaus voidaan tunnistaa eikä muistaa."
-  - "Sanokaa vastaus lämpimästi ja jatkakaa. Jokainen arvaus, josta alkaa tarina, on hyvä arvaus."
-  - "Ei pisteitä, ei joukkueita, jotka kilpailevat, eikä yhden ihmisen nimeämistä. Antakaa vastausten tulla koko huoneelta."
-  - "Kun vastausten valitseminen käy vaikeaksi, siirtykää kyllä tai ei -kysymyksiin, joissa ei ole väärää vastausta."
+  - "Kysykää kauan tutuista asioista: lauluista, sanonnoista, juhlapyhistä, ruoasta ja vuosien takaisesta arjesta."
+  - "Tarjotkaa kaksi tai kolme vaihtoehtoa, jotta vastaus voidaan tunnistaa eikä sitä tarvitse muistaa tyhjästä."
+  - "Kertokaa vastaus lämpimästi ja jatkakaa eteenpäin. Mikä tahansa arvaus, josta alkaa tarina, on hyvä arvaus."
+  - "Ei pisteitä, ei kilpailevia joukkueita, ei yksittäisen henkilön puhuttelua. Antakaa vastausten tulla koko ryhmältä."
+  - "Kun vastausten valitseminen tuntuu vaikealta, siirtykää ”tämä vai tuo” -kysymyksiin, joissa ei ole oikeaa vastausta."
 faq:
-  - q: "Onko tietovisa hyvä toiminta dementiaa sairastaville?"
-    a: "Voi olla, jos se järjestetään lempeästi. Alzheimer’s Foundation of America luettelee tietovisat alkuvaiheen toimintoina. Pitäkää kysymykset tutuissa asioissa, tarjotkaa vaihtoehtoja, älkää asettako ketään yksin kiusalliseen tilanteeseen ja käsitelkää vastauksia keskustelun aloituksena, ei koetilanteena."
-  - q: "Mitkä aiheet toimivat parhaiten dementian tietovisassa?"
-    a: "Kauan sitten opitut asiat toimivat yleensä parhaiten: henkilön nuoruuden suosituet laulut ja laulajat, tutut sanonnat, juhlat, ruoka, urheilu ja arki, kuten maidonkuljetus ja kiekkopuhelin. Vältä uutisia ja kaikkea, mikä edellyttää jonkin muistamista aiemmin samassa istunnossa."
-  - q: "Miten pidän tietovisan hoivakodissa niin, ettei kukaan joudu noloon tilanteeseen?"
-    a: "Lukekaa jokainen kysymys koko ryhmälle, näyttäkää tai sanokaa vaihtoehdot ja toivottakaa vastaukset tervetulleiksi keneltä tahansa. Älkää nostako yksittäisiä ihmisiä esiin tai pitäkää pisteitä. Sanokaa vastaus hymyillen, mitä ikinä arvattiin, ja kysykää jatkokysymys, kuten ”Kuka täällä on koskaan käynyt autokinossa?”, jotta siitä tulee tarinoita."
-  - q: "Mitä voin tehdä tietovisan sijaan myöhäisvaiheessa?"
-    a: "Siirtykää kysymyksiin, joissa ei ole väärää vastausta, kuten ”Kahvi vai tee?” tai ”Ranta vai vuoret?”, sekä tuttujen sanontojen tai laulujen lopettamiseen yhdessä. Kuvien katsominen ja niiden kuvaileminen yhdessä toimii myös hyvin."
+  - q: "Sopiiko tietovisa muistisairaille ihmisille?"
+    a: "Voi sopia, jos se toteutetaan lempeästi. Alzheimer’s Foundation of America mainitsee tietovisan varhaisen vaiheen aktiviteettien joukossa. Pitäkää kysymykset kauan tutuissa aiheissa, tarjoa vaihtoehtoja, älkää koskaan laittako yhtä ihmistä pinteeseen ja kohdellkaa vastauksia keskustelun avauksina eikä kokeena."
+  - q: "Mitkä aiheet sopivat parhaiten muistisairaiden tietovisaan?"
+    a: "Kauan sitten opitut asiat toimivat yleensä parhaiten: suositut laulut ja laulajat henkilön nuoruudesta, tutut sanonnat, juhlapyhät, ruoka, urheilu ja arki, kuten maidon toimitukset kotiin ja lankapuhelimet. Välttäkää tuoreita uutisia ja kaikkea, mikä vaatii muistamaan jotain aiemmin istunnon aikana kerrottua."
+  - q: "Miten tietovisan voi järjestää hoivakodissa ilman, että kukaan nolostuu?"
+    a: "Lukekaa jokainen kysymys koko ryhmälle, näyttäkää tai sanokaa vaihtoehdot ja toivottakaa vastauksia keneltä tahansa. Älkää puhutelko yksittäisiä henkilöitä älkääkä pitäkö pisteitä. Kertokaa vastaus hymyillen arvatusta riippumatta ja esittäkää jatkokysymys, kuten ”Kuka täällä on käynyt drive-in-elokuvissa?”, jotta visailu muuttuu tarinoiksi."
+  - q: "Mitä voi tehdä tietovisan sijaan myöhemmissä vaiheissa?"
+    a: "Siirtykää kysymyksiin, joissa ei ole väärää vastausta, kuten ”Kahvi vai tee?” tai ”Ranta vai vuoret?”, ja tuttujen sanontojen tai laulujen yhdessä täydentämiseen. Myös kuvien katselu ja niistä yhdessä kertominen toimii hyvin."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,107 +47,107 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Tietovisa on yksi eniten pyydetyistä ryhmätoiminnoista hoivakodeissa ja päivätoiminnassa, ja monet perheet pelaavat sitä myös keittiön pöydän ääressä. Tavallisella tavalla, pisteiden ja yhden vastaajan kanssa, se voi jättää dementiaa sairastavan tuntemaan itsensä nolatuksi. Lempeästi järjestettynä se on eloisa tapa kuulla tarinoita. Alla on 50 helppoa kysymystä vastausvaihtoehtoineen ja keskustelunaiheineen sekä ohjeet istunnon järjestämiseen.
+Tietovisa on yksi pyydetyimmistä ryhmäaktiviteeteista hoivakodeissa ja päivätoiminnassa, ja monet perheet pelaavat sitä myös kotona keittiön pöydän ääressä. Tavalliseen tapaan pisteiden kanssa ja yhden henkilön vastatessa se voi saada muistisairaan ihmisen tuntemaan olonsa ahtaaksi. Lempeästi toteutettuna se on eläväinen tapa kuulla tarinoita. Alla on viisikymmentä helppoa kysymystä vastausvaihtoehtoineen ja jokaiselle jotakin, mistä keskustella, sekä lopuksi ohjeet visailun järjestämiseen.
 
-## Miten teen tietovisasta toimivan dementiaa sairastavalle?
+## Miten tietovisasta voi tehdä toimivan muistisairaalle ihmiselle?
 
-Tehkää siitä tunnistamisesta ja kauan sitten opittujen asioiden muistamisesta, ja tehkää jokaisesta vastauksesta tervetullut.
+Tehkää siitä tunnistamisen ja kauan sitten koettujen asioiden muistamisen hetki, ja ottakaa jokainen vastaus vastaan iloisesti.
 
-1. **Kysykää kaukaisesta menneisyydestä.** [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) sanoo, että Alzheimerin taudin yleisin varhainen oire on vaikeus muistaa äsken opittua tietoa. Laulut, sanonnat ja vuosikymmenten takainen arki ovat usein helpompaa maaperää.
-2. **Tarjotkaa aina vaihtoehdot.** Oikean vastauksen valitseminen kahdesta tai kolmesta on paljon helpompaa kuin sen tuottaminen tyhjästä.
-3. **Lukekaa kysymykset ääneen ja näyttäkää ne isolla.** Valkotaulu tai ylös pidetty tabletti auttaa ihmisiä, jotka kuulevat huonosti.
-4. **Antakaa vastaus vapaasti.** Jos kukaan ei tiedä, sanokaa se lämpimästi ja jatkakaa. Älkää koskaan sanoko ”No nyt, tämän sinä tiedät.”
-5. **Ei pisteitä.** Ei yksittäisille ihmisille eikä pöydille. Jos ihmiset haluavat luvun, pitäkää yksi ryhmän kokonaissumma.
-6. **Älkää koskaan nostako yhtä henkilöä esiin.** Antakaa vastausten tulla keneltä tahansa. Kahdenkeskisessä tilanteessa vastatkaa yhdessä: ”Luulen, että se on piano. Mitä sinä ajattelet?”
-7. **Käyttäkää keskustelunaihetta.** Vastaus on alku, ei loppu. Tarinat ovat todellinen tavoite.
-8. **Pitäkää lyhyenä.** Kymmenen kysymystä tarinoiden välissä riittää.
+1. **Kysykää kaukaisesta menneisyydestä.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) kertoo, että Alzheimerin taudin yleisin varhainen oire on vaikeus muistaa äskettäin opittua tietoa. Vuosikymmenten takaiset laulut, sanonnat ja arjen asiat ovat usein helpompia aiheita.
+2. **Tarjotkaa aina vaihtoehtoja.** Oikean vastauksen valitseminen kahdesta tai kolmesta vaihtoehdosta on paljon helpompaa kuin sen tuottaminen tyhjästä.
+3. **Lukekaa kysymykset ääneen ja näyttäkää ne suurina.** Valkotaulu tai ylhäällä pidetty tabletti auttaa niitä, jotka kuulevat heikommin.
+4. **Kertokaa vastaus vapaasti.** Jos kukaan ei tiedä, sanokaa se lämpimästi ja jatkakaa eteenpäin. Älkää koskaan sanoko: ”Kyllähän sinä tämän tiedät.”
+5. **Ei pisteitä.** Ei yksittäisille ihmisille eikä pöydille. Jos joku haluaa luvun, pitäkää yhtä yhteistä ryhmätulosta.
+6. **Älkää koskaan puhutelko yhtä henkilöä.** Antakaa vastausten tulla keneltä tahansa. Kahdenkeskisessä tilanteessa vastatkaa yhdessä: ”Minusta se on piano. Mitä sinä ajattelet?”
+7. **Hyödyntäkää keskusteluaihe.** Vastaus on alku, ei loppu. Tarinat ovat varsinainen tavoite.
+8. **Pitäkää visailu lyhyenä.** Kymmenen kysymystä ja tarinoita niiden välissä on aivan riittävästi.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kiteyttää perussäännön yksinkertaisesti: seuratkaa turhautumista ja varmistakaa, että henkilö kokee onnistumista. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) luettelee tietovisat alkuvaiheen toimintoina. Keskivaiheessa pitäkää kaksi vaihtoehtoa ja nojatkaa keskustelunaiheisiin. Myöhemmin siirtykää alempana oleviin tämä vai tuo -kysymyksiin.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kiteyttää perussäännön näin: tarkkailkaa turhautumista ja varmistakaa, että ihminen kokee onnistuvansa. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mainitsee tietovisan varhaisen vaiheen aktiviteettien joukossa. Keskivaiheessa pitäytykää kahdessa vaihtoehdossa ja nojatkaa keskusteluaiheisiin. Myöhemmin siirtykää alempana oleviin ”tämä vai tuo” -kysymyksiin.
 
-## Musiikki- ja viihdetietovisa
+## Musiikki- ja viihdevisailu
 
-Vastaus on **lihavoitu**. Mukauttakaa nämä henkilölle: Motownin kanssa kasvaneelle kannattaa valita eri laulajat kuin big bandien kanssa kasvaneelle.
+Oikea vastaus on **lihavoitu**. Sovittakaa kysymykset henkilön mukaan: joku, joka on kasvanut Motownin parissa, haluaa kuulla eri laulajista kuin joku, joka on kasvanut big bandien aikaan.
 
-| Kysymys | Vaihtoehdot | Keskustelunaihe |
+| Kysymys | Vaihtoehdot | Keskustelkaa |
 | --- | --- | --- |
-| Kuka sai lempinimen Rock and rollin kuningas? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Näitkö koskaan Elviksen televisiossa? |
-| Mikä laulaja sai lempinimen Ol’ Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Mikä Sinatran laulu on sinusta paras? |
-| Bing Crosby unelmoi valkoisesta... | **Joulusta**, häistä, talosta | Laulakaa yhdessä rivi |
-| Louis Armstrong lauloi ”What a Wonderful...” | Päivä, **World** (maailma), Elämä | Mikä tekee maailmasta sinusta ihanan? |
-| Missä elokuvassa Judy Garland lauloi ”Over the Rainbow”? | **The Wizard of Oz** (Ihmemaa Oz), Tuulen viemää, Singin’ in the Rain | Missä näit lempielokuvasi? |
+| Ketä kutsuttiin rock and rollin kuninkaaksi? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Näitkö Elviksen koskaan televisiossa? |
+| Mitä laulajaa kutsuttiin lempinimellä Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Mikä Sinatran laulu on suosikkisi? |
+| Bing Crosby haaveili valkoisesta... | **joulusta**, häistä, talosta | Laulakaa yhdessä säe |
+| Louis Armstrong lauloi ”What a Wonderful...” | Day, **World**, Life | Mikä tekee maailmasta mielestäsi ihanan? |
+| Judy Garland lauloi ”Over the Rainbow” -kappaleen elokuvassa? | **Ihmemaa Oz**, Tuulen viemää, Laulavat sadepisarat | Missä näit suosikkielokuvasi? |
 | Kuka näytteli Lucya sarjassa ”I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Mitä ohjelmia perheesi katsoi yhdessä? |
-| Mikä cowboy ratsasti hevosella nimeltä Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Leikitkö lapsena cowboyta? |
-| Kuka isännöi ”The Tonight Show’ta” 30 vuotta? | Ed Sullivan, **Johnny Carson**, Bob Hope | Valvoitko joskus myöhään katsomassa televisiota? |
-| Millä soittimella on 88 koskettimea? | Kitara, **piano**, trumpetti | Soittiko kukaan perheestänne? |
-| Mikä tanssi lasketaan yksi-kaksi-kolme, yksi-kaksi-kolme? | **Valssi**, twist, tango | Missä kävitte tanssimassa? |
+| Mikä cowboy ratsasti hevosella nimeltä Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Leikitkö lapsena cowboysta? |
+| Kuka juonsi ”The Tonight Show’ta” kolmenkymmenen vuoden ajan? | Ed Sullivan, **Johnny Carson**, Bob Hope | Valvoitko myöhään katsomaan televisiota? |
+| Missä soittimessa on 88 kosketinta? | Kitara, **piano**, trumpetti | Soittiko joku perheessäsi? |
+| Mikä tanssi lasketaan yksi-kaksi-kolme, yksi-kaksi-kolme? | **Valssi**, twist, tango | Missä kävit tanssimassa? |
 
-Lisää musiikista katso [musiikkitoiminnat dementiaan](/activities/music/).
+Lisää musiikista löydät sivulta [musiikkiaktiviteetit muistisairaille](/activities/music/).
 
 ## Arjen tietovisa
 
-| Kysymys | Vaihtoehdot | Keskustelunaihe |
+| Kysymys | Vaihtoehdot | Keskustelkaa |
 | --- | --- | --- |
-| Ennen jääkaappeja monet kotitaloudet säilyttivät ruokaa kylmänä... | **Jääkaapissa** (jääkaapissa), uunissa, ullakolla | Kuka toi jään? |
-| Kuka toi maidon ovelle lasipulloissa? | Postinkantaja, **maidonkuljettaja**, lehtipojat | Mitä muuta taloon tuotiin? |
-| Miten kiekkopuhelinta soitettiin? | Painamalla nappeja, **kääntämällä pyörää**, puhumalla sille | Kerro puhelimesta talossanne |
+| Ennen jääkaappeja monissa kodeissa ruokaa pidettiin kylmänä... | **jääkaapissa (icebox)**, uunissa, ullakolla | Kuka toi jäitä? |
+| Kuka toi maidon ovelle lasipulloissa? | Postinkantaja, **maitomies**, lehdenjakaja | Mitä muuta kotiin toimitettiin? |
+| Miten lankapuhelimen numerolevyä käytettiin? | Painamalla nappeja, **pyörittämällä levyä**, puhumalla sille | Kerro talonne puhelimesta |
 | Mikä yhtiö valmisti Model T -auton? | **Ford**, Chevrolet, Buick | Kerro autosta, josta pidit |
-| Missä tapasi työskennellä soda jerk? | **Limonadibaarissa**, leipomossa, pankissa | Mitä tilasit tiskiltä? |
-| Mikä lelu on metallinen jousi, joka osaa kävellä portaita alas? | Jojo, **Slinky**, hula hoop | Mistä leluista pidit? |
-| Autokino oli paikka, jossa katsottiin... | **Elokuvia autosta käsin**, pallopelejä, paraateja | Kenen kanssa menitte? |
+| Mistä löysi soda jerkin? | **Jäätelöbaarista**, leipomosta, pankista | Mitä tilasit tiskiltä? |
+| Mikä lelu on metallijousi, joka voi kävellä portaita alas? | Jojo, **Slinky**, hula-vanne | Mistä leluista pidit eniten? |
+| Drive-in oli paikka, jossa katsottiin... | **elokuvia autosta**, pallopelejä, paraateja | Kenen kanssa menit? |
 | Kenen kasvot ovat yhden dollarin setelissä? | Lincoln, **George Washington**, Jefferson | Mitä dollarilla sai silloin? |
-| Kenen kasvot ovat sentissä? | **Abraham Lincoln**, Washington, Franklin | Säästitkö silloin sentit purkkiin? |
-| Minkä värinen koulubussi yleensä on? | Punainen, **keltainen**, sininen | Miten pääsitte kouluun? |
+| Kenen kasvot ovat yhden sentin kolikossa? | **Abraham Lincoln**, Washington, Franklin | Säästitkö senttejä purkkiin silloin? |
+| Minkä värinen koulubussi on yleensä? | Punainen, **keltainen**, sininen | Miten menit kouluun? |
 
-## Juhlat, luonto ja paikat
+## Juhlapyhät, luonto ja paikat
 
-| Kysymys | Vaihtoehdot | Keskustelunaihe |
+| Kysymys | Vaihtoehdot | Keskustelkaa |
 | --- | --- | --- |
-| Mikä juhla on marraskuun neljäntenä torstaina? | Työn päivä, **Thanksgiving** (kiitospäivä), muistopäivä | Mikä aina oli pöydässänne? |
-| Kurpitsalyhtyjä tehdään mihin juhlaan? | **Halloween**, pääsiäinen, joulu | Kerro Halloweenista kotikaupungissasi |
-| Heinäkuun neljäs juhlii itsenäisyysjulistusta, jossa julistettiin... | Oikeudet, **Independence** (itsenäisyys), Vapaus | Missä katselitte ilotulituksia? |
-| Mihin kuukauteen äitienpäivä osuu? | Huhtikuu, **toukokuu**, kesäkuu | Miten perheenne juhli? |
-| Kuinka monta tähteä on Yhdysvaltain lipussa? | 48, **50**, 52 | Lipussa oli 48 tähteä vuoteen 1959 asti. Kumpikin vastaus on hyvä muisto |
-| Mikä valtameri on itärannikolla? | Tyynimeri, **Atlantti**, Jäämeri | Oletko koskaan käynyt rannalla? |
-| Missä kaupungissa Vapauden patsas on? | Boston, **New York**, Philadelphia | Oletko käynyt New Yorkissa? |
-| Mitä mehiläiset tekevät? | Maitoa, **hunajaa**, silkkiä | Hunajaa leivän päällä vai teessä? |
-| Mikä on vasikan nimi? | Varsa, **vasikka**, kili | Asuitteko koskaan maatilan lähellä? |
-| Mikä pitkä keltainen kukka kääntyy kohti aurinkoa? | Ruusu, **auringonkukka**, tulppaani | Mitä kasvoi puutarhassanne? |
-| Kuinka monta päivää karkausvuodessa on? | 365, **366**, 360 | Kerro syntymäpäivästä, jonka muistat |
-| Mikä vuodenaika tulee talven jälkeen? | Syksy, **kevät**, kesä | Mikä on lempivuodenaikasi? |
+| Mikä juhlapyhä on marraskuun neljäntenä torstaina? | Labor Day, **kiitospäivä**, Memorial Day | Mitä pöydästäsi löytyi aina? |
+| Kurpitsalyhtyjä tehdään mitä juhlaa varten? | **Halloween**, pääsiäinen, joulu | Kerro Halloweenista siellä, missä kasvoit |
+| Heinäkuun neljäs päivä juhlistaa itsenäisyys... | oikeuksia, **julistusta**, vapautta | Mistä katselit ilotulituksia? |
+| Äitienpäivä on missä kuussa? | Huhtikuussa, **toukokuussa**, kesäkuussa | Miten perheesi vietti sitä? |
+| Kuinka monta tähteä Yhdysvaltain lipussa on? | 48, **50**, 52 | Lipussa oli 48 tähteä vuoteen 1959 asti. Kumpikin vastaus on hyvä muisto |
+| Mikä valtameri on itärannikolla? | Tyyni valtameri, **Atlantin valtameri**, Pohjoinen jäämeri | Oletko koskaan käynyt rannalla? |
+| Missä kaupungissa Vapaudenpatsas sijaitsee? | Boston, **New York**, Philadelphia | Oletko käynyt New Yorkissa? |
+| Mitä mehiläiset tekevät? | Maitoa, **hunajaa**, silkkiä | Hunajaa paahtoleivällä vai teessä? |
+| Lehmän poikanen on nimeltään... | Varsa, **vasikka**, kili | Oletko koskaan asunut lähellä maatilaa? |
+| Mikä pitkä keltainen kukka tunnetaan siitä, että se kääntyy kohti aurinkoa? | Ruusu, **auringonkukka**, tulppaani | Mitä puutarhassasi kasvoi? |
+| Kuinka monta päivää on karkausvuodessa? | 365, **366**, 360 | Kerro syntymäpäivästä, jonka muistat |
+| Mikä vuodenaika tulee talven jälkeen? | Syksy, **kevät**, kesä | Mikä on suosikkivuodenaikasi? |
 
-## Ruoka- ja urheilutietovisa
+## Ruoka- ja urheiluvisailu
 
-| Kysymys | Vaihtoehdot | Keskustelunaihe |
+| Kysymys | Vaihtoehdot | Keskustelkaa |
 | --- | --- | --- |
-| Rusinat ovat kuivattuja... | Luumuja, **viinirypäleitä**, kirsikoita | Pakkasitteko rusinoita eväslaatikoihin? |
-| Luumut ovat kuivattuja... | **Luumuja**, viikunoita, omenoita | Kuka perheessänne rakasti luumuja? |
-| Maapähkinävoi ja... | **Hillo**, juusto, kinkku | Rouhea vai sileä? |
-| Guacamole valmistetaan pääosin... | Herneistä, **avokadoista**, kurkuista | Mitä dippejä juhlissa tarjottiin? |
-| Mikä piirakka on kiitospäivän suosikki? | **Kurpitsapiirakka**, sitruunapiirakka, kirsikkapiirakka | Mitä piirakkaa teit? |
-| Kuinka monta pelaajaa pesäpallojoukkueella on kentällä? | 7, **9**, 11 | Mitä joukkuetta kannustit? |
-| Kuinka monta syöttöä pesäpallossa tekee ulosmenon? | Kaksi, **kolme**, neljä | Pelasitko koskaan palloa? |
-| Babe Ruth oli kuuluisa mistä lajista? | Nyrkkeilystä, **pesäpallosta**, golfista | Kävitkö pelikatsomossa? |
+| Rusinat ovat kuivattuja... | Luumuja, **viinirypäleitä**, kirsikoita | Pakkasitko rusinoita eväisiin? |
+| Luumut ovat kuivattuja... | **Luumuja**, viikunoita, omenoita | Kuka perheessäsi rakasti luumuja? |
+| Maapähkinävoi ja... | **hillo**, juusto, kinkku | Rapea vai pehmeä? |
+| Guacamole tehdään pääasiassa... | Herneistä, **avokadoista**, kurkuista | Mitä dippikastikkeita juhlissa oli tarjolla? |
+| Mikä piirakka on kiitospäivän suosikki? | **Kurpitsa**, sitruuna, kirsikka | Mitä piirakkaa teit? |
+| Kuinka monta pelaajaa baseball-joukkueella on kentällä? | 7, **9**, 11 | Mitä joukkuetta kannatit? |
+| Kuinka monta huonoa lyöntiä baseballissa tekee palon? | Kaksi, **kolme**, neljä | Oletko koskaan pelannut palloa? |
+| Babe Ruth oli kuuluisa mistä urheilulajista? | Nyrkkeily, **baseball**, golf | Kävitkö pallopeleissä? |
 | Kuinka monta reikää tavallisella golfkentällä on? | 9, **18**, 24 | Oletko koskaan pelannut golfia tai minigolfia? |
-| Missä lajissa tehdään touchdown? | **Amerikkalainen jalkapallo**, jääkiekko, koripallo | Kuka katsoi jalkapalloa teillä? |
+| Missä urheilulajissa tehdään touchdown? | **Amerikkalainen jalkapallo**, jääkiekko, koripallo | Kuka katsoi amerikkalaista jalkapalloa kotonanne? |
 
 ## Tutut sanonnat
 
-Sanonnan lopettaminen käyttää kielitaitoa, joka on opittu kauan sitten, ja se tulee usein helposti. Pelistämme [Päätä sanonta](/games/finish-the-saying/) löytyy paljon lisää, ja siinä voi näyttää minkä tahansa lopun napauttamalla.
+Sanonnan loppuun saattaminen nojaa kauan sitten opittuun kieleen ja onnistuu usein helposti. [Täydennä sanonta](/games/finish-the-saying/) -pelissämme on monia lisää, ja voit näyttää minkä tahansa lopun napauttamalla.
 
-| Sanonta | Vaihtoehdot | Keskustelunaihe |
+| Sanonta | Vaihtoehdot | Keskustelkaa |
 | --- | --- | --- |
-| Omena päivässä pitää lääkärin... | **Loitolla**, sateen pois, kissan pois | Kuka sanoi tämän sinulle aina? |
-| Aikaisin lintu saa... | Bussin, **madon**, junan | Oletko aamuihminen? |
-| Älä laske kanojasi ennen kuin ne... | **Kuoriutuvat**, nukkuvat, laulavat | Pitikö perheenne kanoja? |
-| Penni säästetty on penni... | **Ansaittu**, hukattu, käytetty | Kuka perheessänne oli säästäjä? |
-| Koti on siellä, missä... | Puutarha on, **sydän on**, keittiö on | Mikä saa paikan tuntumaan kodilta? |
-| Parempi myöhään kuin... | Aikaisin, **ei koskaan**, anteeksi | Kuka oli aina myöhässä? |
-| Jokaisella pilvellä on hopeinen... | **Reunus**, lusikka, kolikko | Kerro onnekkaasta sattumasta |
-| Teot puhuvat äänekkäämmin kuin... | **Sanat**, musiikki, ukkonen | Kerro jostakin, joka sanoi noin |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Kuka tapasi sanoa tämän sinulle? |
+| The early bird catches the... | Bus, **worm**, train | Oletko aamuvirkku? |
+| Don't count your chickens before they... | **Hatch**, sleep, sing | Pidettiinkö perheessäsi kanoja? |
+| A penny saved is a penny... | **Earned**, lost, spent | Kuka perheessäsi oli säästäjäinen? |
+| Home is where the... | Garden is, **heart is**, kitchen is | Mikä saa paikan tuntumaan kodilta? |
+| Better late than... | Early, **never**, sorry | Kuka oli aina myöhässä? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Kerro onnenkantamoisesta |
+| Actions speak louder than... | **Words**, music, thunder | Kerro jostakusta, joka sanoi niin |
 
-## Tämä vai tuo -kysymykset ilman väärää vastausta
+## ”Tämä vai tuo” -kysymykset, joissa ei ole väärää vastausta
 
-Nämä sopivat kaikkiin vaiheisiin, myös myöhempiin, koska niissä ei ole mitään oikein. Kysykää, kuunnelkaa ja kertokaa myös oma vastauksenne.
+Nämä sopivat jokaiseen vaiheeseen, myös myöhempiin, koska niissä ei ole mitään oikein tai väärin. Kysykää, kuunnelkaa ja kertokaa myös oma vastauksenne.
 
 - Kahvi vai tee?
 - Ranta vai vuoret?
@@ -158,23 +159,23 @@ Nämä sopivat kaikkiin vaiheisiin, myös myöhempiin, koska niissä ei ole mit�
 - Etukuisti vai takapiha?
 - Radio vai levyt?
 - Pannukakut vai munat?
-- Ruusut vai margaritat?
-- Junamatka vai autoreissu?
+- Ruusut vai päivänkakkarat?
+- Junamatka vai automatka?
 
-Kuvien kanssa käytettävien keskustelukehotusten löydätte tulostettavista [keskustelukorteistamme](/games/conversation-cards/).
+Kuvien kanssa käytettäviä keskustelunavauksia löydät tulostettavista [Keskustelukorteista](/games/conversation-cards/).
 
-## Miten järjestän tietovisaistunnon hoivakodissa tai ryhmässä?
+## Miten tietovisatuokion voi järjestää hoivakodissa tai ryhmässä?
 
-1. **Istuttakaa ihmiset niin, että he näkevät ja kuulevat.** Kuulokojeet korviin, silmälasit päälle, televisio pois.
-2. **Esitelkää se keskusteluna.** ”Minulla on muutama kysymys vanhoista ajoista, ja arvaan, että tiedätte enemmän kuin minä.”
-3. **Lukekaa jokainen kysymys kahdesti ja näyttäkää vaihtoehdot isolla.**
-4. **Toivottakaa vastaukset tervetulleiksi mistä tahansa huoneesta.** Toistakaa hyvät vastaukset, jotta kaikki kuulevat ne.
-5. **Sanokaa vastaus kaikille,** ja kysykää sitten keskustelunaihe koko huoneelle.
-6. **Seuratkaa tunnelmaa.** Jos yksi kysymys käynnistää kymmenen minuuttia tarinoita, antakaa sen tapahtua.
-7. **Lopettakaa laululla tai tämä vai tuo -kierroksella,** jotta kaikki päättävät istunnon helppoon.
+1. **Sijoittakaa osallistujat niin, että he näkevät ja kuulevat.** Kuulokojeet paikoillaan, silmälasit päässä, televisio pois päältä.
+2. **Esitelkää hetki keskusteluna.** ”Minulla on muutamia kysymyksiä vanhoista ajoista, ja luulen, että te tiedätte niistä enemmän kuin minä.”
+3. **Lukekaa jokainen kysymys kahdesti ja näyttäkää vaihtoehdot suurina.**
+4. **Ottakaa vastaan vastauksia mistä tahansa päin huonetta.** Toistakaa hyvät vastaukset, jotta kaikki kuulevat.
+5. **Kertokaa vastaus kaikille,** ja esittäkää sitten keskustelukysymys koko ryhmälle.
+6. **Seuratkaa tunnelmaa.** Jos yksi kysymys käynnistää kymmenen minuutin tarinat, antakaa niiden jatkua.
+7. **Lopettakaa lauluun tai ”tämä vai tuo” -kierrokseen,** jotta jokainen päättää jotakin helppoon.
 
-Muista ryhmämuodoista, kuten kuvabingosta ja yhteislauluista, katso [ryhmätoiminta hoivakodeissa](/activities/care-home-groups/).
+Muita ryhmämuotoja, kuten kuvabingoa ja yhteislaulua, löydät sivulta [ryhmäaktiviteetit hoivakodeissa](/activities/care-home-groups/).
 
-## Milloin pitää muuttaa suunnitelmaa?
+## Milloin suunnitelmaa kannattaa muuttaa
 
-Jos joku näyttää huolestuneelta, vaikenee tai sanoo ”En tiedä” useammin kuin kerran, tehkää siitä helpompaa: pudottakaa kahteen vaihtoehtoon, vastatkaa yhdessä tai siirtykää tämä vai tuo -kysymyksiin. Jos ryhmä haluaa puhua yhdestä kysymyksestä koko iltapäivän, se on onnistuminen. Tavoite ei koskaan ollut oikeat vastaukset. Se oli aika hyvässä seurassa.
+Jos joku näyttää huolestuneelta, hiljenee tai sanoo ”en tiedä” useammin kuin kerran, helpottakaa: siirtykää kahteen vaihtoehtoon, vastatkaa yhdessä tai vaihtakaa ”tämä vai tuo” -kysymyksiin. Jos ryhmä haluaa mieluummin keskustella yhdestä kysymyksestä koko iltapäivän, se on onnistuminen. Tavoitteena eivät olleet oikeat vastaukset. Tavoitteena oli hyvä yhteinen hetki.

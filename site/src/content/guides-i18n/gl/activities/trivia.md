@@ -1,34 +1,34 @@
 ---
-title: "Trivia sin presión para persoas con demencia"
-seoTitle: "Preguntas de trivia para demencia, con respostas"
-description: "50 preguntas fáciles de trivia para persoas con demencia, con opcións e temas para conversar, e como facer a actividade sen presión."
+title: "Trivial sinxel para persoas maiores con demencia, sen presión"
+seoTitle: "Preguntas de trivial para demencia, con respostas"
+description: "50 preguntas sinxelas de trivial para persoas maiores con demencia, con opcións de resposta e ideas para conversar, e como facelo sen que ninguén se sinta examinado."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A trivia fácil para persoas con demencia funciona mellor cando parece unha
-  conversa, non unha proba. Faga preguntas sobre cousas aprendidas hai tempo,
-  como cancións antigas, refráns, festas e a vida cotiá, e ofreza sempre dúas ou
-  tres opcións. Diga a resposta con naturalidade, non sinala a ningunha persoa,
-  evite a puntuación e use cada resposta para comezar unha historia. As
-  preguntas de «isto ou aquilo» sen resposta incorrecta adoitan ir ben en fases
-  máis avanzadas.
+  O trivial sinxelo para persoas maiores con demencia funciona mellor cando se
+  vive como unha conversa, non como unha proba. Faga preguntas sobre cousas
+  aprendidas hai moito tempo, como cancións antigas, refráns, festas e a vida
+  cotiá, e ofreza sempre dúas ou tres opcións. Diga a resposta con naturalidade,
+  sen sinalar a ninguén, sen levar puntuación e aproveite cada resposta para
+  comezar unha historia. As preguntas de «isto ou aquilo», sen resposta
+  incorrecta, adoitan ir mellor en fases máis avanzadas.
 keyPoints:
-  - "Faga preguntas sobre cousas moi coñecidas: cancións, refráns, festas, comida e vida cotiá de hai anos."
-  - "Ofreza dúas ou tres opcións para que a resposta se poida recoñecer en vez de lembrar de memoria."
-  - "Diga a resposta con amabilidade e siga adiante. Calquera resposta que dea pé a unha historia é unha boa resposta."
-  - "Sen puntos, sen equipos a competir e sen preguntar a unha soa persoa. Deixe que as respostas saian de todo o grupo."
-  - "Cando escoller entre respostas resulta difícil, pase a preguntas de «isto ou aquilo» sen resposta correcta."
+  - "Faga preguntas sobre cousas moi coñecidas: cancións, refráns, festas, comida e a vida cotiá de hai anos."
+  - "Ofreza dúas ou tres opcións para que a resposta se poida recoñecer en lugar de ter que lembrala sen axuda."
+  - "Diga a resposta con amabilidade e siga adiante. Calquera intento que dea pé a unha historia é un bo intento."
+  - "Sen puntos, sen equipos competindo, sen dirixirse a unha soa persoa. Deixe que as respostas xurdan de todo o grupo."
+  - "Cando escoller entre respostas resulte difícil, pase a preguntas de «isto ou aquilo», sen resposta correcta."
 faq:
-  - q: "É a trivia unha boa actividade para persoas que viven con demencia?"
-    a: "Pode serlo, se se fai con calma. A Alzheimer's Foundation of America inclúe a trivia entre as actividades para a fase inicial. Manteña as preguntas sobre temas moi coñecidos, ofreza opcións, non poña a ningunha persoa no centro da atención e use as respostas como unha forma de conversar, non como unha proba."
-  - q: "Que temas funcionan mellor para a trivia sobre demencia?"
-    a: "Adoitan funcionar mellor as cousas aprendidas hai moito tempo: cancións e cantantes populares da mocidade da persoa, refráns coñecidos, festas, comida, deportes e aspectos da vida cotiá, como o reparto do leite ou os teléfonos de disco. Evite as noticias recentes e todo o que esixa lembrar algo de antes na mesma sesión."
-  - q: "Como podo facer trivia nunha residencia sen incomodar a ninguén?"
-    a: "Lea cada pregunta para todo o grupo, mostre ou diga as opcións e acolla respostas de calquera persoa. Non chame a persoas concretas nin leve puntuación. Diga a resposta cun sorriso, sexa cal sexa o que se respondeu, e faga unha pregunta de seguimento, como «Alguén foi algunha vez a un autocine?», para que a conversa se converta en historias."
-  - q: "Que podo facer en lugar de trivia nas fases máis avanzadas?"
-    a: "Pase a preguntas sen resposta incorrecta, como «Café ou té?» ou «Praia ou montaña?», e a completar xuntos refráns ou cancións coñecidas. Mirar imaxes e comentalas xuntos tamén pode funcionar ben."
+  - q: "É o trivial unha boa actividade para persoas que viven con demencia?"
+    a: "Pode ser, se se fai con delicadeza. A Alzheimer's Foundation of America inclúe o trivial entre as actividades para a fase inicial. Manteña as preguntas sobre temas moi coñecidos, ofreza opcións, non poña a ningunha persoa no centro das miradas e trate as respostas como unha forma de iniciar unha conversa, non como unha proba."
+  - q: "Que temas funcionan mellor no trivial para demencia?"
+    a: "Adoitan funcionar mellor as cousas aprendidas hai moito tempo: cancións e cantantes populares da mocidade da persoa, refráns coñecidos, festas, comida, deportes e a vida cotiá, como o repartidor do leite ou os teléfonos de disco. Evite as noticias recentes e calquera cousa que requira lembrar algo de máis cedo na mesma sesión."
+  - q: "Como podo facer trivial nunha residencia sen avergoñar a ninguén?"
+    a: "Lea cada pregunta a todo o grupo, mostre ou diga as opcións e acolla as respostas de calquera persoa. Non se dirixa a persoas concretas nin leve puntuación. Diga a resposta cun sorriso, con independencia do que se dixese, e faga unha pregunta de seguimento como «Quen foi algunha vez a un autocine?» para convertelo en historias."
+  - q: "Que podo facer no canto de trivial nas fases máis avanzadas?"
+    a: "Pase a preguntas sen resposta incorrecta, como «Café ou té?» ou «Praia ou montaña?», e a completar xuntos refráns ou cancións coñecidos. Mirar imaxes e describilas xuntos tamén adoita funcionar ben."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -47,107 +47,107 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-A trivia é unha das actividades en grupo máis pedidas en residencias e programas de día, e moitas familias tamén a fan na mesa da cociña. Cando se fai da forma habitual, con puntos e unha soa persoa respondendo, pode facer que unha persoa que vive con demencia se sinta baixo presión. Cando se fai con calma, é unha boa maneira de escoitar historias. Abaixo atopará 50 preguntas fáciles con opcións de resposta e algo de que falar en cada unha, seguidas dunhas ideas para preparar a actividade.
+O trivial é unha das actividades en grupo máis solicitadas en residencias e programas de día, e moitas familias tamén o xogan na mesa da cociña. Cando se fai da maneira habitual, con puntos e unha soa persoa respondendo, pode facer que unha persoa que vive con demencia se sinta no centro das miradas. Cando se fai con delicadeza, convértese nunha forma animada de escoitar historias. A continuación atopará 50 preguntas sinxelas con opcións de resposta e algo de que falar en cada unha, seguidas de orientacións para levar a cabo unha sesión.
 
-## Como facer que a trivia funcione para unha persoa que vive con demencia?
+## Como facer que o trivial funcione para unha persoa con demencia?
 
-Faga que a actividade trate de recoñecer e lembrar cousas de hai tempo, e que cada resposta sexa ben recibida.
+Fágao sobre recoñecer e lembrar cousas de hai moito tempo, e faga que cada resposta sexa benvida.
 
-1. **Faga preguntas sobre o pasado máis afastado.** A [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) indica que o síntoma inicial máis común do alzhéimer é a dificultade para lembrar información aprendida hai pouco. As cancións, os refráns e a vida cotiá de hai décadas adoitan ser un terreo máis fácil.
-2. **Ofreza sempre opcións.** Escoller a resposta correcta entre dúas ou tres é moito máis doado que sacala de memoria.
-3. **Lea as preguntas en voz alta e móstreas en grande.** Un encerado ou unha tableta sostida en alto pode axudar ás persoas que escoitan peor.
-4. **Diga a resposta con naturalidade.** Se ninguén a sabe, dígaa con amabilidade e siga adiante. Nunca diga «Vaia, isto sábeo».
-5. **Sen puntuación.** Nin para persoas concretas nin para mesas. Se alguén quere un número, leve un total do grupo.
-6. **Non chame a unha soa persoa.** Deixe que as respostas veñan de calquera. Nunha actividade individual, responda xuntos: «Eu penso que é o piano. E ti que pensas?»
-7. **Aproveite o tema para conversar.** A resposta é o comezo, non o final. O máis valioso son as historias.
-8. **Manteña a actividade curta.** Dez preguntas, con historias entre medias, adoitan ser suficientes.
+1. **Pregunte sobre o pasado distante.** A [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) indica que o síntoma inicial máis común da enfermidade de Alzheimer é a dificultade para lembrar información aprendida recentemente. As cancións, os refráns e a vida cotiá de hai décadas adoitan ser un terreo máis cómodo.
+2. **Ofreza sempre opcións.** Escoller a resposta correcta entre dúas ou tres é moito máis doado que tela que dicir sen ningunha axuda.
+3. **Lea as preguntas en voz alta e móstreas en grande.** Un encerado ou unha tableta en alto pode axudar ás persoas que escoitan menos ben.
+4. **Diga a resposta con naturalidade.** Se ninguén a sabe, dígaa con amabilidade e siga adiante. Nunca diga «Veña, isto sábeo».
+5. **Sen puntuación.** Nin para persoas individuais nin para mesas. Se alguén quere un número, leve un total de grupo.
+6. **Non se dirixa nunca a unha soa persoa.** Deixe que as respostas veñan de calquera. Nunha actividade individual, respondan xuntos: «Eu creo que é o piano. Que lle parece a vostede?»
+7. **Aproveite a idea para conversar.** A resposta é o comezo, non o final. As historias son o verdadeiro obxectivo.
+8. **Que sexa breve.** Dez preguntas, con historias polo medio, adoitan ser abondo.
 
-O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) resume a regra principal de forma sinxela: estea atento á frustración e procure que a persoa se sinta capaz. A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inclúe a trivia entre as actividades para a fase inicial. Na fase media, manteña só dúas opcións e apoie máis nos temas para conversar. Máis adiante, pase ás preguntas de «isto ou aquilo» que aparecen máis abaixo.
+O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) resume a regra principal de forma sinxela: estea atento á frustración e procure que a persoa se sinta capaz. A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inclúe o trivial entre as actividades para a fase inicial. Na fase intermedia, límiteo a dúas opcións e apóiese nas ideas para conversar. Máis adiante, pase ás preguntas de «isto ou aquilo» que atopará máis abaixo.
 
-## Trivia de música e entretemento
+## Trivial de música e espectáculos
 
-A resposta aparece en **negra**. Adapte estas preguntas á persoa: a quen medrou escoitando Motown pode interesarlle outro tipo de cantantes que a quen medrou con big bands.
+A resposta está en **negra**. Adapte estas preguntas á persoa: alguén que medrou escoitando Motown probablemente prefira cantantes distintos dos de quen medrou con big bands.
 
-| Pregunta | Opcións | De que falar |
+| Pregunta | Opcións | Para conversar |
 | --- | --- | --- |
-| A quen chamaban o Rei do Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Algunha vez viu a Elvis na televisión? |
-| Que cantante era coñecido como Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Que canción de Sinatra lle gusta máis? |
-| Bing Crosby soñaba cun Nadal... | **Branco**, de voda, nunha casa | Canten xuntos un anaco |
+| A quen lle chamaban o Rei do Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Viu algunha vez a Elvis na televisión? |
+| Que cantante tiña o alcume de Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Cal é a canción de Sinatra que máis lle gusta? |
+| Bing Crosby soñaba cun Nadal... | **branco** (White Christmas), de voda, nunha casa | Canten xuntos unha liña |
 | Louis Armstrong cantaba «What a Wonderful...» | Day, **World**, Life | Que fai que o mundo lle pareza marabilloso? |
-| «Over the Rainbow» foi cantada por Judy Garland en que película? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Onde vía as súas películas favoritas? |
-| Quen interpretaba a Lucy en «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Que programas vía a súa familia xunta? |
+| «Over the Rainbow» cantouna Judy Garland en que filme? | **O mago de Oz** (The Wizard of Oz), Foise co vento (Gone with the Wind), Cantando baixo a chuvia (Singin' in the Rain) | Onde vía os seus filmes favoritos? |
+| Quen interpretaba a Lucy en «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Que programas vía a súa familia xuntos? |
 | Que vaqueiro montaba un cabalo chamado Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Xogaba aos vaqueiros cando era pequeno ou pequena? |
-| Quen presentou «The Tonight Show» durante 30 anos? | Ed Sullivan, **Johnny Carson**, Bob Hope | Quedaba ata tarde para ver a televisión? |
+| Quen presentou «The Tonight Show» durante 30 anos? | Ed Sullivan, **Johnny Carson**, Bob Hope | Quedaba esperto ou esperta ata tarde para ver a televisión? |
 | Que instrumento ten 88 teclas? | Guitarra, **piano**, trompeta | Alguén da súa familia tocaba algún instrumento? |
 | Que baile se conta un-dous-tres, un-dous-tres? | **Vals**, twist, tango | Onde ía bailar? |
 
-Para saber máis sobre a música, consulte [actividades musicais para a demencia](/activities/music/).
+Para saber máis sobre música, consulte [actividades musicais para demencia](/activities/music/).
 
-## Trivia sobre a vida cotiá
+## Trivial sobre a vida cotiá
 
-| Pregunta | Opcións | De que falar |
+| Pregunta | Opcións | Para conversar |
 | --- | --- | --- |
-| Antes dos frigoríficos, en moitas casas a comida gardábase fría nunha... | **Neveira**, forno, faiado | Quen traía o xeo? |
-| Quen levaba o leite á porta en botellas de vidro? | O carteiro, **o leiteiro**, o repartidor de xornais | Que máis levaban á casa? |
-| Como se marcaba nun teléfono de disco? | Premendo botóns, **xirando unha roda**, falando con el | Cónteme como era o teléfono da súa casa |
-| Que empresa fabricou o coche Modelo T? | **Ford**, Chevrolet, Buick | Cónteme algún coche que lle gustase |
-| Onde se podía atopar un «soda jerk»? | **Nunha fonte de sodas**, nunha panadería, nun banco | Que pedía no mostrador? |
-| Que xoguete é un resorte de metal que pode baixar escaleiras? | Io-ió, **Slinky**, hula hoop | Que xoguetes lle gustaban máis? |
-| Un autocine era un lugar para ver... | **Películas desde o coche**, partidos, desfiles | Con quen ía? |
-| Que cara aparece no billete dun dólar? | Lincoln, **George Washington**, Jefferson | Que se podía mercar cun dólar daquela? |
-| Que cara aparece na moeda dun centavo? | **Abraham Lincoln**, Washington, Franklin | Gardaba centavos nun frasco daquela? |
+| Antes dos frigoríficos, en moitas casas a comida mantíñase fría nunha... | **Nevera de xeo** (icebox), forno, faiado | Quen levaba o xeo? |
+| Quen levaba o leite á porta en botellas de vidro? | O carteiro, **o leiteiro**, o repartidor de xornais | Que outras cousas se repartían na casa? |
+| Como se marcaba nun teléfono de disco? | Premendo botóns, **xirando un disco**, falando con el | Cónteme como era o teléfono da súa casa |
+| Que empresa fabricou o coche Model T? | **Ford**, Chevrolet, Buick | Fáleme dun coche que lle gustase |
+| Onde se atopaba un «soda jerk»? | **Nunha fonte de sodas** (soda fountain), nunha panadaría, nun banco | Que pedía no mostrador? |
+| Que xoguete é un resorte metálico que pode baixar escaleiras? | Ioió, **Slinky**, hula hoop | De que xoguetes lle gustaba xogar? |
+| Un autocine era un lugar para ver... | **Filmes desde o coche**, partidos, desfiles | Con quen ía? |
+| De quen é o rostro no billete dun dólar? | Lincoln, **George Washington**, Jefferson | Que se podía mercar cun dólar daquela? |
+| De quen é o rostro na moeda dun centavo? | **Abraham Lincoln**, Washington, Franklin | Gardaba centavos nun frasco daquela? |
 | De que cor adoita ser un autobús escolar? | Vermello, **amarelo**, azul | Como ía á escola? |
 
-## Festas, natureza e lugares
+## Trivial sobre festas, natureza e lugares
 
-| Pregunta | Opcións | De que falar |
+| Pregunta | Opcións | Para conversar |
 | --- | --- | --- |
-| Que festa se celebra o cuarto xoves de novembro? | Día do Traballo, **Día de Acción de Grazas**, Día dos Caídos | Que non faltaba nunca na súa mesa? |
-| Para que festa se fan as cabazas con cara? | **Halloween**, Pascua, Nadal | Cónteme como era o Halloween onde medrou |
-| O 4 de xullo celebra a Declaración de... | Dereitos, **Independencia**, Liberdade | Onde vía os fogos artificiais? |
+| Que festa se celebra o cuarto xoves de novembro? | Día do Traballo (Labor Day), **Día de Acción de Grazas** (Thanksgiving), Día dos Caídos (Memorial Day) | Que non faltaba nunca na súa mesa? |
+| As cabazas con cara (jack-o'-lanterns) fanse para que festa? | **Halloween**, Pascua, Nadal | Cónteme como se celebraba Halloween onde medrou |
+| O Día da Independencia dos Estados Unidos celebra a Declaración de... | Dereitos, **Independencia**, Liberdade | Onde vía os fogos artificiais? |
 | En que mes se celebra o Día da Nai? | Abril, **maio**, xuño | Como o celebraba a súa familia? |
-| Cantas estrelas ten a bandeira dos Estados Unidos? | 48, **50**, 52 | A bandeira tivo 48 estrelas ata 1959. Calquera das dúas respostas pode traer unha boa lembranza |
-| Que océano está na costa leste? | Pacífico, **Atlántico**, Ártico | Algunha vez foi á praia? |
-| En que cidade está a Estatua da Liberdade? | Boston, **Nova York**, Filadelfia | Estivo en Nova York? |
-| Que producen as abellas? | Leite, **mel**, seda | Prefire o mel na torrada ou no té? |
-| Como se chama a cría da vaca? | Poldro, **tenreiro**, cabuxo | Algunha vez viviu preto dunha granxa? |
-| Que flor alta e amarela é coñecida por xirar cara ao sol? | Rosa, **xirasol**, tulipán | Que medraba no seu xardín? |
+| Cantas estrelas ten a bandeira dos Estados Unidos? | 48, **50**, 52 | A bandeira tivo 48 estrelas ata 1959. Calquera das dúas respostas é un bo recordo |
+| Que océano está na costa leste? | Pacífico, **Atlántico**, Ártico | Foi algunha vez á praia? |
+| En que cidade está a Estatua da Liberdade? | Boston, **Nova York**, Filadelfia | Estivo algunha vez en Nova York? |
+| Que fan as abellas? | Leite, **mel**, seda | Prefire o mel na torrada ou no té? |
+| Como se lle chama á cría da vaca? | Poldro, **tenreiro**, cabuxo | Viviu algunha vez preto dunha granxa? |
+| Que flor alta e amarela é famosa por xirar cara ao sol? | Rosa, **xirasol**, tulipán | Que medraba no seu xardín? |
 | Cantos días ten un ano bisesto? | 365, **366**, 360 | Cónteme un aniversario que lembre |
 | Que estación vén despois do inverno? | Outono, **primavera**, verán | Cal é a súa estación favorita? |
 
-## Trivia sobre comida e deportes
+## Trivial sobre comida e deportes
 
-| Pregunta | Opcións | De que falar |
+| Pregunta | Opcións | Para conversar |
 | --- | --- | --- |
-| As pasas son... | Ameixas secas, **uvas secas**, cereixas secas | Levaba pasas no xantar? |
-| As ameixas pasas son... | **Ameixas secas**, figos secos, mazás secas | Quen na súa familia gustaba das ameixas pasas? |
-| Manteiga de cacahuete e... | **Marmelada**, queixo, xamón | Crocante ou suave? |
-| O guacamole faise sobre todo con... | Chícharos, **aguacates**, cogombros | Que mollos se poñían nas festas? |
-| Que torta é moi típica no Día de Acción de Grazas? | **De cabaza**, de limón, de cereixa | Que torta preparaba vostede? |
-| Cantos xogadores dun equipo de béisbol están no campo? | 7, **9**, 11 | Por que equipo animaba? |
-| Cantos strikes fan un out no béisbol? | Dous, **tres**, catro | Algunha vez xogou á pelota? |
-| Babe Ruth foi famoso en que deporte? | Boxeo, **béisbol**, golf | Ía ver partidos de béisbol? |
-| Cantos buratos ten un campo de golf estándar? | 9, **18**, 24 | Algunha vez xogou ao golf, ou ao minigolf? |
-| En que deporte se consegue un touchdown? | **Fútbol americano**, hóckey, baloncesto | Quen vía o fútbol americano na súa casa? |
+| As pasas son uvas... | secas de ameixa, **secas**, secas de cereixa | Levaba pasas no xantar? |
+| As ameixas pasas son... | **Ameixas secas**, figos secos, mazás secas | A quen lle encantaban as ameixas pasas na súa familia? |
+| Manteiga de cacahuete e... | **Marmelada** (jelly), queixo, xamón | Crocante ou suave? |
+| O guacamole faise principalmente con... | Chícharos, **aguacates**, cogombros | Que mollos se sacaban nas festas? |
+| Que torta é moi típica no Día de Acción de Grazas? | **De cabaza**, de limón, de cereixa | Que torta facía vostede? |
+| Cantos xogadores ten un equipo de béisbol no campo? | 7, **9**, 11 | De que equipo era afeccionado ou afeccionada? |
+| Cantos strikes fan un out no béisbol? | Dous, **tres**, catro | Xogou algunha vez ao béisbol? |
+| Babe Ruth foi famoso en que deporte? | Boxeo, **béisbol**, golf | Ía ver partidos? |
+| Cantos buratos ten un campo de golf estándar? | 9, **18**, 24 | Xogou algunha vez ao golf, ou ao minigolf? |
+| En que deporte se anota un touchdown? | **Fútbol americano**, hóckey, baloncesto | Quen vía o fútbol americano na súa casa? |
 
-## Refráns e expresións coñecidas
+## Refráns coñecidos
 
-Completar un refrán ou unha expresión tira da linguaxe aprendida hai moito tempo e moitas veces sae con facilidade. O noso xogo [Completar o refrán](/games/finish-the-saying/) ten moitos máis, cun toque para mostrar calquera final.
+Completar un refrán pon en xogo a lingua aprendida hai moito tempo e moitas veces sae con facilidade. O noso xogo [Completar o refrán](/games/finish-the-saying/) ten moitos máis, cun toque para mostrar calquera final.
 
-| Expresión | Opcións | De que falar |
+| Refrán | Opcións | Para conversar |
 | --- | --- | --- |
-| Quen madruga... | **Deus axuda**, perde o tren, chega tarde | Quen lle dicía isto? |
-| Non contes os polos antes de... | **Nacer**, durmir, cantar | Na súa familia tiñan galiñas? |
-| Máis vale tarde que... | Cedo, **nunca**, arrepentirse | Quen chegaba sempre tarde? |
-| Quen espera... | **Desespera**, canta, dorme | Na súa familia, quen tiña máis paciencia? |
-| Na casa de cada quen... | Hai xardín, **manda un**, hai cociña | Que fai que un lugar pareza un fogar? |
-| Falar é prata, calar é... | **Ouro**, música, trono | Cónteme de alguén que dicía isto |
-| Non hai mal que... | **Por ben non veña**, dure moito, non se vexa | Cónteme dun momento en que algo saíu ben |
-| As palabras vaian, as obras... | **Quedan**, cantan, voan | Cónteme de alguén que o demostraba cos feitos |
+| Unha mazá ao día afasta o... | **Médico**, a choiva, o gato | Quen lle dicía isto? |
+| A quen madruga Deus... | leva no autobús, **axuda**, leva no tren | É vostede máis de mañás? |
+| Non cantes vitoria antes de... | **Tempo**, durmir, cantar | A súa familia tiña galiñas? |
+| Quen aforra, sempre... | **ten**, perde, gasta | Quen era o máis aforrador na súa familia? |
+| O fogar está onde está o... | xardín, **corazón**, cociña | Que fai que un lugar pareza un fogar? |
+| Máis vale tarde que... | cedo, **nunca**, arrepentirse | Quen chegaba sempre tarde? |
+| Non hai mal que... | **non veña por ben**, non colla unha culler, non traia unha moeda | Cónteme algún golpe de sorte |
+| As accións falan máis alto que as... | **Palabras**, a música, os tronos | Cónteme sobre alguén que dicía iso |
 
-## Preguntas de «isto ou aquilo» sen resposta incorrecta
+## Preguntas de «isto ou aquilo», sen resposta incorrecta
 
-Estas preguntas serven para calquera fase, tamén para as máis avanzadas, porque non hai nada que acertar. Pregunte, escoite e comparta tamén a súa propia resposta.
+Estas preguntas valen para calquera fase, incluídas as máis avanzadas, porque non hai nada que acertar. Pregunte, escoite e comparta tamén a súa propia resposta.
 
 - Café ou té?
 - Praia ou montaña?
@@ -156,26 +156,26 @@ Estas preguntas serven para calquera fase, tamén para as máis avanzadas, porqu
 - Torta ou pastel?
 - Bailar ou mirar?
 - Amencer ou solpor?
-- Soleira ou patio?
+- Porche dianteiro ou xardín de atrás?
 - Radio ou discos?
-- Fillóas ou ovos?
+- Filloa ou ovos?
 - Rosas ou margaridas?
-- Viaxe en tren ou en coche?
+- Viaxe en tren ou viaxe en coche?
 
-Para ideas de conversa que acompañan imaxes, probe as nosas [Tarxetas de conversa](/games/conversation-cards/) para imprimir.
+Para propostas de conversa que acompañan imaxes, probe as nosas [Tarxetas de conversa](/games/conversation-cards/) para imprimir.
 
-## Como preparar unha sesión de trivia nunha residencia ou nun grupo?
+## Como levar a cabo unha sesión de trivial nunha residencia ou nun grupo?
 
-1. **Coloque as persoas de maneira que poidan ver e escoitar.** Audífonos postos, lentes postas e a televisión apagada.
-2. **Presente a actividade como unha conversa.** «Teño algunhas preguntas sobre os vellos tempos, e aposto a que saben máis ca min».
+1. **Sente as persoas de xeito que poidan ver e escoitar.** Audífonos postos, lentes postas, a televisión apagada.
+2. **Preséntea como unha conversa.** «Teño unhas preguntas sobre os vellos tempos, e aposto a que vostedes saben máis ca min».
 3. **Lea cada pregunta dúas veces e mostre as opcións en grande.**
-4. **Acolle respostas de calquera parte da sala.** Repita as boas respostas para que todos as escoiten.
-5. **Diga a resposta para todo o grupo** e logo faga a pregunta para conversar.
-6. **Siga a enerxía do grupo.** Se unha pregunta dá pé a dez minutos de historias, déixeo correr.
-7. **Remate cunha canción ou cunha rolda de «isto ou aquilo»**, para que todas as persoas acaben cunha parte fácil.
+4. **Acolle respostas de calquera parte da sala.** Repita as boas respostas para que todo o mundo as escoite.
+5. **Diga a resposta para todas as persoas,** e despois faga a pregunta para conversar a todo o grupo.
+6. **Siga a enerxía do grupo.** Se unha pregunta dá pé a dez minutos de historias, déixea fluír.
+7. **Remate cunha canción ou cunha rolda de «isto ou aquilo»,** para que todas as persoas acaben con algo doado.
 
-Para outros formatos en grupo, como o bingo de imaxes ou cantar xuntos, consulte [actividades en grupo para residencias](/activities/care-home-groups/).
+Para outros formatos en grupo, incluído o bingo con imaxes e as cancións en grupo, consulte [actividades en grupo para residencias](/activities/care-home-groups/).
 
 ## Cando cambiar o plan
 
-Se ve que unha persoa parece preocupada, queda calada ou di «Non o sei» máis dunha vez, faga a actividade máis fácil: deixe só dúas opcións, respondan xuntos ou pase a preguntas de «isto ou aquilo». Se o grupo prefire falar dunha soa pregunta toda a tarde, iso tamén é un éxito. O obxectivo nunca foron as respostas correctas. O obxectivo era pasar un rato agradable en boa compañía.
+Se alguén parece preocupado, queda en silencio ou di «Non sei» máis dunha vez, fágao máis fácil: pase a dúas opcións, respondan xuntos ou cambie a preguntas de «isto ou aquilo». Se o grupo prefire falar toda a tarde sobre unha soa pregunta, iso é un éxito. O obxectivo nunca foron as respostas correctas. Era pasar un tempo en boa compañía.

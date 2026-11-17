@@ -1,33 +1,34 @@
 ---
-title: "Hojiiwwan manaa akka hojii nama dementia wajjin jiraatuuf"
-seoTitle: "Hojiiwwan manaa dementia: hojii guyyaa guyyaa"
-description: "Huccuu maramuu, wal-qabsiisuu, minjaala qopheessuu fi nyaata salphaa bilcheessuun nama dementia wajjin jiraatuuf hojii ga’umsa qabu ta’uu danda’a."
+title: "Hojiiwwan Manaa Akka Sochii Namoota Dhukkuba Sammuu Dagachuu Waliin Jiraataniif"
+seoTitle: "Hojiiwwan Manaa: Sochiiwwan Guyyaa Guyyaa"
+description: "Uffata miccuu, fooyyessuu, maaddii qopheessuu fi bilcheessuun salphaan namoota dhukkuba sammuu dagachuu waliin jiraataniif sochii hiika qabu ta’uu danda’u."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Hojiiwwan mana guyyaa guyyaa, akka tawuulii maramuu, sokiisii wal-qabsiisuu,
-  minjaala qopheessuu, minjaala qulqulleessuu, biqiltuu bishaan obaasuu fi nyaata
-  salphaa bilcheessuu gargaaruu, nama dementia wajjin jiraatuuf karaa dhugaa
-  gargaaruu ni kenna. Hojii isaan beekan filadhaa, tarkaanfii tokko tokkoon
-  hiikaa, balaa qara ykn ho’aa dhabamsiisaa, “sirriitti” hojjechuu irra
-  hirmaachuu kabajaa.
+  Hojiiwwan guyyaa guyyaa kanneen akka fooxaa miccuu, kaalsii walsimsiisuu,
+  maaddii qopheessuu, minjaala qulqulleessuu, biqiltuuwwan bishaan obaasuufi
+  bilcheessuu salphaa keessatti gargaarguun nama dhukkuba sammuu dagachuu
+  waliin jiraatuuf karaa dhugaa ittiin gargaaraa ta’uu danda’a. Hojiiwwan inni
+  beeku filadhaa, tarkaanfii tokko tokkotti qoodaa, miidhaa qara qabuu fi
+  ho’aa taasisu irraa fageessaa, akkasumas “sirriitti” hojjachuu caalaa
+  hirmaachuu isaatiif gatii kennaa.
 keyPoints:
-  - "Hojiiwwan beekaman nama tokko akka faayidaa qabu fi kutaa manaa ta’e akka dhaga’amu ni gargaaru, kunis yeroo baay’ee hojichi akkam gaarii akka ta’e caalaa barbaachisaa dha."
-  - "Hojii tokko tokkoon tarkaanfii tokkotti hiikaa, himuu irra agarsiisaa, tarkaanfii rakkisaa ta’e callisee fudhadhaa."
-  - "Billaa, meeshaa qulqulleessaa fi paakeetii dhiqannaa cufaa, nyaata waliin bilcheessuu dura qabduu stove irratti uwwisaa ykn cufaa ofumaa kaa’aa."
-  - "Tawuulii maramee nama sana duratti deebisanii hin maramiinaa. Yoo wanta deebisuu qabaattan, booda ija irraa fagaachuun godhaa."
-  - "Yoo hojichi dhiphina fide, gara tarkaanfii salphaa ta’etti jijjiiraa, yeroo biraa deebi’aa yaalaa, ykn waliin taa’aa."
+  - "Hojiiwwan mana beekamoon nama tokko akka fayyadamaa fi miseensa maatiitti akka inni of argu gargaaruu danda’u; kun yeroo baay’ee akkaataa hojiin sun itti hojjetame caalaa barbaachisaa dha."
+  - "Hojii hunda tarkaanfiiwwan salphaatti caccabsaa, ibsuu caalaa agarsiisaa, akkasumas tarkaanfii isaaf ulfaate kamiyyuu tasgabbiin fudhadhaa."
+  - "Haaduu, meeshaalee qulqullinaa fi paakii saaphanaa detergentii cufaatii kaa’aa; yeroo waliin bilcheessitan dura qabduu ibiddaa irra uffata eegumsaa ykn meeshaa ofumaan cufu itti dabalaa."
+  - "Fooxaan micame fuula nama sanaa duratti irra deebi’amee micamuu hin qabu. Yoo waan tokko irra deebi’anii sirreessuun barbaachise, boodarra utuu inni hin argin godhaa akka inni of hin mormineef."
+  - "Yoo hojiin tokko aarii fidu, gara tarkaanfii salphaatti jijjiiraa, yeroo biraa irra deebi’aa yaalaa, ykn waliin taa’aa."
 faq:
-  - q: "Hojiiwwan manaa kamiin nama dementia wajjin jiraatu ammallee gargaaruu danda’a?"
-    a: "Namoonni baay’een huccuu maramuu, sokiisii wal-qabsiisuu, meeshaa nyaata (qaanqee, fork) filuu, minjaala qopheessuu, minjaala qulqulleessuu, mana qulqulleessuu (sweeping), awwaara haquu, biqiltuu bishaan obaasuu ykn firfirsuu danda’u. Hojiiwwan nama sun duraan hojjechaa ture filadhaa, wanta amma danda’uuf walitti fufsiisaa. Sadarkaa boodaa keessatti, sochii tokko irra deddeebi’u, akka napkin diriirsuu, ga’uu danda’a."
-  - q: "Nama dementia wajjin jiraatuuf mana nyaata keessatti gargaaruun nageenya qabaa?"
-    a: "Ni danda’a, to’annoo cimaa fi qophii sirrii wajjin. Billaa, meeshaa qulqulleessaa fi wanta ho’aa ga’umsa irraa fageessaa, qabduu stove irratti uwwisaa (stove knob covers) ykn cufaa ofumaa (automatic shut-off) fayyadamaa, nama sanaaf hojii nageenya qabu, fakkeenyaaf kuduraa dhiqachuu, bilcheessuu ykn qodaa kaa’uu, kennaa. Stove banamee osoo jiruu gonkumaa kophaa isaan hin dhiisinaa."
-  - q: "Yoo dogoggoree maramee ykn jeequmsa uume hoo?"
-    a: "Haa ta’u. Kaayyoon yeroo waliin dabarsuu fi akka gargaarsa dhaga’amuu dha, bu’aa guutuu miti. Yoo wanti dhugumatti deebisuun barbaachise, booda, nama sun osoo hin ilaalin godhaa, akka isaan sirreeffaman itti hin dhaga’amneef."
-  - q: "Yoo gargaaruu didan hoo?"
-    a: "Lakki jechuun hojichi amma ulfaataa, wal-hin-beekuu ykn dadhabsiisaa dha jechuu ta’uu danda’a. Hin dhiibinaa. Bifa salphaa yaalaa, gara isinitti dhufanii waliin akka taa’an affeeraa, ykn yeroo guyyaa caalaa gaarii irratti deebi’aa gaafadhaa."
+  - q: "Namni dhukkuba sammuu dagachuu waliin jiraatu hojiiwwan manaatiin maal keessatti gargaaraa ta’uu danda’a?"
+    a: "Namoonni baay’een ammallee uffata miccuu, kaalsii walsimsiisuu, meeshaa nyaataa fooyyessuu, maaddii qopheessuu, minjaala qulqulleessuu, awwaara harca’uu, harma keessa darbuu, biqiltuuwwan bishaan obaasuufi qamadii sukkaaraa keessa makuu danda’u. Hojiiwwan namichi duraan hojjechaa ture filadhaa, amma waan inni hojjechuu danda’u waliin walsimsiisaa. Sadarkaa boodaa irratti, sochii irra deddeebi’amu tokko qofti, kan akka naapkinii sirreessuu, ga’aa ta’uu danda’a."
+  - q: "Namni dhukkuba sammuu dagachuu waliin jiraatu mana bilcheessuu keessatti gargaaraa ta’uu isaa nageenya qabaa?"
+    a: "Eeyyee, to’annoo dhihoo fi qophii sirrii yoo jiraate ta’uu danda’a. Haaduu, meeshaalee qulqullinaa fi waan ho’aa kamiyyuu akka inni hin qaqqabne godhaa, qabduu ibiddaa irra uffata eegumsaa ykn meeshaa ofumaan cufu fayyadamaa, akkasumas hojii nageenya qabu kan akka kuduraa miicuu, makuu ykn saanii qopheessuu kennaaf. Ibidda ibiddaa banuu waliin kophaa isa hin dhiisinaa."
+  - q: "Yoo isaan dogoggoraan miccan ykn waan tokko xureessan hoo?"
+    a: "Akka jirutti haa ta’u. Kaayyoon yeroo waliin dabarsuu fi miira fayyadamaa ta’uu ofitti dhaga’amuudha, bu’aa mudaa hin qabne miti. Yoo dhugumaan waan tokko irra deebi’amee hojjetamuu qabaate, boodarra utuu namichi hin argin hojjedhaa, akka inni of hin mormineef."
+  - q: "Yoo isaan gargaaraa ta’uu didan hoo?"
+    a: "Lakki jechuun hojii sun yeroo ammaa kanaaf baay’ee ulfaataa, namaaf nama hin galle ykn nama dadhabsiisaa ta’uu isaa agarsiisuu danda’a. Hin dhiibinaa. Bifa salphaa yaalaa, akka isin waliin taa’u affeeraa, ykn yeroo guyyaa mijaa’aa ta’e irratti irra deebi’aa gaafadhaa."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,116 +47,116 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Namoonni dementia wajjin jiraatan baay’een waggoota hedduu mana geggeessuu, maatii guddisuu ykn iddoo hojii sirreessuu irratti dabarsaniiru. Hojii dhugaa gargaaruuf gaafatamuun “ammallee kutaa mana kanaati” jechuu karaa hojiiwwan muraasni qofa danda’an ibsuu danda’a. Fuulli kun hojiiwwan kamtu gaarii akka hojjetu, akkamitti akka qopheessan, wanti yeroo jijjiiramu akkamitti akka sirreessan, fi mana nyaataa fi kutaa huccuu akkamitti nageenya akka eegan ibsa.
+Namoonni dhukkuba sammuu dagachuu waliin jiraatan hedduun waggoota dheeraaf mana bulchaa, maatii guddisaa ykn iddoo hojii qindeessaa turan. Hojiiwwan mana dhugaa keessatti akka isaan gargaaraa ta’an gaafachuun, “ati ammallee miseensa mana kanaati” jechuun karaa sochiiwwan biroo baay’een hin dandeenyeen ibsuu danda’a. Fuulli kun hojiiwwan yeroo baay’ee milkaa’an, akkaataa itti qopheessan, yeroo haalli jijjiiramu akkaataa itti mijatan, akkasumas mana bilcheessuu fi kutaa uffataa nageenyaan akkaataa itti eeggan ni ibsa.
 
-## Maaliif hojiiwwan guyyaa guyyaa akka hojiitti gaarii hojjetu?
+## Hojiiwwan guyyaa guyyaa maaliif akka sochiitti gaarii ta’u?
 
-Hojiiwwan gaarii hojjetu sababni isaas beekamoo fi kaayyoo ifaa qabaachuu isaaniiti. National Institute on Aging qodaa dhiqachuu, minjaala qopheessuu, qulqulleessuu (sweeping), awwaara haquu, xalayaa poostaa (mail) filuu, huccuu maramuu fi wantoota deebi’anii fayyadaman filuu [hojiiwwan guyyaa guyyaa namoonni Alzheimer qaban itti gammadan](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) keessatti tarreessa. Alzheimer's Association hojiiwwan akka minjaala qopheessuu nama tokko [kutaa manaa kabajamu ta’ee akka dhaga’amu](https://www.alz.org/help-support/caregiving/daily-care/activities) gargaaruu akka danda’an ibsa.
+Hojiiwwan kunneen waan beekamanii fi kaayyoo ifa ta’e waan qabanif ni milkaa’u. National Institute on Aging hojiiwwan guyyaa guyyaa namoonni Alzheimer's qaban itti gammaduu danda’an keessaa meeshaa nyaataa miicuu, maaddii qopheessuu, harma keessa darbuu, awwaara harca’uu, ergaa poostaa fooyyessuu, uffata miccuufi meeshaalee irra deebi’anii fayyadamuu fooyyessuu [ni tarreessa](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association hojiiwwan akka maaddii qopheessuu namni tokko [miseensa maatii gatii qabu akka ta’e akka inni itti dhaga’amu](https://www.alz.org/help-support/caregiving/daily-care/activities) gargaaruu akka danda’an ibsa.
 
-Hojiin tokko sababa ofii isaa jalqabuuf illee ni qaba. “Tawuulii kana na gargaartaa?” jedhamee gaafatamuun “Hojii tokko hojjechuu barbaaddaa?” jedhamee gaafatamuu caalaa eeyyee jechuuf salphaa dha.
+Hojiiwwanis sababii ofii isaanii kan jalqabu qabu. “Fooxaa kana irratti na gargaartaa?” jechuun, “Sochii tokko gochuu barbaaddaa?” jechuu caalaa eeyyamamuuf salphaa ta’uu danda’a.
 
-## Hojiiwwan manaa kamtu yaaluuf gaarii dha?
+## Hojiiwwan manaa kam yaaluun gaarii dha?
 
-Hojii nama sun duraan hojjechaa ture irraa jalqabaa, achiis wanta har’a danda’uuf walitti fufsiisaa.
+Hojiiwwan namichi duraan hojjechaa tureen jalqabaa, sana booda amma waan inni hojjechuu danda’u waliin walsimsiisaa.
 
-### Huccuu fi wantoota huccuu
+### Uffata fi meeshaalee siree
 
-- **Tawuulii fi huccuu xiqqaa maramuu.** Baaskeetii wantoota xiqqaa, diriiraa kennaa. Tawuuliin dogoggora hin qabu: karaa dogoggoraa itti maramu hin jiru.
-- **Sokiisii wal-qabsiisuu.** Tuullaa makaa minjaala irra kaa’aa. Yoo wal-qabsiisuun ulfaate, halluu baay’ee garaagarummaa qaban lama ykn sadi qofa fayyadamaa.
-- **Diriirsuu fi walitti tuulu.** Napkin, huccuu rafuu ykn huccuu qodaa diriirsanii walitti tuulamuu danda’a. Kun booda, yeroo maramuun tarkaanfii baay’ee ta’e, gaarii hojjeta.
+- **Fooxaa fi huccuu dhiqannaa miccuu.** Guuboo meeshaalee xixiqqoo fi diriiraa keessa jiraaniin kennaaf. Fooxaan miccuuf salphaa dha: karaa sirrii fi dogoggoraa hin qabu.
+- **Kaalsii walsimsiisuu.** Kaalsii walmakaa tuullaa ta’ee minjaala irra kaa’aa. Yoo walsimsiisuun ulfaate, halluu lama ykn sadii baay’ee adda ta’an qofa fayyadamaa.
+- **Sirreessuu fi tuullaa gochuu.** Naapkinii, uffata borsaa ykn huccuu meeshaa nyaataa sirreessanii tuullaa gochuun ni danda’ama. Kun yeroo miccuun tarkaanfiiwwan baay’ee ta’u boodarra gaarii dha.
 
-### Minjaalaa fi mana nyaataa
+### Maaddii fi mana bilcheessuu
 
-- **Minjaala qopheessuu.** Iddoo nyaataa tokko fakkeenya godhanii kaa’aa, nama sanaan akka koppii godhu eeyyamaa. Yoo kun baay’ee ta’e, tokko tokkoon kennaa: “Kunoo fork qodaa hundaaf.”
-- **Meeshaa nyaata filuu.** Fork, qaanqee fi billaa buddeena dibuu qulqulluu ruufata keessatti makaa, bakka addaa addaa qabu keessatti filaa. Billaa qara qabu hin dabalinaa.
-- **Qodaa goggogsuu.** Qodaan plaastikii ykn kan hin cabne fi tawuulii laafaa kana hojii nageenya qabu taasisa.
-- **Minjaala ykn bakka nyaata itti qopheessan qulqulleessuu.** Huccuu jiidhaa fi bakka qulqulluu. Alzheimer's Association yoo namni tokko harka isaatiin minjaala irratti rarra’aa jiraate huccuu kennuu gorsa, sochii boqonnaa hin qabne gara waan faayidaa qabuutti jijjiiruudhaan.
+- **Maaddii qopheessuu.** Meeshaa nama tokkoof barbaachisu tokko akka fakkeenyaatti kaa’aa, namichis akka hordofu godhaa. Yoo kun baay’ee ta’e, meeshaa tokko tokkoon kennaa: “Kun fookii saanii hundaaf.”
+- **Meeshaa nyaataa fooyyessuu.** Fookii, mooqaa fi haaduu dhadhaa qulqullaa’e qodaa keessa makaa, achiis gara qodaa garaagaraatti fooyyessaa. Haaduu qara qabu achi hin dhiisinaa.
+- **Meeshaa nyaataa gogsuuf gargaaraa ta’uu.** Meeshaa nyaataa pilaastikaa ykn kan hin caccabnee fi huccuu laafaa fayyadamuun kun hojii nageenya qabu ta’a.
+- **Maaddii ykn minjaala qulqulleessuu.** Huccuu jiidhaa fi fuula qulqullaa’e. Alzheimer's Association yoo namni tokko harka isaatiin maaddii sukkuumaa jiru, huccuu dhiyeessuun sochii tasgabbii dhabuu sana gara hojii fayyadamaa ta’etti jijjiiruu akka danda’u yaada kenna.
 
-### Naannoo mana keessaa
+### Naannoo mana keessa
 
-- **Awwaara haquu.** Huccuu awwaara haqu laafaa fi bakka jabaa muraasa, akka minjaala qaxxaamuraa ykn kaabinetii kitaabaa.
-- **Xalayaa poostaa (mail) filuu.** Xalayaa barbaachisaa hin taane fi kaataalogii tuullaa tokkoon tokkoon filuuf kennaa: kaa’uu, deebisanii fayyadamuu, booda banuu. Kaffaltii fi cheekii dhugaa bakka biraa kaa’aa.
-- **Wantoota deebi’anii fayyadaman filuu.** Qodaa, ittiin ruufata fi waraqaa qulqulluu baaskeetii adda addaatti.
-- **Qulqulleessuu (sweeping).** Broom xiqqaa kutaa alaa ykn dhaabbataa mana nyaataa irratti, yoo madaalli cimaa ta’e.
-- **Biqiltuu bishaan obaasuu.** Qodaa bishaan obaasuuf xiqqaa fi ulfaatina laafaa qabu fi biqiltuu muraasa ga’umsa keessa.
+- **Awwaara harca’uu.** Meeshaa awwaara harcaasuu laafaa fi fuulawwan cimaan muraasa, kan akka minjaala bunaafi minjaala kitaabaa.
+- **Ergaa poostaa fooyyessuu.** Ergaa poostaa hin barbaachifnee fi kaataalogii tuullaatti fooyyessuuf kennaa: kaa’i, irra deebi’ii fayyadami, boodarra bani. Kaffaltii fi cheekiin dhugaa iddoo biraatti kaa’aa.
+- **Meeshaalee irra deebi’anii fayyadamuu fooyyessuu.** Qodaa qulqullaa’e, qaruraa fi waraqaa gara qodaa garaagaraatti guuraa.
+- **Harma keessa darbuu.** Yoo dhaabbachuun isaa tasgabbaa’aa ta’e, harma xixiqqoo oobdii ykn lafa mana bilcheessuu irratti.
+- **Biqiltuuwwan bishaan obaasuuf.** Meeshaa bishaan obaasu xixiqqoo fi salphaa, akkasumas biqiltuuwwan muraasa salphaatti qaqqabaman.
 
-### Nyaata salphaa to’annoo wajjin
+### Bilcheessuu salphaa to’annoo waliin
 
-Nyaata bilcheessuun miira cimaa, gammachiisaa deebisuu danda’a. NIA nama sana meeshaa walitti qabsiisuu, safaruu, makuu fi dhangalaasuu, ykn nama biraatti nyaata jaallatan akkamitti akka tolchan himuu qofa akka eeyyamnu gorsa. Hojiiwwan gaarii:
+Bilcheessuun miira gaarii fi cimaa deebi’ee fiduu danda’a. NIA akka namichi mi’a bilcheessu walitti qabu, safaru, makuufi dhangalaasu hayyamu, ykn akkasuma nama biraatti akkaataa nyaata jaallatamaa tokko itti bilcheessan himu akka danda’u yaada kenna. Hojiiwwan gaariin kunooti:
 
-- kuduraa ykn muduraa dhiqachuu
-- batter ykn salaata qabbanaa’aa makuu
-- salaata (lettuce) harkaan citaa
-- toast billaa hin qaraa tokkoon dibuu
-- cookie dough qodaa irra kaa’uu
-- pizza irratti mi’aa dabaluu
+- kuduraa fi muduraa miicuu
+- qamadii sukkaaraa ykn salaadii qabbanaa’aa makuu
+- salaaxaa tarsaasuu
+- daabboo tostee haaduu hin qaratiin dibuu
+- qamadii kukii tiraayii irra kaa’uu
+- pizaarratti waan irra kaa’amu kaa’uu
 
-Yoo safaruun rakkisaa ta’e, Alzheimer's Association isin safaruu xumurtanii achiis tarkaanfii biraa, akka makuu, kennuu gorsa.
+Yoo safaruun ulfaate, Alzheimer's Association akka isin safaruu xumurtanii tarkaanfii biraa, kan akka makuu, kennitan yaada kenna.
 
-## Hojii akka gaariitti deemu akkamitti qopheessuu?
+## Hojii tokko akka gaariitti akka adeemu akkamitti qopheessuu danda’a?
 
-1. **Yeroo sirrii filadhaa.** Yeroo guyyaa namni sun yeroo baay’ee boqotee fi tasgabbaa’aa jiru filadhaa. Namoota baay’eef kun ganama.
-2. **Iddoo qulqulleessaa.** Hojii tokko, minjaala tokko, minjaala irra wanta dabalataa hin kaa’inaa.
-3. **Affeeraa, hin ajajinaa.** “Kana irratti harka gargaarsaa barbaada” jechuun “Yeroon huccuu maramuu ga’eera” jechuu caalaa gaarii hojjeta.
-4. **Isa jalqabaa agarsiisaa.** Tawuulii tokko suuta jedhaa maraa, achiis itti aanu kennaa. Agarsiisuun ibsuu caalaa ifaa dha.
-5. **Tarkaanfii tokko yeroo tokkotti kennaa.** Qajeelfama baay’ee yeroo tokkotti nama dhiibuu danda’a. Tarkaanfiin tokko hanga xumuramutti eegaa, achiis kan itti aanu moggaasaa.
-6. **Cinaa cinaa hojjedhaa.** Hojii wal-fakkaatu waliin hojjechuun hiriyummaa fakkaata, to’annoo miti.
-7. **Waa’ee hojii, bu’aa osoo hin ta’in, haasa’aa.** “Kun baay’ee laafaa dha” ykn “Kaabinetii huccuu akkamitti eeguu jaallatte naaf himi” jechuun nama osoo hin qoratin haasa’uuf affeera.
+1. **Yeroo mijaa’aa filadhaa.** Yeroo guyyaa namichi yeroo baay’ee boqotee fi tasgabbaa’aa ta’u filadhaa. Namoota baay’eef kun ganama ta’a.
+2. **Iddoo sana qulqulleessaa.** Hojii tokko, fuula tokko, minjaala irratti wanti biraa hin jiraatin.
+3. **Affeeraa, hin ajajinaa.** “Kana irratti na gargaartaa” jechuun, “Yeroon uffata miccuuti” jechuu caalaa gaarii dha.
+4. **Tokkoffaa agarsiisaa.** Fooxaa tokko suuta miccaa, sana booda itti aanu kennaaf. Agarsiisuun ibsuu caalaa ifa dha.
+5. **Tarkaanfii tokko tokkon kennaa.** Qajeelfamni baay’een yeroo tokkotti kennamu nama dhiphisuu danda’a. Tarkaanfiin tokko utuu hin xumuramin isa itti aanu hin himinaa.
+6. **Cinaa cinaanii hojjadhaa.** Hojii wal fakkaatu cinaa cinaanii hojjechuun michummaa fakkaata, to’annoo miti.
+7. **Waa’ee bu’aa osoo hin taane waa’ee hojii sanaa haasa’aa.** “Kun baay’ee laafaa dha” ykn “Kutaan uffataa akkamitti qindeessuu jaallatta turte natti himi” jechuun haasawa nama gaafatu osoo hin qoratin kakaasa.
 
-## Dandeettiin yeroo jijjiiramu hojii akkamitti sirreessuu?
+## Yeroo dandeettiin jijjiiramu hojiiwwan akkamitti mijachuu danda’a?
 
-Dandeettiin yeroo wajjin, akkasumas guyyaa gara guyyaatti jijjiiramuu danda’a. Alzheimer's Association dhukkubni yeroo guddatu gara hojiiwwan salphaa fi irra deddeebi’uutti ceesisuu gorsa.
+Dandeettiin yeroo yeroon, akkasumas guyyaa guyyaadhaan jijjiiramuu danda’a. Alzheimer's Association yeroo dhukkubichi gara fuula duraatti deemu hojiiwwan salphaa fi irra deddeebi’amanitti akka ce’an yaada kenna.
 
-| Yoo kun rakkisaa ta’e | Kana yaalaa |
+| Yoo kun ulfaate | Kanaa bakka yaalaa |
 | --- | --- |
-| Huccuu rafuu guddaa maramuu | Tawuulii xiqqaa maramuu ykn napkin diriirsuu |
-| Minjaala guutuu qopheessuu | Teessoo tokkoon tokkoon napkin tokko kaa’uu |
-| Xalayaa poostaa gosa addaa addaatti filuu | Envelope tuullaa tokko keessa walitti tuulu |
-| Mi’a nyaataa hordofuu | Makuu, ykn osoo bilcheessitanii ilaaluu fi mi’aa’uu |
-| Mana guutuu qulqulleessuu | Minjaala xiqqaa tokko qulqulleessuu |
-| Hojicha gonkumaa hojjechuu | Isin wajjin taa’anii isin hojjechuu keessan isin wajjin ta’uu |
+| Uffata siree gurguddaa miccuu | Huccuu dhiqannaa miccuu ykn naapkinii sirreessuu |
+| Maaddii guutuu qopheessuu | Teessoo tokko tokkoof naapkinii tokko kaa’uu |
+| Ergaa poostaa akaakuu irratti fooyyessuu | Envelopii tuullaa tokkotti tuuluu |
+| Ajaja bilcheessuu hordofuu | Makuu, ykn yeroo isin bilcheessitan ilaaluu fi dhandhamuu |
+| Lafa guutuu harma keessa darbuu | Minjaala xixiqqoo tokko qulqulleessuu |
+| Hojii sana hojjechuu | Yeroo isin hojjettan isin waliin taa’uu fi hiriyyaa ta’uu |
 
-Ilaaluunis ni lakkaa’ama. NIA namoonni tokko tokko ilaaluu qofa akka jaallatan, kunis karaa gaarii hirmaachuu akka ta’e ibsa.
+Ilaaluunis hirmaachuu dha. NIA namoonni tokko tokko ilaaluu qofa akka jaallatan, kunis karaa gaarii hirmaachuu ta’uu akka danda’u ibsa.
 
-## Hojiiwwan manaa akkamitti nageenya qabeessa taasisuu?
+## Hojiiwwan manaa akkamitti nageenyaan hojjechuu danda’a?
 
-Nageenyi dursa, keessumaa mana nyaataa keessatti. [Gorsa nageenya mana kunuunsitoota Alzheimer'sf NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) kanneen of keessaa qaba:
+Nageenyi dura dhaabata, keessumaa mana bilcheessuu keessatti. Gorsi NIA kan [nageenya manaaf kunuunsitoota Alzheimer's](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) of keessaa qaba:
 
-- Meeshaa qulqulleessaa, paakeetii dhiqannaa huccuu kan mi’aa fakkaatu dabalatee, cufaa ykn baasaa.
-- Billaa, qaraa fi meeshaa humnaan hojjetu iddoo cufame keessa kuusaa.
-- Stove irratti qabduu nageenyaa fi cufaa ofumaa (automatic shut-off) dabalaa.
-- Mallattoo “Dhaabi” ykn “Baay’ee ho’aa dha” oven, toaster fi ayiranii bira, bakka ibiddi itti hin qabsiifne, kaa’aa.
-- Meeshaa bishaan ho’isu 120°F (tilmaamaan 49°C) irratti kaa’aa, balaa gubuu xiqqeessuuf.
-- Muduraa fakkeessaa fi maagneetii mi’a nyaata fakkaatan, nyaatamuu danda’u fakkaatan, baasaa.
+- Meeshaalee qulqullinaa, paakiiwwan saaphanaa detergentii kanneen karamella fakkaachuu danda’an dabalatee, cufaatii kaa’aa ykn iddoo sana irraa fageessaa.
+- Haaduu, maqasii fi meeshaalee humnaatiin hojjetan iddoo cufametti kaa’aa.
+- Qabduu ibiddaa irratti qabduu nageenyaa fi meeshaa ofumaan cufu itti dabalaa.
+- Naannoo oovinii, toostarii fi awuddaa ibiddaa irratti mallattoo “Dhaabi” ykn “Baay’ee ho’aadha” kanneen ibidda qabsiisuu hin dandeenye kaa’aa.
+- Bishaan ho’aa 120°F irratti sirreessaa balaa gubuu hir’isuuf.
+- Muduraa sobaa fi maagneetiiwwan bifa nyaataa qaban fageessaa, sababni isaas nyaatamuu danda’an fakkaachuu danda’uuf.
 
-Gochoonni hojii irra oolu muraasni dabalataa ni gargaaru:
+Amaloonni hojii gaarii dabalataa muraasnis ni gargaaru:
 
-- Yeroo stove, oven ykn meeshaan qara qabu fayyadamamu hunda kutaa keessa turaa.
-- Qodaa hin cabne goggogsuu fi minjaala qopheessuuf fayyadamaa.
-- Yeroo qulqulleessitan ykn bishaaniin dhiqitan, dhaabbataan goggogaa fi qulqulluu ta’ee haa turu.
-- Yoo namni sun duraan meeshaa fayyadamaa ture, Alzheimer's Association meeshaa balaa qabu mana hojii keessaa baasuu gorsa, kanaafuu hojiin nageenya qabu, akka muka sirreessuu (sanding), ammallee itti gammaduun danda’ama.
+- Yeroo ibiddi ibiddaa, ooviniin ykn meeshaan qara qabu hojiirra jiru kamiyyuu kutaa sana keessatti argamaa.
+- Meeshaa nyaataa gogsuufi maaddii qopheessuuf meeshaa hin caccabne fayyadamaa.
+- Yeroo harma keessa darbitan ykn qulqulleessitan lafa gogaa fi qulqullaa’e kaa’aa.
+- Yoo namichi duraan meeshaalee hojjechaa ture, Alzheimer's Association hojii nageenya qabu, kan akka muka xixiqqoo rirrachuu, ammallee akka itti gammaduuf meeshaalee balaaf saaxilan iddoo hojii muka irraa akka fageessan yaada kenna.
 
-## Yoo “dogoggoree” hojjete hoo?
+## Yoo isaan “dogoggoraan” hojjetan hoo?
 
-Dhiisaa. Tawuuliin walakkaa osoo hin ta’in sadii irratti maramee ammallee tawuulii maramee dha. Alzheimer's Association ifatti ibsa: wanti barbaachisu yeroo waliin dabarsuu fi nama sun akka gargaaru dhaga’uu dha, tawuuliin sirriitti maramuu isaa miti. Yoo wanti tokko dhugumatti deebisuun barbaachise, booda eegaa, ija irraa fagaachuun godhaa.
+Akka jirutti dhiisaa. Fooxaan walakkaa osoo hin taane sadii ta’ee micame ammallee fooxaa micameedha. Alzheimer's Association ifatti ibsa: wanti barbaachisu yeroo waliin dabarsuu fi namichi fayyadamaa akka ta’e akka inni itti dhaga’amudha, fooxaan sirriitti micamee jiraachuu isaa miti. Yoo dhugumaan waan tokko irra deebi’amee hojjetamuu qabaate, boodarra utuu hin argin hojjedhaa.
 
-Yeroo sanatti sirreessuun hojii gammachiisaa wanta dhabame yaadachiisuutti jijjiiruu danda’a. “Galatoomaa, kun gargaarsa guddaa dha” yeroo hundaa kan jedhamu sirrii dha.
+Yeroo sana irratti sirreessuun hojii gammachiisaa tokko gara yaadachiisa waan badeetti jijjiiruu danda’a. “Galatoomi, kun gargaarsa guddaadha” jechuun yeroo baay’ee wanta sirrii jechuu qabdanidha.
 
 ## Yoom dhaabuu qabna?
 
-Mallattoo dhiphinaa, dadhabbii ykn fedhii dhabuu yeroo argitan dhaabaa ykn jijjiiraa. Dafee xumuruun bu’aa gaarii dha, kufuu miti. Isin:
+Yeroo mallattoo aarii, dadhabbii ykn fedhii dhabuu argitanitti dhaabaa ykn jijjiiraa. Yeroo malee xumuruu milkaa’ina gaariidha, kufaatii miti. Isin:
 
-- tarkaanfii salphaa ta’etti jijjiiruu
-- gara wanta boqonnaa, akka muuziqaa ykn buna xiqqoo, deemuu
-- booda ykn guyyaa biraa deebi’aa yaaluu
-- waliin taa’uu
+- gara tarkaanfii salphaatti jijjiiruu
+- gara waan tasgabbeessaa ta’etti, kan akka muuziqaa ykn bunaatti ce’uu
+- boodarra ykn guyyaa biraa irra deebi’aa yaaluu
+- akkasuma waliin taa’uu
 
-dandeessu.
+ni dandeessu.
 
-Yoo namni sun lakki jedhe, hin dhiibinaa. Deebii laafaa argachuuf [yeroo lakki jedhan maal gochuu](/caregiving/when-they-say-no/) ilaalaa.
+Yoo namichi lakki jedhe, hin dhiibinaa. Deebii laafaa kennuuf [yoo inni lakki jedhe maal gochuu akka qabdan](/caregiving/when-they-say-no/) ilaalaa.
 
-## Yeroo callisaa ta’e hojii salphaa dabalataa
+## Yeroo boqonnaa salphaaf yaada dabalataa salphaa
 
-Yeroo hojiiwwan qaamaa hin danda’amne, filuu fi wal-qabsiisuun taa’anii ni danda’ama. [Waliin garee qoodaa](/games/sort-together/) suuraawwan gara baaskeetii mana nyaataa ykn dhaabaatti tuquun akka galchitan isin dandeessisa, [Lamaan suuraa](/games/picture-pairs/) immoo taphni wal-fakkeessuu laafaa suuraa guddaa qabuu fi sa’aatii male dha. [Kaartii haasaa](/games/conversation-cards/) gaaffii banaa waa’ee mana fi maatii qaba, hojii booda buna wajjin gaarii hojjeta.
+Yeroo hojiiwwan qaamaa hin danda’amne, fooyyessuu fi walsimsiisuun taa’anii hojjechuun ammallee ni danda’ama. [Waliin Fooyyessaa](/games/sort-together/) suuraawwan gara guuboo mana bilcheessuuti ykn gara guuboo biqiltuutti tuquun akka fooyyessitan isiniif hayyama, [Suuraa Walsimsiisu](/games/picture-pairs/) immoo tapha walsimsiisuu laafaa suuraawwan gurguddaa fi sa’aatii malee dhiyeessuudha. [Kaardii Haasaa](/games/conversation-cards/) gaaffiiwwan banaa waa’ee manaafi maatii qaban qaba; kunis erga hojiin xumuramee booda bunaa waliin gaarii ta’a.
 
-Hojiiwwan guyyaa keessatti galchuuf gargaarsa argachuuf, [sagantaa guyyaa tasgabbaa’aa](/activities/daily-routine/) ilaalaa. Yaada dabalataa sadarkaadhaan argachuuf, [hojiiwwan sadarkaa giddu galeessaa](/activities/middle-stage/) ilaalaa.
+Hojiiwwan guyyaa keessa akkamitti qindeessuu akka dandeessan gargaarsaaf, qajeelfama keenya [sirna guyyaa tasgabbaa’aa](/activities/daily-routine/) ilaalaa. Yaadota dabalataa sadarkaa irratti hundaa’aniif [sochiiwwan sadarkaa giddugaleessaa](/activities/middle-stage/) ilaalaa.

@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Misala ya lisanga mpo na bokɔnɔ ya kobosana: Lisungi"
+seoTitle: "Misala ya lisanga: Bingo, nzembo, masolo"
+description: "Misala ya lisanga mpo na bandako ya kobatela: bingo ya bilili, nzembo mpe masolo, na matoyi mpo na kofanda mpe bonene ya lisanga."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Misala ya malamu ya lisanga na bandako ya kobatela mpe na manaka ya moyi
+  ezalaka mokuse, ya boyebi mpe mpasi te mpo na kosangana na ndenge nyonso:
+  bingo ya bilili, koyemba elongo, masolo ya makambo ya kala, mikuwa ya pete
+  mpe masano ya maloba oyo bosalaka elongo. Bobatela masanga ya mike soki
+  ekoki, bofandisa bato mpo ete moto nyonso amona mpe ayoka, bopesa litambe
+  moko ya polele na mbala moko, mpe bobongisa mosala ya pete mpe nzela ya
+  kobima na kimya mpo na moto nyonso oyo azali na yango posa.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Masanga ya mike esalaka malamu mbala mingi koleka molulu moko ya monene, mpe epesaka bato mingi nzela ya kosala eloko, na esika ya kotala kaka."
+  - "Bofandisa bato na libungutulu to na lolenge ya fer à cheval, pene ya mokambi, na kotalaka bamposa ya koyoka mpe ya komona, mpe bokanga makelele ya zingazinga."
+  - "Bobongisa mosala moko na moko na bakelasi mibale to misato mpo ete bato ya makoki ndenge na ndenge bakoka kosangana."
+  - "Boboya kotuna mituna ya komeka boyebi, kotánga bapɔ́intɛ mpe koluka molongi. Bingo ya bilili ekoki kosalama kino karte ya moto nyonso etonda."
+  - "Kobima liboso, kotala, to kolala mwa moke ezali mabe te. Bozala na mosali oyo azali pene mpo na kosunga moto nyonso oyo alingi esika ya kimya mingi."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Bonene nini ya lisanga ezali malamu mpo na misala ya bato oyo bazali na bokɔnɔ ya kobosana?"
+    a: "Motángo moko ya solo ezali te, mpe yango etali bato oyo bozali na bango, shambre mpe motángo ya basali. Bikiembe mingi emonaka ete masanga ya mike epesaka moto nyonso nzela ya komona, koyoka mpe kosangana, nzokande milulu ya minene etikaka bato mingi bazali kotala kaka. Soki bosali molulu ya monene, bobakisa basali to basungi oyo bakoki kofanda kati ya bato mpe kosunga moto moko to mibale."
+  - q: "Ndenge nini nakoki kokamba lisanga oyo ezali na bato ya makoki ndenge na ndenge?"
+    a: "Bobongisa banzela ebele ya kosangana na mosala moko na moko. Na koyemba elongo, bato mosusu bakoyemba maloba nyonso, basusu bakobɛta mabɔkɔ to kobimisa mongongo na monɔkɔ ekangami, mpe basusu bakosimba eloko ya kobimisa makelele. Na bingo ya bilili, bato mosusu bakoluka bilili na bango moko, nzokande mosungi akolakisa mosusu na monɔkɔ. Bofandisa bato oyo bazali na posa ya lisungi mingi pembeni ya mosali to ya mosungi."
+  - q: "Ndenge nini nakoki kosala bingo ya bilili kozanga kobongisa yango lokola momekano?"
+    a: "Bobenga bilili nyonso kino karte ya moto nyonso etonda, mpo ete moto moko te atikala libanda. Boloba mwa moke na ntina ya elilingi moko na moko ntango ebimi, mpe botika lifuta mpo na balongi to bopesa moto nyonso eloko moko ya moke ya ndenge moko. Ntina ezali kotalela eloko moko elongo mpe kosolola, kasi te koyeba nani asili liboso."
+  - q: "Nakoki kosalela masano na bino na ekran ya monene na lisanga?"
+    a: "Iyo. Masano na biso esalaka na navigateur web, yango wana bokoki kofungola yango na ordinatɛrɛ ya mabɔkɔ to na tablɛti oyo ekangami na televizyɔ to na projecteur. Picture Bingo ezali na bakarte ya kobimisa na imprimeri mpe mobengi oyo emonanaka na ekran. Finish the Saying mpe Picture Pairs esalaka mpe malamu na ekran ya monene ntango moto moko azali konyata mpo na lisanga."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Lisungi oyo ezali mpo na bakambi ya misala, bikiembe ya bandako ya kobatela mpe bakambi ya manaka ya moyi. Ezali kolobela ndenge ya misala ya lisanga oyo esalaka malamu, kobongisa shambre, kobongisa mosala moko mpo na bato ya makoki ndenge na ndenge, mpe kosalela bakarte na biso ya bingo ya kobimisa na imprimeri mpe masano na ekran ya monene. Nyonso awa ezali mpo na kimya, boyokani mpe boponi. Eloko moko te awa ezali komeka boyebi.
 
-## What makes a group activity work in memory care?
+## Nini esalaka ete mosala ya lisanga esala malamu na esika ya kobatela?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Mosala ya malamu ya lisanga ezali ya boyebi, ya mokuse, mpasi te mpo na kosangana na kelasi nyonso mpe ezangi bokangami. [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ya Alzheimer's Association elobeli boyokani ya ntina lokola eloko oyo esungaka makambo oyo moto alingaka mpe baponami na ye, mpe epesaka nzela ya kopona mpe ya kolonga, ata soki bokɔnɔ ya kobosana ezali makasi mingi. Mokanda yango moko elobi mpe ete manaka ya kala etalelaka mbala mingi milulu moko to mibale ya minene na mokolo, epai bato bazwaka mbala mingi eteni na lolenge ya kotala kaka.
 
-That points to a few practical rules:
+Yango emonisi mibeko mike ya mosala:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Oyo eyebani eleki oyo ya sika.** Nzembo, masese, bilili mpe biloko ya bambula ya bolenge ya bato ezali mpasi te mpo na kosangana na yango.
+- **Mokuse eleki molai.** Bobongisa kolanda molai ya ntango oyo lisanga na bino ekoki kotya likebi, na esika ya kopema na kati.
+- **Kosala eleki kotala.** Bopesa moto nyonso eloko ya kosimba, konyata, kopona to koloba.
+- **Bakelasi ebele, mosala moko.** Bobakisa banzela ya pete mpe ya mwa makasi mpo na kosangana.
+- **Balongi te, bapɔ́intɛ te.** Misala ya momekano etikaka bato mosusu bamiyoka lokola balongi te.
 
-## How big should the group be?
+## Lisanga esengeli kozala na bato boni?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Mike mbala mingi ezali pete. Alzheimer's Association elobi ete moto oyo ayokaka molulu ya monene lokola etondi mingi akoki koyokana malamu koleka na lisanga ya mike. Motángo moko ya solo ezali te. Yango etali bato oyo bozali na bango, shambre mpe motángo ya basali mpe ya basungi oyo bazali.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Momekano ya malamu: moto nyonso akoki komona elongi ya mokambi, koyoka malamu mpe kozwa lisungi ya mosungi na ba segɔndɛ mike? Soki te, bokabola lisanga, bobakisa basungi, to bokende na shambre ya mike.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Mpo na molulu ya monene, lokola konsɛrɛ ya bafɛti, bofandisa basali mpe basungi kati ya bato, kasi te pembeni ya bamir.
 
-## How should I set up the room and seating?
+## Ndenge nini nasengeli kobongisa shambre mpe bifandelo?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Libungutulu to lolenge ya fer à cheval.** Malako ya mosala elobeli ete libungutulu ya kokabola makanisi esalaka malamu na esika oyo ezali monene mpo ete moto nyonso afanda na libungutulu, kozanga makelele ya zingazinga.
+- **Mokambi azala pene mpe na nivo ya miso.** Bofanda na esika ya kotelema soki ekoki.
+- **Yango ya koyoka mpe ya komona liboso.** Bofandisa bato oyo bayokaka malamu te pene ya mokambi, na ngámbo na bango ya malamu. Botala soki balunɛti mpe bamasini ya koyoka ezali. Alzheimer's Association elobi ete mikakatano ya komona mpe ya koyoka ekoki kosala ete kosolola ezala makasi.
+- **Mwinda ewuta na sima ya bato, kasi te na sima na yo.** Boboya kofandisa moto nyonso atali lininisa ya pole oyo ezali kongɛnga makasi.
+- **Bokanga televizyɔ mpe radio.** Alzheimer's Association etoli kolongola makelele mosusu na ntango ya misala ya miziki.
+- **Lisolo moko na mbala moko.** Masolo mingi na mbala moko ezali makasi mpo na bato oyo bazali na bokɔnɔ ya kobosana mpe mpo na bato oyo bayokaka malamu te, ndenge Alzheimer's Association elobi na [malako na yango mpo na bafɛti](https://www.alz.org/help-support/caregiving/holidays).
+- **Bibimelo ya polele mpe esika ya kimya.** Moto nyonso oyo alingi kobima asengeli kozala na nzela ya pete, na mosali mpo na kotambola na ye.
 
-## Group activity ideas
+## Makanisi ya misala ya lisanga
 
-### Picture bingo
+### Bingo ya bilili
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo ya bilili etie bilili ya polele na esika ya bamitángo, lokola mbɛki ya tii, mbwa to lole, mpo ete moto moko te alanda motángo molai to atanga mikanda mike.
 
-**How to run it:**
+**Ndenge ya kosala yango:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Bobimisa karte moko mpo na moto moko na lokasa ya [Picture Bingo](/games/picture-bingo/) na kosalelaka butɔ ya kobimisa na imprimeri. Papye ya makasi esimbamaka malamu. Bokoka kokanga yango na plastiki mpo na kosalela yango lisusu.
+2. Bopesa bilembo ya monene mpe ya pete mpo na kosimba, lokola jetons ya poker, bakokolo ya milangi to biteni ya karte ekatami.
+3. Bosalela mobengi ya ekran na televizyɔ to na projecteur mpo ete moto nyonso amona elilingi ntango ozali koloba nkombo na yango.
+4. Bopema mwa moke sima ya elilingi moko na moko mpe bobengisa na lisolo ya mokuse: « Moto alingi koyebisa biso likambo ya mbwa oyo ayebaki? » to « Ozali komona nini awa? »
+5. Bokoba kobenga kino karte nyonso etondi. Moto nyonso asili.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Kobongisa yango:** Bosalela bakare mike mpo na bato oyo bamoni karte mobimba lokola etondi mingi. Mosungi akoki kolakisa elilingi oyo ekokani mpo na moto oyo azali na yango posa. Bato mosusu bakoki kolinga kosimba karte ya mobengi mpe kolakisa yango na lisanga.
 
-### Sing-alongs
+### Koyemba elongo
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Miziki ezali moko ya misala ya lisanga oyo bato bamingi basepelaka na yango. Alzheimer's Association elobi ete ata na biteni ya nsuka, moto akoki kokoka [kobɛta rythme to koyemba nzembo ya bolenge na ye](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Ndenge ya kosala yango:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Bopona nzembo oyo bato bakolaki na yango, kasi te oyo mokambi alingaka. Botuna mabota oyo moto moko na moko alingaka.
+- Bosalela miziki kozanga piblisite, oyo, kolanda Association, ekoki kotia mobulu na makanisi.
+- Bobimisa maloba ya nzembo na mikanda ya minene mpo na baoyo batangaka, kasi bosɛnga yango te.
+- Bopesa biloko ya kobimisa makelele, mbonda ya mabɔkɔ to bitambala ya kopɛpa.
+- Bolendisa kobɛta mabɔkɔ mpe koningana, mpe bobatela nivo ya mongongo oyo ezali malamu.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Kobongisa yango:** Bato mosusu bakoyemba maloba nyonso, basusu bakobimisa mongongo na monɔkɔ ekangami, basusu bakobɛta makolo, mpe basusu bakoyoka kaka. Nyonso wana ezali malamu. Botala [lisungi na biso ya misala ya miziki](/activities/music/) mpo na makambo mosusu.
 
-### Reminiscence groups
+### Masanga ya kokundola makambo ya kala
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Lisanga ya kokundola makambo ya kala esangisaka bato zingazinga ya likambo moko, lokola mikolo ya kelasi, mituka ya liboso, kikuku to eleko ya moi, na kosalelaka bafɔtɔ, biloko mpe miziki. Mokano ezali masolo ya esengo, kasi te kokundola makambo na bosikisiki nyonso.
 
-**How to run it:**
+**Ndenge ya kosala yango:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Bopona likambo moko mpe boya na biloko mike oyo bato bakoki kosimba: masini ya kosangisa bilei na mabɔkɔ, gan ya baseball, ekoti, to buku ya mpozó ya bilanga.
+2. Bolekisa eloko moko na mbala moko. Botuna mituna ya kofungwama: « Yebisa ngai likambo ya oyo, » « Ozali komona nini? » « Nani asalelaki eloko ya boye? »
+3. Boyamba eyano nyonso. Bobongisa mokolo to likambo moko te.
+4. Botambwisa masolo na ngámbo ya makambo ya esengo. Malako ya mosala elobi ete basali ya kobatela basengeli kotambwisa kokundola makambo na ngámbo ya makambo ya malamu, kasi te oyo ekoki kobimisa mawa.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) epesaka bakarte ya bilili ya kobimisa na imprimeri oyo ezali na mituna ya kofungwama na mitó ya makambo ndenge na ndenge, oyo esalaka malamu mpo na kobanda masolo. Makanisi mosusu ezali na [lisungi na biso ya kokundola makambo ya kala](/activities/reminiscence/).
 
-### Finish the saying
+### Silisa lisese
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Masese oyo eyebani (« Moto abombi mbongo abombi... ») ebengisaka moto nyonso mpo na koloba nsuka elongo. Bolakisa [Finish the Saying](/games/finish-the-saying/) na ekran ya monene mpe botika lisanga eyano na mongongo moko. Ezali na lituna ya kosolola sima ya lisese moko na moko. Soki moto moko te alobi nsuka, bolakisa yango mpe bokoba. Eyano ya malamu to ya mabe ezali te.
 
-### Large-print word search, together
+### Boluki ya maloba na mikanda minene, elongo
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Bolakisa [Word Search](/games/word-search/) ya mikanda minene na ekran mpe boluka maloba lokola lisanga, to bobimisa bakopi mpo na baoyo basepelaka kosala yango bango moko na mesa. Maloba ekendaka kaka na mokɔlɔ to na nse.
 
-### Gentle movement
+### Koningana ya malembe
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Kotandola nzoto na kofanda, kolekisa ndembo ya pete to balɔ, to kobina na kiti na miziki ya boyebi. Bolakisa koningana moko na moko na esika ya kolimbola yango.
 
-### Sorting and matching at the table
+### Kopona mpe kokokanisa na mesa
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Bamesa ya mike ya bato misato to minei bakoki kopona bilili, biteni ya elamba to bisaleli ya mesa elongo. Na ekran, [Picture Pairs](/games/picture-pairs/) ekoki kosalama na bilili oyo etikali polele, na moto moko oyo azali konyata ntango mesa ezali kolobela elilingi moko na moko.
 
-## How do I use your games on a big screen?
+## Ndenge nini nakoki kosalela masano na bino na ekran ya monene?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Masano na biso esalaka na navigateur web, yango wana bokoki kosalela yango na televizyɔ to na projecteur kozanga kotia eloko moko.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Bofungola lisano na ordinatɛrɛ ya mabɔkɔ to na tablɛti oyo ekangami na ekran na nzela ya káble to na kobwaka elilingi.
+2. Botia navigateur na ekran mobimba mpe bobongisa mongongo na nivo ya malamu.
+3. Botika mokambi moko anyata ntango lisanga ezali kobenga baponami. To bolekisa tablɛti na moto oyo alingi komeka.
+4. Botika ntango nyonso oyo lisanga ezali pene. Masano ezali na elembo ya ntango te, na bapɔ́intɛ te mpe na nsuka ya makasi te.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) mpe [Conversation Cards](/games/conversation-cards/) ebongi malamu mingi mpo na masanga. Botala baponami nyonso na [lokasa na biso ya masano](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Ndenge nini nakoki kobongisa mosala moko mpo na bato ya makoki ndenge na ndenge?
 
-Plan at least three ways to join every activity.
+Bobongisa ata banzela misato ya kosangana na mosala moko na moko.
 
-| Activity | More independent | Some support | Most support |
+| Mosala | Na bonsomi mingi | Na mwa lisungi | Na lisungi mingi |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo ya bilili | Alukaka mpe azipaka bilili na ye moko | Mosungi alakisaka; moto azipaka | Asimbaka karte ya elilingi; ayokaka mpe atali |
+| Koyemba elongo | Ayembaka, aponaka nzembo oyo elandi | Abimisaka mongongo na monɔkɔ ekangami, abɛtaka mabɔkɔ, asalelaka eloko ya makelele | Ayokaka, asimbaka elamba, abɛtaka lobɔkɔ |
+| Kokundola makambo ya kala | Ayebisaka masolo | Ayano na iyo to te to alakisaka na monɔkɔ | Asimbaka mpe ayokaka eloko na mabɔkɔ |
+| Boluki ya maloba | Asalaka kopi na ye moko oyo ebimisami | Alukaka maloba na ekran ya monene na lisungi ya mosungi | Ayokaka ntango maloba ezali kotangama |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Mpo na bato oyo bazali na biteni ya nsuka ya bokɔnɔ ya kobosana, NHS elobi ete misala esengeli mbala mingi kozala pete mpe kotya likebi mingi na mayoki, lokola miziki, biloko ya kosimba mpe kosilisa mabɔkɔ. Ntango moko na moko kati ya lisanga to sima ya lisanga ekoki kobonga malamu koleka lisanga yango moko. Botala [misala mpo na biteni ya nsuka](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Bakambi basengeli koloba ndenge nini na ntango ya lisanga?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Bomilakisa mbala nyonso, mpe bosalela nkombo oyo moto moko na moko alingaka.
+- Boloba malembe, bopesa litambe moko na mbala moko, mpe bolakisa liboso ya koloba.
+- Botuna na lolenge ya kobengisa na masolo (« Yebisa ngai likambo ya... ») to na baponami ya pete, kasi ata moke te mituna ya komeka boyebi (« Ozali kokanisa...? »).
+- Bobongisa te. Bozongisela moto nyonso matɔndi mpo na likabo na ye.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Mpo na makambo mosusu, botala [matoyi na biso ya kosolola](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Kosukisa malamu, mpe kotika bato bakende
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Kotika ezali mbano ya malamu. Botala bilembo oyo emonisi ete moto alembi, azali na kimia te to azali kosepela te, mpe botia mosungi pene mpo na kopesa ye nzela ya kotambola to kofanda na kimya na esika mosusu. Moto oyo azali kolala mwa moke na ntango ya koyemba elongo akoki kozala kaka na kimya.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Bosukisa lisanga nyonso na ndenge moko, na nzembo ya boyebi to na matɔndi ya pete, mpo ete nsuka eyoka kimya mpe eyebani. Sima na yango, bokoma makambo oyo esalaki malamu mpe oyo moto moko na moko asepelaki na yango. Makomi yango ekosala ete likita oyo elandi ezala malamu koleka.

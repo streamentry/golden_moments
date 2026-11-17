@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Zokumbukira: Mabokosi, Nkhani za Moyo ndi Zithunzi"
+seoTitle: "Zokumbukira pa Matenda a Kuiwalika: Popanda Mafunso"
+description: "Mmene mungakumbukirire limodzi ndi munthu amene akukhala ndi matenda a kuiwalika popanda kumufunsa mafunso: zithunzi, mabokosi okumbukira ndi mabuku a nkhani ya moyo."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Kukumbukira kumatanthauza kusangalala ndi zakale limodzi pogwiritsa ntchito
+  zithunzi, zinthu, nyimbo ndi nkhani. Pangani bokosi lokumbukira, konzani buku
+  losavuta la nkhani ya moyo, kapena onani zithunzi limodzi. Musamufunse mafunso
+  oyesa kukumbukira: pewani "Mukukumbukira?" ndi "Uyu ndani?" ndipo gwiritsani
+  ntchito mawu oyitana monga "Tandiuzani za ichi." Kucheza mwachikondi n'kofunika
+  kuposa kunena zinthu molondola.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Kukumbukira ndi kucheza, osati kuyesa. Kulondola sikofunikira; kusangalala n'kofunika."
+  - "M'malo mwa 'Mukukumbukira...?' ndi 'Uyu ndani?', nenani zomwe mukuwona kapena muyitane ndi mawu ngati 'Tandiuzani za tsiku limeneli.'"
+  - "Bokosi lokumbukira lokhala ndi zinthu za moyo wa munthuyo limapatsa manja ndi kucheza chinthu chogwirira."
+  - "Buku la nkhani ya moyo limathandiza banja, alendo ndi anthu osamalira kudziwa munthuyo, osati matenda okha."
+  - "Ngati chokumbukira china chabweretsa chisoni, m'tonthozeni kaye ndipo sinthani nkhani mofatsa."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Kodi kukumbukira n'chiyani kwa anthu amene akukhala ndi matenda a kuiwalika?"
+    a: "Kukumbukira ndi kugawana zokumbukira ndi zomwe zinachitika m'mbuyomu, nthawi zambiri mothandizidwa ndi zithunzi, zinthu, nyimbo kapena mavidiyo. Zikhoza kuchitika munthu mmodzi ndi mmodzi kapena pagulu. Cholinga chake ndi kucheza kosangalatsa komanso katanthauzo, osati kuyesa zomwe munthuyo angakumbukire."
+  - q: "N'chifukwa chiyani ndisamufunse kuti 'Mukukumbukira?'"
+    a: "Mafunso oyesa kukumbukira angapangitse munthu kuchita manyazi kapena kukhala ndi nkhawa ngati yankho silikubwera. National Institute on Aging imatchula kufunsa ngati munthu akukumbukira chinthu kapena munthu wina monga chimodzi mwa zinthu zoyenera kupewa. M'malo mwake, nenani zomwe mukuwona ndipo lolani munthuyo awonjezere chilichonse chimene akufuna."
+  - q: "Ndi zinthu ziti zomwe ndiyenera kuika m'bokosi lokumbukira?"
+    a: "Sankhani zinthu zotetezeka komanso zolimba zokhudzana ndi moyo wa munthuyo: zinthu za kuntchito, za zosangalatsa, mpango wokondedwa, makadi a positi, makadi a maphikidwe, zinthu zokumbukira zamasewera kapena makope a zithunzi. Pewani zinthu zakuthwa, zinthu zazing'ono zomwe zingamezedwe, ndi zoyambirira zomwe sizingalowedwe m'malo."
+  - q: "Bwanji ngati anena zinthu molakwika?"
+    a: "Ingosiirani. Ngati amayi anu anena kuti chithunzi chikuonetsa mlongo wawo pomwe ndi msuweni wawo, palibe vuto. Kukonza kumasintha mphindi yachikondi kukhala mayeso. Tsatirani nkhani yomwe akunena ndipo sangalalani limodzi."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Kukumbukira kumatanthauza kungosangalala ndi zakale limodzi. Kwa anthu ambiri amene akukhala ndi matenda a kuiwalika, zokumbukira za zaka zambiri zapitazo zimakhala zomveka bwino kuposa zomwe zinachitika m'mawa uno. Zithunzi, zinthu zodziwika, nyimbo ndi nkhani zingatsegule zokumbukira zimenezo ndikukupatsani chinthu chachikondi chogawana. Lamulo limodzi lokha: ndi kucheza, osati mayeso.
 
-## What is reminiscence, and how is it different from quizzing?
+## Kodi kukumbukira n'chiyani, ndipo kusiyana kwake ndi kufunsa mafunso n'kotani?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Kukumbukira ndi kugawana zokumbukira kudzera mu zithunzi, zinthu, nyimbo kapena mavidiyo, pa liwiro la munthuyo. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) imafotokoza kuti ndi kugawana zomwe zinachitika m'mbuyomu ndi nkhani mothandizidwa ndi zithunzi, zinthu, mavidiyo kapena nyimbo, m'buku kapena pa tabuleti. Kufunsa mafunso ndi kosiyana: kumapempha munthuyo kuti apereke yankho lolondola, ndipo zimenezo zingabweretse manyazi m'malo mwa chisangalalo.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) imatchula kufunsa munthu ngati akukumbukira chinthu kapena munthu wina monga chinthu choyenera kupewa. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) imalangiza kupewa mafunso omwe amadalira kukumbukira kwakanthawi kochepa ndikulankhula za zakale zakutali m'malo mwake.
 
-| Instead of | Try |
+| M'malo mwa | Yesani |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Mukukumbukira ichi?" | "Ichi chikuoneka ngati tsiku losangalatsa. Tandiuzani za icho." |
+| "Uyu ndani?" | "Uyu ndi Aunt Rose ku gombe. Taonani chisoti chimenecho." |
+| "Ichi chinali chaka chiti?" | "Ichi chikuoneka ngati nyumba yakale. Kunali bwanji kukhala kumeneko?" |
+| "Ayi, si Bill, ndi Frank." | "Akuoneka kuti anali wosangalatsa kwambiri." |
+| "Mwandiuza kale zimenezo." | "Ndimakonda nkhani imeneyo." |
 
-## How do you talk about photos without quizzing?
+## Kodi mungalankhule bwanji za zithunzi popanda kufunsa mafunso?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Yambani ndi zomwe mukuwona, kenako siyani mpata kuti munthuyo awonjezerepo ngati akufuna.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Khalani pafupi limodzi.** Gwirani chimbale pakati panu kuti muziyang'ana limodzi, osati kuyesana patebulo.
+2. **Sankhani zithunzi zochepa.** Zithunzi zisanu zabwino ndi bwino kuposa bokosi lonse. Zithunzi zazikulu komanso zomveka bwino zimagwira ntchito bwino.
+3. **Tchulani mayina a anthu nokha.** "Uyu ndi inu ndi Bambo pa tsiku la ukwati wanu" kumachotsa kukakamizidwa.
+4. **Nenani za zinthu zazing'ono.** Zovala, magalimoto, chakudya, nyengo, nkhope. "Galimoto yokongola. Ikuoneka yonyezimira."
+5. **Itanani, osalamula.** "Tandiuzani za..." kapena "Mukuona chiyani?" Kukhala chete kulibe vuto.
+6. **Tsatirani zomwe akufuna.** Ngati ayamba kulankhula za chinthu china, tsatirani zimenezo.
+7. **Lekani pamene zili zosangalatsa.** Tsekani chimbale kutopa kusanayambe.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Kuti mupeze zithunzi zokonzekera kuyambitsa kucheza, yesani [conversation cards](/games/conversation-cards/). Kuti musinthe zithunzi za banja lanu kukhala masewera osavuta ofananitsa, yesani [photo pairs](/games/photo-pairs/); zithunzi zomwe mwasankha zimakhala mu msakatuli wanu.
 
-## How do you make a memory box?
+## Kodi mungapange bwanji bokosi lokumbukira?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Bokosi lokumbukira ndi chidebe cha zinthu za moyo wa munthuyo kuti azigwire ndi kukambirana.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Sankhani bokosi lolimba** lomwe ndi losavuta kutsegula, monga bokosi la nsapato, bokosi la chisoti kapena bokosi laling'ono lamatabwa.
+2. **Sankhani mutu kapena sakanizani.** Ntchito, zosangalatsa, malo, zaka, kapena pang'ono pa chilichonse.
+3. **Sonkhanitsani zinthu zotetezeka.** Zinthu zisanu mpaka khumi ndizokwanira kuyamba.
+4. **Gwiritsani ntchito makope a zinthu zamtengo wapatali.** Pangani makope a zithunzi ndi zikalata zomwe sizingalowedwe m'malo ndipo sungani zoyambirira motetezeka.
+5. **Tulutsani chinthu chimodzi pa nthawi.** Perekani chimodzi, nenani kanthu pa icho, ndipo onani momwe kucheza kukupitira.
 
-Ideas to include:
+Malingaliro a zomwe mungaphatikizepo:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Ntchito:** baji ya dzina, chida chaching'ono, chigamba cha yunifolomu, buku la maakaunti, pini ya namwino, buku la maphikidwe la malo odyera.
+- **Pakhomo:** khadi la maphikidwe lolembedwa ndi manja awo, thaulo la tiyi, mpango kapena tayi yokondedwa.
+- **Zosangalatsa:** nyambo ya nsomba yopanda mbedza, mpira wa baseball, mpira wa ulusi, paketi ya mbewu.
+- **Malo:** makadi a positi, mamapu, chikumbutso cha ulendo, chidutswa cha nyuzipepala ya kwawo.
+- **Banja:** makope a zithunzi, chithunzi chojambulidwa ndi mwana, khadi loitanira ku ukwati.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Musaphatikizepo zinthu zakuthwa, zinthu zazing'ono zomwe zingamezedwe, kapena chilichonse chimene chingabweretse zokumbukira zopweteka pokhapokha mutadziwa kuti ndi cholandiridwa.
 
-## How do you make a life-story book?
+## Kodi mungapange bwanji buku la nkhani ya moyo?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Buku la nkhani ya moyo ndi chimbale chosavuta cha zithunzi ndi mawu ofotokozera achidule okhudza moyo wa munthuyo. Ndi chinthu choti muziyang'ana limodzi, ndipo chimathandiza alendo ndi anthu osamalira kuona munthuyo yonse.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Sankhani mawonekedwe ake.** Bainda yokhala ndi zotetezera mapepala, buku la zithunzi losindikizidwa, kapena chiwonetsero cha zithunzi pa tabuleti.
+2. **Konzani magawo ochepa.** Ubwana, sukulu, ntchito, banja, malo omwe anakhalako, chikhulupiriro, zosangalatsa, zakudya ndi nyimbo zokondedwa.
+3. **Ikani chithunzi chimodzi kapena ziwiri patsamba lililonse** ndi mawu ofotokozera achidule, a zilembo zazikulu: "Mary, wazaka 22, akuyamba ntchito ku banki."
+4. **Phatikizanipo zomwe amakonda ndi machitidwe ake.** "Amamwa khofi ndi mkaka. Amakonda nyimbo za Lamlungu. Sakonda TV yokweza mawu." Izi zimathandiza aliyense amene akumusamalira.
+5. **Phatikizanipo munthuyo** momwe angafunire, posankha zithunzi, kufotokoza nkhani kapena kungoonera pamene zikupangidwa.
+6. **Pitirizani kuwonjezera.** Sikuyenera kumalizidwa kuti chikhale chothandiza.
 
-## More reminiscence ideas
+## Malingaliro enanso okumbukira
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Imbani nyimbo za ubwana wawo** ndikukambirana komwe zikuwatengera. Onani [zochitika za nyimbo](/activities/music/).
+- **Onerani mavidiyo apanyumba kapena mapulogalamu a pa TV** a zaka zomwe amakonda.
+- **Phikani chakudya cha ubwana wawo** ndipo lolani fungo litsogolere kucheza.
+- **Onani mapu** a kwawo ndikutsatira misewu yodziwika.
+- **Gwirani makatalogu kapena magazini akale** ndikukambirana za mitengo, mafashoni ndi magalimoto.
+- **Jambulani nkhani zawo** pa foni, ndi chilolezo chawo, kuti banja likhale nazo.
+- **Gawanani panthawi ya mafoni.** Onetsani chithunzi chimodzi panthawi ya kuyimba kwa kanema; onani [mafoni ndi kuyimba kwa kanema](/activities/phone-and-video-calls/).
+- **Bwerani ndi chithunzi kapena chinthu mukadzacheza.** Zimapatsa ulendo chinthu chosavuta cholunjikitsa; onani [kucheza](/activities/visiting/).
 
-## What if a memory is painful?
+## Bwanji ngati chokumbukira chili chopweteka?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Zokumbukira zina zingabweretse chisoni, kudandaula kapena mantha. Ngati munthuyo wakhumudwa, imani, m'tonthozeni ndipo sinthani nkhani kapena zochitika mofatsa. Musatsutsane pa zomwe zinachitika. Family Caregiver Alliance imalangiza kuti musayesere kumutsimikizira munthu kuti walakwitsa ndipo imalimbikitsa kuyankha ku malingaliro omwe akuonetsa, omwe ndi enieni. Ngati akulankhula za munthu amene anamwalira ngati kuti ali moyo, yankhani ku malingaliro: "Mukumusowa. Tandiuzani za iye."
 
-## What does the research say?
+## Kodi kafukufuku amati chiyani?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Kuwunika kwa Cochrane pa kukumbukira](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), komwe kunaphatikizapo mayesero 22 ndi anthu 1,972, kunapeza kuti zotsatira zinali zosagwirizana, zazing'ono ndipo zimasiyana malinga ndi malo ndi njira. Sikunapeze umboni woti kumabweretsa mavuto kwa anthu amene akukhala ndi matenda a kuiwalika. Timalimbikitsa kukumbukira chifukwa kungapangitse nthawi yachikondi komanso yatanthauzo limodzi, osati ngati chithandizo. Kuti mudziwe zambiri za kucheza kosavuta, onani [malangizo olankhulirana](/caregiving/communication-tips/).

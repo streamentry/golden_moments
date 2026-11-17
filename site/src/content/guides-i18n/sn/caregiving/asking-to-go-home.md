@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Kana munhu ane dementia achigara achikumbira kuenda kumba"
+seoTitle: "Dementia: Kana achigara achikumbira kuenda kumba"
+description: "Sei munhu anorarama nedementia achikumbira kuenda kumba kunyange ari kumba, zvekutaura, zviitiko zvinonyaradza, uye nzira dzekumuchengeta akachengeteka."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Kana munhu ane dementia achigara achikumbira kuenda kumba, “kumusha”
+  kazhinji zvinoreva kunzwa akachengeteka kana nzvimbo yaaimbogara kare, kwete
+  chivakwa. Usapikise uchiti ari kumba. Bvuma manzwiro ake, muvimbise kuti
+  akachengeteka, mubvunze nezvekumba, wobva waenda zvinyoro nyoro kumifananidzo,
+  mimhanzi, chokudya chidiki, kufamba kana basa riri nyore. Tarisa kana ane
+  nzara, nyota, kuda kuenda kuchimbuzi kana kurwadziwa. Kana zvikatanga kamwe
+  kamwe, fonera chiremba wake.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "“Ndinoda kuenda kumba” kazhinji zvinoreva “Handisi kunzwa ndakachengeteka kana kuti ndakagadzikana,” kwete kukumbira kero."
+  - "Kupikisana kana kuratidza kuti ari kumba kazhinji kunowedzera kusagadzikana. Pindura manzwiro ake."
+  - "Mukumbire kuti akuudze nezvekumba kwake, wobva wamupa mifananidzo, mimhanzi, chokudya chidiki, kufamba kana basa riri nyore."
+  - "Tarisa kana paine chingagadziriswa: nzara, nyota, kuda kuenda kuchimbuzi, kurwadziwa, kupisa kana kutonhora zvakanyanya, ruzha, kuneta."
+  - "Kana zvikaitika masikati ega ega anonoka, zvinogona kunge zviri sundowning; gadziriro yakatsiga nechiedza chakanaka zvinogona kubatsira."
+  - "Ronga zvekuchengetedza kana akaedza kubuda, uye fonera chiremba wake kana paine shanduko inokurumidza kuitika."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Sei amai vangu vane dementia vachigara vachikumbira kuenda kumba kunyange vari kumba?"
+    a: "Dementia inogona kuita kuti makamuri aanoziva anzwe seasingazivikanwi, uye dzimwe nguva vanhu vanonzwa sokunge vari munguva yekare yehupenyu hwavo. “Kumba” kunogona kureva imba yehudiki kana kungonzwa vakachengeteka uye vakasununguka. Kupindura manzwiro iwayo kazhinji kunoshanda zviri nani pane kumuratidza kwaari."
+  - q: "Ndingati chii kana achikumbira kuenda kumba?"
+    a: "Edza kuti “Makachengeteka pano, uye ndichagara nemi,” wobva wati “Ndiudzei nezvekumba kwenyu.” Teerera, govana mufananidzo kana rwiyo, uye mupa chinwiwa kana kufamba kwenguva pfupi. Dzivisa kuti “Muri kumba” sekumugadzirisa, nekuti zvinogona kuita sokunge ari kuudzwa kuti akanganisa."
+  - q: "Zvakakodzera here kuti titi tichaenda kumba gare gare?"
+    a: "Mhuri nemasangano edementia anogona kusiyana nezvenyaya iyi. Vazhinji vanotanga nekunyaradza kwechokwadi uye kumutsa pfungwa itsva, vongochengetera kutaura kusiri kwechokwadi chaiko panguva dzinokosha apo chokwadi chingangokonzera kushungurudzika uko munhu asingakwanisi kubata. Chero zvamusarudza, ivai nemutsa uye muchienderana, uye musamboseka manzwiro ake pamusoro pezvaanoona sezvechokwadi."
+  - q: "Ko kana akaedza kubuda mumba?"
+    a: "Rambai makadzikama uye fambai naye pane kumuvharira; kufamba kwenguva pfupi kazhinji kunoderedza chido ichocho. Gadzirai matanho ekuchengetedza pachine nguva, akadai sebhandi reID, mabhero epamusuwo uye mufananidzo wake uchangobva kutorwa. Kana munhu akashaika, tarisai munzvimbo dziri pedyo dzakachengeteka muchibva mafonera mapurisa emunharaunda kana rubatsiro rwechimbichimbi nekukasika. Musamirira imwe nhamba yemaminitsi musati mazivisa."
+  - q: "Ndirini pandinofanira kufonera chiremba?"
+    a: "Fonera chiremba wake nekukasika kana kukumbira kana kuvhiringika kukatanga kamwe kamwe kana kukawedzera zvakanyanya mumaawa kana mumazuva, kunyanya kana paine fivha, mushonga mutsva kana zviratidzo zveutachiona hweweti. Kuvhiringika kunotanga kamwe kamwe kunogona kunge kuri delirium, kunoda rubatsiro rwechimbichimbi. Fonera 911 kana paine ari munjodzi."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+“Ndinoda kuenda kumba.” Kumhuri dzakawanda, aya ndiwo mashoko anogona kunetsa kunzwa, kunyanya kana munhu waunotarisira akagara muimba yake yekutandarira. Izvi zvinoitika kazhinji, zvinogona kuitika padanho ripi neripi redementia, uye pane nzira dzakadzikama, dzinoshanda dzekupindura. Peji rino rinotsanangura zvinowanzorehwa nemashoko aya, zvekutaura, zviitiko zvinogona kubatsira panguva iyoyo, uye nzira dzekuramba makachengeteka.
 
-## Why does someone with dementia keep asking to go home?
+## Sei munhu ane dementia achigara achikumbira kuenda kumba?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Kazhinji, “kumusha” manzwiro kupfuura nzvimbo. Alzheimer's Society inotsanangura kuti manzwiro ekunyaradzwa nekuchengeteka, kana imba yekare, kwete chivakwa chacho. Dementia inogona kuita kuti makamuri aanoziva aite seasina kujairika, uye munhu anogona kunzwa sokunge ari kurarama munguva yekare yehupenyu hwake, apo kumba kwaiva imba yehudiki kana nzvimbo yaakarerera vana vake.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Mashoko aya anogonawo kuratidza kuti pane chimwe chinhu chisina kumira zvakanaka panguva iyoyo: ane nzara, ane nyota, anoda kuenda kuchimbuzi, ari kurwadziwa, ari kupisa kana kutonhora zvakanyanya, akaneta, ari kusurukirwa, ari kutya, kana kuti akavhiringidzwa neruzha. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) inotaura nezvekurwadziwa, ruzha, kusurukirwa, shanduko mugadziriro yemazuva ese nemishonga sezvimwe zvezvinokonzera kusagadzikana.
 
-## What should I say when they ask to go home?
+## Ndingati chii kana achikumbira kuenda kumba?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Pindura manzwiro, kwete mashoko. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) inopa zano rekusayedza kugonesa munhu kuti akanganisa: manzwiro ake ndeechokwadi, saka tanga nekumunyaradza nekumuvimbisa, wobva wamutsira pfungwa itsva zvinyoro nyoro.
 
-Phrases that often help:
+Mitsara inowanzobatsira:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Taura nezvemanzwiro acho.** “Zvinoita sekunge muri kusuwa kumba.”
+- **Vimbisai.** “Makachengeteka pano, uye ndichagara nemi.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) inokurudzira mashoko ari nyore anoti “Makachengeteka pano.”
+- **Kokai ndangariro.** “Ndiudzei nezvekumba kwenyu. Kicheni yenyu yaiva yakaita sei?” Kubvunza nezvenguva yekare kazhinji kunonyaradza kupfuura kubvunza nezvanhasi.
+- **Ipai chimwe chinhu chekuita mese.** “Ngatitange tanwa tii,” kana kuti “Mungandibatsira here nematauro aya?”
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Izwi rine hunyoro uye kubata ruoko, kana achifarira kubatwa, zvinogona kutaura zvinopfuura mashoko.
 
-## What should I avoid?
+## Ndezvipi zvandinofanira kudzivisa?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Kupikisana kana kutsanangura.** “Munogara pano zvino” kana kuti “Iyi yave iri imba yenyu kwemakore 40” zvinomukumbira kugamuchira chinhu chinoita kuti dementia zviome kugamuchira, uye zvinogona kunzwa sokunge ari kuudzwa kuti akanganisa.
+- **Kumubvunza mibvunzo yakawanda.** “Hamurangariri here?” kana kuti “Kero yacho ndeipi?” zvinowedzera kumanikidzwa.
+- **Kuvhara musuwo nehasha.** Kana akaenda kubuda, rambai makadzikama uye fambai naye. Kufamba kwenguva pfupi mese kazhinji kunoderedza chido ichocho.
+- **Kumhanyira.** Mupi nguva yekutaura nezvekumba musati mashandura nyaya.
 
-## Activities that can help in the moment
+## Zviitiko zvinogona kubatsira panguva iyoyo
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Mushure mekunge mabvuma manzwiro ake, chiitiko chakadzikama uye chaanoziva chinogona kutsausa pfungwa pasina kuzvidza manzwiro acho.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Tarisa mifananidzo yekumba nemhuri.** Pepetai mapeji uye taurai zvamunoona (“Tarirai bindu iro”) pane kubvunza mibvunzo. Pafoni kana patablet, [Photo pairs](/games/photo-pairs/) inoshandura mifananidzo yemhuri yenyu kuita mutambo wakapfava wekufananidza, uye mifananidzo inoramba iri pamudziyo wenyu.
+2. **Taurai nezvekumba.** [Conversation cards](/games/conversation-cards/) inopa mibvunzo yakavhurika pamusoro pedzimba, makicheni, vavakidzani nemazororo, pasina mhinduro chaiyo.
+3. **Ridzai mimhanzi yaanoda.** National Institute on Aging inotaura nezvemimhanzi inonyaradza senzira imwe yekudzikamisa kusagadzikana. Onai [zviitiko zvemimhanzi](/activities/music/) zvedu.
+4. **Mupi chokudya chidiki kana chinwiwa.** Nzara nenyota zvinogona kuita sokusagadzikana. Kapu yetii kana chinhu chaanofarira kudya zvakare itsika diki yekunzwa ari kumba.
+5. **Fambai kana kugara panze.** Kufamba nechiedza chemasikati zvinobatsira, kunyanya mangwanani kana masikati.
+6. **Mupi basa raanoziva.** Kupeta mbatya, kuronga midziyo yekubikira kana kudiridza zvirimwa zvinogona kumudzosera manzwiro ekuchengeta imba.
+7. **Dzikamisai zvese.** Dzimai TV, deredzai ruzha nechiedza chakanyanya, uye edzai kumbomira pamwe chete ne[calm breathing](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Kana zano rimwe rikasashanda, edzai rimwe gare gare. Kugara makanyarara mese zvakare mhedzisiro yakanaka.
 
-## Check for a cause you can fix
+## Tarisa chikonzero chaunogona kugadzirisa
 
-| Check | What to try |
+| Tarisa | Zvekuedza |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Ane nzara kana nyota | Mupi chinwiwa nechokudya chidiki |
+| Anoda kuenda kuchimbuzi | Mupi mukana wekuenda kuchimbuzi, makadzikama uye pasina mhere-mhere |
+| Kurwadziwa kana kusagadzikana | Tarisa zviratidzo zvakaita sekutswinya kumeso, kubata chikamu chemuviri kana kuvimbiswa, uye udza chiremba wake |
+| Kupisa kana kutonhora zvakanyanya | Gadzirisa mbatya kana tembiricha yemukamuri |
+| Ruzha kana vanhu vakawanda | Endai mukamuri yakanyarara, dzimai TV |
+| Kuneta kana kuvhiringidzwa zvakanyanya | Zororai, dzikisai chiedza, ridzai mimhanzi yakapfava |
+| Masikati anonoka | Onai chikamu chesundowning pazasi |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society inokurudzira kunyora pfupi kuti kukumbira uku kunoitika rinhi, sekunge vasati vadya, mushure mevashanyi, kana manheru. Maonero akadaro anoita kuti zvive nyore kuronga pachine nguva.
 
-## Is it okay to tell a white lie?
+## Zvakakodzera here kutaura nhema diki?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Iyi inyaya inonetsa, uye mhuri dzine mutsa dzinogona kusvika pazvisarudzo zvakasiyana. Alzheimer's Society inoti hapana mhinduro imwe chete yakarurama: kusataura chokwadi kunogona kuita kuti vamwe vanhu vanyanye kufungira, saka sarudzai zvinoitira munhu zvakanaka uye rambai muchienderana. KuPenn Memory Center, maonero emumwe wevatungamiriri ndeekuti chokwadi ndicho chinofanira kutanga, uye kutaura nhema diki zvinyoro nyoro kunogamuchirika chete kana munhu asingakwanisi kubata chokwadi chakati, uye kuti hamufaniri kumbozvidza maonero ake.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Vatarisiri vazhinji vanoona kuti nzira yepakati inoshanda: kutanga nekunyaradza kwechokwadi uye kumutsa pfungwa itsva (“Tichagara pano manheru ano, uye ndiri pano nemi”), pasina kupikisana pamusoro pekuti kumba kuri kupi.
 
-## What if it happens every afternoon or evening?
+## Ko kana zvikaitika masikati ega ega anonoka kana manheru?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Kusagadzikana kunotanga kana kuwedzera masikati anonoka kunowanzonzi sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) inokurudzira gadziriro yakatsiga, chiedza chezuva nezviitiko zvezuva nezuva, kurara kushoma masikati, uye kusanwa caffeine kana doro masikati anonoka. Kubatidza magetsi kusati kwasviba kunogonawo kubatsira. Gwaro redu re[zviitiko zvakadzikama zvemasikati anonoka](/caregiving/late-day-restlessness/) rine zvimwe.
 
-## Keeping them safe if they try to leave
+## Kuchengeta munhu akachengeteka kana akaedza kubuda
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Kukumbira kuenda kumba kunogona kutungamirira mukudzungaira. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) inofungidzira kuti vanhu vatanhatu pavanhu gumi vanorarama nedementia vachadzungaira kamwechete.
 
-**Prepare ahead:**
+**Gadzirai pachine nguva:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Bhandi reID kana rezvekurapwa rine zita rake nenhamba yenyu yefoni, uye mazita akasonerwa mumbatya dzake. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) inotaura nezveMedicAlert neAlzheimer's Association Safe and Found program, izvo zvinogona kuda mari.
+- Bhero repamusuwo kana alarm, uye makiyi akaiswa kumusoro kana pasi. Musambovhara munhu ari ega mukati.
+- Mufananidzo wepedyo uchangobva kutorwa, uye rondedzero yenzvimbo dzaangaenda, sekumba kwake kwekare kana kwaaimboshanda.
+- Udzai vavakidzani vamunovimba, uye vapei nhamba yenyu.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Kana akashaika:** tarisai munzvimbo dziri pedyo dzakachengeteka muchibva mafonera mapurisa emunharaunda kana rubatsiro rwechimbichimbi nekukasika. Musamirira imwe nhamba yemaminitsi musati mazivisa. Chinyorwa che[U.S. Department of Justice journal article on missing-person investigations](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) cha2021 chinoti masangano ezvemutemo haafaniri kuda kumirira imwe nguva yakatarwa; chinotaurawo nezvezviratidzo zvakaita sedementia sechinhu chinoisa munhu panjodzi huru. Matanho ekuzivisa emunharaunda anogona kusiyana. Udzai vanopindura kuti munhu ane dementia, govana nzvimbo yaakapedzisira kuonekwa uye mufananidzo uchangobva kutorwa, uye teverai mirayiridzo yavo. Kana paine mumwe mubatsiri aripo, mukumbirei kuti agare pedyo nefoni. Musatsvage munzvimbo dzine njodzi muri mega.
 
-## When should I call a doctor?
+## Ndirini pandinofanira kufonera chiremba?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Fonera chiremba wake nekukasika kana kukumbira kana kuvhiringika kukatanga kamwe kamwe, kana kukawedzera zvakanyanya mumaawa kana mumazuva. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) inoti maitiro anochinja kamwe kamwe kana nekukurumidza, kunyanya mushure meutachiona kana shanduko yemushonga, anofanira kuongororwa nekukasika. Kuvhiringika kunotanga kamwe kamwe kunogona kunge kuri delirium, uko [NHS](https://www.nhs.uk/symptoms/confusion/) inoti kunoda rubatsiro rwechimbichimbi; utachiona hweweti hunowanzoitika muvanhu vakuru.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Zvinobatsirawo kutaura nezvemaitiro anoramba achiitika pakushanya kunotevera, sezvo kurwadziwa, kusafara, matambudziko ekurara kana mhedzisiro yemishonga zvese zvinogona kukonzera izvi.

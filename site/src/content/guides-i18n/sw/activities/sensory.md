@@ -1,33 +1,33 @@
 ---
-title: "Shughuli za Hisia kwa Watu Wenye Dementia"
-seoTitle: "Shughuli za Hisia kwa Dementia: Mawazo na Usalama"
-description: "Shughuli za hisia kwa watu wanaoishi na dementia, kuanzia kusugua mikono hadi vitambaa na sauti za asili, pamoja na usalama kuhusu kukabwa, mzio na harufu."
+title: "Shughuli za Hisia kwa Watu Wanaoishi na Dimenshia"
+seoTitle: "Shughuli za Hisia kwa Dimenshia: Mawazo na Usalama"
+description: "Shughuli za hisia kwa watu wanaoishi na dimenshia, kutoka kukanda mikono hadi vikapu vya vitambaa na sauti za asili, pamoja na maelezo ya usalama."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Shughuli za hisia hutumia kugusa, kunusa, kuonja, kusikia na kuona: kusugua
-  mkono polepole, kikapu cha vitambaa laini, mimea ya viungo mibichi ya kunusa,
-  sauti za asili, au kutazama ndege dirishani. Zinafaa kila hatua na ni za
-  thamani zaidi baadaye. Angalia kwanza hatari za kukabwa, mzio, matatizo ya
-  ngozi na unyeti wa harufu, toa kitu kimoja kwa wakati, na acha mtu huyo
-  akionekana hana raha.
+  Shughuli za hisia hutumia mguso, harufu, ladha, sauti na macho: kukanda
+  mikono taratibu, kikapu cha vitambaa laini, mimea mibichi ya kunusa, sauti
+  za asili, au kutazama ndege dirishani. Zinafaa katika kila hatua na ni za
+  muhimu zaidi baadaye. Kwanza angalia hatari ya kusongwa, mzio, matatizo ya
+  ngozi na usikivu wa harufu, toa kitu kimoja kwa wakati mmoja, na simama ikiwa
+  mtu unayemtunza anaonekana hana utulivu.
 keyPoints:
-  - "Shughuli za hisia hazihitaji majibu sahihi, jambo linalozifanya zifae kila hatua, ikiwemo kitandani au kwenye kiti."
-  - "Toa hisia moja kwa wakati katika chumba tulivu, na uliza au tangaza kabla ya kugusa."
-  - "Epuka vitu vidogo na kitu chochote kinachoonekana au kunusa kama chakula lakini si chakula, kwa kuwa watu wanaweza kuweka vitu vinywani."
+  - "Shughuli za hisia hazihitaji majibu sahihi, kwa hiyo zinafaa katika kila hatua, hata akiwa kitandani au kwenye kiti."
+  - "Toa kitu cha hisia moja kwa wakati mmoja katika chumba tulivu, na uliza au mjulishe kabla ya kumgusa."
+  - "Epuka vitu vidogo na chochote kinachoonekana au kunukia kama chakula lakini si chakula, kwa kuwa watu wanaweza kuviweka mdomoni."
   - "Angalia mzio, matatizo ya ngozi na matatizo ya kupumua kabla ya kutumia losheni, harufu au vyakula."
-  - "Hakuna ushahidi wa kushawishi kwamba aromatherapy (tiba ya harufu) husaidia dalili za dementia; tumia harufu kwa kufurahia tu, kama hata hivyo."
+  - "Hakuna ushahidi wa kutosha unaoonyesha kuwa tiba ya harufu husaidia dalili za dimenshia; tumia harufu kwa furaha rahisi tu, ikiwa itatumika."
 faq:
-  - q: "Ni shughuli zipi nzuri za hisia kwa mtu mwenye dementia?"
-    a: "Mawazo rahisi ni pamoja na kusugua mkono polepole kwa losheni, kushika vitambaa laini, kunusa mimea ya viungo mibichi au kahawa, kusikiliza muziki anaoupenda au sauti za asili, kutazama ndege au tangi la samaki, na kuonja chakula anachokipenda katika umbo salama. Toa kitu kimoja kwa wakati na uangalie jinsi mtu huyo anavyoitikia."
-  - q: "Je, shughuli za hisia ni salama kwa mtu anayeweka vitu mdomoni?"
-    a: "Zinaweza kuwa salama, kwa uangalifu. Tumia vitu vikubwa tu visivyoweza kumezwa, acha chochote kidogo au kinachovunjika, na uweke losheni, sabuni na bidhaa zenye harufu mbali na mkono wake baadaye, kwa sababu zinaweza kuonekana au kunusa kama chakula. Kaa na mtu huyo wakati wote."
-  - q: "Je, aromatherapy inasaidia dementia?"
-    a: "Mapitio ya Cochrane hayakupata ushahidi wa kushawishi kwamba aromatherapy inawasaidia watu wenye dementia, ingawa tafiti zilikuwa ndogo na zisizo thabiti. Kama mtu huyo anafurahia harufu hafifu inayojulikana, hilo ni sawa, lakini epuka mafuta mazito ya harufu, hasa penye matatizo ya kupumua au mzio."
-  - q: "Aproni ya shughuli au ya kuchezea mikono ni nini?"
-    a: "Ni kipande cha kitambaa, aproni au blanketi la mapajani lenye vitu vya kushika vilivyoshonwa imara, kama vifungo vikubwa, zipu, riboni na vipande vyenye umbo la kugusa. Hupa mikono yenye shughuli kitu cha kuchunguza. Kiangalie mara kwa mara kuona kama kuna kitu kilicholegea kinachoweza kuvutwa."
+  - q: "Ni shughuli zipi za hisia ni nzuri kwa mtu anayeishi na dimenshia?"
+    a: "Mawazo rahisi ni pamoja na kukanda mikono taratibu kwa losheni, kushika vitambaa laini, kunusa mimea mibichi au kahawa, kusikiliza muziki anaoupenda au sauti za asili, kutazama ndege au tangi la samaki, na kuonja chakula anachokipenda katika muundo salama. Toa kitu kimoja kwa wakati mmoja na uangalie jinsi mtu unayemtunza anavyoitikia."
+  - q: "Je, shughuli za hisia ni salama kwa mtu anayejaza vitu mdomoni?"
+    a: "Zinaweza kuwa salama, kwa uangalifu. Tumia tu vitu vikubwa ambavyo haviwezi kumezwa, acha vitu vyovyote vidogo au vinavyoweza kuvunjika, na weka losheni, sabuni na bidhaa zenye harufu mbali baada ya matumizi, kwa sababu vinaweza kuonekana au kunukia kama chakula. Kaa naye mtu huyo wakati wote."
+  - q: "Je, tiba ya harufu husaidia katika dimenshia?"
+    a: "Mapitio ya Cochrane hayakupata ushahidi wa kutosha unaoonyesha kuwa tiba ya harufu huwasaidia watu wanaoishi na dimenshia, ingawa tafiti zilikuwa ndogo na hazikulingana. Ikiwa mtu unayemtunza anafurahia harufu laini na inayomfahamisha, hiyo ni sawa, lakini epuka mafuta makali ya harufu, hasa akiwa na matatizo ya kupumua au mzio."
+  - q: "Aproni au blanketi la shughuli ni nini?"
+    a: "Ni kipande cha kitambaa, aproni au blanketi la mapajani lenye vitu vya kushika vilivyoshonwa imara juu yake, kama vile vifungo vikubwa, zipu, riboni na vipande vyenye miundo tofauti. Linawapa mikono yenye shughuli kitu cha kuchunguza. Likague mara kwa mara ili kuona kama kuna kitu kilicholegea ambacho kinaweza kungʼolewa."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Shughuli za hisia hutumia hisia tano: kugusa, kunusa, kuonja, kusikia na kuona. Hazihitaji kumbukumbu, hatua wala majibu sahihi, kwa hiyo zinaweza kufanya kazi katika hatua yoyote. Ni muhimu zaidi baadaye. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) inabainisha kwamba katika hatua ya mwisho ulimwengu hupatikana hasa kupitia hisia, na kwamba unaweza kuonyesha utunzaji kupitia kugusa, sauti, kuona, kuonja na kunusa. Ukaguzi mchache wa usalama hufanya shughuli hizi ziwe za kupumzisha kwa kila mtu.
+Shughuli za hisia hutumia hisia tano: mguso, harufu, ladha, sauti na macho. Hazihitaji kumbukumbu, hatua maalumu wala majibu sahihi, kwa hiyo zinaweza kufaa katika hatua yoyote. Ni muhimu zaidi baadaye. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) inaeleza kuwa katika hatua za mwisho mtu hupitia mazingira hasa kupitia hisia, na kwamba unaweza kuonyesha upendo kupitia mguso, sauti, macho, ladha na harufu. Uchunguzi mfupi wa usalama hufanya shughuli hizi ziwe za kutuliza kwa kila mtu.
 
-## Shughuli za hisia kwa dementia ni nini?
+## Shughuli za hisia kwa watu wanaoishi na dimenshia ni zipi?
 
-Shughuli za hisia ni uzoefu rahisi uliojengwa kuzunguka hisia moja kwa wakati, kama kuhisi kitambaa, kunusa mimea ya viungo au kusikiliza mvua. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) inasema shughuli za hatua za baadaye mara nyingi zinahitaji kuzingatia hisia, na inataja muziki, vitu vya kugusa na kushika, na kusugua mikono. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inabainisha kwamba watu walio katika hatua ya mwisho wanaweza kuwa na hitaji kubwa la kushika kitu karibu kwa faraja.
+Shughuli za hisia ni uzoefu rahisi unaolenga hisia moja kwa wakati mmoja, kama kuhisi kitambaa, kunusa mimea au kusikiliza sauti ya mvua. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) inasema kuwa shughuli za hatua za baadaye mara nyingi huhitaji kulenga hisia, na inataja muziki, vitu vya kugusa na kushika, na kukanda mikono. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inaeleza kuwa watu walio katika hatua za mwisho wanaweza kuwa na haja kubwa ya kushika kitu karibu kwa faraja.
 
-## Mawazo ya hisia, hisia kwa hisia
+## Mawazo ya hisia, kwa kila hisia
 
-### Kugusa
+### Mguso
 
-- **Kusugua mkono.** Pasha losheni kidogo mikononi mwako na usugue polepole kutoka kifundo cha mkono hadi ncha za vidole. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) inataja kusugua kwa losheni isiyo na harufu kwa faraja.
-- **Kikapu cha vitambaa.** Miraba mikubwa ya velveti, kodroi, manyoya laini, satini na sufu ya kupapasa, kukunja na kuzungumzia.
-- **Kitambaa cha joto.** Kitambaa chenye unyevu na joto kwa mikono siku ya baridi. Jaribu joto kwenye kifundo cha mkono wako kwanza.
-- **Aproni ya shughuli au blanketi la mapajani.** Vifungo vikubwa, zipu, riboni na vipande vyenye umbo la kugusa vilivyoshonwa imara.
-- **Kukunja na kunyoosha.** Kikapu cha vitambaa safi vidogo au leso za kukunja, kupanga na kukunja tena.
-- **Kitu laini cha kushika.** Blanketi la manyoya laini, mto au mnyama laini anayefanana na halisi, vikitolewa kwa urahisi, kamwe si kama kichezeo.
+- **Kukanda mikono.** Pasha kiasi kidogo cha losheni mikononi mwako kisha upake taratibu kutoka kifundo cha mkono hadi kwenye ncha za vidole. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) inataja kukanda kwa losheni isiyo na harufu kwa faraja.
+- **Kikapu cha vitambaa.** Vipande vikubwa vya velveti, kitambaa cha mistari, fleece, satin na sufu vya kupapasa, kukunja na kuzungumzia.
+- **Kitambaa cha maji vuguvugu.** Kitambaa chenye joto na unyevunyevu cha kushikia mikononi siku ya baridi. Jaribu joto kwenye kifundo chako mwenyewe kwanza.
+- **Aproni au blanketi la shughuli.** Vifungo vikubwa, zipu, riboni na vipande vyenye miundo tofauti vilivyoshonwa imara.
+- **Kukunja na kulainisha.** Kikapu cha vitambaa safi au leso za mezani za kukunja, kupanga na kukunja tena.
+- **Kitu laini cha kushika.** Blanketi la fleece, mto au mnyama laini wa mfano, ukimpa kwa urahisi, si kama kitu cha kuchezea.
 
-### Kunusa
+### Harufu
 
-- **Mimea ya viungo mibichi.** Sugua majani ya mnanaa, rosemary, basili au lavenda kati ya vidole vyako na umpitishie.
-- **Harufu za jikoni.** Kahawa ikitokota, mkate ukichomwa, mdalasini au chungwa likimenywa karibu.
-- **Maua.** Leta maua machache mapya kutoka bustanini au dukani.
-- **Bidhaa inayojulikana.** Sabuni au losheni aliyokuwa akitumia kila mara, kama ngozi yake inaivumilia.
+- **Mimea mibichi.** Sugua majani ya mnanaa, rosemary, basil au lavanda kati ya vidole vyako kisha uyakaribishe anuse.
+- **Harufu za jikoni.** Kahawa inayochemka, mkate unaoka, mdalasini au chungwa linalomenwa karibu.
+- **Maua.** Leta maua machache mabichi kutoka bustanini au dukani.
+- **Bidhaa anayozifahamu.** Sabuni au losheni aliyokuwa akitumia kila mara, ikiwa ngozi yake inavumilia.
 
-### Kuonja
+### Ladha
 
-- **Ladha anayoipenda.** Kijiko kidogo cha kitu anachokipenda, kama puree ya tunda, pudingi au aiskrimu, katika umbo anaoweza kumudu kwa usalama.
-- **Kusaidia kuoka.** Kuonja tunda au icing kidogo ya keki mnapooka pamoja.
-- **Vitafunio vya msimu.** Tikiti maji wakati wa joto, kinywaji cha moto wakati wa baridi, vikitolewa kwa joto salama.
+- **Ladha anayopenda.** Kijiko kidogo cha kitu anachokipenda, kama vile mchanganyiko wa tofaa uliopondwa, pudingi au aiskrimu, katika muundo anaoweza kula kwa usalama.
+- **Kusaidia kuoka.** Kuonja tunda au kiasi kidogo cha siagi tamu ya kupaka keki mnapooka pamoja.
+- **Vitamu vya msimu.** Tikiti maji wakati wa kiangazi, juisi ya tufaha yenye joto wakati wa vuli, vikitolewa katika joto salama.
 
-### Kusikia
+### Sauti
 
-- **Muziki anaoupenda.** Nyimbo zinazojulikana kwa sauti ya upole; tazama [shughuli za muziki](/activities/music/).
-- **Sauti za asili.** Mvua, mawimbi au wimbo wa ndege. NIA inabainisha kwamba muziki, kelele laini ya mfululizo na sauti za asili zinaonekana kuwatuliza baadhi ya watu.
-- **Sauti yako.** Kusoma kwa sauti, kuimba kwa mdomo uliofungwa, au kusimulia hadithi.
-- **Ala rahisi.** Ngoma ya mkono, kishindo au kengele ya kupiga pamoja na muziki.
+- **Muziki anaoupenda.** Nyimbo zinazomfahamisha kwa sauti ya chini; tazama [shughuli za muziki](/activities/music/).
+- **Sauti za asili.** Mvua, mawimbi au sauti za ndege. NIA inaeleza kuwa muziki, kelele nyeupe na sauti za asili huonekana kuwapa utulivu baadhi ya watu.
+- **Sauti yako.** Kumsomea kwa sauti, kuimba kwa sauti ya chini, au kumsimulia hadithi.
+- **Vyombo rahisi vya muziki.** Ngoma ndogo ya mkono, kizunguzungu au kengele ya kuchezeshwa pamoja na muziki.
 
-### Kuona
+### Macho
 
-- **Kutazama dirishani.** Chakula cha ndege nje ya dirisha, watoto wakitembea kurudi nyumbani, au mvua ikinyesha.
-- **Tangi la samaki au video ya polepole.** Mwendo wa upole bila sauti kubwa.
-- **Picha kubwa.** Picha moja iliyo wazi kwa wakati, ikishikwa usawa wa macho.
-- **Rangi na michoro.** Kupanga vipande vya vitambaa vyenye rangi angavu, maua au leso za rangi, au ukurasa rahisi wa kupaka rangi kutoka mkusanyiko wetu wa [kupaka rangi](/games/coloring/).
-- **Nje.** NHS inapendekeza bustani za hisia zenye mimea yenye harufu, maumbo ya kugusa na vipengele vya maji. Tazama [shughuli za nje na bustani](/activities/outdoor-and-gardening/).
+- **Kutazama dirishani.** Kituo cha kulisha ndege nje ya dirisha, watoto wakirudi nyumbani, au theluji ikidondoka.
+- **Tangi la samaki au video ya mwendo wa polepole.** Mwendo wa taratibu bila sauti kubwa.
+- **Picha kubwa.** Picha moja wazi kwa wakati mmoja, ikiwa imeinuliwa sawasawa na macho.
+- **Rangi na miundo.** Kupanga vipande vya vitambaa vyenye rangi angavu, maua au leso za mezani zenye rangi, au ukurasa rahisi wa kuchorea kutoka mkusanyiko wetu wa [kupaka rangi](/games/coloring/).
+- **Nje.** NHS inapendekeza bustani za hisia zenye mimea yenye harufu, miundo tofauti na vipengele vya maji. Tazama [shughuli za nje na bustani](/activities/outdoor-and-gardening/).
 
-## Jinsi ya kutengeneza kisanduku cha hisia
+## Jinsi ya kutengeneza sanduku la hisia
 
-1. **Chagua mada** inayohusiana na maisha ya mtu huyo: ufukwe, bustani, jiko, karakana, ushonaji.
-2. **Chagua vitu vitano au sita vikubwa na salama,** kama kombe kubwa la bahari, kijiko cha mbao, skafu laini, mfuko wa lavenda kavu uliofungwa kwa kushonwa, au kipande laini cha mbao.
-3. **Kagua kila kitu** kwa sehemu ndogo, ncha kali, nyuzi zilizolegea na chochote kinachovunjika.
-4. **Toa kitu kimoja kwa wakati.** Mkabidhi, kieleze, na umruhusu mtu huyo kukichunguza.
-5. **Weka kisanduku mbali baadaye** ili kibaki maalum na vitu vikaguliwe tena kabla ya mara inayofuata.
+1. **Chagua mada** inayohusiana na maisha ya mtu unayemtunza: ufukweni, bustanini, jikoni, karakana ya ufundi, ushonaji.
+2. **Chagua vitu vikubwa na salama vitano au sita,** kama vile kombe kubwa la baharini, kijiko cha mbao cha kupikia, skafu laini, kifuko kidogo cha lavanda iliyokaushwa kilichoshonwa kufungwa, au kipande laini cha mbao.
+3. **Kagua kila kitu** ili kuona kama kuna sehemu ndogo, kingo kali, nyuzi zilizolegea au chochote kinachoweza kuvunjika.
+4. **Toa kitu kimoja kwa wakati mmoja.** Mkabidhi, kieleze, na umwache mtu huyo akichunguze.
+5. **Weka sanduku mbali baada ya matumizi** ili kibaki maalum na vitu vikaguliwe tena kabla ya matumizi yanayofuata.
 
 ## Usalama kwanza
 
-Shughuli za hisia ni za upole, lakini hatari chache ni muhimu. Baadhi ya watu wanaoishi na dementia hudhani vitu visivyo chakula ni chakula, na kumeza kunaweza kuwa kugumu zaidi kadiri muda unavyopita; NIA inaonya kwamba matatizo ya kumeza katika hatua ya mwisho huongeza hatari ya kukabwa.
+Shughuli za hisia ni za upole, lakini kuna hatari chache muhimu. Baadhi ya watu wanaoishi na dimenshia hukosea vitu visivyo chakula kuwa ni chakula, na kumeza kunaweza kuwa kugumu kadri muda unavyosonga; NIA inaonya kuwa matatizo ya kumeza katika hatua za mwisho huongeza hatari ya kusongwa.
 
 | Hatari | Cha kufanya |
 | --- | --- |
-| Kukabwa | Tumia vitu vikubwa mno kumezwa tu. Hakuna vifungo, shanga, sarafu, vigololi wala vichezeo vidogo vilivyolegea kwenye kisanduku. Toa chakula tu katika umbo ambalo timu ya huduma inasema ni salama. |
-| Vitu vinavyoonekana kama chakula | NIA inashauri kufunga losheni, sabuni, shampuu na manukato, ambavyo vinaweza kuonekana au kunusa kama chakula, na kuondoa matunda bandia. Weka bidhaa za hisia mbali baada ya kutumia. |
-| Mzio | Angalia mzio wa karanga, mpira, sufu, mimea au manukato kabla ya kuanza. |
-| Harufu kali | Epuka manukato makali na mafuta mazito ya harufu, hasa penye pumu au matatizo mengine ya kupumua. Harufu hafifu za asili ni salama zaidi. |
-| Ngozi | Angalia ngozi yenye vidonda, iliyochanika au dhaifu kabla ya kusugua. Tumia shinikizo la upole na uache akiumia usoni. |
-| Joto | Jaribu vitambaa vya joto na vinywaji kwenye kifundo cha mkono wako kwanza. |
-| Vitu vyenye ncha kali au sumu | Hakuna zana kali, kioo wala vifaa vya ufundi vyenye sumu. |
+| Kusongwa | Tumia tu vitu vikubwa mno hiviwezi kumezwa. Usiacha vifungo, shanga, sarafu, mabolasi au vitu vidogo vya kuchezea vikiwa vimetapakaa ndani ya sanduku. Toa chakula tu katika miundo ambayo timu ya utunzaji imesema ni salama. |
+| Vitu vinavyoonekana kama chakula | NIA inashauri kufunga losheni, sabuni, shampoo na manukato, ambavyo vinaweza kuonekana au kunukia kama chakula, na kuondoa matunda ya bandia. Weka bidhaa za hisia mbali baada ya matumizi. |
+| Mzio | Angalia kama kuna mzio wa njugu, mpira wa asili, sufu, mimea au manukato kabla ya kuanza. |
+| Harufu kali | Epuka manukato makali na mafuta makali ya harufu, hasa ikiwa kuna pumu au matatizo mengine ya kupumua. Harufu laini za asili ni salama zaidi. |
+| Ngozi | Kagua ngozi ili kuona kama kuna vidonda, majeraha au ngozi nyembamba kabla ya kukanda. Tumia mguso wa upole na simama akionyesha maumivu. |
+| Joto | Jaribu vitambaa vya joto na vinywaji kwenye kifundo chako mwenyewe kwanza. |
+| Vitu vyenye ncha kali au sumu | Usitumie zana zenye ncha kali, vioo au vifaa vya sanaa vyenye sumu. |
 
-## Je, aromatherapy inasaidia?
+## Je, tiba ya harufu husaidia?
 
-Pengine hapana kwa njia yoyote inayopimika. [Mapitio ya Cochrane kuhusu aromatherapy kwa dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) yalichunguza tafiti 13 zenye watu 708, wote katika makazi ya wazee, na hayakupata ushahidi wa kushawishi wa manufaa. Tafiti zilikuwa ndogo, matokeo yalitofautiana, na madhara hayakuripotiwa vizuri. Kama mtu huyo anafurahia harufu hafifu inayojulikana, kama lavenda kutoka bustanini, hiyo ni sababu nzuri ya kuishiriki. Si matibabu.
+Huenda isisaidie kwa njia yoyote inayoweza kupimika. [Mapitio ya Cochrane kuhusu tiba ya harufu kwa watu wanaoishi na dimenshia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) yalichunguza tafiti kumi na tatu zilizohusisha watu mia saba na wanane, zote zikiwa katika nyumba za utunzaji, na hayakupata ushahidi wa kutosha wa manufaa. Tafiti zilikuwa ndogo, matokeo hayakukubaliana, na madhara hayakuripotiwa vizuri. Ikiwa mtu unayemtunza anafurahia harufu laini na anayofahamu, kama lavanda kutoka bustanini, hiyo ni sababu nzuri ya kuishiriki naye. Si tiba.
 
 ## Jinsi ya kutoa shughuli ya hisia
 
 - **Chagua wakati tulivu** na uzime televisheni.
-- **Mkaribie kutoka mbele,** sema jina lake, na uulize au umwambie kabla ya kugusa: "Nina losheni. Ungependa kusuguliwa mkono?"
-- **Toa kitu kimoja kwa wakati** ili kisimlemee.
-- **Angalia mwitikio.** Uso uliolegea, mikono iliyotulia au tabasamu ni ishara nzuri. Kujivuta, kukunja uso au kutotulia humaanisha acha.
-- **Ifanye fupi.** Dakika tano tulivu ni kipindi kizuri.
+- **Mkaribie kutoka mbele,** mtaje kwa jina, na muulize au mjulishe kabla ya kumgusa: „Nina losheni. Ungependa nikukande mikono?”
+- **Toa kitu kimoja kwa wakati mmoja** ili kisimleme.
+- **Angalia jinsi anavyoitikia.** Uso tulivu zaidi, mikono iliyolegea au tabasamu ni ishara nzuri. Kujiondoa, kukunja uso au kutotulia ni ishara ya kusimama.
+- **Fanya kwa muda mfupi.** Dakika tano tulivu ni kipindi kizuri.
 
-Kituo cha kupumua polepole pamoja, kama [pumzi tulivu](/games/calm-breathing/), kinaweza kuwa njia ya upole ya kumalizia. Kwa mawazo zaidi ya kando ya kitanda, tazama [shughuli za hatua ya mwisho](/activities/late-stage/), na kwa kutotulia jioni, tazama [kutotulia jioni](/caregiving/late-day-restlessness/).
+Kupumua taratibu pamoja, kama katika [kupumua kwa utulivu](/games/calm-breathing/), kunaweza kuwa njia nzuri ya kumalizia. Kwa mawazo zaidi ya karibu na kitanda, tazama [shughuli za hatua za mwisho](/activities/late-stage/), na kwa kutotulia wakati wa jioni, tazama [kutotulia wakati wa jioni](/caregiving/late-day-restlessness/).

@@ -1,31 +1,36 @@
 ---
-title: "Kada osoba s demencijom stalno traži da ide kući"
-seoTitle: "Demencija traži da ide kući: šta reći"
-description: "Zašto osoba koja živi s demencijom traži da ide kući čak i kada je kod kuće, šta reći, smirujuće aktivnosti i kako je zaštititi ako pokuša otići."
+title: "Kad osoba s demencijom stalno traži da ide kući"
+seoTitle: "Osoba s demencijom stalno traži da ide kući"
+description: "Zašto osoba koja živi s demencijom traži da ide kući i kad je kod kuće, šta reći, umirujuće aktivnosti i kako je zaštititi ako pokuša otići."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Kada osoba s demencijom stalno traži da ide kući, „kuća“ često znači osjećaj sigurnosti ili mjesto iz prošlosti, a ne zgradu. Nemojte se prepirati da je već kod kuće. Priznajte osjećaj, uvjerite je da je sigurna, zamolite je da vam ispriča o kući, pa nježno prijeđite na fotografije, muziku, užinu, šetnju ili jednostavan posao. Provjerite da li je gladna, žedna, treba li toalet ili je nešto boli. Ako je to počelo naglo, javite se ljekaru.
+  Kad osoba s demencijom stalno traži da ide kući, „kuća“ često znači osjećaj
+  sigurnosti ili mjesto iz prošlosti, a ne zgradu. Nemojte se prepirati da je
+  već kod kuće. Priznajte osjećaj, uvjerite je da je sigurna, pitajte je o
+  kući, a zatim je lagano usmjerite na fotografije, muziku, užinu, šetnju ili
+  jednostavan zadatak. Provjerite ima li gladi, žeđi, treba li na toalet ili
+  osjeća li bol. Ako se to dogodi iznenada, nazovite njenog ljekara.
 keyPoints:
-  - "„Želim kući“ često znači „ne osjećam se sigurno ili smireno“, a ne zahtjev za adresom."
-  - "Prepiranje ili dokazivanje da je već kod kuće obično pogorša nemir. Odgovorite na osjećaj."
-  - "Zamolite je da vam ispriča o kući, pa ponudite fotografije, muziku, užinu, šetnju ili jednostavan posao."
-  - "Provjerite nešto što se može riješiti: glad, žeđ, toalet, bol, previše toplo ili hladno, buku, umor."
-  - "Ako se to dešava svake kasne popodne, može biti sundowning; redovna rutina i dobro svjetlo mogu pomoći."
-  - "Pripremite se za sigurnost ako pokuša otići i javite se ljekaru zbog svake naglе promjene."
+  - "„Želim ići kući“ često znači „ne osjećam se sigurno ili smireno“, a ne traženje adrese."
+  - "Prepiranje ili dokazivanje da je osoba kod kuće obično pojačava uznemirenost. Umjesto toga, odgovorite na osjećaj."
+  - "Zamolite je da vam ispriča o svojoj kući, a zatim ponudite fotografije, muziku, užinu, šetnju ili jednostavan zadatak."
+  - "Provjerite ima li nečega što se može riješiti: glad, žeđ, potreba za toaletom, bol, pretoplo ili prehladno, buka, umor."
+  - "Ako se to dešava svakog kasnog popodneva, može biti riječ o večernjoj nemirnosti; ustaljena rutina i dobro osvjetljenje mogu pomoći."
+  - "Planirajte sigurnost ako osoba pokuša otići i nazovite njenog ljekara u slučaju svake iznenadne promjene."
 faq:
-  - q: "Zašto moja mama s demencijom stalno traži da ide kući kad je već kod kuće?"
-    a: "Demencija može učiniti poznate prostorije stranim, a ljudi se ponekad osjećaju kao da su u ranijem životnom dobu. „Kuća“ može značiti roditeljski dom iz djetinjstva ili samo osjećaj sigurnosti i udobnosti. Odgovor na taj osjećaj obično pomaže više nego ukazivanje na to gdje se nalazi."
+  - q: "Zašto moja mama koja živi s demencijom stalno traži da ide kući iako je kod kuće?"
+    a: "Demencija može učiniti da poznate sobe djeluju nepoznato, a ljudi se ponekad osjećaju kao da su u ranijem periodu života. „Kuća“ može značiti kuću iz djetinjstva ili jednostavno osjećaj sigurnosti i udobnosti. Obično je bolje odgovoriti na taj osjećaj nego ukazivati gdje se ona nalazi."
   - q: "Šta da kažem kada traži da ide kući?"
-    a: "Pokušajte s „Ovdje si sigurna, a ja ostajem s tobom“, pa s „Ispričaj mi o svojoj kući“. Slušajte, pokažite fotografiju ili zapjevajte pjesmu, i ponudite piće ili kratku šetnju. Izbjegavajte „Ti si kod kuće“ izgovoreno kao ispravka, jer može zvučati kao da je u krivu."
+    a: "Pokušajte reći „Ovdje ste sigurni i ja sam s Vama“, a zatim „Ispričajte mi o svojoj kući“. Slušajte, podijelite fotografiju ili pjesmu i ponudite piće ili kratku šetnju. Izbjegavajte reći „Vi ste kod kuće“ kao ispravku, jer se to može doživjeti kao da joj govorite da griješi."
   - q: "Je li u redu reći da ćemo kasnije ići kući?"
-    a: "Porodice i organizacije za demenciju se u tome razlikuju. Mnoge počinju s iskrenom utjehom i preusmjeravanjem, a nježnu neistinu čuvaju za trenutke kada bi istina samo izazvala poteškoće koje osoba ne može savladati. Šta god izaberete, budite ljubazni i dosljedni i nikada ne ismijavajte njihov osjećaj stvarnosti."
-  - q: "Šta ako pokuša izaći iz kuće?"
-    a: "Ostanite mirni i idite s njom umjesto da joj blokirate put; kratka šetnja često smiri želju za odlaskom. Unaprijed postavite mjere sigurnosti, kao što su ID narukvica, zvono na vratima i nedavna fotografija. Ako nestane, odmah počnite tražiti, a pozovite 112 ako je niste pronašli u roku od 15 minuta, i recite da osoba ima demenciju."
-  - q: "Kada treba da pozovem ljekara?"
-    a: "Odmah pozovite ljekara ako pitanje ili zbunjenost počnu naglo ili se znatno pogoršaju tokom sati ili dana, posebno uz temperaturu, novi lijek ili znakove infekcije mokraćnih puteva. Iznenadna zbunjenost može biti delirij, a on zahtijeva hitnu pomoć. Pozovite 112 ako je neko u opasnosti."
+    a: "Porodice i organizacije koje se bave demencijom imaju različita mišljenja o tome. Mnogi prvo nude iskrenu utjehu i lagano preusmjeravanje, a blagoj neistini pribjegavaju samo u trenucima kada bi istina izazvala samo uznemirenost s kojom osoba ne može izaći na kraj. Šta god da odaberete, budite ljubazni i dosljedni i nikada se nemojte rugati njenom doživljaju stvarnosti."
+  - q: "Šta ako osoba pokuša izaći iz kuće?"
+    a: "Ostanite mirni i prošetajte s njom umjesto da je blokirate; kratka šetnja često smiri tu potrebu. Unaprijed poduzmite sigurnosne korake, poput narukvice s podacima, zvona na vratima i nedavne fotografije. Ako osoba nestane, provjerite obližnja sigurna mjesta i istovremeno odmah kontaktirajte lokalnu policiju ili hitne službe. Nemojte čekati određeni broj minuta prije prijave."
+  - q: "Kada treba nazvati ljekara?"
+    a: "Odmah nazovite njenog ljekara ako traženje odlaska kući ili zbunjenost počnu iznenada ili se znatno pogoršaju u roku od nekoliko sati ili dana, posebno uz povišenu temperaturu, novi lijek ili znakove infekcije urinarnog trakta. Iznenadna zbunjenost može biti delirij, koji zahtijeva hitnu pomoć. Nazovite 911 ako je neko u opasnosti."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -45,6 +50,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -62,87 +70,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-„Želim kući.“ Mnogim porodicama ovo je jedna od najtežih rečenica koje čuju, posebno kada je osoba o kojoj brinu sjedi u sopstvenoj dnevnoj sobi. To je uobičajeno, može se javiti u bilo kojoj fazi demencije, i postoje mirni, praktični načini da se odgovori. Ova stranica objašnjava šta te riječi često znače, šta reći, koje aktivnosti mogu pomoći u tom trenutku i kako ostati siguran.
+„Želim ići kući.“ Za mnoge porodice ovo je jedna od najtežih stvari koje mogu čuti, posebno kada osoba o kojoj brinete sjedi u vlastitom dnevnom boravku. To je uobičajeno, može se desiti u bilo kojoj fazi demencije i postoje mirni, praktični načini da se odgovorite. Ova stranica objašnjava šta te riječi često znače, šta reći, koje aktivnosti mogu pomoći u tom trenutku i kako ostati sigurni.
 
 ## Zašto osoba s demencijom stalno traži da ide kući?
 
-Obično je „kuća“ više osjećaj nego mjesto. Alzheimer's Society opisuje to kao osjećaj udobnosti i sigurnosti, ili kuću iz prošlosti, a ne sam stan. Demencija može učiniti poznate sobe stranim, pa osoba može osjećati da je u ranijem životnom dobu, kada je kuća bila roditeljski dom iz djetinjstva ili mjesto gdje je odgajala djecu.
+Obično je „kuća“ prije osjećaj nego mjesto. Alzheimer's Society to opisuje kao osjećaj udobnosti i sigurnosti ili kao dom iz prošlosti, a ne samu kuću. Demencija može učiniti da poznate sobe izgledaju nepoznato, pa se osoba može osjećati kao da živi u ranijem periodu života, kada je dom bila kuća iz djetinjstva ili mjesto gdje je odgajala svoju djecu.
 
-Te riječi mogu biti i znak da se nešto drugo događa: gladna je, žedna je, treba joj toalet, boli je, previše joj je toplo ili hladno, umorna je, usamljena, uplašena ili je preopterete buka. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) među uzrocima nemira navodi bol, buku, usamljenost, promjene rutine i lijekove.
+Te riječi mogu biti i znak da nešto drugo trenutno nije u redu: osoba je gladna, žedna, treba na toalet, osjeća bol, pretoplo joj je ili prehladno, umorna je, usamljena, uplašena ili preopterećena bukom. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) navodi bol, buku, usamljenost, promjene u rutini i lijekove među uzrocima nemira.
 
 ## Šta da kažem kada traži da ide kući?
 
-Odgovorite na osjećaj, a ne na riječi. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) savjetuje da ne pokušavate uvjeriti osobu da griješi: njeni osjećaji su stvarni, zato prvo odgovorite utjehom i uvjeravanjem, pa nježno preusmjerite pažnju.
+Odgovorite na osjećaj, a ne na same riječi. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) savjetuje da ne pokušavate uvjeriti osobu da griješi: njeni osjećaji su stvarni, pa prvo ponudite utjehu i sigurnost, a zatim je nježno preusmjerite.
 
-Izrazi koji često pomažu:
+Fraze koje često pomažu:
 
-- **Imenujte osjećaj.** „Čini se da vam nedostaje dom.“
-- **Uvjerite.** „Ovdje ste sigurni, a ja ostajem s vama.“ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) predlaže jednostavne riječi: „Ovdje ste sigurni.“
-- **Pozovite na sjećanje.** „Ispričajte mi o svom domu. Kakva je bila vaša kuhinja?“ Pitanja o dalekoj prošlosti obično su ugodnija od pitanja o današnjici.
-- **Ponudite nešto zajedno.** „Hajdemo prvo popiti čaj“ ili „Možete li mi pomoći s ovim peškirima?“
+- **Imenujte osjećaj.** „Djeluje mi kao da Vam nedostaje kuća.“
+- **Umirite je.** „Ovdje ste sigurni i ja sam s Vama.“ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) predlaže jednostavne riječi „Ovdje ste sigurni.“
+- **Pozovite uspomene.** „Ispričajte mi o svojoj kući. Kakva vam je bila kuhinja?“ Pitanja o dalekoj prošlosti obično su ugodnija od pitanja o današnjem danu.
+- **Ponudite nešto zajedničko.** „Hajde da prvo popijemo čaj“ ili „Hoćete li mi pomoći s ovim peškirima?“
 
-Topao ton i ruka na ruci, ako voli dodir, mogu reći više od riječi.
+Topao ton i ruka na nadlaktici, ako osoba voli dodir, mogu reći više od riječi.
 
-## Čega se kloniti?
+## Šta treba izbjegavati?
 
-- **Prepiranja ili objašnjavanja.** „Sada živite ovdje“ ili „Ovo vam je dom već 40 godina“ traži da prihvate nešto što demenciji otežava prihvatanje, a može zvučati kao da su u krivu.
-- **Ispitivanja.** „Zar se ne sjećate?“ ili „Koja je adresa?“ stvara pritisak.
-- **Blokiranje vrata u ljutnji.** Ako krene van, ostanite mirni i idite s njom. Kratka šetnja zajedno često smiri želju za odlaskom.
-- **Žurbe.** Dajte joj vremena da govori o kući prije nego promijenite temu.
+- **Prepiranje ili objašnjavanje.** „Sada živite ovdje“ ili „Ovo vam je dom već četrdeset godina“ traži od osobe da prihvati nešto što joj demencija otežava, a to može djelovati kao da joj govorite da griješi.
+- **Ispitivanje.** „Zar se ne sjećate?“ ili „Koja je adresa?“ stvara pritisak.
+- **Ljutito blokiranje vrata.** Ako osoba krene napolje, ostanite mirni i prošetajte s njom. Kratka zajednička šetnja često smiri tu potrebu.
+- **Žurbu.** Dajte joj vremena da priča o kući prije nego što promijenite temu.
 
 ## Aktivnosti koje mogu pomoći u tom trenutku
 
-Nakon što prepoznate osjećaj, miran i poznat zadatak može preusmjeriti pažnju, a da je ne odbacite.
+Nakon što ste priznali osjećaj, mirna i poznata aktivnost može preusmjeriti pažnju bez negiranja tog osjećaja.
 
-1. **Pogledajte fotografije doma i porodice.** Listajte stranice i komentarišite („Pogledajte ovu baštu“) umjesto da postavljate pitanja. Na telefonu ili tabletu, [Parovi fotografija](/games/photo-pairs/) pretvara vaše porodične fotografije u nježnu igru spajanja, a fotografije ostaju na vašem uređaju.
-2. **Razgovarajte o domu.** [Kartice za razgovor](/games/conversation-cards/) nude otvorena pitanja o kućama, kuhinjama, komšijama i praznicima, bez tačnih odgovora.
-3. **Pustite muziku koju voli.** National Institute on Aging među načinima za smirivanje nemira navodi umirujuću muziku. Pogledajte naše [aktivnosti s muzikom](/activities/music/).
-4. **Popijte piće ili jedite užinu.** Glad i žeđ mogu izgledati kao nemir. Šolja čaja ili omiljena poslastica je i mali ritual osjećaja da ste kod kuće.
-5. **Prošetajte ili sjedite vani.** Kretanje i dnevna svjetlost pomažu, posebno ranije tokom dana.
-6. **Dajte poznat posao.** Slaganje veša, razvrstavanje pribora za jelo ili zalijevanje biljaka može vratiti osjećaj vođenja domaćinstva.
-7. **Sve usporite.** Isključite televizor, smanjite buku i odsjaj, i probajte zajedničku [pauzu za disanje](/games/calm-breathing/).
+1. **Gledajte fotografije kuće i porodice.** Okrećite stranice i dajte komentare („Pogledajte ovu baštu“) umjesto da postavljate pitanja. Na telefonu ili tabletu, [Photo pairs](/games/photo-pairs/) pretvara vaše porodične fotografije u nježnu igru povezivanja, a fotografije ostaju na vašem uređaju.
+2. **Razgovarajte o kući.** [Conversation cards](/games/conversation-cards/) nude otvorena pitanja o kućama, kuhinjama, komšijama i praznicima, bez tačnih odgovora.
+3. **Pustite muziku koju osoba voli.** National Institute on Aging navodi umirujuću muziku među načinima za smirivanje nemira. Pogledajte naše [muzičke aktivnosti](/activities/music/).
+4. **Ponudite užinu ili piće.** Glad i žeđ mogu izgledati kao nemir. Šolja čaja ili omiljena poslastica također je mali ritual osjećaja doma.
+5. **Prošetajte ili sjedite napolju.** Kretanje i dnevna svjetlost pomažu, posebno ranije tokom dana.
+6. **Dajte poznat zadatak.** Slaganje veša, razvrstavanje escajga ili zalijevanje biljaka mogu vratiti osjećaj vođenja doma.
+7. **Usporite sve.** Isključite televizor, smanjite buku i blještavilo i pokušajte zajedničku pauzu uz [calm breathing](/games/calm-breathing/).
 
-Ako jedna ideja ne upali, probajte drugu kasnije. I tiho sjedenje zajedno je dobar ishod.
+Ako jedna ideja ne uspije, pokušajte kasnije s drugom. I mirno zajedničko sjedenje je dobar ishod.
 
-## Provjerite uzrok koji možete riješiti
+## Provjerite postoji li uzrok koji možete riješiti
 
-| Provjera | Šta probati |
+| Provjerite | Šta možete pokušati |
 | --- | --- |
-| Gladna ili žedna | Ponudite piće i malu užinu |
-| Treba joj toalet | Ponudite posjetu kupatilu, mirno i bez gužve |
-| Bol ili nelagodnost | Potražite znake poput grimasa, držanja dijela tijela ili zatvora, i javite ljekaru |
-| Previše toplo ili hladno | Prilagodite sloj odjeće ili temperaturu prostorije |
-| Buka ili gužva | Premjestite se u tišu sobu, isključite televizor |
-| Umorna ili preopterećena | Odmor, prigušeno svjetlo, tiha muzika |
-| Kasno popodne | Pogledajte dio o sundowningu ispod |
+| Glad ili žeđ | Ponudite piće i malu užinu |
+| Potreba za toaletom | Mirno i bez žurbe ponudite odlazak u toalet |
+| Bol ili nelagoda | Obratite pažnju na znakove poput grimasiranja, držanja dijela tijela ili zatvora i javite ljekaru |
+| Pretoplo ili prehladno | Prilagodite sloj odjeće ili temperaturu u prostoriji |
+| Buka ili gužva | Premjestite se u tišu prostoriju, isključite televizor |
+| Umor ili prevelika stimulacija | Odmorite se, prigušite svjetlo, pustite tihu muziku |
+| Kasno popodne | Pogledajte odjeljak o večernjoj nemirnosti u nastavku |
 
-Alzheimer's Society predlaže da vodite kratak zapis o tome kada se pitanje javlja, na primjer prije obroka, nakon posjeta ili u sumrak. Obrasci olakšavaju planiranje unaprijed.
+Alzheimer's Society predlaže da vodite kratku bilješku o tome kada se traženje odlaska kući dešava, na primjer prije obroka, nakon posjeta ili u sumrak. Obrasci olakšavaju planiranje unaprijed.
 
-## Je li u redu reći bijelu laž?
+## Je li u redu reći blagu neistinu?
 
-Ovo je stvarna rasprava, a porodice koje brinu dolaze do različitih zaključaka. Alzheimer's Society kaže da nema jednog ispravnog odgovora: neistine mogu neke ljude učiniti sumnjičavijima, zato odlučite šta je u najboljem interesu osobe i budite dosljedni. U Penn Memory Center-u, stav koordinatora je da je istina osnovni pristup, a nježna neistina prihvatljiva je samo kada osoba ne može obraditi neku konkretnu istinu, i da nikada ne treba ismijavati njen osjećaj stvarnosti.
+Ovo je stvarna dilema i brižne porodice dolaze do različitih odluka. Alzheimer's Society kaže da ne postoji jedan jedini ispravan odgovor: neistine mogu neke ljude učiniti sumnjičavijim, pa odlučite šta je u najboljem interesu osobe i budite dosljedni. U Penn Memory Center, stav kodirektora je da je istina polazna tačka, a da je blaga neistina prihvatljiva samo kada osoba ne može obraditi određenu istinu, te da nikada ne treba ismijavati njeno viđenje stvarnosti.
 
-Mnogi njegovatelji nalaze srednji put: prvo iskrena utjeha i preusmjeravanje („Ostaćemo ovdje večeras, a ja sam tu uz vas“), bez prepirke o tome gdje je dom.
+Mnogi njegovatelji pronalaze srednji put: prvo iskrena utjeha i lagano preusmjeravanje („Ostaćemo ovdje večeras, i ja sam ovdje s Vama“), bez prepiranja o tome gdje je kuća.
 
-## Šta ako se to dešava svako popodne ili veče?
+## Šta ako se to dešava svakog popodneva ili večeri?
 
-Nemir koji počne ili se pogorša kasno popodne često se naziva sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) predlaže redovan raspored, dnevnu svjetlost i aktivnost, manje kasnih dnevnih spavanja, i bez kafe ili alkohola kasno u danu. Paljenje svjetla prije sumraka također može pomoći. Naš vodič o [smirujućim aktivnostima kasno popodne](/caregiving/late-day-restlessness/) sadrži više detalja.
+Nemir koji počinje ili se pogoršava u kasnim popodnevnim satima često se naziva večernja nemirnost. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) predlaže ustaljen raspored, dnevnu svjetlost i aktivnosti, manje kasnih drijemanja i izbjegavanje kofeina ili alkohola kasno tokom dana. Uključivanje svjetla prije sumraka također može pomoći. Naš vodič o [mirnim aktivnostima za kasno popodne](/caregiving/late-day-restlessness/) nudi više savjeta.
 
-## Zaštita ako pokuša da ode
+## Kako je zaštititi ako pokuša otići
 
-Želja da ide kući može dovesti do lutanja. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) procjenjuje da će šest od deset osoba koje žive s demencijom barem jednom lutati.
+Traženje odlaska kući može dovesti do lutanja. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) procjenjuje da će šest od deset osoba koje žive s demencijom lutati barem jednom.
 
 **Pripremite se unaprijed:**
 
-- ID ili medicinsku narukvicu s imenom i vašim telefonskim brojem, te oznake u odjeći. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) spominje MedicAlert i program Safe and Found Alzheimer's Association-a, koji može koštati novac.
-- Zvono ili alarm na vratima, i brave postavljene visoko ili nisko. Nikada ne zaključavajte osobu samu unutra.
-- Nedavnu fotografiju lica izbliza i spisak mjesta na koja bi mogla otići, na primjer raniji dom ili radno mjesto.
-- Obavijestite pouzdane komšije i ostavite im svoj broj.
+- Narukvica s identifikacijom ili medicinskim podacima s imenom osobe i vašim brojem telefona, kao i oznake u odjeći. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) spominje programe MedicAlert i Alzheimer's Association Safe and Found, koji mogu biti naplatni.
+- Zvono ili alarm na vratima i brave postavljene visoko ili nisko. Nikada ne zaključavajte osobu samu.
+- Nedavna fotografija izbliza i spisak mjesta na koja bi mogla otići, poput nekadašnjeg doma ili radnog mjesta.
+- Obavijestite komšije kojima vjerujete i dajte im svoj broj.
 
-**Ako nestane:** odmah počnite tražiti; Alzheimer's Association napominje da se mnoge osobe pronađu u krugu od oko 2,5 km (1,5 milja). Ako je niste pronašli u roku od 15 minuta, pozovite 112 i recite da osoba ima demenciju. Pozovite 112 odmah ako je neko u opasnosti.
+**Ako osoba nestane:** provjerite obližnja sigurna mjesta i istovremeno odmah kontaktirajte lokalnu policiju ili hitne službe. Nemojte čekati određeni broj minuta prije prijave. [Članak američkog Ministarstva pravde iz 2021. o istragama nestalih osoba](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) navodi da agencije za provođenje zakona ne bi trebale zahtijevati određeni period čekanja; također navodi simptome slične demenciji kao razlog za povećanu zabrinutost. Lokalne procedure prijave mogu se razlikovati. Recite službama da osoba živi s demencijom, podijelite posljednju poznatu lokaciju i nedavnu fotografiju te slijedite njihova uputstva. Ako je dostupan još neko ko može pomoći, zamolite tu osobu da ostane uz telefon. Nemojte sami pretraživati nesigurna mjesta.
 
-## Kada treba da pozovem ljekara?
+## Kada treba nazvati ljekara?
 
-Odmah pozovite ljekara ako pitanje ili zbunjenost počnu naglo ili se znatno pogoršaju tokom sati ili dana. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) kaže da naglo ili brzo mijenjanje ponašanja, posebno nakon infekcije ili promjene lijeka, treba odmah provjeriti. Iznenadna zbunjenost može biti delirij, za koji [NHS](https://www.nhs.uk/symptoms/confusion/) kaže da zahtijeva hitnu pomoć; infekcije mokraćnih puteva su čest uzrok kod starijih osoba.
+Odmah nazovite njenog ljekara ako traženje odlaska kući ili zbunjenost počnu iznenada ili se znatno pogoršaju u roku od nekoliko sati ili dana. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) kaže da iznenadne promjene u ponašanju ili promjene koje se brzo razvijaju, posebno nakon infekcije ili promjene lijeka, treba odmah provjeriti. Iznenadna zbunjenost može biti delirij, za koji [NHS](https://www.nhs.uk/symptoms/confusion/) navodi da zahtijeva hitnu pomoć; infekcije urinarnog trakta su čest uzrok kod starijih osoba.
 
-Također je korisno spomenuti ustaljen obrazac na sljedećem pregledu, jer bol, loše raspoloženje, poremećaji sna ili nuspojave lijekova mogu sve imati ulogu.
+Također je korisno spomenuti ustaljeni obrazac na sljedećem pregledu, jer bol, potištenost, problemi sa spavanjem ili nuspojave lijekova mogu imati svoju ulogu.

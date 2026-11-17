@@ -1,28 +1,34 @@
 ---
-title: "Bingo con imágenes para personas mayores con demencia, en papel o en pantalla"
-seoTitle: "Bingo con imágenes para personas mayores con demencia"
-description: "Bingo con imágenes para personas mayores con demencia, en papel o en pantalla: imágenes grandes, un llamado tranquilo, sin presión por ganar, y consejos para grupos pequeños y residencias."
+title: "Bingo de imágenes para personas mayores con demencia"
+seoTitle: "Bingo de imágenes para personas mayores con demencia"
+description: "Bingo de imágenes para personas mayores con demencia, impreso o en pantalla: imágenes grandes, un guía amable, sin presión por ganar y consejos para grupos."
 section: activities
 order: 24
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  El bingo con imágenes cambia los números por dibujos grandes y claros, para que las personas puedan emparejarlos con lo que ven, sin tener que leer o recordar. Se pueden imprimir las tarjetas o usar un llamado en pantalla, nombrando una imagen a la vez y dejando tiempo para marcarla. Es mejor jugar en grupos pequeños, con imágenes bien visibles y sin obligar a nadie a ganar. Lo más importante es compartir un rato juntos, no correr para llegar primero.
+  El bingo de imágenes reemplaza los números por imágenes grandes y claras,
+  para que las personas puedan relacionar lo que ven en lugar de leer y
+  recordar. Imprima tarjetas o use un guía en pantalla, muestre una imagen a
+  la vez y permita que cada persona marque lo que ve. Mantenga los grupos
+  pequeños, las imágenes llamativas y que ganar sea opcional. La mejor sesión
+  de bingo es un rato agradable en compañía, no una carrera para terminar
+  primero.
 keyPoints:
-  - "Usa imágenes en lugar de números: que sean grandes, claras y representen una sola cosa conocida."
-  - "Llama las imágenes poco a poco, muéstralas y di su nombre. Repítelo una vez y espera."
-  - "Mantén los grupos entre cuatro y ocho personas y siéntalas donde puedan ver a quien llama y su propia tarjeta."
-  - "Haz que ganar sea opcional. Algunas veces, basta con que todos digan en voz alta una imagen que les guste."
-  - "Pregunta antes de declarar un ganador. A algunas personas les puede resultar molesto un premio o unos aplausos, y eso está bien."
+  - "Use imágenes en lugar de números, y haga que cada una sea grande, clara y muestre una sola cosa conocida."
+  - "Muestre las imágenes despacio, enséñelas y diga su nombre. Repita el nombre una vez y espere."
+  - "Mantenga los grupos de cuatro a ocho personas y coloque a la persona donde pueda ver al guía y su tarjeta."
+  - "Haga que ganar sea opcional. Algunas sesiones pueden terminar con cada persona nombrando una imagen que le guste."
+  - "Pregunte antes de anunciar a quien gana. A algunas personas les puede incomodar un premio o un aplauso, y no pasa nada."
 faq:
-  - q: "¿Qué es el bingo con imágenes para personas que viven con demencia?"
-    a: "Es una versión del bingo que usa imágenes grandes en lugar de números. Cada persona marca en su tarjeta la imagen que quien llama muestra o nombra. Es una opción que se adapta bien a quienes tienen dificultad con los números y hace más fácil que todos puedan participar."
-  - q: "¿Cómo se juega al bingo con imágenes en grupo?"
-    a: "Se usan unas cuantas tarjetas impresas o un llamado en pantalla, y se va nombrando una imagen a la vez. Habla con claridad, muestra la imagen y dale a las personas tiempo para encontrarla. Mantén el grupo pequeño, no tengas prisa y deja que marquen con el dedo, con un bolígrafo o con una ficha."
-  - q: "¿Ayuda el bingo con imágenes a la memoria?"
-    a: "Ninguna actividad ha demostrado que trate o ralentice la demencia. El bingo con imágenes es un juego compartido y social. Su valor está en la compañía, en escuchar a quien llama y en el gusto de encontrar una imagen, no en ningún efecto sobre la memoria."
-  - q: "¿Qué pasa si alguien quiere parar o no encuentra la imagen?"
-    a: "Deja que pare. Puedes ofrecerle buscarla juntos, señalarla o moverle la ficha con su permiso. Lo más importante es que se sienta a gusto, más que terminar la tarjeta."
+  - q: "¿Qué es el bingo de imágenes para personas que viven con demencia?"
+    a: "Es una versión del bingo que usa imágenes grandes en lugar de números. Las personas marcan la imagen en su tarjeta cuando el guía la muestra o la nombra. Es adecuado para quienes encuentran difíciles los números y facilita participar en el juego."
+  - q: "¿Cómo organizo un bingo de imágenes para un grupo?"
+    a: "Use algunos juegos de tarjetas impresas o un guía en pantalla, y muestre una imagen a la vez. Hable con claridad, sostenga la imagen y dé tiempo para encontrarla. Mantenga el grupo pequeño, evite las prisas y permita que las personas marquen sus tarjetas con un dedo, un bolígrafo o una ficha."
+  - q: "¿El bingo de imágenes ayuda a la memoria?"
+    a: "No se ha demostrado que ninguna actividad trate o ralentice la demencia. El bingo de imágenes es un juego compartido y social. Su valor está en la compañía, la voz del guía y el gusto de encontrar una imagen, no en ningún efecto sobre la memoria."
+  - q: "¿Qué hago si alguien quiere parar o no puede encontrar la imagen?"
+    a: "Permítale parar. Ofrézcale buscarla juntos, señálela o mueva su ficha por la persona con su permiso. Que se sienta cómoda es más importante que completar la tarjeta."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -38,51 +44,51 @@ related: [activities/care-home-groups, activities/printable, activities/trivia, 
 health: false
 ---
 
-El bingo es un juego familiar y social para muchas personas mayores, pero los números pueden resultar difíciles de seguir para alguien que vive con demencia. El bingo con imágenes mantiene ese ritmo tranquilo, pero cambia los números por dibujos grandes y claros. Funciona bien en casa, en un centro de día o en una residencia. Esta guía explica cómo jugarlo, cómo adaptarlo y cómo centrarse en el disfrute.
+El bingo es un juego conocido y social para muchas personas mayores, pero los números pueden ser difíciles de seguir para alguien que vive con demencia. El bingo de imágenes mantiene el mismo ritmo tranquilo y cambia los números por imágenes grandes y claras. Funciona en casa, en un programa de día o en una residencia. Esta guía explica cómo jugar, cómo adaptarlo y cómo mantener el enfoque en el disfrute.
 
-## Cómo funciona el bingo con imágenes
+## Cómo funciona el bingo de imágenes
 
-Cada persona tiene una tarjeta con una cuadrícula de imágenes, como una tetera, un gato, una rosa, un velero o una bicicleta. Quien llama muestra o nombra una imagen a la vez. Los jugadores marcan la imagen que coincida en su tarjeta. Quien complete una fila, o el conjunto que el grupo haya acordado, puede decir "bingo", aunque muchos grupos prefieren prescindir por completo del ganador.
+Cada persona tiene una tarjeta con una cuadrícula de imágenes, como una tetera, un gato, una rosa, un velero o una bicicleta. Un guía muestra o nombra una imagen a la vez. Las personas marcan la imagen que coincide en su tarjeta. Quien marque una fila completa, o el conjunto que el grupo acuerde, puede decir «Bingo», pero muchos grupos prefieren no tener ganador.
 
-Se pueden usar las tarjetas imprimibles de nuestras [actividades imprimibles gratuitas](/activities/printable/), o el [juego de bingo con imágenes](/games/picture-bingo/), que incluye un llamado en pantalla para grupos. Ambos funcionan bien con una tablet que se coloque a la vista de todo el grupo.
+Puede usar las tarjetas imprimibles de nuestras [actividades imprimibles gratuitas](/activities/printable/), o el [juego de bingo de imágenes](/games/picture-bingo/), que incluye un guía en pantalla para grupos. Ambas opciones funcionan bien en una tableta que se sostenga para que todo el grupo la vea.
 
-## Preparar la sesión
+## Cómo preparar una sesión
 
-- **Elige un grupo pequeño.** Entre cuatro y ocho personas es un buen número. Con grupos más grandes es más difícil seguirlo y puede sentirse apresurado.
-- **Usa imágenes grandes.** Elige dibujos con trazos marcados y una sola cosa conocida por casilla. Evita las tarjetas con demasiados elementos.
-- **Siéntalos bien.** Coloca a cada persona donde pueda ver a quien llama y su propia tarjeta. Si necesita ayuda, siéntala cerca de quien la va a acompañar.
-- **Usa marcadores sencillos.** Fichas grandes, monedas o simplemente el dedo funcionan mejor que los lápices. Ten algunas fichas de repuesto.
-- **Planifica una sesión corta.** Con 30 minutos suele ser suficiente. Si se nota que la energía baja, mejor parar antes.
+- **Elija un grupo pequeño.** De cuatro a ocho personas suele ser un buen tamaño. Los grupos más grandes son más difíciles de seguir y pueden sentirse apresurados.
+- **Haga las imágenes grandes.** Use líneas llamativas y un solo objeto conocido por casilla. Evite las tarjetas recargadas.
+- **Coloque bien a las personas.** Ponga a cada participante donde pueda ver al guía y su propia tarjeta, y cerca de alguien que pueda ayudarle si lo necesita.
+- **Use marcadores sencillos.** Las fichas grandes, las monedas o tocar con un dedo funcionan mejor que los lápices. Tenga algunas de repuesto.
+- **Planifique una sesión breve.** Treinta minutos suele ser suficiente. Termine antes si nota que baja la energía.
 
-El [Instituto Nacional sobre el Envejecimiento](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) recomienda adaptar las actividades a lo que la persona todavía puede hacer, así que simplifica las tarjetas y las reglas siempre que eso ayude.
+El [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) recomienda adaptar las actividades a lo que la persona aún puede hacer, así que simplifique las tarjetas y las reglas siempre que eso ayude.
 
-## Cómo llamar las imágenes
+## Cómo mostrar las imágenes
 
-1. **Muestra la imagen.** Sosténla en alto o señálala en la pantalla antes de hablar.
-2. **Nómbrala con claridad.** Usa palabras sencillas, por ejemplo: "tetera". Repítelo una vez, despacio.
-3. **Espera.** Dale tiempo a las personas para mirar y marcar. No llames la siguiente imagen hasta que la mayoría haya tenido oportunidad.
-4. **Describe si ayuda.** Frases como "la flor roja" o "la que vimos en el picnic" pueden dar pie a una conversación.
-5. **Lleva un ritmo tranquilo.** Quien llama con calma es mucho más importante que quien llama rápido.
+1. **Levante la imagen** o señálela en la pantalla antes de hablar.
+2. **Dígala con claridad,** con palabras sencillas: «Tetera». Repítala una vez, despacio.
+3. **Espere.** Dé tiempo para mirar y marcar. No pase a la siguiente imagen hasta que la mayoría haya tenido la oportunidad.
+4. **Describa, si ayuda.** «La flor roja» o «la que tuvimos en el paseo» puede animar la conversación.
+5. **Mantenga un ritmo tranquilo.** Un guía sereno es más importante que uno rápido.
 
 ## Hacer que ganar sea opcional
 
-La competencia puede resultar incómoda. Quien va perdiendo puede sentirse puesto a prueba, y quien se preocupa por ganar puede ponerse tenso. Algunas alternativas:
+La competencia puede ser un problema. Una persona que va perdiendo puede sentirse evaluada, y una persona que se preocupa por ganar puede ponerse tensa. Estas son algunas alternativas:
 
-- **Que todos ganen una imagen.** Cada persona dice en voz alta una imagen que le guste, y el grupo la admira juntos.
-- **Compartir la tarjeta completa.** Pídele a cada persona que hable un poco sobre una imagen de su tarjeta.
-- **Jugar hasta terminar las imágenes.** Se nombran todas las imágenes de la tarjeta y se pasa a otra, sin declarar un primer ganador.
-- **Prescindir del premio o hacerlo muy pequeño.** Una galleta o una canción suele funcionar mejor que un trofeo.
+- **Todas las personas eligen una imagen.** Cada participante nombra una imagen que le guste y el grupo la comenta.
+- **Compartan una tarjeta completa.** Pida a las personas que digan algo sobre una imagen de su tarjeta.
+- **Jueguen hasta que se acaben las imágenes.** Muestre todas las imágenes de una tarjeta y luego empiece otra, sin buscar a quien termine primero.
+- **Mantenga el premio pequeño o no lo incluya.** Una galleta o una canción funciona mejor que un trofeo.
 
 ## Adaptaciones para etapas más avanzadas
 
-Si a alguien le cuesta encontrar la imagen, usa una tarjeta con solo cuatro o seis casillas, o dale una tarjeta a la vez. Puedes sostenerle la tarjeta mientras señala, o moverle la ficha con su permiso. Hay personas a las que les basta con escuchar a quien llama y disfrutar del sonido de las palabras.
+Para las personas a las que les resulta difícil encontrar una imagen, use una tarjeta con solo cuatro o seis casillas, o dé a cada persona una tarjeta a la vez. Permita que alguien le ayude a sostener la tarjeta mientras la persona señala, o mueva la ficha con suavidad con su permiso. A algunas personas les resulta más fácil simplemente escuchar al guía y disfrutar el sonido de las palabras.
 
-Fíjate en señales de incomodidad, como apartarse o fruncir el ceño, y para la actividad si aparecen. Para más ideas de actividades tranquilas sentados, consulta [actividades en etapas más avanzadas](/activities/late-stage/).
+Observe si hay señales de incomodidad, como alejarse o fruncir el ceño, y detenga la actividad si aparecen. Para más ideas de actividades tranquilas y sentadas, consulte [actividades para etapas avanzadas](/activities/late-stage/).
 
-## El bingo en residencias y centros de día
+## Bingo en residencias y programas de día
 
-Las actividades en grupo funcionan mejor cuando se planifican pensando en las personas que hay en la sala. Nuestra guía [actividades en grupo para residencias y centros de día](/activities/care-home-groups/) explica cómo organizar una sesión, cómo sentar a las personas y cómo actuar si alguien quiere irse. El bingo con imágenes también combina bien con un canto o un relato, y con [terminar la frase](/activities/finish-the-saying/) como un juego más tranquilo al final de la sesión.
+Las actividades en grupo funcionan mejor cuando se planifican pensando en las personas que están en la sala. Nuestra [guía de actividades en grupo para residencias y programas de día](/activities/care-home-groups/) explica cómo planificar una sesión, colocar a las personas y acompañar a quienes quieran retirarse. El bingo de imágenes también combina bien con una canción o un relato, y con [complete la frase](/activities/finish-the-saying/) como un juego más tranquilo más adelante en la sesión.
 
-## Qué puede y qué no puede hacer el bingo
+## Lo que el bingo puede y no puede hacer
 
-El bingo con imágenes es social y agradable. Puede unir a las personas, darles un motivo para mirar las imágenes y escuchar, y crear un ambiente cálido en el grupo. No trata la demencia ni ralentiza su evolución. El éxito se mide por cómo se sienten las personas durante ese rato, no por quién gana.
+El bingo de imágenes es social y agradable. Puede reunir a las personas, dar un motivo para mirar imágenes y escuchar, y crear un ambiente cálido en el grupo. No trata la demencia ni ralentiza su evolución. Valore su éxito por cómo se ven y se sienten las personas durante ese rato, no por quién gana.

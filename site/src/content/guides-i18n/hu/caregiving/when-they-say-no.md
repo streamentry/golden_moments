@@ -1,34 +1,34 @@
 ---
-title: "Amikor a demenciával élő személy nemet mond egy tevékenységre, vagy frusztrálódik"
-seoTitle: "Demencia: amikor nemet mond egy tevékenységre"
-description: "Miért utasíthatja vissza vagy zaklatódhat fel a demenciával élő személy egy tevékenységen, mit próbáljon helyette, mit kerüljön, és mikor kell orvoshoz fordulni."
+title: "Ha valaki demenciával visszautasítja vagy frusztrálódik egy közös tevékenységen"
+seoTitle: "Ha valaki demenciával visszautasít egy tevékenységet"
+description: "Miért utasíthatja el vagy háborodhat fel egy demenciával élő személy egy tevékenységet, mit próbáljon helyette, mit kerülje, és mikor kell orvoshoz fordulni."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ha a demenciával élő személy nemet mond, nyugodtan fogadja el, és próbálja meg később
-  újra, vagy kínáljon valami mást. Az elutasításnak gyakran oka van: a feladat túl nehéznek
-  vagy gyerekesnek tűnik, fáradt, fáj neki valami, éhes, vagy túlterheli a zaj. Ne vitatkozzon
-  és ne erőltessen. Egyszerűsítsen, kínáljon két lehetőséget, vagy kérjen segítséget. A
-  hirtelen vagy gyorsan változó viselkedés, különösen fertőzés vagy új gyógyszer után,
-  azonnali orvosi figyelmet igényel.
+  Ha valaki demenciával nemet mond, fogadja el nyugodtan, és próbálja meg később,
+  vagy kínáljon valami mást. A visszautasításnak általában oka van: a feladat
+  túl nehéz vagy gyerekesnek tűnik, fáradt, fájdalma van, éhes, vagy zavarják a
+  környező hangok. Ne vitázzon, és ne erőltesse. Egyszerűsítsen, kínáljon két
+  lehetőséget, vagy kérje a segítségét. Hirtelen vagy gyorsan változó viselkedés
+  esetén, különösen fertőzés vagy új gyógyszer mellett, azonnal forduljon orvoshoz.
 keyPoints:
-  - "A „nem” válasz, amelyet tiszteletben kell tartani, nem olyan probléma, amelyet le kell győzni."
-  - "Az elutasításnak általában oka van: túl nehéz, túl gyerekes, fáradt, rosszul érzi magát, kényelmetlen vagy túlterhelt."
-  - "Hátráljon, várjon, és próbálja meg később, másik időpontban vagy egyszerűbb változattal."
-  - "Segítségkérés jobban működik, mint a teljesítményre való felkérés."
-  - "Soha ne vitatkozzon, ne erőltessen, ne kérdezzen ki és ne javítson ki. Ellenőrizze magát, hogy nem siet-e vagy szorít-e."
-  - "A hirtelen vagy gyorsan változó viselkedés, különösen fertőzéssel vagy új gyógyszerekkel, azonnal orvoshoz tartozik."
+  - "A „nem” tiszteletet érdemlő válasz, nem olyasmi, amit le kell küzdeni."
+  - "A visszautasításnak általában oka van: túl nehéz, túl gyerekes, fáradtság, rosszullét, kellemetlen érzés vagy túl sok inger."
+  - "Húzódjon vissza, várjon, és próbálja újra később, más időpontban vagy egyszerűbb változatban."
+  - "Jobban működik, ha a segítségét kéri, mint ha teljesítményt várna el."
+  - "Soha ne vitázzon, ne erőltesse, ne teszteljen és ne javítgasson. Nézze meg, nem siet-e vagy szorongatja-e."
+  - "Hirtelen vagy gyorsan változó viselkedés esetén, különösen fertőzés vagy új gyógyszerek mellett, azonnal forduljon orvoshoz."
 faq:
-  - q: "Rendben van, ha egyáltalán kihagyják a tevékenységeket?"
-    a: "Igen, bármelyik adott napon. Az is elég lehet, ha együtt ülnek, zenét hallgatnak, vagy nézik, ahogy elhalad a világ. Ha valaki hetekig nem élvez semmit, említse az orvosának, mert a lehangoltság, a fájdalom vagy más egészségügyi problémák is közrejátszhatnak."
-  - q: "Miért utasítanak vissza olyan dolgokat, amelyeket régen szerettek?"
-    a: "Egy régi hobbi frusztrálóvá válhat, ha olyan készségeket igényel, amelyeket a demencia megnehezített, a személy pedig zavarban lehet. Próbáljon ki egy egyszerűbb részt ugyanabból a tevékenységből, például gombok válogatását varrás helyett, vagy kertes képek nézegetését ültetés helyett."
-  - q: "Próbáljam meggyőzni őket?"
-    a: "Nem. Ha valakit olyasmire erőltetünk, amit a demencia nehézzé tett, az ismert kiváltó oka a nyugtalanságnak. Fogadja el a nemet, váltson témát, és később vagy másképp ajánlja fel újra."
-  - q: "Mikor vészhelyzet a viselkedésváltozás?"
-    a: "Hívja a 911-et, ha valaki veszélyben van, vagy egészségügyi vészhelyzet jelei mutatkoznak. Hirtelen zavartság vagy olyan viselkedés esetén, amely órák vagy napok alatt gyorsan változik, különösen láz, fertőzés vagy új gyógyszer mellett, azonnal lépjen kapcsolatba az orvosával."
+  - q: "Rendben van, ha egy nap egyáltalán nem csinálnak közös tevékenységet?"
+    a: "Igen, bármelyik napon. Elég lehet együtt ülni, zenét hallgatni vagy csak nézni, mi történik körülöttük. Ha valaki heteken át szinte semmihez nem kedvet, beszéljen erről az orvosával, mert a rossz hangulat, a fájdalom vagy más egészségügyi problémák is szerepet játszhatnak."
+  - q: "Miért utasítanak el olyan dolgokat, amelyeket korábban szeretettek?"
+    a: "Egy régi kedvenc elfoglaltság frusztrálóvá válhat, ha már olyan készségeket igényel, amelyeket a demencia megnehezített, és a személy szégyellheti magát. Próbálja meg az ugyanilyen tevékenység egy egyszerűbb részét, például gombok válogatását varrás helyett, vagy kertképek nézegetését kerti munka helyett."
+  - q: "Meg kell próbálnom meggyőzni őket?"
+    a: "Nem. Ha valakit olyanra kényszerít, amit a demencia nehézzé tett, az gyakran nyugtalanságot vált ki. Fogadja el a nemet, térjen el a témától, és kínálja fel később vagy más módon."
+  - q: "Mikor sürgős egy viselkedésbeli változás?"
+    a: "Hívjon segélyhívó számot, ha valaki veszélyben van, vagy orvosi vészhelyzet jelei mutatkoznak. Hirtelen zavartság vagy órák, napok alatt gyorsan változó viselkedés esetén, különösen lázzal, fertőzéssel vagy új gyógyszerrel kapcsolatban, azonnal forduljon az orvosához."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Mindent előkészít, felajánl egy játékot vagy egy sétát, és azt hallja: „Nem.” Vagy a tevékenység jól indul, és egy eltolt táblagéppel és egy éles szóval végződik. Ez elkeserítő, és nagyon gyakori. Az elutasítás és a frusztráció általában üzenet, nem makacsság. Ha kiderül, mit üzen, az gyakran megmutatja, mit próbáljon legközelebb.
+Előkészített mindent, felkínál egy játékot vagy egy sétát, és azt hallja: „Nem.” Vagy a közös tevékenység jól indul, és azzal ér véget, hogy a tablettet félretolja, és élesen szól. Ez frusztráló, és nagyon gyakori. A visszautasítás és a feszültség általában üzenet, nem makacsság. Ha rájön, mit üzen, gyakran kiderül, mit próbálhat meg legközelebb.
 
-## Miért utasít vissza tevékenységeket a demenciával élő személy?
+## Miért utasítanak el tevékenységeket a demenciával élők?
 
-Általában van oka, még akkor is, ha a személy nem tudja szavakba önteni. Az [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) szerint az ellenállás azt jelentheti, hogy a személy nem tudja elvégezni a feladatot, vagy fél megpróbálni. Gyakori okok:
+Általában van oka, még ha a személy nem is tudja szavakba önteni. Az [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) szerint az ellenállás azt jelentheti, hogy a személy nem tudja elvégezni a feladatot, vagy fél megpróbálni. Gyakori okok:
 
-- **Túl nehéznek tűnik.** A tevékenység olyan készségeket igényel, amelyeket a demencia megnehezített, és egy másik ember előtt elbukni kellemetlen.
-- **Gyerekesnek tűnik.** A felnőttek észreveszik a rajzfilmes képeket, a dalos hangot és azokat a tevékenységeket, amelyek gyerekeknek készültek.
-- **Fáradtság.** Sokan a nap későbbi részében kevesebb energiával rendelkeznek. Lásd: [nyugodt késő délutáni tevékenységek](/caregiving/late-day-restlessness/).
-- **Fizikai kényelmetlenség.** A [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) felsorolja a fájdalmat, az alváshiányt, a látás vagy hallás nehézségeit, a székrekedést, az éhséget, a szomjúságot és az új gyógyszerek mellékhatásait a szorongás lehetséges okaiként.
-- **Túl sok minden történik.** Egy hangos tévé, több beszélgetés vagy egy zsúfolt szoba túlterhelő lehet.
-- **Nyomás alatt érzi magát.** Az NIA azt említi a nyugtalanság okaként, ha valakit arra kényszerítenek, amit az Alzheimer-kór nagyon nehézzé tett, vagy hogy emlékezzen eseményekre vagy emberekre.
-- **Lehangoltság.** Ha az ember elveszíti érdeklődését a dolgok iránt, az a depresszió jele lehet, amelyet érdemes orvossal megbeszélni.
-- **Egyszerűen nem akarják.** A felnőttek nemet mondhatnak.
+- **Túl nehéznek tűnik.** A tevékenység már olyan készségeket igényel, amelyeket a demencia megnehezített, és zavaró, ha mások előtt nem sikerül.
+- **Túl gyerekesnek tűnik.** A felnőttek észreveszik a rajzfilmes képeket, a daloló hangnemet és az olyan tevékenységeket, amelyek úgy néznek ki, mintha gyerekeknek készültek volna.
+- **Fáradtság.** Sok embernek a nap későbbi részében kevesebb energiája van. Lásd: [nyugodt délutáni tevékenységek](/caregiving/late-day-restlessness/).
+- **Fizikai kellemetlenség.** A [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) szerint a fájdalom, az alváshiány, a látás vagy hallás nehézségei, székrekedés, éhség, szomjúság és az új gyógyszerek mellékhatásai is okozhatnak nyugtalanságot.
+- **Túl sok inger.** Egy hangos tévé, több beszélgetés vagy zsúfolt helyiség túlterhelő lehet.
+- **Nyomás érzése.** A NIA megemlíti, hogy az nyugtalanságot válthat ki, ha valakit olyanra kényszerítenek, amit az Alzheimer-kór nagyon megnehezített, vagy ha arra kérik, hogy idézzen fel eseményeket vagy embereket.
+- **Rossz hangulat.** Ha valaki elveszíti érdeklődését a dolgok iránt, az lehet a depresszió jele is, amit érdemes orvossal megbeszélni.
+- **Egyszerűen nem akarja.** A felnőtteknek joguk van nemet mondani.
 
-## Mit próbáljak, ha nemet mondanak?
+## Mit tegyek, ha nemet mondanak?
 
-Fogadja el nyugodtan a nemet, majd változtasson valamin: az időponton, a tevékenységen, a nehézségen vagy azon, ahogy kéri.
+Fogadja el a nemet nyugodtan, majd változtasson valamit: az időpontot, a tevékenységet, a nehézséget vagy a megkérdezés módját.
 
-1. **Hagyja most.** „Rendben van. Talán később.” Ezután sóhaj nélkül lépjen tovább valami másra.
-2. **Próbálja meg később.** Az Alzheimer's Association azt javasolja, hogy később vagy a nap másik szakában próbálja újra.
-3. **Tegye kisebbé.** Egy párosítás egy egész játék helyett. Egy törölköző a szennyestartály helyett. Kevesebb kép, kevesebb választás, a képek láthatóak maradnak.
-4. **Kínáljon két lehetőséget.** „Szeretne a madaras képeket nézni, vagy hallgatnánk egy kis zenét?” A választás visszaadja az irányítás érzését.
-5. **Kérjen segítséget teljesítmény helyett.** „Segítene nekem ezeket rendezni?” vagy „Melyik szín tetszik jobban?” Ha szükség van rájuk, az egészen másképp érződik, mint ha tesztelnék őket.
-6. **Kezdje el maga.** Kezdje el a tevékenységet mellettük, anélkül hogy megkérdezné. Sokan akkor kapcsolódnak be, amikor már folyamatban van valami, és ha nem, akkor is együtt töltöttek időt.
-7. **Váltson valami fizikaira vagy megnyugtatóra.** Rövid séta, zene, harapnivaló, ruhahajtogatás, vagy egy közös [nyugodt légzés](/games/calm-breathing/) szünet. Az NIA zenére, könyvre vagy sétára való terelést javasol.
-8. **Hagyja, hogy a saját módján csinálják.** Ha másként akarnak játszani, mint ahogy a szabályok mondják, hagyja. Az Alzheimer's Association a rugalmasságot javasolja.
+1. **Most hagyja rá.** „Rendben. Talán később.” Azután folytassa valami mással sóhaj nélkül.
+2. **Próbálja újra később.** Az Alzheimer's Association azt javasolja, próbálja meg később, vagy a nap más időszakában.
+3. **Tegye kisebbé.** Egyetlen egyeztetés egy egész játék helyett. Egyetlen törölköző a mosás helyett. Kevesebb kép, kevesebb választás, a képek maradjanak láthatók.
+4. **Kínáljon két lehetőséget.** „Szeretne a madaras képeket nézegetni, vagy zenét hallgatni?” A választás visszaad egy kis irányítást.
+5. **A segítségét kérje a teljesítmény helyett.** „Segítene nekem ezeket válogatni?” vagy „Meg tudja mondani, melyik szín tetszik jobban?” Ha szükség van rá, az nagyon más érzés, mint ha tesztelnék.
+6. **Kezdje el maga.** Kezdjen bele a tevékenységbe mellette anélkül, hogy megkérdezné. Sok ember akkor csatlakozik, ha már történik valami, és ha nem, akkor is együtt töltöttek időt.
+7. **Válasszon valami mozgásosat vagy megnyugtatót.** Egy rövid séta, zene, egy falat, törölköző hajtogatása, vagy egy közös [nyugodt légzés](/games/calm-breathing/) szünet. A NIA azt javasolja, terelje a figyelmét zenére, egy könyvre vagy sétára.
+8. **Hagyja, hogy a maga módján csinálja.** Ha másképp szeretne játszani, mint a szabályok, menjen bele. Az Alzheimer's Association a rugalmasságot javasolja.
 
-## Mit mondjak, amikor frusztrálódnak?
+## Mit mondjak, ha frusztrálódnak?
 
-Lassítson, halkítsa a hangját, és nyugtasson. Az [Alzheimer's Association nyugtalanságról szóló útmutatója](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) azt javasolja, hogy hátráljon, kérjen engedélyt, használjon nyugodt, pozitív mondatokat, és kínáljon irányított választást két lehetőség között. A szellemében írt mondatok:
+Lassítson, halkítsa a hangját, és nyugtassa meg. Az [Alzheimer's Association a nyugtalanságról szóló útmutatója](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) azt javasolja, húzódjon vissza, kérjen engedélyt, használjon nyugodt, pozitív megfogalmazást, és kínáljon vezérelt választásként két lehetőséget. Ilyen hangulatú mondatok:
 
-- „Sajnálom, ez a feladat bosszantó. Álljunk meg.”
-- „Jól csinálja. Itt vagyok.”
-- „Van ideje, hogy valamiben segítsen nekem?”
-- „Igyunk inkább egy csésze teát?”
+- „Sajnálom, ez most idegesítő. Hagyjuk abba.”
+- „Minden rendben. Itt vagyok melletted.”
+- „Van ideje segíteni nekem valamiben mást?”
+- „Inkább igyunk egy teát?”
 
-Ezután fejezze be a tevékenységet anélkül, hogy nagy ügyet csinálna belőle. A [kommunikációs tippjeink](/caregiving/communication-tips/) többet írnak arról, mit mondjon.
+Azután fejezze be a tevékenységet anélkül, hogy nagy ügyet csinálna belőle. A [kommunikációs tippek](/caregiving/communication-tips/) további ötleteket adnak arra, mit mondjon.
 
-## Mit kerüljek?
+## Mit érdemes kerülni?
 
-Néhány természetes reakció általában rontja a helyzetet.
+Néhány természetes reakció általában ront a helyzeten.
 
-- **Vitatkozás vagy erőltetés.** „Gyerünk, még egyet” vagy „Ezt szereti” ritkán segít.
-- **Kikérdezés vagy javítás.** „Tudja, mi ez” vagy „Nem, ez a rossz” nyomást gyakorol.
-- **Személyes sértésként élés.** Az NIA emlékeztet arra, hogy a betegség, nem a személy okozza ezeket a változásokat.
-- **Szorítás vagy sietés.** Az Alzheimer's Association azt tanácsolja, hogy ne emelje fel a hangját, ne mutasson riadalmat, ne szorítsa sarokba, ne szorítsa közel, ne fogja le, ne kritizálja, ne hagyja figyelmen kívül, és ne vitatkozzon a személlyel, és kerülje a hirtelen mozdulatokat úgy, hogy azok ne lássák.
-- **Bűntudatkeltés.** „Mindezt Önért szerveztem” mindkettőjüknek rosszul esik.
-- **Címkézés.** A „makacs” vagy „nehéz” szó elrejti az igazi okot, és megnehezíti a megoldást.
+- **Vitázás vagy erőltetés.** A „Csak még egyet” vagy „Ezt szereted” ritkán segít.
+- **Kérdezgetés vagy javítgatás.** A „Tudod, mi ez” vagy „Nem, az nem jó” nyomást ad hozzá.
+- **Személyes sértésnek venni.** A NIA emlékeztet arra, hogy a betegség okozza ezeket a változásokat, nem a személy.
+- **Szorongatás vagy siettetés.** Az Alzheimer's Association azt tanácsolja, ne emelje fel a hangját, ne mutasson riadtságot, ne szorítsa sarokba, ne zsúfolja körül, ne kényszerítse, ne kritizálja, ne hagyja figyelmen kívül és ne vitatkozzon vele, és kerülje a hirtelen mozdulatokat a látóterén kívülről.
+- **Bűntudat keltése.** A „Én ezért mindent előkészítettem” mindkettőjüknek rosszabb érzést ad.
+- **Címkézés.** A „makacs” vagy „nehezen kezelhető” elrejti az igazi okot, és megnehezíti a megoldást.
 
-## Hogyan derítsem ki, mi áll az ismétlődő elutasítások hátterében?
+## Hogyan deríthetem ki, mi áll az ismétlődő visszautasítás hátterében?
 
-Vezessen egyszerű jegyzetet egy-két hétig. Az NIA szerint a viselkedésváltozások nyomon követése segíthet a gondozóknak és az egészségügyi szolgáltatóknak egy minta felismerésében és az ok megtalálásában.
+Vezessen egyszerű jegyzetet egy-két hétig. A NIA szerint a viselkedésbeli változások követése segíthet a gondozóknak és az egészségügyi szakembereknek felismerni a mintát, és kideríteni az okot.
 
 Jegyezze fel:
 
 - a napszakot;
-- mit kínált, és hogyan kérte;
-- mi történt Ön körül (zaj, látogatók, tévé);
-- hogyan aludtak, ettek és ittak, és mikor mentek utoljára mosdóba;
-- az új gyógyszereket vagy a közelmúltbeli betegséget.
+- mit kínált fel és hogyan kérdezte meg;
+- mi történt körülötte (zaj, látogatók, tévé);
+- hogyan aludt, evett és ivott, és mikor volt utoljára a mosdóban;
+- bármilyen új gyógyszert vagy közelmúltbeli betegséget.
 
-A minták gyakran gyorsan megjelennek: elutasítások, amelyek csak délután 4 után fordulnak elő, csak egy bizonyos játékkal, vagy csak akkor, ha be van kapcsolva a tévé. A Family Caregiver Alliance [demenciaviselkedésről szóló útmutatója](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) egyszerűen fogalmaz: a személyt nem tudjuk megváltoztatni, de a saját viselkedésünket és a környezetet igen.
+A minták gyakran hamar kiderülnek: csak délután négy óra után jelentkező visszautasítások, csak egy bizonyos játéknál, vagy csak akkor, ha be van kapcsolva a tévé. A Family Caregiver Alliance [dementiás viselkedésekről szóló útmutatója](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) így fogalmaz: nem tudjuk megváltoztatni a személyt, de megváltoztathatjuk a saját viselkedésünket és a környezetet.
 
-## Mikor beszéljek orvossal az elutasításról vagy a frusztrációról?
+## Mikor beszéljek orvossal a visszautasításról vagy frusztrációról?
 
-Beszéljen orvossal, ha a viselkedés hirtelen, gyorsan változik, vagy betegség jeleivel együtt jelentkezik. Az NIA szerint a hirtelen vagy gyorsan ingadozó viselkedésváltozásokat azonnal orvos elé kell vinni, különösen ha a személynek nemrégiben fertőzése volt vagy változott a gyógyszere.
+Beszéljen orvossal, ha a viselkedés hirtelen, gyorsan vagy betegség jeleivel együtt változik meg. A NIA szerint a hirtelen vagy gyorsan ingadozó viselkedésbeli változásokat, különösen ha a személynek fertőzése volt vagy nemrég változtattak a gyógyszerein, azonnal jelezni kell az orvosnak.
 
-Forduljon gyorsan orvosához, ha az alábbiakat tapasztalja:
+Forduljon időben az orvoshoz, ha észreveszi:
 
-- hirtelen zavartság vagy nagy változás órák vagy napok alatt;
-- fájdalom jelei, például arcrándulás, egy testrész óvása vagy új mozgási nehézség;
-- láz vagy más fertőzésre utaló jel;
-- új vagy megváltozott gyógyszer, amelyet viselkedésváltozás követ;
-- szinte mindenhez való érdektelenség, sírás vagy visszahúzódás két hétnél tovább;
-- étel vagy ital visszautasítása.
+- hirtelen zavartságot vagy nagy változást órák, napok alatt;
+- fájdalom jeleit, például grimaszolást, a test egy részének védését vagy új mozgási nehézséget;
+- lázat vagy más fertőzésre utaló jelet;
+- új vagy megváltoztatott gyógyszert, amit viselkedésbeli változás követett;
+- szinte minden iránti érdeklődés elvesztését, sírást vagy visszahúzódást, ami több mint néhány hétig tart;
+- étel vagy ital visszautasítását.
 
-Az Alzheimer's Association azt javasolja, hogy viselkedési tünetekkel küzdő bárkinél alapos orvosi vizsgálat történjen, különösen ha a tünetek hirtelen jelentkeznek. A Family Caregiver Alliance is azt tanácsolja, hogy először orvossal konzultáljon, mert a viselkedési problémák hátterében orvosi ok állhat. Ne kezdjen, ne hagyjon abba és ne változtasson gyógyszert orvossal vagy gyógyszerészsel való beszélgetés nélkül.
+Az Alzheimer's Association azt javasolja, hogy mindenkinél, akinél viselkedésbeli tünetek jelentkeznek, végezzenek alapos orvosi kivizsgálást, különösen ha ezek hirtelen jelennek meg. A Family Caregiver Alliance is azt tanácsolja, először beszéljen az orvossal, mert a viselkedési problémáknak lehet orvosi oka. Ne kezdjen el, ne hagyjon abba és ne változtasson gyógyszeren orvos vagy gyógyszerész megbeszélése nélkül.
 
-Ha valaki veszélyben van, vagy egészségügyi vészhelyzet jelei mutatkoznak, hívja a 911-et. Az NIA azt javasolja, hogy a diszpécsernek mondja el, hogy a személy demenciával él.
+Ha valaki veszélyben van, vagy orvosi vészhelyzet jelei mutatkoznak, hívjon segélyhívó számot. A NIA javasolja, mondja el a diszpécsernek, hogy a személy demenciával él. Az azonnali biztonsági lépésekért, ha a düh testi életté válik, olvassa el a [demenciával élők dühéről és agressziójáról szóló útmutatót](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
 ## Rendben van, ha egyáltalán nem csinálunk semmit?
 
-Igen. Néhány napon a legjobb tevékenység a semmittevés: együtt ülni, kézen fogva lenni, kedvenc lemezt hallgatni, vagy madarakat nézni az ablakon át. Ez nem kudarc. A [játék közös játszásáról szóló útmutatónk](/caregiving/how-to-play-together/) elmagyarázza, miért lehet a helyes döntés a korai abbahagyás, vagy akár az, hogy el sem kezdik.
+Igen. Vannak napok, amikor a legjobb tevékenység az, ha nincs tevékenység: együtt ülni, fogni egymás kezét, hallgatni egy kedvenc felvételt, vagy madarakat nézni az ablakból. Ez nem kudarc. A [közös játékról szóló útmutató](/caregiving/how-to-play-together/) elmagyarázza, miért lehet helyes korán abbahagyni, vagy egyáltalán nem belekezdeni.

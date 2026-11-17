@@ -1,34 +1,34 @@
 ---
-title: "Wasan Tambayoyi Mai Sauƙi ga Masu Mantuwa, Ba Tare da Matsi ba"
-seoTitle: "Tambayoyi Masu Sauƙi ga Masu Mantuwa: Tambayoyi 50"
-description: "Tambayoyi 50 masu sauƙi ga tsofaffi masu mantuwa, da zaɓuɓɓukan amsa da batutuwan hira, da yadda ake wasan ba tare da wani ya ji ana gwada shi ba."
+title: "Tambayoyi Sauƙi ga Masu Dimanshiya, Ba da Matsi ba"
+seoTitle: "Tambayoyi ga Masu Dimanshiya, tare da Amsoshi"
+description: "Tambayoyi sauƙi guda hamsin ga manyan mutane masu dimanshiya, tare da zaɓuɓɓukan amsa da batutuwan tattaunawa, da yadda ake gudanar da tambayoyi ba tare da jin an gwada kowa ba."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Wasan tambayoyi mai sauƙi ga tsofaffi masu mantuwa yana aiki idan yana jin
-  kamar hira, ba jarrabawa ba. Ku yi tambaya kan abubuwan da aka koya tuntuni,
-  kamar tsofaffin waƙoƙi, maganganu, bukukuwa da rayuwar yau da kullum, kuma
-  koyaushe ku ba da zaɓuɓɓuka biyu ko uku. Ku bayar da amsar cikin sauƙi, kada ku
-  nuna kowa, ku bar maki, kuma ku yi amfani da kowace amsa don fara labari.
-  Tambayoyin “wannan ko wancan” marasa amsar da ba daidai ba sun dace da matakai
-  na gaba.
+  Tambayoyi sauƙi ga manyan mutane masu dimanshiya suna aiki ne idan sun zama
+  kamar hira, ba gwaji ba. Ku yi tambaya game da abubuwan da aka koya tun
+  daɗewa, kamar tsofaffin waƙoƙi, karin magana, bukukkuwa da rayuwar yau da
+  kullum, kuma koyaushe ku bayar da zaɓi biyu ko uku. Ku faɗi amsar cikin
+  kirki, kada ku nuna mutum ɗaya, ku bar maki, kuma ku yi amfani da kowace
+  amsa don fara labari. Tambayoyin "Wannan ko wancan" da ba su da amsar da ba
+  daidai ba sun dace da matakai na gaba.
 keyPoints:
-  - "Ku yi tambaya kan abubuwan da aka saba da su tun da daɗewa: waƙoƙi, maganganu, bukukuwa, abinci da rayuwar yau da kullum ta shekarun baya."
-  - "Ku ba da zaɓuɓɓuka biyu ko uku don a gane amsar maimakon a tuna ta."
-  - "Ku faɗi amsar cikin ɗumi ku ci gaba. Duk zato da ya fara labari zato ne mai kyau."
-  - "Babu maki, babu ƙungiyoyi masu gudu, babu kiran mutum ɗaya. Ku bar amsoshi su zo daga ɗakin gaba ɗaya."
-  - "Idan zaɓar tsakanin amsoshi ya yi wuya, ku koma tambayoyin “wannan ko wancan” marasa amsa daidai."
+  - "Ku yi tambaya game da abubuwan da aka saba da su tun daɗewa: waƙoƙi, karin magana, bukukkuwa, abinci da rayuwar yau da kullum daga shekarun baya."
+  - "Ku bayar da zaɓi biyu ko uku domin a iya gane amsa maimakon a tuna ta daga kai."
+  - "Ku faɗi amsar cikin kirki sannan ku ci gaba. Duk hasashe da ya fara labari hasashe ne mai kyau."
+  - "Ba maki, ba gasa tsakanin ƙungiyoyi, ba kiran mutum ɗaya. Ku bar amsoshi su fito daga dukan ɗakin."
+  - "Idan zaɓar tsakanin amsoshi ya yi wuya, ku koma tambayoyin wannan-ko-wancan da ba su da amsar da ta dace ko ba daidai ba."
 faq:
-  - q: "Ko wasan tambayoyi aiki ne mai kyau ga masu mantuwa?"
-    a: "Zai iya zama, idan an gudanar da shi cikin laushi. Alzheimer’s Foundation of America ta lissafa wasan tambayoyi cikin ayyukan matakin farko. Ku riƙe tambayoyi kan batutuwan da aka saba da su tun da daɗewa, ku ba da zaɓuɓɓuka, kada ku taɓa matsa wa mutum ɗaya, kuma ku ɗauki amsoshin a matsayin hanyar shiga hira ba jarrabawa ba."
-  - q: "Waɗanne batutuwa ne suka fi dacewa da wasan tambayoyi ga masu mantuwa?"
-    a: "Abubuwan da aka koya tuntuni yawanci sun fi dacewa: shahararrun waƙoƙi da mawaƙa na ƙuruciyar mutumin, maganganun da aka sani, bukukuwa, abinci, wasanni, da rayuwar yau da kullum kamar ɗebo ruwa daga rijiya da dakan hatsi a turmi. Ku guji labaran kwanan nan da duk abin da yake buƙatar tunawa da wani abu daga farkon zaman."
-  - q: "Yaya zan gudanar da wasan tambayoyi a gidan kula ba tare da kunyata kowa ba?"
-    a: "Ku karanta kowace tambaya ga ƙungiyar gaba ɗaya, ku nuna ko ku faɗi zaɓuɓɓukan, kuma ku marabci amsoshi daga kowa. Kada ku kira mutum ɗaya-ɗaya ko ku riƙe maki. Ku faɗi amsar da murmushi duk abin da aka yi zato, kuma ku yi tambayar bi-da-bi kamar ‘Wane ne a nan ya taɓa zuwa kallon fim a gidan sinima?’ don mayar da ita labarai."
-  - q: "Me zan iya yi maimakon wasan tambayoyi a matakai na gaba?"
-    a: "Ku koma tambayoyin da ba su da amsa ba daidai ba, kamar ‘Shayi ko kofi?’ ko ‘Bakin teku ko tsaunuka?’, da kammala maganganu ko waƙoƙin da aka sani tare. Kallon hotuna da bayyana su tare ma yana aiki da kyau."
+  - q: "Shin tambayoyi wasa ne mai kyau ga mutanen da ke fama da dimanshiya?"
+    a: "Zai iya zama, idan an gudanar da shi a hankali. Alzheimer's Foundation of America ta lissafa tambayoyi a cikin ayyuka don matakin farko. Ku tsare tambayoyi ga batutuwan da aka saba da su tun daɗewa, ku bayar da zaɓuɓɓuka, kada ku tilasta wa mutum ɗaya ya amsa, kuma ku ɗauki amsoshi a matsayin hanyar fara tattaunawa ba gwaji ba."
+  - q: "Waɗanne batutuwa ne suka fi dacewa da tambayoyi ga masu dimanshiya?"
+    a: "Abubuwan da aka koya tun daɗewa sukan fi dacewa: shahararrun waƙoƙi da mawaka daga lokacin ƙuruciyar mutum, karin magana da aka saba da su, bukukkuwa, abinci, wasanni, da rayuwar yau da kullum kamar isar da madara da wayoyin da ake juya ƙafafunsu. Ku guji labaran baya-bayan nan da duk wani abu da ke buƙatar tuna wani abu daga farkon zaman."
+  - q: "Ta yaya zan gudanar da tambayoyi a gidan kula ba tare da kunya wa kowa ba?"
+    a: "Ku karanta kowace tambaya ga dukan ƙungiya, ku nuna ko ku faɗi zaɓuɓɓuka, kuma ku marabci amsoshi daga kowa. Kada ku kira mutane ɗaya ɗaya ko ku riƙe maki. Ku faɗi amsar tare da murmushi ko da menene aka yi hasashe, sannan ku yi tambayar biyo baya kamar 'Wa a nan ya taɓa zuwa kallon fim a cikin mota?' don mayar da shi zuwa labarai."
+  - q: "Me zan iya yi maimakon tambayoyi a matakai na gaba?"
+    a: "Ku koma tambayoyin da ba su da amsar da ba daidai ba, kamar 'Kofi ko shayi?' ko 'Bakin teku ko tsaunuka?', da kuma kammala karin magana ko waƙoƙin da aka saba da su tare. Kallon hotuna da bayyana su tare shima yana aiki sosai."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -47,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Wasan tambayoyi yana ɗaya daga cikin ayyukan rukuni da aka fi nema a gidajen kula da shirye-shiryen rana, kuma iyalai da yawa suna yin sa a teburin abinci ma. Idan aka yi shi yadda aka saba, da maki da mutum ɗaya yana amsawa, zai iya sa mai mantuwa ya ji an matsa masa. Idan aka yi shi cikin laushi, hanya ce mai ɗorewa ta jin labarai. A ƙasa akwai tambayoyi 50 masu sauƙi da zaɓuɓɓukan amsa da wani abin hira ga kowacce, sannan yadda ake gudanar da zama.
+Tambayoyi ɗaya ne daga cikin ayyukan rukuni da ake nema sosai a gidajen kulawa da shirye-shiryen rana, kuma iyalai da yawa suna yin su a teburin cin abinci ma. Idan aka gudanar da shi ta yadda aka saba, tare da maki da mutum ɗaya yana amsawa, zai iya sa mutumin da ke fama da dimanshiya ya ji an tilasta masa. Idan aka gudanar da shi a hankali, hanya ce mai daɗi ta jin labarai. A ƙasa akwai tambayoyi sauƙi guda hamsin tare da zaɓuɓɓukan amsa da abin da za a tattauna ga kowanne, sannan kuma yadda ake gudanar da zama guda.
 
-## Yaya ake sa wasan tambayoyi ya yi aiki ga mai mantuwa?
+## Ta yaya za ku sa tambayoyi su yi wa mutumin da ke fama da dimanshiya aiki?
 
-Ku sa ya zama game da gane da tunawa da abubuwan da suka wuce tuntuni, kuma ku marabci kowace amsa.
+Ku mayar da su game da ganewa da tunawa da abubuwan da suka faru tun daɗewa, kuma ku sa kowace amsa ta zama abar maraba.
 
-1. **Ku yi tambaya kan abin da ya wuce tuntuni.** [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ta ce alamar farko mafi yawa ta Alzheimer ita ce wahalar tunawa da sabon bayanin da aka koya. Waƙoƙi, maganganu da rayuwar yau da kullum ta shekaru da yawa da suka wuce sau da yawa sun fi sauƙi.
-2. **Koyaushe ku ba da zaɓuɓɓuka.** Zaɓar amsar da ta dace daga cikin biyu ko uku ya fi sauƙi fiye da samar da ita daga ba komai.
-3. **Ku karanta tambayoyi da murya kuma ku nuna su manya.** Allon rubutu ko tablet da aka ɗaga yana taimaka wa waɗanda suke jin ba sosai ba.
-4. **Ku bayar da amsar cikin sauƙi.** Idan babu wanda ya sani, ku faɗa cikin ɗumi ku ci gaba. Kada ku ce “Taho, kun san wannan.”
-5. **Babu maki.** Ba ga daidaikun mutane ba kuma ba ga tebura ba. Idan mutane suna son lamba, ku riƙe jimillar rukuni guda ɗaya.
-6. **Kada ku taɓa kiran mutum ɗaya.** Ku bar amsoshi su zo daga kowa. A zama ɗaya-da-ɗaya, ku amsa tare: “Ina tsammanin piano ne. Me kake tsammani?”
-7. **Ku yi amfani da abin hira.** Amsa ita ce farawa, ba ƙarshe ba. Labarai su ne ainihin manufa.
-8. **Ku sa shi ya zama gajere.** Tambayoyi goma da labarai a tsakani sun isa sosai.
+1. **Ku yi tambaya game da abubuwan da suka wuce tun daɗewa.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ta ce alamar farko da ta fi zama gama gari ta cutar Alzheimer ita ce wahalar tuna sababbin bayanai da aka koya. Waƙoƙi, karin magana da rayuwar yau da kullum daga shekarun da suka wuce galibi suna da sauƙin tattaunawa a kansu.
+2. **Koyaushe ku bayar da zaɓuɓɓuka.** Zaɓar amsar da ta dace daga cikin biyu ko uku ya fi sauƙi fiye da fitar da ita daga kai ba tare da taimako ba.
+3. **Ku karanta tambayoyi da babbar murya kuma ku nuna su a manya.** Farin allo ko kwamfutar hannu da aka ɗaga sama yana taimaka wa mutanen da ba sa ji sosai.
+4. **Ku faɗi amsar cikin sauƙi.** Idan babu wanda ya sani, ku faɗa ta cikin kirki sannan ku ci gaba. Kada ku ce "Dai ka sani."
+5. **Ba maki.** Ba ga mutane ɗaya ɗaya ba kuma ba ga teburi ba. Idan mutane suna son lamba, ku riƙe jimillar ƙungiya ɗaya.
+6. **Kada ku kira mutum ɗaya.** Ku bar amsoshi su fito daga kowa. Idan ku biyu ne kawai, ku amsa tare: "Ina tunanin piano ne. Kai fa me kake tunani?"
+7. **Ku yi amfani da batun tattaunawa.** Amsa ita ce farkon tattaunawa, ba ƙarshenta ba. Labarai su ne ainihin manufa.
+8. **Ku taƙaita shi.** Tambayoyi goma tare da labarai a tsakaninsu sun isa.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ta bayyana babbar ƙa’ida a sauƙaƙe: ku lura da takaici kuma ku tabbatar mutumin yana jin ya yi nasara. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ta lissafa wasan tambayoyi cikin ayyukan matakin farko. A matakin tsakiya, ku riƙe zaɓuɓɓuka biyu kuma ku dogara da abubuwan hira. Daga baya, ku koma tambayoyin “wannan ko wancan” da suke ƙasa.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ta taƙaita babban ƙa'ida cikin sauƙi: ku lura da alamun ɓacin rai kuma ku tabbatar mutumin yana jin nasara. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ta lissafa tambayoyi a cikin ayyuka don matakin farko. A matakin tsakiya, ku tsaya ga zaɓi biyu kuma ku dogara ga batutuwan tattaunawa. Daga baya, ku koma tambayoyin wannan-ko-wancan da ke ƙasa.
 
-## Tambayoyin kiɗa da nishaɗi
+## Tambayoyi game da kiɗa da nishaɗi
 
-An rubuta amsar da **ƙarfi**. Ku daidaita waɗannan da mutumin: wanda ya girma da kiɗan gargajiya zai so mawaƙa daban da wanda ya girma da waƙoƙin zamani.
+Amsar tana cikin **rubutu mai kauri**. Ku daidaita waɗannan ga mutum: wanda ya girma da Motown zai so mawaka daban da wanda ya girma da manyan ƙungiyoyin kiɗa.
 
-| Tambaya | Zaɓuɓɓuka | A yi hira kan | 
+| Tambaya | Zaɓuɓɓuka | Abin tattaunawa |
 | --- | --- | --- |
-| Wane ne ake kira Sarkin Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Kun taɓa ganin Elvis a talabijin? |
-| Wace kayan kiɗa ce take da maɓallai 88? | Guitar, **piano**, ƙaho | Wani a cikin iyalinku ya taɓa kaɗa ta? |
-| Wace kayan kiɗa ce ake bugawa da hannu ko sanda? | **Ganga**, algaita, ƙaho | Kun taɓa ji ana bugawa a wurin biki? |
-| Wace daga cikin waɗannan kayan kiɗa ake hurawa? | Ganga, **algaita**, kalangu | A wane biki kuka taɓa jin ta? |
-| Mamman Shata ya shahara a wane fanni? | **Waƙa**, ƙwallon ƙafa, noma | Wace waƙarsa kuka fi so? |
-| Fela Kuti ya shahara da wace irin kiɗa? | **Afrobeat**, waltz, tango | Kun taɓa jin waƙoƙinsa? |
-| Wane mawaƙin reggae ya rera “No Woman, No Cry”? | Elvis Presley, **Bob Marley**, Louis Armstrong | Wace waƙarsa kuke tunawa? |
-| Kannywood masana’antar fim ce ta wane harshe? | **Hausa**, Yoruba, Igbo | Wane fim kuka fi so? |
-| Louis Armstrong ya rera “What a Wonderful...” | Day, **World**, Life | Me ke sa duniya ta zama mai ban mamaki a gare ku? |
-| Wace rawa ake ƙirgawa ɗaya-biyu-uku, ɗaya-biyu-uku? | **Waltz**, twist, tango | A ina kuka taɓa rawa? |
+| Wa ake kira Sarkin Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Ka taɓa ganin Elvis a talabijin? |
+| Wane mawaƙi ne ake yi wa lakabi da Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Wace waƙar Sinatra ce ka fi so? |
+| Bing Crosby ya yi mafarkin farin... | **Kirsimeti**, aure, gida | Ku rera layi ɗaya tare |
+| Louis Armstrong ya rera "What a Wonderful..." | Day, **World**, Life | Me ya sa duniya ta yi kyau a gare ka? |
+| Judy Garland ta rera "Over the Rainbow" a wane fim? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | A ina kuka kalli fina-finan da kuka fi so? |
+| Wa ta fito a matsayin Lucy a "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Waɗanne shirye-shiryen ne iyalanku suka fi kallo tare? |
+| Wane jarumin fina-finan yammacin Amurka ne ya hau doki mai suna Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Kun taɓa yin wasan ƴan bindiga a lokacin ƙuruciya? |
+| Wa ya shirya "The Tonight Show" tsawon shekaru talatin? | Ed Sullivan, **Johnny Carson**, Bob Hope | Kun taɓa jinkiri kuna kallo talabijin da daddare? |
+| Wane kayan kiɗa ne ke da maɓallan danna guda tamanin da takwas? | Guitar, **piano**, trumpet | Akwai wani a iyalinku da ya taɓa bugawa? |
+| Wane rawa ake ƙirgawa ɗaya-biyu-uku, ɗaya-biyu-uku? | **Waltz**, twist, tango | A ina kuka je rawa? |
 
-Don ƙarin bayani kan kiɗa, ku duba [ayyukan kiɗa ga mantuwa](/activities/music/).
+Don ƙarin bayani game da kiɗa, duba [ayyukan kiɗa ga masu dimanshiya](/activities/music/).
 
-## Tambayoyin rayuwar yau da kullum
+## Tambayoyi game da rayuwar yau da kullum
 
-| Tambaya | Zaɓuɓɓuka | A yi hira kan |
+| Tambaya | Zaɓuɓɓuka | Abin tattaunawa |
 | --- | --- | --- |
-| Kafin lantarki, da me ake haskaka gidaje da dare? | **Fitilar kananzir**, murhu, firiji | Yaya gidanku yake haskakawa da dare? |
-| Me ake amfani da shi don dakan hatsi? | **Turmi da tabarya**, kwano, tire | Wane ne ya fi iya daka a gidanku? |
-| Daga ina ake ɗebo ruwa a ƙauyuka a da? | **Rijiya**, rufin gida, kasuwa | Me kuke tunawa game da ɗebo ruwa? |
-| Wace dabba ake amfani da ita wajen ɗaukar kaya a hamada? | **Raƙumi**, kifi, kaza | Kun taɓa ganin raƙumi? |
-| Ina ake sayen kayan abinci a unguwa? | **Kasuwa**, banki, makaranta | Me kuke so ku saya a kasuwa? |
-| Wace kamfani ce ta ƙera motar Model T? | **Ford**, Chevrolet, Buick | Ku ba ni labarin motar da kuka so |
-| Yaya ake kiran lamba a tsohuwar wayar juyawa? | Danna maɓallai, **juya faifai**, magana da ita | Ku ba ni labarin wayar gidanku |
-| Mako yana da kwana nawa? | 5, **7**, 10 | Wace rana ta mako kuka fi so? |
-| Shekara tana da wata nawa? | 10, **12**, 14 | A wane wata aka haife ku? |
-| Wane abu ake sakawa a ƙafa don tafiya? | **Takalmi**, hula, riga | Kun taɓa tafiya babu takalmi? |
+| Kafin firji, gidaje da yawa suna ajiye abinci da sanyi a cikin... | **Akwatin ƙanƙara**, tanda, rufi | Wa ya kawo ƙanƙara? |
+| Wa ya kawo madara ƙofar gida a kwalaben gilashi? | Mai kawo wasiku, **mai kawo madara**, mai sayar da jaridu | Waɗanne wasu abubuwa ne ake kawowa gida? |
+| Ta yaya ake kiran lamba a wayar da ake juya ƙafarta? | Ta danna maɓallai, **ta juyawa**, ta magana da ita | Ba ni labarin wayar da ke gidanku |
+| Wace kamfani ce ta kera motar Model T? | **Ford**, Chevrolet, Buick | Ba ni labarin motar da ka fi so |
+| A ina za ka samu mai sayar da abin sha mai sanyi a mashaya? | **A mashayar abin sha mai sanyi**, a gidan burodi, a banki | Me ka saba oda a wurin? |
+| Wane abin wasa ne maɓuɓɓugar ƙarfe da za ta iya gangarowa a kan matakala? | Yo-yo, **Slinky**, hula hoop | Waɗanne kayan wasa ne ka fi so? |
+| Wurin kallon fim a cikin mota wuri ne da ake kallo... | **Fina-finai daga cikin mota**, wasannin ƙwallo, jerin gwanon al'adu | Da wa kuka je? |
+| Fuskar wa ke kan takardar dala ɗaya? | Lincoln, **George Washington**, Jefferson | Nawa ne dala ɗaya ke siya a lokacin? |
+| Fuskar wa ke kan dinari? | **Abraham Lincoln**, Washington, Franklin | Kun taɓa ajiye dinari a kwalba a lokacin? |
+| Wane launi ne bas ɗin makaranta ya fi zama? | Ja, **rawaya**, shuɗi | Ta yaya kuka je makaranta? |
 
-## Bukukuwa, yanayi da wurare
+## Bukukkuwa, yanayi da wurare
 
-| Tambaya | Zaɓuɓɓuka | A yi hira kan |
+| Tambaya | Zaɓuɓɓuka | Abin tattaunawa |
 | --- | --- | --- |
-| Bayan watan azumi, ana yin wace Sallah? | **Ƙaramar Sallah**, Babbar Sallah, Kirsimeti | Yaya kuke bikin ta a gidanku? |
-| Sabuwar shekara ta kalandar Gregorian tana farawa a wane wata? | **Janairu**, Maris, Yuli | Yaya kuka yi bikin sabuwar shekara? |
-| Wane wata ne na ƙarshe a shekara? | Nuwamba, **Disamba**, Janairu | Me kuka yi a ƙarshen shekara? |
-| Wace rana ce ke zuwa kafin Lahadi? | Litinin, **Asabar**, Jumma’a | Yaya Asabar take a gidanku? |
-| Uwar mahaifiyarka ana kiranta... | Aya, **kaka**, yaya | Yaya kuke kiran kakarku? |
-| Hannu ɗaya yana da yatsu nawa? | 4, **5**, 6 | An koya muku ƙirge da yatsu? |
-| Wane teku ne yake yammacin Afirka? | **Tekun Atlantika**, Tekun Indiya, Tekun Arctic | Kun taɓa zuwa bakin teku? |
-| Me ƙudan zuma ke yi? | Madara, **zuma**, siliki | Zuma a burodi ko a shayi? |
-| Ɗan saniya ana kiransa... | Ɗan rago, **maraƙi**, ɗan akuya | Kun taɓa zama kusa da gona? |
-| Wace doguwar fure mai launin rawaya ce ta shahara da juyawa zuwa rana? | Wardi, **furen rana**, tulip | Me ya tsiro a lambunku? |
-| Shekarar da ake ƙara wa rana (leap year) tana da kwana nawa? | 365, **366**, 360 | Ku ba ni labarin ranar haihuwa da kuke tunawa |
-| A wane lokaci ake yawan ruwan sama? | **Damina**, rani, hunturu | Wane lokaci na shekara kuka fi so? |
+| Wane biki ne a ranar Alhamis ta huɗu a watan Nuwamba? | Ranar Ma'aikata, **Ranar Godiya**, Ranar Tunawa | Me ya kasance koyaushe a kan teburinku? |
+| Ana yin Jack-o'-lanterns ne don wane biki? | **Halloween**, Ista, Kirsimeti | Ba ni labarin Halloween a inda ka girma |
+| Ranar huɗu ga watan Yuli tana murnar Sanarwar... | Hakki, **'Yancin kai**, 'Yanci | A ina kuka kalli wasan wuta? |
+| Ranar Uwa tana cikin wane wata? | Afrilu, **Mayu**, Yuni | Ta yaya iyalanku suka yi murna? |
+| Taurari nawa ne a kan tutar Amurka? | 48, **50**, 52 | Tutar tana da taurari 48 har zuwa 1959. Kowace amsa tana iya zama kyakkyawar tunawa |
+| Wane teku ne a Gabashin Teku? | Pacific, **Atlantic**, Arctic | Ka taɓa zuwa bakin teku? |
+| A wane birni ne Statue of Liberty take? | Boston, **New York**, Philadelphia | Ka taɓa zuwa New York? |
+| Me ƙudan zuma ke yi? | Madara, **zuma**, siliki | Zuma a kan burodi ko a cikin shayi? |
+| Ana kiran ɗan saniya da... | Ɗan doki, **maraki**, ɗan akuya | Ka taɓa zama kusa da gona? |
+| Wane dogon furanni mai launin rawaya ne ya shahara da juya kai ga rana? | Furen wardi, **furen rana**, tulip | Me ya girma a lambunku? |
+| Kwana nawa ne a cikin shekarar tsalle? | 365, **366**, 360 | Ba ni labarin ranar haihuwa da kake tunawa |
+| Wane lokaci ne ke zuwa bayan hunturu? | Kaka, **bazara**, rani | Wane lokaci ne ka fi so? |
 
-## Tambayoyin abinci da wasanni
+## Tambayoyi game da abinci da wasanni
 
-| Tambaya | Zaɓuɓɓuka | A yi hira kan |
+| Tambaya | Zaɓuɓɓuka | Abin tattaunawa |
 | --- | --- | --- |
-| Zabibi busasshe ne na... | **Inabi**, gwanda, lemu | Kun taɓa cin zabibi? |
-| Gyaɗa tana tsiro a ƙarƙashin... | **Ƙasa**, bishiya, ruwa | Gyaɗa soyayya ko dafaffiya? |
-| Madara tana fitowa daga... | **Saniya**, kaza, kifi | Kun taɓa kiwon dabbobi? |
-| Ƙwai ana samunsu daga... | **Kaza**, saniya, akuya | Yaya kuka fi son ƙwai? |
-| Cikakkiyar ayaba yawanci launinta... | **Rawaya**, shuɗi, ja | Wace ’ya’yan itace kuka fi so? |
-| Cikin cikakkiyar kankana yawanci launi... | **Ja**, shuɗi, baƙi | Kankana a lokacin zafi? |
-| ’Yan wasa nawa ƙungiyar ƙwallon ƙafa take da su a fili? | 9, **11**, 13 | Wace ƙungiya kuka goyi baya? |
-| Wasan ƙwallon ƙafa yana da mintuna nawa gaba ɗaya? | 60, **90**, 120 | Kun taɓa buga ƙwallo? |
-| Pelé ya shahara da wane wasa? | Dambe, **ƙwallon ƙafa**, golf | Kun taɓa zuwa kallon wasa? |
-| Filin golf na yau da kullum yana da ramuka nawa? | 9, **18**, 24 | Kun taɓa buga golf? |
+| Zabibi busasshen... | Plum, **inabi**, ceri | Kun taɓa saka zabibi a abincin rana? |
+| Prunes busasshen... | **Plum**, ɓaure, tuffa | Wa a iyalinku ya fi son prunes? |
+| Man gyada da... | **Jelly**, cuku, naman alade | Mai ƙwaro ko mai laushi? |
+| Ana yin guacamole galibi daga... | Fis, **avocado**, kokwamba | Waɗanne miya ne aka fito da su a bukukuwa? |
+| Wane kek ne ya shahara a Ranar Godiya? | **Kabewa**, lemo, ceri | Wane kek ne ka fi yin girki? |
+| 'Yan wasa nawa ne ƙungiyar wasan ƙwallon kwando ke da su a filin wasa? | 7, **9**, 11 | Wace ƙungiya ce kuka fi goyon baya? |
+| Sau nawa ne bugawa ba daidai ba ke sa a fitar da ɗan wasa a wasan ƙwallon kwando? | Sau biyu, **sau uku**, sau huɗu | Ka taɓa buga ƙwallon kwando? |
+| Babe Ruth ya shahara a wane wasa? | Dambe, **wasan ƙwallon kwando**, golf | Kun taɓa zuwa kallon wasannin ƙwallo? |
+| Rami nawa ne a filin wasan golf na yau da kullum? | 9, **18**, 24 | Ka taɓa buga golf, ko ƙaramar golf? |
+| A wane wasa ne ake samun touchdown? | **Ƙwallon ƙafa ta Amurka**, hockey, ƙwallon kwando | Wa ya kalli ƙwallon ƙafa ta Amurka a gidanku? |
 
-## Maganganu da jerin abubuwa da aka sani
+## Karin magana da aka saba da su
 
-Kammala jumla da aka sani yana amfani da harshen da aka koya tuntuni kuma sau da yawa yana zuwa cikin sauƙi. A nan mun yi amfani da gaisuwa da jerin abubuwan yau da kullum ne kawai da muka tabbatar da su; ku ƙara karin maganganu da ake amfani da su a yankinku. Ana samun wasanmu na [Kammala karin magana](/games/finish-the-saying/) da Turanci a yanzu, tare da taɓawa don nuna kowane ƙarshe.
+Kammala karin magana yana amfani da harshen da aka koya tun daɗewa kuma sau da yawa yana zuwa cikin sauƙi. Wasanmu na [Kammala karin magana](/games/finish-the-saying/) yana da ƙarin yawa, tare da taɓawa don nuna kowace ƙarshe.
 
-| Magana | Zaɓuɓɓuka | A yi hira kan |
+| Karin magana | Zaɓuɓɓuka | Abin tattaunawa |
 | --- | --- | --- |
-| Sannu da... | **zuwa**, ruwa, gida | Wane ne ya fi maraba da baƙi a iyalinku? |
-| Sannu da... | **aiki**, barci, ruwa | Wane aiki kuka yi tsawon shekaru? |
-| Lafiya... | **lau**, kofi, yau | Yaya kuke gaisawa da maƙwabta da safe? |
-| Ɗaya, biyu... | **uku**, bakwai, goma | Yaya kuka koyi ƙirge? |
-| Ɗaya, biyu, uku, huɗu... | **biyar**, takwas, goma | Kun taɓa ƙirge da wasu abubuwa? |
-| Bayan Litinin ta zo... | **Talata**, Asabar, Lahadi | Wace rana kuka fi so a mako? |
-| Kafin Asabar akwai... | **Jumma’a**, Litinin, Talata | Yaya Jumma’a take a gidanku? |
-| Safiya, rana, yamma... | **dare**, shekara, mako | Wane lokaci na rana kuka fi so? |
+| Tuffa ɗaya a rana tana nisantar da... | **Likita**, ruwan sama, kyanwa | Wa ya saba faɗa maka wannan? |
+| Tsuntsun da ya tashi da wuri yana kama... | Bas, **tsutsa**, jirgin ƙasa | Kai mai tashi da wuri ne? |
+| Kada ka ƙidaya kajinka kafin su... | **Ƙyanƙyashe**, yi barci, rera waƙa | Iyalenku sun taɓa kiwon kaji? |
+| Dinari da aka ajiye dinari ne da aka... | **Samu**, rasa, kashe | Wa ne mai ajiya a iyalinku? |
+| Gida shi ne inda... | Lambu yake, **zuciya take**, kicin yake | Me ya sa wuri ya zama kamar gida? |
+| Gara a makara da... | Da wuri, **ba a zo ba**, da baƙin ciki | Wa ya fi makara koyaushe? |
+| Kowace girgije tana da... | **Gefen azurfa**, cokali, tsabar kuɗi | Ba ni labarin wani sa'a da ka samu |
+| Ayyuka sun fi magana da... | **Kalmomi**, kiɗa, tsawa | Ba ni labarin wanda ya faɗi haka |
 
-## Tambayoyin “wannan ko wancan” marasa amsa ba daidai ba
+## Tambayoyin wannan-ko-wancan da ba su da amsar da ba daidai ba
 
-Waɗannan sun dace da kowane mataki, har da na gaba, domin babu abin da za a samu daidai. Ku yi tambaya, ku saurara, kuma ku raba amsarku ma.
+Waɗannan sun dace da kowane mataki, har ma da matakai na gaba, domin babu abin da za a yi kuskure. Ku yi tambaya, ku saurara, kuma ku faɗi amsarku ma.
 
-- Shayi ko kofi?
+- Kofi ko shayi?
 - Bakin teku ko tsaunuka?
-- Kare ko kyanwa?
-- Lokacin zafi ko lokacin sanyi?
-- Tuwo ko shinkafa?
+- Karnuka ko kuliyoyi?
+- Rani ko hunturu?
+- Kek ko waina?
 - Rawa ko kallo?
 - Fitowar rana ko faɗuwar rana?
-- Baranda ko tsakar gida?
-- Rediyo ko faifai?
-- Masa ko ƙwai?
-- Wardi ko furen rana?
+- Baranda ta gaba ko bayan gida?
+- Rediyo ko faifan kiɗa?
+- Fanke ko ƙwai?
+- Furen wardi ko daisies?
 - Tafiyar jirgin ƙasa ko tafiyar mota?
 
-Don tambayoyin hira da suke tafiya da hotuna, ku gwada [Katunan hira](/games/conversation-cards/) namu da za a iya bugawa.
+Don tambayoyin tattaunawa da suka dace da hotuna, gwada katunanmu da za a iya bugawa na [Katunan tattaunawa](/games/conversation-cards/).
 
-## Yaya ake gudanar da zaman wasan tambayoyi a gidan kula ko rukuni?
+## Ta yaya ake gudanar da zaman tambayoyi a gidan kulawa ko rukuni?
 
-1. **Ku zaunar da mutane don su gani su ji.** Na’urorin taimakon ji a kunne, tabarau a ido, talabijin a kashe.
-2. **Ku gabatar da shi a matsayin hira.** “Ina da wasu tambayoyi game da zamanin da, kuma ina tsammanin ku kun fi ni sani.”
-3. **Ku karanta kowace tambaya sau biyu kuma ku nuna zaɓuɓɓukan manya.**
-4. **Ku marabci amsoshi daga ko’ina cikin ɗakin.** Ku maimaita amsoshi masu kyau don kowa ya ji.
-5. **Ku faɗi amsar ga kowa,** sannan ku yi tambayar hira ga ɗakin.
-6. **Ku bi kuzarin.** Idan tambaya ɗaya ta fara mintuna goma na labarai, ku bari.
-7. **Ku ƙare da waƙa ko zagayen “wannan ko wancan”,** don kowa ya gama da wani abu mai sauƙi.
+1. **Ku zaunar da mutane ta yadda za su iya gani da ji.** Na'urorin taimakon ji a kunne, tabarau a idanu, talabijin a kashe.
+2. **Ku gabatar da shi a matsayin hira.** "Ina da wasu tambayoyi game da zamanin da, kuma na tabbata kun fi ni sani."
+3. **Ku karanta kowace tambaya sau biyu kuma ku nuna zaɓuɓɓuka a manya.**
+4. **Ku marabci amsoshi daga ko'ina a ɗakin.** Ku maimaita amsoshi masu kyau domin kowa ya ji.
+5. **Ku faɗi amsar ga kowa,** sannan ku yi tambayar tattaunawa ga ɗakin.
+6. **Ku bi yadda mutane suke ji.** Idan tambaya ɗaya ta haifar da labarai na mintuna goma, ku bar ta haka.
+7. **Ku ƙare da waƙa ko zagayen tambayoyin wannan-ko-wancan,** domin kowa ya ƙare da wani abu mai sauƙi.
 
-Don wasu tsare-tsaren rukuni, har da bingo na hotuna da rera waƙa tare, ku duba [ayyukan rukuni ga gidajen kula](/activities/care-home-groups/).
+Don wasu hanyoyin rukuni, ciki har da bingo na hotuna da rera waƙa tare, duba [ayyukan rukuni don gidajen kulawa](/activities/care-home-groups/).
 
-## Yaushe za a canza shiri
+## Yaushe za a canja tsari
 
-Idan wani ya yi kamar yana damuwa, ya yi shiru ko ya ce “Ban sani ba” fiye da sau ɗaya, ku sauƙaƙa: ku koma zaɓuɓɓuka biyu, ku amsa tare, ko ku koma tambayoyin “wannan ko wancan.” Idan rukunin ya fi son yin magana kan tambaya ɗaya duk la’asar, nasara ke nan. Manufar ba amsoshi daidai ba ce ba. Ita ce lokaci cikin kyakkyawar abokantaka.
+Idan wani ya nuna damuwa, ya yi shiru ko ya ce "Ban sani ba" fiye da sau ɗaya, ku sauƙaƙa shi: ku rage zuwa zaɓi biyu, ku amsa tare, ko ku koma tambayoyin wannan-ko-wancan. Idan ƙungiyar ta fi son tattaunawa game da tambaya ɗaya tsawon la'asar, wannan nasara ce. Manufa ba ta taɓa zama amsoshi daidai ba. Manufa ita ce lokacin da aka yi tare cikin farin ciki.

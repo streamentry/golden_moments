@@ -1,33 +1,34 @@
 ---
-title: "Demensiya bilan yashayotganlar uchun savol-javob va suhbat oʻyinlari"
-seoTitle: "Demensiya uchun 20 savol va suhbat oʻyinlari"
-description: "Demensiya bilan yashayotganlar uchun 20 savol va boshqa suhbat oʻyinlari: inson mutaxassis boʻladi, ball, vaqt va imtihon yoʻq."
+title: "Demensiya uchun yigirma savol va suhbat o‘yinlari"
+seoTitle: "Demensiya uchun yigirma savol va suhbat o‘yinlari"
+description: "Demensiya bilan yashayotganlar uchun yigirma savol va boshqa suhbat o‘yinlari: javobni biluvchi inson o‘zi bo‘ladi, hisob yo‘q, vaqt yo‘q, sinov yo‘q."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Yigirma savol oʻyini odam javobni biladigan boʻlsa, yumshoq va suhbatga boy
-  oʻyin boʻlishi mumkin. Inson biror narsa oʻylaydi, siz esa ha yoki yoʻq
-  savollar berasiz va hech kim sinovdan oʻtmaydi. "Bu yoki u" va "Nimani tanlardingiz?"
-  kabi boshqa suhbat oʻyinlari ham shunday ishlaydi: ular faktlar emas, fikr va
-  hikoyalarni taklif qiladi. Raundlarni qisqa tuting, inson oʻtkazib yuborishiga
-  ruxsat bering va taxminlarni hech qachon sanamang.
+  Yigirma savol o‘yini javobni biluvchi inson o‘zi bo‘lsa, yumshoq va iliq
+  suhbatga aylanishi mumkin. U biror narsani o‘ylaydi, siz «ha» yoki «yo‘q» deb
+  javob beriladigan savollar berasiz va hech kim sinovdan o‘tkazilmaydi. «Bu
+  yoki u» hamda «Nimani tanlagan bo‘lardingiz?» kabi boshqa suhbat o‘yinlari
+  ham xuddi shunday ishlaydi: ular faktlarni emas, fikr va xotiralarni
+  so‘rashga chorlaydi. O‘yinlarni qisqa tuting, insonning o‘tkazib yuborishiga
+  yo‘l qo‘ying va hech qachon taxminlarni sanamang.
 keyPoints:
-  - "Odam narsa yoki hayvonni oʻylasin, shunda u mutaxassis boʻladi. Siz savol berasiz, u ha yoki yoʻq deb javob beradi."
-  - "Oʻtkazib yuborish, maslahat yoki imo-ishora ruxsat etilsin. Hech qachon ball yuritmang va savollar sonini sanamang."
-  - "Inson hayotidan tanish narsalarni tanlang, masalan, sevimli taom, asbob yoki joy."
-  - "\"Sizga nima yoqadi...?\" yoki \"Qaysi biri yoqadi?\" kabi fikr soʻrovchi savollarda notoʻgʻri javob yoʻq."
-  - "Inson qiziqishini yoʻqotganda toʻxtang. Ikki-uch raund yetarli."
+  - "Narsa yoki hayvonni g‘amxo‘rlik qilayotgan insoningiz o‘ylasin, shunda u javobni biluvchi inson bo‘ladi. Savollarni siz berasiz, u esa «ha» yoki «yo‘q» deya javob beradi."
+  - "O‘tkazib yuborishga, ishora berishga yoki imo-ishora qilishga ruxsat bering. Hech qachon hisob yuritmang va nechta savol ishlatilganini sanamang."
+  - "Insonning hayotidan tanish bo‘lgan kundalik narsalarni tanlang: sevimli taom, asbob yoki joy kabi."
+  - "«Qaysi birini afzal ko‘rasiz?» yoki «Qaysi biri sizga yoqadi?» kabi fikr so‘rovchi savollarning noto‘g‘ri javobi bo‘lmaydi."
+  - "Inson qiziqishini yo‘qotganda o‘yinni yakunlang. Ikki yoki uchta davra yetarli."
 faq:
-  - q: "Demensiyali inson uchun yigirma savol oʻyini foydalimi?"
-    a: "Foydali boʻlishi mumkin, agar javobni inson oʻylasa va hech kim sinalmasa. Agar u oʻzi eslashi kerak boʻlgan faktni siz taxmin qilib, viktorina sifatida oʻynalsa, imtihonga oʻxshab tuyulishi mumkin. Qoidalarni ochiq va iliq saqlang."
-  - q: "Yigirma savol oʻyinida inson nimani oʻylashi mumkin?"
-    a: "Oddiy, tanish narsalar eng yaxshi: meva, hayvon, asbob, gul turi, mebel yoki yaxshi biladigan joy. Mavhum gʻoyalar, odamlarning ismlari va qaygu keltirishi mumkin boʻlgan narsalardan saqlaning."
-  - q: "Inson ha yoki yoʻq deb javob bera olmasa-chi?"
-    a: "Imo-ishoralardan foydalaning: bosh barmoqni yuqoriga yoki pastga koʻtarish, yoki rasm kartasiga ishora qilish. Shuningdek, ovoz chiqarib taxmin qilishingiz va inson bosh irgʻash, tabassum yoki bir soʻz bilan javob berishi mumkin."
-  - q: "Demensiyali keksalar uchun boshqa suhbat oʻyinlari bormi?"
-    a: "Ha. \"Bu yoki u\" oʻyinida ikki narsadan qaysi birini afzal koʻrishini soʻraysiz. \"Nimani tanlardingiz\" oʻyinida fikr soʻraysiz. Golden Moments dagi suhbat kartalari kabi ochiq savollar kartasi kundalik hayot haqida hikoyalarni taklif qiladi."
+  - q: "Yigirma savol o‘yini demensiya bilan yashayotgan insonlar uchun mos keladimi?"
+    a: "Javobni o‘ylaydigan inson o‘zi bo‘lsa va hech kim sinovdan o‘tkazilmasa, mos bo‘lishi mumkin. Agar bu o‘yin viktorina tarzida o‘tkazilib, g‘amxo‘r kishi eslab qolishi kerak bo‘lgan faktni topishga harakat qilsa, bu sinovdek tuyulishi mumkin. Qoidalarni ochiq va iliq tuting."
+  - q: "Yigirma savol o‘yinida inson nimani o‘ylashi mumkin?"
+    a: "Oddiy va tanish narsalar eng mos keladi: meva, hayvon, asbob, gul turi, uy jihozi yoki u yaxshi biladigan joy. Mavhum tushunchalar, odamlarning ismlari va qayg‘uga sabab bo‘lishi mumkin bo‘lgan narsalardan saqlaning."
+  - q: "Agar inson «ha» yoki «yo‘q» deya javob bera olmasa-chi?"
+    a: "Imo-ishoralar, bosh irg‘ish yoki chayqash, yoki rasm kartasiga ishora qilishdan foydalaning. Shuningdek, taxminlarni ovoz chiqarib aytishingiz va uning bosh irg‘ishi, tabassumi yoki bir so‘z bilan javob berishiga imkon berishingiz mumkin."
+  - q: "Demensiya bilan yashayotgan kattalar uchun boshqa suhbat o‘yinlari bormi?"
+    a: "Ha. «Bu yoki u» o‘yinida ikki narsadan qaysi birini afzal ko‘rishini so‘raysiz. «Qaysi birini tanlagan bo‘lardingiz?» esa fikrini so‘raydi. Golden Moments ilovasidagi suhbat kartalari kabi ochiq savollar beruvchi karta o‘yini kundalik hayot haqidagi xotiralarni so‘rashga chorlaydi."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -46,51 +47,51 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Koʻpchilik oila birga oʻynaydigan oʻyinni suhbatga oʻxshash, imtihon emas, deb xohlaydi. Yigirma savol va shunga oʻxshash taxmin oʻyinlari yaxshi ishlashi mumkin, chunki qoidalari oddiy va suhbat istalgan yoʻnalishga ketishi mumkin. Asosiy gap rollarni teskari qilishda: javobni inson oʻylaydi, siz esa savol berasiz. Bu sahifa bu oʻyinlarni qanday yumshoq oʻynash va qaysi suhbat oʻyinlari demensiya bilan yashayotganlarga mosligini tushuntiradi.
+Ko‘plab oilalar birga o‘ynash uchun sinov emas, suhbatga o‘xshaydigan o‘yin izlaydi. Yigirma savol va shunga o‘xshash topishmoq o‘yinlari yaxshi chiqishi mumkin, chunki qoidalari oddiy va suhbat turli yo‘nalishlarda davom etishi mumkin. Muhimi — odatdagi rollarni almashtirish: javobni inson o‘ylaydi, savollarni esa siz berasiz. Bu sahifada bunday o‘yinlarni qanday yumshoq tarzda o‘tkazish va demensiya bilan yashayotgan insonlar uchun qaysi suhbat o‘yinlari mos kelishi tushuntiriladi.
 
-## Nega qoidalarni teskari qilamiz?
+## Nega odatdagi qoidalarni almashtirish kerak?
 
-Odatdagi viktorinada bir kishi soʻraydi, ikkinchisi bilishi kerak. Bu demensiya bilan yashayotgan odamni muvaffaqiyatsizlikka duchor qilishi mumkin va bu uni xafa qilishi mumkin. Agar u buyumni tanlasa va siz taxmin qilsangiz, u mutaxassis boʻladi: javobni u ushlab turadi, ha yoki yoʻq deyishni u hal qiladi va sizning urinishlaringizni kuzatib zavqlanishi mumkin.
+Oddiy viktorinada bir kishi savol beradi, ikkinchisi esa javobni bilishi kerak. Bu demensiya bilan yashayotgan insonni xato qilishi mumkin bo‘lgan holatga qo‘yadi va bu xafa qilishi mumkin. Narsani ular tanlab, siz topishga harakat qilsangiz, ular javobni biluvchi inson bo‘ladi. Javob ularda bo‘ladi, «ha» yoki «yo‘q» deyishni ular hal qiladi va sizning urinishlaringizni kuzatishdan zavqlanishlari mumkin.
 
-[Milliy qarish instituti](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) parvarishlovchilarga qisqa va oddiy gaplar, bir vaqtda bitta savol va xotirjam, sabrli ohang ishlatishni tavsiya qiladi. Bu odatlar taxmin oʻyinlariga juda mos.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) g‘amxo‘rlarga qisqa va oddiy gaplardan foydalanishni, bir vaqtning o‘zida bitta savol berishni hamda sokin va sabrli ohangda gapirishni tavsiya qiladi. Bu odatlar topishmoq o‘yinlariga juda mos keladi.
 
-## Yigirma savol oʻyinini qanday yumshoq oʻynash
+## Yigirma savolni yumshoq tarzda qanday o‘ynash mumkin
 
-1. **Mavzu tanlang**: oshxona, bogʻ, hayvonlar yoki dengiz kabi inson hayotidan.
-2. **Inson biror narsa oʻylasin** va uni past ovozda ayting yoki rasm kartasini koʻrsating, shunda siz eshitmasligingiz ham mumkin.
-3. **Bir vaqtda bitta ha yoki yoʻq savol bering.** "Bu ovqatmi?" "Bu poyabzaldan kattami?"
-4. **Har qanday javobni qabul qiling.** Bosh irgʻash, boshni chayqash yoki kulgi ham hisobga oʻtadi.
-5. **Taxminlaringizni ovoz chiqarib ayting** va ulardan zavqlaning. Toʻgʻri topsangiz, birga xursand boʻling.
-6. **Inson tiqilib qolganda maslahat bering**: "Bu oshxonadagi narsa."
-7. **Savollar sonini hech qachon sanamang** va ball yuritmang.
+1. **Mavzuni tanlang** — inson hayotidan tanish bo‘lgan soha: oshxona, bog‘, hayvonlar yoki dengiz bo‘yi kabi.
+2. **Biror narsani o‘ylashiga imkon bering** va uni ohista aytib qo‘ysin yoki eshitishingiz shart bo‘lmasligi uchun rasm kartasini ko‘rsatsin.
+3. **Bir vaqtning o‘zida bitta «ha» yoki «yo‘q» savolini bering.** «Bu yeb bo‘ladigan narsami?» «Bu tuflidan kattaroqmi?»
+4. **Har qanday javobni qabul qiling.** Bosh irg‘ish, chayqash yoki kulish ham javob hisoblanadi.
+5. **Taxminlarni ovoz chiqarib ayting** va bundan zavqlaning. To‘g‘ri topsangiz, birga xursand bo‘ling.
+6. **Inson qiynalayotgandek tuyulsa, ishora bering:** «Bu oshxonadagi bir narsa.»
+7. **Hech qachon savollarni sanamang** va hisob yuritmang.
 
-Agar inson qoidalarga amal qila olmasa, oddiyroq variantga oʻting: siz bir necha narsani aytasiz, u esa toʻgʻrisiga ishora qiladi.
+Agar inson qoidalarga amal qila olmasa, yanada oddiy ko‘rinishga o‘ting: siz bir nechta narsani aytasiz, u esa to‘g‘risini ko‘rsatadi.
 
-## Yaxshi tanlanadigan narsalar
+## Tanlash uchun mos narsalar
 
 - Sevimli meva, sabzavot yoki gul
-- Fermadagi, hayvonot bogʻidagi yoki egalik qilgan hayvon
-- Bolgʻa, bel yoki tikish ignasi kabi asbob
-- Mebel yoki uy buyumi
-- Yaxshi taniydigan joy, masalan, bogʻ yoki shahar
-- Yoqtirib kiyadigan kiyim
+- Ferma, hayvonot bog‘idagi hayvon yoki u ilgari asragan uy hayvoni
+- Bolg‘a, tirmik yoki tikuv ignasi kabi asbob
+- Uy jihozi yoki ro‘zg‘or buyumi
+- U yaxshi biladigan joy, masalan, bog‘ yoki shahar
+- U kiyishni yoqtirgan kiyim
 
-Odamlarning ismlaridan, qayg‘u keltirishi mumkin boʻlgan narsalardan va xavfli yoki oson chalkashadigan buyumlardan saqlaning.
+Odamlarning ismlaridan, qayg‘u keltirishi mumkin bo‘lgan narsalardan hamda xavfli bo‘lishi yoki oson adashtirilishi mumkin bo‘lgan buyumlardan saqlaning.
 
-## Boshqa suhbat oʻyinlari
+## Boshqa suhbat o‘yinlari
 
-- **Bu yoki u.** Ikki variant taklif qiling va qaysi birini afzal koʻrishini soʻrang: choy yoki kofe, togʻlar yoki dengiz, qizil koʻylak yoki koʻk koʻylak. Toʻgʻri javob yoʻq.
-- **Nimani tanlardingiz.** Yengil, muloyim savol bering: "Piknikni yoqtirasizmi yoki kechki ovqatga chiqishnimi?"
-- **Maqolni davom ettiring.** Oxiri ochiq qolgan tanish ibora. Qoʻllanma uchun [maqolni davom ettirish oʻyinlari](/activities/finish-the-saying/) sahifasiga qarang.
-- **Joyni ayting.** Sevimli xona, shahar yoki manzarani tasvirlashni soʻrang va uni siz ham tasavvur qilishga taklif qiling.
-- **Ochiq savollar kartalari.** Bizning [suhbat kartalari](/games/conversation-cards/) mavzular boʻyicha ochiq savollar beradi va ularni stolda chop etish mumkin.
+- **Bu yoki u.** Ikkita variant taklif qiling va qaysi birini afzal ko‘rishini so‘rang: choymi yoki qahva, tog‘larmi yoki dengiz, qizil ko‘ylakmi yoki ko‘k ko‘ylak. Bunda to‘g‘ri javob yo‘q.
+- **Qaysi birini tanlagan bo‘lardingiz?** Yengil va iliq savol bering: «Piknikni afzal ko‘rgan bo‘lardingizmi yoki tashqarida kechki ovqatni?»
+- **Iborani davom ettiring.** Tanish iboraning oxiri ochiq qoldiriladi. Yo‘riqnoma uchun [iborani davom ettirish o‘yinlari](/activities/finish-the-saying/) sahifamizga qarang.
+- **Joyni aytib bering.** Undan sevimli xona, shahar yoki manzarani tasvirlab berishini so‘rang va siz ham uni tasavvur qilishga harakat qiling.
+- **Ochiq savolli kartalar.** Bizning [suhbat kartalarimiz](/games/conversation-cards/) mavzular bo‘yicha ochiq savollar beradi va ularni dasturxon atrofida ishlatish uchun chop etish mumkin.
 
-Xotira va hayot tarixiga asoslangan goʻzal gʻoyalar uchun [xotira savollari](/activities/reminiscence-questions/) sahifasiga qarang. Viktorinaga oʻxshash, ammo yumshoq quvnoqlik uchun [demensiya bilan yashayotgan keksalar uchun oson viktorina](/activities/trivia/) sahifasiga qarang: u tanlovlardan foydalanadi va ball hisoblamaydi.
+Xotira va hayot hikoyasiga tayanuvchi ko‘proq g‘oyalar uchun [xotirani uyg‘otuvchi savollar](/activities/reminiscence-questions/) sahifasiga qarang. Yumshoq tarzda o‘tkaziladigan viktorina uchun [demensiya bilan yashayotgan kattalar uchun oson savol-javoblar](/activities/trivia/) sahifasiga qarang — u yerda tanlovlar beriladi va hisob yuritilmaydi.
 
-## Inson gʻazablansa nima qilish kerak?
+## Agar inson asabiylashsa-chi?
 
-Toʻxtang, tabassum qiling va shunday deng: "Keling, boshqa oʻynaymiz." Gʻazab oʻyinni almashtirish signali, uni koʻproq majburlash emas. [Demensiya bilan yashayotgan odam bilan oʻyin oʻynash](/caregiving/how-to-play-together/) sahifasida qoidalarni tez oʻzgartirish tushuntirilgan.
+To‘xtang, jilmaying va «Keling, boshqa narsa o‘ynaymiz», degandek yumshoq gap ayting. Asabiylashish — bu o‘yinni o‘zgartirish kerakligining belgisi, ko‘proq bosim o‘tkazish emas. [Demensiya bilan yashayotgan inson bilan qanday o‘ynash kerak](/caregiving/how-to-play-together/) nomli yo‘riqnomamiz o‘yin davomida qoidalarni qanday o‘zgartirish mumkinligini tushuntiradi.
 
-## Bu oʻyinlar nima qila oladi va nima qila olmaydi
+## O‘yinlar nimalarni qila oladi va qila olmaydi
 
-Suhbat oʻyinlari yoqimli va ijtimoiy. Ular odamlarga bogʻlanishga va hikoyalarni baham koʻrishga yordam beradi. Ular demensiyani davolamaydi, sekinlashtirmaydi va oldini olmaydi. Maqsad oddiy: birga iliq lahza.
+Suhbat o‘yinlari yoqimli va muloqotga boy bo‘lishi mumkin. Ular insonlarning bog‘lanishiga va xotiralar bilan o‘rtoqlashishiga yordam berishi mumkin. Ular demensiyani davolamaydi, sekinlashtirmaydi va oldini olmaydi. Maqsadni oddiy tuting: birga o‘tkazilgan iliq lahza.

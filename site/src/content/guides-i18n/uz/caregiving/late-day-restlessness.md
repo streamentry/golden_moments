@@ -1,35 +1,36 @@
 ---
-title: "Kun oqshomidagi bezovtalik: demensiyada sokin mashgʻulotlar"
-seoTitle: "Kun oqshomidagi bezovtalik: sokin mashgʻulotlar"
-description: "Demensiyada kun oqshomidagi bezovtalikni yengillashtirishi mumkin boʻlgan yumshoq tartib, sokin mashgʻulotlar va qachon shifokorga murojaat qilish."
+title: "Kechki bezovtalik: demensiyada kechki tinch mashg‘ulotlar"
+seoTitle: "Kechki bezovtalik: kechki tinch mashg‘ulotlar"
+description: "Demensiyada kechki bezovtalikni yumshatishga yordam berishi mumkin bo‘lgan yumshoq tartib, xonani o‘zgartirish va tinch mashg‘ulotlar hamda qachon shifokorga murojaat qilish kerakligi."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kun oqshomidagi bezovtalik — tushdan keyin yoki kechqurun boshlanadigan yoki
-  kuchayadigan betoqatlik, chalkashlik yoki jahldorlik. Yordam berishi mumkin
-  boʻlgan amaliy qadamlar: barqaror kundalik tartib, kunning erta qismida kun
-  yorugʻi va faollik, kechga yaqin kamroq uxlash, kamroq kofein, qorongʻi
-  tushishidan oldin xonada yorqin chiroq, tinchroq uy va musiqa, suratlar yoki
-  kirlarni buklash kabi sokin mashgʻulotlar. Yangi yoki kuchayayotgan belgilarni
-  shifokor tekshirishi kerak.
+  Kechki bezovtalik — bu kunning ikkinchi yarmida yoki kechqurun boshlanadigan
+  yoxud kuchayadigan bezovtalik, chalkashlik yoki asabiylashish. Yordam
+  berishi mumkin bo‘lgan amaliy choralar qatoriga kun tartibini barqaror
+  saqlash, kunning boshida yorug‘lik va faol bo‘lish, kechki uzoq uyquni
+  kamaytirish, kofeinni cheklash, qorong‘ilik tushishidan oldin xonani
+  yoritish, uyni tinchroq saqlash hamda musiqa, suratlar yoki kir yuvish
+  narsalarini taxlash kabi tinch mashg‘ulotlar kiradi. Yangi yoki kuchayib
+  borayotgan alomatlar shifokor ko‘rigini talab qiladi.
 keyPoints:
-  - "Kun oqshomidagi bezovtalik kun yorugʻi susayganda boshlanadigan yoki kuchayadigan betoqatlik yoki chalkashlikni anglatadi."
-  - "Talab qiladigan ishlar, chiqishlar va yuvinishni ertalab yoki tushdan keyingi erta soatlarga qoʻying."
-  - "Kun yorugʻi, har kungi sayr, kechga yaqin kamroq uxlash va kechga yaqin kamroq kofein kechqurunlarni silliqroq oʻtkazishga yordam berishi mumkin."
-  - "Qorongʻi tushishidan oldin chiroqlarni yoqing, shovqinni pasaytiring va sokin, tanish mashgʻulotlarga oʻting."
-  - "Qoʻzgʻatuvchilarni topish uchun qayd yuriting va betoqatlik boshlanganda xotirjam va tasalli beruvchi boʻlib qoling."
-  - "Yangi yoki kuchayayotgan belgilar uchun shifokorga murojaat qiling: ogʻriq, infeksiya yoki dorilar rol oʻynashi mumkin."
+  - "Kechki bezovtalik — yorug‘lik kamayishi bilan boshlanadigan yoki kuchayadigan bezovtalik yoki chalkashlik."
+  - "Ko‘proq kuch talab qiladigan ishlar, tashqariga chiqish va cho‘milishni ertalab yoki kunning birinchi yarmiga qo‘ying."
+  - "Kunduzgi yorug‘lik, har kungi sayr, kechki uzoq uyquni kamaytirish va kun oxirida kofeinni cheklash kechqurunlarni yengilroq o‘tishiga yordam berishi mumkin."
+  - "Qorong‘ilik tushishidan oldin chiroqlarni yoqing, shovqinni kamaytiring va tanish, tinch mashg‘ulotlarga o‘ting."
+  - "Qo‘zg‘atuvchi omillarni aniqlash uchun qisqa kundalik yuriting va bezovtalik boshlanganda o‘zingizni xotirjam va taskin beruvchi tuting."
+  - "Yangi yoki kuchayib borayotgan alomatlar bo‘lsa shifokorga murojaat qiling: og‘riq, infeksiya yoki dorilar bunga ta’sir qilishi mumkin."
 faq:
-  - q: "Kun oqshomidagi bezovtalik odatda kunning qaysi vaqtida boʻladi?"
-    a: "U odatda kun yorugʻi susayganda, tushdan keyin yoki erta kechqurun boshlanadi yoki kuchayadi. Aniq vaqt insondan insonga farq qiladi, shuning uchun bir-ikki hafta qisqa qayd yuritish yordam berishi mumkin."
-  - q: "Kun oqshomidagi bezovtalik tibbiy narsaning belgisi boʻlishi mumkinmi?"
-    a: "Uni ogʻriq, siydik yoʻllari infeksiyasi kabi infeksiyalar, uyqu muammolari yoki dori yon ta’sirlari kabi sogʻliq muammolari kuchaytirishi mumkin. Betoqatlik yangi, birdan paydo boʻlgan yoki kuchayayotgan boʻlsa, insonning shifokoriga murojaat qiling."
-  - q: "Kun oqshomidagi bezovtalik uchun shifokordan dori haqida soʻrashim kerakmi?"
-    a: "Bu shifokor bilan gaplashiladigan masala. Alzheimer's Association dorisiz yondashuvlar odatda birinchi tanlanishini va kechki bezovtalik uchun har qanday dori faqat xavf va foydani tortib koʻrgandan keyin koʻrib chiqilishi kerakligini aytadi. Bu sahifa dori haqida maslahat bermaydi."
-  - q: "Kun oqshomidagi bezovtalikka qanday mashgʻulotlar yordam beradi?"
-    a: "Tushdan keyin odatda sokin, tanish, kam kuch talab qiladigan mashgʻulotlar eng yaxshi ishlaydi: tinchlantiruvchi musiqa, suratlarni koʻrish, sevimli telekoʻrsatuv yoki film, kirlarni buklash, qisqa sayr yoki birga yengil taom. Yangi yoki qiyin mashgʻulotlarni kunning erta qismiga qoldiring."
+  - q: "Kechki bezovtalik odatda kunning qaysi vaqtida yuz beradi?"
+    a: "U odatda kunning ikkinchi yarmida yoki kechqurun, yorug‘lik kamayganda boshlanadi yoki kuchayadi. Aniq vaqt har bir insonda har xil bo‘ladi, shuning uchun bir yoki ikki hafta davomida qisqa kundalik yuritish foydali bo‘lishi mumkin."
+  - q: "Kechki bezovtalikda qaysi mashg‘ulotlar yordam beradi?"
+    a: "Kunning ikkinchi yarmida tinch, tanish va ko‘p kuch talab qilmaydigan mashg‘ulotlar odatda yaxshiroq mos keladi: sokin musiqa, suratlarni ko‘rish, sevimli teledastur yoki film, kir yuvish narsalarini taxlash, qisqa sayr yoki birga tamaddi qilish. Yangi yoki qiyinroq mashg‘ulotlarni kunning boshiga qoldiring."
+  - q: "Kechki bezovtalik tibbiy muammoning belgisi bo‘lishi mumkinmi?"
+    a: "U og‘riq, siydik yo‘llari infeksiyasi kabi infeksiyalar, uyqu muammolari yoki dorilarning nojo‘ya ta’sirlari kabi sog‘liq muammolari sabab kuchayishi mumkin. Agar bezovtalik yangi, to‘satdan boshlangan yoki kuchayib borayotgan bo‘lsa, insonning shifokori bilan bog‘laning."
+  - q: "Kechki bezovtalik uchun shifokordan dori so‘rashim kerakmi?"
+    a: "Bu shifokor bilan suhbatlashilishi kerak bo‘lgan masala. Alzheimer’s Association odatda avvalo dorisiz usullar afzal ko‘rilishini va kechki bezovtalik uchun har qanday dori faqat xavf va foyda tortilgandan keyingina ko‘rib chiqilishini aytadi. Bu sahifada dorilar bo‘yicha tavsiya berilmaydi."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +49,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Koʻp oilalar bir xil holatni sezadi: ertalablar nisbatan tinch, ammo tushdan keyin soat oʻtgani sari demensiya bilan yashayotgan inson betoqat, xavotirli, chalkash yoki jahldor boʻlib qoladi. U yurib-yurishi, uyda boʻlsa ham «uyga ketaman» deyishi yoki tez xafa boʻlishi mumkin. Buni koʻpincha kun oqshomidagi bezovtalik deyishadi.
+Ko‘p oilalar bir xil holatni sezadi: ertalablar nisbatan tinch o‘tadi, biroq kunning ikkinchi yarmida demensiya bilan yashayotgan inson bezovta, xavotirli, chalkash yoki asabiy bo‘lib qoladi. U yurib yurishi, uyda bo‘lsa ham «uyga qaytmoqchi» deb so‘rashi yoki tez xafa bo‘lishi mumkin. Buni ko‘pincha kechki bezovtalik deb atashadi.
 
-Yagona yechim yoʻq, lekin kun ritmidagi, xonadagi va taklif qiladigan mashgʻulotlar turidagi oʻzgarishlar tushdan keyingi soatlarni tinchroq qilishi mumkin. Bu sahifada National Institute on Aging va Alzheimer’s Association’dan olingan amaliy, notibbiy gʻoyalar jamlangan. Bu tibbiy maslahat emas. Belgilar yangi, birdan paydo boʻlgan yoki kuchayayotgan boʻlsa, insonning shifokori bilan gaplashing.
+Yagona yechim yo‘q, lekin kun tartibi, xonadagi muhit va siz taklif qiladigan mashg‘ulot turini o‘zgartirish kunning ikkinchi yarmini tinchroq o‘tishiga yordam berishi mumkin. Bu sahifada National Institute on Aging va Alzheimer’s Association ma’lumotlariga asoslangan amaliy, tibbiy bo‘lmagan g‘oyalar jamlangan. Bu tibbiy maslahat emas. Agar alomatlar yangi, to‘satdan boshlangan yoki kuchayib borayotgan bo‘lsa, insonning shifokori bilan gaplashing.
 
-## Kun oqshomidagi bezovtalik nima?
+## Kechki bezovtalik nima?
 
-Kun oqshomidagi bezovtalik — kun yorugʻi susayganda, tushdan keyin yoki erta kechqurun boshlanadigan yoki kuchayadigan betoqatlik, qoʻzgʻalish, jahldorlik yoki chalkashlik. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) haddan ziyod charchash kechki betoqatlikni oshirishi mumkinligini qayd etadi.
+Kechki bezovtalik — bu yorug‘lik kamayishi bilan, odatda kunning ikkinchi yarmida yoki kechqurun boshlanadigan yoki kuchayadigan bezovtalik, notinchlik, asabiylashish yoki chalkashlik. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) juda charchash kun oxiridagi bezovtalikni kuchaytirishi mumkinligini ta’kidlaydi.
 
-## Kechki betoqatlikni nima kuchaytirishi mumkin?
+## Kun oxiridagi bezovtalikni nima kuchaytirishi mumkin?
 
-Bir nechta narsa, koʻpincha birga, ta’sir qilishi mumkin. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) quyidagi omillarni sanaydi:
+Bir nechta omillar, ko‘pincha birgalikda, bunga ta’sir qilishi mumkin. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) quyidagi omillarni sanab o‘tadi:
 
-- toʻla kundan keyingi charchoq;
-- yangi yoki chalkashtiradigan muhit;
-- «ichki tana soati» ning mos kelmasligi, shu sababli inson kunduzi uyqusirab, kechasi uygʻoq boʻladi;
-- chalkashtirishi mumkin boʻlgan past yorugʻlik va soyalar;
-- atrofidagilarning stressi yoki xafagarchiligini sezib olish;
-- keksalarda keng tarqalgan, kamroq uyquga ehtiyoj.
+- butun kun davomida charchash;
+- yangi yoki notanish muhit;
+- insonning ichki «biologik soati» buzilishi, natijada kunduzi uyquchanlik va kechasi uyg‘oqlik paydo bo‘lishi;
+- kam yorug‘lik va soyalar, bu chalkashtirishi mumkin;
+- atrofdagilarning stressi yoki asabiyligini sezib qolish;
+- keksa odamlarda ko‘p uchraydigan kamroq uyqu ehtiyoji.
 
-NIA umuman qoʻzgʻalish sabablarini ham qoʻshadi: ogʻriq, depressiya yoki stress, juda kam dam olish, ich qotishi, juda koʻp shovqin yoki odam, ayrim dorilar yoki dorilarning oʻzaro ta’siri.
+NIA umuman bezovtalikning sabablariga og‘riq, tushkunlik yoki stress, yetarli dam olmaslik, ich qotishi, ko‘p shovqin yoki odamlar ko‘pligi, ayrim dorilar yoki dorilarning o‘zaro ta’sirini ham qo‘shadi.
 
-## Kechqurunlarni tinchroq qilish uchun kunni qanday rejalashtiraman?
+## Kechqurunlarni tinchroq qilish uchun kunni qanday rejalashtirishim mumkin?
 
-Talab qiladigan ishlarni erta vaqtga surib, tushdan keyingi soatlarni yumshoq va oldindan ma’lum qiling. NIA ham, Alzheimer's Association ham muntazam tartibni tavsiya qiladi. Oʻzingizga moslashtiradigan namunaviy kun:
+Ko‘p kuch talab qiladigan ishlarni erta vaqtga suring va kunning ikkinchi yarmini yumshoq, oldindan ma’lum tartibda o‘tkazing. NIA ham, Alzheimer’s Association ham muntazam kun tartibini tavsiya qiladi. O‘zingizga moslashtirib olishingiz mumkin bo‘lgan kun namunasi:
 
 | Vaqt | Nima yordam berishi mumkin |
 | --- | --- |
-| Ertalab | Koʻpchilik eng hushyor boʻladigan paytda uchrashuvlar, yuvinish, chiqishlar va kuch talab qiladigan har qanday ish |
-| Ertalab kechroq | Tashqarida yoki quyoshli deraza yonida vaqt oʻtkazish; sayr yoki boshqa faollik |
-| Tush paytida | Kattaroq tushlik (Alzheimer's Association kattaroq tushlik va yengilroq kechki ovqatni tavsiya qiladi) |
-| Tushdan keyin erta | Kerak boʻlsa dam olish, lekin kunning kech qismida uzoq uxlashdan saqlaning |
-| Tushdan keyin oʻrtadan kechgacha | Sokin, tanish mashgʻulotlar; yengil taom va ichimlik; kofeinsiz |
-| Qorongʻi tushishidan oldin | Qorongʻi boʻlishidan oldin xonadagi chiroqlarni yoqing va pardalarni yoping |
-| Kechqurun | Yengilroq ovqat, sokin musiqa, kam ragʻbat, barqaror uxlash tartibi |
+| Ertalab | Uchrashuvlar, cho‘milish, tashqariga chiqish va kuch talab qiladigan har qanday ishlar, ko‘p odamlar eng tetik bo‘lgan vaqtda |
+| Ertalabning oxiri | Tashqarida yoki quyosh tushadigan deraza yonida vaqt o‘tkazish; sayr yoki boshqa faoliyat |
+| Tushlik vaqti | To‘yimliroq tushlik (Alzheimer’s Association tushlikni kattaroq, kechki ovqatni yengilroq qilishni taklif qiladi) |
+| Kunning birinchi yarmidan keyin | Kerak bo‘lsa dam olish, lekin kun oxirida uzoq uxlamaslik |
+| Kunning ikkinchi yarmi o‘rtalari va oxiri | Tinch, tanish mashg‘ulotlar; tamaddi va ichimlik; kofeinsiz |
+| Qorong‘ilik tushishidan oldin | Qorong‘ilashishidan oldin xonadagi chiroqlarni yoqing va pardalarni yoping |
+| Kechqurun | Yengilroq ovqat, sokin musiqa, kam qo‘zg‘atuvchi muhit, barqaror uxlash tartibi |
 
-Manbalardan bir nechta aniq fikrlar:
+Manbalardagi bir nechta aniq tavsiyalar:
 
-- **Kun yorugʻi.** NIA har kuni quyosh nuri uchun tashqarida yoki deraza yonida vaqt oʻtkazishni tavsiya qiladi.
-- **Har kungi harakat, lekin haddan ziyod emas.** NIA aytishicha, juda koʻp mashgʻulot rejalashtirmasdan har kuni jismonan faol boʻlishga harakat qiling.
-- **Kechki ichimliklar.** Kunning kech qismida spirtli ichimlik va qahva yoki kola kabi kofeinli ichimliklardan saqlaning (NIA). Alzheimer's Association nikotinni ham eslatadi.
-- **Uxlash.** Kunning kech qismida uzoq uxlash va mudrashni cheklang (NIA). Alzheimer's Association tungi uyqu muammo boʻlsa, kunduzgi uxlashni cheklashni tavsiya qiladi.
+- **Kunduzgi yorug‘lik.** NIA har kuni tashqarida yoki deraza yonida quyosh nurida vaqt o‘tkazishni taklif qiladi.
+- **Har kuni harakat, lekin me’yorda.** NIA har kuni jismonan faol bo‘lishni, biroq juda ko‘p mashg‘ulot rejalashtirmaslikni tavsiya qiladi.
+- **Kun oxiridagi ichimliklar.** Kun oxirida spirtli ichimliklar hamda kofeinli ichimliklardan, masalan, qahva yoki koladan saqlaning (NIA). Alzheimer’s Association nikotinni ham eslatadi.
+- **Kunduzi uxlash.** Kun oxirida uzoq uxlash va mizg‘ib qolishdan saqlaning (NIA). Alzheimer’s Association tungi uyqu muammo bo‘lsa, kunduzgi uxlashni cheklashni taklif qiladi.
 
-Barqaror kunni qurish haqida koʻproq uchun [kundalik tartib mashgʻulotlari](/activities/daily-routine/) sahifasiga qarang.
+Barqaror kun tartibini yo‘lga qo‘yish haqida ko‘proq ma’lumot uchun [kundalik tartib mashg‘ulotlari](/activities/daily-routine/) sahifasiga qarang.
 
-## Tushdan keyin uyni qanday tinchroq qilsam boʻladi?
+## Kunning ikkinchi yarmida uyni qanday tinchroq qilishim mumkin?
 
-Shovqinni kamaytiring, yorugʻlik qoʻshing va tanish narsalarni yaqinda saqlang.
+Shovqinni kamaytiring, yorug‘likni ko‘paytiring va tanish narsalarni yaqin joyda saqlang.
 
-- **Yorqin, bir tekis yoritish.** Alzheimer's Association kechqurun uyni yaxshi yoritilgan saqlashni tavsiya qiladi. Soyalar paydo boʻlishidan oldin joyni yoriting.
-- **Kamroq shovqin.** Televizor va radioni oʻchiring yoki pasaytiring, shu paytda mehmonlar yoki gavjum uy ishlarini cheklang. Alzheimer's Association televizor, uy ishlari va baland musiqa kabi kechki ogʻir tuyuladigan narsalarni kamaytirishni tavsiya qiladi.
-- **Tanish qulayliklar.** NIA tinchlantiruvchi musiqani va uy atrofida yaxshi koʻrgan buyumlar hamda suratlarni saqlashni tavsiya qiladi.
-- **Qulaylikni tekshirish.** Alzheimer's Association ogʻriq, ochlik, chanqoq, ich qotishi, toʻla siydik pufagi, charchoq, infeksiyalar va teri tirnash xususiyatini tekshirishni hamda xonani qulay haroratda saqlashni tavsiya qiladi.
-- **Oʻz kayfiyatingiz.** Odamlar stressni sezadi. NIA oʻz tashvishlaringiz keskinlikni oshirayotgan boʻlsa, sekinlashish va boʻshashishga harakat qilishni tavsiya qiladi.
+- **Yorqin, bir tekis yoritish.** Alzheimer’s Association kechqurun uy yaxshi yoritilgan bo‘lishini tavsiya qiladi. Soyalar paydo bo‘lishidan oldin xonani yoritib qo‘ying.
+- **Kamroq shovqin.** Bu vaqtda televizor va radioni o‘chiring yoki ovozini pasaytiring, mehmonlar sonini va uy ishlarini cheklang. Alzheimer’s Association kechqurun televizor, uy ishlari va baland musiqa kabi qo‘zg‘atuvchi omillarni kamaytirishni taklif qiladi.
+- **Tanish qulayliklar.** NIA sokin musiqa qo‘yishni hamda uyda yaxshi ko‘rilgan buyumlar va suratlarni yaqin joyda saqlashni tavsiya qiladi.
+- **Qulaylikni tekshirish.** Alzheimer’s Association og‘riq, ochlik, chanqoqlik, ich qotishi, qovuq to‘lishi, charchoq, infeksiyalar va teri tirnashini tekshirishni hamda xonadagi harorat qulay bo‘lishini ta’minlashni tavsiya qiladi.
+- **O‘zingizning kayfiyatingiz.** Insonlar stressni sezib qoladi. NIA agar o‘zingizning tashvishlaringiz vaziyatni og‘irlashtirayotgan bo‘lsa, sekinlashishni va tinchlanishga harakat qilishni taklif qiladi.
 
-## Tushdan keyin qanday sokin mashgʻulotlar qilsak boʻladi?
+## Kunning ikkinchi yarmida qanday tinch mashg‘ulotlar qilishimiz mumkin?
 
-Tanish, shoshilmaydigan va toʻxtatish oson mashgʻulotlarni tanlang. Alzheimer's Association betoqatlikni yengillashtirish uchun sokin musiqa, suratlar yoki sevimli film kabi tinchlantiruvchi mashgʻulotlarni va birga sayrni tavsiya qiladi. NIA yengil taom yoki ichimlik, sevimli telekoʻrsatuv, musiqa, sayr, oʻqish yoki kirlarni buklash kabi oddiy uy ishini tavsiya qiladi.
+Tanish, shoshilinch bo‘lmagan va to‘xtatish oson bo‘lgan mashg‘ulotlarni tanlang. Alzheimer’s Association sokin musiqa, suratlar yoki sevimli film kabi tinchlantiruvchi mashg‘ulotlarni hamda bezovtalikni yumshatish uchun birga qisqa sayr qilishni taklif qiladi. NIA tamaddi yoki ichimlik, sevimli teledastur, musiqa, sayr, o‘qish yoki kir yuvish narsalarini taxlash kabi oddiy uy ishlarini taklif qiladi.
 
-Sinab koʻrish uchun gʻoyalar:
+Sinab ko‘rish mumkin bo‘lgan g‘oyalar:
 
-1. **Kirlarni birga buklang.** NIA shunday oddiy uy ishini tavsiya qiladi. Sochiqlarni ushlash oson va ishning aniq oxiri bor.
-2. **Sevimli musiqani qoʻying.** Yoshlik yillaridagi tanish qoʻshiqlar, past ovozda. Birga xirgoyi qilish ham hisob. [Musiqa mashgʻulotlari](/activities/music/)da koʻproq gʻoyalar bor.
-3. **Suratlarni koʻring.** Surat albomi yoki rasmlari koʻrinib turgan holda [Surat juftliklari](/games/photo-pairs/)dagi bir nechta oilaviy surat sokin suhbatga olib kelishi mumkin.
-4. **Qisqa sayr qiling.** Bogʻ, mahalla yoki yoʻlak atrofida, qorongʻi tushishidan oldin.
-5. **Yengil taom va ichimlikni ulashing.** Oddiy, iliq, kofeinsiz narsa, birga stol atrofida.
-6. **Yumshoq juftlash.** Toʻrtta karta va koʻrinib turgan rasmlar bilan [Rasm juftliklari](/games/picture-pairs/)ni boshlash oson va toʻxtatish oson.
-7. **Boʻyash.** Ekranda yoki bosilgan sahifada [boʻyash](/games/coloring/), tugatish maqsadisiz.
-8. **Qarash va gaplashish.** [Suhbat kartalari](/games/conversation-cards/) rasm va ochiq taklif beradi. Shunchaki qarash ham yetarli.
-9. **Nafas pauzasi.** [Sokin nafas](/games/calm-breathing/) — oʻzingiz boshlab, toʻxtatadigan sekin, sokin pauza.
-10. **Qoʻl ishlari.** Tugmalar yoki paypoqlarni saralash, yumshoq adyolni tekislash yoki tanish buyumni ushlab turish. [Sezgi mashgʻulotlari](/activities/sensory/) sahifasiga qarang.
+1. **Birga kir yuvish narsalarini taxlash.** NIA shu kabi oddiy uy ishlarini taklif qiladi. Sochiqlarni ushlash oson va bu ishning aniq yakuni bor.
+2. **Sevimli musiqani qo‘yish.** Yoshligidan tanish qo‘shiqlarni past ovozda tinglash. Birga ohang aytish ham yetarli. Ko‘proq g‘oyalar uchun [musiqa mashg‘ulotlari](/activities/music/) sahifasiga qarang.
+3. **Suratlarni ko‘rish.** Fotoalbom yoki [Photo Pairs](/games/photo-pairs/) dagi bir nechta oilaviy suratni ko‘rinib turadigan holda ko‘rish sokin suhbatga sabab bo‘lishi mumkin.
+4. **Qisqa sayr qilish.** Qorong‘ilashishidan oldin bog‘da, mahalla bo‘ylab yoki yo‘lakda.
+5. **Birga tamaddi va ichimlik.** Kofeinsiz, oddiy va iliq narsa, birga dasturxon atrofida.
+6. **Yumshoq moslashtirish o‘yini.** [Picture Pairs](/games/picture-pairs/) da to‘rtta karta va ko‘rinib turadigan suratlar bilan boshlash ham, to‘xtatish ham oson.
+7. **Rang berish.** Ekranda yoki chop etilgan sahifada [Coloring](/games/coloring/), tugatish maqsadisiz.
+8. **Ko‘rish va suhbatlashish.** [Conversation Cards](/games/conversation-cards/) rasm va ochiq savol taklif qiladi. Shunchaki rasmga qarashning o‘zi ham yetarli.
+9. **Nafas olish uchun tanaffus.** [Calm Breathing](/games/calm-breathing/) — bu o‘zingiz boshlaydigan va to‘xtatadigan sekin, sokin tanaffus.
+10. **Qo‘l bilan bajariladigan ishlar.** Tugma yoki paypoqlarni saralash, yumshoq adyolni silliqlash yoki tanish buyumni qo‘lda ushlash. [Sezgi mashg‘ulotlari](/activities/sensory/) sahifasiga qarang.
 
-Kunning kech qismida yangi oʻyinlar, gavjum chiqishlar va xotira yoki diqqatni koʻp talab qiladigan har qanday narsadan saqlaning. Ularni ertalabga qoldiring.
+Kun oxirida yangi o‘yinlar, gavjum chiqishlar va ko‘p xotira yoki diqqat talab qiladigan ishlarni tanlamang. Ularni ertalabga qoldiring.
 
-## Betoqatlik boshlanganda nima qilishim kerak?
+## Bezovtalik boshlanganda nima qilishim kerak?
 
-Xotirjam boʻling, tasalli bering va sekin yoʻnaltiring. NIA xotirjam gapirish, insonning tashvishlarini tinglash, tortishuvdan saqlanish, unga xavfsiz ekanini aytib tasalli berish va yordam bersa, yumshoq teginishni tavsiya qiladi. Keyin chalgʻitib koʻring: yengil taom, ichimlik, musiqa yoki sayr.
+O‘zingizni xotirjam tuting, taskin bering va e’tiborni muloyimlik bilan boshqa narsaga yo‘naltiring. NIA sokin gapirishni, insonning tashvishlarini tinglashni, bahslashmaslikni, uning xavfsiz joyda ekanini aytishni va agar yordam bersa, muloyim tegishni taklif qiladi. So‘ng e’tiborni boshqa narsaga burishga harakat qiling: tamaddi, ichimlik, musiqa yoki sayr.
 
-Alzheimer's Association «Siz bu yerda xavfsizsiz» va «Xafa boʻlganingizdan afsusdaman» kabi iboralarni tavsiya qiladi hamda yorugʻlik qoʻshish, sekinlashish va ragʻbatni cheklashni maslahat beradi. Insonni qisib qoʻymang, ustiga bostirmang, ushlab turmang va u bilan tortishmang.
+Alzheimer’s Association «Bu yerda xavfsizsiz» va «Xafa bo‘lganingizdan afsusdaman» kabi iboralarni taklif qiladi hamda yorug‘likni qo‘shishni, sekinlashishni va qo‘zg‘atuvchi omillarni kamaytirishni maslahat beradi. Insonni burchakka siqmang, yoniga tiqilmang, uni ushlab turmang yoki u bilan bahslashmang.
 
-Inson tajovuzkor boʻlib qolsa, NIA xatti-harakat toʻxtaguncha xavfsiz masofada turishni maslahat beradi. Favqulodda holatda hududingizdagi favqulodda raqamga qoʻngʻiroq qiling va insonda demensiya borligini ayting.
+Agar inson tajovuzkor bo‘lib qolsa, NIA xatti-harakat to‘xtaguncha xavfsiz masofada turishni maslahat beradi. Favqulodda vaziyatda 911 ga qo‘ng‘iroq qiling va insonda demensiya borligini ayting. [Jahl va tajovuzga qanday javob berish](/caregiving/when-anger-becomes-aggression-with-dementia/) haqidagi qo‘llanmamizda darhol xavfsizlik va keyin nima qilish kerakligi yoritilgan.
 
-[Muloqot](/caregiving/communication-tips/) va [inson yoʻq desa nima qilish kerak](/caregiving/when-they-say-no/) qoʻllanmalarimizda tinchlantiruvchi soʻzlar haqida koʻproq bor.
+[Mulogot](/caregiving/communication-tips/) va [ular «yo‘q» deganda nima qilish kerak](/caregiving/when-they-say-no/) haqidagi qo‘llanmalarimizda tinchlantiruvchi so‘zlar haqida ko‘proq ma’lumot bor.
 
-## Qoʻzgʻatuvchilarni qanday topaman?
+## Qo‘zg‘atuvchi omillarni qanday aniqlayman?
 
-Bir-ikki hafta qisqa qayd yuriting. Alzheimer's Association qoʻzgʻatuvchilarni aniqlash uchun kun oqshomidagi bezovtalik epizodlaridan oldin nima boʻlishini kuzatishni tavsiya qiladi. Betoqatlik qachon boshlanganini, undan oldingi soatda nima boʻlganini, uyqu, ovqat va ichimliklarni, mehmonlarni, shovqin va yorugʻlikni yozib qoʻying. Qaydni shifokorga olib boring. NIA xatti-harakatdagi oʻzgarishlarni kuzatib borish qarovchilar va tibbiyot xodimlariga andozani aniqlashga yordam berishi mumkinligini qayd etadi.
+Bir yoki ikki hafta davomida qisqa kundalik yuriting. Alzheimer’s Association kechki bezovtalik holatlaridan oldin nima bo‘lganini yozib borishni, qo‘zg‘atuvchi omillarni aniqlashni tavsiya qiladi. Bezovtalik qachon boshlanganini, undan bir soat oldin nima bo‘lganini, kunduzi uxlashni, ovqat va ichimliklarni, mehmonlarni, shovqin va yorug‘likni qayd eting. Bu yozuvlarni shifokorga olib boring. NIA xatti-harakatdagi o‘zgarishlarni kuzatib borish g‘amxo‘rlik qiluvchilar va tibbiyot xodimlariga holatdagi qonuniyatni aniqlashga yordam berishini ta’kidlaydi.
 
-## Kun oqshomidagi bezovtalik haqida qachon shifokorga murojaat qilishim kerak?
+## Kechki bezovtalik bo‘yicha qachon shifokorga murojaat qilishim kerak?
 
-Betoqatlik yangi, birdan kuchaygan yoki boshqa oʻzgarishlar bilan birga kelsa, insonning shifokoriga murojaat qiling. NIA aytishicha, xatti-harakatdagi birdan yoki tez oʻzgaruvchan oʻzgarishlar, ayniqsa infeksiya yoki yaqinda dori oʻzgargandan keyin, darhol shifokor e’tiboriga havola qilinishi kerak.
+Agar bezovtalik yangi, to‘satdan kuchaygan yoki boshqa o‘zgarishlar bilan birga kuzatilsa, insonning shifokori bilan bog‘laning. NIA xatti-harakatdagi to‘satdan yoki tez o‘zgarib turadigan o‘zgarishlar, ayniqsa infeksiya yoki yaqinda dorilar o‘zgartirilganidan keyin, darhol shifokorga aytilishi kerakligini ta’kidlaydi.
 
-Shifokordan kechqurunlarni qiyinlashtirishi mumkin boʻlgan narsalarni tekshirishni soʻrang. Alzheimer's Association siydik yoʻllari infeksiyalari, siydik tutolmaslik, tinchsiz oyoqlar va uyqudagi nafas toʻxtashi kabi jismoniy muammolarni eslatadi va har bir dori uchun kunning qaysi vaqtlari eng yaxshi ekanini soʻrashni tavsiya qiladi. NIA qoʻzgʻalishning mumkin boʻlgan sabablari qatorida ogʻriq, ich qotishi va dori yon ta’sirlari yoki oʻzaro ta’sirini sanaydi.
+Shifokordan kechqurunlarni qiyinlashtirishi mumkin bo‘lgan holatlarni tekshirishni so‘rang. Alzheimer’s Association siydik yo‘llari infeksiyalari, siyishni ushlab turolmaslik, oyoqlarning tinimsizligi va uyqudagi nafas to‘xtashlari kabi jismoniy muammolarni eslatadi hamda har bir dori uchun kunning qaysi vaqti eng mos kelishini so‘rashni taklif qiladi. NIA bezovtalikning mumkin bo‘lgan sabablari qatoriga og‘riq, ich qotishi hamda dorilarning nojo‘ya ta’sirlari yoki o‘zaro ta’sirini kiritadi.
 
-Alzheimer's Association Alsgeymer bilan bogʻliq uyqu muammolari uchun dorisiz yondashuvlar odatda afzal koʻrilishini va kechki qoʻzgʻalish uchun dori ular yordam bermasa, xavf va foydani tortib koʻrgandan keyingina koʻrib chiqilishi kerakligini aytadi. Bu qaror shifokorga tegishli. Tibbiy maslahatsiz hech qanday dori, uyqu vositasi yoki qoʻshimchani boshlamang, toʻxtatmang yoki oʻzgartirmang.
+Alzheimer’s Association Altsgeymer kasalligi bilan bog‘liq uyqu muammolari uchun odatda dorisiz usullar afzal ko‘rilishini va kechki bezovtalik uchun dorilar faqat bu usullar natija bermasa, xavf va foyda tortilgandan keyingina ko‘rib chiqilishini aytadi. Bu qaror shifokor bilan birga qabul qilinadi. Tibbiy maslahat olmasdan turib hech qanday dori, uyqu vositasi yoki qo‘shimchani boshlamang, to‘xtatmang yoki o‘zgartirmang.
 
-## Kechqurunlardan oʻzim qanday oʻtaman?
+## Kechqurunlarni o‘zim qanday yengib o‘taman?
 
-Tushdan keyingi soatlar qarovchi kunining eng qiyin qismi boʻlishi mumkin. Imkon boʻlsa, oila a’zosi, doʻst yoki haq evaziga yordamchidan haftada bir necha kun, hatto bir soatga boʻlsa ham, tushdan keyingi soatlarni zimmasiga olishni soʻrang. [Qarovchining oʻzini parvarish qilishi](/caregiving/caregiver-self-care/) qoʻllanmamizda vaqtincha qarov variantlari va mamlakatingizdagi demensiya boʻyicha yordam liniyasi keltirilgan.
+Kunning ikkinchi yarmi g‘amxo‘rlik qiluvchining kuni uchun eng og‘ir payt bo‘lishi mumkin. Imkoningiz bo‘lsa, oila a’zosi, do‘st yoki yollangan yordamchidan haftada bir necha kun, hatto bir soat bo‘lsa ham, kunning ikkinchi yarmida yordam berishini so‘rang. [G‘amxo‘rlik qiluvchining o‘ziga g‘amxo‘rligi](/caregiving/caregiver-self-care/) haqidagi qo‘llanmamizda dam olish imkoniyatlari va Alzheimer’s Association ning kunu tun bepul ishonch telefoni haqida ma’lumot berilgan.

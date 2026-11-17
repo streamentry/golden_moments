@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Matambiro emitambo nemunhu anorarama nedementia"
+seoTitle: "Matambiro emitambo nemunhu anorarama nedementia"
+description: "Nhungamiro inobatsira yekutamba nemunhu anorarama nedementia: kugadzirira, kumhanya zvinyoro, kusaruramisa, kurerutsa mutambo, uye kuziva nguva yekumira."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Torai mutambo senguva yekuva pamwe chete, kwete bvunzo. Sarudzai nguva yakadzikama
+  yezuva, garai makatarisana divi nedivi mumba makanyarara, uye mupai mutambo mumwe
+  wakapfava. Regai munhu wacho atungamire kumhanya kwazvo, musamboruramisa zvikanganiso
+  zvisingakuvadzi, rerutsai mutambo pakutanga chaipo panoonekwa kunetseka, uye shandurai
+  mifananidzo kuita hurukuro. Mirai zvichiri kunakidza. Kumira nguva isati yakwana, kana
+  kungotarisa pamwe chete, mhedzisiro yakanaka.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Chinangwa kunakidzwa uye kuva pedyo, kwete kupedza kana kupa mhinduro dzakarurama."
+  - "Gadzirirai kutanga: imba yakanyarara, chiedza chakanaka, magirazi ekusonesa neanobatsira kunzwa zvakapfekwa, TV yakadzimwa, mutambo mumwe wagadzirirwa."
+  - "Musaruramisa zvikanganiso zvisingakuvadzi. Itai kuti “Ngatiedzei neiyi nzira” kana kuti mungoenderera mberi."
+  - "Rerutsai mutambo kushushikana kusati kwawedzera: mifananidzo mishoma, sarudzo shoma, mifananidzo yakasiiwa ichionekwa."
+  - "Shandisai mifananidzo senzvimbo yekutangira nyaya nemashoko anoti “Ndiudzei nezve...” panzvimbo pe “Munoyeuka here...?”"
+  - "Mirai pakutanga chaipo panoonekwa kuneta kana kusagadzikana. Kumira nguva isati yakwana kubudirira, kwete kukundikana."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Tinofanira kutamba mutambo kwenguva yakareba sei?"
+    a: "Hapana urefu hwakarurama. Kune vanhu vazhinji, maminetsi mashoma akakwana, uye kune mamwe mazuva kutenderera kumwe chete kwakaringana. Tarirai munhu wacho kwete wachi, uye mirai vachiri kuita sevakadzikama."
+  - q: "Ndinofanira kuvarega vachikunda here kana kuita sekuti handioni zvikanganiso?"
+    a: "Mumutambo wamunoita pamwe chete, usina kumanikidza, hapana chinokundwa kana kurasika. Kana chikanganiso chisingavanetsi, chiregei. Kana chichiita sechinovanetsa, vabatsirei chinyararire kana kurerutsa mutambo pasina kuchitaura."
+  - q: "Ko kana vachida kungondiona ndichitamba?"
+    a: "Hazvina kuipa. National Institute on Aging inokurudzira kurega munhu achingoona kana zvichiita sekuti ndizvo zvinomufadza. Taurai nezvezvamunoona uye vakokei kuti vanongedze kana kusarudza pese pavanoda."
+  - q: "Mitambo iyi inzira yekuyedza ndangariro here?"
+    a: "Kwete. Mitambo yedu zviitiko zviri nyore zvamunoita pamwe chete kuti munakidzwe uye mutaure. Haisi bvunzo yendangariro, haiyeri chinhu, uye haisi kurapwa kwedementia."
+  - q: "Ndeupi mutambo wakanakisa kutangira nawo?"
+    a: "Tangirai newakapfava zvikuru unokodzera munhu wacho. Picture Pairs ine mataira mana nemifananidzo yakasiiwa ichionekwa, kana Find the Same ine sarudzo mbiri, inzvimbo dzakapfava dzekutangira. Conversation Cards dzinobatsira kana munhu wacho achifarira kutaura kupfuura kubaya."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Mutambo wakanaka nemunhu anorarama nedementia hautaridzike semakwikwi. Unotaridzika sevanhu vaviri vakagara pedyo, vachinongedzera mifananidzo, vachiseka chirevo, uye vachitaura nezvezvinenge zvabuda. Mutambo ingori chikonzero chekugara pamwe chete.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Nhungamiro iyi inotsanangura nzira yekugadzirira, nzira yekumhanyisa mutambo zvinyoro, zvekutaura kana chimwe chinhu “chikatadza”, nzira yekurerutsa kana kuomesa mutambo zvishoma, nzira yekuushandura kuita hurukuro, uye nzira yekuziva nguva yekumira. Inoshanda kumitambo yedu [games](/games/) uye kumakadhi, mapuzzle nemitambo yebhodhi yamunotova nayo.
 
-## What is the best way to play a game with someone who has dementia?
+## Ndeipi nzira yakanakisa yekutamba mutambo nemunhu anorarama nedementia?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Tarisisai kunakidzwa, kwete kubudirira. Ndiro zano guru rinobva ku[nhungamiro yeAlzheimer's Association pamusoro pezviitiko](https://www.alz.org/help-support/caregiving/daily-care/activities): vimbai nezvinogona kuitwa nemunhu wacho achiri kukwanisa, muvabatsire kutanga, pedzisai imi zvikamu zvakaoma, uye musashore kana kururamisa zviitiko zvisingakuvadzi.
 
-In practice that means:
+Mukuita izvi zvinoreva kuti:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Garai padivi pavo, kwete pamberi pavo.** Kana makagara padivi nedivi, mese munoona sikirini kana tafura, uye kubatsira kunonzwa sekushanda pamwe chete kwete kutarisirwa.
+- **Ipai mutambo mumwe panguva.** Rondedzero yesarudzo inogona kunzwa sebvunzo zvinhu zvisati zvatanga.
+- **Teverai zvavanoda.** Kana vachida kubaya mifananidzo nenzira yavo, kutaura nezvemufananidzo mumwe kwemaminetsi gumi, kana kumira mushure mekuchinjana kaviri, ndiwo mutambo wanhasi.
+- **Verengai nguva dzakanaka, kwete kutenderera kwapera.** Kunyemwerera, nyaya kana hafu yeawa yakadzikama ndizvo mhedzisiro yamuri kutsvaga.
 
-## How do I set up before we start?
+## Ndingagadzirira sei tisati tatanga?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Maminetsi mashoma ekugadzirira anodzivisa kushushikana kwakawanda kunowanzonzi kunokonzerwa nemutambo pachawo.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Sarudzai nguva yavo yakanakisa yezuva.** [Nhungamiro yeNational Institute on Aging (NIA) yekugadzirisa zviitiko](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inokurudzira kuronga nzendo nezviitiko panguva yezuva iyo munhu anenge ari muchimiro chake chakanakisa. Kune vanhu vazhinji inenge iri masikati machena. Masikati anopera anowanzooma; onai [zviitiko zvakadzikama zvemasikati anopera](/caregiving/late-day-restlessness/).
+2. **Itai kuti imba ive yakanyarara.** Dzimai TV neredhiyo uye vhara musuo kana zvichibvira. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) inokurudzira kuderedza ruzha nezvinokanganisa musati maedza kutaura.
+3. **Tarirai kugadzikana kutanga.** Chinwiwa chiri pedyo, rwendo rwekuenda kuchimbuzi musati matanga, chigaro chakagadzikana, uye magirazi ekusonesa neanobatsira kunzwa zvakapfekwa.
+4. **Vhenekerai nzvimbo zvakanaka.** Chiedza chakajeka, chakaenzana chisina kupenya zvakanyanya pasikirini chinoita kuti mifananidzo ionekwe zviri nyore.
+5. **Gadzirirai mutambo musati magara pasi.** Uvhurwei, sarudzai marongero uye gadzirisai ruzha imi. Mozotendeudzira sikirini kwavari. Kuti muwane mazano etablet, onai [kumisa tablet kana foni](/caregiving/tablets-and-screens/).
+6. **Tsigirai mudziyo.** Chigadziko kana kavha inobata tablet yakamira zvinoreva kuti hapana anofanira kuibata, uye zviri nyore kunongedzera.
 
-## How do I invite them without pressure?
+## Ndingavakoka sei ndisingavamanikidzi?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Itai kuti kukoka kuve kwakajairika uye kuve nyore kuramba. Mamwe mitsara inowanzobatsira:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- “Ndawana mifananidzo yebindu. Munoda kuiona neni here?”
+- “Mungandibatsira here nepuzzle iyi? Ndanonoka.”
+- “Munoda maruva here kana shiri nhasi?” (sarudzo mbiri iri nyore kupfuura mubvunzo wakavhurika)
+- “Ndiri kugadzirira kadhi rehanzvadzi yenyu. Ruvara urwu runofanira kuva rwei?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association inokurudzira kutsanangura chinangwa chechiitiko, sekugadzira kadhi reshamwari, nekuti chikonzero chinopa zvarinoreva. Kukumbira rubatsiro kunobatsirawo nekuti kunoita kuti munhu wacho anzwe achibatsira.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Kana vakati kwete, gamuchirai. Edzai zvakare gare gare kana kuvapa chimwe chinhu chakasiyana. Nhungamiro yedu pamusoro pe[zvekuita kana vakati kwete](/caregiving/when-they-say-no/) inotsanangura zvakawanda.
 
-## How long should a game last, and how fast should we go?
+## Mutambo unofanira kutora nguva yakareba sei, uye tinofanira kumhanya nekukurumidza kwakadii?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Regai munhu wacho atungamire kumhanya kwazvo, uye rongerai nguva pfupi. Hapana urefu hwakanakira mutambo wamunoita pamwe chete hunotsigirwa neumbowo. Maminetsi maviri kusvika mashanu akadzikama anogona kuva chiitiko chakakwana.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Mirirai kwenguva yakareba kupfuura zvamunofunga.** NIA inopa zano rekupa munhu nguva yakawanda yekupindura uye kuedza kusavadimburira. Verengai kusvika pagumi mupfungwa dzenyu musati mavabatsira.
+- **Nhanho imwe panguva.** Ipai murayiridzo mumwe, mupfupi (“Bayai mufananidzo”), mozomirira. Ratidzai panzvimbo pekutsanangura: nongedzerai pavanofanira kubaya.
+- **Imbosai makasununguka.** Kana vakamira kuti vataure nezvemufananidzo, mutambo unogona kumirira. Hapana chikonzero chekumhanyira.
+- **Varegei vachiona.** NIA inotaura kuti vamwe vanhu vanofarira kuona, uye isarudzo inotenderwa.
 
-## Should I correct wrong answers?
+## Ndinofanira kururamisa mhinduro dzisina kururama here?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Kwete. Kururamisa munhu zvinyoro nyoro kakawanda kunomuudza kuti ari kukundikana, kunyange kana muine chinangwa chakanaka. Alzheimer's Association inopa zano rekusashora kana kururamisa zviitiko zvisingakuvadzi. Mumutambo, zvikanganiso zvinenge zvose hazvikuvadzi.
 
-| Instead of | Try |
+| Panzvimbo pe | Edzai |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| “Kwete, hazvina kururama.” | “Ngatiedzei neiyi nzira.” (muenzaniso unopiwa neNIA) |
+| “Hazvina kufanana. Tarisisai zvakare.” | Musataure chinhu motora mukana unotevera, kana kuti “O, zvese zvitsvuku.” |
+| “Munoyeuka here kuti uyu ndiani?” | “Ndiudzei nezvemufananidzo uyu.” |
+| “Makatomboita uyu.” | “Uyu wakanaka. Ngatiuitei zvakare.” |
+| “Huyai, munoziva izvi.” | “Munoda kuti ndiratidze magumo acho?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Kana chikanganiso chichivashungurudza zviri pachena, vabatsirei chinyararire. Nongedzerai mufananidzo wakarurama, torai mukana imi, kana kurerutsa mutambo pakutenderera kunotevera. Kana chirevo chikapera nenzira isiri iyo asi ichisetsa, sekai pamwe chete. Magumo avapa anogona kunge ari nani.
 
-## How do I make a game easier or harder?
+## Ndingaita sei kuti mutambo uve nyore kana kuoma zvishoma?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Gadzirisai mutambo kumunhu wacho pazuva iroro, kwete kuchikamu chakanyorwa. Munhu mumwe chete anogona kuda mhando yakapfava manheru kupfuura mangwanani. Zano rekutanga reNIA nderekufananidza chiitiko nezvinogona kuitwa nemunhu uye kuva nechokwadi chekuti vanonzwa kubudirira.
 
-| Game | Make it easier | Make it a little harder |
+| Mutambo | Uitei kuti uve nyore | Uitei kuti uome zvishoma |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Tangirai nemataira 4 uye musiye mifananidzo ichionekwa | Mataira akawanda, kana kuviga mifananidzo kana zvichinzwa zvakanaka |
+| [Find the Same](/games/find-the-same/) | Sarudzo 2 | Kusvika pasarudzo 4 |
+| [Sort Together](/games/sort-together/) | Imi mubate mufananidzo, ivo vanongedzere mubhasikiti | Ivo vabaye mufananidzo nebhasikiti vega |
+| [Picture Puzzle](/games/picture-puzzle/) | Zvidimbu 4, taurirai nezvemufananidzo wese kutanga | Zvidimbu 9 |
+| [Finish the Saying](/games/finish-the-saying/) | Ratidzai magumo acho, moataura pamwe chete | Varegei vataure magumo acho vasati vabaya |
+| [Word Search](/games/word-search/) | Idhindwei, tsvagai izwi rimwe pamwe chete, nongedzerai vara raro rekutanga | Varegei vasarudze izwi rinotevera rekutsvaga |
+| [Coloring](/games/coloring/) | Imi musarudze mavara maviri, ivo vasarudze pakati pawo | Ivo vasarudze mavara ese |
+| [Conversation Cards](/games/conversation-cards/) | Ingoonai mufananidzo pamwe chete | Shandisai mibvunzo yakavhurika iri pakadhi |
+| [Photo Pairs](/games/photo-pairs/) | Mifananidzo mishoma yemhuri yavanoda zvikuru | Wedzerai mifananidzo yakawanda |
+| [Picture Bingo](/games/picture-bingo/) | Mubatsiri agare nemutambi mumwe nemumwe | Vatambi vazvimakire pamakadhi avo |
+| [Calm Breathing](/games/calm-breathing/) | Ingotarisai pamwe chete | Femerai pamwe chete zvinyoro nyoro |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Zviratidzo zvekuti mutambo wakaoma: kumbomira kwenguva refu kunoratidzika sekunetsekana kwete kufunga, kudzokorora vachiti “Handikwanisi”, kusundira mudziyo kure, kana zvikanganiso zvinovashungurudza. Zviratidzo zvekuti unogona kunge wakareruka: kufinhwa, kana kuti vataure kuti ndewevana vadiki. Kana izvi zvikaitika, zviremekedzei mochinjira kuchimwe chinhu chinonzwa sechakakodzera munhu mukuru, sekutsvaga mazwi, puzzle yemufananidzo chaiwo, kana kutaura nezvemufananidzo webasa ravaiita kare.
 
-## How do I turn a game into a conversation?
+## Ndingashandura sei mutambo kuita hurukuro?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Shandisai mufananidzo wega wega sekukoka kutaura, uye torai zvese zvavanotaura semhinduro yakanaka. Kumhuri dzakawanda, ichi ndicho chikamu chakanakisa chekutamba.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Bvunzai mibvunzo yakavhurika isina mhinduro isiri iyo.** “Munoonei?” “Ndechipi chamunofarira?” “Ndiudzei nezvekicheni yakaita seiyi.”
+- **Tangai nemi kutaura.** “Ambuya vangu vaiva nembwa yakaita seiyi.” Nyaya yenyu inoita kuti zvive nyore kwavari kuti vagovane yavo.
+- **Teverai nyaya painoenda.** Kana mufananidzo wemota ukatungamira kunyaya yerwendo, nyaya ndiyo chiitiko. Siyai mutambo wakamira.
+- **Musatarise chokwadi chenyaya.** Mukurangarira zvekare, hurukuro inofadza inokosha kupfuura ruzivo rwakanyatsojeka. Kana nyaya ikachinja kubva panguva yapfuura, nakidzwai neshanduro itsva.
+- **Shandisai mibvunzo irimo.** [Finish the Saying](/games/finish-the-saying/) inotevera chirevo chega chega nemubvunzo wekukurudzira kutaura, uye [Conversation Cards](/games/conversation-cards/) dzakagadzirirwa izvozvo chaizvo. [Photo Pairs](/games/photo-pairs/) inoshandisa mifananidzo yenyu yemhuri, iyo inowanzomutsa nyaya dzakapfuma.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Mamwe mazano ari munhungamiro dzedu dze[zviitiko zvekurangarira zvekare](/activities/reminiscence/) uye [mazano ekukurukurirana](/caregiving/communication-tips/).
 
-## When should we stop?
+## Tinofanira kumira riini?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Mirai pakutanga chaipo panoonekwa kuneta kana kusagadzikana, uye zviri nani nguva shoma isati yasvika. Alzheimer's Association inopa zano rekumisa kana kuchinja chiitiko kana kutarisisa kukadzikira kana kushushikana kukawedzera.
 
-Watch for:
+Tarirai izvi:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- kuhotsira, kudonha muviri kana maziso achibva pasikirini;
+- kufinyama, kusimuka, kana kukumbira kuenda;
+- kugomera, mhinduro pfupi, kana kuti “Handina kugona izvi”;
+- kubaya pose pose kana kusundira mudziyo kure;
+- kubuda misodzi, kutsamwa, kana kuchinja kamwe kamwe kwemanzwiro.
 
-How to stop well:
+Mamiriro ekumira zvakanaka:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Pedzisai nechimwe chinhu chiri nyore.** Kufananidza kumwe kwekupedzisira kwavanogona kuita, kana mufananidzo wekupedzisira wekutarisa.
+- **Zviburitsei pachenyu.** “Ndingada kapu yetii. Tingamirire pano here?” zvinodzivisa chero zviratidzo zvekuti havana kuita zvakanaka.
+- **Endai kune chimwe chinhu chemuviri kana chinonyaradza.** Kufamba zvishoma, kudya chimwe chinhu, kupeta mbatya kana mimhanzi.
+- **Taurai chinhu chinodziya.** “Ndafara kuita izvi nemi.” Hapana kurumbidza kwe “kuita nemazvo”, ingofaro yenguva yamava pamwe chete.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Kumira nguva isati yakwana, kuchinja zvirongwa, kana kurega mutambo mongogara pamwe chete zvese mhedzisiro yakanaka.
 
-## Can we play in a group or over a video call?
+## Tinogona kutamba muboka kana parunhare rwevhidhiyo here?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Hongu, negadziriro shoma yekuwedzera. Muboka, chengetai vanhu vari vashoma, garisai vabatsiri padivi pevaya vanovada, uye sarudzai mutambo une chinangwa chakajeka chamunoona mese. [Picture Bingo](/games/picture-bingo/) ine makadhi anodhindwa nemudaidzi ari pasikirini wemapoka. Onai [zviitiko zvemapoka ekumba kwevanochengetwa](/activities/care-home-groups/) kuti muwane zvimwe.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Parunhare rwevhidhiyo, munhu ari parunhare anogona kutsanangura mufananidzo uku mumwe ari mumba achinongedzera nekubaya. Chengetai nhare pfupi uye dzakajairika. Nhungamiro yedu ye[nhare nenhare dzevhidhiyo](/activities/phone-and-video-calls/) ine mamwe mazano.
 
-## What if a game just isn't working?
+## Ko kana mutambo usingashande zvachose?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Mamwe mazuva hapana chinobatika, uye izvozvo hazvirevi kuti mune mhosva imi kana ivo. Isai mutambo parutivi moedza imwe nguva yezuva, mumwe mutambo, kana pasina mutambo zvachose. Zviitiko zvakawanda zvakanaka hazvina chekuita nemasikirini: mimhanzi, kupeta matauro, kutarisa bhuku remifananidzo, kana kufamba zvishoma. Onai [pfungwa dzezviitiko](/activities/ideas/) kuti muwane zvimwe.

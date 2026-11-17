@@ -1,35 +1,36 @@
 ---
-title: "Jeequmsa Galgalaa: Hojiiwwan Waaree Booda Tasgabbaa'aa Dementiaaf"
-seoTitle: "Jeequmsa Galgalaa: Hojiiwwan Waaree Booda Tasgabbaa'aa"
-description: "Sagantaa laafaa, jijjiirama kutaa fi hojiiwwan tasgabbaa'aan hin tasgabbiin galgalaa dementia keessatti salphisuu danda'u, akkasumas yoomitti doktora waamuu."
+title: "Sundowning: Sochiiwwan Tasgabbaa'oo Galgala Dhiyoo"
+seoTitle: "Sundowning: Sochiiwwan Tasgabbaa'oo Galgala Dhiyoo"
+description: "Akkaataa guyyaa, jijjiirama kutaa fi sochiiwwan tasgabbaa'oo galgala dhiyoo tasgabbeessuu danda'an, akkasumas yoom doktora quunnamuu akka qabdan."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Jeequmsi galgalaa (sundowning) hin tasgabbiin, wal-hin-beekuun ykn aariin
-  waaree booda ykn galgala jalqabu ykn hammaatu dha. Tarkaanfiiwwan gargaaruu
-  danda'an sagantaa guyyaa guyyaa walitti fufiinsa qabu, ifa guyyaa fi hojii
-  guyyaa keessa dafee, hirriba galgala xiqqaa, kaafeeyinii xiqqaa, ifa mana
-  keessaa dukkana dura, mana callisaa, fi hojiiwwan tasgabbaa'aa akka muuziqaa,
-  suuraa ykn uffata naqachuu ta'uu danda'u. Mallattoo haaraa ykn hammaatu
-  doktorri akka ilaalu barbaada.
+  Sundowning jechuun boqonnaa dhabuun, burjaaja'iinsi yookaan aariin galgala
+  dhiyoo yookaan galgala jalqabuu yookaan caalaa hammaachuu dha. Tarkaanfiiwwan
+  gargaaraa ta'uu danda'an keessaa akkaataa guyyaa tasgabbaa'aa ta'e, ifa
+  aduu fi sochii guyyaa jalqabaa, hirriba galgala dhiyoo xiqqeessuu, kaafeenii
+  hir'isuu, ifa mana keessaa aduun osoo hin lixxin dursanii ibsuu, mana
+  tasgabbaa'aa gochuu, akkasumas sochiiwwan tasgabbaa'oo kanneen akka
+  muuziqaa, suuraalee yookaan uffata miccuu of keessaa qabu. Mallattooleen
+  haaraa yookaan hammaataa ta'an ilaalcha doktoraa gaafatu.
 keyPoints:
-  - "Jeequmsi galgalaa hin tasgabbiin ykn wal-hin-beekuun ifni yeroo badu jalqabu ykn hammaatu dha."
-  - "Hojii ulfaataa, bahuu fi dhiqachuu ganama ykn waaree dura keessa kaa'aa."
-  - "Ifni guyyaa, adeemsi guyyaa guyyaa, hirribni galgala xiqqaa fi kaafeeyiniin galgala xiqqaa galgalli salphaatti akka darbu gargaaruu danda'a."
-  - "Dukkana dura ifa banaa, sagalee gadi buusaa, hojiiwwan tasgabbaa'aa fi beekamaatti jijjiiraa."
-  - "Sababa baruuf galmee qabadhaa, hin tasgabbiin yeroo jalqabu immoo tasgabbaa'aa amansiisaa taa'aa."
-  - "Mallattoo haaraa ykn hammaatuuf doktora ilaalaa: dhukkubbiin, dhukkubni ykn qorichoonni gahee qabaachuu danda'u."
+  - "Sundowning jechuun boqonnaa dhabuun yookaan burjaaja'iinsi ifni aduu yeroo xinnaatu jalqabuu yookaan hammaachuu dha."
+  - "Hojiiwwan ulfaatoo, alaa bahuu fi dhiqachuu ganama yookaan waaree jalqabaa irratti karoorfadhaa."
+  - "Ifni aduu, deemsa guyyaa guyyaa, hirriba galgala dhiyoo xiqqeessuu fi kaafeenii galgala dhiyoo hir'isuun galgala akka salphatu gargaaruu danda'a."
+  - "Aduun osoo hin lixxin dura ifa ibsaa, sagalee xiqqeessaa, fi gara sochiiwwan tasgabbaa'oo fi beekamoo ta'anitti ce'aa."
+  - "Wantoota mallattoolee kakaasan adda baasuuf galmee gabaabaa qabaa, yeroo boqonnaa dhabuun jalqabus tasgabbaa'aa fi jajjabeessaa ta'aa."
+  - "Mallattoolee haaraa yookaan hammaataa ta'aniif doktora arguu: dhukkubbii qaamaa, infekshinii yookaan qorichi ga'ee qabaachuu danda'u."
 faq:
-  - q: "Jeequmsi galgalaa yeroo guyyaa kamiitti baay'ee ta'a?"
-    a: "Yeroo baay'ee waaree booda ykn galgala dafee, ifni yeroo badu, jalqaba ykn hammaata. Yeroon sirrii nama irraa nama biraatti garaagara, kanaaf torban tokko ykn lama galmee gabaabaa qabachuun ni gargaara."
-  - q: "Hojiiwwan kamtu jeequmsa galgalaa wajjin gargaara?"
-    a: "Hojiiwwan tasgabbaa'aa, beekamaa fi dadhabbii xiqqaa waaree booda caalaa gaarii hojjetu: muuziqaa tasgabbeessu, suuraa ilaaluu, agarsiisa TV ykn fiilmii isaan jaallatan, uffata naqachuu, adeemsa gabaabaa, ykn nyaata xiqqoo waliin nyaachuu. Hojiiwwan haaraa ykn ulfaataa yeroo guyyaa dafee keessaaf kaa'aa."
-  - q: "Jeequmsi galgalaa mallattoo wanta fayyaa ta'uu danda'aa?"
-    a: "Rakkoowwan fayyaa akka dhukkubbii, dhukkuba akka dhukkuba kallattii fincaanii, rakkoo hirribaa ykn miidhaa qorichaatiin hammaachuu danda'a. Yoo hin tasgabbiin haaraa, tasa ykn hammaachaa jiru ta'e, doktora nama sanaa quunnamaa."
-  - q: "Waa'ee jeequmsa galgalaaf qorichaa doktora gaafachuu qabaa?"
-    a: "Kun haasaa doktora wajjin taasifamu dha. Alzheimer's Association karaawwan qoricha hin taane waliigalaan dursa filatamu, qoricha aarii galgalaaf immoo balaa fi faayidaa madaaluun booda qofa yaadamuu akka qabu jedha. Fuulli kun gorsa qorichaa hin kennu."
+  - q: "Sundowning yeroo baay'ee guyyaa keessaa yoom mudata?"
+    a: "Akkaataa waliigalaa galgala dhiyoo yookaan galgala jalqabaa, yeroo ifni aduu xinnaatu jalqabuu yookaan hammaachuu danda'a. Yeroon sirriin nama gara namaatti garaagarummaa qaba; kanaaf torban tokkoo hanga lamaatti galmee gabaabaa qabachuun gargaaraa ta'uu danda'a."
+  - q: "Sochiiwwan akkamtu sundowning keessatti gargaara?"
+    a: "Sochiiwwan tasgabbaa'oo, beekamoo fi salphaan galgala dhiyoo yeroo baay'ee sirriitti hojiirra oolu: muuziqaa tasgabbeessaa, suuraalee ilaaluu, sagantaa televizyinii yookaan fiilmii jaallatamu, uffata miccuu, deemsa gabaabaa, yookaan waliin waa nyaachuu. Sochiiwwan haaraa yookaan ulfaatoo guyyaa jalqabaa irratti qopha'aa."
+  - q: "Sundowning mallattoo rakkoo fayyaa ta'uu danda'aa?"
+    a: "Rakkoolee fayyaa kanneen akka dhukkubbii qaamaa, infekshinii kanneen akka infekshinii ujummoo fincaanii, rakkoo hirribaa yookaan miidhaa cinaa qorichaa irraa hammaachuu danda'a. Yoo boqonnaa dhabuun haaraa, tasa yookaan caalaa hammaataa ta'e, doktora nama sanaa quunnamaa."
+  - q: "Waa'ee qorichaa sundowningiif doktora gaafachuu qabaa?"
+    a: "Kun marii doktora waliin godhamuudha. Alzheimer's Association akka jedhetti, mala qoricha hin fayyadamne duraan dursee filatamuutu gargaara; qorichi kamiyyuu boqonnaa dhabuu galgalaa hir'isuuf fayyadamu bu'aa fi miidhaa isaa erga madaalamee booda qofa ilaalamuu qaba. Fuulli kun gorsa qorichaa hin kennu."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +49,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Maatiiwwan baay'een bifa wal-fakkaatu hubatu: ganamni tasgabbaa'aa dha, waaree booda garuu nama dementia wajjin jiraatu hin tasgabbaa'u, yaaddaa'a, wal-hin-beeku ykn aara. Naanna'uu, mana keessa osoo jiranii “mana deemuu” gaafachuu, ykn salphaatti aaruu danda'u. Kun yeroo baay'ee jeequmsa galgalaa jedhama.
+Maatiin baay'een haala wal fakkaatu hubatu: ganamaan yeroo baay'ee tasgabbaa'aa ta'a, garuu galgalli yeroo dhiyaatu namni dhukkuba dagannaa waliin jiraatu boqonnaa dhabuu, yaaddoo, burjaaja'uu yookaan aaruu jalqaba. Asii fi achi deemuu, utuu manatti jiruu illee „gara manaatti deebi'uu” gaafachuu, yookaan salphaatti aaru danda'a. Kun yeroo baay'ee sundowning jedhamee waamama.
 
-Furmaata tokkicha hin jiru, garuu sagantaa guyyaa, kutaa fi gosa hojii dhiyeessitan irratti jijjiiramni waaree booda tasgabbaa'aa taasisuu danda'a. Fuulli kun yaada hojii irra oolu, kan qoricha hin taane, National Institute on Aging fi Alzheimer's Association irraa walitti qaba. Gorsa fayyaa miti. Yoo mallattoon haaraa, tasa ykn hammaachaa jiru ta'e, doktora nama sanaa wajjin haasa'aa.
+Furmaanni tokko hin jiru, garuu jijjiiramni adeemsa guyyaa, kutaa fi gosa sochii isin dhiheessitan galgala dhiyoo tasgabbeessuu danda'a. Fuulli kun yaadota hojii irra oolanii fi qoricha hin dabalanne kanneen National Institute on Aging fi Alzheimer's Association irraa walitti qaba. Kun gorsa fayyaa miti. Yoo mallattooleen haaraa, tasaa yookaan caalaa hammaataa ta'an, doktora nama sanaa waliin haasa'aa.
 
-## Jeequmsi galgalaa maali?
+## Sundowning maal jechuudha?
 
-Jeequmsi galgalaa hin tasgabbiin, aarii, hin tasgabbiin ykn wal-hin-beekuun ifni yeroo badu, waaree booda ykn galgala dafee, jalqabu ykn hammaatu dha. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) baay'ee dadhabuun hin tasgabbiin galgalaa dabaluu akka danda'u ibsa.
+Sundowning jechuun boqonnaa dhabuun, jeequmsi, aariin yookaan burjaaja'iinsi ifni aduu yeroo xinnaatu, galgala dhiyoo yookaan galgala jalqabaa jalqabuu yookaan hammaachuu dha. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) akka ibsutti, baay'ee dadhabuun boqonnaa dhabuu galgala dhiyoo dabalu danda'a.
 
-## Maaltu hin tasgabbiin galgalaa hammeessuu danda'a?
+## Maaltu boqonnaa dhabuu galgala dhiyoo hammeessuu danda'a?
 
-Wantoonni muraasni, yeroo baay'ee waliin, gahee qabaachuu danda'u. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) wantoota akka kanaa tarreessa:
+Wantoonni hedduun, yeroo baay'ee waliin, gumaachuu danda'u. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) wantoota kanneen akka fakkeenyaatti tarreessa:
 
-- guyyaa guutuu booda dadhabbii;
-- naannoo haaraa ykn wal-hin-beekisiisu;
-- “sa'aatii qaamaa keessaa” sirrii hin taane, nama sana guyyaa hirribaa'aa halkan dammaqaa godha;
-- ifa gadi aanaa fi gaaddidduu, kunis wal-hin-beekisiisuu danda'a;
-- dhiphina ykn aarii namoota naannoo isaanii jiranii hubachuu;
-- hirriba xiqqaa barbaaduu, kunis maanguddoota biratti baratamaa dha.
+- guyyaa guutuu booda baay'ee dadhabuu;
+- naannoo haaraa yookaan nama burjaajessu;
+- „sa'aatii qaamaa keessaa” walsimuu dhabuu, kan namichi guyyaa hirribaaf saaxilamu yookaan halkan dammaqaa taasisu;
+- ifa xiqqaa fi gaaddidduu, kan nama burjaajessuu danda'u;
+- dhiphina yookaan aarii namoota naannoo jiran irraa hubachuu;
+- hirriba xiqqaa barbaaduu, kun namoota umuriin isaanii guddate keessatti beekamaa dha.
 
-NIA sababoota aariif dabalata, kan akka dhukkubbii, gadda ykn dhiphina, boqonnaa xiqqaa, constipation (garaa kutachuu), sagalee baay'ee ykn namoota baay'ee, fi qorichoota tokko tokko ykn walitti dhufeenya qorichootaa dabalatu.
+NIA sababa jeequmsaa waliigalaa dabalataa kanneen akka dhukkubbii qaamaa, gadadoo yookaan dhiphina, hirriba gahaa dhabuu, garaa gogaa, sagalee baay'ee yookaan namoota baay'ee, akkasumas qoricha tokko tokko yookaan walitti bu'iinsa qorichaa ibsa.
 
-## Galgalli tasgabbaa'aa akka ta'uuf guyyaa akkamitti karoorfadha?
+## Galgalli akka tasgabbaa'uuf guyyaa akkamittan karoorfachuu danda'a?
 
-Wanta ulfaataa dafee godhaa, waaree booda laafaa fi tilmaamamaa taasisaa. NIA fi Alzheimer's Association lamaanuu sagantaa idilee gorsu. Fakkeenya guyyaa, kan ofii keessan irratti sirreessuu:
+Wantoota ulfaatoo gara jalqabaatti sochoosaa, galgala dhiyoo immoo tasgabbaa'aa fi tilmaamamaa godhaa. NIA fi Alzheimer's Association lamaan isaanii akkaataa guyyaa idilee ta'e gorsu. Fakkeenya guyyaa, haala keessaniitti mijeeffachuuf:
 
 | Yeroo | Wanti gargaaruu danda'u |
 | --- | --- |
-| Ganama | Beellama, dhiqachuu, bahuu fi hojii dadhabbii barbaadu kamiyyuu, yeroo namoonni baay'een baay'ee qabsaa'an |
-| Ganama booda | Alatti ykn foddaa aduu qabu cinaa yeroo dabarsuu; adeemsa ykn hojii biraa |
-| Guyyaa giddu | Laaqana guddaa (Alzheimer's Association laaqana guddaa fi irbaata laafaa gorsa) |
-| Waaree dura | Yoo barbaachise boqonnaa, garuu waaree booda hirriba dheeraa irraa of qusaa |
-| Waaree giddu hanga boodaa | Hojiiwwan tasgabbaa'aa fi beekamoo; nyaata xiqqoo fi dhugaatii; kaafeeyinii male |
-| Dukkana dura | Ifa mana keessaa banaa fi golgoltuu cufaa osoo hin dukkaanin |
-| Galgala | Nyaata laafaa, muuziqaa callisaa, kakaasuu gadi aanaa, sagantaa ciisuu walitti fufiinsa qabu |
+| Ganama | Beellama, dhiqachuu, alaa bahuu fi hojii humna gaafatu kamiyyuu, yeroo namoonni baay'een caalaa dammaqan |
+| Ganama walakkaa | Yeroo ala yookaan foddaa aduu biraa; deemsa yookaan sochii biraa |
+| Guyyaa walakkaa | Laaqana guddaa (Alzheimer's Association laaqana guddaa fi irbaata galgalaa salphaa yaada) |
+| Waaree jalqabaa | Yoo barbaachise boqochuu, garuu galgala dhiyoo hirriba dheeraa irraa of eeggadhaa |
+| Waaree gidduu hanga galgala dhiyootti | Sochiiwwan tasgabbaa'oo fi beekamoo; nyaataa salphaa fi dhugaatii; kaafeenii hin dabalatin |
+| Aduun osoo hin lixxin dura | Ifa mana keessaa ibsaa fi golgaa aduun osoo hin dukkanoofin cufaa |
+| Galgala | Nyaata galgalaa salphaa, muuziqaa tasgabbaa'aa, kaka'umsa xiqqaa, akkaataa hirribaa idilee tasgabbaa'aa |
 
-Wantoota murtaa'oo muraasa madda irraa:
+Qabxiilee murtaa'an maddaalee irraa:
 
-- **Ifa guyyaa.** NIA guyyaa guyyaan ifa aduu argachuuf alatti ykn foddaa cinaa yeroo dabarsuu gorsa.
-- **Sochii guyyaa guyyaa, garuu baay'ee miti.** NIA akka jedhutti, hojiiwwan baay'ee osoo hin karoorfatin guyyaa guyyaa qaamaan socho'uuf yaalaa.
-- **Dhugaatii yeroo booda.** Alkoolii fi dhugaatii kaafeeyinii qabu, akka buna ykn koolaa, waaree booda irraa of qusaa (NIA). Alzheimer's Association nikootiinis ni eeru.
-- **Hirriba.** Hirriba dheeraa fi boqonnaa galgala dhorkaa (NIA). Alzheimer's Association yoo hirribni halkanii rakkoo ta'e hirriba guyyaa daangessuu gorsa.
+- **Ifa aduu.** NIA guyyaa guyyaa ifa aduu argachuuf yeroo ala yookaan foddaa biraa qopheessuu yaada.
+- **Sochii qaamaa guyyaa guyyaa, garuu baay'ee miti.** NIA akka jedhetti, sochiiwwan baay'ee osoo hin karoorfatin guyyaa guyyaa qaamaan socho'aa.
+- **Dhugaatii galgala dhiyoo.** Dhugaatii alkoolii fi dhugaatii kaafeenii qaban, kanneen akka buna yookaan koolaa, galgala dhiyoo irraa of eeggadhaa (NIA). Alzheimer's Association tamboo illee ibsa.
+- **Hirriba guyyaa.** Hirriba dheeraa fi mucucaachuu galgala dhiyoo irraa of eeggadhaa (NIA). Yoo hirribni halkanii rakkoo ta'e, Alzheimer's Association hirriba guyyaa daangeffachuu yaada.
 
-Guyyaa tasgabbaa'aa ijaaruu irratti caalaatti baruuf, [hojiiwwan sagantaa guyyaa](/activities/daily-routine/) ilaalaa.
+Waa'ee guyyaa tasgabbaa'aa ijaaruu caalaatti baruuf, [sochiiwwan akkaataa guyyaa idilee](/activities/daily-routine/) ilaalaa.
 
-## Mana waaree booda akkamitti tasgabbaa'aa godha?
+## Galgala dhiyoo mana akkamittan tasgabbeessuu danda'a?
 
-Sagalee hir'isaa, ifa dabalaa, wanta beekamaa dhiyoo kaa'aa.
+Sagalee xiqqeessaa, ifa dabaluu fi wantoota beekamoo dhiyeessii kaa'aa.
 
-- **Ifa ifa ta'e, walqixa.** Alzheimer's Association galgala mana ifa gaarii qabaachuu gorsa. Gaaddiduun osoo hin mul'atin dura iddoo ifaa godhaa.
-- **Sagalee xiqqaa.** TV fi raadiyoo cufaa ykn gadi buusaa, yeroo kanatti keessummoo fi hojii mana bakka bu'aa daangessaa. Alzheimer's Association galgala kakaasuu akka TV, hojii mana fi muuziqaa sagalee guddaa hir'isuu gorsa.
-- **Mijaa'ina beekamaa.** NIA muuziqaa tasgabbeessu fi meeshaa fi suuraa jaallatamaa mana naannoo qabachuu gorsa.
-- **Mijaa'ina ilaalaa.** Alzheimer's Association dhukkubbii, beela, dheebuu, constipation, fincaan guutuu, dadhabbii, dhukkuba fi dhukkubbii gogaa ilaaluu, kutaa ho'a mijaa'aa qabaachisuu gorsa.
-- **Miira keessanii.** Namoonni dhiphina hubatu. NIA yoo yaaddoon keessanii dhiphina dabaluu danda'e suuta jedhanii tasgabbaa'uuf yaaluu gorsa.
+- **Ifa ifaa fi walqixa.** Alzheimer's Association galgala mana keessa ifa ga'aa ta'e akka tursiisu gorsa. Gaaddidduun osoo hin mul'atin dura iddoo sana ibsaa.
+- **Sagalee xiqqaa.** Televizyinii fi raadiyoo cufaa yookaan sagalee isaanii xiqqeessaa, akkasumas yeroo kana daawwattoota yookaan hojiiwwan mana keessaa baay'ee daangeffaa. Alzheimer's Association wantoota galgalaa nama kakaasan kanneen akka televizyinii, hojii mana keessaa fi muuziqaa sagalee guddaa xiqqeessuu yaada.
+- **Jajjabina beekamoo.** NIA muuziqaa tasgabbeessaa fi wantoota fi suuraalee jaallatamoo mana keessatti dhiyeessii kaa'uu yaada.
+- **Haala mijaa'inaa ilaaluu.** Alzheimer's Association dhukkubbii qaamaa, beelaa, dheebuu, garaa gogaa, fincaan guutuu, dadhabbiin, infekshinii fi ho'a qaamaa ilaaluu, akkasumas kutaan sun ho'a mijaa'aa akka qabaatu gochuu gorsa.
+- **Miira keessan mataa keessanii.** Namoonni dhiphina hubatu. Yoo yaaddoon keessan dhiphina dabalaa jiraate, NIA saffisa xiqqeessuu fi boqochuu yaalu yaada.
 
-## Waaree booda hojiiwwan tasgabbaa'aa kamtu gochuu dandeenya?
+## Galgala dhiyoo sochiiwwan tasgabbaa'oo akkamii waliin gochuu dandeenya?
 
-Hojiiwwan beekamoo, ariifannaa male, fi dhaabuuf salphaa filadhaa. Alzheimer's Association hojiiwwan tasgabbeessu akka muuziqaa callisaa, suuraa ykn fiilmii jaallatan, fi adeemsa waliin hin tasgabbiin salphisuuf gorsa. NIA nyaata xiqqoo ykn dhugaatii, agarsiisa TV jaallatan, muuziqaa, adeemsa, dubbisuu, ykn hojii mana salphaa akka uffata naqachuu gorsa.
+Sochiiwwan beekamoo, ariifachiisa hin qabne fi salphaatti dhaabuu danda'an filadhaa. Alzheimer's Association sochiiwwan tasgabbeessoo kanneen akka muuziqaa tasgabbaa'aa, suuraalee yookaan fiilmii jaallatamu, akkasumas boqonnaa dhabuu hir'isuuf waliin deemsa yaada. NIA nyaataa salphaa yookaan dhugaatii, sagantaa televizyinii jaallatamu, muuziqaa, deemsa, dubbisuu, yookaan hojii mana keessaa salphaa kan akka uffata miccuu yaada.
 
-Yaada yaaluu:
+Yaadota yaaluuf:
 
-1. **Waliin uffata naqadhaa.** NIA hojii mana salphaa akkanaa gorsa. Tuwaala qabachuuf salphaa, hojichi xumura ifa qaba.
-2. **Muuziqaa jaallatan bayyisaa.** Weedduu beekamaa dargaggummaa isaanii, sagalee gadi aanaan. Waliin humuu lakkaa'ama. Yaada dabalataaf [hojiiwwan muuziqaa](/activities/music/) ilaalaa.
-3. **Suuraa ilaalaa.** Albamii suuraa, ykn suuraa maatii muraasa [Lamaan suuraa maatii](/games/photo-pairs/) keessatti suuraan akka mul'atu dhiifamee, haasaa callisaa fiduu danda'a.
-4. **Adeemsa gabaabaa adeemaa.** Iddoo biqiltuu, daandii, ykn mana keessa, osoo hin dukkaanin dura.
-5. **Nyaata xiqqoo fi dhugaatii waliin qoodaa.** Wanta salphaa, ho'aa, kaafeeyinii male, minjaala irratti waliin.
-6. **Wal-fakkeessuu laafaa.** [Lamaan suuraa](/games/picture-pairs/) tayiilii afur fi suuraa mul'atu wajjin jalqabuuf salphaa, dhaabuuf immoo salphaa dha.
-7. **Halluu itti kennuu.** [Fuulota halluu](/games/coloring/) iskiriinii irratti ykn fuula maxxanfame irratti, kaayyoo xumuruu male.
-8. **Ilaaluu fi haasa'uu.** [Kaartiin haasaa](/games/conversation-cards/) suuraa fi gaaffii banaa kenna. Ilaaluu qofti gahaa dha.
-9. **Boqonnaa afuuraa.** [Afuura tasgabbaa'aa](/games/calm-breathing/) boqonnaa suuta jedhu, callisaa, ofumaa jalqabdanii dhaabdan dha.
-10. **Hojiiwwan harkaa.** Button ykn kophee adda baasuu, huccuu laafaa mijeessuu, ykn meeshaa beekamaa qabachuu. [Hojiiwwan miiraa](/activities/sensory/) ilaalaa.
+1. **Waliin uffata miccuu.** NIA hojii mana keessaa salphaa akkasii yaada. Fooxaan qabachuun salphaadha, hojiin sunis xumura ifa ta'e qaba.
+2. **Muuziqaa jaallatamu taphachiisaa.** Weelluu beekamoo yeroo ijoollummaa isaanii, sagalee xiqqaan. Waliin diddachuu ni danda'ama. Yaadota dabalataa [sochiiwwan muuziqaa](/activities/music/) keessatti argattu.
+3. **Suuraalee ilaaluu.** Albama suuraa, yookaan suuraalee maatii muraasa [Photo Pairs](/games/photo-pairs/) keessatti suuraaleen mul'atan ta'anii kaa'amanii, haasawa tasgabbaa'aa fiduu danda'u.
+4. **Deemsa gabaabaa godhaa.** Iddoo biqiltuu, naannoo ololaa yookaan karaa mana keessaa, aduun osoo hin lixxin dura.
+5. **Waliin nyaataa salphaa fi dhugaatii fudhadhaa.** Wanta salphaa, ho'aa fi kaafeenii hin qabne, waliin minjaala bira.
+6. **Walsimsiisu tasgabbaa'aa.** [Picture Pairs](/games/picture-pairs/) caasaa afur fi suuraaleen mul'atan waliin jalqabuuf salphaadha, dhaabuufis salphaadha.
+7. **Halluu guutuu.** [Coloring](/games/coloring/) iskiriinii irratti yookaan fuula maxxanfame irratti, xumuruu dirqamsiisuu malee.
+8. **Ilaalu fi haasa'uu.** [Conversation Cards](/games/conversation-cards/) suuraa fi gaaffii banaa dhiheessa. Ilaaluun qofti ga'aadha.
+9. **Yeroo hafuura baafannaa.** [Calm Breathing](/games/calm-breathing/) yeroo hafuura baafannaa suuta fi tasgabbaa'aa dha kan isin ofuma keessaniin jalqabdan fi dhaabdan.
+10. **Hojiiwwan harkaatiin hojjetaman.** Qabduu yookaan kaalsii fooyyessuu, uffata molaa'aa haphisu, yookaan wanta beekamoo qabachuu. [Sochiiwwan miiraa qaamaa](/activities/sensory/) ilaalaa.
 
-Taphoota haaraa, bahuu hojii baay'ee qabu, fi wanta yaadannoo ykn xiyyeeffannaa baay'ee gaafatu waaree booda irraa of qusaa. Isaan ganamaaf kaa'aa.
+Taphoota haaraa, alaa bahuu nama dadhabsiisu fi wanta yaadannoo yookaan xiyyeeffannoo baay'ee gaafatu galgala dhiyoo irraa of eeggadhaa. Kanneen gara ganamaatti qopha'aa.
 
-## Yeroo hin tasgabbiin jalqabu maal gochuu qaba?
+## Yeroo boqonnaa dhabuun jalqabu maal gochuun qaba?
 
-Tasgabbaa'aa, amansiisaa, suuta jedhaa gara biraatti geessaa. NIA tasgabbaa'anii dubbachuu, yaaddoo nama sanaa dhaggeeffachuu, of morkuu irraa of qusachuu, nageenya akka qaban amansiisuu, fi yoo gargaare tuquu laafaa fayyadamuu gorsa. Ergasii xiyyeeffannaa jijjiiruu yaalaa: nyaata xiqqoo, dhugaatii, muuziqaa ykn adeemsa.
+Tasgabbaa'aa ta'aa, jajjabeessaa, fi suuta gara waan biraatti qajeelchaa. NIA tasgabbaa'aan dubbachuu, yaaddoo nama sanaa dhaggeeffachuu, falmii irraa of qusachuu, nagaa akka qaban mirkaneessuu, fi yoo gargaare suuta tuquu yaada. Sana booda waan biraatti yaada nama sanaa jijjiiruuf yaalaa: nyaataa salphaa, dhugaatii, muuziqaa yookaan deemsa.
 
-Alzheimer's Association jechoota akka “Asitti nageenya qabda” fi “Akka aartee dhiphadhe” gorsa, ifa dabaluu, suuta jechuu fi kakaasuu daangessuu immoo gorsa. Nama sana hin marsinaa, hin cinqaminaa, hin qabinaa, isaan wajjin hin morkatinaa.
+Alzheimer's Association himoota akka „Asitti nagaa qabda” fi „Aaru keessaniif nan gadda” jedhu fayyadamuu yaada, akkasumas ifa dabalu, saffisa xiqqeessuu fi wantoota nama kakaasan daangeffuu gorsa. Nama sana golee keessa hin galchinaa, hin dhiibinaa, hin qabinaa, yookaan waliin hin falminaa.
 
-Yoo nama sun aariidhaan miidhaa geessisuu danda'u ta'e, NIA amalli sun hanga dhaabbatutti fageenya nageenya qabu irratti turuu gorsa. Yeroo hatattamaa, lakkoofsa yeroo hatattamaa naannoo keessanii bilbilaa, namni sun dementia akka qabu immoo himaa.
+Yoo namichi jeequmsa jabaa agarsiise, NIA hamma amalli sun dhaabbatutti fageenya naga qabeessa irra turuu gorsa. Yeroo balaa tasaa, 911 bilbilaa fi namichi dhukkuba dagannaa qabaachuu isaa ibsaa. [Qajeelfamni keenya waa'ee aarii fi jeequmsa jabaa deebii kennuu](/caregiving/when-anger-becomes-aggression-with-dementia/) nageenya hatattamaa fi waan sana booda gochuu qaban ibsa.
 
-Qajeelfamni keenya [wal-quunnamtii](/caregiving/communication-tips/) fi [yeroo “lakki” jedhan maal gochuu](/caregiving/when-they-say-no/) jechoota tasgabbeessu irratti caalaa qaba.
+Qajeelfamoonni keenya waa'ee [walqunnamtii](/caregiving/communication-tips/) fi [yeroo isaan „lakki” jedhan maal gochuu akka qabu](/caregiving/when-they-say-no/) jechoota tasgabbeessoo dabalataa qabu.
 
-## Wantoota kaasan akkamitti argadha?
+## Wantoota kakaasan akkamittan adda baafachuu danda'a?
 
-Torban tokko ykn lama galmee gabaabaa qabadhaa. Alzheimer's Association wanti yeroo jeequmsi galgalaa dura ta'u sababa baruuf hordofuu gorsa. Yeroo hin tasgabbiin itti jalqabe, sa'aatii dura wanti ta'e, hirriba, nyaata fi dhugaatii, keessummoota, sagalee fi ifa galmeessaa. Galmee doktora bira geessaa. NIA jijjiirama amala hordofuun kunuunsitoota fi dhiyeessitoota kunuunsa fayyaa bifa baruuf akka gargaaru jedha.
+Torban tokkoo hanga lamaatti galmee gabaabaa qabaa. Alzheimer's Association wantoota yeroo sundowning osoo hin uumamin dura ta'an hordofuu gorsa, akka wantoonni kakaasan adda baafaman. Yeroon boqonnaa dhabuun itti jalqabe, sa'aatii tokko dura maaltu ta'e, hirriba, nyaataa fi dhugaatii, daawwattoota, sagalee fi ifa galmeessaa. Galmee sana gara doktoraatti fidaa. NIA jijjiirama amalaa hordofuun kunuunsitoota fi ogeeyyii fayyaa akkaataa hubachuuf gargaaruu akka danda'u ibsa.
 
-## Yoomitti waa'ee jeequmsa galgalaa doktora waamuu qaba?
+## Waa'ee sundowning yoom doktora quunnamuu qaba?
 
-Yoo hin tasgabbiin haaraa, tasa hammaate, ykn jijjiirama biraa wajjin dhufe, doktora nama sanaa quunnamaa. NIA jijjiiramni amala tasaa ykn saffisaan jijjiiramu, keessumaa dhukkuba ykn jijjiirama qorichaa dhiyoo booda, battaluma doktoraaf akka himamu jedha.
+Yoo boqonnaa dhabuun haaraa ta'e, akka tasaa hammaate, yookaan jijjiirama biro waliin dhufe doktora nama sanaa quunnamaa. NIA akka jedhetti, jijjiiramni amala tasaa yookaan saffisaan jijjiiramu, keessumaa infekshinii booda yookaan jijjiirama qorichaa dhiheenyaa booda, hatattamaan doktoraatti himamuu qaba.
 
-Doktora wantoota galgala ulfaataa taasisuu danda'an akka ilaalu gaafadhaa. Alzheimer's Association rakkoowwan qaamaa akka dhukkuba kallattii fincaanii, fincaan qabachuu dadhabuu (incontinence), miila hin tasgabbaa'u (restless legs) fi hafuura dhaabuu hirriba keessatti (sleep apnea) ni eeru, qorichi tokko tokko yeroo guyyaa kam akka caalu gaafachuu gorsa. NIA dhukkubbii, constipation fi miidhaa qorichaa ykn walitti dhufeenya sababoota aarii danda'an keessaa tarreessa.
+Wantoota galgala ulfaataa gochuu danda'an akka sakatta'an doktora gaafadhaa. Alzheimer's Association rakkoolee qaamaa kanneen akka infekshinii ujummoo fincaanii, fincaan of irraa qabu dhabuu, miila boqonnaa dhabuu fi apnea hirribaa ibsa, akkasumas qorichi kamiyyuu guyyaa keessaa yoom akka fudhatamu gaarii ta'e gaafachuu yaada. NIA sababa jeequmsaa ta'uu danda'an keessaa dhukkubbii qaamaa, garaa gogaa fi miidhaa cinaa qorichaa yookaan walitti bu'iinsa qorichaa tarreessa.
 
-Alzheimer's Association karaawwan qoricha hin taane rakkoo hirribaa Alzheimer wajjin wal-qabate irratti waliigalaan dursa filatamu, qorichi aarii waaree boodaa yoo isaan hin milkoofne qofa, balaa fi faayidaa madaaluun booda, yaadamuu qaba jedha. Murteen sun doktora biratti. Gorsa fayyaa malee qoricha, wanta hirriba fidu ykn dabalataa hin jalqabinaa, hin dhaabinaa, hin jijjiirinaa.
+Alzheimer's Association rakkoo hirribaa Alzheimer's waliin walqabatuuf yeroo baay'ee mala qoricha hin fayyadamne dursee filatamuu akka qabu, akkasumas qorichi boqonnaa dhabuu galgala dhiyoo hir'isuuf yoo maloonni sun hojii irra hin oolin qofa, bu'aa fi miidhaa erga madaalamee booda ilaalamuu akka qabu jedha. Murtoon sun kan doktoraati. Gorsa fayyaa malee qoricha, qoricha hirribaa yookaan dabalata kamiyyuu hin jalqabin, hin dhaabin yookaan hin jijjiirin.
 
-## Galgala ofii koo akkamitti darba?
+## Ani mataan koo galgala akkamittan dabarsuu danda'a?
 
-Waaree booda yeroo kunuunsaa guyyaa isa baay'ee ulfaataa ta'uu danda'a. Yoo danda'ame, nama maatii, hiriyyaa ykn gargaaraa kaffalamu torbaanitti guyyoota muraasa waaree booda, sa'aatii tokkoof illee, akka bakka isin bu'u gaafadhaa. Qajeelfamni keenya [of kunuunsuu kunuunsitootaaf](/caregiving/caregiver-self-care/) filannoo boqonnaa tarreessa, akkasumas tajaajila bilbilaa deeggarsaa dhaabbata Alzheimer ykn dementia biyya keessanii isin gargaaruu danda'u ilaaluu.
+Galgalli dhiyoo guyyaa kunuunsitootaa keessatti yeroo ulfaataa ta'uu danda'a. Yoo danda'ame, miseensa maatii, hiriyaa yookaan nama gargaaraa kaffaltii argatu akka torbanitti yeroo muraasa galgala dhiyoo, sa'aatii tokkoof illee, isin gargaartu gaafadhaa. Qajeelfamni keenya waa'ee [of kunuunsuu kunuunsitootaa](/caregiving/caregiver-self-care/) filannoo boqonnaa fi sarara gargaarsaa bilisaa Alzheimer's Association 24/7 Helpline tarreessa.

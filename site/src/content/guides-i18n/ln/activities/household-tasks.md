@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Misala ya ndako mpo na bato na bokɔnɔ ya kobosana"
+seoTitle: "Misala ya ndako mpo na bokɔnɔ ya kobosana"
+description: "Kopika bilamba, kopona biloko, kobongisa mesa mpe kolamba ya pete ekoki kozala misala ya ntina mpo na bato oyo bazali na bokɔnɔ ya kobosana. Ndenge ya kobongisa yango, kobongola yango mpe kobatela kimia."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Misala ya mokolo na mokolo lokola kopika tauwɛ́lɛ, kopona ba sosɛtɛ, kobongisa
+  mesa, kopangusa bitando, kosopela banzeté mpe kosalisa na kolamba ya pete
+  ekoki kopesa moto oyo azali kobika na bokɔnɔ ya kobosana nzela ya solosolo ya
+  kosalisa. Poná misala oyo ayebi, kabolá yango na likambo moko na moko, longolá
+  makama ya mbeli to ya molunge, mpe moná kosangana lokola likambo ya ntina
+  koleka kosala yango « malamu mpenza ».
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Misala ya ndako oyo bayebi ekoki kosalisa moto amiyoka ete azali na litomba mpe azali eteni ya libota, mpe yango ekoki kozala na ntina koleka ndenge mosala esalemi."
+  - "Kabolá mosala mokomoko na makambo ya pete moko na moko, lakisá na esaleli na esika ya koloba mingi, mpe zwá na kimya eteni oyo ekómi mpasi mpo na ye."
+  - "Bombá bambeli, biloko ya kopetola mpe bakapsule ya sabuni, mpe bakisá bibateli ya maneti ya fɔ́ to eloko oyo ekangaka yango yango moko liboso ya kolamba elongo."
+  - "Esengeli te kopika lisusu tauwɛ́lɛ oyo epikami liboso ya moto yango. Soki esengeli osala yango lisusu, salá yango na sima mpe esika azali komona te."
+  - "Soki mosala ememeli ye kokangama motema, leká na eteni ya pete koleka, meká lisusu na ntango mosusu, to vanda kaka elongo na ye."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Misala nini ya ndako moto oyo azali na bokɔnɔ ya kobosana akoki kaka kosalisa?"
+    a: "Bato mingi bakoki kaka kopika bilamba, koluka ba sosɛtɛ oyo ekokani, kopona bakiyɛri, kobongisa mesa, kopangusa etando, kopangusa putulu, kokɔmba, kosopela banzeté to kovungisa pɔtɔ ya eloko ya kolamba. Poná misala oyo moto yango asalaka liboso mpe bongolá yango na makoki na ye ya lelo. Na biteni ya sima, mwango moko oyo ezongelamaka, lokola kolɛmbisa basɛrvietɛ, ekoki kokoka."
+  - q: "Ezali na kimia mpo na moto oyo azali na bokɔnɔ ya kobosana kosalisa na kikuku?"
+    a: "Ekoki kozala bongo, soki ozali kotala ye pembeni mpe soki esika ebongisami malamu. Batelá bambeli, biloko ya kopetola mpe eloko nyonso ya molunge mosika, salelá bibateli ya maneti ya fɔ́ to eloko oyo ekangaka yango yango moko, mpe pesá moto yango mosala ya kimia lokola kosukola ndunda, kovungisa to kobimisa basaani. Kotikala na ye te ye moko soki fɔ́ ezali kopela."
+  - q: "Soki apiki mabe to asali mobulu, nasala nini?"
+    a: "Tiká yango bongo. Mokano ezali kolekisa ntango elongo mpe kopesa ye liyoki ya kozala na litomba, kasi te kozwa mbano ya kokoka. Soki eloko moko esengeli mpenza kosalama lisusu, zelá na sima mpe salá yango ntango moto yango azali kotala te, mpo amiyoka te lokola babongoli ye."
+  - q: "Soki aboyi kosalisa, nasala nini?"
+    a: "Koboya ekoki kolakisa ete mosala ezali mpasi mingi, ezali kotungisa to elembisi ye sikoyo. Kotinda ye te. Meká lolenge ya pete koleka, bingá ye avanda pembeni na yo, to tuná ye lisusu na ntango mosusu ya malamu na mokolo."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Bato mingi oyo bazali kobika na bokɔnɔ ya kobosana balekisaki bambula ebele kobatela ndako, kobɔkɔla bana to kobongisa mosala na esika ya mosala. Kobenga bango bápesa mabɔkɔ na misala ya solosolo ya ndako ekoki koloba « ozali kaka eteni ya ndako oyo » na ndenge oyo misala mosusu mingi ekoki kosala te. Lokasa oyo elobeli misala nini ekoki kosalama malamu, ndenge ya kobongisa yango, ndenge ya kobongola yango ntango makambo ekomi kobongwana, mpe ndenge ya kobatela kimia na kikuku mpe na esika ya kosukola bilamba.
 
-## Why do everyday chores work well as activities?
+## Mpo na nini misala ya mokolo na mokolo esalaka malamu lokola misala?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Misala ya ndako esalaka malamu mpo ezali ya koyeba mpe ezali na ntina ya polele. National Institute on Aging etangi kosukola basaani, kobongisa mesa, kokɔmba, kopangusa putulu, kopona mikanda ya posita, kopika bilamba mpe kopona biloko ya kozongisela na kati ya [misala ya mokolo na mokolo oyo bato oyo bazali na bokɔnɔ ya Alzheimer bakoki kosepela na yango](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association elobi ete misala lokola kobongisa mesa ekoki kosalisa moto [amiyoka lokola moto ya ntina na ndako](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Mosala ya ndako mpe ezalaka na ntina na yango moko ya kobanda. « Okoki kosalisa ngai na tauwɛ́lɛ oyo? » ezali pete kondima koleka « Olingi kosala mosala moko? »
 
-## Which household tasks are good to try?
+## Misala nini ya ndako tokoki komeka?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Bandá na misala oyo moto yango asalaka liboso, na sima bongolá yango na makoki na ye ya lelo.
 
-### Laundry and linens
+### Bilamba mpe biloko ya ndako
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Kopika tauwɛ́lɛ mpe bilamba ya kosukola.** Pesá ye kitunga ya biloko ya mike mpe ya patatalu. Tauwɛ́lɛ ezali pete: ezali na ndenge mabe te ya kopika yango.
+- **Koluka ba sosɛtɛ oyo ekokani.** Tiá liboke ya basosɛtɛ esangani likoló ya mesa. Soki koluka ba parɛ ekómi mpasi, salelá kaka balangi mibale to misato oyo ekeseni mingi.
+- **Kolɛmbisa mpe kotia likoló ya mosusu.** Basɛrvietɛ, bafrɔ́dɛ ya oreye to bilamba ya mesa ekoki kolɛmbisama mpe kotiama likoló ya mosusu. Yango esalaka malamu na sima, ntango kopika ekómi na makambo mingi koleka.
 
-### Table and kitchen
+### Mesa mpe kikuku
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Kobongisa mesa.** Bongisá esika moko lokola ndakisa mpe tiká moto yango alanda yango. Soki ezali mingi, pesá eloko moko na moko: « Tala fɔrshɛ́tɛ mpo na sani moko na moko. »
+- **Kopona bakiyɛri.** Sangisá bafɔrshɛ́tɛ, bakuyɛ́rɛ mpe bambeli ya mɛ́ntɛ (ya kopakola) ya peto na kati ya bakɛti mpe poná yango na kati ya eloko ya kobomba oyo ekabwani. Tiká bambeli ya makasi pembeni.
+- **Kokawusa basaani.** Basaani ya pulasitiki to oyo ebukani te mpe elamba ya pɛtɛɛ ekomisaka mosala oyo ya kimia.
+- **Kopangusa mesa to bitando.** Elamba ya mayi moke mpe esika ya polele. Alzheimer's Association epesi likanisi ya kopesa elamba soki moto moko azali kopangusa mesa na lobɔkɔ na ye, mpo kobongola mwango yango ya kotambola na mosala ya litomba.
 
-### Around the house
+### Na ndako mobimba
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Kopangusa putulu.** Eloko ya pɛtɛɛ ya kopangusa putulu mpe bisika mike ya makasi, lokola mesa ya ntei to etandɛ ya babuku.
+- **Kopona mikanda ya posita.** Pesá mikanda ya piblisite mpe bakatalɔgɛ mpo na kopona na bituluku: kobomba, kozongisela, kofungola na sima. Bombá bafaktire ya solosolo mpe bashɛ́kɛ na esika mosusu.
+- **Kopona biloko ya kozongisela.** Bakani, bamilitɛrɛ mpe bapapyé ya peto na kati ya bakɛti ekeseni.
+- **Kokɔmba.** Liboke ya moke na lopango to na nse ya kikuku, soki atelemaka malamu.
+- **Kosopela banzeté.** Arozwa ya moke, ya pɛtɔ mpe banzeté mike na esika ya pete ya kokoma.
 
-### Simple cooking with supervision
+### Kolamba ya pete na bokɛngi
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Kolamba ekoki kozongisa mayoki ya makasi mpe ya malamu. NIA epesi likanisi ya kotika moto yango asangisa biloko, ameka, avungisa mpe asopa, to aloba kaka na moto mosusu ndenge ya kolamba eloko oyo alingaka mingi. Misala ya malamu ezali:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- kosukola ndunda to mbuma
+- kovungisa pɔtɔ ya eloko ya kolamba to saladi ya malili
+- kopasola ndunda ya saladi na mabɔkɔ
+- kopakola mɛ́ntɛ na lipa na mbeli ya bule te
+- kotia pɔtɔ ya biskwi na plati
+- kotia biloko likoló ya pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Soki komeka biloko ekómi mpasi, Alzheimer's Association epesi likanisi ete osilisa komeka mpe na sima opesa ye eteni mosusu, lokola kovungisa.
 
-## How do I set up a chore so it goes well?
+## Ndenge nini nakoki kobongisa mosala mpo esalama malamu?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Poná ntango ya malamu.** Poná eteni ya mokolo oyo moto yango azalaka mingi na bopemi mpe na kimya. Mpo na bato mingi ezali na ntongo.
+2. **Longolá biloko mosusu na esika.** Mosala moko, esika moko, eloko mosusu te likoló ya mesa.
+3. **Bengá, kopesa mitindo te.** « Nakoki kozwa lisalisi na yango » esalaka malamu koleka « Ntango ya kopika bilamba ekómi. »
+4. **Lakisa ya liboso.** Piká tauwɛ́lɛ moko malembe, na sima pesá oyo elandi. Kolakisa ezali polele koleka kolimbola.
+5. **Pesá eteni moko na moko.** Mitindo mingi mbala moko ekoki kotungisa. Zelá ete eteni moko esila liboso ya koloba oyo elandi.
+6. **Salá elongo pembeni na pembeni.** Kosala mosala moko pembeni na pembeni epesaka liyoki ya kozala elongo, kasi te ya kokɛngela.
+7. **Lobá na ntina ya mosala, kasi te na ntina ya mbano.** « Ezali pɛtɛɛ mingi » to « Yebisa ngai ndenge ozalaki kobomba bilamba na almwári » ebendaka masolo kozanga komeka moto.
 
-## How do I adapt chores as abilities change?
+## Ndenge nini nakoki kobongola misala ya ndako ntango makoki ekomi kobongwana?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Makoki ekoki kobongwana na ntango mpe ata mokolo na mokolo. Alzheimer's Association epesi likanisi ya koleka na misala ya pete mpe oyo ezongelamaka ntango bokɔnɔ ekobi.
 
-| If this has become hard | Try this instead |
+| Soki likambo oyo ekómi mpasi | Meká oyo na esika na yango |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Kopika badrap ya minene | Kopika bilamba ya kosukola to kolɛmbisa basɛrvietɛ |
+| Kobongisa mesa mobimba | Kotia sɛrvietɛ moko na esika moko na moko |
+| Kopona mikanda ya posita na bituluku | Kotia baenvlopɛ na liboke moko |
+| Kolanda rezeti | Kovungisa, to kotala mpe komeka ntango ozali kolamba |
+| Kokɔmba nse mobimba | Kopangusa mesa moko ya moke |
+| Kosala mosala yango | Kovanda na yo mpe kosala yo kompanyi ntango ozali kosala yango |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Kotala mpe ezali kosangana. NIA elobi ete bato mosusu basepelaka kaka kotala, mpe yango ezali lolenge ya malamu ya kosangana.
 
-## How do I keep household tasks safe?
+## Ndenge nini nakoki kobatela kimia ntango tozali kosala misala ya ndako?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Kimia ezali liboso, mingimingi na kikuku. [Makanisi ya kimia na ndako mpo na babateli ya bato oyo bazali na Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ya NIA ezali na:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Kanga to longola biloko ya kopetola, bakisa mpe bakapsule ya sabuni ya kosukola bilamba, oyo ekoki komonana lokola bonbon.
+- Bombá bambeli, sizo mpe bisaleli ya kuran na esika ekangami.
+- Bakisá maneti ya libateli mpe eloko oyo ekangaka fɔ́ yango moko.
+- Tiá bilembo « Tɛ́lɛmɛ » to « Molunge mingi » pembeni ya fɔ́r, toasta mpe fɛrɛ a repase, na esika oyo ekoki kozika te.
+- Tiá shofó-ɔ ya mayi na 120°F mpo na kokitisa likama ya kozika na mayi ya molunge.
+- Longolá bambuma ya kokosola mpe bamanɛ́ ya frigo oyo ezalaka lokola biloko ya kolia, oyo ekoki komonana lokola biloko oyo bakoki kolia.
 
-A few more practical habits help:
+Mpe bizaleli mosusu ya malamu ya kosalela ekoki kosalisa:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Vanda na shambre tango nyonso oyo fɔ́, fɔ́r to esaleli ya makasi ezali kosalema.
+- Salelá basaani oyo ebukani te mpo na kokawusa mpe kobongisa mesa.
+- Batelá nse ya kokauka mpe ya polele ntango ozali kokɔmba to kopangusa.
+- Soki moto yango asalelaki bisaleli liboso, Alzheimer's Association epesi likanisi ya kolongola biloko ya makama na esika ya mosala mpo mosala ya kimia, lokola kopolisa eteni ya mabaya, ekoki kaka kosepelisa.
 
-## What if they do it "wrong"?
+## Soki asali yango « mabe », nasala nini?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Tiká yango bongo. Tauwɛ́lɛ oyo epikami na biteni misato na esika ya mibale ezali kaka tauwɛ́lɛ oyo epikami. Alzheimer's Association elobi yango polele: likambo ya ntina ezali kolekisa ntango elongo mpe ete moto amiyoka na litomba, kasi te soki tauwɛ́lɛ epikami malamu mpenza. Soki eloko moko esengeli mpenza kosalama lisusu, zelá na sima mpe salá yango esika azali komona te.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Kobongola ye na ntango yango ekoki kobongola mosala ya malamu na bokundoli ya oyo ebungaki. « Matɔndi, ezali lisalisi monene » ezali pene na ntango nyonso maloba ya malamu ya koloba.
 
-## When should we stop?
+## Ntango nini tosengeli kotika?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Tika to bongola soki omoni bilembo ya kokangama motema, kolemba to kobungisa mposa. Kosuka liboso ezali mbano ya malamu, ezali libunga te. Okoki:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- koleka na eteni ya pete koleka
+- kokende na eloko ya kimya, lokola miziki to kopo ya kafe
+- komeka lisusu na sima to na mokolo mosusu
+- kovanda kaka elongo na ye
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Soki moto yango alobi te, kotinda ye te. Talá [nini kosala soki alobi te](/caregiving/when-they-say-no/) mpo na koyeba ndenge ya koyanola na boboto.
 
-## Low-effort extras for a quieter moment
+## Makanisi mosusu ya pete mpo na ntango ya kimya
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Ntango misala ya nzoto ekoki kosalama te, kopona mpe koluka biloko oyo ekokani ekoki kaka kosalama na kovanda. [Sort Together](/games/sort-together/) epesaka yo nzela ya kobeta bilili mpo na kotia yango na bakɛti ya kikuku to ya elanga, mpe [Picture Pairs](/games/picture-pairs/) ezali lisano ya pete ya koluka bilili oyo ekokani, na bilili ya minene mpe kozanga ngonga. [Conversation Cards](/games/conversation-cards/) ezali na mituna ya kofungola masolo na ntina ya ndako mpe libota, oyo ekokani malamu na kafe sima ya mosala.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Mpo na lisalisi ya kotia misala ya ndako na mokolo, talá lisungi na biso na ntina ya [manaka ya mokolo ya kimya](/activities/daily-routine/). Mpo na makanisi mosusu na kotalela eteni ya bokɔnɔ, talá [misala mpo na eteni ya katikati](/activities/middle-stage/).

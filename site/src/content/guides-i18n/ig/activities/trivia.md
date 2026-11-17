@@ -1,33 +1,33 @@
 ---
-title: "Ajụjụ Dị Mfe maka Ndị Okenye Nwere Dementia"
-seoTitle: "Ajụjụ Dị Mfe maka Ndị Okenye Nwere Dementia"
-description: "Ajụjụ dị mfe 50 maka ndị okenye nwere dementia, nwere nhọrọ azịza na isiokwu mkparịta ụka, na otu esi eme ya ka ọ dịghị onye a na-anwale ma ọ bụ hapụ n'azụ."
+title: "Ajụjụ Dị Mfe Maka Ndị Okenye Na-ebi na Nchefu, Enweghị Nrụgide"
+seoTitle: "Ajụjụ Maka Ndị Okenye Na-ebi na Nchefu, Ya na Azịza"
+description: "Ajụjụ iri ise dị mfe maka ndị okenye na-ebi na nchefu, nwere nhọrọ azịza na isiokwu mkparịta ụka, tinyere otu e si eme ya ka onye ọ bụla nwee obi iru ala."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ajụjụ dị mfe maka ndị okenye nwere dementia na-arụ ọrụ mgbe ọ dị ka mkparịta
-  ụka, ọ bụghị ule. Jụọ banyere ihe a mụrụ kemgbe ọtụtụ afọ, dị ka egwu ochie,
-  okwu a maara, ememe na ndụ kwa ụbọchị, wee nye nhọrọ abụọ ma ọ bụ atọ mgbe
-  niile. Nye azịza n'efu, ekwukwala onye ọ bụla n'ihu, hapụ akara, ma jiri azịza
-  ọ bụla malite akụkọ. Ajụjụ "nke a ma ọ bụ nke ahụ" na-enweghị azịza na-ezighị
-  ezi dabara n'oge ndị ọzọ.
+  Ajụjụ dị mfe maka ndị okenye na-ebi na nchefu na-aga nke ọma mgbe ọ dị ka
+  mkparịta ụka, ọ bụghị ule. Jụọ banyere ihe a mụtara ogologo oge gara aga, dị
+  ka egwu ochie, ilu, ụbọchị ezumike na ndụ kwa ụbọchị, ma nye nhọrọ abụọ ma ọ
+  bụ atọ mgbe niile. Kwuo azịza nʼobi ọma, akpọpụla onye ọ bụla iche, hapụ
+  akara, ma jiri azịza ọ bụla malite akụkọ. Ajụjụ “Nke a ka ọ bụ nke ahụ” nke
+  na-enweghị azịza na-ezighi ezi dabara adaba nʼọkwa ndị ọzọ mechara.
 keyPoints:
-  - "Jụọ banyere ihe a maara kemgbe: egwu, okwu a maara, ememe, nri na ndụ kwa ụbọchị nke ọtụtụ afọ gara aga."
-  - "Nye nhọrọ abụọ ma ọ bụ atọ ka a nwee ike ịmata azịza kama ichetara ya."
-  - "Kwuo azịza ahụ n'obi ọma wee gaa n'ihu. Ịkọ ọ bụla na-amalite akụkọ bụ ezigbo ịkọ."
-  - "Enweghị akara, enweghị otu na-agba ọsọ, enweghị ịkpọ otu onye. Ka azịza si n'ụlọ niile."
-  - "Mgbe ịhọrọ n'etiti azịza ghọrọ ihe siri ike, gbanwee gaa n'ajụjụ 'nke a ma ọ bụ nke ahụ' na-enweghị azịza ziri ezi."
+  - "Jụọ banyere ihe a maara nke ọma ogologo oge: egwu, ilu, ụbọchị ezumike, nri na ndụ kwa ụbọchị site nʼafọ gara aga."
+  - "Nye nhọrọ abụọ ma ọ bụ atọ ka e nwee ike ịmata azịza kama icheta ya nʼisi."
+  - "Kwuo azịza nʼobi ọma ma gaa nʼihu. Amụma ọ bụla na-ebute akụkọ bụ amụma dị mma."
+  - "Enweghị akara, enweghị otu na-asọ mpi, akpọla otu onye. Kwe ka azịza si nʼọnụ mmadụ niile pụta."
+  - "Mgbe ịhọrọ nʼetiti azịza na-esiri ike, gbanwee gaa na ajụjụ nke a ka ọ bụ nke ahụ nke na-enweghị azịza ziri ezi."
 faq:
-  - q: "Ajụjụ dị ka ọrụ ọ̀ dị mma maka ndị nwere dementia?"
-    a: "Ọ nwere ike ịdị, ma ọ bụrụ na e mee ya nwayọọ. Alzheimer's Foundation of America depụtara ajụjụ dị ka otu n'ime ọrụ maka oge mbụ. Jụọ banyere isiokwu a maara kemgbe, nye nhọrọ, ekwukwala otu onye n'ihu, ma were azịza ndị ahụ dị ka ụzọ ịbanye na mkparịta ụka, ọ bụghị ule."
-  - q: "Isiokwu ndị gịnị na-arụ ọrụ kacha mma maka ajụjụ dementia?"
-    a: "Ihe a mụrụ kemgbe na-arụkarị ọrụ kacha mma: egwu na ndị na-abụ abụ nke mgbe onye ahụ bụ nwa okorobịa ma ọ bụ nwa agbọghọ, okwu a maara, ememe, nri, egwuregwu, na ndụ kwa ụbọchị nke oge ochie. Zere akụkọ ọhụrụ na ihe ọ bụla chọrọ icheta ihe sitere n'oge gara aga nke nzukọ ahụ."
-  - q: "Kedu ka m ga-esi mee ajụjụ n'ụlọ nlekọta n'ejighị ihere mee onye ọ bụla?"
-    a: "Gụọ ajụjụ ọ bụla n'otu ahụ niile, gosi ma ọ bụ kwuo nhọrọ ndị ahụ, nabatakwa azịza site n'aka onye ọ bụla. Akpọla ndị n'otu n'otu ma ọ bụ debe akara. Kwuo azịza ahụ jiri ọchị ihe ọ bụla a kọrọ, wee jụọ ajụjụ ọzọ dị ka 'Onye n'ime unu gara ememe n'oge ọ bụ nwata?' ka ọ ghọọ akụkọ."
-  - q: "Gịnị ka m nwere ike ime kama ajụjụ n'oge ndị ọzọ?"
-    a: "Gbanwee gaa n'ajụjụ na-enweghị azịza na-ezighị ezi, dị ka 'Kọfị ma ọ bụ tii?' ma ọ bụ 'Ọnụ oké osimiri ma ọ bụ ugwu?', na imecha okwu ma ọ bụ abụ a maara ọnụ. Ilele foto na ịkọwa ha ọnụ na-arụkwa ọrụ nke ọma."
+  - q: "Ajụjụ ọ bụ ihe omume dị mma maka ndị na-ebi na nchefu?"
+    a: "O nwere ike ịdị, ma ọ bụrụ na e jiri nwayọ mee ya. Alzheimer’s Foundation of America depụtara ajụjụ nʼime ihe omume maka ọkwa mbido. Debe ajụjụ nʼisiokwu a maara ogologo oge, nye nhọrọ, etinyela otu onye nʼọnọdụ siri ike, ma were azịza dịka ụzọ isi banye na mkparịta ụka, ọ bụghị dịka ule."
+  - q: "Kedu isiokwu kacha dabara adaba maka ajụjụ ndị a?"
+    a: "Ihe a mụtara ogologo oge gara aga na-adakarị: egwu na ndị na-abụ abụ a ma ama nʼoge ntorobịa onye ahụ, ilu a maara, ụbọchị ezumike, nri, egwuregwu, na ndụ kwa ụbọchị dị ka ịnata mmiri ara ehi nʼọnụ ụzọ na ekwentị a na-atụgharị. Zeere akụkọ ọhụrụ na ihe ọ bụla chọrọ icheta ihe sitere na mbụ nʼoge ọmụmụ ahụ."
+  - q: "Kedu ka m ga-esi mee ajụjụ nʼụlọ nlekọta nʼenweghị ime ka onye ọ bụla nwee ihere?"
+    a: "Gụọ ajụjụ ọ bụla nye otu niile, gosi ma ọ bụ kwuo nhọrọ ndị ahụ, ma nabata azịza site nʼaka onye ọ bụla. Akpọla mmadụ nʼotu nʼotu ma ọ bụ debe akara. Kwuo azịza jiri ọnụ ọchị nʼagbanyeghị ihe a chere, ma jụọ ajụjụ sochirinụ dị ka ‘Onye nʼime ụlọ a gara ebe a na-ekiri ihe nkiri nʼime ụgbọ ala?’ ka ị gbanwee ya ka ọ bụrụ akụkọ."
+  - q: "Kedu ihe m nwere ike ime kama ajụjụ nʼọkwa ndị mechara?"
+    a: "Gbanwee gaa na ajụjụ na-enweghị azịza na-ezighi ezi, dị ka ‘Kọfị ka ọ bụ tii?’ ma ọ bụ ‘Osimiri ka ọ bụ ugwu?’, nakwa imecha ilu ma ọ bụ egwu a maara ọnụ. Ilekọta foto ọnụ ma kọwaa ha ọnụ na-arụkwa ọrụ nke ọma."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -46,137 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Ajụjụ so n'ọrụ otu ndị a na-arịọkarị n'ụlọ nlekọta na ebe a na-eme ọrụ n'ehihie, ọtụtụ ezinụlọ na-akpọkwa ya n'elu tebụl ụlọ nri. Ọ bụrụ na e mee ya n'ụzọ a na-emekarị, nwere akara na otu onye na-azaa, ọ nwere ike ime ka onye nwere dementia chee na a kpọrọ ya n'ihu. Ọ bụrụ na e mee ya nwayọọ, ọ bụ ụzọ na-enye ndụ iji nụ akụkọ. N'okpuru ebe a bụ ajụjụ dị mfe 50 nwere nhọrọ azịza na ihe a ga-ekwurịta maka nke ọ bụla, wee soro otu esi eme oge ajụjụ.
+Ajụjụ bụ otu nʼime ihe omume otu ndị a na-achọkarị nʼụlọ nlekọta na mmemme ụbọchị, ọtụtụ ezinụlọ na-egwukwa ya nʼtebụl kichin. Mgbe e mere ya nʼụzọ a na-emebu, nke nwere akara na otu onye na-aza, ọ nwere ike ime ka onye na-ebi na nchefu nwee mmetụta na etinyere ya nʼọnọdụ siri ike. Mgbe e jiri nwayọ mee ya, ọ bụ ụzọ dị ndụ isi nụ akụkọ. Nʼokpuru ebe a bụ ajụjụ iri ise dị mfe nwere nhọrọ azịza na ihe a ga-ekwu maka nke ọ bụla, sochiri otu e si eduzi oge ọmụmụ.
 
-Ajụjụ ndị a dabere n'ihe ndị bụ eziokwu n'ozuzu ma ọ bụ nke ndị Naịjirịa na ndị Igbo maara nke ọma. Gbanwee ha ka ha dabara n'ọgbọ na mpaghara onye ahụ, hapụkwa ọ bụla ị na-ejighị n'aka.
+## Kedu ka ị ga-esi mee ka ajụjụ rụọ ọrụ maka onye na-ebi na nchefu?
 
-## Kedu ka esi eme ka ajụjụ rụọ ọrụ maka onye nwere dementia?
+Mee ka ọ bụrụ banyere ịmata na icheta ihe site nʼoge gara aga, ma mee ka a nabata azịza ọ bụla.
 
-Mee ya banyere ịmata na icheta ihe ochie, ma nabata azịza ọ bụla.
+1. **Jụọ banyere oge gara aga ogologo oge.** [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) na-ekwu na ihe mgbaàmà izizi a na-ahụkarị nʼAlzheimer’s bụ nsogbu icheta ozi a mụtara ọhụrụ. Egwu, ilu na ndụ kwa ụbọchị site nʼọtụtụ afọ gara aga na-abụkarị ebe dị mfe karị.
+2. **Nye nhọrọ mgbe niile.** Ịhọrọ azịza ziri ezi nʼime abụọ ma ọ bụ atọ dị mfe karịa iwepụta ya nʼonwe ya.
+3. **Gụọ ajụjụ nʼolu dara ụda ma gosi ha nke ukwuu.** Bọdụ ọcha ma ọ bụ tablet e weliri elu na-enyere ndị na-anụchaghị nke ọma aka.
+4. **Kwuo azịza nʼobi ọma.** Ọ bụrụ na ọ dịghị onye maara, kwuo ya nʼobi ọma ma gaa nʼihu. Asịla “Bịa, ị maara nke a.”
+5. **Enweghị akara.** Ọ bụghị maka mmadụ nʼotu nʼotu ma ọ bụ maka tebụl. Ọ bụrụ na ndị mmadụ chọrọ ọnụọgụgụ, debe otu mkpokọta maka otu niile.
+6. **Akpọla otu onye.** Kwe ka azịza si nʼaka onye ọ bụla pụta. Mgbe unu abụọ nọ naanị, zaa ọnụ: “Echere m na ọ bụ piano. Gịnị ka i chere?”
+7. **Jiri isiokwu mkparịta ụka ahụ.** Azịza bụ mmalite, ọ bụghị ọgwụgwụ. Akụkọ bụ ebumnuche nʼezie.
+8. **Mee ka ọ dị mkpụmkpụ.** Ajụjụ iri nwere obere akụkọ nʼetiti zuru ezu.
 
-1. **Jụọ banyere oge gara aga ogologo oge.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) na-ekwu na ihe mbụ kachasị emekarị nke ọrịa Alzheimer bụ nsogbu icheta ozi a mụtara n'oge na-adịbeghị anya. Egwu, okwu a maara na ndụ kwa ụbọchị site n'ọtụtụ iri afọ gara aga na-adịkarị mfe.
-2. **Nye nhọrọ mgbe niile.** Ịhọrọ azịza ziri ezi n'etiti abụọ ma ọ bụ atọ dị mfe karịa ịmepụta ya site n'ihe efu.
-3. **Gụọ ajụjụ n'olu elu ma gosi ya n'ọkpụkpụ buru ibu.** Bọọdụ ọcha ma ọ bụ tablet e bulitere na-enyere ndị na-anụghị nke ọma aka.
-4. **Nye azịza n'efu.** Ọ bụrụ na onye ọ bụla amaghị, kwuo ya n'obi ọma wee gaa n'ihu. Ekwula "Bịa, ị maara nke a."
-5. **Enweghị akara.** Ọ bụghị maka ndị n'otu n'otu na ọ bụghị maka tebụl. Ọ bụrụ na ndị mmadụ chọrọ ọnụ ọgụgụ, debe otu ngụkọta nke otu.
-6. **Akpọla otu onye n'ihu.** Ka onye ọ bụla zaa. N'ịnọ otu na otu, zaa ọnụ: "Echere m na ọ bụ piano. Gịnị bụ echiche gị?"
-7. **Jiri isiokwu mkparịta ụka.** Azịza bụ mmalite, ọ bụghị ọgwụgwụ. Akụkọ bụ ebumnuche n'ezie.
-8. **Mee ya mkpụmkpụ.** Ajụjụ iri nwere akụkọ n'etiti zuru ezu.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kwuru isi iwu ahụ nʼụzọ dị mfe: leba anya maka iwe ma hụ na onye ahụ nwere mmetụta nke ịga nke ọma. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) depụtara ajụjụ nʼime ihe omume maka ọkwa mbido. Nʼọkwa etiti, debe ya na nhọrọ abụọ ma dabere na isiokwu mkparịta ụka. Mgbe e mesịrị, gbanwee gaa na ajụjụ nke a ka ọ bụ nke ahụ dị nʼokpuru.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kwuru iwu bụ isi nke ọma: lee ihe ịrịba ama nke iwe, hụkwa na onye ahụ na-enwe mmetụta nke ịga nke ọma. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) depụtara ajụjụ dị ka otu n'ime ọrụ maka oge mbụ. N'oge etiti, debe nhọrọ abụọ ma tụkwasị obi n'isiokwu mkparịta ụka. Mgbe e mesịrị, gbanwee gaa n'ajụjụ nke a ma ọ bụ nke ahụ dị n'okpuru.
+## Ajụjụ banyere egwu na ntụrụndụ
 
-## Ajụjụ banyere egwu na ihe ntụrụndụ
+Azịza dị na **mkpụrụedemede gbara ọchịchịrị**. Hazie ndị a ka ha dabara onye ahụ: onye tolitere na Motown ga-achọ ndị na-abụ abụ dị iche na onye tolitere na big bands.
 
-Azịza dị n'**ụdị ọkpụrụkpụ (bold)**. Dozie ha maka onye ahụ.
-
-| Ajụjụ | Nhọrọ | Kwurịta banyere |
+| Ajụjụ | Nhọrọ | Ihe a ga-ekwu maka ya |
 | --- | --- | --- |
-| Kedu ngwa egwu nwere ihe a na-apị (keys) 88? | Guitar, **piano**, opi | Ọ nwere onye n'ezinụlọ gị na-akpọ ya? |
-| Kedu ngwa egwu na-adịkarị eriri isii? | **Guitar**, ịgba, oja | Ị nụla ya mgbe a na-akpọ ya? |
-| Kedu n'ime ngwa egwu ndị a ka a na-eti? | **Ịgba**, oja, piano | Gịnị bụ ụda ịgba ị na-echeta? |
-| Kedu ngwa egwu Igbo e ji ụrọ mee? | **Udu**, ekwe, ogene | Ị nụla ụda ya? |
-| Kedu ngwa egwu Igbo e ji ígwè mee, nke a na-eti? | **Ogene**, udu, oja | Gịnị bụ egwu ọ na-eso? |
-| Kedu ngwa egwu Igbo a na-afụ ọnụ? | **Oja**, ekwe, piano | Ị nụla ya n'ememe? |
-| Kedu egwu a na-agụ otu-abụọ-atọ, otu-abụọ-atọ? | **Waltz**, mgba, ịgba ọsọ | Ebee ka ị na-agba egwu? |
-| Gịnị ka ndị mmadụ na-eme n'aka mgbe ha na-anụ ụtọ egwu? | **Ịkụ aka**, ime ụra, ide ihe | Egwu ole ka na-eme ka ị kụọ aka? |
-| Kedu ihe a na-eji anụ egwu n'ụlọ n'oge ochie? | **Redio**, enyo, elekere | Ihe ndị gịnị ka ị na-ege ntị na ha? |
-| Gịnị ka onye na-abụ abụ na-eji eme egwu? | **Olu ya**, ụkwụ ya, ntị ya | Gịnị bụ abụ ị hụrụ n'anya? |
+| Onye ka a na-akpọ Eze Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Ị hụtụrụla Elvis na TV? |
+| Kedu onye na-abụ abụ a na-akpọ Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Kedu egwu Sinatra kacha masị gị? |
+| Bing Crosby rọrọ nrọ banyere Christmas dị... | **ọcha**, agbamakwụkwọ, ụlọ | Bụkọọnụ otu ahịrị ọnụ |
+| Louis Armstrong bụụrụ “What a Wonderful...” | Day, **World**, Life | Kedu ihe na-eme ka ụwa maa mma nʼanya gị? |
+| Judy Garland bụụrụ “Over the Rainbow” nʼihe nkiri nke? | **The Wizard of Oz**, Gone with the Wind, Singin’ in the Rain | Ebee ka ị na-ele ihe nkiri kacha masị gị? |
+| Onye bụ Lucy na “I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Kedu ihe nkiri ezinụlọ unu na-ekiri ọnụ? |
+| Kedu onye na-agba ịnyịnya nke aha ya bụ Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Ị na-egwu egwuregwu ndị na-agba ịnyịnya mgbe ị bụ nwata? |
+| Onye kwadoro “The Tonight Show” ruo afọ iri atọ? | Ed Sullivan, **Johnny Carson**, Bob Hope | Ị na-anọ ruo abalị ele TV? |
+| Kedu ngwa egwu nwere igodo iri asatọ na asatọ? | Guitar, **piano**, opi | Ọ nwere onye nʼezinụlọ gị na-akpọ ya? |
+| Kedu agba egwu a na-agụ otu-abụọ-atọ, otu-abụọ-atọ? | **Waltz**, twist, tango | Ebee ka ị na-aga agba egwu? |
 
-Maka ihe ndị ọzọ banyere egwu, lee [ọrụ egwu maka dementia](/activities/music/).
+Maka ihe ndị ọzọ banyere egwu, lee [ihe omume egwu maka nchefu](/activities/music/).
 
 ## Ajụjụ banyere ndụ kwa ụbọchị
 
-| Ajụjụ | Nhọrọ | Kwurịta banyere |
+| Ajụjụ | Nhọrọ | Ihe a ga-ekwu maka ya |
 | --- | --- | --- |
-| Tupu stov eletrik, ọtụtụ ndị na-esi nri n'elu... | **Ọkụ nkụ**, firiiji, ekwentị | Onye na-ewere nkụ n'ụlọ gị? |
-| Kedu ihe a na-eji asa akwa? | **Ncha**, shuga, mmanụ | Ị nụla otú a na-asa akwa n'aka? |
-| Kedu ihe a na-eji ehichapụ ala? | **Ifiri**, efere, akpa | Onye na-ehichapụ ụlọ gị? |
-| Kedu ihe a na-eji ekwu okwu na onye nọ n'ebe dị anya? | **Ekwentị**, igbe, ite | Onye ka ị na-akpọkarị? |
-| Kedu agba ọkụ traffic na-egosi mgbe ụgbọ ala kwesịrị ịkwụsị? | **Uhie**, akwụkwọ ndụ, ọcha | Ị nọla n'ụgbọ ala? |
-| Kedu ihe a na-eji agbanye ọkụ n'abalị mgbe eletrik na-adịghị? | **Oriọna**, okpu, ite | Ị nwere oriọna n'ụlọ gị n'oge ochie? |
-| Kedu ihe a na-eji ekpuchi isi mgbe anyanwụ na-ere ọkụ? | **Okpu**, akwa ndina, efere | Ị nwere okpu ọ hụrụ n'anya? |
-| Kedu ihe a na-eji ede ihe n'akwụkwọ? | **Pensụl**, ngaji, ọkpọ | Ị hụrụ ka e dee akwụkwọ ozi? |
-| Awa ole ka dị n'otu ụbọchị? | 12, **24**, 36 | Gịnị bụ oge ị kacha masị n'ụbọchị? |
-| Kedu ihe a na-eji edozi akwa e dọwara adọwa? | **Agịga**, mma, ngaji | Onye n'ezinụlọ gị nwere ike ịkwa akwa? |
+| Tupu friji abịa, ọtụtụ ụlọ na-edebe nri ka ọ jụọ oyi nʼime... | **Igbe ice**, oven, elu ụlọ | Onye na-ebute ice? |
+| Onye na-ebute mmiri ara ehi nʼọnụ ụzọ nʼime karama iko? | Onye na-ebute akwụkwọ ozi, **onye na-ebute mmiri ara ehi**, onye na-ebute akwụkwọ akụkọ | Kedu ihe ndị ọzọ a na-ebute nʼụlọ? |
+| Kedu ka ị si akpọ ekwentị rotary? | Ịpị bọtịnụ, **ịtụgharị wheel**, ịgwa ya okwu | Gwa m maka ekwentị dị nʼụlọ unu |
+| Kedu ụlọ ọrụ mere ụgbọ ala Model T? | **Ford**, Chevrolet, Buick | Gwa m maka ụgbọ ala ị hụrụ nʼanya |
+| Ebee ka ị ga-ahụ soda jerk? | **Nʼebe a na-ere soda**, nʼebe a na-esi achịcha, nʼụlọ akụ | Kedu ihe ị na-azụ nʼelu counter? |
+| Kedu ihe egwuregwu ụmụaka bụ eriri igwe nke nwere ike ịga nʼala steepụ? | Yo-yo, **Slinky**, hula hoop | Kedu ihe egwuregwu ụmụaka ị hụrụ nʼanya? |
+| Drive-in bụ ebe a na-aga ikiri... | **Ihe nkiri nʼime ụgbọ ala gị**, egwuregwu bọọlụ, ngagharị | Onye ka ị na-eso gaa? |
+| Onye ihu ya dị nʼakwụkwọ ego otu dollar? | Lincoln, **George Washington**, Jefferson | Kedu ihe otu dollar na-azụ nʼoge ahụ? |
+| Onye ihu ya dị na penny? | **Abraham Lincoln**, Washington, Franklin | Ị na-echekwa penny nʼime ite nʼoge ahụ? |
+| Kedu agba ụgbọ ala ụlọ akwụkwọ na-abụkarị? | Uhie, **edo edo**, anụnụ anụnụ | Kedu ka ị si aga ụlọ akwụkwọ? |
 
-## Ememe, okike na ebe
+## Ajụjụ banyere ụbọchị ezumike, okike na ebe
 
-| Ajụjụ | Nhọrọ | Kwurịta banyere |
+| Ajụjụ | Nhọrọ | Ihe a ga-ekwu maka ya |
 | --- | --- | --- |
-| Kedu afọ Naịjirịa nwetara onwe ya? | 1950, **1960**, 1970 | Gịnị ka ị na-echeta banyere oge ahụ? |
-| Kedu agba ndị dị n'ọkọlọtọ Naịjirịa? | **Akwụkwọ ndụ na ọcha**, uhie na ojii, odo odo na acha anụnụ anụnụ | Ị hụla ọkọlọtọ ahụ n'ememe? |
-| Kedu isi obodo Naịjirịa? | Lagos, **Abuja**, Enugu | Ị gala Abuja? |
-| Ụbọchị Krismas dị n'ọnwa ole? | Ọgọstụ, **Disemba**, Maachị | Kedu ka ezinụlọ gị si eme ememe ahụ? |
-| Ụbọchị mbụ nke afọ ọhụrụ dị n'ọnwa ole? | **Jenụwarị**, Mee, Ọktoba | Gịnị ka unu na-eme n'ụbọchị ahụ? |
-| Iri ji ọhụrụ bụ ememe maka nri ọ bụla? | **Ji**, osikapa, ọka | Kedu nri e si na ji sie na-adị gị ụtọ? |
-| Kedu osimiri ukwu na-asọ n'Naịjirịa? | **Niger**, Nile, Congo | Ị gala n'akụkụ osimiri? |
-| Gịnị ka aṅụ na-eme? | Mmiri ara ehi, **mmanụ aṅụ**, akwa silk | Mmanụ aṅụ n'ihe oriri ma ọ bụ n'ihe ọṅụṅụ? |
-| Kedu anụmanụ na-enye anyị mmiri ara? | **Ehi**, nkịta, ọkụkọ | Ị bi nso ebe a na-azụ anụ? |
-| Kedu ihe anyanwụ na-enye anyị? | **Ìhè na okpomọkụ**, mmiri ozuzo, ájá | Gịnị bụ oge ụbọchị ị hụrụ n'anya? |
-| Ebe ole ka anyanwụ na-apụta? | **Ọwụwa anyanwụ**, ọdịda anyanwụ, ugwu | Ị na-ebili n'isi ụtụtụ? |
-| Ụbọchị ole ka dị n'afọ leap? | 365, **366**, 360 | Kọọrọ m banyere ụbọchị ọmụmụ ị na-echeta |
+| Kedu ụbọchị ezumike dị na Tọzdee nke anọ nʼọnwa Nọvemba? | Labor Day, **Thanksgiving**, Memorial Day | Kedu ihe na-adị mgbe niile nʼelu tebụl unu? |
+| A na-eme jack-o’-lanterns maka ụbọchị ezumike nke? | **Halloween**, Easter, Christmas | Gwa m maka Halloween ebe i tolitere |
+| Fourth of July na-eme ememe Nkwupụta nke... | Ikike, **Nnwere onwe**, Nnwere onwe | Ebee ka ị na-ele ọkụ mgbawa? |
+| Ụbọchị Nne dị nʼọnwa nke? | Eprel, **Mee**, Juun | Kedu ka ezinụlọ gị si eme ememe ya? |
+| Kpakpando ole dị nʼọkọlọtọ America? | 48, **50**, 52 | Ọkọlọtọ nwere kpakpando iri anọ na asatọ ruo 1959. Azịza abụọ a bụ ncheta dị mma |
+| Kedu oke osimiri dị nʼOké Osimiri East Coast? | Pacific, **Atlantic**, Arctic | Ị gara nʼakụkụ osimiri mgbe ọ bụla? |
+| Nʼobodo nke ka Statue of Liberty dị? | Boston, **New York**, Philadelphia | Ị gara New York mgbe ọ bụla? |
+| Kedu ihe aṅụ na-eme? | Mmiri ara ehi, **mmanụ aṅụ**, silk | Mmanụ aṅụ nʼelu achịcha ma ọ bụ nʼime tii? |
+| A na-akpọ nwa ehi... | Foal, **calf**, kid | Ị biri nso nʼugbo mgbe ọ bụla? |
+| Kedu okooko osisi edo edo toro ogologo a ma ama maka ịtụgharị nʼebe anyanwụ nọ? | Rose, **sunflower**, tulip | Kedu ihe tolitere nʼubi gị? |
+| Ụbọchị ole dị nʼafọ leap? | 365, **366**, 360 | Gwa m maka ụbọchị ọmụmụ ị na-echeta |
+| Kedu oge afọ na-abịa mgbe oyi gasịrị? | Ugbu a, **oge opupu ihe ubi**, oge ọkọchị | Kedu oge afọ kacha masị gị? |
 
 ## Ajụjụ banyere nri na egwuregwu
 
-| Ajụjụ | Nhọrọ | Kwurịta banyere |
+| Ajụjụ | Nhọrọ | Ihe a ga-ekwu maka ya |
 | --- | --- | --- |
-| Kedu nri e si na cassava mee, nke a na-eri na ofe, a na-akpọ ya... | **Akpụ**, ọka, ose | Ofe ole ka ị na-eri na ya? |
-| Kedu mkpụrụ osisi na-acha uhie uhie nke a na-etinye n'ofe? | **Tomato**, banana, ọka | Onye na-esi ofe n'ezinụlọ gị? |
-| Kedu mkpụrụ osisi na-acha odo odo nke a na-ehichapụ akpụkpọ ya tupu e rie ya? | **Banana**, tomato, ose | Ị na-eri ya n'isi ụtụtụ? |
-| Kedu mkpụrụ osisi buru ibu nwere mmiri n'ime ya, nke a na-eri n'oge okpomọkụ? | **Watermelon**, ji, akpụ | Ị na-eri ya mgbe ọ dị jụụ? |
-| Kedu mkpụrụ osisi a na-akpọ "orange" n'asụsụ Bekee? | **Oroma**, tomato, ji | Ị hụrụ ya n'ubi? |
-| Ndị egwuregwu ole ka dị n'otu otu bọọlụ ụkwụ n'ime ámá? | 7, **11**, 15 | Ị na-ele egwuregwu bọọlụ? |
-| Kedu egwuregwu a na-akpọ bọọlụ ụkwụ n'asụsụ Bekee? | **Football**, tennis, golf | Onye n'ezinụlọ gị na-egwu ya? |
-| Nkeji ole ka egwuregwu bọọlụ ụkwụ n'ozuzu? | 60, **90**, 120 | Otu ole ka ị na-akwado? |
-| Gịnị bụ "mgba" n'asụsụ Igbo? | **Wrestling**, ịgba ọsọ, igwu mmiri | Ị hụla mgba? |
-| Kedu aha otu bọọlụ ụkwụ obodo Naịjirịa? | **Super Eagles**, Black Stars, Indomitable Lions | Ị nụla aha ndị egwuregwu ha? |
+| Raisins bụ mkpụrụ vaịn a mịrị amị... | Plums, **mkpụrụ vaịn**, cherị | Ị na-etinye raisins nʼnri ehihie? |
+| Prunes bụ mkpụrụ... | **Plums**, figs, apụl | Onye nʼezinụlọ gị hụrụ prunes nʼanya? |
+| Mmanụ ahụekere na... | **Jelly**, chiiz, ham | Nke siri ike ka ọ bụ nke dị nro? |
+| A na-eji ihe karịrị eme guacamole... | Peas, **avokado**, kukumba | Kedu ihe a na-etinye nʼoriri na mmemme? |
+| Kedu pai bụ onye a ma ama na Thanksgiving? | **Ugu**, lemon, cherị | Kedu pai ị na-eme? |
+| Ndị egwuregwu ole ka otu baseball nwere nʼọgbọ egwuregwu? | 7, **9**, 11 | Kedu otu ị na-akwado? |
+| Olee strikes ole na-eme ka mmadụ pụọ na baseball? | Abụọ, **atọ**, anọ | Ị gwuuru bọọlụ mgbe ọ bụla? |
+| Babe Ruth bụ onye a ma ama nʼegwuregwu nke? | Ịkụ ọkpọ, **baseball**, golf | Ị gara egwuregwu bọọlụ? |
+| Olee oghere ole dị nʼọgbọ egwuregwu golf ọkọlọtọ? | 9, **18**, 24 | Ị gwuuru golf, ma ọ bụ mini golf, mgbe ọ bụla? |
+| Nʼegwuregwu nke ka ị na-enweta touchdown? | **Football**, hockey, basketball | Onye na-ekiri football nʼụlọ unu? |
 
-## Ekele na okwu kwa ụbọchị
+## Ilu a maara nke ọma
 
-Ịmecha okwu na-adọta asụsụ a mụrụ kemgbe, na-abịakwa n'ụzọ dị mfe. Nke a anaghị eji okwu ochie a na-ekwu (proverbs) n'ihi na anyị achọghị ịmepụta ha. Egwuregwu [Finish the saying](/games/finish-the-saying/) anyị nwere ọtụtụ ndị ọzọ n'asụsụ ndị ọzọ, a naghị enweta ya n'Igbo ugbu a.
+Imecha ilu na-adabere na asụsụ a mụtara ogologo oge gara aga ma na-abịakarị mfe. Egwuregwu anyị [Mechaa ilu ahụ](/games/finish-the-saying/) nwere ọtụtụ ndị ọzọ, nwere pịa iji gosi njedebe ọ bụla.
 
-| Okwu | Nhọrọ | Kwurịta banyere |
+| Ilu | Nhọrọ | Ihe a ga-ekwu maka ya |
 | --- | --- | --- |
-| Mgbe ị na-ahụ mmadụ, ị na-asị: ___ | **Ndewo**, Daalụ, Biko | Onye na-asị gị ndewo n'ụzọ? |
-| Mgbe mmadụ mere gị ihe ọma, ị na-asị ya: ___ | **Daalụ**, Nnọọ, Ndewo | Onye ị na-ekele ọtụtụ ugboro? |
-| Mgbe ọbịa bịarutere, a na-asị ya: ___ | **Nnọọ**, Daalụ, Ndo | Onye bịara leta gị n'oge na-adịbeghị anya? |
-| Mgbe ị na-arịọ ihe n'ụzọ dị mma, ị na-asị: ___ | **Biko**, Nnọọ, Ndewo | Onye kụziri gị ịsị ya? |
-| Mgbe mmadụ nwere nsogbu ma ọ bụ mwute, a na-asị ya: ___ | **Ndo**, Biko, Daalụ | Gịnị na-eme ka mmadụ nwee nkasi obi? |
-| ___ ka ị mere? (Ajụjụ ịjụ ahụike) | **Kedu**, Daalụ, Nnọọ | Gịnị ka ị na-azaghachi? |
-| ___ ọma (mgbe ụbọchị na-amalite) | **Ụtụtụ**, Mgbede, Ọbịa | Gịnị bụ ihe mbụ ị na-eme n'ụtụtụ? |
-| ___ ọma (mgbe anyanwụ na-ada) | **Mgbede**, Ụtụtụ, Ndewo | Gịnị bụ nri mgbede ị na-ahọrọ? |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Onye na-ekwu nke a nye gị? |
+| The early bird catches the... | Bus, **worm**, train | Ị bụ onye na-eteta nʼisi ụtụtụ? |
+| Don't count your chickens before they... | **Hatch**, sleep, sing | Ezinụlọ gị zụrụ ọkụkọ? |
+| A penny saved is a penny... | **Earned**, lost, spent | Onye bụ onye na-echekwa ego nʼezinụlọ gị? |
+| Home is where the... | Garden is, **heart is**, kitchen is | Kedu ihe na-eme ka ebe nwee mmetụta ụlọ? |
+| Better late than... | Early, **never**, sorry | Onye na-abịakarị oge? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Gwa m maka oge chioma ị nwetara |
+| Actions speak louder than... | **Words**, music, thunder | Gwa m maka onye kwuru nke ahụ |
 
-## Ajụjụ "nke a ma ọ bụ nke ahụ" na-enweghị azịza na-ezighị ezi
+## Ajụjụ nke a ka ọ bụ nke ahụ na-enweghị azịza na-ezighi ezi
 
-Ndị a dabara n'ọkwa niile, gụnyere mgbe e mesịrị, n'ihi na ọ dịghị ihe a ga-eme nke ọma. Jụọ, gee ntị, kekọrịtakwa azịza gị.
+Ndị a dabara adaba nʼọkwa ọ bụla, gụnyere ndị mechara, nʼihi na ọ nweghị ihe a ga-eme nke ọma ma ọ bụ nke na-ezighi ezi. Jụọ, gee ntị, ma kesaa azịza nke gị kwa.
 
-- Kọfị ma ọ bụ tii?
-- Ọnụ oké osimiri ma ọ bụ ugwu?
-- Nkịta ma ọ bụ nwamba?
-- Oge mmiri ozuzo ma ọ bụ oge ọkọchị?
-- Achịcha ma ọ bụ mkpụrụ osisi?
-- Ịgba egwu ma ọ bụ ilele?
-- Ụtụtụ ma ọ bụ mgbede?
-- Ọnụ ụzọ ụlọ ma ọ bụ azụ ụlọ?
-- Redio ma ọ bụ TV?
-- Akara ma ọ bụ àkwá?
-- Ifuru uhie ma ọ bụ ifuru odo odo?
-- Ụgbọ okporo ígwè ma ọ bụ ụgbọ ala?
+- Kọfị ka ọ bụ tii?
+- Osimiri ka ọ bụ ugwu?
+- Nkịta ka ọ bụ nwamba?
+- Oge ọkọchị ka ọ bụ oge oyi?
+- Pai ka ọ bụ achicha?
+- Ịgba egwu ka ọ bụ ilele?
+- Ọwụwa anyanwụ ka ọ bụ ọdịda anyanwụ?
+- Mpaghara ihu ụlọ ka ọ bụ ogige azụ?
+- Redio ka ọ bụ ndekọ?
+- Pancake ka ọ bụ àkwá?
+- Roses ka ọ bụ daisies?
+- Njem ụgbọ oloko ka ọ bụ njem ụgbọ ala?
 
-Maka ihe ndị ọzọ a ga-ekwu na foto, nwaa [Conversation cards](/games/conversation-cards/) anyị a ga-ebipụta.
+Maka ajụjụ mkparịta ụka na-eji foto, nwaa [Kaadị mkparịta ụka](/games/conversation-cards/) anyị nwere ike ibipụta.
 
-## Kedu ka esi eme oge ajụjụ n'ụlọ nlekọta ma ọ bụ n'otu?
+## Kedu ka ị ga-esi eduzi oge ajụjụ nʼụlọ nlekọta ma ọ bụ nʼotu?
 
-1. **Mee ka ndị mmadụ nọdụ ebe ha nwere ike ịhụ na ịnụ.** Ihe enyemaka maka ịnụ ihe n'ntị, enyo anya n'anya ha, TV gbanyụrụ.
-2. **Kwuo ya dị ka mkparịta ụka.** "Enwere m ajụjụ ole na ole banyere ụbọchị ochie, ana m ekwenye na ị maara karịa m."
-3. **Gụọ ajụjụ ọ bụla ugboro abụọ ma gosi nhọrọ ndị ahụ n'ụdị buru ibu.**
-4. **Nabata azịza site n'ebe ọ bụla n'ime ụlọ ahụ.** Megharịa azịza ndị dị mma ka onye ọ bụla nụ.
-5. **Kwuo azịza ahụ maka onye ọ bụla,** wee jụọ isiokwu mkparịta ụka ahụ n'ụlọ ahụ.
-6. **Soro ume ahụ.** Ọ bụrụ na otu ajụjụ malite nkeji iri nke akụkọ, hapụ ya.
-7. **Kwụsị site n'abụ ma ọ bụ nke a ma ọ bụ nke ahụ,** ka onye ọ bụla mechaa n'ihe dị mfe.
+1. **Mee ka ndị mmadụ nọdụ ebe ha ga-ahụ ma nụ ihe.** Ngwa inyeaka ịnụ ihe dị nʼọnọdụ, enyo anya dị, TV gbanyụọ.
+2. **Kọwaa ya dịka mkparịta ụka.** “Enwere m ajụjụ ụfọdụ banyere oge ochie, echere m na unu maara karịa m.”
+3. **Gụọ ajụjụ ọ bụla ugboro abụọ ma gosi nhọrọ nke ukwuu.**
+4. **Nabata azịza site nʼebe ọ bụla nʼime ụlọ.** Kwughachi azịza dị mma ka onye ọ bụla nụ.
+5. **Kwuo azịza maka onye ọ bụla,** mgbe ahụ jụọ isiokwu mkparịta ụka nye ụlọ ahụ.
+6. **Soro ike nke otu ahụ.** Ọ bụrụ na otu ajụjụ malite akụkọ nkeji iri, hapụ ya.
+7. **Mechie ya na egwu ma ọ bụ ajụjụ nke a ka ọ bụ nke ahụ,** ka onye ọ bụla mechie nʼihe dị mfe.
 
-Maka usoro otu ndị ọzọ, gụnyere bingo foto na ịbụkọ abụ ọnụ, lee [ọrụ otu maka ụlọ nlekọta](/activities/care-home-groups/).
+Maka ụdị otu ndị ọzọ, gụnyere picture bingo na ịbụ abụ ọnụ, lee [ihe omume otu maka ụlọ nlekọta](/activities/care-home-groups/).
 
-## Mgbe a ga-agbanwe atụmatụ
+## Mgbe ị ga-agbanwe atụmatụ
 
-Ọ bụrụ na onye dị ka onye nwere nchegbu, na-agbachi nkịtị ma ọ bụ na-asị "Amaghị m" ihe karịrị otu ugboro, mee ya ka ọ dị mfe karị: laghachi na nhọrọ abụọ, zaa ọnụ, ma ọ bụ gbanwee gaa n'ajụjụ nke a ma ọ bụ nke ahụ. Ọ bụrụ na ndị otu ahụ ga-ahọrọ ikwu banyere otu ajụjụ n'ehihie niile, nke ahụ bụ ihe ịga nke ọma. Ebumnuche abụghị azịza ziri ezi. Ọ bụ oge e nọkọrọ n'ime ezigbo ndị mmadụ.
+Ọ bụrụ na onye ọ bụla yie ka ọ na-echegbu onwe ya, mechie ọnụ ma ọ bụ kwuo “Amaghị m” karịa otu ugboro, mee ka ọ dị mfe karị: belata gaa na nhọrọ abụọ, zaa ọnụ, ma ọ bụ gbanwee gaa na ajụjụ nke a ka ọ bụ nke ahụ. Ọ bụrụ na otu ahụ ga-ahọrọ ikwu banyere otu ajụjụ ogologo oge ehihie niile, nke ahụ bụ ihe ịga nke ọma. Ebumnuche abụghị azịza ziri ezi. Ọ bụ oge a nọrọ na ezigbo mmekọrịta.

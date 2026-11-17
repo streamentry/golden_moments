@@ -1,36 +1,37 @@
 ---
-title: "Nalika Jalma kalayan Demensia Terus Menta Muleh"
-seoTitle: "Demensia Terus Menta Muleh: Naon anu Kedah Dicarioskeun"
-description: "Naha jalma kalayan demensia menta muleh sanajan geus di imah, naon anu kedah dicarioskeun, kagiatan nenangkeun, sarta cara ngajaga kaamanan upami anjeunna kaluar."
+title: "Lamun Jalma anu Hirup jeung Déménsia Terus Hayang Balik ka Imah"
+seoTitle: "Déménsia Terus Hayang Balik ka Imah: Naon anu Kudu Diomongkeun"
+description: "Naha jalma anu hirup jeung déménsia hayang balik ka imah sanajan geus di imah, naon anu kudu diomongkeun, kagiatan pikeun nenangkeun, sarta kumaha ngajaga kasalametanana."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Nalika jalma kalayan demensia terus menta muleh, “imah” mindeng hartosna
-  rasa aman atanapi tempat ti jaman baheula, lain wangunan. Ulah ngadebat yén
-  anjeunna geus di imah. Ngartos rasana, yakinkeun yén anjeunna aman, tanyakeun
-  ngeunaan imahna, tuluy lalaunan ajak ningali poto, ngadéngékeun musik, ngemil,
-  leumpang atanapi ngalakukeun pagawéan basajan. Pariksa lapar, haus, kamar
-  cai atanapi nyeri. Upami ieu ngawitan ngadadak, telepon dokterna.
+  Lamun batur anu hirup jeung déménsia terus hayang balik ka imah, "imah"
+  mindeng hartina rasa aman atawa tempat ti baheula, lain wangunanana. Ulah
+  ngadebat yén maranéhna geus aya di imah. Akuan parasaanana, yakinkeun yén
+  maranéhna aman, tanyakeun ngeunaan imah, tuluy lalaunan pindah ka poto, musik,
+  tuangeun ringan, jalan-jalan, atawa tugas anu basajan. Pariksa naha maranéhna
+  lapar, haus, kudu ka jamban, atawa nyeri. Lamun ieu mimiti ngadadak, telepon
+  dokter maranéhna.
 keyPoints:
-  - "“Abdi hoyong muleh” mindeng hartosna “abdi teu ngarasa aman atanapi tenang,” lain pamenta alamat."
-  - "Ngadebat atanapi ngabuktikeun yén anjeunna geus di imah biasana ngajantenkeun kasusahna langkung parah. Wangsulan rasana, lain kecapna."
-  - "Ajak anjeunna nyaritakeun imahna, tuluy tawarkeun poto, musik, cemilan, leumpang atanapi pagawéan basajan."
-  - "Pariksa hal anu tiasa dibenerkeun: lapar, haus, kamar cai, nyeri, teuing haneut atanapi tiis, ribut, capé."
-  - "Upami ieu kajadian unggal soré, panginten éta sundowning (gelisah soré); rutinitas anu tetep sareng cahaya anu hadé tiasa ngabantosan."
-  - "Rarancang kaamanan upami anjeunna nyobian kaluar, sarta telepon dokterna ngeunaan parobahan ngadadak naon waé."
+  - "“Abdi hoyong ka imah” mindeng hartina “Abdi teu ngarasa aman atawa tenang,” lain pamenta pikeun alamat."
+  - "Ngadebat atawa ngabuktikeun yén maranéhna geus di imah biasana ngajadikeun maranéhna beuki guligah. Tanggepan kana parasaanana leuwih hadé."
+  - "Tanyakeun sangkan maranéhna nyaritakeun ngeunaan imah, tuluy tawarkeun ningali poto, ngadangukeun musik, tuangeun ringan, jalan-jalan, atawa tugas anu basajan."
+  - "Pariksa hal anu bisa dibenerkeun: lapar, haus, kudu ka jamban, nyeri, panas teuing atawa tiis teuing, ribut, atawa capé."
+  - "Lamun ieu kajadian unggal soré, bisa jadi éta sundowning; rutinitas anu ajeg jeung cahaya anu hadé bisa mantuan."
+  - "Rencanakeun kasalametan lamun maranéhna nyobaan indit, sarta telepon dokter maranéhna lamun aya parobahan anu ngadadak."
 faq:
-  - q: "Naha ibu abdi anu kalayan demensia terus menta muleh sanajan geus di imah?"
-    a: "Demensia tiasa ngajantenkeun rohangan anu geus dikenal karasa aneh, sarta jalma kadang karasa aranjeunna aya dina mangsa baheula kahirupan. “Imah” tiasa hartosna imah budak leutik atanapi ukur rasa aman sareng nyaman. Ngawalon rasa éta biasana langkung hasil tibatan nunjukkeun di mana anjeunna aya."
-  - q: "Naon anu kedah dicarioskeun nalika anjeunna menta muleh?"
-    a: "Cobian “Bapak/Ibu aman di dieu, sarta abdi tetep sareng Bapak/Ibu,” tuluy “Carioskeun ngeunaan imah Bapak/Ibu.” Ngadéngékeun, bagikeun poto atanapi lagu, sarta tawarkeun inuman atanapi leumpang pondok. Hindari “Bapak/Ibu geus di imah” anu diucapkeun salaku koréksi, anu tiasa karasa kawas dicarioskeun yén anjeunna lepat."
-  - q: "Naha teu nanaon nyarios yén urang bakal muleh engké?"
-    a: "Kulawarga sareng organisasi demensia béda pamadegan ngeunaan ieu. Seueur anu ngawitan ku panglipur anu jujur sareng ngaralihkeun perhatian, sarta ngagunakeun ucapan anu teu saleresna anu lemah-lembut ngan dina waktos nalika kaleresan ukur bakal nyababkeun kasusah anu teu tiasa dilangkungan ku jalma éta. Naon waé anu anjeun pilih, kedah hadé sareng konsisten, sarta ulah pernah ngolok-olok kanyataan anjeunna."
-  - q: "Kumaha upami anjeunna nyobian kaluar ti imah?"
-    a: "Tetep tenang sarta leumpang sareng anjeunna tibatan ngahalangan; leumpang pondok mindeng nenangkeun kahayang éta. Siapkeun léngkah kaamanan sateuacanna, sapertos gelang idéntitas, loncéng panto sareng poto anu anyar. Upami anjeunna leungit, mimitian milarian langsung, sarta telepon nomer darurat di wewengkon anjeun upami teu kapanggih dina 15 menit, bari nyarios yén jalma éta gaduh demensia."
-  - q: "Iraha kedah nelepon dokter?"
-    a: "Telepon dokterna gancang upami anjeunna menta muleh atanapi kabingungan ngawitan ngadadak atanapi jadi langkung parah pisan dina sababaraha jam atanapi poé, utamana kalayan muriang, ubar anyar atanapi tanda inféksi saluran kemih. Kabingungan ngadadak tiasa jadi delirium, anu peryogi perawatan ngadesek. Telepon nomer darurat di wewengkon anjeun upami aya anu dina bahaya."
+  - q: "Naha indung abdi anu hirup jeung déménsia terus naros hoyong ka imah padahal anjeunna tos di bumi?"
+    a: "Déménsia bisa ngajadikeun rohangan anu geus akrab karasaeun anéh, sarta kadang jalma ngarasa keur aya dina mangsa baheula dina hirupna. “Imah” bisa hartina imah waktu leutik atawa ngan saukur rasa aman jeung tengtrem. Nanggepan parasaan éta biasana leuwih hadé tibatan nunjukkeun dimana anjeunna ayeuna."
+  - q: "Naon anu kedah diomongkeun nalika anjeunna naros hoyong ka imah?"
+    a: "Cobian omong “Anjeun aman di dieu, sareng abdi sasarengan sareng Anjeun,” teras “Carioskeun ka abdi ngeunaan bumi Anjeun.” Dangukeun, bagikeun poto atawa lagu, sarta tawarkeun inuman atawa jalan-jalan sakeudeung. Hindarkeun ucapan “Anjeun tos di bumi” anu ditegeskeun pikeun ngabenerkeun, sabab bisa karasaeun siga nyebut anjeunna salah."
+  - q: "Naha teu sawios-wios upami urang nyarios yén urang badé ka imah engké?"
+    a: "Kulawarga jeung organisasi déménsia boga pamadegan anu béda ngeunaan ieu. Loba anu ngamimitian ku katenangan jeung alihan anu jujur, sarta ngan saukur nyarios hal anu teu sagemblengna bener dina kaayaan nalika kabeneran bakal ngan ukur nyababkeun kasedih anu henteu tiasa diatasi ku éta jalma. Naon waé anu Anjeun pilih, tetep bageur jeung konsisten, sarta ulah ngahina cara anjeunna ngararasakeun kanyataan."
+  - q: "Kumaha upami anjeunna nyobian kaluar ti bumi?"
+    a: "Tetep tenang sareng leumpang sasarengan anjeunna tinimbang ngahalangan; jalan-jalan sakeudeung sering tiasa nenangkeun kahayang éta. Siapkeun léngkah kasalametan ti saméméhna, sapertos gelang idéntitas, bel panto, jeung poto panganyarna. Lamun éta jalma leungit, pariksa tempat-tempat anu aman di sakurilingna bari langsung ngahubungi pulisi lokal atawa layanan darurat. Ulah ngantosan sababaraha menit anu tangtu sateuacan ngalaporkeun."
+  - q: "Iraha abdi kedah nelepon ka dokter?"
+    a: "Geura telepon dokter maranéhna lamun patarosan atawa kabingungan éta mimiti ngadadak atawa jadi leuwih parna dina sababaraha jam atawa sababaraha poé, utamana lamun dibarengan muriang, ubar anyar, atawa tanda inféksi saluran kemih. Kabingungan anu ngadadak bisa jadi delirium, anu merlukeun perawatan gancang. Telepon 911 lamun aya anu dina kaayaan bahaya."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-“Abdi hoyong muleh.” Kanggo seueur kulawarga ieu salah sahiji hal anu paling hésé pikeun didéngé, utamana nalika jalma anu anjeun rawat nuju calik di rohangan tamu na sorangan. Éta umum, tiasa kajadian dina tahap demensia naon waé, sarta aya cara anu tenang tur praktis pikeun ngawalonna. Kaca ieu ngabahas naon anu mindeng dihartikeun ku kecap éta, naon anu kedah dicarioskeun, kagiatan anu tiasa ngabantosan dina waktos éta, sarta cara tetep aman.
+“Abdi hoyong ka imah.” Pikeun loba kulawarga, ieu mangrupikeun salah sahiji hal anu paling sesah didangu, utamana lamun jalma anu ku Anjeun rawat keur calik di ruang tamu imahna sorangan. Ieu hal anu umum, bisa kajadian dina tahap déménsia naon waé, sarta aya cara anu tenang jeung praktis pikeun nanggepanana. Kaca ieu ngajelaskeun naon anu mindeng dimaksud ku kecap-kecap éta, naon anu kudu diomongkeun, kagiatan anu bisa mantuan dina mangsa éta, sarta kumaha tetep aman.
 
-## Naha jalma kalayan demensia terus menta muleh?
+## Naha jalma anu hirup jeung déménsia terus naros hoyong ka imah?
 
-Biasana, “imah” téh langkung rasa tibatan tempat. Alzheimer's Society ngajelaskeunana salaku rasa kanyamanan sareng kaamanan, atanapi imah ti jaman baheula, lain imah sorangan. Demensia tiasa ngajantenkeun rohangan anu geus dikenal katingali aneh, sarta hiji jalma tiasa ngarasa anjeunna cicing dina mangsa baheula kahirupan, nalika imah mangrupa imah budak leutik atanapi tempat anjeunna ngagedékeun anak-anakna.
+Biasana, “imah” téh leuwih mangrupa rasa tibatan tempat. Alzheimer’s Society ngajelaskeun ieu salaku rasa tengtrem jeung aman, atawa imah ti baheula, lain wangunan imahna sorangan. Déménsia bisa ngajadikeun rohangan anu geus akrab karasaeun anéh, sarta jalma bisa ngarasa keur hirup dina mangsa baheula, nalika imah téh imah waktu leutik atawa tempat maranéhna ngagedékeun anak-anakna.
 
-Kecap éta ogé tiasa jadi tanda yén aya hal sanés anu lepat ayeuna: anjeunna lapar, haus, peryogi kamar cai, nyeri, teuing haneut atanapi tiis, capé, sepi, sieun, atanapi kabébanan ku sora ribut. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ngadaptarkeun nyeri, ribut, kasepian, parobahan rutinitas sareng ubar di antara panyabab gelisah.
+Kecap-kecap éta ogé bisa jadi tanda yén aya hal séjén anu teu nyaman ayeuna: maranéhna lapar, haus, kudu ka jamban, nyeri, panas teuing atawa tiis teuing, capé, kasepian, sieun, atawa kakeueum ku sora ribut. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) nyebatkeun nyeri, sora ribut, kasepian, parobahan rutinitas, jeung ubar salaku sababaraha panyabab kaguligahan.
 
-## Naon anu kedah dicarioskeun nalika anjeunna menta muleh?
+## Naon anu kedah diomongkeun nalika maranéhna naros hoyong ka imah?
 
-Wangsulan rasana, lain kecapna. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nyarankeun ulah nyobian ngayakinkeun jalma yén anjeunna lepat: rasana nyata, janten wangsulan heula ku panglipur sareng ngayakinkeun, tuluy lalaunan alihkeun.
+Tanggepan kana parasaanana, lain kana kecap-kecapna. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nyarankeun ulah nyobaan ngayakinkeun yén éta jalma salah: parasaan maranéhna nyata, jadi jawaban heula ku katenangan jeung kayakinan, tuluy lalaunan alihkeun perhatian.
 
-Kalimat anu mindeng ngabantosan:
+Kalimah anu mindeng mantuan:
 
-- **Sebutkeun rasana.** “Sigana Bapak/Ibu kangen ka imah.”
-- **Yakinkeun.** “Bapak/Ibu aman di dieu, sarta abdi tetep sareng Bapak/Ibu.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) nyarankeun kecap basajan “Bapak/Ibu aman di dieu.”
-- **Ajak ngenang.** “Carioskeun ngeunaan imah Bapak/Ibu. Kumaha dapur Bapak/Ibu?” Naroskeun ngeunaan jaman baheula biasana langkung nyaman tibatan patarosan ngeunaan ayeuna.
-- **Tawarkeun hiji hal babarengan.** “Hayu urang nginum teh heula,” atanapi “Tiasa ngabantosan abdi ku anduk ieu?”
+- **Sebatkeun parasaanana.** “Karasaeun Anjeun hoyong pisan ka bumi.”
+- **Yakinkeun.** “Anjeun aman di dieu, sareng abdi sasarengan sareng Anjeun.” [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) nyarankeun kalimah basajan “Anjeun aman di dieu.”
+- **Ajak nginget-nginget.** “Carioskeun ka abdi ngeunaan bumi Anjeun. Dapur di bumi kumaha?” Nanyakeun ngeunaan mangsa baheula biasana leuwih merenah tibatan patarosan ngeunaan ayeuna.
+- **Tawarkeun hal anu bisa dilakukeun babarengan.** “Hayu urang nginum téh heula,” atawa “Dupi Anjeun tiasa ngabantosan abdi ngalipet anduk ieu?”
 
-Nada anu haneut sareng leungeun dina lengen, upami anjeunna resep disentuh, tiasa nyarios langkung seueur tibatan kecap.
+Nada sora anu haneut jeung némpélkeun leungeun kana panangan, lamun maranéhna resep dirampa, bisa leuwih ngaruh tibatan kecap-kecap.
 
 ## Naon anu kedah dihindari?
 
-- **Ngadebat atanapi nerangkeun.** “Ayeuna Bapak/Ibu cicing di dieu” atanapi “Ieu geus imah Bapak/Ibu salami 40 taun” menta anjeunna narima hal anu hésé ditarima ku demensia, sarta tiasa karasa kawas dicarioskeun yén anjeunna lepat.
-- **Naroskeun kuis.** “Teu émut?” atanapi “Naon alamatna?” nambihan tekenan.
-- **Ngahalangan panto bari ambek.** Upami anjeunna angkat ka luar, tetep tenang sarta leumpang sareng anjeunna. Leumpang pondok babarengan mindeng nenangkeun kahayang éta.
-- **Buru-buru.** Béré anjeunna waktos pikeun nyarios ngeunaan imah sateuacan anjeun ngarobah topik.
+- **Ngadebat atawa ngajelaskeun.** “Anjeun cicing di dieu ayeuna” atawa “Ieu bumi Anjeun geus opat puluh taun” ngajak maranéhna narima hal anu hésé ditarima ku sabab déménsia, sarta bisa karasaeun siga nyebut maranéhna salah.
+- **Nguji-nguji.** “Naha Anjeun teu émut?” atawa “Alamatna dimana?” nambahan tekanan.
+- **Ngahalangan panto bari ambek.** Lamun maranéhna rék kaluar, tetep tenang sareng leumpang sasarengan maranéhna. Jalan-jalan sakeudeung babarengan mindeng bisa nenangkeun kahayang éta.
+- **Gancang-gancang.** Bere waktu pikeun maranéhna nyaritakeun ngeunaan imah saméméh Anjeun ngaganti topik.
 
-## Kagiatan anu tiasa ngabantosan dina waktos éta
+## Kagiatan anu bisa mantuan dina mangsa éta
 
-Sanggeus anjeun ngartos rasana, kagiatan anu tenang sarta geus dikenal tiasa ngalihkeun perhatian tanpa nolak rasana.
+Saatos Anjeun ngakuan parasaanana, kagiatan anu tenang jeung akrab bisa ngalihkeun perhatian tanpa ngaleungitkeun parasaan éta.
 
-1. **Tingali poto imah sareng kulawarga.** Bukakeun kaca-kacana sarta méré komentar (“Tingali kebon éta”) tibatan naroskeun. Dina telepon atanapi tablét, [Pasangan poto](/games/photo-pairs/) ngarobah poto kulawarga anjeun sorangan jadi kaulinan nyocogkeun anu lemah-lembut, sarta poto tetep di alat anjeun.
-2. **Ngobrol ngeunaan imah.** [Kartu obrolan](/games/conversation-cards/) nawiskeun ajakan kabuka ngeunaan imah, dapur, tatangga sareng poé raya, tanpa wangsulan anu bener.
-3. **Puter musik anu dipikacinta.** National Institute on Aging ngadaptarkeun musik anu nenangkeun di antara cara pikeun nenangkeun gelisah. Tingali [kagiatan musik](/activities/music/) kami.
-4. **Ngemil atanapi nginum.** Lapar sareng haus tiasa katingali kawas gelisah. Sacangkir teh atanapi kadaharan karesep ogé ritual leutik pikeun ngarasa di imah.
-5. **Leumpang atanapi calik di luar.** Gerak sareng cahaya beurang ngabantosan, utamana langkung awal dina dinten.
-6. **Béré pagawéan anu geus dikenal.** Ngalipet cucian, nyortir sendok garpu atanapi nyiram tutuwuhan tiasa mawa deui rasa ngurus imah.
-7. **Laun-launkeun sadayana.** Pareuman TV, ngirangan ribut sareng silau, sarta cobian eureun sakedap babarengan pikeun [napas tenang](/games/calm-breathing/).
+1. **Tingali poto imah jeung kulawarga.** Balik-balikkeun kaca poto sarta méré komentar (“Tingali éta kebon”) tinimbang nanyakeun patarosan. Dina telepon atawa tablet, [Photo pairs](/games/photo-pairs/) ngarobah poto kulawarga Anjeun sorangan jadi kaulinan cocogkeun anu lembut, sarta poto-poto éta tetep aya dina alat Anjeun.
+2. **Ngobrol ngeunaan imah.** [Conversation cards](/games/conversation-cards/) nawarkeun pancingan ngobrol anu kabuka ngeunaan imah, dapur, tatangga, jeung poé riung, tanpa jawaban anu bener atawa salah.
+3. **Putarkeun musik anu dipikaresep.** National Institute on Aging nyebatkeun musik anu nenangkeun salaku salah sahiji cara pikeun ngurangan kaguligahan. Tingali [kagiatan musik](/activities/music/) urang.
+4. **Tuang tuangeun ringan atawa nginum.** Rasa lapar jeung haus bisa katingali siga gelisah. Sacangkir téh atawa tuangeun karesep ogé bisa jadi ritual leutik anu karasaeun siga di imah.
+5. **Jalan-jalan atawa calik di luar.** Gerak jeung cahaya panonpoé mantuan, utamana dina awal poé.
+6. **Bere tugas anu geus akrab.** Ngalipet cucian, nyortir sendok garpu, atawa nyiram tutuwuhan bisa mulangkeun rasa keur ngurus imah sorangan.
+7. **Lambatkeun sagalana.** Pareuman tipi, kurangan sora ribut jeung cahaya anu nyegrék, sarta cobian jeda [calm breathing](/games/calm-breathing/) babarengan.
 
-Upami hiji gagasan teu hasil, cobian anu sanés engké. Calik tenang babarengan ogé hasil anu hadé.
+Lamun hiji cara teu hasil, cobian cara séjén engké. Calik babarengan dina katenangan ogé hasil anu hadé.
 
-## Pariksa panyabab anu tiasa dibenerkeun
+## Pariksa sabab anu tiasa dibenerkeun
 
-| Pariksa | Naon anu kedah dicobian |
+| Pariksa | Naon anu tiasa dicobian |
 | --- | --- |
-| Lapar atanapi haus | Tawarkeun inuman sareng cemilan leutik |
-| Peryogi kamar cai | Tawarkeun ka kamar cai, kalayan tenang sarta teu rusuh |
-| Nyeri atanapi teu nyaman | Pilari tanda sapertos ngerutkeun beungeut, nyekel bagian awak atanapi sembelit, sarta béjaan dokterna |
-| Teuing haneut atanapi teuing tiis | Saluyukeun lapisan pakéan atanapi suhu rohangan |
-| Ribut atanapi rame | Pindah ka rohangan anu langkung tenang, pareuman TV |
-| Capé atanapi kaleulangkungan rangsangan | Istirahat, redupkeun rohangan, puter musik lemes |
-| Soré | Tingali bagian sundowning di handap |
+| Lapar atawa haus | Tawarkeun inuman jeung tuangeun ringan |
+| Kudu ka jamban | Tawarkeun pikeun ka jamban, kalayan tenang jeung tanpa ribut |
+| Nyeri atawa teu nyaman | Perhatikeun tanda sapertos nyeri beungeut, nyekel bagian awak, atawa kabebeng, teras wartosan ka dokter maranéhna |
+| Panas teuing atawa tiis teuing | Saluyukeun lapisan papakéan atawa suhu rohangan |
+| Ribut atawa rame teuing | Pindah ka rohangan anu leuwih sepi, pareuman tipi |
+| Capé atawa kakeueum teuing | Istirahat, redupkeun lampu, putarkeun musik anu lemes |
+| Soré | Tingali bagian ngeunaan sundowning di handap |
 
-Alzheimer's Society nyarankeun nyieun catetan pondok iraha menta muleh kajadian, sapertos sateuacan dahar, sanggeus tamu, atanapi nalika surup. Pola ngajantenkeun langkung gampang pikeun ngarencanakeun.
+Alzheimer’s Society nyarankeun nyieun catetan pondok ngeunaan iraha patarosan ieu muncul, sapertos saméméh tuang, saatos aya sémah, atawa nalika sareupna. Pola-pola ieu bisa ngabantosan rencana ka hareup.
 
-## Naha teu nanaon nyarios bohong leutik?
+## Naha teu sawios-wios upami nyarios bohong leutik?
 
-Ieu debat anu nyata, sarta kulawarga anu hadé mendakan jawaban anu béda. Alzheimer's Society nyarios teu aya hiji wangsulan anu bener: ucapan anu teu saleresna tiasa ngajantenkeun sawaréh jalma langkung curiga, janten mutuskeun naon anu pangsaéna kanggo jalma éta sarta tetep konsisten. Di Penn Memory Center, pandangan ko-diréktur nyaéta yén kaleresan téh anu baku sarta ucapan anu teu saleresna anu lemah-lembut ngan ditarima nalika jalma éta teu tiasa ngolah hiji kaleresan anu tangtu, sarta anjeun henteu kedah ngolok-olok kanyataanana.
+Ieu perdebatan anu nyata, sarta kulawarga anu bageur bisa boga pamadegan anu béda. Alzheimer’s Society nyebutkeun teu aya jawaban anu tunggal: hal anu teu jujur bisa ngajadikeun sababaraha jalma leuwih curiga, jadi tangtukeun naon anu paling hadé pikeun éta jalma sarta tetep konsisten. Di Penn Memory Center, pamadegan ko-direktur na nyaéta yén kajujuran téh pilihan utama, sarta bohong leutik anu lembut bisa ditarima ngan lamun éta jalma teu tiasa ngolah hiji kabeneran tangtu, sarta Anjeun ulah pernah ngahina cara maranéhna ngararasakeun kanyataan.
 
-Seueur anu ngarawat mendakan jalan tengah hasil: panglipur anu jujur sareng ngaralihkeun heula (“Urang tetep di dieu wengi ayeuna, sarta abdi aya di gigireun Bapak/Ibu”), tanpa ngadebat ngeunaan di mana imah.
+Loba anu ngurus manggihan jalan tengah anu hadé: katenangan anu jujur jeung alihan perhatian heula (“Urang cicing di dieu peuting ieu, sareng abdi aya di dieu sareng Anjeun”), tanpa ngadebat dimana imahna.
 
-## Kumaha upami kajadian unggal soré atanapi wengi?
+## Kumaha upami ieu kajadian unggal soré atawa pasosoré?
 
-Gelisah anu ngawitan atanapi langkung parah dina soré mindeng disebat sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) nyarankeun jadwal anu tetep, cahaya panonpoé sareng kagiatan unggal dinten, kirang saré soré, sarta teu aya kafein atanapi alkohol telat dina dinten. Nyaangan lampu sateuacan surup ogé tiasa ngabantosan. Pituduh kami ngeunaan [kagiatan tenang soré](/caregiving/late-day-restlessness/) gaduh langkung seueur.
+Gelisah anu mimiti atawa beuki parna dina soré mindeng disebut sundowning. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) nyarankeun jadwal anu ajeg, cahaya panonpoé jeung kagiatan sapopoé, ngurangan bobo siang anu telat, sarta ulah nginum kafein atawa alkohol telat dina poé éta. Ngahurungkeun lampu saméméh poék ogé bisa mantuan. Pituduh urang ngeunaan [kagiatan soré anu tenang](/caregiving/late-day-restlessness/) ngagaduhan inpormasi langkung seueur.
 
-## Ngajaga anjeunna aman upami anjeunna nyobian kaluar
+## Ngajaga kasalametan lamun maranéhna nyobaan indit
 
-Menta muleh tiasa ngarah ka kaluar tanpa tujuan (wandering). [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ngira-ngira yén genep tina sapuluh jalma anu hirup kalayan demensia bakal kaluar tanpa tujuan sahenteuna sakali.
+Hayang balik ka imah bisa ngakibatkeun wandering (leumpang tanpa tujuan jeung bisa nyasar). [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ngira-ngira yén genep tina sapuluh jalma anu hirup jeung déménsia bakal ngalaman wandering sahenteuna sakali.
 
-**Siapkeun sateuacanna:**
+**Siapkeun ti saméméhna:**
 
-- Gelang idéntitas atanapi médis kalayan ngaranna sareng nomer telepon anjeun, sarta labél dina pakéanna. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) nyebatkeun MedicAlert and Alzheimer's Association Safe and Found, program di Amérika Sarikat anu panginten mayar.
-- Loncéng atanapi alarm panto, sarta konci anu dipasang luhur atanapi handap. Ulah pernah ngonci jalma éta sorangan di jero.
-- Poto caket anu anyar, sarta daptar tempat anu bisa didatangan, sapertos urut imah atanapi tempat gawé.
-- Béjaan tatangga anu dipercaya, sarta béré nomer anjeun.
+- Gelang idéntitas atawa médis anu aya nami maranéhna jeung nomer telepon Anjeun, sarta labél dina papakéan maranéhna. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) nyebatkeun program MedicAlert and Alzheimer’s Association Safe and Found, anu bisa waé merlukeun biaya.
+- Bel atawa alarm panto, sarta konci anu dipasang luhur atawa handap. Ulah pernah ngonci éta jalma di jero nyalira.
+- Poto wajah anu jelas jeung anyar, sarta daptar tempat anu mungkin didatangan maranéhna, sapertos imah atawa tempat gawé baheula.
+- Béjakeun ka tatangga anu dipercaya, sarta bere nomer telepon Anjeun.
 
-**Upami anjeunna leungit:** mimitian milarian langsung; Alzheimer's Association nyatet seueur jalma kapanggih dina jarak 1.5 mil. Upami anjeun teu mendakan anjeunna dina 15 menit, telepon nomer darurat di wewengkon anjeun sarta béjaan yén jalma éta gaduh demensia. Telepon nomer darurat langsung upami aya anu dina bahaya.
+**Lamun maranéhna leungit:** pariksa tempat-tempat anu aman di sakurilingna bari langsung ngahubungi pulisi lokal atawa layanan darurat. Ulah ngantosan sababaraha menit anu tangtu sateuacan ngalaporkeun. [Artikel jurnal U.S. Department of Justice taun dua rébu dua puluh hiji ngeunaan panalungtikan jalma leungit](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) nyebutkeun yén lembaga penegak hukum henteu kedah meryogikeun waktos ngantosan anu tangtu; éta ogé nyebatkeun gejala anu mirip déménsia salaku perhatian résiko anu luhur. Prosedur ngalaporkeun di unggal daérah bisa béda. Béjakeun ka anu ngabantosan yén éta jalma hirup jeung déménsia, bagikeun lokasi terakhir anu dipikanyaho jeung poto panganyarna, sarta tuturkeun pituduh maranéhna. Lamun aya batur séjén anu bisa mantuan, penta anjeunna tetep caket telepon. Ulah milarian di tempat anu teu aman nyalira.
 
-## Iraha kedah nelepon dokter?
+## Iraha abdi kedah nelepon ka dokter?
 
-Telepon dokterna gancang upami menta muleh atanapi kabingungan ngawitan ngadadak, atanapi jadi langkung parah pisan dina sababaraha jam atanapi poé. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nyarios yén paripolah anu ngadadak atanapi gancang robih, utamana sanggeus inféksi atanapi parobahan ubar, kedah dipariksa langsung. Kabingungan ngadadak tiasa jadi delirium, anu cenah [NHS](https://www.nhs.uk/symptoms/confusion/) peryogi bantosan ngadesek; inféksi saluran kemih mangrupa panyabab umum dina sepuh.
+Geura telepon dokter maranéhna lamun patarosan atawa kabingungan éta mimiti ngadadak, atawa jadi leuwih parna dina sababaraha jam atawa sababaraha poé. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) nyebutkeun parobahan paripolah anu ngadadak atawa gancang robah, utamana saatos inféksi atawa parobahan ubar, kedah langsung dipariksa. Kabingungan anu ngadadak bisa jadi delirium, anu ku [NHS](https://www.nhs.uk/symptoms/confusion/) disebut merlukeun bantuan gancang; inféksi saluran kemih mangrupakeun panyabab anu umum dina jalma sepuh.
 
-Éta ogé ngabantosan pikeun nyebatkeun pola anu tetep dina janjian salajengna, sabab nyeri, suasana haté handap, masalah sare atanapi éfék samping ubar sadayana tiasa maénkeun peran.
+Éta ogé hadé pikeun nyaritakeun pola anu terus-terusan dina jadwal kontrol salajengna, sabab nyeri, parasaan sedih, masalah saré, atawa efek samping ubar sadayana bisa boga pangaruh.

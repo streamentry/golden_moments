@@ -1,33 +1,33 @@
 ---
-title: "Lorezaintza eta kanpoko jarduerak dementziarekin"
-seoTitle: "Lorezaintza eta kanpoko jarduerak dementziarekin"
-description: "Dementziarekin bizi den pertsona batentzat lorezaintzako eta kanpoko jardueren ideiak, parterre altuekin, loreontziekin eta beroaren, eguzkiaren eta noraeze ibiltzeko arriskuaren aurkako aholkuak."
+title: "Kanpoko eta lorategiko jarduerak dementia dutenentzat"
+seoTitle: "Lorategia eta kanpoko jarduerak dementiarako"
+description: "Dementia duen pertsonarentzat lorategiko eta kanpoko jarduera ideiak, ohe altuekin, loreontziekin eta beroaren, eguzkiaren eta noraeze ibiltzearen aurkako aholkuak."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Lorezaintza eta kanpoan denbora pasatzea jarduera lasai eta ezaguna izan
-  daiteke dementziarekin bizi den pertsona batentzat. Saiatu ureztatzen, belar
-  usaintsuak loreontzietan landatzen, lore lehorrak kentzen edo hesitutako
-  patioan ibilaldi labur bat egiten. Erabili parterre altuak edo mahai bat,
-  inork ez dezan belaunikatu behar; saihestu tresna zorrotzak eta landare
-  toxikoak; atera eguneko une freskoenean, eta egon beti pertsonarekin.
+  Lorategian aritzea eta kanpoan denbora pasatzea jarduera lasaia eta ezaguna
+  izan daiteke dementia duen pertsona batentzat. Saiatu landareak ureztatzen,
+  belarrak loreontzietan landatzen, loreak mozten edo hesitutako patioan paseo
+  labur bat ematen. Erabili ohe altuak edo mahai bat, inork belaunikatu behar ez
+  izateko, saihestu tresna zorrotzak eta landare toxikoak, irten eguneko une
+  freskoenean, eta egon beti pertsonarekin.
 keyPoints:
-  - "Lorategiko zeregin errazak, hala nola ureztatzea, haziak loreontzietan ereitea, belar usaintsuak usaindu eta ukitzea edo loreak biltzea, zutik edo eserita egin daitezke."
-  - "Parterre altuek, loreontziek eta estalitako mahai batek lorategia gerriaren altuerara ekartzen dute eta erorketa-arriskua murrizten lagun dezakete."
-  - "Saihestu tresna zorrotzak, arantzak edo azala narrita dezaketen landareak, eta edozer gauza pozoitsu. Kontuz lurra janaritzat har ez dezaten."
-  - "Beroa arriskutsua izan daiteke adineko pertsonentzat. Atera goiz edo arratsaldean, eraman ura eta bilatu itzala, eta sartu barrura ondoezaren lehen zantzua agertzean."
-  - "Dementziarekin bizi diren pertsona askok noizbait noraeze ibiltzeko joera dute. Egon beti pertsonarekin kanpoan, eta eduki eskura argazki berri bat eta identifikazio-agiri bat."
+  - "Lorategiko lan errazak, hala nola ureztatzea, haziak loreontzietan landatzea, belarrak usaindu eta ukitzea eta loreak biltzea, zutik edo eserita egin daitezke."
+  - "Ohe altuek, loreontziek eta estalitako mahai batek lorategia gerriaren altuerara ekartzen dute eta erorketa arriskua murrizten dute."
+  - "Saihestu tresna zorrotzak, arantzak edo narritadura eragiten duten landareak, eta pozoitsuak diren guztiak. Kontuz ibili lurra janariarekin nahas ez dezaten."
+  - "Beroa arriskutsua izan daiteke adineko pertsonentzat. Irtan goizean goiz edo arratsaldean berandu, eraman ura eta bilatu itzala, eta sartu barrura ondoezaren lehen zantzua agertzean."
+  - "Dementia duten pertsona askok noizbait noraeze ibiltzen dute. Egon beti pertsonarekin kanpoan, eta izan eskura argazki berri bat eta identifikazio-agiri bat."
 faq:
-  - q: "Zein lorezaintza-jarduera egin ditzake dementzia duen pertsona batek?"
-    a: "Landareak ureztatzea, haziak loreontzi txikietan ereitea, belar usaintsuak usaindu eta ukitzea, lore lehorrak kentzea, barazkiak biltzea, lore moztuekin apaingarriak egitea eta bide bat erratzatzea aukera onak dira. Barrualdean, leiho-hegiko belar usaintsuen loreontzi batek edo estalitako mahai gaineko lur-erretilu batek ere balio dute. Aukeratu zeregina pertsonak lehen gozatzen zuenarena eta orain eroso egin dezakeena kontuan hartuta."
-  - q: "Nola babes dezaket dementzia duen norbait beroarekin?"
-    a: "Antolatu kanpoko denbora goizeko lehen ordu freskoetan edo arratsaldean, mantendu laburra eta eskaini ura maiz. Aukeratu itzala, ertz zabaleko kapela, arropa arin eta zabala eta eguzkitako krema. Adineko pertsonak beroarekin lotutako gaixotasunak izateko arrisku handiagoa dute, eta nahasmena, zorabioa edo goragalea abisu-zantzuak izan daitezke; beraz, sartu barrura eta hoztu berehala horiek nabaritzen badituzu."
-  - q: "Nola atera gaitezke kanpora noraeze ibiltzeko joera badu?"
-    a: "Egon pertsonarekin denbora osoan, erabili hesitutako patio edo lorategi bat atea itxita, eta ziurtatu identifikazio-eskumuturrekoa daramala edo nortasun-agiria daukala. Eduki eskura argazki berri bat. Pertsona desagertzen bada, Alzheimer's Association-ek gomendatzen du 112ra deitzea 15 minuturen buruan aurkitzen ez bada."
+  - q: "Zer lorategi-jarduera egin ditzake dementia duen pertsona batek?"
+    a: "Landareak ureztatzea, haziak loreontzi txikietan landatzea, belarrak usaindu eta ukitzea, loreak moztea, barazkiak biltzea, lore moztuak prestatzea eta bide bat erratza pasatzea aukera onak dira. Barrualdean, leiho-hegiko belar-loreontzi batek edo estalitako mahai gaineko lur-erretilu batek ondo funtzionatzen dute. Aukeratu jarduera pertsonak lehenago gustuko zuenaren eta orain eroso egin dezakeenaren arabera."
+  - q: "Nola babestu dezaket dementia duen pertsona bat beroan?"
+    a: "Antolatu kanpoko denbora goizaldeko edo arratsaldeko une freskoenetarako, izan laburra, eta eskaini ura maiz. Aukeratu itzala, hegal zabaleko kapela, arropa arin eta zabala eta eguzkitako krema. Adineko pertsonek beroagatiko gaixotasunak izateko arrisku handiagoa dute, eta nahasmena, zorabioa edo goragalea abisu-zantzuak izan daitezke; beraz, sartu barrura eta hoztu berehala horiek nabaritzen badituzu."
+  - q: "Nola irten gaitezke kanpora noraeze ibiltzeko joera badu?"
+    a: "Egon pertsonarekin denbora guztian, erabili hesitutako patio edo lorategi bat atea itxita duela, eta ziurtatu identifikazio-besokoa daramala edo identifikazio-agiria berarekin duela. Izan eskura argazki berri bat. Pertsona desagertzen bada, jarri harremanetan berehala tokiko poliziarekin edo larrialdi-zerbitzuekin; ez itxaron minutu kopuru jakin bat. Esan erantzuleei pertsonak dementia duela, non ikusi zuten azkenekoz eta eman argazki berri bat."
   - q: "Zer egin lorategirik ez badugu?"
-    a: "Atari bateko loreontzi batzuk, leiho-kutxa bat edo sukaldeko mahai gaineko belar usaintsuen erretilu bat nahikoa dira. Parke bat, lorategi publiko bat edo auzo-lorategi bat bisita dezakezu ere. Kanpoan eseri eta txorien kantua entzutea ere kanpoko jarduera bat da."
+    a: "Atarian loreontzi batzuk, leiho-hegiko kutxa bat edo sukaldeko mahaian belar-erretilu bat nahikoa dira. Parke batera, lorategi publiko batera edo auzoko lorategi batera ere joan zaitezke. Kanpoan eseri eta txorien kanta entzutea ere kanpoko jarduera bat da."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -44,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -52,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-Pertsona askorentzat, lorategia ezagutzen duten leku ezagunenetako bat da. Zulatzeko, ureztatzeko eta loreak biltzeko ekintzek aspaldi ikasitako trebetasunak erabiltzen dituzte, eta kanpoan egoteak aire freskoa, eguzki-argia eta txorien kantua eskaintzen ditu. National Institute on Aging-ek landareak zaintzea, loreak eta barazkiak landatzea, eta [landareak nola hazten ari diren komentatzea](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) aipatzen ditu Alzheimerra duten pertsonek goza ditzaketen jardueren artean. Orrialde honetan zer probatu, lorategia nola erraztu eta nola babestu beroarekin, eguzkiarekin eta noraeze ibiltzeko joerarekin azaltzen da.
+Pertsona askorentzat, lorategia ezagutzen duten lekurik ezagunenetako bat da. Lurra lantzeak, ureztatzeak eta loreak biltzeak aspaldi ikasitako trebetasunak erabiltzen dituzte, eta kanpoan egoteak aire freskoa, eguzki-argia eta txorien kanta eskaintzen ditu. National Institute on Aging erakundeak landareak zaintzea, loreak eta barazkiak landatzea eta [landareak nola hazten diren komentatzea](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) aipatzen ditu Alzheimerra duten pertsonek gozatu ditzaketen jardueren artean. Orrialde honetan zer probatu, lorategia erabiltzeko errazago nola jarri eta beroarekin, eguzkiarekin eta noraeze ibiltzearekin nola seguru egon azaltzen da.
 
-## Zein kanpoko eta lorezaintzako jarduera dira egokiak?
+## Zer kanpoko eta lorategiko jarduerak funtzionatzen dute ondo?
 
-Zeregin onenak errazak eta ezagunak dira, eta zutik zein eserita egin daitezke. Aukeratu pertsonak lehen gozatzen zuenaren arabera.
+Jarduera onenak sinpleak eta ezagunak dira, eta zutik edo eserita egin daitezke. Aukeratu pertsonak lehenago gustuko zuenaren arabera.
 
 ### Lorategian
 
-1. **Ureztatzea.** Ureztaontzi txiki eta arin bat edo mahuka-pita leun bat, eta eskura dauden loreontzi batzuk. Ureztatzeak hasiera eta amaiera argiak ditu, eta zaila da gaizki egitea.
-2. **Haziak loreontzietan ereitea.** Alzheimer's Foundation of America-k iradokitzen du haziak loreontzi txikietan ereitea eta [nola hazten diren ikustea](https://alzfdn.org/dementia-activity-gardening/). Hazi handiak, hala nola babak, ekiloreak edo ilarrak, errazago maneiatzen dira.
-3. **Lore lehorrak kentzea.** Lore zimelduak eskuz kentzea zeregin leun eta errepikakorra da. Aukeratu arantzarik gabeko landareak.
-4. **Barazkiak edo belar usaintsuak biltzea.** Tomate txerriak, babak eta belar usaintsuak erraz biltzen dira eta dastatzeko atseginak dira. Eraman barrura bazkarian erabiltzeko.
-5. **Belar usaintsuak usaindu eta ukitzea.** Erromeroak, mendabeltzak eta izpilikuak usain sendo eta atseginak dituzte. Igurtzi hosto bat hatzen artean eta pasa ezazu besteari.
-6. **Bide bat edo patio bat erratzatzea.** Erratza arin batekin gainazal lau eta lehorrean, oreka egonkorra bada.
-7. **Txori-jantokia betetzea.** Gero, eseri elkarrekin eta ikusi nor datorren bisitan.
+1. **Ureztatzea.** Ureztatontzi txiki eta arin bat edo mahuka-pita leun bat eta eskura dauden loreontzi batzuk. Ureztatzeak hasiera eta amaiera argiak ditu, eta zaila da gaizki egitea.
+2. **Haziak loreontzietan landatzea.** Alzheimer's Foundation of America erakundeak haziak loreontzi txikietan landatzea eta [nola hazten diren ikustea](https://alzfdn.org/dementia-activity-gardening/) iradokitzen du. Babarrunak, ekiloreak edo ilarrak bezalako hazi handiak errazagoak dira erabiltzeko.
+3. **Lore zimelak kentzea.** Lore zimelduak eskuz kentzea lan leun eta errepikakorra da. Aukeratu arantzarik gabeko landareak.
+4. **Barazkiak edo belarrak biltzea.** Tomate txikiak, babarrunak eta belarrak erraz biltzen dira eta probatzeko gozoak dira. Eraman barrura bazkarian erabiltzeko.
+5. **Belarrak usaindu eta ukitzea.** Erromeroak, mendafinak eta izpilikuak usain sendo eta atseginak dituzte. Igurtzi hosto bat hatzen artean eta hurbildu usaintzeko.
+6. **Bide bat edo patio bat erratza pasatzea.** Erratza arin bat gainazal lau eta lehorrean, oreka egonkorra bada.
+7. **Txorientzako jantokia betetzea.** Ondoren, eseri elkarrekin eta ikusi nork bisitatzen duen.
 
-### Barrualdean, kanpora ateratzea posible ez denean
+### Barrualdean, ezin denean atera
 
-- **Leiho-hegiko belar usaintsuen lorategia**: albahaka, perrexila edo tipulina.
-- **Lorea landatzea estalitako mahai batean.** AFAk iradokitzen du kafetegi-estiloko erretiluak erabiltzea lurra leku berean mantentzeko eta lurra kopa txikiekin mugitzeko.
-- **Lore-apaingarriak egitea** lorategiko edo janari-dendako lore moztuekin eta hostoekin.
-- **Lore lehorrak prentsatzea** lore sorta batetik, gero txarteletan itsasteko. Ikusi [artea eta eskulanak](/activities/arts-and-crafts/) ideia gehiagorako.
+- **Leiho-hegiko belar-lorategi bat**, albahaka, perrexila edo tipulinarekin.
+- **Landatzea estalitako mahai batean.** AFAk kafetegiko estiloko erretiluak erabiltzea iradokitzen du lurra leku bakarrean mantentzeko eta lurra kopa txikiekin mugitzeko.
+- **Lore-konposizioak egitea**, lorategiko edo janari-dendako lore moztuekin eta hostoekin.
+- **Lore lehorrak egitea** lore-sortatik, gero txarteletan itsasteko. Ikus [artea eta eskulanak](/activities/arts-and-crafts/) ideia gehiagorako.
 - **Izpiliku- edo arrosa-zorrotxoak egitea**, AFAren beste ideia bat lorategiaren usaina barrualdean mantentzeko.
 
-### Etxetik kanpo
+### Kalera ateratzea
 
-- **Ibilaldi labur bat** auzoan, parke batean edo lorategi-denda batean, erritmo lasaian eta esertzeko leku batekin.
-- **Kanpoan esertzea** atari edo banku batean, txoriak entzuten eta haizea sentitzen. Hau berez jarduera oso bat da.
-- **Lorategi publiko bat bisitatzea** eguneko une lasai batean. NHSren arabera, toki batzuetan lorategi sentsorialak daude landare usaintsu, testura eta ur-elementuekin.
-- **Ahateei jaten ematea edo txoriak behatzea** inguruko urmael batean, ur-ertzetik distantzia segurura mantenduz.
+- **Paseo labur bat** auzoan, parke batean edo lorategi-denda batean, erritmo motelean eta esertzeko leku batekin.
+- **Kanpoan esertzea** atari edo banku batean, txoriak entzuteko eta haizea sentitzeko. Hau berez jarduera oso bat da.
+- **Lorategi publiko bat bisitatzea** eguneko une lasai batean. NHSek adierazten du toki batzuetan lorategi sentsorialak daudela, landare usaintsuekin, testurekin eta ur-elementuekin.
+- **Ahateei jaten ematea edo txoriak begiratzea** inguruko urmael batean, ur-ertzetik distantzia segurura.
 
-## Nola erraztu dezaket lorategia erabiltzea?
+## Nola egin lorategia erabiltzeko errazagoa?
 
 Ekarri lorategia pertsonarengana, ez alderantziz.
 
-- **Parterre altuak edo loreontzi garaiak**, gerriaren altueran gutxi gorabehera, belaunikatu edo makurtu beharrik ez izateko.
-- **Mahai gaineko loreontziak** gurpil-aulkia erabiltzen duten edo eseri nahiago duten pertsonentzat.
-- **Bide zabal eta lauak**, harri solterik edo mahukarik gabe, estropezu-arriskua murrizteko.
-- **Beso-euskarriak eta itzala dituzten eserlekuak** bidean zehar, atseden hartzea beti aukera izan dadin.
-- **Kirten lodi eta leunak dituzten tresnak**, erraz heltzeko. Baztertu inauskaiak, labanak eta tresna zorrotzak.
-- **Hesitutako eremu bat, atea itxita**, pertsonak askatasunez arakatu dezan zu inguruan zauden bitartean.
+- **Ohe altuak edo loreontzi garaiak**, gerriaren altueran gutxi gorabehera, belaunikatu edo makurtu behar ez izateko.
+- **Loreontziak mahai gainean** ondo doaz gurpil-aulkia erabiltzen duten edo eserita egotea nahiago duten pertsonentzat.
+- **Bide zabal eta lauak**, harri solte edo etzanda dauden mahukarik gabe, estropezu arriskua murrizteko.
+- **Beso-euskarriak eta itzala dituzten eserlekuak** bidean zehar, atseden hartzea beti aukera bat izan dadin.
+- **Helduleku lodi eta leunak dituzten tresnak**, erraz heltzeko modukoak. Utzi albo batera inauskaiak, labanak eta tresna zorrotz guztiak.
+- **Hesitutako eremu bat, atea itxita duena**, pertsonak askatasunez arakatu dezan zu inguruan zauden bitartean.
 
-## Zein landare saihestu behar ditut?
+## Zer landare saihestu behar ditut?
 
-Aukeratu ukitzeko seguruak diren landareak, eta, ahal bada, dastatzen badira ere seguruak direnak. AFAk gomendatzen du azala normalean narritatzen ez duten landareak erabiltzea, alergiak egiaztatzea eta arreta handiz begiratzea, norbaitek lurra janaritzat har ez dezan. NIAren etxeko segurtasun-aholkuek landare pozoitsuak kentzea edo giltzapean gordetzea barne hartzen dute.
+Aukeratu ukitzeko seguruak diren landareak eta, ahal bada, dastatuz gero ere seguruak direnak. AFAk gomendatzen du larruazala normalean narritatzen ez duten landareak erabiltzea, alergiak egiaztatzea eta arreta handiz begiratzea lurra janariarekin nahas dezakeen edonori. NIAren etxeko segurtasun-aholkuek landare pozoitsuak kentzea edo giltzapean gordetzea barne hartzen dute.
 
-- Saihestu arrosa arantzatsuak, kaktusak eta azala narrita dezaketen izerdia duten landareak.
-- Ziur ez zauden landareren bat baduzu, kontsultatu pozoen zentro bati edo bertako lorategi-denda bati landatu aurretik.
-- Gogoko landare ezagunek sentipen atseginak ekar ditzakete. AFAk arrosak eta Gabonetako kaktusa aipatzen ditu adibide gisa. Aukeratu arantzarik gabeko aldaerak.
+- Saihestu arantzadun arrosak, kaktusak eta larruazala narritatzen duen izerdia duten landareak.
+- Landatu aurretik, ziur ez zauden edozein landareri buruz galdetu pozoi-kontrol zentro batean edo bertako lorategi-denda batean.
+- Gustuko landare ezagunek sentipen atseginak ekar ditzakete berriro. AFAk arrosak eta Gabonetako kaktusa aipatzen ditu adibide gisa. Aukeratu arantzarik gabeko barietateak.
 - Gorde ongarriak, pestizidak eta belar-hiltzaileak giltzapean, eta ez erabili pertsonak eskura ditzakeen eremuetan.
 
-## Nola babes gaitezke beroarekin eta eguzkiarekin?
+## Nola egon seguru beroan eta eguzkitan?
 
-Antolatu kanpoko denbora eguraldiaren arabera. NIAk azaltzen du adineko pertsonek [beroarekin lotutako gaixotasunak](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) izateko arrisku handiagoa dutela, neurri batean gorputza tenperatura-aldaketetara ez baita hain ondo egokitzen eta sendagai batzuek beroari aurre egiteko moduan eragiten dutelako.
+Antolatu kanpoko denbora eguraldiaren arabera. NIAk azaltzen du adineko pertsonek [beroarekin lotutako gaixotasunak](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) izateko arrisku handiagoa dutela, neurri batean gorputza tenperatura-aldaketetara ez delako hain ondo egokitzen eta botika batzuek gorputzak beroari nola erantzuten dion eragiten dutelako.
 
-- **Atera goiz edo arratsaldean.** Saihestu egunaren erdialdea hilabete beroetan. Begiratu bero-indizea, ez tenperatura bakarrik.
-- **Eskaini ura maiz.** Ez itxaron pertsonak egarri dela esateko. Saihestu alkohola eta kafeina duten edariak beroarekin.
-- **Jantzi egokiro.** Kolore argiko arropa arin eta zabala, ertz zabaleko kapela eta eguzkitako betaurrekoak.
-- **Erabili eguzkitako krema.** NIAk SPF 15 edo gehiagoko babes zabala gomendatzen du, egunean zehar berriro emanda.
-- **Aukeratu itzala.** Jarri landatzeko mahaia zuhaitz baten edo aterki baten azpian.
-- **Mantendu laburra.** Kanpoan tarte labur bat pasatzea nahikoa izan daiteke, batez ere egun beroetan.
-- **Adi egon abisu-zantzuei.** NIAk buruko mina, nahasmena, zorabioa edo goragalea aipatzen ditu beroarekin lotutako gaixotasunaren zantzu posible gisa. Dementzia duen pertsona batek agian ez dizu esango gaizki sentitzen dela; beraz, begiratu aurpegia eta portaera. Sartu barrura, hoztu urarekin eta zapi fresko batekin, eta eskatu laguntza medikoa berehala hobetzen ez bada. Kolpe beroa, hala nola konortea galtzea, nahasmena edo azala lehorra eta gorria izatea bezalako zantzuak dituena, larrialdi medikoa da: deitu 112ra.
+- **Irtan goizean goiz edo arratsaldean berandu.** Saihestu egunaren erdialdea hilabete beroetan. Begiratu bero-sentsazioa, ez tenperatura soilik.
+- **Eskaini ura maiz.** Ez itxaron pertsonak egarri dela esan arte. Saihestu alkohola eta kafeina duten edariak beroan.
+- **Jantzi egoki.** Kolore argiko arropa arina eta zabala, hegal zabaleko kapela eta eguzkitako betaurrekoak.
+- **Erabili eguzkitako krema.** NIAk SPF 15 edo handiagoko babes zabaleko eguzkitako krema gomendatzen du, egunean zehar berriro aplikatuta.
+- **Aukeratu itzala.** Jarri landatzeko mahaia zuhaitz edo aterki baten azpian.
+- **Izan laburra.** Kanpoan tarte labur bat pasatzea nahikoa izan daiteke, batez ere egun beroetan.
+- **Adi egon abisu-zantzuei.** NIAk buruko mina, nahasmena, zorabioa edo goragalea aipatzen ditu beroagatiko gaixotasunaren balizko zantzu gisa. Dementia duen pertsona batek agian ez dizu esango gaizki sentitzen dela; beraz, begiratu bere aurpegia eta jokabidea. Sartu barrura, hoztu urarekin eta zapi fresko batekin, eta eskatu laguntza medikoa berehala hobera egiten ez badu. Kolpe beroa, hala nola konortea galtzea, nahasmena edo azal lehor eta gorritua bezalako zantzuak dituena, larrialdi medikoa da: deitu 911ra.
 
-Hotzarekin ere kontuz ibili behar da. Neguan, mantendu kanpoko denbora laburra eta ziurtatu eskuak eta oinak bero eta lehor mantentzen direla.
+Eguraldi hotzak ere garrantzia du. Neguan, izan kanpoko denbora laburra eta ziurtatu eskuak eta oinak bero eta lehor mantentzen direla.
 
-## Nola kudeatu noraeze ibiltzeko joera kanpoan gaudenean?
+## Nola kudeatu noraeze ibiltzea kanpora ateratzen garenean?
 
-Egon beti pertsonarekin kanpoan dagoen bitartean. Alzheimer's Association-en arabera, [dementziarekin bizi diren hamar pertsonatik seik](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) gutxienez behin egingo dute noraeze, eta askok behin baino gehiagotan. Edozein unetan gerta daiteke.
+Egon pertsonarekin kanpoan dagoen bakoitzean. Alzheimer's Association erakundeak dio [dementia duten hamar pertsonatik sei](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) gutxienez behin noraeze ibiliko direla, eta askok behin baino gehiagotan egingo dute. Edozein fasetan gerta daiteke.
 
-NIAren [noraeze ibiltzeko eta galtzeko aholkuen](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) artean daude hauek:
+NIAren [noraeze ibiltzeko eta galtzeko aholkuek](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) honako hauek barne hartzen dituzte:
 
-- Ziurtatu pertsonak identifikazio- edo eskumuturreko medikoa daramala bere izenarekin, helbidearekin eta zure telefono-zenbakiarekin, edo markatu arropa.
-- Eduki pertsonaren argazki edo bideo berri bat.
-- Jakinarazi auzokideei pertsonak noraeze ibiltzeko joera izan dezakeela.
-- Babestu patioa hesi batekin eta ate giltzatu batekin.
-- Ez utzi bakarrik noraeze ibiltzeko aurrekariak dituen norbait.
+- Ziurtatu pertsonak identifikazio-besoko edo mediku-besoko bat daramala bere izenarekin, helbidearekin eta zure telefono zenbakiarekin, edo jarri etiketa bat bere arropari.
+- Izan pertsonaren argazki edo bideo berri bat.
+- Esan auzokideei pertsona noraeze ibil daitekeela.
+- Babestu patioa hesiarekin eta ate giltzadunarekin.
+- Ez utzi noraeze ibiltzeko aurrekariak dituen pertsona bat bakarrik.
 
-Alzheimer's Association-ek iradokitzen du, halaber, barrualdean eta kanpoan segurtasunez arakatu daitezkeen eremuak sortzea, eta egonezina agertzeko joera handiena duen eguneko unerako jarduerak antolatzea. Lorategi seguru eta itxi batean ibilaldi bat aukera ona izan daiteke arratsaldeko egonezinerako. Ikusi gure gida [arratsaldeko egonezinari buruz](/caregiving/late-day-restlessness/).
+Alzheimer's Association erakundeak, halaber, iradokitzen du segurtasunez arakatu daitezkeen barruko eta kanpoko eremuak sortzea, eta ezinegona izateko joera handiena duen eguneko unerako jarduerak antolatzea. Lorategi seguru eta hesitu batean paseatzea aukera ona izan daiteke arratsalde amaierako ezinegonerako. Ikus gure [arratsalde amaierako ezinegonari](/caregiving/late-day-restlessness/) buruzko gida.
 
-Pertsona desagertzen bada, Alzheimer's Association-ek gomendatzen du inguruko eremuan berehala bilatzea eta 112ra deitzea 15 minuturen buruan aurkitzen ez bada. Esan poliziari pertsonak dementzia duela.
+Pertsona desagertzen bada, begiratu inguruko leku seguruetan, eta, aldi berean, jarri harremanetan berehala tokiko poliziarekin edo larrialdi-zerbitzuekin. Ez itxaron minutu kopuru jakin bat salatu aurretik. 2021eko [AEBetako Justizia Sailaren desagertutako pertsonen ikerketari buruzko aldizkari-artikulu batek](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) dio legea betearazteko erakundeek ez luketela itxaronaldi-epe finkorik eskatu behar, eta dementziaren antzeko sintomak arrisku handiko kezka gisa aipatzen ditu. Salaketa egiteko tokiko prozedurak desberdinak izan daitezke. Partekatu pertsona noiz eta non ikusi zuten azkenekoz, zer daraman jantzita eta argazki berri bat. Jarraitu tokiko erantzuleen jarraibideak; ez bilatu leku arriskutsuetan bakarrik.
 
-## Nola egokitu lorezaintza gauzak aldatzen diren heinean?
+## Nola egokitu lorategiko lana gauzak aldatzen diren heinean?
 
 | Hau zaila bihurtu bada | Saiatu honekin |
 | --- | --- |
-| Parterre oso bat landatzea | Hazi bat loreontzi bakarrean ereitea |
-| Belar txarrak kentzea (belar txarrak landareetatik bereiztea) | Ureztatzea, edo lore zimeldu nabarmenak kentzea |
-| Lorategian zehar ibiltzea | Mahai batean esertzea lur-erretilu batekin eta landare batekin |
-| Kanpora ateratzea | Belar usaintsuen loreontzi bat sukaldeko mahaian, edo eserleku bat leiho ireki baten ondoan |
-| Edozein zeregin egitea | Kanpoan elkarrekin esertzea, entzuten eta begiratzen |
+| Lorategi-ohe oso bat landatzea | Hazi bat loreontzi batean landatzea |
+| Belar txarrak kentzea (belar txarrak eta landareak bereiztea) | Ureztatzea, edo lore zimel nabarmenak kentzea |
+| Lorategian zehar ibiltzea | Mahai batean esertzea, lur-erretilu batekin eta landare batekin |
+| Kanpora ateratzea | Belar-loreontzi bat sukaldeko mahaian, edo leiho ireki baten ondoan esertzea |
+| Edozein lan egitea | Kanpoan elkarrekin esertzea, entzuten eta begiratzen |
 
-Pertsona batzuek nahiago dute zu lanean ikusi. NIAk dio ondo dagoela pertsona batek begiratu besterik ez egitea uztea, hori bada gozatzen duena.
+Pertsona batzuek nahiago dute zuk lanean ari zarenean begiratu. NIAk adierazten du pertsonari begiratzen uztea ondo dagoela, hori bada gozatzen duena.
 
-## Noiz itzuli barrura?
+## Noiz joan beharko genuke barrura?
 
-Sartu barrura pertsona nekatuta, bero, hotz, ezinegonarekin edo amaitzeko prest ikusten duzunean. Hamar minutu labur eta atsegin bat hobe da arratsalde luze bat estuasunean amaitzea baino. Lehenago amaitzea emaitza ona da.
+Sartu barrura pertsona nekatuta, bero, hotz, ezinegon edo amaitzeko prest ikusten duzunean. Hamar minutu labur eta atsegin bat hobe da larritasunarekin amaitzen den arratsalde luze bat baino. Lehenago amaitzea emaitza ona da.
 
 ## Ekarri lorategia barrura pantailan
 
-Euri-egunetan, [Sort Together](/games/sort-together/) jokoak lorategiko saski bat du irudiak sailkatzeko, eta [Conversation Cards](/games/conversation-cards/) jokoak lorategiko istorioak ekar ditzaketen galdera irekiak ditu. Berotik presaka sartzen bazarete, [Calm Breathing](/games/calm-breathing/) jokoak elkarrekin parteka dezakezun etenaldi lasai eta motela eskaintzen du. Ukimenean, usaimenean eta soinuan oinarritutako ideia gehiagorako, ikusi gure [jarduera sentsorialen gida](/activities/sensory/).
+Euri-egunetan, [Sort Together](/games/sort-together/) jokoak lorategiko saski bat du irudiak sailkatzeko, eta [Conversation Cards](/games/conversation-cards/) jokoak lorategiko istorioetara eraman dezaketen galdera irekiak ditu. Berotik presaka sartzen bazarete, [Calm Breathing](/games/calm-breathing/) jokoak geldialdi motel eta lasai bat eskaintzen du elkarrekin partekatzeko. Ukimenean, usaimenean eta entzumenean oinarritutako ideia gehiagorako, ikus gure [jarduera sentsorialen gida](/activities/sensory/).

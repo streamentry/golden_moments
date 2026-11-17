@@ -1,37 +1,37 @@
 ---
-title: "Yeroo “Mana deemuu barbaada” jedhee irra deddeebi’u"
-seoTitle: "Dementia: “Mana deemuu barbaada” jedhee irra deddeebi’u"
-description: "Maaliif nama dementia wajjin jiraatu mana isaa keessa osoo jiruu mana deemuu gaafata, maal jechuu, hojiiwwan tasgabbeessan, fi akkamitti nageenya eeguu."
+title: "Yeroo Namni Sammuu Dagachuu Mana Deemuuf Gaafatu"
+seoTitle: "Sammuu Dagachuun Mana Deemuu Gaafachuu: Maal Jechu"
+description: "Namni sammuu dagachuu waliin jiraatu yeroo baay'ee maaliif mana deemuuf gaafatu, maal jechuu akka qabdu, sochiiwwan tasgabbeessan fi akkataa nageenya isaa eegu."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Nama dementia qabu yeroo irra deddeebi’ee mana deemuu gaafatu, “mana” jechuun
-  yeroo baay’ee miira nageenyaa ykn bakka yeroo darbe keessa ture jechuu dha,
-  ijaarsa miti. Mana keessa jiraachuu isaanii isaan hin amansiisinaa. Miira
-  isaanii beekaa, nageenya akka qaban itti himaa, waa’ee mana isaanii gaafadhaa,
-  achiis suuraa, muuziqaa, nyaata xiqqoo, adeemsa ykn hojii salphaa tokkoof
-  suuta jedhaa isaan geessaa. Beela, dheebuu, mana fincaanii ykn dhukkubbii
-  ilaalaa. Yoo tasa jalqabe, doktora isaanii waamaa.
+  Namni sammuu dagachuun qabame yeroo hunda mana deemuuf gaafatu, «mana» jechuun
+  yeroo baay'ee miira nageenyaa yookaan iddoo bara darbee jechuudha, osoo
+  ijaarsa tokko hin taane. Isaan mana jiruu isaanii mirkaneessuuf isaaniin hin
+  falminaa. Miira isaanii fudhadhaa, nagaa akka qaban mirkaneessaa, waa'ee manaa
+  gaafadhaa, achiis suuta gara suuraatti, muuziqaatti, nyaata xiqqaatti,
+  deemsaatti yookaan hojii salphaatti qajeelchaa. Beela, dheebuu, mana fincaanii
+  yookaan dhukkubbii sakatta'aa. Yoo kun tasa eegale, doktora isaanii bilbilaa.
 keyPoints:
-  - "“Mana deemuu barbaada” jechuun yeroo baay’ee “Nageenya hin dhaga’amu ykn tasgabbii hin qabu” jechuu dha, teessoo gaafachuu miti."
-  - "Of morkuun ykn mana keessa akka jiran isaan amansiisuun yeroo baay’ee rakkoo isaanii dabala. Jechootaaf osoo hin ta’in miiraaf deebii kennaa."
-  - "Waa’ee mana isaanii akka isinitti himan gaafadhaa, achiis suuraa, muuziqaa, nyaata xiqqoo, adeemsa ykn hojii salphaa tokko dhiyeessaa."
-  - "Waan sirreeffamuu danda’u ilaalaa: beela, dheebuu, mana fincaanii, dhukkubbii, ho’a ykn qabbanaa’aa dachaa, sagalee, dadhabbii."
-  - "Yoo guyyaa guyyaan galgala dhiyaatee ta’e, jeequmsa galgalaa (sundowning) ta’uu danda’a; sagantaa walitti fufiinsa qabuu fi ifa gaarii gargaaruu danda’u."
-  - "Yoo bahuuf yaalan, nageenyaaf dursitanii karoorfadhaa; jijjiirama tasaa kamiifuu doktora waamaa."
+  - "«Mana deemuun barbaada» jechuun yeroo baay'ee «Ani nagaa yookaan tasgabbaa natti hin dhaga'amu» jechuudha, osoo teessoo gaaffii hin taane."
+  - "Isaaniin falmuun yookaan mana jiruu isaanii mirkaneessuun yeroo baay'ee dhiphina isaanii dabala. Kanaa mannaa miira isaanii deebisaa."
+  - "Waa'ee manaa akka isinitti himan gaafadhaa, achiis suuraa, muuziqaa, nyaata xiqqaa, deemsaa yookaan hojii salphaa dhiheessaa."
+  - "Waan sirreeffamuu danda'u sakatta'aa: beela, dheebuu, mana fincaanii, dhukkubbii, ho'aa yookaan qabbanaa baay'ee ta'uu, sagalee guddaa, dadhabbii."
+  - "Yoo kun yeroo hunda galgala booda ta'e, sun «sundowning» ta'uu danda'a; sagantaa tasgabbaa'aa fi ifa gaariin gargaaruu danda'u."
+  - "Yoo isaan mana keessaa bahuuf yaalan nageenyaaf karoorfadhaa, akkasumas jijjiirama tasa kamiyyuu irratti doktora isaanii bilbilaa."
 faq:
-  - q: "Maaliif haadha koo dementia qabdu, mana keessa osoo jirtuu irra deddeebi’uun mana deemuu gaafatti?"
-    a: "Dementia kutaawwan beekaman illee kan ajaa’iba fakkeessuu danda’a, namoonni yeroo tokko tokko yeroo jireenya isaanii duraa keessa akka jiran itti dhaga’ama. “Mana” jechuun mana yeroo daa’ima turan ykn miira nageenyaa fi tasgabbii qofa ta’uu danda’a. Eessa akka jirtu itti himuu irra, miira sanaaf deebii kennuun yeroo baay’ee caalaa gaarii dha."
-  - q: "Yeroo mana deemuu gaafatan maal jechuu qaba?"
-    a: "“Asitti nageenya qabdu, ani immoo si wajjin jira” jedhaa yaalaa, achiis “Waa’ee mana kee naaf himi” jedhaa. Dhaggeeffadhaa, suuraa ykn sirba tokko waliin ilaalaa, bishaan ykn adeemsa gabaabaa dhiyeessaa. “Mana keessa jirta” jechuu akka sirreeffamaatti dubbachuu irraa of qusadhaa, sababni isaas akka dogoggore itti himamu fakkaachuu danda’a."
-  - q: "“Booda mana deemna” jechuun sirrii dhaa?"
-    a: "Kana irratti maatiiwwanii fi dhaabbileen dementia garaagarummaa qabu. Namoonni baay’een tasgabbii fi xiyyeeffannaa jijjiiruu dhugaa irraa jalqabu, soba laafaa immoo yeroo dhugaan namni sun jala hin ba’in rakkoo qofa fiduuf qabatanii eegu. Wanta filattan kamiyyuu, laafaa fi walitti fufiinsa qabaadhaa, dhugaa isaanii gonkumaa hin qoosinaa."
-  - q: "Yoo mana keessaa ba’uuf yaalan hoo?"
-    a: "Tasgabbaa’aa, isaan dhaabuu irra isaan wajjin adeemaa. Adeemsi gabaabaan yeroo baay’ee fedhii sana ni tasgabbeessa. Tarkaanfii nageenyaa dursitanii qopheessaa, fakkeenyaaf ulee ID, qilleensa balbalaa fi suura haaraa. Yoo dhabaman, battaluma barbaaduu eegalaa; yoo daqiiqaa 15 keessatti hin argamne, lakkoofsa yeroo hatattamaa naannoo keessanii bilbilaa, namni sun dementia akka qabu immoo himaa."
-  - q: "Yoomitti doktora waamuu qaba?"
-    a: "Yoo gaafatuun ykn wal-hin-beekuun tasa jalqabe, ykn sa’aatii ykn guyyoota keessatti baay’ee hammaate, doktora isaanii dafaa waamaa, keessumaa yoo ho’a, qoricha haaraa ykn mallattoo dhukkuba fincaanii wajjin ta’e. Wal-hin-beekuun tasaa delirium ta’uu danda’a, kunis yaala hatattamaa barbaada. Yoo namni balaa keessa jiraate, lakkoofsa yeroo hatattamaa naannoo keessanii bilbilaa."
+  - q: "Haati koo sammuu dagachuu waliin jiraattu yeroo isheen mana jirtutti maaliif mana deemuuf hunda gaafatti?"
+    a: "Sammuu dagachuun kutaa beekamaa iyyuu akka hin baramne gochuu danda'a, namoonnis yeroo tokko tokko akka yeroo jireenya isaanii durii keessa jiranitti itti dhaga'ama. «Mana» jechuun mana ijoollummaa yookaan miira nagaa fi tasgabbii ta'uu danda'a. Miira sanaaf deebii kennuun yeroo baay'ee bakka isaan jiraniif isaanitti himuu caalaa hojiitti hiika."
+  - q: "Yeroo isaan mana deemuuf gaafatan maal jechuu qaba?"
+    a: "«Asitti nagaa qabda, anis si wajjin nan hafa» jechuun yaalaa, achiis «Waa'ee mana keetii natti himi» jedhaa. Dhaggeeffadhaa, suuraa yookaan faarfannaa tokko waliin ilaalaa, dhugaatii yookaan deemsaa gabaabaa dhiheessaa. «Ati mana jirta» jechuun sirreessuu dhiisaa, kun akka waan dogoggoranitti isaanitti dhaga'amuu danda'a."
+  - q: "Booda mana deemna jechuun sirriidhaa?"
+    a: "Maatiin fi dhaabbileen sammuu dagachuurratti hojjetan irratti walii hin galan. Baay'een isaanii jajjabinaa amanamaa fi xiyyeeffannoo jijjiiruutiin jalqabu, dhugaan nama sana dhiphina inni ofiin hiikuu hin dandeenye qofa uumu yoo ta'e immoo soba laafaa fayyadamu. Waan filattan kamiyyuu, gara laafessa ta'aa, walfakkaataa ta'aa, akkasumas hubannoo dhugaa isaanii irratti hin taphatinaa."
+  - q: "Yoo isaan mana keessaa bahuuf yaalan hoo?"
+    a: "Tasgabbaa'aa, isaan daangessuu mannaa waliin deemaa; yeroo baay'ee deemsaa gabaabaan fedhii sana qabbaneessa. Tarkaanfiiwwan nageenyaa dursee qopheessaa, kanneen akka faaya ID, sagalee balbalaa fi suuraa dhiyoo. Namni yoo bade, iddoo nageenya qaban naannoo jiran sakatta'aa; yeroo tokkotti poolisii naannoo yookaan tajaajila yeroo muddamaa hatattamaan qunnamaa. Gabaasuuf daqiiqaa murtaa'e hin eeginaa."
+  - q: "Yoom doktora bilbiluu qaba?"
+    a: "Yoo gaafachuun yookaan burjaaja'iinsi tasa eegale yookaan sa'aatii yookaan guyyoota muraasa keessatti baay'ee hammaate hatattamaan doktora isaanii bilbilaa, keessumaa yoo ho'a qaamaa, qorichi haaraan yookaan mallattoon infekshinii ujummoo fincaanii jiraate. Burjaaja'iinsi tasaas «delirium» ta'uu danda'a, kun immoo tajaajila hatattamaa barbaada. Namni kamiyyuu balaaf yoo saaxilame 911 bilbilaa."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -51,6 +51,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -68,87 +71,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-“Mana deemuu barbaada.” Maatiiwwan baay’eef kun waan dhaggeeffachuuf ulfaatu keessaa isa tokko dha, keessumaa yeroo nama isin kunuunsitan mana keessaa isaanii teessoo irra taa’aniiru. Kun waan baratamaa dha, sadarkaa dementia kamiittuu ta’uu danda’a, deebii tasgabbaa’aa fi hojii irra oolu ni jira. Fuulli kun jechoonni kun yeroo baay’ee maal jechuu akka ta’an, maal jechuu akka qabdan, hojiiwwan yeroo sanatti gargaaruu danda’an, fi akkamitti nageenya akka eegdan ibsa.
+«Mana deemuun barbaada.» Maatii baay'eef kun wantoota dhaga'uun ulfaataa ta'an keessaa tokko dha, keessumaa yeroo namni ati kunuunsitu kutaa jireenyaa isaa keessa taa'u. Kun waan yeroo baay'ee mul'atudha, sadarkaa sammuu dagachuu kamiyyuu irratti ta'uu danda'a, akkasumas karaa tasgabbaa'aa fi hojiitti hiikamuun deebii kennuuf ni jiraatu. Fuulli kun jechoonni kun yeroo baay'ee maal akka jechuuf yaalan, maal jechuu akka qabdu, sochiiwwan yeroo sanatti gargaaruu danda'an, fi akkataa nageenya eegu qabdu ibsa.
 
-## Maaliif nama dementia qabu irra deddeebi’ee mana deemuu gaafata?
+## Namni sammuu dagachuu waliin jiraatu maaliif mana deemuuf hunda gaafata?
 
-Yeroo baay’ee, “mana” jechuun bakka caalaa miira dha. Alzheimer's Society miira tasgabbii fi nageenyaa, ykn mana yeroo darbe keessa ture jechuu isaa ibsa, mana amma keessa jiranii miti. Dementia kutaawwan beekaman ajaa’ibsiisuu danda’a, namni sunis yeroo jireenya isaa duraa keessa akka jiraatu itti dhaga’amuu danda’a, yeroo mana jechuun mana daa’imummaa ykn bakka ijoollee isaa itti guddise ture.
+Yeroo baay'ee, «mana» jechuun miira tokko dha, osoo iddoo tokko hin taane. Alzheimer's Society akka ibsutti, kun miira jajjabinaa fi nageenyaa, yookaan mana bara darbee jechuudha, osoo mana sanaa ofii hin taane. Sammuu dagachuun kutaa beekamaa iyyuu akka hin baramne gochuu danda'a, namnis akka waan yeroo jireenya isaa durii keessa jiruutti itti dhaga'amuu danda'a; yeroon sun mana ijoollummaa yookaan iddoo ijoollee isaanii itti guddifatan ta'uu danda'a.
 
-Jechoonni kun wanti biraa amma sirrii akka hin taane agarsiisuu danda’u: beela, dheebuu, mana fincaanii barbaaduu, dhukkubbii, ho’a ykn qabbanaa’aa dachaa, dadhabbii, kophummaa, sodaa, ykn sagalee baay’ee. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) dhukkubbii, sagalee, kophummaa, jijjiirama sagantaa fi qorichoota sababoota hin tasgabbooma jedhee tarreessa.
+Jechoonni kun waan biraa amma rakkisaa jiru agarsiisuu danda'u: inni beela'eera, dheeboteera, mana fincaanii barbaada, dhukkubbii qaba, baay'ee ho'eera yookaan qabbanaa'eera, dadhabeera, kophaa ta'eera, sodaatan, yookaan sagaleen itti baay'ateera. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) dhukkubbii, sagalee, kophaa ta'uu, jijjiirama sagantaa fi qorichaa akka sababoota jeequmsaa tarreessa.
 
-## Yeroo mana deemuu gaafatan maal jechuu qaba?
+## Yeroo isaan mana deemuuf gaafatan maal jechuu qaba?
 
-Jechootaaf osoo hin ta’in miiraaf deebii kennaa. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nama sana dogoggora akka qabu amansiisuuf yaaluu irraa akeekkachiisa: miirri isaanii dhugaa dha, kanaafuu dursee tasgabbii fi amansiisaan deebisaa, achiis suuta jedhaa xiyyeeffannaa jijjiirraa.
+Miiraaf deebii kenni, osoo jechootaaf hin taane. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nama sana akka inni dogoggore amansiisuuf yaaluun akka hin galle gorsa: miirri isaanii dhugaadha, kanaaf dura jajjabinaa fi mirkaneessa nagaa kenni, achiis suuta xiyyeeffannoo isaa jijjiiri.
 
-Jechoonni yeroo baay’ee gargaaran:
+Jechoonni yeroo baay'ee gargaaran:
 
-- **Miira sana moggaasaa.** “Mana kee yaadattee jirta fakkaata.”
-- **Amansiisaa.** “Asitti nageenya qabda, ani immoo si wajjin jira.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) jecha salphaa “Asitti nageenya qabda” jedhu gorsa.
-- **Yaadannoo affeeraa.** “Waa’ee mana kee naaf himi. Mana nyaata kee akkam ture?” Waa’ee yeroo fagoo gaafachuun yeroo baay’ee gaaffii har’aa caalaa mijataa dha.
-- **Waliin wanta tokko gochuu dhiyeessaa.** “Dursa shaayii tokko dhugnu,” ykn “Huccuu kana na wajjin jalaa deebisuu na gargaartaa?”
+- **Miira ibsi.** «Mana kee si yaachise natti fakkaata.»
+- **Mirkaneessi.** «Asitti nagaa qabda, anis si wajjin nan hafa.» [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) jechoota salphaa «Asitti nagaa qabda» yaada.
+- **Yaadannoo gaafadhu.** «Waa'ee mana keetii natti himi. Kushinaan keessan akkam ture?» Waa'ee bara fagoo gaafachuun yeroo baay'ee gaaffii waa'ee har'aa caalaa mijataa dha.
+- **Waan waliin hojjetan dhiheessi.** «Mee dura shaayii haa dhugnu,» yookaan «Fooxaa kana na wajjin dachaasuu ni dandeessaa?»
 
-Yoo tuquun isaan jaallatan ta’e, sagalee ho’aa fi harka irra kaa’ame jechoota caalaa dubbachuu danda’a.
+Sagalee ho'aa fi, yoo tuqaa jaallatan, irree irratti tuqaan jechoota caalaa waan hedduu dubbachuu danda'a.
 
 ## Maal irraa of qusachuu qaba?
 
-- **Of morkuu ykn ibsuu.** “Amma as jiraatta” ykn “Kun waggaa 40 mana kee dha” jechuun dementia keessatti fudhachuun ulfaatu akka fudhatan isaan gaafata, akka dogoggore itti himamu itti dhaga’amuu danda’a.
-- **Gaaffii itti gaafachuu.** “Hin yaadattuu?” ykn “Teessoon kee maali?” dhiibbaa dabala.
-- **Aariidhaan balbala cufuu.** Yoo ba’aniif deeman, tasgabbaa’aa, isaan wajjin adeemaa. Adeemsi gabaabaan waliin taasifamu yeroo baay’ee fedhii sana tasgabbeessa.
-- **Ariifachuu.** Dursa waa’ee mana isaanii haasa’uuf yeroo kennaaf, achiis mata-duree jijjiirraa.
+- **Falmuun yookaan ibsuun.** «Amma as jiraatta» yookaan «Kun waggaa afurtamaaf mana kee ture» jechuun wanta sammuu dagachuun fudhachuu ulfaataa godhu akka fudhatan gaafachuu dha, akkasumas akka waan dogoggoranitti isaanitti dhaga'amuu danda'a.
+- **Gaaffii qormaataa gaafachuun.** «Hin yaadattuu?» yookaan «Teessoon isaa eessa?» jechuun dhiibbaa dabalaa dha.
+- **Aariidhaan balbala daangessuun.** Yoo bahuuf qajeelan, tasgabbaa'aa waliin deemaa. Yeroo baay'ee deemsaa gabaabaan fedhii sana qabbaneessa.
+- **Jarjarsuun.** Mata duree jijjiiruuf osoo hin taane, waa'ee manaa akka dubbatan yeroo kenniif.
 
-## Hojiiwwan yeroo sanatti gargaaran
+## Sochiiwwan yeroo sanatti gargaaruu danda'an
 
-Miira sana erga beektanii booda, hojiin tasgabbaa’aa fi beekamaan xiyyeeffannaa osoo isa hin tuffatin jijjiiruu danda’a.
+Erga miira isaanii fudhattee booda, sochiin tasgabbaa'aa fi beekamaan tokko xiyyeeffannoo isaanii jijjiiruu danda'a, osoo miira isaanii hin tuffatin.
 
-1. **Suuraawwan mana fi maatii ilaalaa.** Fuula garagalchaa, gaaffii gaafachuu irra yaada kennaa (“Ilaali, iddoon biqiltuu sun akkam bareeda”). Bilbila ykn taabileetii irratti, [Lamaan suuraa maatii](/games/photo-pairs/) suuraawwan maatii keessanii taphaa wal-fakkeessuu laafaa tokkotti jijjiira, suuraawwan sunis meeshaa keessan irra turu.
-2. **Waa’ee mana haasa’aa.** [Kaartii haasaa](/games/conversation-cards/) waa’ee manaa, mana nyaataa, ollaa fi ayyaanaa gaaffii banaa qaba, deebiin sirrii hin jiru.
-3. **Muuziqaa isaan jaallatan bayyisaa.** National Institute on Aging muuziqaa tasgabbeessu karaa jeequmsa tasgabbeessan keessaa tokko ta’ee tarreessa. [Hojiiwwan muuziqaa](/activities/music/) keenya ilaalaa.
-4. **Nyaata xiqqoo ykn dhugaatii dhiyeessaa.** Beelli fi dheebuun akka hin tasgabbooma fakkaachuu danda’u. Shaayii ykn nyaata isaan jaallatan akka mana keessa jiruu gochuu rakkoo xiqqoo dha.
-5. **Adeemsa deemaa ykn alatti taa’aa.** Sochiin fi ifni guyyaa ni gargaara, keessumaa guyyaa duraatti.
-6. **Hojii beekamaa kennaa.** Huccuu jalaa deebisuu, qaanqee filuu ykn biqiltuu bishaan obaasuun miira mana geggeessuu deebisuu danda’a.
-7. **Hunda suuta gochaa.** TV cufaa, sagalee fi calaqqee xiqqeessaa, boqonnaa [afuura tasgabbaa’aa](/games/calm-breathing/) waliin gochuu yaalaa.
+1. **Suuraa manaa fi maatii ilaalaa.** Fuula garagalchaa yaada kennaa («Lafa biqiltuu sana ilaali»), osoo gaaffii hin gaafatin. Bilbila yookaan taableetiirra, [Photo pairs](/games/photo-pairs/) suuraa maatii keessanii ofii keessanii gara tapha walitti firoomsuu laafaatti jijjiira, suuraan immoo meeshaa keessan irratti hafa.
+2. **Waa'ee manaa haasa'aa.** [Conversation cards](/games/conversation-cards/) waa'ee mana, kushinaa, ollaa fi ayyaana irratti gaaffiiwwan banaa, deebii sirrii hin qabne dhiheessa.
+3. **Muuziqaa isaan jaallatan taphachiisaa.** National Institute on Aging muuziqaa tasgabbeessaa akka mala jeequmsa qabbaneessuu keessaa tokkootti tarreessa. [Sochiiwwan muuziqaa](/activities/music/) keenya ilaalaa.
+4. **Nyaata xiqqaa yookaan dhugaatii kennaa.** Beela fi dheebuun boqonnaa dhabuutti fakkaachuu danda'u. Shaayiin yookaan nyaanni isaan jaallatan akkuma amantaa xinnoo mana jiraachuu ti.
+5. **Deemsaa yookaan ala taa'aa.** Sochii fi ifni aduu ni gargaaru, keessumaa guyyaa keessatti dursanii.
+6. **Hojii beekamaa kennaa.** Uffata dachaasuun, meeshaa nyaataa qoqqooduun yookaan biqiltuu bishaan obaasuun miira mana bulchuu deebisuu danda'a.
+7. **Waan hunda suuta godhaa.** Televijiinii cufi, sagalee fi ifa cimaa hir'isi, akkasumas [hafuura baafannaa tasgabbaa'aa](/games/calm-breathing/) waliin yaalaa.
 
-Yoo yaadni tokko hin hojjetin, booda kan biraa yaalaa. Waliin callisanii taa’uun illee xumura gaarii dha.
+Yoo yaadni tokko hin hojjanne, boodarra kan biraa yaalaa. Waliin tasgabbiin taa'uus bu'aa gaariidha.
 
-## Sababa sirreeffamuu danda’u ilaalaa
+## Sababa sirreessuu dandeessu sakatta'i
 
-| Ilaalaa | Maal yaaluu |
+| Waan sakatta'amu | Maal gochuu |
 | --- | --- |
-| Beela ykn dheebuu | Dhugaatii fi nyaata xiqqoo dhiyeessaa |
-| Mana fincaanii barbaada | Tasgabbaa’aa fi haala hin hammeessin mana fincaanii deemuu dhiyeessaa |
-| Dhukkubbii ykn mi’a-hin-qabuu | Mallattoowwan akka fuula qaanessuu, qaama tokko qabuu ykn garaa qabachuu ilaalaa, doktora isaaniitti immoo himaa |
-| Ho’a ykn qabbanaa’aa dachaa | Uffata tokko dabaluu ykn hir’isuu, ykn ho’a kutaa sirreessaa |
-| Sagalee ykn namoota baay’ee | Kutaa callisaa tokko deemaa, TV cufaa |
-| Dadhabbii ykn jajjabeeffamuu dachaa | Boqochiisaa, kutaa ifa xiqqeessaa, muuziqaa laafaa bayyisaa |
-| Galgala dhiyoo | Kutaa jeequmsa galgalaa gadi ilaalaa |
+| Beela'uu yookaan dheebuu | Dhugaatii fi nyaata xiqqaa dhiheessi |
+| Mana fincaanii barbaaduu | Tasgabbiin, osoo hin jeeqamin, mana fincaanii akka deemaniif gargaari |
+| Dhukkubbii yookaan miira hin mijaanne | Mallattoolee akka fuula micciirrachuu, qaama qabachuu yookaan goginsa garaa ilaali, doktora isaaniittis himi |
+| Baay'ee ho'uu yookaan qabbanaa'uu | Uffata yookaan ho'a kutaa sirreessi |
+| Sagalee guddaa yookaan namoota baay'ee | Gara kutaa tasgabbaa'aa deemi, televijiinii cufi |
+| Dadhabbii yookaan jeequmsa baay'ee | Boqochiisi, ifa kutaa hir'isi, muuziqaa laafaa taphachiisi |
+| Galgala booda | Kutaa «sundowning» armaan gadii ilaali |
 
-Alzheimer's Society galmee gabaabaa yeroo gaafatuun itti mul’atu, fakkeenyaaf nyaata dura, keessummoota booda ykn galgala dhiyaatu, qabachuu gorsa. Haalli baratamu yoo mul’ate dursanii karoorfachuun salphaa ta’a.
+Alzheimer's Society gaafachuun kun yoom akka ta'e gabaabinaan galmeessuu yaada, fakkeenyaaf yeroo nyaataa dura, erga daawwattoonni deemanii booda, yookaan yeroo aduun lixxu. Haalli kun dursee karoorfachuuf nama gargaara.
 
-## Soba laafaa jechuun sirrii dhaa?
+## Soba xinnoo dubbachuun sirriidhaa?
 
-Kun dhugumatti mormii dha, maatiiwwan gaarii garaagarummaa qabu. Alzheimer's Society deebiin sirrii tokko akka hin jirre jedha: sobni namoota tokko tokko shakkii dabaluu danda’a, kanaafuu waan nama sanaaf caalaa gaarii ta’e murteessaa, kanaan walitti fufaa. Penn Memory Center keessatti, yaadni daayirektara waliinii dhugaan filannoo jalqabaa akka ta’e, sobni laafaan immoo yeroo namni sun dhugaa murtaa’aa tokko hubachuu hin dandeenye qofa fudhatama akka qabu, dhugaa isaanii immoo gonkumaa hin qoosiin jedha.
+Kun marii dhugaa ti, maatiin gara laafina qabanis bakka garaagaraa ga'u. Alzheimer's Society akka jedhetti deebiin tokko sirrii hin jiru: sobni namoota tokko tokkoo akka caalaatti shakkan gochuu danda'a, kanaaf bu'aa nama sanaaf gaarii ta'e murteessi, walfakkaataas ta'i. Penn Memory Center keessatti, ilaalchi hogganaa itti aanaa dhugaan durtii akka ta'e, sobni laafaan immoo yeroo namni sun dhugaa addaa sana fudhachuu hin dandeenye qofa akka fudhatamu ta'e dha, akkasumas hubannoo dhugaa isaanii irratti gonkumaa akka hin taphanne.
 
-Kunuunsitoonni baay’een karaa giddugaleessaa gargaaruu isaa argatu: dursee tasgabbii dhugaa fi xiyyeeffannaa jijjiiruu (“Halkan kana as turra, ani immoo si cinaa jira”), mana eessa akka ta’e irratti osoo hin morkin.
+Kunuunsitoota baay'eef karaan giddu galeessaa hojiitti hiika: dura jajjabinaa amanamaa fi xiyyeeffannoo jijjiiruu («Har'a halkanii asuma hafna, anis asuma si bira jira»), osoo bakka manni isaanii jiru irratti hin falmin.
 
-## Yoo guyyaa guyyaan waaree booda ykn galgala ta’e hoo?
+## Yoo kun yeroo hunda galgala yookaan galgala boodatti ta'e hoo?
 
-Hin tasgabbiin waaree booda eegalu ykn hammaatu yeroo baay’ee jeequmsa galgalaa (sundowning) jedhama. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) sagantaa walitti fufiinsa qabu, guyyaa guyyaan aduu fi hojii, hirriba guyyaa booda xiqqeessuu, fi galgala caffeine ykn alkoolii dhiisuu gorsa. Dukkana dura ifa banuun illee ni gargaara. Qajeelfama keenya [hojiiwwan galgala tasgabbaa’aa](/caregiving/late-day-restlessness/) caalaatti qaba.
+Boqonnaa dhabuun galgala booda eegalu yookaan hammaatu yeroo baay'ee «sundowning» jedhama. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) sagantaa tasgabbaa'aa, ifa aduu fi sochii guyyaa guyyaa, hirriba guyyaa galgala boodaa hir'isuu, akkasumas galgala boodatti kaafee yookaan alkoolii irraa fagaachuu yaada. Ifti dukkanni osoo hin dhufin dura ibsuus gargaaruu danda'a. Qajeelfamni keenya [sochiiwwan tasgabbaa'oo galgala boodaa](/caregiving/late-day-restlessness/) dabalata qaba.
 
-## Yoo ba’uuf yaalan nageenya isaanii eeguu
+## Yoo isaan bahuuf yaalan nageenya isaanii eeguuf
 
-Mana deemuu gaafachuun karaa dhabuutti geessuu danda’a. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) namoota dementia wajjin jiraatan kudhan keessaa jaha yoo xiqqaate al tokko karaa akka dhabu tilmaama.
+Mana deemuuf gaafachuun jooruu fiduu danda'a. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) namoota sammuu dagachuu waliin jiraatan keessaa kurnan keessaa ja'an yoo xiqqaate yeroo tokko ni jooru jedhee tilmaama.
 
-**Dursitanii qophaa’aa:**
+**Dursee qopheessi:**
 
-- Ulee ID ykn fayyaa maqaa isaanii fi lakkoofsa bilbilaa keessanii qabu, fi maqaa uffata isaanii irratti. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) MedicAlert fi sagantaa Safe and Found kan Alzheimer's Association, kan qarshii kaffaluu danda’u, caqasa. Tajaajila walfakkaatu naannoo keessanitti jiru dhaabbata Alzheimer ykn dementia naannoo keessanii gaafachuu dandeessu.
-- Qilleensa balbalaa ykn alaarmii, fi cufaa ol ykn gadi kaa’uu. Nama sana kophaa isaa gonkumaa hin cufinaa.
-- Suuraa haaraa dhiyoo irraa fi tarree iddoowwan deemuu danda’an, akka mana duraanii ykn iddoo hojii.
-- Ollaa amanamoo beeksisaa, lakkoofsa keessanis kennaaf.
+- Faaya ID yookaan faaya fayyaa kan maqaa isaanii fi lakkoofsa bilbilaa kee qabu, akkasumas mallattoo uffata isaanii irratti. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) sagantaa MedicAlert fi Alzheimer's Association Safe and Found ibsa, kunis kaffaltii gaafachuu danda'a.
+- Sagalee balbalaa yookaan alaarmii, akkasumas furtuu ol yookaan gad kaa'uu. Nama sana kophaa isaa mana keessatti hin cufinaa.
+- Suuraa fuulaa dhiyoo fi tarree iddoo isaan deemuu danda'an, kan akka mana yookaan iddoo hojii durii.
+- Ollaa amanamoo beeksisi, lakkoofsa bilbilaa kees kenniif.
 
-**Yoo dhabaman:** battaluma barbaaduu eegalaa; Alzheimer's Association namoonni baay’een maayilii 1.5 keessatti akka argaman ibsa. Yoo daqiiqaa 15 keessatti hin argamne, lakkoofsa yeroo hatattamaa naannoo keessanii bilbilaa, namni sun dementia akka qabu immoo himaa. Yoo namni tokko balaa keessa jiraate, battaluma lakkoofsa kanaan bilbilaa.
+**Yoo isaan badan:** iddoo nageenya qaban naannoo jiran sakatta'aa; yeroo tokkotti poolisii naannoo yookaan tajaajila yeroo muddamaa hatattamaan qunnamaa. Gabaasuuf daqiiqaa murtaa'e hin eeginaa. [Barruun U.S. Department of Justice bara 2021 waa'ee qorannoo namoota badan](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) dhaabbileen seera kabachiisan yeroo eegaa murtaa'e akka hin gaafanne jedha; akkasumas mallattoolee sammuu dagachuu fakkaatan akka yaaddoo balaa ol'aanaa ta'e tarreessa. Adeemsi gabaasaa naannoo garaagaraa ta'uu danda'a. Namni kun sammuu dagachuu waliin akka jiraatu deebii kennitootaaf himi, bakka dhumaaf beekame fi suuraa dhiyoo qoodi, akkasumas qajeelfama isaanii hordofi. Yoo gargaaraan biraa jiraate, bilbila bira akka turu gaafadhu. Iddoo hin nageenye kophaa kee hin barbaadin.
 
-## Yoomitti doktora waamuu qaba?
+## Yoom doktora bilbiluu qaba?
 
-Yoo gaafatuun ykn wal-hin-beekuun tasa jalqabe, ykn sa’aatii ykn guyyoota keessatti baay’ee hammaate, doktora isaanii dafaa waamaa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) amala tasaa ykn saffisaan jijjiiramu, keessumaa dhukkuba tuuta’e ykn jijjiirama qorichaa booda, battaluma ilaalamuu akka qabu jedha. Wal-hin-beekuun tasaa delirium ta’uu danda’a, [NHS](https://www.nhs.uk/symptoms/confusion/) gargaarsa hatattamaa akka barbaadu jedha; dhukkubni fincaanii namoota gaddaa keessatti sababa baratamaa dha.
+Yoo gaafachuun yookaan burjaaja'iinsi tasa eegale, yookaan sa'aatii yookaan guyyoota muraasa keessatti baay'ee hammaate hatattamaan doktora isaanii bilbilaa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) amalli tasa jijjiiramu yookaan saffisaan jijjiiramu, keessumaa erga infekshinii yookaan jijjiirama qorichaa booda, hatattamaan akka sakatta'amuu qabu jedha. Burjaaja'iinsi tasaas «delirium» ta'uu danda'a, [NHS](https://www.nhs.uk/symptoms/confusion/) kun gargaarsa hatattamaa akka barbaadu jedha; infekshinii ujummoo fincaanii namoota umuriin isaanii guddate keessatti sababa beekamaa dha.
 
-Beellama itti aanu irratti haala walitti fufiinsa qabu ibsuun illee ni gargaara, sababni isaas dhukkubbiin, gadda, rakkoon hirriba ykn miidhaan qorichaa hundi gahee qabaachuu danda’u.
+Haala tasgabbaa'aa itti fufee jiru beellama itti aanutti himuunis ni gargaara, sababni isaa dhukkubbiin, gadadoo, rakkoon hirribaa yookaan miidhaan qorichaa hirmaachuu waan danda'aniif.

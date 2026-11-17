@@ -1,33 +1,34 @@
 ---
-title: "Ko oseba z demenco zavrne dejavnost ali se ob njej razjezi"
+title: "Ko oseba z demenco zavrne dejavnost ali se razburi"
 seoTitle: "Ko oseba z demenco zavrne dejavnost"
-description: "Zakaj se oseba z demenco lahko upre dejavnosti ali se ob njej razjezi, kaj poskusiti namesto tega, česa se izogibati in kdaj nenadna sprememba zahteva zdravnika."
+description: "Zakaj oseba, ki živi z demenco, lahko zavrne dejavnost ali se razburi, kaj poskusiti, česa se izogniti in kdaj je potreben zdravnik."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Ko oseba z demenco reče ne, to mirno sprejmite in poskusite pozneje ali ponudite
-  nekaj drugega. Zavrnitev pogosto ima razlog: naloga se zdi pretežka ali otročja, je
-  utrujena, boli jo, je lačna ali jo preobremeni hrup. Ne prepirajte se in ne vztrajajte.
-  Poenostavite, ponudite dve izbiri ali prosite za pomoč. Nenadno ali hitro spreminjajoče
-  se vedenje, zlasti po okužbi ali novem zdravilu, zahteva takojšnjega obiska zdravnika.
+  Ko oseba z demenco reče ne, to mirno sprejmite in poskusite znova pozneje ali
+  ponudite kaj drugega. Zavrnitev ima pogosto razlog: naloga se zdi pretežka ali
+  otročja, oseba je utrujena, v bolečinah, lačna ali preobremenjena s hrupom.
+  Ne prerekajte se in ne vztrajajte. Poenostavite, ponudite dve možnosti ali jo
+  prosite za pomoč. Nenadno ali hitro spreminjajoče se vedenje, zlasti po okužbi
+  ali novem zdravilu, zahteva takojšen obisk pri zdravniku.
 keyPoints:
   - "„Ne“ je odgovor, ki ga je treba spoštovati, ne težava, ki jo je treba premagati."
-  - "Zavrnitev ima ponavadi vzrok: pretežko, otročje, utrujenost, slabo počutje, neudobje ali preobremenjenost."
-  - "Umaknite se, počakajte in poskusite pozneje, ob drugem času ali z bolj preprosto različico."
-  - "Prošnja za pomoč deluje bolje kot prošnja, naj nekaj izvedejo."
-  - "Nikoli ne prepirajte, ne vztrajajte, ne izpraševanjte in ne popravljajte. Preverite, ali hitite ali koga stiskate."
-  - "Nenadno ali hitro spreminjajoče se vedenje, zlasti ob okužbi ali novih zdravilih, je treba takoj predložiti zdravniku."
+  - "Zavrnitev ima običajno vzrok: pretežko, otročje, utrujenost, slabo počutje, nelagodje ali preobremenjenost."
+  - "Umaknite se, počakajte in poskusite pozneje, ob drugem času ali s preprostejšo različico."
+  - "Boljše deluje, če osebo prosite za pomoč, kot če pričakujete, da nekaj opravi."
+  - "Nikoli se ne prerekajte, ne vztrajajte, ne sprašujte in ne popravljajte. Pomislite tudi, ali morda prehitro ravnate ali preveč pritiskate."
+  - "Nenadno ali hitro spreminjajoče se vedenje, zlasti ob okužbi ali novih zdravilih, mora takoj pregledati zdravnik."
 faq:
-  - q: "Ali je v redu, da nekatere dejavnosti preskočijo?"
-    a: "Da, na kateri koli dan. Dovolj je lahko, da skupaj sedite, poslušate glasbo ali opazujete dogajanje. Če nekdo več tednov ne uživa več v ničemer, to omenite njegovemu zdravniku, saj so lahko del slike slabo razpoloženje, bolečina ali druge zdravstvene težave."
-  - q: "Zakaj zavračajo stvari, ki so jih nekoč imeli radi?"
-    a: "Stari hobi lahko postane frustrirajoč, ko zahteva spretnosti, ki jih je demenca otežila, oseba pa se lahko zaradi tega počuti v zadregi. Poskusite lažji del iste dejavnosti, na primer razvrščanje gumbov namesto šivanja ali gledanje slik vrta namesto sajenja."
-  - q: "Ali naj jih poskušam prepričati?"
-    a: "Ne. Silitev nekoga, naj naredi nekaj, kar mu je demenca otežila, je znan sprožilec nemira. Sprejmite ne, spremenite temo in ponudite znova kasneje ali na drugačen način."
-  - q: "Kdaj je sprememba vedenja nujna?"
-    a: "Pokličite 911, če je kdo v nevarnosti ali ima znake nujnega zdravstvenega stanja. Pri nenadni zmedenosti ali vedenju, ki se hitro spreminja v nekaj urah ali dneh, zlasti z vročino, okužbo ali novim zdravilom, takoj pokličite njegovega zdravnika."
+  - q: "Ali je v redu, če dejavnosti popolnoma izpusti?"
+    a: "Da, na posamezen dan. Skupno sedenje, poslušanje glasbe ali opazovanje dogajanja okoli vas je lahko dovolj. Če oseba več tednov ne uživa več v ničemer, to omenite zdravniku, saj so lahko v ozadju slabo počutje, bolečine ali druge zdravstvene težave."
+  - q: "Zakaj zavrača stvari, ki jih je imela prej rada?"
+    a: "Star konjiček lahko postane frustrirajoč, ko zdaj zahteva spretnosti, ki jih je demenca otežila, oseba pa se lahko počuti nerodno. Poskusite s preprostejšim delom iste dejavnosti, na primer razvrščanje gumbov namesto šivanja ali gledanje slik vrta namesto sajenja."
+  - q: "Ali naj jo poskusim prepričati?"
+    a: "Ne. Pritiskanje na osebo, naj naredi nekaj, kar je demenca otežila, je znan sprožilec nemira. Sprejmite zavrnitev, spremenite temo in ponudite znova pozneje ali na drugačen način."
+  - q: "Kdaj je sprememba vedenja nujen primer?"
+    a: "Pokličite 911, če je oseba v nevarnosti ali ima znake nujnega zdravstvenega stanja. Ob nenadni zmedenosti ali vedenju, ki se hitro spremeni v nekaj urah ali dneh, zlasti ob vročini, okužbi ali novem zdravilu, takoj pokličite njenega zdravnika."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -49,104 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Vse pripravite, ponudite igro ali sprehod in slišite „Ne.“ Ali pa se dejavnost dobro začne, konča pa z odrinjeno tablico in ostro besedo.
-To je odvračajoče in zelo pogosto. Zavrnitev in frustracija sta ponavadi sporočilo, ne trma. Ko ugotovite, kaj to sporočilo pomeni, pogosto
-vidite, kaj poskusiti naslednjič.
+Vse pripravite, ponudite igro ali sprehod in slišite „Ne.“ Lahko pa se dejavnost začne dobro in konča z odrinjeno tablico in ostrimi besedami. To je razočaranje in zelo pogosto. Zavrnitev in razburjenost sta običajno sporočilo, ne trma. Ko ugotovite, kaj to sporočilo pomeni, pogosto lažje vidite, kaj poskusiti naprej.
 
-## Zakaj oseba z demenco zavrača dejavnosti?
+## Zakaj oseba z demenco zavrne dejavnosti?
 
-Ponavadi obstaja razlog, tudi če ga oseba ne zna izraziti z besedami. [Alzheimerjevo združenje](https://www.alz.org/help-support/caregiving/daily-care/activities)
-pojasnjuje, da upor lahko pomeni, da oseba nalog ne zmore ali se boji poskusiti. Pogosti vzroki so:
+Običajno obstaja razlog, tudi če ga oseba ne zna izraziti z besedami. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) navaja, da lahko odpor pomeni, da oseba naloge ne zmore ali da se je boji poskusiti. Pogosti vzroki so:
 
-- **Zdi se pretežko.** Dejavnost zdaj zahteva spretnosti, ki jih je demenca otežila, in neuspeh pred drugimi je nerodno.
-- **Zdi se otročje.** Odrasli opazijo risanke, pevske glasove in dejavnosti, ki izgledajo, kot da so narejene za otroke.
-- **Utrujenost.** Mnogi imajo pozno čez dan manj energije. Glejte [mirne dejavnosti pozno popoldne](/caregiving/late-day-restlessness/).
-- **Telesno nelagodje.** [Nacionalni inštitut za staranje (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)
-  med možne vzroke stiske navaja bolečino, pomanjkanje spanja, težave z vidom ali sluhom, zaprtje, lakoto, žejo in stranske učinke novih zdravil.
-- **Preveč se dogaja.** Glasen televizor, več pogovorov ali natrpan prostor je lahko preobremenjujoč.
-- **Občutek pritiska.** NIA kot vzrok nemira navaja to, da oseba mora storiti nekaj, kar ji je Alzheimerjeva bolezen močno otežila, ali se
-  spominjati dogodkov ali ljudi.
-- **Slabo razpoloženje.** Izguba zanimanja za stvari je lahko znak depresije, ki jo je vredno omeniti zdravniku.
-- **Preprosto nočejo.** Odrasli lahko rečejo ne.
+- **Zdi se ji pretežko.** Dejavnost zdaj zahteva spretnosti, ki jih je demenca otežila, spodleteti pred nekom pa je neprijetno.
+- **Zdi se ji otročje.** Odrasli opazijo risankaste slike, otroški ton in dejavnosti, ki so videti, kot da so narejene za otroke.
+- **Utrujenost.** Mnogi ljudje imajo pozneje čez dan manj energije. Oglejte si [umirjene dejavnosti za pozno popoldne](/caregiving/late-day-restlessness/).
+- **Telesno nelagodje.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) navaja bolečino, pomanjkanje spanja, težave z vidom ali sluhom, zaprtje, lakoto, žejo in stranske učinke novih zdravil kot možne vzroke stiske.
+- **Preveč dogajanja hkrati.** Glasen televizor, več pogovorov ali polna soba so lahko preveč.
+- **Občutek pritiska.** NIA kot vzroka nemira navaja pritiskanje, naj oseba naredi nekaj, kar je Alzheimerjeva bolezen močno otežila, ali naj se spomni dogodkov ali ljudi.
+- **Slabo razpoloženje.** Izguba zanimanja za stvari je lahko znak potrtosti, kar je vredno omeniti zdravniku.
+- **Preprosto noče.** Odrasli imajo pravico reči ne.
 
-## Kaj naj poskusim, ko rečejo ne?
+## Kaj poskusiti, ko reče ne?
 
-Mirno sprejmite ne, nato nekaj spremenite: čas, dejavnost, težavnost ali način prošnje.
+Zavrnitev mirno sprejmite, nato pa spremenite nekaj: čas, dejavnost, težavnost ali način, kako vprašate.
 
-1. **Za zdaj pustite pri miru.** „Prav, morda pozneje.“ Nato se brez vzdiha preusmerite na nekaj drugega.
-2. **Poskusite znova pozneje.** Alzheimerjevo združenje predlaga, da poskusite znova pozneje ali ob drugem času dneva.
-3. **Naredite manjše.** Ena tekma namesto cele igre. Ena brisača namesto košare s perilom. Manj slik, manj izbir, slike ostanejo vidne.
-4. **Ponudite dve možnosti.** „Bi raje pogledali slike ptic ali poslušali glasbo?“ Izbira vrne občutek nadzora.
-5. **Prosite za pomoč namesto za izvedbo.** „Mi lahko pomagate razvrstiti te?“ ali „Katera barva se vam zdi najlepša?“ Biti potreben se zelo razlikuje od
-   tega, da si testiran.
-6. **Začnite sami.** Začnite dejavnost ob njih, ne da bi vprašali. Mnogi se pridružijo, ko se nekaj že dogaja, in če se ne, ste vseeno preživeli čas skupaj.
-7. **Preklopite na nekaj gibalnega ali pomirjajočega.** Kratek sprehod, glasba, prigrizek, zlaganje perila ali skupen premor
-   [mirnega dihanja](/games/calm-breathing/). NIA predlaga preusmeritev pozornosti k glasbi, knjigi ali sprehodu.
-8. **Pustite jim, da to naredijo po svoje.** Če želijo igrati drugače, kot pravijo pravila, se temu pridružite. Alzheimerjevo združenje svetuje prilagodljivost.
+1. **Za zdaj pustite.** „V redu je. Morda pozneje.“ Nato nadaljujte z nečim drugim brez vzdihovanja.
+2. **Poskusite znova pozneje.** Alzheimer's Association predlaga, da poskusite znova pozneje ali ob drugem času dneva.
+3. **Naj bo manjše.** Ena ujemajoča se slika namesto celotne igre. Ena brisača namesto koša perila. Manj slik, manj izbir, slike naj ostanejo vidne.
+4. **Ponudite dve možnosti.** „Bi si raje pogledali slike ptic ali poslušali glasbo?“ Izbira vrne občutek nadzora.
+5. **Prosite za pomoč, ne za dokazovanje.** „Mi lahko pomagate to razvrstiti?“ ali „Mi lahko poveste, katera barva je najlepša?“ Občutek, da ste potrebni, je zelo drugačen od občutka, da vas nekdo preverja.
+6. **Začnite sami.** Začnite z dejavnostjo poleg osebe, ne da bi jo vprašali. Mnogi se pridružijo, ko se nekaj že dogaja, in če se ne, ste vseeno preživeli čas skupaj.
+7. **Preklopite na nekaj telesnega ali pomirjujočega.** Kratek sprehod, glasba, prigrizek, zlaganje perila ali skupen premor z [mirnim dihanjem](/games/calm-breathing/). NIA predlaga, da pozornost preusmerite na glasbo, knjigo ali sprehod.
+8. **Naj naredi po svoje.** Če želi igrati drugače, kot pravijo pravila, ji sledite. Alzheimer's Association svetuje prožnost.
 
-## Kaj naj rečem, ko se razjezijo?
+## Kaj reči, ko se oseba razburi?
 
-Upočasnite, znižajte glas in pomirjajte. [Navodila Alzheimerjevega združenja o nemiru](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)
-svetujejo umik in vprašanje za dovoljenje, mirne, pozitivne izjave ter ponudbo vodene izbire med dvema možnostma. Fraze v tem duhu:
+Upočasnite, znižajte glas in jo pomirite. [Navodila Alzheimer's Association o nemiru](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) predlagajo, da se umaknete in vprašate za dovoljenje, uporabite mirne, spodbudne besede ter ponudite vodeno izbiro med dvema možnostma. Stavki v tem duhu:
 
-- „Žal mi je, ta je nadležna. Ustavimo se.“
-- „Dobro se držite. Jaz sem tukaj.“
+- „Oprostite, to je res nadležno. Nehajva.“
+- „V redu gre. Tukaj sem z vami.“
 - „Imate čas, da mi pomagate pri nečem drugem?“
-- „Bi namesto tega skupaj popili skodelico čaja?“
+- „Bi raje popila skodelico čaja?“
 
-Nato dejavnost končajte, ne da bi iz tega naredili veliko stvar. Naši [nasveti za sporazumevanje](/caregiving/communication-tips/) imajo več o tem, kaj reči.
+Nato dejavnost končajte brez pretiranega poudarjanja. Naši [nasveti za sporazumevanje](/caregiving/communication-tips/) vsebujejo več o tem, kaj reči.
 
-## Česa se je treba izogibati?
+## Česa se je bolje izogniti?
 
-Nekatere naravne reakcije ponavadi stvari poslabšajo.
+Nekatere naravne reakcije stvari pogosto poslabšajo.
 
-- **Prepiranje ali vztrajanje.** „Pridi, še samo enega“ ali „Saj to imaš rad“ redko pomaga.
-- **Izpraševanje ali popravljanje.** „Saj veš, kaj je to“ ali „Ne, ta je narobe“ dodaja pritisk.
-- **Jemanje osebno.** NIA opozarja skrbnike, da te spremembe povzroča bolezen, ne oseba.
-- **Stiskanje ali hitenje.** Alzheimerjevo združenje svetuje, da ne dvigujete glasu, ne kažete alarma, ne ujamete v kot, ne stiskate, ne zadržujete, ne kritizirate, ne
-  ignorirate in se ne prepirate z osebo, ter da se izogibate nenadnim gibom izven njenega vidnega polja.
-- **Uporaba krivde.** „Vse to sem pripravil/-a zate“ naredi, da se oba slabše počutita.
-- **Označevanje.** „Trmasta“ ali „zahtevna“ skrijeta pravi razlog in otežita reševanje.
+- **Prepiranje ali vztrajanje.** „Dajmo, samo še enkrat“ ali „To pa imate radi“ redko pomaga.
+- **Spraševanje ali popravljanje.** „Saj veste, kaj je to“ ali „Ne, to ni prav“ poveča pritisk.
+- **Osebno jemanje.** NIA opominja skrbnike, da te spremembe povzroča bolezen, ne oseba.
+- **Pritiskanje ali hitenje.** Alzheimer's Association svetuje, naj ne dvignete glasu, ne kažete alarma, ne stisnete osebe v kot, se ji ne približate preveč, je ne zadržujete, ne kritizirate, ne ignorirate in se ne prerekate z njo ter se izogibate nenadnim gibom zunaj njenega vidnega polja.
+- **Vzbujanje občutka krivde.** „Vse sem pripravil za vas“ pusti slab občutek pri obeh.
+- **Označevanje.** Besedi „trmast“ ali „težaven“ skrijeta pravi razlog in otežita iskanje rešitve.
 
-## Kako ugotovim, kaj stoji za ponavljajočimi se zavrnitvami?
+## Kako ugotoviti, kaj je za ponavljajočimi se zavrnitvami?
 
-Eno do dva tedna vodite preprost zapisek. NIA pravi, da lahko spremljanje sprememb vedenja pomaga skrbnikom in zdravstvenim delavcem prepoznati vzorec
-in ugotoviti vzrok.
+Nekaj tednov si vodite preprost zapis. NIA pravi, da lahko sledenje spremembam vedenja skrbnikom in zdravstvenim delavcem pomaga prepoznati vzorec in ugotoviti vzrok.
 
-Zapišite:
+Zabeležite si:
 
-- čas dneva;
+- uro dneva;
 - kaj ste ponudili in kako ste vprašali;
-- kaj se je dogajalo okoli vas (hrup, obiski, televizor);
-- kako sta spala, jedla in pila ter kdaj je bila nazadnje v kopalnici;
-- morebitna nova zdravila ali nedavno bolezen.
+- kaj se je dogajalo okoli vas (hrup, obiskovalci, televizor);
+- kako je oseba spala, jedla in pila ter kdaj je bila nazadnje na stranišču;
+- vsa nova zdravila ali nedavno prebolelo bolezen.
 
-Vzorci se pogosto hitro pokažejo: zavrnitve, ki se zgodijo samo po 4. uri popoldne, samo pri določeni igri ali samo ob vklopljenem televizorju. Vodnik
-[Family Caregiver Alliance o vedenju pri demenci](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) to pove preprosto: osebe
-ne moremo spremeniti, lahko pa spremenimo svoje vedenje in okolje.
+Vzorci se pogosto pokažejo hitro: zavrnitve, ki se zgodijo le po štirih popoldne, le pri določeni igri ali le, ko je vklopljen televizor. [Vodnik Family Caregiver Alliance o vedenju pri demenci](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) to pove preprosto: osebe ne moremo spremeniti, lahko pa spremenimo svoje vedenje in okolje.
 
-## Kdaj naj se o zavračanju ali frustraciji pogovorim z zdravnikom?
+## Kdaj se je treba o zavrnitvi ali razburjenosti pogovoriti z zdravnikom?
 
-Pogovorite se z zdravnikom, kadar se vedenje spremeni nenadoma, hitro ali skupaj z znaki bolezni. NIA pravi, da je treba nenadne ali hitro nihajoče
-spremembe vedenja, zlasti če je imela oseba okužbo ali nedavne spremembe zdravil, takoj sporočiti zdravniku.
+Z zdravnikom se pogovorite, ko se vedenje spremeni nenadno, hitro ali skupaj z znaki bolezni. NIA navaja, da je treba nenadne ali hitro spreminjajoče se spremembe vedenja, zlasti če je imela oseba okužbo ali nedavne spremembe zdravil, takoj sporočiti zdravniku.
 
-Takoj pokličite njenega zdravnika, če opazite:
+Takoj se obrnite na njenega zdravnika, če opazite:
 
 - nenadno zmedenost ali veliko spremembo v nekaj urah ali dneh;
 - znake bolečine, kot so krčenje obraza, varovanje dela telesa ali nove težave pri gibanju;
 - vročino ali druge znake okužbe;
 - nova ali spremenjena zdravila, ki jim sledi sprememba vedenja;
-- izgubo zanimanja skoraj za vse, solzenje ali umikanje, ki traja dlje kot nekaj tednov;
+- izgubo zanimanja za skoraj vse, jokavost ali umik, ki traja več kot dva tedna;
 - zavračanje hrane ali pijače.
 
-Alzheimerjevo združenje priporoča temeljit zdravniški pregled za vsakogar z vedenjskimi simptomi, zlasti kadar se pojavijo nenadoma. Družinski skrbniki
-(Family Caregiver Alliance) prav tako svetujejo, naj se najprej posvetujete z zdravnikom, ker so lahko težave z vedenjem telesnega izvora. Ne začenjajte, ne
-prenehajte in ne spreminjajte nobenega zdravila brez pogovora z zdravnikom ali farmacevtom.
+Alzheimer's Association priporoča temeljit zdravstveni pregled za vsako osebo z vedenjskimi težavami, zlasti kadar se pojavijo nenadno. Family Caregiver Alliance prav tako svetuje, da se najprej posvetujete z zdravnikom, saj imajo lahko težave z vedenjem zdravstveni vzrok. Nobenega zdravila ne začnite, ne prenehajte in ne spreminjajte brez pogovora z zdravnikom ali farmacevtom.
 
-Če je kdo v nevarnosti ali so znaki nujnega zdravstvenega stanja, pokličite 911. NIA svetuje, da dispečerju povete, da ima oseba demenco.
+Če je kdo v nevarnosti ali so prisotni znaki nujnega zdravstvenega stanja, pokličite 911. NIA predlaga, da dispečerju poveste, da ima oseba demenco. Za takojšnje korake za varnost, ko jeza postane telesna, si oglejte naš [vodnik o jezi in agresivnosti pri demenci](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Ali je v redu, če ne naredimo čisto nič?
+## Ali je v redu, če sploh ne počneva ničesar?
 
-Da. Nekateri dnevi je najboljša dejavnost nobena: skupno sedenje, držanje za roke, poslušanje ljubljene plošče ali opazovanje ptic za oknom.
-To ni neuspeh. Naš [vodnik o igranju skupaj](/caregiving/how-to-play-together/) pojasnjuje, zakaj je lahko prav predčasna ustavitev ali to, da sploh ne
-začnete, prava odločitev.
+Da. Nekateri dnevi je najboljša dejavnost prav nobena: skupno sedenje, držanje za roko, poslušanje najljubše glasbe ali opazovanje ptic skozi okno. To ni neuspeh. Naš [vodnik o skupnem igranju](/caregiving/how-to-play-together/) pojasni, zakaj je lahko zgodnja prekinitev ali pa sploh nezačetje prava odločitev.

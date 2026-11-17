@@ -1,34 +1,35 @@
 ---
-title: "Întrebări ușoare pentru vârstnici cu demență, fără presiune"
-seoTitle: "Întrebări ușoare pentru vârstnici cu demență: 50 de idei"
-description: "50 de întrebări ușoare pentru vârstnici cu demență, cu variante de răspuns și teme de discuție, plus cum le folosiți ca nimeni să nu se simtă testat sau lăsat deoparte."
+title: "Trivia ușoară pentru seniori cu demență, fără presiune"
+seoTitle: "Întrebări trivia pentru seniori cu demență, cu răspunsuri"
+description: "50 de întrebări trivia ușoare pentru seniori cu demență, cu variante de răspuns și idei de discuție, plus cum să organizați trivia fără ca nimeni să se simtă testat."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Întrebările ușoare pentru vârstnici cu demență merg bine când seamănă cu o
-  discuție, nu cu un test. Întrebați despre lucruri învățate demult, cum ar fi
-  cântecele vechi, proverbele, sărbătorile și viața de zi cu zi, și oferiți mereu
-  două sau trei variante. Dați răspunsul fără reținere, nu scoateți pe nimeni în
-  față, renunțați la scor și folosiți fiecare răspuns ca început al unei povești.
-  Întrebările de tipul „una sau alta”, fără răspuns greșit, se potrivesc
-  stadiilor mai avansate.
+  Trivia ușoară pentru persoanele care trăiesc cu demență funcționează bine
+  atunci când se simte ca o conversație, nu ca un test. Puneți întrebări despre
+  lucruri învățate cu mult timp în urmă, cum ar fi cântece vechi, zicători,
+  sărbători și viața de zi cu zi, și oferiți întotdeauna două sau trei variante.
+  Spuneți răspunsul cu căldură, nu scoateți pe nimeni în evidență, renunțați la
+  punctaj și folosiți fiecare răspuns pentru a începe o poveste. Întrebările de
+  tip „una sau alta”, fără răspuns greșit, se potrivesc în etapele mai
+  avansate.
 keyPoints:
-  - "Întrebați despre lucruri cunoscute de multă vreme: cântece, proverbe, sărbători, mâncare și viața de zi cu zi de acum ani."
-  - "Oferiți două sau trei variante, ca răspunsul să poată fi recunoscut, nu căutat din memorie."
-  - "Spuneți răspunsul cu căldură și mergeți mai departe. Orice încercare care pornește o poveste este o încercare bună."
-  - "Fără puncte, fără echipe în întrecere, fără să fie strigată o singură persoană. Lăsați răspunsurile să vină din toată camera."
-  - "Când alegerea dintre variante devine grea, treceți la întrebări de tipul „una sau alta”, fără răspuns corect."
+  - "Puneți întrebări despre lucruri cunoscute de mult timp: cântece, zicători, sărbători, mâncăruri și viața de zi cu zi de altădată."
+  - "Oferiți două sau trei variante, astfel încât răspunsul să poată fi recunoscut, nu scos din memorie."
+  - "Spuneți răspunsul cu căldură și treceți mai departe. Orice încercare care pornește o poveste este o încercare bună."
+  - "Fără puncte, fără echipe care se întrec, fără să puneți o singură persoană să răspundă. Lăsați răspunsurile să vină din întregul grup."
+  - "Când alegerea dintre răspunsuri devine dificilă, treceți la întrebări de tip una sau alta, fără răspuns corect."
 faq:
-  - q: "Sunt întrebările de cultură generală o activitate bună pentru persoanele cu demență?"
-    a: "Pot fi, dacă sunt conduse blând. Alzheimer's Foundation of America include întrebările de tip trivia printre activitățile pentru stadiul incipient. Păstrați întrebările despre subiecte cunoscute de multă vreme, oferiți variante, nu puneți niciodată o persoană în încurcătură și tratați răspunsurile ca pe o poartă spre conversație, nu ca pe un test."
-  - q: "Ce subiecte merg cel mai bine pentru întrebările despre demență?"
-    a: "Cel mai bine merg de obicei lucrurile învățate demult: cântece și cântăreți populari din tinerețea persoanei, proverbe cunoscute, sărbători, mâncare, sport și viața de zi cu zi, cum ar fi telefonul cu disc. Evitați știrile recente și tot ce cere să vă amintiți ceva de mai devreme din aceeași ședință."
-  - q: "Cum conduc întrebările într-un cămin fără să încurc pe cineva?"
-    a: "Citiți fiecare întrebare întregului grup, arătați sau spuneți variantele și primiți răspunsuri de la oricine. Nu strigați persoane anume și nu țineți scorul. Spuneți răspunsul cu un zâmbet, orice s-ar fi ghicit, și puneți o întrebare în plus, de exemplu „Cine a fost vreodată la cinema în aer liber?”, ca să porniți povești."
-  - q: "Ce pot face în loc de întrebări în stadiile mai avansate?"
-    a: "Treceți la întrebări fără răspuns greșit, cum ar fi „Cafea sau ceai?” sau „Mare sau munte?”, și la completarea împreună a unor proverbe sau cântece cunoscute. Privitul imaginilor și descrierea lor împreună merge de asemenea bine."
+  - q: "Este trivia o activitate potrivită pentru persoanele care trăiesc cu demență?"
+    a: "Poate fi, dacă este desfășurată cu blândețe. Alzheimer's Foundation of America include trivia printre activitățile pentru etapa timpurie. Păstrați întrebările despre subiecte cunoscute de mult timp, oferiți variante, nu puneți niciodată o persoană într-o situație dificilă și folosiți răspunsurile ca punct de plecare pentru conversație, nu ca test."
+  - q: "Ce subiecte se potrivesc cel mai bine pentru trivia în demență?"
+    a: "De obicei, cel mai bine merg lucrurile învățate cu mult timp în urmă: cântece și cântăreți cunoscuți din tinerețea persoanei, zicători familiare, sărbători, mâncăruri, sport și viața de zi cu zi, precum livrările de lapte sau telefoanele cu disc. Evitați știrile recente și orice lucru care presupune să vă amintiți ceva de mai devreme din aceeași activitate."
+  - q: "Cum pot organiza trivia într-un cămin de îngrijire fără să pun pe nimeni într-o situație stânjenitoare?"
+    a: "Citiți fiecare întrebare întregului grup, arătați sau spuneți variantele și primiți răspunsuri de la oricine. Nu numiți persoane anume și nu țineți scorul. Spuneți răspunsul cu un zâmbet, indiferent de ce s-a răspuns, apoi puneți o întrebare de continuare, precum „Cine dintre dumneavoastră a fost vreodată la un cinema în mașină?”, pentru a transforma momentul în povești."
+  - q: "Ce pot face în loc de trivia în etapele mai avansate?"
+    a: "Treceți la întrebări fără răspuns greșit, precum „Cafea sau ceai?” ori „Mare sau munte?”, și la completarea împreună a unor zicători sau cântece cunoscute. Și privitul unor imagini și descrierea lor împreună pot fi activități plăcute."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -47,135 +48,133 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Întrebările de cultură generală sunt una dintre cele mai cerute activități de grup în cămine și în centrele de zi, iar multe familii le joacă și la masa din bucătărie. Conduse în felul obișnuit, cu puncte și cu o singură persoană care răspunde, pot lăsa o persoană cu demență în încurcătură. Conduse blând, sunt o cale vie de a asculta povești. Mai jos sunt 50 de întrebări ușoare, cu variante de răspuns și cu ceva de discutat la fiecare, apoi felul în care puteți conduce o ședință. Întrebările sunt adaptate pentru cititori din România; schimbați-le după viața și amintirile persoanei.
+Trivia este una dintre activitățile de grup cele mai căutate în căminele de îngrijire și în programele de zi, iar multe familii o joacă și acasă, la masa din bucătărie. Desfășurată în modul obișnuit, cu puncte și cu o singură persoană care răspunde, poate face ca o persoană care trăiește cu demență să se simtă presată. Desfășurată cu blândețe, devine o modalitate plină de viață de a asculta povești. Mai jos găsiți 50 de întrebări ușoare, cu variante de răspuns și câte un subiect de discuție pentru fiecare, urmate de sugestii despre cum să organizați o activitate.
 
-## Cum faceți ca întrebările să meargă pentru o persoană cu demență?
+## Cum puteți face ca trivia să fie potrivită pentru o persoană care trăiește cu demență?
 
-Faceți-le despre recunoașterea și amintirea unor lucruri de demult și primiți bine fiecare răspuns.
+Transformați-o într-o activitate de recunoaștere și de aducere aminte a lucrurilor din trecutul îndepărtat și faceți ca fiecare răspuns să fie binevenit.
 
-1. **Întrebați despre trecutul îndepărtat.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) spune că cel mai frecvent simptom timpuriu al bolii Alzheimer este dificultatea de a-și aminti informații noi învățate. Cântecele, proverbele și viața de zi cu zi de acum zeci de ani sunt adesea un teren mai ușor.
-2. **Oferiți mereu variante.** Să alegi răspunsul corect dintre două sau trei este mult mai ușor decât să-l scoți din nimic.
-3. **Citiți întrebările cu voce tare și arătați-le scrise mare.** O tablă albă sau o tabletă ținută sus ajută persoanele care aud mai greu.
-4. **Dați răspunsul fără reținere.** Dacă nimeni nu știe, spuneți-l cu căldură și mergeți mai departe. Niciodată „Haide, doar știți asta.”
+1. **Întrebați despre trecutul îndepărtat.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) spune că cel mai frecvent simptom timpuriu al bolii Alzheimer este dificultatea de a reține informații nou învățate. Cântecele, zicătorile și viața de zi cu zi de acum câteva decenii sunt adesea un teren mai ușor.
+2. **Oferiți întotdeauna variante.** Este mult mai ușor să alegi răspunsul corect dintre două sau trei variante decât să îl produci de la zero.
+3. **Citiți întrebările cu voce tare și arătați-le mare.** O tablă albă sau o tabletă ținută sus îi poate ajuta pe cei care aud mai greu.
+4. **Spuneți răspunsul cu deschidere.** Dacă nimeni nu știe, spuneți-l cu căldură și treceți mai departe. Nu spuneți niciodată „Hai că știi răspunsul”.
 5. **Fără scor.** Nici pentru persoane, nici pentru mese. Dacă oamenii vor un număr, păstrați un singur total pentru grup.
-6. **Nu strigați niciodată o singură persoană.** Lăsați răspunsurile să vină de la oricine. Față în față, răspundeți împreună: „Cred că este pianul. Dumneavoastră ce credeți?”
-7. **Folosiți tema de discuție.** Răspunsul este începutul, nu sfârșitul. Poveștile sunt adevăratul scop.
-8. **Păstrați-o scurtă.** Zece întrebări, cu povești între ele, sunt destule.
+6. **Nu numiți o singură persoană.** Lăsați răspunsurile să vină de la oricine. Într-o activitate în doi, răspundeți împreună: „Cred că este pianul. Ce părere aveți?”
+7. **Folosiți ideea de discuție.** Răspunsul este începutul, nu sfârșitul. Poveștile sunt adevăratul scop.
+8. **Păstrați activitatea scurtă.** Zece întrebări, cu povești între ele, sunt suficiente.
 
-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) spune simplu regula de bază: urmăriți semnele de frustrare și asigurați-vă că persoana se simte reușită. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) include întrebările de acest fel printre activitățile pentru stadiul incipient. În stadiul mijlociu, rămâneți la două variante și sprijiniți-vă pe temele de discuție. Mai târziu, treceți la întrebările „una sau alta” de mai jos.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) exprimă simplu regula de bază: fiți atenți la semnele de frustrare și asigurați-vă că persoana se simte în largul ei. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) include trivia printre activitățile pentru etapa timpurie. În etapa mijlocie, păstrați doar două variante și bazați-vă mai mult pe ideile de discuție. Mai târziu, treceți la întrebările de tip una sau alta de mai jos.
 
-## Întrebări despre muzică și divertisment
+## Trivia despre muzică și divertisment
 
-Răspunsul este scris **îngroșat**. Adaptați-le persoanei: cineva care a crescut cu muzica populară va vrea alți cântăreți decât cineva care a crescut cu orchestrele mari.
+Răspunsul este scris cu **aldine**. Adaptați aceste întrebări persoanei: cineva care a crescut cu Motown va dori alți cântăreți decât cineva care a crescut cu muzică de big band.
 
-| Întrebare | Variante | Discutați despre |
+| Întrebare | Variante | Subiect de discuție |
 | --- | --- | --- |
-| Cine a fost numit Regele rock and roll-ului? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Ați văzut vreodată un film sau o emisiune cu Elvis? |
-| Ce cântăreț avea porecla „Ol' Blue Eyes”? | Dean Martin, **Frank Sinatra**, Perry Como | Care cântec al lui Sinatra vă place cel mai mult? |
-| Bing Crosby a cântat despre un Crăciun... | **alb**, galben, albastru | Cântați un vers împreună |
-| Louis Armstrong a cântat „What a Wonderful...” | zi, **lume**, viață | Ce face lumea frumoasă pentru dumneavoastră? |
-| „Over the Rainbow” a fost cântat de Judy Garland în ce film? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Unde vedeați filmele preferate? |
-| Ce instrument are coarde și se cântă cu arcuș? | trompeta, **vioara**, toba | A cântat cineva din familie la vreun instrument? |
-| Ce animal trăgea căruța la țară? | pisica, **calul**, găina | Ați mers vreodată cu o căruță? |
-| Ce aparat arată imagini și sunet în sufragerie? | ceasul, fierul de călcat, **televizorul** | Ce vă plăcea să vedeți la televizor? |
-| Care instrument are 88 de clape? | chitara, **pianul**, trompeta | A cântat cineva din familie? |
-| Care dans se numără unu-doi-trei, unu-doi-trei? | **valsul**, twistul, tangoul | Unde mergeați la dans? |
+| Cine era numit Regele Rock and Roll-ului? | **Elvis Presley**, Frank Sinatra, Bing Crosby | L-ați văzut vreodată pe Elvis la televizor? |
+| Care cântăreț era supranumit Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Care cântec al lui Sinatra vă place cel mai mult? |
+| Bing Crosby visa la un Crăciun... | **alb**, de nuntă, într-o casă | Cântați împreună un vers |
+| Louis Armstrong a cântat „What a Wonderful...” | Day, **World**, Life | Ce face lumea minunată pentru dumneavoastră? |
+| „Over the Rainbow” a fost cântată de Judy Garland în ce film? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Unde vă vedeați filmele preferate? |
+| Cine a jucat rolul lui Lucy în „I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Ce emisiuni urmărea familia dumneavoastră împreună? |
+| Ce cowboy călărea un cal pe nume Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Vă jucați de-a cowboy-ul când erați copil? |
+| Cine a prezentat „The Tonight Show” timp de 30 de ani? | Ed Sullivan, **Johnny Carson**, Bob Hope | Stăteați treaz până târziu ca să vă uitați la televizor? |
+| Ce instrument are 88 de clape? | Chitara, **pianul**, trompeta | Cânta cineva din familia dumneavoastră la un instrument? |
+| Ce dans se numără unu-doi-trei, unu-doi-trei? | **Valsul**, twistul, tangoul | Unde mergeați să dansați? |
 
-Pentru mai multe despre muzică, citiți [activitățile cu muzică pentru demență](/activities/music/).
+Pentru mai multe idei legate de muzică, vedeți [activități muzicale pentru demență](/activities/music/).
 
-## Întrebări despre viața de zi cu zi
+## Trivia despre viața de zi cu zi
 
-| Întrebare | Variante | Discutați despre |
+| Întrebare | Variante | Subiect de discuție |
 | --- | --- | --- |
-| Înainte de frigidere, multe case păstrau mâncarea rece în... | **pivniță**, cuptor, pod | Ce păstrați în pivniță? |
-| Cine aducea scrisorile la ușă? | brutarul, **poștașul**, pompierul | Ce altceva se aducea la casă? |
-| Cum formați un număr la un telefon cu disc? | apăsând butoane, **rotind discul**, vorbindu-i | Povestiți-mi despre telefonul din casa dumneavoastră |
-| Ce companie a făcut automobilul Model T? | **Ford**, Dacia, Fiat | Povestiți-mi despre o mașină care vă plăcea |
-| Unde cumpărați pâine caldă? | **la brutărie**, la bancă, la farmacie | Ce cumpărați de la brutărie? |
-| Ce jucărie zboară în aer, legată de un fir, când bate vântul? | mingea, păpușa, **zmeul** | Ce jucării vă plăceau? |
-| Unde mergeați să vedeți un film pe un ecran mare? | **la cinema**, la poștă, la piață | Cu cine mergeați? |
-| Cât face o sută de bani? | zece lei, **un leu**, o sută de lei | Ce puteați cumpăra pe atunci cu un leu? |
-| Cu ce se mătură casa? | **cu mătura**, cu lingura, cu pensula | Cine făcea curățenie în casă? |
-| Ce culoare are semaforul când trebuie să opriți? | verde, **roșu**, albastru | Cum vă deplasați când erați tânăr? |
+| Înainte de frigidere, multe case păstrau mâncarea rece într-un... | **Ladă cu gheață**, cuptor, pod | Cine aducea gheața? |
+| Cine aducea laptele la ușă în sticle de sticlă? | Poștașul, **lăptarul**, băiatul care aducea ziarele | Ce alte lucruri se aduceau acasă? |
+| Cum formați un număr la un telefon cu disc? | Apăsând butoane, **rotind discul**, vorbind cu telefonul | Povestiți-mi despre telefonul din casa dumneavoastră |
+| Ce companie a produs mașina Model T? | **Ford**, Chevrolet, Buick | Povestiți-mi despre o mașină care vă plăcea |
+| Unde găseați un „soda jerk”? | **La un tejghea de sucuri și înghețată**, la o brutărie, la o bancă | Ce comandați la tejghea? |
+| Ce jucărie este un arc metalic care poate coborî scările? | Yo-yo, **Slinky**, hula hoop | Ce jucării vă plăceau? |
+| Un cinema în mașină era un loc unde urmăreai... | **Filme din mașină**, meciuri, parade | Cu cine mergeați? |
+| A cui față este pe bancnota de un dolar? | Lincoln, **George Washington**, Jefferson | Ce cumpărai cu un dolar pe vremea aceea? |
+| A cui față este pe moneda de un cent? | **Abraham Lincoln**, Washington, Franklin | Păstrați bănuți într-un borcan pe atunci? |
+| Ce culoare are de obicei un autobuz școlar? | Roșie, **galbenă**, albastră | Cum mergeați la școală? |
 
 ## Sărbători, natură și locuri
 
-| Întrebare | Variante | Discutați despre |
+| Întrebare | Variante | Subiect de discuție |
 | --- | --- | --- |
-| Mărțișorul se dăruiește la începutul lunii... | februarie, **martie**, aprilie | Ați primit vreodată un mărțișor? |
-| Ouăle se vopsesc în roșu de... | Anul Nou, **Paște**, Ziua Muncii | Povestiți-mi despre Paștele de unde ați crescut |
-| Ziua Națională a României este în luna... | noiembrie, **decembrie**, ianuarie | Ce vă amintiți din ziua aceea? |
-| Ziua Mamei se sărbătorește în luna... | aprilie, **mai**, iunie | Cum sărbătorea familia dumneavoastră? |
-| Câte culori are steagul României? | două, **trei**, patru | Care sunt culorile? Orice răspuns este o amintire bună |
-| Pe malul cărei mări se află Constanța? | Marea Baltică, **Marea Neagră**, Marea Mediterană | Ați fost vreodată la mare? |
-| În ce oraș se află Palatul Parlamentului? | Cluj-Napoca, **București**, Iași | Ați fost vreodată la București? |
-| Ce fac albinele? | lapte, **miere**, mătase | Miere pe pâine sau în ceai? |
-| Puiul vacii se numește... | mânz, **vițel**, miel | Ați locuit vreodată lângă o fermă? |
-| Ce floare galbenă și înaltă este cunoscută pentru că se întoarce spre soare? | trandafirul, **floarea-soarelui**, lalea | Ce creștea în grădina dumneavoastră? |
-| Câte zile are un an bisect? | 365, **366**, 360 | Povestiți-mi despre o zi de naștere pe care o țineți minte |
-| Ce anotimp vine după iarnă? | toamna, **primăvara**, vara | Care este anotimpul dumneavoastră preferat? |
+| Ce sărbătoare este în a patra joi din noiembrie? | Labor Day, **Thanksgiving**, Memorial Day | Ce nu lipsea niciodată de pe masa dumneavoastră? |
+| Felinarele din dovleac se fac pentru ce sărbătoare? | **Halloween**, Paște, Crăciun | Povestiți-mi despre Halloween acolo unde ați crescut |
+| A patra zi din iulie sărbătorește Declarația de... | Drepturi, **Independență**, Libertate | Unde vă uitați la focurile de artificii? |
+| Ziua Mamei este în ce lună? | Aprilie, **mai**, iunie | Cum sărbătorea familia dumneavoastră? |
+| Câte stele sunt pe steagul american? | 48, **50**, 52 | Steagul a avut 48 de stele până în 1959. Oricare dintre răspunsuri poate aduce o amintire bună |
+| Ce ocean se află pe Coasta de Est? | Pacific, **Atlantic**, Arctic | Ați fost vreodată la mare? |
+| În ce oraș se află Statuia Libertății? | Boston, **New York**, Philadelphia | Ați fost la New York? |
+| Ce fac albinele? | Lapte, **miere**, mătase | Miere pe pâine prăjită sau în ceai? |
+| Un vițel se numește... | Mânz, **vițel**, ied | Ați locuit vreodată aproape de o fermă? |
+| Ce floare galbenă și înaltă este cunoscută pentru faptul că se întoarce spre soare? | Trandafirul, **floarea-soarelui**, laleaua | Ce creștea în grădina dumneavoastră? |
+| Câte zile are un an bisect? | 365, **366**, 360 | Povestiți-mi despre o zi de naștere de care vă amintiți |
+| Ce anotimp vine după iarnă? | Toamna, **primăvara**, vara | Care este anotimpul dumneavoastră preferat? |
 
-## Întrebări despre mâncare și sport
+## Trivia despre mâncare și sport
 
-| Întrebare | Variante | Discutați despre |
+| Întrebare | Variante | Subiect de discuție |
 | --- | --- | --- |
-| Stafidele sunt făcute din... | prune, **struguri**, cireșe | Puneați stafide în pachetul de la școală? |
-| Zacusca se face mai ales din... | mazăre, **vinete**, castraveți | Cine făcea zacuscă în familie? |
-| Ce se pune în sarmale, pe lângă carne? | zahăr, **orez**, cafea | Cine făcea cele mai bune sarmale? |
-| Din ce se face dulceața? | **din fructe**, din carne, din pește | Cine făcea dulceață în familie? |
-| La ce sărbătoare se coc cozonacii? | Ziua Muncii, **Paște**, Ziua Mamei | Ce umplutură vă plăcea cel mai mult? |
-| Câți jucători are o echipă de fotbal pe teren? | 9, **11**, 15 | Pentru ce echipă țineați? |
-| Câte reprize are un meci de fotbal? | una, **două**, patru | Ați jucat vreodată fotbal? |
-| Care gimnastă românească a primit prima notă de 10 la Jocurile Olimpice? | Simona Halep, **Nadia Comăneci**, Gabriela Szabo | Ați urmărit vreodată Jocurile Olimpice? |
+| Stafidele sunt... | Prune uscate, **struguri uscați**, cireșe uscate | Puneați stafide în pachețelele de prânz? |
+| Prunele uscate sunt... | **Prune**, smochine, mere | Cui din familia dumneavoastră îi plăceau prunele uscate? |
+| Unt de arahide și... | **Dulceață**, brânză, șuncă | Crocant sau fin? |
+| Guacamole este făcut în mare parte din... | Mazăre, **avocado**, castraveți | Ce sosuri apăreau la petreceri? |
+| Ce plăcintă este preferată de Thanksgiving? | **De dovleac**, de lămâie, de cireșe | Ce plăcintă pregăteați? |
+| Câți jucători are o echipă de baseball pe teren? | 7, **9**, 11 | Cu ce echipă țineați? |
+| Câte lovituri ratate înseamnă eliminare în baseball? | Două, **trei**, patru | Ați jucat vreodată baseball? |
+| Babe Ruth a fost celebru pentru ce sport? | Box, **baseball**, golf | Mergeați la meciuri? |
 | Câte găuri are un teren standard de golf? | 9, **18**, 24 | Ați jucat vreodată golf sau minigolf? |
-| În ce sport se aruncă mingea în coș? | fotbal, **baschet**, înot | Cine se uita la sport la dumneavoastră în casă? |
+| În ce sport marchezi un touchdown? | **Fotbal american**, hochei, baschet | Cine se uita la fotbal american la dumneavoastră acasă? |
 
-## Proverbe cunoscute
+## Zicători cunoscute
 
-Completarea unui proverb folosește limba învățată demult și vine adesea ușor. Jocul nostru [Completați proverbul](/games/finish-the-saying/) are mult mai multe, cu o atingere ca să arate orice sfârșit.
+Completarea unei zicători se bazează pe limbajul învățat cu mult timp în urmă și adesea vine ușor. Jocul nostru [Completează zicătoarea](/games/finish-the-saying/) are multe alte exemple, cu o atingere pentru a arăta orice final.
 
-| Proverb | Variante | Discutați despre |
+| Zicătoare | Variante | Subiect de discuție |
 | --- | --- | --- |
-| Cine se scoală de dimineață, departe... | **ajunge**, doarme, râde | Sunteți un om de dimineață? |
-| Nu vindeți pielea ursului din pădure până nu... | **l-ați împușcat**, l-ați spălat, l-ați cântat | Cine spunea asta în familia dumneavoastră? |
-| Ce-i în mână nu-i... | **minciună**, pâine, apă | Povestiți-mi despre ceva ce ați ținut mereu aproape |
-| Oriunde e bine, dar acasă e... | **mai bine**, mai ieftin, mai cald | Ce face dintr-un loc o casă? |
-| Mai bine mai târziu decât... | devreme, **niciodată**, puțin | Cine întârzia mereu? |
-| După ploaie vine... | ceața, **soarele**, zăpada | Povestiți-mi despre un noroc neașteptat |
-| Vorba multă, sărăcia... | **omului**, drumului, casei | Povestiți-mi despre cineva care spunea asta |
-| Cine se aseamănă... | **se adună**, se ceartă, se pierde | Cine erau prietenii dumneavoastră cei mai buni? |
+| Cine se scoală de dimineață... | **Departe ajunge**, pierde trenul, cântă frumos | Vă treziți devreme? |
+| Nu-ți număra puii înainte de a... | **Ieși din ou**, adormi, cânta | A ținut familia dumneavoastră găini? |
+| Cine strânge bani albi pentru... | **Zile negre**, zile de ploaie, zile de sărbătoare | Cine era cel mai econom în familia dumneavoastră? |
+| Casa este acolo unde... | Este grădina, **este inima**, este bucătăria | Ce face ca un loc să se simtă ca acasă? |
+| Mai bine mai târziu decât... | Devreme, **niciodată**, cu părere de rău | Cine întârzia mereu? |
+| Faptele vorbesc mai tare decât... | **Vorbele**, muzica, tunetul | Povestiți-mi despre cineva care spunea asta |
 
-## Întrebări „una sau alta”, fără răspuns greșit
+## Întrebări de tip una sau alta, fără răspuns greșit
 
-Se potrivesc în orice stadiu, inclusiv mai târziu, pentru că nu e nimic de nimerit. Întrebați, ascultați și spuneți și dumneavoastră răspunsul.
+Acestea se potrivesc în orice etapă, inclusiv mai târziu, pentru că nu există nimic de nimerit. Întrebați, ascultați și împărtășiți și răspunsul dumneavoastră.
 
 - Cafea sau ceai?
 - Mare sau munte?
 - Câini sau pisici?
 - Vară sau iarnă?
 - Plăcintă sau tort?
-- Dansat sau privit?
+- Dans sau privit?
 - Răsărit sau apus?
-- Prispă sau curte din spate?
+- Pridvor în față sau curte în spate?
 - Radio sau discuri?
 - Clătite sau ouă?
 - Trandafiri sau margarete?
-- Călătorie cu trenul sau cu mașina?
+- Călătorie cu trenul sau călătorie cu mașina?
 
-Pentru întrebări de discuție care merg cu imagini, încercați [Cartonașele de conversație](/games/conversation-cards/) de tipărit.
+Pentru idei de conversație care merg împreună cu imagini, încercați [cartonașele de conversație](/games/conversation-cards/) de tipărit.
 
-## Cum conduceți o ședință de întrebări într-un cămin sau într-un grup?
+## Cum organizați o sesiune de trivia într-un cămin de îngrijire sau într-un grup?
 
-1. **Așezați oamenii astfel încât să poată vedea și auzi.** Aparatele auditive puse, ochelarii pe nas, televizorul oprit.
-2. **Prezentați-o ca pe o discuție.** „Am niște întrebări despre vremurile de demult și sunt sigur că știți mai multe decât mine.”
-3. **Citiți fiecare întrebare de două ori și arătați variantele scrise mare.**
-4. **Primiți răspunsuri de oriunde din cameră.** Repetați răspunsurile bune ca să le audă toți.
-5. **Spuneți răspunsul pentru toți**, apoi puneți grupului tema de discuție.
-6. **Urmați energia.** Dacă o întrebare pornește zece minute de povești, lăsați-le.
-7. **Încheiați cu un cântec sau cu o rundă „una sau alta”**, ca toți să termine cu ceva ușor.
+1. **Așezați oamenii astfel încât să poată vedea și auzi.** Aparate auditive puse, ochelari la vedere, televizorul oprit.
+2. **Prezentați activitatea ca pe o conversație.** „Am câteva întrebări despre vremurile de demult și sunt sigură că dumneavoastră știți mai multe decât mine.”
+3. **Citiți fiecare întrebare de două ori și arătați variantele mare.**
+4. **Primiți răspunsuri din orice colț al încăperii.** Repetați răspunsurile bune ca să le audă toată lumea.
+5. **Spuneți răspunsul pentru toți,** apoi adresați întrebarea de continuare întregului grup.
+6. **Urmați energia din încăpere.** Dacă o întrebare pornește zece minute de povești, lăsați-le să curgă.
+7. **Încheiați cu un cântec sau cu o rundă de întrebări una sau alta,** astfel încât toată lumea să termine cu ceva ușor.
 
-Pentru alte formule de grup, inclusiv bingo cu imagini și cântat împreună, citiți [activități de grup pentru cămine](/activities/care-home-groups/).
+Pentru alte forme de activități de grup, inclusiv bingo cu imagini și cântat împreună, vedeți [activități de grup pentru cămine de îngrijire](/activities/care-home-groups/).
 
-## Când schimbați planul
+## Când este bine să schimbați planul
 
-Dacă cineva pare îngrijorat, tace sau spune „Nu știu” de mai multe ori, ușurați lucrurile: treceți la două variante, răspundeți împreună sau treceți la întrebări „una sau alta”. Dacă grupul preferă să vorbească toată după-amiaza despre o singură întrebare, este o reușită. Scopul nu au fost niciodată răspunsurile corecte. A fost timpul petrecut în companie bună.
+Dacă cineva pare îngrijorat, tace sau spune „Nu știu” de mai multe ori, faceți lucrurile mai ușoare: treceți la două variante, răspundeți împreună sau treceți la întrebări de tip una sau alta. Dacă grupul preferă să vorbească despre o singură întrebare toată după-amiaza, acesta este un succes. Scopul nu au fost niciodată răspunsurile corecte. Scopul a fost timpul petrecut în companie plăcută.

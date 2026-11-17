@@ -1,35 +1,35 @@
 ---
-title: "Sundowning: Kagiatan Tenang Ahir Soré kanggo Demensia"
-seoTitle: "Sundowning: Kagiatan Tenang Ahir Soré"
-description: "Rutinitas lemah-lembut, parobahan rohangan sareng kagiatan tenang anu tiasa ngirangan kegelisahan ahir poé dina demensia, sareng iraha kudu nelepon dokter."
+title: "Sundowning: Kagiatan Tenang Wanci Soré"
+seoTitle: "Sundowning: Kagiatan Tenang Wanci Soré"
+description: "Rutinitas lemah lembut, parobahan rohangan, jeung kagiatan tenang anu tiasa ngurangan gelisah wanci soré dina déménsia, sarta iraha kedah ngahubungi dokter."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning nyaéta kegelisahan, kabingungan atanapi gampang ambek anu mimiti
-  atanapi beuki parah dina ahir soré atanapi peuting. Léngkah praktis anu
-  tiasa mantuan kaasup rutinitas poéan anu stabil, cahaya poé sareng kagiatan
-  langkung awal dina poé, saré siang anu langkung saeutik, kafein anu kirang,
-  lampu terang di jero imah sateuacan magrib, imah anu langkung tenang, sareng
-  kagiatan tenang saperti musik, poto atanapi ngalipet cucian. Gejala anyar
-  atanapi anu beuki parah kedah diperiksa ku dokter.
+  Sundowning nyaéta gelisah, bingung, atawa gampang ambek anu mimiti atawa beuki
+  parna dina soré atawa pasosoré. Léngkah praktis anu tiasa ngabantosan kalebet
+  rutinitas sapopoé anu ajeg, cahaya panonpoé jeung kagiatan isuk-isuk, ngirangan
+  bobo beurang telat, ngirangan kafein, ngahurungkeun lampu jero rohangan sateuacan
+  poék, ngajantenkeun bumi langkung tenang, sarta kagiatan anu nenangkeun sapertos
+  musik, poto, atawa ngalipet cucian. Gejala anyar atawa anu beuki parna kedah
+  dipariksa ku dokter.
 keyPoints:
-  - "Sundowning hartosna kegelisahan atanapi kabingungan anu mimiti atanapi beuki parah nalika cahaya poé surup."
-  - "Tempatkeun pagawéan anu beurat, jalan-jalan sareng mandi dina isuk atanapi mimiti beurang."
-  - "Cahaya poé, leumpang unggal poé, saré siang anu langkung saeutik sareng kafein anu kirang dina ahir poé tiasa mantuan peuting leuwih lancar."
-  - "Hurungkeun lampu sateuacan magrib, kurangan sora, sareng ganti ka kagiatan anu tenang sareng dikenal."
-  - "Jieun catetan pikeun neuleuman pamicu, sareng tetep tenang sareng nengtremkeun nalika kegelisahan mimiti."
-  - "Pariksakeun ka dokter gejala anyar atanapi anu beuki parah: nyeri, inféksi atanapi obat tiasa miboga peran."
+  - "Sundowning hartosna gelisah atawa bingung anu mimiti atawa beuki parna nalika cahaya panonpoé mimiti surup."
+  - "Laksanakeun tugas anu beurat, kagiatan luar, jeung mandi isuk-isuk atawa beurang."
+  - "Cahaya panonpoé, jalan-jalan sapopoé, ngirangan bobo beurang telat, jeung ngirangan kafein telat tiasa ngabantosan pasosoré langkung lancar."
+  - "Hurungkeun lampu sateuacan poék, kurangan sora, sarta gentos ka kagiatan anu tenang jeung akrab."
+  - "Catet dina buku leutik pikeun mikanyaho pamicu, sarta tetep tenang jeung ngayakinkeun nalika gelisah mimiti."
+  - "Tingali dokter pikeun gejala anyar atawa anu beuki parna: nyeri, inféksi, atawa ubar tiasa janten faktor."
 faq:
-  - q: "Jam sabaraha sundowning biasana kajadian?"
-    a: "Biasana mimiti atanapi beuki parah dina ahir soré atanapi mimiti peuting, nalika cahaya poé surup. Waktos pastina béda-béda ti hiji jalma ka jalma sanés, éta sababna nyieun catetan singget salila saminggu atanapi dua minggu tiasa mantuan."
-  - q: "Kagiatan naon anu mantuan kana sundowning?"
-    a: "Kagiatan anu tenang, dikenal sareng teu butuh tanaga biasana anu pangsaéna dina ahir soré: musik anu nengtremkeun, ningali poto, acara TV atanapi pilem karesepna, ngalipet cucian, leumpang singget, atanapi tuangeun ringan babarengan. Simpen kagiatan anyar atanapi anu nangtang kanggo langkung awal dina poé."
-  - q: "Naha sundowning tiasa jadi tanda hal médis?"
-    a: "Éta tiasa dijantenkeun langkung parah ku masalah kaséhatan saperti nyeri, inféksi saperti inféksi saluran kemih, masalah saré atanapi éfék samping obat. Upami kegelisahanana anyar, ngadadak atanapi beuki parah, hubungi dokter jalmana."
-  - q: "Naha abdi kedah nanya ka dokter ngeunaan obat kanggo sundowning?"
-    a: "Éta obrolan anu kedah dilakukeun sareng dokter. Alzheimer's Association nyebutkeun yén pendekatan tanpa obat umumna dipilih heula, sareng yén naon waé obat kanggo kegelisahan peuting kedah dipertimbangkeun ngan saatos nimbang résiko sareng mangpaatna. Kaca ieu henteu méré naséhat ngeunaan obat."
+  - q: "Biasana iraha sundowning kajadian dina sapoé?"
+    a: "Biasana mimiti atawa beuki parna dina soré atawa pasosoré, nalika cahaya panonpoé mimiti surup. Waktuna tiasa béda-béda pikeun unggal jalma, ku kituna nyatet sakedap salami saminggu atawa dua minggu tiasa ngabantosan."
+  - q: "Kagiatan naon anu tiasa ngabantosan nalika sundowning?"
+    a: "Kagiatan anu tenang, akrab, jeung henteu beurat biasana paling cocog dina soré: musik anu nenangkeun, ningali poto, acara TV atawa pilem karesep, ngalipet cucian, jalan-jalan sakedap, atawa tuang sasarengan. Simpen kagiatan anyar atawa anu nangtang pikeun isuk-isuk."
+  - q: "Naha sundowning tiasa janten tanda masalah kaséhatan?"
+    a: "Ieu tiasa diperparah ku masalah kaséhatan sapertos nyeri, inféksi sapertos inféksi saluran kemih, masalah saré, atawa efek samping ubar. Upami gelisah anyar, ngadadak, atawa beuki parna, hubungi dokter jalma anu Anjeun rawat."
+  - q: "Naha kuring kedah naroskeun ka dokter ngeunaan ubar pikeun sundowning?"
+    a: "Éta mangrupikeun paguneman anu kedah dilakukeun sareng dokter. Alzheimer's Association nyebatkeun yén cara non-ubar umumna langkung dipilih heula, sarta ubar naon waé pikeun gelisah pasosoré kedah dipertimbangkeun ngan saatos niténan résiko jeung mangpaatna. Kaca ieu henteu masihan naséhat ngeunaan ubar."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Seueur kulawarga ngalaman pola anu sarua: isuk-isuk kaayaanana lumayan tenang, tapi nalika soré beuki laun, jalma anu hirup kalayan demensia jadi gelisah, hariwang, bingung atanapi gampang ambek. Anjeunna tiasa ngaléngkah bulak-balik, menta “mulang” padahal geus aya di imah, atanapi gampang kesel. Ieu mindeng disebut sundowning.
+Seueur kulawarga ningali pola anu sami: isuk-isuk kawilang tenang, tapi nalika soré ngajelang, jalma anu hirup sareng déménsia janten gelisah, hariwang, bingung, atawa gampang ambek. Anjeunna tiasa pacedaran, naros hoyong „mulih ka bumi“ sanajan parantos aya di bumi, atawa gampang kesel. Ieu sering disebut sundowning.
 
-Teu aya hiji solusi, tapi parobahan dina wirahma poé, rohangan sareng jenis kagiatan anu anjeun tawarkeun tiasa ngajantenkeun ahir soré langkung tenang. Kaca ieu ngumpulkeun gagasan praktis, anu lain médis, ti National Institute on Aging sareng Alzheimer's Association. Éta lain naséhat médis. Upami gejalana anyar, ngadadak atanapi beuki parah, rembugan sareng dokter jalmana.
+Henteu aya hiji solusi tunggal, tapi parobahan dina irama sapopoé, rohangan, jeung jinis kagiatan anu Anjeun tawarkeun tiasa ngajantenkeun soré langkung tenang. Kaca ieu ngumpulkeun ideu praktis non-médis ti National Institute on Aging jeung Alzheimer's Association. Ieu sanés naséhat médis. Upami gejala anyar, ngadadak, atawa beuki parna, ngobrol sareng dokter jalma anu Anjeun rawat.
 
-## Naon éta sundowning?
+## Naon ari sundowning téh?
 
-Sundowning nyaéta kegelisahan, agitasi, gampang ambek atanapi kabingungan anu mimiti atanapi beuki parah nalika cahaya poé surup, dina ahir soré atanapi mimiti peuting. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) nyatet yén kacapean anu kaleuleuwihi tiasa ningkatkeun kegelisahan ahir poé.
+Sundowning nyaéta gelisah, guligah, gampang ambek, atawa bingung anu mimiti atawa beuki parna nalika cahaya panonpoé mimiti surup, dina soré atawa pasosoré. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) nyebatkeun yén kacapean pisan tiasa ningkatkeun gelisah dina ahir poé.
 
-## Naon anu tiasa ngajantenkeun kegelisahan ahir poé langkung parah?
+## Naon anu tiasa ngajantenkeun gelisah ahir poé beuki parah?
 
-Sababaraha hal tiasa nyumbang, mindeng babarengan. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ngadaptarkeun faktor saperti:
+Sababaraha hal tiasa janten faktor, seringna babarengan. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) nyebatkeun faktor sapertos:
 
-- kacapean saatos poé anu pinuh;
-- lingkungan anyar atanapi matak bingung;
-- “jam awak” anu teu saluyu, ngajantenkeun jalmana ngantuk beurang sareng hudang peuting;
-- cahaya anu surem sareng kalangkang, anu tiasa matak bingung;
-- ngarasakeun setrés atanapi kesel ti jalma-jalma di sabudeureunana;
-- merlukeun saré anu langkung saeutik, anu biasa dina sepuh.
+- kacapean saatos sapoé pinuh kagiatan;
+- lingkungan anyar atawa ngabingungkeun;
+- „jam biologis“ jero awak anu teu saluyu, sahingga jalma ngarasa tunduh beurang tapi jagjag peuting;
+- cahaya remang jeung kalangkang, anu tiasa ngabingungkeun;
+- karasa setrés atawa frustasi ti jalma-jalma di sakurilingna;
+- peryogi saré anu langkung saeutik, anu umum dina sepuh.
 
-NIA nambihan panyabab kegelisahan sacara langkung umum, kaasup nyeri, depresi atanapi setrés, kurang istirahat, susah buang cai badag, teuing sora atanapi teuing seueur jalma, sareng obat atanapi interaksi obat tinangtu.
+NIA ogé nambihan panyabab guligah sacara umum, kalebet nyeri, déprési atawa setrés, kirang istirahat, kabebeng, sora anu seueur teuing atawa jalma anu seueur teuing, sarta ubar atawa interaksi ubar anu tangtu.
 
-## Kumaha ngarencanakeun poé supados peuting langkung tenang?
+## Kumaha cara ngarencanakeun sapopoé supados pasosoré langkung tenang?
 
-Gesér pagawéan anu beurat ka waktos anu langkung awal sareng jaga ahir soré tetep lemah-lembut sareng bisa diduga. Duanana NIA sareng Alzheimer's Association nyarankeun rutinitas anu teratur. Conto poé, anu kedah disaluyukeun sareng anjeun sorangan:
+Pindahkeun hal-hal anu beurat ka isuk-isuk sarta jaga soré tetep lemah lembut jeung bisa diprediksi. Boh NIA boh Alzheimer's Association nyarankeun rutinitas anu ajeg. Conto sapopoé, anu tiasa disaluyukeun sareng kaayaan Anjeun:
 
-| Waktos | Naon anu tiasa mantuan |
+| Waktu | Anu tiasa ngabantosan |
 | --- | --- |
-| Isuk | Janji, mandi, jalan-jalan sareng pagawéan naon waé anu merlukeun tanaga, nalika seueur jalma paling waspada |
-| Ahir isuk | Waktos di luar atanapi deukeut jandéla anu aya panonpoéna; leumpang atanapi kagiatan sanés |
-| Beurang | Tuang beurang anu langkung seueur (Alzheimer's Association nyarankeun tuang beurang anu langkung seueur sareng tuang peuting anu langkung hampang) |
-| Mimiti soré | Istirahat upami perlu, tapi hindari saré siang anu panjang dina ahir poé |
-| Pertengahan nepi ka ahir soré | Kagiatan anu tenang sareng dikenal; tuangeun ringan sareng inuman; tanpa kafein |
-| Sateuacan magrib | Hurungkeun lampu di jero imah sareng tutup gorden sateuacan poék |
-| Peuting | Tuang anu langkung hampang, musik lemes, rangsangan anu rendah, rutinitas saré anu stabil |
+| Isuk-isuk | Janjian, mandi, kagiatan luar, jeung tugas naon waé anu peryogi tanaga, nalika seueur jalma paling jagjag |
+| Isuk-isuk telat | Waktos di luar rohangan atawa caket jandéla anu caang; jalan-jalan atawa kagiatan séjén |
+| Beurang | Tuang beurang anu langkung ageung (Alzheimer's Association nyarankeun tuang beurang langkung ageung jeung tuang wengi langkung hampang) |
+| Soré mimiti | Istirahat upami diperyogikeun, tapi ulah bobo beurang lila telat dina poé éta |
+| Soré nepi ka pasosoré | Kagiatan anu tenang jeung akrab; tuang saeutik jeung nginum; tanpa kafein |
+| Sateuacan poék | Hurungkeun lampu jero rohangan jeung tutup hordéng sateuacan poék |
+| Pasosoré | Tuang wengi anu langkung hampang, musik anu tenang, stimulasi anu saeutik, rutinitas bobo anu ajeg |
 
-Sababaraha titik husus tina sumberna:
+Sababaraha poin khusus tina sumber:
 
-- **Cahaya poé.** NIA nyarankeun ngatur waktos di luar atanapi deukeut jandéla pikeun cahaya panonpoé unggal poé.
-- **Obah unggal poé, tapi teu kaleuleuwihi.** Usahakeun aktif sacara fisik unggal poé tanpa ngarencanakeun teuing seueur kagiatan, cenah NIA.
-- **Inuman ahir poé.** Hindari alkohol sareng inuman anu aya kafeinna, saperti kopi atanapi inuman soda, dina ahir poé (NIA). Alzheimer's Association ogé nyebutkeun nikotin.
-- **Saré siang.** Cegah saré siang anu panjang sareng ngantuk dina ahir poé (NIA). Alzheimer's Association nyarankeun ngabatesan saré siang upami saré peuting jadi masalah.
+- **Cahaya panonpoé.** NIA nyarankeun nyayagikeun waktos di luar rohangan atawa caket jandéla pikeun cahaya panonpoé unggal dinten.
+- **Gerak sapopoé, tapi ulah kaleuleuwihi.** Usahakeun aktip sacara fisik unggal dinten tanpa ngarencanakeun kagiatan anu seueur teuing, ceuk NIA.
+- **Inuman telat soré.** Hindarkeun alkohol jeung inuman anu ngandung kafein, sapertos kopi atawa kola, telat dina poé éta (NIA). Alzheimer's Association ogé nyebatkeun nikotin.
+- **Bobo beurang.** Ulah bobo beurang lila atawa sering kasareup telat dina poé éta (NIA). Alzheimer's Association nyarankeun ngawatesan bobo beurang upami saré peuting janten masalah.
 
-Kanggo langkung seueur ngeunaan nyusun poé anu stabil, tingali [kagiatan rutinitas poéan](/activities/daily-routine/).
+Pikeun langkung seueur ide ngeunaan ngawangun dinten anu ajeg, tingali [kagiatan rutinitas sapopoé](/activities/daily-routine/).
 
-## Kumaha ngajantenkeun imah langkung tenang dina ahir soré?
+## Kumaha cara ngajantenkeun bumi langkung tenang dina soré?
 
-Kurangan sora, tambahan cahaya sareng jaga barang anu dikenal deukeut.
+Kurangan sora, tambahkeun cahaya, sarta jaga barang-barang anu akrab tetep caket.
 
-- **Cahaya anu caang sareng rata.** Alzheimer's Association nyarankeun ngajaga imah tetep caang dina peuting. Caangan rohangan sateuacan kalangkang muncul.
-- **Sora anu langkung saeutik.** Pareuman atanapi kurangan sora TV sareng radio, sareng batesan tamu atanapi pagawéan imah anu rame dina waktos ieu. Alzheimer's Association nyarankeun ngirangan rangsangan peuting saperti TV, pagawéan sareng musik nyaring.
-- **Kanyamanan anu dikenal.** NIA nyarankeun musik anu nengtremkeun sareng ngajaga barang sareng poto anu dipikanyaah di sabudeureun imah.
-- **Pariksa kanyamanan.** Alzheimer's Association nyarankeun mariksa nyeri, lapar, haus, susah buang cai badag, kandung kemih pinuh, capé, inféksi sareng iritasi kulit, sareng ngajaga rohangan dina suhu anu nyaman.
-- **Suasana haté anjeun sorangan.** Jalma karasa setrés. NIA nyarankeun ngalalaunkeun sareng nyoba rileks upami kahariwang anjeun sorangan meureun nambahan tegangan.
+- **Cahaya anu terang jeung rata.** Alzheimer's Association nyarankeun ngajaga bumi tetep caang dina pasosoré. Hurungkeun lampu sateuacan kalangkang muncul.
+- **Kirangan sora.** Pareuman atawa leutikan TV jeung radio, sarta watesan sémah atawa padamelan bumi anu rame dina waktos ieu. Alzheimer's Association nyarankeun ngirangan stimulasi pasosoré sapertos TV, padamelan bumi, jeung musik anu nyaring.
+- **Barang-barang anu akrab.** NIA nyarankeun musik anu nenangkeun sarta ngajaga barang-barang jeung poto anu dipikanyaah tetep aya di sakuriling bumi.
+- **Pariksa kanyamanan.** Alzheimer's Association nyarankeun mariksa naha aya nyeri, lapar, haus, kabebeng, kandung kemih pinuh, kacapean, inféksi, jeung iritasi kulit, sarta ngajaga suhu rohangan tetep nyaman.
+- **Suasana hat Anjeun sorangan.** Jalma tiasa karasa setrés ti batur. NIA nyarankeun ngalambatkeun jeung nyobian santai upami kahariwang Anjeun sorangan tiasa nambihan tegangan.
 
-## Kagiatan tenang naon anu tiasa dilakukeun dina ahir soré?
+## Kagiatan tenang naon anu tiasa urang laksanakeun dina soré?
 
-Pilih kagiatan anu dikenal, teu kesusu sareng gampang dieureunkeun. Alzheimer's Association nyarankeun kagiatan anu nengtremkeun saperti musik tenang, poto atanapi pilem karesep, sareng leumpang babarengan pikeun ngirangan kegelisahan. NIA nyarankeun tuangeun ringan atanapi inuman, acara TV karesep, musik, leumpang, maca, atanapi pagawéan imah basajan saperti ngalipet cucian.
+Pilih kagiatan anu akrab, henteu rusuh, jeung gampang dieureunkeun. Alzheimer's Association nyarankeun kagiatan anu nenangkeun sapertos musik anu tenang, ningali poto atawa pilem karesep, sarta jalan-jalan sasarengan pikeun ngirangan gelisah. NIA nyarankeun tuang saeutik atawa nginum, acara TV karesep, musik, jalan-jalan, maca, atawa padamelan bumi anu sederhana sapertos ngalipet cucian.
 
-Gagasan pikeun dicoba:
+Ideu anu tiasa dicobian:
 
-1. **Ngalipet cucian babarengan.** NIA nyarankeun pagawéan imah basajan sapertos kieu. Anduk gampang dicekel, sareng pagawéanana boga tungtung anu jelas.
-2. **Setél musik karesepna.** Lagu anu dikenal ti nonomanna, kalayan volume rendah. Nyenandung babarengan ogé kaétang. Langkung seueur gagasan dina [kagiatan musik](/activities/music/).
-3. **Ningali poto.** Albeum poto, atanapi sababaraha gambar kulawarga dina [Pasangan poto](/games/photo-pairs/) kalayan gambar dibiarkeun katingali, tiasa ngarah ka obrolan anu tenang.
-4. **Leumpang singget.** Di kebon, di sakitar imah atanapi di lorong, sateuacan poék.
-5. **Babagi tuangeun ringan sareng inuman.** Hal basajan, haneut sareng teu aya kafein, di méja babarengan.
-6. **Nyocogkeun anu lemah-lembut.** [Pasangan gambar](/games/picture-pairs/) kalayan opat kartu sareng gambar katingali gampang dimimitian sareng gampang dieureunkeun.
-7. **Mawarnaan.** [Kaca pawarna](/games/coloring/) dina layar atanapi dina kaca citakan, tanpa tujuan pikeun ngabéréskeunana.
-8. **Ningali sareng ngobrol.** [Kartu obrolan](/games/conversation-cards/) méré gambar sareng ajakan kabuka. Ngan ningali ogé cekap.
-9. **Reureuh napas.** [Napas tenang](/games/calm-breathing/) téh reureuh anu laun sareng tenang anu anjeun mimitian sareng eureunkeun sorangan.
-10. **Pagawéan leungeun.** Ngagolongkeun kancing atanapi kaos suku, ngaratakeun simbut anu lemes, atanapi nyekel barang anu dikenal. Tingali [kagiatan indra](/activities/sensory/).
+1. **Ngalipet cucian sasarengan.** NIA nyarankeun jinis padamelan bumi anu sederhana ieu. Anduk gampang dicekel, sarta tugasna ngagaduhan tungtung anu jelas.
+2. **Maénkeun musik karesep.** Lagu-lagu anu akrab ti mangsa ngora, kalayan volume anu leutik. Ngalenggok nuturkeun ogé teu nanaon. Langkung seueur ideu dina [kagiatan musik](/activities/music/).
+3. **Ningali poto.** Albeum poto, atawa sababaraha poto kulawarga dina [Photo Pairs](/games/photo-pairs/) kalayan gambar tetep katingali, tiasa nyababkeun obrolan anu tenang.
+4. **Jalan-jalan sakedap.** Di buruan, sabudeureun blok, atawa di lorong, sateuacan poék.
+5. **Tuang saeutik jeung nginum sasarengan.** Anu sederhana, haneut, jeung tanpa kafein, sasarengan di méja.
+6. **Mencocogkeun gambar anu lemah lembut.** [Picture Pairs](/games/picture-pairs/) kalayan opat ubin jeung gambar katingali gampang dimimitian sareng gampang dieureunkeun.
+7. **Ngawarnaan.** [Coloring](/games/coloring/) dina layar atawa dina kaca anu dicitak, tanpa tujuan kedah réngsé.
+8. **Ningali jeung ngobrol.** [Conversation Cards](/games/conversation-cards/) nawiskeun gambar jeung ajakan obrolan anu kabuka. Ningali waé gé tos cekap.
+9. **Jeda napas.** [Calm Breathing](/games/calm-breathing/) mangrupikeun jeda anu lalaunan jeung tenang anu Anjeun mimitian jeung eureunkeun sorangan.
+10. **Kagiatan leungeun.** Nyortir kancing atawa kaos kaki, ngararata simbut anu lemes, atawa nyekel barang anu akrab. Tingali [kagiatan indrawi](/activities/sensory/).
 
-Hindari kaulinan anyar, jalan-jalan anu rame sareng sagala anu merlukeun seueur ingetan atanapi konséntrasi dina ahir poé. Simpen éta kanggo isuk.
+Hindarkeun kaulinan anyar, kagiatan luar anu rame, jeung naon waé anu peryogi seueur ingetan atawa konsentrasi telat dina poé éta. Simpen éta pikeun isuk-isuk.
 
-## Naon anu kedah dilakukeun nalika kegelisahan mimiti?
+## Naon anu kedah dilakukeun nalika gelisah mimiti?
 
-Tetep tenang, tengtremkeun, sareng alihkeun kalayan lembut. NIA nyarankeun nyarios kalayan tenang, ngadéngékeun kahariwang jalmana, ngahindarkeun debat, nengtremkeun yén anjeunna aman, sareng maké rampa lembut upami éta mantuan. Tuluy cobian ngalihkeun: tuangeun ringan, inuman, musik atanapi leumpang.
+Tetep tenang, yakinkeun, sarta alihkeun perhatian sacara lemah lembut. NIA nyarankeun nyarios kalayan tenang, ngadangukeun kahariwang jalma éta, ulah ngabantah, ngayakinkeun yén anjeunna aman, sarta nganggo sentuhan anu lemah lembut upami ngabantosan. Teras cobian alihan perhatian: tuang saeutik, nginum, musik, atawa jalan-jalan.
 
-Alzheimer's Association nyarankeun frasa saperti “Anjeun aman di dieu” sareng “Abdi hapunten upami anjeun karasa kesel,” sareng nyarankeun nambahan cahaya, ngalalaunkeun, sareng ngabatesan rangsangan. Ulah ngepung, ngadesek atanapi nahan jalmana, atanapi ngadebat sareng anjeunna.
+Alzheimer's Association nyarankeun kalimah sapertos „Anjeun aman di dieu“ jeung „Hapunten upami Anjeun kesel,“ sarta nyarankeun nambihan cahaya, ngalambatkeun, jeung ngawatesan stimulasi. Ulah ngajurung jalma ka juru, ngariung teuing caket, nahan, atawa ngabantah anjeunna.
 
-Upami jalmana jadi agrésif, NIA nyarankeun tetep dina jarak anu aman nepi ka paripolahna eureun. Dina kaayaan darurat, hubungi nomer darurat di wewengkon anjeun sareng jelaskeun yén jalmana gaduh demensia.
+Upami jalma janten agrésif, NIA nyarankeun tetep dina jarak anu aman dugi ka paripolahna eureun. Dina kaayaan darurat, telepon 911 sarta jelaskeun yén jalma éta hirup sareng déménsia. [Pituduh kami ngeunaan ngaréspon amarah jeung agrési](/caregiving/when-anger-becomes-aggression-with-dementia/) ngabahas kasalametan langsung jeung naon anu kedah dilakukeun saatosna.
 
-[Komunikasi](/caregiving/communication-tips/) sareng [naon anu kudu dilakukeun upami anjeunna nyebutkeun henteu](/caregiving/when-they-say-no/) ngagaduhan langkung seueur ngeunaan kecap anu nengtremkeun.
+Pituduh kami ngeunaan [komunikasi](/caregiving/communication-tips/) jeung [naon anu kedah dilakukeun nalika anjeunna nyarios henteu](/caregiving/when-they-say-no/) gaduh langkung seueur conto kecap anu nenangkeun.
 
-## Kumaha néangan pamicuna?
+## Kumaha cara milarian pamicu?
 
-Jieun catetan singget salila saminggu atanapi dua minggu. Alzheimer's Association nyarankeun ngalacak naon anu kajadian sateuacan épisode sundowning pikeun ngaidentifikasi pamicu. Catet waktos kegelisahan mimiti, naon anu kajadian dina sajam sateuacanna, saré siang, tuang sareng inuman, tamu, sora sareng cahaya. Bawa catetanana ka dokter. NIA nyatet yén ngalacak parobahan paripolah tiasa mantuan anu ngarawat sareng panyadia perawatan kaséhatan ngenalan pola.
+Catet dina buku leutik salami saminggu atawa dua minggu. Alzheimer's Association nyarankeun nyatet naon anu kajadian sateuacan épisode sundowning pikeun mikanyaho pamicuna. Catet waktos gelisah mimiti, naon anu kajadian dina sajam sateuacanna, bobo beurang, tuang jeung nginum, sémah, sora, jeung cahaya. Bawa catetan éta ka dokter. NIA nyebatkeun yén nyatet parobahan paripolah tiasa ngabantosan anu ngurus jeung panyadia layanan kaséhatan mikanyaho polana.
 
-## Iraha kudu nelepon dokter ngeunaan sundowning?
+## Iraha kuring kedah ngahubungi dokter ngeunaan sundowning?
 
-Hubungi dokter jalmana upami kegelisahan anyar, ngadadak langkung parah, atanapi dibarengan ku parobahan sanés. NIA nyebutkeun yén parobahan paripolah anu ngadadak atanapi gancang robah-robah, utamana saatos inféksi atanapi parobahan obat anu karék, kedah langsung dibawa ka perhatian dokter.
+Hubungi dokter jalma anu Anjeun rawat upami gelisah anyar, ngadadak beuki parna, atawa dibarengan ku parobahan séjén. NIA nyarios yén parobahan paripolah anu ngadadak atawa gancang robih, khususna saatos inféksi atawa parobahan ubar anyar, kedah langsung disampaikeun ka dokter.
 
-Menta dokter pikeun mariksa hal-hal anu tiasa ngajantenkeun peuting langkung hésé. Alzheimer's Association nyebutkeun masalah fisik saperti inféksi saluran kemih, teu bisa nahan cai kemih, suku gelisah sareng apnea saré, sareng nyarankeun nanya iraha waktos anu pangsaéna kanggo unggal obat. NIA ngadaptarkeun nyeri, susah buang cai badag sareng éfék samping atanapi interaksi obat di antara panyabab kegelisahan anu mungkin.
+Taroskeun ka dokter pikeun mariksa hal-hal anu tiasa ngajantenkeun pasosoré langkung sesah. Alzheimer's Association nyebatkeun masalah fisik sapertos inféksi saluran kemih, inkontinénsia, sindrom suku gelisah, jeung apnea saré, sarta nyarankeun naroskeun waktos mana dina sapoé anu paling saé pikeun unggal ubar. NIA nyebatkeun nyeri, kabebeng, jeung efek samping atawa interaksi ubar salaku kamungkinan panyabab guligah.
 
-Alzheimer's Association nyebutkeun yén pendekatan tanpa obat umumna dipilih kanggo masalah saré anu patali sareng Alzheimer, sareng yén obat kanggo kegelisahan ahir poé kedah dipertimbangkeun ngan upami éta teu hasil, saatos nimbang résiko sareng mangpaatna. Kaputusan éta aya di dokter. Ulah mimitian, eureun atanapi ngarobah obat, pangbantu saré atanapi suplemén naon waé tanpa naséhat médis.
+Alzheimer's Association nyarios yén cara non-ubar umumna langkung dipilih pikeun masalah saré anu aya hubunganana sareng Alzheimer, sarta ubar pikeun guligah ahir poé kedah dipertimbangkeun ngan upami cara éta henteu hasil, saatos niténan résiko jeung mangpaatna. Kaputusan éta kedah dilakukeun sareng dokter. Ulah ngamimitian, ngeureunkeun, atawa ngarobah ubar, ubar saré, atawa suplemén naon waé tanpa naséhat médis.
 
-## Kumaha anjeun ngaliwatan peuting sorangan?
+## Kumaha cara kuring sorangan ngaliwat pasosoré?
 
-Ahir soré tiasa jadi bagian anu paling hésé dina poé anu ngarawat. Upami tiasa, menta anggota kulawarga, sobat atanapi pambantu anu dibayar pikeun ngagantikeun ahir soré sababaraha poé saminggu, sanaos sajam. [Ngarawat diri sorangan](/caregiving/caregiver-self-care/) ngadaptarkeun pilihan perawatan samentawis (respite) sareng layanan pitulung demensia di nagara anjeun.
+Soré tiasa janten bagian anu paling sesah dina dinten pikeun anu ngurus. Upami tiasa, nyuhunkeun anggota kulawarga, rerencangan, atawa pambantu anu dibayar pikeun ngagantian dina soré sababaraha dinten dina saminggu, sanajan ngan sajam. Pituduh kami ngeunaan [ngurus diri pikeun anu ngurus](/caregiving/caregiver-self-care/) ngadaptarkeun pilihan istirahat sementara sarta Alzheimer's Association 24/7 Helpline gratis.

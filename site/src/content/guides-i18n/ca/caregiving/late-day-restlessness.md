@@ -1,29 +1,36 @@
 ---
-title: "Sundowning: activitats tranquil·les a última hora de la tarda per a persones amb demència"
-seoTitle: "Sundowning: activitats tranquil·les a última hora de la tarda"
-description: "Rutines suaus, canvis a l’habitació i activitats tranquil·les que poden alleujar la inquietud a última hora del dia en la demència, i quan cal trucar al metge."
+title: "Sundowning: activitats tranquil·les al capvespre"
+seoTitle: "Sundowning: activitats tranquil·les al capvespre"
+description: "Rutines suaus, canvis a l’habitació i activitats tranquil·les que poden ajudar amb la inquietud del capvespre en la demència, i quan cal trucar al metge."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  El *sundowning* és inquietud, confusió o irritabilitat que comença o empitjora a última hora de la tarda o al vespre. Passos pràctics que poden ajudar inclouen una rutina diària estable, llum del dia i activitat a primera hora, menys migdiades a última hora, menys cafeïna, llums interiors abans del capvespre, una casa més tranquil·la, i activitats tranquil·les com la música, les fotos o plegar la roba. Els símptomes nous o que empitjoren necessiten una revisió mèdica.
+  El sundowning és la inquietud, la confusió o la irritabilitat que comença o
+  empitjora a última hora de la tarda o al vespre. Algunes mesures pràctiques
+  que poden ajudar són mantenir una rutina diària estable, tenir llum natural i
+  fer activitat a primera hora del dia, fer menys migdiades tardanes, prendre
+  menys cafeïna, encendre els llums de casa abans que es faci fosc, tenir un
+  ambient més tranquil i fer activitats calmades com escoltar música, mirar
+  fotos o plegar roba. Si els símptomes són nous o empitjoren, cal que els
+  valori un metge.
 keyPoints:
-  - "El *sundowning* vol dir inquietud o confusió que comencen o empitjoren a mesura que es fa fosc."
-  - "Deixi les tasques exigents, les sortides i el bany per al matí o per a primera hora de la tarda."
-  - "La llum del dia, una passejada diària, menys migdiades a última hora i menys cafeïna a última hora del dia poden ajudar que els vespres siguin més plàcids."
-  - "Encengui els llums abans del capvespre, baixi el soroll, i passi a activitats tranquil·les i conegudes."
-  - "Porti un registre per detectar els desencadenants, i mantingui la calma i el to tranquil·litzador quan comenci la inquietud."
-  - "Consulti un metge per símptomes nous o que empitjoren: el dolor, una infecció o els medicaments hi poden tenir un paper."
+  - "El sundowning és la inquietud o la confusió que comença o empitjora quan es fa fosc."
+  - "Feu les tasques que demanen més esforç, les sortides i el bany al matí o a primera hora de la tarda."
+  - "La llum natural, un passeig diari, menys migdiades tardanes i menys cafeïna al final del dia poden ajudar que el vespre vagi millor."
+  - "Enceneu els llums abans que es faci fosc, reduïu el soroll i passeu a activitats tranquil·les i conegudes."
+  - "Anoteu el que passa per detectar possibles desencadenants i mantingueu la calma i un to tranquil quan comenci la inquietud."
+  - "Consulteu el metge si hi ha símptomes nous o que empitjoren: el dolor, una infecció o els medicaments hi poden tenir a veure."
 faq:
-  - q: "A quina hora del dia sol passar el sundowning?"
-    a: "Normalment comença o empitjora a última hora de la tarda o a primera hora del vespre, a mesura que la llum del dia es va apagant. L’hora exacta varia d’una persona a una altra, per això un registre curt durant una o dues setmanes pot ajudar."
+  - q: "A quina hora del dia sol aparèixer el sundowning?"
+    a: "Sol començar o empitjorar a última hora de la tarda o al començament del vespre, quan es fa fosc. L’hora exacta varia d’una persona a una altra, i per això portar un registre breu durant una o dues setmanes pot ajudar."
   - q: "Quines activitats ajuden amb el sundowning?"
-    a: "Les activitats tranquil·les, conegudes i de poc esforç solen funcionar millor a última hora de la tarda: música relaxant, mirar fotos, un programa o una pel·lícula preferits, plegar la roba, una passejada curta o un refrigeri junts. Deixi les activitats noves o les més exigents per a primera hora del dia."
-  - q: "El sundowning pot ser un signe d’alguna cosa mèdica?"
-    a: "Pot empitjorar amb problemes de salut com el dolor, infeccions com les infeccions urinàries, problemes de son o efectes secundaris de medicaments. Si la inquietud és nova, sobtada o empitjora, truqui al metge de la persona."
-  - q: "He de preguntar al metge si hi ha un medicament per al sundowning?"
-    a: "És una conversa per tenir amb el metge. L’Alzheimer’s Association diu que els enfocaments sense medicaments se solen preferir primer, i que qualsevol medicament per a l’agitació del vespre només s’ha de considerar després de valorar els riscos i els beneficis. Aquesta pàgina no dona consells sobre medicació."
+    a: "A última hora de la tarda solen anar millor les activitats tranquil·les, conegudes i que no demanen gaire esforç: música suau, mirar fotos, un programa de televisió o una pel·lícula preferits, plegar roba, fer una passejada curta o prendre un mos junts. Reserveu les activitats noves o que suposin un repte per a més aviat durant el dia."
+  - q: "El sundowning pot ser un senyal d’alguna cosa mèdica?"
+    a: "Alguns problemes de salut, com el dolor, infeccions com les infeccions del tracte urinari, problemes de son o els efectes secundaris dels medicaments, el poden empitjorar. Si la inquietud és nova, apareix de sobte o va a més, poseu-vos en contacte amb el metge de la persona."
+  - q: "Hauria de preguntar al metge sobre medicaments per al sundowning?"
+    a: "Aquesta és una conversa que cal tenir amb el metge. L’Alzheimer’s Association diu que, en general, es prefereix provar primer mesures sense medicaments i que qualsevol medicament per a la inquietud del vespre s’hauria de valorar només després de sospesar-ne els riscos i els beneficis. Aquesta pàgina no ofereix consells sobre medicació."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -42,101 +49,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Moltes famílies noten el mateix patró: els matins són bastant tranquils, però a mesura que avança la tarda, la persona que viu amb demència es torna inquieta, ansiosa, confusa o irritable. Pot passejar amunt i avall, demanar tornar a casa encara que sigui a casa, o alterar-se amb facilitat. Sovint això s’anomena *sundowning*.
+Moltes famílies veuen el mateix patró: els matins són força tranquils, però a mesura que avança la tarda, la persona que viu amb demència es mostra inquieta, angoixada, confosa o irritable. Pot caminar d’una banda a l’altra, demanar «anar a casa» fins i tot quan ja hi és, o disgustar-se amb facilitat. Sovint se’n diu sundowning o síndrome del capvespre.
 
-No hi ha una solució única, però els canvis en el ritme del dia, en l’habitació i en el tipus d’activitats que s’ofereixen poden fer que l’última hora de la tarda sigui més tranquil·la. Aquesta pàgina reuneix idees pràctiques, no mèdiques, del National Institute on Aging i de l’Alzheimer’s Association. No és un consell mèdic. Si els símptomes són nous, sobtats o empitjoren, parli amb el metge de la persona.
+No hi ha una solució única, però fer canvis en el ritme del dia, en l’espai i en el tipus d’activitats que oferiu pot ajudar que les tardes siguin més tranquil·les. Aquesta pàgina recull idees pràctiques i no mèdiques del National Institute on Aging i de l’Alzheimer’s Association. No és un consell mèdic. Si els símptomes són nous, apareixen de sobte o empitjoren, parleu-ne amb el metge de la persona.
 
 ## Què és el sundowning?
 
-El sundowning és inquietud, agitació, irritabilitat o confusió que comença o empitjora a mesura que es va apagant la llum del dia, a última hora de la tarda o a primera hora del vespre. El [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) assenyala que estar massa cansat pot augmentar la inquietud a última hora del dia.
+El sundowning és la inquietud, l’agitació, la irritabilitat o la confusió que comença o empitjora quan es fa fosc, a última hora de la tarda o al començament del vespre. El [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) assenyala que estar massa cansada pot augmentar la inquietud al final del dia.
 
-## Què pot empitjorar la inquietud a última hora del dia?
+## Què pot empitjorar la inquietud al final del dia?
 
-Diverses coses hi poden contribuir, sovint juntes. L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) enumera factors com:
+Hi pot haver diversos factors, sovint alhora. L’[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) esmenta factors com ara:
 
-- l’esgotament després d’un dia ple;
-- un entorn nou o confús;
-- un «rellotge biològic intern» desajustat, que deixa la persona amb son de dia i desperta de nit;
-- poca llum i ombres, que poden confondre;
-- captar l’estrès o la frustració de les persones del voltant;
-- necessitar menys son, cosa que és habitual en les persones grans.
+- l’esgotament després d’un dia llarg;
+- entorns nous o que confonen;
+- un «rellotge intern» desajustat, que fa que la persona tingui son durant el dia i estigui desperta a la nit;
+- poca llum i ombres, que poden resultar confuses;
+- percebre l’estrès o la frustració de les persones del voltant;
+- necessitar menys son, cosa habitual en les persones grans.
 
-El NIA hi afegeix, en general, les causes d’agitació: el dolor, la depressió o l’estrès, poc descans, restrenyiment, massa soroll o massa persones, i alguns medicaments o interaccions entre medicaments.
+El NIA afegeix altres possibles causes d’agitació, com el dolor, la depressió o l’estrès, descansar poc, el restrenyiment, massa soroll o massa gent, i alguns medicaments o interaccions entre medicaments.
 
 ## Com puc planificar el dia perquè els vespres siguin més tranquils?
 
-Passi les coses exigents a primera hora i mantingui l’última hora de la tarda suau i previsible. Tant el NIA com l’Alzheimer’s Association recomanen una rutina regular. Un dia d’exemple, per adaptar al propi:
+Passeu les activitats que demanen més esforç a primera hora i feu que el final de la tarda sigui suau i previsible. Tant el NIA com l’Alzheimer’s Association recomanen una rutina regular. Un exemple de dia, que podeu adaptar a la vostra situació:
 
 | Hora | Què pot ajudar |
 | --- | --- |
-| Matí | Cites, bany, sortides i qualsevol tasca que demani esforç, quan moltes persones estan més alertes |
-| Mig matí | Temps a fora o prop d’una finestra assolellada; una passejada o una altra activitat |
-| Migdia | Un dinar més abundant (l’Alzheimer’s Association suggereix un dinar més gran i un sopar més lleuger) |
-| Primera part de la tarda | Descans si cal, però evitar les migdiades llargues a última hora del dia |
-| Mitja a última hora de la tarda | Activitats tranquil·les i conegudes; un refrigeri i una beguda; sense cafeïna |
-| Abans del capvespre | Encendre els llums interiors i tancar les cortines abans que es faci fosc |
-| Vespre | Un àpat més lleuger, música tranquil·la, poca estimulació, una rutina estable per anar a dormir |
+| Matí | Visites mèdiques, bany, sortides i qualsevol tasca que demani esforç, quan moltes persones estan més despertes |
+| Final del matí | Temps a l’aire lliure o al costat d’una finestra assolellada; un passeig o una altra activitat |
+| Migdia | Un dinar més abundant (l’Alzheimer’s Association suggereix un dinar més abundant i un sopar més lleuger) |
+| Primera hora de la tarda | Descans si cal, però eviteu migdiades llargues al final del dia |
+| Mitja tarda i final de la tarda | Activitats tranquil·les i conegudes; un mos i una beguda; sense cafeïna |
+| Abans que es faci fosc | Enceneu els llums de casa i tanqueu les cortines abans que es faci fosc |
+| Vespre | Un sopar més lleuger, música suau, poca estimulació i una rutina estable per anar a dormir |
 
 Alguns punts concrets de les fonts:
 
-- **Llum del dia.** El NIA suggereix organitzar temps a fora o prop d’una finestra per prendre el sol cada dia.
-- **Moviment diari, però sense excessos.** El NIA diu que cal estar físicament actiu cada dia sense planificar massa activitats.
-- **Begudes a última hora del dia.** Eviti l’alcohol i les begudes amb cafeïna, com el cafè o la cola, a última hora del dia (NIA). L’Alzheimer’s Association també menciona la nicotina.
-- **Migdiades.** Desaconselli les migdiades llargues i les dormides a última hora del dia (NIA). L’Alzheimer’s Association suggereix limitar les migdiades de dia si el son de nit és un problema.
+- **Llum natural.** El NIA suggereix procurar temps a l’aire lliure o al costat d’una finestra per rebre llum solar cada dia.
+- **Moviment diari, però sense excedir-se.** El NIA recomana fer activitat física cada dia sense planificar massa activitats.
+- **Begudes al final del dia.** Eviteu l’alcohol i les begudes amb cafeïna, com el cafè o la cola, al final del dia (NIA). L’Alzheimer’s Association també esmenta la nicotina.
+- **Migdiades.** Eviteu les migdiades llargues i els capcinets al final del dia (NIA). L’Alzheimer’s Association suggereix limitar les migdiades diürnes si dormir a la nit és un problema.
 
-Per saber més sobre com construir un dia estable, vegi [activitats de rutina diària](/activities/daily-routine/).
+Per saber més sobre com crear un dia estable, consulteu [activitats per a la rutina diària](/activities/daily-routine/).
 
-## Com puc fer la casa més tranquil·la a última hora de la tarda?
+## Com puc fer que la casa sigui més tranquil·la a última hora de la tarda?
 
-Redueixi el soroll, afegeixi llum i tingui a prop les coses conegudes.
+Reduïu el soroll, afegiu llum i tingueu a prop coses conegudes.
 
-- **Llum clara i uniforme.** L’Alzheimer’s Association recomana tenir la casa ben il·luminada al vespre. Il·lumini l’espai abans que apareguin les ombres.
-- **Menys soroll.** Apagui o abaixi la televisió i la ràdio, i limiti les visites o les feines de casa sorolloses en aquest moment. L’Alzheimer’s Association suggereix reduir l’estimulació del vespre, com la televisió, les feines de casa i la música forta.
-- **Confort conegut.** El NIA suggereix música relaxant i tenir objectes i fotos molt estimats per tota la casa.
-- **Comprovacions de confort.** L’Alzheimer’s Association recomana comprovar si hi ha dolor, gana, set, restrenyiment, bufeta plena, cansament, infeccions i irritació de la pell, i mantenir l’habitació a una temperatura còmoda.
-- **El seu propi estat d’ànim.** Les persones capten l’estrès. El NIA suggereix alentir-se i intentar relaxar-se si les seves pròpies preocupacions poden estar afegint tensió.
+- **Llum brillant i uniforme.** L’Alzheimer’s Association recomana mantenir la casa ben il·luminada al vespre. Enceneu els llums abans que apareguin les ombres.
+- **Menys soroll.** Apagueu o abaixeu la televisió i la ràdio, i limiteu les visites o les feines sorolloses de casa en aquest moment. L’Alzheimer’s Association suggereix reduir l’estimulació del vespre, com la televisió, les feines de casa i la música forta.
+- **Objectes que donen confort.** El NIA suggereix posar música relaxant i tenir a prop objectes i fotos estimats.
+- **Comprovacions de benestar.** L’Alzheimer’s Association recomana comprovar si hi ha dolor, gana, set, restrenyiment, necessitat d’anar al bany, cansament, infeccions o irritació de la pell, i mantenir l’habitació a una temperatura agradable.
+- **El vostre estat d’ànim.** Les persones perceben l’estrès. El NIA suggereix anar més a poc a poc i intentar relaxar-vos si les vostres pròpies preocupacions poden augmentar la tensió.
 
 ## Quines activitats tranquil·les podem fer a última hora de la tarda?
 
-Triï activitats conegudes, sense pressa i fàcils d’aturar. L’Alzheimer’s Association suggereix activitats relaxants com la música tranquil·la, les fotos o una pel·lícula preferida, i una passejada junts per alleujar la inquietud. El NIA suggereix un refrigeri o una beguda, un programa de televisió preferit, música, una passejada, la lectura, o una feina senzilla de casa com plegar la roba.
+Trieu activitats conegudes, sense presses i fàcils d’aturar. L’Alzheimer’s Association suggereix activitats calmades com música suau, mirar fotos o veure una pel·lícula preferida, i fer una passejada junts per alleujar la inquietud. El NIA suggereix prendre un mos o una beguda, veure un programa de televisió preferit, escoltar música, fer una passejada, llegir o fer una tasca senzilla de la llar, com plegar roba.
 
 Idees per provar:
 
-1. **Plegar la roba junts.** El NIA suggereix aquest tipus de feina senzilla de casa. Les tovalles són fàcils de manejar, i la tasca té un final clar.
-2. **Posar música preferida.** Cançons conegudes de la seva joventut, a poc volum. Tararejar també compta. Més idees a [activitats de música](/activities/music/).
-3. **Mirar fotos.** Un àlbum de fotos, o unes quantes fotos de família a [Parelles de fotos](/games/photo-pairs/) amb les imatges visibles, poden portar a una conversa tranquil·la.
-4. **Fer una passejada curta.** Pel jardí, pel carrer o pel passadís, abans que es faci fosc.
-5. **Compartir un refrigeri i una beguda.** Alguna cosa senzilla, calenta i sense cafeïna, a la taula junts.
-6. **Aparellar amb suavitat.** [Parelles d’imatges](/games/picture-pairs/) amb quatre fitxes i imatges visibles és fàcil de començar i fàcil d’aturar.
-7. **Pintar.** [Pàgines per pintar](/games/coloring/) a la pantalla o en paper, sense l’objectiu d’acabar-les.
-8. **Mirar i parlar.** Les [Targetes de conversa](/games/conversation-cards/) ofereixen una imatge i una pregunta oberta. Només mirar ja és suficient.
-9. **Una pausa de respiració.** La [respiració tranquil·la](/games/calm-breathing/) és una pausa lenta i silenciosa que vostè mateix inicia i atura.
-10. **Tasques amb les mans.** Ordenar botons o mitjons, alisar una manta suau, o subjectar un objecte conegut. Vegi les [activitats sensorials](/activities/sensory/).
+1. **Plegar roba junts.** El NIA suggereix aquest tipus de tasca domèstica senzilla. Les tovalloles són fàcils de manejar i la tasca té un final clar.
+2. **Escoltar música preferida.** Cançons conegudes de quan era més jove, amb el volum baix. Taral·lejar també serveix. Trobareu més idees a [activitats amb música](/activities/music/).
+3. **Mirar fotos.** Un àlbum de fotos o algunes imatges familiars a [Photo Pairs](/games/photo-pairs/) amb les imatges visibles poden donar lloc a una conversa tranquil·la.
+4. **Fer una passejada curta.** Pel jardí, pel carrer o per un passadís, abans que es faci fosc.
+5. **Compartir un mos i una beguda.** Alguna cosa senzilla, calenta i sense cafeïna, junts a taula.
+6. **Un joc suau d’aparellar.** [Picture Pairs](/games/picture-pairs/) amb quatre peces i les imatges visibles és fàcil de començar i fàcil d’aturar.
+7. **Pintar.** [Coloring](/games/coloring/) a la pantalla o en un full imprès, sense cap objectiu d’acabar.
+8. **Mirar i parlar.** [Conversation Cards](/games/conversation-cards/) ofereix una imatge i una pregunta oberta. N’hi ha prou amb mirar.
+9. **Una pausa per respirar.** [Calm Breathing](/games/calm-breathing/) és una pausa lenta i tranquil·la que podeu començar i acabar quan vulgueu.
+10. **Tasques amb les mans.** Ordenar botons o mitjons, allisar una manta suau o sostenir un objecte conegut. Consulteu [activitats sensorials](/activities/sensory/).
 
-Eviti els jocs nous, les sortides plenes de gent i tot el que demani molta memòria o concentració a última hora del dia. Reservi-ho per al matí.
+Eviteu jocs nous, sortides mogudes i qualsevol cosa que demani molta memòria o concentració al final del dia. Reserveu-ho per al matí.
 
-## Què he de fer quan comenci la inquietud?
+## Què puc fer quan comença la inquietud?
 
-Mantingui la calma, doni seguretat i reorienti amb delicadesa. El NIA suggereix parlar amb calma, escoltar les preocupacions de la persona, evitar les discussions, assegurar-li que està a salvo, i fer servir un tacte suau si ajuda. Després, provi una distracció: un refrigeri, una beguda, música o una passejada.
+Mantingueu la calma, doneu seguretat i intenteu redirigir l’atenció amb suavitat. El NIA suggereix parlar amb calma, escoltar les preocupacions de la persona, evitar discutir, recordar-li que és en un lloc segur i fer servir un toc suau si li va bé. Després, proveu de distreure-la: amb un mos, una beguda, música o una passejada.
 
-L’Alzheimer’s Association suggereix frases com «Aquí està a salvo» i «Em sap greu que s’hagi disgustat», i aconsella afegir llum, alentir-se i limitar l’estimulació. No acorralar, no aglomerar la persona ni immobilitzar-la, i no discutir-hi.
+L’Alzheimer’s Association suggereix frases com «Aquí està segur» o «Aquí està segura» i «Sento que estigui disgustat» o «Sento que estigui disgustada», i aconsella afegir llum, anar més a poc a poc i limitar l’estimulació. No acorralleu la persona, no l’envolteu ni la subjecteu, i no discutiu amb ella.
 
-Si la persona es torna agressiva, el NIA aconsella mantenir una distància segura fins que la conducta s’aturi. En cas d’emergència, truqui al 112 (a Europa) o al 911 (als Estats Units) i digui que la persona té demència.
+Si la persona es torna agressiva, el NIA aconsella mantenir una distància segura fins que la conducta s’aturi. En una emergència, truqueu al 911 i expliqueu que la persona té demència. La nostra [guia per respondre a la ira i l’agressivitat](/caregiving/when-anger-becomes-aggression-with-dementia/) explica com actuar de seguida i què fer després.
 
-Les nostres guies sobre [comunicació](/caregiving/communication-tips/) i [què fer quan diuen que no](/caregiving/when-they-say-no/) tenen més idees sobre les paraules que calmen.
+Les nostres guies sobre [comunicació](/caregiving/communication-tips/) i [què fer quan diu que no](/caregiving/when-they-say-no/) ofereixen més idees sobre paraules que poden calmar.
 
-## Com trobo els desencadenants?
+## Com puc descobrir els desencadenants?
 
-Porti un registre curt durant una o dues setmanes. L’Alzheimer’s Association recomana anotar què passa abans dels episodis de sundowning per identificar els desencadenants. Anoti l’hora en què va començar la inquietud, què va passar durant l’hora anterior, les migdiades, els àpats i les begudes, les visites, el soroll i la llum. Porti el registre al metge. El NIA assenyala que fer un seguiment dels canvis de conducta pot ajudar les persones cuidadores i els professionals sanitaris a reconèixer un patró.
+Porteu un registre breu durant una o dues setmanes. L’Alzheimer’s Association recomana anotar què passa abans dels episodis de sundowning per identificar-ne els desencadenants. Apunteu l’hora en què va començar la inquietud, què va passar l’hora anterior, les migdiades, els àpats i les begudes, les visites, el soroll i la llum. Porteu el registre al metge. El NIA assenyala que fer un seguiment dels canvis de conducta pot ajudar les persones que cuiden i els professionals de la salut a reconèixer un patró.
 
 ## Quan he de trucar al metge pel sundowning?
 
-Contacti amb el metge de la persona si la inquietud és nova, empitjora de cop o ve acompanyada d’altres canvis. El NIA diu que els canvis sobtats o que fluctuen ràpidament en la conducta, sobretot després d’una infecció o de canvis recents de medicació, s’han de posar en coneixement d’un metge de seguida.
+Poseu-vos en contacte amb el metge de la persona si la inquietud és nova, empitjora de cop o va acompanyada d’altres canvis. El NIA diu que els canvis de conducta sobtats o que fluctuen ràpidament, sobretot després d’una infecció o de canvis recents en la medicació, s’han de comunicar de seguida al metge.
 
-Demani al metge que comprovi coses que poden fer els vespres més difícils. L’Alzheimer’s Association menciona problemes físics com les infeccions urinàries, la incontinència, les cames inquietes i l’apnea del son, i suggereix preguntar quins moments del dia són millors per a cada medicament. El NIA enumera el dolor, el restrenyiment i els efectes secundaris o les interaccions dels medicaments entre les possibles causes de l’agitació.
+Demaneu al metge que comprovi si hi ha alguna cosa que pugui fer més difícils els vespres. L’Alzheimer’s Association esmenta problemes físics com les infeccions del tracte urinari, la incontinència, la síndrome de les cames inquietes i l’apnea del son, i suggereix preguntar quines hores del dia són millors per a cada medicament. El NIA inclou el dolor, el restrenyiment i els efectes secundaris o les interaccions dels medicaments entre les possibles causes d’agitació.
 
-L’Alzheimer’s Association diu que els enfocaments sense medicaments se solen preferir per als problemes de son relacionats amb l’Alzheimer, i que un medicament per a l’agitació a última hora del dia només s’hauria de considerar si aquests no funcionen, després de valorar els riscos i els beneficis. Aquesta decisió correspon al metge. No comenci, deixi ni canviï cap medicament, ajut per dormir o suplement sense consell mèdic.
+L’Alzheimer’s Association diu que, en general, es prefereixen les mesures sense medicaments per als problemes de son relacionats amb l’Alzheimer i que els medicaments per a la inquietud de final de dia només s’haurien de valorar si aquestes mesures no funcionen, després de sospesar-ne els riscos i els beneficis. Aquesta decisió correspon al metge. No comenceu, no deixeu ni no canvieu cap medicament, ajuda per dormir o suplement sense consell mèdic.
 
-## Com aguanto jo els vespres?
+## Com puc afrontar jo mateixa o jo mateix els vespres?
 
-Les últimes hores de la tarda poden ser la part més difícil del dia de la persona cuidadora. Si pot, demani a un familiar, un amic o un auxiliar remunerat que cobreixi l’última hora de la tarda uns quants dies a la setmana, encara que sigui durant una hora. La nostra [guia d’autocura per a persones cuidadores](/caregiving/caregiver-self-care/) enumera opcions de respir i la línia d’ajuda 24/7 gratuïta de l’Alzheimer’s Association.
+Les últimes hores de la tarda poden ser el moment més difícil del dia per a la persona que cuida. Si podeu, demaneu a un familiar, una amistat o una persona contractada que us ajudi a última hora de la tarda alguns dies a la setmana, encara que sigui durant una hora. La nostra guia sobre [cura personal per a les persones que cuiden](/caregiving/caregiver-self-care/) inclou opcions de respir i la línia d’ajuda gratuïta de l’Alzheimer’s Association, disponible les vint-i-quatre hores del dia, tots els dies de la setmana.

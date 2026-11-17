@@ -1,36 +1,36 @@
 ---
-title: "Mtu Mwenye Dementia Anapouliza Swali Lilelile Tena na Tena"
-seoTitle: "Dementia: Kurudia Maswali, Cha Kusema na Kufanya"
-description: "Kwa nini mtu mwenye dementia huuliza swali lilelile mara nyingi, njia tulivu za kujibu, zana rahisi, na wakati badiliko la ghafla linahitaji daktari."
+title: "Mtu anayeishi na shida ya kumbukumbu anaporudia swali"
+seoTitle: "Kurudia maswali katika shida ya kumbukumbu"
+description: "Kwa nini mtu anayeishi na shida ya kumbukumbu hurudia swali, njia tulivu za kujibu, vifaa rahisi vinavyosaidia, na wakati mabadiliko ya ghafla yanahitaji daktari."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Kurudia maswali ni kawaida katika dementia: mtu huyo kwa kawaida hakumbuki
-  kwamba ameuliza, na swali mara nyingi hubeba wasiwasi. Jibu kwa utulivu na kwa
-  ufupi kana kwamba ni mara ya kwanza, jibu hisia iliyo nyuma yake, na usiseme
-  kamwe “umeshauliza.” Andika jibu mahali anapoweza kuliona, taja matukio muda
-  mfupi kabla tu, na mpe shughuli ya kufurahisha. Badiliko la ghafla linahitaji
-  daktari.
+  Kurudia maswali ni jambo la kawaida katika shida ya kumbukumbu: mara nyingi
+  mtu hakumbuki kuwa ameshaliuliza, na swali hilo linaweza kuonyesha wasiwasi.
+  Jibu kwa utulivu na kwa ufupi kana kwamba ni mara ya kwanza, jibu hisia
+  iliyo nyuma ya swali, na usiseme kamwe «tayari umeuliza». Andika jibu mahali
+  anapoweza kuliona, taja matukio muda mfupi tu kabla hayajatokea, na toa
+  shughuli ya kupendeza. Mabadiliko ya ghafla yanahitaji daktari.
 keyPoints:
-  - "Mtu huyo kwa kawaida hakumbuki kwamba ameuliza; si kwa makusudi."
+  - "Mara nyingi mtu hakumbuki kuwa ameshaliuliza; hafanyi hivyo makusudi."
   - "Swali mara nyingi huficha hisia, kama wasiwasi kuhusu miadi au kutaka kujisikia salama."
-  - "Jibu kwa utulivu, kwa ufupi na kwa wema, kana kwamba ni mara ya kwanza. Usiseme kamwe “umeshauliza.”"
-  - "Kidokezo, ubao mweupe, saa au kalenda inayoonekana inaweza kujibu swali kwa niaba yako."
-  - "Taja matukio yenye mkazo muda mfupi kabla tu hayajatokea."
-  - "Pumzika kidogo unapohitaji, na mpigie daktari kuhusu badiliko lolote la ghafla."
+  - "Jibu kwa utulivu, kwa ufupi na kwa upole, kana kwamba ni mara ya kwanza. Usiseme kamwe «tayari umeuliza»."
+  - "Ujumbe, ubao, saa au kalenda iliyo wazi inaweza kujibu swali badala yako."
+  - "Taja matukio yenye msongo wa mawazo muda mfupi tu kabla hayajatokea."
+  - "Pumzika kidogo unapohitaji, na wasiliana na daktari kuhusu mabadiliko yoyote ya ghafla."
 faq:
-  - q: "Kwa nini baba yangu mwenye dementia anaendelea kuuliza swali lilelile?"
-    a: "Dementia huathiri kumbukumbu ya muda mfupi, kwa hiyo huenda kweli hakumbuki kwamba ameuliza au kusikia jibu. Mara nyingi swali pia hubeba hisia, kama wasiwasi kuhusu kitakachofuata au hitaji la kutuliziwa. Kujibu hisia hiyo kwa kawaida husaidia zaidi kuliko kurudia ukweli."
-  - q: "Je, nimwambie kwamba ameshauliza?"
-    a: "Hapana. Haiwezi kumsaidia kukumbuka na inaweza kuhisiwa kama kurekebishwa. Mashirika ya dementia yanashauri kujibu kwa utulivu kila mara, kana kwamba ni mara ya kwanza, na kufanya jibu liwe fupi."
-  - q: "Je, kuandika jibu kunasaidia?"
-    a: "Kunaweza kusaidia, mtu huyo akiwa bado anaweza kusoma. Kidokezo, ubao mweupe wenye mpango wa leo, saa kubwa au kalenda mahali anapotazama mara nyingi vinamruhusu kukagua jibu mwenyewe. Elekeza kwa upole badala ya kusema “nilikwambia.”"
-  - q: "Nizungumze lini kuhusu miadi au matembezi?"
-    a: "Karibu na wakati wenyewe. Kutaja ziara ya daktari au safari siku kadhaa mapema kunaweza kugeuka kuwa masaa ya maswali ya wasiwasi. Mwambie muda mfupi kabla, kwa utulivu, pamoja na kitakachofuata."
-  - q: "Kurudia ni sababu ya kumpigia daktari lini?"
-    a: "Kama maswali, kuchanganyikiwa au tabia vinabadilika ghafla au vinazidi kuwa vibaya sana ndani ya saa au siku, mpigie daktari wake haraka. Maambukizi, dawa mpya, maumivu, kuvimbiwa au upungufu wa maji mwilini vinaweza kusababisha kuchanganyikiwa kwa ghafla kunakoitwa delirium, kunakohitaji huduma ya haraka."
+  - q: "Kwa nini baba yangu anayeishi na shida ya kumbukumbu anaendelea kurudia swali lile lile?"
+    a: "Shida ya kumbukumbu huathiri kumbukumbu ya muda mfupi, kwa hivyo anaweza kuwa hakumbuki kweli kwamba ameuliza au amesikia jibu. Mara nyingi swali pia hubeba hisia, kama wasiwasi kuhusu kinachofuata au hitaji la kuhakikishiwa. Kujibu hisia hiyo kwa kawaida husaidia zaidi kuliko kurudia tu ukweli."
+  - q: "Je, nimwambie kuwa tayari ameshaliuliza?"
+    a: "Hapana. Hilo haliwezi kumsaidia kukumbuka na linaweza kuhisiwa kama kukosolewa. Mashirika ya shida ya kumbukumbu yanashauri kujibu kwa utulivu kila wakati, kana kwamba ni mara ya kwanza, na kuweka jibu fupi."
+  - q: "Je, kuandika jibu kunaweza kusaidia?"
+    a: "Kunaweza kusaidia, mradi mtu bado anaweza kusoma. Ujumbe, ubao wenye mpango wa leo, saa kubwa au kalenda mahali anapotazama mara nyingi humwezesha kujiangalia jibu mwenyewe. Mwelekeze huko kwa upole badala ya kusema «nimekushakwambia»."
+  - q: "Ni lini ninapaswa kuzungumza kuhusu miadi au kutoka nje?"
+    a: "Karibu na wakati wenyewe. Kutaja ziara ya daktari au safari siku nyingi kabla kunaweza kugeuka kuwa masaa ya maswali yenye wasiwasi. Mwambie muda mfupi kabla, kwa utulivu, pamoja na kitakachofuata."
+  - q: "Ni lini kurudia maswali ni sababu ya kumpigia daktari simu?"
+    a: "Ikiwa maswali, kuchanganyikiwa au tabia vitabadilika ghafla au kuzidi sana ndani ya saa au siku chache, wasiliana na daktari wake haraka. Maambukizi, dawa mpya, maumivu, kufunga choo au upungufu wa maji mwilini vinaweza kusababisha kuchanganyikiwa kwa ghafla kunakoitwa deliriamu, ambayo huhitaji huduma ya haraka."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-“Daktari ni saa ngapi?” Dakika kumi baadaye: “Daktari ni saa ngapi?” Kusikia swali lilelile tena na tena ni mojawapo ya sehemu zinazochosha zaidi za kumhudumia mtu anayeishi na dementia. Ni jambo la kawaida sana, halifanywi kwa makusudi, na kuna njia tulivu za kujibu zinazorahisisha siku kwa nyinyi wawili.
+«Daktari yuko saa ngapi?» Baada ya dakika kumi: «Daktari yuko saa ngapi?» Kusikia swali lile lile tena na tena ni jambo linalochosha sana katika kumtunza mtu anayeishi na shida ya kumbukumbu. Ni jambo la kawaida sana, halifanywi makusudi, na kuna njia tulivu za kujibu zinazoweza kurahisisha siku kwenu nyote wawili.
 
-## Kwa nini mtu mwenye dementia huuliza swali lilelile tena na tena?
+## Kwa nini mtu anayeishi na shida ya kumbukumbu hurudia swali tena na tena?
 
-Zaidi kwa sababu ya kumbukumbu. Dementia huathiri kumbukumbu ya muda mfupi, kwa hiyo mtu huyo mara nyingi hakumbuki kwamba ameuliza, au hakumbuki jibu. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) inaeleza kuuliza maswali mara nyingi kuwa jambo la kawaida na linalotarajiwa.
+Mara nyingi ni kwa sababu ya kumbukumbu. Shida ya kumbukumbu huathiri kumbukumbu ya muda mfupi, kwa hivyo mtu mara nyingi hakumbuki kuwa ameuliza, au hakumbuki jibu. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) inaeleza kuwa kuuliza maswali mara nyingi ni jambo la kawaida na linalotarajiwa.
 
-Swali mara nyingi hubeba hisia pia. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) inaeleza kwamba swali linalorudiwa linaweza kuonyesha wasiwasi, ombi la msaada, au wasiwasi na ukosefu wa usalama, na kwamba mtu mara nyingi anatafuta faraja na kitu kinachojulikana. “Tunaondoka lini?” kunaweza kumaanisha kweli “nina wasiwasi kuhusu kwenda.” Uchovu wa kukosa cha kufanya, hofu, kelele na mabadiliko ya ratiba vyote vinaweza kulianzisha, na swali linalorudiwa pia linaweza kuashiria hitaji, kama choo ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Mara nyingi swali pia hubeba hisia. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) inaeleza kuwa swali linalorudiwa linaweza kuonyesha wasiwasi, ombi la msaada, au hofu na kutokuwa na uhakika, na kwamba mtu mara nyingi anatafuta faraja na jambo linalomfanya ajisikie kawaida. «Tunaenda saa ngapi?» linaweza kumaanisha «Nina wasiwasi kuhusu kwenda.» Kukosa cha kufanya, woga, kelele na mabadiliko ya ratiba yote yanaweza kuchochea hili, na swali linalorudiwa pia linaweza kuonyesha hitaji, kama kwenda chooni ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## Nisemeje?
+## Niseme nini?
 
 Jibu kwa utulivu na kwa ufupi, kana kwamba ni mara ya kwanza.
 
-- **Fanya jibu liwe fupi na lilelile.** “Daktari yuko saa nane. Nitakuwa nawe.” Jibu lisilobadilika ni rahisi kulipokea.
-- **Jibu hisia.** “Unajiuliza kuhusu daktari. Ni mchana huu, na nitatupeleka. Hakuna kitu unachohitaji kufanya.”
-- **Tumia sauti ya joto na mguso wa upole,** kama anapenda kuguswa. Alzheimer's Association inashauri kubaki mtulivu na kutotumia mantiki wala kubishana.
-- **Toa jibu analolitafuta,** mara nyingi inavyohitajika. Alzheimer's Association inasema kulirudia mara nyingi kadiri anavyouliza.
+- **Weka jibu fupi na lile lile.** «Daktari yuko saa nane mchana. Nitakuwa pamoja nawe.» Jibu linalobaki lile lile ni rahisi zaidi kulielewa.
+- **Jibu hisia.** «Unajiuliza kuhusu daktari. Ni mchana huu, na nitatuendesha. Hakuna kitu unachohitaji kufanya.»
+- **Tumia sauti ya upole na mguso wa taratibu,** ikiwa anapenda kuguswa. Alzheimer's Association inashauri kubaki mtulivu na kutojaribu kutumia hoja au kubishana.
+- **Toa jibu analolitafuta,** mara nyingi kadri anavyouliza. Alzheimer's Association inasema ulirudie mara nyingi kadri anavyoendelea kuuliza.
 
-## Nini nikiepuke?
+## Nini napaswa kukwepa?
 
-- **“Umeshaniuliza hilo.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) inashauri kutoonyesha kwamba ameuliza tu. Haiwezi kumsaidia kukumbuka, na inaweza kuhisiwa kama kukaripiwa.
-- **Maelezo marefu.** Maneno mengi huacha mengi ya kusahau.
-- **Kuugua kwa uchovu, kuzungusha macho au sauti kali.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) inashauri uvumilivu na kutoonyesha kuchoka. Hilo ni gumu; tazama sehemu ya mapumziko hapa chini.
+- **«Tayari umeniuliza hilo.»** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) inashauri usionyeshe kuwa ameamlishauliza. Hilo haliwezi kumsaidia kukumbuka, na linaweza kuhisiwa kama kukemewa.
+- **Maelezo marefu.** Maneno mengi humaanisha mengi ya kusahau.
+- **Kuhema kwa uchovu, kuzungusha macho au sauti kali.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) inashauri kuwa na subira na kutoonyesha kuchanganyikiwa. Hilo si jambo jepesi; angalia sehemu ya mapumziko hapa chini.
 
-## Zana rahisi zinazojibu swali kwa niaba yako
+## Vifaa rahisi vinavyojibu swali badala yako
 
-Mtu huyo akiwa bado anaweza kusoma, jibu lililoandikwa analoweza kuliona mara nyingi husaidia zaidi kuliko la kusemwa.
+Mradi mtu bado anaweza kusoma, jibu lililoandikwa analoweza kuliona mara nyingi husaidia zaidi kuliko linalosemwa.
 
-| Zana | Jinsi ya kuitumia |
+| Kifaa | Jinsi ya kukitumia |
 | --- | --- |
-| Kidokezo kwa herufi kubwa | “Daktari leo saa 8 mchana. Mary atapeleka.” Kiweke mahali anapotazama zaidi |
-| Ubao mweupe | Mpango wa leo kwa mistari mitatu au minne; futa na uandike upya kila asubuhi |
-| Saa kubwa yenye siku na tarehe | Husaidia kwa “Leo ni siku gani?” na “Je, wakati umefika?” |
-| Kalenda | Futa kila siku; zungushia ziara inayofuata |
-| Picha zinazojulikana | Picha ya mtu anayekuja inaweza kujibu “Nani anatembelea?” |
+| Ujumbe kwa herufi kubwa | «Daktari leo saa 14:00. Mary ataendesha gari.» Uweke mahali anapotazama mara nyingi |
+| Ubao | Mpango wa leo katika mistari mitatu au minne; futa na uandike upya kila asubuhi |
+| Saa kubwa yenye siku na tarehe | Husaidia kwa «Leo ni siku gani?» na «Je, ni wakati tayari?» |
+| Kalenda | Piga mstari kila siku; zungushia mduara ziara inayofuata |
+| Picha zinazojulikana | Picha ya mtu anayekuja inaweza kujibu «Nani anakuja?» |
 
-Mawazo haya yanatoka kwa [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) na [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Elekeza kidokezo kwa upole (“Hebu tuangalie ubao pamoja”) badala ya kusema “Nilikuandikia.”
+Mawazo haya yanatoka [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) na [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Mwelekeze kwenye ujumbe kwa upole («Tuangalie ubaoni pamoja») badala ya kusema «Niliandika kwa ajili yako».
 
-## Mwambie kuhusu matukio karibu na wakati wake
+## Mwambie kuhusu matukio karibu na wakati
 
-Kutaja miadi au matembezi siku kadhaa mapema kunaweza kugeuka kuwa masaa ya maswali ya wasiwasi. Family Caregiver Alliance na Alzheimer's Los Angeles zote zinapendekeza kuzungumza kuhusu mipango, hasa yenye mkazo kama ziara za daktari au kuoga, muda mfupi tu kabla hayajatokea. Kisha sema kitakachofuata, hatua moja kwa wakati.
+Kutaja miadi au kutoka nje siku nyingi kabla kunaweza kugeuka kuwa masaa ya maswali yenye wasiwasi. Family Caregiver Alliance na Alzheimer's Los Angeles zote zinashauri kuzungumza kuhusu mipango, hasa yenye msongo wa mawazo kama ziara za daktari au kuoga, muda mfupi tu kabla hayajatokea. Kisha eleza kitakachofuata, hatua moja baada ya nyingine.
 
-## Shughuli zinazoweza kuhamisha usikivu
+## Shughuli zinazoweza kusaidia kubadilisha mawazo
 
-Ukishajibu na kukubali hisia, shughuli tulivu na ya kufurahisha inaweza kusaidia, hasa kama uchovu wa kukosa cha kufanya uko nyuma ya maswali. Kila chanzo hapo juu kinapendekeza kuelekeza kwenye kitu ambacho mtu huyo anapenda.
+Ukishajibu na kutambua hisia, shughuli tulivu na ya kupendeza inaweza kusaidia, hasa ikiwa kukosa cha kufanya ndiko kunasababisha maswali. Kila chanzo kilichotajwa hapo juu kinashauri kuelekeza mawazo kwenye kitu mtu anachokipenda.
 
-1. **Mchezo mfupi na rahisi pamoja.** [Jozi za picha](/games/picture-pairs/) huweka picha zikionekana, kwa hiyo hakuna kinachohitaji kukumbukwa.
-2. **Kazi inayojulikana.** Kukunja taulo, kupanga soksi au kuweka meza. [Panga pamoja](/games/sort-together/) ni toleo la skrini.
-3. **Zungumza kuhusu kitu anachokipenda.** [Kadi za mazungumzo](/games/conversation-cards/) hutoa maswali wazi bila majibu sahihi.
-4. **Muziki, matembezi au kitafunio.** National Institute on Aging inavitaja miongoni mwa njia rahisi za kuelekeza usikivu.
-5. **Kituo cha utulivu.** Kaeni pamoja, tazameni nje ya dirisha, au jaribuni kipindi cha pamoja cha [pumzi tulivu](/games/calm-breathing/).
+1. **Mchezo mfupi na rahisi pamoja.** [Picture pairs](/games/picture-pairs/) huweka picha wazi, kwa hivyo hakuna kinachohitaji kukumbukwa.
+2. **Kazi ya kawaida.** Kukunja taulo, kupanga soksi au kuandaa meza. [Sort together](/games/sort-together/) ni toleo la kwenye skrini.
+3. **Zungumza kuhusu jambo analolipenda.** [Conversation cards](/games/conversation-cards/) hutoa vidokezo vya mazungumzo visivyo na majibu sahihi au yasiyo sahihi.
+4. **Muziki, matembezi au kitafunwa.** National Institute on Aging inavitaja hivi miongoni mwa njia rahisi za kuelekeza mawazo.
+5. **Mapumziko ya utulivu.** Kaeni pamoja, mtazame nje dirishani, au jaribuni kipindi cha pamoja cha [calm breathing](/games/calm-breathing/).
 
-Akirudi kwenye swali, ujibu tena, kwa wema. Hilo ni sawa.
+Akirudi kwenye swali, lijibu tena, kwa upole. Hiyo ni sawa.
 
-## Tafuta mifumo
+## Angalia mifumo
 
-Alzheimer's Association inapendekeza kuona kama maswali huja nyakati fulani za siku, karibu na watu fulani au mahali fulani. Kama huanza kila mara kabla ya wageni kufika, au alasiri, unaweza kupanga mapema: kidokezo kuhusu ziara, shughuli inayojulikana iliyo tayari, chumba chenye utulivu zaidi. Mwongozo wetu wa [shughuli tulivu za alasiri](/caregiving/late-day-restlessness/) unaweza kusaidia kama jioni ndizo ngumu zaidi.
+Alzheimer's Association inapendekeza kuangalia kama maswali yanakuja nyakati fulani za siku, karibu na watu fulani au katika maeneo fulani. Ikiwa daima huanza kabla wageni hawajafika, au alasiri, unaweza kupanga mapema: ujumbe kuhusu ziara, shughuli ya kawaida ikiwa tayari, au chumba tulivu zaidi. Mwongozo wetu kuhusu [shughuli tulivu alasiri](/caregiving/late-day-restlessness/) unaweza kusaidia ikiwa jioni ndizo ngumu zaidi.
 
-## Jitunze
+## Jitunze mwenyewe
 
-Kujibu swali lilelile mara ya ishirini kunachosha. Kama unahisi uvumilivu wako unaisha na mtu huyo yuko salama, nenda chumba kingine kwa dakika chache na upumue, kama [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) inavyopendekeza. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) inawahimiza walezi kuomba msaada na kuzingatia huduma ya mapumziko ya mlezi. Mawazo zaidi yako katika [mwongozo wetu wa kujitunza kwa mlezi](/caregiving/caregiver-self-care/).
+Kujibu swali lile lile kwa mara ya ishirini kunachosha. Ukihisi subira yako inaisha na mtu yuko salama, nenda chumba kingine kwa dakika chache na pumua, kama [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) inavyoshauri. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) inawahimiza walezi kuomba msaada na kufikiria huduma ya mapumziko kwa mlezi. Mawazo zaidi yapo katika [mwongozo wetu wa kujitunza kwa mlezi](/caregiving/caregiver-self-care/).
 
-## Nimpigie daktari lini?
+## Ni lini ninapaswa kumpigia daktari simu?
 
-Mpigie daktari wake haraka kama maswali, kuchanganyikiwa au tabia vinabadilika ghafla au vinazidi kuwa vibaya sana ndani ya saa au siku. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) inasema tabia ya ghafla au inayobadilika haraka, hasa baada ya maambukizi au mabadiliko ya dawa, inapaswa kufikishwa kwa daktari mara moja. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) inaeleza kwamba maambukizi, dawa, upungufu wa maji mwilini, maumivu au kuvimbiwa vinaweza kusababisha delirium, kuchanganyikiwa kwa ghafla na kukubwa kunakohitaji matibabu ya haraka. Piga namba ya dharura ya eneo lako kama mtu yeyote yuko hatarini.
+Wasiliana na daktari wake haraka ikiwa maswali, kuchanganyikiwa au tabia vitabadilika ghafla au kuzidi sana ndani ya saa au siku chache. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) inasema tabia inayobadilika ghafla au haraka, hasa baada ya maambukizi au mabadiliko ya dawa, inapaswa kufikishwa kwa daktari mara moja. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) inaeleza kuwa maambukizi, dawa, upungufu wa maji mwilini, maumivu au kufunga choo vinaweza kusababisha deliriamu, hali ya kuchanganyikiwa kwa ghafla na kwa kiwango kikubwa ambayo huhitaji matibabu ya haraka. Piga 911 ikiwa kuna mtu yuko hatarini.

@@ -1,34 +1,36 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Misala ya kimia na mpokwa"
+seoTitle: "Sundowning: Misala ya kimia na mpokwa"
+description: "Mibeko ya kimia, mbongwana ya ndako mpe misala ya pete oyo ekoki kosalisa na mobulu ya mpokwa na bokono bwa bobungisi makanisi, mpe ntango ya kobenga monganga."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning ezali mobulu, libulungano ya makanisi to kozanga kimia oyo
+  ebandaka to ekómaka makasi na mpokwa to na pokwa. Makambo oyo ekoki
+  kosalisa ezali: kozala na manaka ya mokolo na mokolo, pole ya moi mpe
+  misala na ntongo, kolala moke na mpokwa, komela moke biloko oyo ezali na
+  caféine, kopelisa miinda ya ndako liboso moyi elala, kokitisa makelele na
+  ndako, mpe kosala misala ya kimia lokola koyoka miziki, kotala bafɔtɔ to
+  kopinga bilamba. Soki bilembo ya sika ebimi to ekómi makasi, esengeli
+  kokende epai ya monganga.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning elakisi mobulu to libulungano ya makanisi oyo ebandaka to ekómaka makasi ntango pole ekiti."
+  - "Sala misala ya makasi, mikolo ya kobima mpe kosukola nzoto na ntongo to na nsima ya nzánga."
+  - "Pole ya moi, kotambola mokolo na mokolo, kolala moke na mpokwa mpe komela moke caféine na mpokwa ekoki kosalisa mpokwa eleka malamu."
+  - "Pelisa miinda liboso moyi elala, kitisa makelele, mpe banda misala ya kimia oyo moto ayebi malamu."
+  - "Koma makambo mpo na koyeba oyo ebimisaka yango, mpe tikala kimia mpe kopesa elikya ntango mobulu ebandi."
+  - "Kende epai ya monganga soki bilembo ya sika ebimi to ekómi makasi: mpasi, bokono ya mikrobe to kisi ekoki kozala na ntina."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Sundowning esalemaka mingi na ngonga nini ya mokolo?"
+    a: "Mingimingi ebandaka to ekómaka makasi na mpokwa to na ebandeli ya pokwa, ntango pole ekiti. Ngonga ekoki kozala ndenge na ndenge mpo na moto na moto, yango wana kokoma makambo mpo na pɔsɔ moko to mibale ekoki kosalisa."
+  - q: "Misala nini ekoki kosalisa na sundowning?"
+    a: "Misala ya kimia, oyo moto ayebi malamu mpe esɛngaka makasi mingi te, elongobani malamu na mpokwa: miziki ya kimia, kotala bafɔtɔ, emonaneli ya TV to filimi oyo moto alingaka, kopinga bilamba, kotambola mwa moke, to kolya eloko moko elongo. Batela misala ya sika to ya makasi mpo na ntongo."
+  - q: "Sundowning ekoki kolakisa likambo ya nzoto?"
+    a: "Ekoki kokóma makasi mpo na makambo ya nzoto lokola mpasi, bokono ya mikrobe lokola bokono ya nzela ya masuba, mikakatano ya mpɔngi to bongo ya kisi. Soki mobulu ezali ya sika, ebimi mbala moko to ezali kokóma makasi, benga monganga ya moto yango."
+  - q: "Nasengeli kotuna monganga mpo na kisi ya sundowning?"
+    a: "Yango ezali lisolo ya kosolola na monganga. Alzheimer's Association elobi ete ndenge ya kosalisa oyo ezangi kisi ezali mingi liboso, mpe kisi mpo na mobulu ya pokwa esengeli kotalelama kaka nsima ya kotalela makama mpe matomba na yango. Lokasa oyo epesi toli ya kisi te."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +49,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Mabota mingi emonaka likambo moko: na ntongo nyonso ezali kimia, kasi ntango mpokwa ekómi, moto oyo azali kobika na bokono bwa bobungisi makanisi akómaka na mobulu, na mitungisi, na libulungano ya makanisi to na kozanga kimia. Akoki kotambola-tambola, kosɛnga «kozonga na ndako» atako azali na ndako, to kokóma na nkanda noki. Mingimingi babengaka yango sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Ezalaka na nzela moko te ya kobongisa nyonso, kasi mbongwana na ndenge ya mokolo, na ndako mpe na lolenge ya misala oyo bopesi ekoki kosalisa mpokwa ezala kimia. Lokasa oyo esangisi makanisi ya pete, oyo etali kisi te, kowuta na National Institute on Aging mpe Alzheimer's Association. Ezali toli ya monganga te. Soki bilembo ezali ya sika, ebimi mbala moko to ezali kokóma makasi, solola na monganga ya moto yango.
 
-## What is sundowning?
+## Sundowning ezali nini?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning ezali mobulu, kozanga kimia, kosilika to libulungano ya makanisi oyo ebandaka to ekómaka makasi ntango pole ekiti, na mpokwa to na ebandeli ya pokwa. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) elobi ete kolɛmba mingi ekoki komatisa mobulu ya mpokwa.
 
-## What can make late-day restlessness worse?
+## Nini ekoki kosala ete mobulu ya mpokwa ekóma makasi?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Makambo mingi ekoki kosala bongo, mbala mingi elongo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) etangi makambo lokola:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- kolɛmba nsima ya mokolo mobimba;
+- bisika ya sika to oyo ebulungisaka;
+- «ngonga ya nzoto ya kati» oyo ekendeke malamu te, oyo esalaka ete moto alala na moi mpe azala na miso na butu;
+- pole ya moke mpe bililingi, oyo ekoki kobulungisa;
+- koyoka mitungisi to kozanga kimia ya bato oyo bazingeli ye;
+- mposa ya mpɔngi ekiti, likambo oyo emonanaka mingi na mibange.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA ebakisi bantina mosusu ya mobulu, lokola mpasi, mawa to mitungisi, mpɔngi ya kokoka te, kokangama ya libumu, makelele mingi to bato mingi, mpe kisi mosusu to kosangana ya kisi.
 
-## How can I plan the day to make evenings calmer?
+## Ndenge nini nakoki kobongisa mokolo mpo na mpokwa ezala kimia?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Longola misala ya makasi na ntongo mpe sala ete mpokwa ezala pete mpe eyebani. NIA mpe Alzheimer's Association nyonso mibale balendisi manaka ya mbala na mbala. Ndakisa ya mokolo, oyo okoki kobongola:
 
-| Time | What may help |
+| Ngonga | Nini ekoki kosalisa |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Ntongo | Makita ya monganga, kosukola nzoto, kobima mpe mosala nyonso oyo esɛngaka makasi, ntango bato mingi bazalaka na makasi |
+| Nsuka ya ntongo | Ntango na libándá to pembeni ya lininisa oyo ezali na moi; kotambola to mosala mosusu |
+| Nzánga | Kolya ya midi ya monene (Alzheimer's Association elobi ete kolya ya midi ezala monene mpe kolya ya pokwa ezala pete) |
+| Ebandeli ya nsima ya nzánga | Kopema soki esengeli, kasi koboya kolala mingi na mpokwa |
+| Kati ya mpokwa | Misala ya kimia oyo moto ayebi malamu; kolya eloko moke mpe komela; caféine te |
+| Liboso moyi elala | Pelisa miinda ya ndako mpe kanga rideaux liboso molili ekóma |
+| Pokwa | Kolya ya pete, miziki ya kimia, makambo mingi te, manaka ya kolala oyo ebongwanaka te |
 
-A few specific points from the sources:
+Makambo mosusu ya sikisiki kowuta na bantina:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Pole ya moi.** NIA elobi ete bobongisa ntango ya kozala na libándá to pembeni ya lininisa mpo na kozwa pole ya moi mokolo na mokolo.
+- **Kotambola mokolo na mokolo, kasi mingi te.** NIA elobi ete sala ete nzoto etambola mokolo na mokolo, kasi kobongisa misala mingi te.
+- **Biloko ya komela na mpokwa.** Boya masanga ya makasi mpe biloko oyo ezali na caféine, lokola café to cola, na mpokwa (NIA). Alzheimer's Association elobeli mpe nikotini.
+- **Kolala na moi.** Boboya kolala molai mpe kopema na mpɔngi na mpokwa (NIA). Alzheimer's Association elobi ete kokitisa mpɔngi ya moi ekoki kosalisa soki mpɔngi ya butu ezali mokakatano.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Mpo na koyeba mingi na ndenge ya kotonga mokolo ya malamu, tala [misala ya manaka ya mokolo na mokolo](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Ndenge nini nakoki kosala ete ndako ezala kimia na mpokwa?
 
-Reduce noise, add light and keep familiar things close.
+Kitisa makelele, bakisa pole, mpe batela biloko oyo moto ayebi pembeni na ye.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Pole ya malamu mpe ya ndenge moko.** Alzheimer's Association elendisi ete ndako ezala na pole malamu na pokwa. Pelisa pole liboso bililingi ebima.
+- **Makelele moke.** Kanga to kitisa TV mpe radio, mpe kitisa baboti to misala ya ndako oyo esalaka makelele na ngonga yango. Alzheimer's Association elobi ete kokitisa makambo oyo etungisaka na pokwa lokola TV, misala ya ndako mpe miziki ya makasi.
+- **Biloko oyo epesaka kimia.** NIA elobi ete miziki ya kimia mpe biloko mpe bafɔtɔ oyo moto alingaka mingi ezala na ndako.
+- **Kotalela kimia ya nzoto.** Alzheimer's Association elobi ete botala soki ezali na mpasi, nzala, mposa ya mayi, kokangama ya libumu, masuba etondi, kolɛmba, bokono ya mikrobe to kosuana ya poso, mpe bobatela ndako na molunge oyo ebongi.
+- **Ndenge yo moko ozali koyoka.** Bato bakoki koyoka mitungisi ya basusu. NIA elobi ete okita malembe mpe omeka kopema soki mitungisi na yo ekoki kobakisa mobulu.
 
-## What calm activities can we do in the late afternoon?
+## Misala nini ya kimia tokoki kosala na mpokwa?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Pona misala oyo moto ayebi malamu, oyo esalema na lombangu te mpe oyo ekoki kotika noki. Alzheimer's Association elobi misala ya kimia lokola miziki ya malembe, bafɔtɔ to filimi oyo moto alingaka, mpe kotambola elongo mpo na kokitisa mobulu. NIA elobi kolya eloko moke to komela, emonaneli ya TV oyo moto alingaka, miziki, kotambola, kotánga, to mosala ya ndako ya pete lokola kopinga bilamba.
 
-Ideas to try:
+Makanisi ya komeka:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Kopinga bilamba elongo.** NIA elobi mosala ya ndako ya pete ya lolenge oyo. Batoele ezali pete mpo na kosimba, mpe mosala ezali na suka ya polele.
+2. **Kobeta miziki oyo moto alingaka.** Nzembo oyo ayebaki na bolenge na ye, na volume ya moke. Koyemba na monɔkɔ ezali malamu. Makanisi mosusu na [misala ya miziki](/activities/music/).
+3. **Kotala bafɔtɔ.** Albom ya bafɔtɔ, to bafɔtɔ mwa moke ya libota na [Photo Pairs](/games/photo-pairs/) na bafɔtɔ oyo etikali polele, ekoki komema masolo ya kimia.
+4. **Kotambola mwa moke.** Na elanga, na balabala ya pembeni to na nzela ya ndako, liboso molili ekóma.
+5. **Kolya eloko moke mpe komela elongo.** Eloko ya pete, ya molunge mpe oyo ezangi caféine, na mesa elongo.
+6. **Kokokanisa na ndenge ya malembe.** [Picture Pairs](/games/picture-pairs/) na biteni minei mpe bafɔtɔ oyo emonanaka ezali pete mpo na kobanda mpe kotika.
+7. **Kotia langi.** [Coloring](/games/coloring/) na ekran to na lokasa oyo ebimami, kozanga mokano ya kosilisa.
+8. **Kotala mpe kosolola.** [Conversation Cards](/games/conversation-cards/) epesaka elilingi mpe motuna ya polele. Kotala kaka ekoki.
+9. **Kopema na kimia.** [Calm Breathing](/games/calm-breathing/) ezali ngonga ya malembe mpe ya kimia oyo obandaka mpe otikaka yo moko.
+10. **Misala ya mabɔkɔ.** Kopona butɔ to basɔsɛti, kolambisa bulanketi ya pete, to kosimba eloko oyo moto ayebi malamu. Tala [misala ya koyoka na nzoto](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Boya masano ya sika, mikolo ya kobima oyo etondi na bato mpe eloko nyonso oyo esɛngaka makanisi mingi to bokebi mingi na mpokwa. Batela yango mpo na ntongo.
 
-## What should I do when restlessness starts?
+## Nasengeli kosala nini ntango mobulu ebandi?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Tikala kimia, pesa elikya, mpe bongola makanisi na malembe. NIA elobi ete oloba na kimia, oyoka mitungisi ya moto, oboya koswana, opesa ye elikya ete azali na libateli, mpe osimba ye na malembe soki esalisaka. Sima, meka kobongola likebi na ye: eloko ya kolya, eloko ya komela, miziki to kotambola.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association elobi maloba lokola «Ozali na libateli awa» mpe «Nalembi ete ozali na mawa», mpe epesi toli ya kobakisa pole, kokita malembe mpe kokitisa makambo oyo etungisaka. Kokanga moto na esika moko te, kozingela ye mingi te, kosimba ye na makasi te, to koswana na ye te.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Soki moto akómi na mobulu makasi, NIA epesi toli ya kotikala mosika ya libateli kino ndenge wana ekita. Soki ezali likambo ya mbalakaka, benga 911 mpe lobela ete moto azali na bokono bwa bobungisi makanisi. [Lisolo na biso mpo na koyanola na nkanda mpe mobulu makasi](/caregiving/when-anger-becomes-aggression-with-dementia/) elobeli libateli ya mbala moko mpe nini ya kosala nsima.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Masolo na biso na [kominikele](/caregiving/communication-tips/) mpe [nini ya kosala ntango alobi te](/caregiving/when-they-say-no/) ezali na maloba mosusu ya kokitisa mobulu.
 
-## How do I find the triggers?
+## Ndenge nini nakoki koyeba oyo ebimisaka yango?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Koma makambo mpo na pɔsɔ moko to mibale. Alzheimer's Association elendisi kokoma oyo esalemaka liboso ya sundowning mpo na koyeba oyo ebimisaka yango. Koma ngonga oyo mobulu ebandi, nini esalemaki na ngonga moko liboso, mpɔngi, bilei mpe biloko ya komela, baboti, makelele mpe pole. Mema makambo oyo okomaki epai ya monganga. NIA elobi ete kolanda mbongwana ya ezaleli ekoki kosalisa babateli mpe basali ya bokolongono ya nzoto koyeba ndenge moko.
 
-## When should I call a doctor about sundowning?
+## Ntango nini nasengeli kobenga monganga mpo na sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Benga monganga ya moto yango soki mobulu ezali ya sika, ekómi makasi mbala moko, to ekómi elongo na mbongwana mosusu. NIA elobi ete mbongwana ya ezaleli oyo ebimi mbala moko to oyo ebongwanaka noki, mingimingi nsima ya bokono ya mikrobe to mbongwana ya kisi ya sika, esengeli koyebisa monganga noki.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Sɛnga monganga atala makambo oyo ekoki kosala ete mpokwa ezala makasi. Alzheimer's Association elobeli mikakatano ya nzoto lokola bokono ya mikrobe ya nzela ya masuba, kozanga kokanga masuba, makolo oyo ezangi kopema mpe kozanga kopema malamu na mpɔngi, mpe elobi ete botuna ngonga nini ya mokolo ezali malamu mpo na kisi mokomoko. NIA etangi mpasi, kokangama ya libumu mpe bongo ya kisi to kosangana ya kisi na kati ya bantina ya mobulu.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association elobi ete mpo na mikakatano ya mpɔngi oyo ekangami na bokono bwa Alzheimer, ndenge ya kosalisa oyo ezangi kisi ezali mingi liboso, mpe kisi mpo na mobulu ya mpokwa esengeli kotalelama kaka soki yango elongi te, nsima ya kotalela makama mpe matomba na yango. Ekateli yango ezali ya monganga. Kobanda te, kotika te to kobongola te kisi, kisi ya mpɔngi to eloko mosusu ya kobakisa kozanga toli ya monganga.
 
-## How do I get through the evenings myself?
+## Ndenge nini nakoki koleka pokwa ngai moko?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Mpoke ekoki kozala eteni ya mokolo oyo eleki mpasi mpo na moto oyo azali kobatela. Soki ekoki, senga ndeko, moninga to mosali oyo bafutaka asunga yo na mpokwa mikolo mwa moke na pɔsɔ, ata mpo na ngonga moko. Lisolo na biso mpo na [komibatela ya moto oyo azali kobatela](/caregiving/caregiver-self-care/) ezali na banzela ya kopema mpe na nimero ya telefone ya ofele ya Alzheimer's Association 24/7 Helpline.

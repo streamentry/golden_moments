@@ -1,34 +1,34 @@
 ---
-title: "E diete MIND è mediterranea è a dimenza: ciò chì dice a ricerca"
-seoTitle: "Dieta MIND è dimenza: ciò chì dice a ricerca"
-description: "Ciò chì dice a ricerca nant'à e diete MIND è mediterranea è a dimenza, perchè un grande studiu ùn hà trovu benefiziu chjaru, è cumu aiutà à manghjà bè."
+title: "Diete MIND è mediterranea, demenza: chì dice a ricerca"
+seoTitle: "Dieta MIND è demenza: chì dice a ricerca"
+description: "Ciò chì dice a ricerca nantu à e diete MIND è mediterranee è a demenza: perchè un studiu maiore ùn hà trovu benefiziu chjaru, è cumu aiutà à manghjà bè."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Certi studii d'osservazione associanu i mudelli alimentari di tipu
-  mediterraneu è MIND à un risicu di dimenza più bassu, ma micca sempre. Un
-  studiu aleatoriu di trè anni nant'à a dieta MIND, publicatu in u 2023, ùn hà
-  trovu nisuna differenza significativa in u pensamentu o in e scansione di u
-  cervellu paragunatu à una dieta di cuntrollu. Nisun alimentu o supplementu hè
-  pruvatu per impedisce a dimenza. Per e persone chì campanu cù a dimenza,
-  manghjà è beie abbastanza conta più di tuttu.
+  Studii d'osservazione liganu e diete di tipu mediterraneu è MIND à un risicu
+  più bassu di demenza, ma micca in modu custante. Un studiu clinicu randomizatu
+  di trè anni nantu à a dieta MIND, publicatu in u 2023, ùn hà trovu nissuna
+  differenza significativa in i testi di pensiero o in e scansioni di u cervellu
+  paragunatu à una dieta di cuntrollu. Nissun alimentu o supplementu hè pruvatu
+  ch'ellu impedisce a demenza. Per e persone chì campanu cun demenza, u più
+  impurtante hè di manghjà è beie abbastanza.
 keyPoints:
-  - "Certi studii, ma micca tutti, chì seguitanu e persone in u tempu associanu i mudelli alimentari mediterraneu è MIND à un risicu di dimenza più bassu."
-  - "In un studiu di u 2023 nant'à 604 adulti anziani, e persone chì seguitavanu a dieta MIND ùn anu micca fattu megliu à e prove di pensamentu o à e scansione di u cervellu chè e persone cù una dieta di cuntrollu dopu à trè anni."
-  - "U National Institute on Aging dice chì ùn ci hè nisuna prova chì manghjà o evità un alimentu specificu possa impedisce l'Alzheimer, è nisuna vitamina o supplementu hè pruvatu per impediscelu."
-  - "Una dieta ricca in ligumi, frutti, legumi secchi, cereali integrali è pesciu sustene a salute di u core è pò aiutà cù risichi cum'è a pressione alta è u diabete."
-  - "Per e persone chì campanu cù a dimenza, cibi da piglià cù e dite, piatti cuntrastati, pasti calmi è bevande regulare contanu spessu più di una dieta particulare."
+  - "Certi studii, ma micca tutti, chì seguitanu e persone in u tempu liganu i mudelli alimentari mediterraneu è MIND à un risicu più bassu di demenza."
+  - "In un studiu di u 2023 nantu à 604 adulti più vechji, e persone chì seguianu a dieta MIND ùn anu fattu megliu cà quelle chì seguianu una dieta di cuntrollu in i testi di pensiero o in e scansioni di u cervellu dopu trè anni."
+  - "L'Istitutu Naziunale per l'Invecchiamentu dice chì ùn ci hè nissuna prova chè manghjà o evitar un alimentu specificu possi impedì l'Alzheimer, è chì nissuna vitamina o supplementu hè pruvatu ch'ellu l'impedisce."
+  - "Una dieta ricca di ligumi, frutti, fasgioli, cereali integrali è pesce sustene a salute di u core è pò aiutà cù risichi cum'è a pressione alta è u diabete."
+  - "Per e persone chì campanu cun demenza, l'alimenti chì si piglianu cù e dite, i piatti cuntrastanti, i pasti calmi è e beie regularmente contanu spessu più di una dieta particulare."
 faq:
-  - q: "A dieta MIND impedisce a dimenza?"
-    a: "Ùn hè statu dimustratu. Studii d'osservazione anu assuciatu a dieta MIND à un risicu più bassu, ma un studiu aleatoriu di trè anni publicatu in u 2023 ùn hà trovu nisuna differenza significativa in i risultati di e prove di pensamentu o in e scansione di u cervellu trà e persone cù a dieta MIND è quelle cù una dieta di cuntrollu. I dui gruppi anu migliuratu un pocu è anu persu un pesu simile."
-  - q: "Chì differenza ci hè trà a dieta MIND è a dieta mediterranea?"
-    a: "A dieta mediterranea mette in primu pianu ligumi, frutti, cereali integrali, legumi secchi, pesciu è oliu d'aliva, cù pocu carne rossa o dolci. A dieta MIND a unisce cù a dieta DASH per a pressione è aghjunghje un accentu nant'à i ligumi verdi à foglia è i frutti rossi, mentre limita a carne rossa, i dolci, u casgiu, u burru è i cibi fritti."
+  - q: "A dieta MIND impedisce a demenza?"
+    a: "Ùn hè statu dimustratu. Studii d'osservazione anu ligatu a dieta MIND à un risicu più bassu, ma un studiu clinicu randomizatu di trè anni publicatu in u 2023 ùn hà trovu nissuna differenza significativa in i risultati di i testi di pensiero o in e scansioni di u cervellu trà e persone chì seguianu a dieta MIND è quelle chì seguianu una dieta di cuntrollu. I dui gruppi sò migliorati un pocu è anu persu un pesu simile."
+  - q: "Quale hè a differenza trà a dieta MIND è a dieta mediterranea?"
+    a: "A dieta mediterranea mette in risaltu ligumi, frutti, cereali integrali, fasgioli, pesce è oliu d'aliva, cù poca carne rossa o dolci. A dieta MIND a combina cù a dieta DASH per a pressione sanguigna è aghjunghje un accentu nantu à i ligumi verdi à foglia è i frutti di boscu, limitendu a carne rossa, i dolci, u furmagliu, u burru è u cibu frittu."
   - q: "Ci sò alimenti o supplementi chì impediscenu l'Alzheimer?"
-    a: "Innò. U National Institute on Aging dice chì ùn ci hè nisuna prova chì manghjà o evità un alimentu specificu possa impedisce l'Alzheimer o u calu cognitivu ligatu à l'età, è nisuna vitamina o supplementu hè statu pruvatu per impedisce l'Alzheimer. Parlate cù un duttore prima di piglià supplementi."
-  - q: "Chì cibi sò più faciuli da manghjà per qualchissia chì campa cù a dimenza?"
-    a: "Picculi pezzi da piglià cù e dite, cum'è pezzi di paninu, pezzi di pullastru, spicchi d'aranciu o pezzi di ligumi à u vapore, sò spessu più faciuli chè aduprà e pusate. S'ellu hè difficiule di masticà o d'ingolle, cibi molli cum'è l'ove strapazzate, a cumposta di mela o u furmagliu frescu ponu aiutà. Dumandate à u duttore una valutazione di a deglutizione s'ellu ci hè tosse o suffucamentu."
+    a: "No. L'Istitutu Naziunale per l'Invecchiamentu dice chì ùn ci hè nissuna prova chè manghjà o evitar un alimentu specificu possi impedì l'Alzheimer o u declinu cognitivu ligatu à l'età, è chì nissuna vitamina o supplementu hè statu pruvatu ch'ellu impedisce l'Alzheimer. Parlate cù un duttore prima di piglià supplementi."
+  - q: "Quali alimenti sò i più faciuli da manghjà per una persona cun demenza?"
+    a: "L'alimenti di taglia chì si piglianu cù e dite, cum'è i pezzi di panini, i pezzi di pollame, i spicchi d'arantu o i pezzi di ligumi à vapore, sò spessu più faciuli cà aduprà i stovigghji. S'è u masticà o l'inghjiottì hè difficiule, l'alimenti molli cum'è l'ova strapazzate, a salsa di mela o u furmagliu biancu ponu aiutà. Dumandate à u duttore una valutazione di l'inghjiottimentu s'è a tossa o u soffucamentu accade."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -59,186 +59,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-Pudete avè lettu chì una dieta « sana per u cervellu » pò tene luntanu
-l'Alzheimer. A realità hè più mudesta. Certi mudelli alimentari sò assuciati à
-un risicu più bassu in studii chì seguitanu e persone in u tempu, ma u megliu
-studiu fattu fin'avà ùn hà micca trovu un benefiziu chjaru. Sta pagina
-spiega i dui aspetti, poi si cuncentra nant'à ciò chì conta di più per
-qualchissia chì campa dighjà cù a dimenza: manghjà è beie abbastanza, è
-piacè à fà lu.
+Pudete avè lettu chì una dieta « sana per u cervellu » pò impedì l'Alzheimer. A realità hè più modesta. Certi mudelli alimentari sò ligati à un risicu più bassu in studii chì seguitanu e persone in u tempu, ma u megliu studiu finu à avà ùn hà trovu nissun benefiziu chjaru. Sta pagina spiega i dui, è poi si volta à ciò chì conta di più per una persona chì campa digià cun demenza: manghjà è beie abbastanza, è piglià piacè.
 
-Sò infurmazioni generali, micca cunsiglii medichi. Parlate cù un duttore o
-un dietista diplomatu prima di cambià a vostra alimentazione o quella di
-qualchissia altru. Vidite a nostra [infurmazione legale medica](/medical-disclaimer/).
+Queste sò informazioni generali, micca cunsigli medichi. Parlate cù un duttore o un dietista registratu prima di cambià a vostra dieta o quella di qualcunu altru. Vede a nostra [esenzione medica](/medical-disclaimer/).
 
 ## Chì sò e diete mediterranea è MIND?
 
-U National Institute on Aging (NIA) e descrive cusì
-([NIA nant'à a dieta è l'Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+L'Istitutu Naziunale per l'Invecchiamentu (NIA) e descrive cusì ([NIA nantu à a dieta è l'Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Dieta mediterranea:** assai frutti, ligumi, cereali integrali, legumi
-  secchi, pesciu è frutti di mare, è oliu d'aliva, cù poche quantità di carne
-  rossa, ove è dolci.
-- **Dieta MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  un mischju di a dieta mediterranea è di a dieta DASH per a pressione. Mette
-  in primu pianu i ligumi, soprattuttu quelli verdi à foglia; i frutti rossi; i
-  cereali integrali; i legumi secchi; e noci; u pesciu almenu una volta à
-  settimana; è l'oliu d'aliva. Limita a carne rossa, i dolci, u casgiu, u
-  burru o a margarina, è i cibi fritti o veloci.
+- **Dieta mediterranea:** assai frutti, ligumi, cereali integrali, fasgioli, pesce è frutti di mare, è oliu d'aliva, cù pocu carne rossa, ova è dolci.
+- **Dieta MIND** (Intervenzione Mediterranea–DASH per u Ritardu Neurodegenerativu): un mischiu di a dieta mediterranea è di a dieta DASH per a pressione sanguigna. Mette in risaltu i ligumi, soprattuttu quelli verdi à foglia; i frutti di boscu; i cereali integrali; i fasgioli; a frutta secca; u pesce almenu una volta à settimana; è l'oliu d'aliva. Limita a carne rossa, i dolci, u furmagliu, u burru o a margarina, è u cibu frittu o veloce.
 
-## Sti diete riducenu u risicu di dimenza?
+## Queste diete abbassanu u risicu di demenza?
 
-E prove sò miste. U NIA dice chì certi studii d'osservazione, ma micca tutti,
-anu assuciatu e diete mediterranea è MIND à un risicu di dimenza più bassu
-paragunatu à una dieta di tipu occidentale, più ricca in carne rossa, grassi
-saturati è zuccheru.
+E prove sò miste. L'NIA dice chì certi studii d'osservazione, ma micca tutti, anu ligatu e diete mediterranea è MIND à un risicu più bassu di demenza paragunatu à una dieta di stile occidentale più ricca di carne rossa, grassi saturi è zuccheru.
 
-A Cummissione Lancet 2024 hà rivistu a ricerca in più detagliu
-([Cummissione Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+A Cummissione Lancet di u 2024 hà rivistu a ricerca in più dettagliu ([Cummissione Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- Una rivista di studii di coorte hà assuciatu una qualità alta di a dieta à
-  circa 20% di risicu di dimenza in menu.
-- Un'analisi più grande di trè coorte hà assuciatu una adesione più stretta à
-  a dieta MIND à un risicu più bassu.
-- Ma un studiu svedese chì hà seguitatu 28 025 persone di mezu età per circa
-  20 anni ùn hà trovu nisun risicu più bassu nè cù e diete racumandate nè cù
-  una dieta di tipu mediterraneu.
+- Una rivista di studii di coorte hà ligatu una bona qualità di dieta à un risicu di demenza più bassu di circa u 20%.
+- Un'analisi più grande di trè coorte hà ligatu un seguitu più strettu di a dieta MIND à un risicu più bassu.
+- Ma un studiu svedese chì hà seguitu 28,025 persone di media età per circa 20 anni ùn hà trovu nissun risicu più bassu nè cù e diete cunsigliate nè cù una dieta di stile mediterraneu.
 
-I studii d'osservazione ùn ponu micca pruvà una causa diretta. E persone chì
-manghjanu cusì sò spessu diverse ancu in altri aspetti, cum'è u redditu,
-l'educazione, l'attività fisica è l'accessu à e cure. A Cummissione hà
-cunclusu chì ùn ci hè abbastanza prove per dì chì e diete sane impediscenu
-direttamente a dimenza, ancu s'è manghjà assai frutti è ligumi è menu cibi
-ultra trasfurmati face bè à parechje cundizioni di salute è tocca fattori di
-risicu cum'è l'obesità, u diabete è a pressione alta. Ùn hà micca aghjuntu a
-dieta à a so lista di [14 fattori di risicu](/brain-health/risk-factors/).
+I studii d'osservazione ùn ponu pruvà u rapportu di causalità. E persone chì manghjanu cusì spessu differiscenu ancu per altri motivi, cum'è u redditu, l'istruzione, l'eserciziu è l'accessu à l'assistenza sanitaria. A Cummissione hà cunclusu chì ùn ci hè abbastanza prove per dì chì e diete sane impediscenu direttamente a demenza, benchè manghjà assai frutti è ligumi è menu alimenti ultra-trattati faci bè à parechje cundizioni di salute è agisce nantu à fattori di risicu cum'è l'obesità, u diabete è a pressione alta. Ùn hà micca aghjuntu a dieta à a so lista di [14 fattori di risicu](/brain-health/risk-factors/).
 
-## Chì hà trovu u studiu nant'à a dieta MIND di u 2023?
+## Chì hà trovu u studiu nantu à a dieta MIND di u 2023?
 
-A prova più forte fin'avà hè stata un studiu aleatoriu publicatu in u New
-England Journal of Medicine in u 2023
-([studiu nant'à a dieta MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+A prova più solida finu à avà hè statu un studiu clinicu randomizatu publicatu in u New England Journal of Medicine in u 2023 ([studiu nantu à a dieta MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Quale:** 604 adulti di 65 anni o più in e zone di Chicago è Boston, senza
-  prublemi di pensamentu, cù un parente strettu chì campava cù a dimenza, in
-  soprappesu, è cù una alimentazione menu sana à u principiu.
-- **Chì:** per trè anni, a metà hà seguitatu a dieta MIND è l'altra metà hà
-  seguitatu a so dieta abituale. I dui gruppi anu dumandatu di manghjà circa
-  250 calurie di menu à u ghjornu è anu ricevutu un accumpagnamentu regulare da
-  dietisti diplomati.
-- **Risultatu:** i risultati di e prove di pensamentu anu migliuratu un pocu
-  in **i dui** gruppi. A differenza trà i gruppi era chjuca è **micca
-  significativa da un puntu di vista statisticu**. E scansione di u cervellu
-  anu mostratu dinù cambiamenti simili in i dui gruppi.
-- **Pesu:** i dui gruppi anu persu circa 5 kilogrammi.
+- **Quale:** 604 adulti di 65 anni è più in e zone di Chicago è Boston, senza prublemi di pensiero, chì avianu un parente strettu cun demenza, eranu in sovrappesu è avianu una dieta menu sana à l'iniziu.
+- **Chì:** per trè anni, a mità hà seguitu a dieta MIND è l'altra mità hà seguitu a so dieta abituale. I dui gruppi sò stati dumandati à manghjà circa 250 calorie di menu à ghjornu è anu ricevutu un accumpagnamentu regulare da dietisti registrati.
+- **Risultatu:** i risultati di i testi di pensiero sò migliorati un pocu in **i dui** gruppi. A differenza trà i gruppi era chjuca è **micca statisticamente significativa**. E scansioni di u cervellu anu ancu mustratu cambiamenti simili in i dui gruppi.
+- **Pesu:** i dui gruppi anu persu circa 5 chilogrammi (circa 11 lire).
 
-### Perchè u studiu ùn hà trovu nisuna differenza?
+### Perchè u studiu puderia ùn avè trovu nissuna differenza?
 
-I circadori anu suggeritu parechje ragioni. U gruppu di cuntrollu hà
-probabilmente migliuratu dinù a so alimentazione, postu ch'ellu hà persu una
-quantità simile di pesu. E prove ripetute ponu migliurà i risultati da per
-elli, perchè e persone si abituanu à e prove. Trè anni ponu esse troppu pocu.
-A maiò parte di i participanti avianu un livellu d'educazione altu è eranu
-d'origine europea, dunque i risultati ùn si applicanu forse micca à tutti.
+I circadori anu suggeritu parechje ragioni. U gruppu di cuntrollu hà probabilmente miglioratu ancu ellu a so dieta, postu ch'ellu hà persu un pesu simile. I testi ripetuti ponu migliurà i risultati da per elli, postu chì a ghjente s'abitua à i testi. Trè anni ponu esse troppu corti. A maiò parte di i participanti eranu ben istruiti è d'origine europea, dunque i risultati ponu micca applicà si à tutti.
 
-U riassuntu onestu hè dunque: a dieta MIND ùn hà micca fattu megliu chè una
-dieta ragiunevule cù menu calurie nant'à trè anni. Quessu ùn vole micca dì
-chì manghjà sanu ùn serve à nunda. Vole dì chì nimu deve aspettassi chì una
-dieta specifica impedisca a dimenza.
+Dunque, a sintesi onesta hè: a dieta MIND ùn hà micca superatu una dieta ragionevole à calorie ridotte in trè anni. Quella ùn vole micca dì chì manghjà sanu hè inutile. Vol dì chì nimu ùn deve aspettà si chì una dieta specifica impedisca a demenza.
 
-## È l'alimenti è i supplementi specifichi?
+## E certi alimenti è supplementi?
 
-U NIA dice chì ùn ci hè nisuna prova chì manghjà o evità un alimentu
-specificu possa impedisce l'Alzheimer o u calu cognitivu ligatu à l'età. I
-mirtilli, i ligumi verdi à foglia è a curcuma sò stati tutti studiati, senza
-prova. U NIA dice dinù chì nisuna vitamina o supplementu hè statu pruvatu per
-impedisce l'Alzheimer, è nimu hè racumandatu per stu scopu. U NIA avverte chì
-i prudutti senza prove vinduti per impedisce l'Alzheimer ponu esse periculosi,
-una perdita di soldi, o i dui, è ponu interferisce cù e medicine prescritte,
-dunque verificate cù un duttore prima di pruvà li
-([NIA nant'à a prevenzione di l'Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+L'NIA dice chì ùn ci hè nissuna prova chè manghjà o evitar un alimentu specificu possi impedì l'Alzheimer o u declinu cognitivu ligatu à l'età. I mirtilli, i ligumi verdi à foglia è a curcuma sò stati studii, senza pruve. L'NIA dice ancu chì nissuna vitamina o supplementu hè statu pruvatu ch'ellu impedisce l'Alzheimer, è nimu hè cunsigliatu per quellu scopu. L'NIA avverte chì i prudutti micca pruvati venduti per impedì l'Alzheimer ponu esse periculosi, una perdita di soldi, o i dui, è puderianu interferì cù i medicinali prescritti: dunque cunsultate un duttore prima di pruvà ne qualsiasi ([NIA nantu à a prevenzione di l'Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## Cumu si pò manghjà in modu sanu è piacevule?
+## Cumu fà chì u manghjà resti sanu è piacevule?
 
-Per a maiò parte di l'adulti anziani, u scopu hè un'alimentazione nutriente,
-familiare è piacevule, micca un pianu strettu:
+Per a maiò parte di l'adulti più vechji, l'obiettivu hè un cibu nutriente, familiaru è piacevule, micca un pianu severu:
 
-- **Custruite i pasti intornu à cibi chì vi piacenu** di u mudellu
-  mediterraneu: ligumi, frutti, legumi secchi, cereali integrali, pesciu è
-  oliu d'aliva.
-- **Mantinite i vostri dolci preferiti.** U piacè è l'appetitu contanu,
-  soprattuttu più tardi in a vita.
-- **Manghjate cù altri** quandu pudete. I pasti spartuti facenu bona
-  cumpagnia.
-- **Cucinate inseme.** Lavà i ligumi o girà una pignatta hè una bella
-  attività da fà inseme; vidite [i travagli di casa](/activities/household-tasks/).
-  Una ricetta di famiglia preferita pò dinù fà nasce [i ricordi](/activities/reminiscence/).
+- **Custruite i pasti intornu à l'alimenti chì vi piacenu** secondu u mudellu mediterraneu: ligumi, frutti, fasgioli, cereali integrali, pesce è oliu d'aliva.
+- **Cunsirvate i dolci preferiti.** U piacè è l'appetitu contanu, soprattuttu più avanti in l'età.
+- **Manghjate cù l'altri** quandu pudete. I pasti spartuti sò una bona cumpagnia.
+- **Cucinate inseme.** Lavà i ligumi o rimuvenu una pignatta hè una bona attività spartuta; vede [i travagli di casa](/activities/household-tasks/). Una ricetta di famiglia preferita pò ancu spruvà [u ricordu](/activities/reminiscence/).
 
-L'adulti anziani ùn devenu micca taglià e calurie o perde pesu senza parlà
-cù un duttore, è u digiunu porta risichi supplementari. Vidite a nostra
-[guida nant'à u digiunu](/brain-health/fasting/).
+L'adulti più vechji ùn devenu micca riduce e calorie o perde pesu senza parlà cù un duttore, è u dighjunu porta risichi supplementari. Vede a nostra [guida nantu à u dighjunu](/brain-health/fasting/).
 
-## Cumu pudete aiutà qualchissia chì campa cù a dimenza à manghjà bè?
+## Cumu pudete aiutà una persona cun demenza à manghjà bè?
 
-Per e persone chì campanu cù a dimenza, manghjà è beie **abbastanza** hè di
-sulitu a principale preoccupazione. L'Alzheimer's Association nota chì e
-persone ponu scurdassi di manghjà, pensà ch'elli anu dighjà manghjatu, o
-sentissi sopraffatte da e scelte, è chì una cattiva nutrizione pò aumentà i
-sintomi cumpurtamentali è causà una perdita di pesu
-([Alzheimer's Association nant'à l'alimentazione](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-St'idee venenu da l'Alzheimer's Association, u NIA è l'Alzheimer's Society:
+Per e persone chì campanu cun demenza, manghjà è beie **abbastanza** hè di solitu a preoccupazione principale. L'Associazione Alzheimer nota chì e persone ponu scurdà si di manghjà, pensà ch'elli anu digià manghjatu, o sente si soprafatte da e scelte, è chì una mala nutrizione pò aumentà i sintomi cumportamentali è causà perdita di pesu ([Associazione Alzheimer nantu à u cibu è u manghjà](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Queste idee venenu da l'Associazione Alzheimer, da l'NIA è da a Sucietà Alzheimer:
 
-1. **Prupunite cibi da piglià cù e dite.** Picculi pezzi faciuli da piglià,
-   cum'è pezzi di paninu, pezzi di pullastru, bastoncini di pesciu, spicchi
-   d'aranciu o broccoli à u vapore, permettenu à a persona di manghjà da per
-   ella senza pusate.
-2. **Aduprate cuntrasti nant'à a tavula.** I cambiamenti di a vista ponu rende
-   difficiule di distinguerà u cibu da u piattu. Piatti o scodelle bianchi
-   nant'à un sottupiattu cuntrastatu ponu aiutà. Evitate piatti è tovaglie cù
-   motivi.
-3. **Serve unu o dui cibi à a volta.** Un piattu pienu pò esse troppu.
-4. **Mantinite i pasti calmi.** Spenghje a televisione, mantinite a tavula
-   simplice è lasciate assai tempu. U NIA suggerisce di ùn affrettà è di ùn
-   mette pressione.
-5. **Prupunite spessu picculi pasti è spuntini.** U NIA suggerisce pasti più
-   chjuchi è più frequenti è spuntini ricchi in calurie s'è a persona ùn
-   manghja abbastanza
-   ([cunsiglii di u NIA per manghjà bè](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Aiutate à beie.** Prupunite picculi bicchieri d'acqua o d'altre bevande
-   durante a ghjurnata, cù cibi ricchi d'acqua cum'è frutti, suppa, frullati di
-   latte è frullati di frutta. S'è a persona ùn vole micca acqua, u NIA
-   suggerisce di pruvà suchju, acqua aromatizata, brodu, latte, o caffè o tè
-   senza caffeina.
-7. **Verificate a temperatura.** A persona pò ùn micca accorgesi chì un cibu o
-   una bevanda hè troppu calda.
-8. **Adattate e pusate è i bicchieri.** Scodelle invece di piatti, cucchiai
-   cù manichi grandi è bicchieri cù coperchiu ponu fà manghjà più faciule. Ùn
-   vi preoccupate micca di a pulizia.
-9. **Rendite u cibu più faciule da masticà è da ingolle.** Tagliate u cibu in
-   picculi pezzi o prupunite cibi molli. S'è a persona tossisce o si soffoca
-   quandu manghja, dittelu à u so duttore.
-10. **Evitate di furzà à manghjà.** U NIA nota chì l'appetitu cala in modu
-    naturale in e fasi tardive di l'Alzheimer.
+1. **Prupone alimenti chì si piglianu cù e dite.** I pezzi chjuchi faciuli da piglià, cum'è i pezzi di panini, i pezzi di pollame, i bastoncini di pesce, i spicchi d'arantu o i broccoli à vapore, permettenu à a persona di manghjà da sola senza stovigghji.
+2. **Aduprate u cuntrastu nantu à a tavula.** I cambiamenti di vista ponu rende difficiule à distingue u cibu da u piattu. I piatti o e ciotole bianche nantu à una tovaglietta cuntrastante ponu aiutà. Evitate i piatti è e tovaglie cù mudelli.
+3. **Servite unu o dui alimenti à volta.** Un piattu pienu pò esse sopraffacente.
+4. **Mantene i pasti calmi.** Spegnete a televisione, mantenete a tavula simplice è lasciate assai tempu. L'NIA cunsiglia di micca affrettà si o insiste.
+5. **Prupone spessu piccoli pasti è spuntini.** L'NIA cunsiglia pasti più chjuchi è più frequenti è spuntini ricchi di calorie s'è a persona ùn manghja abbastanza ([cunsigli di l'NIA per manghjà bè](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Aiutate à beie.** Prupone piccule tazze d'acqua o d'altre bevande durante u ghjornu, è alimenti cù assai acqua cum'è frutti, zuppa, frappè è smoothie. S'è a persona ùn vole micca acqua, l'NIA cunsiglia di pruvà u suchju, l'acqua aromatizzata, u brodu, u latte, o u caffè o u tè decaffeinatu.
+7. **Verificate a temperatura.** Una persona pò micca accorge si chì u cibu o una bevanda hè troppu calda.
+8. **Adattate i stovigghji è e tazze.** E ciotole inveci di i piatti, i cucchiai cù manichi grossi è e tazze cù coperchi ponu rende u manghjà più faciule. Ùn vi preoccupate micca di a pulizia.
+9. **Facilitate u masticà è l'inghjiottì.** Tagliate u cibu in pezzi chjuchi o prupone alimenti molli. S'è a persona tossisce o si soffuca quand'ella manghja, dite lu à u so duttore.
+10. **Evitate di furzà à manghjà.** L'NIA nota chì l'appetitu diminuisce naturalmente in e tappe avanzate di l'Alzheimer.
 
 ### Segni da signalà à u duttore
 
-A perdita di pesu, u rifiutu di manghjà, a stanchezza o a debulezza ponu esse
-segni chì qualchissia ùn manghja micca abbastanza. L'Alzheimer's Society nota
-chì i denti o e dentiere chì facenu male, a depressione, a stitichezza è i
-cambiamenti di medicine ponu tutti riduce l'appetitu
-([Alzheimer's Society nant'à l'appetitu](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-I segni di disidratazione elencati da u NIA includenu a bocca secca, i
-vertigini, un battitu di core rapidu è l'allucinazioni
-([NIA nant'à i prublemi medichi cumuni](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+A perdita di pesu, u rifiutu di u cibu, a stanchezza o a debulezza ponu esse segni chì qualcunu ùn manghja abbastanza. A Sucietà Alzheimer nota chì i denti o e dentadure dolenti, a depressione, a stitichezza è i cambiamenti di medicinali ponu tutti riduce l'appetitu ([Sucietà Alzheimer nantu à l'appetitu](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). I segni di disidratazione indicati da l'NIA includenu a bocca asciutta, u capogiru, un battitu di core rapidu è allucinazioni ([NIA nantu à i prublemi medichi cumuni](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
 ## Parlate cù un duttore
 
-Prima di fà grandi cambiamenti in a vostra alimentazione, o in quella di
-qualchissia altru, parlate cù un duttore o un dietista diplomatu, soprattuttu
-s'è vo avete diabete, malatie di i reni, prublemi per ingolle o una perdita di
-pesu recente. Per qualchissia chì campa cù a dimenza, dumandate quantu
-duveria pruvà à manghjà è à beie ogni ghjornu, è s'è un dietista o i
-supplementi puderianu aiutà.
+Prima di fà cambiamenti grossi à a vostra dieta, o à quella di qualcunu altru, parlate cù un duttore o un dietista registratu, soprattuttu s'è avete u diabete, una malattia di i rignoni, prublemi d'inghjiottimentu o una perdita di pesu recente. Per una persona chì campa cun demenza, dumandate quantu duverebbe manghjà è beie ogni ghjornu, è s'è un dietista o i supplementi pudarianu aiutà.
 
-Cercate aiutu urgente s'è qualchissia si soffoca, o s'ellu hà una cunfusione
-subita, vertigini forti o perde a cuscenza. Chjamate u 112.
+Cercate aiutu urgente s'è qualcunu si soffuca, o hè cunfusu di colpu, hè assai capigiru o sviene.

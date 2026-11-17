@@ -1,34 +1,36 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Munthu wokhala ndi kuiwalika akakana zochita"
+seoTitle: "Munthu wokhala ndi kuiwalika akakana zochita"
+description: "Chifukwa chake munthu wokhala ndi kuiwalika angakane kapena kukhumudwa ndi zochita, zoyenera kuyesa, zopewa, ndi nthawi yopita kwa dokotala."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Munthu wokhala ndi kuiwalika akanena kuti ayi, vomerani modekha ndipo
+  yesaninso nthawi ina kapena m'patseni china. Kukana nthawi zambiri kumakhala
+  ndi chifukwa: zochitazo zikuoneka zovuta kapena za ana, watopa, akumva
+  kupweteka, ali ndi njala, kapena wasokonezeka ndi phokoso. Musakane kapena
+  kumukakamiza. Pepukitsani, m'patseni zosankha ziwiri, kapena m'pempheni
+  thandizo. Khalidwe losintha mwadzidzidzi kapena mofulumira, makamaka
+  pambuyo pa matenda opatsirana kapena mankhwala atsopano, limafunika kuona
+  dokotala mwamsanga.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "“Ayi” ndi yankho loyenera kulemekezedwa, osati vuto lofunika kuligonjetsa."
+  - "Kukana nthawi zambiri kumakhala ndi chifukwa: zovuta kwambiri, za ana, kutopa, kudwala, kusamasuka, kapena kusokonezeka."
+  - "Bwererani m'mbuyo, dikirani, ndipo yesaninso nthawi ina, pa nthawi yosiyana, kapena m'njira yosavuta."
+  - "Kupempha thandizo kumathandiza bwino kuposa kumupempha kuti achite bwino."
+  - "Musatsutsane, musakakamize, musamufunse mafunso ngati mayeso kapena kumuwongolera. Dzifufuzeni ngati mukuthamangitsa kapena kumupanikiza."
+  - "Khalidwe losintha mwadzidzidzi kapena mofulumira, makamaka likakhala ndi matenda opatsirana kapena mankhwala atsopano, liyenera kupita kwa dokotala nthawi yomweyo."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Kodi n'zabwino kumulola kuti asachite chilichonse?"
+    a: "Inde, pa tsiku lililonse. Kukhala naye limodzi, kumvetsera nyimbo kapena kungoyang'ana zomwe zikuchitika kungakhale kokwanira. Ngati munthu waleka kusangalala ndi chilichonse kwa milungu ingapo, m'fotokozereni dokotala wake, chifukwa kusowa chimwemwe, kupweteka kapena mavuto ena a thanzi angakhale mbali ya nkhaniyo."
+  - q: "N'chifukwa chiyani amakana zinthu zomwe ankazikonda kale?"
+    a: "Zochita zimene ankakonda kale zingayambe kumukhumudwitsa zikafunika maluso amene matenda a kuiwalika awapangitsa kukhala ovuta, ndipo munthuyo angamve manyazi. Yesani mbali yosavuta ya zomwezo, monga kusanja mabatani m'malo mosoka, kapena kuyang'ana zithunzi za dimba m'malo modzala."
+  - q: "Kodi ndiyenera kuyesa kumukopa kuti avomere?"
+    a: "Ayi. Kukakamiza munthu kuchita chinthu chimene matenda a kuiwalika achipangitsa kukhala chovuta ndi chimodzi mwa zomwe zimayambitsa kusakhazikika. Vomerezani “ayi”, sinthani nkhani, ndipo m'pempheninso nthawi ina kapena m'njira ina."
+  - q: "Kodi kusintha kwa khalidwe kumakhala kwadzidzidzi liti?"
+    a: "Imbani 911 ngati munthu ali pa ngozi kapena akuonetsa zizindikiro za ngozi ya zachipatala. Ngati pali chisokonezo chodzidzidzi kapena khalidwe lomwe likusintha mofulumira pa maola kapena masiku, makamaka ngati pali kutentha thupi, matenda opatsirana kapena mankhwala atsopano, funsani dokotala wake nthawi yomweyo."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +52,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Mwakonzekera zonse, mwapereka masewera kapena kuyenda, ndipo mwamva “Ayi”. Kapena zochitazo zayamba bwino koma zatha ndi piritsi lokankhidwira kutali ndi mawu okwiya. Zimakhumudwitsa, ndipo zimachitika kawirikawiri. Kukana ndi kukhumudwa nthawi zambiri ndi uthenga, osati kuuma mutu. Kumvetsetsa uthengawo kungakuthandizeni kudziwa zoyenera kuyesa kenako.
 
-## Why does someone with dementia refuse activities?
+## N'chifukwa chiyani munthu wokhala ndi kuiwalika amakana zochita?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Nthawi zambiri pamakhala chifukwa, ngakhale munthuyo sangathe kufotokoza m'mawu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) imanena kuti kukana kungatanthauze kuti munthuyo sangathe kuchita ntchitoyo kapena akuopa kuyesa. Zifukwa zomwe zimachitika nthawi zambiri ndi izi:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Zikuoneka zovuta kwambiri.** Zochitazo tsopano zikufuna maluso amene matenda a kuiwalika awapangitsa kukhala ovuta, ndipo kulephera pamaso pa munthu wina kumachititsa manyazi.
+- **Zikuoneka ngati za ana.** Akuluakulu amazindikira zithunzi za katuni, mawu oimbidwa ngati a ana komanso zochita zomwe zikuoneka ngati zinapangidwira ana.
+- **Kutopa.** Anthu ambiri amakhala ndi mphamvu zochepa kumapeto kwa tsiku. Onani [zochita zofatsa masana ochedwa](/caregiving/late-day-restlessness/).
+- **Kusamasuka kwa thupi.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) imatchula kupweteka, kusowa tulo, mavuto a kuona kapena kumva, kudzimbidwa, njala, ludzu komanso zotsatira za mankhwala atsopano monga zomwe zingayambitse kuvutika.
+- **Zinthu zambiri zikuchitika nthawi imodzi.** TV yokweza, anthu ambiri akulankhula kapena chipinda chodzaza anthu zingasokoneze kwambiri.
+- **Kumva kukakamizidwa.** NIA imatchula kukakamizidwa kuchita zinthu zimene Alzheimer's yazipangitsa kukhala zovuta kwambiri, kapena kukumbutsidwa zochitika kapena anthu, monga chifukwa cha kusakhazikika.
+- **Kusowa chimwemwe.** Kusiya kukondwera ndi zinthu kungakhale chizindikiro cha kuvutika maganizo, zomwe ndi bwino kufotokozera dokotala.
+- **Amangofuna kukana.** Akuluakulu ali ndi ufulu wonena kuti ayi.
 
-## What should I try when they say no?
+## Kodi ndiyenera kuyesa chiyani akakana?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Vomerani “ayi” modekha, kenako sinthani chinachake: nthawi, zochita, momwe zilili zovuta kapena momwe mukufunsira.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Siyani kwa nthawi imeneyi.** “Palibe vuto. Mwina nthawi ina.” Kenako pitirirani ku chinthu china popanda kudandaula.
+2. **Yesaninso nthawi ina.** Alzheimer's Association imalimbikitsa kuyesanso nthawi ina, kapena pa nthawi yosiyana ya tsiku.
+3. **Chepetsani.** Kufananitsa kumodzi m'malo mwa masewera onse. Thaulo limodzi m'malo mwa dengu la zovala. Zithunzi zochepa, zosankha zochepa, zithunzi zosiidwa poyera.
+4. **Perekani zosankha ziwiri.** “Kodi mukufuna kuyang'ana zithunzi za mbalame kapena kumvetsera nyimbo?” Kusankha kumabwezeretsa ulamuliro.
+5. **Pemphani thandizo m'malo mowayesa.** “Kodi mungandithandize kusanja izi?” kapena “Kodi mungandiuze kuti mtundu uti ukuoneka bwino?” Kumva kuti akufunika n'kosiyana kwambiri ndi kumva kuti akuyesedwa.
+6. **Yambani nokha.** Yambani zochitazo pambali pawo popanda kufunsa. Anthu ambiri amalowa nawo zinthu zikayamba kale, ndipo ngati salowa nawo, komabe mwakhala nthawi limodzi.
+7. **Sinthirani ku chinthu chothandiza thupi kapena chodeketsa.** Kuyenda pang'ono, nyimbo, chakudya chochepa, kupinda zovala, kapena kupuma mofatsa limodzi pa [calm breathing](/games/calm-breathing/). NIA imalimbikitsa kusamutsa chidwi ku nyimbo, buku kapena kuyenda.
+8. **Aloleni kuchita m'njira yawo.** Ngati akufuna kusewera mosiyana ndi malamulo, vomerani. Alzheimer's Association imalimbikitsa kukhala osinthika.
 
-## What should I say when they get frustrated?
+## Kodi ndinganene chiyani akakhumudwa?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Chepetsani liwiro, tsitsani mawu anu ndipo muwatsimikizire. [Malangizo a Alzheimer's Association pa kusakhazikika](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) amalimbikitsa kubwerera m'mbuyo ndi kupempha chilolezo, kugwiritsa ntchito mawu odekha komanso olimbikitsa, ndi kupereka chisankho chotsogozedwa pakati pa zosankha ziwiri. Mawu ogwirizana ndi malangizowa ndi awa:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- “Pepani, imeneyi yakukhumudwitsani. Tiyeni tisiye.”
+- “Mukuchita bwino. Ndili pano.”
+- “Kodi muli ndi nthawi yondithandiza pa chinthu china?”
+- “Kodi timwe tiyi m'malo mwake?”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Kenako malizitsani zochitazo popanda kuzipanga nkhani yaikulu. [Malangizo athu olankhulirana](/caregiving/communication-tips/) ali ndi zambiri za zoyenera kunena.
 
-## What should I avoid?
+## Kodi ndiyenera kupewa chiyani?
 
-Some natural reactions tend to make things worse.
+Zochita zina zachibadwa zimatha kukulitsa vutolo.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Kutsutsana kapena kukakamiza.** “Chonde, pang'ono pokha” kapena “Mumakonda izi” nthawi zambiri sizithandiza.
+- **Kufunsa ngati mayeso kapena kuwongolera.** “Mukudziwa kuti ichi n'chiyani” kapena “Ayi, imeneyo si yolondola” zimawonjezera kukakamizidwa.
+- **Kutenga zinthu pa mtima.** NIA imakumbutsa osamalira kuti matendawa, osati munthuyo, ndi amene amayambitsa kusinthaku.
+- **Kuwapanikiza kapena kuwathamangitsa.** Alzheimer's Association imalangiza kuti musakweze mawu, musaonetse mantha, musawatsekereze, musawadzaze malo, musawagwire mwamphamvu, musawadzudzule, musawanyalanyaze kapena kutsutsana nawo, komanso pewani mayendedwe adzidzidzi kunja kwa maso awo.
+- **Kugwiritsa ntchito kumvetsa chisoni.** “Ndakonzekera zonsezi chifukwa cha inu” kumasiya nonsenu mukumva kuipa.
+- **Kuwapatsa mayina.** “Wouma mutu” kapena “wovuta” zimabisira chifukwa chenicheni ndipo zimapangitsa kuti zikhale zovuta kuthetsa.
 
-## How can I find out what is behind repeated refusals?
+## Kodi ndingadziwe bwanji chomwe chikuyambitsa kukana kobwerezabwereza?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Lembani zinthu mosavuta kwa sabata imodzi kapena ziwiri. NIA imanena kuti kulemba kusintha kwa khalidwe kungathandize osamalira ndi akatswiri a zaumoyo kuzindikira chizolowezi ndikupeza chomwe chikuyambitsa.
 
-Jot down:
+Lembani:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- nthawi ya tsiku;
+- zomwe mwapereka ndi momwe mwafunsira;
+- zomwe zinkachitika pafupi nanu (phokoso, alendo, TV);
+- momwe anagonera, anadya ndi kumwa, komanso nthawi yomaliza yomwe anapita kuchimbudzi;
+- mankhwala aliwonse atsopano kapena matenda aposachedwa.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Nthawi zambiri mumaona chizolowezi mofulumira: kukana komwe kumachitika pambuyo pa 4 p.m. yokha, ndi masewera enaake okha, kapena pamene TV yayatsidwa yokha. [Buku la Family Caregiver Alliance pa khalidwe la matenda a kuiwalika](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) limanena mosavuta: sitingasinthe munthuyo, koma tingasinthe khalidwe lathu komanso malo omwe alimo.
 
-## When should I talk to a doctor about refusal or frustration?
+## Kodi ndiyenera kulankhula ndi dokotala liti za kukana kapena kukhumudwa?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Lankhulani ndi dokotala pamene khalidwe lasintha mwadzidzidzi, mofulumira, kapena pamodzi ndi zizindikiro za matenda. NIA imanena kuti kusintha kwa khalidwe kodzidzidzi kapena kosintha mofulumira, makamaka ngati munthuyo wakhala ndi matenda opatsirana kapena wasintha mankhwala posachedwa, kuyenera kufotokozedwa kwa dokotala nthawi yomweyo.
 
-Contact their doctor promptly if you notice:
+Lankhulani ndi dokotala wake mwamsanga ngati mwaona:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- chisokonezo chodzidzidzi kapena kusintha kwakukulu pa maola kapena masiku;
+- zizindikiro za kupweteka, monga kukwinya nkhope, kuteteza mbali ina ya thupi, kapena vuto latsopano loyenda;
+- kutentha thupi kapena zizindikiro zina za matenda opatsirana;
+- mankhwala atsopano kapena osinthidwa kenako khalidwe n'kusintha;
+- kutaya chidwi pafupifupi ndi chilichonse, kulira kapena kudzipatula komwe kwatenga milungu yoposa iwiri;
+- kukana kudya kapena kumwa.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association imalimbikitsa kuyezetsa kwathunthu kwachipatala kwa munthu aliyense amene ali ndi zizindikiro za khalidwe, makamaka zikawoneka mwadzidzidzi. Family Caregiver Alliance imalangizanso kufunsa dokotala poyamba, chifukwa mavuto a khalidwe angakhale ndi chifukwa cha zachipatala. Musayambe, musasiye kapena musasinthe mankhwala aliwonse popanda kulankhula ndi dokotala kapena wazamankhwala.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Ngati wina ali pa ngozi kapena pali zizindikiro za ngozi ya zachipatala, imbani 911. NIA imalimbikitsa kuuza wolandira foni kuti munthuyo ali ndi matenda a kuiwalika. Kuti mudziwe njira zachitetezo zanthawi yomweyo kukwiya kukasanduka zachiwawa, onani [malangizo athu okhudza mkwiyo ndi nkhanza pa matenda a kuiwalika](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## Kodi n'zabwino ngati sitichita chilichonse?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Inde. Masiku ena zochita zabwino kwambiri ndi kusachita chilichonse: kukhala limodzi, kugwirana manja, kumvetsera nyimbo yomwe amakonda, kapena kuyang'ana mbalame pawindo. Imeneyo si kulephera. [Malangizo athu osewerera limodzi](/caregiving/how-to-play-together/) akufotokoza chifukwa chake kusiya msanga, kapena kusayamba n'komwe, kungakhale chisankho choyenera.

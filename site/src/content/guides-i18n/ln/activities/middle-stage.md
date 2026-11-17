@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Misala na etape ya katikati ya demansia"
+seoTitle: "Misala na etape ya katikati ya demansia: Makanisi"
+description: "Misala ya pete mpo na etape ya katikati ya demansia: misala ya ndako, miziki, bafoto mpe masano ya pete, na ndenge ya kobongisa mpe kotika soki esengo esili."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Na etape ya katikati ya demansia, misala oyo eleki malamu ezali mikuse,
+  eyebani mpe ekabolami na matambe moko moko: kopeta bilamba, kopona ba soseti,
+  kosukola basaani, koyemba, kotambola na litambwisi, kotalela ba albome ya
+  bafoto mpe masano ya pete ya bafoto. Bongisa biloko, lakisa etambe ya liboso,
+  sala biteni ya mpasi mpe pesa mosala ntina. Tika soki mosala ezali lisusu
+  esengo te.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Misala ya ndako oyo eyebani esalaka malamu mingi mpo emonisaka ete moto azali na tina mpe azali mokolo."
+  - "Lakisa na esika ya kolimbola, pesa etambe moko na mbala moko, mpe pesa maponami mibale ya pete na esika ya mituna ya polele."
+  - "Sala eteni oyo eleki mpasi mpo moto akoka kosala eteni oyo epesaka esengo."
+  - "Banzela ya kotikalatika mbala mingi emonisi ete moto azali na posa ya kosala eloko. Pesa mosala oyo ekokani na esika ya kopekisa."
+  - "Kotalela, kosalisa moke, to kotika liboso ezali nyonso malamu."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Misala nini ebongi mpo na etape ya katikati ya demansia?"
+    a: "Misala ya mikuse, eyebani, oyo esalemi na maboko esalaka malamu mingi: kopeta ba sirvyeti, kopona ba soseti, kosukola basaani, kobongisa mesa, koyemba nzembo ya kala oyo balingaka, kotambola na litambwisi, kotalela ba albome ya bafoto mpe masano ya pete ya bafoto. Kabola mosala mokomoko na matambe moko moko mpe bosala yango elongo."
+  - q: "Ndenge nini nakoki kosalisa moto oyo azali kobika na bokono bwa bobungisi makanisi abandela mosala?"
+    a: "Bongisa biloko nyonso liboso, mpe banda mosala yo moko, na sima benga ye asalisa: « Okoki kosalisa ngai na ba sirvyeti oyo? » Bato mingi balingaka kozala na kati kasi bakutaka ete kobanda ezali mpasi. Kolakisa etambe ya liboso esalaka malamu koleka kolimbola."
+  - q: "Nasala nini soki azali kozongela eloko moko mbala na mbala?"
+    a: "Kozongela mbala mingi ekoki kozala likama te mpe ekoki komonisa ete moto alingi kozala na mosala to azali na posa ya kondimisama. Na esika ya kobongola ye, pesa mosala oyo ekokani na etamboli yango, lokola kitunga ya bilamba ya kopeta to nzembo ya koyemba elongo."
+  - q: "Nasala nini soki asali mosala na ndenge ya mabe?"
+    a: "Soki ezali likama te, tika yango ndenge wana. Ba sirvyeti oyo epetami na ndenge mosusu to bakiyeye na esika ya mabe ezali likambo monene te. Kobongola ekoki koyokana lokola pamela, kasi kotika ye asala na ndenge na ye epesaka ye liyoki ya makoki mpe ya tina."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Etape ya katikati ya demansia mbala mingi ezali etape oyo eumelaka mingi, mpe ezali na etape yango nde misala ebandaka kosenga lisungi ya solo. Maloba ekomaka mpasi kobima, matambe ekomaka kosangana, mpe kobanda eloko ekoki koyokana mpasi. Kasi posa ya kozala na tina mpe kozala na kati etikalaka mingi. Na kobongisa moke, moto oyo azali na etape ya katikati akoki kaka kosepela na makambo mingi, mingi mingi misala ya ndako oyo eyebani, miziki mpe bafoto oyo bosalaka elongo pembeni na pembeni.
 
-## What activities work well in middle-stage dementia?
+## Misala nini esalaka malamu na etape ya katikati ya demansia?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Misala ya mikuse, eyebani, oyo esalemi na maboko mpe ekabolami na matambe moko moko nde esalaka malamu mingi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) elobi ete osengeli te kokanisa makambo ya sika: misala ekoki kozala eteni ya bomoi ya mokolo na mokolo, lokola kolamba elongo, kosala bilanga, koyoka miziki to kotambola.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) emonisi ete bato na etape oyo bazalaka mbala mingi na posa makasi ya koyoka ete bazali na tina to ya kobatela eloko, mpe basengaka lisungi mpo na kobanda to kokoba misala. Na molongo na yango mpo na etape ya katikati ezali: kopeta bilamba, kosukola basaani, kopona ba soseti, ngalasisi ya pete, kobina na miziki eyebani, kotambola na litambwisi, koyemba elongo, kopakola bililingi ya pete mpe kotalela ba albome ya bafoto.
 
-## How do you set up an activity so it works?
+## Ndenge nini kobongisa mosala mpo esalema malamu?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Misala mingi elongaka to ekweyaka na ndenge ebongisami. Bizaleli oyo, oyo euti na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) mpe na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), esalaka bokeseni monene:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Longola biloko oyo esengeli te na esika.** Kanga televizyó, kanga ekuke mpe tia kaka biloko oyo mosala esengeli.
+2. **Banda mosala yo moko.** Banda kopeta to kovandisa mpe benga ye azala na kati: « Okoki kosalisa ngai na likambo oyo? »
+3. **Lakisa, na sima zela.** Lakisa etambe moko. Lakisa na mosapi to tambwisa na loboko na yo, ndakisa kolakisa esika oyo sani esengeli kotyama.
+4. **Pesa etambe moko na mbala moko.** « Peta na katikati » ezali pete koleka « peta yango mpe tia na molongo kolanda langi. »
+5. **Pesa maponami mibale, kasi mituna ya polele te.** « Ba sirvyeti ya ble to ya pembe? » ezali pete koyanola koleka « Olingi kosala nini? »
+6. **Sala eteni ya mpasi yo moko.** Yo omeki, ye avandisa. Yo okotisi nsinga, ye azingisi fil.
+7. **Pesa yango ntina.** « Ba napkini oyo ezali mpo na bilei ya mokolo ya lomingo » esalaka ete mosala eyokana ya solo.
+8. **Tika ye atalela soki alingi.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) emonisi ete kotalela kaka ekoki mpe kopesa esengo.
 
-## Activity ideas for the middle stage
+## Makanisi ya misala mpo na etape ya katikati
 
-### Useful jobs
+### Misala ya ntina
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Kopeta ba sirvyeti mpe bilamba ya mikolo.** Biloko ya mike mpe ya semba ezali pete koleka. Kitunga ya bilamba ya molunge ekoki kopetama, kosembolama mpe kopetama lisusu.
+- **Kopona ba soseti.** Banda na mwa bapar mibale oyo ekeseni mingi. Kopona kolanda langi kaka ezali mpe malamu.
+- **Kosukola to kopangusa basaani oyo ekoki kobukana te.** Mai ya molunge mpe ya sabuni eyokaka malamu na maboko. Kopangusa ntango avandi ezali pete mpo na makolo.
+- **Kobongisa mesa.** Pesa lolenge moko ya eloko na mbala moko, mpe bongisa esika moko yo moko lokola ndakisa.
+- **Kosalisa na kolamba.** Kosukola mbala, kopasola ndunda ya saladi to kovandisa na sani. Yo osala na mbeli mpe na molunge.
+- **Kokomba, kopangusa putulu to kopangusa mesa.** Elamba mpo na mesa, mwa kikombó ya pete mpo na veranda.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Talá [misala ya ndako](/activities/household-tasks/) mpo na makanisi mosusu mingi.
 
-### Music and movement
+### Miziki mpe koningana
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Koyemba nzembo ya kala oyo balingaka.** Banda koyemba yo moko; bato mingi bakokota na nzembo oyo bayebi kobanda bambula mingi. Talá [misala ya miziki](/activities/music/).
+- **Kobina na bonsomi.** Ningana, beta maboko to ningana ndenge oyoki malamu. Kovanda ezali mpe malamu.
+- **Kobwakela balon.** Eninganaka malembe mpe ezali pete kokanga na kiti.
+- **Kotambola na litambwisi.** Botambola nzela moko ya mikuse mpe eyebani elongo, loboko na loboko soki esalisaka.
 
-### Pictures and stories
+### Bafoto mpe masolo
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Kotalela albome ya bafoto.** Loba oyo ozali komona na esika ya kotuna mituna: « Tala motuka wana. Yebisa ngai likambo na yango. » Talá [misala ya kokundola makambo ya kala](/activities/reminiscence/).
+- **Kosalela bakarte ya masolo.** [Bakarte ya masolo](/games/conversation-cards/) ekangisaka elilingi na motuna ya polele, oyo ezangi komeka.
+- **Kotala filme ya kala elongo.** Pona moko oyo eyebani, vanda pembeni mpe telemisa mpo na kopema.
 
-### Simple, pressure-free games
+### Masano ya pete, oyo etindaka te
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Bapar ya bililingi na bililingi oyo ezali komonana.** [Bapar ya bililingi](/games/picture-pairs/) etiki bililingi emonana, yango wana ezali likambo ya komona, kasi ya kokanisa te.
+- **Luka oyo ekokani.** [Luka oyo ekokani](/games/find-the-same/) elakisi elilingi moko mpe maponami mibale tii minei.
+- **Kopona elongo.** [Kopona elongo](/games/sort-together/) ezali lokola kopona bilamba na ekran: finá elilingi, na sima kitunga na yango.
+- **Bingo ya bililingi.** [Bingo ya bililingi](/games/picture-bingo/) esalaka malamu mpo na mayangani ya libota mpe masanga.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Soki lisano ebandi kopesa mitungisi, tika mpe sala eloko mosusu. Talá [ndenge ya kosakana elongo](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Kobongola kotikalatika na mosala
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Banzela ya kotikalatika to ya kozongela mbala mingi ezalaka mbala mingi na ntina. Family Caregiver Alliance emonisi ete moto oyo azali kokoba kobimisa biloko na armwaze akoki kozala koluka kokokisa posa ya kozala na mosala mpe na tina. Alzheimer's Association esengi kobongola nguya yango na mosala oyo ekokani, na esika ya kopekisa yango.
 
-| What you see | Something to offer |
+| Oyo ozali komona | Eloko oyo okoki kopesa |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Konyata to kotuta na mesa | Elamba ya mai mpe bosengi ya kopangusa mesa |
+| Makolo oyo evandi kimia te to kobeta na makolo | Miziki oyo ezali na ritmo ya polele mpo na kobeta to kobeta maboko |
+| Kobimisa biloko na batirwáre to na ba armwaze | Kitunga ya bilamba to ya bilamba ya mikolo mpo na kopeta mpe kopona |
+| Kotuna motuna moko mbala na mbala | Kondimisa, na sima nzembo to mosala ya kosala elongo |
+| Kotambolatambola | Kotambola elongo, to mosala oyo esengeli komema biloko |
+| Komiyoka mabe na mpokwa | Mosala ya kimia mpe eyebani na pole, talá [kotikalatika na mpokwa](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Ntango ya kotika to kobongola
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Tika soki omoni bilembo ya bolembu, ya mitungisi, ya soni to ya kolemba, lokola koningana mingi, kofina elongi, kotindika biloko mosika to koloba « nakoki te ». Alzheimer's Association esengi komeka lisusu na ngonga mosusu ya mokolo to kosala ete mosala ezala pete koleka. Kotinda te. Koboya ekoki kouta na bobangi to mpo ete mosala ezali mpasi mingi; talá [ntango alobi te](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Kotika liboso ezali malamu. Kovanda kaka elongo na kopo ya tii ezali mpe malamu. Soki makoki ekobongwana lisusu, makanisi oyo ezali na [misala ya etape ya nsuka](/activities/late-stage/) ekoki kokokana malamu koleka, mpe [misala 101](/activities/ideas/) ezali na makanisi mosusu mingi ya komeka.

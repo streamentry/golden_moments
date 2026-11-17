@@ -1,33 +1,35 @@
 ---
-title: "Kun dementiaa sairastava kieltäytyy tai turhautuu toiminnasta"
-seoTitle: "Kun dementiaa sairastava kieltäytyy toiminnasta"
-description: "Miksi dementiaa sairastava voi kieltäytyä toiminnasta tai suuttua siitä, mitä kokeilla sen sijaan, mitä välttää ja milloin äkillinen muutos vaatii lääkärin."
+title: "Kun muistisairas ihminen kieltäytyy puuhasta tai turhautuu"
+seoTitle: "Kun muistisairas kieltäytyy puuhasta"
+description: "Miksi muistisairas ihminen voi kieltäytyä puuhasta tai suuttua, mitä voi kokeilla, mitä välttää ja milloin äkillinen muutos vaatii lääkärin arvion."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kun dementiaa sairastava sanoo ei, hyväksykää se rauhallisesti ja yrittäkää myöhemmin tai
-  tarjotkaa jotakin muuta. Kieltäytymisellä on usein syy: tehtävä tuntuu liian vaikealta tai
-  lapselliselta, hän on väsynyt, kipeä, nälkäinen tai melun ylikuormittama. Älkää väitelkö tai
-  vaatiko. Yksinkertaistakaa, tarjotkaa kaksi vaihtoehtoa tai pyytäkää hänen apuaan. Äkillinen tai
-  nopeasti muuttuva käyttäytyminen, erityisesti infektion tai uuden lääkkeen jälkeen, vaatii lääkärin.
+  Kun muistisairas ihminen sanoo ei, hyväksy se rauhallisesti ja yritä
+  myöhemmin uudelleen tai ehdota jotain muuta. Kieltäytymisellä on usein syy:
+  puuha tuntuu liian vaikealta tai lapselliselta, ihminen on väsynyt, hänellä
+  on kipuja, hän on nälkäinen tai melu kuormittaa liikaa. Älä väittele tai
+  vaadi. Yksinkertaista puuhaa, tarjoa kaksi vaihtoehtoa tai pyydä apua.
+  Äkillinen tai nopeasti muuttuva käytös, etenkin tulehduksen tai uuden
+  lääkityksen jälkeen, vaatii lääkärin arvion viipymättä.
 keyPoints:
-  - "”Ei” on vastaus, joka kannattaa kunnioittaa, ei ongelma, joka pitää voittaa."
-  - "Kieltäytymisellä on yleensä syy: liian vaikea, liian lapsellinen, väsynyt, sairas, epämukava tai ylikuormittunut."
-  - "Vetäytykää, odottakaa ja yrittäkää myöhemmin eri aikaan tai yksinkertaisemmalla versiolla."
-  - "Apua pyytäminen toimii paremmin kuin suorituksen pyytäminen."
-  - "Älkää koskaan väitelkö, vaatiko, kyselkö tai korjatko. Tarkistakaa itsestänne kiirehtiminen tai ahdistaminen."
-  - "Äkillinen tai nopeasti muuttuva käyttäytyminen, erityisesti infektion tai uusien lääkkeiden kanssa, vaatii välitöntä lääkärinhoitoa."
+  - "”Ei” on vastaus, jota kunnioitetaan, ei ongelma, joka pitää voittaa."
+  - "Kieltäytymisellä on yleensä syy: liian vaikeaa, liian lapsellista, väsymystä, huonovointisuutta, epämukavuutta tai liikaa ärsykkeitä."
+  - "Vetäydy, odota ja yritä myöhemmin, eri aikaan tai yksinkertaisemmalla tavalla."
+  - "Avun pyytäminen toimii paremmin kuin suoriutumisen vaatiminen."
+  - "Älä koskaan väittele, vaadi, kuulustele tai korjaa. Tarkista, oletko itse kiireinen tai liian lähellä."
+  - "Äkillinen tai nopeasti muuttuva käytös, etenkin tulehduksen tai uuden lääkityksen yhteydessä, on vietävä lääkärin arvioitavaksi heti."
 faq:
-  - q: "Onko oikein antaa hänen ohittaa toiminnat kokonaan?"
-    a: "On, jonakin päivänä. Yhdessä istuminen, musiikin kuunteleminen tai maailman katselu voi riittää. Jos joku lakkaa nauttimasta kaikesta viikkojen ajan, kertokaa siitä hänen lääkärilleen, koska alavireisyys, kipu tai muut terveysongelmat voivat olla osa kokonaiskuvaa."
-  - q: "Miksi hän kieltäytyy asioista, joita hän rakasti?"
-    a: "Vanha harrastus voi muuttua turhauttavaksi, kun se vaatii taitoja, joita dementia on vaikeuttanut, ja ihminen voi tuntea häpeää. Kokeilkaa saman toiminnan yksinkertaisempaa osaa, kuten napittamista ompelemisen sijaan, tai puutarhakuvien katselua istuttamisen sijaan."
+  - q: "Onko ihan hyväksyttävää, että puuhat jäävät kokonaan väliin?"
+    a: "Kyllä, yhtenä päivänä se on täysin hyväksyttävää. Yhdessä istuminen, musiikin kuunteleminen tai ulos katselu voi riittää. Jos ihminen lakkaa nauttimasta kaikesta viikkojen ajan, kerro siitä lääkärille, sillä alakulo, kipu tai muut terveysongelmat voivat olla osa tilannetta."
+  - q: "Miksi hän kieltäytyy asioista, joista hän ennen piti?"
+    a: "Vanha harrastus voi turhauttaa, kun se vaatii nyt taitoja, joita muistisairaus on vaikeuttanut, ja ihminen voi hävetä. Kokeile saman puuhan helpompaa osaa, kuten nappien lajittelua ompelun sijaan tai puutarhakuvien katselua istuttamisen sijaan."
   - q: "Pitäisikö minun yrittää suostutella häntä?"
-    a: "Ei. Jos joku painostetaan tekemään asia, jonka dementia on tehnyt vaikeaksi, se on tunnettu levottomuuden laukaisija. Hyväksykää ei, vaihtakaa aihetta ja tarjotkaa myöhemmin uudelleen tai eri tavalla."
-  - q: "Milloin käyttäytymisen muutos on hätätilanne?"
-    a: "Soittakaa 112, jos joku on vaarassa tai hänellä on merkkejä vakavasta sairaudesta. Äkillisestä sekavuudesta tai käyttäytymisestä, joka muuttuu nopeasti tunneissa tai päivissä, erityisesti kuumeen, infektion tai uuden lääkkeen kanssa, ottakaa välittömästi yhteyttä hänen lääkäriinsä."
+    a: "Ei. Ihmisen painostaminen tekemään jotain, jonka muistisairaus on tehnyt vaikeaksi, on tunnettu levottomuuden laukaiseva tekijä. Hyväksy kieltäytyminen, vaihda puheenaihetta ja ehdota asiaa myöhemmin uudelleen tai eri tavalla."
+  - q: "Milloin käytöksen muutos on hätätilanne?"
+    a: "Soita numeroon 911, jos joku on vaarassa tai hänellä on lääkinnällisen hätätilanteen merkkejä. Jos sekavuus tai käytös muuttuu äkillisesti tuntien tai päivien kuluessa, etenkin kuumeen, tulehduksen tai uuden lääkityksen yhteydessä, ota heti yhteyttä lääkäriin."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -49,99 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Olette valmistelleet kaiken, tarjonneet peliä tai kävelyä ja kuulette vastaukseksi ”Ei”. Tai toiminta alkaa hyvin ja päättyy
-työnnettyyn tablettiin ja terävään sanaan. Se lannistaa, ja se on hyvin yleistä. Kieltäytyminen ja turhautuminen ovat yleensä viesti, ei itsepäisyyttä.
-Kun selvitätte, mitä viesti tarkoittaa, huomaatte usein, mitä kokeilla seuraavaksi.
+Valmistelet kaiken, ehdotat peliä tai kävelyä ja kuulet vastaukseksi ”Ei”. Tai puuha alkaa hyvin ja päättyy sivuun työnnettyyn tablettiin ja terävään sanaan. Se on lannistavaa ja hyvin tavallista. Kieltäytyminen ja turhautuminen ovat yleensä viestiä, eivät itsepäisyyttä. Kun pohdit, mikä viesti on, löydät usein helpommin seuraavan yrityksen.
 
-## Miksi dementiaa sairastava kieltäytyy toiminnoista?
+## Miksi muistisairas ihminen kieltäytyy puuhista?
 
-Yleensä on syy, vaikka ihminen ei osaisi sanoa sitä sanoin. [Alzheimer-yhdistys](https://www.alz.org/help-support/caregiving/daily-care/activities)
-huomauttaa, että vastustus voi tarkoittaa, ettei ihminen pysty tekemään tehtävää tai pelkää yrittää. Yleisiä syitä ovat:
+Yleensä syy on olemassa, vaikka ihminen ei pystyisi pukemaan sitä sanoiksi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) huomauttaa, että vastustus voi tarkoittaa, ettei ihminen pysty suorittamaan tehtävää tai pelkää yrittää. Tavallisia syitä ovat:
 
-- **Se tuntuu liian vaikealta.** Toiminta vaatii nyt taitoja, joita dementia on vaikeuttanut, ja epäonnistuminen toisen edessä on nolostuttavaa.
-- **Se tuntuu lapselliselta.** Aikuiset huomaavat sarjakuvamaiset kuvat, lässyttävän äänensävyn ja toiminnot, jotka näyttävät tehdyiltä lapsille.
-- **Väsymys.** Monilla on vähemmän energiaa myöhemmin päivällä. Katso [rauhalliset myöhäisen iltapäivän toiminnat](/caregiving/late-day-restlessness/).
-- **Fyysinen epämukavuus.** [Yhdysvaltain National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)
-  luettelee kivun, unen puutteen, näön tai kuulon ongelmat, ummetuksen, nälän, janon ja uusien lääkkeiden sivuvaikutukset mahdollisiksi ahdistuksen syiksi.
-- **Liikaa tapahtuu samaan aikaan.** Kova televisio, useita keskusteluja tai ahdas huone voi tuntua ylivoimaiselta.
-- **Tuntee painostusta.** NIA mainitsee levottomuuden syyksi sen, että ihmistä painostetaan tekemään jotakin, minkä Alzheimer on tehnyt hyvin vaikeaksi, tai muistamaan tapahtumia tai ihmisiä.
-- **Alavireisyys.** Kiinnostuksen menettäminen asioihin voi olla masennuksen merkki, josta kannattaa kertoa lääkärille.
-- **He yksinkertaisesti eivät halua.** Aikuisilla on oikeus sanoa ei.
+- **Puuha tuntuu liian vaikealta.** Se vaatii nyt taitoja, joita muistisairaus on vaikeuttanut, ja epäonnistuminen toisen nähden nolottaa.
+- **Puuha tuntuu lapselliselta.** Aikuiset huomaavat piirrosmaiset kuvat, lapsenomaisen puhetavan ja puuhat, jotka näyttävät lapsille tehdyiltä.
+- **Väsymys.** Monilla on vähemmän energiaa myöhemmin päivällä. Katso [rauhalliset iltapäivän puuhat](/caregiving/late-day-restlessness/).
+- **Fyysinen epämukavuus.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) mainitsee mahdollisina ahdistuksen syinä kivun, unen puutteen, näkö- tai kuulovaikeudet, ummetuksen, nälän, janon ja uusien lääkkeiden sivuvaikutukset.
+- **Liikaa tapahtuu ympärillä.** Kovaääninen televisio, useat keskustelut tai täysi huone voivat kuormittaa liikaa.
+- **Kokemus painostamisesta.** NIA nimeää levottomuuden syiksi sen, että ihmistä painostetaan tekemään jotain, jonka Alzheimerin tauti on tehnyt hyvin vaikeaksi, tai muistamaan tapahtumia tai ihmisiä.
+- **Alakulo.** Kiinnostuksen menettäminen voi olla masennuksen merkki, josta on hyvä kertoa lääkärille.
+- **Hän ei yksinkertaisesti halua.** Aikuisella on oikeus sanoa ei.
 
-## Mitä minun pitäisi kokeilla, kun he sanovat ei?
+## Mitä voin kokeilla, kun hän sanoo ei?
 
-Hyväksykää ei rauhallisesti ja muuttakaa sitten jotakin: aikaa, toimintaa, vaikeustasoa tai tapaa, jolla kysytte.
+Hyväksy kieltäytyminen rauhallisesti ja muuta sitten jotain: aikaa, puuhaa, vaikeustasoa tai tapaa, jolla pyydät.
 
-1. **Antakaa asian olla nyt.** ”Ei se haittaa. Ehkä myöhemmin.” Siirtykää sitten johonkin muuhun ilman huokausta.
-2. **Yrittäkää myöhemmin uudelleen.** Alzheimer-yhdistys suosittelee yrittämään uudelleen myöhemmin tai eri aikaan päivästä.
-3. **Tehkää siitä pienempi.** Yksi pari koko pelin sijaan. Yksi pyyhe pyykkikorin sijaan. Vähemmän kuvia, vähemmän valintoja, kuvat näkyvillä.
-4. **Tarjotkaa kaksi vaihtoehtoa.** ”Haluatteko katsoa lintukuvia vai kuunnella musiikkia?” Valinta antaa takaisin tunteen hallinnasta.
-5. **Pyytäkää apua suorituksen sijaan.** ”Voisitteko auttaa minua lajittelemaan nämä?” tai ”Voitteko kertoa, mikä väri näyttää parhaalta?” Tarpeelliseksi tuleminen tuntuu aivan erilaiselta kuin testatuksi tuleminen.
-6. **Aloittakaa itse.** Aloittakaa toiminta heidän vierellään kysymättä. Monet liittyvät mukaan, kun jokin on jo käynnissä, ja jos eivät liity, olette silti viettäneet aikaa yhdessä.
-7. **Vaihtakaa fyysiseen tai rauhoittavaan toimintaan.** Lyhyt kävely, musiikki, välipala, pyykin taittaminen tai yhteinen [rauhallinen hengitystauko](/games/calm-breathing/).
-   NIA ehdottaa huomion ohjaamista musiikkiin, kirjaan tai kävelyyn.
-8. **Antakaa hänen tehdä se omalla tavallaan.** Jos hän haluaa pelata toisin kuin säännöt sanovat, lähtekää mukaan. Alzheimer-yhdistys neuvoo olemaan joustava.
+1. **Anna asian olla toistaiseksi.** ”Se on ihan hyvin. Ehkä myöhemmin.” Siirry sitten johonkin muuhun huokaamatta.
+2. **Yritä myöhemmin uudelleen.** Alzheimer's Association ehdottaa yrittämään myöhemmin uudelleen tai eri aikaan päivästä.
+3. **Pienennä puuhaa.** Yksi pari kokonaisen pelin sijaan. Yksi pyyhe koko pyykkikorin sijaan. Vähemmän kuvia, vähemmän valintoja, kuvat näkyvillä.
+4. **Tarjoa kaksi vaihtoehtoa.** ”Haluaisitko katsoa lintukuvia vai kuunnella musiikkia?” Valinnanmahdollisuus palauttaa hallinnan tunnetta.
+5. **Pyydä apua suoriutumisen sijaan.** ”Voisitko auttaa minua lajittelussa?” tai ”Voitko kertoa, mikä väri näyttää parhaalta?” Tarpeelliseksi tuleminen tuntuu hyvin erilaiselta kuin testatuksi tuleminen.
+6. **Aloita itse.** Aloita puuha hänen vieressään kysymättä. Monet tulevat mukaan, kun jotain on jo käynnissä, ja vaikka hän ei tulisikaan, olette silti viettäneet aikaa yhdessä.
+7. **Vaihda johonkin fyysiseen tai rauhoittavaan.** Lyhyt kävely, musiikki, välipala, pyykkien viikkaaminen tai yhteinen [rauhallinen hengitystauko](/games/calm-breathing/). NIA ehdottaa huomion suuntaamista musiikkiin, kirjaan tai kävelyyn.
+8. **Anna hänen tehdä omalla tavallaan.** Jos hän haluaa tehdä eri tavalla kuin säännöt sanovat, suostu siihen. Alzheimer's Association neuvoo olemaan joustava.
 
-## Mitä minun pitäisi sanoa, kun he turhautuvat?
+## Mitä voin sanoa, kun hän turhautuu?
 
-Hidastakaa, laskekaa ääntänne ja rauhoitelkaa. [Alzheimer-yhdistyksen ohjeet levottomuudesta](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)
-ehdottavat, että vetäytykää, kysytte lupaa, käytätte rauhallisia ja myönteisiä lausahduksia ja tarjoatte ohjattua valintaa kahden vaihtoehdon välillä. Tämän hengen mukaisia lauseita ovat:
+Hidasta, laske ääntäsi ja rauhoittele. [Alzheimer's Associationin ohjeet levottomuudesta](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suosittelevat vetäytymistä ja luvan pyytämistä, rauhallisia ja myönteisiä lausahduksia sekä ohjattua valintaa kahden vaihtoehdon välillä. Tällaisia lauseita ovat esimerkiksi:
 
-- ”Anteeksi, tämä on ärsyttävää. Lopetetaan.”
-- ”Teette hyvin. Olen tässä aivan vieressänne.”
-- ”Onko teillä aikaa auttaa minua johonkin toiseen?”
-- ”Juodaanko sen sijaan kupin teetä?”
+- ”Olen pahoillani, tämä on ärsyttävä. Lopetetaan.”
+- ”Hyvin menee. Olen tässä lähellä.”
+- ”Onko sinulla hetki aikaa auttaa minua jossain muussa?”
+- ”Juotaisiinko mieluummin kupillinen teetä?”
 
-Lopettakaa sen jälkeen toiminta ilman, että siitä tehdään suuri juttu. Oppaamme [viestintävinkit](/caregiving/communication-tips/) kertovat lisää siitä, mitä sanoa.
+Lopeta sitten puuha tekemättä siitä suurta numeroa. [Viestintävinkkimme](/caregiving/communication-tips/) antavat lisää ideoita siihen, mitä sanoa.
 
-## Mitä minun pitäisi välttää?
+## Mitä minun kannattaa välttää?
 
-Jotkin luonnolliset reaktiot pahentavat tilannetta.
+Jotkin luontevat reaktiot taipuvat pahentamaan tilannetta.
 
-- **Väittely tai vaatiminen.** ”Tulkaa nyt, vielä yksi” tai ”Tämä on teidän lempiasianne” auttavat harvoin.
-- **Kysely tai korjaaminen.** ”Tiedätte, mikä tämä on” tai ”Ei, tuo on väärin” lisää painetta.
-- **Asian ottaminen henkilökohtaisesti.** NIA muistuttaa omaishoitajia, että sairaus, ei ihminen, aiheuttaa nämä muutokset.
-- **Ahdistaminen tai kiirehtiminen.** Alzheimer-yhdistys neuvoo olemaan korottamatta ääntä, näyttämättä hälytystä, ahdistamatta, ahtautamatta, rajoittamatta, arvostelematta, sivuuttamatta tai väittelemättä ihmisen kanssa, ja välttämään äkkiliikkeitä hänen näkökenttänsä ulkopuolella.
-- **Syyllisyyden käyttäminen.** ”Järjestin kaiken tätä varten” saa teidät molemmat tuntemaan olonsa entistä huonommaksi.
-- **Leimaaminen.** ”Itsepäinen” tai ”vaikea” peittää todellisen syyn ja vaikeuttaa ratkaisua.
+- **Väittely tai vaatiminen.** ”No vielä yksi” tai ”Sinähän pidät tästä” ei yleensä auta.
+- **Kuulustelu tai korjaaminen.** ”Kyllähän sinä tiedät tämän” tai ”Ei, tuo meni väärin” lisää painetta.
+- **Henkilökohtaisesti ottaminen.** NIA muistuttaa, että sairaus, ei ihminen itse, aiheuttaa nämä muutokset.
+- **Liian lähelle meneminen tai kiirehtiminen.** Alzheimer's Association neuvoo välttämään äänen korottamista, hämmennyksen osoittamista, nurkkaan ajamista, ahtaalle menemistä, kiinnipitoa, arvostelua, huomiotta jättämistä ja väittelyä sekä äkillisiä liikkeitä poissa hänen näköpiiristään.
+- **Syyllistäminen.** ”Järjestin tämän kaiken sinua varten” saa molemmat voimaan huonommin.
+- **Leimaaminen.** ”Itsepäinen” tai ”vaikea” piilottaa todellisen syyn ja vaikeuttaa ratkaisun löytämistä.
 
-## Miten selvitän, mitä toistuvien kieltäytymisten takana on?
+## Miten voin selvittää, mistä toistuva kieltäytyminen johtuu?
 
-Pitäkää yksinkertaista muistiinpanoa viikon tai parin ajan. NIA sanoo, että käyttäytymisen muutosten seuraaminen voi auttaa omaishoitajia ja terveydenhuollon ammattilaisia
-tunnistamaan kaavan ja selvittämään syyn.
+Pidä yksinkertaista muistiinpanoa viikon tai kahden ajan. NIA kertoo, että käytösmuutosten seuraaminen voi auttaa omaishoitajia ja terveydenhuollon ammattilaisia tunnistamaan toistuvan kaavan ja selvittämään syyn.
 
-Kirjatkaa ylös:
+Kirjaa ylös:
 
-- vuorokaudenaika;
-- mitä tarjositte ja miten kysyitte;
-- mitä ympärillä tapahtui (melu, vieraat, televisio);
-- miten hän nukkui, söi ja joi ja milloin hän viimeksi kävi WC:ssä;
-- uudet lääkkeet tai viimeaikainen sairaus.
+- kellonaika;
+- mitä ehdotit ja miten pyysit;
+- mitä ympärillä tapahtui (melua, vieraita, televisio);
+- miten hän nukkui, söi ja joi ja milloin hän viimeksi kävi vessassa;
+- mahdolliset uudet lääkkeet tai äskettäinen sairastuminen.
 
-Kaavat näkyvät usein nopeasti: kieltäytymiset tapahtuvat vain klo 4 iltapäivällä, vain tietyn pelin kanssa tai vain silloin, kun televisio on päällä. Family Caregiver Alliancen
-[opas dementian käyttäytymisestä](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sanoo asian yksinkertaisesti: emme voi muuttaa ihmistä, mutta voimme muuttaa omaa käyttäytymistämme ja ympäristöä.
+Kaavat tulevat usein näkyviin nopeasti: kieltäytymistä vain kello neljän jälkeen iltapäivällä, vain tietyn pelin kanssa tai vain television ollessa päällä. Family Caregiver Alliancen [opas muistisairauteen liittyvään käytökseen](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) tiivistää asian yksinkertaisesti: emme voi muuttaa ihmistä, mutta voimme muuttaa omaa toimintaamme ja ympäristöä.
 
-## Milloin minun pitäisi puhua lääkärin kanssa kieltäytymisestä tai turhautumisesta?
+## Milloin kieltäytymisestä tai turhautumisesta on kerrottava lääkärille?
 
-Puhukaa lääkärille, kun käyttäytyminen muuttuu äkillisesti, nopeasti tai sairauden oireiden mukana. NIA sanoo, että äkilliset tai nopeasti vaihtelevat käyttäytymisen muutokset,
-erityisesti jos ihmisellä on ollut infektio tai äskettäisiä lääkemuutoksia, pitää tuoda lääkärin tietoon välittömästi.
+Kerro lääkärille, kun käytös muuttuu äkillisesti, nopeasti tai yhdessä sairauden merkkien kanssa. NIA toteaa, että äkillisistä tai nopeasti vaihtelevista käytösmuutoksista on kerrottava lääkärille heti, etenkin jos henkilöllä on ollut tulehdus tai lääkityksessä on tapahtunut äskettäin muutoksia.
 
-Ottakaa viipymättä yhteyttä hänen lääkäriinsä, jos huomaatte:
+Ota viipymättä yhteyttä lääkäriin, jos huomaat:
 
-- äkillistä sekavuutta tai suurta muutosta tunneissa tai päivissä;
-- kivun merkkejä, kuten irvistelyä, kehonosan suojelemista tai uutta liikkumisvaikeutta;
-- kuumetta tai muita infektion merkkejä;
-- uusia tai muuttuneita lääkkeitä, jonka jälkeen käyttäytyminen muuttuu;
-- lähes kaikkeen kiinnostuksen menetystä, itkuisuutta tai vetäytymistä, joka kestää yli pari viikkoa;
-- ruoan tai juoman kieltäytymistä.
+- äkillistä sekavuutta tai suuren muutoksen tuntien tai päivien kuluessa;
+- kivun merkkejä, kuten irvistelyä, kehon osan suojaamista tai uutta liikkumisvaikeutta;
+- kuumetta tai muita tulehduksen merkkejä;
+- uuden tai muuttuneen lääkityksen, jota seuraa muutos käytöksessä;
+- kiinnostuksen menettämistä lähes kaikkea kohtaan, itkuisuutta tai vetäytymistä, joka kestää yli pari viikkoa;
+- syömisen tai juomisen kieltäytymistä.
 
-Alzheimer-yhdistys suosittelee perusteellista lääketieteellistä tarkastusta jokaiselle, jolla on käyttäytymisoireita, erityisesti jos ne ilmaantuvat äkillisesti. Family Caregiver Alliance
-neuvoo myös tarkistamaan asian ensin lääkärin kanssa, koska käyttäytymisongelmilla voi olla lääketieteellinen syy. Älkää aloittako, lopettako tai muuttako mitään lääkettä
-ilman keskustelua lääkärin tai apteekkarin kanssa.
+Alzheimer's Association suosittelee perusteellista lääkärintarkastusta kaikille, joilla on käytösoireita, etenkin jos ne ilmenevät äkillisesti. Family Caregiver Alliance neuvoo myös tarkistamaan asian ensin lääkäriltä, koska käytöksen muutoksilla voi olla lääketieteellinen syy. Älä aloita, lopeta tai muuta mitään lääkitystä keskustelematta lääkärin tai apteekin kanssa.
 
-Jos joku on vaarassa tai on merkkejä vakavasta sairaudesta, soittakaa 112. NIA neuvoo kertomaan hälytyskeskukseen, että ihmisellä on dementia.
+Jos joku on vaarassa tai kyseessä on lääkinnällisen hätätilanteen merkkejä, soita numeroon 911. NIA ehdottaa kertomaan hätäpäivystäjälle, että henkilöllä on muistisairaus. Välittömistä turvallisuusohjeista tilanteessa, jossa viha muuttuu fyysiseksi, katso [oppaamme vihasta ja aggressiosta muistisairaudessa](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Onko ok, jos emme tee mitään?
+## Onko hyväksyttävää, jos emme tee yhtään mitään?
 
-On. Joinakin päivinä paras toiminta on olla tekemättä mitään: istua yhdessä, pitää kädestä kiinni, kuunnella lempilevyä tai katsella lintuja ikkunasta. Se ei ole epäonnistuminen.
-Oppaamme [yhdessä pelaamisesta](/caregiving/how-to-play-together/) selittää, miksi aikaisin lopettaminen tai aloittamatta jättäminen voi olla oikea ratkaisu.
+Kyllä. Joskus paras puuha on olla tekemättä mitään: istua yhdessä, pitää kädestä kiinni, kuunnella lempilevyä tai katsella lintuja ikkunasta. Se ei ole epäonnistuminen. [Oppaamme yhdessä tekemisestä](/caregiving/how-to-play-together/) kertoo, miksi aikainen lopettaminen tai aloittamatta jättäminen voi olla oikea valinta.

@@ -1,37 +1,38 @@
 ---
-title: "Qarovchining oʻzini parvarishlashi: dam va yordam"
-seoTitle: "Demensiya qarovchisi uchun oʻzini parvarishlash"
-description: "Qarovchi charchoqining belgilari, vaqtincha parvarish va yordam guruhlarini topish yoʻllari hamda AQShdagi yordam liniyalari namunalari."
+title: "Parvarishlovchining oʻzi haqida gʻamxoʻrlik: dam va yordam"
+seoTitle: "Demensiya parvarishlovchisi: dam olish va yordam"
+description: "Parvarishlovchida toliqish belgilari, qisqa muddatli dam olish va yordam guruhlarini topish, shuningdek, AQShdagi bepul ishonch telefonlari haqida."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Demensiyali insonni parvarish qilish qiyin, oʻzingizga qarash esa ishning bir
-  qismi. Holsizlik, jahldorlik, yomon uyqu va doʻstlardan uzoqlashish kabi
-  ogohlantiruvchi belgilarga e’tibor bering. Aniq yordam soʻrang, vaqtincha
-  parvarishdan foydalaning va yordam guruhiga qoʻshiling. AQShda bepul yordam
-  Alzheimer's Association ning sutkasiga 24 soat ishlaydigan liniyasi va
-  Eldercare Locator xizmatini oʻz ichiga oladi; oʻz mamlakatingizdagi
-  oʻxshashlarini izlang.
+  Demensiya bilan yashayotgan inson haqida gʻamxoʻrlik qilish oson emas, oʻzingiz
+  haqida qaygʻurish ham shu yoʻlning bir qismidir. Charchoq, asabiylashish,
+  uyqu buzilishi va doʻstlardan uzoqlashish kabi ogohlantiruvchi belgilarga
+  eʼtibor bering. Aniq vazifalar boʻyicha yordam soʻrang, qisqa muddatli dam
+  olish imkoniyatlaridan foydalaning va qoʻllab-quvvatlash guruhiga qoʻshiling.
+  AQShda bepul yordam olish uchun Alzheimer's Association 24/7 Helpline
+  (1-800-272-3900) va Eldercare Locator (1-800-677-1116) xizmatlariga
+  murojaat qilishingiz mumkin.
 keyPoints:
-  - "Charchoq koʻpincha holsizlik, jahldorlik, yomon uyqu, qay’gʻu va oʻz sogʻligʻingizga qaramaslik shaklida namoyon boʻladi."
-  - "Vaqtincha parvarish (respite care) sizga bir necha soatdan bir necha haftagacha dam beradi, uyda yoki parvarish joyida."
-  - "Aniq ishlarda yordam soʻrang; koʻp odamlar yordam bermoqchi, lekin qanday ekanini bilmaydi."
-  - "AQShda Alzheimer's Association ning sutkasiga 24 soat ishlaydigan liniyasi istalgan vaqtda bepul va maxfiy yordam beradi. Oʻz mamlakatingizdagi demensiya yordam liniyasini izlang."
-  - "AQShda Eldercare Locator sizni mahalliy xizmatlar bilan, jumladan Area Agency on Aging bilan bogʻlaydi. Oʻz joyingizdagi ijtimoiy xizmatlardan soʻrang."
-  - "Oʻzingizni inqirozda his qilsangiz, mamlakatingizdagi ruhiy yordam liniyasiga qoʻngʻiroq qiling. Favqulodda holatda hududingizdagi favqulodda raqamga qoʻngʻiroq qiling."
+  - "Toliqish koʻpincha charchoq, asabiylashish, yomon uyqu, tushkunlik va oʻz sogʻligʻiga eʼtibor bermaslik shaklida namoyon boʻladi."
+  - "Qisqa muddatli dam olish uchun parvarish sizga bir necha soatdan bir necha haftagacha, uyda yoki parvarish muassasasida tanaffus beradi."
+  - "Aniq vazifalar boʻyicha yordam soʻrang; koʻp odamlar yordam berishni xohlaydi, lekin qanday qilishni bilmaydi."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) istalgan vaqtda bepul va maxfiy yordam beradi."
+  - "Eldercare Locator (1-800-677-1116) sizni mahalliy xizmatlar, jumladan, hududingizdagi Area Agency on Aging bilan bogʻlaydi."
+  - "Agar oʻzingizni ogʻir ahvolda his qilsangiz, 988 raqamiga qoʻngʻiroq qiling yoki xabar yozing. Favqulodda vaziyatda 911 raqamiga qoʻngʻiroq qiling."
 faq:
-  - q: "Qarovchi charchoqining belgilari qanday?"
-    a: "Keng tarqalgan belgilar: holsizlik, bosimni yoki xavotirni his qilish, tez jahl chiqishi yoki sabrsizlik, uxlashda qiyinchilik, qay’gʻu yoki umidsizlik, doʻstlardan uzoqlashish, tez-tez bosh ogʻrigʻi yoki ogʻriqlar hamda oʻz ovqati, mashqi yoki tibbiy koʻrigini qoldirish. Bunday belgilar muntazam takrorlansa, shifokoringiz bilan gaplashing."
-  - q: "Yaqin atrofda vaqtincha parvarishni qanday topaman?"
-    a: "AQShda Eldercare Locator (eldercare.acl.gov) orqali mahalliy Area Agency on Aging bilan bogʻlaning, ARCH National Respite Locator Service yoki Alzheimer's Association yordam liniyasidan foydalaning. Oʻz mamlakatingizda mahalliy Alsgeymer yoki demensiya tashkilotidan, ijtimoiy xizmatlardan yoki shifokoringizdan soʻrang. Oila, doʻstlar va koʻngillilar ham shunday dam bera oladi."
-  - q: "Medicare vaqtincha parvarish uchun toʻlaydimi?"
-    a: "Milliy qarilik instituti ma’lumotiga koʻra, AQShda hospis parvarishini olayotgan inson uchun Medicare kasalxona yoki malakali hamshiralik muassasasida ketma-ket besh kungacha vaqtincha parvarish xarajatining koʻpini qoplaydi. Koʻpchilik xususiy sogʻliq sugʻurtasi vaqtincha parvarishni qoplamaydi; Medicaid va ba’zi uzoq muddatli parvarish sugʻurtalari yordam berishi mumkin. Oʻz mamlakatingizdagi qoidalar boshqacha boʻlishi mumkin."
-  - q: "Alzheimer's Association yordam liniyasi haqiqatan bepul va kechasi ham ishlaydimi?"
-    a: "Ha. Alzheimer's Association liniyasi bepul, maxfiy, yilning 365 kuni sutkasiga 24 soat ishlashini va koʻp tillarda yordam borligini aytadi. Bu AQSh xizmati; mamlakatingizda ham shunga oʻxshash liniya boʻlishi mumkin."
-  - q: "Parvarishdan tanaffus olish xudbinlikmi?"
-    a: "Yoʻq. Dam olish parvarishni davom ettirishga yordam beradi, vaqtincha parvarish esa parvarish qilinayotgan insonga ham hamroh va mashgʻulot almashishini beradi. Koʻp qarovchilar keyinroq yordamni erta soʻrasam boʻlar edi, deydi."
+  - q: "Parvarishlovchida toliqish qanday belgilarda namoyon boʻladi?"
+    a: "Keng tarqalgan belgilar qatoriga juda charchagan, bosim ostida yoki xavotirda his qilish, tez jahli chiqish yoki sabrsizlanish, uyqu muammolari, tushkunlik yoki umidsizlik, doʻstlardan uzoqlashish, tez-tez bosh ogʻrigʻi yoki boshqa ogʻriqlar, shuningdek, oʻz ovqatlanishi, jismoniy faolligi yoki tibbiy yordamidan voz kechish kiradi. Agar bunday belgilar muntazam takrorlansa, shifokoringiz bilan gaplashing."
+  - q: "Yaqin atrofimdan qisqa muddatli dam olish uchun parvarish xizmatini qanday topsam boʻladi?"
+    a: "Hududingizdagi Area Agency on Aging bilan bogʻlanish uchun Eldercare Locator (1-800-677-1116 yoki eldercare.acl.gov), ARCH National Respite Locator Service yoki Alzheimer's Association Helpline (1-800-272-3900) xizmatlaridan boshlang. Oila aʼzolari, doʻstlar va koʻngillilar ham qisqa tanaffus berishda yordam qilishlari mumkin."
+  - q: "Medicare qisqa muddatli dam olish parvarishi uchun toʻlaydimi?"
+    a: "National Institute on Aging maʼlumotiga koʻra, hospis yordami olayotgan inson uchun Medicare kasalxona yoki malakali hamshiralik muassasasida ketma-ket besh kungacha boʻlgan qisqa muddatli dam olish parvarishi xarajatlarining katta qismini qoplaydi. Koʻpchilik xususiy tibbiy sugʻurta rejalari buni qoplamaydi; Medicaid va ayrim uzoq muddatli parvarish sugʻurtalari yordam berishi mumkin."
+  - q: "Alzheimer's Association Helpline haqiqatan ham bepulmi va tunda ham ishlaydimi?"
+    a: "Ha. Alzheimer's Association maʼlumotiga koʻra, 1-800-272-3900 raqamidagi Helpline bepul, maxfiy va yiliga 365 kun, sutkaning har soatida ishlaydi, yordam esa koʻplab tillarda mavjud. Ovozli uzatish xizmati uchun 711 raqamiga qoʻngʻiroq qiling."
+  - q: "Parvarish ishidan tanaffus olish xudbinlikmi?"
+    a: "Yoʻq. Dam olish sizga gʻamxoʻrlikni davom ettirishga yordam beradi, qisqa tanaffus esa siz parvarish qilayotgan inson uchun ham boshqa odamlar bilan muloqot va faoliyat almashinuvini berishi mumkin. Koʻplab parvarishlovchilar keyinchalik yordamni avvalroq soʻraganlarida yaxshi boʻlardi, deb aytishadi."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -68,91 +69,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-Agar siz demensiya bilan yashayotgan insonni parvarish qilayotgan boʻlsangiz, buni kech, charchagan holda va bajarilmagan ishlar roʻyxati bilan oʻqiyotgan boʻlishingiz mumkin. Bu normal. Oʻzingizga gʻamxoʻrlik qilish hashamat ham, hamma ishni tugatgandan keyingi mukofot ham emas. Aynan shu davom etishingizga imkon beradi.
+Agar siz demensiya bilan yashayotgan inson haqida gʻamxoʻrlik qilayotgan boʻlsangiz, bu sahifani ehtimol kech payt, charchagan holda va hali qilinmagan ishlar roʻyxati bilan oʻqiyotgandirsiz. Bu tabiiy holat. Oʻzingizga gʻamxoʻrlik qilish hashamat yoki hamma ishni tugatgandan keyingi mukofot emas. Bu yoʻlni davom ettirishga yordam beradigan narsadir.
 
-Bu sahifada charchoqning ogohlantiruvchi belgilari, haqiqiy tanaffusni qanday olish, yordamni qayerdan topish va AQShdagi bepul yordam liniyalari namunalari bor. Oʻz mamlakatingizda shunga oʻxshash xizmatlarni mahalliy Alsgeymer yoki demensiya tashkilotidan, ijtimoiy xizmatlardan yoki shifokoringizdan soʻrang.
+Bu sahifada toliqishning ogohlantiruvchi belgilari, haqiqiy tanaffus qanday olish mumkinligi, yordam qayerdan topilishi va bugunoq qoʻngʻiroq qilishingiz mumkin boʻlgan AQShdagi bepul ishonch telefonlari haqida soʻz boradi.
 
-## Qarovchi charchoqining belgilari qanday?
+## Parvarishlovchida toliqish qanday belgilarda namoyon boʻladi?
 
-Charchoq koʻpincha sekin kirib keladi, shuning uchun oʻz ogohlantiruvchi belgilaringizni bilish foydali. [Milliy qarilik instituti (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) qarovchi stressining belgilarini sanab oʻtadi, jumladan:
+Toliqish koʻpincha asta-sekin ortib boradi, shuning uchun oʻzingizdagi ogohlantiruvchi belgilarni bilish foydali. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) parvarishlovchidagi zoʻriqish belgilarini sanab oʻtadi, jumladan:
 
-- holsizlik, bosim yoki xavotirni his qilish;
-- tez jahli chiqishi yoki sabrsiz boʻlib qolish;
-- yolgʻizlik yoki boshqalardan uzilib qolgandek his qilish;
-- uxlashda qiyinchilik yoki yetarlicha uxlamaslik;
-- qay’gʻu yoki umidsizlik, yoki avval yoqtirgan narsalarga qiziqishni yoʻqotish;
-- tez-tez bosh ogʻrigʻi, ogʻriqlar yoki boshqa jismoniy muammolar;
-- mashq qilishga yoki oʻzingiz uchun sogʻlom ovqat tayyorlashga vaqt yoʻqligi;
-- yuvinish yoki boshqa shaxsiy parvarishni qoldirish;
-- spirtli ichimlik yoki dori-darmonlarni, jumladan retsept bilan beriladigan dorilarni notoʻgʻri ishlatish.
+- juda charchagan, bosim ostida yoki xavotirda his qilish;
+- tez jahli chiqish yoki sabrsizlanish;
+- yolgʻizlik yoki boshqalardan uzilganlikni his qilish;
+- uyqu muammolari yoki yetarli uxlolmaslik;
+- tushkunlik yoki umidsizlikni his qilish, avval yoqqan narsalarga qiziqishni yoʻqotish;
+- tez-tez bosh ogʻrigʻi, ogʻriq yoki boshqa jismoniy muammolar;
+- oʻzingiz uchun mashq qilishga yoki sogʻlom ovqat tayyorlashga vaqt topolmaslik;
+- dush qabul qilish yoki boshqa shaxsiy parvarishni qoldirib yuborish;
+- spirtli ichimliklar yoki dorilar, jumladan retsept boʻyicha beriladigan dorilardan notoʻgʻri foydalanish.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) kasallikni inkor etish, insonga jahl qilish («u shunchaki qaysarlik qilyapti»), kelajak haqida xavotir, diqqatni jamlashda qiyinchilik va sogʻliq muammolari kabi belgilarni qoʻshadi. U bunday belgilar muntazam boʻlsa, shifokoringiz bilan gaplashishni tavsiya qiladi.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) kasallikni inkor etish, gʻamxoʻrlik qilayotgan insonga nisbatan gʻazab («u shunchaki oʻjarliq qilayapti»), kelajakdan xavotirlanish, diqqatni jamlay olmaslik va sogʻliq muammolarining ogʻirlashishi kabi belgilarni ham qoʻshadi. Agar bunday belgilar muntazam takrorlansa, shifokoringiz bilan gaplashishni tavsiya qiladi.
 
-NIA ning maslahati: butunlay charchab ketguningizcha kutmang. Belgilarni erta sezing va choralar koʻring.
+NIAning maslahati — butunlay kuchingiz tugab qolguncha kutmaslikdir. Belgilarni erta payqab, ularga qarab choralar koʻring.
 
 ## Bugun besh daqiqada nima qila olaman?
 
-Kichik tanaffuslar ham hisob. Ularning hech biri charchoqni tuzatmaydi, lekin qiyin tushdan keyinni oʻtkazishga yordam beradi.
+Kichik tanaffuslar ham muhim. Ularning hech biri toliqishni butunlay yoʻqotmaydi, lekin ogʻir kunning davomida yordam berishi mumkin.
 
-- **Tashqariga chiqing.** Inson xavfsiz va xotirjam turganda ayvonda oʻtiring yoki pochta qutisigacha yuring.
-- **Sekin nafas oling.** Qiyin savolga javob berishdan oldin bir necha sekin nafas. Parvarish qilayotgan insoningiz bilan [Sokin nafas](/games/calm-breathing/) pauzasini ham baham koʻrishingiz mumkin.
-- **Suv iching va biror narsa yeng.** Oʻz ovqatingizni unutish oson.
-- **Bitta doʻstga yozing.** Biror narsa soʻrash uchun emas, shunchaki bogʻlanish uchun.
-- **Oʻzingizga yaxshi gap ayting.** NIA ning [oʻzingizga gʻamxoʻrlik qilish qoʻllanmasi](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) «Qoʻlimdan kelganini qilyapman», «Men mukammal emasman, bu yaxshi» va «Birga tinch oʻtirgan lahzalardan zavqlanaman» kabi iboralarni tavsiya qiladi.
+- **Tashqariga chiqing.** Siz parvarish qilayotgan inson xavfsiz va tinch joyda boʻlsa, ayvonda oʻtiring yoki pochta qutisigacha piyoda boring.
+- **Sekin nafas oling.** Qiyin savolga javob berishdan oldin bir necha marta sekin nafas oling. Siz parvarish qilayotgan inson bilan birga [Tinch nafas olish](/games/calm-breathing/) mashgʻulotida ham qisqa tanaffus qilishingiz mumkin.
+- **Biroz suv iching va nimadir yeng.** Oʻz ovqatlanishingizni unutib qoʻyish oson.
+- **Bir doʻstingizga xabar yozing.** Biror narsa soʻrash uchun emas, shunchaki muloqot uchun.
+- **Oʻzingizga mehr bilan gapiring.** NIAning [oʻzingiz haqida gʻamxoʻrlik qilish boʻyicha qoʻllanmasi](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) «Men qoʻlimdan kelganicha harakat qilyapman», «Men mukammal emasman va bu normal», «Tinchlikda birga boʻlishimiz mumkin boʻlgan daqiqalardan zavqlanaman» kabi iboralarni taklif qiladi.
 
-## Vaqtincha parvarish (respite care) nima va uni qanday olaman?
+## Qisqa muddatli dam olish parvarishi nima va uni qanday olish mumkin?
 
-Vaqtincha parvarish — siz dam olishingiz uchun parvarish qilayotgan insoningizga qisqa muddatli qaraydigan xizmat. NIA ning [vaqtincha parvarish sahifasi](https://www.nia.nih.gov/health/caregiving/what-respite-care) u bir necha soatdan bir necha haftagacha davom etishi va uyda, tibbiy muassasada yoki kattalar kunduzgi parvarish markazida boʻlishi mumkinligini tushuntiradi.
+Qisqa muddatli dam olish parvarishi — bu siz dam olishingiz uchun gʻamxoʻrlik qilayotgan insoningizga vaqtincha koʻrsatiladigan yordamdir. NIAning [qisqa muddatli dam olish parvarishi haqidagi sahifasi](https://www.nia.nih.gov/health/caregiving/what-respite-care) bu yordam bir necha soatdan bir necha haftagacha davom etishi va uyda, tibbiy muassasada yoki kunduzi parvarish markazida boʻlishi mumkinligini tushuntiradi.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) keng tarqalgan turlarni tasvirlaydi:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) keng tarqalgan turlarni quyidagicha tasvirlaydi:
 
-| Turi | Nima u |
+| Turi | Bu nima |
 | --- | --- |
-| Uyda yordam | Doʻst, qarindosh, koʻngilli yoki pullik hamroh yoki yordamchi uyga keladi |
-| Kattalar kunduzgi markazi | Xavfsiz guruh muhitida musiqa va rasm kabi rejalashtirilgan mashgʻulotlar; transport va ovqat koʻpincha taklif etiladi |
-| Tunash yoki qisqa muddatli turish | Uzoq muddatli parvarish markazi insonga bir kecha, bir necha kun yoki bir necha hafta qaraydi |
+| Uyda yordam | Doʻst, qarindosh, koʻngilli yoki haq toʻlanadigan hamroh yoxud yordamchi uyga keladi |
+| Kunduzi parvarish markazi | Musiqa va sanʼat kabi rejalashtirilgan mashgʻulotlar xavfsiz guruh muhitida oʻtkaziladi; koʻpincha transport va ovqatlanish ham taklif qilinadi |
+| Bir kechalik yoki qisqa muddatli qolish | Uzoq muddatli parvarish muassasasi inson haqida bir kecha, bir necha kun yoki bir necha hafta davomida gʻamxoʻrlik qiladi |
 
-**Kim toʻlaydi?** NIA ga koʻra, oila, doʻstlar yoki koʻngillilardan olingan dam hech narsaga tushmasligi mumkin. Professional xizmatlar soatbay yoki kunbay haq oladi. AQShda hospis parvarishini olayotgan inson uchun Medicare kasalxona yoki malakali hamshiralik muassasasida ketma-ket besh kungacha dam xarajatining koʻpini qoplaydi. Medicaid yordam berishi mumkin. Koʻpchilik xususiy sogʻliq sugʻurtasi vaqtincha parvarishni qoplamaydi, ba’zi uzoq muddatli parvarish sugʻurtalari esa qoplaydi. Oʻz mamlakatingizdagi qoidalar boshqacha boʻlishi mumkin.
+**Kim toʻlaydi?** NIA maʼlumotiga koʻra, oila aʼzolari, doʻstlar yoki koʻngillilar koʻrsatadigan yordam bepul boʻlishi mumkin. Professional xizmatlar esa soatbay yoki kunlik haq evaziga taqdim etiladi. Hospis yordami olayotgan inson uchun Medicare kasalxona yoki malakali hamshiralik muassasasida ketma-ket besh kungacha boʻlgan qisqa muddatli dam olish parvarishi xarajatlarining katta qismini qoplaydi. Medicaid yordam berishi mumkin. Koʻpchilik xususiy tibbiy sugʻurta rejalari buni qoplamaydi, biroq ayrim uzoq muddatli parvarish sugʻurtalari qoplashi mumkin.
 
-**Maslahat:** Alzheimer's Association vaqtincha parvarish xizmatlarini favqulodda boʻlmagan vaziyatda sinab koʻrishni tavsiya qiladi, shunda birdan yordam kerak boʻlganda ular tayyor boʻladi.
+**Maslahat:** Alzheimer's Association favqulodda holat boʻlmaganda ham bunday xizmatlarni sinab koʻrishni tavsiya qiladi. Shunda sizga toʻsatdan yordam kerak boʻlib qolsa, ular tayyor boʻladi.
 
-## Yaqin atrofda yordamni qayerdan topaman?
+## Yaqin atrofimdan yordamni qayerdan topsam boʻladi?
 
-AQShda bir nechta bepul xizmat sizni mahalliy yordamga yoʻnaltira oladi. Oʻz mamlakatingizda mahalliy Alsgeymer yoki demensiya tashkilotidan yoki demensiya yordam liniyasidan soʻrang.
+Bir nechta bepul AQSh xizmatlari sizni mahalliy yordam manbalariga yoʻnaltirishi mumkin.
 
-- **Alzheimer's Association ning sutkasiga 24 soat ishlaydigan liniyasi.** [Liniya](https://www.alz.org/help-support/resources/helpline) bepul va maxfiy, yilning har kuni sutkasiga 24 soat ishlaydi, ikki tilli xodimlar yoki tarjimonlar orqali 200 dan ortiq tilda yordam beradi. Siz xulq oʻzgarishlari, qarovchi stressi, vaqtincha parvarish variantlari, mahalliy dasturlar va boshqalar haqida gaplashishingiz hamda parvarish maslahatchisi bilan uzoqroq suhbat soʻrashingiz mumkin. Xodimlar tibbiy maslahat bermaydi.
-- **Eldercare Locator.** AQSh Jamiyat bilan yashash boshqarmasining (Administration for Community Living) davlat xizmati boʻlgan [Eldercare Locator](https://eldercare.acl.gov/) sizni keksalar va ularning oilalari uchun xizmatlar bilan bogʻlaydi. Siz tayyorlangan xodimlarga qoʻngʻiroq qilishingiz, matn yoki onlayn chat orqali yoki elektron pochta bilan yozishingiz yoxud joylashuv boʻyicha qidirishingiz mumkin. U sizni mahalliy Area Agency on Aging ga yoʻnaltira oladi.
-- **ARCH National Respite Locator Service.** [ARCH vaqtincha parvarish qidiruvi](https://archrespite.org/caregiver-resources/respitelocator/) vaqtincha parvarish xizmatlarini shtat boʻyicha topishga yordam beradi va shtatingizda boʻlsa, avval State Respite Coalition yoki Lifespan Respite dasturiga murojaat qilishni tavsiya qiladi. ARCH xizmat koʻrsatuvchilarni tekshirmasligini ta’kidlaydi, shuning uchun ularning tajribasi va tarixini oʻzingiz koʻrib chiqing.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) bepul va maxfiy, yilning har kuni, sutkaning har soatida ishlaydi. Ikki tilli xodimlar yoki tarjimonlar orqali 200 dan ortiq tilda yordam mavjud. Ovozli uzatish xizmati uchun 711 raqamiga qoʻngʻiroq qiling. Siz xatti-harakatlardagi oʻzgarishlar, parvarishlovchidagi zoʻriqish, qisqa tanaffus imkoniyatlari, mahalliy dasturlar va boshqa mavzular haqida gaplashishingiz hamda parvarish maslahatchisi bilan uzunroq suhbat soʻrashingiz mumkin. Xodimlar tibbiy maslahat bermaydi.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) — Administration for Community Living tomonidan koʻrsatiladigan davlat xizmati boʻlib, u sizni yoshi kattaroq insonlar va ularning oilalari uchun moʻljallangan xizmatlar bilan bogʻlaydi. Siz qoʻngʻiroq qilishingiz, xabar yozishingiz, onlayn suhbat qilishingiz yoki elektron pochta orqali murojaat qilishingiz mumkin, shuningdek, joylashuv boʻyicha qidirishingiz mumkin. Bu xizmat sizni hududingizdagi Area Agency on Agingga yoʻnaltirishi mumkin.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) sizga shtat boʻyicha qisqa muddatli dam olish xizmatlarini topishda yordam beradi va agar shtatingizda mavjud boʻlsa, avval State Respite Coalition yoki Lifespan Respite dasturiga murojaat qilishni tavsiya qiladi. ARCH xizmat koʻrsatuvchilarni tekshirmasligini taʼkidlaydi, shuning uchun ularning tajribasi va maʼlumotlarini oʻzingiz koʻrib chiqing.
 
-## Yordam guruhini qanday topaman?
+## Qoʻllab-quvvatlash guruhini qanday topsam boʻladi?
 
-Yordam liniyasidan soʻrang yoki onlayn yaqin atrofdagi guruhlarni qidiring. Alzheimer's Association qarovchilar va demensiya bilan yashayotganlar uchun, yuzma-yuz va onlayn, tayyorlangan yetakchilar boshqaradigan [yordam guruhlarini oʻtkazadi](https://www.alz.org/help-support/community/support-groups). Koʻp joylarda ixtisoslashgan guruhlar ham bor, masalan, voyaga yetgan qarovchilar uchun yoki yoshroq boshlangan yoki dastlabki bosqichdagi Alsgeymer bilan yashayotganlar uchun. U shuningdek ALZConnected ni, qarovchilar maslahat almashadigan bepul onlayn hamjamiyatni yuritadi.
+Helpline xizmatiga murojaat qiling yoki yaqiningizdagi guruhlarni internetdan qidiring. Alzheimer's Association parvarishlovchilar va demensiya bilan yashayotgan insonlar uchun [qoʻllab-quvvatlash guruhlarini tashkil qiladi](https://www.alz.org/help-support/community/support-groups). Bu guruhlar yuzma-yuz va onlayn oʻtkaziladi hamda malakali fasilitatorlar tomonidan olib boriladi. Koʻplab joylarda, masalan, voyaga yetgan parvarishlovchilar uchun yoki erta boshlangan yoxud dastlabki bosqichdagi Altsgeymer bilan yashayotgan insonlar uchun moʻljallangan maxsus guruhlar ham mavjud. Shuningdek, ALZConnected — bu parvarishlovchilar tajriba va maslahatlar bilan oʻrtoqlashadigan bepul onlayn hamjamiyat.
 
-Yordam guruhlari hukm qilinmasdan ichingizdagini aytish, bunday holatni boshdan kechirganlardan amaliy maslahat olish va oʻzingizni yolgʻiz his qilmaslik uchun joy boʻlishi mumkin. Birinchi guruh mos kelmasa, boshqasini sinab koʻring.
+Qoʻllab-quvvatlash guruhlari his-tuygʻularingizni hukmsiz aytib berish, oʻxshash yoʻldan oʻtgan insonlardan amaliy maslahatlar olish va oʻzingizni kamroq yolgʻiz his qilish uchun joy boʻlishi mumkin. Agar birinchi guruh sizga mos kelmasa, boshqasini sinab koʻring.
 
-## Oila va doʻstlardan yordamni qanday soʻrayman?
+## Oila aʼzolari va doʻstlardan qanday yordam soʻrasam boʻladi?
 
-Aniq boʻling. Koʻp odamlar yordam bermoqchi, lekin nima taklif qilishni bilmaydi. NIA tavsiya qiladi:
+Aniq boʻling. Koʻp odamlar yordam berishni xohlaydi, lekin nima taklif qilishni bilmaydi. NIA quyidagilarni tavsiya qiladi:
 
-- **Roʻyxat tuzing:** boshqalar oʻz zimmasiga olishi mumkin boʻlgan ishlar, va odamlar tanlasin.
-- **Kichikdan boshlang,** soʻrash qiyin tuyulsa.
-- **Ishni insonga moslang.** Ovqat pishirishni yaxshi koʻradigan amakivachcha payshanba kuni kechki ovqat olib keladi. Hujjatlarni yaxshi biladigan qoʻshni qogʻozbozlikda yordam beradi.
-- **Yozing,** yuzma-yuz soʻrash noqulay boʻlsa.
-- **Javobni mashq qiling,** kimdir taklif qilganda: «Soʻraganingiz uchun rahmat. Mana nima qila olasiz.»
-- **Ba’zi rad javoblarini kuting** va ularni oʻzingizga olmaslikka harakat qiling.
+- **Roʻyxat tuzing.** Boshqalar bajarishi mumkin boʻlgan ishlar roʻyxatini yozib qoʻying va ularga tanlash imkonini bering.
+- **Soʻrash qiyin boʻlsa, kichikdan boshlang.**
+- **Vazifani odamga moslang.** Ovqat pishirishni yoqtiradigan qarindosh payshanba kuni kechki ovqat olib keladi. Hujjatlar bilan ishlashni biladigan qoʻshni qogʻozbozlikda yordam beradi.
+- **Yuzma-yuz soʻrash noqulay boʻlsa, xabar yoki elektron pochta yozing.**
+- **Kimdir yordam taklif qilganda aytadigan javobni oldindan oʻylab qoʻying:** «Soʻraganingiz uchun rahmat. Mana, buni qila olasiz.»
+- **Baʼzi rad javoblar boʻlishini kuting** va ularni shaxsan qabul qilmaslikka harakat qiling.
 
-Boshqa gʻoyalar: kimdandir haftada bir tushdan keyin insonning yonida oʻtirishini, uni qisqa sayrga olib chiqishini yoki kelib birga oʻyin oʻynashini soʻrang. [Birga oʻynash qoʻllanmamizni](/caregiving/how-to-play-together/) mehmonlarga yuborish oson.
+Boshqa gʻoyalar: birovdan haftasiga bir tushdan keyin inson bilan birga oʻtirishini, uni qisqa sayrga olib chiqishini yoki tashrif buyurib, birga oʻyin oʻynashini soʻrashingiz mumkin. Bizning [birga oʻynash boʻyicha qoʻllanmamizni](/caregiving/how-to-play-together/) mehmonlar bilan ulashish oson.
 
-## Agar menga biror narsa boʻlsa-chi?
+## Agar menga biror narsa boʻlib qolsa-chi?
 
-Hoziroq oddiy zaxira reja tuzing. NIA oila yoki yaqin doʻstlar bilan kim oʻrnini bosishini kelishib olishni hamda favqulodda raqamlar, dorilar, ishlaydigan xulq maslahatlari va sevimli mashgʻulotlar yozilgan daftar yuritishni tavsiya qiladi. Alzheimer's Association shuningdek insonning tibbiy aloqalari va yangilangan dori roʻyxatini topish oson joyda saqlashni tavsiya qiladi.
+Hozirdan boshlab oddiy zaxira reja tuzing. NIA oila aʼzolari yoki yaqin doʻstlar bilan kim yordamga kelishini kelishib olishni hamda favqulodda aloqa raqamlari, dorilar, foydasi boʻlgan xulq-atvor boʻyicha maslahatlar va yoqtiriladigan mashgʻulotlar yozilgan daftarcha yuritishni tavsiya qiladi. Alzheimer's Association, shuningdek, insonning tibbiy aloqa maʼlumotlari va yangilangan dorilar roʻyxatini topish oson boʻlgan joyda saqlashni tavsiya qiladi.
 
-## Qachon professional yoki shoshilinch yordam olishim kerak?
+## Qachon mutaxassis yoki shoshilinch yordamga murojaat qilish kerak?
 
-Stress belgilari muntazam boʻlsa, tushkunlikni his qilsangiz yoki uddalay olmayotgan boʻlsangiz, shifokoringiz bilan gaplashing. Shifokorga qarovchi ekanligingizni ayting. NIA maslahatchilar va ijtimoiy xodimlar qiyin his-tuygʻular va rejalashtirishda yordam bera olishini hamda AQShda Medicare, Medicaid va ba’zi xususiy sugʻurtalar ruhiy salomatlik xarajatlarining bir qismini qoplashi mumkinligini ta’kidlaydi.
+Agar zoʻriqish belgilari muntazam takrorlansa, oʻzingizni tushkun his qilsangiz yoki bardosh berish qiyin boʻlsa, shifokoringiz bilan gaplashing. Shifokoringizga parvarishlovchi ekaningizni ayting. NIA maslahatchilar va ijtimoiy xodimlar ogʻir his-tuygʻular va rejalashtirishda yordam berishi mumkinligini, Medicare, Medicaid va ayrim xususiy sugʻurta rejalari ayrim ruhiy salomatlik xarajatlarini qoplashi mumkinligini taʼkidlaydi.
 
-Oʻzingizni inqirozda his qilsangiz yoki oʻzingizga zarar yetkazish haqida oʻylarga ega boʻlsangiz, mamlakatingizdagi ruhiy yordam liniyasiga yoki hududingizdagi favqulodda raqamga qoʻngʻiroq qiling. AQShda [988 Suicide & Crisis Lifeline](https://988lifeline.org/) bepul va sutkasiga 24 soat mavjud. Kimdir bevosita xavf ostida boʻlsa, hududingizdagi favqulodda raqamga qoʻngʻiroq qiling.
+Agar oʻzingizni ogʻir ahvolda his qilsangiz yoki oʻzingizga zarar yetkazish haqida oʻylar paydo boʻlsa, bepul va kunu-tun ishlaydigan [988 Suicide & Crisis Lifeline](https://988lifeline.org/) xizmatiga ulanish uchun 988 raqamiga qoʻngʻiroq qiling yoki xabar yozing. Agar kimdir bevosita xavf ostida boʻlsa, 911 raqamiga qoʻngʻiroq qiling.
 
 ## Birgalikdagi mashgʻulotlar menga ham tanaffus bera oladimi?
 
-Ba’zan. Ikkalangiz yoqtiradigan sokin mashgʻulot kunning sizga ham, parvarish qilayotgan insoningizga ham muloyimroq qismi boʻlishi mumkin: eski qoʻshiqlarni tinglash, suratlarga qarash yoki toʻgʻri javobi yoʻq [Suhbat kartalari](/games/conversation-cards/) kabi oʻyin. Inson hamrohlikni yoqtirsa, keksalar markazi yoki kattalar kunduzgi dasturida [Rasmli bingo](/games/picture-bingo/) bilan guruh mashgʻuloti sizga bir soatlik dam berishi mumkin. Gʻoyalar uchun [parvarish uylaridagi guruh mashgʻulotlari](/activities/care-home-groups/) sahifasiga qarang.
+Baʼzan ha. Ikkalangizga ham yoqadigan tinch mashgʻulot kunning siz uchun ham, siz parvarish qilayotgan inson uchun ham yumshoqroq qismi boʻlishi mumkin: eski qoʻshiqlarni tinglash, suratlarni koʻrish yoki toʻgʻri javob talab qilmaydigan [Suhbat kartalari](/games/conversation-cards/) kabi oʻyin. Agar inson boshqa odamlar bilan birga boʻlishni yoqtirsa, keksalar markazi yoki kunduzi parvarish dasturida [Rasmli bingo](/games/picture-bingo/) bilan guruh mashgʻuloti sizga bir soatlik tanaffus berishi mumkin. Gʻoyalar uchun [parvarish muassasalaridagi guruhlar uchun mashgʻulotlar](/activities/care-home-groups/) sahifasiga qarang.

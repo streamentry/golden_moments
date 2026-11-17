@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Mabasa ekudhinda emahara echiDementia"
+seoTitle: "Mabasa ekudhinda eDementia: Mavara makuru"
+description: "Mabasa ekudhinda emahara echiDementia: kutsvaga mazwi ane mavara makuru, mapeji ekupenda, makadhi ekutaura nemifananidzo uye bingo yemifananidzo, pamwe nemazano ekudhinda zvakanaka."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments inopa mabasa ekudhinda emahara echiDementia: kutsvaga mazwi
+  ane mavara makuru, mapeji ekupenda, makadhi ekutaura ane mifananidzo uye
+  makadhi ebingo yemifananidzo. Vhura peji chero ripi zvaro remotambo uye
+  shandisa bhatani reDhinda. Dhinda nemavara makuru, akajeka papepa rakasimba,
+  chengeta rimwe basa rimwe chete papeji rimwe, uye putira mapeji aunoda
+  kushandisa zvakare. Mapeji akagadzirwa kumba akadai sepeji renhau dzehupenyu
+  kana hurongwa hwezuva rimwe nerimwe anobatsirawo.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Mabasa edu ekudhinda ndeemahara: Kutsvaga Mazwi, Kupenda, Makadhi Ekutaura uye Bingo Yemifananidzo. Peji rimwe nerimwe remotambo rine bhatani reDhinda."
+  - "Dhinda nemavara makuru, akajeka ane musiyano wakasimba, uye chengeta rimwe basa rimwe chete papeji rimwe."
+  - "Mapepa akasimba kana kadhikadhi zviri nyore kubata uye hazviputiki nyore. Putira mapeji kuti uzvishandisezve nemakadhoni anobvisika."
+  - "Mabasa ekudhinda akagadzirwa kumba akadai sepeji renhau dzehupenyu, hurongwa hwezuva rimwe nerimwe kana mavara emifananidzo pamagonhi zviri nyore uye zvinobatsira."
+  - "Peji rakadhindwa idambiro rekudyidzana, kwete basa rechikoro. Kuita chikamu charo, kana kusaita chinhu, zvakanaka."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Mabasa enyu ekudhinda echiDementia ndeemahara here?"
+    a: "Hongu. Mapeji eKutsvaga Mazwi, Kupenda, Makadhi Ekutaura uye Bingo Yemifananidzo panzvimbo ino ndeemahara kushandisa nekudhinda. Vhura peji remotambo uye shandisa bhatani reDhinda."
+  - q: "Ndeapi mabasa ekudhinda akanakira vanhu vanogara nedementia?"
+    a: "Mabasa akanaka ekudhinda ari nyore, akajeka uye emunhu mukuru: kutsvaga mazwi ane mavara makuru nemazwi anongofamba achienda mberi nepasi, mapeji ekupenda ane miganhu yakajeka, makadhi emifananidzo anotanga nhaurirano, uye bingo yemifananidzo yemapoka. Enzanisa basa nemufarira uye kugona kwemunhu panguva iyoyo, uye chengeta rimwe basa rimwe chete papeji rimwe."
+  - q: "Ndingaita sei kuti mabasa ekudhinda aoneke uye ashandiswe nyore?"
+    a: "Shandisa mavara makuru, akajeka, inki yakasviba papepa jena kana rekrimu, uye nzvimbo yakawanda. Dhinda papepa rakasimba kana kadhikadhi kuti ribate, sarudza bepa risina kupenya kuti urege kupenya, uye shandisa clipboard kana machira asingatsvedzi kuti bepa risafamba. Kupfekedza kunobatsira mapeji kuti agare kwenguva refu."
+  - q: "Ndingadhinda mabasa enyu epamba yekuchengeterwa kana purogiramu yezuva here?"
+    a: "Hongu. Vashandi vemabasa vanokokwa kudhinda mapeji edu evagari nevapoka. Bingo Yemifananidzo yakagadzirirwa mapoka uye inosanganisira mucheri wepa-sikirini waunogona kuratidza paTV kana purojekita."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Dzimwe nguva basa rakanakisa ibepa nepeni patafura yekicheni. Mabasa ekudhinda haadi kuchaja, mapassword kana sikirini, uye zviri nyore kuauya nawo pakushanya kana muboka. Peji ino rinotsanangura mabasa ekudhinda emahara panzvimbo yedu, mashandiro ekuadhinda kuti aoneke uye kubatwa nyore, uye mamwe mabasa akareruka ekudhinda anogadzirwa kumba anoshandiswa nemhuri nevashandi vemabasa.
 
-## What free printable activities do you offer?
+## Ndeapi mabasa ekudhinda emahara amunopa?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Tinopa mabasa mana ekudhinda emahara. Vhura chero ipi yemapeji aya emotambo uye shandisa bhatani re**Dhinda** kuti uwane vhezheni yakagadzirirwa dhinda.
 
-| Printable | What it is | Good for |
+| Basa rekudhinda | Chii chiri | Chakanakira |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Kutsvaga Mazwi](/games/word-search/) | Kutsvaga mazwi ane mavara makuru nemazwi anongofamba achienda mberi nepasi | Nguva yekunyarara nepeni; munhu aifarira mapuzzle |
+| [Kupenda](/games/coloring/) | Mapeji ekupenda ekudhinda, kana ekupenda pasikirini | Nguva yekuzorora, yekusika; chero danho nerubatsiro |
+| [Makadhi Ekutaura](/games/conversation-cards/) | Makadhi emifananidzo ane mibvunzo yakavhurika yekutaura, asina mibvunzo yebvunzo, nemisoro | Kushanya, mafoni, kudya kwemhuri, mapoka ekurangarira |
+| [Bingo Yemifananidzo](/games/picture-bingo/) | Makadhi ebingo ane mifananidzo panzvimbo yenhamba, pamwe nemucheri wepa-sikirini | Dzimba dzekuchengeterwa, mapurogiramu ezuva, misangano yemhuri |
 
-### Large-print word search
+### Kutsvaga mazwi ane mavara makuru
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Kutsvaga Mazwi](/games/word-search/) kunoshandisa mavara makuru uye kunochengeta mazwi achingofamba achienda mberi nepasi, pasina kudzika kana kudzokera shure. Zvishandirei pamwe chete: mumwe munhu anoverenga shoko kubva murunyoro, mumwe anotsvaga. Kana kutsvaga mazwi kuchikurira, edzai kudhinda mutsara wekutanga wega wega shoko pamwe chete, kana kungoverenga runyoro rwemazwi uchitaura nezveshoko rimwe nerimwe.
 
-### Coloring pages
+### Mapeji ekupenda
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Mapeji e[Kupenda](/games/coloring/) anogona kudhindwa kuti ashandiswe nemakadhoni kana makadhoni epakoloru, kana kupendwa patablet nekubaya ruvara, wozobaya chikamu chemufananidzo. Pamapeji akadhindwa, ipai makadhoni makobvu nemavara mashoma panguva imwe chete. Onai gwara redu re[art and crafts](/activities/arts-and-crafts/) kuti muwane nzira dzekuchengeta kupenda sechinhu chemunhu mukuru uye chekunyaradza.
 
-### Conversation cards
+### Makadhi ekutaura
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Makadhi Ekutaura](/games/conversation-cards/) anosanganisa mufananidzo wakajeka nemubvunzo wakavhurika, se “Ndiudzei nezve…” kana “Chii chamuona?” Akanyorwa semakokwa akavhurika, kwete mibvunzo yebvunzo. Dhindai seti, chekai zvive zvidimbu, uye chengetai mashoma mubhegi yekushanya kana pedyo nerunhare kuti mufone. Anoshandawo zvakanaka mumapoka e[kurangarira](/activities/reminiscence/).
 
-### Picture bingo cards
+### Makadhi ebingo yemifananidzo
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Makadhi e[Picture Bingo](/games/picture-bingo/) anoshandisa mifananidzo panzvimbo yenhamba. Dhindai kadhi rimwe chete pamutambi uye shandisa mucheri wepa-sikirini palaptop, TV kana purojekita. Tinokurudzira kudana kusvikira kadhi remunhu wese razara, kuitira kuti pasave nomunhu anosara. Onai [mabasa emapoka mumadzimba ekuchengeterwa](/activities/care-home-groups/) kuti muite sei chikamu.
 
-## How do I print activities so they are easy to use?
+## Ndingadhinda sei mabasa kuti ashande nyore?
 
-Small changes in how you print make a big difference.
+Kuchinja kudiki mukudhinda kunoita mutsauko mukuru.
 
-### Make it easy to see
+### Ita kuti aoneke nyore
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Mavara makuru, akajeka.** Shandisa nzvimbo yekudhinda huru inokwana papeji. Dzivisa mafoni akashongedzwa kana akanyorwa nemaoko.
+- **Musiyano wakasimba.** Inki yakasviba papepa jena kana rekrimu. Dzivisa grey yakajeka kana kumashure kwemavara.
+- **Bepa risina kupenya** rinoderedza kupenya pasi pechiedza chakajeka.
+- **Tarisa magirazi uye chiedza.** Sangano reAlzheimer's rinoti matambudziko ekuona nekunzwa anogona kuita kuti kutaurirana kuome, uye rinokurudzira kuti zviongororwe nguva nenguva. Rambi rakajeka uye rakanaka rinobatsirawo.
 
-### Make it easy to hold
+### Ita kuti abateke nyore
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Mapepa akasimba kana kadhikadhi** anobata, zviri nyore kusimudza, uye anoramba kakawanda.
+- **Clipboard** kana machira asingatsvedzi anobatsira kuti bepa risatsvedza.
+- **Makadhoni makobvu kana mapensiro makuru** zviri nyore kubata kupfuura mapeni matete.
 
-### Make it reusable
+### Ita kuti ashandiswe zvakare
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Putirai mapeji** kana kuaisa mumapoketi akajeka. Shandisai makadhoni anobvisika pakutsvaga mazwi nemakadhi ebingo, mobva mapukuta.
+- **Sarudzai mapoketi asina kupenya** kana kupenya kuchinetesa, uye **tenderedza makona** emakadhi akaputirwa nesikara kuitira kuti zvibate nyore.
+- **Chengetai forodha** yezvaunofarira kuitira kuti usadhinda peji rimwe chete svondo rimwe nerimwe.
 
-### Keep it simple
+### Chengeta zviri nyore
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Rimwe basa papeji rimwe.** Kutsvaga mazwi kumwe chete kana mufananidzo mumwe chete, kwete mabasa akawanda pamwe chete.
+- **Nzvimbo yakawanda chena.** Peji rakazara rinogona kunzwa rakanyanya.
+- **Hapana mirairo yekuverenga, pazvinogoneka.** Ratidzai munhu zvaanofanira kuita.
+- **Chekai mapeji.** Kana peji rakazara rakawandisa, richekei nepakati kana kuripeta kuti chikamu chimwe chete chioneke.
 
-## Other useful printables you can make at home
+## Mamwe mabasa ekudhinda anobatsira aunogona kugadzira kumba
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Kwete mabasa ese ekudhinda anobatsira ari mutambo. Aya ari nyore kugadzira nemushini wekutaipa uye printer.
 
-### A life-story page
+### Peji renhau dzehupenyu
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Peji rimwe chete re “nezvangu” rine mufananidzo, zita remunhu anoda kunzi naro, kwaakakurira, basa rake, mhuri, chikafu chaafarira, mimhanzi uye zvinhu zvinomunyaradza kana kumutadzisa. Dementia Australia inokurudzira [bhuku rekurangarira](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) rine ruzivo rwehupenyu hwemunhu, zvaanofarira uye vanhu vakakosha, kubatsira vashanyi nevachengeti uye kutanga nhaurirano.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Rinonyanya kubatsira muzvipatara uye munzvimbo itsva dzekuchengeterwa. NIA inokurudzira kupa vashandi vezvipatara [pepa reruzivo rwemunhu](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) rine tsika dzemunhu, zita raanoda, zvaanofarira nezvaasingafariri, zvinogona kumutadzisa, uye zviratidzo zvisingatauri zvekurwadziwa.
 
-### A daily schedule
+### Hurongwa hwezuva rimwe nerimwe
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Hurongwa hukuru, hwakareruka hwezuva rine nguva, mazwi mashoma uye mufananidzo mudiki pachikamu chimwe nechimwe: kudya kwemangwanani, kufamba, kudya kwemasikati, zororo, mimhanzi, kudya kwemanheru. [Daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) yeAlzheimer's Association inokurudzira kuronga maererano nenguva dzakanaka dzomunhu pazuva, nenguva dzakajairwa dzekumuka nekurara uye kuenzanisa basa nezororo. Iiswe panzvimbo inooneka, pamwe pafridge, uye chengetai zviri nyore kuchinja. Onai gwara redu re[hurongwa hwezuva rimwe nerimwe](/activities/daily-routine/) kuti muwane zvimwe.
 
-### Picture labels for rooms and drawers
+### Mavara emifananidzo emakamuri nemadhiraire
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA inokurudzira kushandisa zviratidzo zvine mavara akajeka kana mifananidzo yakareruka kurongedza [imba yekugezera, imba yekurara nekicheni](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Pfungwa imwechete inoshanda kumadhiraire nemakabhineti: mufananidzo wesokisi pamadhiraire esokisi, makapu pamakabhineti emakapu. Dhindai, putirai uye nambatidzei.
 
-### A sorting set
+### Seti yekusarudza
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Dhindai mifananidzo kubva mumapoka maviri akareruka, semichero nemaruva kana maturusi nezvinhu zvekicheni, papepa rakasimba. Chekai zvive zvidimbu uye sarudzai pamwe chete mumabhasketi maviri. Shanduro yepasikirini yeiyi ndeye[Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Mapepa enziyo
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Dhindai mazwi enziyo shoma dzamafarira ane mavara makuru kwazvo kuti muimbe pamwe chete. Kunyange vanhu vasingachaverengi zvakawanda vanogona kufara kubata pepa.
 
-### A family photo page
+### Peji remifananidzo yemhuri
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Peji rimwe chete rine mifananidzo mina kusvika mitanhatu mikuru yemhuri, rimwe nerimwe rine zita rokutanga pasi. Rinogona kugara patafura kuti munhu wese aone uye ataure nezvaro. Mavara anobatsira vashanyi nevashandi kupinda munhaurirano, uye hapana anofanira kubvunza kuti “Ndiani uyu?”
 
-### A recipe card
+### Kadhi rekubika
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Dhindai resipi yemhuri yamafarira nemavara makuru. Shandisai kubika pamwe chete, kana kungotaura nezvekudya zvekare.
 
-## How do I offer a printable without it feeling like homework?
+## Ndingapa sei basa rekudhinda ndisingaiti sekuti ibasa rechikoro?
 
-Present it as something to share, not a test.
+Ripei sechinhu chekugovana, kwete sekuedzwa.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Garisai pasi motanga muchiita.** “Ndiri kuita kutsvaga mazwi uku. Unoda kundibatsira kutsvaga ‘bindu’?”
+- **Shandai pamwe chete.** Torai mafuro, kana kuti mumwe munhu anotsvaga mumwe achidhinda.
+- **Musambotaura kuti zvakarurama kana zvisina kururama.** Gwaro reAlzheimer's Association re[mabasa pamba](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) rinokurudzira kutarisa maitiro, kwete mhedzisiro, uye kunakidzwa pane kubudirira.
+- **Siya mapeji ari pachena.** Gwaro rimwe chete rinokurudzira kuisa mabhuku ekurangarira, mapikicha kana magazini echinyakare munzvimbo dziri nyore kusvika. Makadhi akadhindwa nemapeji emifananidzo anogona kugara patafura nenzira imwe chete.
+- **Mirei pese pamunoda.** Hafu yepeji rekupenda inguva yakanaka masikati. Zvakare kunze kwekuisa bepa uye kunwa tii.
 
-## Where to find more
+## Ndingawana kupi zvimwe
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Ongororai [mitambo nemabasa ekudhinda](/games/) yedu yese, kana kuona [mabasa echikamu chimwe nechimwe](/activities/ideas/) kuti muwane mamwe mazano, pamwe nepasina mapepa.

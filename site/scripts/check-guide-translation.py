@@ -40,9 +40,12 @@ FIXED = ('section', 'order', 'updated', 'published', 'sources',
          'relatedGames', 'related', 'health')
 HEADING = re.compile(r'^(#{2,6})\s', re.M)
 LINK = re.compile(r'\]\(([^)\s]+)[^)]*\)|href="([^"]+)"')
-NUMBER = re.compile(r'\d[\d,.   ]*\d|\d')
+NUMBER = re.compile(r'\d{1,3}(?:[   ]\d{3})+|\d+(?:[,.]\d+)*')
+CLOCK_12 = re.compile(r'(?<!\d)(0?[1-9]|1[0-2])(?::([0-5]\d))?\s*(a\.m\.|p\.m\.|am|pm)(?![a-z])', re.I)
+CLOCK_24 = re.compile(r'(?<!\d)([01]?\d|2[0-3]):([0-5]\d)(?!\d)')
 
-EMERGENCY_NUMBERS = {'000', '101', '102', '108', '110', '111', '112', '119', '190', '191', '192', '193', '911', '988', '995', '999'}
+# Recognized emergency and crisis lines that may replace an explicit source number.
+EMERGENCY_NUMBERS = {'000', '101', '102', '108', '110', '111', '112', '119', '190', '191', '192', '193', '911', '988', '995', '999', '116123'}
 
 
 class UniqueKeyLoader(yaml.SafeLoader):
@@ -90,7 +93,96 @@ def numbers(text: str) -> list[str]:
 def visible_numbers(text: str) -> list[str]:
     visible = re.sub(r'\]\([^)]*\)', ']', text)
     visible = re.sub(r'https?://\S+', '', visible)
-    return numbers(visible)
+    times: list[str] = []
+
+    def clock_12(match: re.Match[str]) -> str:
+        hour_12 = int(match.group(1))
+        hour_24 = hour_12
+        minute = int(match.group(2) or '0')
+        period = match.group(3).lower().replace('.', '')
+        if period == 'pm' and hour_12 != 12:
+            hour_24 += 12
+        elif period == 'am' and hour_12 == 12:
+            hour_24 = 0
+        hour_12 = hour_24 % 12 or 12
+        times.extend(sorted({f'clock:{hour_24:02d}{minute:02d}', str(hour_12), str(hour_24)}))
+        return ' '
+
+    def clock_24(match: re.Match[str]) -> str:
+        hour_24 = int(match.group(1))
+        hour_12 = hour_24 % 12 or 12
+        times.extend(sorted({f'clock:{hour_24:02d}{match.group(2)}', str(hour_12), str(hour_24)}))
+        return ' '
+
+    visible = CLOCK_12.sub(clock_12, visible)
+    visible = CLOCK_24.sub(clock_24, visible)
+    return sorted(numbers(visible) + times)
+
+
+def _clock_value(value: str) -> tuple[int, int, bool] | None:
+    twelve = CLOCK_12.search(value)
+    if twelve:
+        hour = int(twelve.group(1))
+        minute = int(twelve.group(2) or '0')
+        period = twelve.group(3).lower().replace('.', '')
+        if period == 'pm' and hour != 12:
+            hour += 12
+        elif period == 'am' and hour == 12:
+            hour = 0
+        return hour, minute, True
+    twenty_four = CLOCK_24.search(value)
+    if twenty_four:
+        return int(twenty_four.group(1)), int(twenty_four.group(2)), False
+    plain = re.search(r'(?<!\d)(\d{1,2})(?::([0-5]\d))?(?!\d)', value)
+    if plain:
+        return int(plain.group(1)), int(plain.group(2) or '0'), False
+    return None
+
+
+def _schedule_time_cells(body: str) -> list[tuple[int, int, bool] | None]:
+    values = []
+    for line in body.splitlines():
+        if not line.lstrip().startswith('|'):
+            continue
+        cells = line.strip().strip('|').split('|')
+        if not cells or not re.search(r'\d', cells[0]):
+            continue
+        values.append(_clock_value(cells[0].strip()))
+    return values
+
+
+def daily_routine_times_match(source_body: str, translated_body: str) -> bool:
+    source_times = _schedule_time_cells(source_body)
+    translated_times = _schedule_time_cells(translated_body)
+    if not source_times or len(source_times) != len(translated_times):
+        return False
+    for source, translated in zip(source_times, translated_times):
+        if source is None or translated is None:
+            return False
+        source_hour, source_minute, _ = source
+        target_hour, target_minute, target_explicit = translated
+        if source_minute != target_minute:
+            return False
+        if target_explicit:
+            if source_hour != target_hour:
+                return False
+            continue
+        source_12_hour = source_hour % 12 or 12
+        if target_hour not in {source_hour, source_12_hour}:
+            return False
+    return True
+
+
+def _without_first_table_column(body: str) -> str:
+    lines = []
+    for line in body.splitlines():
+        if line.lstrip().startswith('|'):
+            cells = line.split('|')
+            if len(cells) > 2:
+                cells[1] = ' '
+                line = '|'.join(cells)
+        lines.append(line)
+    return '\n'.join(lines)
 
 
 def unsafe_number_additions(source: str, translated: str) -> bool:
@@ -131,13 +223,17 @@ def links(body: str) -> list[str]:
     return [a or b for a, b in LINK.findall(body)]
 
 
-def check(code: str, rel: str) -> tuple[list[str], list[str]]:
+def check(code: str, rel: str, translated_path: Path | None = None) -> tuple[list[str], list[str]]:
     errors: list[str] = []
     warnings: list[str] = []
     src_front, src_body = split(SOURCE / f'{rel}.md')
-    path = TRANSLATED / code / f'{rel}.md'
+    path = translated_path or TRANSLATED / code / f'{rel}.md'
     if not path.exists():
-        return [f'missing {path.relative_to(SITE)}'], []
+        try:
+            shown_path = path.relative_to(SITE)
+        except ValueError:
+            shown_path = path
+        return [f'missing {shown_path}'], []
     try:
         front, body = split(path)
     except (ValueError, yaml.YAMLError) as error:
@@ -158,6 +254,11 @@ def check(code: str, rel: str) -> tuple[list[str], list[str]]:
 
     source_copy = visible_copy(src_front, src_body)
     translated_copy = visible_copy(front, body)
+    if rel == 'activities/daily-routine':
+        if not daily_routine_times_match(src_body, body):
+            errors.append('sample schedule times differ from English')
+        source_copy = visible_copy(src_front, _without_first_table_column(src_body))
+        translated_copy = visible_copy(front, _without_first_table_column(body))
     if unsafe_number_additions(source_copy, translated_copy):
         errors.append('numbers added without an explicit emergency number in English')
     elif visible_numbers(source_copy) != visible_numbers(translated_copy):
