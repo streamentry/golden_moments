@@ -22,7 +22,7 @@ keyPoints:
   - "Lên kế hoạch an toàn nếu họ cố rời đi, và gọi bác sĩ về bất kỳ thay đổi đột ngột nào."
 faq:
   - q: "Tại sao mẹ tôi mắc chứng mất trí nhớ liên tục đòi về nhà khi bà đang ở nhà?"
-    a: "Chứng mất trí nhớ có thể làm cho những căn phòng quen thuộc trở nên xa lạ, và đôi khi người bệnh cảm thấy như đang ở một giai đoạn trước đây của cuộc đời. “Nhà” có thể là ngôi nhà thời thơ ấu hoặc đơn giản là cảm giác được an toàn và thoải mái. Đáp ứng cảm xúc đó thường hiệu quả hơn chỉ ra họ đang ở đâu."
+    a: "Chứng mất trí nhớ có thể làm cho những căn phòng quen thuộc trở nên xa lạ, và đôi khi họ cảm thấy như đang ở một giai đoạn trước đây của cuộc đời. “Nhà” có thể là ngôi nhà thời thơ ấu hoặc đơn giản là cảm giác được an toàn và thoải mái. Đáp ứng cảm xúc đó thường hiệu quả hơn chỉ ra họ đang ở đâu."
   - q: "Nên nói gì khi họ đòi về nhà?"
     a: "Hãy thử “Bạn an toàn ở đây, và tôi sẽ ở cùng bạn,” rồi “Hãy kể cho tôi về ngôi nhà của bạn.” Lắng nghe, chia sẻ một bức ảnh hoặc một bài hát, và đề nghị một ly nước hoặc đi dạo ngắn. Tránh nói “Bạn đang ở nhà” như một sự chỉnh sửa, vì có thể khiến họ cảm thấy bị cho là sai."
   - q: "Có nên nói chúng ta sẽ về nhà sau không?"
