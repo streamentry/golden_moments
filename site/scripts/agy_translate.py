@@ -464,14 +464,22 @@ def translate_json(kind: str, lang: dict, cats: list[str]) -> Path:
 
 # ---------------------------------------------------------------- guides
 
+def guide_body_is_english_copy(source: str, translated: str) -> bool:
+    source_body = source.split('---', 2)[-1].strip()
+    translated_body = translated.split('---', 2)[-1].strip()
+    return translated_body == source_body
+
+
 def guide_done(code: str, rel: str) -> bool:
     t = GUIDES_I18N / code / rel
     if not t.exists():
         return False
-    en = (GUIDES / rel).read_text().split('---', 2)[-1].strip()
+    source = (GUIDES / rel).read_text()
     txt = t.read_text()
+    if guide_body_is_english_copy(source, txt):
+        return False
     errors, _ = guide_checker().check(code, rel[:-3] if rel.endswith('.md') else rel, t)
-    return txt.split('---', 2)[-1].strip() != en and not errors
+    return not errors
 
 
 def translate_guide(lang: dict, rel: str) -> str:
@@ -496,7 +504,10 @@ def translate_guide(lang: dict, rel: str) -> str:
         tmp.parent.mkdir(parents=True, exist_ok=True)
         tmp.write_text(out + '\n')
         rel_slug = rel[:-3]
-        problems = '; '.join(checker.check(code, rel_slug, tmp)[0])
+        if guide_body_is_english_copy(src, out):
+            problems = 'guide body is an unchanged English copy'
+        else:
+            problems = '; '.join(checker.check(code, rel_slug, tmp)[0])
         if not problems:
             tmp.replace(target)
             return str(target)

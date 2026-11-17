@@ -1,35 +1,34 @@
 ---
-title: "Sundowning: attività calme di tardu pomeriggio"
-seoTitle: "Sundowning: attività calme di tardu pomeriggio"
-description: "Routine dolce, cambiamenti di stanza è attività calme chì ponu aiutà à calmà l'inquietudine di tardu ghjornu, è quandu chjamà u duttore per sintomi novi o aggravati."
+title: "Sundowning: attività calme di sera per persone cun demenza"
+seoTitle: "Sundowning: attività calme di sera"
+description: "Routine dolce, cambiamenti in a stanza è attività calme chì ponu aiutà l'inquietudine di sera in a demenza, è quandu chjamà u duttore per sintomi novi o peghju."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning hè inquietudine, cunfusione o irritabilità chì cumencia o si
-  aggravà di tardu pomeriggio o di sera. Passi pratici chì ponu aiutà
-  comprendenu una routine ghjurnaliara stabile, a luce di u ghjornu è
-  l'attività più prestu, menu sonni tardivi, menu caffeina, luci forti in casa
-  prima di u tramontu, una casa più tranquilla, è attività calme cum'è a
-  musica, e foto o piegà a biancheria. I sintomi novi o chì si aggravanu anu
-  bisognu di un cuntrollu medical.
+  U sundowning hè inquietudine, cunfusioni o irritabilità chì principia o si
+  peghjora in u dopumezornu tardu o in sera. Passi pratici chì ponu aiutà
+  includenu una routine ghjurnaliere stalla, ghjurnata è attività più prestu,
+  menu sonnu dopu, menu caffeina, luci forte prima di u calà di u sole, una
+  casa più quieta, è attività calme cume a musica, e foto o piegà a biancheria.
+  Sintomi novi o peghju anu bisognu di una visita medica.
 keyPoints:
-  - "Sundowning significa inquietudine o cunfusione chì cumencia o si aggravà quandu a luce di u ghjornu si attenua."
-  - "Mettite e travaglie chì chjamanu forza, e uscite è u bagnu di mane o di primu pomeriggio."
-  - "A luce di u ghjornu, una camminata ghjurnaliara, menu sonni tardivi è menu caffeina di tardu ghjornu ponu aiutà e serate à andà megliu."
-  - "Accendite e luci prima di u tramontu, abbassate u rumore è passate à attività calme è familiari."
-  - "Tinete un quadernu per individuà i fattori scatenanti, è state calmi è rassicuranti quandu cumencia l'inquietudine."
-  - "Vidite un duttore per sintomi novi o chì si aggravanu: u dolore, l'infezioni o i medicamenti ponu avè un rollu."
+  - "Sundowning significa inquietudine o cunfusioni chì principia o si peghjora quandu a luce cala."
+  - "Mettite i compiti impegnativi, e sortie è u bagnu in a mani o in u dopumezornu prestu."
+  - "A luce naturale, una passeggiata ghjurnaliere, menu sonnu tardu è menu caffeina dopu ponu aiutà e sere à passà megliu."
+  - "Accendite e luci prima di u calà di u sole, abbassate u rumore è passate à attività calme è cunnusciute."
+  - "Tenite un quadernu per individuà i fattori scatenanti, è state calmi è rassicuranti quandu principia l'inquietudine."
+  - "Cunsultate u duttore per sintomi novi o peghju: u dulore, l'infezzione o i medicamenti ponu ghjucà un rollu."
 faq:
-  - q: "À chì ora di u ghjornu accade di solitu u sundowning?"
-    a: "Cumencia di solitu o si aggravà di tardu pomeriggio o di primu sera, quandu a luce di u ghjornu si attenua. U mumentu esattu varieghja da persona à persona, per quessa tinè un breve quadernu per una settimana o duie ponu aiutà."
-  - q: "Quali attività aiutanu cù u sundowning?"
-    a: "E attività calme, familiari è di pocu sforzu funzionanu megliu di tardu pomeriggio: musica dolce, guardà e foto, un prugramma o filmu preferitu, piegà a biancheria, una breve camminata, o un spuntinu inseme. Lasciate e attività nove o difficili per più prestu in a ghjurnata."
-  - q: "U sundowning pò esse un signu di quarchcosa di medical?"
-    a: "Pò esse aggravatu da prublemi di salute cum'è u dolore, e infezioni cum'è e infezioni urinarie, i prublemi di sonnu o l'effetti secundari di i medicamenti. S'è l'inquietudine hè nova, subita o si aggravà, cuntattate u duttore di a persona."
-  - q: "Duvete dumandà à u duttore riguardu à i medicamenti per u sundowning?"
-    a: "Hè una cunversazione da fà cù u duttore. L'Alzheimer's Association dice chì i metodi senza farmaci sò generalmente preferiti prima, è chì ogni medicamentu per l'agitazione di sera duveria esse cunsideratu solu dopu avè pesatu i risichi è i benefici. Sta pagina ùn dà cunsiglii nantu à i medicamenti."
+  - q: "À chì ora di a ghjurnata succede di solitu u sundowning?"
+    a: "Principia di solitu o si peghjora in u dopumezornu tardu o in u principiu di a sera, quandu a luce naturale cala. U mumentu precisu varia da persona à persona, per quessa tenè un quadernu cortu per una o duie settimane pò aiutà."
+  - q: "Chì attività aiutanu cun u sundowning?"
+    a: "L'attività calme, cunnusciute è di pocu sforzu funziunanu di solitu megliu in u dopumezornu tardu: musica dolce, fighjà e foto, un filmu o un prugramma preferitu, piegà a biancheria, una corta passeggiata, o un spuntinu inseme. Custudite l'attività nove o difficili per più prestu in a ghjurnata."
+  - q: "U sundowning pò esse un segnu di qualcosa di medicu?"
+    a: "Pò esse peghjuratu da prublemi di salute cume u dulore, e infezzione cume e infezzione urinarie, i prublemi di sonnu o l'effetti secundarii di i medicamenti. Se l'inquietudine hè nova, brusca o si peghjora, cuntattate u duttore di a persona."
+  - q: "Debbo dumandà à u duttore un medicamentu per u sundowning?"
+    a: "Hè una cunversazione da fà cun u duttore. L'Alzheimer's Association dice chì l'approcci senza medicamentu sò generalmente preferiti prima, è chì ogni medicamentu per l'agitazione di sera deve esse cunsideratu solu dopu à valutà i risichi è i benefici. Sta pagina ùn dà micca cunsiglii medichi."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -48,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Molte famiglie rimarcunu u listessu schema: e mani sò abbastanza calme, ma quandu u dopumezornu avanza, a persona chì vive cun demenza diventa inquieta, ansiosa, cunfusa o irritabile. Pò camminà su è giò, dumandà di "tornà à casa" ancu quandu hè in casa, o arrabbiassi faciule. Stu fenomenu hè spessu chjamatu sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Ùn ci hè micca una sola suluzione, ma cambiamenti in u ritmu di a ghjurnata, in a stanza è in u tipu di attività chì prupunite ponu rende i dopumezorni più calmi. Stu pagina riunisce idee pratiche è non mediche di u National Institute on Aging è di l'Alzheimer's Association. Ùn hè micca cunsigliu medicu. Se i sintomi sò novi, bruschi o si peghjoranu, parlate cun u duttore di a persona.
 
-## What is sundowning?
+## Chì hè u sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+U sundowning hè inquietudine, agitazione, irritabilità o cunfusioni chì principia o si peghjora quandu a luce naturale cala, in u dopumezornu tardu o in u principiu di a sera. U [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) nota chì esse troppu stancu pò aumentà l'inquietudine di sera.
 
-## What can make late-day restlessness worse?
+## Chì pò peghjurà l'inquietudine di sera?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Parechje cose ponu cuntribuì, spessu inseme. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) elenca fattori cume:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- a stanchezza dopu à una ghjurnata piena;
+- ambienti novi o cunfusi;
+- un "orologiu internu" sfasu, chì lascia a persona assonnata di ghjornu è sveglia di notte;
+- a luce bassa è l'ombre, chì ponu cunfundere;
+- piglià u stress o a frustrazione di e persone intornu;
+- bisognu di menu sonnu, cumunu in e persone anziane.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+U NIA aghjunghje cause di agitazione in generale, cumpresu u dulore, a depressione o u stress, troppu pocu riposu, a custipazione, troppu rumore o troppu persone, è certi medicamenti o interazzione di medicamenti.
 
-## How can I plan the day to make evenings calmer?
+## Cumu pudemu urganizà a ghjurnata per rende e sere più calme?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Spostate e cose impegnative più prestu è mantene u dopumezornu tardu dolce è prevedibile. Tantu u NIA ch'è l'Alzheimer's Association raccomandanu una routine regulare. Un esempiu di ghjurnata, da adattà à a vostra:
 
-| Time | What may help |
+| Tempu | Chì pò aiutà |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Mani | Appuntamenti, bagnu, sortie è ogni compitu chì dumanda sforzu, quandu molte persone sò più attente |
+| Dopumezornu prestu | Tempu fora o accantu à una finestra assulata; una passeggiata o altra attività |
+| Mezornu | Un pranzu più grande (l'Alzheimer's Association suggerisce un pranzu più grande è un cena più liggeru) |
+| Principiu di dopumezornu | Riposu se necessariu, ma evità i longhi sonni tardu in a ghjurnata |
+| Dopumezornu mezu à tardu | Attività calme è cunnusciute; un spuntinu è qualcosa da beie; nisuna caffeina |
+| Prima di u calà di u sole | Accendite e luci in casa è chjudite e tende prima ch'ellu si facci scuru |
+| Sera | Un cena più liggeru, musica quieta, pocu stimulu, una routine stabile di lettu |
 
-A few specific points from the sources:
+Parechji punti specifici di e fonti:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Luce naturale.** U NIA suggerisce di urganizà ogni ghjurnata tempu fora o accantu à una finestra per a luce di u sole.
+- **Muvementu ghjurnaliere, ma micca troppu.** Cercate di esse fisicamente attivi ogni ghjurnata senza prugrammà troppu attività, dice u NIA.
+- **Bevande dopu.** Evità l'alcol è e bevande cun caffeina, cume u caffè o a cola, tardu in a ghjurnata (NIA). L'Alzheimer's Association menziona ancu a nicotina.
+- **Sonni.** Scunsignate i longhi sonni è l'assonnamentu tardu in a ghjurnata (NIA). L'Alzheimer's Association suggerisce di limità i sonni di ghjornu se u sonnu di notte hè un prublema.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Per più nantu à custruì una ghjurnata stalla, vede [attività di routine ghjurnaliere](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Cumu rende a casa più calma in u dopumezornu tardu?
 
-Reduce noise, add light and keep familiar things close.
+Riducite u rumore, aghjunghjite luce è tenite e cose cunnusciute vicinu.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Luce forte è uniforme.** L'Alzheimer's Association raccomanda di mantene a casa ben illuminata in sera. Illuminate u spaziu prima chì l'ombre appariscanu.
+- **Menu rumore.** Spegnite o abbassate a TV è a radio, è limitate i visitatori o i travagli di casa impegnativi in stu mumentu. L'Alzheimer's Association suggerisce di riduce u stimulu di sera cume TV, facende è musica forte.
+- **Cunforti cunnusciuti.** U NIA suggerisce a musica dolce è di tene in casa oggetti è foto cari.
+- **Verifiche di cunfortu.** L'Alzheimer's Association raccomanda di verificà u dulore, a fame, a sete, a custipazione, a vescica piena, a stanchezza, e infezzione è l'irritazione di a pelle, è di mantene a stanza à una temperatura cunfortevule.
+- **U vostru umore.** E persone piglianu u stress. U NIA suggerisce di rallentà è di cercà di rilassassi se e vostre preoccupazione ponu aghjunghje tensione.
 
-## What calm activities can we do in the late afternoon?
+## Chì attività calme pudemu fà in u dopumezornu tardu?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Sceglite attività cunnusciute, senza fretta è faciule da interrompe. L'Alzheimer's Association suggerisce attività dolce cume a musica calma, e foto o un filmu preferitu, è una passeggiata inseme per calmà l'inquietudine. U NIA suggerisce un spuntinu o qualcosa da beie, un prugramma TV preferitu, a musica, una passeggiata, leghje, o un compitu domesticu simplice cume piegà a biancheria.
 
-Ideas to try:
+Idei da pruvà:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Piegà a biancheria inseme.** U NIA suggerisce stu tipu di compitu domesticu simplice. L'asciugamani sò faciule da manighjà, è u compitu hà una fine clara.
+2. **Ripruduce a musica preferita.** Canzoni cunnusciute di a so ghjuventù, à bassu volume. Canticà inseme conta. Più idei in [attività di musica](/activities/music/).
+3. **Fighjà e foto.** Un album di foto, o qualchì ritrattu di famiglia in [Photo Pairs](/games/photo-pairs/) cun e immagine lasciate visibile, ponu purtà à una cunversazione quieta.
+4. **Una corta passeggiata.** In u giardinu, in u quartieru o in un corridoju, prima ch'ellu si facci scuru.
+5. **Cundivide un spuntinu è qualcosa da beie.** Qualcosa di simplice, caldu è senza caffeina, à a tavula inseme.
+6. **Accoppiamentu dolce.** [Picture Pairs](/games/picture-pairs/) cun quattru tessere è e immagine visibili hè faciule da principià è faciule da interrompe.
+7. **Colorà.** [Coloring](/games/coloring/) nantu à u schermu o nantu à una pagina stampata, senza l'ubiettivu di finisce.
+8. **Fighjà è parlà.** [Conversation Cards](/games/conversation-cards/) prupone una immagine è un prompt apertu. Fighjà basta.
+9. **Una pausa di respiru.** [Calm Breathing](/games/calm-breathing/) hè una pausa lenta è quieta chì principiate è interrompite voi stessi.
+10. **Compiti manuali.** Ordinà buttone o calzette, liscià una coperta morbida, o tene un oggettu cunnusciutu. Vede [attività sensoriali](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Evitate i ghjochi novi, e sortie impegnative è tuttu ciò chì dumanda molta memoria o cuncentrazione tardu in a ghjurnata. Custudite quelli per a mani.
 
-## What should I do when restlessness starts?
+## Chì fà quandu principia l'inquietudine?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+State calmi, rassicurate è redirigite dolcemente. U NIA suggerisce di parlà calmamente, di ascultà e preoccupazione di a persona, di evità e discussioni, di rassicurà ch'ella hè in sicurezza, è di usà un toccu dolce se aiuta. Poi pruvate una distrazione: un spuntinu, qualcosa da beie, a musica o una passeggiata.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+L'Alzheimer's Association suggerisce frasi cume "Sì in sicurezza quì" è "Mi dispiace chì sì inquietu", è cunsiglia di aghjunghje luce, di rallentà è di limità u stimulu. Ùn mettite micca a persona in un angulu, ùn l'affollate micca, ùn l'immobilizate micca, è ùn discutite micca cun ella.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia. Our [guide to responding to anger and aggression](/caregiving/when-anger-becomes-aggression-with-dementia/) covers immediate safety and what to do afterward.
+Se a persona diventa aggressiva, u NIA cunsiglia di stà à una distanza di sicurezza finu à chì u cumpurtamentu si ferma. In casu d'urgenza, chjamate u 911 è spiegate chì a persona hà a demenza. A nostra [guida per risponde à a rabbia è à l'aggressività](/caregiving/when-anger-becomes-aggression-with-dementia/) copre a sicurezza immediata è ciò chì fà dopu.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+E nostre guide nantu à a [comunicazione](/caregiving/communication-tips/) è [chì fà quandu dicenu no](/caregiving/when-they-say-no/) anu più cunsiglii nantu à e parolle calmante.
 
-## How do I find the triggers?
+## Cumu truvà i fattori scatenanti?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Tenite un quadernu cortu per una o duie settimane. L'Alzheimer's Association raccomanda di seguità ciò chì accade prima di l'episodii di sundowning per identificà i fattori scatenanti. Notate l'ora chì l'inquietudine principia, ciò chì hè accadutu in l'ora prima, i sonni, i pasti è e bevande, i visitatori, u rumore è a luce. Purate u quadernu à u duttore. U NIA nota chì tene traccia di i cambiamenti di cumpurtamentu pò aiutà i curatori è i prufessionali sanitarii à ricunnosce un schema.
 
-## When should I call a doctor about sundowning?
+## Quandu chjamà u duttore per u sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Cuntattate u duttore di a persona se l'inquietudine hè nova, peggiora bruscamente, o s'accompagna d'altri cambiamenti. U NIA dice chì i cambiamenti bruschi o rapidamente fluctuanti di cumpurtamentu, in particulare dopu à una infezzione o cambiamenti recenti di medicamentu, devenu esse purtati subitu à l'attenzione di u duttore.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Dumandate à u duttore di verificà e cose chì ponu rende e sere più difficili. L'Alzheimer's Association menziona prublemi fisichi cume e infezzione urinarie, l'incontinenza, e gambe senza riposu è l'apnea di u sonnu, è suggerisce di dumandà à chì ora di a ghjurnata hè megliu per ogni medicamentu. U NIA elenca u dulore, a custipazione è l'effetti secundarii o l'interazzione di medicamenti frà e cause pussibule di agitazione.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+L'Alzheimer's Association dice chì l'approcci senza medicamentu sò generalmente preferiti per i prublemi di sonnu ligati à l'Alzheimer, è chì u medicamentu per l'agitazione di sera deve esse cunsideratu solu se quelli falliscenu, dopu à valutà i risichi è i benefici. Quella decisione appartene à u duttore. Ùn principiate, ùn fermate è ùn cambiate alcunu medicamentu, aiutu di sonnu o integratore senza cunsigliu medicu.
 
-## How do I get through the evenings myself?
+## Cumu passà e sere per mè stessu?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+I dopumezorni tardii ponu esse a parte più difficiule di a ghjurnata di un curatore. Se pudete, dumandate à un membru di a famiglia, à un amicu o à un aiutante pagatu di copre u dopumezornu tardu qualchì ghjornu à a settimana, ancu per una ora. A nostra guida nantu à a [cura di sè di u curatore](/caregiving/caregiver-self-care/) elenca e opzioni di tregua è u numeru di telefunu gratuitu 24/7 di l'Alzheimer's Association.
