@@ -1,34 +1,34 @@
 ---
-title: "Howldrehevel: Gwriansow kosel diwedh an dohajydh"
-seoTitle: "Howldrehevel: Gwriansow kosel diwedh an dohajydh"
-description: "Raglenyow kosel, chanjyow y’n stevel ha gwriansow kosel a yll gweres gans dihewnans diwedh an jydh yn demensia, ha pan dhe elwel medhek."
+title: "Howldrevel: Gwriansow kosel diwedhes an dohajydh"
+seoTitle: "Howldrevel: Gwriansow kosel diwedhes an dohajydh"
+description: "Usadow kosel, chanjyow y’n stevel ha gwriansow kosel a yll esya anes diwedh an jydh gans dismyk, ha pan dhe bria medhek a-dro dhe arwodhyow nowydh po gweth."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Howldrehevel yw dihewnans, kemyskans po serrysneth a dhalleth po a dheu
-  dhe vos gweth diwedh an dohajydh po gorthugher. Dallethow praktykal a yll
-  gweres a gomprehend raglen jydhyek reyth, golow howlek ha gwrians a-varr
-  y’n jydh, le a gosk diwedh, le a gaffein, golowys splann a-berth yn chi
-  kyns dewedhek, chi kosella, ha gwriansow kosel kepar ha ilow, skeusennow
-  po plegya dilhas. Arwodhyow nowydh po gweth a res checkyans gans medhek.
+  Howldrevel yw anes, kemyskans po serrysneth a dhalleth po a dheu ha bos gweth
+  diwedhes an dohajydh po y’n gorthugher. Dallethow praktisek a yll gweres yw
+  usadow pub dedh fast, golow an jydh ha gwriansow a-varra y’n jydh, le a gosk
+  diwedhes, le a gaffayn diwedhes an jydh, golowys splann a-bervedh kyns
+  devedhyans an tewlder, chi kosella, ha gwriansow kosel kepar ha ilow, skeusennow
+  po plegya dillas. Arwodhyow nowydh po gweth a re behov a wel medhek.
 keyPoints:
-  - "Howldrehevel a styr dihewnans po kemyskans a dhalleth po a dheu dhe vos gweth pan wra an golow howlek diskwedhes."
-  - "Gwrewgh oberennow kalessa, mos yn-mes ha golghva a-varr myttin po a-varr dohajydh."
-  - "Golow howlek, kerdh pub dydh, le a gosk diwedh ha le a gaffein diwedh an jydh a yll gweres dhe’n gordhugher mos yn es."
-  - "Tennewegh golowys a-berth kyns dewedhek, iselhewgh tros, ha treylyewgh dhe wriansow kosel, aswonys."
-  - "Gwithowgh kovskrif berr dhe aswon an tacklow a wra kawsya an dra, ha bedhewgh kosel ha krev pan dhalleth an dihewnans."
-  - "Gwrewgh gweles medhek rag arwodhyow nowydh po gweth: payn, klevesans po medhegiethow a yll bos rann ynno."
+  - "Howldrevel a styr anes po kemyskans a dhalleth po a dheu ha bos gweth pan dheu an golow an jydh ha bos le."
+  - "Gwrewgh oberennow kalessa, viajys ha golghy yn myttin po a-varra y’n dohajydh."
+  - "Golow an jydh, kerdh pub dedh, le a gosk diwedhes ha le a gaffayn diwedhes an jydh a yll gweres gorthugherow dhe vos esya."
+  - "Bywhewgh golowys kyns devedhyans an tewlder, iselhewgh tros, ha treylhewgh dhe wriansow kosel, aswonys."
+  - "Gwithyewgh kovskrif berr rag aswon tavellow, ha bedhewgh kosel ha heb own pan dhalleth anes."
+  - "Gwrewgh mos dhe vedhek rag arwodhyow nowydh po gweth: payn, klevesans po medhegneth a yll kemeres rann."
 faq:
-  - q: "Py eur a’n jydh yw usys howldrehevel?"
-    a: "Dre vras y talleth po y teu dhe vos gweth diwedh an dohajydh po a-varr gorthugher, pan wra an golow howlek diskwedhes. An eur poran a janj dhyworth unn den dhe den arall, hag ytho gwitha kovskrif berr dres seythun po dew a yll gweres."
-  - q: "Py gwriansow a weres gans howldrehevel?"
-    a: "Gwriansow kosel, aswonys, heb kaletter bras a ober gwell dre vras diwedh an dohajydh: ilow kosel, mires orth skeusennow, gwari po fylm meurgerys, plegya dilhas, kerdh berr, po boes skav war-barth. Gwithowgh gwriansow nowydh po kales rag termyn a-varr y’n jydh."
-  - q: "A yll howldrehevel bos sin a neppyth medhegel?"
-    a: "Y hyll bos gwrys gweth gans kudynnow yeghes kepar ha payn, klevesansow kepar ha klevesansow an fordh dowr, kudynnow kosk po gwaytyansow medhegieth. Mar yw an dihewnans nowydh, a-dhistowgh po ow tevi gweth, kestavewgh orth medhek an den."
-  - q: "A dalvien vy govyn orth an medhek a-dro dhe vedhegieth rag howldrehevel?"
-    a: "Henn yw kescows dhe wul gans an medhek. An Alzheimer’s Association a lever y vos dre vras gwell gweles rag fordhow heb medhegieth kyns oll, hag y tal bos prederys medhegieth vyth rag serrysneth gorthugher wosa breusi peryllow ha lesow yn unnik. Ny re an folen ma kusul a-dro dhe vedhegieth."
+  - q: "Py termyn a’n jydh a hwer howldrevel yn fenowgh?"
+    a: "Yn fenowgh ev a dhalleth po a dheu ha bos gweth diwedhes an dohajydh po a-varra y’n gorthugher, pan dheu an golow an jydh ha bos le. An termyn kewar a janj dhyworth person dhe berson, hag ytho gwitha kovskrif berr dres seythun po dew a yll gweres."
+  - q: "Py gwriansow a weres gans howldrevel?"
+    a: "Gwriansow kosel, aswonys hag es gans ober a ober gwell yn fenowgh diwedhes an dohajydh: ilow kosel, mires orth skeusennow, gweles fav an pellwolok po fylm, plegya dillas, kerdh verr, po boes y’n keth termyn. Gwithyewgh gwriansow nowydh po kalessa rag termyn a-varra y’n jydh."
+  - q: "A yll howldrevel bos arwodh a neppyth medhegel?"
+    a: "Ev a yll bos gwethhes gans kudynnow yeghes kepar ha payn, klevesansow kepar ha klevesansow an fordh dowrlin, kudynnow kosk po effeythyow a-denewen medhegneth. Mar yw an anes nowydh, a-dhesempis po ow tos ha bos gweth, kestav dhe vedhek an den."
+  - q: "A dalvien govyn orth an medhek a-dro dhe vedhegneth rag howldrevel?"
+    a: "Henn yw keskows dhe gavos gans an medhek. An Alzheimer’s Association a lever y vos gwell yn fenowgh dalleth gans fordhow heb medhegneth, ha bos medhegneth rag anes gorthugher dhe vos prederys hepken wosa poes ha lesow dhe vos breusys. An folen ma ny re avis a-dro dhe vedhegneth."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Lies teylu a wel an keth patron: an myttinyow yw re kosel, mes dell wra an dohajydh mos yn-rag, an den ow pewa gans demensia a dheu dhe vos dihewn, prederus, kemyskys po serrys. Y hyll kerdhes a-dro ha tre, govyn dhe « vos tre » kyn hons i tre seulabrys, po bos serrys yn es. Henna yw gelwys lieskweyth howldrehevel.
+Lies teylu a wel an keth patron: myttinyow yw pur kosel yn fenowgh, mes dell a an dohajydh yn-rag, an den ow powes gans dismyk a dheu ha bos anes, ownjek, kemyskys po serrys. Ev a yll kerdhes a-dro ha tre, govyn mos «tre» kyn fo ev tre, po bos troblys yn es. Hemm yw gelwys yn fenowgh howldrevel.
 
-Nyns eus unn ewnans unnik, mes chanjyow dhe rythym an jydh, dhe’n stevel ha dhe’n eghen a wriansow a brofowgh a yll gul dohajydhow diwettha moy kosel. An folen ma a guntell tybyansow praktykal, heb medhegieth, dhyworth an National Institute on Aging ha’n Alzheimer’s Association. Nyns yw kusul medhegel. Mar yw an arwodhyow nowydh, a-dhistowgh po ow tevi gweth, kewsewgh gans medhek an den.
+Nyns eus unn ewnans unnik, mes chanjyow dhe reyth an jydh, an stevel ha’n eghen a wriansow a brofydh a yll gul dohajydhow diwettha kosella. An folen ma a guntel tybyansow praktisek, heb medhegneth, dhyworth an National Institute on Aging ha’n Alzheimer’s Association. Nyns yw avis medhegel. Mar yw arwodhyow nowydh, a-dhesempis po ow tos ha bos gweth, kewsewgh gans medhek an den.
 
-## Pyth yw howldrehevel?
+## Pyth yw howldrevel?
 
-Howldrehevel yw dihewnans, serrysneth, serrysneth po kemyskans a dhalleth po a dheu dhe vos gweth pan wra an golow howlek diskwedhes, diwedh an dohajydh po a-varr gorthugher. An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) a verk bos skwithys re a yll kressya dihewnans diwedh an jydh.
+Howldrevel yw anes, troblys, serrysneth po kemyskans a dhalleth po a dheu ha bos gweth pan dheu an golow an jydh ha bos le, diwedhes an dohajydh po a-varra y’n gorthugher. An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) a verk bos re skuys a yll kressya anes diwedh an jydh.
 
-## Pyth a yll gul dihewnans diwedh an jydh gweth?
+## Pyth a yll gul anes diwedh an jydh gwettha?
 
-Lies tra a yll kevri, yn fenowgh war-barth. An [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) a rol tacklow kepar ha:
+Lies tra a yll kemeres rann, yn fenowgh war-barth. An [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) a rol tavellow kepar ha:
 
 - skwithder wosa jydh leun;
 - tylleryow nowydh po kemyskys;
-- « klock korf pervedhek » ankempennys, ow kul an den skwithys dres an jydh ha difun yn nos;
+- «klock korf pervedhek» nag yw yn kewer, ow kasa an den dhe vos koskorek dydh ha difun nos;
 - golow isel ha skeusow, a yll bos kemyskys;
-- tevos ynwedh an fros po an serrysneth a dus a-dro dhedha;
-- odhom a gosk le, hag yw kemmyn yn tus kottha.
+- kuntell gront po serrysneth dhyworth tus a-dro dhedha;
+- bos edhomm a gosk le, tra yw kemmyn yn tus kottha.
 
-An NIA a geworr kawsow a serrysneth moy ollgemmyn, ow komprehendya payn, duwon, po fros, re a voynder, kostyvens, re a dros po re a dus, ha medhegiethow po kesoberansow medhegiethow.
+An NIA a geworr achesonow a droublans yn gemmyn, y’ga mysk payn, iselder po gront, re boghes a bowes, stifder kolon, re a dros po re a dus, ha nebes medhegnethow po kesoberansow medhegneth.
 
-## Fatell allav vy towlenna an jydh may fo an gordhugher moy kosel?
+## Fatell allav vy towlenna an jydh may fo gorthugherow kosella?
 
-Gwayewgh an taklow kalessa dhe dermyn a-varr ha gwithowgh an dohajydh diwettha kosel ha reyth. An NIA ha’n Alzheimer’s Association a gomend raglen reyth pub dydh. Ensampel a jydh, dhe aswiwa dh’agas huni:
+Movyewgh taklow kalessa dhe dermyn a-varra ha gwithyewgh an dohajydh diwettha kosel ha komparek. Ha’n NIA ha’n Alzheimer’s Association a gomend usadow reythys. Ensampel a jydh, dhe aswonnya dh’agas hwan:
 
 | Termyn | Pyth a yll gweres |
 | --- | --- |
-| Myttin | Kuntellyansow, golghva, mos yn-mes ha py oberenn vyth a gemmer stryvyans, pan yw lies den an moyha difun |
+| Myttin | Appoyntyansow, golghy, viajys ha pub oberenn a wra vynnyegh stryf, pan vo lies den an moyha difun yn fenowgh |
 | Diwedh myttin | Termyn yn-mes po ryb fenester howlek; kerdh po gwrians arall |
-| Hanterdydh | Li bras (an Alzheimer’s Association a brof li bras ha boes gorthugher skav) |
-| A-varr dohajydh | Powes mar yw res, mes gwayewgh kosk hir diwedh an jydh |
-| Kres dhe dhiwedh an dohajydh | Gwriansow kosel, aswonys; boes skav ha diwes; heb kaffein |
-| Kyns dewedhek | Tennewegh golowys a-berth ha degewegh an kroglenyow kyns bos tewal |
-| Gorthugher | Boes skav, ilow kosel, le a vuskya, raglen kosk reyth |
+| Hanterdydh | Li bras (an Alzheimer’s Association a brof li bras ha boes gorthugher skaffa) |
+| A-varra y’n dohajydh | Powes mar yw res, mes avodyewgh kosk hir diwedhes y’n jydh |
+| Hanter an dohajydh ha diwedhes an dohajydh | Gwriansow kosel, aswonys; boesik ha diwes; heb kaffayn |
+| Kyns devedhyans an tewlder | Bywhewgh golowys a-bervedh ha degewgh an glusennow kyns bos tewl |
+| Gorthugher | Boes skaffa, ilow kosel, le a velynans, usadow kosk fast |
 
-Nebes poyntow arbennek a’n fentenigow:
+Nebes poyntow komparek dhyworth an fentenigow:
 
-- **Golow howlek.** An NIA a brof towlenna termyn yn-mes po ryb fenester rag golow howlek pub dydh.
-- **Gwayans pub dydh, mes heb re.** Assayewgh bos gweythresek pub dydh heb towlenna re a wriansow, yn-medh an NIA.
-- **Diwesow diwedh an jydh.** Gwayewgh alkool ha diwesow gans kaffein, kepar ha koffi po kola, diwedh an jydh (NIA). An Alzheimer’s Association a gampoll ynwedh nikotin.
-- **Kosk.** Gwayewgh kosk hir ha hunrosow diwedh an jydh (NIA). An Alzheimer’s Association a brof finwetha kosk dres an jydh mar yw kosk nos kudyn.
+- **Golow an jydh.** An NIA a brof ordena termyn yn-mes po ryb fenester rag golow an howl pub dedh.
+- **Gwayans pub dedh, mes heb re a dra.** Strivyewgh dhe vos gweythresek pub dedh heb towlenna re a wriansow, yn-dann leverel an NIA.
+- **Diwesow diwedh an jydh.** Avodyewgh alkol ha diwesow gans kaffayn, kepar ha koffi po kola, diwedhes an jydh (NIA). An Alzheimer’s Association a gomprehend ynwedh nikotin.
+- **Koskow dydh.** Avodyewgh koskow hir ha hunrosyans diwedhes an jydh (NIA). An Alzheimer’s Association a brof finwetha koskow dydh mar yw kosk nos kudynn.
 
-Rag moy a-dro dhe dhrehevel jydh reyth, gwrewgh mires orth [gwriansow raglen jydhyek](/activities/daily-routine/).
+Rag moy tybyansow a-dro dhe dhrehevel jydh fast, gwrewgh mires orth [gwriansow usadow pub dedh](/activities/daily-routine/).
 
-## Fatell allav vy gul an chi moy kosel diwedh an dohajydh?
+## Fatell allav vy gul an chi kosella diwedhes an dohajydh?
 
-Iselhewgh tros, keworrowgh golow ha gwithowgh taklow aswonys ogas.
+Lehe an tros, keworr golow ha gwith traow aswonys ogas.
 
-- **Golow splann ha kompes.** An Alzheimer’s Association a gomend gwitha an chi splann y’n gordhugher. Golowhewgh an stevel kyns bos skeusow.
-- **Le a dros.** Difennewegh po iselhewgh an pellwolok ha’n radyo, ha finwethewgh godrigoryon po oberennow chi bysi orth an termyn ma. An Alzheimer’s Association a brof lehe muskya gorthugher kepar ha pellwolok, oberennow ha ilow ughel.
-- **Taklow hegar aswonys.** An NIA a brof ilow kosel ha gwitha taklow ha skeusennow meurgerys a-dro dhe’n chi.
-- **Checkyansow es.** An Alzheimer’s Association a gomend checkya rag payn, nown, seghes, kostyvens, sketh leun, skwithder, klevesansow ha serrysneth an kroghen, ha gwitha an stevel orth tempredh es.
-- **Agas omglewans hwi.** Tus a deves ynwedh fros. An NIA a brof lenthe ha tria omgalmi mar kyll agas prederow hwi keworra dhe’n dynnder.
+- **Golow splann ha komparek.** An Alzheimer’s Association a gomend gwitha an chi splann y’n gorthugher. Golowhewgh an stevel kyns bos skeusow owth omdhiskwedhes.
+- **Le a dros.** Marowgh po iselhewgh an pellwolok ha’n radyo, ha finwethyewgh godrigoryon po oberennow chi bysi y’n termyn ma. An Alzheimer’s Association a brof lehe melder gorthugher kepar ha’n pellwolok, oberennow chi hag ilow ughel.
+- **Traow es a aswon.** An NIA a brof ilow kosel ha gwitha traow ha skeusennow kar dres eghen oll a-dro dhe’n chi.
+- **Gwiryow es.** An Alzheimer’s Association a gomend gwiria rag payn, nown, seghes, stifder kolon, sketh lan, skwithder, klevesansow ha serrysneth an kroghen, ha gwitha an stevel orth tempredh es.
+- **Agas bri agas honan.** Tus a glyw gront. An NIA a brof lenthe ha strivya dhe bos kosel mar kwrello agas prederow agas honan keworra dhe’n gront.
 
-## Py gwriansow kosel a yllon ni gul diwedh an dohajydh?
+## Py gwriansow kosel a yllyn ni gul diwedhes an dohajydh?
 
-Dewisewgh gwriansow aswonys, heb fysk, hag es dhe hedhi. An Alzheimer’s Association a brof gwriansow kosel kepar ha ilow kosel, skeusennow po fylm meurgerys, ha kerdh war-barth dhe esya dihewnans. An NIA a brof boes skav po diwes, gwari meurgerys war an bellwolok, ilow, kerdh, redya, po oberenn sempel y’n chi kepar ha plegya dilhas.
+Dewisewgh gwriansow aswonys, heb fysk, hag es dhe hedhi. An Alzheimer’s Association a brof gwriansow kosel kepar ha ilow kosel, skeusennow po fylm fav, ha kerdh war-barth rag esya an anes. An NIA a brof boesik po diwes, gweles fav an pellwolok, ilow, kerdh, redya, po oberenn chi sempel kepar ha plegya dillas.
 
 Tybyansow dhe assaya:
 
-1. **Plegya dilhas war-barth.** An NIA a brof an eghen ma a oberenn sempel y’n chi. Es yw synsi towelyow, hag yma penn kler dhe’n oberenn.
-2. **Gwary ilow meurgerys.** Kanow aswonys dhyworth aga bledhynnyow yowynk, orth son isel. Hummya war-barth yw lowr. Moy tybyansow yn [gwriansow ilow](/activities/music/).
-3. **Mires orth skeusennow.** Lyver skeusennow, po nebes skeusennow teylu yn [Photo Pairs](/games/photo-pairs/) gans an skeusennow gweladow, a yll ledya dhe geskows kosel.
-4. **Gwul kerdh berr.** A-dro dhe’n lowarth, an rannvro po hel, kyns bos tewal.
-5. **Kevrenna boes skav ha diwes.** Neppyth sempel, toemm ha heb kaffein, orth an voos war-barth.
-6. **Parow es.** [Picture Pairs](/games/picture-pairs/) gans peswar prileghen ha skeusennow gweladow yw es dhe dhalleth hag es dhe hedhi.
-7. **Liwa.** [Coloring](/games/coloring/) war an skrin po war folen bryntys, heb amkan vyth dhe worfenna.
+1. **Plegya dillas war-barth.** An NIA a brof an eghen ma a ober chi sempel. Towelyow yw es dhe dhornla, hag y’n ober yma diwedh kler.
+2. **Gwary ilow fav.** Kanow aswonys dhyworth aga blydhynyow yowynka, orth son isel. Y hwer gweres hwegynna ynwedh. Moy tybyansow yn [gwriansow ilow](/activities/music/).
+3. **Mires orth skeusennow.** Lyver skeusennow, po nebes skeusennow teylu yn [Photo Pairs](/games/photo-pairs/) gans an skeusennow gwelys, a yll dri keskows kosel.
+4. **Kemeres kerdh verr.** A-dro dhe’n lowarth, an vlock po hel, kyns bos tewl.
+5. **Kevrenna boesik ha diwes.** Neppyth sempel, toemm ha heb kaffayn, orth an voos war-barth.
+6. **Parheans kosel.** [Picture Pairs](/games/picture-pairs/) gans peswar prileghen ha skeusennow gwelys yw es dhe dhalleth hag es dhe hedhi.
+7. **Liwa.** [Coloring](/games/coloring/) war an skrin po war folen pryntys, heb amkan a worfenna.
 8. **Mires ha kewsel.** [Conversation Cards](/games/conversation-cards/) a brof skeusen ha govyn ygor. Mires yn unnik yw lowr.
-9. **Powes anella.** [Calm Breathing](/games/calm-breathing/) yw powes lent ha kosel a dhallethowgh ha hedhi agas honan.
-10. **Gwriansow gans an dhiwleuv.** Sortya botonyow po lodhow, strotha blonket medhel, po synsi neppyth aswonys. Gwrewgh mires orth [gwriansow kevnansel](/activities/sensory/).
+9. **Powes anella.** [Calm Breathing](/games/calm-breathing/) yw powes lent ha kosel a dhalleth ha hedhi hwi agas honan.
+10. **Oberennow dorn.** Sortya botonyow po lodrow, lyfnhes gwlanek medhel, po synsi neppyth aswonys. Gwrewgh mires orth [gwriansow skians](/activities/sensory/).
 
-Gwayewgh gwariow nowydh, mos yn-mes bysi ha puptra a wovyn kov po fog bras diwedh an jydh. Gwithowgh an re na rag an myttin.
+Avodyewgh gwariow nowydh, viajys bysi ha puptra a wovyn meur a gov ha fog diwedhes an jydh. Gwithyewgh an re na rag an myttin.
 
-## Pyth a dalvien vy gul pan dhalleth an dihewnans?
+## Pyth a dalvien vy gul pan dhalleth anes?
 
-Bedhewgh kosel, kewrewgh krefhe, ha treylyewgh yn kosel. An NIA a brof kewsel yn kosel, goslowes orth prederow an den, gwaya dadhel, kewsel dhedha bos saw, ha gul toch es mar gweres. Ena assayewgh treylya an brys: boes skav, diwes, ilow po kerdh.
+Bedhewgh kosel, gwrensowgh, ha treylhewgh yn kosel. An NIA a brof kewsel yn kosel, goslowes orth prederow an den, avodya argya, gwrenshe dhedha bos saw, hag usya toch kosel mar gweres. Ena assayewgh treylya aga brys: boesik, diwes, ilow po kerdh.
 
-An Alzheimer’s Association a brof lavarow kepar ha « Hwi yw saw omma » ha « Drog yw genev bos hwi serrys », ha keski keworra golow, lenthe ha lehe muskya. Na wrewgh gorra an den yn kornel, na y strotha, na y synsi yn krev, na dadhel ganso.
+An Alzheimer’s Association a brof lavaryow kepar ha «Hwi yw saw omma» ha «Drog yw genev bos hwi troblys», hag a avis keworra golow, lenthe ha lehe melder. Na wrewgh gornella, strotha po dalghenna an den, na hwi argya ganso.
 
-Mar teu an den dhe vos argasus, an NIA a gusul a vos pel lowr dhe vos saw bys pan hedho an omdhegyans. Yn kas a argow, galwewgh 999 ha displegyewgh bos demensia dhe’n den.
+Mar teu an den ha bos argasus, an NIA a avis pesya dhe bellder saw bys pan hedho an omdhegyans. Yn kes a fysk, gelwewgh 911 hag displegyewgh bos dismyk dhe’n den. Agan [kowethlyver a-dro dhe worthebydh serrysneth ha argasusneth](/caregiving/when-anger-becomes-aggression-with-dementia/) a gomprehend sawder a-dhesempis ha pyth dhe wul a-wosa.
 
-Yma moy a-dro dhe lavarow kosel y’gan gidlow a-dro dhe [keskomunyans](/caregiving/communication-tips/) ha [pyth dhe wul pan leverons i « na »](/caregiving/when-they-say-no/).
+Agan kowethlyvrow a-dro dhe [geskomunyans](/caregiving/communication-tips/) ha [pyth dhe wul pan leverons i «na»](/caregiving/when-they-say-no/) a re moy a-dro dhe eryow kosel.
 
-## Fatell allav vy kavos an tacklow a wra kawsya an dra?
+## Fatell allav vy kavos an tavellow?
 
-Gwithowgh kovskrif berr dres seythun po dew. An Alzheimer’s Association a gomend holya an pyth a hwer kyns hwarvosow howldrehevel rag aswon an tacklow a wra kawsya an dra. Skrifewgh an eur pan dhallethas an dihewnans, pyth a hwarva yn’n our kyns, kosk, boes ha diwesow, godrigoryon, tros ha golow. Degowgh an kovskrif dhe’n medhek. An NIA a verk y hyll holya chanjyow yn omdhegyans gweres gwithysi ha proviyoryon yeghes dhe aswon patron.
+Gwithyewgh kovskrif berr dres seythun po dew. An Alzheimer’s Association a gomend holya pyth a hwer kyns hwarvosow howldrevel rag aswon tavellow. Skrifewgh an termyn pan dhallethas an anes, pyth a hwarva y’n our kyns, koskow, boes ha diwes, godrigoryon, tros ha golow. Dorewgh an kovskrif dhe’n medhek. An NIA a verk y hyl holya chanjyow yn omdhegyans gweres gwithysi ha provyers yeghes dhe aswon patron.
 
-## P’eur y talvien vy elwel medhek a-dro dhe howldrehevel?
+## Pyth eur y talvien vy gelwel medhek a-dro dhe howldrevel?
 
-Kestavewgh orth medhek an den mar yw an dihewnans nowydh, gweth a-dhistowgh, po gans chanjyow erel. An NIA a lever y tal bos dres chanjyow a-dhistowgh po chanjyow uskis yn omdhegyans, yn arbennek wosa klevesans po chanjyow a-dhiwedhes yn medhegieth, bos res dhe vedhek a-dhistowgh.
+Kestav dhe vedhek an den mar yw an anes nowydh, gwethhes a-dhesempis, po gans chanjyow erel. An NIA a lever y tal chanjyow a-dhesempis po ow treylya uskis yn omdhegyans, yn arbennik wosa klevesans po chanjyow a-gynsow yn medhegneth, bos dres dhe vedhek a-dhistowgh.
 
-Govynnewgh orth an medhek dhe checkya taklow a yll gul gordhuhweryow moy kales. An Alzheimer’s Association a gampoll kudynnow korfek kepar ha klevesansow an fordh dowr, anallu dhe synsi dowr, diwarr dihewn, ha apnea kosk, ha keski govyn py euryow a’n jydh yw an gwella rag pub medhegieth. An NIA a rol payn, kostyvens ha gwaytyansow po kesoberansow medhegiethow avel kawsow a serrysneth possybyl.
+Govynnewgh orth an medhek dhe wiria traow a yll gul gorthugherow kalessa. An Alzheimer’s Association a gomprehend kudynnow korf kepar ha klevesansow an fordh dowrlin, anallu gwitha dowr, garrow dior ha apnea kosk, hag a brof govyn py termynyow a’n jydh yw an gwella rag pub medhegneth. An NIA a rol payn, stifder kolon hag effeythyow a-denewen po kesoberansow medhegneth yn mysk achesonow a droublans possybyl.
 
-An Alzheimer’s Association a lever y vos dre vras gwell gweles rag fordhow heb medhegieth rag kudynnow kosk junys gans Alzheimer’s, hag y tal bos prederys medhegieth rag serrysneth diwedh an jydh marnas pan fella an re na, wosa breusi peryllow ha lesow. An ervirans na yw gans an medhek. Na wrewgh dalleth, hedhi po chanjya medhegieth vyth, gweres kosk po keworrans heb kusul medhegel.
+An Alzheimer’s Association a lever bos fordhow heb medhegneth gwell yn fenowgh rag kudynnow kosk junys gans Alzheimer’s, ha bos medhegneth rag anes diwedh an jydh dhe vos prederys hepken mar fyll an re na, wosa poes ha lesow dhe vos breusys. An ervirans na a berth dhe’n medhek. Na wrewgh dalleth, hedhi po chanjya medhegneth vyth, gweres kosk po keworrans heb avis medhegel.
 
-## Fatell allav vy dos dre an gordhuhweryow ow honan?
+## Fatell allav vy pesya dres an gorthugherow ow honan?
 
-Dohajydhow diwettha a yll bos an rann galessa a jydh gwithyas. Mar kyllowgh, govynnewgh orth esel a’n teylu, koweth po gwereser pes dhe witha an dohajydh diwettha nebes dydhyow pub seythun, hogen rag unn our. Agan gidlow a-dro dhe [omwith gwithyas](/caregiving/caregiver-self-care/) a rol dewisow powes ha Linen Gweres Alzheimer’s Association heb kost, 24/7.
+Dohajydhow diwettha a yll bos an rann an moyha kales a jydh gwithyer. Mar kyllowgh, govynnewgh orth esel a’n teylu, koweth po gwereser pes dhe asa an dohajydh diwettha nebes dedhyow y’n seythun, mar yw unn our yn unnik. Agan kowethlyver a-dro dhe [omwith gwithysi](/caregiving/caregiver-self-care/) a rol dewisow powes ha Linen Gweres Alzheimer’s Association heb kost, difun pub eur oll a’n jydh ha’n nos.

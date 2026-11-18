@@ -1,36 +1,35 @@
 ---
-title: "Pan wra nebonan gans demens govyn an keth tra arta"
-seoTitle: "Govynnow arta gans demens: pyth dhe leverel ha gul"
-description: "Prag y hwra den ow triga gans demens govyn an keth tra arta hag arta, fordh kosel dhe worthyp, toulys sempel, ha pan yw chanj skon res medhek."
+title: "Pan wovynn person gans demenz an keth govyn lies gweyth"
+seoTitle: "Govynnow a dhewhelys gans demenz: pyth leverel ha gwul"
+description: "Pegh person gans demenz a wovynn an keth govyn lies gweyth; an govyn a dhrehevel trubuil. Dheborth kalm ha berr, gwitha an hwilas, ha gelw medhek rag tro brast."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Govynnow arta yw kemmyn yn demens: yn fenowgh ny wra an den perthi kov a
-  wul an govyn, hag yn fenowgh yma preder y’n govyn. Gorthybowgh yn kosel ha yn
-  berr, kepar ha pan o an kynsa prys, ha gorthybowgh an omglew a-dryv dhodho.
-  Na leverewgh byth « hwi a wovynnas seulabrys ». Skrifewgh an gorthyp may
-  hallo ev y weles, kewsewgh a hwarvosow a-gyns marnas nebes a-dro dhe’n termyn,
-  ha profewgh gwrians plesont. Res yw medhek rag chanj skon.
+  Govynnow a dhewhelys yw kemmyn gans demenz: an person ny wra kov govyn, hag
+  an govyn a dhrehevel trubuil. Dheborth kalm ha berr kepar dell vynsa an kensa
+  tro, gwitha an hwilas a-dhia, ha ny lever "ty a wovynnys seulabrys". Skrif
+  an gortheb le may hallons gweles, menegh hwarvosow a-derdro berr, ha prof
+  gweythres plesant. Tro brast a wra hwilas medhek.
 keyPoints:
-  - "Yn fenowgh ny wra an den perthi kov a wul an govyn; nyns yw dre vodh."
-  - "Yn fenowgh yma omglew kudhys y’n govyn, kepar ha preder a-dro dhe gevambos po hwans a omglywes saw."
-  - "Gorthybowgh yn kosel, yn berr hag yn kuv, kepar ha pan o an kynsa prys. Na leverewgh byth « hwi a wovynnas seulabrys »."
-  - "Noten, gwydh gwynn, klock po kolendar a yll gorthyp dhe’n govyn yn agas le."
-  - "Kewsewgh a hwarvosow a wra preder marnas a-gyns nebes a-dro dhe’n termyn."
-  - "Kemerewgh powes berr pan yw res dhywgh, ha kelwewgh medhek mar hwer chanj skon."
+  - "An person ny wra kov govyn; nyw yw war ena."
+  - "An govyn a dhrehevel hwilas, kepar trubuil a-dhia apoyntment po hwilas sawder."
+  - "Dheborth kalm, berr ha kendel, kepar dell vynsa an kensa tro. Ny lever vyth \"ty a wovynnys seulabrys\"."
+  - "Notys, bord gwynn, klock po kalender a yll gortheb an govyn."
+  - "Menegh hwarvosow trubuilus a-derdro berr hepken."
+  - "Gwra sevel berr pan vo hwilas, ha gelw medhek rag tro brast."
 faq:
-  - q: "Prag y hwra ow thas gans demens govyn an keth govyn arta hag arta?"
-    a: "Demens a wra strok dhe’n gov berr-dermyn, ytho martesen ny wra ev perthi kov yn hwir a wul an govyn po a glewes an gorthyp. Yn fenowgh yma omglew y’n govyn ynwedh, kepar ha preder a-dro dhe’n pyth a hwer nessa po edhom a goser. Gorthyp dhe’n omglew na a wra gweres yn fenowgh moy es dasleverel an manylyon."
-  - q: "A dalvien leverel dhedha i dhe wul an govyn seulabrys?"
-    a: "Na dal. Ny yll henna gweres dhedha perthi kov, hag y hallsa omglywes kepar ha keredh. Kowethyansow demens a gomend gorthyp yn kosel pub prys, kepar ha pan o an kynsa prys, ha gwitha an gorthyp berr."
-  - q: "A wra gweres skrifa an gorthyp?"
-    a: "Y hallsa, hedre vo an den hwath abl dhe redya. Noten, gwydh gwynn gans towlen an jydh, klock bras po kolendar yn le may hwrons i mires yn fenowgh a’s gas dhedha checkya an gorthyp aga honan. Komendyewgh dhedha yn kosel yn le leverel « my a leveris dhis »."
-  - q: "P’eur y talvien kewsel a gevambosow po viajys?"
-    a: "Ogas dhe’n termyn. Kewsel a vysytyans medhek po viaj dydhyow a-rag a yll treylya yn ourys a wovynnow prederus. Leverewgh dhedha nebes a-gyns, yn kosel, gans an pyth a hwer nessa."
-  - q: "P’eur yw govynnow arta skila da rag kelwel medhek?"
-    a: "Mar kwra govynnow, kemygians po omdhegyans chanjya yn skon po mos dhe worse yn feur dres ourys po dydhyow, kelwewgh aga medhek a-dhistowgh. Klevesans, medhegneth nowydh, payn, torrkolodh po syghder a yll kawsya kemygians skon henwys delirium, hag yma edhom dhodho a with skav."
+  - q: "Pegh ow thas gans demenz a wovynn an keth govyn lies gweyth?"
+    a: "Demenz a wra effeth war kov berr, ytho ny wra kov govyn po klevs an gortheb. Ottomma an govyn a dhrehevel hwilas, kepar trubuil a-dhia pyth a vydh nessa po hwilas sawder. Dheborth an hwilas a wra gweres moy es gortheb an gwiryoneth arta."
+  - q: "A dal leverel dhedha i a wovynnys seulabrys?"
+    a: "Nag. Ny yll gweres kov, hag a yll sensya kepar gwith. A wra kowethasow demenz kussul dheborth kalm pub tro, kepar dell vynsa an kensa tro, ha gwitha an gortheb berr."
+  - q: "A wra skrifa an gortheb gweres?"
+    a: "A yll, kevres an person a yll redya vyth. Notys, bord gwynn gans plan hedhyw, klock vras po kalender le may hwithons a yll gweles an gortheb. Menegh dhodho kalm yn le leverel \"my a skrifas ev dhiso\"."
+  - q: "Prama y tal leverel a-dhia apoyntmentow po kevradhow?"
+    a: "A-derdro an termyn. Menegh visit medhek po kevradh dedhyow a-rag a yll treylya dhe ouryow a govynnow trubuilus. Lever dhedha a-derdro berr, kalm, gans pyth a vydh nessa."
+  - q: "Prag yw dewhelys acheson dhe gelw medhek?"
+    a: "Mar kwra govynnow, kammworrans po ymddygieth chanjya yn skav po gwetha moy dres ouryow po dedhyow, gelw medhek yn skav. Cleves, medhegneth nowydh, poen, constipacyon po dehydratyans a yll gwruthyl kammworrans yn skav henwys delirium, a wra hwilas carek skav."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +57,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-« P’eur yw an medhek? » Deg mynysen a-wosa: « P’eur yw an medhek? » Klywes an keth govyn arta hag arta yw onan a’n rannow moyha skwithus a witha nebonan ow triga gans demens. Yth yw pur gemmyn, nyns yw gwrys a vodh, hag yma fordh kosel dhe worthyp a wra an jydh esya rag an dhew ahanowgh.
+"Py eur yw an apoyntment medhek?" Deg mynysen wosa hedna: "Py eur yw an apoyntment medhek?" Klevs an keth govyn arta hag arta yw unn a'n brassa gwethow a wetha person gans demenz. Yw pur kemmyn, nyw yw war ena, hag yma fordhow kalm dhe dheborth a wra an jydh esya rag hwi oll dew.
 
-## Prag y hwra nebonan gans demens govyn an keth govyn arta hag arta?
+## Pegh person gans demenz a wovynn an keth govyn lies gweyth?
 
-Dre vras drefen kov. Demens a wra strok dhe’n kov berr-dermyn, ytho yn fenowgh ny wra an den perthi kov a wul an govyn, po ny wra perthi kov an gorthyp. An [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) a dheskrif govyn govynnow lieskweyth avel tra kemmyn ha gortys.
+Kevres a-dhia kov. Demenz a wra effeth war kov berr, ytho an person ny wra kov govyn, po ny wra kov an gortheb. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) a dhiskriv govyn lies gweyth kepar kemmyn ha gortosys.
 
-Yn fenowgh yma omglew y’n govyn ynwedh. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) a shkrif y hall govyn arta diskwedhes preder, govyn gweres, po ahwer hag anserneth, hag yn fenowgh y hwra an den hwilas kosoleth ha tra aswonnys. « P’eur a wren ni mos? » a yll styrya yn hwir « Yth ov nervus a-dro dhe vos ». Annedh, own, tros ha chanjyow y’n usan jydhek a yll oll y dhala, hag y hall govyn arta diskwedhes edhom ynwedh, kepar ha mos dhe’n stevel-omwolghi ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+An govyn a dhrehevel hwilas vyth. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) a dhiskwedh govyn a dhewhelys a yll diskwedha trubuil, hwilas gweres, po ansyete ha ansekerder, hag an person a wra hwilas sawder ha koth. "Prag yth on ni ow mos?" a yll styrya yn gwir "My yw nervus a vos." Ynfydnyans, own, noyse ha chanjow yn routin a yll gwruthyl ev, hag a yll govyn a dhewhelys signalya hwilas, kepar hwilas an ty pall ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## Pyth a dalvien leverel?
+## Pyth y tal leverel?
 
-Gorthybowgh yn kosel hag yn berr, kepar ha pan o an kynsa prys.
+Dheborth kalm ha berr, kepar dell vynsa an kensa tro.
 
-- **Gwrewgh an gorthyp berr ha keth.** « An medhek yw dhe 2 a’n dohajydh. My a vydh genowgh. » Gorthyp kesson yw esya dh’y dhegemeres.
-- **Gorthybowgh an omglew.** « Hwi a breder a-dro dhe’n medhek. Yma ev dohajydh ma, ha my a’n lyw dhyn ni. Nyns eus tra vyth res dhywgh gul. »
-- **Gwrewgh devnydh a lev toemm ha toch kosel,** mar kwrons i y gara. An Alzheimer's Association a gomend pesya kosel ha heb devnydhya reson po argya.
-- **Rewgh an gorthyp mayth yns i ow hwilas,** mar venowgh dell yw res. An Alzheimer's Association a lever dhe dhasleverel kemmys gweyth dell wovynnons i.
+- **Gwitha an gortheb berr ha'n keth.** "Medhek a vydh dhe dhew eur. My a vydh gansow." Gortheb krev a yll bos esya dhe gemeres.
+- **Gorthyp an hwilas.** "Ty a wra wondra a-dhia an medhek. Yw hedhyw gorthugher, ha my a vydh driva ni. Ny ma tra vyth a wra hwilas gwul."
+- **Usya lev tomm ha touch tener,** mar kwell dhedha touch. Alzheimer's Association a gussul gwitha kalm ha ny usya rheson po argya.
+- **Prof an gortheb a wra hwilas,** kevres a wra hwilas. Alzheimer's Association a lever dhe dhewhelys kevres a wra govyn.
 
-## Pyth a dalvien gochel?
+## Pyth y tal evita?
 
-- **« Hwi a wovynnas henna dhymm seulabrys. »** An [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gomend na wrewgh diskwedhes i dhe wul an govyn a-gynsow. Ny yll henna aga gweres dhe berthi kov, hag y hallsa omglywes kepar ha bos keredhys.
-- **Displegyansow hir.** Moy a eryow a re moy dhe ankevi.
-- **Hanasow, treylyansow lagas po ton asper.** An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a gomend perthyans ha heb diskwedhes serrys. Henna yw kales; gwrewgh mires an rann a-dro dhe bowesow a-woles.
+- **"Ty a wovynnys seulabrys dhymm."** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gussul erbyn menegh i a wovynnys seulabrys. Ny yll gweres kov, hag a yll sensya kepar gwith.
+- **Hwedhlow hir.** Moy geryow a wra moy dhe gavos.
+- **Sighya, rollyow lagas po lev skarp.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a gussul keskans ha ny diskwedha trubuil. Yw kales; gweles an rann a-dhia sevel berr wosa.
 
-## Toulys sempel a worthyp yn agas le
+## Aparatus sempel a wra gortheb an govyn ragowgh
 
-Hedre vo an den hwath abl dhe redya, gorthyp skrifys a yllons i gweles a wra gweres yn fenowgh moy es onan kewsys.
+Kevres an person a yll redya vyth, gortheb skrifys a yll gweles a wra gweres moy es unn lev.
 
-| Toul | Fatell dh’y usya |
+| Aparatus | Fatla usya |
 | --- | --- |
-| Noten gans lytherennow bras | « Medhek hedhyw dhe 2 a’n dohajydh. Mary a’n lyw. » Gorryewgh hi yn le may hwrons i mires yn fenowgh |
-| Gwydh gwynn | Towlen an jydh yn tri po peswar linen; dilewgh ha skrifewgh arta pub myttin |
-| Klock bras gans an jydh ha’n dydhyas | Gweres gans « Py jydh yw? » ha « Yw termyn hwath? » |
-| Kolendar | Treuslinyewgh pub dydh; kelyewgh an nessa vysytyans |
-| Skeusennow aswonnys | Skeusen a’n den a dheu a yll gorthyp dhe « Piw a dheu? » |
+| Notys yn geryow vras | "Medhek hedhyw dhe 14:00. Mary a vydh driva." Gorr le may hwithons moyha |
+| Bord gwynn | Plan hedhyw yn tri po peder lin; glan ha skrifa arta pub myttin |
+| Klock vras gans an jydh ha'n dydh | Gweres gans "Py jydh yw?" ha "Yw termyn vyth?" |
+| Kalender | Krows pub jydh; kylgh an kevradh nessa |
+| Lunyow koth | Lun an person a vydh omma a yll gortheb "Pyw a vydh ow visitia?" |
 
-An tybyansow ma a dheu dhyworth an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) hag [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Komendyewgh dhe’n noten yn kosel (« Gwren ni mires orth an bord war-barth ») yn le leverel « My a’n skrifas dhis ».
+An menegow ma a dheu dhiworth [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ha [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Menegh dhodho an notys yn tener ("Ni a wra gweles an bord warbarth") yn le leverel "My a skrifas ev dhiso."
 
-## Leverewgh dhedha a hwarvosow ogas dhe’n termyn
+## Lever dhedha a-dhia hwarvosow a-derdro an termyn
 
-Kewsel a gevambos po viaj dydhyow a-rag a yll treylya yn ourys a wovynnow prederus. An Family Caregiver Alliance hag Alzheimer's Los Angeles a brof kewsel a dowlow, yn arbennik an re a wra preder kepar ha visytyansow medhek po omwolghi, marnas nebes a-gyns dhedha hwarvos. Ena leverewgh an pyth a hwer nessa, unn gamm wosa y gila.
+Menegh apoyntment po kevradh dedhyow a-rag a yll treylya dhe ouryow a govynnow trubuilus. Family Caregiver Alliance ha Alzheimer's Los Angeles oll dew a gussul keskows a-dhia planow, espetheg trubuilus kepar visitow medhek po golchi, a-derdro berr hepken kyns i hwarvos. Wosa hedna lever pyth a vydh nessa, unn gam warbarth.
 
-## Gwriansow a yll treylya an attendyans
+## Gweythresow a yll chanjya perthyans
 
-Wosa hwi dhe worthyp ha skrifa an omglew, gwrians kosel ha plesont a yll gweres, yn arbennik mar yw annedh a-dryv an govynnow. Pub fenten a-ugh a brof treylya dhe neppyth a gar an den.
+Wosa hwi a dheborth ha aknowleja an hwilas, gweythres kalm ha plesant a yll gweres, espetheg mar kwra ynfydnyans a-dhia an govynnow. Pub pennfenten a-ugh a gussul treylya dhe dra a vew an person.
 
-1. **Gwari berr hag es war-barth.** [Picture pairs](/games/picture-pairs/) a wra gwitha an skeusennow gweladow, ytho nyns eus edhom perthi kov a dravyth.
-2. **Ober aswonnys.** Plegya towelyow, sortya lodhow po gorre an voos. [Sort together](/games/sort-together/) yw versyon war an skrin.
-3. **Kewsewgh a neppyth a garons yn feur.** [Conversation cards](/games/conversation-cards/) a re profyansow ygor heb gorthyp ewn.
-4. **Ilow, kerdh po boes bian.** An National Institute on Aging a’s re avel fordh sempel dhe dreylya an attendyans.
-5. **Powes kosel.** Esedhowgh war-barth, mirewgh dre an fenester, po assayewgh pols [calm breathing](/games/calm-breathing/) war-barth.
+1. **Gwari berr ha esya warbarth.** [Paryow lun](/games/picture-pairs/) a wra gwitha an lunyow ow tiskwedha, ytho ny ma tra vyth dhe gov.
+2. **Gweyth koth.** Plegya tuvlow, settia sokkow po settia an voes. [Settia warbarth](/games/sort-together/) yw versyon war skrin.
+3. **Keskows a-dhia tra a vewons.** [Kartennow keskows](/games/conversation-cards/) a wra prof prompows ygor heb gorthebow korrect.
+4. **Musek, kerdh po snak.** National Institute on Aging a restr an re ma ynmysk fordhow sempel dhe dhreylya.
+5. **Sevel tawel.** Setla warbarth, gweles yn-mes an fenester, po assay [anella kalm](/games/calm-breathing/) warbarth.
 
-Mar tehwhelons dhe’n govyn, gorthybowgh arta, yn kuv. Puer dha yw henna.
+Mar kwrons treylya dhe'n govyn, dheborth ev arta, yn kendel. Yw da.
 
-## Hwilas patronyow
+## Hwilas patronow
 
-An Alzheimer's Association a brof merkya mar teu an govynnow orth termynyow arbennik a’n jydh, yn ogas tus arbennik po yn leow arbennik. Mar dhallethons pupprys kyns dell dheu godrigoryon, po yn dohajydh diwettha, hwi a yll towlya a-rag: noten a-dro dhe’n vysytyans, gwrians aswonnys parys, stevel moy kosel. Agan gidyans a-dro dhe [gwriansow kosel dohajydh diwettha](/caregiving/late-day-restlessness/) a yll gweres mar yw gordhuwherow an moyha kales.
+Alzheimer's Association a gussul notya mar kwra an govynnow omma yn termynow certan a'n jydh, a-dhia tud certan po yn leow certan. Mar kwra i dhalath pub tro kyns visitoryon omma, po yn gorthugher diwedhes, hwi a yll planya a-rag: notys a-dhia an visit, gweythres koth prest, chambour tawelach. Agan gidy a-dhia [gweythresow kalm gorthugher diwedhes](/caregiving/late-day-restlessness/) a yll gweres mar kwra sevelow an brassa kales.
 
-## Gwitha agas honan
+## Gwitha hwi hwi
 
-Gorthyp dhe’n keth govyn rag an ugansves gweyth yw skwithus. Mar klewewgh agas perthyans ow mos ha bos an den saw, kerdhowgh dhe stevel aral rag nebes mynysennow hag anella, dell brof [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a gomend dhe withysi govyn gweres ha prederi a-dro dhe with powes. Moy tybyansow a yw yn agan [gidyans a-dro dhe witha an gwithyas aga honan](/caregiving/caregiver-self-care/).
+Dheborth an keth govyn rag an ugensves tro yw gwethus. Mar kwra hwi sensya hwi keskans ow tenna, hag an person yw saw, sevel dhe ghamber arall rag nebes mynysen ha anella, kepar [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) a gussul. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a gussul gwithyasow dhe hwilas gweres ha konsidra carek respite. Moy menegow yw yn agan [gidy gwitha hwi](/caregiving/caregiver-self-care/).
 
-## P’eur a dalvien kelwel medhek?
+## Prag y tal gelw medhek?
 
-Kelwewgh aga medhek a-dhistowgh mar kwra govynnow, kemygians po omdhegyans chanjya yn skon po mos dhe worse yn feur dres ourys po dydhyow. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a lever y tal bos omdhegyans skon po ow chanjya yn uskis, yn arbennik wosa klevesans po chanj yn medhegneth, diskwedhys dhe vedhek a-dhistowgh. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) a shkrif y hall klevesans, medhegnethow, syghder, payn po torrkolodh kawsya delirium, kemygians skon ha sevur hag yma edhom dhodho a withyans skav. Kelwewgh 999 mar yw nebonan yn peryl.
+Gelw medhek dhedha yn skav mar kwra govynnow, kammworrans po ymddygieth chanjya yn skav po gwetha moy dres ouryow po dedhyow. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a lever y tal chanjyow yn skav po yn uskis, espetheg wosa cleves po chanj medhegneth, bos meneghys dhe vedhek yn skav. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) a dhiskwedh cleves, medhegnethow, dehydratyans, poen po constipacyon a yll gwruthyl delirium, kammworrans yn skav ha kales a wra hwilas carek skav. Gelw 911 mar kwra neb yn peril.
