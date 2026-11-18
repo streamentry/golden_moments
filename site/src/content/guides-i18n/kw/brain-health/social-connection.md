@@ -1,32 +1,33 @@
 ---
-title: "Keskolm Socyal ha Yeghes an Ympynnyon"
-seoTitle: "Unnikter, Diberthva ha Peryl Demens"
-description: "Fatell yw unnikter ha diberthva socyal kevrynnys gans peryl demens, an pyth a leveris keskusulyans an Myghtern Medhek, ha fordh sempel dhe vos junys war-barth."
+title: "Keskunyans Sokyel ha Yehesans Empenn: Solerder, Enysyans, Dementia"
+seoTitle: "Solerder, Enysyans Sokyel ha Perryll Dementia"
+description: "Fatell os solerder hag enysyans sokyel unwys gans perryll dementia, pandr'ag lever consel an Surgeon General, ha fordhow sempel dhe durya yn-keskunyans."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Hwithrans a gevrenn diberthva socyal hag unnikter yn termyn diwettha bywnans gans peryl ughra
-  a dhemens. An Kedhlow Lancet 2024 a breder diberthva dhe gomprehendya a-dro dhe 5% a gasys,
-  kyns gallsa rann a’n gevren ma bos demens a-varr ow kul tus dhe omdenna. Keskomunya, hwarvosow
-  kevrynnys ha gweres gans klewans oll a skoodh keskolm. Rag tus ow pewa gans demens, gwriansow
-  kevrynnys yw posek rag lowender ha kwalita bywnans.
+  Yma hwithrans owth unwya enysyans sokyel ha solerder yn an oos kottha gans perryll
+  uhella a dementia. An Komisiyon Lancet 2024 a hyll omsettya enysyans y'n-dro dhe
+  5% a kas, kep onan radn a'n kunyans pevas gans dementia dyghow ow kawsya techya
+  a-ves. Durya yn-kuntak, hobbys war-barth ha help gans goeles oll a supportya
+  keskunyans. Rag tus a vyw gans dementia, gwriansow war-barth yw bryntin rag
+  lowenhe ha fywyd.
 keyPoints:
-  - "An Kedhlow Lancet a rol diberthva socyal yn termyn diwettha bywnans avel onan a 14 faktor peryl a yllir chanjya, a-dro dhe 5% a gasys."
-  - "Keskusulyans Myghtern Medhek an SU yn 2023 a gevrennas unnikter ha diberthva hirdermyn gans peryl a dhemens a-dro dhe 50% ughra yn tus kottha."
-  - "An brassa rann a’n dustuni ma yw miradow, ha demens a-varr y honan a yll gul tus dhe omdenna."
-  - "Kudynnow klewans po gweles, bywa unnsel, ha gwitha re erel oll a gress an peryl a dhiberthva."
-  - "Rag tus ow pewa gans demens, gwriansow kevrynnys lowen a skoodh kwalita bywnans; an amkan yw keskolm, nid oberyans."
+  - "An Komisiyon Lancet a rol enysyans sokyel yn an oos kottha avel onan a 14 fondyans perryll dementia a yll bos chanjys, y'n-dro dhe 5% a kas."
+  - "An consel 2023 dyworth an Surgeon General a'n SU a unwya solerder hag enysyans a dury gans perryll dementia a-dro dhe 50% uhella yn tus koth."
+  - "An moyha radn a'n prov ma yw dyworth studhyow hwithrans-mires, ha dementia dyghow y yll yny kawsya tus dhe techya a-ves."
+  - "Kudynnow gans goeles po welas, trega yn-soler ha gwithya kerens oll a drehevel an perryll a enysyans."
+  - "Rag tus a vyw gans dementia, gwriansow war-barth da a helpya fywyd; an hommyl yw keskunyans, nyns yw gul yn ta."
 faq:
-  - q: "A wra unnikter kawsya demens?"
-    a: "Nyns yw henna prevys hwath. Lies studh a gevrenn unnikter ha diberthva gans peryl ughra a dhemens, mes chanjyow a-varr y’n ympynnyon a yll ynwedh gul tus dhe omdenna dhiworth re erel. Keskolm a’n jeves lies les erel rag kolon ha yeghes, ytho yma gwiw y skoodhya yn neb kas."
-  - q: "Pyth yw an dyffrans tredh unnikter ha diberthva socyal?"
-    a: "Diberthva socyal a styr bos nebes tus dhe geskomunya gansa yn reyth. Unnikter yw an omglewans ankombra a vos unnsel po diberthys. Y hyllir bywa unnsel heb omglewes unnik, po omglewes unnik yn mysk tus pals."
-  - q: "Fatell allav vy gweres ow henas po ow mamm gans demens dhe vos junys?"
-    a: "Keskomunyans berr, reyth a ober yn ta. Assayewgh galw po galw gwydhyow settys pub seythen, gwrians kevrynnys orth an voos, koffiji kov, po vysytyans gans enyval po flogh-wynn. Gwithewgh bagasow byghan ha kosel, ha gasewgh dhe’n den settya an tooth."
-  - q: "Ple gallav vy kavos gweres leel rag den kottha diberthys?"
-    a: "Kestevewgh gans agas medhek teylu po konsel leel rag servisyow socyal ha towlow kemeneth. Rag gweres yeghes nag yw uskis, y hyllir galwel 111; yn studh uskis galwewgh 999."
+  - q: "A wra solerder kawsya dementia?"
+    a: "Ny yw henna provys. Yma meur a studhyow owth unwya solerder hag enysyans gans perryll uhella a dementia, kep chanjyow dyghow yn an empenn y yll ynwedh gully tus dhe techya a-ves dhyworth dus erel. Durya yn-keskunyans a gyf ymdamyansow erel brâs rag aludh ha yehesans, ytho dal onan supportya yndella po yndella."
+  - q: "Pandr'yw an dyffrans yntra solerder hag enysyans sokyel?"
+    a: "Enysyans sokyel a styry kavos lyha a dus dhe gomunya gansans yn menowgh. Solerder yw an sans dygriow a vos yn-soler po diberthys dhyworth dus. Yllough bewa yn-soler heb bos yn-soler, po bos yn-soler yn myns tus a-dro dhyough."
+  - q: "Fatell yll py helpya kerens gans dementia durya yn-keskunyans?"
+    a: "Kuntak cott yn menowgh a wra yn ta. Assay bellgomma po kuntak gwel pub seythiun yn prys settys, gwrians war-barth orth bord an gegin, koffi kov, po visityow gans wif po dor. Gwith bagasow vyghan ha taw, ha gasa an person dywelia."
+  - q: "Ple yll py kavos help lel rag dewynn koth enysys?"
+    a: "An Eldercare Locator, servys bublik, a kunyas teylu gans ajiys lel a-der tus koth ha programys kemeneth. Y hylir dos dhodho yn 800-677-1116 po yn eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-Tus yw gwrys rag kowethas, ha ny wra henna chanjya gans oos. Hwithrans a gevrenn unnikter ha diberthva socyal yn termyn diwettha bywnans gans peryl ughra a dhemens, keffrys ha kleves kolonn ha diglonter. Ny yll an hwithrans leverel hwath pygemmys a’n gevren ma yw kaws hag effeyth. An folen ma a dhiskwedh an pyth a dhiskwedh an dustuni, fordhow praktikal dhe vos junys, ha prag yma gwriansow kevrynnys mar bosek rag tus ow pewa gans demens seulabrys.
+Yth yw pobel gwrys rag cowethas, ha ny wra henna chanjya gans oos. Yma hwithrans owth unwya solerder hag enysyans sokyel yn an oos kottha gans perryll uhella a dementia, keffrys ha kleves golodh ha dygryder. Ny yll an hwithrans hwath leverel py kemmys a'n kunyans yw kaws ha hwerf. An folen ma a gevir pandr'ag diskwedh an prov, fordhow praktikek dhe durya yn-keskunyans, ha prag ymons gwriansow war-barth mar bryntin rag tus a vyw gans dementia lebmyn.
 
-## A yw unnikter ha diberthva kevrynnys gans demens?
+## A yns solerder hag enysyans unwya dementia?
 
-Ya, lies studh a’s kevrenn, mes nyns yw an tu kler yn tien. An [Kedhlow Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) a rol diberthva socyal yn termyn diwettha bywnans avel onan a 14 faktor peryl a yllir chanjya. [Berrheans UCL a’n derivas](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) a’y set a-dro dhe 5% a gasys demens a-dro dhe’n bys.
+Ya, yma meur a studhyow owth unwya an dhew, kep ny yw an tu leun dyloyl hwath. An [Komisiyon Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) a rol enysyans sokyel yn an oos kottha avel onan a 14 fondyans perryll a yll bos chanjys. [Omdamyans UCL a'n derthyf](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) a hyll omsettya y'n-dro dhe 5% a kas dementia war an nor oll.
 
-An pyth a dhiskwedh an dustuni:
+Pandr'ag diskwedh an prov:
 
-- **Le keskomunyans, moy peryl.** An Kedhlow a dheskrif dew dhaswel a gevrennas keskomunyans le gevys gans peryl ughra a dhemens. Onan a gavas peryl a-dro dhe 57% ughra ha’n arall a-dro dhe 18%.
-- **Unnikter ynwedh.** Unnikter, an omglewans a vos diberthys, o kevrynnys ynwedh gans peryl ughra a dhemens yn lies daswel.
-- **Gwel Myghtern Medhek an SU.** Yn mis Me 2023, Myghtern Medhek an SU a dhyllas [keskusulyans a-dro dhe unnikter ha diberthva](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Ev a lever y hyll unnikter ha diberthva hirdermyn kressya peryl demens gans a-dro dhe 50% yn tus kottha. Ev a gevrennas ynwedh keskolm socyal gwann gans peryl 29% ughra a gleves kolonn ha 32% ughra a strook.
-- **Pygemmys yw kemmyn.** [Derivas an Akademiow Kenedhlek](https://www.ncbi.nlm.nih.gov/books/NBK557972/) a gavas bos a-dro dhe 24% a Amerikanyon yn oos 65 ha kottha ow triga y’n gemeneth diberthys yn socyal.
+- **Lyha kuntak, perryll uhella.** An Komisiyon a dhescrify dhew assessyans a unwya kuntak sokyel lyha menowgh gans perryll uhella a dementia. Onan a gavas perryll a-dro dhe 57% uhella ha'n aral a-dro dhe 18%.
+- **Solerder ynwedh.** Solerder, an sans a vos gorthys a-ves, o ynwedh kesunys gans perryll dementia uhella yn myns nebes assessyans.
+- **Fydh an Surgeon General.** Yn Me 2023, an Surgeon General a'n SU a dhannvonsa [hwedhel a-dro dhe solerder hag enysyans](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Ev a lever bos solerder hag enysyans a dury y yll drehevel perryll dementia a-dro dhe 50% yn tus koth. Ev a kesunys ynwedh keskunyans sokyel gwak gans perryll a 29% uhella a kleves golodh ha perryll a 32% uhella a strolys.
+- **Fatel yw kemmyn henna.** [Derthyf dyworth an Academyon Kenedhlek](https://www.ncbi.nlm.nih.gov/books/NBK557972/) a gavas bos a-dro dhe 24% a amerikanys gen 65 blydhen ha moy, ow triga yn an kemeneth, yn enysyans sokyel.
 
-Gwarnyans posek: an Kedhlow Lancet a not bos tus martesen ow lehe gwriansow socyal dres an rann a-varr, heb diagnos, a dhemens. Hemm a styr y hyll rann a’n gevren ma bos demens ow kawsya omdenna, nid yn unnik omdenna ow kressya peryl. Ogas dhe oll an dustuni ma a dheu dhyworth studhyow miradow.
+Warnyans a-hys: yn-notya an Komisiyon Lancet bos tus y yll gwra lyha gwriansow sokyel yn an prys dyghow, heb vardhyans, a dementia. Henn a styry bos onan radn a'n kunyans pevas gans dementia ow kawsya techya a-ves, nyns yw techya a-ves yny drehevel perryll yn-unplek. Radn brâs oll a'n prov ma a dew a-dhyworth studhyow hwithrans-mires.
 
-## Pyth yw an dyffrans tredh unnikter ha diberthva?
+## Pandr'yw an dyffrans yntra solerder hag enysyans?
 
-An [Fondyans Kenedhlek a Oos (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) a’n displeg yndella. **Diberthva socyal** a styr bos nebes kestavow socyal po nebes tus dhe geskomunya gansa yn reyth. **Unnikter** yw an omglewans ankombra a vos unnsel po diberthys. Y hyll den bywa unnsel yn lowen, hag y hyll den omglewes unnik yn stevell leun.
+An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) a styry yndella. **Enysyans sokyel** a styry kavos kuntakys sokyel lyha, po lyha a dus dhe gomunya gansans yn menowgh. **Solerder** yw an sans dygriow a vos yn-soler po diberthys. Dewynn yll bewa yn-soler gans lowenhe, ha dewynn yll bos yn-soler yn stevell leun a dus.
 
-An NIA a rol taklow a gress an peryl a’n dhew:
+An NIA a rol fondyans a drehevel an perryll a'n dhew:
 
-- Kudynnow klewans po gweles
-- Kalesvos gwaya, po fowt treusporth
-- Bywa unnsel, po koll bras kepar ha mernans pries po omdenna dhyworth ober
-- Chanjyow kov po prederi
-- Gwitha nebonan a garowgh usi klav
-- Prederow a-dro dhe arghans po lettys yeth
+- Kudynnow gans goeles po gans welas
+- Kudynnow dhe movya a-dro, po transporth heb es
+- Trega yn-soler, po koll bras kepar ha mernans an kostes po pensyans
+- Chanjyow yn an kov po yn an aludh
+- Gwitha dewynn ker esomma nyghe
+- Preder a-dro dhe arghans, po kudynnow yeth
 
-Klewans yw tra vras. An NIA a not y hall tus na yll klywes yn ta omdenna drefen bos keskows ow tos ha bos kudynnek po ankombra. Agan [gid klewans ha yeghes an ympynnyon](/brain-health/hearing/) a gews a-dro dhe arbrovow klewans ha daffar klewans dres an gounter.
+Goeles yw onan brâs. Yn-notya an NIA bos tus ny allas goeles yn ta a yll techya a-ves, rag an kommunyans a dheuth kales po kudynnek. Agan [skrid goeles ha yehesans empenn](/brain-health/hearing/) a gevir profys goeles ha darbynyow goeles heb ordnans dyworth an farmasi.
 
-## Fordhow praktikal dhe vos junys
+## Fordhow praktikek dhe durya yn-keskunyans
 
-An NIA a brof meur a dybyansow. Dewisewgh onan po dew a fits:
+An NIA a gomend dyffrans menys. Dewis onan po dew a badha gansough:
 
-- **Arayewgh keskomunyans reyth.** Termyn settys pub dydh po seythen dhe alwel, tekstya, e-bostya po danvon kartenn dhe deylu, kowetha po kentrevogyon.
-- **Usyewgh galowyow gwydhyow po gowsoryon creftus.** Mar yw teknek nowydh, lies lyverva poblek ha kresen gemeneth a brof klassys. Gwelewgh agan [gid galowyow pell ha gwydhyow](/activities/phone-and-video-calls/).
-- **Omjunewgh gans neppyth.** Klass, kuntelles kryjyans, bagas kerdhes po rolya vodhek a re dhywgh keskomunyans hag omglewans a amkan.
-- **Dalleth arta hobi koth** po dyski onan nowydh gans tus erel.
-- **Gwayewgh gans tus erel.** Gwrewgh exercis gans koweth po bagas. Agan [gid exercis](/brain-health/exercise/) a’n jeves dewisow es.
-- **Prederowgh a-dro dhe enyval anes** mar kyllowgh gwitha anodho.
-- **Usyewgh servisyow leel.** Kresennow rag tus kottha, servisyow socyal an konsel ha’gas medhek teylu a yll agas hembronk dhe dowlow ha treusporth. Rag gweres yeghes nag yw uskis, galwewgh 111.
+- **Gwiria an prys.** Prys settys pub dydh po seythiun dhe bellgomma, tekstya, ebostya po dannvon cartenn gans an teylu, cowetha po neskerentes.
+- **Devnydhya bellgommow gwel, po lavoryow skiansek.** Mar kudh techyans nowydh, yma meur a lyverva bublik ha kanneryow kemeneth ow kynny dyscansow. Miras agan [skrid a-dro dhe bellgommow ha kuntak gwel](/activities/phone-and-video-calls/).
+- **Kesta dhe dreck.** Dyscans, kemeneth fey, klubb gerhes po rol voluntya re deugh kuntak ha sans a hommyl.
+- **Dywel arta hobby coth** po dysky onan nowydh gans dus erel.
+- **Movya gans erel.** Usy gans coweth po bagas. Agan [skrid a-dro dhe usy](/brain-health/exercise/) a gyf dewisys lengel.
+- **Tybi a wif** mars ylleugh gwitha onan.
+- **Devnydhya servisyow lel.** Kanneryow tus koth, Area Agencies on Aging ha'n Eldercare Locator (800-677-1116) a yll diskudha dhis programys ha transporth.
 
-## Prag yma gwriansow kevrynnys posek yn demens?
+## Prag ymons gwriansow war-barth bryntin yn dementia?
 
-Rag nebonan ow pewa gans demens seulabrys, keskolm yw a-dro dhe lowender, es, hag omglewes omgemerys, nid a-dro dhe lehe peryl. An Kedhlow Lancet a lever gwriansow dhe weres tus gans demens dhe witha lowender hag amkan. An [Kowethyans Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) a not, ynwedh dhe wellhe kwalita bywnans, y hall gwriansow lehe omdhegisyansow kepar ha gwandra po troblys. An [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a geworr bos edhomm dhe dus gans Alzheimer a vos bywek ha gul taklow a garons.
+Rag dewynn esomma y'n fyw gans dementia lebmyn, yma keskunyans a-dro dhe lowenhe, konsol ha kavos onan warnya, nyns yw a-dro dhe gylly perryll. Yn-medh an Komisiyon Lancet bos gwriansow owth helpya tus gans dementia gwitha lowenhe ha hommyl. Yn-notya an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bos gwriansow, awarbarth gans gwellhe fywyd, y yll gylly kondisjyans kepar ha kerhes a-ves po sollans. Yn-keworra an [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bos dowt yn-tus gans Alzheimer's bos gwrians hag on gul tra esomma y plek.
 
-Tybyansow a ober yn ta:
+Menys a wra yn ta:
 
-1. **Mirowgh orth skeusennow war-barth.** [Conversation Cards](/games/conversation-cards/) a brof govynnow ygor, heb kwis, kepar ha “Deriv dhymm a-dro dhe...”. Gwelewgh agan [gid kovheans](/activities/reminiscence/).
-2. **Gwariwgh ryb an eyl y gila.** [Picture Pairs](/games/picture-pairs/) a with skeusennow gweladow ha nyns eus termoer po skor, ytho nyns eus gwask. Agan gid a-dro dhe [fatell wari war-barth](/caregiving/how-to-play-together/) a’n jeves profyansow.
-3. **Usyewgh skeusennow teylu.** [Photo Pairs](/games/photo-pairs/) a dreyl skeusennow a dhewisowgh yn gwari parow, ha’n skeusennow a wra pesya war agas devis.
-4. **Dewgh gans tus war-barth.** [Picture Bingo](/games/picture-bingo/) a ober yn ta rag kuntelles teylu ha [bagasow yn tre gwitha](/activities/care-home-groups/).
-5. **Kevrennewgh ilow, oberow chi po’n lowarth.** Gwelewgh [gwriansow ilow](/activities/music/), [oberow an chi](/activities/household-tasks/) ha’gan rol leun a [dybyansow gwrians](/activities/ideas/).
-6. **Gwrewgh vysytyansow esya.** Agan [gid vysytyansow](/activities/visiting/) a gews a-dro dhe vysytyansow berr ha kosel a omglew yn ta rag pubonan.
+1. **Mir ort foglow war-barth.** [Conversation Cards](/games/conversation-cards/) a kynny govynnys ygor heb prysny, kepar ha “Lever dhymm a-dro dhe...” Miras agan [skrid a-dro dhe kovansow](/activities/reminiscence/).
+2. **Gwari orth y obma.** [Picture Pairs](/games/picture-pairs/) a gwith foglow wolok hag onan dimmer po skor, ytho nyns yw gwaskans vyth. Agan skrid a-dro dhe [fatell gwari war-barth](/caregiving/how-to-play-together/) a gyf conselyow.
+3. **Devnydhya foglow teylu.** [Photo Pairs](/games/photo-pairs/) a drew foglow dewys gansough dhe gwari kesunya, ha'n foglow a triga war an devnydh agough.
+4. **Kunya dus war-barth.** [Picture Bingo](/games/picture-bingo/) a wra yn ta rag kuntelyow teylu ha [bagasow yn chy gwithya](/activities/care-home-groups/).
+5. **Musyk, ober chy po an gardyn gans tus erel.** Miras [gwriansow musyk](/activities/music/), [ober chy](/activities/household-tasks/) hag agan rol leun a [menys gwriansow](/activities/ideas/).
+6. **Gul visityow esy.** Agan [skrid a-dro dhe visityow](/activities/visiting/) a gevir visityow cott ha taw a wra da rag pup.
 
-Gwithewgh puptra byghan ha kosel. Stevell gosel gans onan po dew dhen a wra oberi gwell yn fenowgh es bagas bras. Mar hwra an den skwitha po kelli les, da lowr yw hedhi. Esedha war-barth gans hanafas te yw sewyans da ynwedh.
+Gwith an tre vyghan ha lengel. Stevell taw gans onan po dew dewynn y wra yn ta moy gans bagas brâs yn menowgh. Mar ossy an person po kolles interest, gorra dywetha y da. Sedha war-barth gans copel te yw da ynwedh.
 
-Rag nebonan ow pewa gans demens hag ow triga unnsel, an NIA a brof kavos den treusys a yll vysytya po gul galow gwydhyow yn reyth ha servya avel kestav uskis. Ev a gov ynwedh a-dro dhe goffiji kov leel, spas socyal es rag tus gans koll kov ha’ga theyluyow.
+Rag dewynn esomma yn-soler gans dementia, an NIA a gomend kavos person tewhys a yll visitya po bellgomma gwel yn menowgh ha bos kuntak ossyans. Ev a meneg ynwedh koffi kov lel, plas sokyel lengel rag tus gans kolles kov ha'n teylu anans.
 
-## Gwithoryon a omglew unnik ynwedh
+## Dus gwithya a yll bos yn-soler ynwedh
 
-An NIA a rol gwitha nebonan gar yw faktor peryl rag diberthva. Gwithewgh termyn rag agas kowethasow hwi, bagasow skoodh ha powes. Agan [gid omwitha rag gwithoryon](/caregiving/caregiver-self-care/) a’n jeves tybyansow praktikal.
+An NIA a rol gwitha dewynn ker avel fondyans perryll a enysyans. Gwith pryssow rag cowethas agough yny, bagasow supportya ha powes. Agan [skrid a-dro dhe gwith agan huny](/caregiving/caregiver-self-care/) a gyf menys praktikek.
 
-## Kewsewgh gans medhek
+## Kewsel gans medhek
 
-Mars owgh hwi po nebonan a withowgh owth omglewes unnik po diberthys lieskweyth, leverewgh dhe vedhek. An NIA a gymell tus dhe gevrenna chanjyow bras yn bywnans, kepar ha mernans y’n teylu, may hworr an medhek konvedhes an skeusen dien. Omglewes isel dres seythunyow a yll bos diglonter, hag y hyll bos dyghtys. Mars yw den kottha omdennys a-gynsow dhiworth kowetha po gwriansow a gara kyns, an chanj na yw gwiw y govsenna orth medhek ynwedh. Redyewgh [sinys a-varr ha pan dhe weles medhek](/brain-health/warning-signs/).
+Mar ymons yugh po dewynn y gwitough gwithya yn-soler po yn enysyans an moyha radn a'n prys, leverys dhe medhek. An NIA a gomend tus dhe leverys chanjyow brâs yn fywyd, kepar ha mernans yn an teylu, rag medhek a wra konvedhes an fogla leun. Bos yn dygri rag seythiun y'n prys y yll bos dygryder, hag henna y yll bos gwithys. Mar ymons an dewynn koth esomma techys nowydh dhyworth cowetha po gwriansow ymons y'y plek, an chanj ma dal meneges dhe medhek ynwedh. Red [signy dyghow ha prys dhe welos medhek](/brain-health/warning-signs/).
 
-An folen ma yw kedhlow ollgemmyn, nid kusul medhegel. Gwelewgh agan [disklamyans medhegel](/medical-disclaimer/).
+An folen ma yw kedhlow general, nyns yw consel medhegel. Miras agan [disclaimer medhegel](/medical-disclaimer/).

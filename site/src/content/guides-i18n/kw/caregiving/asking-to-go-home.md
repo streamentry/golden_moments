@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Pan vynn nebonan gans dementia mos tre"
+seoTitle: "Dementia ha govynn mos tre: Pyth dhe leverel"
+description: "Prag y hwovynn nebonan ow bywa gans dementia mos tre, pyth dhe leverel, gwriansow kosel dhe assaya, ha fatel dh’aga gwitha salow mar assayons mos."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Pan vynn nebonan gans dementia mos tre yn fenowgh, «tre» a styr yn fenowgh
+  omglewans a salowder po le a’n termyn eus passys, nyns drehevyans. Na wrewgh
+  argya bos ev tre. Aswonnewgh an omglewans, surhewgh ev bos salow, govynnewgh
+  a-dro dhe dre, hag ena gwrewgh mos yn kosel dhe skeusennow, ilow, boes bian,
+  kerdh po ober sempel. Checkyewgh rag nown, syghes, an stevel-omwolghi po
+  payn. Mar dalleth yn uskis, gelwewgh aga medhek.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«My a vynn mos tre» a styr yn fenowgh «Ny glowav salow po kosel,» nyns govyn rag trigva."
+  - "Argya po previ bos ev tre a wra yn fenowgh gwetha antrons. Gorthebewgh dhe’n omglewans yn le."
+  - "Govynnewgh dhedha kewsel a-dro dhe dre, hag ena profyewgh skeusennow, ilow, boes bian, kerdh po ober sempel."
+  - "Checkyewgh neppyth a yllir ewnhe: nown, syghes, an stevel-omwolghi, payn, re domm po re yeyn, tros, skwithter."
+  - "Mar hwer hemma pub dohajydh diwettha, y hyll bos «sundowning»; routen fast ha golow da a allsa gweres."
+  - "Towlewgh rag salowder mar assayons mos, ha gelwewgh aga medhek a-dro dhe janj uskis vyth."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Prag y hwovynn ow mamm gans dementia mos tre pan yw hi tre?"
+    a: "Dementia a yll gul stevellow aswonnys dhe heveli ankoth, ha tus a yll treweythyow omglewes bos i yn termyn a-varr a’ga bewnans. «Tre» a yll styrya chi a flogholeth po yn sempel an omglewans bos salow ha es. Gorthebi dhe’n omglewans na a wra yn fenowgh gwell es poyntya ple ma hi."
+  - q: "Pyth a dalvien vy leverel pan wovynnons mos tre?"
+    a: "Assayewgh «Ty yw salow omma, ha my a wra a-der genowgh,» hag ena «Dlever dhymm a-dro dhe’th dre.» Goslowewgh, kevrennewgh skeusen po kan, ha profyewgh diwes po kerdh berr. Gochewgh «Ty yw tre» leverys avel ewnans, a allsa heveli bos leverys dhedha bos i kamm."
+  - q: "Yw da leverel y hyllyn mos tre diwettha?"
+    a: "Teyluyow ha kowethyansow dementia a dyb yn dyffrans a-dro dhe hemma. Lies a dhalleth gans konfort onest ha treylyans kosel, ha gwitha gowleverel kosel rag termynyow pan wrussa an gwirvos unnsel kawsya antrons na yll an den oberi dretho. Pypynag a dhewisowgh, bedhewgh kuv ha kesson, ha bythkweth na wrewgh gesya orth aga omglewans a wir."
+  - q: "Pyth mar assayons mos mes a’n chi?"
+    a: "Bedhewgh kosel ha kerdhewgh gansa i yn le a’ga lettya; kerdh berr a wra yn fenowgh koselhe an hwans. Gorrewgh dyskasow salowder yn le kyns, kepar ha breghlen ID, klegh daras ha skeusen a-gynsow. Mar a an den yn kellys, checkyewgh leow salow ogas ha kestav kewsel gans an kreslu anedha po gonisyow gorhedewek yn uskis. Na wrewgh gortos niver settys a vynysennow kyns derivas."
+  - q: "Peur a dalvien vy gelwel medhek?"
+    a: "Gelwewgh aga medhek yn uskis mar dalleth an govyn po an kemyskans yn uskis po mos lies gwettha dres ouryow po dedhyow, yn arbennik gans fever, medhegneth nowydh po sinys a glevesans an fordh dowrlinyek. Kemyskans uskis a yll bos delirium, hag ev a res gwith gorhedewek. Gelwewgh 911 mar yw nebonan yn peryl."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +50,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +70,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«My a vynn mos tre.» Rag lies teylu, hemma yw onan a’n taklow an moyha kales dhe glewes, yn arbennik pan yw an den a oferydh esedhys yn aga stevell-esedha aga honan. Hemm yw kemmyn, y hyll hwarvos yn py estudh vyth a dhementia, hag yma fordhow kosel ha praktyk dhe worthhebi. An folen ma a gews a-dro dhe’n pyth a styr an geryow yn fenowgh, pyth dhe leverel, gwriansow a allsa gweres y’n pols, ha fatel dhe besya salow.
 
-## Why does someone with dementia keep asking to go home?
+## Prag y hwovynn nebonan gans dementia mos tre yn fenowgh?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Yn fenowgh, «tre» yw omglewans moy es le. Alzheimer’s Society a’n deskrif avel omglewans a gonfort ha salowder, po tre a’n termyn eus passys, yn le a’n chi y honan. Dementia a yll gul stevellow aswonnys dhe heveli ankoth, ha den a yll omglewes bos ev ow bywa yn termyn a-varr a’y vewnans, pan o tre chi a flogholeth po an le may tegh ev y fleghes.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+An geryow a yll bos arwodh ynwedh bos neppyth aral kamm lemmyn: ev a’n jeves nown, syghes, res yw dhedha mos dhe’n stevel-omwolghi, yma payn dhedha, re domm po re yeyn yns, skwith, onan, ownek, po troblus gans tros. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) a rol payn, tros, onander, chanjyow yn routen ha medhegnethow a-der an achesonys a antrons.
 
-## What should I say when they ask to go home?
+## Pyth a dalvien vy leverel pan wovynnons mos tre?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Gorthebewgh dhe’n omglewans, nyns dhe’n geryow. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gusulya erbynn assaya previ dhe’n den bos ev kamm: aga omglewansow yw gwir, ytho gorthebewgh kynsa gans konfort ha surheans, hag ena treylyewgh yn kosel.
 
-Phrases that often help:
+Lavaryow a weres yn fenowgh:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Henwewgh an omglewans.** «Hemm a hevel bos fyllel dhis a dre.»
+- **Surhewgh.** «Ty yw salow omma, ha my a wra a-der genowgh.» [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) a brof an geryow sempel «Ty yw salow omma.»
+- **Gelwewgh kovadhow.** «Dlever dhymm a-dro dhe’th dre. Fatell o dha gegin?» Govyn a-dro dhe’n termyn pell yw yn fenowgh esya es govynnow a-dro dhe hedhyw.
+- **Profyewgh neppyth war-barth.** «Gwren ni kavos hanafas te kynsa,» po «A vynnydh ow gweres gans an towellow ma?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Ton tomm ha leuv war an bregh, mars yw da gansa i toch, a yll leverel moy es an geryow.
 
-## What should I avoid?
+## Pyth a dalvien vy gocheles?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Argya po displegya.** «Ty a drig omma lemmyn» po «Hemm re beu dha dre dres dew ugens bledhen» a wovyn dhedha kemeres neppyth a wra dementia kales dhe gemeres, hag y hyll heveli bos leverys dhedha bos i kamm.
+- **Apposyans.** «A ny borth kov?» po «Pyth yw an trigva?» a geworr gwask.
+- **Lettya an daras yn serrys.** Mars ethons yn-mes, bedhewgh kosel ha kerdhewgh gansa i. Kerdh berr war-barth a wra yn fenowgh koselhe an hwans.
+- **Fyski.** Rewgh termyn dhedha kewsel a-dro dhe dre kyns chanjya an desten.
 
-## Activities that can help in the moment
+## Gwriansow a allsa gweres y’n pols
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Wosa hwi re aswonas an omglewans, gwrians kosel hag aswonnys a yll treylya an attendyans heb y skuha yn-mes.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Mirewgh orth skeusennow a dre ha teylu.** Treylewgh an folennow ha gwrewgh kampollow («Mirewgh orth an lowarth na») yn le a wovyn govynnow. War bellgowser po leghen, [Photo pairs](/games/photo-pairs/) a dreyl agas skeusennow teylu hwi agas honan yn gwari parow kosel, ha’n skeusennow a drig war agas devis.
+2. **Kewsewgh a-dro dhe dre.** [Conversation cards](/games/conversation-cards/) a brof govynnow ygor a-dro dhe jiow, keginyow, kentrevogyon ha gwylow, heb gorthyp vyth ewn.
+3. **Senyewgh ilow a garons.** National Institute on Aging a rol ilow kosel a-der an fordhow dhe goselhe antrons. Gwrewgh mires orth agan [gwriansow ilow](/activities/music/).
+4. **Rewgh boes bian po diwes.** Nown ha syghes a yll heveli avel restlessness. Hanafas te po dyghtyans kerys yw ynwedh devos bian a vos tre.
+5. **Gwrewgh kerdh po esedha yn-mes.** Gwayans ha golow dydh a weres, yn arbennik a-varr y’n jydh.
+6. **Rewgh ober aswonnys.** Plegya dilhas, sortya lestri po dowrhe losow a yll dri tre an omglewans a wul ober chi.
+7. **Gwrewgh puptra lentta.** Sodh an pellwolok, lehe an tros ha’n splann, hag assayewgh powes [anadla kosel](/games/calm-breathing/) war-barth.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Mar ny wra unn dybyans oberi, assayewgh onan aral diwettha. Esedha kosel war-barth yw sewyans da ynwedh.
 
-## Check for a cause you can fix
+## Checkyewgh rag acheson a yllowgh ewnhe
 
-| Check | What to try |
+| Checkyewgh | Pyth dhe assaya |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Nown po syghes | Profyewgh diwes ha boes bian |
+| Res an stevel-omwolghi | Profyewgh mos dhe’n stevel-omwolghi, yn kosel ha heb fuss |
+| Payn po anes | Hwilowgh sinys kepar ha gwincya, dalghenna rann a’n korf po anwovya, ha leverewgh dhe’ga medhek |
+| Re domm po re yeyn | Chanjyewgh gwiskas po tempredh an stevel |
+| Tros po routh | Gwrewgh mos dhe stevel kosella, sodh an pellwolok |
+| Skwith po re stimulyes | Powes, tewla an stevel, senyewgh ilow kosel |
+| Dohajydh diwettha | Gwrewgh mires orth an rann a-dro dhe «sundowning» a-woles |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer’s Society a brof gwitha kovadh berr a bryd ma hwer an govyn, rag ensampel kyns boesow, wosa godrigoryon, po orth gordhuwher. Patronyow a wra esya towlel kyns.
 
-## Is it okay to tell a white lie?
+## Yw da leverel gowleverel gwynn?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Hemm yw dadhel gwir, ha teyluyow kuv a dheu dhe leow dyffrans. Alzheimer’s Society a lever nag eus unn gorthyp ewn: anwiryon a yll gul nebes tus moy gogrysus, ytho ervirewgh pyth yw y’n les gwella rag an den ha bedhewgh kesson. Orth Penn Memory Center, tybyans an kes-dyrector yw bos gwirvos an defowt ha bos gowleverel kosel da lowr unnsel pan na yll an den konvedhes gwirvos arbennik, ha na dal hwi bythkweth gesya orth aga gwrians a wir.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Lies gwithyas a gavas bos fordh gres oberi: konfort onest ha treylyans kosel kynsa («Ni a wra a-der omma haneth, ha my yw omma genowgh»), heb argya a-dro dhe ble ma tre.
 
-## What if it happens every afternoon or evening?
+## Pyth mar hwer hemma pub dohajydh po gorthugher?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Restlessness a dhalleth po a dheu gwettha y’n dohajydh diwettha yw gelwys yn fenowgh «sundowning». [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) a brof routen fast, golow howlsplann ha gwrians pub dydh, le koskys diwettha, ha nag eus koffein po alkool diwettha y’n jydh. Enowi golowys kyns gordhuwher a allsa gweres ynwedh. Agan gid a-dro dhe [gwriansow kosel y’n dohajydh diwettha](/caregiving/late-day-restlessness/) a’n jeves moy.
 
-## Keeping them safe if they try to leave
+## Gwitha i salow mar assayons mos
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Govyn mos tre a yll ledya dhe wandering. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) a amont bos hwegh yn pub deg a dus ow bywa gans dementia a wra wandering dres onan tro dhe’n lyha.
 
-**Prepare ahead:**
+**Pareusiwgh kyns:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Breghlen ID po vedhegel gans aga hanow ha’gas niver pellgowser, ha labelys yn aga dilhas. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) a gampol an towlen MedicAlert ha Alzheimer’s Association Safe and Found, a allsa kostya arghans.
+- Klegh po alarm daras, ha alhwedhow gorher ughel po isel. Bythkweth na wrewgh alhwedha an den a-bervedh y honan.
+- Skeusen a-gynsow ogas, ha rol a leow may hallons mos, kepar ha chi po gweythva kens.
+- Leverewgh dhe gentrevogyon treus, ha rewgh dhedha agas niver.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Mar a an den yn kellys:** checkyewgh leow salow ogas ha kestav kewsel gans an kreslu anedha po gonisyow gorhedewek yn uskis. Na wrewgh gortos niver settys a vynysennow kyns derivas. [Erthygel kovskrif U.S. Department of Justice a 2021 a-dro dhe hwithransow tus kellys](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) a lever na dal mayniow an lagha govyn pols gortos settys; ev a rol ynwedh sinys haval dhe dhementia avel preder ughel-beryl. Argerdhow derivas leel a allsa bos dyffrans. Leverewgh dhe worthheboworyon bos dementia dhe’n den, kevrennewgh an tyller diwettha aswonnys ha skeusen a-gynsow, ha sewgh aga kevarwodhyow. Mars eus gwereser aral kavadow, govynnewgh dhedha a-der orth an pellgowser. Na wrewgh hwilas yn leow diantel agas honan.
 
-## When should I call a doctor?
+## Peur a dalvien vy gelwel medhek?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Gelwewgh aga medhek yn uskis mar dalleth an govyn po an kemyskans yn uskis, po mos lies gwettha dres ouryow po dedhyow. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a lever y tal omdhegyans uskis po ow chanjya yn uskis, yn arbennik wosa klevesans po chanj medhegneth, bos checkys a-dhistowgh. Kemyskans uskis a yll bos delirium, hag a-der an [NHS](https://www.nhs.uk/symptoms/confusion/) ev a res gweres gorhedewek; klevesansow an fordh dowrlinyek yw acheson kemmyn yn tus kottha.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Y gweres ynwedh kampolla patron fast orth an kuntellyans medhek nessa, drefen bos payn, iselni, kudynnow kosk po effeythyow a-denewen medhegnethow oll ow kavoes rann.
