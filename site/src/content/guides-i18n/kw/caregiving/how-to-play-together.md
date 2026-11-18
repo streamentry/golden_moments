@@ -1,36 +1,36 @@
 ---
-title: "Fatel wari gwariow gans nebonan gans demens"
-seoTitle: "Gwariow gans nebonan ow powes gans demens"
-description: "Gid praktykal rag gwari gans nebonan ow powes gans demens: pareusi, spys, heb ewnhe, esya gwariow, ha godhvos pana dermyn dhe hedhi."
+title: "Fatell wari gwariow gans nebonan a vew gans dementia"
+description: "Gwedhik rag whari gwariow gans nebonan a vew gans dementia: pareusi, gwitha an amser, heb leverel yw kamm, gul gwariow esya, hag aswon pan dho medhow."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gwrewgh gwari avel termyn war-barth, a-der previ. Dewisewgh termyn kosel y’n
-  jydh, esedhowgh a-denewen yn stevell gosel, ha profyewgh unn gwari sempel.
-  Gesewgh dhe’n den settya an spys, na wrewgh ewnhe kammgemeryansow dibreder,
-  gwrewgh an gwari esya orth an kynsa arwodh a dheskans, ha treylyewgh imajys
-  dhe gowsel. Hedhewgh ha’n gwari hwath ow plegya. Diwedha a-varr, po mires
-  war-barth yn sempel, yw sewyans da.
+  Kemergh an gwari avel amser warbarth, na avel prow. Dewisewgh amser
+  kalmes a'n jydh, esethewgh ryp rag ryp yn stevell wheth, ha profyowgh
+  unn gwari sempel. Gallowgh an den dhe dreylya an amser; heb leverel
+  yw kamm a'n kammskulow heb drog; gwrewgh an gwari esya orth an kensa
+  arwodh a garg; ha treylyowgh skeusennow dhe geskows. Hedhewgh kens es,
+  tra ma'n gwari a vo dalbost lowena. Gorfenna a-varr, po mirni warbarth
+  heb gregeth, yw sewena da.
 keyPoints:
-  - "An amkan yw lowender ha keskolm, a-der gorfenna po kavos gorthgibow ewn."
-  - "Pareusowgh kyns dalleth: stevell gosel, golow da, gwedrow ha devisyow klewans yn le, pellwolok marow, unn gwari parys."
-  - "Na wrewgh ewnhe kammgemeryansow dibreder. Leverewgh \"Gwren ni assaya yndella\" po pesyewgh yn-rag."
-  - "Gwrewgh gwari esya kyns bos frethter ow tevi: le imajys, le dewisow, imajys gesys gweladow."
-  - "Usyewgh imajys avel dalleth rag hwedhlow gans \"Leverewgh dhymm a-dro dhe...\" yn le \"A borthowgh kov a...?\""
-  - "Hedhewgh orth an kynsa arwodhyow a skuys po trobolder. Hedhi a-varr yw sewenyans, a-der falyans."
+  - "An amkan yw lowena ha gemyskyans, na gorfenna po kavos gorthybow ewn."
+  - "Pareusi kens es: stevell wheth, golow da, lagasek ha devnydhyow klywes warnodha, pellskrin difempol, hag unn gwari pareusys."
+  - "Heb leverel yw kamm a'n kammskulow heb drog. Leverewgh \"Provyn ni y'n fordh ma\" po pesewgh."
+  - "Gwrewgh an gwari esya kyns an kinegyth dhe ynkressya: le skeusennow, le dewisyow, ha skeusennow a welys hwath."
+  - "Devnydhewgh skeusennow avel talleth rag hengovyow gans \"Leverel dhymm a-dro...\" yn le \"A wra whi govones...?\""
+  - "Hedhewgh orth an kensa arwodhyow a skithter po kinegyth. Hedhi a-varr yw sewena, na feth."
 faq:
-  - q: "Pes termyn y talvien ni gwari?"
-    a: "Nyns eus hirder ewn. Rag lies den, nebes mynysennow yw lowr, ha nebes dydhyow unn dro yw lowr. Mirewgh orth an den yn le an clock, ha hedhewgh ha ev hwath ow heveli kosel."
-  - q: "A dalvien vy gasa dhodho gwaynya po gul kepar na welav kammgemeryansow?"
-    a: "Yn gwari war-barth heb fardel, nyns eus travyth dhe waynya po dhe gelli. Mar ny dhre an kammgemeryans an den, gesewgh ev dhe bassya. Mars yw ev ow heveli troblys ganso, gwrewgh gweres yn kosel po gwrewgh an gwari esya heb y dreylya a-rag."
-  - q: "Pandr’a hwer mar mynna ev mires orthiv ow hwari?"
-    a: "Henn yw da lowr. An National Institute on Aging a brof gasa den dhe mires yn sempel mar kwra ev lowenhe moy yndella. Kowsowgh a-dro dhe’n pyth a welowgh ha gwrewgh y alwhedh dhe byntya po dewis pan vynno."
-  - q: "Yw an gwariow ma fordh dhe brevi kov?"
-    a: "Na. Agan gwariow yw gwriansow sempel war-barth rag lowender ha kesklapp. Nyns yns i previ kov, ny wrons i musura travyth, ha nyns yns i dyghtyans rag demens."
-  - q: "Py gwari yw an gwella dhe dhalleth ganso?"
-    a: "Dallethowgh gans an gwari sempelha a omdhesedh dhe’n den. Picture Pairs gans 4 prileghen hag imajys gesys gweladow, po Find the Same gans 2 dhewis, yw dallethvaow klor. Conversation Cards a ober yn ta mar kwra an den lowenhe moy ow kowsel es ow tappya."
+  - q: "Pes termyn a dal whari gwari?"
+    a: "Nag eus termyn ewn. Rag lies den, nebes mynysenow yw lowr, ha re dydhyow unn tro yw lowr. Mirewgh an den yn le an kilvier, ha hedi tra ma i dalbost didhamerys."
+  - q: "A dal my a as ev kavos whemmys, po pretendsya heb aswon kammskulow?"
+    a: "Yn gwari a gemeres heb gwersi, nag eus whemmys na kellys. Mar nag yw kammweyth ow kinegya an den, gesewgh ev. Mar hevel drok dhedha, gweresewgh yn didhamer po gwrewgh an gwari esya heb y wul apert."
+  - q: "Mar kaffo i gwell mirni orth my ow whari?"
+    a: "Hem yw da. An National Institute on Aging a gomend may mires an den pur sempel mar hevel drok dhodha. Kews a-dro an pyth a welyagh, ha jethewgh ev dhe boyntya po dewis pes termyn a gaffo ev lowena."
+  - q: "A yw an gwariow ma fordh dhe previ govones?"
+    a: "Nag yw. Agan gwariow yw aktivitys sempel a gemeres, dhe lowena ha keskows. Nag yw i prova a govones, heb mensura travith, ha nag yw medhegneth rag dementia."
+  - q: "Py gwari yw an gwella dhe dalleth ganso?"
+    a: "Dallethewgh gans an sempelta a hevel dhe'n den. Parow Skeus gans peswar gwellen ha skeusennow a welys, po Kavos an Keth gans dew dewis, yw tallethyow kes. Kartennow Keskows a whra ta mar hwyrvy an den kows moy es tappya."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -49,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-Ny hevel gwari da gans nebonan ow powes gans demens kepar ha kesstrif. Ev a hevel kepar ha dew dhen owth esedha ogas, ow poyntya orth imajys, ow hwerthin orth lavar, hag ow kowsel a-dro dhe byth a dheu yn-rag. An gwari yw resen yn sempel rag spena termyn war-barth.
+Gwari da gans nebonan a vew gans dementia nag yw avel batel. Ev a hevel a dhew den ow tesedha yn ogas, ow poyntya orth skeusennow, ow hwerthin a-dro lavar, ha kewsel a-dro an pyth a dheu. An gwari yw an achos dhe spensa amser warbarth.
 
-An gid ma a gews a-dro dhe fatel bareusi, fatel settya spys gwari, pyth dhe leverel pan wra neppyth mos “kamm”, fatel gul pub gwari esya po nebes moy kales, fatel y dreylya dhe gowsel, ha fatel godhvos pana dermyn dhe hedhi. Ev a ober rag agan [gwariow](/games/) ha rag kardys, mildamow ha gwariow bord eus genowgh seulabrys.
+An gwedhik ma a dalhwra fatell dhe bareusi, fatell dhe dreylya an amser a gwari, an pyth dhe leverel pan dho neppyth "kamm", fatell dhe wul pub gwari esya po nebes kalessa, fatell dhe y dreylya dhe geskows, ha fatell dhe aswon pan dhe medhow. Ev a whra ta rag agan [gwariow](/games/) ha rag kartennow, mysteri, ha gwariow bord a usi genes.
 
-## Pyth yw an fordh wella dhe wari gwari gans nebonan ow powes gans demens?
+## Py ew an gwella fordh dhe whari gwari gans den a's teves dementia?
 
-Fogellowgh war lowender, a-der sewena. Henn yw an kusul kresel a’n [kusulyans Alzheimer’s Association a-dro dhe wriansow](https://www.alz.org/help-support/caregiving/daily-care/activities): drehevowgh war an sleynethow a’s teves an den hwath, gweresowgh dhedha dalleth, gorfennewgh an rannow kales agas honan, ha na wrewgh keredhi po ewnhe gwriansow dibreder.
+Fekle war lowena, na war gwaynya. Hem yw an gusul kernnek a'n [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): hadhya war galloses a usi gen an den, gweres ev dhe dalleth, gorfenna an ranyow kalessa genes, ha na wra seni po leverel yw kamm a aktivitys heb drog.
 
-Yn praktis, henn a styr:
+Y'n ewn, hem a wra:
 
-- **Esedhowgh rybdho, a-der a-dal.** A-denewen, hwi a yll gweles an skrin po’n voos war-barth, ha gweres a hevel kepar ha kesober yn le gorwolok.
-- **Profyewgh unn gwari orth unn termyn.** Rol a dhewisow a yll heveli kepar ha previ kyns bos dallethys travyth.
-- **Sewyewgh aga ledya.** Mars yns i ow mynnes tappya an imajys y’ga fordh aga honan, kowsel a-dro dhe unn imaj unnek mynysen, po hedhi wosa dew dro, henn yw an gwari hedhyw.
-- **Reknowgh an euryow da, a-der an resegvaow gorfennys.** Minhwerthin, hwedhel po hanter-our kosel yw an sewyans mayth owgh hwi ow hwilas.
+- **Esedhewgh ryb, na a-dry.** Ryp rag ryp, whi a yll gweles an skrin po an voos, ha gweres a hevel avel ober warbarth, na avel gwithyans.
+- **Profyowgh unn gwari orth y ewn.** Rol a dewisyow a yll hevel avel prow kens neppyth dhe dhallath.
+- **Holyewgh i.** Mar kaffo i tappya an skeusennow yn aga fordh honan, kews a-dro unn skeusen rag deg mynysen, po hedhewgh wosa dew tro, henn ew an gwari hedhyw.
+- **Kontar an pryv da, na an troyow gorfennys.** Smygalow, hengovyow, po hanterour kes yw an sewena a whra whi whilas.
 
-## Fatel dhyllav vy pareusi kyns dalleth?
+## Fatell a yl my bareusi kens ni dhe dhallath?
 
-Nebes mynysennow a bareusi a lett an brassa rann a’n frethter a wor tus war an gwari y honan.
+Nebes mynysenow a bareusyans a folla an brassa rann a kinegyth a wra tus blama orth an gwari y honan.
 
-1. **Dewisewgh aga gwella termyn a’n jydh.** An [kusulyans NIA a-dro dhe aswiwa gwriansow](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a brof towlenna gwriansow rag an termyn a’n jydh pan yw an den y wella. Rag lies den henn yw kres an myttin. Diwettha dohajydh yw kalessa yn fenowgh; gwrewgh mires orth [gwriansow kosel diwettha dohajydh](/caregiving/late-day-restlessness/).
-2. **Gwrewgh an stevell dhe vos kosel.** Tewlhewgh marow an bellwolok ha’n radyo ha degewgh an daras mar kyllowgh. An [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gomend finwetha tros ha distraksyon kyns hwi dhe assaya kowsel.
-3. **Gwrewgh sure a es y’n kynsa le.** Diwes ogas, mos dhe’n bargen-dhyghtya kyns dalleth, kador es, ha gwedrow ha devisyow klewans yn le.
-4. **Golowewgh an spas yn ta.** Golow splann, kompes heb golowder war an skrin a wra imajys esya dhe weles.
-5. **Gwrewgh an gwari parys kyns esedha.** Ygorowgh ev, dewisowgh an settyansow ha settyowgh an nivel-son agas honan. Ena treylyewgh an skrin troha dhedha. Rag profyansow leghen, gwrewgh mires orth [settya leghen po pellgowser](/caregiving/tablets-and-screens/).
-6. **Skoodhyowgh an devis.** Stand po kas a syns an leghen yn-bann a styr nag eus odhom dhe nebonan y synsi, hag yw esya dhe byntya.
+1. **Dewis an gwella termyn a'n jydh.** An [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a gomend profya aktivitys ha mos yn-mes rag an termyn a'n jydh may vedo an den yn aga gwella. Lies den, hemm yw hanter-myttyn. An termyn goel a wra kalessa; gwelewgh [aktivitys kes y'n termyn goel](/caregiving/late-day-restlessness/).
+2. **Gwra an stevell wheth.** Difempolewgh an pellskrin ha'n radyo ha degewgh an daras mar kyllough. An [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gomend frankles a dros ha'n pyth a wravo dhyby kens whi assay kewsel.
+3. **Aswon an komfort kens es.** Diwoska yn ogas, monyans dhe'n chi fon kyns, kador es, ha lagasek ha devnydhyow klywes warnodha.
+4. **Golowhe an spas yn ta.** Golow spladn hag ewn a wra an skeusennow esya dhe weles.
+5. **Pareus an gwari kens esedhes.** Egewgh, dewisewgh an settys ha settewgh an levyl genes. Ena treylyowgh an skrin dhedha. Rag tipys a davosk, gwelewgh [bareusyans a davosk po fons](/caregiving/tablets-and-screens/).
+6. **Setewgh an devis a-seuleth.** Skoodh po kist a hwithra an tavosk a-seuleth a yw na vo edhom dhe neb y hwithra, ha henn a yw esya dhe boyntya.
 
-## Fatel dhyllav vy aga gelwel heb gwask?
+## Fatell a yl my gelwel i heb gwersi?
 
-Gwrewgh an alwedh heb boes hag es dhe wrthod. Nebes lavarow a wra oberi yn ta yn fenowgh:
+Gwra an gelwans heb fo hag esya dhe nagha. Nebes geryow a dalleth yn ta:
 
-- "My a gavas nebes imajys lowarth. A vynnowgh hwi aga mires genev vy?"
-- "A yllowgh hwi ow gweres gans an mildam ma? My yw strolys."
-- "A vynnowgh hwi an bleujyow po’n ydhyn hedhyw?" (dewis a dhew yw esya es govyn apert)
-- "Yth esov ow kul kartenn rag agas hwoer. Py liw a dalvia hemma bos?"
+- "My a gavas nebes skeusennow a lowarth. A vynnowgh hwi aga gweles genama?"
+- "A ylli genes gweres gans an mysteri ma? My a veu stegys."
+- "A gaffo whi lowena a'n bleujennow po a'n edhnow hedhyw?" (dew dewis a yw esya es govyn a eger)
+- "My a wra karten dhe dha hwoer. Py liw a dal henna bos?"
 
-An Alzheimer’s Association a brof displegya porpos gwrians, kepar ha gul kartenn rag koweth, drefen bos reson ow ri styr dhodho. Govyn gweres a ober ynwedh drefen bos ev ow gasa an den dhe omglywes devriadow.
+An Alzheimer's Association a gomend displegya skop aktivity, kepar hag ow kul karten dhe goweth, rag acheson a re y ster. Govyn gweres a whra ta, rag henn a re an den omborth a vos devnydhus.
 
-Mars yns i ow leverel na, degemmerowgh henna. Assayowgh arta diwettha po profyewgh neppyth aral. Agan gid war [pyth dhe wul pan leverons i na](/caregiving/when-they-say-no/) a a pella.
+Mar lever i nagha, goler i. Assaya arta termyn aral po profyowgh neppyth aral. Agan gwedhik a-dro [an pyth dhe wul pan lever i nagha](/caregiving/when-they-say-no/) a dhre moy a-dro.
 
-## Pes termyn y talvia gwari pesya, ha pes spys y talvien ni y wul?
+## Pes termyn a dal whari gwari, ha pes tuek a dal ni mos?
 
-Gesewgh dhe’n den settya an spys, ha towlennewgh rag esedhogow berr. Nyns eus hirder perfydh, prevys gans dustuni, rag gwari war-barth. Dew dhe bymp mynysen kosel a yll bos gwrians dien.
+Gallowgh an den dhe dreylya an amser, ha towl rag sesyons berr. Nag eus termyn ewn a veu dynys gans dustuni rag gwari a gemeres warbarth. Dew dhe bymp mynysen kes a yll bos aktivity cowlwyth.
 
-- **Gortewgh moy es dell hevel naturel.** An NIA a gusul gasa moy a dermyn rag den dhe worthyp, hag assaya heb y drestra. Reknowgh bys yn deg y’gas brys kyns gweres.
-- **Unn kamm orth unn termyn.** Rewgh unn danvonadow berr, sempel ("Tappyowgh imaj"), ena gortewgh. Diskwedhewgh yn le displegya: poyntyowgh dhe le may tal tappya.
-- **Powesewgh yn rydh.** Mar hedhons i rag kowsel a-dro dhe imaj, an gwari a yll gortos. Nyns eus odhom a fyski.
-- **Gesewgh dhedha mires.** An NIA a verk nebes tus a vynn mires, ha henn yw dewis da.
+- **Gortewgh moy es dell hevel yn naturel.** An NIA a gomend gothyow moy termyn dhe'n den dhe worthyp ha assaya heb y derrenna. Kontewgh dhe dhek y'n genes kens gweres.
+- **Unn pas orth y ewn.** Rewgh unn gorhemmyn berr ("Tappya skeusen"), ena gortewgh. Diskudhewgh yn le displegya: poyntya dhe'n le may tappya.
+- **Powsewgh hwaths.** Mar hedhowgh i dhe gows a-dro skeusen, an gwari a yll gortos. Nag eus edhom a fistya.
+- **Gollowgh i mires.** An NIA a nottha bos lies den a dheuler mirni, ha henn yw dewis da.
 
-## A dalvien vy ewnhe gorthgibow kamm?
+## A dl hen ewnhe gorthybow kamm?
 
-Na. Ewnhe nebonan yn klor arta hag arta a lever dhedha bos ev ow falyas, kynth hwi a vynn yn ta. An Alzheimer’s Association a gusul na wrewgh keredhi po ewnhe gwriansow dibreder. Yn gwari, ogas pub kammgemeryans yw dibreder.
+Nag yw. Leverel bos kamm dhe nebonan yn koos arta ha arta a wra y wodhvos ow fally, kynth usi genes yn da. An Alzheimer's Association a gomend heb seni po leverel yw kamm a aktivitys heb drog. Y'n gwari, kempros a bub kammweyth a vo heb drog.
 
-| Yn le | Assayowgh |
+| Yn le a | Gwell yw |
 | --- | --- |
-| "Na, henn yw kamm." | "Gwren ni assaya yndella." (ensampel a re an NIA) |
-| "Nyns yw henna par. Mirewgh arta." | Na leverewgh travyth ha kemerowgh an nessa tro, po "O, an dhew na yw rudh." |
-| "A borthowgh kov piw yw hemma?" | "Leverewgh dhymm a-dro dhe’n imaj ma." |
-| "Hwi a wrug henna seulabrys." | "Henn yw onan da. Gwren ni y wul arta." |
-| "Deus yn-rag, hwi a wor hemma." | "A vynnowgh hwi my dhe dhiskwedhes an diwedh?" |
+| "Nag yw, henn yw kamm." | "Provyn ni y'n fordh ma." (unn ensampel a re an NIA) |
+| "Henn nag yw par. Mirewgh arta." | Leverel neppith ha kemeres an nessa tro, po "O, an dhew ma yw rudh." |
+| "A wra whi govones piw ew hemma?" | "Leverel dhymm a-dro an skeus ma." |
+| "Hwi a wrug henna gensa." | "Henn yw da. Gwrugyn ni henna arta." |
+| "Dei, hwi a woer hemma." | "E whares diskudha an diwedh?" |
 
-Mar kwra kammgemeryans y drebla yn kler, gweresowgh yn kosel. Poyntyowgh dhe’n imaj ewn, kemerowgh tro agas honan, po gwrewgh an gwari esya an nessa tro. Mar a lavar dhe benn kamm mes hweg, hwerthowgh war-barth. Aga fenn a yll bos gwell.
+Mar kammweyth a wra kinegya i yn apert, gweresewgh yn didhamer. Poyntya dhe'n skeus ewn, kemeres tro genes, po gwrewgh an gwari esya an nessa tro. Mar lavar a dheu gans diwedh kamm hag hwejet, hewhewgh warbarth. Aga diwedh a ylli bos gwell.
 
-## Fatel dhyllav vy gul gwari esya po nebes moy kales?
+## Fatell a yl my gul gwari esya po kalessa?
 
-Aswiwowgh an gwari dhe’n den y’n jydh na, a-der dhe label a nivel. An keth den a yll bos edhom dhodho a versyon sempla y’n gorthugher es y’n myttin. Kynsa profyans an NIA yw dhe dhesedha an gwrians dhe’n pyth a yll an den gul ha surhe bos ev ow kul yn ta.
+Dewinewgh an gwari dhe'n den an jydh na, na dhe gradh. An keth den a ylli bos owth hena edhom a versyon sempella y'n termyn goel ages y'n myttin. An kensa tip a'n NIA yw kesseni an aktivity dhe'n pyth a ylli an den, ha sener y fe sewen.
 
-| Gwari | Gul ev esya | Gul ev nebes moy kales |
+| Gwari | Gwul yn esya | Gwul nebes kalessa |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Dallethowgh gans 4 prileghen ha gesowgh imajys gweladow | Moy prileghennow, po kudh imajys mar kwra henna omglewes es |
-| [Find the Same](/games/find-the-same/) | 2 dhewis | Bys yn 4 dewis |
-| [Sort Together](/games/sort-together/) | Hwi a syns an imaj, ev a bynt dhe’n gisten | Ev a dapp an imaj ha’n gisten y honan |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 darn, kowsowgh a-dro dhe’n imaj dien kyns | 9 darn |
-| [Finish the Saying](/games/finish-the-saying/) | Diskwedhowgh an diwedh, ena leverewgh ev war-barth | Gesowgh dhodho leverel an diwedh kyns tappya |
-| [Word Search](/games/word-search/) | Pryntyowgh ev, hwilewgh unn ger war-barth, poyntyowgh dh’y gynsa lytheren | Gesowgh dhodho dewis an nessa ger dhe hwilas |
-| [Coloring](/games/coloring/) | Hwi a dhewis dew liw, ev a dhewis ynter anedha | Ev a dhewis oll an liwyow |
-| [Conversation Cards](/games/conversation-cards/) | Mirewgh orth an imaj war-barth yn sempel | Usyewgh an govynnow apert war an garten |
-| [Photo Pairs](/games/photo-pairs/) | Nebes skeusennyow teylu pur gar | Keworrowgh moy skeusennyow |
-| [Picture Bingo](/games/picture-bingo/) | Gwereser a esedh gans pub gwarior | An warioryon a verk aga hardys aga honan |
-| [Calm Breathing](/games/calm-breathing/) | Esedhowgh ha mirewgh war-barth yn sempel | Anedhowgh war-barth yn lent |
+| [Parow Skeus](/games/picture-pairs/) | Dalleth gans 4 gwellen ha gela skeusennow a wel | Moy gwellennow, po keluf skeusennow mar hevel aga hena yn konfort |
+| [Kavos an Keth](/games/find-the-same/) | 2 dewis | Bys dhe 4 dewis |
+| [Sortya Warbarth](/games/sort-together/) | Hwi a with an skeus, i a poynt dhe'n baner | I a tappya an skeus ha'n baner aga honan |
+| [Mysteri Skeus](/games/picture-puzzle/) | 4 darn, kewsel a-dro an skeus cowl kens es | 9 darn |
+| [Gorfenna an Lavar](/games/finish-the-saying/) | Diskudhewgh an diwedh, ena leverel y warbarth | Gallowgh i leverel an diwedh kens tappya |
+| [Whilas Geryow](/games/word-search/) | Prynkya, whila unn ger warbarth, poyntya dhe'y kensa lytheren | Gallowgh i dewis an nessa ger dhe whiles |
+| [Liowa](/games/coloring/) | Hwi a dhewis dew liw, i a dhewis yntredha | I a dhewis oll an linyow |
+| [Kartennow Keskows](/games/conversation-cards/) | Mires an skeus warbarth hepken | Devnydhewgh an govynnow egerys war an karten |
+| [Parow Skeus Teyl](/games/photo-pairs/) | Nebes skeusennow a'n deylu meur gar | Keworrewgh moy a skeusennow |
+| [Bingo Skeus](/games/picture-bingo/) | Gweresydh a e sedh ryb pub gwarier | Gwarioryon a merk aga kartennow honan |
+| [Wheth Sielyek](/games/calm-breathing/) | Esedhewgh ha mires y warbarth hepken | Wheth y'n ketnas yn lent |
 
-Arwodhyow bos an gwari re gales: powesow hir a hevel prederus yn le prederi, leverel arta hag arta "Ny allav", herdhya an devis dhe-ves, po kammgemeryansow a’s trebl. Arwodhyow y hallsa bos re es: diflasans, po leverel bos ev kepar ha tra rag fleghes. Mar hwer henna, gordhyewgh ev ha treylyewgh dhe neppyth a omglew avel tra rag tevesik, kepar ha hwilas ger, mildam a skeusen gwir, po kowsel a-dro dhe imaj a’ga ober koth.
+Arwodhyow an gwari yw re gal: powsyow hir a hevel kempen yn le prederus, ow leverel arta "Ny ylliv", hetchy an devis dhe-ves, po kammskulow a wra i druehe. Arwodhyow a ylli bos re es: tedium, po leverel yw flemetis. Mar tev hendel, goler ha ewnewgh dhe neppyth a hevel den meur, kepar hag whilas geryow, mysteri a skeus gwir, po kewsel a-dro skeus a aga ober koth.
 
-## Fatel dhyllav vy treylya gwari dhe gowsel?
+## Fatell a yl my treylya gwari dhe geskows?
 
-Usyewgh pub imaj avel galow dhe gowsel, ha gwrewgh travyth a leverons avel gorthyp da. Rag lies teylu, henn yw an rann wella a wari.
+Devnydhewgh pub skeus avel martes dhe gows, ha kemergh neppith a lever i avel gorthyp da. Rag lies teylu, hemm yw an gwella rann a whari.
 
-- **Govynnowgh govynnow apert, heb gorthyp kamm.** "Pyth a welowgh hwi?" "Py onan yw da genowgh?" "Leverewgh dhymm a-dro dhe gegin kepar ha hemma."
-- **Kevrennowgh yn kynsa.** "Ow mamm-wynn a’n jevo ki kepar ha hemma." Agas hwedhel a wra esya dhedha kevrenna onan.
-- **Sewyewgh an treylyans.** Mar kwra imaj a garr ledya dhe hwedhel a-dro dhe viaj war an fordh, an hwedhel yw an gwrians. Gesewgh an gwari ow powes.
-- **Na wrewgh gwiria an fydhyow.** Yn kovheans, kesklapp plesont yw moy a vri es manylyon ewn. Mar treyl an hwedhel a-dhia an termyn kyns, kevrewgh an versyon nowydh.
-- **Usyewgh an govynnow parys.** [Finish the Saying](/games/finish-the-saying/) a sew pub lavar gans profyans rag kowsel, ha [Conversation Cards](/games/conversation-cards/) yw desinys yn ewn rag hemma. [Photo Pairs](/games/photo-pairs/) a wra devnydh a’gas skeusennyow teylu agas honan, hag yn fenowgh i a dhre an hwedhlow moyha rych.
+- **Govynewgh govynnow a eger, heb gorthyp kamm.** "Py a wela?" "Py a gaffo whi lowena?" "Leverel dhymm a-dro kegin kepar hag homma."
+- **Ranna genes y'n kensa.** "My a's teves ki kepar hag homma." Agas hikla a wra y esya dhedha ranna herik.
+- **Holyewgh an fordh.** Mar skeus a garr a dhav yn hengov a-dro monyans fordh, an hengov ew an aktivity. Gesewgh an gwari powsys.
+- **Na wra gwira an fakts.** Y'n govones, keskows plesont a dal moy es manylion ewn. Mar'n hengov a dreusplek a'n termyn koth, lowenhewgh an versyon nowyth.
+- **Devnydhewgh an govynnow a-fales.** [Gorfenna an Lavar](/games/finish-the-saying/) a re govyn kows a-dro bub lavar, ha [Kartennow Keskows](/games/conversation-cards/) a veu desidys rag an pyth yn poran. [Parow Skeus Teyl](/games/photo-pairs/) a dhewis agas skeusennow a'n deylu honan, a dalleth an hengovyow moy rych.
 
-Moy tybyansow yw yn agan gidys a [wriansow kovheans](/activities/reminiscence/) ha [profyansow kesklapp](/caregiving/communication-tips/).
+Moy a dybyow yw yn agan gwedhik dhe [aktivitys a govones](/activities/reminiscence/) ha [kussulys a geskows](/caregiving/communication-tips/).
 
-## Pana dermyn y talvien ni hedhi?
+## Pan dho medhow hedhya?
 
-Hedhewgh orth an kynsa arwodhyow a skuys po trobolder, hag yn gwella nebes kyns. An Alzheimer’s Association a gusul hedhi po chanjya gwrians pan wra attendyans diwedha po frethter sevel.
+Hedhewgh orth an kensa arwodhyow a skithter po kinegyth, ha kens es moy a gwell. An Alzheimer's Association a gomend hedhi po chanjya aktivity pan glemm an attendyans po pan dhevv an frustrans.
 
-Mirewgh rag:
+Mirwgh rag:
 
-- digeni, kodha yn-rag po lagasow ow treylya dhe-ves a’n skrin;
-- gwiga, sevel yn-bann, po govyn mos;
-- hanasa, gorthgibow berr, po "Nyns ov vy da orth hemma";
-- tappya heb towl po herdhya an devis dhe-ves;
-- dagrow, sorrder, po chanj kildro yn imaj an brys.
+- ow hepren, ow krommetheka po lagajow ow syhwyna a-ves dhe'n skrin;
+- ow trontya, ow sevel, po govyn mos;
+- ow hweartha, gorthybow berr, po "Nag ew vy yw da a hemma";
+- tappya y'n kessen po hetchy an devis dhe-ves;
+- kewsel yn truesyk, keserder, po chanj a'ebn a natur.
 
-Fatel hedhi yn ta:
+Fatell dhe hedhya y'n ta:
 
-- **Diwedhowgh war neppyth es.** Unn kesson diwettha a yllons i gul, po unn imaj diwettha dhe vosyas.
-- **Gwrewgh ev a-dro dhywgh hwi.** "Res yw dhymm hanafas a de. A vynnowgh hwi hedhi omma?" a omwit a bub arwodh a wre i yn kamm.
-- **Treylyowgh dhe neppyth korforek po kosel.** Kerdh berr, boes byghan, plegya lyenn po ilow.
-- **Leverewgh neppyth toemm.** "Da o genev gul henna genowgh hwi." Nyns eus gormel rag "gul yn ewn", saw lowender y’n termyn war-barth.
+- **Gorfenna gans neppith es.** Unn nessa par a yll i y wul, po skeusen diwedhel dhe omharya.
+- **Gwra y vos a genes.** "My a garsa diwoska. A wrewgh ni hedhi omma?" heb danthona drog.
+- **Treylyowgh dhe neppith ober po heling.** Kerdh berr, snak, plykkya dillas po musik.
+- **Leverewgh neppith tom.** "Da o genama ober henna." Heb pragyans rag "y wul ewn", hepken lowena a'n amser warbarth.
 
-Diwedha a-varr, chanjya towlennow, po gasa an gwari ha’gas esedha war-barth yn sempel, oll yw sewyansow da.
+Gorfenna a-varr, chanjya towlow, po guleborth an gwari ha marnas esedha warbarth yw oll sewenys da.
 
-## A yllyn ni gwari yn bagas po dres galw gwydhyow?
+## A yll ni whari yn gruper po a-dry galwydhyow gwydhyow?
 
-Ya, gans nebes pareusi moy. Yn bagas, synsowgh ev dhe nebes tus, esedhowgh gweresoryon ryb pubonan a’n jeves edhom dhedha, ha dewisowgh gwari gans fog kler war-barth. [Picture Bingo](/games/picture-bingo/) a brovi kardys dhe bryntya ha gelwel war an skrin rag bagasow. Gwrewgh mires orth [gwriansow rag bagasow yn trevas gwith](/activities/care-home-groups/) rag moy.
+Ya, gans nebes bareusyans moy. Y'n gruper, kewgh i berr a dus, esedhewgh gweresydhyon ryb nep re a's dheus edhom, ha dewisewgh gwari gans pos kemerys warbarth. [Bingo Skeus](/games/picture-bingo/) a's teves kartennow a yll bos prenthys ha levyer a'n skrin rag grupep. Gwelewgh [aktivitys rag grupon chi gwithya](/activities/care-home-groups/) rag moy.
 
-Dres galw gwydhyow, an den war an galw a yll deskrifa imaj ha nebonan y’n stevell a yll poyntya ha tappya. Gwrewgh an galwyow berr ha koth. Agan gid dhe [galwyow pellgowser ha gwydhyow](/activities/phone-and-video-calls/) a’n jeves moy profyansow.
+A-dry galwydhyow gwydhyow, an den y'n galwydh a ylli displegya skeus tra ma ha nep re y'n stevell a poyntya ha tappya. Gwith galwydhyow berr ha kewsys. Agan gwedhik dhe [galwydhyow padel ha gwydhyow](/activities/phone-and-video-calls/) a's teves moy a dhussulys.
 
-## Pyth mar ny wra gwari oberi vytholl?
+## Mar nag yw gwari yn ta?
 
-Nebes dydhyow ny wra travyth dos yn ta, ha ny yw henna dastewydnyans warnowgh hwi po warnedha i. Gorryowgh an gwari a-denewen hag assayowgh arta orth termyn aral a’n jydh, gwari aral, po gwari vyth. Lies gwrians da nyns eus kevrenn dhodho gans skrinys: ilow, plegya lyennow, mires dre lyver skeusennow, po kerdh berr. Gwrewgh mires orth agan [tybyansow gwrians](/activities/ideas/) rag moy.
+Re dydhyow nag eus neppith ow dhallath, ha henn nag yw a genes po a dhedha. Gwith an gwari dhe-ves ha assaya arta termyn aral a'n jydh, gwari aral, po heb gwari hogen. Lies aktivity da nag eus gwra na ve skryn: musik, plykkya towel, mires dres album a skeusennow, po kerdh berr. Pecla agan [dybyow aktivitys](/activities/ideas/) rag moy.
