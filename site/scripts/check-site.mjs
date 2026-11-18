@@ -37,6 +37,7 @@ const BANNED = [
 const CLAIMS_REVIEW_PENDING = new Set([
   'ay/caregiving/choosing-apps-and-games/index.html',
   'bm/caregiving/choosing-apps-and-games/index.html',
+  'ch/brain-health/diet/index.html',
   'na/editorial-policy/index.html',
 ]);
 // "aita" and "eab" are Nauru negations (src/i18n/ui/na.json); the list is otherwise English-only.

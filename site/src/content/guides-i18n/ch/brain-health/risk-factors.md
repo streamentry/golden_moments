@@ -1,34 +1,33 @@
 ---
-title: "Fakton Risgo Demensia: 14 Ni Manombre ni Lancet Commission"
-seoTitle: "Fakton Risgo Demensia: 14 Fakton ni Lancet"
-description: "I 14 fakton risgo demensia ni siña mamolan-ha ni manombre ni 2024 Lancet Commission, sigun i tiempon taotao, yan i guinaiya ni research ma'lalaiki, yan hafa siña hami' yan dukturan-mu."
+title: "Faktór Peligro Dementia: Mga 14 na Komision Lancet Reconosi"
+seoTitle: "Faktór Peligro Dementia: Mga 14 Faktór Lancet"
+description: "Mga 14 faktór peligro dementia na puede cambia na 2024 Komision Lancet, por etapa di bida, kosa na investigación ta konekta, yan puede papagana yan un doktór."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  I 2024 Lancet Commission manombre 14 fakton risgo demensia ni siña mamolan-ha:
-  minenos na eskuela, pinitdo hungok, halom LDL na kolesterol, depresion, impacto
-  ni tataotao, kao na'malago' na fuetsa, diabetes, fumamaskat, halom na presion,
-  dankolo na tiningo', gaige' alak, asuti gi kinalamten taotao, kontamina ni
-  aire yan pinitdo matan ni ti gaige' tratamento. Hamyo siña ma'lalaiki ni
-  kuantos 45% ni kaso gi tano' gi mundo, lao ti gaige garantia para huyong
-  taotao.
+  I 2024 Komision Lancet reconosi 14 faktór peligro dementia na potencialmente
+  puede cambia: menos edukasion, pèrdida di neninge, kolesterol LDL álto,
+  depresyon, danyo di ulo, ti aktibidá fisika, diabetes, fuma, presion álto di
+  sángi, obesidad, momko na cantidá, aislamientu sosial, kontaminasion di aire,
+  yan pèrdida di bista sin tratamientu. Kollektibamente ta konekta yan alrededor
+  45% di kasos gi todo i mundu, sin garantiya para ni un taotao.
 keyPoints:
-  - "I 14 na fakton manggaige gi tinituhun taotao: un gi mamaila' na tiempo, dies gi medio, yan tres gi dankolo."
-  - "Pinitdo hungok yan halom LDL na kolesterol gi medio ginen 40 anos ma'lalaiki ni cada uno gaige ginen 7% ni kaso demensia gi mundo, i kinalamten dangkulo ginen cualquier fakton ni solo."
-  - "Esta na porsiento ginen estimasion ginen populasion ni sumusungon ni i kosas siña mamaisen gi ilek. Algun na lalaiki siña solo parte ni kausa."
-  - "I edad yan i jeniko, ni ti siña mamaloffan hasta ni maisa, mandangkulo na fakton risgo tumatatiyi. I mamaloffan i 14 na risgo ti garantia na ti maisen demensia."
-  - "Mas i kinalamten pasos ni gi sinangan, tinatakhan presion, hungok yan matan, mamaolek para hinasso siha lao debi di'na diskuti gi dukturan."
+  - "Mga 14 faktór ta kubri todo i bida: un gi bida mafanas, dies gi meyen bida, yan tres gi bida posterior."
+  - "I pèrdida di neninge yan i kolesterol LDL álto gi meyen bida cada u ta konekta yan alrededor 7% di kasos dementia gi todo i mundu, i mas álto na porsentahe di kada faktór solo."
+  - "Esi porsentahe ta estimasion di poblacion na asume kausa yan efektu. Algun koneksion puede ser solamente parcialmente kausal."
+  - "I edá yan i genes, na ni unu puede cambia, ta faktór peligro importante también. Bajando i 14 peligru no ta garantiya na ni unu ta skeppa dementia."
+  - "Mga hafa na pasu, komo revisa i presion di sángi, i neninge yan i bista, ta bueno para salud gi otro manera yan merece papagana yan un doktór."
 faq:
-  - q: "Hafa i 14 na fakton risgo demensia ni siña mamolan-ha?"
-    a: "I 2024 Lancet Commission manombre minenos na eskuela, pinitdo hungok, halom LDL na kolesterol, depresion, impacto ni tataotao, kao na'malago' na fuetsa, diabetes, fumamaskat, halom na presion, dankolo na tiningo', alak ni ma'takhan, asuti gi kinalamten taotao, kontamina ni aire yan pinitdo matan ni ti gaige' tratamento. Hamyo ma'lalaiki ni kasi mitad ni kaso demensia gi mundo."
-  - q: "Hafa i fakton risgo demensia ni kinalamten dangkulo?"
-    a: "Gi kinalamten mundo, i Commission estimo na pinitdo hungok yan halom LDL na kolesterol gi medio ginen 40 anos ma'lalaiki ni cada uno gaige ginen 7% ni kaso, sigiente ginen minenos na eskuela yan asuti gi kinalamten taotao, cada uno ginen 5%. Hafa i kinalamten dangkulo para huyong taotao ginen tinataotao-na na hinasso, ya i dukturan i pinamaolek na gaiguen."
-  - q: "Hay dos na fakton risgo nuebu ni mana'nana' gi 2024?"
-    a: "Hunggan. I 2024 report nina'nina' i halom LDL (malas) na kolesterol gi medio yan i pinitdo matan ni ti gaige' tratamento gi dankolo na tiempo gi 12 na fakton ni manombre gi 2020. I Commission ma'lalaiki hamyo ni cada uno gaige ginen 7% yan 2% ni kaso."
-  - q: "Esta i edad siña mamaloffan na fakton risgo?"
-    a: "Ti siña. I edad i kinalamten dangkulo na fakton risgo para Alzheimer's, yan ti siña mamaloffan. I jeniko gai papet. I 14 na fakton gi este na pagina i manmanmanombre ni research sinangan siña mamaloffan."
+  - q: "Kosa i 14 faktór peligro dementia na puede cambia?"
+    a: "I 2024 Komision Lancet reconosi menos edukasion, pèrdida di neninge, kolesterol LDL álto, depresyon, danyo traumátiko di utak, ti aktibidá fisika, diabetes, fuma, presion álto di sángi, obesidad, alkohol na cantidá, aislamientu sosial, kontaminasion di aire, yan pèrdida di bista sin tratamientu. Kollektibamente ta konekta yan casi mita di kasos dementia gi todo i mundu."
+  - q: "Kuâl faktór peligro dementia i mas importante?"
+    a: "Gi poblacion di todo i mundu, i Komision ta estima na i pèrdida di neninge yan i kolesterol LDL álto gi meyen bida cada u ta konekta yan alrededor 7% di kasos, sigui por menos edukasion yan aislamientu sosial yan alrededor 5% cada u. Kuâl faktór i mas importante para un taotao ta depende di su salud mesmu, asina un doktór i mas meyor guia."
+  - q: "Atit i dos faktór peligro nuevu na añade gi 2024?"
+    a: "I informi 2024 a añade kolesterol LDL (malu) álto gi meyen bida yan pèrdida di bista sin tratamientu gi bida posterior na 12 faktór na 2020 reconosi. I Komision a konekta yan alrededor 7% yan 2% di kasos respectivamente."
+  - q: "I edá un faktór peligro na puede cambia?"
+    a: "T'ayi. I edá i faktór peligro mas álto na conocíu para hefermedá Alzheimer, yan no puede cambia. I genes también ta participa. Mga 14 faktór gi esi pâhina i investigasion ta suggiere na potencialmente puede cambia."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,124 +49,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-Risgo i kosas ni manggaige' asuti ni mas dangkulo na sanmaproblema ni siña
-mamaisen. Ti siempre kausa, yan ti sumasangan na gaige' hao yan maisen
-demensia. Este na pagina manlista i 14 na fakton risgo demensia ni i 2024
-Lancet Commission sinangan siña mamaloffan, yan hafa i research manma'lalaiki
-yan hafa siña hao diskuti yan dukturan-mu.
+Un faktór peligro es algo konektá yan mas posibilidá di contra un hefermedá. No es kausa gi todo kasu, yan teniendo un no ta sinifica na un ta desarolla dementia. Esi pâhina ta lista i 14 faktór peligro dementia na 2024 Komision Lancet ta dice na potencialmente puede cambia, kosa na investigación ta konekta yan, yan kosa na un puede papagana yan un doktór.
 
-Para i dangkulo na hinasso, kuentos i dinanche ni research, komo tinatatiyi
-ni dangkulo na pruweba, tuma' gi [Siña ba mapribeni demensia? Hafa i research
-ma'sangan](/brain-health/can-dementia-be-prevented/). Este na impormasion
-heneral; ti konsehon medikal. Hungok i [medical disclaimer](/medical-disclaimer/).
+Para i vista mas grande, incluyendo kosa na grandes pruebas aya encontrá, empieza yan [Puede prevení dementia? Kosa na investigación ta dice](/brain-health/can-dementia-be-prevented/). Esi es informasion general, no konseho médiku; mira i [descargo médiku](/medical-disclaimer/).
 
-## Hafa i 14 na risgo para demensia?
+## Kosa i 14 faktór peligro para dementia?
 
-I [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-ma'kakantan ni 27 na mannaestru research demensia, mamaolek ni 14 na fakton
-risgo ni siña mamaloffan ma'alalaiki na mas kinalamten 45% ni kaso demensia gi
-mundo. I porsiento para cada fakton gi baba i estimasion ginen Commission ni
-i kinalamten kaso gi mundo ni ma'lalaiki ni esti na fakton, ma'hålot gi numiru
-kumplidu. I numiru manmamatinas, sa' komu takhan tumatatiyi kumu gaige' taotao
-ni mamaila' na risgo, para esta manmamasuma' para 45% ya ti mas.
+I [2024 Komision Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0), na eskribi por 27 investigadór dementia, ta estima na 14 faktór peligro potencialmente cambiante kollektibamente ta konta por alrededor 45% di kasos dementia gi todo i mundu. I porsentahe para kada faktór abajo es i estimasion di Komision di i parte di kasos worldwide konektá yan, redondeá á númeru enteru. Mga sifra ta sobrepone, porque munchu taotao tinangga varios peligru ala vez, yen por eso ta suma 45% en vez di mas.
 
-| Fakton risgo | Tiempon taotao | Kinalamten kaso | Hafa i research ma'lalaiki | Hafa siña hao |
+| Faktór peligro | Etapa di bida | Parte di kasos | Kosa na investigación ta konekta | Kosa na un puede gâ'ni |
 | --- | --- | --- | --- | --- |
-| Minenos na eskuela | Mamaila' na tiempo | 5% | Minenos na annai eskuela ma'lalaiki ni mas dangkulo na risgo. Ma'tatiyi na gaige' hao mentåt mamanten gi medio, mamaolek ginen mismo taotao ni gaige' minenos na eskuela. | Ma'estudia gi todu tiempo: lalålo, hobbies, klaseha, hugagu yan taotao. |
-| Pinitdo hungok | Medio | 7% | Pinitdo hungok ni ti ma'tatiyi ma'lalaiki ni mas dangkulo na risgo. Estudio ni ma'sigi taotao ma'lalaiki i ma'usa aparato hungok ni mas minenos na risgo. | Ma'chek hungok-mu. Pregunta si i aparato hungok siña mamaolek, yan ma'usa ni ma'na'i. Protehi i kuetnos ginen mangangangang tataotao. |
-| Halom LDL na kolesterol | Medio (ginen 40 anos pat mas) | 7% | Halom LDL ("malas") na kolesterol gi medio ma'lalaiki ni mas dangkulo na risgo. Estudio ni ti ma'tuma' ma'lalaiki i statin ni mas minenos na risgo, lao i trial gi dankolo na tiempo ti ma'pruweba esta. | Pregunta dukturan-mu si debi di'na ma'chek i kolesterol-mu yan hafa, si gai, debi di'na hasi. |
-| Depresion | Medio | 3% | Depresion ma'lalaiki ni mas dangkulo na risgo. Gi dankolo na tiempo, depresion siña mandanña' tinaiguen demensia. | Ågang hao gi dukturan put baba na tinituhun pat ti gai interes ni mas dankolo ki dos semana. Depresion siña mamaayuda. |
-| Impacto ni tataotao | Medio | 3% | Impacto ni tataotao gi todu edad yan ginen todu kosas, en guiya i kontaktu deporte, ma'lalaiki ni mas dangkulo na risgo. | Usa kasko para bisikleta yan deporte kontaktu. Pregunta put ma'hasso kaisa. Descansa yan ma'chek despues impacto ni tataotao. |
-| Kao na'malago' na fuetsa | Medio | 2% | Taotao ni ma'na'fuetsa yan ma'deporte ti maolek ma'maisen demensia. Pruweba gi trial taya ma'mamaolek. | Pregunta hafa aktividat sigu para hao, yan sumangan hafa ma'gogof. Tuma' gi [gaion ehersisio](/brain-health/exercise/). |
-| Diabetes | Medio | 2% | Diabetes, ilek-ilek kuandu mana'lalaiki gi medio pat mas taitai, ma'lalaiki ni mas dangkulo na risgo. | Ma'chek asukat gi dugu. Kuandu gaige' hao diabetes, na'na'sendi ni grupu ni ma'aga-mu put ma'nu sigon sigu. |
-| Fumamaskat | Medio | 2% | Fumamaskat ma'lalaiki ni mas dangkulo na risgo. Estudio ma'hasso ni ex-fumamaskat ti gaige' i mismo na dangkulo na risgo ni taotao ni todabia ma'fuma'maskat. | Pregunta put ayuda para para u para. Maolek para para u para gi todu edad. |
-| Halom na presion | Medio | 2% | Halom na presion gi medio ma'lalaiki ni mas dangkulo na risgo. Trial gi medisinan presion ma'sangan mas minenos na risgo demensia pat deterioro kognitibo. | Sangan i numirun-mu. I Commission ma'sangan 130 pat minenos na numiru ankas ginen 40 anos; pregunta hafa na gosto siña para hao. |
-| Dankolo na tiningo' | Medio | 1% | Dankolo na tiningo' gi medio ma'lalaiki ni mas dangkulo na risgo, yan mas ma'aumenta diabetes. | Pregunta dukturan-mu put maolek na tiningo' para hao. Taotao dankolo debi ti para u fa'a'ayuna para u nina'minenos tiningo' sin konsehu medikal. |
-| Alak ni ma'takhan | Medio | 1% | Ma'takhan na alak ma'lalaiki ni mas dangkulo na risgo. Na'minenos alak ginen ma'takhan ma'lalaiki ni mas minenos na risgo. | Pregunta hafa i sinangan ligat para hao, espesiálmente kuandu gaige' medisina-mu. |
-| Asuti gi kinalamten taotao | Dankolo na tiempo | 5% | Ti kaseni na kontaktu ma'lalaiki ni mas dangkulo na risgo. | Ma'tuma' kontaktu yan taotao gi manera ni gosto hao. Tuma' gi [gaion konekson sosiát](/brain-health/social-connection/). |
-| Kontamina ni aire | Dankolo na tiempo | 3% | Gaige' taotao gi kontamina na aire ma'lalaiki ni mas dangkulo na risgo. Estudio ma'lalaiki aire ni mas limpio ni mas minenos na risgo. | Mas i gai i hinasso gi polisa publiko. Ma'chek alerta kalidat aire gi lugat-mu yan manatitinas tiempo fuera gi diha ni kontaminao. |
-| Pinitdo matan ni ti gaige' tratamento | Dankolo na tiempo | 2% | Problema ni ti ma'corrija gi matan ma'lalaiki ni mas dangkulo na risgo. Un estudio dakbo gi US ma'lalaiki operasion katarata ni mas minenos na risgo. | Ma'chek matan regulåt. Pregunta si problema taya kuomo katarata siña ma'tratåo. |
+| Menos edukasion | Bida mafanas | 5% | Menos años di escuela ta konektá yan mas álto peligru. Ser mentalmente aktibu gi meyen bida también ta parece protektibu, hasta para taotao na poco escuela. | Mantene i aprendi yan gâ'ni kosa na ta engancha i mente gi kualkier edá: lectura, gustos, klase, juegu yan otros. |
+| Pèrdida di neninge | Meyen bida | 7% | Pèrdida di neninge sin tratamientu ta konektá yan mas álto peligru. Estudios na ta sigui taotao gi tiempu ta konekta i uso di aparatun neninge yan mas baju peligru. | Na'i prueba i neninge. Pregunta si aparatun neninge ayudaria, yan usa si recetá. Protege i neninge di ruidu álto. |
+| Kolesterol LDL álto | Meyen bida (desde alrededor 40) | 7% | Kolesterol LDL «malu» álto gi meyen bida ta konektá yan mas álto peligru. Estudios observasional ta konekta i uso di statina yan mas baju peligru, pero pruebas gi bida posterior no a mustra esu. | Pregunta yan doktór si debe revisa i kolesterol, yan kosa, si tinangga, na gâ'ni. |
+| Depresyon | Meyen bida | 3% | Depresyon ta konektá yan mas álto peligru. Gi bida posterior, depresyon también puede ser un señal tempranu di dementia. | Kuenta yan doktór sobre ánimo baju ó pèrdida di interés na dura mas de dos semanas. Depresyon puede tratá. |
+| Danyo traumátiko di utak | Meyen bida | 3% | Danyo di ulo gi kualkier edá yan gi kualkier fuente, incluyendo deporte de kontaktu, ta konektá yan mas álto peligru. | Usa cascu para andá bicicleta yan deporte de kontaktu. Pregunta sobre prevencion di caida. Descansa yan na'i revisa despues di danyo di ulo. |
+| Ti aktibidá fisika | Meyen bida | 2% | Taotao na ta ejercisio yan ta xuega deporte menos probabilidá na desarolla dementia. Evidensia di prueba todavía limitá. | Pregunta kuâl actividad i seguru para hagu, yan busca algo na gusta. Mira i [guia di ejercisio](/brain-health/exercise/). |
+| Diabetes | Meyen bida | 2% | Diabetes, especialmente kuando ta empieza gi meyen bida ó ta dura mas, ta konektá yan mas álto peligru. | Na'i revisa i azúkar di sángi. Si tinangga diabetes, trabahe yan i ekipu médiku para maneja(i) seguramente. |
+| Fuma | Meyen bida | 2% | Fuma ta konektá yan mas álto peligru. Estudios ta halla na ex-fumadór no ta lleva i mesmu peligru álto komo taotao na sigue fuma. | Pregunta sobre ayudo para para. Merece para gi kualkier edá. |
+| Presion álto di sángi | Meyen bida | 2% | Presion álto di sángi gi meyen bida ta konektá yan mas álto peligru. Pruebas di medisina para presion ta suggiere un bajada modestu di peligru di dementia ó danyo kognitibu. | Conoce i númeru. I Komision ta suggiere un númeru riba di 130 ó mas baju desde alrededor edá 40; pregunta kuâl meta i bendise para hagu. |
+| Obesidad | Meyen bida | 1% | Obesidad gi meyen bida ta konektá yan mas álto peligru, yan también ta áumenta i peligru di diabetes. | Pregunta yan doktór sobre un pisu saludable para hagu. Taotao mas biejos no debe dieta para baja pisu sin konseho médiku. |
+| Alkohol na cantidá | Meyen bida | 1% | Momko na cantidá ta konektá yan mas álto peligru. Bajando desdi momko na cantidá ta konektá yan mas baju peligru. | Pregunta kuâl limitá seguru para hagu, especialmente yan i medisina. |
+| Aislamientu sosial | Bida posterior | 5% | Poco kontaktu sosial ta konektá yan mas álto peligru. | Mantene kontaktu yan taotao gi manera na gusta. Mira i [guia di koneksion sosial](/brain-health/social-connection/). |
+| Kontaminasion di aire | Bida posterior | 3% | Bida yan mas kontaminasion di aire ta konektá yan mas álto peligru. Estudios ta konekta aire mas limpiu yan mas baju peligru. | Másmente asuntu di polítika públika. Revisa i avisun kalidá di aire local yan limita i tiempu fora gi dias na munchu kontaminá. |
+| Pèrdida di bista sin tratamientu | Bida posterior | 2% | Problema di bista sin corregí ta konektá yan mas álto peligru. Un estudio grande di Estadus Uníus a konekta i operasion di catarata yan mas baju peligru. | Ten éksamen di mata regular. Pregunta si problema komo catarata puede tratá. |
 
-## Kao sumasangan i porsiento?
+## Komo debe yo lesa esi porsentahe?
 
-Kuidao. I kuentos ginen Commission gi tinituhun report muna' hafa siha
-debi di'na fanhasso:
+Kuidadosamente. I mesmu informi di Komision ta fa'gasi varios punto na merece recorda:
 
-- **Esta manmamatinas populasion, ti taotao.** I [sumåmalam ginen report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  ginen University College London ma'sangan na i minenos risgo gi populasion
-  ti garantia na mismo taotao ti maisen demensia.
-- **Ma'supone kausa yan efekto.** I mannaestru mamaila' sumahi fakton ni gai
-  kinalamten pruweba, lao sinangan algun na lalaiki siña solo parte kausa.
-- **Esta mundo na numiru.** Mas i tinataotao gi nasion ricos, yan i tinatatiyi
-  para gi tano' pat komunidat ti mamaiguala.
-- **Ti dangkulo na porsiento siña gai impottante.** Un fakton ni ma'lalaiki
-  2% ni kaso gi mundo todabia mamaloffan dankolo na numiru taotao.
+- **Ta describe poblacion, no taotao.** I [resumen di informi](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) di University College London ta nota na bajando peligru ta funsiona gi un poblacion yan no ta garantiya na ni un taotao ta skeppa dementia.
+- **Ta asume kausa yan efektu.** I autor ta incluyi solamente faktór yan evidensia convincenti, pero ta dice na algunas koneksion puede ser solamente parcialmente kausal.
+- **Mga sifra di todo i mundu.** Másmente datos ta biní di pais na álto ingresu, yan i parte berdadera para kualkier pais ó komunidá ta ser diferente.
+- **Porsentahe chiku también puede importa.** Un faktór konektá yan 2% di kasos worldwide todavía ta afekta munchu taotao.
 
-## Hafa i fakton risgo ni nina'nina' gi 2024?
+## Kuâl faktór peligro na añade gi 2024?
 
-I 2024 report nina'nina' dos na fakton gi 12 ni manombre gi 2020:
+I informi 2024 a añade dos faktór na 12 na 2020 reconosi:
 
-- **Halom LDL na kolesterol gi medio**, ma'lalaiki ni kinalamten 7% ni kaso.
-- **Pinitdo matan ni ti gaige' tratamento gi dankolo na tiempo**, ma'lalaiki ni
-  kinalamten 2% ni kaso.
+- **Kolesterol LDL álto gi meyen bida**, konektá yan alrededor 7% di kasos.
+- **Pèrdida di bista sin tratamientu gi bida posterior**, konektá yan alrededor 2% di kasos.
 
-## Hafa i risgo ni ti siña mamaloffan?
+## Kuâl faktór peligro no puede cambia?
 
-I National Institute on Aging ma'sangan na
-[i edad i kinalamten dangkulo na fakton risgo para Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-yan ti siña mamaloffan. I jeniko gai papet; un jeniko ni mas ma'sangan ni
-ma'influensia risgo Alzheimer's gai naran APOE. I NIA mana'nana' na i
-sientifiko ti todabia kumprende kumu nina'gaige' Alzheimer's gi mas tayuyu na
-taotao. I Lancet Commission ma'sangan na i risgo ni siña mamaloffan siña
-ma'minenos sumasaga i jeniko ni gaige' taotao.
+I National Institute on Aging ta dice na [i edá i faktór peligro mas álto na conocíu para Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), yan ni unu puede cambia. I genes también ta participa; un gen bien conocíu na ta influensia i peligru di Alzheimer's ta ys'na APOE. I NIA ta añade na sientífiko no ta komprende completamente kosa na ta kausa Alzheimer's gi másmente taotao. I Komision Lancet ta nota na i peligru potencialmente cambiable puede bajá sin importa kuâl i riesgo genétiku di un taotao.
 
-Sa' i edad yan jeniko gai papet dangkulo na parte, dangkulo na taotao ni ti
-gaige' ni 14 na fakton risgo todabia maisen demensia. Esti ti kulpa ni
-hunu'.
+Porque edá yan genes ta participa munchu, munchu taotao na no tinangga ni un di esi 14 faktór peligro todavía ta desarolla dementia. Ese no es kulpá di ni unu.
 
-## Hafa i pruweba ni trial ma'sangan put mamaloffan esti na risgo?
+## Kosa na evidensia di prueba ta dice sobre cambia esi peligru?
 
-Ma'linka fakton risgo yan demensia ti i mismo ni pruweba na ma'mamaloffan
-esti ma'minenos risgo demensia. Gai uno pat dos ehemplo kumu i pruweba ni
-trial:
+Konekta un faktór peligro yan dementia no es mesmu komo prueba na cambia(i) ta baja i peligru. Algun ehemplu di unda i evidensia di prueba ta para:
 
-- **Presion.** Gi trial SPRINT MIND, minenos na goal presion ma'minenos sign
-  dangkulo i mild cognitive impairment. Ti sign dangkulo ma'minenos i probable
-  dementia, lao siña i trial ti dangkulo para ma'pruweba esta
-  ([SPRINT MIND gi JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Aparato hungok.** I Lancet Commission ma'sangan un trial tres anos ni aparato
-  hungok ni ti gai efekto gi todu pensamiento, lao gai benefisio gi grupu taotao
-  ni mas dangkulo risgo. Estudio ni ma'sigi taotao ma'lalaiki i ma'usa aparato
-  hungok ni mas minenos na risgo. I [gaion hungok](/brain-health/hearing/) gai
-  mas.
-- **Aktividat fisikal.** I National Institute on Aging mana'nana' na taya
-  bastante pruweba gi trial klinikal para ma'sangan na ehersisio siña mapribeni
-  pat mamana'minenos i mild cognitive impairment pat Alzheimer's, sanha algun
-  na estudio ma'sangan siña mamaayuda gi deklinasion ni relasion ni edad
-  ([NIA put mapribeni Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Presion di sángi.** Gi prueba SPRINT MIND, un meta mas baju di presion di sángi a reduí signifikantimenti i danyo kognitibu leve. No a reduí signifikantimenti dementia probable, maski prueba puede ser demasiáu chiku para mustra esu ([SPRINT MIND gi JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Aparatun neninge.** I Komision Lancet ta describe un prueba di aparatun neninge di tres año na no a halla efektu general gi pensamiento, pero un benefisio gi un subgrupu di taotao na mas álto peligru. Estudios na ta sigui taotao gi tiempu ta konekta i uso di aparatun neninge yan mas baju peligru. I [guia di neninge](/brain-health/hearing/) tinangga mas.
+- **Aktibidá fisika.** I National Institute on Aging ta dice na no tinangga suficiente evidensia di prueba klínika para konkluí na ejercisio puede prevení ó ralentí i danyo kognitibu leve ó Alzheimer's, maski algunas estudio ta suggiere na puede ayudá yan i bajada relasioná yan edá ([NIA sobre prevení Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Trial ni dankolo ni ma'espera para demensia ma'dedesarolla ma'sen dinanche yan
-dangkulo na gasto, asina para mas na fakton i mas maolek na pruweba todabia
-ma'chule ginen estudio ni ma'sigi taotao gi años. Esti na pruweba mapropos, lao
-mas minenos fuetti ki trial.
+Pruebas largas na ta espera na dementia desarolla ta despasíu yan karu, asina para munchu faktór i mejor evidensia ta sigui biní di estudio na ta sigui taotao durante años. Esi evidensia ta útil, pero mas débil ke un prueba.
 
-## Kao sumasangan i tinaiguen yan dietan?
+## Kosa sobre sueño yan dieta?
 
-I Commission ma'revisa i tiningo' yan dieta lao ti ma'nina' gi lista, sa' i
-pruweba ti dangkulo pat ti kumelang. I [gaion tinatiyi](/brain-health/sleep/) yan
-[dieta](/brain-health/diet/) ma'explika i ma'sangan.
+I Komision a revisa i sueño yan dieta pero no a añade na lista, porque i evidensia no era suficientimenti fuerte ó konsistente. I [guia di sueño](/brain-health/sleep/) yan [di dieta](/brain-health/diet/) ta esplica kosa na conocíu.
 
-## Hungok yan dukturan
+## Papagana yan un doktór
 
-I chechen cheke anuali gai maolek na tiempo para ma'chule esti na kosas. Siña
-hao machule esti na lista yan pregunta:
+Un revisa añal es un buen tiempu para lanta esi tema. Puede trae esta lista yan pregunta:
 
-- Hafa i numiru-mu para presion, asukat yan kolesterol, yan siña gai hafa na
-  para ma'hasso?
-- Debi di'na ma'chek hungok yan matan-mu?
-- I aktividat ni hao hasi sigura yan suficiente para hao?
-- Siña gai medisina-mu ni mamaloffan memoria pat pensamiento?
+- Kuâl i númeru di presion di sángi, azúkar di sángi yan kolesterol, yan tinangga algu na necesita atencion?
+- Debe na'i revisa i neninge yan i mata?
+- I actividad na gâ'ni i seguru yan suficiente para ami?
+- Puede algun di i medisina afekta i memoria ó i pensamiento?
 
-Antes ni manmamakanbia medisina, dieta, ayunu, ehersisio pat suplemento,
-hungok dukturan kumu prinimet. Kuandu hao pat taotao ni gai-ñiha ma'ataka
-konfusion, minaflekshen gi un banda, pat ti siña ma'hasso, ågang 911.
+Antes di cambia medisina, dieta, ayunu, ejercisio ó suplemento, papagana yan doktór primero. Si hagu ó un taotao na un kuida taExperiencia konfusión súbitu, debilidá gi un banda, ó difikultá para papa'gasi, yama i 911.
