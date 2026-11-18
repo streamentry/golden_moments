@@ -131,7 +131,7 @@ Hasso i doktu-ña ensegidas yanggen un ripara:
 
 I Alzheimer's Association ha rekomenda un maolek na inekungok gi doktu para maseha håyi ni guaha problema gi fina'tinas, espesiatmente yanggen humuyong immuttan. I Family Caregiver Alliance lokkue' ha rekomenda na un chek ha' finene'na gi doktu, sa' siña guaha rason gi hinemlo'. Cha'-mu tutuhon, para, pat tulaika maseha håfa na åmot sin un kuentusi i doktu pat i para u na'i åmot.
 
-Yanggen guaha gi piligru pat guaha señat di emerhensia gi hinemlo', ågang 911. I NIA ha rekomenda na un sangåni i umeppe na guaha dementia i taotao.
+Yanggen [guaha gi piligru](/caregiving/when-anger-becomes-aggression-with-dementia/) pat guaha señat di emerhensia gi hinemlo', ågang 911. I NIA ha rekomenda na un sangåni i umeppe na guaha dementia i taotao.
 
 ## Maolek ha' yanggen ti in cho'gue håfa?
 

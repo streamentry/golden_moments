@@ -127,7 +127,7 @@ Såga trankilu, na'ånimu, ya tulaika suåbi. I NIA ha sodda' na un kuentusi tra
 
 I Alzheimer's Association ha sodda' na siña un usa fino' taiguihi "Gaigi hao gi sagån minå'åse' guini" yan "Dispensa sa' nina'triste hao", ya ha sodda' lokkue' na un na'mås ma'lak, un despåsio, ya un na'menos i chinatsaga. Munga enkåhon, inechong, pat mapigåo i taotao, pat åguaguat yan guiya.
 
-Yanggen nina'agresibu i taotao, i NIA ha konseha na un såga gi sagån distånsia asta ki u para i aksion. Gi un emerhensia, ågang 911 ya eksplika na i taotao manlå'la' yan i dementia.
+Yanggen [nina'agresibu i taotao](/caregiving/when-anger-becomes-aggression-with-dementia/), i NIA ha konseha na un såga gi sagån distånsia asta ki u para i aksion. Gi un emerhensia, ågang 911 ya eksplika na i taotao manlå'la' yan i dementia.
 
 I guiya-måmi gi [kinuentusi](/caregiving/communication-tips/) yan [håfa para un cho'gue yanggen ilek-ña na ti malago'](/caregiving/when-they-say-no/) guaha mas put trankilu na fino'.
 
