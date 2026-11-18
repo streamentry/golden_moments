@@ -1,29 +1,34 @@
 ---
-title: "Pan wra nebon yn byw gans demensya nagha po bos fustries gans ober"
-seoTitle: "Pan nagh nebon gans demensya ober"
-description: "Prag y hyll den yn byw gans demensya nagha po bos kressys gans ober, fatel assay yn le, fatel worthevos, ha pan yw res dhe'n medhek chanj ansydh."
+title: "Pan wrelho nebonan gans dementia gwrthod po diwodhes"
+seoTitle: "Pan wrelho Person gans Dementia Gwrthod Gweythres"
+description: "Prag y hwra person a vyw gans dementia gwrthod po dos trubyllys gans gweythres, pyth a wrelhyn, pyth a ve gwell ocheti, ha pan vo chanj soden ow teddya medhek."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Pan wra den yn byw gans demensya leverel 'na', gwrewgh hy acceptya yn kosel hag assay arta diwettha po offry neppyth aral. Yn fenowgh yma acheson dhe'n nagha: yth yw an ober re gales po re floghves, yth yw skwith, yn anspeyrys, gwana po leun a dhanvon rag son. Na erbylyewgh na gul press. Gwrewgh y symlhe, offry dew dhewis, po govyn orth an den dhe weres. Chanj ansydh po uskis a emosiwn, yn arbennik wosa klevesigeth po medhegneth nowydh, a vydh res dhe'n medhek yn skon.
+  Pan vo nebonan gans dementia ow leverel 'nag', aswonh yth yw da, ha profy
+  arta diwedh po cinnig tra dyffrans. Yn fenowgh yma reson dhe'n gwrthod: an
+  ober a omglew re galed po re vugel, i yw skwith, yn poen, nownhek, po re
+  dreheves gans son. Na ddadhlw po na seth. Symplhe, cinnig dew dhewis, po
+  pysi aga gweres. Chanjyow soden po a janj yn eyl, yn arbennic wosa cleves
+  po medhegneth nowydh, a dhymmyn medhek yn eyl.
 keyPoints:
-  - "Yma 'na' ow servya gans gorthyp dhe vos meur a vri, nyns yw kudyn dhe'n gorfudha."
-  - "Yn fenowgh yma acheson dhe nagha: re gales, re floghves, skwith, disaynten, andhesedhek, po re veur a dhanvon."
-  - "Omdennewgh yn gil, gortosewgh, hag assay arta diwettha, yn eur dyffrans, po gans versyon symlach."
-  - "Gwell yw govyn orth an den dhe weres ages govyn dhodho gul neppyth."
-  - "Na erbylyewgh, na wrewgh press, na wrewgh govyn po korygi. Checkewgh agas honan rag herdhya po bos re ogas."
-  - "Ytal chanj ansydh po chanj ow kavoes uska, yn arbennik gans klevesigeth po medhegneth nowydh, a vydh res dhe'n medhek yn skon."
+  - "A 'nag' yw gorthyp a dal y aswon, nag yw kudyn a ve res y drehegel."
+  - "Yn fenowgh yma reson dhe'n gwrthod: re galed, re vugel, skwith, anwel, angwyt, po re dreheves."
+  - "Omdenn, gortos, ha profy diwedh, yn dermyn dyffrans, po gans versyon sympla."
+  - "Pysya aga gweres a wra gwell ages pysya i dh'y wul."
+  - "Na ddadhlw, na seth, na appos, na ewnhe. Mir ort y honan rag hasta po rag crowdya."
+  - "Ym-dhehavedh soden po a janj yn eyl, yn arbennic gans cleves po medhegnethow nowydh, a dhymmyn medhek yn eyl."
 faq:
-  - q: "A yw da gasa an den dhe hepkor gwriansow yn tien?"
-    a: "Ya, yn neb dydh. Esedha war-barth, goslowes orth ilow po mires orth an bys a yll bos lowr. Mars yw an den ow kavoes didholla war-lergh seythunys dhe bub tra, gwrewgh leverel dhe'n medhek, rag y hyll bos mood isel, payn po kudynnow yaghheans aral yn rann a'n skeusenn."
-  - q: "Prag y nagh i neppyth a garaens yn kyns?"
-    a: "Gall ober coth bos fustries pan yw res dhodho abilitaow re veu gwrys kales gans demensya, ha gall an den bos methys. Assayewgh rann symlach a'n keth ober, kepar ha sortya botonyow yn le na neydhla, po mires orth skeusennow lowarth yn le plandya."
-  - q: "A dalvien omriya dhe wul dhodho gul neppyth?"
-    a: "Na. Gul press war dhen may re veu gwrys kales gans demensya yw hwarvos aswonnys a wra kawsya kressyans. Acceptyewgh an 'na', chanjyewgh an desten, hag offryewgh arta diwettha po yn fordh aral."
-  - q: "Pan yw chanj yn emosiwn yn argemmyn?"
-    a: "Golyewgh 999 mars yma nebon yn peryl po gans arwodhyow a argemmyn medhegel. Rag konfusians ansydh po chanj yn emosiwn ow kavoes uska dres ourys po dydhyow, yn arbennik gans tergh, klevesigeth po medhegneth nowydh, kestewgh orth aga medhek yn skon."
+  - q: "Yw da aga gada heb gweythres vyth?"
+    a: "Ya, yn neb dydh. Esedha war-barth, goslow orth an ilow, po mir orth an bys ow mos hebdho, a yll bos lowen. Mar hwra nebonan goll an plesyr yn oll dres samba, lavar hynna dh'y medhek, rag y hwra tristys, poen po clevesow erel bos rann an taken."
+  - q: "Prag y hwra i gwrthod traow a garons i a-gent?"
+    a: "Didhan koth a yll dos diwodhes pan vo res dhodho skils a wras dementia kalet, ha'n person a yll omglew sham. Proffy rann sympla a'n keth gweythres, pecar a ranna botonow yn le gwrias, po mir orth skewesow a lowarth yn le plansa."
+  - q: "A daldh vy aga konvyncya?"
+    a: "Nag. Sethi nebonan dh'y wul tra a wras dementia kalet yw achos aswonys a drobel. Aswon an 'nag', chanjy an testen, ha profi arta diwedh po yn for dyffrans."
+  - q: "Pan vo chanj yn ym-dhehavedh policey?"
+    a: "Gilw 911 mar vo nebonan yn bownans po mar vo sinyansow a bolicey medhesel. Rag confusedh soden po ym-dhehavedh a janj yn eyl dres euryow po dydhyow, yn arbennic gans terthen, cleves po medhegneth nowydh, contactya aga medhek yn eyl."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-Hwi re settyas puptra yn le, offry gwari po kerdh, ha klewes 'Na'. Po y hwarsa an ober yn ta ha diwedha gans tablenn brysys dhe'n wedren ha ger bryntin. Yth yw hwarvos ansughek, hag yn hwir gemevys yn fenowgh. Yn fenowgh yma messach dhe nagha ha fustrigeth, nyns yw malluster. Pan wrewgh trovya py messach yw, yn fenowgh hwi a wel pytra dhe assay nessa.
+Ty a worras oll yn-le, a ginnig cwari po caminada, hag a glew 'Nag.' Po an gweythres a dhalleth da hag a worfen gans tablet scowanyas ha ger tynn. Yn trist yw, hag yw pur gemmyn. Gwrthod ha diwodh yw yn fenowgh cannas, nag yw styfnydh. Pan fydhyn pyth yw an cannas, y hwelir pyth a brofy nessa.
 
-## Prag y nagh den yn byw gans demensya gwriansow?
+## Prag y hwra nebonan gans dementia gwrthod gweythresow?
 
-Yn fenowgh yma acheson, kyn na yll an den y leverel yn geryow. Yma [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ow notya y hyll an nagha styrya na yll an den gul an ober po yma own dhodho assay. Achosow kemeneth yw:
+Yn fenowgh yma reson, kynth yw an person dh'y worra yn geryow. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) a noter y gall gwrthod styrya na yll an person gul an ober po yma own dhodho a brofy. Yma achosyow kemmyn:
 
-- **Yth yw re gales.** Yma edhom dhe'n ober a abilitaow re veu gwrys kales gans demensya lemmyn, ha gall bos methys a-rag nebon aral bos meethys.
-- **Yth yw re floghves.** Yma tus oos yn aswon skeusennow kepar ha kartonow, levow kanowa ha gwriansow a hevel bos gwrys rag fleghes.
-- **Skwithder.** Yma nebes tus gans le a nerth diwettha y'n dydh. Gwrewgh mires orth [gwriansow kosel yn diwedh an dohajydh](/caregiving/late-day-restlessness/).
-- **Andhesedhek korfek.** Yma an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ow rol payn, re nebes kousk, kalesder gweles po klewes, koth, nown po syghes, hag effeythyow a vedhegneth nowydh avel achosow posybyl a dhistregh.
-- **Re veur ow hwarvos.** Gall pellwolok ughel, lies kesklapp po stevel leun bos re veur rag an den.
-- **Bos gul press.** Yma an NIA ow henwel gul press war dhen dhe wul neppyth re veu gwrys pur gales gans demensya, po dhe borth memor a hwarvosow po tus, avel achos a kressyans.
-- **Mood isel.** Gall koll didholla yn taklow bos arwodh a dhykres, ha gwiw yw y ughelhe dhe'n medhek.
-- **Ny vynns i yn sempel.** Yma gwir dhe dus oos leverel 'na'.
+- **Re galed yw.** An gweythres a vo res skils a wras dementia kalet, ha sham yw felli a rag nebonan.
+- **Re vugel yw.** An dus a wel skewesow cartoun, levow can-dons ha gweythresow a omglew a ve gwrys rag flogh.
+- **Skwithder.** Lies person a vo nerth le diwedh an dydh. Gwel [gweythresow kalm diwedh an dydh](/caregiving/late-day-restlessness/).
+- **Discomfort corf.** An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a rol poen, dialog a gosk, calet gweles po calet cleves, kudyn an keth, nown, syched hag effekyow a-gostys medhegnethow nowydh avel achosyow possybil a drubyl.
+- **Re a dra ow hwarvos.** Teledu lev uhel, lies dadhlans po chamgyr a dus a yll bos re dreheves.
+- **Omglew bos sethys.** An NIA a henves bos sethys dh'y wul tra a wras Alzheimer's pur galed, po dh'y govia darvoudow po personow, avel achos a drobel.
+- **Tristys.** Koll a interest yn traow a yll bos merk a iselder, a dal y dhyri dh'y medhek.
+- **I a vynn nag yn unig.** An dus a yll leverel 'nag'.
 
-## Fatel y talvien assay pan lever an den 'na'?
+## Pyth a daldh vy profy pan wrelhons i leverel 'nag'?
 
-Acceptyewgh an 'na' yn kosel, hag ena chanjyewgh neppyth: an eur, an ober, an kaletter, po an fordh may hwi a wovynn.
+Aswon an 'nag' yn kalm, ha chanjy tra: an dermyn, an gweythres, an caleter po'n for a wovynnydh.
 
-1. **Gasa war-lergh rag lemmyn.** "Yw da, martesen diwettha." Ena kerdhewgh dhe neppyth aral heb hanas.
-2. **Assay arta diwettha.** Yma an Alzheimer's Association ow kul profyans dhe assay arta diwettha, po yn eur dyffrans y'n dydh.
-3. **Gwrewgh y le.** Un kespar yn le a wari dien. Onan towelynn yn le an basked ledh. Nebes skeusennow yn le a lies, po gasa skeusennow dhe vos gweladow.
-4. **Offry dew dhewis.** "A vynns ta mires orth skeusennow edhyn po goslowes orth nebes ilow?" Yma dhewis ow ri kontal war dhaskor.
-5. **Govyn orth an den dhe weres yn le gul devnydh anodho.** "A yllyn ta weres dhymm sortya an re ma?" po "Py liw a hevel gwell dhis?" Yma bos edhom dhe nebon ow kul dyffrans meur ages bos provys.
-6. **Dalleth hwi agas honan.** Dalleth an ober ryb an den heb y govyn. Yn fenowgh y tew tus orth y gesoberi pan yw neppyth ow hwarvos seulabrys, ha mars ny wraons, hwi re spendyas termyn war-barth yn still.
-7. **Skwychya dhe neppyth korfek po hevur.** Kerdh berr, ilow, brygh, plyga lien, po paus [analya kosel](/games/calm-breathing/) war-barth. Yma an NIA ow kul profyans dhe dhevi attentans dhe ilow, lyver po kerdh.
-8. **Gasa dhedho gul y'n fordh y fynn.** Mars myn an den gwari yn fordh aral ages an reoliow, kerdhewgh ganso. Yma an Alzheimer's Association ow kelwel bos fleksybel.
+1. **Gad an peth rag diwedh.** 'Yw da. Martesen diwedh.' Ha passya dhe dra arall heb hans.
+2. **Profy arta diwedh.** An Alzheimer's Association a ginnig profy arta diwedh, po yn dermyn dyffrans a'n dydh.
+3. **Gwruthyl le.** Unn gevel yn le cwari oll. Unn towel yn le'n cosh gwan. Le a skewesow, le a dhewis, skewesow gada yn wel.
+4. **Cinnig dew opsiyon.** 'A vynneta gweles skewesow an edhyn po goslow orth nebes ilow?' Dewis a dhaskor sens a rewl.
+5. **Pysi rag gweres yn le performyans.** 'A allesta ow gweres derc'h an re ma?' po 'A allesta lavar dhym py liw a omglew gwell?' Yma sens pur dyffrans yn bos euskor ages yn bos apposys.
+6. **Dalleth yt y honan.** Dalleth an gweythres a-ji dhodho heb govyn. Lies person a ystydh yn pan vo tra ow hwarvos dija, ha mar nyns a wra, ty a wras spena termyn war-barth.
+7. **Jerya dhe dra gorfor po kalm.** Caminada berr, ilow, nebes boes, pleghyan gwan, po pauses [anal kalm](/games/calm-breathing/) a-ji. An NIA a ginnig treyattya an attention dhe ilow, lyver po caminada.
+8. **Gada i dh'y wul yn aga for a honan.** Mar vynnons i cwari yn for dyffrans ages an rewl, mos ganso. An Alzheimer's Association a gussul na vo re galed an rewl.
 
-## Pytra dhe leverel pan vo an den fustries?
+## Pyth a daldh vy leverel pan wrelhons i dos diwodhes?
 
-Gorregewgh, iselhewgh agas lev ha ri aswonvos. Yma [gansow an Alzheimer's Association war kressyans](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ow kul profyans dhe omdenna yn gil ha govyn kummyas, devnydh geryow kosel ha positif, hag offry dhewis gans dew opsiwn. Yma geryow yn keth spyrys:
+Hedh, isa dha lev, ha lavar traow a gomfort. An [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) a ginnig omdenn ha govyn a vyns i, usya lavarow kalm ha positiv, ha cinnig dewis gwandys ynter dew opsiyon. Lavarow yn y spyrys ma:
 
-- "Drog yw genev, yma hemma ow kul fustrigeth. Gasa dhyn."
-- "Yth es ta ow gul yn ta. Yma ov ryb dhis."
-- "A eus termyn dhis dhe weres dhymm gans neppyth aral?"
-- "A vynnsyn ni kavos paned a de yn le?"
+- "Re grossdh vy, an hwn ma yw tynn. Stoppyn."
+- "Ty a wra da. My a vo omma."
+- "A 'th eus termyn dh'ow gweres gans tra arall?"
+- "A gavyn pan a de yn le?"
 
-Ena diwedhewgh an ober heb gul travyth bras anodho. Agan [kussulyow kesklapp](/caregiving/communication-tips/) a re moy a derivadow war pytra dhe leverel.
+Ha worfen an gweythres heb y wul tra veur. Agan [kussullyow a gesklev](/caregiving/communication-tips/) a vo moy a-dro dh'y lavar.
 
-## Pytra dhe worthevos?
+## Pyth a daldh vy ocheti?
 
-Yma nebes dasoberow naturel a yll gul taklow gweth.
+Nebes dasoberyansow naturel a wra an taken gweth.
 
-- **Na erbylyewgh na gul press.** "Deus, yn un arta" po "Da yw gen ta hemma yn kyns" a yll bos diwerek yn fenowgh.
-- **Na wrewgh govyn po korygi.** "Godhvydh pytra yw hemma" po "Na, kamm yw an na" a re moy a wask.
-- **Na kemmerhewgh yn personel.** Yma an NIA ow memor dhe withysi bos an klav, nyns yw an den, a wra kawsya an chanjyow ma.
-- **Na bos re ogas po re uskis.** Yma an Alzheimer's Association ow kul profyans na vynns hwi ughe agas lev, diskwedhes own, kuffa, bos re ogas, lettya, kensura, skonya po erbyla orth an den, ha worthevos gwayansow ansydh a-dryv dhodho.
-- **Na devnydhhewgh kulp.** "My re settyas puptra war agas les" a wra gul dhe'gas beu dhe dheuxu hwegach.
-- **Na labelyewgh.** "Malluster" po "kales" a gudd an gwir acheson ha gul y galesa dhe dhiskudha.
+- **Dadhla po sethi.** 'Deus, unn arall yn unig' po 'Ty a gar hwn' ny weres meur.
+- **Apposya po ewnhe.** 'Ty a woer pyth yw hwn' po 'Nag, an hwnnw yw cam' a dhon gwaskeyans.
+- **Kemeres yt yn bersonel.** An NIA a dhison an re a ofal yw an cleves, nag an person, a kawses an chanjyow ma.
+- **Stowa po hasta.** An Alzheimer's Association a gussul na dhyr dha lev, na dhiskwes own, na'n cornel, na'n stowa, na'n dal, na'n blamya, na'n faggy, na dadhla gans an person, hag ocheti gwarnyansow soden dhi-ves aga golok.
+- **Usya kabl.** 'My a worras hyn oll ragos' a wra an dhew omglew gweth.
+- **Gerow a hanas.** 'Styfn' po 'calet' a gudh an reson wir hag a wra an kudyn moy calet dhe ewnhe.
 
-## Fatel y hyllyn diskudha pytra yw a-dryv dhe naghow kepar-rag?
+## Fatla y hallav fydha pyth yw a-dryv gwrthodow a-varra?
 
-Gwithyewgh noten syml dres seythen po dew. Yma an NIA ow leverel y hyll holya chanjyow yn emosiwn gweres withysi ha profesyonel yaghheans aswon patron ha diskudha an acheson.
+Gwith noten sympla rag unn seythun po dew. An NIA a lever y gall merkya chanjyow yn ym-dhehavedh weres an re a ofal ha'n re a vo medhegeth dreheves patron ha fydha an achos.
 
-Notyewgh:
+Skrifa:
 
-- an eur y'n dydh;
-- pytra a offrysowgh ha fatel y govynnowgh;
-- pytra o ow hwarvos a-dro (son, vysytyors, pellwolok);
-- fatel y'gas kowsa, y dhybri ha y eva, ha pan wrussons i dhe'n kambr diwotti diwettha;
-- neb medhegneth nowydh po klevesigeth a-dhiwedhes.
+- an dermyn a'n dydh;
+- pyth a ginnigis ha fatla 'th wovynnis;
+- pyth a o ow hwarvos a-dro dhewgh (son, tus a dhe, teledu);
+- fatla i a goskis, a dhas ha a evas, ha pan o an tro diwedh dh'usya an chambour;
+- neb medhegnethow nowydh po cleves a-dhiwedh.
 
-Yn fenowgh y tew patronow yn skon: naghow a hwarv yn unnik wosa 4 a'n eur, yn unnik gans unn wari, po yn unnik pan yw an pellwolok yn ena. Yma gans [gansow Family Caregiver Alliance war emosiwnow demensya](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ow leverel yn sempel: ny yllin ni chanjya an den, mes y hyllyn chanjya agan emosiwn agan honan ha'n kerghynnedh.
+Patron a omdhiskw yn fenowgh yn eyl: gwrthodow a hwarv witcha wosa 16:00, gans unn cwari yn unig, po pan reyth an teledu. An [gwedh a ym-dhehavedh dementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gans Family Caregiver Alliance a lever hynn yn sympl: ny hallwn chanjya an person, mes ni a hall chanjya agan ym-dhehavedh ha'n kylgh.
 
-## Pan talvien kewsel orth medhek a-dro dhe nagha po fustrigeth?
+## Pan daldh vy mos orth medhek a-dro dh'y wrthod po dh'y dhiwodh?
 
-Kewsewgh orth medhek pan vo chanj yn emosiwn ansydh, uskis, po gans arwodhyow a klevesigeth. Yma an NIA ow leverel bos res dhri chanjyow ansydh po ow kavoes uska yn emosiwn dhe attentans medhegel yn skon, yn arbennik mars re veu klevesigeth po chanjyow yn medhegneth diwettha dhodho.
+Keskomolon gans medhek pan vo ym-dhehavedh ow chanjya yn soden po yn eyl, po gans sinyansow a gleves. An NIA a lever y tylys chanjyow soden po a janj yn eyl yn ym-dhehavedh, yn arbennic wosa cleves po chanjyow yn medhegneth a-dhiwedh, bos dhedhys dhe vedhek yn eyl.
 
-Kestewgh orth aga medhek yn skon mars hwi a wra aswon:
+Contactya aga medhek yn eyl mar gwelydh:
 
-- konfusians ansydh po chanj bras dres ourys po dydhyow;
-- arwodhyow a payn, kepar ha gwynseli, gwitha rann a'n korf, po kalesder nowydh ow gwaya;
-- tergh po arwodhyow aral a klevesigeth;
-- medhegneth nowydh po chanjys hag ena chanj yn emosiwn;
-- koll didholla yn ogas puptra, dagrow po omdenna ow pesya dres nebes seythunys;
-- nagha boos po diwas.
+- confusedh soden po chanj meur dres euryow po dydhyow;
+- sinyansow a boen, pecar a krenna, gwitha rann a'n corf, po calet newydh yn movyans;
+- terthen po sinyansow erel a gleves;
+- medhegnethow nowydh po kamm chanjys ha chanj yn ym-dhehavedh wosa hynna;
+- koll a interest yn case oll, daerow po omdennans a vo moy ages dew seythun;
+- gwrthod boes po diodh.
 
-Yma an Alzheimer's Association ow kul profyans a sewyans medhegel throughys rag neb gans arwodhyow emosiynel, yn arbennik pan wraons omdhispletya yn ansydh. Yma Family Caregiver Alliance yn kelwel ynwedh checkya orth an medhek kensa, rag y hyll bos kudyn medhegel a-dryv dhe broblemow emosiynel. Na dhallath, na hedhi na chanjyewgh neb medhegneth heb kewsel orth medhek po kogover.
+An Alzheimer's Association a argemynn whil a-vedhek clok rag nebonan gans sinyansow ym-dhehavedh, yn arbennic pan omdhiskwons yn soden. An Family Caregiver Alliance a gussul ynwedh govyn orth an medhek yn kensa, rag y gall kudynow ym-dhehavedh bos achos medhesel. Na dhalleth, na stoppy, na chanjy medhegneth vyth heb keskomola gans medhek po apothecari.
 
-Mars yma nebon yn peryl po gans arwodhyow a argemmyn medhegel, golyewgh 999. Yma an NIA ow kul profyans leverel dhe'n dasoberer bos demensya gans an den.
+Mar vo nebonan yn bownans po yma sinyansow a bolicey medhesel, gilw 911. An NIA a ginnig lavar dh'an re a dher an gilw yma dementia gans an person. Rag camynnow diogel yn eyl pan vo serri ow mos yn gorf, gweles agan [gwedh a serri ha trevel yn dementia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## A yw da mars ny wren ni travyth oll?
+## Yw da mar nyns a wrelhyn tra vyth?
 
-Ya. Yn nebes dydhyow an gwella ober yw heb ober vyth: esedha war-barth, synsi dornow, goslowes orth rekord kerensa, po mires orth edhyn a-dal an fenester. Nyns yw hwarvos a fyllel. Agan [gansow war wari war-barth](/caregiving/how-to-play-together/) a styry fatel y hyll hedhi a-varr, po nagha dalleth yn tien, bos an dewis ewn.
+Ya. Yn neb dydh, an gweythres gwell yw heb gweythres: esedhans war-barth, dalghen an dhew la, goslow orth platen gerys, po mir orth edhyn a-ves an fenester. Nyns yw hynna fallek. Agan [gwedh a cwari war-barth](/caregiving/how-to-play-together/) a dhiskw prag y gall stoppya yn a-ra po dalleth vyth bos an dhewis ewn.
