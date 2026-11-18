@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Ditirwana tsa Banna ba ba Tshelang le Dementia"
+seoTitle: "Ditirwana tsa Banna ba ba Nang le Dementia: Dilo tsa Nnete"
+description: "Dikakantsho tsa ditirwana tsa banna ba ba tshelang le dementia, tse di agiwang mo tirong, boitlosobodutung le mekgweng ya bogologolo go na le ditshwantshiso, ka dikgakololo tsa pabalesego."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Ditirwana tse di siameng tsa monna yo o tshelang le dementia di tswa mo botshelong
+  jwa gagwe: tiro e a neng a e dira, boitlosobodutu jo a neng a bo rata le mekgwa ya
+  letsatsi. Motho yo o neng a bereka mo ofising a ka itumelela go rulaganya dipampiri,
+  mmeakanyi a ka itumelela didirisiwa tse di phepa, mme morati wa metshameko a ka
+  itumelela motshameko wa bogologolo. Dikgatlhego di farologana, ka jalo simolola ka
+  motho, e seng bong jwa gagwe.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Simolola ka botshelo jwa monna yoo: tiro, boitlosobodutu, mekgwa le se a neng a ikgantsha ka sone."
+  - "Ditiro tse di nang le lebaka, jaaka go rulaganya didirisiwa, go tlhatswa koloi kgotsa go sila legong, gantsi di a ipiletsa go feta tirwana e e utlwalang jaaka tlelaseng."
+  - "Ga se banna botlhe ba ba ratang didirisiwa kgotsa metshameko. Bontsi ba rata go apaya, mmino, go lema, botaki kgotsa go tlhokomela ba bangwe. Botsa, leba mme o latele kaelo ya gagwe."
+  - "Dira ditiro tsa mofuta wa tiro di sireletsegile ka go tlosa didirisiwa tse di bogale, go nna gaufi le go di nolofatsa fa bokgoni bo fetoga."
+  - "Go re nnyaa go letleletswe. Naya seabe, e seng tiro e e patelediwang, mme o leke gape ka letsatsi le lengwe."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Banna ba ba nang le dementia ba itumelela ditirwana dife?"
+    a: "Ga go na lenane le le lengwe, ka gonne dikgatlhego tsa banna di farologana fela jaaka tsa batho botlhe. Tshimologo e ntle ke ditiro tse di golaganeng le tiro ya gagwe ya bogologolo, jaaka go rulaganya dipampiri kgotsa manoko le diboutu, mmogo le boitlosobodutu jo a neng a bo rata, jaaka go tshwara ditlhapi, dikoloi, mmino, go apaya kgotsa metshameko. Leba se a se simololang ka bowena mme o age mo go sone."
+  - q: "Rre o gana ditirwana tsa setlhopha. Nka dira eng?"
+    a: "Batho ba le bantsi, banna le basadi, ba gana ditirwana tse di utlwalang jaaka tlelaseng kgotsa tsa bana. Leka go naya tiro: 'A o ka nthusa go rulaganya tseno?' Setlhopha se sennye kgotsa nako ya lona le le babedi le yone e ka nna bonolo go feta phaposi e kgolo."
+  - q: "A go sireletsegile go mo letla a dirisa didirisiwa?"
+    a: "Fela ka tlhokomelo le didirisiwa tse di sireletsegileng. Tlosa didirisiwa tsa motlakase, magare le sengwe le sengwe se se bogale, mme o neye ditiro jaaka go sila legong, go rulaganya didirisiwa tse di phepa kgotsa go tiisa diboutu tse dikgolo ka seatla. Alzheimer's Association e akantsha go tlosa dilo tse di kotsi mo workshop gore go sila go tle go itumelelege ka pabalesego."
+  - q: "O ne a le setswerere mo tirong. A ditiro tse dinnye di ka mo nyatsa?"
+    a: "Di ka mo dira jalo fa di newa jaaka tiro ya go tlatsa nako. Tlhopha tiro e e leng thuso ya nnete, dirisa dilo tsa bagolo, mme o atametse tiro mo seabe sa gagwe sa bogologolo, jaaka go sekaseka lenane, go rulaganya faele kgotsa go kopanya makwalo. Fa a ne a le setswerere thata, tirwana e e amanang mme e farologane e ka nna botoka go na le go mo bapisa le bogologolo."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Batho ba bantsi ba batla "ditirwana tsa banna ba ba nang le dementia" ka gonne dikakantsho tsa gale di sa tsamaisane le monna yo ba mo itseng. Seo se a tlhaloganyega. Mme karabo ga se lenane la dilo tsa "banna". Simolola ka monna yoo: se a neng a se dira go iphedisa, se a neng a se dira ka mafelo a beke le se se neng se mo dira gore a ikutlwe a na le mosola. Dikgatlhego di farologana. Banna ba le bantsi ba rata go apaya, go lema, go taka kgotsa go opela, mme basadi ba le bantsi ba rata dikoloi le baseball.
 
-## How do I find activities he will actually enjoy?
+## Ke bona jang ditirwana tse a tla di itumelelang?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Simolola ka kgang ya botshelo jwa gagwe. Alzheimer's Association e akantsha go aga [moralo wa letsatsi](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) mo dilong tse a di ratang, tse a sa di rateng, maatla le dikgatlhego, le mo mokgweng o a neng a dirisa letsatsi ka teng. Ipotse:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Tiro ya gagwe e ne e le eng?** Ofisi, polase, feketeri, tiro ya diatla, sesole, thekiso, go ruta, go kgweetsa kgotsa tiro ya mo gae?
+- **O ne a dira eng ka nako ya gagwe?** Go tshwara ditlhapi, dikarata, go dira ka legong, metshameko, kereke, mmino, go apaya kgotsa koloi mo karatšheng?
+- **Mekgwa ya gagwe e ne e le efe?** Kofi le pampiri mo mosong, go leba maemo a bosa kgotsa go tlhatswa koloi ka Matlhatso?
+- **O santse a simolola eng ka bowena?** Fa a simolola tiro jaaka go swepa a sa kopiwa, tiro eo e ka nna karolo ya thulaganyo.
+- **O tila eng?** Batho bangwe ba rata metshameko, ba bangwe ba tenwa ke lobelo le modumo. Lemoga fa a itumetse, a tshwenyegile kgotsa a tenegile.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Bua le ba lelapa le ditsala tsa bogologolo. Ba ka gakologelwa dikgatlhego tse di duleng mo botshelong jwa letsatsi.
 
-## Activity ideas based on past work
+## Dikakantsho tse di theilweng mo tirong ya gagwe
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Motho yo o neng a bereka mo ofising a ka itumelela go rulaganya dipampiri, go kopanya madi mo setshwarong kgotsa go dira lenane. Molemi kgotsa molemi wa tshingwana a ka itumelela go dira kwa ntle. Kakanyo e e tshwanang e dira mo ditirong di le dintsi.
 
-| Past work | Activity ideas | Simpler version |
+| Tiro ya bogologolo | Dikakantsho | Mofuta o o bonolo |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Ofisi kgotsa kgwebo | Rulaganya dipampiri, tshwaya dienfelopo, sekaseka lenane, rulaganya lae ya deseke | Tlhopha dienfelopo; baya paper clips mo lebokosong |
+| Tiro ya diatla kgotsa mechine | Tlhopha manoko, diboutu le washers tse di phepa; tiisa diboutu ka seatla; leba dikatalogo | Tlhopha ka bogolo mo dikoping di le pedi |
+| Temo kgotsa tshingwana | Nosetsa, jala mo pitseng, kgobokanya matlhare, lekola tshingwana | Nna kwa ntle fa wena o dira; tshwara dipakete tsa dipeo |
+| Sesole | Phatsimisa ditlhako, rulaganya lae, leba ditshwantsho tsa tirelo fa a di rata | Reetsa mmino wa motlha oo |
+| Thekiso kgotsa tirelo ya bareki | Amogela baeng, aba dinwamaphiri, rulaganya dikupono | Nna gaufi le kgoro go dumedisa |
+| Go ruta | Bala kwa godimo, rulaganya dibuka, tlhopha ditshwantsho ka setlhogo | Lebang buka ya ditshwantsho mmogo |
+| Go kgweetsa kgotsa dipalangwa | Leba dimmapa kgotsa dimakasine tsa dikoloi, tlhatswa koloi | Leba dikoloi di feta kwa porch |
+| Legae le lelapa | Mena diaparo, baakanya tafole, thusa ka dijo | Boreletsa napkin; tlhakanya |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Gakologelo dingwe, jaaka tirelo ya sesole, di ka tsosa maikutlo a a maatla. Latela kaelo ya gagwe, boloka puo ya bogologolo e le ntle, mme o fetole kgang ka bonolo fa a tshwenyega.
 
-## Activity ideas based on hobbies
+## Dikakantsho tse di theilweng mo boitlosobodutung
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Go dira ka legong.** Sila legong le le borethe kgotsa penta kit ya ntlo ya nonyane. Tlosa dilo tse di kotsi le didirisiwa tse di bogale.
+2. **Go tshwara ditlhapi.** Rulaganya lebokoso la didirisiwa fa dikgotla di tlositswe, leba dimakasine kgotsa nna gaufi le letamo.
+3. **Dikoloi.** Tlhatswa koloi, phatsimisa chrome, leba ditshwantsho tsa dikoloi tsa bogologolo kgotsa tsamaya ka koloi.
+4. **Metshameko.** Leba motshameko wa bogologolo, latlhela bolo e bonolo, tshameka golf mo khapeteng kgotsa rulaganya dikarata tsa baseball.
+5. **Dikarata le metshameko.** Tshameka motshameko wa dikarata o o tlwaelegileng, dominoes kgotsa batla ditshwantsho tse di tshwanang. Boloka e le ya boitumelo mme o tlogele maduo.
+6. **Mmino.** Dipina tsa bosha, setlhopha se a se ratang kgotsa pina ya kereke. Bona [ditirwana tsa mmino](/activities/music/).
+7. **Go apaya le go besa.** Tlhatswa merogo, tlhakanya sauce, dira burgers kgotsa bua ka chili e a neng a e dira fa wena o apaya.
+8. **Pampiri.** Motho yo o neng a bala pampiri a ka santse a itumelela ngwaetelo eo le fa a sa tlhaloganye sengwe le sengwe. Kofi le pampiri di ka nna karolo ya mosong.
+9. **Go aga.** Dirisa model kit ya dikarolo tse dikgolo kgotsa setlhopha sa kago sa bagolo. Tlhopha dikarolo tse di tshwarwang motlhofo.
+10. **Go tlhokomela sengwe.** Fepa phologolo, tlatsa feeder ya dinonyane kgotsa nosetsa dimela. NIA e umaka [go fepa, go tlhapa kgotsa go tsamaya le phologolo](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e le ditirwana tse di ka itumedisang.
 
-## How do I offer an activity without it feeling like busywork?
+## Ke naya tirwana jang e sa utlwaleng jaaka tiro ya go tlatsa nako?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+E naya jaaka thuso ya nnete. Alzheimer's Association e akantsha go botsa "A o ka nthusa?" le go golaganya tiro le lebaka. Bua jaana:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "A o batla go rulaganya diboutu tseno?" (go utlwala jaaka teko)
+- "Ke rekile hardware e e tlhakantsweng mme ke tlhoka go e rulaganya pele ke baakanya shelf. A o ka nthusa?" (go utlwala jaaka tiro)
 
-Other tips:
+Maano a mangwe:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Dirisa dilo tsa bagolo.** Didirisiwa tsa nnete tse di tlositsweng bogale, dikatalogo le dienfelopo.
+- **Dirang bapile.** Batho ba babedi ba dira tiro ke botsalano; motho a le mongwe a lebile yo mongwe ke tlhokomelo.
+- **O se ka wa baakanya.** Fa diboutu di tsena mo koping e e phoso, tlogela. Ntlha ke nako mmogo le maikutlo a go nna le mosola.
+- **Mo thuse go simolola.** Batho ba le bantsi ba santse ba batla go dira dilo mme ba thatafalelwa ke go rulaganya le go simolola. Dirang ya ntlha mmogo.
 
-## How do I adapt as things change?
+## Ke fetola jang fa dilo di fetoga?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Fa dementia e ntse e tswelela, Alzheimer's Association e akantsha ditiro tse di bonolo le tse di boeletswang le go amogela gore motho a ka nna le seabe se sennye. Monna yo o neng a aga mechine a ka itumelela go tshwara wrench e e phepa a bua ka dikoloi, kgotsa a go leba o dira. Go leba ke go nna karolo.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Fa a ne a le setswerere thata, tirwana e e amanang e ka nna botoka go feta tiro ya gagwe ya bogologolo. Motho wa botaki yo o setswerere a ka tenwa ke diphetogo mo tirong ya gagwe, fa motho yo o neng a itlosa bodutu ka botaki a ka itumelela tsela e ntšha. Go ntse fela jalo ka mmetli wa legong.
 
-## Safety with work-style tasks
+## Pabalesego mo ditirwaneng tsa mofuta wa tiro
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Tlosa didirisiwa tsa motlakase, magare, dimapo le diboutu tse di bogale.
+- Tsenya paint thinner, peterole le dikhemikhale mo lefelong le le lotletsweng.
+- Boloka dinotlolo tsa koloi kwa ntle ga pono fa a sa tlhole a kgweetsa.
+- Nna gaufi le ditiro tsotlhe tsa workshop le yard.
+- Tlhopha dikarolo tse dikgolo tse di ka se kometsweng.
 
-## What if he says no?
+## Go tweng fa a re nnyaa?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Se tlotle. Nnyaa e ka raya gore tiro e thata thata, e lebega ya bana kgotsa ga e mo siamele gompieno. Alzheimer's Association e tlhagisa gore o se ka wa pateletsa. Leka tiro e nngwe, nako e nngwe kgotsa nnang mmogo fela. Bona [se o ka se dirang fa a re nnyaa](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Metshameko le motlotlo tse di ka mo siamelang
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) e dirisa dipolelo tse di tlwaelegileng mme e tsosa motlotlo. [Conversation Cards](/games/conversation-cards/) e na le dipotso tse di bulegileng tse di ka tsosang dipale ka tiro le boitlosobodutu. [Picture Puzzle](/games/picture-puzzle/) e boloka setshwantsho sotlhe se bonala fa lo fetola dikarolo, mme [Word Search](/games/word-search/) ya ditlhaka tse dikgolo e ka gatisiwa. Ka kafa lo ka buang ka botshelo jwa gagwe lo sa mo lekeng, bona [kaelo ya dikgakologelo](/activities/reminiscence/).

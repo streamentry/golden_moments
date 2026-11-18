@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Ditirwana tsa Dementia ya Maemo a Morago, mo Bolaong kgotsa Setulong"
+seoTitle: "Ditirwana tsa Dementia ya Maemo a Morago: Bolao le Setulo"
+description: "Ditirwana tse di bonolo tsa dementia ya maemo a morago, go akaretsa motho yo o mo bolaong kgotsa setulong: mmino, go ama, go balela kwa godimo, medumo le go nna mmogo, ka dintlha tsa pabalesego."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Mo dementia ya maemo a morago, ditirwana di ikaega ka ditshikinyego le go nna
+  ga gago teng: mmino o o ratiwang, go tshwarana diatla, go sidila diatla ka bonya,
+  go balela kwa godimo, go leba ditshwantsho, medumo ya tlholego le go nna fa
+  fensetereng kgotsa kwa ntle. Tseno di dira mo bolaong kgotsa setulong. Boloka
+  dikopano di le dikhutshwane, leba sefatlhego le diatla, mme o gakologelwe gore
+  go nna teng ke tirwana ka boyone.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Kgolagano e santse e kgonega. Mo maemong a morago, lefatshe le itemogelwa thata ka ditshikinyego."
+  - "Mmino, go ama ka bonolo, mantswe a a tlwaelegileng le dilo tse di bonolo go tshwarwa gantsi di fitlhelela batho fa mafoko a sa tlhole a dira jalo."
+  - "Mo e ka nnang kakantsho nngwe le nngwe fano e dira mo mothong yo o mo bolaong kgotsa setulong."
+  - "Leba boiketlo le go sa iketle mo sefatlhegong, diatleng le mo hemong, mme o emise fa go na le letshwao la kgatelelo."
+  - "Tila dilo tse dinnye, mme naya dijo kgotsa dino fela jaaka setlhopha sa kalafi se akantsha, ka gonne go kometsa go ka nna kotsi."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Ke ditirwana dife tse o ka di dirang le motho yo o nang le dementia ya maemo a morago yo o mo bolaong?"
+    a: "Tshameka mmino wa gagwe o o o ratang, mo tshware ka seatla, mo sidile diatla ka bonya ka lotion, bala buka kgotsa thapelo e a e ratang, bontsha ditshwantsho, kgotsa tshameka medumo e e bonolo ya tlholego. Bula digaretene gore a bone kwa ntle. Dikopano tse dikhutshwane le tse di ritibetseng, sengwe se le sengwe ka nako, gantsi di dira sentle."
+  - q: "A batho ba ba nang le dementia ya maemo a morago ba santse ba ka itumelela mmino?"
+    a: "Bontsi bo ka kgona. Alzheimer's Association e re le mo maemong a morago motho a ka kgona go itaya morethetho kgotsa go opela pina ya bongwana. Tlhopha mmino o a neng a o rata a le monnye mme o boloke modumo o le kwa tlase."
+  - q: "Ke itse jang gore ba itumelela tirwana?"
+    a: "Leba matshwao a mannye: magetla a a iketlileng, sefatlhego se se bonolo, go lebelela, go opela ka fa tlase, go gatelela seatla kgotsa go hema ka bonya. Go sosobanya sefatlhego, go ikgogela, go tshikinyega kgotsa go bokolela go ka raya go sa iketle kgotsa botlhoko. Fa o bona tseno, emisa mme o bolelele setlhopha sa kalafi fa di tswelela."
+  - q: "A go mosola go etela fa ba sa tlhole ba nkitsitse?"
+    a: "Ee. National Institute on Aging e re go nna teng fela go ka ritibatsa, mme go ama, mmino le dipale di santse di ka tlisa boiketlo mo dementia e e tsweletseng. Lentswe le go ama ga gago di ka bo di tlwaelegile le fa leina la gago le sa itsiwe."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Mo dementia ya maemo a morago, motho a ka bua go le gonnye, a tlhoka thuso mo tlhokomelong yotlhe ya letsatsi mme a fetsa letsatsi le le ntsi mo bolaong kgotsa setulong. Go ka utlwala e kete ga go sa na se lo ka se dirang mmogo. Mme se teng. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) e re karolo nngwe ya botho jwa motho e ka nna ya sala, mme mo nakong eno lefatshe le itemogelwa thata ka ditshikinyego. Mmino, go ama, lentswe le le tlwaelegileng le go nna ga gago ka tidimalo di santse di ka tlisa boiketlo le dinako tsa kgolagano.
 
-## What activities help in late-stage dementia?
+## Ke ditirwana dife tse di thusang mo dementia ya maemo a morago?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Ditirwana tse di bonolo tsa ditshikinyego le go nna mmogo ka tidimalo di thusa thata. Alzheimer's Association e akantsha mmino o o ratiwang, go bala dikarolo tsa dibuka tse di botlhokwa, go tshasa lotion e e nang le monkgo o o ratiwang, le go nna kwa ntle ka letsatsi le le siameng. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) e oketsa ka dipale, ditshwantsho, go ama kgotsa go sidila ka bonolo, white noise kgotsa medumo ya tlholego, mme e re go nna teng ga gago fela go ka ritibatsa.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e re batho ba maemo a morago gantsi ba tlhoka go tshwara sengwe gaufi gore ba ikutlwe ba sireletsegile, mme e akantsha ditirwana tse di bonolo tsa ditshikinyego, go ikotlolla ka bonolo, go tsamaisa sekhafo, mmino, ketelo ya diphologolo, go ama motho le botaki jo bo se nang sebopego se se rileng.
 
-## Activities for someone in bed or a chair
+## Ditirwana tsa motho yo o mo bolaong kgotsa setulong
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Tshameka mmino wa gagwe.** Tlhopha dipina tsa dingwaga tsa gagwe tsa bogolo, tumelo ya gagwe kgotsa lelapa. Boloka modumo o le kwa tlase mme o nne gaufi. Bona [ditirwana tsa mmino](/activities/music/).
+2. **Tshwaranang diatla.** Go tshwara seatla fela, o se kgoma ka monwana o mogolo ka bonolo, ke tirwana. Bua se o se dirang pele.
+3. **Sidila seatla ka bonya.** Tlhotla lotion e nnye mo diatleng mme o kgome go tswa mo seatleng go ya kwa menwaneng. Dirisa e e se nang monkgo kgotsa monkgo o a o ratang fa letlalo le o amogela.
+4. **Bala kwa godimo.** Leboko, karolo ya buka e a e ratang, dikwalo tsa tumelo kgotsa pampiri ya metshameko. Morethetho wa lentswe o botlhokwa go feta mafoko.
+5. **Anela kgang.** Bua ka loeto lwa lelapa kgotsa letsatsi le ba nyalaneng ka lone. Ga go tlhokege karabo.
+6. **Bontsha ditshwantsho.** Tshwara setshwantsho se segolo se le sengwe ka nako mo lefelong la matlho mme o se tlhalose ka mofuthu. O se ka wa botsa gore ke mang yo o mo go sone.
+7. **Naya sengwe se se bonolo go se tshwara.** Lesela le le mennweng, karolo ya fleece kgotsa phologolo e e bonolo. NIA e akantsha lesela la go tlhatswa le a ka le tshwarang fa a tsamaisiwa.
+8. **Tshameka medumo ya tlholego.** Pula, makhubu kgotsa pina ya dinonyane ka modumo o o kwa tlase di ka nolofatsa phaposi e e modumong.
+9. **Tlisa kwa ntle mo teng.** Bula digaretene, baya feeder ya dinonyane kwa ntle ga fensetere, kgotsa tlisa dipalesa kgotsa matlhare a matsha.
+10. **Yang kwa ntle.** Fa a kgona go nna mo wheelchair, metsotso e se kae mo moriting mo letsatsing le le bonolo e ka nna monate.
+11. **Kama moriri kgotsa naya letsela le le bothitho.** Tlhokomelo e e bonya le letsela le le bothitho mo diatleng le sefatlhegong di ka ikutlwa e le lorato.
+12. **Tsamaya ka bonolo le mmino.** Tsamaisa sekhafo se se bobebe mmogo kgotsa tshikinyang diatla ka morethetho. Ka go ikotlolla, kopa physiotherapist kgotsa mooki a go bontshe tsela e e sireletsegileng.
+13. **Dirang botaki jo bo gololosegileng.** Tshasa pente e e se nang botlhole mo pampiring e kgolo ka seponche kgotsa seatla, o kaela ka sa gago. Ga go na maduo a a siameng kgotsa a a phoso.
+14. **Amogelang ketelo ya diphologolo.** Phologolo e e ritibetseng mo bolaong kgotsa diropeng, fa motho a ne a rata diphologolo mme lefelo le letla.
+15. **Hemang ka bonya mmogo.** Nnang gaufi mme lo heme ka bonya. [Calm breathing](/games/calm-breathing/) e ka le thusa go tsamaisa lobelo, mme wena o simolola o bo o emisa.
+16. **Nna teng fela.** Nna gaufi, opela ka fa tlase, loga kgotsa bala ka tidimalo. Go nna teng go lekane.
 
-## How to share an activity at this stage
+## Kafa lo ka abelanang tirwana mo nakong eno
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Atamela o le kwa pele.** Bitsa leina la gagwe le la gago, mme o bue ka bonya pele o mo ama.
+- **Naya sengwe se le sengwe ka nako.** Tima TV pele ga mmino. Dirang kutlwisiso e le nngwe ka nako.
+- **Boloka nako e le khutshwane.** Metsotso e se kae e ka lekana. Dinako di le mmalwa tse dikhutshwane mo letsatsing di botoka go feta kopano e telele.
+- **Baakanya boiketlo pele.** Tlhomamisa gore mmele o tshegeditswe sentle. NIA e akantsha board e e mo diropeng go tshegetsa diatla le mmele fa a ntse.
+- **Leba karabo.** Direso tse di iketlileng, sefatlhego se se bonolo, go leba kgotsa go opela di ka bontsha boiketlo. Go bokolela, go sosobanya sefatlhego kgotsa go tshikinyega ka tshoganyetso go ka bontsha botlhoko. Emisa mme o bolelele setlhopha sa kalafi.
 
-## A quick guide by sense
+## Kaelo e khutshwane ka kutlwisiso
 
-| Sense | Ideas | Take care |
+| Kutlwisiso | Dikakantsho | Tlhokomelo |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Kutlo | Mmino o o ratiwang, lentswe la gago le bala, medumo ya tlholego | Boloka modumo o le kwa tlase; modumo o le mongwe ka nako |
+| Go ama | Go sidila seatla, go tshwarana diatla, letsela le le bonolo, letsela le le bothitho | Botsa kgotsa itsise pele; lekola gore letlalo ga le botlhoko |
+| Pono | Ditshwantsho, dipalesa, ponalo ya fensetere, bidio ya tlholego e e tsamayang ka bonya | Tshwara dilo mo lefelong la matlho; lesedi le le siameng, go se na phatsimo |
+| Monkgo | Lotion e a e ratang, dipalesa, kofi e e bedisiwang gaufi | Tila monko o o maatla; lekola go sa dumelane le monko le go hema |
+| Tatso | Lomo lo lonnye lwa tatso e a e ratang | Dijo le dibopego fela tse setlhopha sa kalafi se reng di sireletsegile |
 
-## Safety at this stage
+## Pabalesego mo maemong ano
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Go kometsa go ka nna thata mo dementia ya maemo a morago, mme NIA e tlhagisa gore seno se oketsa kotsi ya go kgamiwa. O se ka wa tlogela dilo tse dinnye gaufi, mme o naya dijo kgotsa dino fela ka dibopego le maemo a setlhopha sa kalafi se se akantseng. Lekola letlalo ka bonolo fa lo dira ditirwana tsa go ama, ka gonne le ka gagoga kgotsa la ngaparela bonolo. Bona [ditirwana tsa ditshikinyego](/activities/sensory/) go bona go feta.
 
-## Looking after yourself too
+## Itlhokomele le wena
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Tlhokomelo ya maemo a morago e lapisa mmele le maikutlo, kwa gae kgotsa fa o etela kwa lefelong la tlhokomelo. Ditlhopha tsa hospice le palliative care di ka thusa ka boiketlo, tshegetso le dithulaganyo, mme NIA e di umaka e le metswedi ya thuso. Dikopano tse dikhutshwane tse di ritibetseng di botlhokwa; bona [go etela motho yo o nang le dementia](/activities/visiting/). Fa o etelela setlhopha pele, [ditirwana tsa setlhopha sa lefelo la tlhokomelo](/activities/care-home-groups/) di na le dikakantsho. Bala gape [go itlhokomela ga motlhokomedi](/caregiving/caregiver-self-care/): go ikhutsa ke karolo ya tlhokomelo e e siameng.

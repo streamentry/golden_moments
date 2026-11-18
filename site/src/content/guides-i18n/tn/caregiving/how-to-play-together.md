@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Kafa o ka Dirang Metshameko le Motho yo o Nang le Dementia"
+description: "Kaelo e e dirang gore go nne bonolo go dira metshameko le motho yo o tshelang le dementia: ipaakanyeng, tsamaisang lobelo, se baakanye diphoso, nolofatsa metshameko, mme o itse gore o emise leng."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Tsaya motshameko e le nako ya go nna mmogo, e seng teko. Tlhopha nako e e
+  ritibetseng, nnang bapile mo phaposing e e didimetseng, mme o neye motshameko
+  o le mongwe o o bonolo. Letla motho a tlhome lobelo, o se ka wa baakanya
+  diphoso tse di se nang kotsi, nolofatsa motshameko fa o bona letsapa la ntlha,
+  mme o dirise ditshwantsho go simolola motlotlo. Emisa fa go santse go le monate.
+  Go emisa pele ga nako, kgotsa go leba mmogo fela, ke maduo a a siameng.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Maikaelelo ke boitumelo le kgolagano, e seng go fetsa kgotsa go bona dikarabo tsotlhe sentle."
+  - "Ipaakanyeng pele: phaposi e e didimetseng, lesedi le le siameng, digalase le didirisiwa tsa kutlo di beilwe, TV e timilwe, motshameko o le mongwe o ipaakantse."
+  - "O se ka wa baakanya diphoso tse di se nang kotsi. Bua o re, \"A re leke jaana\" kgotsa tswelela fela."
+  - "Nolofatsa motshameko pele kgobego ya marapo e gola: ditshwantsho di le mmalwa, ditlhopho di le mmalwa, mme ditshwantsho di sale di bonala."
+  - "Dirisa ditshwantsho go simolola dipale ka \"Mpolelele ka...\" go na le \"A o a gakologelwa...?\""
+  - "Emisa fa go bonala matshwao a ntlha a letsapa kgotsa go tshwenyega. Go emisa pele ga nako ke katlego, e seng go palelwa."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Re tshwanetse go dira motshameko lobaka lo lo kae?"
+    a: "Ga go na boleele jo bo siameng fela. Mo bathong ba le bantsi, metsotso e se kae e lekane, mme malatsi mangwe potologo e le nngwe e lekane. Leba motho, e seng tshupanako, mme o emise fa a santse a ritibetse."
+  - q: "A ke tshwanetse go ba letla ba fenye kgotsa ke itire e kete ga ke bone diphoso?"
+    a: "Mo motshamekong wa go nna mmogo o o se nang kgatelelo, ga go na go fenya kgotsa go latlhegelwa. Fa phoso e sa tshwenye motho, e tlogele. Fa e bonala e mo tshwenya, thusa ka tidimalo kgotsa nolofatsa motshameko o sa e supeng."
+  - q: "Go tweng fa ba rata go nteba ke dira motshameko?"
+    a: "Go siame. National Institute on Aging e akantsha gore motho a ka leba fela fa a itumelela seo thata. Bua ka se lo se bonang mme o mo laletse go supa kgotsa go tlhopha fa a batla."
+  - q: "A metshameko eno ke tsela ya go leka kgakologelo?"
+    a: "Nnyaa. Metshameko ya rona ke ditirwana tse di bonolo tsa go nna mmogo, tsa boitumelo le motlotlo. Ga se teko ya kgakologelo, ga e lekanye sepe, mme ga se kalafi ya dementia."
+  - q: "Ke motshameko ofe o o siameng go simolola ka one?"
+    a: "Simolola ka o o bonolo go gaisa o o tshwanetseng motho yoo. Picture Pairs ka ditshwantsho di le nne tse di bonalang, kgotsa Find the Same ka ditlhopho di le pedi, ke tshimologo e e bonolo. Conversation Cards di siametse motho yo o ratang go bua go feta go tobetsa."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Motshameko o o monate le motho yo o tshelang le dementia ga o tshwane le kgaisano. O tshwana le batho ba babedi ba ba ntseng gaufi, ba supa ditshwantsho, ba tshega ka polelo, mme ba bua ka sengwe le sengwe se se tlhagang. Motshameko ke lebaka fela la go fetsa nako mmogo.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Kaelo eno e bua ka kafa o ka ipaakanyang ka teng, kafa o ka tsamaisang lobelo ka teng, se o ka se buang fa sengwe se sa tsamaye sentle, kafa o ka nolofatsang kgotsa wa thatafatsang motshameko ka teng, kafa o ka o fetolang motlotlo, le kafa o ka itseng gore o emise leng. E dira mo [metshamekong ya rona](/games/) le mo dikarateng, dipuzzle le metshamekong ya boto e lo setseng lo na le yone.
 
-## What is the best way to play a game with someone who has dementia?
+## Tsela e e siameng ya go dira motshameko le motho yo o nang le dementia ke efe?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Tsenya kgatlhego mo boitumelong, e seng mo go fitlheleleng maduo. Seo ke kgakololo ya konokono ya [Alzheimer's Association ka ditirwana](https://www.alz.org/help-support/caregiving/daily-care/activities): dirisa bokgoni jo motho a santse a na le jone, mo thuse go simolola, fetsa dikarolo tse di thata ka bowena, mme o se ka wa tshwaya diphoso kgotsa wa baakanya ditirwana tse di se nang kotsi.
 
-In practice that means:
+Mo tirong seno se raya gore:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Nna fa thoko ga gagwe, e seng kwa pele ga gagwe.** Fa lo bapile, lo bona skrini kgotsa tafole mmogo, mme thuso e utlwala e le tiro ya setlhopha e seng tlhokomelo.
+- **Naya motshameko o le mongwe ka nako.** Lenane la ditlhopho le ka utlwala jaaka teko pele lo simolola.
+- **Latela kaelo ya gagwe.** Fa a batla go tobetsa ditshwantsho ka thulaganyo ya gagwe, go bua ka setshwantsho se le sengwe metsotso e le lesome, kgotsa go emisa morago ga dipotologo di le pedi, seo ke motshameko wa gompieno.
+- **Bala dinako tse di monate, e seng dipotologo tse di feditsweng.** Monyenyo, kgang kgotsa halofo ya ura e e ritibetseng ke maduo a o a batlang.
 
-## How do I set up before we start?
+## Ke ipaakanyetsa jang pele re simolola?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Metsotso e se kae ya go ipaakanya e thibela bontsi jwa kgobego ya marapo e batho ba e pegisang motshameko.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Tlhopha nako e a leng botoka ka yone mo letsatsing.** [Kaelo ya National Institute on Aging (NIA) ya go fetola ditirwana](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e akantsha go rulaganya maeto le ditirwana ka nako e motho a leng botoka ka yone. Mo bathong ba le bantsi, ke mo bogareng jwa moso. Kwa bokhutlong jwa thapama gantsi go thata; bona [ditirwana tse di ritibetseng kwa bokhutlong jwa thapama](/caregiving/late-day-restlessness/).
+2. **Dira phaposi e didimale.** Tima TV le radio mme o tswale kgoro fa o kgona. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e akantsha go fokotsa modumo le dilo tse di kgaoganyang maikutlo pele o leka go bua.
+3. **Lekola boiketlo pele.** Nwa e le gaufi, a ye ntlwaneng pele, setulo se se monate, digalase le didirisiwa tsa kutlo di beilwe.
+4. **Naya lefelo lesedi le le siameng.** Lesedi le le phatsimang, le le lekalekanang le le se nang phatsimo mo skrining le dira gore ditshwantsho di bonale motlhofo.
+5. **Baakanya motshameko pele lo nna fatshe.** O bule, tlhopha di-setting mme o baakanye modumo ka bowena. Jaanong retolosetsa skrini kwa go ene. Ka dikgakololo tsa tablet, bona [go baakanya tablet kgotsa founo](/caregiving/tablets-and-screens/).
+6. **Tsamaisa sedirisiwa se eme.** Setlhomo kgotsa kgetsi e e tshwarang tablet e eme e raya gore ga go ope yo o tshwanetseng go e tshwara, mme go nna bonolo go supa.
 
-## How do I invite them without pressure?
+## Ke ba laletsa jang ke sa ba pateletse?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Dira taletso e nne ya gale, mme go nne bonolo gore ba re nnyaa. Mafoko mangwe a a ka amogelwang sentle ke ano:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Ke bone ditshwantsho tsa tshingwana. A o batla re di lebe mmogo?"
+- "A o ka nthusa ka puzzle eno? Ke eme mo go yone."
+- "A gompieno o batla dipalesa kgotsa dinonyane?" (ditlhopho di le pedi di bonolo go feta potso e e bulegileng)
+- "Ke direla ausi wa gago karata. Mmala ono o tshwanetse go nna ofe?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association e akantsha go tlhalosa lebaka la tirwana, jaaka go direla tsala karata, ka gonne lebaka le e naya bokao. Go kopa thuso le gone go a thusa ka gonne go dira gore motho a ikutlwe a na le mosola.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Fa a re nnyaa, amogela seo. Leka gape moragonyana kgotsa naya sengwe se sele. Kaelo ya rona ya [se o ka se dirang fa a re nnyaa](/caregiving/when-they-say-no/) e tlhalosa go feta.
 
-## How long should a game last, and how fast should we go?
+## Motshameko o tshwanetse go tsaya lobaka lo lo kae, mme re tsamaye ka lobelo lo lo kae?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Letla motho a tlhome lobelo mme o rulaganye dikopano tse dikhutshwane. Ga go na boleele jo bo siameng jwa motshameko wa go nna mmogo jo bo theilweng mo bosuping. Metsotso e le mebedi go ya go e le metlhano e e ritibetseng e ka nna tirwana e e feletseng.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Emela lobaka lo loleele go feta lo lo go tlwaelegelang.** NIA e gakolola go neela motho nako e ntsi ya go araba le go tila go mo tsenya ganong. Bala go fitlha go lesome mo mogopolong pele o thusa.
+- **Kgato e le nngwe ka nako.** Naya taelo e le nngwe e khutshwane ("Tobetsa setshwantsho"), mme o eme. Bontsha go na le go tlhalosa: supa kwa go tshwanetseng go tobetswa.
+- **Emisa ka kgololesego.** Fa a emisa go bua ka setshwantsho, motshameko o ka leta. Ga go tlhokege go potlaka.
+- **Mo letle a lebe.** NIA e re batho bangwe ba rata go leba, mme eo ke tlhopho e e siameng.
 
-## Should I correct wrong answers?
+## A ke tshwanetse go baakanya dikarabo tse di phoso?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Nnyaa. Go baakanya motho gantsintsi go dira gore a ikutlwe a palelwa, le fa o ikaeletse molemo. Alzheimer's Association e gakolola gore o se ka wa tshwaya diphoso kgotsa wa baakanya ditirwana tse di se nang kotsi. Mo motshamekong, diphoso di le dintsi ga di na kotsi.
 
-| Instead of | Try |
+| Mo boemong jwa | Leka |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Nnyaa, seo se phoso." | "A re leke jaana." (ke sekai se NIA e se nayang) |
+| "Seo ga se tsamaisane. Leba gape." | Se bue sepe mme o tswelele ka nako e e latelang, kgotsa o re, "Ao, tseno tsoopedi di khibidu." |
+| "A o a gakologelwa gore yono ke mang?" | "Mpolelele ka setshwantsho seno." |
+| "O setse o dirile seo." | "Seo se molemo. A re se direng gape." |
+| "Tlaa, o itse seno." | "A o batla ke go bontshe bokhutlo?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Fa phoso e mo kgobegisa marapo ka nnete, thusa ka tidimalo. Supa setshwantsho se se siameng, tsaya nako ya gago, kgotsa nolofatsa motshameko mo potologong e e latelang. Fa polelo e felela ka tsela e e tshegisang e e phoso, tshega le ene. Bokhutlo jwa gagwe bo ka nna botoka.
 
-## How do I make a game easier or harder?
+## Ke dira motshameko o nne bonolo kgotsa o nne thata jang?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Fetola motshameko go ya ka motho wa letsatsi leo, e seng go ya ka leina la kgato ya dementia. Motho a le mongwe a ka tlhoka mofuta o o bonolo maitseboa go feta mo mosong. Kgakololo ya ntlha ya NIA ke go bapisa tirwana le se motho a ka se dirang le go tlhomamisa gore o ikutlwa a atlega.
 
-| Game | Make it easier | Make it a little harder |
+| Motshameko | O dira gore o nne bonolo | O dira gore o nne thata go le gonnye |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Simolola ka dikarata di le 4 mme o tlogele ditshwantsho di bonala | Oketsa dikarata, kgotsa fitlha ditshwantsho fa seo se mo siamela |
+| [Find the Same](/games/find-the-same/) | Ditlhopho di le 2 | Go fitlha go ditlhopho di le 4 |
+| [Sort Together](/games/sort-together/) | Wena tshwara setshwantsho, ene a supa seroto | Ene a tobetsa setshwantsho le seroto ka bowena |
+| [Picture Puzzle](/games/picture-puzzle/) | Dikarolo di le 4, buang ka setshwantsho sotlhe pele | Dikarolo di le 9 |
+| [Finish the Saying](/games/finish-the-saying/) | Bontsha bokhutlo, mme lo bo bue mmogo | Mo letle a bua bokhutlo pele a tobetsa |
+| [Word Search](/games/word-search/) | E gatise, batlang lefoko le le lengwe mmogo, lo supe tlhaka ya lone ya ntlha | Mo letle a tlhopha lefoko le le latelang |
+| [Coloring](/games/coloring/) | Tlhopha mebala e le mebedi, ene a tlhopha fa gare ga yone | Ene a tlhopha mebala yotlhe |
+| [Conversation Cards](/games/conversation-cards/) | Lebang setshwantsho mmogo fela | Dirisang dipotso tse di bulegileng mo karateng |
+| [Photo Pairs](/games/photo-pairs/) | Ditshwantsho di le mmalwa tsa lelapa tse di ratiwang | Oketsang ditshwantsho |
+| [Picture Bingo](/games/picture-bingo/) | Motlhokomedi a nne le motshameki mongwe le mongwe | Batshameki ba tshwaye dikarata tsa bone |
+| [Calm Breathing](/games/calm-breathing/) | Nnang fatshe mme lo e lebe mmogo | Hemelang ka bonya mmogo nayo |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Matshwao a gore motshameko o thata thata: go didimala lobaka lo loleele ka poifo go na le go akanya, go boeletsa "Ga ke kgone", go kgorometsa sedirisiwa, kgotsa diphoso tse di mo tshwenyang. Matshwao a gore o bonolo thata: bodutu, kgotsa a re o tshwana le wa bana. Fa seo se direga, se tlotle mme lo fetolele kwa go sengwe se se tshwanetseng bagolo, jaaka word search, puzzle ya setshwantsho sa nnete, kgotsa go bua ka setshwantsho sa tiro ya gagwe ya bogologolo.
 
-## How do I turn a game into a conversation?
+## Ke fetola motshameko jang go nna motlotlo?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Dirisa setshwantsho sengwe le sengwe e le taletso ya go bua, mme o tseye sengwe le sengwe se a se buang e le karabo e e siameng. Mo malapeng a le mantsi, karolo eno ke yone e e monate go gaisa ya motshameko.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Botsa dipotso tse di bulegileng tse di se nang karabo e e phoso.** "O lemoga eng?" "Ke efe e o e ratang?" "Mpolelele ka kitšhini e e ntseng jaana."
+- **Bua pele.** "Nkoko o ne a na le ntša e e tshwanang le eno." Polelo ya gago e dira gore go nne bonolo gore le ene a abelane ya gagwe.
+- **Latela kgang e e tsweletseng.** Fa setshwantsho sa koloi se tsosa kgang ya loeto, kgang ke yone tirwana. Tlogela motshameko o eme.
+- **O se ka wa tlhomamisa dintlha tsotlhe.** Mo dikgakologelong, motlotlo o o monate o botlhokwa go feta dintlha tse di nepagetseng. Fa kgang e fetoga go tswa mo nakong e e fetileng, itumelele mofuta o mosha.
+- **Dirisa dipotso tse di mo motshamekong.** [Finish the Saying](/games/finish-the-saying/) e latela polelo nngwe le nngwe ka potso ya motlotlo, mme [Conversation Cards](/games/conversation-cards/) di diretswe seno. [Photo Pairs](/games/photo-pairs/) e dirisa ditshwantsho tsa lelapa la gago, tse gantsi di tsosang dipale tse di monate.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Dikakantsho tse dingwe di mo dikgeleng tsa rona tsa [ditirwana tsa dikgakologelo](/activities/reminiscence/) le [dikgakololo tsa puisano](/caregiving/communication-tips/).
 
-## When should we stop?
+## Re emise leng?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Emisa fa o bona matshwao a ntlha a letsapa kgotsa go tshwenyega, mme fa go kgonega emisa pele ga moo. Alzheimer's Association e gakolola go emisa kgotsa go fetola tirwana fa kgatlhego e fela kgotsa kgobego ya marapo e gola.
 
-Watch for:
+Leba:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- go edimola, go inama kgotsa matlho a suthela kgakala le skrini;
+- go tshikinyega, go ema, kgotsa go kopa go tsamaya;
+- go hemela kwa godimo, dikarabo tse dikhutshwane, kgotsa "Ga ke itse go dira seno";
+- go tobetsa fela kgotsa go kgorometsa sedirisiwa;
+- dikeledi, bogale kgotsa phetogo ya tshoganyetso mo maikutlong.
 
-How to stop well:
+Kafa o ka emisang sentle ka teng:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Fetsa ka sengwe se se bonolo.** Go bapisa ditshwantsho tse pedi la bofelo fa a kgona, kgotsa lo lebe setshwantsho sa bofelo se lo se ratang.
+- **Dira gore e nne ka wena.** "Ke ka nwa tee. A re emeng fano?" Seo se tila go dira gore a akanye gore o dirile phoso.
+- **Tsamaya kwa tirwaneng ya mmele kgotsa e e ritibatsang.** Go tsamaya go le gonnye, go ja sengwe, go mena diaparo kgotsa mmino.
+- **Bua sengwe se se mofuthu.** "Ke itumeletse go dira seo le wena." Ga se pako ya go bona karabo sentle, ke boitumelo jwa nako e lo e fetsang mmogo.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Go emisa pele ga nako, go fetola leano, kgotsa go tlogela motshameko mme lo nne mmogo fela tsotlhe ke maduo a a siameng.
 
-## Can we play in a group or over a video call?
+## A re ka dira motshameko mo setlhopheng kgotsa mo kitsong ya bidio?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ee, ka go ipaakanya go le gonnye. Mo setlhopheng, bolokang batho ba le mmalwa, nnang le bathusi fa go tlhokega, mme lo tlhophe motshameko o o nang le ntlha e le nngwe e e bonalang. [Picture Bingo](/games/picture-bingo/) e na le dikarata tse di ka gatisiwang le motho yo o bitsang mo skrining. Bona [ditirwana tsa ditlhopha tsa matlo a tlhokomelo](/activities/care-home-groups/) go bona go feta.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Mo kitsong ya bidio, motho yo o mo kitsong a ka tlhalosa setshwantsho fa mongwe yo o mo phaposing a supa a bo a tobetsa. Bolokang dikitso di le dikhutshwane e bile di tlwaelegile. Kaelo ya rona ya [dikitso tsa founo le bidio](/activities/phone-and-video-calls/) e na le dikgakololo tse dingwe.
 
-## What if a game just isn't working?
+## Go tweng fa motshameko o sa dire gotlhelele?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Malatsi mangwe ga go sepe se se amogelwang, mme seo ga se bontshe gore wena kgotsa ene lo paletswe. Beela motshameko kwa thoko mme o leke nako e nngwe ya letsatsi, motshameko o mongwe, kgotsa lo se ka lwa dira motshameko gotlhelele. Ditirwana tse dintsi tse di molemo ga di amane le skrini: mmino, go mena dithaole, go leba alebamo ya ditshwantsho kgotsa go tsamaya go le gonnye. Leba [dikakantsho tsa ditirwana](/activities/ideas/) tsa rona.
