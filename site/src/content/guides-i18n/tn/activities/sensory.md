@@ -1,33 +1,32 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Ditirwana tsa Ditshikinyego tsa Batho ba ba Nang le Dementia"
+seoTitle: "Ditirwana tsa Ditshikinyego tsa Dementia: Dikakantsho le Pabalesego"
+description: "Ditirwana tsa ditshikinyego tsa batho ba ba tshelang le dementia, go tswa mo go sidileng diatla go ya go letsela, ditshwantsho le medumo ya tlholego, ka dikgakololo tsa kotsi ya go kgamiwa, allergy le monko."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Ditirwana tsa ditshikinyego di dirisa go ama, monkgo, tatso, modumo le pono:
+  go sidila seatla ka bonya, seroto sa matsela a a bonolo, merogo e e nkgang,
+  medumo ya tlholego kgotsa go leba dinonyane. Di dira mo magatong otlhe mme di
+  botlhokwa thata morago. Lekola kotsi ya go kgamiwa, allergy, letlalo le monkgo,
+  naya sengwe se le sengwe ka nako, mme o emise fa motho a sa iketle.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Ditirwana tsa ditshikinyego ga di tlhoke karabo e e siameng, ka jalo di dira mo magatong otlhe, le mo bolaong kgotsa setulong."
+  - "Naya kutlwisiso e le nngwe ka nako mo phaposing e e didimetseng, mme o botse kgotsa o itsise pele o ama."
+  - "Tila dilo tse dinnye le tse di lebegang kgotsa di nkgang jaaka dijo, ka gonne motho a ka di tsenya mo molomong."
+  - "Lekola allergy, mathata a letlalo le a go hema pele o dirisa lotion, monkgo kgotsa dijo."
+  - "Ga go na bosupi jo bo tlhatswegileng jwa gore aromatherapy e thusa matshwao a dementia; dirisa monkgo fela ka ntlha ya boitumelo jo bo bonolo."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Ke ditirwana dife tsa ditshikinyego tse di siameng?"
+    a: "Dikai ke go sidila diatla ka lotion, go tshwara matsela a a bonolo, go dupa merogo kgotsa kofi, go reetsa mmino kgotsa medumo ya tlholego, go leba dinonyane kgotsa aquarium, le go latswa sejo se se ratiwang ka sebopego se se sireletsegileng. Naya sengwe se le sengwe ka nako mme o lebe karabo."
+  - q: "A ditirwana tsa ditshikinyego di sireletsegile mo mothong yo o tsenyang dilo mo molomong?"
+    a: "Di ka nna teng ka tlhokomelo. Dirisa fela dilo tse dikgolo tse di ka se kometsweng, tila tse dinnye kgotsa tse di thubehang, mme o beele lotion, sesepa le dilo tse di nkgang kgakala morago ga tirwana. Nna le motho nako yotlhe."
+  - q: "A aromatherapy e thusa dementia?"
+    a: "Tshekatsheko ya Cochrane ga e a bona bosupi jo bo tlhatswegileng jwa gore aromatherapy e thusa batho ba ba nang le dementia, le fa dipatlisiso di ne di le dinnye e bile di sa tshwane. Fa motho a rata monkgo o o bonolo o o tlwaelegileng, go siame, mme o tile dioli tse di maatla segolobogolo fa go na le mathata a go hema kgotsa allergy."
+  - q: "Fidget kgotsa activity apron ke eng?"
+    a: "Ke letsela, apron kgotsa kobo ya dirope e e nang le dikonopo tse dikgolo, zippers, dikhiba le dikarolo tsa maikutlo tse di roketsweng sentle. E naya diatla tse di tshikinyegang sengwe sa go sekaseka. E lekole gantsi gore go se ka ga nna le se se golang."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -52,83 +51,81 @@ related: [activities/late-stage, activities/music, activities/outdoor-and-garden
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Ditirwana tsa ditshikinyego di dirisa dikutlwisiso tse tlhano: go ama, monkgo, tatso, modumo le pono. Ga di tlhoke kgakologelo, dikgato kgotsa karabo e e siameng, ka jalo di ka dira mo magatong otlhe. Di botlhokwa thata morago. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) e re mo magatong a morago lefatshe le itemogelwa thata ka ditshikinyego. Dikelo di se kae tsa pabalesego di dira gore ditirwana di ritibale.
 
-## What are sensory activities for dementia?
+## Ditirwana tsa ditshikinyego ke eng?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Ke maitemogelo a a bonolo a a ikaegileng ka kutlwisiso e le nngwe, jaaka go ama letsela, go dupa merogo kgotsa go reetsa pula. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e re ditirwana tsa morago di tshwanetse go ikaega ka ditshikinyego, mme [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e re batho ba maemo a morago ba ka tlhoka go tshwara sengwe gaufi gore ba gomotsege. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) le yone e umaka go ama, mmino le medumo ya tlholego.
 
-## Sensory ideas, sense by sense
+## Dikakantsho ka kutlwisiso
 
-### Touch
+### Go ama
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Go sidila seatla.** Futhumatsa lotion mo diatleng mme o kgome go tswa mo seatleng go ya kwa menwaneng. NIA e umaka lotion e e se nang monkgo.
+- **Seroto sa matsela.** Velvet, corduroy, fleece, satin le wool tse dikgolo go ama le go mena.
+- **Letsela le le bothitho.** Lekola mogote mo sebetleng sa gago pele.
+- **Apron ya tirwana kgotsa kobo ya dirope.** Dikonopo tse dikgolo, zippers, dikhiba le dipaterone tse di roketsweng sentle.
+- **Go mena le go boreletsa.** Seroto sa matsela kgotsa napkin tse di phepa.
+- **Sengwe se se bonolo go tshwarwa.** Kobo ya fleece, cushion kgotsa phologolo e e bonolo; e neye fela, e seng jaaka toy.
 
-### Smell
+### Monkgo
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Merogo e mentšha.** Mint, rosemary, basil kgotsa lavender.
+- **Monkgo wa kitšhini.** Kofi, senkgwe, cinnamon kgotsa namune e e ebolwang.
+- **Dipalesa.** Tlisa dipalesa tse dinnye tsa tshingwana kgotsa lebenkele.
+- **Selo se se tlwaelegileng.** Sesepa kgotsa lotion e motho a neng a e dirisa, fa letlalo le e amogela.
 
-### Taste
+### Tatso
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Tatso e e ratiwang.** Lomo lo lonnye lwa applesauce, pudding kgotsa ice cream ka sebopego se se sireletsegileng.
+- **Thusa ka go baka.** Latswa leungo kgotsa frosting e nnye fa lo baka.
+- **Dijo tsa paka.** Watermelon ka selemo kgotsa cider e e bothitho ka letlhabula, ka mogote o o sireletsegileng.
 
-### Sound
+### Modumo
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Mmino o o ratiwang.** Dipina tse di tlwaelegileng ka lentswe le le bonolo; bona [ditirwana tsa mmino](/activities/music/).
+- **Medumo ya tlholego.** Pula, makhubu kgotsa dinonyane.
+- **Lentswe la gago.** Bala, dumela kgotsa anela kgang.
+- **Didiirisiwa tse di bonolo.** Moropa o monnye, shaker kgotsa tshepe.
 
-### Sight
+### Pono
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Go leba ka fensetere.** Feeder ya dinonyane, bana ba tsamaya kgotsa kapoko.
+- **Aquarium kgotsa bidio e e tsamayang ka bonya.** Motsamao o o bonolo o se na modumo o mogolo.
+- **Ditshwantsho tse dikgolo.** Setshwantsho se le sengwe ka nako mo lefelong la matlho.
+- **Mebala le paterone.** Tlhopha dikarolwana tsa letsela, dipalesa kgotsa napkin; dirisa [coloring](/games/coloring/).
+- **Kwa ntle.** Bona [ditirwana tsa kwa ntle le tshingwana](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## O dira lebokoso la ditshikinyego jang?
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Tlhopha setlhogo** se se amanang le botshelo jwa motho.
+2. **Tlhopha dilo di le tlhano kgotsa thataro tse dikgolo le tse di sireletsegileng.**
+3. **Lekola sengwe le sengwe** go bona dikarolo tse dinnye, bogale, megala e e golang kgotsa go thubeha.
+4. **Ntsha sengwe se le sengwe ka nako.** Se neye motho, se tlhalose mme o mo letle a se sekaseke.
+5. **Baya lebokoso kwa thoko morago** gore dilo di nne di tlhokometswe.
 
-## Safety first
+## Pabalesego pele
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
-
-| Risk | What to do |
+| Kotsi | Se o ka se dirang |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Go kgamiwa | Dirisa dilo tse dikgolo tse di ka se kometsweng. Tila dikonopo, dibead, dikoini, dimarble le ditoy tse dinnye. |
+| Dilo tse di tshwanang le dijo | Lotlela lotion, sesepa, shampoo le perfume, mme o tlose maungo a maitirelo. |
+| Allergy | Lekola allergy ya manoko, latex, wool, dimela kgotsa monkgo. |
+| Monko o o maatla | Tila perfume e e maatla le essential oils, segolobogolo fa go na le bothata jwa go hema. |
+| Letlalo | Lekola letlalo pele ga go sidila; dirisa kgatelelo e nnye mme o emise fa a sosobanya sefatlhego. |
+| Mogote | Lekola matsela le dino tse di bothitho mo sebetleng sa gago pele. |
+| Dilo tse di bogale kgotsa botlhole | Ga go na didirisiwa tse di bogale, galase kgotsa didirisiwa tsa botaki tse di nang le botlhole. |
 
-## Does aromatherapy help?
+## A aromatherapy e thusa?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Gongwe nnyaa ka tsela e e ka lekiwang. [Tshekatsheko ya Cochrane](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ya dipatlisiso di le 13 le batho ba le 708 ga e a bona bosupi jo bo tlhatswegileng. Fa motho a itumelela monkgo o o bonolo o o tlwaelegileng, go siame go o abelana; ga se kalafi.
 
-## How to offer a sensory activity
+## O naya ditirwana jang?
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Tlhopha nako e e didimetseng** mme o tima TV.
+- **Atamela o le kwa pele,** bitsa leina, mme o itsise pele o ama: "Ke na le lotion. A o batla ke go sidile seatla?"
+- **Naya sengwe se le sengwe ka nako.**
+- **Leba karabo.** Sefatlhego se se bonolo le diatla tse di iketlileng di molemo; go ikgogela kgotsa go tshikinyega go raya emisa.
+- **Boloka nako e le khutshwane.** Metsotso e le metlhano e e ritibetseng e lekane.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+[Calm breathing](/games/calm-breathing/) e ka nna tsela e bonolo ya go fetsa. Bona [ditirwana tsa magato a morago](/activities/late-stage/) le [go tlhoka boiketlo maitseboa](/caregiving/late-day-restlessness/).
