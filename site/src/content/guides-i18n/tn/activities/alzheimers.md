@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Ditirwana le Metshameko ya Batho ba ba Nang le Alzheimer's"
+seoTitle: "Ditirwana tsa Alzheimer's ka Legato"
+description: "Dikakantsho tsa ditirwana le metshameko ya batho ba ba nang le Alzheimer's mo legatong lengwe le lengwe, di ikaegile ka bokgoni le mmino o o sa lebalegeng, ka metshameko ya mahala ya go dira mmogo."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Ditirwana tse di siametseng motho yo o nang le Alzheimer's di ikaega ka se se
+  nnang lobaka: bokgoni jo bo ithutilweng bogologolo, dipina tsa kgale, ditiro
+  tse a di tlwaetseng le maikutlo a mmele. Kwa tshimologong, dikarata,
+  metshameko ya boto, go apaya le maeto di santse di ka dira. Mo legatong la
+  magareng, leka go mena, go tlhopha, go opela, go leba dialebamo tsa ditshwantsho
+  le metshameko e bonolo ya ditshwantsho. Kwa bofelong, mmino, go ama le go nna
+  le mongwe ke tsone tse di botlhokwa. Leba kafa motho a leng ka teng gompieno.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer's ke yone sesosa se se tlwaelegileng thata sa dementia, ka jalo dikakantsho tsa ditirwana tsa dementia le tsone di a dira."
+  - "Tshedimosetso e ntšha gantsi ke yone e e thata pele, fa bokgoni le dipina tse di ithutilweng bogologolo di ka nna lobaka. Ikaege ka tsone."
+  - "Magato a a kopana mme malatsi a mantle le a a thata ke selo se se tlwaelegileng. Tlhopha ka se motho a ka se dirang le se a se itumelelang gompieno."
+  - "Tlhopha metshameko e e se nang tshupanako, maduo kgotsa dipotso tsa teko, mme o tlogele ditshwantsho di bonala."
+  - "Go leba, go tshwara sengwe kgotsa go nna mmogo fela tsotlhe ke go tsaya karolo."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Ke ditirwana dife tse di siametseng motho yo o nang le Alzheimer's?"
+    a: "Ditirwana tse a di tlwaetseng di dirwe bonolo: go mena diaparo, go baya tafole, go apaya mmogo, mmino le go opela, go leba ditshwantsho, go tsamaya, go lema le go nna le seruiwa. Metshameko e bonolo ya ditshwantsho, dipuzzle tse di bonolo le dikarata tsa motlotlo le tsone di ka thusa. Tlhopha se motho a neng a se rata mme o se dire o le fa thoko ga gagwe."
+  - q: "A metshameko e siametse batho ba ba nang le Alzheimer's?"
+    a: "Metshameko e ka nna tsela e e monate ya go nna mmogo fa motho a e itumelela. Ga go na motshameko o o bontshitsweng go alafa, go diegisa kgotsa go emisa Alzheimer's, ka jalo tlhopha metshameko ya boitumelo: ditshwantsho tse dikgolo, ditlhopho di le mmalwa, mme go se nne le tshupanako, maduo kgotsa modumo wa karabo e e sa siamang."
+  - q: "A ditirwana tsa dementia di farologana le tsa Alzheimer's?"
+    a: "Gantsi nnyaa. Alzheimer's ke yone sesosa se se tlwaelegileng thata sa dementia, mme dikakantsho tse di tshwanang di a dira. Se se thusang ke go itse gore dikgakologelo tse dintšha gantsi di nyelela pele, ka jalo ditirwana tse di ikaegileng ka bokgoni, dipina le mekgwa ya bogologolo di tsamaya botoka."
+  - q: "Motho yo o nang le Alzheimer's ya legato la bofelo a ka itumelela eng?"
+    a: "Mmino o a o ratang, go sidila seatla ka bonolo, dilo tse di bonolo tsa go tshwara, go balelwa, go nna kwa ntle le go nna le motho yo a mo ikanyang. Dira ka nako e khutshwane le e e ritibetseng, mme o lebe se se itumedisang sefatlhego le mmele wa gagwe."
+  - q: "Ke dira jang gore motho yo o nang le Alzheimer's a kgatlhegele tirwana?"
+    a: "Kopa thuso go na le go itsise tirwana, baya tsotlhe pele, mme o simolole wena gore a kgone go kopanela. Go tlhopha nako ya letsatsi e a leng botoka ka yone go thusa thata. Fa a re nnyaa, leka gape moragonyana kgotsa o mo neye mofuta o monnye."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Fa mongwe yo o mo ratang a na le Alzheimer's, gongwe o setse o lemogile gore dilo dingwe di a nyelela ka bonako fa tse dingwe di santse di le teng. A ka lebala mogala wa mo mosong, mme a bo a itse mafoko otlhe a pina ya kereke, a mena thaole ka tsela e a e tlwaetseng, kgotsa a aba dikarata a sa akanye. Ditirwana tse di molemo di ikaega ka bokgoni joo jo bo salang. Tsebe eno e tlhalosa lebaka mme e naya dikakantsho tsa legato lengwe le lengwe le metshameko ya mahala ya setsha seno.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## A Alzheimer's e farologana le dementia mo ditirwaneng?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ga go a nna jalo thata. Dementia ke lefoko le le akaretsang maemo a le mantsi, mme Alzheimer's ke yone sesosa se se tlwaelegileng thata: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) e re e dira 60 go ya go 80 percent ya dikgetsi tsa dementia. Bontsi jwa se se kwadilweng ka ditirwana tsa dementia se dira le mo Alzheimer's, go akaretsa [dikakantsho di le 101](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Se se thusang go itse ke tatelano e e tlwaelegileng ya diphetogo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) e tlhalosa gore Alzheimer's e simolola ka go senya dikarolo tse di amang dikgakologelo, mme moragonyana e ama puo, go akanya le boitshwaro jwa loago. Alzheimer's Association e re letshwao le le tlwaelegileng la tshimologo ke bothata jwa go gakologelwa tshedimosetso e ntšha. Batho ba farologana, mme bangwe ba na le mabaka a le mantsi, mme paterone eno e thusa go tlhopha se se ka dirang.
 
-## What kinds of activities suit Alzheimer's best?
+## Ke ditirwana tsa mofuta ofe tse di siametseng Alzheimer's?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Ditirwana tse di ikaegileng ka kitso ya bogologolo e e tlwaetsweng gantsi di tsamaya botoka go feta tse di tlhokang gore go ithutiwe sengwe se sesha mme se tshwarwe mo tlhaloganyong.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Bokgoni jo bo ithutilweng bogologolo.** Alzheimer's Association e lemoga gore motho a ka santse a letsa dipina tse bonolo tse a neng a di ithuta mo piano. Go loga, go sila legong, go tshwaraganya dikarata, go obela hlama le go mena diaparo di a tshwanela.
+- **Dipina tsa kgale le mmino o o tlwaelegileng.** Batho ba le bantsi ba santse ba itse mafoko a dipina tsa bosha, dipina tsa kereke le tsa lenyalo. Bona [ditirwana tsa mmino](/activities/music/).
+- **Ditiro tsa letsatsi le letsatsi tse di nang le mosola.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e umaka go tlhatswa dijana, go baya tafole, go tlhopha dikausu le go mena diaparo. Go ikutlwa o le mosola go botlhokwa.
+- **Go lemoga, e seng go gopola ka pateletso.** Go supa setshwantsho se se tshwanang go bonolo go feta go se bitsa ka dikgakologelo. Ke ka moo metshameko ya ditshwantsho e tsotlhe di bonalang e dirang botoka go feta diteko.
+- **Maikutlo a mmele.** Borethe, monko, bothito, tatso le modumo di nna le bokao le fa mafoko a setse a le thata. Bona [ditirwana tsa maikutlo](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Se se ka se tsamayeng sentle: sengwe le sengwe se se nang le tshupanako, melao e mesha, dikgato di le dintsi tsa go gopola, kgotsa dipotso tsa teko jaaka "A o gakologelwa gore ke mang?" Dilo tseo di baya bothata jwa Alzheimer's mo pele.
 
-## Activities for early-stage Alzheimer's
+## Ditirwana tsa Alzheimer's ya legato la tshimologo
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Mo legatong la tshimologo, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) e re motho a ka santse a kgweetsa, a dira tiro le go tsaya karolo mo ditirwaneng tsa loago, le fa a ka lebala mafoko a a tlwaetseng kgotsa lefelo la dilo. Tsela e e molemo ke go dira mmogo: botsa gore o batla go tswelela ka eng le gore o batla thuso efe.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Tswelela ka dilo tse a di ratang.** Golf, bridge, go roka dikobo, khwaere le ditlhopha tsa kereke, ka diphetogo tse dinnye jaaka ditlhopha tse dinnye le dinako tse di ritibetseng.
+2. **Dirang metshameko ya dikarata le boto e a e tlwaetseng.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e umaka trivia, go batla mafoko, metshameko ya dikarata le ya boto. Dirang jaaka setlhopha fa maduo a simolola go mo tshwenya, kgotsa tlogelang maduo gotlhelele.
+3. **Apayang mmogo.** Mo letle a latele recipe e a e itseng, wena o bale dikgato.
+4. **Simololang porojeke ya botshelo.** Ditshwantsho, direcipe le dipale mo scrapbook e a e laolang. Bona [ditirwana tsa dikgakologelo](/activities/reminiscence/).
+5. **Tsamayang lo etela mafelo.** Lebenkele la dijo le a le ratang ka nako e e didimetseng, musiamo ka lobaka lo lokhutshwane, kgotsa go tsamaya mo phakeng.
+6. **Lekang dipuzzle tse a di tlhophileng.** Crossword ya ditlhaka tse dikgolo, word search le jigsaw. Bona [dipuzzle tsa dementia](/activities/puzzles/).
 
 More ideas: [early-stage activities](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Ditirwana tsa Alzheimer's ya legato la magareng
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association e tlhalosa legato la magareng e le lone le leleele thata, le ka tsayang dingwaga di le dintsi. Mafoko a a tlhakana, kgobego ya marapo e tla ka bonako, mme motho o tlhoka tlhokomelo e ntsi. Alzheimer's Foundation of America e oketsa gore batho ba le bantsi ba tlhoka thuso go simolola kgotsa go tswelela ka ditirwana. Tiro ya gago ke go baakanya, go bontsha go na le go tlhalosa, le go tsaya dikarolo tse di thata.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Menang, tlhopha le bapisa.** Dithaole, dikausu, didirisiwa tsa tafole le dikonopo ka mmala. Ke ditiro tsa nnete, di dirwe mmogo.
+2. **Opelang lo tsamaye le mmino.** Opela diatla, lo reketle kgotsa lo bina mo kitšhineng. Simolola go opela wena mme a go latele.
+3. **Lebang dialebamo tsa ditshwantsho.** Tlhalosa se o se bonang mme o laletse dipale: "Ke koloi e ntle. Mpolelele ka yone." Amogela leina lengwe le a le dirisang.
+4. **Dirang metshameko e bonolo ya ditshwantsho.** [Picture pairs](/games/picture-pairs/) ka dikarata di le nne go ya go thataro tse di bonalang, kgotsa [Find the same](/games/find-the-same/) ka ditlhopho di le pedi kgotsa tharo.
+5. **Fetsang maele a a tlwaetseng.** "Apole e le nngwe ka letsatsi e boloka..." Maele a bogologolo gantsi a tla motlhofo. Leka [Finish the saying](/games/finish-the-saying/), o ka bontsha bokhutlo ka go tobetsa gangwe.
+6. **Nosetsang le tlhokomeleng dimela.** Dirisa dipitsa tsa mo ntlong kgotsa malao a a godiseditsweng le lekotikoti le lennye.
+7. **Dirang motshameko wa go bapisa ka ditshwantsho tsa lelapa.** [Photo pairs](/games/photo-pairs/) e dirisa ditshwantsho tse o di tlhophileng mo sedirisiweng, mme ga di tswe mo go sone.
 
 More ideas: [middle-stage activities](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Ditirwana tsa Alzheimer's ya legato la bofelo
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Mo legatong la bofelo, Alzheimer's Association e re batho ba latlhegelwa ke bokgoni jwa go tsibogela tikologo le go tsweletsa motlotlo, le fa ba ka santse ba bua mafoko kgotsa dipolelo. Tirwana jaanong e raya kgomotso le kgolagano, e isiwe kwa motho a ikhutse.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Tshameka mmino o a o ratang** ka bonolo, TV e timilwe.
+2. **Mo sidile diatla** ka lotion e e nang le monko o a o ratang.
+3. **Mo neye dilo tse di bonolo tsa go tshwara:** kobo e e bothito, fleece kgotsa letlapa le le borethe.
+4. **Bala ka lentswe** dipina tsa kereke, poko kgotsa kgang e a e tlwaetseng. Moribo o botlhokwa go feta bokao.
+5. **Nnang kwa ntle** mo moriting, kgotsa fa fensetereng lo lebe dinonyane.
+6. **Lebang setshwantsho se segolo mmogo.** Sonobolomo kgotsa ntša e tletseng skrini sa tablet, wena o bua ka se o se bonang.
 
 More ideas: [late-stage activities](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Ke metshameko efe e e siametseng motho yo o nang le Alzheimer's?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Tlhopha metshameko e motho a ka se palelweng mo go yone. Metshameko yotlhe ya setsha seno ke ya mahala, e tsamaya mo browser mme ga e na tshupanako, maduo kgotsa go ikwadisa.
 
-| Game | What you do | Often suits |
+| Motshameko | Se lo se dirang | Gantsi o siametse |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Bapisa ditshwantsho tse dikgolo, di ka nna di lebisitswe kwa godimo | Legato la tshimologo le magareng |
+| [Find the same](/games/find-the-same/) | Tobetsa setshwantsho se se tshwanang le se se kwa godimo | Legato la magareng le bofelo, ka thuso |
+| [Finish the saying](/games/finish-the-saying/) | Tlhopha lefoko la bofelo la leele, kgotsa o le bontshe | Tshimologo le magareng |
+| [Picture puzzle](/games/picture-puzzle/) | Bapisa dikarolo di le 4 kgotsa 9, setshwantsho se bonala | Tshimologo le magareng |
+| [Conversation cards](/games/conversation-cards/) | Setshwantsho le potso e e bulegileng ya motlotlo | Legato lengwe le lengwe ka mmueledi |
+| [Photo pairs](/games/photo-pairs/) | Motshameko wa go bapisa o o dirilweng ka ditshwantsho tsa gago | Tshimologo le magareng |
+| [Coloring](/games/coloring/) | Tobetsa mmala le karolo ya setshwantsho, kgotsa o gatise | Legato lengwe le lengwe ka thuso |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Go itse kafa lo ka nnang mmogo, gore lo thuse go le kana kang le gore lo emise leng, bala [kafa lo ka dirang metshameko mmogo le motho yo o nang le dementia](/caregiving/how-to-play-together/). Fa o ipotsa ka "metshameko ya dikgakologelo", bona [memory games for seniors with dementia](/activities/memory-games/).
 
-## How to make any activity easier
+## Kafa o ka dirang gore tirwana nngwe le nngwe e nne bonolo
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Kgakololo ya NIA e nna mo mekgweng e se kae: tsenya tirwana mo go se motho a ka se dirang, mo thuse go simolola, leba kgobego ya marapo, netefatsa gore o ikutlwa a atlegile, mme o mo letle a lebe fela fa a itumelela seo.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Tlhopha nako ya letsatsi e a leng botoka ka yone,** mme o boloke lobaka lo le khutshwane.
+- **Baya tsotlhe pele** gore lo simolole ka bonako.
+- **Laletsa, o se ka wa laela.** "A o ka nthusa?" go dira botoka go feta "Ke nako ya tirwana."
+- **Dira kgato ya ntlha wena** mme o mo letle a kopanele.
+- **Naya kgato e le nngwe le tlhopho e le nngwe ka nako.**
+- **E letle e dirwe ka tsela ya gagwe.** Dithaole tse di sa lekanang di siame.
+- **Emisa fa go santse go le monate.** Go emisa pele ga nako ke phelelo e e siameng, e seng go palelwa. Fa a gana, bona [fa motho yo o nang le dementia a re nnyaa](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e bua ka bonolo: tlhokomela boitumelo, e seng katlego.
