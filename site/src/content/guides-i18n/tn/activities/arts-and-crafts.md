@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Botaki le Ditiro tsa Diatla tsa Bagolo ba ba Nang le Dementia"
+seoTitle: "Botaki le Ditiro tsa Diatla tsa Dementia: Tsa Bagolo"
+description: "Dikakantsho tsa botaki le ditiro tsa diatla tsa bagolo ba ba tshelang le dementia, go tswa mo watercolor le collage go ya go dipalesa, ka go ipaakanya le go fetola tiro."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Botaki le ditiro tsa diatla tse di siametseng bagolo ba ba tshelang le dementia
+  di lebega e bile di utlwala e le tsa bagolo: watercolor, collage ya dimakasine,
+  go rulaganya dipalesa, letsopa, go dira dikarata kgotsa coloring ya bagolo.
+  Baya didirisiwa di le mmalwa, thusa ka kgato ya ntlha fa go tlhokega, bua fa lo
+  dira mme o tseye nako mmogo e le yone ntlha. Selo se se fedileng ga se pateledi.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Tlhopha didirisiwa le ditlhogo tsa bagolo, jaaka pampiri ya watercolor, dipalesa tsa nnete le ditshwantsho tsa dimakasine, e seng glitter kgotsa dikhathuni."
+  - "Tsenya tlhokomelo mo tirong: mebala, maikutlo a letsopa le motlotlo. Selo se se fedileng ke bonase, e seng maikaelelo."
+  - "Naya tiro lebaka fa go kgonega, jaaka karata ya setlogolo kgotsa mokgabisi wa tafole."
+  - "Thusa motho go simolola, mme o boele morago. Go simolola brush stroke mmogo gantsi go lekane."
+  - "Diporojeke ga di tlhoke go fela ka nako e le nngwe, mme go emisa pele ga nako go siame."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ke dira jang gore botaki bo se ka jwa lebega e le jwa bana?"
+    a: "Dirisa didirisiwa tsa nnete, ditlhogo tsa bagolo le lentswe le le tlotlang. Fetola glitter le dipampiri tsa dikhathuni ka pampiri ya watercolor, letsela, dipalesa, ditshwantsho tsa dimakasine le coloring e e nang le dintlha. O se ka wa baka tiro jaaka o baka setshwantsho sa ngwana; bua ka yone jaaka o ne o bua le tsala ya mogolo."
+  - q: "Ke botaki bofe jo bo dirang mo dementia ya maemo a morago?"
+    a: "Ditiro tse di bonolo tsa ditshikinyego di dira sentle: go penta mela e megolo ka brush, go gatelela letsopa le le bonolo, go baya dipalesa mo vasing kgotsa go tlhopha dikarolwana tsa letsela ka maikutlo. O ka tlhoka go simolola motsamao mmogo. Go go leba o penta le go bua ka mebala le gone ke go nna karolo."
+  - q: "Go tweng fa ba re ga ba kgone go taka?"
+    a: "Fokotsa kgatelelo. Leka tiro e e se nang karabo e e siameng, jaaka watercolor e e anamang, collage kgotsa go rulaganya dipalesa. Gape o ka re o tlhoka thuso ya go tlhopha mebala ya karata, gore e nne kopo ya thuso e seng teko."
+  - q: "A coloring pages di lebega e le tsa bana?"
+    a: "E seng fa di diretswe bagolo. Tlhopha ditlhogo tsa bagolo jaaka ditshingwana, dikobo tsa quilt, dikoloi kgotsa mafelo, mme o di neye jaaka boikhutso e seng thuto. Coloring pages tsa rona di ka gatisiwa kgotsa tsa dirisiwa mo tablet."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,75 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Botaki le ditiro tsa diatla di naya motho yo o tshelang le dementia tsela ya go itlhalosa e e sa ikaegeng ka go bona lefoko le le siameng. Alzheimer's Association e re diporojeke tsa botaki di ka tlisa [maikutlo a katlego le maikaelelo](https://www.alz.org/help-support/caregiving/daily-care/art-music) le sebaka sa go itlhalosa, mo motlhokomeding le mo mothong yo o nang le dementia. Ntlha ke gore dilo di nne tsa bagolo, di le bonolo mme di se na kgatelelo.
 
-## What makes an art activity adult and not childish?
+## Ke eng se se dirang gore tirwana ya botaki e nne ya bagolo?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Tirwana ya bagolo e dirisa didirisiwa tsa nnete, ditlhogo tsa bagolo le lentswe le le tlotlang. Alzheimer's Association e gakolola gore diporojeke di nne tsa bagolo mme di tile sengwe le sengwe se se ka utlwalang se nyatsa kgotsa se le sa bana.
 
-| Feels childish | Feels adult |
+| Se se utlwalang e le sa bana | Se se utlwalang e le sa bagolo |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Glitter, foam stickers, googly eyes | Pampiri ya watercolor, letsela, dipalesa tse di gateletsweng |
+| Coloring sheets tsa dikhathuni | Ditshwantsho tsa ditshingwana, quilts, dikoloi kgotsa mafelo |
+| "O dirile sentle" ka letshwao lengwe le lengwe | Motlotlo wa nnete ka mebala le tiro |
+| Tiro e e se nang mosola | Karata ya tsala, mokgabisi kgotsa mpho |
+| Ditaelo tse di tshwanang le thuto | Talletso: "A o ka nthusa ka seno?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Akanya ka tatso ya motho. Yo o neng a rata go roka a ka itumelela go tshwara letsela. Moenjenere wa bogologolo a ka rata model e e nang le dikarolo tse dikgolo kgotsa go rulaganya hardware.
 
-## Why focus on the process, not the product?
+## Goreng re tshwanetse go tlhokomela tiro, e seng se se fedileng?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Ka gonne nako e lo e fetsang mmogo ke yone ntlha. Kaelo ya Alzheimer's Association ya [ditirwana tsa mo gae](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) e re tlhokomela tiro, e seng maduo. Pente e e leng "pududu fela" e santse e le pente. Collage e e nang le ditshwantsho di le tharo e santse e le collage.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+## Dikakantsho tsa botaki le ditiro tsa diatla
 
-## Arts and crafts ideas to try
+1. **Watercolor.** Kolobetsa pampiri e e boima mme motho a tsenye mebala ka brush e kgolo. Mebala e tla anama ka boyone. *Bonolo:* dirisa mebala e le mebedi fela.
+2. **Collage ya makasine.** Sega ditshwantsho pele mme o mo letle a tlhophe a bo a di kgomaretse. *Bonolo:* mo neye ditshwantsho di le nne tse di setseng di segilwe.
+3. **Go rulaganya dipalesa.** [Rulaganya dipalesa le matlhare](https://alzfdn.org/dementia-activity-gardening/) mo vasing e e boima e e sa weeng. *Bonolo:* baya dikalana di le mmalwa mo koping.
+4. **Dikarata tsa dipalesa.** Gatelela dipalesa fa gare ga matlhare a buka beke, mme o di kgomaretse mo karateng. *Bonolo:* wena baya glue, ene a gatelele sethunya.
+5. **Adult coloring pages.** Tlhopha ditshwantsho tsa nnete tse di nang le melapo e e bonalang. [Coloring pages](/games/coloring/) di ka dirisiwa mo skrining kgotsa tsa gatisiwa. *Bonolo:* mafelo a magolo le mebala e le mmalwa.
+6. **Letsopa kgotsa hlama e bonolo.** Phutholola, gatelela mme o bope letsopa. Go gatelela letlhare mo go lone go dira kgatiso. *Bonolo:* go gatelela le go phutholola fela go lekane. Leba gore motho a se ka a le tsenya mo molomong.
+7. **Go dira dikarata.** Bua ka lebaka la nnete: "Re romela tsala karata ya go fola. A o ka nthusa?" Dirisa karata e e segilweng le ditempe.
+8. **Scrapbook.** Baya ditshwantsho tsa bogologolo, diposikaratara kgotsa ditikete mo matlhareng. Bona [kaelo ya dikgakologelo](/activities/reminiscence/).
+9. **Boto ya letsela.** Kgomaretsa corduroy, velvet, burlap le silk mo karateng e e thata. Bona [ditirwana tsa ditshikinyego](/activities/sensory/).
+10. **Go fetsa legong ka bonolo.** Sila legong le le borethe kgotsa penta ntlo ya nonyane. Tlosa didirisiwa tse di bogale mme o nne gaufi.
+11. **Penta ka mmino.** Tshameka rekoto e a e ratang mme lo penta mebala e e tsamaisanang le maikutlo. Bona [ditirwana tsa mmino](/activities/music/).
 
-Each idea includes how to make it simpler if it becomes hard.
+## Ke baakanya jang kopano ya botaki?
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Ipaakanye pele.** Segolola le go baya tsotlhe pele ga o laletsa motho.
+2. **Boloka e le nnye.** Mebala e le mebedi kgotsa e le meraro, brush e le nngwe le pampiri e le nngwe.
+3. **Sireletsa tafole.** Dirisa lesela la polasetiki kgotsa lakane ya bogologolo.
+4. **Nnang bapile.** Dira tiro ya gago fa thoko ga ya gagwe gore e nne ya go nna mmogo.
+5. **Thusa go simolola.** O ka tlhoka go simolola motsamao wa brush mmogo.
+6. **Buang fa lo dira.** Bua ka mebala le maikutlo, mme o tile dipotso tsa teko.
+7. **Neelang nako e ntsi.** Porojeke ga e tlhoke go fela ka kopano e le nngwe.
 
-## How do I set up an art session?
+## Ke fetola botaki jang fa dementia e fetoga?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
-
-## How do I adapt art as dementia changes?
-
-| Stage | What tends to work | What to adjust |
+| Legato | Se se dirang | Se o se fetolang |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Pele | Ditlelase, coloring e e nang le dintlha, scrapbook, dikarata, penta | Naya ditlhopho; boloka loago |
+| Magareng | Collage e e segilweng, watercolor, dipalesa, coloring ya mafelo a magolo | Kgato e le nngwe ka nako; wena sega le go kgomaretsa |
+| Morago | Brush strokes tse dikgolo, go gatelela letsopa, go ama letsela, go go leba o penta | Tsenya maikutlo; kaela seatla ka bonolo fa a amogela |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS e re mo magatong a morago ditirwana gantsi di nolofadiwa mme di ikaega ka ditshikinyego. Go leba motho yo mongwe a penta le go bua ka mebala ke go nna karolo. Bona [ditirwana tsa magato otlhe](/activities/ideas/).
 
-## Safety with art supplies
+## Pabalesego ya didirisiwa tsa botaki
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Tlhopha pente, markers le glue tse di se nang botlhole.
+- Boloka dikere, craft knives le hot glue kgakala. Sega tsotlhe pele ka bowena.
+- Leba gore motho a se ka a tsenya letsopa, pente kgotsa dilo tse dinnye mo molomong.
+- Dirisa dikopi tsa metsi le diphatsa tse di boima tse di sa weeng.
 
-## When should we stop?
+## Re emise leng?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Emisa fa tlhokomelo e fokotsega kgotsa kgobego ya marapo e bonala. Baya porojeke mo lefelong le le sireletsegileng mme o neye sengwe se se ritibetseng. Lo ka boela mo go yone ka moso kgotsa lwa se ka lwa boela; tsotlhe di siame.
 
-## Display the work, if the person wants
+## Bontsha tiro fa motho a batla
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Go baya pente mo sehatsetsing kgotsa go baya collage mo foreiming go ka bontsha tlotlo. Botsa pele. Batho bangwe ba rata go bona tiro ya bone, ba bangwe ga ba batle.
 
-## Pair art with our games
+## Kopanya botaki le metshameko ya rona
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Fa go baakanya pente go le thata, [Coloring](/games/coloring/) e dira mo tablet e se na leswe. [Picture Puzzle](/games/picture-puzzle/) e boloka setshwantsho sotlhe se bonala. [Conversation Cards](/games/conversation-cards/) di naya dipotso tse di bulegileng. Tsotlhe ga di na timer kgotsa maduo. O ka gatisang matlhare a [ditirwana tse di ka gatisiwang](/activities/printable/).

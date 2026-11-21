@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Dikotsi tsa Dementia: Di le 14 Tse di Umakilweng ke Lancet Commission"
+seoTitle: "Dikotsi tsa Dementia: Dilo di le 14 tsa Lancet"
+description: "Dikotsi di le 14 tse di ka fetolwang tse di umakilweng ke Lancet Commission ya 2024, ka dingwaga tsa botshelo, se patlisiso e di golaganyang le sone le se o ka buang ka sone le ngaka."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Lancet Commission ya 2024 e umakile dikotsi di le 14 tsa dementia tse di ka
+  nnang tsa fetolwa: thuto e nnye, go latlhegelwa ke kutlo, LDL cholesterol e e
+  kwa godimo, kgatelelo ya maikutlo, kotsi ya tlhogo, go sa itshidile mmele,
+  bolwetse jwa sukiri, go goga, kgatelelo e e kwa godimo ya madi, botenya, go
+  nwa bojalwa thata, go itlhaola mo bathong, kgotlelo ya mowa le go latlhegelwa
+  ke pono go sa alafiwa. Ka kakaretso di golagantswe le mo e ka nnang 45% ya
+  dikgetsi mo lefatsheng, mme seo ga se tlhomamisetse motho ope.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Dilo tseno di le 14 di akaretsa botshelo jotlhe: sengwe mo botshelong jwa pele, di le lesome mo dingwageng tsa magareng le di le tharo mo botshelong jwa morago."
+  - "Go latlhegelwa ke kutlo le LDL cholesterol e e kwa godimo mo dingwageng tsa magareng nngwe le nngwe di golagantswe le mo e ka nnang 7% ya dikgetsi tsa dementia mo lefatsheng, e le dikarolo tse dikgolo go gaisa tsa selo se le sengwe."
+  - "Diphesente tseno ke dikakanyo tsa batho botlhe tse di akanyang gore go na le lebaka le le bakang se sengwe. Dikolagano dingwe di ka nna tsa bakwa ke lebaka leo ka karolo fela."
+  - "Dingwaga le dijini, tse go se nang ope yo o ka di fetolang, le tsone ke dikotsi tse dikgolo. Go fokotsa dikotsi di le 14 ga go tlhomamise gore mongwe o tla tila dementia."
+  - "Dikgato di le dintsi, jaaka go lekola kgatelelo ya madi, kutlo le pono, di thusa boitekanelo ka ditsela tse dingwe mme go molemo go buisana ka tsone le ngaka."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Dikotsi di le 14 tse di ka fetolwang tsa dementia ke dife?"
+    a: "Lancet Commission ya 2024 e umakile thuto e nnye, go latlhegelwa ke kutlo, LDL cholesterol e e kwa godimo, kgatelelo ya maikutlo, kotsi e e masisi ya tlhogo, go sa itshidile mmele, bolwetse jwa sukiri, go goga, kgatelelo e e kwa godimo ya madi, botenya, bojalwa jo bontsi, go itlhaola mo bathong, kgotlelo ya mowa le go latlhegelwa ke pono go sa alafiwa. Ka kakaretso di golagantswe le mo e ka nnang halofo ya dikgetsi tsa dementia mo lefatsheng."
+  - q: "Ke kotsi efe ya dementia e e botlhokwa thata?"
+    a: "Mo bathong botlhe mo lefatsheng, Commission e akantse gore go latlhegelwa ke kutlo le LDL cholesterol e e kwa godimo mo dingwageng tsa magareng nngwe le nngwe di golagantswe le mo e ka nnang 7% ya dikgetsi, mme morago ga tsone go tla thuto e nnye le go itlhaola mo bathong ka mo e ka nnang 5% nngwe le nngwe. Gore ke dilo dife tse di botlhokwa mo mothong mongwe go ikaegile ka boitekanelo jwa gagwe, ka jalo ngaka ke yone e e ka mo kaelang sentle."
+  - q: "A dikotsi tse pedi tse disha di ne tsa tsenngwa ka 2024?"
+    a: "Ee. Pego ya 2024 e ne ya tsenya LDL cholesterol e e kwa godimo mo dingwageng tsa magareng le go latlhegelwa ke pono go sa alafiwa mo botshelong jwa morago mo dikotsing tse 12 tse di neng di umakilwe ka 2020. Commission e di golagantse le mo e ka nnang 7% le 2% ya dikgetsi ka tatelano."
+  - q: "A dingwaga ke kotsi e e ka fetolwang?"
+    a: "Nnyaa. Dingwaga ke kotsi e kgolo go gaisa e e itsiweng ya Alzheimer's, mme ga di fetolwe. Dijini le tsone di na le seabe. Dilo di le 14 tse di mo tsebeng eno ke tse patlisiso e akantshang gore di ka fetolwa ka tsela nngwe."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,75 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Kotsi ke selo se se golagantsweng le tshono e e kwa godimo ya go nna le boemo bongwe. Ga se gore ke yone e bakang boemo mo go mongwe le mongwe, mme go nna le yone ga go reye gore o tla nna le dementia. Tsebe eno e kwala dikotsi di le 14 tsa dementia tse Lancet Commission ya 2024 e reng di ka fetolwa, se patlisiso e di golaganyang le sone le se o ka buang ka sone le ngaka.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Go bona setshwantsho se segolo, go akaretsa se diteko tse dikgolo di se boneng, simolola ka [A dementia e ka thibelwa? Se patlisiso e se buang](/brain-health/can-dementia-be-prevented/). Tshedimosetso eno ke ya kakaretso, ga se kgakololo ya kalafi; bona [kitsiso ya kalafi](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Dikotsi di le 14 tsa dementia ke dife?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Lancet Commission ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0), e kwadilwe ke babatlisisi ba dementia ba le 27, e akantse gore dikotsi di le 14 tse di ka fetolwang di kopane di amana le mo e ka nnang 45% ya dikgetsi tsa dementia mo lefatsheng. Phesente ya selo sengwe le sengwe fa tlase ke kakanyo ya Commission ya karolo ya dikgetsi mo lefatsheng e e golagantsweng le sone, e potologilwe go nna palo yotlhe. Dipalo di a tsenelana, ka gonne batho ba le bantsi ba na le dikotsi di le mmalwa ka nako e le nngwe, ke sone se di kopanang go nna 45%.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Kotsi | Nako ya botshelo | Karolo ya dikgetsi | Se patlisiso e se golaganyang | Se o ka se dirang |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Thuto e nnye | Botshelo jwa pele | 5% | Dingwaga tse di mmalwa tsa sekolo di golagantswe le kotsi e e kwa godimo. Go nna matlhagatlhaga mo tlhaloganyong mo dingwageng tsa magareng go bonala go sireletsa le batho ba ba sa tswang mo sekolong thata. | Tswelela o ithuta le go dira dilo tse di tsosang tlhaloganyo mo dingwageng tsotlhe: bala, dira boitlosobodutu, tsena ditlelaseng, dira metshameko le batho ba bangwe. |
+| Go latlhegelwa ke kutlo | Dingwaga tsa magareng | 7% | Go latlhegelwa ke kutlo go sa alafiwa go golagantswe le kotsi e e kwa godimo. Dipatlisiso tse di latelang batho mo lobakeng lo loleele di golaganya go dirisa didirisiwa tsa kutlo le kotsi e e kwa tlase. | Dira teko ya kutlo. Botsa gore a sedirisiwa sa kutlo se ka thusa, mme o se apare fa se kwadilwe. Sireletsa ditsebe mo modumong o mogolo. |
+| LDL cholesterol e e kwa godimo | Dingwaga tsa magareng (go simolola mo e ka nnang 40) | 7% | LDL cholesterol e e kwa godimo mo dingwageng tsa magareng e golagantswe le kotsi e e kwa godimo. Dipatlisiso tsa batho di golaganya statin le kotsi e e kwa tlase, mme diteko mo botshelong jwa morago ga di a bontsha seno. | Botsa ngaka gore a cholesterol ya gago e tshwanetse go lekolwa le gore o ka dira eng ka yone. |
+| Kgatelelo ya maikutlo | Dingwaga tsa magareng | 3% | Kgatelelo ya maikutlo e golagantswe le kotsi e e kwa godimo. Mo botshelong jwa morago, e ka nna letshwao la pele la dementia. | Bolelela ngaka ka maikutlo a a kwa tlase kgotsa go latlhegelwa ke kgatlhego mo go tswelelang go feta dibeke di le pedi. Kgatelelo ya maikutlo e a alafega. |
+| Kotsi e e masisi ya tlhogo | Dingwaga tsa magareng | 3% | Kotsi ya tlhogo mo dingwageng tsotlhe le ka lebaka lengwe le lengwe, go akaretsa metshameko ya go thulana, e golagantswe le kotsi e e kwa godimo. | Apara helmete fa o palama baesekele kgotsa o dira metshameko ya go thulana. Botsa ka thibelo ya go wa. Ikhutse mme o ye go lekolwa morago ga kotsi ya tlhogo. |
+| Go sa itshidile mmele | Dingwaga tsa magareng | 2% | Batho ba ba itshidilang mmele le ba ba dirang metshameko ba na le tshono e nnye ya go nna le dementia. Bosupi jwa diteko bo santse bo lekanyeditswe. | Botsa gore ke tirwana efe e e sireletsegileng mo go wena, mme o bone e o e itumelelang. Bona [kaelo ya go itshidila mmele](/brain-health/exercise/). |
+| Bolwetse jwa sukiri | Dingwaga tsa magareng | 2% | Bolwetse jwa sukiri, segolobogolo fa bo simologa mo dingwageng tsa magareng kgotsa bo nna lobaka lo loleele, bo golagantswe le kotsi e e kwa godimo. | Lekola sukiri ya madi. Fa o na le bolwetse jwa sukiri, dira le setlhopha sa gago sa kalafi go bo laola ka pabalesego. |
+| Go goga | Dingwaga tsa magareng | 2% | Go goga go golagantswe le kotsi e e kwa godimo. Dipatlisiso di fitlhela gore batho ba ba tlogetseng ga ba na kotsi e e oketsegileng e e tshwanang le ya ba ba tswelelang go goga. | Botsa ka thuso ya go tlogela. Go botlhokwa go tlogela mo dingwageng tsotlhe. |
+| Kgatelelo e e kwa godimo ya madi | Dingwaga tsa magareng | 2% | Kgatelelo e e kwa godimo ya madi mo dingwageng tsa magareng e golagantswe le kotsi e e kwa godimo. Diteko tsa melemo ya kgatelelo ya madi di akantsha kotsi e e kwa tlase go le gonnye ya dementia kgotsa bothata jwa go akanya. | Itse dipalo tsa gago. Commission e akantsha gore palo ya kwa godimo e nne 130 kgotsa kwa tlase go simolola mo e ka nnang dingwaga di le 40; botsa gore ke maikaelelo afe a a go tshwanetseng. |
+| Botenya | Dingwaga tsa magareng | 1% | Botenya mo dingwageng tsa magareng bo golagantswe le kotsi e e kwa godimo, mme bo oketsa kotsi ya bolwetse jwa sukiri. | Botsa ngaka ka boima jo bo siameng mo go wena. Bagolo ga ba a tshwanela go ja ka maikaelelo a go fokotsa boima ba mmele ba se na kgakololo ya kalafi. |
+| Bojalwa jo bontsi | Dingwaga tsa magareng | 1% | Go nwa thata go golagantswe le kotsi e e kwa godimo. Go fokotsa go nwa thata go golagantswe le kotsi e e kwa tlase. | Botsa gore tekanyo e e sireletsegileng mo go wena ke efe, segolobogolo fa o dirisa melemo. |
+| Go itlhaola mo bathong | Botshelo jwa morago | 5% | Go sa kopane le batho gantsi go golagantswe le kotsi e e kwa godimo. | Tswelela o ikgolaganya le batho ka ditsela tse o di itumelelang. Bona [kaelo ya dikamano le batho](/brain-health/social-connection/). |
+| Kgotlelo ya mowa | Botshelo jwa morago | 3% | Go tshela mo lefelong le le nang le kgotlelo e ntsi ya mowa go golagantswe le kotsi e e kwa godimo. Dipatlisiso di golaganya mowa o o phepa le kotsi e e kwa tlase. | Gantsi seno se ikaegile ka melao ya setšhaba. Lekola ditlhagiso tsa boleng jwa mowa mme o fokotse nako kwa ntle mo malatsing a kgotlelo e ntsi. |
+| Go latlhegelwa ke pono go sa alafiwa | Botshelo jwa morago | 2% | Mathata a pono a a sa baakanngwang a golagantswe le kotsi e e kwa godimo. Patlisiso e kgolo ya kwa U.S. e golagantse karo ya cataract le kotsi e e kwa tlase. | Dira diteko tsa matlho ka gale. Botsa gore a mathata jaaka cataract a ka alafiwa. |
 
-## How should I read these percentages?
+## Ke tshwanetse go bala diphesente tseno jang?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Ka kelotlhoko. Pego ya Commission ka boyone e gatelela dintlha di le mmalwa:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Di tlhalosa batho ba bantsi, e seng motho a le mongwe.** [Kakaretso ya University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) e re go fokotsa kotsi go dira mo bathong botlhe mme ga go tlhomamise gore motho mongwe o tla tila dementia.
+- **Di akanya gore go na le lebaka le le bakang se sengwe.** Bakwadi ba tsentse fela dilo tse di nang le bosupi jo bo nonofileng, mme ba re dikgolagano dingwe di ka nna tsa bakwa ke lebaka leo ka karolo fela.
+- **Ke dipalo tsa lefatshe.** Bontsi jwa tshedimosetso bo tswa mo dinageng tse di humileng, mme karolo ya nnete mo nageng kgotsa mo setšhabeng se le sengwe e tla farologana.
+- **Diphesente tse dinnye le tsone di ka nna botlhokwa.** Selo se se golagantsweng le 2% ya dikgetsi mo lefatsheng se santse se ama batho ba le bantsi thata.
 
-## Which risk factors were added in 2024?
+## Ke dikotsi dife tse di tsentsweng ka 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Pego ya 2024 e ne ya tsenya dikotsi tse pedi mo go tse 12 tse di neng di umakilwe ka 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **LDL cholesterol e e kwa godimo mo dingwageng tsa magareng**, e golagantswe le mo e ka nnang 7% ya dikgetsi.
+- **Go latlhegelwa ke pono go sa alafiwa mo botshelong jwa morago**, e golagantswe le mo e ka nnang 2% ya dikgetsi.
 
-## What risk factors cannot be changed?
+## Ke dikotsi dife tse di ka se fetolweng?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging e re [dingwaga ke kotsi e kgolo go gaisa e e itsiweng ya Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), mme ga go na ope yo o ka di fetolang. Dijini le tsone di na le seabe; dijini nngwe e e itsiweng e e amang kotsi ya Alzheimer's e bidiwa APOE. NIA e oketsa ka gore borasaense ga ba ise ba tlhaloganye ka botlalo gore Alzheimer's e bakwa ke eng mo bathong ba le bantsi. Lancet Commission e re dikotsi tse di ka fetolwang di ka fokotswa go sa kgathalesege kotsi ya dijini ya motho.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Ka gonne dingwaga le dijini di na le seabe se segolo, batho ba le bantsi ba ba se nang epe ya dikotsi di le 14 ba santse ba nna le dementia. Seo ga se molato wa ope.
 
-## What does the trial evidence say about changing these risks?
+## Bosupi jwa diteko bo reng ka go fetola dikotsi tseno?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Go golaganya kotsi le dementia ga go tshwane le go supa gore go fetola kotsi eo go fokotsa dementia. Dikai dingwe tsa gore bosupi jwa diteko bo eme kae ke tseno:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
+- **Kgatelelo ya madi.** Mo tekong ya SPRINT MIND, maikaelelo a kwa tlase a kgatelelo ya madi a fokoditse ka tsela e e botlhokwa mathata a a seng masisi a go akanya kgotsa go gakologelwa (mild cognitive impairment, MCI). Ga bo a fokotsa dementia e e belaelwang ka tsela e e botlhokwa, le fa teko e ka bo e le nnye thata go bontsha seo ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Didirisiwa tsa kutlo.** Lancet Commission e tlhalosa teko ya dingwaga di le tharo ya didirisiwa tsa kutlo e e sa bonang phelelo mo go akanyeng ka kakaretso, mme e bona molemo mo setlhopheng sa batho ba ba nang le kotsi e e kwa godimo. Dipatlisiso tse di latelang batho di golaganya go dirisa didirisiwa tsa kutlo le kotsi e e kwa tlase. [Kaelo ya rona ya kutlo](/brain-health/hearing/) e na le tshedimosetso e ntsi.
+- **Go itshidila mmele.** National Institute on Aging e re ga go na bosupi jo bo lekaneng jwa diteko tsa kalafi go konoketsa gore go itshidila mmele go ka thibela kgotsa go diegisa MCI kgotsa Alzheimer's, le fa dipatlisiso dingwe di akantsha gore go ka thusa mo go wa ga bokgoni jo bo amanang le dingwaga
   ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Diteko tse ditelele tse di emelang dementia go tlhagelela di tsaya nako e bile di ja madi, ka jalo mo dikotsing di le dintsi bosupi jo bo gaisang bo tla tswelela bo tswa mo dipatlisisong tse di latelang batho ka dingwaga. Bosupi joo bo mosola, mme bo bokoa go feta teko.
 
-## What about sleep and diet?
+## Go tweng ka boroko le dijo?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Commission e sekasekile boroko le dijo mme ga e a di tsenya mo lenaaneng, ka gonne bosupi bo ne bo sa nonofa kgotsa bo sa tshwane ka mo go lekaneng. Dikgokagano tsa rona ka [boroko](/brain-health/sleep/) le [dijo](/brain-health/diet/) di tlhalosa se se itsiweng.
 
-## Talk with a doctor
+## Bua le ngaka
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Tlhahlobo ya ngwaga le ngwaga ke nako e ntle ya go bua ka dintlha tseno. O ka tla le lenane leno mme wa botsa:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Dipalo tsa kgatelelo ya madi, sukiri ya madi le cholesterol ya me ke dife, mme a go na le se se tlhokang tlhokomelo?
+- A ke tshwanetse go dira teko ya kutlo le matlho?
+- A tirwana e ke e dirang e sireletsegile e bile e lekane mo go nna?
+- A melemo mengwe ya me e ka ama kgakologelo kgotsa go akanya?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Pele o fetola melemo, dijo, go itima dijo, go itshidila mmele kgotsa ditlaleletso, bua le ngaka pele. Fa wena kgotsa motho yo o mo tlhokomelang a nna le pherekano ya tshoganyetso, bokoa mo letlhakoreng le le lengwe, kgotsa bothata jwa go bua, leletsa nomoro ya tshoganyetso ya mo lefelong la gago.

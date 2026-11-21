@@ -1,31 +1,34 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Go Latlhegelwa ke Kutlo le Kotsi ya Dementia: Se Patlisiso e se Bontshang"
+seoTitle: "Go Latlhegelwa ke Kutlo le Dementia: Se Patlisiso e se Bontshang"
+description: "Goreng go latlhegelwa ke kutlo e le kotsi e kgolo ya dementia, se teko ya ACHIEVE ya didirisiwa tsa kutlo e se boneng, le kafa o ka dirang teko ya kutlo le go bua motlhofo."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Lancet Commission ya 2024 e tsaya go latlhegelwa ke kutlo e le nngwe ya dikotsi
+  tse dikgolo tsa dementia tse di ka fetolwang. Mo tekong ya ACHIEVE, didirisiwa tsa
+  kutlo ga di a fokotsa go wa ga bokgoni jwa go akanya ka kakaretso, le fa setlhopha
+  se se nang le kotsi e e kwa godimo se ne sa wa go le gonnye. Didirisiwa tsa kutlo
+  di thusa motlotlo le botshelo jwa letsatsi le letsatsi le fa go ntse jalo. Dira
+  teko ya kutlo, akanyetsa sedirisiwa sa kalafi kgotsa sa go reka o sa newa lengwalo,
+  mme o bue le ngaka.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission e akanya gore go latlhegelwa ke kutlo go amana le mo e ka nnang 7% ya dementia mo lefatsheng, e lekana le karolo e kgolo go gaisa mo dikotsing di le 14."
+  - "Mo tekong ya ACHIEVE ya bagolo ba le 977, didirisiwa tsa kutlo ga di a fetola go wa ga bokgoni jwa go akanya mo dingwageng di le tharo ka kakaretso."
+  - "Mo setlhopheng se sennye se se nang le kotsi e e kwa godimo mo ACHIEVE, go wa ga bokgoni jwa go akanya go ne ga nna bonya ka 48% ka didirisiwa tsa kutlo; seno se tlhoka go tlhomamisiwa."
+  - "Go simolola ka October 2022, bagolo ba U.S. ba ba bonang ba na le go latlhegelwa ke kutlo go go bonnye kgotsa ga magareng ba ka reka didirisiwa tsa kutlo tse di laolwang ke FDA ba sa newa lengwalo."
+  - "Go latlhegelwa ke pono go sa alafiwa go ne ga tsenngwa mo kotsing ya dementia ka 2024, ka jalo diteko tsa matlho le tsone di botlhokwa."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "A didirisiwa tsa kutlo di thibela dementia?"
+    a: "Ga go ise go supiwe jalo. Teko ya ACHIEVE e bontshitse maduo a a tlhakaneng: ka kakaretso ga go a bonwa phelelo mo go wa ga bokgoni jwa go akanya mo dingwageng di le tharo, le fa setlhopha sengwe se se nang le kotsi e e kwa godimo se ne sa dira botoka. Didirisiwa tsa kutlo di santse di tshwanetse go akanyediwa ka gonne di dira gore motlotlo, pabalesego le botshelo jwa letsatsi le letsatsi di nne bonolo."
+  - q: "Ke bomang ba ba ka rekang sedirisiwa sa kutlo ba sa newa lengwalo?"
+    a: "FDA e letla bagolo ba dingwaga di le 18 le go feta ba ba bonang ba na le go latlhegelwa ke kutlo go go bonnye kgotsa ga magareng go reka didirisiwa tsa kutlo mo mabenkeleng kgotsa mo inthaneteng ba sa newa lengwalo. Ga di direlwa go latlhegelwa ke kutlo mo go masisi. Mongwe le mongwe yo o nang le botlhoko jwa tsebe, seedi se se tswang mo tsebeng, sedidi kgotsa diphetogo tsa tshoganyetso mo kutlong o tshwanetse go bona ngaka pele."
+  - q: "A go latlhegelwa ke kutlo go ka lebega jaaka dementia?"
+    a: "Ka dinako dingwe. National Institute on Aging e lemoga gore bagolo ba ba sa utlweng sentle ka dinako dingwe ba tsewa ka phoso gore ba tlhakane tlhogo kgotsa ga ba dirisane. Teko ya kutlo ke kgato e e siameng fa motho a bonala a ikgogela kwa morago kgotsa a sa utlwe se se buiwang."
+  - q: "Bagolo ba tshwanetse go dira teko ya matlho gangwe go le kae?"
+    a: "National Institute on Aging e akantsha teko ya matlho e e atlhamang pupil gangwe mo ngwageng kgotsa gangwe mo dingwageng di le pedi morago ga dingwaga di le 60, kgotsa jaaka setsebi sa matlho se akantsha. Batho ba ba nang le bolwetse jwa sukiri kgotsa kgatelelo e e kwa godimo ya madi gantsi ba tlhoka teko bonnye gangwe ka ngwaga."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +53,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Go latlhegelwa ke kutlo go tlwaelegile mo botshelong jwa morago, mme babatlisisi ba go tsaya ka masisi e le kotsi ya dementia. Seo ga se dire gore didirisiwa tsa kutlo e nne tsela e e tlhomamisitsweng ya go thibela dementia; teko e e nonofileng go gaisa tsotlhe go fitlha jaanong e ne ya ntsha maduo a a tlhakaneng. Tsebe eno e tlhalosa se patlisiso e se bontshang, kafa o ka dirang teko ya kutlo, gore didirisiwa tsa kutlo tsa U.S. tse di rekwa ntle le lengwalo ke eng, le kafa o ka dirang motlotlo o nne bonolo.
 
-## Why does hearing matter for brain health?
+## Goreng kutlo e le botlhokwa mo boitekanelong jwa boboko?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Go latlhegelwa ke kutlo go golagantswe le kotsi e e kwa godimo ya dementia. [Lancet Commission ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) e akanya gore go amana le mo e ka nnang 7% ya dementia mo lefatsheng. Seo se e lekanya le LDL cholesterol e e kwa godimo e le karolo e kgolo go gaisa mo dikotsing di le 14 tse di ka fetolwang mo mokgweng wa Commission, go ya ka [kakaretso ya UCL ya pego](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Diphitlhelelo tse dikgolo tsa Commission ke tseno:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Kotsi e e kwa godimo fa kutlo e latlhega.** Mo tshekatshekong ya dipatlisiso di le thataro tsa boleng jo bo kwa godimo, batho ba ba latlhegetsweng ke kutlo ba ne ba na le kotsi ya dementia e e kwa godimo ka mo e ka nnang 37% go feta ba ba utlwang sentle.
+- **Go latlhegelwa thata, kotsi e oketsega.** Dipatlisiso tse di sekasekileng bogolo jwa go latlhegelwa ke kutlo di fitlhetse gore kotsi e ne ya oketsega fa kutlo e ntse e senyega.
+- **Mabaka a a ka nnang teng, mme a ise a supiwe.** A akaretsa bodutu le go ikgogela kwa morago, kgatelelo ya maikutlo, go amogelwa ke boboko go le gonnye, le matsapa a a oketsegileng a go reetsa.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Go latlhegelwa ke kutlo go tlwaelegile. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) e re mo e ka nnang nngwe tharong ya bagolo ba na le gone, mme tshono e oketsega fa dingwaga di oketsega.
 
-## What did the ACHIEVE hearing aid trial find?
+## Teko ya sedirisiwa sa kutlo ya ACHIEVE e boneng?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE e ne e le teko ya ntlha ya lotho ya didirisiwa tsa kutlo le go wa ga bokgoni jwa go akanya. Maduo a yone gantsi a tlhalosiwa ka tsela e e sa siamang, ka jalo dintlha tsa [pego e e gatisitsweng ya teko](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) ke tseno.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Bomang ba ba tsayang karolo:** bagolo ba le 977 ba dingwaga di le 70 go ya go 84 ba ba neng ba sa alafiwa go latlhegelwa ke kutlo mme ba se na mathata a magolo a go akanya, kwa mafelong a le manè a setšhaba mo U.S.
+- **Se se bapisiwang:** halofo e ne ya newa didirisiwa tsa kutlo mmogo le dikopano tsa kgakololo le setsebi sa kutlo. Halofo e nngwe e ne ya newa thuto ya boitekanelo ka botsofe jo bo siameng.
+- **Maduo a magolo:** morago ga dingwaga di le tharo, go ne go se na **pharologanyo** mo go wa ga bokgoni jwa go akanya fa ditlhopha tse pedi di bapisiwa.
+- **Maduo a setlhopha:** teko e ne ya tsaya batho mo metsweding e mebedi. Batho ba le 238 ba ne ba tswa mo patlisisong e telele ya boitekanelo jwa pelo (ARIC), mme setlhopha seo se ne se na le kotsi e e kwa godimo ya go wa ga bokgoni jwa go akanya. Mo setlhopheng seo, go wa go ne ga nna bonya ka **48%** ka didirisiwa tsa kutlo. Mo baithaoping ba le 739 ba ba itekanetseng ba setšhaba, go ne go se na phelelo e e bonalang.
 
-How to read this honestly:
+Tsela e e ikanyegang ya go bala seno ke e:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Ka kakaretso, phelelo e ne e seyo.
+- Maduo a setlhopha a ne a rulagantswe go sa le gale, mme a tswa mo tshekatshekong ya bobedi ya setlhopha se sennye. A tshwanetse go tlhomamisiwa mo dipatlisisong tse dingwe.
+- Batsayakarolo ba ne ba itse gore ba mo lenaneong lefe, mme seo se ka ama maduo.
+- Lancet Commission e tlhalosa bosupi e re didirisiwa tsa kutlo di bonala di thusa thata batho ba ba nang le go latlhegelwa ke kutlo mmogo le dikotsi tse dingwe tsa dementia.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Ka bokhutshwane, didirisiwa tsa kutlo ga se tsela e e tlhomamisitsweng ya go thibela dementia. Di thusa motho go utlwa, go nna karolo ya motlotlo le go nna a golagane le ba bangwe, mme seo se lekane go akanyediwa.
 
-## How do I know if hearing should be checked?
+## Ke itse jang gore kutlo e tshwanetse go lekolwa?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA e akantsha go bona ngaka fa wena kgotsa motho yo o mo tlhokomelang:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- A fitlhela go le thata go tlhaloganya batho mo founong
+- A fitlhela go le thata go latela motlotlo fa go bua batho ba le babedi kgotsa go feta
+- A nna a kopa batho go boeletsa se ba se buileng
+- A tshuba TV ka modumo o mogolo thata mo ba bangwe ba ngongoregeng
+- A fitlhela go le thata go tlhaloganya puo fa go na le modumo wa kwa morago
+- A akanya gore batho ba bangwe ba bua ba sa utlwagale
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Simolola ka ngaka ya tlwaelo, e e ka go romelang kwa setsebi sa kutlo kgotsa kwa ngakeng ya tsebe, nko le kgokgotso. Go kokoana ga boka jwa tsebe ke lengwe la mabaka a a tlwaelegileng a go latlhegelwa ke kutlo, mme ngaka e ka go tlhatlhoba. **Go latlhegelwa ke kutlo ka tshoganyetso ke maemo a kalafi a tshoganyetso**, mme NIA e gakolola gore o bone ngaka ka bonako.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Go latlhegelwa ke kutlo go ka tsewa ka phoso e le pherekano. NIA e lemoga gore bagolo ba ba sa utlweng sentle ka dinako dingwe ba tsewa ka phoso gore ba tlhakane tlhogo, ga ba arabe kgotsa ga ba dirisane. Fa motho yo o mo ratang a bonala a ikgogela kwa morago kgotsa a sa utlwe se se buiwang, teko ya kutlo ke kgato e ntle ya pele.
 
-## What are over-the-counter hearing aids?
+## Didirisiwa tsa kutlo tse di rekwa ntle le lengwalo ke eng?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Go simolola ka October 17, 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) e letlile mofuta wa didirisiwa tsa kutlo tse di rekwa ntle le lengwalo (OTC). Ke kafa di bapisiwang le tse di newang ka lengwalo:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Selo | Didirisiwa tsa OTC | Didirisiwa tsa lengwalo |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Di direla bomang | Bagolo ba dingwaga di le 18 le go feta ba ba bonang ba na le go latlhegelwa ke kutlo go go bonnye kgotsa ga magareng | Bogolo bofe kgotsa bofe jwa go latlhegelwa ke kutlo, dingwaga tsotlhe |
+| Di bonwa kae | Mo mabenkeleng kgotsa mo inthaneteng, go sa tlhokegeng teko kgotsa lengwalo | Ka setsebi sa kutlo se se nang le laesense |
+| Go di baakanya | O baakanya di-setting ka bowena, gantsi ka app | Setsebi se di rulaganyetsa kutlo ya gago |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA e re didirisiwa tsa OTC ga se tsa go latlhegelwa ke kutlo mo go masisi kgotsa mo go feteletseng. E gakolola go bona ngaka, segolobogolo ngaka ya tsebe, nko le kgokgotso, pele o reka fa o na le:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Botlhoko kgotsa go sa iketle ga tsebe
+- Seedi, boladu kgotsa madi a a tswang mo tsebeng mo dikgweding di le thataro tse di fetileng
+- Diphetogo tsa tshoganyetso kgotsa tse di fetogang mo kutlong
+- Kutlo e e maswe mo tsebeng e le nngwe, kgotsa go lla mo tsebeng e le nngwe fela
+- Sedidi kgotsa go dikologa ga tlhogo
+- Earwax e ntsi
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Go tlwaela didirisiwa tsa kutlo go tsaya ikatiso, ka jalo lekola molao wa go busa selo pele o reka, jaaka FDA e akantsha. NIA e akantsha go botsa gore a inshorense ya gago e duelela karolo ya ditshenyegelo. Mo mothong yo o tshelang le dementia, setsebi sa kutlo se ka thusa go tlhopha mofuta wa sedirisiwa le go se baakanya ka tsela e e tla laolegang letsatsi le letsatsi.
 
-## How can I talk more easily with someone who has hearing loss?
+## Nka bua motlhofo jang le motho yo o latlhegetsweng ke kutlo?
 
-The NIA suggests:
+NIA e akantsha:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Lebana le motho mme lo lebelelane**, mo leseding le le siameng, gore a bone molomo le sefatlhego sa gago.
+2. **Batla lefelo le le didimetseng.** Tima TV kgotsa suthela kgakala le modumo.
+3. **Bua ka lentswe le le kwa godimo go le gonnye, mme o se ka wa goa.** Bua ka tlholego le ka lobelo lo lo siameng.
+4. **Se ka wa thiba molomo.** O se ka wa ja, wa tlhafuna chewing gum kgotsa wa ikhurumetsa molomo fa o bua.
+5. **Bua ka mafoko a mangwe go na le go boeletsa** fa sengwe se sa utlwiwa.
+6. **Bua motho a le mongwe ka nako.** Mo setlhopheng, dira gore motho yoo a nne karolo ya motlotlo.
+7. **Nna pelotelele mme o botse gore o ka thusa jang.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Dikakantsho tseno di tsamaya sentle le [dikeletso tsa rona tsa puisano ka dementia](/caregiving/communication-tips/). Ditirwana tse di dirisang ditshwantsho le tsone di fokotsa kgatelelo ya go reetsa. [Picture Pairs](/games/picture-pairs/) le [Conversation Cards](/games/conversation-cards/) di dirisa se o se bonang, mme [Finish the Saying](/games/finish-the-saying/) e go letla go bontsha bokhutlo go na le go bo bua. Mo dikitsong, bona kaelo ya rona ya [dikitso tsa founo le bidio](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Pono le yone e botlhokwa
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Ka 2024 Lancet Commission e tsentse go latlhegelwa ke pono go sa alafiwa mo kotsing e ntšha. Kakaretso ya UCL e go baya mo e ka nnang 2% ya dikgetsi tsa dementia, mme Commission e akantsha gore diteko le kalafi ya mathata a pono di nne teng mo bathong botlhe. [NIA e gakolola](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) teko ya matlho e e atlhamang pupil gangwe mo ngwageng kgotsa gangwe mo dingwageng di le pedi morago ga dingwaga di le 60, le go lekola lengwalo la digalase. Diphetogo tse dinnye mo ponong di ka oketsa kotsi ya go wa.
 
-## Talk with a doctor
+## Bua le ngaka
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Bua le ngaka ka diteko tsa kutlo le pono fa o lemoga matshwao a a fa godimo. Batla kalafi ka bonako fa kutlo e latlhega ka tshoganyetso, fa tsebe e le botlhoko kgotsa go tswa seedi mo go yone. Fa o tlhokomela motho yo o tshelang le dementia, bolelela ngaka ya gagwe ka diphetogo tsa kutlo kgotsa pono, tse di ka amang maikutlo, pabalesego le go nna karolo ya dilo.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Tsebe eno ke tshedimosetso ya kakaretso, ga se kgakololo ya kalafi. Bona [kitsiso ya kalafi](/medical-disclaimer/). Bala gape ka [dikamano le batho le boitekanelo jwa boboko](/brain-health/social-connection/).

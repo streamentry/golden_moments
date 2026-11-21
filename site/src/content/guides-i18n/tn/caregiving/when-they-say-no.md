@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Fa Motho yo o Tshelang le Dementia a Gana kgotsa a Kgobega Marapo ka Tirwana"
+seoTitle: "Fa Motho yo o Nang le Dementia a Gana Tirwana"
+description: "Goreng motho yo o tshelang le dementia a ka gana kgotsa a tenega ka tirwana, se o ka se lekang, se o tshwanetseng go se tila, le gore phetogo ya tshoganyetso e tlhoka ngaka leng."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Fa motho yo o nang le dementia a re nnyaa, amogela seo ka tidimalo mme o leke
+  gape moragonyana kgotsa o neye sengwe se sele. Go gana gantsi go na le lebaka:
+  tiro e thata thata kgotsa e lebega ya bana, motho o lapile, o utlwa botlhoko,
+  o tshwerwe ke tlala, kgotsa o imelwa ke modumo. O se ka wa ngangisana kgotsa wa
+  pateletsa. Nolofatsa, naya ditlhopho di le pedi, kgotsa kopa thuso ya gagwe.
+  Boitshwaro jo bo fetogang ka bonako, segolobogolo morago ga tshwaetso kgotsa
+  molemo o mosha, bo tlhoka ngaka ka bonako.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Nnyaa ke karabo e e tshwanetseng go tlotliwa, e seng bothata jo bo tshwanetseng go fenngwa."
+  - "Go gana gantsi go na le lebaka: go thata thata, go lebega ga bana, letsapa, go sa itekaneleng, go sa iketle kgotsa go imelwa."
+  - "Boela morago, ema, mme o leke moragonyana, ka nako e nngwe kgotsa ka mofuta o o bonolo."
+  - "Go kopa thuso ya gagwe go dira botoka go na le go mo kopa gore a dire tiro jaaka teko."
+  - "O se ka wa ngangisana, wa pateletsa, wa botsa dipotso tsa teko kgotsa wa baakanya. Itlhatlhobe gore a o a potlakisa kgotsa o pitlaganya motho."
+  - "Boitshwaro jo bo fetogang ka tshoganyetso kgotsa ka bonako, segolobogolo ka tshwaetso kgotsa melemo e mesha, bo tshwanetse go isiwa kwa ngakeng ka bonako."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "A go siame go ba letla ba tlola ditirwana tsotlhe?"
+    a: "Ee, mo letsatsing lengwe le lengwe. Go nna mmogo, go reetsa mmino kgotsa go leba lefatshe le feta go ka lekana. Fa motho a emisa go itumelela sengwe le sengwe mo dibekeng, bolelela ngaka ya gagwe, ka gonne maikutlo a a kwa tlase, botlhoko kgotsa mathata a mangwe a boitekanelo di ka nna karolo ya se se diragalang."
+  - q: "Goreng ba gana dilo tse ba neng ba di rata?"
+    a: "Boitlosobodutu jwa bogologolo bo ka nna jwa tenisa fa jaanong bo tlhoka bokgoni jo dementia e bo dirileng gore bo nne thata, mme motho a ka ikutlwa a tlhabiwa ke ditlhong. Leka karolo e e bonolo ya tirwana eo, jaaka go rulaganya dikonopo go na le go roka, kgotsa go leba ditshwantsho tsa tshingwana go na le go jala."
+  - q: "A ke tshwanetse go leka go ba fetola mogopolo?"
+    a: "Nnyaa. Go pateletsa motho go dira sengwe se dementia e se dirileng gore se nne thata ke selo se se itsiweng se se tsosang kgobego ya marapo. Amogela nnyaa, fetola kgang, mme o neye taletso gape moragonyana kgotsa ka tsela e nngwe."
+  - q: "Phetogo ya boitshwaro e nna tshoganyetso leng?"
+    a: "Fa mongwe a le mo kotsing kgotsa a na le matshwao a maemo a kalafi a tshoganyetso, leletsa nomoro ya tshoganyetso ya mo lefelong la gago. Fa go na le pherekano ya tshoganyetso kgotsa boitshwaro jo bo fetogang ka bonako mo diureng kgotsa malatsing, segolobogolo ka mogote, tshwaetso kgotsa molemo o mosha, ikgolaganye le ngaka ya gagwe ka bonako."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+O ipaakantse tsotlhe, wa baakanya motshameko kgotsa loeto, mme wa utlwa "Nnyaa." Kgotsa tirwana e simolola sentle mme e felela ka tablet e e kgoromediwang le lefoko le le bogale. Seo se a kgoba marapo, mme se tlwaelegile thata. Go gana le go tenega gantsi ke molaetsa, e seng botlhogoethata. Go tlhaloganya molaetsa go go bontsha se o ka se lekang morago.
 
-## Why does someone with dementia refuse activities?
+## Goreng motho yo o nang le dementia a gana ditirwana?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Gantsi go na le lebaka, le fa motho a sa kgone go le baya ka mafoko. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e re go ganetsa go ka raya gore motho ga a kgone go dira tiro kgotsa o boifa go leka. Mabaka a a tlwaelegileng a akaretsa:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Go thata thata.** Tirwana jaanong e tlhoka bokgoni jo dementia e bo dirileng gore bo nne thata, mme go palelwa fa pele ga mongwe go ka tlhabiša ditlhong.
+- **Go lebega ga bana.** Bagolo ba lemoga ditshwantsho tsa dikhathuni, mantswe a a opelwang le ditirwana tse di bonalang jaaka tsa bana.
+- **Letsapa.** Batho ba le bantsi ba na le maatla a mannye morago ga letsatsi. Bona [ditirwana tse di ritibetseng tsa maitseboa](/caregiving/late-day-restlessness/).
+- **Go sa iketle mo mmeleng.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) e umaka botlhoko, go tlhoka boroko, bothata jwa go bona kgotsa go utlwa, pipelo, tlala, lenyora le ditlamorago tsa melemo e mesha e le mabaka a a ka tshwenyang.
+- **Dilo di le dintsi di diragala ka nako e le nngwe.** TV e e kwa godimo, dipuisano di le mmalwa kgotsa phaposi e e tletseng batho di ka imetsa.
+- **Go ikutlwa a patelediwa.** NIA e re go patelediwa go dira sengwe se Alzheimer's e se dirileng gore se nne thata, kgotsa go gakologelwa ditiragalo kgotsa batho, go ka tsosa kgobego ya marapo.
+- **Maikutlo a a kwa tlase.** Go latlhegelwa ke kgatlhego mo dilong e ka nna letshwao la kgatelelo ya maikutlo, mme go molemo go bua ka gone le ngaka.
+- **Ga a batle fela.** Bagolo ba letleletswe go re nnyaa.
 
-## What should I try when they say no?
+## Ke tshwanetse go leka eng fa ba re nnyaa?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Amogela nnyaa ka tidimalo, mme o fetole sengwe: nako, tirwana, bothata kgotsa tsela e o botsang ka yone.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **E tlogele jaanong.** "Go siame. Gongwe moragonyana." Jaanong fetela kwa go sengwe se sele o sa hemela kwa godimo.
+2. **Leka gape moragonyana.** Alzheimer's Association e akantsha go leka gape moragonyana kgotsa ka nako e nngwe ya letsatsi.
+3. **E dire nnye.** Papadi e le nngwe go na le motshameko otlhe. Thaole e le nngwe go na le seroto sotlhe sa diaparo. Ditshwantsho di le mmalwa, ditlhopho di le mmalwa, ditshwantsho di sale di bonala.
+4. **Naya ditlhopho di le pedi.** "A o batla re lebe ditshwantsho tsa dinonyane kgotsa re reetse mmino?" Tlhopho e busetsa maikutlo a taolo.
+5. **Kopa thuso go na le go leka bokgoni.** "A o ka nthusa go rulaganya tseno?" kgotsa "A o ka mpolelela gore ke mmala ofe o montle?" Go tlhokega go farologana thata le go lekwa.
+6. **Simolola ka bowena.** Simolola tirwana fa thoko ga gagwe o sa botsa. Batho ba le bantsi ba tsena fa sengwe se setse se diragala, mme fa a sa tsene o santse o feditse nako mmogo.
+7. **Fetolela kwa go sengwe sa mmele kgotsa se se ritibatsang.** Loeto lo lokhutshwane, mmino, seneke, go mena diaparo kgotsa [go hema ka tidimalo](/games/calm-breathing/). NIA e akantsha go fetola tlhokomelo kwa mminong, bukeng kgotsa loetong.
+8. **Mo letle a se dire ka tsela ya gagwe.** Fa a batla go dira ka tsela e e farologaneng le melao, tsamaya le ene. Alzheimer's Association e gakolola go nna bonolo.
 
-## What should I say when they get frustrated?
+## Ke reng fa a tenegile?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Fokotsa lobelo, fokotsa lentswe mme o mo tlhomamisetse. [Kgakololo ya Alzheimer's Association ka kgobego ya marapo](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) e akantsha go boela morago le go kopa tetla, go dirisa mafoko a a ritibetseng le a a siameng, le go naya tlhopho e e kaelwang fa gare ga dilo di le pedi. Mafoko a a tshwanang le ao ke ano:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Ke maswabi, seno se a tena. A re emeng."
+- "O dira sentle. Ke fano le wena."
+- "A o na le nako ya go nthusa ka sengwe se sele?"
+- "A re nwe kopi ya tee?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Jaanong fetsa tirwana o sa dire kgang e kgolo. [Dikgakololo tsa rona tsa puisano](/caregiving/communication-tips/) di na le se se oketsegileng.
 
-## What should I avoid?
+## Ke eng se ke tshwanetseng go se tila?
 
-Some natural reactions tend to make things worse.
+Dikarabo dingwe tsa tlholego di dira gore dilo di nne maswe.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Go ngangisana kgotsa go pateletsa.** "Tlaa, gangwe fela gape" kgotsa "O rata seno" gantsi ga go thuse.
+- **Go botsa dipotso tsa teko kgotsa go baakanya.** "O itse gore seno ke eng" kgotsa "Nnyaa, seo se phoso" go tsenya kgatelelo.
+- **Go tsaya sengwe e le molato wa gago.** NIA e gakolola batlhokomedi gore bolwetse, e seng motho, bo baka diphetogo tseno.
+- **Go pitlaganya kgotsa go potlakisa.** Alzheimer's Association e gakolola gore o se ka wa tsholetsa lentswe, wa bontsha poifo, wa tswalela tsela, wa pitlaganya, wa tshwara ka dikgoka, wa tshwaya diphoso, wa itlhokomolosa kgotsa wa ngangisana, mme o tile metsamao ya tshoganyetso e a sa e boneng.
+- **Go dirisa molato.** "Ke go baakanyeditse tsotlhe tseno" go dira gore lotlhe lo ikutlwe maswe.
+- **Go ba bitsa maina.** "Tlhogoethata" kgotsa "bothata" go fitlha lebaka la nnete mme go dira gore go nne thata go rarabolola.
 
-## How can I find out what is behind repeated refusals?
+## Nka itse jang se se bakang go gana gantsintsi?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Boloka ntlha e khutshwane beke kgotsa dibeke di le pedi. NIA e re go sala diphetogo tsa boitshwaro morago go ka thusa batlhokomedi le badiredi ba boitekanelo go bona paterone le lebaka.
 
-Jot down:
+Kwala:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- nako ya letsatsi;
+- se o se neileng le kafa o se kopileng ka teng;
+- se se neng se diragala gaufi le lona (modumo, baeng, TV);
+- kafa a robetseng, a jeleng le a nwang ka teng, le gore o ne a dirisa ntlwana leng la bofelo;
+- melemo e mesha kgotsa bolwetse jwa bosheng.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Gantsi dipaterone di bonala ka bonako: go gana go go diragalang fela morago ga 4 p.m., fela ka motshameko mongwe, kgotsa fela fa TV e buletswe. [Kaelo ya Family Caregiver Alliance ya boitshwaro jwa dementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e e tlhalosa ka bokhutshwane: ga re kgone go fetola motho, mme re ka fetola boitshwaro jwa rona le tikologo.
 
-## When should I talk to a doctor about refusal or frustration?
+## Ke tshwanetse go bua le ngaka leng ka go gana kgotsa go tenega?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Bua le ngaka fa boitshwaro bo fetoga ka tshoganyetso, ka bonako, kgotsa bo tsamaisana le matshwao a bolwetse. NIA e re diphetogo tsa tshoganyetso kgotsa tse di fetofetogang ka bonako, segolobogolo fa motho a kile a nna le tshwaetso kgotsa diphetogo tsa melemo, di tshwanetse go begelwa ngaka ka bonako.
 
-Contact their doctor promptly if you notice:
+Ikgolaganye le ngaka ka bonako fa o lemoga:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- pherekano ya tshoganyetso kgotsa phetogo e kgolo mo diureng kgotsa malatsing;
+- matshwao a botlhoko, jaaka go sosobanya sefatlhego, go tshwara karolo ya mmele kgotsa bothata jo bosha jwa go tsamaya;
+- mogote kgotsa matshwao a mangwe a tshwaetso;
+- melemo e mesha kgotsa e e fetotsweng e e latelwang ke phetogo ya boitshwaro;
+- go latlhegelwa ke kgatlhego mo e ka nnang mo dilong tsotlhe, dikeledi kgotsa go ikgogela kwa morago mo go tswelelang dibeke di le mmalwa;
+- go gana dijo kgotsa dino.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association e akantsha tlhahlobo e e feletseng ya kalafi mo mothong ope yo o nang le matshwao a boitshwaro, segolobogolo fa a tlhaga ka tshoganyetso. Family Caregiver Alliance le yone e gakolola go simolola ka go botsa ngaka, ka gonne mathata a boitshwaro a ka nna le lebaka la kalafi. O se ka wa simolola, wa emisa kgotsa wa fetola molemo ope o sa bua le ngaka kgotsa rakhemisi.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Fa mongwe a le mo kotsing kgotsa a na le matshwao a maemo a kalafi a tshoganyetso, leletsa nomoro ya tshoganyetso ya mo lefelong la gago. NIA e akantsha go bolelela motho yo o arabang gore motho yoo o na le dementia. Ka dikgato tsa pabalesego fa bogale bo nna jwa mmele, bona [kaelo ya rona ka bogale le go tlhasela mo dementia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## A go siame fa re sa dire sepe?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ee. Malatsi mangwe tirwana e e siameng go gaisa ke go se dire tirwana: nnang mmogo, tshwaranang diatla, reetsa rekoto e e ratiwang kgotsa lebe dinonyane kwa ntle ga fensetere. Seo ga se go palelwa. [Kaelo ya rona ya go dira mmogo](/caregiving/how-to-play-together/) e tlhalosa gore goreng go emisa pele ga nako kgotsa go se simolole e ka nna tshwetso e e siameng.

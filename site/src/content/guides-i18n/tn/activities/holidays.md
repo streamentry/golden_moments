@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Ditirwana tsa Malatsi a Boikhutso le Motho yo o Nang le Dementia"
+seoTitle: "Dikakantsho tsa Malatsi a Boikhutso le Dementia"
+description: "Ditirwana tse di bonolo tsa malatsi a boikhutso le motho yo o nang le dementia: go apaya, go kgabisa, mmino, ditshwantsho le dikitso tsa bidio, le kafa lo ka dirang letsatsi le ritibetse."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Bolokang malatsi a boikhutso a le mannye, a simolole pele mo letsatsing mme a
+  nne gaufi le mokgwa wa gale wa motho. Mo neye tiro ya nnete e e sireletsegileng,
+  jaaka go baakanya tafole, go tlhatswa merogo, go phuthela mpho kgotsa go pega
+  mokgabisi. Reetsang mmino o o tlwaelegileng, baakanyetsang baeng, mme lo nne
+  le phaposi e e didimetseng. Dira fela se o ka se kgonang; moletlo o mokhutshwane
+  o o ritibetseng ke moletlo o o siameng.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Keteka pele mo letsatsing, jaaka dijo tsa motshegare, fa pherEkano ya maitseboa e tlwaelegile."
+  - "Naya ditiro tsa nnete: go baakanya tafole, go tlhatswa dijo, go phuthela, go kgabisa kgotsa go baya dessert mo poleiting."
+  - "Mmino o o tlwaelegileng, dipina le dialbamo tsa bogologolo ke ditsela tse di bonolo tsa go abelana ka paka."
+  - "Bolelela baeng se ba ka se solofelang, mme o bontshe motho ditshwantsho tsa ba ba tlang."
+  - "Baakanya phaposi e e didimetseng e e nang le kobo kgotsa jesi e a e ratang, mme lo amogele baeng ba le mmalwa ka nako."
+  - "Tlogelang sengwe le sengwe se se imetsang, go akaretsa mekhabiso e e tshwanang le dijo le mabone a a gadimang thata."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Motho yo o nang le dementia a ka dira eng ka Thanksgiving?"
+    a: "Mo neye tiro e e bonolo le e e sireletsegileng e e tsamaisanang le se a ka se dirang gompieno: go tlhatswa merogo, go tlhakanya cranberry sauce, go baakanya tafole, go mena napkin kgotsa go baya dessert mo poleiting. Morago ga moo lebelelang ditshwantsho tsa lelapa kgotsa opelang dipina tse di tlwaelegileng mmogo. Go nna karolo ya letsatsi go botlhokwa go feta gore tiro e felele jang."
+  - q: "A re tshwanetse go nna le kopano e kgolo ya lelapa?"
+    a: "Fela fa lo ka kgona go e laola. Bontsi jwa batho le modumo di ka imetsa, ka jalo malapa a le mantsi a tlhopha kopano e nnye, dijo tsa pele kgotsa baeng ba ba tlang ka ditlhopha tse dinnye. Alzheimer's Association e kgothaletsa batlhokomedi go dira fela se ba ka se kgonang ka pabalesego."
+  - q: "Ke baakanya jang ba lelapa ba ba sa etelang lobaka?"
+    a: "Ba bolelele pele ga ba tla ka diphetogo tse ba ka di lemogang, le gore di tswa mo bolwetseng, e seng mo mothong. Ba kope gore ba se ka ba baakanya kgotsa ba botsa dipotso tsa teko, ba bue motho a le mongwe ka nako mme ba neye nako ya dikarabo. Go bontsha motho ditshwantsho tsa baeng pele ga letsatsi le gone go ka thusa."
+  - q: "Ke dimpho dife tse di siametseng motho yo o tshelang le dementia?"
+    a: "Dilo tse di bonolo le tse di sireletsegileng tse a ka di itumelelang jaanong: senwamaphiri se a se ratang, kobo kgotsa jesi e bonolo, mmino o o tlwaelegileng, kgotsa alebamo ya lelapa. Tila didirisiwa tsa elektroniki tse di raraaneng, didirisiwa tse di kotsi le metshameko ya boto e e thata. Go mo tsenya mo go abeng, jaaka go phuthela mpho kgotsa go paka dikuku tse a thusitseng go di baka, le gone ke mpho."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Malatsi a boikhutso a ka tsosa dikgakologelo tse di monate, mme gape a ka tlisa modumo, batho ba le bantsi le diphetogo mo letsatsing la gale. Mo mothong yo o tshelang le dementia, meletlo e e siameng gantsi e nnye, e tsamaya ka bonya mme e ageletswe mo dilong tse a santse a ka di itumelelang. Dikakantsho tseno di dira mo Thanksgiving, Christmas, Hanukkah, Ngwaga o Mosha le matsatsi a matsalo a lelapa.
 
-## How do I plan a calmer holiday?
+## Ke rulaganya jang letsatsi la boikhutso le le ritibetseng?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Simolola ka mokgwa wa motho mme o age letsatsi go o dikologa. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) e akantsha moletlo wa pele mo letsatsing, ka gonne pherEkano le go tlhoka boiketlo gantsi di oketsega maitseboa. Dijo tsa motshegare di ka nna bonolo go feta dijo tsa bosigo.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Bolokang bogolo jo bo siameng.** Kopano e nnye kgotsa baeng ba ba tlang ka bonnye gantsi e bonolo go feta tafole e e tletseng.
+- **Abang ditiro.** Kopa losika go tlisa sejo, go reka kgotsa go nna le motho fa wena o apaya. Bua ka thuso e e rileng e o e tlhokang.
+- **Dirisang mekhabiso e e bonolo.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) e re mabone a a gadimang a ka tlhakanya tlhogo, mme dimonamone kgotsa maungo a maitirelo a ka tsewa e le dijo.
+- **Tlhophang se lo se tlogelang.** Fa ngwaetelo e nna kotsi kgotsa kgatelelo, go siame go e tlogela kgotsa go leka e e didimetseng.
 
-## What holiday activities can we do together?
+## Ke ditirwana dife tsa malatsi a boikhutso tse re ka di dirang mmogo?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Tlhophang ditiro le boitlosobodutu jo bo tsamaisanang le se motho a ka se dirang gompieno. Go nna karolo ya letsatsi go botlhokwa go feta maduo a tiro.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Baakanyang tafole mmogo.** Baya dipoleiti, morago napkin, morago dikopi. Go mena napkin ke tiro e ntle ya go e dira o ntse fatshe.
+2. **Tlhatswang le tlhophe merogo.** Go tlhatswa ditapole kgotsa go kgaoganya dinawa mo tafoleng ya kitšhini go sireletsegile e bile go tlwaelegile.
+3. **Tlhakanyang kgotsa baya dijo mo poleiting.** Go tlhakanya cranberry sauce, batter e bonolo kgotsa dikuku go tshwara diatla di dira tiro kgakala le setofo le dithipa.
+4. **Phuthelang mpho.** Sega pampiri le theipi pele, mme o mo letle a mene a bo a e boreletsa. Bophepa jwa phuthelo ga se jone ntlha.
+5. **Pega mekhabiso e se kae.** Tlhopha mekhabiso e e sa thubege mme o dirise lefelo le lennye.
+6. **Dirang tiro ya diatla e bonolo.** Diketane tsa pampiri, collage ya matlhare kgotsa karata ya malatsi a boikhutso ka ditempe di a thusa. Bona [kaelo ya diatla le botaki](/activities/arts-and-crafts/).
+7. **Opelang mme lo reetse.** Dipina tse di tlwaelegileng di bonolo go tsenela le fa motho a sa bue thata jaanong. Bona [kaelo ya mmino](/activities/music/).
+8. **Lebang ditshwantsho tsa malatsi a bogologolo.** Ntshang dialbamo mme lo laletse dipale ("Mpolelele ka tafole eno") go na le go botsa gore ke mang. Bona [kaelo ya dikgakologelo](/activities/reminiscence/).
+9. **Dirang motshameko wa setlhopha o o bonolo.** [Picture bingo](/games/picture-bingo/) e gatisiwa ka bonako, mme [conversation cards](/games/conversation-cards/) di naya mongwe le mongwe sengwe sa go bua ka sone.
+10. **Tsenang mo go coloring mmogo.** [Dibuka tsa coloring](/games/coloring/) di ka gatiselwa bana le borraetsho go di dirisa mo tafoleng.
+11. **Lebang filimi e e ratiwang.** Filimi e e tlwaelegileng e a ritibatsa, mme go siame go leba karolo fela.
+12. **Tsamayang ka koloi go bona mabone.** Loeto lo lo didimetseng lo ka nna bonolo go feta tiragalo e e tletseng batho.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Fa go apaya e ne e le karolo e kgolo ya botshelo jwa gagwe, [ditirwana tsa mo gae](/activities/household-tasks/) di na le ditsela tse dingwe tsa go dira ditiro tsa kitšhini di sireletsegile.
 
-## How do I prepare guests?
+## Ke baakanya jang baeng?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Bolelela baeng se ba ka se solofelang pele ba tla, segolobogolo losika lo lo sa etelang lobaka. Alzheimer's Association e akantsha go tlhalosa gore diphetogo tsa kgakologelo le boitshwaro di tswa mo bolwetseng, e seng mo mothong.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Nayang dikgakololo tse dinnye:** bue motho a le mongwe ka nako, neye nako ya go fetsa mogopolo, o se ka wa baakanya kgotsa wa botsa dipotso tsa teko, mme o tsibogele modumo wa motho fa mafoko a sa utlwege sentle.
+- **Bua ka se se thusang le se se tshwenyang.** Fa mantswe a a kwa godimo, go potlakisiwa kgotsa dikgang dingwe di mo tshwenya, bua jalo pele.
+- **Itsise baeng pele.** Bontsha motho ditshwantsho tsa ba ba tlang mme o abelane kgang, kgotsa rulaganya kitsokopanyo e khutshwane pele ga letsatsi.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Bona [dikgakololo tsa puisano](/caregiving/communication-tips/) go bona dintlha tse dingwe.
 
-## What if it gets to be too much?
+## Go tweng fa go nna gontsi thata?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Baakanya phaposi e e didimetseng pele baeng ba tla, kgakala le modumo, e na le dilo tse di tlwaelegileng jaaka kobo, jesi kgotsa tirwana e bonolo. E neye pele le gantsi: "A re nne kwa go didimetseng nakwana?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Go tswa mo tafoleng, go ya go robala pele kgotsa go tlogela karolo ya letsatsi ke maduo a a siameng, e seng go palelwa. Fa motho a tshwenyega, lentswe le le ritibetseng, pina e a e itseng kgotsa go ya kwa phaposing e nngwe gantsi go thusa go feta go leka go tlhalosa. Bona [go tlhoka boiketlo maitseboa](/caregiving/late-day-restlessness/).
 
-## How can family far away take part?
+## Ba lelapa ba ba kgakala ba ka nna karolo jang?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Dikitsokopanyo tsa bidio di letla losika go nna karolo ntle le go oketsa batho mo phaposing. Alzheimer's Association e akantsha gore dikitso di nne le thulaganyo, jaaka go opela dipina, go abelana ditshwantsho, go apaya recipe e le nngwe kgotsa go leba filimi ka nako e le nngwe. Bolokang dikitso di le dikhutshwane mme lo bue motho a le mongwe ka nako. Bona [kaelo ya dikitso tsa founo le bidio](/activities/phone-and-video-calls/).
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Fa motho a nna kwa tlhokomelong ya kgakologelo, botsa ka melao ya ketelo mme o kope badiri go thusa ka kitsokopanyo. Bona [go etela motho yo o nang le dementia](/activities/visiting/) ka se o ka se tlisang le kafa o ka tsamayang sentle ka teng.
 
-## What gifts suit someone with dementia?
+## Ke dimpho dife tse di siametseng motho yo o nang le dementia?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Dimpho tse di bonolo le tse di sireletsegileng tse a ka di itumelelang jaanong gantsi di dira sentle: senwamaphiri, kobo kgotsa cardigan, mmino o o tlwaelegileng, khalendara e e nang le ditlhaka tse dikgolo kgotsa alebamo ya ditshwantsho. Alzheimer's Association e gakolola go tila didirisiwa tse di kotsi, elektroniki e e raraaneng le metshameko ya boto e e thata.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Go aba go ka nna botlhokwa jaaka go amogela. Go paka dikuku tse motho a thusitseng go di baka kgotsa go mo letla a phuthele mpho go mo tsenya mo paka. [Photo pairs](/games/photo-pairs/) le yone e ka fetola ditshwantsho tse di tlhophetsweng go nna motshameko o o bonolo.
 
-## Look after yourself too
+## Itlhokomele le wena
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Malatsi a boikhutso a oketsa tiro ya tlhokomelo. Letla mongwe go amogela baeng kgotsa go apaya, gana ditiragalo tse di tla nnang thata, mme o ikhutse fa ba bangwe ba na le motho. Fa wena kgotsa motho yo o mo tlhokomelang a sa itekanelang, go dumedisa kwa kgorong kgotsa go dira kitsokopanyo ke ketelo e e siameng. Bona [go itlhokomela ga motlhokomedi](/caregiving/caregiver-self-care/).

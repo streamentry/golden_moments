@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Metshameko ya Kgakologelo ya Bagolo ba ba Nang le Dementia: Mefuta e e Bonolo e e Sa Lekeng"
+seoTitle: "Metshameko e e Siameng ya Kgakologelo ya Dementia"
+description: "Metshameko ya go bapisa, ditshwantsho le dikarata ya bagolo ba ba nang le dementia, le kafa lo ka e dirang ka teng lo se na teko: ditshwantsho di bonala, dipara di le mmalwa, ga go na maduo, lo tshameka le le setlhopha."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Metshameko ya kgakologelo ya bagolo ba ba nang le dementia e dira sentle fa e sa
+  ikaega ka kgakologelo. Tshamekang metshameko ya go bapisa ditshwantsho di bonala,
+  dirisang dikarata di le nne go ya go di le thataro, tshamekang le le setlhopha mme
+  lo tlogele maduo. Go lemoga setshwantsho go bonolo go feta go se gakologelwa,
+  ka jalo tlhophang metshameko e sengwe le sengwe se bonalang. Boitumelo, e seng
+  maduo, ke maikaelelo.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Metshameko ya gale ya kgakologelo e fitlha dikarata, mme e leka selo se dementia e se dirang gore se nne thata. Tlogela ditshwantsho di bonala."
+  - "Dikarolo di le mmalwa, ditshwantsho tse dikgolo le tlhophо e le nngwe ka nako di dira motshameko o nne monate."
+  - "Tshamekang le le setlhopha, thusanang ka go refosana mme lo tlogele maduo. O se ka wa baya ope mo pontsheng."
+  - "Ga go na motshameko wa kgakologelo o o bontshitsweng go alafa, go fokotsa kgotsa go emisa dementia. Tshamekang ka gonne nako mmogo e le monate."
+  - "Emisang fa go santse go le monate. Go bua ka ditshwantsho ke maduo a a siameng."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Ke motshameko ofe wa kgakologelo o o siameng mo mothong yo o nang le dementia?"
+    a: "Motshameko wa go bapisa ditshwantsho tse dikgolo, tse di tlwaelegileng, di ka salang di bonala, jaaka Picture pairs e e nang le dikarata di le nne kgotsa di le thataro. Go bona pharologanyo ya setshwantsho se o se bonang go a itumedisa mme ga go leke kgakologelo ya nako e khutshwane. Find the same e bonolo le go feta, ka setshwantsho se le sengwe le ditlhopho di le pedi go ya go di le nne."
+  - q: "A metshameko ya kgakologelo e thusa dementia?"
+    a: "Ga go na motshameko wa kgakologelo o o bontshitsweng go alafa, go fokotsa kgotsa go emisa dementia; tshekatsheko ya Cochrane e fitlhetse gore bosupi jwa go katisa boboko ka khomputara bo le bonnye thata go itse gore a bo thibela dementia. Metshameko e santse e ka nna tsela e e mofuthu ya go fetsa nako mmogo. E tlhophe ka boitumelo le botsalano."
+  - q: "A ke tshwanetse go tshameka Concentration ya gale le motho yo o nang le dementia?"
+    a: "Mo magatong a pele, batho bangwe ba santse ba e itumelela, segolobogolo fa go na le dikarata di le mmalwa. Fa go gakologelwa gore dikarata di ne di le kae go simolola go baka kgobego ya marapo, retolosa dikarata di bonale mme lo bone dipara mmogo. Seo se boloka go bapisa mme se tlogela teko ya kgakologelo."
+  - q: "Ke metshameko efe ya kgakologelo e e siametseng bagolo mo setlhopheng?"
+    a: "Picture bingo e e nang le motho yo o bitsang mo skrining, go fetsa dipolelo tse di tlwaelegileng ka lentswe, le conversation cards tsotlhe di dira mo ditlhopheng. Tshamekang go fitlha dikarata tsotlhe di tletse mme lo se ka lwa bitsa gore ke mang yo o boneng karabo, gore ope a se ka a ikutlwa a tlhophiwa."
+  - q: "A go na le metshameko ya mahala ya kgakologelo mo inthaneteng?"
+    a: "Ee. Metshameko ya mo setsheng seno, go akaretsa Picture pairs, Find the same, Photo pairs le Picture puzzle, ke mahala, ga e tlhoke go ikwadisa mme e dira mo difounong, di-tablet le dikhomputareng. Ga go na e e nang le tshupanako kgotsa maduo."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Fa o batla "metshameko ya kgakologelo ya bagolo", bontsi jwa se o se bonang bo diretswe batho ba ba batlang go katisa tlhaloganyo: dikarata tse di fitlhilweng, tshupanako, magato le maduo. Mo mothong yo o tshelang le dementia, dilo tseo di dira motshameko e nne teko ya selo se se setseng se le thata. Metshameko eo e ka tshamekiwa ka tsela e e bonolo. Tsebe eno e bontsha kafa, mme e kwala metshameko e e siametseng magato a a farologaneng.
 
-## Why do classic memory games frustrate people with dementia?
+## Goreng metshameko ya gale ya kgakologelo e kgobetsa batho marapo?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Ka gonne e ikaega ka go tshwara tshedimosetso e ntšha mo mogopolong, mme seno gantsi ke sone se Alzheimer's e se amang pele. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) e re letshwao la ntlha le le tlwaelegileng ke bothata jwa go gakologelwa tshedimosetso e ntšha. Mo Concentration ya gale, o phetola dikarata di le pedi, o gakologelwa kwa di neng di le teng mme o dirisa seo morago. Ke tshedimosetso e ntšha e e tshwanetseng go tshwarwa le go gakologelwa.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Fa o oketsa tshupanako, maduo kgotsa buzzer ya dikarabo tse di phoso, motho o gakololwa se a sa kgoneng go se dira fa pele ga mongwe yo a mo ratang. Batho ba le bantsi ba emisa go batla go tshameka.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Go lemoga sengwe se o se bonang ke tiro e nngwe, gantsi e le bonolo. Go supa kopi ya bobedi fa dikopi tsoopedi di bonala go a itumedisa. Ka jalo boloka go bapisa mme o tlogele teko ya kgakologelo.
 
-## How do you make a memory game gentle?
+## O dira motshameko wa kgakologelo o nne bonolo jang?
 
-These adjustments work for card games, board games and games on a screen.
+Diphetogo tseno di dira mo dikarateng, metshamekong ya boto le mo metshamekong ya skrini.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Tlogela ditshwantsho di lebile kwa godimo.** Go bapisa ditshwantsho tse o di bonang e santse e le motshameko wa nnete.
+2. **Dirisa dikarolo di le mmalwa.** Simolola ka dipara di le pedi kgotsa di le tharo. Oketsa fela fa go le bonolo thata mme a batla.
+3. **Tlhopha ditshwantsho tse dikgolo, tse di tlwaelegileng tsa bagolo.** Kopi ya tee, sonobolomo kgotsa sekepe. E seng dikhathuni kgotsa ditshwantsho tse di tletseng.
+4. **Tshamekang le le setlhopha.** "A re batleng dintša" go na le "nako ya gago." Refosanang go supa le go thusa.
+5. **Tlogelang maduo.** Ga go na ope yo o tlhokang go fenya. Fa mongwe a botsa, "Re e dirile" go lekane.
+6. **O se ka wa tabogisa tshupanako.** Ga go na timer, mme lo se ka lwa potlakisa dinako.
+7. **Bua ka ditshwantsho.** "Leba sekepe seno. A o kile wa tsamaya ka sekepe?" Motlotlo gantsi ke karolo e e monate go gaisa.
+8. **Emisang ka ntlha e e monate.** Fetsang morago ga go bona para fa go santse go le monate.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+NIA e naya moya o o tshwanang mo [kaelong ya go fetola ditirwana](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease): bapisa tirwana le se motho a ka se dirang, leba kgobego ya marapo mme o tlhomamise gore o ikutlwa a atlega.
 
-## Gentle memory and matching games to try
+## Metshameko e e bonolo ya kgakologelo le go bapisa
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) ke motshameko wa go bapisa o o nang le ditshwantsho tse dikgolo le dikarata di le 4 go ya go 12. Ditshwantsho di ka sala di bonala, ka jalo ke go bona dipara, e seng go gakologelwa. Simolola ka dikarata di le nne.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) e bontsha setshwantsho se le sengwe kwa godimo le ditlhopho di le pedi go ya go di le nne fa tlase. Tobetsa se se tshwanang.
 
-### Photo pairs (family photo memory game)
+### Photo pairs
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) e fetola ditshwantsho tse o di tlhophetseng go nna motshameko wa go bapisa. Difatlhego le mafelo a a tlwaelegileng gantsi di tsosa motlotlo. Ditshwantsho di sala mo browser ya gago mme ga di romelwe.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) e kopa gore o tsenye setshwantsho mo serotong se se tshwanetseng, jaaka kitšhini kgotsa tshingwana. Go rulaganya go dirisa kitso ya lobaka lo loleele ya kafa lefatshe le berekang ka teng.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) e kgaoganya setshwantsho ka dikarolo di le 4 kgotsa 9. Tobetsa dikarolo tse pedi go di fetola go fitlha setshwantsho se felela. Setshwantsho se se feletseng se nna mo skrining go kaela.
 
-### Real cards on the table
+### Dikarata tsa nnete mo tafoleng
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ga o tlhoke skrini. Ntsha dipara mo dikarata tsa mekgobo e mebedi, di beye di lebile kwa godimo mo meleng e mebedi mme lo di batle mmogo. Moragonyana lo ka rulaganya ka mmala kgotsa suit. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e tsenya metshameko ya dikarata le boto mo ditirwaneng tsa legato la pele.
 
-## Which memory games suit each stage?
+## Ke metshameko efe e e tsamaisanang le legato lengwe le lengwe?
 
-Stages are loose labels. Go by what the person enjoys today.
+Magato ke maina a a bulegileng. Tsamaya ka se motho a se itumelelang gompieno.
 
-| Stage | Games that often fit | How to set them up |
+| Legato | Metshameko e e ka tshwanang | Kafa o e baakanyang ka teng |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Pele | Picture pairs, Photo pairs, Picture puzzle ka dikarolo di le 9, dikarata tse di tlwaelegileng | Mo letle a tlhophe; tlogela maduo fa a mo tshwenya |
+| Magareng | Picture pairs ka dikarata di le 4 go ya go 6 di bonala, Find the same, Sort together | Ditshwantsho di bonale ka gale; nna fa thoko mme lo thusane |
+| Morago | Find the same ka ditlhopho di le 2, leba setshwantsho se segolo mmogo | Nako e khutshwane; wena tshwara tablet, ene a supa kgotsa a lebe |
 
-## Do memory games help with dementia?
+## A metshameko ya kgakologelo e thusa dementia?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ga go na motshameko wa kgakologelo o o bontshitsweng go alafa, go fokotsa kgotsa go emisa dementia. [Tshekatsheko ya Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) ya go katisa tlhaloganyo ka khomputara e fitlhetse bosupi bo le bonnye thata go itse gore a bo thibela dementia. Bona [brain games le dementia](/brain-health/brain-games/) go tlhaloganya se dipatlisiso di se bontshang. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e gakolola boitumelo le botsalano mo ditirwaneng.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Seo ga se lebaka la go tlogela metshameko. Alzheimer's Association e gakolola boitumelo, e seng maduo. Metsotso e le lesome ya go bapisa ditshwantsho le go bua ka tsone e ka nna karolo e ntle ya letsatsi.
 
-## What about memory games for seniors without dementia?
+## Go tweng ka bagolo ba ba se nang dementia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Fa motho yo o godileng a se na mathata a kgakologelo mme a itumelela dipuzzle tsa nako, maduo le magato a a thata, ga go na bothata. Fela o se ka wa ikaega ka tsone go sireletsa mo dementia; ga go na motshameko o o bontshitsweng jalo. Mefuta e e bonolo e thusa le fa ditshika di tshameka mmogo, go sena ope yo o lekilweng.
 
-## When should you stop or change the game?
+## Re tshwanetse go emisa kgotsa go fetola motshameko leng?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Go hemela kwa godimo, go kgorometsa tablet, go re "Ga ke kgone" kgotsa go lebega a tshwenyegile ke matshwao a gore o tshwanetse go nolofatsa kgotsa go emisa. Leka dikarata di le mmalwa, retolosa ditshwantsho di bonale, fetolela kwa [Find the same](/games/find-the-same/) kgotsa lebang ditshwantsho lo bo lo bua. Fa a sa batle go tshameka gotlhelele, go siame. Bona [kafa lo ka tshamekang mmogo](/caregiving/how-to-play-together/).
