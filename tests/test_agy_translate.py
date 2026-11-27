@@ -66,7 +66,7 @@ spec.loader.exec_module(module)
         try:
             agy_translate.configure_free_only()
             expected = [
-                'iceman', 'dsfree', 'glmfree', 'beamfree', 'flintfree', 'hy4free',
+                'dsfree', 'iceman', 'glmfree', 'beamfree', 'flintfree', 'hy4free',
                 'icemanfree', 'inklingfree', 'longcatfree', 'mimofree',
                 'nemotronfree', 'nemotronvlfree', 'beamgofree', 'hy4gofree', 'longcatgofree',
             ]
