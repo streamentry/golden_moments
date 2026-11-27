@@ -1,148 +1,153 @@
 ---
-title: "Síndrome do entardecer: atividades calmas para o fim da tarde na demência"
-seoTitle: "Síndrome do entardecer: atividades calmas no fim da tarde"
-description: "Rotinas suaves, ajustes no ambiente e atividades calmas que podem aliviar a inquietação do fim do dia na demência, e quando chamar o médico diante de sintomas novos."
+title: 'Síndrome do pôr do sol: atividades calmas no fim da tarde para pessoas que vivem com demência'
+seoTitle: 'Síndrome do pôr do sol: atividades calmas no fim da tarde'
+description: Rotinas simples, ambiente tranquilo e atividades calmas que podem ajudar no fim do dia, além de quando procurar um médico.
 section: caregiving
 order: 4
-updated: 2026-10-25
-translatedFrom: 2026-10-25
-summary: >-
-  A síndrome do entardecer (em inglês, sundowning) é a inquietação, a confusão
-  ou a irritação que começa ou piora no fim da tarde ou à noite. Passos práticos
-  que podem ajudar incluem uma rotina diária estável, luz do dia e atividade
-  mais cedo, menos sonecas tardias, menos cafeína, luzes acesas dentro de casa
-  antes de escurecer, uma casa mais quieta e atividades calmas, como música,
-  fotos ou dobrar roupa. Sintomas novos ou que pioram precisam ser avaliados
-  pelo médico.
+updated: &id001 2026-10-25
+translatedFrom: *id001
+summary: A síndrome do pôr do sol é uma inquietação, confusão ou irritação que começa ou piora no fim da tarde ou no começo da noite. Algumas medidas práticas que podem ajudar incluem uma rotina diária estável, luz natural e atividades mais cedo no dia, menos cochilos no fim do dia, menos cafeína, luzes internas acesas antes do anoitecer, um ambiente mais tranquilo e atividades calmas, como ouvir música, ver fotos ou dobrar roupas. Sintomas novos ou que pioram precisam ser avaliados por um médico.
 keyPoints:
-  - "A síndrome do entardecer é a inquietação ou a confusão que começa ou piora quando a luz do dia diminui."
-  - "Deixe tarefas exigentes, passeios e o banho para a manhã ou o início da tarde."
-  - "Luz do dia, uma caminhada diária, menos sonecas tardias e menos cafeína no fim do dia podem ajudar as noites a serem mais tranquilas."
-  - "Acenda as luzes antes de escurecer, reduza o barulho e passe para atividades calmas e conhecidas."
-  - "Faça um registro para descobrir os gatilhos e mantenha a calma e o tom tranquilizador quando a inquietação começar."
-  - "Procure o médico diante de sintomas novos ou que pioram: dor, infecção ou remédios podem ter um papel."
+- A síndrome do pôr do sol é uma inquietação ou confusão que começa ou piora quando a luz do dia diminui.
+- Deixe tarefas mais exigentes, passeios e o banho para a manhã ou o começo da tarde.
+- Luz natural, uma caminhada diária, menos cochilos no fim do dia e menos cafeína mais tarde podem ajudar a noite a ser mais tranquila.
+- Acenda as luzes antes do anoitecer, diminua o barulho e passe para atividades calmas e conhecidas.
+- Anote o que acontece para perceber possíveis gatilhos e mantenha a calma, transmitindo segurança quando a inquietação começar.
+- 'Procure um médico diante de sintomas novos ou que pioram: dor, infecção ou medicamentos podem ter influência.'
 faq:
-  - q: "Em que horário a síndrome do entardecer costuma acontecer?"
-    a: "Costuma começar ou piorar no fim da tarde ou no início da noite, quando a luz do dia diminui. O horário exato varia de pessoa para pessoa, e por isso manter um registro curto por uma ou duas semanas pode ajudar."
-  - q: "Que atividades ajudam na síndrome do entardecer?"
-    a: "Atividades calmas, conhecidas e que dão pouco trabalho costumam funcionar melhor no fim da tarde: música suave, olhar fotos, um programa ou filme preferido, dobrar roupa, uma caminhada curta ou um lanche juntos. Deixe as atividades novas ou desafiadoras para mais cedo."
-  - q: "A síndrome do entardecer pode ser sinal de algo médico?"
-    a: "Ela pode piorar com problemas de saúde como dor, infecções, como as urinárias, problemas de sono ou efeitos colaterais de remédios. Se a inquietação for nova, repentina ou estiver piorando, entre em contato com o médico da pessoa."
-  - q: "Devo perguntar ao médico sobre remédio para a síndrome do entardecer?"
-    a: "Essa é uma conversa para ter com o médico. A Alzheimer's Association diz que, em geral, as abordagens sem remédio são preferidas primeiro e que qualquer remédio para a agitação do fim do dia só deve ser considerado depois de pesar riscos e benefícios. Esta página não dá orientação sobre remédios."
+- q: Em que horário do dia a síndrome do pôr do sol costuma acontecer?
+  a: Geralmente, ela começa ou piora no fim da tarde ou no começo da noite, quando a luz do dia diminui. O horário exato varia de pessoa para pessoa, por isso anotar o que acontece por uma semana ou duas pode ajudar.
+- q: Quais atividades ajudam na síndrome do pôr do sol?
+  a: 'Atividades calmas, conhecidas e simples costumam funcionar melhor no fim da tarde: ouvir uma música tranquila, ver fotos, assistir a um programa ou filme favorito, dobrar roupas, fazer uma caminhada curta ou comer um lanche juntos. Deixe atividades novas ou desafiadoras para mais cedo no dia.'
+- q: A síndrome do pôr do sol pode ser sinal de algum problema de saúde?
+  a: Ela pode piorar por causa de problemas de saúde, como dor, infecções, como infecções do trato urinário, problemas de sono ou efeitos colaterais de medicamentos. Se a inquietação for nova, aparecer de repente ou estiver piorando, entre em contato com o médico da pessoa de quem você cuida.
+- q: Devo perguntar ao médico sobre medicamentos para a síndrome do pôr do sol?
+  a: Essa é uma conversa para ter com o médico. A Alzheimer's Association diz que, em geral, as abordagens sem medicamentos são preferidas primeiro e que qualquer medicamento para a agitação no fim do dia deve ser considerado apenas depois de pesar os riscos e benefícios. Esta página não oferece orientação sobre medicamentos.
 sources:
-  - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning"
-  - title: "Sleep Issues and Sundowning"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning"
-  - title: "Anxiety and Agitation"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation"
-  - title: "Alzheimer's Caregiving: Managing Personality and Behavior Changes"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and"
-relatedGames: [calm-breathing, picture-pairs, coloring, conversation-cards, photo-pairs]
-related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/communication-tips, activities/daily-routine, activities/music, activities/sensory, brain-health/sleep]
+- title: Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning
+- title: Sleep Issues and Sundowning
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning
+- title: Anxiety and Agitation
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation
+- title: 'Alzheimer''s Caregiving: Managing Personality and Behavior Changes'
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and
+relatedGames:
+- calm-breathing
+- picture-pairs
+- coloring
+- conversation-cards
+- photo-pairs
+related:
+- caregiving/asking-to-go-home
+- caregiving/when-they-say-no
+- caregiving/communication-tips
+- activities/daily-routine
+- activities/music
+- activities/sensory
+- brain-health/sleep
 health: true
 ---
 
-Muitas famílias notam o mesmo padrão: as manhãs são bem tranquilas, mas, conforme a tarde avança, a pessoa que vive com demência fica inquieta, ansiosa, confusa ou irritada. Ela pode andar de um lado para o outro, pedir para “ir para casa” mesmo estando em casa ou se aborrecer com facilidade. Isso costuma ser chamado de síndrome do entardecer (em inglês, sundowning).
+Muitas famílias percebem o mesmo padrão: as manhãs costumam ser mais tranquilas, mas, conforme a tarde avança, a pessoa que vive com demência fica inquieta, ansiosa, confusa ou irritada. Ela pode andar de um lado para o outro, pedir para “voltar para casa” mesmo já estando em casa ou se aborrecer com facilidade. Isso costuma ser chamado de síndrome do pôr do sol.
 
-Não existe uma solução única, mas mudanças no ritmo do dia, no ambiente e no tipo de atividade que você oferece podem deixar as tardes mais calmas. Esta página reúne ideias práticas, não médicas, do National Institute on Aging e da Alzheimer's Association. Não é orientação médica. Se os sintomas forem novos, repentinos ou estiverem piorando, converse com o médico da pessoa.
+Não existe uma única solução, mas mudanças na rotina do dia, no ambiente e no tipo de atividades que você oferece podem ajudar a deixar o fim da tarde mais calmo. Esta página reúne ideias práticas e não médicas do National Institute on Aging e da Alzheimer's Association. Este conteúdo não é orientação médica. Se os sintomas forem novos, surgirem de repente ou estiverem piorando, converse com o médico da pessoa.
 
-## O que é a síndrome do entardecer?
+## O que é a síndrome do pôr do sol?
 
-É a inquietação, a agitação, a irritação ou a confusão que começa ou piora quando a luz do dia diminui, no fim da tarde ou no início da noite. O [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) observa que o cansaço excessivo pode aumentar a inquietação do fim do dia.
+A síndrome do pôr do sol é uma inquietação, agitação, irritabilidade ou confusão que começa ou piora quando a luz do dia diminui, no fim da tarde ou no início da noite. O [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) observa que o cansaço excessivo pode aumentar a inquietação no fim do dia.
 
-## O que pode piorar a inquietação do fim do dia?
+## O que pode piorar a inquietação no fim do dia?
 
-Vários fatores podem contribuir, muitas vezes juntos. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lista fatores como:
+Vários fatores podem contribuir, muitas vezes ao mesmo tempo. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lista fatores como:
 
-- exaustão depois de um dia cheio;
+- cansaço após um dia cheio;
 - ambientes novos ou confusos;
-- um “relógio biológico” desregulado, que deixa a pessoa com sono de dia e acordada à noite;
-- pouca luz e sombras, que podem confundir;
+- um “relógio biológico interno” desregulado, fazendo com que a pessoa sinta sono durante o dia e fique acordada à noite;
+- pouca luz e sombras, que podem causar confusão;
 - perceber o estresse ou a frustração das pessoas ao redor;
-- precisar de menos sono, o que é comum em idosos.
+- necessidade de menos sono, o que é comum em pessoas idosas.
 
-O NIA acrescenta causas da agitação em geral, incluindo dor, depressão ou estresse, descanso insuficiente, intestino preso, barulho demais ou gente demais, e certos remédios ou interações entre remédios.
+O NIA acrescenta causas de agitação de forma mais geral, incluindo dor, depressão ou estresse, pouco descanso, prisão de ventre, muito barulho ou excesso de pessoas, além de certos medicamentos ou interações entre medicamentos.
 
-## Como posso organizar o dia para deixar as noites mais calmas?
+## Como planejar o dia para deixar as noites mais calmas?
 
-Passe o que exige esforço para mais cedo e deixe o fim da tarde suave e previsível. Tanto o NIA quanto a Alzheimer's Association recomendam uma rotina regular. Um exemplo de dia, para adaptar ao seu:
+Deixe as atividades que exigem mais para mais cedo e mantenha o fim da tarde tranquilo e previsível. Tanto o NIA quanto a Alzheimer's Association recomendam uma rotina regular. Um exemplo de dia, para adaptar à sua rotina:
 
 | Horário | O que pode ajudar |
 | --- | --- |
-| Manhã | Consultas, banho, passeios e qualquer tarefa que exija esforço, quando muita gente está mais desperta |
+| Manhã | Consultas, banho, passeios e qualquer tarefa que exija esforço, quando muitas pessoas estão mais alertas |
 | Fim da manhã | Tempo ao ar livre ou perto de uma janela ensolarada; uma caminhada ou outra atividade |
-| Meio-dia | Um almoço mais reforçado (a Alzheimer's Association sugere um almoço maior e uma refeição leve à noite) |
-| Início da tarde | Descanso, se precisar, mas evite sonecas longas no fim do dia |
-| Meio e fim da tarde | Atividades calmas e conhecidas; um lanche e algo para beber; sem cafeína |
-| Antes de escurecer | Acenda as luzes dentro de casa e feche as cortinas antes de anoitecer |
-| Noite | Uma refeição mais leve, música suave, pouco estímulo, uma rotina estável na hora de dormir |
+| Meio-dia | Um almoço mais reforçado (a Alzheimer's Association sugere um almoço maior e uma refeição mais leve à noite) |
+| Início da tarde | Descanso, se necessário, mas evite cochilos longos no fim do dia |
+| Meio ou fim da tarde | Atividades calmas e familiares; um lanche e algo para beber; sem cafeína |
+| Antes do anoitecer | Acenda as luzes internas e feche as cortinas antes de escurecer |
+| Noite | Uma refeição mais leve, música tranquila, poucos estímulos, uma rotina constante na hora de dormir |
 
 Alguns pontos específicos das fontes:
 
-- **Luz do dia.** O NIA sugere reservar um tempo ao ar livre ou perto de uma janela para pegar sol todos os dias.
-- **Movimento diário, mas sem exagero.** Procure manter a pessoa fisicamente ativa todo dia sem planejar atividades demais, diz o NIA.
-- **Bebidas no fim do dia.** Evite álcool e bebidas com cafeína, como café ou refrigerante de cola, no fim do dia (NIA). A Alzheimer's Association menciona também a nicotina.
-- **Sonecas.** Desestimule sonecas longas e cochilos no fim do dia (NIA). A Alzheimer's Association sugere limitar as sonecas durante o dia se o sono noturno for um problema.
+- **Luz do dia.** O NIA sugere reservar um tempo ao ar livre ou perto de uma janela para tomar sol todos os dias.
+- **Movimento diário, mas sem exageros.** Procure se manter fisicamente ativo todos os dias, sem planejar atividades demais, diz o NIA.
+- **Bebidas no fim do dia.** Evite álcool e bebidas com cafeína, como café ou refrigerante de cola, no fim do dia (NIA). A Alzheimer's Association também menciona a nicotina.
+- **Cochilos.** Evite cochilos longos e sonecas no fim do dia (NIA). A Alzheimer's Association sugere limitar os cochilos durante o dia se o sono à noite for um problema.
 
-Para saber mais sobre como montar um dia estável, veja as [atividades da rotina diária](/activities/daily-routine/).
+Para saber mais sobre como criar um dia com mais constância, veja [atividades para a rotina diária](/activities/daily-routine/).
 
-## Como deixar a casa mais calma no fim da tarde?
+## Como posso deixar a casa mais tranquila no fim da tarde?
 
-Reduza o barulho, aumente a luz e deixe objetos conhecidos por perto.
+Diminua o barulho, aumente a luz e mantenha por perto coisas familiares.
 
-- **Iluminação clara e uniforme.** A Alzheimer's Association recomenda manter a casa bem iluminada à noite. Acenda as luzes antes que apareçam as sombras.
-- **Menos barulho.** Desligue ou abaixe a TV e o rádio e limite visitas ou tarefas domésticas agitadas nesse horário. A Alzheimer's Association sugere reduzir estímulos à noite, como TV, afazeres e música alta.
-- **Conforto conhecido.** O NIA sugere músicas suaves e deixar objetos queridos e fotos pela casa.
-- **Verificações de conforto.** A Alzheimer's Association recomenda checar se há dor, fome, sede, intestino preso, bexiga cheia, cansaço, infecções e irritação na pele, e manter o ambiente em uma temperatura confortável.
-- **O seu próprio humor.** As pessoas percebem o estresse. O NIA sugere desacelerar e tentar relaxar se as suas próprias preocupações puderem estar aumentando a tensão.
+- **Luz clara e bem distribuída.** A Alzheimer's Association recomenda manter a casa bem iluminada à noite. Acenda a luz antes que apareçam sombras.
+- **Menos barulho.** Desligue ou abaixe a televisão e o rádio, e limite visitas ou tarefas agitadas em casa nesse horário. A Alzheimer's Association sugere reduzir estímulos no fim do dia, como televisão, tarefas domésticas e música alta.
+- **Coisas conhecidas que trazem conforto.** O NIA sugere músicas calmas e deixar por perto objetos e fotos queridos em casa.
+- **Verificações de conforto.** A Alzheimer's Association recomenda verificar se há dor, fome, sede, prisão de ventre, bexiga cheia, cansaço, infecções e irritação na pele, e manter o ambiente em uma temperatura confortável.
+- **O seu estado de ânimo.** As pessoas percebem quando há estresse. O NIA sugere ir com calma e tentar relaxar se as suas preocupações podem estar aumentando o clima tenso.
 
-## Que atividades calmas podemos fazer no fim da tarde?
+## Quais atividades calmas podemos fazer no fim de tarde?
 
-Escolha atividades conhecidas, sem pressa e fáceis de interromper. A Alzheimer's Association sugere atividades tranquilizantes, como música calma, fotos ou um filme preferido, e uma caminhada juntos para aliviar a inquietação. O NIA sugere um lanche ou uma bebida, um programa de TV preferido, música, uma caminhada, leitura ou uma tarefa doméstica simples, como dobrar roupa.
+Escolha atividades familiares, sem pressa e fáceis de interromper. A Alzheimer's Association sugere atividades tranquilas, como música calma, fotos ou um filme favorito, e uma caminhada juntos para ajudar a aliviar a inquietação. O NIA sugere um lanche ou uma bebida, um programa de TV favorito, música, uma caminhada, leitura ou uma tarefa simples de casa, como dobrar roupas.
 
-Ideias para tentar:
+Ideias para experimentar:
 
-1. **Dobrar roupa juntos.** O NIA sugere esse tipo de tarefa doméstica simples. Toalhas são fáceis de manusear, e a tarefa tem um fim claro.
-2. **Tocar músicas preferidas.** Músicas conhecidas da juventude da pessoa, em volume baixo. Cantarolar junto conta. Mais ideias nas [atividades com música](/activities/music/).
-3. **Olhar fotos.** Um álbum de fotos, ou algumas fotos de família no [Pares de fotos](/games/photo-pairs/) com as figuras à vista, podem levar a uma conversa tranquila.
-4. **Dar uma caminhada curta.** Pelo jardim, pelo quarteirão ou pelo corredor, antes de escurecer.
-5. **Dividir um lanche e uma bebida.** Algo simples, quente e sem cafeína, à mesa, juntos.
-6. **Combinar figuras com calma.** O [Pares de figuras](/games/picture-pairs/) com quatro peças e as figuras à vista é fácil de começar e fácil de parar.
-7. **Colorir.** Os [Desenhos para colorir](/games/coloring/) na tela ou em uma folha impressa, sem meta de terminar.
-8. **Olhar e conversar.** As [Cartas de conversa](/games/conversation-cards/) trazem uma figura e um convite aberto. Só olhar já basta.
-9. **Uma pausa para respirar.** A [Respiração calma](/games/calm-breathing/) é uma pausa lenta e tranquila que você mesmo começa e para.
-10. **Tarefas com as mãos.** Separar botões ou meias, alisar uma manta macia ou segurar um objeto conhecido. Veja as [atividades sensoriais](/activities/sensory/).
+1. **Dobrar roupas juntos.** O NIA sugere esse tipo de tarefa simples de casa. Toalhas são fáceis de manusear, e a tarefa tem um fim claro.
+2. **Colocar músicas favoritas.** Músicas familiares de quando a pessoa de quem você cuida era mais jovem, em volume baixo. Cantarolar junto também vale. Veja mais ideias em [atividades com música](/activities/music/).
+3. **Olhar fotos.** Um álbum de fotos ou algumas fotos da família no [Photo Pairs](/games/photo-pairs/), com as imagens deixadas visíveis, podem render uma conversa tranquila.
+4. **Fazer uma caminhada curta.** Pelo jardim, pela quadra ou por um corredor, antes de escurecer.
+5. **Compartilhar um lanche e uma bebida.** Algo simples, morno e sem cafeína, juntos à mesa.
+6. **Combinar imagens de forma leve.** [Picture Pairs](/games/picture-pairs/) com quatro peças e as imagens visíveis é fácil de começar e fácil de parar.
+7. **Colorir.** [Coloring](/games/coloring/) na tela ou em uma página impressa, sem a meta de terminar.
+8. **Olhar e conversar.** [Conversation Cards](/games/conversation-cards/) oferece uma imagem e uma sugestão aberta. Apenas olhar já é suficiente.
+9. **Uma pausa para respirar.** [Calm Breathing](/games/calm-breathing/) é uma pausa lenta e tranquila que você começa e interrompe quando quiser.
+10. **Atividades com as mãos.** Separar botões ou meias, alisar um cobertor macio ou segurar um objeto familiar. Veja [atividades sensoriais](/activities/sensory/).
 
-Evite jogos novos, passeios movimentados e qualquer coisa que exija muita memória ou concentração no fim do dia. Deixe isso para a manhã.
+Evite jogos novos, passeios agitados e qualquer coisa que exija muita memória ou concentração no fim do dia. Deixe isso para a manhã.
 
-## O que devo fazer quando a inquietação começa?
+## O que fazer quando a inquietação começa?
 
-Mantenha a calma, tranquilize e redirecione com delicadeza. O NIA sugere falar com calma, escutar as preocupações da pessoa, evitar discussões, tranquilizá-la de que está segura e usar um toque gentil, se ajudar. Depois tente uma distração: um lanche, uma bebida, música ou uma caminhada.
+Mantenha a calma, tranquilize e redirecione com gentileza. O NIA sugere falar com calma, ouvir as preocupações da pessoa, evitar discussões, tranquilizá-la dizendo que ela está em segurança e usar um toque suave, se isso ajudar. Depois, tente uma distração: um lanche, uma bebida, música ou uma caminhada.
 
-A Alzheimer's Association sugere frases como “Você está em segurança aqui” e “Sinto muito que isso esteja deixando você chateado”, e aconselha acender mais luz, desacelerar e limitar os estímulos. Não encurrale, não cerque nem contenha a pessoa, e não discuta com ela.
+A Alzheimer's Association sugere frases como “Você está em segurança aqui” e “Sinto muito por você estar incomodada” e orienta aumentar a iluminação, ir mais devagar e limitar estímulos. Não encurrale a pessoa, não se aproxime demais, não a contenha e não discuta com ela.
 
-Se a pessoa ficar agressiva, o NIA aconselha manter uma distância segura até o comportamento passar. Em uma emergência, ligue para o serviço de emergência (192, SAMU, ou 190, no Brasil) e explique que a pessoa tem demência.
+Se a pessoa ficar agressiva, o NIA orienta manter uma distância segura até que o comportamento passe. Em uma emergência, ligue para 911 e explique que a pessoa vive com demência. Nosso [guia sobre como responder à raiva e à agressividade](/caregiving/when-anger-becomes-aggression-with-dementia/) aborda a segurança imediata e o que fazer depois.
 
-Os nossos guias de [comunicação](/caregiving/communication-tips/) e de [o que fazer quando a pessoa diz não](/caregiving/when-they-say-no/) trazem mais sobre palavras que acalmam.
+Nossos guias sobre [comunicação](/caregiving/communication-tips/) e [o que fazer quando a pessoa diz não](/caregiving/when-they-say-no/) trazem mais orientações sobre palavras que podem ajudar a acalmar.
 
-## Como descubro os gatilhos?
+## Como identificar os gatilhos?
 
-Faça um registro curto por uma ou duas semanas. A Alzheimer's Association recomenda anotar o que acontece antes dos episódios da síndrome do entardecer para identificar gatilhos. Anote a hora em que a inquietação começou, o que aconteceu na hora anterior, sonecas, refeições e bebidas, visitas, barulho e luz. Leve o registro ao médico. O NIA observa que acompanhar as mudanças de comportamento pode ajudar cuidadores e profissionais de saúde a reconhecer um padrão.
+Mantenha um registro simples por uma ou duas semanas. A Alzheimer's Association recomenda observar o que acontece antes dos episódios de agitação ao entardecer para identificar os gatilhos. Anote o horário em que a inquietação começou, o que aconteceu na hora anterior, cochilos, refeições e bebidas, visitas, barulho e luz. Leve esse registro ao médico. O NIA observa que acompanhar as mudanças de comportamento pode ajudar cuidadores e profissionais de saúde a reconhecer um padrão.
 
-## Quando devo ligar para o médico por causa da síndrome do entardecer?
+## Quando devo entrar em contato com o médico sobre a síndrome do pôr do sol?
 
-Entre em contato com o médico da pessoa se a inquietação for nova, piorar de repente ou vier com outras mudanças. O NIA diz que mudanças de comportamento repentinas ou que oscilam muito rápido, principalmente depois de uma infecção ou de mudanças recentes de remédio, devem ser levadas ao conhecimento do médico imediatamente.
+Entre em contato com o médico da pessoa de quem você cuida se a inquietação for nova, piorar de repente ou vier acompanhada de outras mudanças. O NIA diz que mudanças repentinas ou que variam rapidamente no comportamento, especialmente após uma infecção ou mudanças recentes na medicação, devem ser comunicadas imediatamente ao médico.
 
-Peça ao médico que verifique o que pode tornar as noites mais difíceis. A Alzheimer's Association menciona problemas físicos como infecções urinárias, incontinência, síndrome das pernas inquietas e apneia do sono, e sugere perguntar quais são os melhores horários do dia para cada remédio. O NIA lista dor, intestino preso e efeitos colaterais ou interações de remédios entre as possíveis causas da agitação.
+Peça ao médico que verifique se há coisas que podem tornar o fim do dia mais difícil. A Alzheimer's Association menciona problemas físicos, como infecções do trato urinário, incontinência, síndrome das pernas inquietas e apneia do sono, e sugere perguntar quais são os melhores horários do dia para cada medicamento. O NIA inclui dor, prisão de ventre e efeitos colaterais ou interações de medicamentos entre as possíveis causas de agitação.
 
-A Alzheimer's Association diz que, em geral, as abordagens sem remédio são preferidas para problemas de sono ligados ao Alzheimer, e que o remédio para a agitação do fim do dia só deve ser considerado se elas falharem, depois de pesar riscos e benefícios. Essa decisão é do médico. Não comece, não pare nem mude nenhum remédio, auxiliar de sono ou suplemento sem orientação médica.
+A Alzheimer's Association diz que abordagens não medicamentosas geralmente são preferidas para problemas de sono ligados ao Alzheimer, e que medicamentos para a agitação no fim do dia só devem ser considerados se essas abordagens não funcionarem, depois de avaliar os riscos e benefícios. Essa decisão cabe ao médico. Não comece, interrompa ou mude nenhum medicamento, auxílio para dormir ou suplemento sem orientação médica.
 
-## Como eu mesmo passo pelas noites?
+## Como posso passar pelas noites?
 
-O fim da tarde pode ser a parte mais difícil do dia de um cuidador. Se puder, peça a um familiar, amigo ou ajudante pago que cubra o fim da tarde alguns dias por semana, nem que seja por uma hora. O nosso guia de [cuidar de si como cuidador](/caregiving/caregiver-self-care/) lista opções de cuidado de descanso e a linha gratuita de ajuda 24 horas da Alzheimer's Association, nos EUA.
+O fim da tarde pode ser a parte mais difícil do dia para quem cuida. Se puder, peça a um familiar, amigo ou profissional remunerado para ajudar no fim da tarde, alguns dias por semana, mesmo que por uma hora. Nosso guia sobre [autocuidado para quem cuida](/caregiving/caregiver-self-care/) traz opções de respiro e a linha de apoio gratuita Alzheimer's Association 24/7 Helpline.
