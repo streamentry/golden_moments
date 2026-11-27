@@ -137,7 +137,7 @@ MODEL_FOR = {
 
 # Only include model IDs explicitly labeled free or contributor-free.
 FREE_BACKENDS = [
-    'iceman', 'dsfree', 'glmfree', 'beamfree', 'flintfree', 'hy4free',
+    'dsfree', 'iceman', 'glmfree', 'beamfree', 'flintfree', 'hy4free',
     'icemanfree', 'inklingfree', 'longcatfree', 'mimofree',
     'nemotronfree', 'nemotronvlfree', 'beamgofree', 'hy4gofree', 'longcatgofree',
 ]

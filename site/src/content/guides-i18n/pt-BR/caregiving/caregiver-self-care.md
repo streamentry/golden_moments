@@ -1,157 +1,159 @@
 ---
-title: "Cuidar de si mesmo como cuidador: pausas, apoio e sinais de esgotamento"
-seoTitle: "Cuidador de quem tem demência: cuidar de si e descansar"
-description: "Sinais de esgotamento do cuidador, como encontrar cuidado de descanso e grupos de apoio, e linhas de ajuda gratuitas nos EUA, como a da Alzheimer's Association."
+title: 'Cuidar de si: descanso, apoio e sinais de esgotamento'
+seoTitle: 'Cuidar de si na demência: descanso e apoio'
+description: Sinais de esgotamento, onde encontrar descanso e apoio, e ajuda gratuita nos EUA, incluindo a Alzheimer's Association 24/7 Helpline e o Eldercare Locator.
 section: caregiving
 order: 7
-updated: 2026-10-25
-translatedFrom: 2026-10-25
-summary: >-
-  Cuidar de alguém com demência é difícil, e cuidar de si faz parte do trabalho.
-  Fique atento a sinais de alerta como exaustão, irritação, sono ruim e
-  afastamento dos amigos. Peça ajuda para tarefas específicas, use o cuidado de
-  descanso e participe de um grupo de apoio. Nos EUA, a ajuda gratuita inclui a
-  Alzheimer's Association 24/7 Helpline, no 1-800-272-3900, e o Eldercare
-  Locator, no 1-800-677-1116.
+updated: &id001 2026-10-25
+translatedFrom: *id001
+summary: Cuidar de uma pessoa que vive com demência é difícil, e cuidar de si também faz parte desse papel. Fique atento a sinais de alerta como exaustão, irritação, sono ruim e afastamento de amigos. Peça ajuda com tarefas específicas, use cuidados de descanso e participe de um grupo de apoio. Ajuda gratuita nos EUA inclui a Alzheimer's Association 24/7 Helpline, pelo telefone 1-800-272-3900, e o Eldercare Locator, pelo telefone 1-800-677-1116.
 keyPoints:
-  - "O esgotamento costuma aparecer como exaustão, irritação, sono ruim, tristeza e abandono dos seus próprios cuidados de saúde."
-  - "O cuidado de descanso (respite care) dá uma pausa a você, de algumas horas a várias semanas, em casa ou em outro lugar de cuidado."
-  - "Peça ajuda para tarefas específicas; muita gente quer ajudar, mas não sabe como."
-  - "Nos EUA, a Alzheimer's Association 24/7 Helpline (1-800-272-3900) oferece apoio gratuito e confidencial a qualquer hora."
-  - "Nos EUA, o Eldercare Locator (1-800-677-1116) conecta você a serviços locais, incluindo a sua Area Agency on Aging."
-  - "Se você sentir que está em crise, procure o serviço de apoio emocional da sua região (nos EUA, ligue ou mande mensagem para 988). Em uma emergência, ligue para o serviço de emergência local."
+- O esgotamento muitas vezes aparece como exaustão, irritação, sono ruim, tristeza e descuido com a própria saúde.
+- Os cuidados de descanso oferecem uma pausa, de algumas horas a várias semanas, em casa ou em um local de cuidado.
+- Peça ajuda com tarefas específicas; muitas pessoas querem ajudar, mas não sabem como.
+- A Alzheimer's Association 24/7 Helpline (1-800-272-3900) oferece apoio gratuito e confidencial a qualquer hora.
+- O Eldercare Locator (1-800-677-1116) conecta você a serviços locais, incluindo a sua Area Agency on Aging.
+- Se você sentir que está em crise, ligue ou envie uma mensagem de texto para 988. Em uma emergência, procure os serviços locais; para urgências médicas, ligue para o SAMU pelo 192.
 faq:
-  - q: "Quais são os sinais de esgotamento do cuidador?"
-    a: "Os sinais mais comuns incluem sentir-se exausto, sobrecarregado ou ansioso, irritar-se ou perder a paciência com facilidade, dormir mal, sentir tristeza ou desesperança, afastar-se dos amigos, ter dores de cabeça ou dores com frequência e pular as próprias refeições, exercícios ou consultas. Se sinais assim aparecem com regularidade, converse com o seu médico."
-  - q: "Como encontro cuidado de descanso perto de mim?"
-    a: "Nos EUA, comece pelo Eldercare Locator (1-800-677-1116 ou eldercare.acl.gov) para chegar à Area Agency on Aging da sua região, pelo ARCH National Respite Locator Service ou pela Alzheimer's Association Helpline, no 1-800-272-3900. Fora dos EUA, procure associações de Alzheimer, o serviço de saúde e a assistência social da sua cidade. Familiares, amigos e voluntários também podem dar esse descanso."
-  - q: "O Medicare paga o cuidado de descanso?"
-    a: "Segundo o National Institute on Aging, para uma pessoa que recebe cuidados paliativos (hospice), o Medicare cobre a maior parte do custo de até cinco dias seguidos de cuidado de descanso em um hospital ou em uma instituição de enfermagem especializada. A maioria dos planos de saúde privados não cobre esse cuidado; o Medicaid e alguns seguros de cuidados de longa duração podem ajudar. Essas regras são dos EUA; em outros países, os sistemas de saúde e de assistência social funcionam de outro jeito."
-  - q: "A Helpline da Alzheimer's Association é mesmo gratuita e funciona à noite?"
-    a: "Sim. A Alzheimer's Association informa que a Helpline, no 1-800-272-3900, é gratuita, confidencial e atende 24 horas por dia, 365 dias por ano, com ajuda em muitos idiomas. Disque 711 para um serviço de retransmissão."
-  - q: "É egoísmo tirar uma pausa do cuidado?"
-    a: "Não. Descansar ajuda você a continuar cuidando, e o cuidado de descanso pode dar também à pessoa de quem você cuida uma mudança de companhia e de atividade. Muitos cuidadores dizem depois que gostariam de ter pedido ajuda mais cedo."
+- q: Quais são os sinais de esgotamento de quem cuida?
+  a: Sinais comuns incluem sentir-se exausto, sobrecarregado ou ansioso, ficar com raiva ou impaciente com facilidade, ter dificuldade para dormir, sentir-se triste ou sem esperança, afastar-se de amigos, ter dores de cabeça ou dores frequentes e deixar de lado as próprias refeições, exercícios ou cuidados médicos. Se sinais como esses acontecerem com frequência, converse com o seu médico.
+- q: Como encontro cuidados de descanso perto de mim?
+  a: Comece pelo Eldercare Locator (1-800-677-1116 ou eldercare.acl.gov) para entrar em contato com a Area Agency on Aging da sua região, pelo ARCH National Respite Locator Service ou pela Alzheimer's Association Helpline, no telefone 1-800-272-3900. Familiares, amigos e voluntários também podem oferecer esse descanso.
+- q: O Medicare paga por cuidados de descanso?
+  a: Para uma pessoa que recebe cuidados paliativos, o Medicare cobre a maior parte do custo de até cinco dias consecutivos de cuidados de descanso em um hospital ou em uma instituição de enfermagem especializada, de acordo com o National Institute on Aging. A maioria dos planos de saúde privados não cobre cuidados de descanso; o Medicaid e alguns planos de seguro de cuidados de longo prazo podem ajudar.
+- q: A Alzheimer's Association Helpline é realmente gratuita e está disponível à noite?
+  a: Sim. A Alzheimer's Association informa que a sua Helpline, no telefone 1-800-272-3900, é gratuita, confidencial e atendida dia e noite, 365 dias por ano, com ajuda disponível em muitos idiomas. Disque 711 para um serviço de retransmissão.
+- q: É egoísmo fazer uma pausa no cuidado?
+  a: Não. Descansar ajuda você a continuar cuidando, e os cuidados de descanso também podem oferecer à pessoa de quem você cuida uma mudança de companhia e de atividade. Muitas pessoas que cuidam dizem, mais tarde, que gostariam de ter pedido ajuda antes.
 sources:
-  - title: "Taking Care of Yourself: Tips for Caregivers"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers"
-  - title: "Alzheimer's Caregiving: Caring for Yourself"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself"
-  - title: "What Is Respite Care?"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/caregiving/what-respite-care"
-  - title: "Caregiver Stress"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress"
-  - title: "Free 24/7 Alzheimer's & Dementia Helpline"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/resources/helpline"
-  - title: "Respite Care"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/care-options/respite-care"
-  - title: "Support Groups"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/community/support-groups"
-  - title: "Eldercare Locator"
-    publisher: "Administration for Community Living"
-    url: "https://eldercare.acl.gov/"
-  - title: "Find a Respite Provider"
-    publisher: "ARCH National Respite Network and Resource Center"
-    url: "https://archrespite.org/caregiver-resources/respitelocator/"
-  - title: "988 Lifeline"
-    publisher: "988 Suicide & Crisis Lifeline"
-    url: "https://988lifeline.org/"
-relatedGames: [calm-breathing, picture-bingo, conversation-cards]
-related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, caregiving/when-they-say-no, activities/care-home-groups, activities/visiting]
+- title: 'Taking Care of Yourself: Tips for Caregivers'
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers
+- title: 'Alzheimer''s Caregiving: Caring for Yourself'
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself
+- title: What Is Respite Care?
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/caregiving/what-respite-care
+- title: Caregiver Stress
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress
+- title: Free 24/7 Alzheimer's & Dementia Helpline
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/resources/helpline
+- title: Respite Care
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/care-options/respite-care
+- title: Support Groups
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/community/support-groups
+- title: Eldercare Locator
+  publisher: Administration for Community Living
+  url: https://eldercare.acl.gov/
+- title: Find a Respite Provider
+  publisher: ARCH National Respite Network and Resource Center
+  url: https://archrespite.org/caregiver-resources/respitelocator/
+- title: 988 Lifeline
+  publisher: 988 Suicide & Crisis Lifeline
+  url: https://988lifeline.org/
+relatedGames:
+- calm-breathing
+- picture-bingo
+- conversation-cards
+related:
+- caregiving/how-to-play-together
+- caregiving/late-day-restlessness
+- caregiving/when-they-say-no
+- activities/care-home-groups
+- activities/visiting
 health: false
 ---
 
-Se você cuida de alguém que vive com demência, provavelmente está lendo isto tarde, cansado e com uma lista de coisas que ainda não fez. Isso é normal. Cuidar de si não é um luxo nem um prêmio por terminar tudo. É o que permite que você continue.
+Se você cuida de uma pessoa que vive com demência, talvez esteja lendo isto tarde, com cansaço e com uma lista de coisas que ainda não fez. Isso é normal. Cuidar de você não é um luxo nem uma recompensa por dar conta de tudo. É o que ajuda você a seguir em frente.
 
-Esta página fala dos sinais de alerta do esgotamento, de como conseguir uma pausa de verdade, de onde encontrar apoio e de linhas de ajuda gratuitas dos EUA para ligar hoje, com ideias do que procurar no seu país.
+Esta página traz os sinais de alerta do esgotamento, como fazer uma pausa de verdade, onde encontrar apoio e telefones de apoio gratuitos nos Estados Unidos para os quais você pode ligar hoje.
 
-## Quais são os sinais de esgotamento do cuidador?
+## Quais são os sinais de esgotamento de quem cuida?
 
-O esgotamento (burnout) costuma chegar devagar, então vale conhecer os seus próprios sinais de alerta. O [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lista sinais de estresse do cuidador, entre eles:
+O esgotamento muitas vezes aparece aos poucos, por isso ajuda conhecer seus próprios sinais de alerta. O [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lista sinais de estresse em quem cuida, incluindo:
 
-- sentir-se exausto, sobrecarregado ou ansioso;
+- sentir-se esgotado, sobrecarregado ou ansioso;
 - irritar-se ou perder a paciência com facilidade;
-- sentir-se sozinho ou desconectado dos outros;
-- dormir mal ou não dormir o suficiente;
-- sentir tristeza ou desesperança, ou perder o interesse por coisas de que antes gostava;
+- sentir-se sozinho ou desconectado de outras pessoas;
+- ter dificuldade para dormir, ou não dormir o suficiente;
+- sentir-se triste ou sem esperança, ou perder o interesse por coisas de que você costumava gostar;
 - dores de cabeça frequentes, dores ou outros problemas físicos;
-- não ter tempo de se exercitar nem de preparar uma comida saudável para si;
-- pular o banho ou outros cuidados pessoais;
-- fazer mau uso de álcool ou drogas, incluindo remédios prescritos.
+- não ter tempo para se exercitar ou preparar refeições saudáveis para você;
+- deixar de tomar banho ou de outros cuidados pessoais;
+- usar álcool ou drogas de forma prejudicial, incluindo medicamentos receitados.
 
-A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) acrescenta sinais como negar a doença, ter raiva da pessoa (“ele está só sendo teimoso”), ansiedade com o futuro, dificuldade de concentração e problemas de saúde que cobram um preço. Ela aconselha conversar com o seu médico se você tem sinais assim com regularidade.
+A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) acrescenta sinais como negação da doença, raiva da pessoa de quem você cuida (“ele só está sendo teimoso”), ansiedade em relação ao futuro, dificuldade de concentração e problemas de saúde que começam a pesar. A associação orienta conversar com seu médico se você tiver sinais como esses com frequência.
 
-O conselho do NIA é não esperar até se sentir completamente sobrecarregado. Perceba os seus sinais cedo e aja.
+A orientação do NIA é não esperar até estar completamente sobrecarregado. Perceba seus sinais cedo e tome providências.
 
 ## O que posso fazer hoje, em cinco minutos?
 
-Pequenas pausas contam. Nenhuma delas resolve o esgotamento, mas podem ajudar a atravessar uma tarde difícil.
+Pequenas pausas fazem diferença. Nada disso resolve o esgotamento, mas pode ajudar você a passar por uma tarde difícil.
 
-- **Saia um pouco.** Sente na varanda ou vá até o portão enquanto a pessoa está segura e tranquila.
-- **Respire devagar.** Algumas respirações lentas antes de responder a uma pergunta difícil. Você também pode fazer uma pausa de [Respiração calma](/games/calm-breathing/) com a pessoa de quem cuida.
-- **Beba água e coma alguma coisa.** É fácil esquecer as próprias refeições.
-- **Mande uma mensagem para um amigo.** Não para pedir nada, só para se conectar.
-- **Diga algo gentil a si mesmo.** O [guia do NIA sobre cuidar de si](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) sugere frases como “Estou fazendo o melhor que posso”, “Não sou perfeito, e tudo bem” e “Vou aproveitar os momentos em que pudermos ficar juntos em paz”.
+- **Saia um pouco.** Sente-se na varanda ou caminhe até a caixa de correio enquanto a pessoa de quem você cuida estiver segura e tranquila.
+- **Respire devagar.** Faça algumas respirações lentas antes de responder a uma pergunta difícil. Você também pode compartilhar uma pausa de [Respiração Calma](/games/calm-breathing/) com a pessoa de quem você cuida.
+- **Beba água e coma algo.** É fácil esquecer das suas próprias refeições.
+- **Mande uma mensagem para uma pessoa amiga.** Não para pedir nada, só para manter contato.
+- **Diga algo gentil para você.** O NIA, no guia [Alzheimer's Caregiving: Caring for Yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself), sugere frases como “Estou fazendo o melhor que posso”, “Não sou uma pessoa perfeita, e tudo bem” e “Vou aproveitar os momentos em que pudermos estar juntos em paz”.
 
-## O que é cuidado de descanso e como consigo?
+## O que é cuidado de respiro e como conseguir?
 
-O cuidado de descanso (respite care) é um cuidado de curta duração para a pessoa de quem você cuida, para que você possa descansar. A [página do NIA sobre cuidado de descanso](https://www.nia.nih.gov/health/caregiving/what-respite-care) explica que ele pode durar de algumas horas a várias semanas e acontecer em casa, em um serviço de saúde ou em um centro-dia para adultos.
+Cuidado de respiro é um cuidado temporário para a pessoa de quem você cuida, para que você possa descansar. A [página sobre cuidado de respiro](https://www.nia.nih.gov/health/caregiving/what-respite-care) do NIA explica que ele pode durar de algumas horas a várias semanas e pode acontecer em casa, em uma unidade de saúde ou em um centro de dia para adultos.
 
-A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) descreve os tipos mais comuns:
+A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) descreve tipos comuns:
 
 | Tipo | O que é |
 | --- | --- |
-| Ajuda em casa | Um amigo, parente, voluntário ou um acompanhante ou auxiliar pago vai até a casa |
-| Centro-dia para adultos | Atividades planejadas, como música e arte, em um grupo seguro; transporte e refeições costumam ser oferecidos |
-| Estadia por uma noite ou curta | Uma instituição de longa permanência cuida da pessoa por uma noite, alguns dias ou algumas semanas |
+| Ajuda em casa | Um amigo, familiar, voluntário ou acompanhante ou cuidador remunerado vai até a casa |
+| Centro de dia para adultos | Atividades planejadas, como música e arte, em um ambiente seguro e em grupo; transporte e refeições costumam ser oferecidos |
+| Pernoite ou estadia curta | Uma comunidade de cuidados de longo prazo cuida da pessoa por uma noite, alguns dias ou algumas semanas |
 
-**Quem paga?** Segundo o NIA, o descanso dado por familiares, amigos ou voluntários pode não custar nada. Os serviços profissionais cobram por hora ou por dia. Nos EUA, para uma pessoa que recebe cuidados paliativos (hospice), o Medicare cobre a maior parte do custo de até cinco dias seguidos de descanso em um hospital ou em uma instituição de enfermagem especializada. O Medicaid pode ajudar. A maioria dos planos de saúde privados não cobre o cuidado de descanso, embora alguns seguros de cuidados de longa duração cubram. Essas regras são dos EUA; no seu país, pergunte à assistência social e ao serviço de saúde da sua cidade que apoios existem.
+**Quem paga?** Segundo o NIA, o cuidado de respiro oferecido por familiares, amigos ou voluntários pode não ter custo. Os serviços profissionais cobram por hora ou por dia. Para uma pessoa que recebe cuidados paliativos, o Medicare cobre a maior parte do custo de até cinco dias consecutivos de cuidado de respiro em um hospital ou instituição de enfermagem especializada. O Medicaid pode ajudar. A maioria dos planos de saúde privados não cobre o cuidado de respiro, embora alguns planos de seguro de cuidados de longo prazo cubram.
 
-**Dica:** A Alzheimer's Association sugere experimentar prestadores de cuidado de descanso em um momento sem urgência, para que estejam prontos se você precisar de ajuda de repente.
+**Dica:** A Alzheimer's Association sugere experimentar os serviços de cuidado de respiro em uma situação que não seja de emergência, para que eles estejam disponíveis caso você precise de ajuda de repente.
 
 ## Onde posso encontrar ajuda perto de mim?
 
-Vários serviços gratuitos dos EUA podem indicar ajuda local. Fora dos EUA, procure a associação de Alzheimer do seu país (no Brasil, a Abraz), a unidade básica de saúde e o serviço de assistência social do seu município, que podem orientar sobre centros-dia, grupos de apoio e outros serviços para idosos e famílias.
+Alguns serviços gratuitos dos Estados Unidos podem indicar ajuda na sua região.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** A [Helpline](https://www.alz.org/help-support/resources/helpline) é gratuita e confidencial, atende 24 horas por dia, todos os dias do ano, com ajuda em mais de 200 idiomas, por meio de atendentes bilíngues ou intérpretes. Disque 711 para um serviço de retransmissão. Você pode conversar sobre mudanças de comportamento, estresse do cuidador, opções de cuidado de descanso, programas locais e mais, e pedir uma conversa mais longa com um consultor de cuidados. A equipe não dá orientação médica.
-- **Eldercare Locator: 1-800-677-1116.** O [Eldercare Locator](https://eldercare.acl.gov/), um serviço público da Administration for Community Living, conecta você a serviços para idosos e suas famílias. Você pode ligar, mandar mensagem de texto, conversar pelo chat ou escrever um e-mail para uma equipe treinada, ou buscar por localização. Ele pode indicar a Area Agency on Aging (agência local para o envelhecimento) da sua região.
-- **ARCH National Respite Locator Service.** O [localizador de cuidado de descanso da ARCH](https://archrespite.org/caregiver-resources/respitelocator/) ajuda você a encontrar prestadores por estado e sugere entrar em contato primeiro com a State Respite Coalition ou o programa Lifespan Respite do seu estado, se houver. A ARCH observa que não verifica os prestadores, então avalie você mesmo a experiência e o histórico deles.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** A [Helpline](https://www.alz.org/help-support/resources/helpline) é gratuita e confidencial, com atendimento dia e noite, todos os dias do ano, e ajuda em mais de 200 idiomas por meio de equipe bilíngue ou intérpretes. Disque 711 para um serviço de retransmissão. Você pode conversar sobre mudanças de comportamento, estresse de quem cuida, opções de descanso, programas locais e muito mais, além de pedir uma conversa mais longa com um consultor de cuidados. A equipe não oferece orientação médica.
+- **Eldercare Locator: 1-800-677-1116.** O [Eldercare Locator](https://eldercare.acl.gov/), um serviço público da Administration for Community Living, conecta você a serviços para pessoas idosas e suas famílias. Você pode ligar, enviar mensagem de texto, conversar online ou enviar um e-mail para a equipe treinada, ou fazer uma busca por localidade. O serviço pode indicar a Area Agency on Aging da sua região.
+- **ARCH National Respite Locator Service.** O [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) ajuda você a encontrar prestadores de serviços de descanso por estado e sugere que, se o seu estado tiver, você entre em contato primeiro com a State Respite Coalition ou com o programa Lifespan Respite. O ARCH informa que não verifica os prestadores de serviço, por isso é importante que você avalie a experiência e o histórico deles.
 
-## Como encontro um grupo de apoio?
+## Como encontrar um grupo de apoio?
 
-Pergunte à Helpline ou procure na internet grupos perto de você. A Alzheimer's Association [mantém grupos de apoio](https://www.alz.org/help-support/community/support-groups) para cuidadores e para pessoas que vivem com demência, presenciais e on-line, conduzidos por facilitadores treinados. Muitos locais também oferecem grupos especializados, por exemplo, para cuidadores adultos ou para pessoas que vivem com Alzheimer de início precoce ou em fase inicial. Ela também mantém o ALZConnected, uma comunidade on-line gratuita em que cuidadores trocam conselhos.
+Entre em contato com a linha de apoio ou procure na internet por grupos perto de você. A Alzheimer's Association [oferece grupos de apoio](https://www.alz.org/help-support/community/support-groups) para cuidadores e pessoas que vivem com demência, presenciais e online, conduzidos por facilitadores capacitados. Muitos locais também oferecem grupos especializados, por exemplo, para cuidadores adultos ou para pessoas que vivem com Alzheimer de início precoce ou em estágio inicial. Ela também oferece o ALZConnected, uma comunidade online gratuita onde cuidadores compartilham conselhos.
 
-Os grupos de apoio podem ser um lugar para desabafar sem ser julgado, aprender dicas práticas com quem já passou por isso e se sentir menos sozinho. Se o primeiro grupo não combinar com você, tente outro.
+Grupos de apoio podem ser um lugar para desabafar sem julgamentos, receber dicas práticas de pessoas que já passaram por isso e se sentir menos só. Se o primeiro grupo não for uma boa opção para você, experimente outro.
 
-## Como peço ajuda a familiares e amigos?
+## Como pedir ajuda à família e aos amigos?
 
-Seja específico. Muita gente quer ajudar, mas não sabe o que oferecer. O NIA sugere:
+Seja específico. Muitas pessoas querem ajudar, mas não sabem o que oferecer. O NIA sugere:
 
-- **Faça uma lista** de tarefas que outras pessoas poderiam assumir e deixe cada um escolher.
-- **Comece pequeno** se pedir parecer difícil.
-- **Combine a tarefa com a pessoa.** O primo que adora cozinhar traz o jantar às quintas. O vizinho bom com papelada ajuda com a burocracia.
-- **Mande mensagem ou e-mail** se pedir pessoalmente for desconfortável.
-- **Ensaie uma resposta** para quando alguém se oferecer: “Obrigado por perguntar. Você pode me ajudar assim.”
-- **Espere alguns “nãos”** e tente não levar para o lado pessoal.
+- **Mantenha uma lista** de tarefas que outras pessoas poderiam assumir e deixe que cada pessoa escolha.
+- **Comece com algo pequeno** se pedir ajuda parecer difícil.
+- **Pense na tarefa certa para cada pessoa.** A prima que adora cozinhar leva o jantar às quintas-feiras. O vizinho que se dá bem com formulários ajuda com a papelada.
+- **Envie uma mensagem de texto ou um e-mail** se pedir pessoalmente for desconfortável.
+- **Pratique uma resposta** para quando alguém se oferecer: “Obrigado por perguntar. Aqui está o que você pode fazer.”
+- **Esteja preparado para alguns “nãos”** e tente não levar para o lado pessoal.
 
-Outras ideias: peça a alguém que fique com a pessoa uma tarde por semana, que a leve para um passeio curto, ou que a visite e jogue algo com ela. O nosso [guia para jogar juntos](/caregiving/how-to-play-together/) é fácil de compartilhar com visitas.
+Outras ideias: peça a alguém para fazer companhia à pessoa de quem você cuida por uma tarde por semana, levá-la para um passeio curto ou fazer uma visita para jogar algo juntos. Nosso [guia sobre como fazer atividades juntos](/caregiving/how-to-play-together/) é fácil de compartilhar com quem for visitar.
 
-## E se acontecer alguma coisa comigo?
+## E se algo acontecer comigo?
 
-Faça agora um plano de reserva simples. O NIA sugere combinar com familiares ou amigos próximos quem assumiria e manter um caderno com telefones de emergência, remédios, dicas de comportamento que funcionam e atividades preferidas. A Alzheimer's Association também recomenda deixar fáceis de achar os contatos médicos da pessoa e uma lista atualizada de remédios.
+Faça um plano simples de apoio agora. O NIA sugere decidir, com a família ou amigos próximos, quem poderia assumir, e manter um caderno com números de emergência, medicamentos, dicas de comportamento que funcionam e atividades favoritas. A Alzheimer's Association também recomenda manter os contatos médicos da pessoa que você cuida e uma lista atualizada de medicamentos em um lugar fácil de encontrar.
 
-## Quando devo procurar ajuda profissional ou urgente?
+## Quando procurar ajuda profissional ou urgente?
 
-Converse com o seu médico se os sinais de estresse forem frequentes, se você se sentir deprimido ou se estiver com dificuldade para dar conta. Diga ao seu médico que você é cuidador. O NIA observa que psicólogos e assistentes sociais podem ajudar com sentimentos difíceis e com planejamento, e que, nos EUA, o Medicare, o Medicaid e alguns planos privados podem cobrir parte dos custos de saúde mental.
+Converse com o seu médico se os sinais de estresse forem frequentes, se você estiver se sentindo deprimido(a) ou se estiver com dificuldade para lidar com a situação. Diga ao seu médico que você é cuidador(a). O NIA observa que conselheiros e assistentes sociais podem ajudar com sentimentos difíceis e com o planejamento, e que o Medicare, o Medicaid e alguns planos de saúde privados podem cobrir alguns custos de saúde mental.
 
-Se você sentir que está em crise ou tiver pensamentos de se machucar, procure agora o serviço de apoio emocional da sua região (no Brasil, o CVV atende de graça, 24 horas, pelo 188). Nos EUA, ligue ou mande mensagem para 988 para falar com a [988 Suicide & Crisis Lifeline](https://988lifeline.org/), gratuita e disponível 24 horas. Se alguém estiver em perigo imediato, ligue para o serviço de emergência (192, SAMU, ou 190, no Brasil).
+Se você estiver em crise ou tiver pensamentos de machucar a si mesmo(a), ligue ou envie uma mensagem de texto para 988 para entrar em contato com a [988 Suicide & Crisis Lifeline](https://988lifeline.org/), um serviço gratuito e disponível dia e noite, 7 dias por semana. Se alguém estiver em perigo imediato, procure os serviços de emergência locais; para urgências médicas, ligue para o SAMU pelo 192.
 
-## Atividades em conjunto também podem me dar uma pausa?
+## Atividades compartilhadas também podem me dar uma pausa?
 
-Às vezes. Uma atividade calma de que os dois gostem pode ser uma parte mais leve do dia para você e para a pessoa de quem cuida: ouvir músicas antigas, olhar fotos ou jogar algo como as [Cartas de conversa](/games/conversation-cards/), que não pedem resposta certa. Se a pessoa gosta de companhia, uma sessão em grupo de [Bingo de figuras](/games/picture-bingo/) em um centro de convivência para idosos ou em um centro-dia pode dar a você uma hora de descanso. Veja as [atividades para grupos em instituições](/activities/care-home-groups/) para mais ideias.
+Às vezes. Uma atividade tranquila que vocês dois gostem pode tornar essa parte do dia mais leve, tanto para você quanto para a pessoa de quem você cuida: ouvir músicas antigas, olhar fotos ou um jogo como [Cartas de conversa](/games/conversation-cards/), que não exige respostas certas. Se a pessoa gosta de companhia, uma sessão em grupo com [Bingo de figuras](/games/picture-bingo/) em um centro para pessoas idosas ou em um programa de dia para adultos pode oferecer uma hora de descanso para você. Veja [atividades para grupos em instituições de cuidado](/activities/care-home-groups/) para ter ideias.
