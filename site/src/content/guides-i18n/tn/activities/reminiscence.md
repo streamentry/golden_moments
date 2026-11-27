@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Ditirwana tsa Dikgakologelo: Mabokoso, Dipale tsa Botshelo le Ditshwantsho"
+seoTitle: "Ditirwana tsa Dikgakologelo tsa Dementia: Ntle le Teko"
+description: "Kafa o ka abelanang dikgakologelo le motho yo o tshelang le dementia o sa botseng dipotso tsa teko: ditshwantsho, mabokoso a dikgakologelo le dibuka tsa botshelo."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Dikgakologelo ke go itumelela nako e e fetileng mmogo ka ditshwantsho, dilo,
+  mmino le dipale. Dira lebokoso la dikgakologelo, aga buka ya botshelo kgotsa
+  leba ditshwantsho lo ntse bapile. O se ka wa dira teko: tlogela "A o a
+  gakologelwa?" le "Yono ke mang?" mme dirisa taletso e e bulegileng jaaka
+  "Mpolelele ka seno." Motlotlo o o mofuthu o botlhokwa go feta dintlha tse di siameng.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Dikgakologelo ke motlotlo, e seng teko. Go nepagala ga dintlha ga go botlhokwa; boitumelo bo botlhokwa."
+  - "Fetola 'A o a gakologelwa...?' le 'Yono ke mang?' ka mafoko a a jaaka 'Mpolelele ka letsatsi leno.'"
+  - "Lebokoso la dilo tsa botshelo jwa motho le naya diatla le motlotlo sengwe sa go tshwarelela."
+  - "Buka ya botshelo e thusa lelapa, baeng le badiri go itse motho, e seng fela bolwetse."
+  - "Fa kgakologelo e tlisa bohutsana, gomotsa pele mme o fetole kgang ka bonolo."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Dikgakologelo ke eng mo bathong ba ba nang le dementia?"
+    a: "Ke go abelana dikgakologelo le maitemogelo a bogologolo, gantsi ka thuso ya ditshwantsho, dilo, mmino kgotsa dibidio. Go ka dirwa motho le motho kgotsa mo setlhopheng. Maikaelelo ke motlotlo o o monate le o o nang le bokao, e seng go leka se motho a se gakologelwang."
+  - q: "Goreng ke sa tshwanela go botsa 'A o a gakologelwa?'"
+    a: "Dipotso tse di lekang kgakologelo di ka dira gore motho a tlhabiwe ke ditlhong kgotsa a tshwenyege fa karabo e sa tle. National Institute on Aging e tsenya go botsa motho gore a o gakologelwa sengwe kgotsa mongwe mo dilong tse di tshwanetseng go tilwa. Bua ka se o se bonang mme o mo letle a oketse se a se ratang."
+  - q: "Ke tsenya eng mo lebokosong la dikgakologelo?"
+    a: "Tlhopha dilo tse di sireletsegileng le tse di nonofileng tse di golaganeng le botshelo jwa motho: dilo tsa tiro, didirisiwa tsa boitlosobodutu, sekhafo se a se ratang, diposikaratara, dikarata tsa recipe, dilo tsa metshameko kgotsa dikopi tsa ditshwantsho. Tila dilo tse di bogale, tse dinnye tse di ka kometswang le tsa nnete tse di sa busediweng."
+  - q: "Go tweng fa ba bua dintlha tse di phoso?"
+    a: "E tlogele. Fa mmaagwe a re setshwantsho se bontsha mogolowe fa e le motswala, go siame. Go baakanya go fetola motsotso o o mofuthu go nna teko. Latela kgang e a e anelang mme lo e itumelele mmogo."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,82 +45,72 @@ related: [activities/ideas, activities/music, activities/visiting, activities/ph
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Dikgakologelo ke go itumelela nako e e fetileng mmogo. Mo bathong ba le bantsi ba ba tshelang le dementia, dikgakologelo tsa dingwaga tse di fetileng di nna phepa go feta se se diragetseng gompieno. Ditshwantsho, dilo tse di tlwaelegileng, mmino le dipale di ka di tsosa mme tsa go naya sengwe se se mofuthu sa go abelana. Molao o le mongwe: ke motlotlo, e seng teko.
 
-## What is reminiscence, and how is it different from quizzing?
+## Dikgakologelo di farologana jang le go botsa dipotso tsa teko?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Dikgakologelo ke go abelana ka ditshwantsho, dilo, mmino kgotsa bidio ka lobelo lwa motho. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e tlhalosa go abelana maitemogelo le dipale a bogologolo ka ditshwantsho, dilo, dibidio kgotsa mmino. Teko yone e batla karabo e e siameng mme e ka tlisa ditlhong go na le boitumelo.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) e tsenya go botsa gore a motho o gakologelwa sengwe kgotsa mongwe mo dilong tse di tshwanetseng go tilwa. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e akantsha go tila dipotso tsa kgakologelo ya nako e khutshwane le go bua ka nako e e fetileng thata.
 
-| Instead of | Try |
+| Mo boemong jwa | Leka |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "A o a gakologelwa seno?" | "Seno se lebega jaaka letsatsi le le itumedisang. Mpolelele ka lone." |
+| "Yono ke mang?" | "Ke Rakgadi Rose kwa lewatleng. Leba hutshe eo." |
+| "Seno e ne e le ka ngwaga ofe?" | "Seno se tshwana le ntlo ya bogologolo. Go ne go ntse jang go nna koo?" |
+| "Nnyaa, yono ga se Bill, ke Frank." | "O lebega e le motho yo o monate." |
+| "O setse o mpoleletse seo." | "Ke rata polelo eo." |
 
-## How do you talk about photos without quizzing?
+## O bua ka ditshwantsho jang o sa dire teko?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Simolola ka se o se bonang mme o tlogele sebaka sa gore motho a oketse fa a batla.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Nnang bapile.** Tshwara alebamo fa gare gore lo lebe mmogo.
+2. **Tlhopha ditshwantsho di le mmalwa.** Ditshwantsho di le tlhano tse di siameng di botoka go feta lebokoso lotlhe.
+3. **Bitsa batho ka maina ka bowena.** "Ke wena le Rre mo letsatsing la lenyalo" go tlosa kgatelelo.
+4. **Bua ka dintlha.** Diaparo, dikoloi, dijo, maemo a bosa le difatlhego.
+5. **Laletsa, o se ka wa pateletsa.** "Mpolelele ka..." kgotsa "O lemoga eng?" Tidimalo e siame.
+6. **Latela kaelo ya gagwe.** Fa a bua ka sengwe se sele, tsamaya le kgang eo.
+7. **Emisa fa go santse go le monate.** Tswala alebamo pele ga letsapa.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Dirisa [conversation cards](/games/conversation-cards/) kgotsa [photo pairs](/games/photo-pairs/); ditshwantsho tsa gago di sala mo browser.
 
-## How do you make a memory box?
+## O dira lebokoso la dikgakologelo jang?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+1. **Tlhopha lebokoso le le nonofileng** le le bulwang motlhofo.
+2. **Tlhopha setlhogo.** Tiro, boitlosobodutu, lefelo, dingwaga kgotsa motswako.
+3. **Kgobokanya dilo tse di sireletsegileng.** Dilo di le tlhano go ya go di le lesome di lekane go simolola.
+4. **Dirisa dikopi tsa dilo tse di botlhokwa.** Boloka tsa nnete di sireletsegile.
+5. **Ntsha selo se le sengwe ka nako.** Se neye motho, bua sengwe ka sone mme o bone gore motlotlo o ya kae.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+Dikao: badge ya tiro, sedirisiwa se sennye, recipe ya seatla, sekhafo, diposikaratara, mmapa, setshwantsho kgotsa taletso ya lenyalo. Tlogela dilo tse di bogale, tse dinnye tse di ka kometswang le tse di ka tsosang botlhoko.
 
-Ideas to include:
+## O dira buka ya botshelo jang?
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+Buka ya botshelo ke alebamo e e nang le ditshwantsho le mafoko a makhutshwane ka botshelo jwa motho. E thusa baeng le badiri go bona motho otlhe.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+1. **Tlhopha sebopego.** Binder, buka ya ditshwantsho kgotsa slideshow mo tablet.
+2. **Rulaganya dikarolo.** Bongoana, sekolo, tiro, lelapa, mafelo, tumelo, boitlosobodutu, dijo le mmino.
+3. **Baya setshwantsho se le sengwe kgotsa tse pedi mo tsebeng** ka mafoko a a nang le ditlhaka tse dikgolo.
+4. **Tsenya dilo tse a di ratang le mekgwa.** Mmino, dijo, nako ya kofi le dilo tse di mo tshwenyang.
+5. **Mo tsenye fa a batla.** A tlhophe ditshwantsho, a anele kgotsa a lebe fela.
+6. **Tswelela o oketsa.** Ga e tlhoke go fela gore e nne mosola.
 
-## How do you make a life-story book?
+## Dikakantsho tse dingwe
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+- **Tshameka mmino wa bosha** mme lo bue ka se o se tsosang; bona [ditirwana tsa mmino](/activities/music/).
+- **Lebang difilimi tsa kwa gae** kgotsa mananeo a a ratiwang.
+- **Apayang sejo sa bongoana** mme lo letle monkgo o tsose motlotlo.
+- **Lebang mmapa** wa motse wa gagwe mme lo sale ditsela morago.
+- **Tshwarang dimakasine tsa bogologolo** mme lo bue ka ditlhwatlhwa, difeshene le dikoloi.
+- **Gatisa dipale tsa gagwe** mo founong ka tetla ya gagwe.
+- **Abelanang mo dikitsong** ka go tsholetsa setshwantsho se le sengwe; bona [dikitso tsa founo le bidio](/activities/phone-and-video-calls/).
+- **Tlisa setshwantsho kgotsa selo fa o etela**; bona [go etela](/activities/visiting/).
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+## Go tweng fa kgakologelo e le botlhoko?
 
-## More reminiscence ideas
+Kgakologelo dingwe di tlisa bohutsana, boikwatlhao kgotsa poifo. Fa motho a tshwenyega, emisa, mo gomotse mme o fetole kgang kgotsa tirwana ka bonolo. O se ka wa ngangisana ka se se diragetseng. Araba maikutlo a a bontshang, a boammaaruri mo go ene: "O mo tlhologelelwa. Mpolelele ka ene."
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+## Patlisiso e reng?
 
-## What if a memory is painful?
-
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
-
-## What does the research say?
-
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Tshekatsheko ya Cochrane](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia) ya diteko di le 22 le batho ba le 1,972 e fitlhetse diphelelo tse di sa tshwaneng le tse dinnye. Ga e a bona bosupi jwa kotsi. Re akantsha dikgakologelo ka gonne di ka dira nako e e mofuthu le e e nang le bokao, e seng jaaka kalafi. Bona [dikgakololo tsa puisano](/caregiving/communication-tips/).
