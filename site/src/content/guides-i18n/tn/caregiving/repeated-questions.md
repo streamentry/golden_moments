@@ -1,124 +1,128 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: Fa Motho yo o Tshelang ka Dementia a Botsa Potso e le Nngwe Gangwe le Gape
+seoTitle: 'Go Boeletsa Dipotso mo Dementia: Se o ka se Buang'
+description: Goreng motho yo o tshelang ka dementia a boeletsa potso, go araba ka tidimalo, didirisiwa tse di thusang, le fa phetogo ya tshoganyetso e tlhoka ngaka.
 section: caregiving
 order: 9
-updated: 2026-10-31
-translatedFrom: 2026-10-31
-summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+updated: &id001 2026-10-31
+translatedFrom: *id001
+summary: 'Go boeletsa dipotso go tlwaelegile mo dementia: gantsi motho ga a gakologelwe gore o boditse, mme potso gantsi e na le tlhobaelo. Araba ka tidimalo le ka bokhutshwane jaaka e kete ke lekgetlho la ntlha, araba maikutlo a a fa morago ga potso, mme o se ka wa re «o setse o boditse». Kwala karabo mo a ka e bonang, umaka ditiragalo fela nako e khutshwane pele ga tsone, mme o mo neye tirwana e e itumedisang. Phetogo ya tshoganyetso e tlhoka ngaka.'
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+- Gantsi motho ga a gakologelwe gore o boditse; ga a dire ka boomo.
+- Gantsi potso e fitlha maikutlo, jaaka go tshwenyega ka thulaganyo kgotsa go batla go ikutlwa a sireletsegile.
+- Araba ka tidimalo, ka bokhutshwane le ka bonolo, jaaka e kete ke lekgetlho la ntlha. O se ka wa re «o setse o boditse».
+- Ntlha e e kwadilweng, boto e e tshweu, tshupanako kgotsa khalendara e e bonalang e ka araba potso mo boemong jwa gago.
+- Umaka ditiragalo tse di ka bakang kgatelelo fela nako e khutshwane pele ga di diragala.
+- Ikhutse nakonyana fa o tlhoka, mme o letsetse ngaka ka ga phetogo epe ya tshoganyetso.
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+- q: Goreng motho yo o tshelang le dementia a nna a botsa potso e le nngwe gangwe le gape?
+  a: Dementia e ama kgakologelo ya nako e khutshwane, ka jalo a ka tswa a sa gakologelwe tota gore o boditse kgotsa o utlwile karabo. Gantsi potso e tsamaisana le maikutlo, jaaka go tshwenyega ka se se tla latelang kgotsa go tlhoka netefatso. Go araba maikutlo ao gantsi go thusa go feta go boeletsa dintlha.
+- q: A ke tshwanetse go mo raya gore o setse a boditse?
+  a: Nnyaa. Ga go ka ke ga mo thusa go gakologelwa, mme go ka utlwala jaaka kgalemo. Mekgatlho ya dementia e gakolola go araba ka tidimalo nako le nako, jaaka e kete ke lekgetlho la ntlha, le go boloka karabo e le khutshwane.
+- q: A go kwala karabo kwa tlase go a thusa?
+  a: Go ka thusa, fa motho a sa ntse a kgona go bala. Ntlha e e kwadilweng, boto e e tshweu e e nang le thulaganyo ya letsatsi, tshupanako e kgolo kgotsa khalendara mo a e lebang gantsi di mo letla go itlhokomela karabo. Supa kwa go yone ka bonolo go na le gore o re «ke go boleletse».
+- q: Ke tshwanetse go bua leng ka dithulaganyo tsa ngaka kgotsa maeto?
+  a: Gaufi le nako. Go umaka ketelo ya ngaka kgotsa loeto malatsi a le mantsi pele go ka fetoga diura tsa dipotso tse di tshwenyang. Mo bolelele nako e khutshwane pele, ka tidimalo, le se se tla diragalang go latela.
+- q: Ke leng fa go boeletsa go le lebaka la go letsetsa ngaka?
+  a: Fa dipotso, tlhakatlhakano kgotsa maitsholo di fetoga ka tshoganyetso kgotsa di nna maswe thata mo diureng kgotsa malatsing, letsetsa ngaka ya gagwe ka bonako. Tshiwa, molemo o mosha, botlhoko, go patelwa ke mala kgotsa go tlhaela metsi mo mmeleng go ka baka tlhakatlhakano ya tshoganyetso e e bidiwang delirium, e e tlhokang tlhokomelo ka bonako.
 sources:
-  - title: "Repetition"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/stages-behaviors/repetition"
-  - title: "Caregiver's Guide to Understanding Dementia Behaviors"
-    publisher: "Family Caregiver Alliance"
-    url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
-  - title: "Alzheimer's Caregiving: Managing Personality and Behavior Changes"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and"
-  - title: "Communicating With Someone Who Has Alzheimer's Disease"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers"
-  - title: "Navigating Difficult Behaviors"
-    publisher: "Alzheimer's Foundation of America"
-    url: "https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/"
-  - title: "Caregiver Tip Sheets: Repeating"
-    publisher: "Alzheimer's Los Angeles"
-    url: "https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf"
-  - title: "Delirium"
-    publisher: "Dementia Australia"
-    url: "https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium"
-relatedGames: [picture-pairs, sort-together, conversation-cards, calm-breathing]
-related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregiving/late-day-restlessness, caregiving/caregiver-self-care, activities/daily-routine, activities/ideas]
+- title: Repetition
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/stages-behaviors/repetition
+- title: Caregiver's Guide to Understanding Dementia Behaviors
+  publisher: Family Caregiver Alliance
+  url: https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/
+- title: 'Alzheimer''s Caregiving: Managing Personality and Behavior Changes'
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and
+- title: Communicating With Someone Who Has Alzheimer's Disease
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers
+- title: Navigating Difficult Behaviors
+  publisher: Alzheimer's Foundation of America
+  url: https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/
+- title: 'Caregiver Tip Sheets: Repeating'
+  publisher: Alzheimer's Los Angeles
+  url: https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf
+- title: Delirium
+  publisher: Dementia Australia
+  url: https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium
+relatedGames:
+- picture-pairs
+- sort-together
+- conversation-cards
+- calm-breathing
+related:
+- caregiving/asking-to-go-home
+- caregiving/communication-tips
+- caregiving/late-day-restlessness
+- caregiving/caregiver-self-care
+- activities/daily-routine
+- activities/ideas
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+«Ngaka e tla tla ka nako mang?» Morago ga metsotso e le lesome: «Ngaka e tla tla ka nako mang?» Go utlwa potso e le nngwe e boelediwa gangata le gape ke nngwe ya dilo tse di ka lapisang thata fa o tlhokomela motho yo o tshelang le dementia. Go tlwaelegile thata, ga go dirwe ka boomo, mme go na le ditsela tse di didimetseng tsa go araba tse di ka dirang gore letsatsi le nne motlhofo mo go wena le ene.
 
-## Why does someone with dementia ask the same question over and over?
+## Ke ka ntlha yang fa motho yo o tshelang le dementia a botsa potso e le nngwe gangata le gangata?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Gantsi ke ka ntlha ya segopotso. Dementia e ama segopotso sa nakwana, ka jalo gantsi motho ga a gakologelwe gore o boditse, kgotsa ga a gakologelwe karabo. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) e tlhalosa go botsa dipotso makgetlo a mantsi e le selo se se tlwaelegileng le se se ka solofelwang.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Gantsi potso e na le maikutlo gape. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) e tlhalosa gore potso e e boelediwang e ka bontsha tlhobaelo, kopo ya thuso, kgotsa matshwenyego le go se ikutlwe o sireletsegile, le gore gantsi motho o a bo a batla kgomotso le sengwe se se mo tlwaetseng. “Re ya leng?” e ka tswa e raya gore “Ke tshwenyegile ka go ya.” Go jewa ke bodutu, poifo, modumo le diphetogo mo thulaganyong ya letsatsi le letsatsi di ka baka seno, mme potso e e boelediwang gape e ka bontsha tlhokego, jaaka go ya ntlwaneng ya boitiketso ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Ke tshwanetse go reng?
 
-Answer calmly and briefly, as if it were the first time.
+Araba ka tidimalo le ka bokhutshwane, jaaka e kete ke lekgetlo la ntlha.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Dira gore karabo e nne khutshwane e bile e tshwane.** «Ngaka e tla bo e le teng ka nako ya bobedi. Ke tla bo ke na le wena.» Karabo e e sa fetogeng e motlhofo go e amogela.
+- **Araba maikutlo a bone.** «O ipotsa ka ngaka. Ke thapama eno, mme ke tla re kgweetsa. Ga go na sepe se o tlhokang go se dira.»
+- **Dirisa lentswe le le bothitho le go ama ka bonolo,** fa ba rata go amiwa. Alzheimer's Association e gakolola gore o nne o ritibetse mme o se ka wa dirisa mabaka a tlhaloganyo kgotsa go ganetsanya.
+- **Ba neye karabo e ba e batlang,** gangwe le gape fa go tlhokega. Alzheimer's Association e re o e boeletse makgetlo otlhe a ba e botsang.
 
-## What should I avoid?
+## Ke eng se ke tshwanetseng go se tila?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **«O setse o mpotsile seo.»** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e gakolola gore o se ka wa supa gore motho yo o mo tlhokomelang o sa tswa go botsa potso eo. Seo ga se ka ke sa mo thusa go gopola, mme se ka dira gore a ikutlwe jaaka e kete o a mo kgalema.
+- **Ditlhaloso tse ditelele.** Mafoko a mantsi a dira gore go nne le dilo tse dintsi tse a ka di lebalang.
+- **Go fegelwa, go tsamaisa matlho ka tenego, kgotsa go bua ka lentswe le le bogale.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) e gakolola gore o nne pelotelele mme o se ka wa bontsha tenego. Seo ga se motlhofo; bona karolo e e buang ka go ikhutsa fa tlase.
 
-## Simple tools that answer the question for you
+## Didirisiwa tse di motlhofo tse di go arabang potso
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Fa motho yo o mo tlhokomelang a sa ntse a kgona go bala, karabo e e kwadilweng e a ka e bonang gantsi e ka thusa go gaisa e e buiwang.
 
-| Tool | How to use it |
+| Sedirisiwa | Ka fa o ka se dirisang ka teng |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Ntlha e e kwadilweng ka ditlhaka tse dikgolo | “Ngaka gompieno ka 2 p.m.. Mary o tla kgweetsa.” E bee mo a lebang teng gantsi |
+| Boto e tshweu | Lenaneo la gompieno ka mela e meraro kgotsa e mene; e phimole o bo o kwala sesha moso mongwe le mongwe |
+| Tshupanako e kgolo e e bontshang letsatsi le letlha | E thusa ka “Ke letsatsi lefe?” le “A ke nako jaanong?” |
+| Khalendara | Tshwaya letsatsi lengwe le lengwe; dikologa loeto lo lo latelang |
+| Ditshwantsho tse di tlwaelegileng | Setshwantsho sa motho yo o tlang se ka araba “Ke mang yo o etang?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Megopolo eno e tswa mo [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) le [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Supa ntlha eo ka bonolo (“A re lebeng boto mmogo”) go na le go re “Ke e go kwadetse.”
 
-## Tell them about events close to the time
+## Bolelela motho yo o mo tlhokomelang ka ditiragalo fa nako e setse e le gaufi
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Go bua ka kopano kgotsa loeto malatsi a le mantsi pele ga nako go ka felela ka diura tse dintsi tsa dipotso tse di tshwenyang. Family Caregiver Alliance le Alzheimer's Los Angeles ka bobedi ba akantsha gore go bue ka dithulaganyo, segolobogolo tse di ka bakang kgatelelo ya maikutlo jaaka go ya kwa ngakeng kgotsa go tlhapa, fela nako e khutshwane pele ga di diragala. Morago ga moo, mo bolelele se se tlileng go diragala, kgato e le nngwe ka nako.
 
-## Activities that can shift attention
+## Ditirwana tse di ka thusang go fetola tlhokomelo
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Fa o sena go araba o bo o supa gore o utlwile maikutlo a motho yo o mo tlhokomelang, tirwana e e didimetseng e e itumedisang e ka thusa, segolobogolo fa boreedi e le jone bo bakang dipotso. Motswedi mongwe le mongwe o o umakilweng fa godimo o akantsha gore go ka thusa go isa tlhokomelo kwa sengweng se motho yo o mo tlhokomelang a se ratang.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Motshameko o mokhutshwane, o o motlhofo o lo ka o tshamekang mmogo.** [Dipara tsa ditshwantsho](/games/picture-pairs/) e dira gore ditshwantsho di nne di bonala, ka jalo ga go tlhokege gore go gopolwe sepe.
+2. **Tiro e e tlwaelegileng.** Go mena ditoulo, go rulaganya dikausu kgotsa go baakanya tafole. [Rulaganyang mmogo](/games/sort-together/) ke mofuta wa tirwana eno mo sekirining.
+3. **Bua ka sengwe se a se ratang.** [Dikarata tsa motlotlo](/games/conversation-cards/) di neelana ka ditsela tsa go simolola motlotlo tse di se nang dikarabo tse di siameng kgotsa tse di phoso.
+4. **Mmino, go tsamaya ka maoto kgotsa seneke.** National Institute on Aging e tlhalosa tse di le dingwe tsa ditsela tse di motlhofo tsa go isa tlhokomelo kwa go sengwe se sengwe.
+5. **Khutsa e khutshwane.** Nnang mmogo, lebelelang kwa ntle ka fensetere, kgotsa lekang motsotso o o didimetseng wa [go hema ka tidimalo](/games/calm-breathing/) mmogo.
 
-If they return to the question, answer it again, kindly. That is fine.
+Fa a boela kwa potsong, e arabe gape ka bonolo. Go siame.
 
-## Look for patterns
+## Lemoga dipaterone
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association e akantsha gore o lemoge gore a dipotso di tla ka dinako tse di rileng tsa letsatsi, fa go na le batho ba ba rileng, kgotsa mo mafelong a a rileng. Fa di simolola ka metlha pele ga baeti ba goroga, kgotsa mo thapama e e kwa morago, o ka ipaakanyetsa pele: molaetsa o mokhutshwane ka ga ketelo, tirwana e e tlwaelegileng e e siametseng, kgotsa phaposi e e didimetseng. Kaelo ya rona ya [ditirwana tse di didimetseng tsa thapama e e kwa morago](/caregiving/late-day-restlessness/) e ka thusa fa maitseboa a le thata thata.
 
-## Take care of yourself
+## Itlhokomele
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Go araba potso e le nngwe ka lekgetlo la bo masome a mabedi go a lapisa. Fa o utlwa bopelotelele jwa gago bo fela mme motho yo o mo tlhokomelang a sireletsegile, tsena mo kamoreng e nngwe ka metsotso e sekae o heme, jaaka [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) e akantsha. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) e rotloetsa batlhokomedi go kopa thuso le go akanya ka tlhokomelo ya nakwana e e ba fang sebaka sa go ikhutsa. Dikakanyo tse dingwe di mo [kaeding ya go itlhokomela ya motlhokomedi](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Ke leng fa ke tshwanetse go letsa ngaka?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Letsang ngaka ya motho yo o mo tlhokomelang ka bonako fa dipotso, tlhakatlhakano kgotsa maitsholo di fetoga ka tshoganyetso kgotsa di nna maswe thata mo diureng kgotsa mo malatsing. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) e re maitsholo a a fetogang ka tshoganyetso kgotsa ka bonako, segolobogolo morago ga tshwaetso kgotsa phetogo ya melemo, a tshwanetse go itsisiwe ngaka ka bonako. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) e tlhalosa gore tshwaetso, melemo, go tlhaela metsi mo mmeleng, botlhoko kgotsa go pipelwa ga mala go ka baka delirium, e leng tlhakatlhakano e e tlang ka tshoganyetso e bile e le masisi e e tlhokang kalafi ka bonako. Letsang 911 fa mongwe a le mo kotsing.
