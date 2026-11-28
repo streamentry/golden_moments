@@ -1,159 +1,164 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: Go etela motho yo o tshelang le dementia kwa tlhokomelong ya kgakologelo kgotsa bookelong
+seoTitle: 'Go etela motho yo o tshelang le dementia: Se o ka se dirang le go se tla ka sone'
+description: 'Se o ka se dirang fa o etela motho yo o tshelang le dementia: se o ka se tlang ka sone, ditirwana tse di motlhofo, maeto a makhutshwane le go tsamaya sentle.'
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
-summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+summary: 'Fa o etela motho yo o tshelang le dementia kwa tlhokomelong ya kgakologelo kgotsa bookelong, dira dilo ka bonolo: bolela leina la gago fa o goroga, tlisa sengwe se lo ka se abelanang jaaka ditshwantsho, mmino kgotsa seneke se a se ratang, mme lo dire selo se le sengwe se se motlhofo mmogo. Gantsi maeto a makhutshwane a a tlwaelegileng a tsamaya botoka go feta a matelele a a sa diragaleg gantsi. Rulaganya tsela e e didimetseng le e e tlwaelegileng ya go dumedisa gore go tsamaya go nne motlhofo mo go lona bobedi.'
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+- 'Dumedisa motho yo o mo tlhokomelang ka leina la gagwe o bo o itlhalose, gore a se ka a tshwanelwa ke go fopholetsa: ‘Dumela Mme, ke nna Susan, morwadi wa gago’.'
+- Tlisa selo se le sengwe kgotsa tse pedi go di abalana, jaaka alebamo ya dinepe, mmino o a o ratang, kobo e e boleta kgotsa seneke se badiri ba se letleletseng.
+- Maeto a makhutshwane a a dirwang ka metlha gantsi a tsamaya botoka go feta a matelele a a sa dirweng gantsi. Go nna teng ga gago go botlhokwa go feta se o se buang.
+- Kwa bookelong, neela badiri letlhare le le lengwe la tshedimosetso ka ga motho yo o mo tlhokomelang mme o bolelele ngaka ka bonako fa go na le phetogo e e tlang ka tshoganyetso.
+- 'Rulaganya tsela ya gago ya go tsamaya: bua gore o ka nna lobaka lo lo kae, dirisa mafoko a a tshwanang a go kgaogana nako le nako, mme o tsamaye o sa diege.'
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+- q: Ke eng se ke tshwanetseng go tla ka sone fa ke etela motho yo o tshelang le dementia?
+  a: Tla le sengwe se lo ka se abelanang go na le sengwe se lo ka buang ka sone. Alebamo e nnye ya dinepe, lenaane la dipina tse ba di ratang, kobo e e borethe, setlolo sa diatla, makasine ka ga tiro ya boitlosobodutu ya bogologolo, kgotsa seneke se badiri ba se letleletseng, tsotlhe di ka dira sentle. Mo legaeng la tlhokomelo, dinepe tsa lelapa le dilo tse ba di tlwaetseng le tsone di ka dira gore phaposi e ikutlwe jaaka kwa gae.
+- q: Ke tshwanetse go nna lobaka lo lo kae fa ke etela motho yo o tshelang le dementia?
+  a: Ga go na lobaka lo lo siameng. Malapa a le mantsi a fitlhela gore maeto a makhutshwane a a dirwang gantsi a ka bereka botoka go na le maeto a maleele a a dirwang ka sewelo, ka gonne motho yo o tshelang le dementia a ka lapa ka bonako mme a ka se gakologelwe gore o nnile lobaka lo lo kae. Ela tlhoko matshwao a go lapa mme o tsamae fa lo etelo lo sa ntse lo ikutlwa sentle.
+- q: Ke ka reng fa motho yo o mo tlhokomelang a kopa go ya gae?
+  a: Araba maikutlo, e seng mafoko. “Ke batla go ya gae” gantsi go raya gore “Ga ke ikutlwe ke phuthulogile kgotsa ke sireletsegile.” Leka go re, “Mpolelele ka gae ga gago,” lebelela ditshwantsho mmogo, kgotsa o mo kope go tsamaya kgotsa go ja seneke. Go ganetsana le bone kgotsa go ba tlhalosetsa gore ke eng fa ba sa kgone go tswa gantsi go ka oketsa matshwenyego.
+- q: Go tweng fa motho yo o mo tlhokomelang a sa go lemoge?
+  a: Go ka utlwisa botlhoko, mme leka go se mo baakanye kgotsa go mmotsa gore, “A ga o itse gore ke mang?” Itlhalose ka bonolo le ka lorato, lo bo lo itumelela fela nako e lo e fetsang mmogo. Batho ba le bantsi ba sa ntse ba itumelela go nna le ba bangwe le go ikutlwa bothitho jwa loeto, le fa ba sa gakologelwe gore o mang.
+- q: Nka thusa jang fa motho yo o mo tlhokomelang a le mo bookelong?
+  a: Nna le motho yo o mo tlhokomelang fa o kgona, mo thuse go ja le go nwa, mme o tle le dilo tse a di tlwaetseng jaaka ditshwantsho. Naya badiri pampiri e e nang le thulaganyo ya gagwe ya letsatsi le letsatsi, leina le a ratang go bidiwa ka lone, dilo tse a di ratang, tse a sa di rateng, le matshwao a botlhoko. Bolelela ngaka ka bonako fa motho yoo a lebega a le maswe ka tshoganyetso kgotsa a fetogile, ka gonne tlhakatlhakano ya tshoganyetso e ka nna sesupo sa bothata jwa bongaka.
 sources:
-  - title: "Adapting Activities for People With Alzheimer's Disease"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease"
-  - title: "Residential Care Options: Visiting Someone in Dementia Care"
-    publisher: "Family Caregiver Alliance"
-    url: "https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/"
-  - title: "Visiting someone with dementia"
-    publisher: "Dementia Australia"
-    url: "https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia"
-  - title: "Taking a Person With Alzheimer's Disease to the Hospital"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital"
-  - title: "Helping Family and Friends Understand Alzheimer's Disease"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-and-relationships/helping-family-and-friends-understand-alzheimers-disease"
-  - title: "Communication"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/daily-care/communications"
-relatedGames: [photo-pairs, conversation-cards, picture-pairs, calm-breathing]
-related: [activities/phone-and-video-calls, activities/reminiscence, activities/late-stage, activities/sensory, caregiving/communication-tips, activities/holidays]
+- title: Adapting Activities for People With Alzheimer's Disease
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease
+- title: 'Residential Care Options: Visiting Someone in Dementia Care'
+  publisher: Family Caregiver Alliance
+  url: https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/
+- title: Visiting someone with dementia
+  publisher: Dementia Australia
+  url: https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia
+- title: Taking a Person With Alzheimer's Disease to the Hospital
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital
+- title: Helping Family and Friends Understand Alzheimer's Disease
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-and-relationships/helping-family-and-friends-understand-alzheimers-disease
+- title: Communication
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/daily-care/communications
+relatedGames:
+- photo-pairs
+- conversation-cards
+- picture-pairs
+- calm-breathing
+related:
+- activities/phone-and-video-calls
+- activities/reminiscence
+- activities/late-stage
+- activities/sensory
+- caregiving/communication-tips
+- activities/holidays
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Go etela motho yo o mo ratang yo o tlhokomelwang kwa lefelong la tlhokomelo ya kgakologelo, kwa legaeng la tlhokomelo kgotsa kwa bookelong go ka tsosa maikutlo a mantsi. O ka nna wa ipotsa gore o ka bua eng, o ka tla ka eng, kgotsa gore a loeto lo botlhokwa le fa a ka se gakologelwe loeto leo. Lo botlhokwa. National Institute on Aging e tlhalosa gore batho ba ba tshelang le Alzheimer's [gantsi ba itumelela go nna le batho ba bangwe](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) le fa ba sa gakologelwe gore moeti ke mang. Tsebe eno e fana ka dikgato tse di mosola tse di ka thusang pele ga loeto, ka nako ya loeto, le morago ga loeto, go akaretsa le malebela a a rileng a fa motho a le mo bookelong.
 
-## How do I get ready for a visit?
+## Nka ipaakanyetsa jang loeto lwa go etela?
 
-A little planning makes the visit easier for both of you.
+Go rulaganya go se kae go ka dira gore loeto lwa go etela lo nne bonolo mo go lona bobedi.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Tlhopha nako e e siameng.** Dementia Australia e akantsha go etela fa gantsi motho yo o mo tlhokomelang a tsogile sentle thata, mme mo bathong ba le bantsi seno gantsi e nna mo mosong kgotsa mo e ka nnang motshegare wa sethoboloko. The Family Caregiver Alliance e akantsha go ithuta lenaneo la lefelo leo le go etela ka [nako ya boikhutso go na le nako ya ditirwana](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Bua le badiri.** Botsa gore motho yo o mo tlhokomelang o tsogile jang gompieno, mme o tlhomamise melao epe ka ga dijo, diruiwa tsa lapeng kgotsa go tswa mo lefelong leo.
+- **Paka kgetsana e nnye ya loeto.** Selo se le sengwe kgotsa dilo tse pedi tse lo ka di abelanang di lekane (bona lenaane le le fa tlase).
+- **Akanya ka dintlha di se kae tsa puisano.** Motho yo o mo tlhokomelang a ka nna a se na dikgang tse a ka di abelanang, ka jalo tla ka tsa gago: dikgang tsa lelapa, maemo a bosa, motshameko wa bolo, kgotsa kgang e e tshegisang.
+- **Ibeele ditebello tse di utlwalang.** Maeto mangwe a ka nna monate a bile a tletse puisano. A mangwe a ka nna a didimetse kgotsa a le boima. Tsotlhe tse pedi di a tlwaelega.
 
-## What should I bring?
+## Ke eng se ke tshwanetseng go se tla ka sone?
 
-Bring things to share, not things that test. Good choices include:
+Tlisa dilo tse lo ka di abelanang, e seng dilo tse di mo lekang. Ditlhopho tse di siameng di akaretsa:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Alebamo e nnye ya dinepe** e e nang le dinepe tse dikgolo, tse di bonalang sentle. Kwala dintlha kwa morago ga tsone gore badiri ba di itse.
+- **Lenaane la dipina** tse a di ratang mo mogaleng, le difounu tsa tsebe tse di bonolo kgotsa sebui se sennye.
+- **Sengwe se se bonolo go se tshwara,** jaaka kobo e e tlwaelegileng, sekhafo kgotsa jesi.
+- **Setlolo sa diatla** sa go sidila diatla ka bonolo, fa motho yo o mo tlhokomelang a itumelela go amiwa.
+- **Makasine kgotsa buka ya ditshwantsho** ka ga sengwe se a neng a se rata bogologolo, jaaka temo, dikoloi, dinonyane kgotsa go apaya.
+- **Seneke se a se ratang**, fa badiri ba re se bolokesegile.
+- **Dilo tse di tlwaelegileng tsa mo phaposing.** Family Caregiver Alliance e akantsha malomo, dimela, ditshwantsho tsa lelapa le ditshwantsho tsa botaki, kgotsa posetara e kgolo ya ditshwantsho tsa lelapa tsa bogologolo.
+- **Thebolete**, ya go leba ditshwantsho tsa lelapa kgotsa go tshameka motshameko o o bonolo mmogo.
 
-## What can we do together during a visit?
+## Re ka dira eng mmogo fa lo etile?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Go dira sengwe mmogo go ka fokotsa kgatelelo ya puisano. Dementia Australia e akantsha go leba dinepe, tirwana e e motlhofo ya diatla, go jala dimela tse dinnye, mmino, go arolelana seneke, kgotsa go tsamaya ka bonya mo tikologong ya lefelo leo. Dikakanyo tse dingwe ke tse:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Lebang dinepe.** Supa se o se bonang: “Bona hutshe eo.” “Lebopo le le lebega le le monate.” Letla motho yo o mo tlhokomelang a etelele pele. Tila go botsa “Ke mang yo?”
+2. **Tshamekang mmino lo opele.** Dipina tse di tlwaelegileng di ka tokafatsa maikutlo mme tsa tlisa motsotso o lo o arolelanang, le fa go bua go le thata.
+3. **Tsamayang ka bonya sebaka se sekhutshwane.** The Family Caregiver Alliance e akantsha go tsamaya mo tikologong ya lefelo la tlhokomelo, segolobogolo mo tshingwaneng fa e le teng. Go tsamaya ka setulo sa maotwana le gone go a balwa.
+4. **Dirang go sidila diatla ka bonolo.** Setlolo se sennye le go sidila diatla ka bonya go ka kokobetsa.
+5. **Thusang ka go ipaakanya.** Dementia Australia e umaka go gama moriri, go penta dinala kgotsa go thusa motho yo o mo tlhokomelang go apara diaparo tse a di ratang, fa a di itumelela.
+6. **Tshamekang motshameko o o motlhofo.** The Family Caregiver Alliance e akantsha dikarata, domino, kgotsa sengwe le sengwe se motho yoo a neng a tlwaetse go se tshameka. Mo letlapeng, [Picture Pairs](/games/picture-pairs/) e ka tshamekiwa ka ditshwantsho di tlogetswe di bonala mme go se na sebadi sa nako. [Photo Pairs](/games/photo-pairs/) e fetola dinepe tse o di tlhophang go nna motshameko wa go nyalanya, mme dinepe di nna mo sebading sa gago.
+7. **Lebang sengwe mmogo.** The Family Caregiver Alliance e akantsha metlae le difilimi tsa bogologolo. Le fa motho yo o mo tlhokomelang a sa kgone go latela kgang, lo ka nna gaufi mmogo lo abelane nako eo.
+8. **Balang kwa godimo.** Leboko le lekhutshwane, temana e e rategang, kgotsa lekwalo le le tswang mo mothong wa lelapa.
+9. **Nnang fela mmogo.** Go tshwarana ka diatla kgotsa go nna mmogo ka tidimalo ke loeto la mmatota. The Alzheimer's Association e bolela gore go siame fa o sa itse gore o ka reng, le gore go nna teng ga gago ke gone go botlhokwa thata.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) di ka thusa fa o sa tlhole o na le se o ka se buang. Karata nngwe le nngwe e na le setshwantsho le potso e e bulegileng.
 
-## How should I talk during the visit?
+## Nka bua jang fa ke etetse?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Itsise ka wena nako le nako.** “Dumela Rre, ke nna Mark, morwao.” NIA e akantsha gore baeti ba itsise ka bokhutshwane go simolola puisano.
+- **Atamela o tswa kwa pele** mme o nne fa o lebagane le matlho a gagwe.
+- **O se ka wa baakanya kgotsa wa ganetsana.** NIA e gakolola baeti gore ba se ka ba baakanya motho yo o tshelang ka dementia fa a dira phoso kgotsa a lebala sengwe.
+- **Nna pelotelele** fa go le thata go bona mafoko. Mo neye nako e e lekaneng.
+- **Tsibogela maikutlo a gagwe.** Fa motho yo o tshelang ka dementia a lebega a hutsafetse kgotsa a tshwenyegile, amogela maikutlo ao pele o fetola setlhogo.
+- **Tila dipotso tsa tlhatlhobo** jaaka “A o nkgopola?” kgotsa “O jele eng motshegare?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Bona [dikaelo tsa rona tsa puisano](/caregiving/communication-tips/) go bona go le gontsi.
 
-## What do I do when they say "I want to go home"?
+## Ke dira eng fa motho yo o mo tlhokomelang a re “Ke batla go ya gae”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Araba maikutlo a a mo mafokong ao (kaedi ya rona ya [fa motho a nna a kopa go ya gae](/caregiving/asking-to-go-home/) e tlhalosa go feta fa). Family Caregiver Alliance e tlhalosa gore “Ke batla go ya gae” gantsi ke tsela ya go re “Ga ke ikutlwe ke phuthulogile,” mme e akantsha dikarabo tse di jaaka “Mpolelele ka gae ga gago” kgotsa “Ke eng se o se ratang thata kwa gae?” Dementia Australia e oketsa ka gore “gae” go ka kaya nako kgotsa lefelo le motho a neng a ikutlwa a sireletsegile mo go lone, jaaka bongwana.
 
-Try:
+Leka tse di latelang:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- go amogela maikutlo ao: “Go utlwala e kete o gopotse gae.”
+- go mo gomotsa ka go mo ama, fa a amogela seo
+- go leba ditshwantsho kgotsa go bua ka legae la lelapa
+- go mo kopa gore lo tsamaye, kgotsa go mo naya seno kgotsa seneke
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Tila go ganetsana le ene kgotsa go tlhalosa gore ke ka ntlha yang fa a sa kgone go tsamaya. Ga se gantsi se thusa, e bile gantsi se ka oketsa tlalelo.
 
-## How long should a visit be?
+## Loeto lo tshwanetse go nna loleele go le kae?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Maeto a makhutshwane a a dirwang gantsi a ka dira botoka. Family Caregiver Alliance e bolela gore motho yo o tshelang ka dementia gantsi ga a gakologelwe gore a o ne o ntse metsotso e le metlhano kgotsa diura di le tlhano, mme e akantsha gore maeto a mararo a makhutshwane mo bekeng a ka nna botoka go na le loeto lo le longwe lo loleele. Dementia Australia e re ga go na palo e e siameng ya maeto kgotsa boleele jo bo siameng.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Mo dibekeng tsa ntlha morago ga go fudugela kwa lefelong la tlhokomelo ya dementia, Family Caregiver Alliance e akantsha gore o etele gantsi, mme morago ga moo o iketle mo thulaganyong e e tlwaelegileng ka bonya. Botsa badiri gore ba bona eng.
 
-## How do I leave without upsetting them?
+## Nka tsamaya jang kwantle ga go tshwenya motho yo o mo tlhokomelang?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Go tsamaya go ka nna karolo e e thata thata. Dementia Australia e akantsha:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Bolela gore o tla nna lobaka lo lo kae fa o goroga.** “Nka nna oura e le nngwe, morago ga moo ke tla ya mabenkeleng.”
+- **Dirisa tirwana jaaka tsela ya tlholego ya go fetsa.** “Fa re fetsa pina eno, ke tla tsamaya.”
+- **Rulaganya nako eo le dijo kgotsa tirwana,** kgotsa kopa badiri go thusa motho yo o mo tlhokomelang go tsenelela sengwe se sele ka kagiso.
+- **Dira gore tumediso ya go tsamaya e nne khutshwane e bile e tshwane nako le nako.** Go diega, go kopa maitshwarelo kgotsa go nna “nakonyana fela” go ka dira gore ditumediso tsa mo isagweng di nne thata.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Fa o sena go tsamaya, go tlwaelegile go utlwa botlhoko. Iphe nako ya go ikhutsa. Fa motho yo o mo tlhokomelang a tshwenyegile, gantsi badiri ba ka mo thusa go ritibala moragonyana ga foo.
 
-## Visiting someone with dementia in the hospital
+## Go etela motho yo o tshelang le dementia kwa bookelong
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Bookelo e ka nna le modumo, e sa tlwaelega e bile e tletse batho ba o sa ba itseng, mme seno se ka nna thata mo mothong yo o tshelang le dementia. Kaedi ya NIA ya [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) e akantsha jaana:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Dira gore mongwe a nne le motho yoo** ka nako e ntsi ka fa go ka kgonegang ka teng: leloko la lelapa, tsala e e ikanyegang kgotsa motlhokomedi yo o thapilweng.
+- **Naya badiri pampiri ya tshedimosetso ya motho yoo** e e nang le thulaganyo ya gagwe ya letsatsi le letsatsi, leina le a ratang go bidiwa ka lone, dilo tse a di ratang le tse a sa di rateng, dilo tse di ka dirang gore a tshwenyege, le ditshupo tsa botlhoko tse a sa di bueng. Bea dikhopi mo phaposing le kwa lefelong la baoki.
+- **Thusa ka go ja le go nwa.** Bagolo ba ka nna ba se bone phepo e e lekaneng mo bookelong. Bula ditshelo, thusa ka dijo, jang mmogo, mme o mo neye sengwe sa go nwa.
+- **Tlisa dilo tse di gomotsang** tse di jaaka ditshwantsho kgotsa dilo tsa semoya.
+- **Fokotsa modumo.** Tima TV mme o fokotse modumo wa mogala le wa sebuela-godimo.
+- **Leka mekgwa e e ritibatsang,** e e jaaka mmino o o didimatsang, go bala, go rapela, go opela kgotsa go leba ditshwantsho tsa bogologolo.
+- **Mo rotloetse go tsamayatsamaya** ka fa go bolokesegileng ka teng, ka tetla ya badiri.
+- **Bolelela ngaka ka bonako fa motho yoo a lebega a le maswe ka tshoganyetso kgotsa a fetogile.** NIA e tlhalosa gore tlhakatlhakano e e masisi e e tlang ka tshoganyetso, e e bidiwang delirium, e ka bakiwa ke mathata a a jaaka tshwaetso, letshoroma, go tlhoka metsi mo mmeleng kgotsa ditlamorago tsa melemo, mme e tlhoka tlhokomelo ya bongaka.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Loeto lo lokhutshwane, lo lo didimetseng lo lo nang le sefatlhego se se tlwaelegileng le pina e a e ratang e ka nna karolo e e gomotsang thata mo letsatsing la kwa bookelong.
 
-## Bringing children on a visit
+## Go tla le bana fa lo etela
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Bana ba ka tlisa bothitho jo bogolo. Ba baakanyetseng pele ga nako ka mafoko a a bonolo le a a boammaaruri, dirang gore loeto lo nne lokhutshwane, mme lo ba neye sengwe se ba ka se dirang, jaaka go bontsha setshwantsho se ba se takileng kgotsa go neela motho senepe. NIA e akantsha gore bana le batho ba ba nang le Alzheimer’s ba ka itumelela ditirwana tse di bonolo mmogo, jaaka go leba alebamo ya dinepe kgotsa go reetsa mmino. Dementia Australia e akantsha gore lo pake kgetsana e nnye ya dimonamone kgotsa dilo tse di didimetseng go thusa bana ba bannye gore ba nne ba tshwaregile.
 
-## Take care of yourself too
+## Itlhokomele le wena gape
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Go etela go ka lapa e bile ga ama maikutlo, segolobogolo fa motho yo o mo tlhokomelang a fetogile thata. Go siame go etela ka sewelo fa o tlhoka go dira jalo, go tla le tsala gore e go eme nokeng, kgotsa go tsamaya go sa le gale ka letsatsi le le thata. Go bona dikakanyo tsa kafa o ka itlhokomelang ka teng, bona [go itlhokomela ga motlhokomedi](/caregiving/caregiver-self-care/). Fa o nna kgakala, bona kaedi ya rona ya [dipitso tsa mogala le tsa bidio](/activities/phone-and-video-calls/).
