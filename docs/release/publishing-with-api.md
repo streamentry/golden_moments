@@ -27,6 +27,9 @@ If a path above has moved, search the key backup folders before asking.
    `python3 scripts/store_locales.py --check`. Merge through a PR.
 2. Build from a clean `git worktree` of the release branch, never the main
    checkout (other sessions commit there).
+3. If `flutter pub get` fails with `Rename failed … Cross-device link`, the pub
+   cache's `hosted` folder is a symlink to another drive. Set `PUB_CACHE` to a
+   folder on that same drive whose entries link to `~/.pub-cache/*`.
 
 ## 2. Build
 
@@ -50,8 +53,10 @@ If a path above has moved, search the key backup folders before asking.
    The app id is in `scripts/store_downloads.py` notes and the earlier release records.
 3. `POST /v1/appStoreVersions` (versionString, platform IOS, `releaseType` AUTOMATIC),
    attach the build (`PATCH .../relationships/build`).
-4. Set `whatsNew` (and `promotionalText`) on **every** `appStoreVersionLocalizations`
-   entry: a new version copies description and keywords but not these.
+4. Set `whatsNew` on **every** `appStoreVersionLocalizations` entry, and copy
+   each locale's `promotionalText` from the previous version (some are
+   translated, most are empty): a new version copies description and keywords
+   but not these. Do not write the English promotional text over every locale.
 5. Submit: create a `reviewSubmissions` for the app, add the version as a
    `reviewSubmissionItems`, then PATCH `submitted: true`. Only one version may
    be in review at a time. Read the state back.
