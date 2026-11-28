@@ -1,223 +1,153 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: A metshameko ya boboko e ka thibela dementia? Se dipatlisiso di se bontshang
+seoTitle: A metshameko ya boboko e ka thibela dementia? Dipatlisiso
+description: 'Dipatlisiso ka metshameko ya boboko le dementia: tlhotlheletso ya tlhaloganyo, mananeo a khomputara, teko ya ACTIVE le kgetsi ya FTC Lumosity.'
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
-summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+summary: Ga go na motshameko wa boboko o o bontshitsweng o ka thibela dementia. Mananeo a khomputara a a itebagantseng le boboko gantsi a tokafatsa fela ditiro tse batho ba di diragatsang. Patlisiso nngwe e e tswang mo tekong ya ACTIVE e golagantse thulaganyo e e rileng ya lebelo mmogo le dikopano tsa tlaleletso le palo e e kwa tlase ya ditlhatlhobo tsa dementia mo dingwageng di le 20, e le phitlhelelo e e tshesane. Mo bathong ba ba setseng ba tshela le dementia, tlhotlheletso ya tlhaloganyo mo setlhopheng e bontsha melemo e mennye ya nakwana. Metshameko e monate botoka fa e itumelelwa mmogo le ba bangwe.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+- Dipatlisiso ka go ikatisa boboko di bontsha gore batho ba nna botoka mo ditiro tse ba di ikatisang, mme go na le bosupi jo bonnyennyane jwa gore seno se fetela mo botshelong jwa letsatsi le letsatsi.
+- Mo patlisisong ya ACTIVE, ke batho fela ba ba dirileng thapiso e e kgethegileng ya lebelo mmogo le dikopano tsa tlaleletso ba ba nnileng le ditlhatlhobo tse dinnye tsa dementia mo dingwageng di le 20. Thapiso ya lebelo kwantle ga dikopano tsa tlaleletso, thapiso ya segopotso le ya go akanya ga di a ka tsa bontsha seno.
+- Ka 2016, motlhami wa Lumosity o duetse $2 million go rarabolola diqoso tsa FTC tsa gore o ne a sena saense e e lekaneng go tshegetsa dikopo tsa gore e ka diegisa dementia.
+- Mo bathong ba ba tshelang ka dementia e e seng masisi thata go ya go e e lekanetseng, ditlhopha tsa tlhotlheletso ya tlhaloganyo di bontsha mosola o monnye wa nakwana mo go akanyeng le dikatokafalo tse di bonalang sentle mo puisanong le mo tirisanong le ba bangwe.
+- Ditirwana tsa Golden Moments ke tsa go itumelela le go fetsa nako mmogo. Ga se kalafi, e bile ga di thibele kgotsa go fokotsa dementia.
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+- q: A ditirwana tsa boboko di thibela bolwetse jwa Alzheimer?
+  a: Ga go na tirwana ya boboko e e ileng ya supiwa e thibela bolwetse jwa Alzheimer kgotsa mefuta e mengwe ya dementia. National Institute on Aging e re ga go na bosupi jo bo lekaneng jwa gore di-app tsa kgwebo tsa go thapisa boboko di na le ditlamorago tse di bonweng mo ditekong tsa dipatlisiso. Le fa go ntse jalo, ditirwana tse di ka nna tsela e e monate ya go fetsa nako.
+- q: Patlisiso ya ACTIVE e ne ya fitlhela eng ka tirwana ya go dira dilo ka bonako le dementia?
+  a: Tshekatsheko ya 2026 e ne ya golaganya batsayakarolo ba ACTIVE le direkoto tsa Medicare mo dingwageng di le 20. Batho ba ba neng ba dira tirwana ya go dira dilo ka bonako mme ba nna le nako e le nngwe ya tlaleletso kgotsa go feta, ba ne ba na le seelo se se kwa tlase sa dementia e e tlhomamisitsweng fa e bapisiwa le setlhopha se se neng se sa dire tirwana eo. Tirwana ya go dira dilo ka bonako ntle le dinako tsa tlaleletso, le tirwana ya segopotso kgotsa ya go akanya, ga di a ka tsa bontsha phelelo e e bonalang.
+- q: A diphazele le metshameko di ka nna molemo mo mothong yo o tshelang ka dementia?
+  a: Di ka nna jalo, fa motho yoo a di itumelela. Ditirwana tsa setlhopha tse di tlhotlheletsang go akanya, tse di akaretsang metshameko ya mafoko, diphazele, mmino le puisano, di bontsha melemo e mennye ya nako e khutshwane mo go akanyeng le melemo e e bonalang sentle mo puisanong le mo tirisanong le ba bangwe. Se se botlhokwa ke gore motho a itumele, e seng maduo a teko.
+- q: Goreng Lumosity e ne ya duelwa kotlhao ke FTC?
+  a: Ka 2016, Federal Trade Commission e ne ya latofatsa Lumos Labs ka go dira dikopo ka ga metshameko ya yone, go akaretsa go diegisa go fokotsega go go amanang le dingwaga le dementia, ntle le saense e e ka di tshegetsang. Khampani e ne ya dumela go duela $2 million le go nna le bosupi jo bo ikanyegang jwa saense pele e ka dira dikopo tse di jalo mo isagweng.
 sources:
-  - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
-    publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/"
-  - title: "Cognitive stimulation to improve cognitive functioning in people with dementia"
-    publisher: "Cochrane Database of Systematic Reviews (via PubMed)"
-    url: "https://pubmed.ncbi.nlm.nih.gov/39804128/"
-  - title: "Computerised cognitive training for 12 or more weeks for maintaining cognitive function in cognitively healthy people in late life"
-    publisher: "Cochrane Database of Systematic Reviews (via PubMed)"
-    url: "https://pubmed.ncbi.nlm.nih.gov/32104914/"
-  - title: "Computerised cognitive training for preventing dementia in people with mild cognitive impairment"
-    publisher: "Cochrane Database of Systematic Reviews (via PubMed)"
-    url: "https://pubmed.ncbi.nlm.nih.gov/30864747/"
-  - title: "Do \"Brain-Training\" Programs Work?"
-    publisher: "Psychological Science in the Public Interest"
-    url: "https://journals.sagepub.com/doi/10.1177/1529100616661983"
-  - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
-    publisher: "Federal Trade Commission"
-    url: "https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program"
-  - title: "Preventing Alzheimer's Disease: What Do We Know?"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know"
-  - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
-    publisher: "The Lancet"
-    url: "https://doi.org/10.1016/S0140-6736(24)01296-0"
-relatedGames: [picture-pairs, conversation-cards, finish-the-saying, picture-puzzle, word-search]
-related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-games, caregiving/how-to-play-together, activities/ideas, brain-health/social-connection, activities/memory-games]
+- title: 'Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study'
+  publisher: 'Alzheimer''s & Dementia: Translational Research & Clinical Interventions (via PMC)'
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/
+- title: Cognitive stimulation to improve cognitive functioning in people with dementia
+  publisher: Cochrane Database of Systematic Reviews (via PubMed)
+  url: https://pubmed.ncbi.nlm.nih.gov/39804128/
+- title: Computerised cognitive training for 12 or more weeks for maintaining cognitive function in cognitively healthy people in late life
+  publisher: Cochrane Database of Systematic Reviews (via PubMed)
+  url: https://pubmed.ncbi.nlm.nih.gov/32104914/
+- title: Computerised cognitive training for preventing dementia in people with mild cognitive impairment
+  publisher: Cochrane Database of Systematic Reviews (via PubMed)
+  url: https://pubmed.ncbi.nlm.nih.gov/30864747/
+- title: Do "Brain-Training" Programs Work?
+  publisher: Psychological Science in the Public Interest
+  url: https://journals.sagepub.com/doi/10.1177/1529100616661983
+- title: Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its "Brain Training" Program
+  publisher: Federal Trade Commission
+  url: https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program
+- title: 'Preventing Alzheimer''s Disease: What Do We Know?'
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know
+- title: 'Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission'
+  publisher: The Lancet
+  url: https://doi.org/10.1016/S0140-6736(24)01296-0
+relatedGames:
+- picture-pairs
+- conversation-cards
+- finish-the-saying
+- picture-puzzle
+- word-search
+related:
+- brain-health/can-dementia-be-prevented
+- caregiving/choosing-apps-and-games
+- caregiving/how-to-play-together
+- activities/ideas
+- brain-health/social-connection
+- activities/memory-games
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Metshameko ya tlhaloganyo e bonala gongwe le gongwe, mme bontsi jwa yone bo solofetsa go dira gore tlhaloganyo ya gago e nne e le nngwefela jaaka ya mosha. Fa o tlhokomela motho yo o tshelang le dementia, kgotsa o tshwenyegile ka go gopola ga gago, go tlwaelegile go ipotsa gore a go e tshameka go ka thusa. Se ke se dipatlisiso di se bontshang ka nnete, go akaretsa dikarolo tse di rotloetsang le tse di sa rotloetseng.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Tseno ke tshedimosetso e e akaretsang, ga se kgakololo ya kalafi. Bona [tlhaloso ya kalafi](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## A ditirwana tsa boboko di thibela dementia?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ga go na tirwana ya boboko e e netefaditsweng gore e thibela dementia. National Institute on Aging (NIA) e gakolola batho gore ba nne kelotlhoko ka dipego tse di reng ditirwana tsa khomputara le tsa mo inthaneteng di ka tokafatsa segakolodi, mme e re ga go na bosupi jo bo lekaneng jwa gore app efe kapa efe ya kgwebo ya ditirwana tsa boboko e na le diphelelo tse di tshwanang le tsa ditirwana tse di lekilweng mo ditekong tsa bongaka ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Seno ga se reye gore ditirwana tseno ga di na mosola. Se raya gore mosola wa tsone o mo boitumelong, mo go nneng mmogo le ba bangwe, le mo thulaganyong ya letsatsi le letsatsi, e seng mo go sireletseng ope mo dementia.
 
-## What is "near transfer", and why does it matter?
+## “Near transfer” ke eng, mme ke ka ntlha yang fa go le botlhokwa?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Fa o itlwaetsa tiro nngwe, gantsi o nna botoka mo tirong eo. Babatlisisi ba bitsa seno phello ya go itlwaetsa. Potso e e thata go feta ke gore a tokafalo eo **e fetela** mo dilong tse dingwe: mo ditirong tse di tshwanang (near transfer) kgotsa mo botshelong jwa letsatsi le letsatsi, jaaka go gopola dikopano tse di rulagantsweng kgotsa go laola madi (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Tshekatsheko e kgolo ya 2016 e ne ya sekaseka dipatlisiso tse dikhamphani tsa go itlwaetsa boboko di neng di di supa jaaka bosupi jwa tsone jo bo gaisang. E ne ya fitlhela bosupi jo bontsi jwa gore batho ba tokafala mo ditirong tse ba di itlwaeditseng, bosupi jo bo kwa tlase jwa gore ba tokafala mo ditirong tse di amanang thata, le bosupi jo bonnye jwa gore go itlwaetsa go tokafatsa go akanya ga letsatsi le letsatsi. Dipatlisiso tse dintsi gape di ne di na le mathata a thulaganyo a a neng a dira gore go se kgonege go fitlhelela ditshwetso tse di tiileng ([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Ditshekatsheko di reng ka ditirwana tsa boboko ka khomputara?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Ditshekatsheko tsa Cochrane, tse di kopanyang diteko tse di botoka thata tse di leng teng, di ile tsa leba ditirwana tsa boboko ka khomputara tse di tsayang dibeke di le 12 kgotsa go feta:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Bagolo ba ba itekanetseng ba dingwaga di le 65 kgotsa go feta:** diteko di le robedi tse di nang le batho ba le 1,183. Bosupi bo ne bo le kwa tlase kgotsa bo le kwa tlase thata mo boleng. Go ka nna le molemo o monnye ka bonako morago ga ditirwana tseo, mme ga go na bosupi jo bo phepafetseng jwa gore o nna o le teng ([Tshekatsheko ya Cochrane, bagolo ba ba itekanetseng](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Batho ba ba nang le bothata jo bonnye jwa go akanya:** diteko di le robedi tse di nang le batho ba le 660. Ga go na teko epe e e begileng gore a batho ba ile ba simolola go nna le dementia, mme bosupi bo ne bo le bokoa thata go ka dira ditshwetso ([Tshekatsheko ya Cochrane, bothata jo bonnye jwa go akanya](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Patlisiso ya ACTIVE e fitlheletse eng?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE ke patlisiso e kgolo ya kwa US e e simolotseng ka 1998 ka batho ba bagolo ba le 2,802 ba ba nang le dingwaga di le 65 le go feta, ba ba neng ba tshela ka boipuso mme ba sa nna le mathata a magolo a segopotso kgotsa a go akanya. Batho ba ne ba abelwa ka go sa tlhophiwe mo go nngwe ya mefuta e meraro ya thuto ya ditlhopha tse dinnye (lebelo la go tsaya tshedimosetso, segopotso, kgotsa go akanya) kgotsa mo setlhopheng se se neng se sa ikgolaganye le bone. Thuto e ne e le dikopano tse di ka fitlhang go lesome mo dibekeng tse tlhano go ya go tse thataro. Batho bangwe ba ba fetsitseng bontsi jwa dikopano ba ne gape ba newa ka go sa tlhophiwe **dikopano tsa tlaleletso** mo e ka nnang ngwaga o le mongwe le dingwaga di le meraro moragonyana.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Thuto ya lebelo e ne e akaretsa go lemoga le go dirisa tshedimosetso ya pono ka dinako tse dikhutshwane tse di neng di nna khutshwane le go feta, mo seemong se se neng se fetoga fa batho ba ntse ba tokafala.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Ka 2026, babatlisisi ba ne ba golaganya batsayakarolo ba le 2,021 le direkoto tsa bone tsa Medicare ka dingwaga di le 20 ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Se ke sone se ba se fitlheletseng:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Thuto ya lebelo mmogo le bonnye kopano ya tlaleletso e le nngwe:** seelo se se kwa tlase sa dementia e e tlhomamisitsweng fa e bapisiwa le setlhopha se se neng se sa ikgolaganye le bone (kelo ya hazard ratio ya 0.75, e e kayang mo e ka nnang seelo se se kwa tlase ka 25%).
+- **Thuto ya lebelo kwa ntle ga dikopano tsa tlaleletso:** ga go a ka ga nna le seelo se se kwa tlase.
+- **Thuto ya segopotso kgotsa ya go akanya:** ga go a ka ga nna le tlhotlheletso e e botlhokwa mo ditlhatlhobong tsa dementia.
+- **Setlhopha sengwe le sengwe sa thuto ka kakaretso fa se bapisiwa le setlhopha se se neng se sa ikgolaganye le bone:** go ne go na le mokgwa wa dielo tse di kwa tlase, mme e ne e se botlhokwa ka dipalo.
 
-### The limits of this finding
+### Melelwane ya phitlhelelo eno
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- E ama **mofuta o le mongwe o o rileng wa tirwana ya lebelo e e dirwang ka tlhokomelo, e e nang le dikopano tsa tlaleletso**, e seng metshameko ya boboko ka kakaretso.
+- Maduo a a neng a bonala a le botlhokwa a ne a tswa mo **setlhophaneng se sennye** (batho ba ba feditse bontsi jwa dikopano tsa ntlha mme ba neelwa dikopano tsa tlaleletso), e seng mo setlhopheng sotlhe sa tirwana ya lebelo.
+- Dementia e ne e lekanyediwa ka go dirisa **dikoutu tsa tlhatlhobo mo direkotong tsa dikopo tsa Medicare**, e seng ka go tlhatlhoba motho mongwe le mongwe. Mo e ka nnang kotara ya batsayakarolo ba ntlha ba ne ba tlogelwa kwa ntle ka gonne ba ne ba kwadisitswe mo Medicare Advantage, e e se nang direkoto tse di feletseng tsa dikopo.
+- Batsayakarolo ba ne ba se na mathata a magolo a go akanya fa ba simolola. Diphitlhelelo ga di bue sepe ka metshameko ya batho **ba ba setseng ba tshela le dementia**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Ke phitlhelelo e e kgatlhang e e tlhokang patlisiso e nngwe. Ga se bosupi jwa gore app nngwe le nngwe e thibela dementia.
 
-## What did the FTC say about Lumosity?
+## FTC e ne ya re eng ka Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Ka Pherekgong 2016, Lumos Labs, ba ba dirileng Lumosity, ba ne ba dumela go duela $2 million go rarabolola diqoso tsa Federal Trade Commission tsa papatso e e tsietsang. FTC e ne ya re khampani e ne ya dira dikopo, kwa ntle ga saense e e lekaneng, tsa gore metshameko ya yone e ka tokafatsa tiro kwa tirong le kwa sekolong mme e ka diegisa go fokotsega go go amanang le botsofe, go senyega ga tlhaloganyo go go bonolang, dementia le bolwetse jwa Alzheimer. Taelo eo e batla gore khampani e nne le bosupi jwa saense jo bo ikanyegang le jo bo nonofileng pele e ka dira dikopo tse di jalo mo isagweng ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Selo se malapa a ka se ithutang: nnang kelotlhoko ka motshameko mongwe le mongwe, app kgotsa lenaneo le le solofetsang go sireletsa kgakologelo kgotsa go thibela dementia.
 
-## Can games help someone who already has dementia?
+## A metshameko e ka thusa motho yo a setseng a na le dementia?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Di ka oketsa sengwe se se molemo mo letsatsing, mme seo se botlhokwa thata. Mokgwa o o ithutilweng thata ke **tlhotlheletso ya tlhaloganyo**: ditirwana tse di itumedisang tsa setlhopha jaaka dipuisano, go gakologelwa dilo tsa nako e e fetileng, metshameko ya mafoko, diphazele le mmino, gantsi mo setlhopheng se sennye se se kaelwang ke mofatlhosi.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Tshekatsheko ya Cochrane ya 2023 ya diteko di le 37 ka batho ba le 2,766 ba ba nang le dementia e e botlhofo go ya go e e lekanetseng e fitlheletse ([Tshekatsheko ya Cochrane ya tlhotlheletso ya tlhaloganyo](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **mosola o monnye, wa nako e khutshwane** mo ditekong tsa go akanya (bosupi jwa boleng jo bo lekanetseng);
+- **ditokafalo tse di botlhokwa mo bongakeng mo puisanong le mo tirisanong le ba bangwe** (bosupi jwa boleng jo bo kwa godimo, go tswa mo palong e nnye ya dithutopatlisiso);
+- **mosola o monnye** mo boleng jwa botshelo, mo maikutlong le mo maitsholong.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Melemo e ne ya lekanyediwa gantsi fela morago ga mananeo a a ka nnang dibeke di le lesome, mme dithutopatlisiso di se kae di ne tsa tlhatlhoba gore a e ne ya tswelela. Tlhotlheletso ya tlhaloganyo ke lenaneo le le rulagantsweng la setlhopha, ka jalo dipholo tse ga di dire ka go itiragalela mo mothong yo o tshamekang motshameko a le nosi mo letlapeng.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Khomishene ya Lancet ya 2024 le yone e re mananeo a ditirwana a botlhokwa mo bathong ba ba tshelang ka dementia, go thusa go boloka boitumelo le maikaelelo ([Khomishene ya Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Metshameko e siametse eng tota?
 
-When chosen well, games can offer:
+Fa di tlhophiwa sentle, metshameko e ka neela:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Boitumelo.** Nako e e monate ya halofo ya ura e botlhokwa ka boyone.
+- **Kgolagano.** Go tshameka lo le gaufi go lo naya sengwe se lo ka se abelanang motlhofo fa puisano e le thata. Bona [ka fa lo ka tshamekang mmogo ka teng](/caregiving/how-to-play-together/).
+- **Tlwaelo.** Tirwana e e tlwaelegileng ka nako e e tshwanang letsatsi le letsatsi e ka tlisa kgomotso.
+- **Go ikutlwa o kgona.** Ditirwana tse di tsamaisanang le se motho a sa ntseng a kgona go se dira sentle di mo letla go ikutlwa a kgona, e seng jaaka a lekwa.
+- **Puisano.** Setshwantsho kgotsa maele a a tlwaelegileng a ka bula kgang. Leka [dikarata tsa puisano](/games/conversation-cards/) kgotsa [fetsa leele](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Se lo tshwanetseng go se tila: dibadisabadinako, maduo, tatelano e e sa kgaotseng le sengwe le sengwe se se utlwalang jaaka teko ya kgakologelo. Fa motho yo o tshelang le dementia a kgopisega, emang. Go emisa go sa le gale, kgotsa go nna fela mmogo, ke selo se se siameng. Kaedi ya rona ya [go tlhopha di-app le metshameko](/caregiving/choosing-apps-and-games/) e na le lenaane la dilo tse lo ka di tlhophang.
 
-## Where Golden Moments fits
+## Kwa Golden Moments e tsenang teng
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Ditirwana tsa Golden Moments, jaaka [dipara tsa ditshwantsho](/games/picture-pairs/),
+[phazele ya ditshwantsho](/games/picture-puzzle/) le
+[patlo ya mafoko a a kwadilweng ka ditlhaka tse dikgolo](/games/word-search/), di diretswe go itumelela le
+go fetsa nako mmogo. Ga di na nako e e lekanyeditsweng e bile ga di na dintlha. **Ga se** kalafo, gape
+**ga di** thibele kgotsa go fokotsa dementia. Re eletsa go go bolelela seo ka tlhamalalo go na le go go solofetsa sengwe se tirwana epe e ka se kang ya se dira.
 
-## Talk with a doctor
+## Bua le ngaka
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Fa o tshwenyegile ka diphetogo tsa go gakologelwa mo go wena kgotsa mo mothong yo o mo tlhokomelang, bona ngaka go na le go ikaega ka app. Ngaka e ka leba mabaka a a ka alafiwang mme ya bua le wena ka dikgato tse di nang le bosupi jo bo siameng, jaaka go laola kgatelelo ya madi le go tlhatlhoba kutlo. Bona [Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) go bona tshedimosetso e nngwe. Fa go na le tlhakatlhakano e e tlhagang ka tshoganyetso kgotsa diphetogo tse dingwe tse di tlhagang ka tshoganyetso, batla thuso ya bongaka ka bonako.
