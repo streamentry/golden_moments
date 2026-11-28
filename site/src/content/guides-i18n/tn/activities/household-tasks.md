@@ -1,158 +1,161 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: Ditiro tsa mo gae jaaka ditirwana tsa batho ba ba tshelang le dementia
+seoTitle: Ditirwana tsa mo gae tsa batho ba ba tshelang le dementia
+description: Go mena, go tlhopha, go baakanya tafole le go apaya bonolo e ka nna ditirwana tse di molemo mo bathong ba ba tshelang le dementia. Di rulaganye ka pabalesego.
 section: activities
 order: 8
-updated: 2026-10-25
-translatedFrom: 2026-10-25
-summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+updated: &id001 2026-10-25
+translatedFrom: *id001
+summary: Ditiro tsa letsatsi le letsatsi jaaka go mena ditoulo, go tlhopha dikausu, go baakanya tafole, go phimola dikhawuntara, go nosetsa dimela le go thusa ka go apaya dilo tse di motlhofo di ka naya motho yo o tshelang le dementia tsela ya nnete ya go thusa. Tlhopha ditiro tse a di itseng, di kgaoganye ka kgato e le nngwe ka nako, tlosa dilo tse di bogale kgotsa tse di bothitho tse di ka tsenyang kotsi, mme o tseye go tsaya karolo go le botlhokwa go feta go di dira “sentle”.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+- Ditiro tsa legae tse di tlwaelegileng di ka thusa motho yo o tshelang ka dementia go ikutlwa a le mosola e bile e le karolo ya lelapa, mme seo gantsi se botlhokwa go feta gore tiro e dirilwe sentle jang.
+- Aroganya tiro nngwe le nngwe ka dikgato tse di bonolo, nngwe ka nako; supa se se tshwanetseng go dirwa go na le go se tlhalosa fela ka mafoko, mme o tseye ka tidimalo kgato nngwe le nngwe e e thatafetseng.
+- Lotlela dithipa, didirisiwa tsa go phepafatsa le dipakete tse dinnye tsa sesepa sa go tlhatswa kwa di sa fitlheleleng teng, mme o tsenye dikhurumelo mo dikonopong tsa setofo kgotsa sedirisiwa se se timang setofo ka bosone pele lo apaya mmogo.
+- Dithaole tse di setseng di mennwe ga di tlhoke go menwa gape fa pele ga motho yo o tshelang ka dementia. Fa o tshwanetse go baakanya sengwe gape, se dire moragonyana fa a sa go bone.
+- Fa tiro e tlisa tenego, fetela mo kgatong e e motlhofo, leka gape ka nako e nngwe, kgotsa lo nne fela mmogo.
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+- q: Ke ditiro dife tsa mo gae tse motho yo o tshelang le dementia a ka tswelelang a thusa ka tsone?
+  a: Batho ba le bantsi ba ba tshelang le dementia ba ka tswelela ba mena diaparo tse di tlhatswitsweng, ba nyalanya dikausu, ba rulaganya dilwana tsa go ja, ba baakanya tafole, ba phimola khaontara, ba tlosa lerole, ba feela, ba nosetsa dimela kgotsa ba fuduwa motswako mo mogopong. Tlhopha ditiro tse motho yo o tshelang le dementia a neng a di dira mo nakong e e fetileng, mme o di tsamaisanye le se a kgonang go se dira gone jaanong. Mo dikgatong tsa moragonyana, motsamao o le mongwe o o boelediwang, jaaka go boreletsa dinapikine, o ka nna o lekane.
+- q: A go babalesegile gore motho yo o tshelang le dementia a thuse mo kichineng?
+  a: Go ka nna jalo, fa go na le tlhokomelo e e gaufi le dithulaganyo tse di siameng. Bea dithipa, didirisiwa tsa go phepafatsa le sengwe le sengwe se se bothitho kwa di sa kgoneng go fitlhelelwa teng, dirisa dikhurumelo tsa dikonopo tsa setofo kgotsa sedirisiwa se se timang ka bosone, mme o neye motho tirwana e e babalesegileng jaaka go tlhatswa merogo, go fuduwa kgotsa go baya dipoleiti. O se ka wa ba tlogela ba le bosi fa setofo se butswe.
+- q: Go tweng fa ba mena dilo ka tsela e e sa siamang kgotsa ba dira tlhakatlhakano?
+  a: E lese fela jalo. Maikaelelo ke go nna le nako mmogo le go ikutlwa o le mosola, e seng gore sengwe le sengwe se felele se itekanetse. Fa sengwe se tlhoka go dirwa gape tota, ema go fitlha moragonyana mme o se dire fa motho yo o mo tlhokomelang a sa go bona, gore a se ka a ikutlwa jaaka e kete o baakanya se a se dirileng.
+- q: Go tweng fa ba sa batle go thusa?
+  a: Go gana go ka raya gore tirwana eo e utlwala e le bokete, e tlhakatlhakane kgotsa e lapisa gone jaanong. O se ka wa ba pateletsa. Leka mofuta o o motlhofo, ba laletse go nna le wena fela, kgotsa botsa gape ka nako e e botoka ya letsatsi.
 sources:
-  - title: "Adapting Activities for People With Alzheimer's Disease"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease"
-  - title: "Activities"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/daily-care/activities"
-  - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf"
-  - title: "Alzheimer's Caregiving: Home Safety Tips"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips"
-relatedGames: [sort-together, picture-pairs, conversation-cards]
-related: [activities/daily-routine, activities/middle-stage, activities/for-men, caregiving/when-they-say-no, caregiving/how-to-play-together]
+- title: Adapting Activities for People With Alzheimer's Disease
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease
+- title: Activities
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/daily-care/activities
+- title: 'Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer''s'
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf
+- title: 'Alzheimer''s Caregiving: Home Safety Tips'
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips
+relatedGames:
+- sort-together
+- picture-pairs
+- conversation-cards
+related:
+- activities/daily-routine
+- activities/middle-stage
+- activities/for-men
+- caregiving/when-they-say-no
+- caregiving/how-to-play-together
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Batho ba le bantsi ba ba tshelang ka dementia ba feditse masome a dingwaga ba tlhokomela legae, ba godisa lelapa kgotsa ba dira gore lefelo la tiro le nne le rulaganye. Go kopiwa go thusa ka ditiro tsa nnete tsa mo gae go ka bontsha gore «o sa ntse o le karolo ya lelapa leno» ka tsela e ditirwana di se kae di ka e kgonang. Tsebe eno e bua ka ditiro tse gantsi di berekang sentle, kafa o ka di baakanyang ka gone, kafa o ka di fetolang ka gone fa maemo a fetoga, le kafa o ka bolokang kichine le phaposi ya go tlhatswa diaparo di sireletsegile ka gone.
 
-## Why do everyday chores work well as activities?
+## Ke ka ntlha yang fa ditiro tsa letsatsi le letsatsi di dira sentle jaaka ditirwana?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Ditiro tsa letsatsi le letsatsi di a bereka sentle ka gonne di tlwaelegile e bile di na le maikaelelo a a utlwalang sentle. National Institute on Aging e umaka go tlhatswa dijana, go baakanya tafole, go feela, go phumola lorole, go rulaganya poso, go mena diaparo tsa go tlhatswa le go rulaganya dilo tse di ka dirisiwang gape mo [ditirwana tsa letsatsi le letsatsi tse batho ba ba tshelang ka Alzheimer's ba ka di itumelelang](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association e bolela gore ditiro tse di jaaka go baakanya tafole di ka thusa motho go [ikutlwa jaaka karolo e e botlhokwa ya lelapa](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Tiro ya letsatsi le letsatsi gape e na le lebaka la yone la go simolola. «A o ka nthusa ka ditoulo tse?» go motlhofo go dumela mo go yone go feta «A o ka rata go dira tirwana?»
 
-## Which household tasks are good to try?
+## Ke ditirwana dife tsa mo lapeng tse di siametseng go lekwa?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Simolola ka ditirwana tse motho yo o mo tlhokomelang a neng a di dira mo nakong e e fetileng, morago ga moo o di bapise le se a kgonang go se dira gompieno.
 
-### Laundry and linens
+### Diaparo tse di tlhatswiwang le matsela a ntlo
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Go phutha ditoulo le matsela a mannye a go tlhapa.** Mo neele seroto se se nang le dilo tse dinnye tse di sephaphathi. Ditoulo ga di thata go phuthwa: ga go na tsela e e phoso ya go phutha toulo.
+- **Go nyalanya dikausu.** Bea mokoa o o tlhakaneng mo tafoleng. Fa go le thata go bona dipara, dirisa mebala e mebedi kgotsa e meraro fela e e farologaneng thata.
+- **Go batalatsa le go tlhatlaganya.** Dinapokine, dikgetsi tsa mosamo kgotsa ditoulo tsa dijana di ka bataladiwa tsa bo di tlhatlaganngwa. Seno se ka tsamaya sentle moragonyana, fa go phutha go setse go na le dikgato tse dintsi thata.
 
-### Table and kitchen
+### Tafole le kichine
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Go baakanya tafole.** Baakanya sebaka sa motho a le mongwe jaaka sekao, mme o letle motho yo o mo tlhokomelang a se kopise. Fa seo se le bokete thata, mo neye selo se le sengwe ka nako: «Fano ke foroko ya poleiti nngwe le nngwe.»
+- **Go tlhaola dilwana tsa go jela.** Tsenya diforoko, digwana le dithipa tsa botoro tse di phepa tse di tlhakantsweng mo setshelong, mme lo di tlhaolele mo tereing e e kgaogantsweng. Tlogela dithipa tse di bogale kwa ntle.
+- **Go phimola dijana.** Dijana tsa polasetiki kgotsa tse di sa thubegeng le toulo e e bonolo di dira gore tiro eno e nne e e babalesegileng.
+- **Go phimola tafole kgotsa dikhawuntere.** Lelapi le le kolobileng le boalo jo bo phepa. Alzheimer's Association e akantsha gore o neye motho lelapi fa a setse a suga tafole ka seatla, go fetola motsamao o o sa ritibalang go nna tiro e e thusang.
 
-### Around the house
+### Mo ntlong
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Go phimola lerole.** Dirisa sephimola-lerole se se bonolo le mafelo a sekae a a tiileng, jaaka tafole ya kofi kgotsa shelofo ya dibuka.
+- **Go rulaganya poso.** Neela motho makwalo a poso a a sa tlhokegeng le dikhataloko gore a a rulaganye ka mekoa: boloka, busetsa gore a dirisiwe gape, bula moragonyana. Boloka dikoloto tsa mmatota le ditšheke kwa gongwe.
+- **Go rulaganya dilo tse di ka dirisiwang gape.** Tsenya makotikoti, mabotlolo le pampiri tse di phepa mo dibining tse di farologaneng.
+- **Go feela.** Dirisa lefielo le lennye mo pationg kgotsa mo bodilong jwa kichine, fa a kgona go ema a tsepame sentle.
+- **Go nosetsa dimela.** Dirisa kgamelo e nnye e e bofefo ya go nosetsa le dimela di sekae tse di gaufi go fitlhelelwa.
 
-### Simple cooking with supervision
+### Go apaya ka tsela e e motlhofo ka tlhokomelo
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Go apaya go ka tsosa maikutlo a a monate le a a nonofileng. NIA e akantsha gore o letle motho yo o mo tlhokomelang a phuthe metswako, a lekanye, a tlhakanye le go tshela, kgotsa a bolelele mongwe fela gore resipi e a e ratang e dirwa jang. Ditirwana tse di siameng di akaretsa:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- go tlhatswa merogo kgotsa maungo
+- go fuduwa motswako wa go baka kgotsa salate e e tsididi
+- go gagola lettuce
+- go tshasa botoro mo borothong jo bo gadikilweng ka thipa e e sa bogaleng
+- go baya motswako wa dikhukhi mo tereing ya go baka
+- go baya ditlatswa mo godimo ga pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Fa go lekanya go nna thata, Alzheimer's Association e akantsha gore o wetse go lekanya, mme o mo neye kgato e nngwe, jaaka go fuduwa.
 
-## How do I set up a chore so it goes well?
+## Nka rulaganya jang tiro ya legae gore e tsamaye sentle?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Tlhopha nako e e siameng.** Tlhopha karolo ya letsatsi e gantsi motho yo o mo tlhokomelang a ikhutsa a bile a ritibetse ka yone. Mo bathong ba le bantsi, seno gantsi ke mo mosong.
+2. **Phepafatsa lefelo.** Tiro e le nngwe, lefelo le le lengwe, go se na sepe se sengwe mo tafole.
+3. **Laletsa, o se ka wa laela.** «Ke ka itumelela thuso ya gago ka tse» go bereka botoka go na le «Ke nako ya go mena diaparo tse di tlhatswitsweng.»
+4. **Supa sa ntlha.** Mena toulo e le nngwe ka bonya, morago o mo neye e e latelang. Go supa go tlhaloganyega motlhofo go gaisa go tlhalosa.
+5. **Naya kgato e le nngwe ka nako.** Ditaelo di le dintsi ka gangwe di ka imela. Ema gore kgato e le nngwe e fele pele o umaka e e latelang.
+6. **Dirang lo bapile.** Go dira tiro e e tshwanang lo le bapile go utlwala jaaka go nna le mongwe, e seng jaaka go tlhokomelwa ka leitlho.
+7. **Buang ka tiro, e seng ka maduo.** «Tseno di boleta thata» kgotsa «Mpolelele gore o ne o rata go rulaganya jang khabinete ya dilwana tsa lelapa» go bula puisano ntle le go leka ope.
 
-## How do I adapt chores as abilities change?
+## Nka fetola jang ditiro tsa mo gae fa bokgoni bo fetoga?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Bokgoni bo ka fetoga fa nako e ntse e ya, e bile bo ka fetoga le go tswa mo letsatsing lengwe go ya go le lengwe. Alzheimer's Association e akantsha gore lo fetogele mo ditirong tse di motlhofo, tse di boeletswang gantsi fa dementia e ntse e tswelela pele.
 
-| If this has become hard | Try this instead |
+| Fa se se thatafetse | Leka se mo boemong jwa sone |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Go mena malakana a magolo | Go mena dituku tse dinnye tsa go tlhapa kgotsa go batalatsa disepukine |
+| Go baakanya tafole yotlhe | Go baya sepukine se le sengwe mo setulong sengwe le sengwe |
+| Go tlhaola poso ka ditlhopha | Go kgobokanya dienfelopo mo mokoa o le mongwe |
+| Go latela tsela ya go apaya | Go hudua, kgotsa go lebelela le go utlwa tatso fa o apaya |
+| Go feela boalo jotlhe | Go phimola tafole e nnye e le nngwe |
+| Go dira tiro eo gotlhelele | Go nna le wena le go go fa botsalano fa o e dira |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Go lebelela le gone go botlhokwa. NIA e bolela gore batho bangwe ba itumelela fela go lebelela, mme eo ke tsela e e siameng ya go nna le seabe.
 
-## How do I keep household tasks safe?
+## Nka dira jang gore ditiro tsa mo gae di nne di sireletsegile?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Pabalesego e tla pele, segolobogolo mo kichineng. Dikaelo tsa NIA mo [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) di akaretsa:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Lotlela kgotsa tlosa didirisiwa tsa go phepafatsa, go akaretsa le dipodisi tsa sesepa sa go tlhatswa diaparo, tse di ka lebegang jaaka dimonamone.
+- Boloka dithipa, dikere le didirisiwa tsa motlakase mo lefelong le le lotletsweng.
+- Tsenya dikhurumelo tsa dikonopo tsa setofo le seswitshi se se timang setofo ka bosone.
+- Baya matshwao a a reng «Ema» kgotsa «Go bothitho thata» gaufi le onto, tosetara le aene, o a beye mo a ka se kang a tshwarwa ke molelo.
+- Seta hitara ya metsi go 120°F go fokotsa kotsi ya go fisiwa ke metsi a a bothitho.
+- Tlosa maungo a maitirelo le dimanete tse di bōpehileng jaaka dijo, tse di ka lebegang di ka jewa.
 
-A few more practical habits help:
+Mekgwa e mengwe e e mosola ya letsatsi le letsatsi le yona e ka thusa:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Nna mo phaposing nako le nako fa setofo, onto kgotsa sedirisiwa se se bogale se dirisiwa.
+- Dirisa dijana tse di sa thubegeng fa o di omisa kgotsa fa o baakanya tafole.
+- Boloka bodilo bo omile e bile bo se na sepe fa o fiela kgotsa o gotlha.
+- Fa motho yo o mo tlhokomelang a kile a dirisa didirisiwa, Alzheimer's Association e akantsha gore go tlosiwe dilo tse di kotsi mo lefelong la bodirelo, gore tirwana e e sireletsegile, jaaka go bantsha kota ya logong, e nne e ka tswelediwa.
 
-## What if they do it "wrong"?
+## Go tweng fa ba sa e dira “ka tsela e e siameng”?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+E tlogele fela. Taole e e phuthilweng ka dikarolo di le tharo mo boemong jwa tse pedi, e sa ntse e le taole e e phuthilweng. Alzheimer's Association e tlhalosa ka tlhamalalo jaana: se se botlhokwa ke go fetsa nako lo le mmogo le gore motho a ikutlwe a le mosola, e seng gore a ditaole di phuthilwe ka nepo. Fa e le gore sengwe se tshwanetse ruri go dirwa gape, ema go fitlha moragonyana mme o se dire kwa a sa se boneng.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Go baakanya motho ka yone nako eo go ka fetola tirwana e e monate go nna kgopotso ya se se latlhegileng. “Ke a leboga, o nthusitse thata” gantsi ke selo se se siameng go se bua.
 
-## When should we stop?
+## Re tshwanetse go emisa leng?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Emisa kgotsa fetola fa o bona matshwao a go tenegega, letsapa kgotsa go se tlhole o na le kgatlhego. Go emisa pele ga nako ke selo se se siameng, ga se go palelwa. O ka:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- fetolela mo kgatong e e motlhofo
+- ya kwa selong se se lapolosang, jaaka mmino kgotsa kopi ya kofi
+- leka gape moragonyana kgotsa ka letsatsi le lengwe
+- nna fela mmogo lo dutse
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Fa motho yoo a re nnyaa, o se ka wa mo pateletsa. Bona [se o ka se dirang fa a re nnyaa](/caregiving/when-they-say-no/) go bona ditsela tse di bonolo tsa go araba.
 
-## Low-effort extras for a quieter moment
+## Ditlaleletso tse di motlhofo tsa motsotso o o didimetseng
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Fa ditiro tsa mmele di sa kgonege, go rulaganya le go nyalanya go ka dirwa o ntse o dutse. [Rulaganyang Mmogo](/games/sort-together/) e go letla go tobetsa ditshwantsho mo dibasketeng tsa kichine kgotsa tsa tshingwana ya dijalo, mme [Diphara tsa Ditshwantsho](/games/picture-pairs/) ke tirwana e e bonolo ya go nyalanya e e nang le ditshwantsho tse dikgolo e bile e se na sebadi sa nako. [Dikarata tsa Puisano](/games/conversation-cards/) di na le dipotso tse di bulegileng ka ga legae le lelapa tse di tsamaelanang sentle le kofi fa tiro e weditswe.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Go bona thuso ya go tsenya ditiro mo letsatsing, bona kaelo ya rona ya [thulaganyo ya letsatsi le letsatsi e e didimetseng](/activities/daily-routine/). Go bona dikakanyo tse dingwe go ya ka kgato, bona [ditirwana tsa kgato ya bogare](/activities/middle-stage/).
