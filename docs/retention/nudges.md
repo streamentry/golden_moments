@@ -1,13 +1,20 @@
 # Nudges: the words a reminder says
 
 Status: **direction approved by the maintainer on 2026-11-28 ("current
-retention is too low"); nothing here is built yet.** The plan, its detail
-table and DESIGN.md › Reminders were changed the same day to allow it. Streaks
-stay banned, and nothing is sent unless a helper turned the reminder on. The 50 English
-lines are the source. The other ten languages were written by a model in one
-pass, with the culture swapped where a literal line would sound odd. No native
-speaker has read them. Treat them as unreviewed, the same as the app's other
-machine-made text.
+retention is too low"); implemented for 1.11.0 (build 15), not yet tried on a
+device or released.** The plan, its detail table and DESIGN.md › Reminders were
+changed the same day to allow it. Streaks stay banned, and nothing is sent
+unless a helper turned the reminder on.
+
+Code: `lib/features/reminders/data/nudges.dart` (catalogue and picker),
+`reminder_plan.dart` (notes), `todays_activity_card.dart` (Home line); tests in
+`test/features/reminders/nudges_test.dart`. Strings: `nudgeT1` to `nudgeL2` in
+every app ARB (116 languages; `app_pt` and `app_zh` fall back to `pt_BR` and
+`zh_Hans`). The 50 English lines are the source. The ten languages below were
+written by hand by a model; the other 106 app languages were machine-translated
+by Haiku agents from the English and each language's existing app wording. No
+native speaker has read any of them; all are unreviewed, the same as the app's
+other machine-made text.
 
 A nudge here is one line of text. The app picks it on the device, by fixed
 rules, for a reminder a helper already turned on, or for the hint under
@@ -123,26 +130,33 @@ rules in [AGENTS.md](../../AGENTS.md).
 
 ## How the app picks a line
 
-All on the device, with no network and no log.
+All on the device, with no network and no log. The picker walks every day from
+1 January 2024 to the date asked, remembering when each line was last used, so
+a date always gets the same line however often reminders are planned, and no
+history has to be saved.
 
-1. **Who is eligible.** Use the "When it may show" column. A line with a slot
-   is eligible only when the app can fill it truthfully.
-2. **Fixed places first.** The last planned note is L1 or L2, taking turns.
-   Weekly notes after day 14 are R1, R2, R3 in turn.
-3. **Then the rest, shuffled.** Shuffle the eligible lines once with a random
-   number saved on the device at first use, and walk the list. Two households
-   then see different orders, and nobody can tell the date from the line.
-4. **No repeat inside 21 days**, and never two lines from the same letter
-   group back to back. K at most once in seven notes.
-5. **A line for the day wins a tie.** If a T, W or P line is eligible today,
-   use it for at most one note in three, so plain days do not vanish.
-6. **Whole batch at once.** The planner already writes up to 18 notes each
-   time the app opens. Assign lines across that batch in one go, so the
-   pending notes never hold the same line twice. iOS keeps at most 64 pending
-   local notifications; 18 is well inside that.
+1. **Fixed places.** The last planned note is L1 or L2. Weekly notes after day
+   14 are R1, R2, R3 in turn.
+2. **Every 7th day is a skip line** (K1 to K4 in turn, so each returns after 28
+   days). Home never shows one: there the line sits next to a Begin button.
+3. **Every 3rd day may be a line for that day**, if one applies and was not used
+   in the last 21 days: T on a Daily moment day, W1 on Saturday, W2 or W3 on
+   Sunday, W4 on Monday, P when there are own photos. When several apply they
+   take turns.
+4. **Other days take the next general line** from an order shuffled once per
+   device: questions alternate with the time-of-day and small-ask lines. A line
+   used in the last 21 days is skipped, and so, where possible, is one from the
+   same group as the day before.
+5. **The note's title** still names the day's activity and the time of day
+   ("This morning: Daily moment"). Tapping it opens that activity, as before.
 
-State this adds: one saved number for the shuffle and the IDs of recent
-lines. Both stay in app preferences. Neither says anything about a person.
+State this adds, in app preferences only: a random number for the shuffle,
+and a yes/no for "at least two family photos", refreshed in the background so
+planning never waits on the photo folder. Neither says anything about a person.
+
+Why P3 and P4 changed: a tapped note opens the day's activity, which uses the
+bundled pictures, not family photos. "Today, your photos instead of ours"
+would have been untrue, so P3 and P4 now point to where the photos are.
 
 ## Lines we will not write
 
@@ -182,19 +196,20 @@ Connect rise in the weeks after release.
 
 ## Before this ships
 
-1. ~~Maintainer approves the idea.~~ Done 2026-11-28. [The plan](../plan/README.md),
-   [the detail](../plan/detail.md) and DESIGN.md › Reminders now allow varied
-   wording inside the opt-in reminder and on Home. Streaks stay banned.
-2. Add the lines to `lib/l10n/arb/app_en.arb` with translator notes, then to
-   every app language through the normal pipeline, marked unreviewed.
-3. Replace the two-option pick in `reminder_plan.dart` with the rules above,
-   with tests for: no repeat in 21 days, truthful slots, K spacing, L last.
-4. Home hint, on all platforms.
+1. ~~Maintainer approves the idea.~~ Done 2026-11-28.
+2. ~~Lines in every app language, marked unreviewed.~~ Done 2026-11-28.
+3. ~~Picker with tests (no repeat in 21 days, truthful slots, skip spacing,
+   last note last, stable across re-planning).~~ Done 2026-11-28.
+4. ~~Home line on all platforms.~~ Done 2026-11-28.
 5. Try on a real iPhone: lock screen length at 100% and 200% text, VoiceOver
-   reading, tap opens the named picture.
+   reading, and that a tap opens the named activity. Not done.
+6. Native review, starting with the languages the agents were least sure of:
+   Igbo, Ido, Shona, Somali, Sesotho, Sundanese, Quechua, Sanskrit, Oromo,
+   Pashto, Lingala, Malagasy, Maori, Mongolian, Faroese, Scottish Gaelic,
+   Frisian, Hausa, Uyghur, Tajik, Telugu. Several languages name the Home
+   screen with the word for a house; check P3 and P4 there first.
 
-Not done by this file: no code, no ARB strings, no native review, no device
-check. The reminder is still iOS only.
+The reminder is still iOS only; Android gets the Home line only.
 
 ## The 50 lines
 
@@ -203,12 +218,14 @@ morning, **N** afternoon, **V** evening, **W** day of the week, **P** own
 photos, **S** small ask, **K** leave to skip, **R** after a quiet spell,
 **L** last note. `{pictures}` is the day's three picture names joined with
 the language's list separator. `{picture}` is the name of the first picture
-the activity will show.
+the activity will show. `{button}` is the app's own name for the family photos
+button on Home.
 
 Food and drink were swapped, not translated, where it mattered: fresh bread
 became freshly cooked rice in Japanese and Korean, and coffee leads tea in
 Spanish, Portuguese, German and Italian. Sunday and Monday lines assume a
-Monday-to-Friday week; use different days where the week differs.
+Monday-to-Friday week; use different days where the week differs. W1 shows
+on Saturday, W2 and W3 on Sunday.
 
 ### English (source)
 
@@ -242,14 +259,14 @@ Monday-to-Friday week; use different days where the week differs.
 | V2 | Chosen time after 5 pm | A quiet end to the day: some pictures, at your own pace. |
 | V3 | Chosen time after 5 pm | Nothing to finish this evening. Just a few pictures to look at. |
 | V4 | Chosen time after 5 pm | Lights low, pictures large. An unhurried few minutes together. |
-| W1 | Saturday or Sunday | If family is visiting today, the pictures are something to do together. |
-| W2 | Saturday or Sunday | Children can join in too. Big pictures, easy turns. |
+| W1 | Saturday | If family is visiting today, the pictures are something to do together. |
+| W2 | Sunday | Children can join in too. Big pictures, easy turns. |
 | W3 | Sunday | A slow Sunday is a good day for pictures. |
 | W4 | Monday | A new week. Start it with one picture and a chat. |
-| P1 | Two or more own photos chosen | Your own photos are in the game, just as you chose them. |
-| P2 | Two or more own photos chosen | The family photos are where you left them. Open them when it suits you. |
-| P3 | Two or more own photos chosen | Today, your photos instead of ours. |
-| P4 | Two or more own photos chosen | A few of your own photos, large and unhurried. |
+| P1 | Two or more own photos in the app | Your own photos are in the game, just as you chose them. |
+| P2 | Two or more own photos in the app | The family photos are where you left them. Open them when it suits you. |
+| P3 | Two or more own photos in the app | Your own photos are on Home, under {button}. |
+| P4 | Two or more own photos in the app | Your photos can be part of today if you like. Find them on Home. |
 | S1 | Any day | Two minutes is enough. One picture, one chat. |
 | S2 | Any day | No need to play a whole game. One pair is a fine visit. |
 | S3 | Any day | Just look. Nobody has to tap anything. |
@@ -305,8 +322,8 @@ Monday-to-Friday week; use different days where the week differs.
 | W4 | Semana nueva. Empiécela con una imagen y una charla. |
 | P1 | Sus propias fotos están en el juego, tal como las eligió. |
 | P2 | Las fotos de la familia siguen donde las dejó. Ábralas cuando le venga bien. |
-| P3 | Hoy, sus fotos en lugar de las nuestras. |
-| P4 | Unas cuantas fotos suyas, grandes y sin prisa. |
+| P3 | Sus propias fotos están en la pantalla de inicio, en {button}. |
+| P4 | Sus fotos pueden ser parte del día, si quiere. Están en la pantalla de inicio. |
 | S1 | Dos minutos bastan. Una imagen, una charla. |
 | S2 | No hace falta jugar una partida entera. Con una pareja ya es una buena visita. |
 | S3 | Solo mirar. Nadie tiene que tocar nada. |
@@ -360,8 +377,8 @@ Monday-to-Friday week; use different days where the week differs.
 | W4 | Tuần mới. Bắt đầu bằng một hình và một câu chuyện. |
 | P1 | Ảnh của nhà bạn đã ở trong trò chơi, đúng như bạn đã chọn. |
 | P2 | Ảnh gia đình vẫn ở chỗ cũ. Mở ra lúc nào thuận tiện. |
-| P3 | Hôm nay xem ảnh nhà mình, thay cho hình có sẵn. |
-| P4 | Vài tấm ảnh của nhà bạn, to và thong thả. |
+| P3 | Ảnh của nhà bạn nằm ở màn hình chính, trong mục {button}. |
+| P4 | Nếu muốn, hôm nay có thể xem ảnh nhà mình. Ảnh nằm ở màn hình chính. |
 | S1 | Hai phút là đủ. Một hình, một câu chuyện. |
 | S2 | Không cần chơi hết ván. Ghép được một cặp cũng là vui rồi. |
 | S3 | Chỉ cần ngắm. Không ai phải chạm vào gì cả. |
@@ -415,8 +432,8 @@ Monday-to-Friday week; use different days where the week differs.
 | W4 | 新しい週です。絵を1枚とおしゃべりから始めませんか。 |
 | P1 | ご自分の写真が、選んだとおりにゲームに入っています。 |
 | P2 | ご家族の写真は、そのままの場所にあります。ご都合のよいときにどうぞ。 |
-| P3 | 今日は、こちらの絵のかわりにご自分の写真を。 |
-| P4 | ご自分の写真を何枚か。大きく、ゆっくりと。 |
+| P3 | ご自分の写真は、ホーム画面の「{button}」にあります。 |
+| P4 | よろしければ、今日はご自分の写真もどうぞ。ホーム画面にあります。 |
 | S1 | 2分で十分です。絵を1枚、おしゃべりをひとつ。 |
 | S2 | 最後まで遊ばなくても大丈夫です。1組そろえば、それで十分です。 |
 | S3 | 眺めるだけでいいのです。何も押さなくてかまいません。 |
@@ -470,8 +487,8 @@ Monday-to-Friday week; use different days where the week differs.
 | W4 | 新的一週。從一張圖片、一段閒聊開始。 |
 | P1 | 你們自己的照片已經在遊戲裡，就是當初選的那幾張。 |
 | P2 | 家人的照片還在原來的地方。方便的時候再打開。 |
-| P3 | 今天換成你們的照片，不用我們的圖片。 |
-| P4 | 幾張自己的照片，大大的，慢慢看。 |
+| P3 | 你們自己的照片在主畫面的「{button}」裡。 |
+| P4 | 想的話，今天也可以看看自己的照片。就在主畫面上。 |
 | S1 | 兩分鐘就夠了。一張圖片，聊一聊。 |
 | S2 | 不用玩完一整局。配成一對，就很好了。 |
 | S3 | 只要看就好。誰都不必點任何東西。 |
@@ -525,8 +542,8 @@ Monday-to-Friday week; use different days where the week differs.
 | W4 | Eine neue Woche. Beginnen Sie sie mit einem Bild und einem Gespräch. |
 | P1 | Ihre eigenen Fotos sind im Spiel, genau so, wie Sie sie ausgewählt haben. |
 | P2 | Die Familienfotos sind dort, wo Sie sie gelassen haben. Öffnen Sie sie, wann es passt. |
-| P3 | Heute Ihre Fotos statt unserer Bilder. |
-| P4 | Ein paar Ihrer eigenen Fotos, groß und ohne Eile. |
+| P3 | Ihre eigenen Fotos finden Sie auf dem Startbildschirm unter {button}. |
+| P4 | Ihre Fotos können heute dabei sein, wenn Sie mögen. Sie sind auf dem Startbildschirm. |
 | S1 | Zwei Minuten reichen. Ein Bild, ein Gespräch. |
 | S2 | Es muss kein ganzes Spiel sein. Ein Paar ist schon ein schöner Besuch. |
 | S3 | Einfach nur schauen. Niemand muss etwas antippen. |
@@ -580,8 +597,8 @@ Monday-to-Friday week; use different days where the week differs.
 | W4 | Nouvelle semaine. Commencez-la par une image et quelques mots. |
 | P1 | Vos propres photos sont dans le jeu, telles que vous les avez choisies. |
 | P2 | Les photos de famille sont là où vous les avez laissées. Ouvrez-les quand cela vous convient. |
-| P3 | Aujourd'hui, vos photos plutôt que les nôtres. |
-| P4 | Quelques-unes de vos photos, en grand et sans se presser. |
+| P3 | Vos propres photos sont sur l'écran d'accueil, sous {button}. |
+| P4 | Vos photos peuvent faire partie de la journée, si vous le souhaitez. Elles sont sur l'écran d'accueil. |
 | S1 | Deux minutes suffisent. Une image, quelques mots. |
 | S2 | Inutile de faire toute une partie. Une seule paire, c'est déjà une belle visite. |
 | S3 | Regardez, simplement. Personne n'a besoin de toucher quoi que ce soit. |
@@ -635,8 +652,8 @@ Monday-to-Friday week; use different days where the week differs.
 | W4 | 새로운 한 주입니다. 그림 한 장과 이야기로 시작해 보세요. |
 | P1 | 직접 고르신 사진이 그대로 게임에 들어 있습니다. |
 | P2 | 가족 사진은 두신 자리에 그대로 있습니다. 편하실 때 열어 보세요. |
-| P3 | 오늘은 저희 그림 대신 직접 고르신 사진으로. |
-| P4 | 직접 고르신 사진 몇 장을 크게, 천천히. |
+| P3 | 직접 고르신 사진은 첫 화면의 '{button}'에 있습니다. |
+| P4 | 원하시면 오늘은 직접 고르신 사진도 보세요. 첫 화면에 있습니다. |
 | S1 | 2분이면 충분합니다. 그림 한 장, 이야기 한 자락. |
 | S2 | 한 판을 다 하지 않으셔도 됩니다. 한 쌍만 맞춰도 충분합니다. |
 | S3 | 보기만 하셔도 됩니다. 아무것도 누르지 않으셔도 됩니다. |
@@ -690,8 +707,8 @@ Monday-to-Friday week; use different days where the week differs.
 | W4 | 新的一周。从一张图片、一段闲聊开始。 |
 | P1 | 你们自己的照片已经在游戏里，就是当初选的那几张。 |
 | P2 | 家人的照片还在原来的地方。方便的时候再打开。 |
-| P3 | 今天换成你们的照片，不用我们的图片。 |
-| P4 | 几张自己的照片，大大的，慢慢看。 |
+| P3 | 你们自己的照片在主屏幕的“{button}”里。 |
+| P4 | 想的话，今天也可以看看自己的照片。就在主屏幕上。 |
 | S1 | 两分钟就够了。一张图片，聊一聊。 |
 | S2 | 不用玩完一整局。配成一对，就很好了。 |
 | S3 | 只要看就好。谁都不必点任何东西。 |
@@ -745,8 +762,8 @@ Monday-to-Friday week; use different days where the week differs.
 | W4 | Semana nova. Comece com uma imagem e uma conversa. |
 | P1 | As suas fotos estão no jogo, do jeito que você escolheu. |
 | P2 | As fotos da família estão onde você deixou. Abra quando for bom para você. |
-| P3 | Hoje, as suas fotos no lugar das nossas. |
-| P4 | Algumas fotos suas, grandes e sem pressa. |
+| P3 | As suas fotos estão na tela inicial, em {button}. |
+| P4 | Suas fotos podem fazer parte do dia, se quiser. Estão na tela inicial. |
 | S1 | Dois minutos bastam. Uma imagem, uma conversa. |
 | S2 | Não precisa jogar uma partida inteira. Um par já é uma boa visita. |
 | S3 | É só olhar. Ninguém precisa tocar em nada. |
@@ -800,8 +817,8 @@ Monday-to-Friday week; use different days where the week differs.
 | W4 | Settimana nuova. Cominciatela con un'immagine e due chiacchiere. |
 | P1 | Le vostre foto sono nel gioco, proprio come le avete scelte. |
 | P2 | Le foto di famiglia sono dove le avete lasciate. Apritele quando vi va. |
-| P3 | Oggi le vostre foto al posto delle nostre. |
-| P4 | Qualche vostra foto, in grande e senza fretta. |
+| P3 | Le vostre foto sono nella schermata iniziale, sotto {button}. |
+| P4 | Le vostre foto possono far parte della giornata, se vi va. Sono nella schermata iniziale. |
 | S1 | Due minuti bastano. Un'immagine, due chiacchiere. |
 | S2 | Non serve fare una partita intera. Una coppia è già una bella visita. |
 | S3 | Basta guardare. Nessuno deve toccare niente. |

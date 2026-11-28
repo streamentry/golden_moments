@@ -2,6 +2,8 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/gentle_activities/data/family_photo_store.dart';
+import 'package:golden_moments/features/reminders/data/nudges.dart';
 import 'package:golden_moments/features/reminders/data/reminder_plan.dart';
 import 'package:golden_moments/features/reminders/data/reminder_scheduler.dart';
 import 'package:golden_moments/features/reminders/data/reminder_settings.dart';
@@ -22,6 +24,7 @@ class ReminderPage extends StatefulWidget {
     this.native = const GmNative(),
     this.store = const ReminderSettingsStore(),
     this.clock = DateTime.now,
+    this.nudges = const NudgeInputsStore(countOwnPhotos: countFamilyPhotos),
     super.key,
   });
 
@@ -30,6 +33,9 @@ class ReminderPage extends StatefulWidget {
 
   /// The time reminders are planned from; replaceable in tests.
   final DateTime Function() clock;
+
+  /// The device's line order and whether own photos exist.
+  final NudgeInputsStore nudges;
 
   @override
   State<ReminderPage> createState() => _ReminderPageState();
@@ -76,9 +82,12 @@ class _ReminderPageState extends State<ReminderPage> {
     if (mounted) setState(() => _settings = loaded);
   }
 
-  Future<bool> _schedule(ReminderSettings s, AppLocalizations l10n) => widget
-      .native
-      .scheduleDatedReminders(planReminders(s, widget.clock(), l10n));
+  Future<bool> _schedule(ReminderSettings s, AppLocalizations l10n) async {
+    final inputs = await widget.nudges.load();
+    return await widget.native.scheduleDatedReminders(
+      planReminders(s, widget.clock(), l10n, inputs: inputs),
+    );
+  }
 
   /// Saves [next]; when the reminder is on, reschedules it first so the
   /// saved choice always matches what the device will show.

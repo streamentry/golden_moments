@@ -2011,41 +2011,250 @@
       }
     }
   },
-  "reminderBodyDailyMoment": "Three pictures are ready: {pictures}. A few minutes together, and you can stop at any time.",
-  "@reminderBodyDailyMoment": {
-    "description": "Reminder text on a Daily moment day. {pictures} is the list of that day's three picture names, joined with reminderDayListSeparator. No promise of benefit, no count of days.",
-    "placeholders": {
-      "pictures": {
-        "type": "String"
-      }
-    }
-  },
-  "reminderBodyMorning1": "Start the day with a few pictures, one at a time. There is nothing to get right.",
-  "@reminderBodyMorning1": {
-    "description": "Reminder text on a Look together morning. Calm, no test or score."
-  },
-  "reminderBodyMorning2": "A cup of tea and some pictures to talk about, whenever it suits you.",
-  "@reminderBodyMorning2": {
-    "description": "Reminder text on a Look together morning. Warm, no pressure."
-  },
-  "reminderBodyAfternoon1": "A few quiet minutes with some pictures make a nice pause in the afternoon.",
-  "@reminderBodyAfternoon1": {
-    "description": "Reminder text on a Look together afternoon. No health claim."
-  },
-  "reminderBodyAfternoon2": "Pick a picture you both like and see where the talk goes.",
-  "@reminderBodyAfternoon2": {
-    "description": "Reminder text on a Look together afternoon. For a caregiver and the person together."
-  },
-  "reminderBodyEvening1": "A calm look at a few pictures before the evening settles in.",
-  "@reminderBodyEvening1": {
-    "description": "Reminder text on a Look together evening. Calm."
-  },
-  "reminderBodyEvening2": "Some pictures to share, at your own pace. Stop whenever you like.",
-  "@reminderBodyEvening2": {
-    "description": "Reminder text on a Look together evening. Easy to stop."
-  },
   "reminderHowItWorks": "Each reminder names that day's activity. There is none on a day the app has already been opened. If the app is not opened for two weeks, reminders slow to once a week and stop after six weeks. Opening the app starts them again.",
   "@reminderHowItWorks": {
     "description": "Explains on the reminder screen how reminders adapt, so they never feel like spam. Plain, no guilt."
+  },
+  "nudgeT1": "Three pictures are ready: {pictures}.",
+  "@nudgeT1": {
+    "description": "Reminder notification text and Home line. Names the pictures the day's activity will show. {pictures} is a list of three picture names, e.g. 'teacup, garden, piano'.",
+    "placeholders": {
+      "pictures": {
+        "type": "String",
+        "example": "teacup, garden, piano"
+      }
+    }
+  },
+  "nudgeT2": "Today's three: {pictures}. One at a time, no hurry.",
+  "@nudgeT2": {
+    "description": "Reminder notification text and Home line. Names the pictures the day's activity will show. {pictures} is a list of three picture names.",
+    "placeholders": {
+      "pictures": {
+        "type": "String",
+        "example": "teacup, garden, piano"
+      }
+    }
+  },
+  "nudgeT3": "On the table today: {pictures}.",
+  "@nudgeT3": {
+    "description": "Reminder notification text and Home line. Names the pictures the day's activity will show. {pictures} is a list of three picture names.",
+    "placeholders": {
+      "pictures": {
+        "type": "String",
+        "example": "teacup, garden, piano"
+      }
+    }
+  },
+  "nudgeT4": "One picture to start with: {picture}.",
+  "@nudgeT4": {
+    "description": "Reminder notification text and Home line. Names the pictures the day's activity will show. {picture} is one picture name, e.g. 'teacup'.",
+    "placeholders": {
+      "picture": {
+        "type": "String",
+        "example": "teacup"
+      }
+    }
+  },
+  "nudgeT5": "Today's first picture: {picture}. See where the talk goes.",
+  "@nudgeT5": {
+    "description": "Reminder notification text and Home line. Names the pictures the day's activity will show. {picture} is one picture name.",
+    "placeholders": {
+      "picture": {
+        "type": "String",
+        "example": "teacup"
+      }
+    }
+  },
+  "nudgeT6": "Something to look at together: {picture}.",
+  "@nudgeT6": {
+    "description": "Reminder notification text and Home line. Names the pictures the day's activity will show. {picture} is one picture name.",
+    "placeholders": {
+      "picture": {
+        "type": "String",
+        "example": "teacup"
+      }
+    }
+  },
+  "nudgeQ1": "A question to share: the smell of rain, or the smell of fresh bread?",
+  "@nudgeQ1": {
+    "description": "Reminder notification text and Home line. A light question two people ask each other about what they LIKE (taste, preference). Never a question about the past or about remembering. Keep the 'A question to share:' lead-in."
+  },
+  "nudgeQ2": "A question to share: is the sea better to look at, or to swim in?",
+  "@nudgeQ2": {
+    "description": "Reminder notification text and Home line. A light question two people ask each other about what they LIKE (taste, preference). Never a question about the past or about remembering. Keep the 'A question to share:' lead-in."
+  },
+  "nudgeQ3": "A question to share: which is the nicest time of day?",
+  "@nudgeQ3": {
+    "description": "Reminder notification text and Home line. A light question two people ask each other about what they LIKE (taste, preference). Never a question about the past or about remembering. Keep the 'A question to share:' lead-in."
+  },
+  "nudgeQ4": "A question to share: tea or coffee, and how do you take it?",
+  "@nudgeQ4": {
+    "description": "Reminder notification text and Home line. A light question two people ask each other about what they LIKE (taste, preference). Never a question about the past or about remembering. Keep the 'A question to share:' lead-in."
+  },
+  "nudgeQ5": "A question to share: which song is worth hearing twice?",
+  "@nudgeQ5": {
+    "description": "Reminder notification text and Home line. A light question two people ask each other about what they LIKE (taste, preference). Never a question about the past or about remembering. Keep the 'A question to share:' lead-in."
+  },
+  "nudgeQ6": "A question to share: a dog, a cat, or a quiet house?",
+  "@nudgeQ6": {
+    "description": "Reminder notification text and Home line. A light question two people ask each other about what they LIKE (taste, preference). Never a question about the past or about remembering. Keep the 'A question to share:' lead-in."
+  },
+  "nudgeQ7": "A question to share: what makes a kitchen smell like home?",
+  "@nudgeQ7": {
+    "description": "Reminder notification text and Home line. A light question two people ask each other about what they LIKE (taste, preference). Never a question about the past or about remembering. Keep the 'A question to share:' lead-in."
+  },
+  "nudgeQ8": "A question to share: which flower would you put on the table?",
+  "@nudgeQ8": {
+    "description": "Reminder notification text and Home line. A light question two people ask each other about what they LIKE (taste, preference). Never a question about the past or about remembering. Keep the 'A question to share:' lead-in."
+  },
+  "nudgeQ9": "A question to share: a walk in the hills, or a seat by the water?",
+  "@nudgeQ9": {
+    "description": "Reminder notification text and Home line. A light question two people ask each other about what they LIKE (taste, preference). Never a question about the past or about remembering. Keep the 'A question to share:' lead-in."
+  },
+  "nudgeQ10": "A question to share: what is the best thing to eat with your hands?",
+  "@nudgeQ10": {
+    "description": "Reminder notification text and Home line. A light question two people ask each other about what they LIKE (taste, preference). Never a question about the past or about remembering. Keep the 'A question to share:' lead-in."
+  },
+  "nudgeM1": "The day is still quiet. A few pictures before it gets busy.",
+  "@nudgeM1": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is before noon."
+  },
+  "nudgeM2": "A cup of something warm and a few pictures, one at a time.",
+  "@nudgeM2": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is before noon."
+  },
+  "nudgeM3": "A slow start is a good start. The pictures are here when you are.",
+  "@nudgeM3": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is before noon."
+  },
+  "nudgeM4": "Before the day fills up: one picture, one chat.",
+  "@nudgeM4": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is before noon."
+  },
+  "nudgeN1": "A pause in the afternoon. A few pictures, nothing to get right.",
+  "@nudgeN1": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is noon to 5 pm."
+  },
+  "nudgeN2": "The afternoon can be long. A few pictures give you something to talk about.",
+  "@nudgeN2": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is noon to 5 pm."
+  },
+  "nudgeN3": "Sit down for a moment. The pictures will do the talking.",
+  "@nudgeN3": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is noon to 5 pm."
+  },
+  "nudgeN4": "Something easy for the afternoon: pick a picture you both like.",
+  "@nudgeN4": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is noon to 5 pm."
+  },
+  "nudgeV1": "The day is winding down. A few calm pictures to share.",
+  "@nudgeV1": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is after 5 pm."
+  },
+  "nudgeV2": "A quiet end to the day: some pictures, at your own pace.",
+  "@nudgeV2": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is after 5 pm."
+  },
+  "nudgeV3": "Nothing to finish this evening. Just a few pictures to look at.",
+  "@nudgeV3": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is after 5 pm."
+  },
+  "nudgeV4": "Lights low, pictures large. An unhurried few minutes together.",
+  "@nudgeV4": {
+    "description": "Reminder notification text and Home line. Shown when the chosen time is after 5 pm."
+  },
+  "nudgeW1": "If family is visiting today, the pictures are something to do together.",
+  "@nudgeW1": {
+    "description": "Reminder notification text and Home line. Shown on a particular day of the week. Saturday or Sunday."
+  },
+  "nudgeW2": "Children can join in too. Big pictures, easy turns.",
+  "@nudgeW2": {
+    "description": "Reminder notification text and Home line. Shown on a particular day of the week. Saturday or Sunday."
+  },
+  "nudgeW3": "A slow Sunday is a good day for pictures.",
+  "@nudgeW3": {
+    "description": "Reminder notification text and Home line. Shown on a particular day of the week. Sunday."
+  },
+  "nudgeW4": "A new week. Start it with one picture and a chat.",
+  "@nudgeW4": {
+    "description": "Reminder notification text and Home line. Shown on a particular day of the week. Monday."
+  },
+  "nudgeP1": "Your own photos are in the game, just as you chose them.",
+  "@nudgeP1": {
+    "description": "Reminder notification text and Home line. Shown only when the family has added their own photos."
+  },
+  "nudgeP2": "The family photos are where you left them. Open them when it suits you.",
+  "@nudgeP2": {
+    "description": "Reminder notification text and Home line. Shown only when the family has added their own photos."
+  },
+  "nudgeP3": "Your own photos are on Home, under {button}.",
+  "@nudgeP3": {
+    "description": "Reminder notification text and Home line. Shown only when the family has added their own photos. {button} is the exact name of the Home button for family photos (e.g. 'Your family photos'); it is filled in by the app.",
+    "placeholders": {
+      "button": {
+        "type": "String",
+        "example": "Your family photos"
+      }
+    }
+  },
+  "nudgeP4": "Your photos can be part of today if you like. Find them on Home.",
+  "@nudgeP4": {
+    "description": "Reminder notification text and Home line. Shown only when the family has added their own photos."
+  },
+  "nudgeS1": "Two minutes is enough. One picture, one chat.",
+  "@nudgeS1": {
+    "description": "Reminder notification text and Home line. Makes the activity feel small and optional."
+  },
+  "nudgeS2": "No need to play a whole game. One pair is a fine visit.",
+  "@nudgeS2": {
+    "description": "Reminder notification text and Home line. Makes the activity feel small and optional."
+  },
+  "nudgeS3": "Just look. Nobody has to tap anything.",
+  "@nudgeS3": {
+    "description": "Reminder notification text and Home line. Makes the activity feel small and optional."
+  },
+  "nudgeS4": "Short is fine. Stop after the first picture if you like.",
+  "@nudgeS4": {
+    "description": "Reminder notification text and Home line. Makes the activity feel small and optional."
+  },
+  "nudgeS5": "There is nothing to get right, and no clock.",
+  "@nudgeS5": {
+    "description": "Reminder notification text and Home line. Makes the activity feel small and optional."
+  },
+  "nudgeK1": "Not today is fine too. The pictures keep.",
+  "@nudgeK1": {
+    "description": "Reminder notification text and Home line. Gives permission to skip without guilt. Must not sound cold or sarcastic."
+  },
+  "nudgeK2": "Busy day? Leave this one. Nothing is counted here.",
+  "@nudgeK2": {
+    "description": "Reminder notification text and Home line. Gives permission to skip without guilt. Must not sound cold or sarcastic."
+  },
+  "nudgeK3": "If now is a bad time, it is a bad time. The pictures will wait.",
+  "@nudgeK3": {
+    "description": "Reminder notification text and Home line. Gives permission to skip without guilt. Must not sound cold or sarcastic."
+  },
+  "nudgeK4": "You are doing plenty already. This is only here if it helps.",
+  "@nudgeK4": {
+    "description": "Reminder notification text and Home line. Gives permission to skip without guilt. Must not sound cold or sarcastic."
+  },
+  "nudgeR1": "Everything is as you left it. Nothing to catch up on.",
+  "@nudgeR1": {
+    "description": "Reminder notification text and Home line. Shown after the app has not been opened for two weeks. No guilt, no 'we miss you'."
+  },
+  "nudgeR2": "No news here, which is the point. The same calm pictures.",
+  "@nudgeR2": {
+    "description": "Reminder notification text and Home line. Shown after the app has not been opened for two weeks. No guilt, no 'we miss you'."
+  },
+  "nudgeR3": "Still here, still simple. One picture whenever it suits you.",
+  "@nudgeR3": {
+    "description": "Reminder notification text and Home line. Shown after the app has not been opened for two weeks. No guilt, no 'we miss you'."
+  },
+  "nudgeL1": "This is the last note for now. Open the app any time and they start again.",
+  "@nudgeL1": {
+    "description": "Reminder notification text and Home line. The final note before reminders stop by themselves."
+  },
+  "nudgeL2": "The notes stop here so they never pile up. The pictures stay.",
+  "@nudgeL2": {
+    "description": "Reminder notification text and Home line. The final note before reminders stop by themselves."
   }
 }

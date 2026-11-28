@@ -16,12 +16,6 @@ import 'package:golden_moments/features/gentle_activities/presentation/picture_v
 import 'package:golden_moments/l10n/l10n.dart';
 import 'package:golden_moments/shared/utils/experiments.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:path_provider/path_provider.dart';
-
-Future<Directory> _supportDirectory() async {
-  final root = await getApplicationSupportDirectory();
-  return Directory('${root.path}/family_photos_v1');
-}
 
 /// What went wrong, kept as a reason rather than as text so the message
 /// follows the reader's language.
@@ -52,7 +46,7 @@ class PhotoCollectionPage extends StatefulWidget {
   /// The directory and importer can be replaced so the whole journey (choose,
   /// personalize, play, delete) runs in tests without a real photo picker.
   const new({
-    this.directoryProvider = _supportDirectory,
+    this.directoryProvider = appFamilyPhotoDirectory,
     this.importer,
     super.key,
   });

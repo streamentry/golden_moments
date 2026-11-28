@@ -3,6 +3,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/gentle_home_page.dart';
 import 'package:golden_moments/features/gentle_activities/presentation/photo_together_page.dart';
+import 'package:golden_moments/features/reminders/data/nudges.dart';
 import 'package:golden_moments/features/todays_activity/data/todays_activity.dart';
 import 'package:golden_moments/features/todays_activity/presentation/todays_activity_card.dart';
 import 'package:golden_moments/features/wellbeing/presentation/daily_moment_page.dart';
@@ -143,5 +144,32 @@ void main() {
       );
       expect(size.height, greaterThanOrEqualTo(gmTargetMin));
     });
+  });
+
+  testWidgets('shows a calm line for the day under the activity', (
+    tester,
+  ) async {
+    SharedPreferences.setMockInitialValues({'nudge_seed': 11});
+    final day = DateTime(2026, 11, 9, 15);
+    await tester.pumpWidget(
+      _app(
+        Scaffold(
+          body: TodaysActivityCard(clock: () => day, onBegin: (_) {}),
+        ),
+      ),
+    );
+    await tester.pumpAndSettle();
+    final line = find.byKey(const ValueKey('todaysActivityNudge'));
+    expect(line, findsOneWidget);
+    final text = tester.widget<Text>(line).data!;
+    expect(
+      text,
+      homeNudge(
+        day,
+        lookupAppLocalizations(const Locale('en')),
+        const NudgeInputs(seed: 11),
+      ),
+    );
+    expect(text, isNot(contains('!')));
   });
 }

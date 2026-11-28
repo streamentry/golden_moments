@@ -4,6 +4,21 @@ import 'dart:typed_data';
 
 import 'package:crypto/crypto.dart';
 import 'package:golden_moments/features/gentle_activities/data/owned_files.dart';
+import 'package:path_provider/path_provider.dart';
+
+/// Where the app keeps its own copies of chosen family photos.
+Future<Directory> appFamilyPhotoDirectory() async {
+  final root = await getApplicationSupportDirectory();
+  return Directory('${root.path}/family_photos_v1');
+}
+
+/// How many family photos the app holds. Reads only the app's own list, never
+/// the photos themselves, and creates nothing. Zero when there is no list.
+Future<int> countFamilyPhotos() async {
+  final directory = await appFamilyPhotoDirectory();
+  if (!directory.existsSync()) return 0;
+  return (await FamilyPhotoStore(directory).listed()).length;
+}
 
 /// Stores normalized PNG copies in an app-owned directory, never originals.
 /// File names are content hashes, not user-provided paths or person names.
