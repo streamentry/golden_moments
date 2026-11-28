@@ -1,36 +1,38 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Fa Motho yo o Tshelang ka Go Lebala a Kopa go Ya Gae"
+seoTitle: "Go Lebala: Fa a Nna a Kopa go Ya Gae"
+description: "Goreng motho yo o tshelang ka bolwetse jwa go lebala a kopa go ya gae le fa a le gae, se o ka se buang, ditirwana tse di didimatsang, le kafa o ka mo babalelang ka teng."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Fa motho yo o tshelang ka bolwetse jwa go lebala a nna a kopa go ya gae,
+  “gae” gantsi go kaya maikutlo a pabalesego kgotsa lefelo la nako e e fetileng,
+  e seng kago. O se ka wa ganetsana le ene gore o mo gae. Amogela maikutlo a
+  gagwe, mo netefaletse gore o babalesegile, mmotse ka gae, morago o fete ka
+  bonolo mo ditshwantshong, mminong, seneke, go tsamaya kgotsa tiro e e
+  motlhofo. Tlhatlhoba gore a ga a bolawa ke tlala, lenyora, tlhokego ya go ya
+  ntlwaneng ya boithusetso kgotsa botlhoko. Fa se simolola ka tshoganyetso, leletsa
+  ngaka ya gagwe.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "“Ke batla go ya gae” gantsi go kaya “Ga ke ikutlwe ke babalesegile kgotsa ke ritibetse,” e seng kopo ya aterese."
+  - "Go ganetsana kgotsa go leka go mo supetsa gore o mo gae gantsi go dira gore a tshwenyege le go feta. Araba maikutlo a gagwe."
+  - "Mo kope gore a go bolelele ka gae, morago o mo neye ditshwantsho, mmino, seneke, go tsamaya kgotsa tiro e e motlhofo."
+  - "Tlhatlhoba gore a go na le sengwe se se ka baakanyiwang: tlala, lenyora, ntlwana ya boithusetso, botlhoko, mogote o montsi kgotsa serame, modumo, letsapa."
+  - "Fa se diragala thapama nngwe le nngwe, e ka nna go sa ritibale ga maitseboa; thulaganyo e e tlhomameng le lesedi le le siameng di ka thusa."
+  - "Rulaganyetsa pabalesego fa a leka go tswa, mme leletsa ngaka ya gagwe ka ga phetogo nngwe le nngwe e e simololang ka tshoganyetso."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Goreng mme wa me yo o tshelang ka bolwetse jwa go lebala a nna a kopa go ya gae le fa a le gae?"
+    a: "Bolwetse jwa go lebala bo ka dira gore dikamore tse di tlwaelegileng di ikutlwe di sa tlwaelega, mme ka dinako tse dingwe batho ba ikutlwa ba le mo nakong e e fetileng ya botshelo jwa bone. “Gae” go ka kaya ntlo ya bongoaneng kgotsa maikutlo a go ikutlwa o babalesegile e bile o phuthologile. Go araba maikutlo ao gantsi go sebetsa botoka go na le go mo supetsa gore o kae."
+  - q: "Ke tshwanetse go reng fa a kopa go ya gae?"
+    a: "Leka go re “O babalesegile fano, mme ke tla nna le wena,” morago o re “Mpolelele ka gae ga gago.” Reetsa, abelana ka setshwantsho kgotsa pina, mme o mo neye seno kgotsa loeto lo lokhutshwane lwa go tsamaya. Tila go re “O mo gae” jaaka tokiso, ka gonne go ka dira gore a ikutlwe a bolelelwa gore o phoso."
+  - q: "A go siame go re re tla ya gae moragonyana?"
+    a: "Malapa le mekgatlho ya bolwetse jwa go lebala ga di dumalane ka botlalo ka seno. Ba le bantsi ba simolola ka kgomotso e e boammaaruri le go fetola tlhokomelo ka bonolo, mme ba boloke maaka a mannye a a bonolo fela mo dinakong tse boammaaruri bo ka bakang kutlobotlhoko fela e motho a ka se kgoneng go e feta. Sengwe le sengwe se o se tlhophang, nna pelonomi e bile o tlhomame, mme o se ka wa sotla tsela e a bonang dilo ka yone."
+  - q: "Go tweng fa a leka go tswa mo ntlong?"
+    a: "Nna o ritibetse mme o tsamaye le ene go na le go mo thibela; go tsamaya go gokhutshwane gantsi go didimatsa keletso eo. Dira dikgato tsa pabalesego go sa le gale, jaaka sebaga sa boitshupo, ditshime tsa mojako le setshwantsho sa bosheng. Fa motho a nyamela, tlhatlhoba mafelo a a gaufi a a babalesegileng fa o ntse o ikgolaganya le mapodisi a selegae kgotsa ditirelo tsa maemo a tshoganyetso ka bonako. O se ka wa leta metsotso e e rileng pele o bega."
+  - q: "Ke tshwanetse go leletsa ngaka leng?"
+    a: "Leletsa ngaka ya gagwe ka bonako fa go kopa kgotsa tlhakatlhakano e simolola ka tshoganyetso kgotsa e nna maswe thata mo diureng kgotsa mo malatsing, segolobogolo fa go na le letshoroma, molemo o mosha kgotsa matshwao a tshwaetso ya mosese wa moroto. Tlhakatlhakano e e simololang ka tshoganyetso e ka nna delirium, e e tlhokang tlhokomelo ya ka bonako. Leletsa ditirelo tsa maemo a tshoganyetso tsa mo lefelong la lona fa mongwe a le mo kotsing."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +52,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +72,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+“Ke batla go ya gae.” Mo malapeng a le mantsi seno ke sengwe sa dilo tse di botlhoko go di utlwa, segolobogolo fa motho yo o mo tlhokomelang a dutse mo kamoreng ya gagwe ya boitapoloso. Go tlwaelegile, go ka diragala mo kgatong nngwe le nngwe ya bolwetse jwa go lebala, mme go na le ditsela tse di ritibetseng le tse di mosola tsa go araba. Tsebe eno e tlhalosa gore mafoko ao gantsi a kaya eng, se o ka se buang, ditirwana tse di ka thusang mo nakong eo, le kafa o ka nnang o babalesegile ka teng.
 
-## Why does someone with dementia keep asking to go home?
+## Goreng motho yo o tshelang ka bolwetse jwa go lebala a nna a kopa go ya gae?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Gantsi, “gae” ke maikutlo go feta lefelo. Alzheimer's Society e e tlhalosa e le maikutlo a boiketlo le pabalesego, kgotsa gae ya nako e e fetileng, e seng ntlo ka boyone. Bolwetse jwa go lebala bo ka dira gore dikamore tse di tlwaelegileng di lebege di sa tlwaelega, mme motho a ka ikutlwa a le mo nakong e e fetileng ya botshelo, fa gae e ne e le ntlo ya bongoaneng kgotsa lefelo le a godisitseng bana ba gagwe mo go lone.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Mafoko ao a ka nna gape sesupo sa gore go na le sengwe se sengwe se se phoso gone jaanong: o bolawa ke tlala, lenyora, o tlhoka go ya ntlwaneng ya boithusetso, o utlwa botlhoko, o mogote thata kgotsa o a hatsela, o lapile, o jewa ke bodutu, o tshogile, kgotsa o imelwa ke modumo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) e umaka botlhoko, modumo, go jewa ke bodutu, diphetogo mo thulaganyong le melemo mo gare ga dilo tse di ka bakang go sa ritibale.
 
-## What should I say when they ask to go home?
+## Ke tshwanetse go reng fa a kopa go ya gae?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Araba maikutlo, e seng mafoko. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e gakolola gore o se ka wa leka go kg convincing motho gore o phoso: maikutlo a gagwe ke a boammaaruri, ka jalo araba ka kgomotso le netefatso pele, morago o mo ise ka bonolo kwa go sengwe se sele.
 
-Phrases that often help:
+Dipolelo tse gantsi di thusang:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Bua ka maikutlo.** “Go utlwala e kete o tlhologelelwa gae.”
+- **Mo netefaletse.** “O babalesegile fano, mme ke tla nna le wena.” [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) e akantsha mafoko a a motlhofo a a reng “O babalesegile fano.”
+- **Mo laletse go gakologelwa.** “Mpolelele ka gae ga gago. Kichine ya lona e ne e ntse jang?” Go botsa ka nako e e fetileng thata gantsi go phuthologile go feta dipotso ka ga gompieno.
+- **Neela sengwe se lo ka se dirang mmogo.** “A re nweng tee pele,” kgotsa “A o ka nthusa ka ditoulo tse?”
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Lentswe le le bonolo le go mo tshwara ka seatla mo letsogong, fa a rata go tshwarwa, di ka bua go feta mafoko.
 
-## What should I avoid?
+## Ke tshwanetse go tila eng?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Go ganetsana kgotsa go tlhalosa.** “O nna fano jaanong” kgotsa “Eno e ntse e le gae ga gago ka dingwaga di le masome a mane” go mo kopa go amogela sengwe se bolwetse jwa go lebala bo se dirang gore go nne thata go se amogela, mme go ka ikutlwa jaaka go bolelelwa gore o phoso.
+- **Go mo tlhotlhomisa ka dipotso.** “A ga o gakologelwe?” kgotsa “Aterese ke eng?” go oketsa kgatelelo.
+- **Go thiba mojako ka bogale.** Fa a leba kwa ntle, nna o ritibetse mme o tsamaye le ene. Go tsamaya go gokhutshwane mmogo gantsi go didimatsa keletso eo.
+- **Go itlhaganelela.** Mo neye nako ya go bua ka gae pele o fetola setlhogo.
 
-## Activities that can help in the moment
+## Ditirwana tse di ka thusang mo nakong eo
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Fa o sena go amogela maikutlo a gagwe, tirwana e e ritibetseng e e tlwaelegileng e ka fetola tlhokomelo kwa go sengwe se sele ntle le go e nyatsa.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Lebelelang ditshwantsho tsa gae le ba lelapa.** Phetlha ditsebe mme o dire ditshwaelo (“Bona tshingwana ele ya dijalo”) go na le go botsa dipotso. Mo mogaleng kgotsa thebolete, [Photo pairs](/games/photo-pairs/) e fetola ditshwantsho tsa lelapa la gago motshameko o o bonolo wa go nyalanya, mme ditshwantsho di nna mo sedirisiweng sa gago.
+2. **Buang ka gae.** [Conversation cards](/games/conversation-cards/) e neela dintlha tse di bulegileng tsa puisano ka dintlo, dikichine, baagisanyi le malatsi a boikhutso, go se na dikarabo tse di siameng kgotsa tse di phoso.
+3. **Tshameka mmino o a o ratang.** National Institute on Aging e umaka mmino o o didimatsang mo gare ga ditsela tsa go ritibatsa go sa ritibale. Bona [ditirwana tsa mmino](/activities/music/) tsa rona.
+4. **Nwang sengwe kgotsa jang seneke.** Tala le lenyora di ka lebega jaaka go sa ritibale. Kopi ya tee kgotsa seneke se a se ratang gape ke mokgwa o monnye wa go ikutlwa o le gae.
+5. **Tsamayang kgotsa nnang kwa ntle.** Go tsamaya le lesedi la motshegare di a thusa, segolobogolo go sa le gale mo letsatsing.
+6. **Mo neye tiro e e tlwaelegileng.** Go mena diaparo tse di tlhatswitsweng, go rulaganya dilwana tsa go ja kgotsa go nosetsa dijalo go ka busetsa maikutlo a go tlhokomela ntlo.
+7. **Didimatsa sengwe le sengwe.** Tima thelebishene, fokotsa modumo le lesedi le le phatsimang, mme leka go kgaotsa ga motsotso ka [go hema ka tidimalo](/games/calm-breathing/) mmogo.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Fa kgopolo nngwe e sa bereke, leka e nngwe moragonyana. Go nna mmogo ka tidimalo le gone ke sephetho se se siameng.
 
-## Check for a cause you can fix
+## Tlhatlhoba lebaka le o ka le baakanyang
 
-| Check | What to try |
+| Se o ka se tlhatlhobang | Se o ka se lekang |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Tlala kgotsa lenyora | Mo neye seno le seneke se sennye |
+| O tlhoka ntlwana ya boithusetso | Mo neye sebaka sa go ya ntlwaneng ya boithusetso, ka tidimalo e bile o sa mo tshwenye |
+| Botlhoko kgotsa go sa phuthologa | Leba matshwao a jaaka go phinya sefatlhego, go tshwara karolo ya mmele kgotsa go patelwa, mme o bolelele ngaka ya gagwe |
+| Mogote o montsi kgotsa serame | Fetola seaparo kgotsa themperetšha ya kamore |
+| Modumo kgotsa batho ba bantsi | Tsamaya lo ye kwa kamareng e e didimetseng, tima thelebishene |
+| Letsapa kgotsa go imelwa thata | Ikhutse, fokotsa lesedi mo kamoreng, tshameka mmino o o bonolo |
+| Thapama morago ga nako | Bona karolo e e ka fa tlase ka ga go sa ritibale ga maitseboa |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society e akantsha gore o boloke pego e khutshwane ya gore go kopa go diragala leng, jaaka pele ga dijo, morago ga baeng, kgotsa ka phirimana. Dipaterone di dira gore go nne motlhofo go rulaganya go sa le gale.
 
-## Is it okay to tell a white lie?
+## A go siame go bua maaka a mannye a a molemo?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Seno ke kgang ya boammaaruri, mme malapa a a pelonomi a ka swetsa ka ditsela tse di farologaneng. Alzheimer's Society e re ga go na karabo e le nngwe e e siameng: dilo tse e seng boammaaruri di ka dira gore batho bangwe ba belaele le go feta, ka jalo swetsa se se siametseng motho yoo mme o nne o tlhomame. Kwa Penn Memory Center, pono ya modiredimmogo wa mokaedi ke gore boammaaruri ke jone bo tlwaelegileng, mme maaka a mannye a a bonolo a amogelesega fela fa motho a sa kgone go amogela boammaaruri jo bo rileng, le gore ga o a tshwanela go sotla tsela e a bonang dilo ka yone.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Batlhokomedi ba le bantsi ba fitlhela gore tsela ya bogare e a sebetsa: kgomotso e e boammaaruri le go fetola tlhokomelo ka bonolo pele (“Re tla nna fano bosigong jono, mme ke fano le wena”), ntle le go ganetsana ka gore gae ke kae.
 
-## What if it happens every afternoon or evening?
+## Go tweng fa se diragala thapama nngwe le nngwe kgotsa maitseboa?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Go sa ritibale mo go simololang kgotsa go nnang maswe thapama morago ga nako gantsi go bidiwa go sa ritibale ga maitseboa. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) e akantsha thulaganyo e e tlhomameng, lesedi la letsatsi le tirwana letsatsi le letsatsi, go fokotsa boroko jwa motshegare morago ga nako, le go sa nwe kafeine kgotsa bojalwa thapama morago ga nako. Go tshuba mabone pele ga phirimana le gone go ka thusa. Kaedi ya rona ya [ditirwana tse di ritibetseng tsa thapama morago ga nako](/caregiving/late-day-restlessness/) e na le tse dingwe.
 
-## Keeping them safe if they try to leave
+## Go mo babalela fa a leka go tswa
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Go kopa go ya gae go ka felela ka go tsamaya o sa laolwa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) e fopholetsa gore batho ba le barataro mo go ba le lesome ba ba tshelang ka bolwetse jwa go lebala ba tla tsamaya ba sa laolwa bonnye gangwe.
 
-**Prepare ahead:**
+**Ipaakanyetse go sa le gale:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Sebaga sa boitshupo kgotsa sa bongaka se se nang le leina la gagwe le nomoro ya gago ya mogala, le dileibole mo diaparo tsa gagwe. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) e umaka lenaneo la MedicAlert le Alzheimer's Association Safe and Found, le le ka tlhokang tuelo.
+- Tshime ya mojako kgotsa alamo, le dikonopo tse di beilweng kwa godimo kgotsa kwa tlase. O se ka wa tswalela motho a le nosi mo teng.
+- Setshwantsho sa bosheng se se bonalang sentle, le lenaane la mafelo a a ka nnang a ya kwa go one, jaaka gae ya pele kgotsa lefelo la tiro la pele.
+- Bolelela baagisanyi ba o ba tshepang, mme o ba ne nomoro ya gago.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Fa a nyamela:** tlhatlhoba mafelo a a gaufi a a babalesegileng fa o ntse o ikgolaganya le mapodisi a selegae kgotsa ditirelo tsa maemo a tshoganyetso ka bonako. O se ka wa leta metsotso e e rileng pele o bega. [Setlhogo sa makasine sa U.S. Department of Justice sa 2021 ka ga dipatlisiso tsa batho ba ba timetseng](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) se re ditheo tsa molao ga di a tshwanela go batla nako e e rileng ya go leta; gape se umaka matshwao a a tshwanang le a bolwetse jwa go lebala jaaka kotsi e e kwa godimo. Ditsamaiso tsa selegae tsa go bega di ka farologana. Bolelela ba ba arabelang gore motho yoo o tshela ka bolwetse jwa go lebala, abelana ka lefelo la bofelo le a itsiweng a le mo go lone le setshwantsho sa bosheng, mme o latele ditaelo tsa bone. Fa go na le mothusi yo mongwe, mo kope gore a nne gaufi le mogala. O se ka wa batla o le nosi mo mafelong a a sa babalesegang.
 
-## When should I call a doctor?
+## Ke tshwanetse go leletsa ngaka leng?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Leletsa ngaka ya gagwe ka bonako fa go kopa kgotsa tlhakatlhakano e simolola ka tshoganyetso, kgotsa e nna maswe thata mo diureng kgotsa mo malatsing. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) e re maitsholo a a simololang ka tshoganyetso kgotsa a a fetogang ka bonako, segolobogolo morago ga tshwaetso kgotsa phetogo ya molemo, a tshwanetse go tlhatlhobiwa ka bonako. Tlhakatlhakano e e simololang ka tshoganyetso e ka nna delirium, e [NHS](https://www.nhs.uk/symptoms/confusion/) e reng e tlhoka thuso ya ka bonako; ditshwaetso tsa mosese wa moroto ke lebaka le le tlwaelegileng mo bathong ba bagolwane.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Gape go a thusa go umaka paterone e e tlhomameng mo kopanong e e latelang ya ngaka, ka gonne botlhoko, maikutlo a a kwa tlase, mathata a boroko kgotsa ditlamorago tsa melemo di ka nna le seabe.
