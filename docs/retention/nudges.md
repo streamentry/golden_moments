@@ -1,6 +1,9 @@
 # Nudges: the words a reminder says
 
-Status: **proposal, written 2026-11-28. Nothing here is built.** The 50 English
+Status: **direction approved by the maintainer on 2026-11-28 ("current
+retention is too low"); nothing here is built yet.** The plan, its detail
+table and DESIGN.md › Reminders were changed the same day to allow it. Streaks
+stay banned, and nothing is sent unless a helper turned the reminder on. The 50 English
 lines are the source. The other ten languages were written by a model in one
 pass, with the culture swapped where a literal line would sound odd. No native
 speaker has read them. Treat them as unreviewed, the same as the app's other
@@ -179,11 +182,9 @@ Connect rise in the weeks after release.
 
 ## Before this ships
 
-1. Maintainer approves the idea. [The plan](../plan/README.md) and
-   [the detail](../plan/detail.md) both say "never streaks or nudges". These
-   lines live inside the opt-in reminder and on Home, so they may fit the
-   intent, but the wording there and in DESIGN.md › Reminders has to be
-   changed on purpose, not by this file.
+1. ~~Maintainer approves the idea.~~ Done 2026-11-28. [The plan](../plan/README.md),
+   [the detail](../plan/detail.md) and DESIGN.md › Reminders now allow varied
+   wording inside the opt-in reminder and on Home. Streaks stay banned.
 2. Add the lines to `lib/l10n/arb/app_en.arb` with translator notes, then to
    every app language through the normal pipeline, marked unreviewed.
 3. Replace the two-option pick in `reminder_plan.dart` with the rules above,

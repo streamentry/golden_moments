@@ -48,7 +48,7 @@ the home screen without instruction; it does not mean verified.
 | Family member at home (primary buyer) | Fill 10-20 minutes together calmly | Handled: matching, Look together | Keep as the first screen; add two more gentle modes (A3) |
 | Same | Use our own photos without a server | Handled: bounded local copies | Captions and read-aloud in the participant's language |
 | Same | Set it up once, hand the device over | Partial (GM-037) | Participant-language and comfort settings prepared by the helper |
-| Adult using it independently (mild impairment) | Start alone, stop without judgment | Handled | Keep; never add streaks or nudges |
+| Adult using it independently (mild impairment) | Start alone, stop without judgment | Handled | Keep; never add streaks. Reminders only when a helper turns them on, worded by [the nudge rules](../retention/nudges.md) |
 | Bilingual family: helper speaks English, parent's first language is Spanish, Vietnamese, Chinese, Tagalog... | Play in the parent's language while the helper reads English | Not handled | **Participant language separate from device language** (GM-041 proposal) |
 | Paid carer or visiting grandchild who does not know the person's history | Know what to talk about | Partial (captions, prompts) | Local "about these pictures" notes written by the family (GM-019 extension); no diagnosis fields |
 | Remote relative | Send photos for the activity | Deferred (sync) | No backend: a file-based pack sent by AirDrop or messaging (GM-022) stays R3 and needs its own threat model |

@@ -560,7 +560,7 @@ The 2026 mobile-game playbook, filtered for older adults and shared play:
 - **Motion:** honor Reduce Motion (`MediaQuery.disableAnimations`, `prefers-reduced-motion`) by swapping flips and transitions for instant changes. Nothing flashes more than 3 times per second.
 - **Sound:** always optional and never the only carrier of information. There are no failure sounds, and the tap sound is soft.
 - **Haptics:** at most a light selection tick on a match, and none on a mismatch.
-- **Ethical retention:** no streaks, daily-reward calendars, energy, lives, loot, countdowns, leaderboards, ads, push-notification nagging or purchase pressure. Return visits must come from a good experience. The one cue is a reminder a helper chooses to set (see *Reminders* under Voice & Content).
+- **Ethical retention:** no streaks, daily-reward calendars, energy, lives, loot, countdowns, leaderboards, ads, push-notification nagging or purchase pressure. Return visits must come from a good experience. The cues are a reminder a helper chooses to set and the hint under Today's activity on Home, both worded by the rules in `docs/retention/nudges.md` (see *Reminders* under Voice & Content).
 - **Sharing:** word of mouth from one caregiver to another is the best way families find the app, so make sharing easy and ask rarely. See *Sharing* under Voice & Content.
 - **Next deliberate tap, everywhere:** both the gentle board and the picture-pack game leave a mismatch face up, and a hint's pair visible, until the player taps again. That tap turns them over and starts the next turn. No game state changes on a timer.
 - **One paced exception:** the website's calm breathing pause (`site/src/games/CalmBreathing.tsx`) changes its circle on a timer, because pacing is the activity. It starts only on a tap, stops on a tap or by itself after six breaths, announces only starting and stopping, and honors Reduce Motion. Its circle is the one place the full gold ramp appears at once (`accent-pale` → `primary-container` → `accent-deep`, with a 3px `primary` edge). No game uses this pattern.
@@ -600,10 +600,10 @@ Ratings let other families judge the app before installing it. Ask the platform,
 
 ### Reminders
 
-An optional cue a helper sets, not a hook (GM-038, approved 2026-10-30).
+An optional cue a helper sets, not a hook (GM-038, approved 2026-10-30). Varied wording approved 2026-11-28; the lines and the rules for picking one are in `docs/retention/nudges.md`.
 
 - **Off until chosen:** "Gentle reminder" on Home opens a page with days, a time and one "Turn on reminder" button. The notification permission question appears only after that tap, never at launch.
-- **Wording:** "Time for pictures together?" / "Golden Moments is here whenever it suits you." Never count days, mention a missed day, use exclamation marks or urgency.
+- **Wording:** each note names the day's activity and, where it can, the day's pictures; the body comes from a fixed set of lines picked on the device, never repeated within 21 days. A question in a note is one for two people to ask each other about what they like, never what they recall. Never count days, mention a missed day, use exclamation marks or urgency, or say what the activity does for anyone. Every line must read kindly to both the helper and the person on a lock screen anyone can see.
 - **Control:** "Turn off reminder" is always on the same page. Changing days or time reschedules at once. At least one day stays chosen.
 - **Platform:** iOS only until Android is built and tested; elsewhere the entry is hidden, not disabled.
 
