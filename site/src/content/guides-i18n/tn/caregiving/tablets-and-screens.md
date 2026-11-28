@@ -1,183 +1,185 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: Go Baakanya Thebolete kgotsa Founu ya Motho yo o Nang le Dementia
+seoTitle: Baakanya Thebolete kgotsa Founu ya Motho yo o Nang le Dementia
+description: 'Dikgato tsa go baakanya thebolete kgotsa founu ya motho yo o nang le dementia: notlela tirwana e le nngwe, oketsa mongolo, fokotsa dikitsiso, sireletsa sephiri.'
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
-summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+summary: Dira gore thebolete kgotsa founu e nne motlhofo pele o e neela motho. E notlele mo tirwaneng e le nngwe ka Guided Access mo iPad le iPhone kgotsa ka go pine app mo Android, kgotsa dirisa Assistive Access ya Apple go bona popego e e motlhofo. Oketsa bogolo jwa mongolo, didimatsa dikitsiso, tlogela di-app di se kae fela mo sekirining se le sengwe sa gae, baya modumo, dirisa setlhomo, mme lekanyetsa ditetla tsa di-app. E diriseng mmogo, go bapa le ditirwana tse di sa diriseng sekirini.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+- Guided Access (iPhone, iPad) le go kgomaretsa tiriso (Android) di dira gore sekirini se nne mo tirisong e le nngwe go fitlha o e notlolla.
+- Assistive Access ya Apple e neelana ka thulaganyo e e nolofaditsweng e e diretsweng batho ba ba nang le dikgwetlho tsa tlhaloganyo.
+- Dira mafoko a magolo mme o time dikitsiso le di-pop-up gore go se nne le sepe se se tsenang fa gare kgotsa se se ferekanyang.
+- Tlogela ditiriso di se kae fela tse di tlwaelegileng mo sekirining se le sengwe sa gae, mme o sete modumo pele o simolola.
+- Setlhomo le lefelo la go tjhaja le le sa suteng le dira gore sedirisiwa se nne motlhofo go se dirisa le go se bona.
+- 'Sekaseka ditetla tsa ditiriso le go abelana ka tshedimosetso: HIPAA gantsi ga e sireletse se se bolokilweng mo sedirisweng sa motho.'
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+- q: Nka dira jang gore motho yo o nang le dementia a se ka a tswa mo app mo iPad?
+  a: Bulela Guided Access mo Settings > Accessibility > Guided Access mme o tlhome khoutu ya go tsena. Bula app, tobetsa konopo ya kwa godimo gararo ka bonako (kgotsa konopo ya Home mo di-iPad tsa bogologolo), mme o tobetsa Start. iPad e tla nna mo app eo go fitlha mongwe a tsenya khoutu ya go tsena.
+- q: Nka notlela jang thebolete ya Android mo tirisong e le nngwe fela?
+  a: Bulela “App pinning” mo tirisong ya “Settings”, gantsi e fitlhelwa mo go “Security” (ka dinako tse dingwe “Security & location”) > “Advanced” > “App pinning”. Morago ga moo, bula tiriso eo, bula “Overview”, tobetsa letshwao la tiriso kwa godimo, mme o tobetsa “Pin”. O tla tlhoka PIN, paterone kgotsa khunololamoraba ya gago gore o kgone go e golola.
+- q: A go babalesegile go dirisa Guided Access mo founong ya motho yo o mo tlhokomelang?
+  a: Nna kelotlhoko. Apple e re Crash Detection le Emergency Services ga diyo fa Guided Access e bulegile. Fa motho yo o mo tlhokomelang a ikaega ka founo ya gagwe go letsa fa go na le tshoganyetso, dirisa Guided Access fela fa o na le ene, kgotsa akanya go dirisa Assistive Access.
+- q: Nako e e kana kang mo sekirining e siame bakeng sa motho yo o tshelang le dementia?
+  a: Ga go na palo e e tlhomilweng. Dinako tse dikhutshwane tsa go dirisa mmogo, tse di tswakantsweng le go tsamaya, mmino, ditiro tsa legae le puisano, di dira letsatsi le le tletseng go gaisa go nna lobaka lo loleele o le nosi mo sekirining. Fa sedirisiwa se baka kgopisego kgotsa se tsaya sebaka sa ditirwana tse dingwe, se diriseng go le gonnye.
 sources:
-  - title: "Use Guided Access on iPhone or iPad"
-    publisher: "Apple Support"
-    url: "https://support.apple.com/en-us/111795"
-  - title: "Set up Assistive Access on iPhone"
-    publisher: "Apple Support"
-    url: "https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios"
-  - title: "Set up Assistive Access on iPad"
-    publisher: "Apple Support"
-    url: "https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados"
-  - title: "Change the font size on your iPhone, iPad, and iPod touch"
-    publisher: "Apple Support"
-    url: "https://support.apple.com/en-us/102453"
-  - title: "Change notification settings on iPhone"
-    publisher: "Apple Support"
-    url: "https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios"
-  - title: "How to turn Do Not Disturb off or on for iPhone or iPad"
-    publisher: "Apple Support"
-    url: "https://support.apple.com/en-us/105112"
-  - title: "Pin & unpin screens"
-    publisher: "Google Android Help"
-    url: "https://support.google.com/android/answer/9455138?hl=en"
-  - title: "Change text & display settings"
-    publisher: "Google Android Accessibility Help"
-    url: "https://support.google.com/accessibility/android/answer/11183305?hl=en"
-  - title: "Limit interruptions with Modes & Do Not Disturb on Android"
-    publisher: "Google Android Help"
-    url: "https://support.google.com/android/answer/9069335?hl=en"
-  - title: "Protecting the Privacy and Security of Your Health Information When Using Your Personal Cell Phone or Tablet"
-    publisher: "U.S. Department of Health and Human Services"
-    url: "https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html"
-relatedGames: [picture-pairs, find-the-same, photo-pairs, calm-breathing, conversation-cards]
-related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, activities/phone-and-video-calls, activities/printable]
+- title: Use Guided Access on iPhone or iPad
+  publisher: Apple Support
+  url: https://support.apple.com/en-us/111795
+- title: Set up Assistive Access on iPhone
+  publisher: Apple Support
+  url: https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios
+- title: Set up Assistive Access on iPad
+  publisher: Apple Support
+  url: https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados
+- title: Change the font size on your iPhone, iPad, and iPod touch
+  publisher: Apple Support
+  url: https://support.apple.com/en-us/102453
+- title: Change notification settings on iPhone
+  publisher: Apple Support
+  url: https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios
+- title: How to turn Do Not Disturb off or on for iPhone or iPad
+  publisher: Apple Support
+  url: https://support.apple.com/en-us/105112
+- title: Pin & unpin screens
+  publisher: Google Android Help
+  url: https://support.google.com/android/answer/9455138?hl=en
+- title: Change text & display settings
+  publisher: Google Android Accessibility Help
+  url: https://support.google.com/accessibility/android/answer/11183305?hl=en
+- title: Limit interruptions with Modes & Do Not Disturb on Android
+  publisher: Google Android Help
+  url: https://support.google.com/android/answer/9069335?hl=en
+- title: Protecting the Privacy and Security of Your Health Information When Using Your Personal Cell Phone or Tablet
+  publisher: U.S. Department of Health and Human Services
+  url: https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html
+relatedGames:
+- picture-pairs
+- find-the-same
+- photo-pairs
+- calm-breathing
+- conversation-cards
+related:
+- caregiving/how-to-play-together
+- caregiving/choosing-apps-and-games
+- activities/phone-and-video-calls
+- activities/printable
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Letlapa le ka nna tsela e monate ya go abelana ditshwantsho, mmino le ditirwana tse di motlhofo. Gape le ka tlhakanya tlhogo: go tobetsa ka phoso go ka bula app e nngwe, kitsiso e ka tlhagelela, mokwalo o ka nna monnye thata, kgotsa sekirini sa fifala lo sa ntse lo le mo tirwaneng. Go ipaakanya go go nnye ka fa letlhakoreng la gago go ka rarabolola bontsi jwa mathata ao.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Dikgato tse di dirisa diseting tse di setseng di le mo iPhone, iPad le Android. Maina a dimenyu a ka fetoga go ya ka mofuta wa software le motlhami wa sedirisiwa, ka jalo fa sengwe se lebega se farologane, latela tsebe ya Apple kgotsa Google e e golaganeng le sedirisiwa sa gago. Dira dipaakanyo tseno ka bowena, pele ga lo nna fa fatshe mmogo.
 
-## Should someone with dementia use a tablet or phone?
+## A motho yo o tshelang ka dementia a ka dirisa thebolete kgotsa founu?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Go ikaegile ka motho. Batho ba le bantsi ba itumelela go dirisa thebolete fa go na le mongwe fa thoko ga bone, le fa ba ka se kgone go e dirisa ba le bosi. Simololang ka go e dirisa mmogo, lo butse app e le nngwe fela, ka metsotso e sekae. Fa e tlisa boitumelo le motlotlo, tswelelang pele. Fa e tlisa tlhakatlhakano kgotsa kgopisego, alebamo ya dinepe, ditsebe tse di gatisitsweng kgotsa mmino di ka nna tsa ba siamela botoka. [Ditirwana tsa rona tse di ka gatisiwang](/activities/printable/) ke nngwe ya ditsela tse dingwe.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Gantsi thebolete e motlhofo go e dirisa go feta founu: sekirini le ditshwantsho di kgolwane, mme gape ga se tsela ya motho ya tshoganyetso ya go kopa thuso.
 
-## How do I lock a tablet or phone to one app?
+## Nka notlela jang thebolete kgotsa founo mo app e le nngwe?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Dirisa Guided Access mo iPhone le iPad, kgotsa app pinning mo Android. Tsotlhe di dira gore sekirini se nne mo app e le nngwe go fitlha o tsenya khoutu, gore go tobetsa kgotsa go swaepa ka phoso go se ka ga bula sengwe se sele.
 
-### iPad and iPhone: Guided Access
+### iPad le iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Go tswa mo [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Bula **Settings**, tobetsa **Accessibility**, morago o tobetsa **Guided Access** o bo o e bulela.
+2. Fa tlase ga **Passcode Settings**, tlhoma nomoro ya sephiri ya Guided Access. Gape o ka letla Face ID kgotsa Touch ID.
+3. Ga go pateletsege: fa tlase ga **Display Auto-Lock**, tlhopha gore sekirini se ikganele ka bonako jo bo kana kang ka nako ya tiriso, gore se se ka sa fifala fa tirwana e ntse e tsweletse.
+4. Bula app e o batlang go e dirisa.
+5. Tobetsa konopo ya fa thoko gararo ka bonako (iPhone), konopo ya kwa godimo (iPad), kgotsa konopo ya Home mo didirisweng tsa bogologolo.
+6. Ga go pateletsege: dira sediko mo dikarolong dipe tsa sekirini tse o batlang gore di se ka tsa arabela fa di kgongwa. Tobetsa **Options** (kgotsa **Session Settings**) go tima dikonopo tsa modumo kgotsa go thibela sekirini go retologa.
+7. Tobetsa **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Go khutlisa tiriso eno, tobetsa konopo e le nngwe gape gararo ka bonako, tsenya nomoro ya sephiri, mme o tobetsa **End**. Apple e tlhalosa gore mo diphetolelong dingwe tsa bogologolo tsa software o tobetsa gabedi ka bonako mo boemong jwa moo.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Sa botlhokwa:** Apple e re Crash Detection le Emergency Services ga diyo ka nako ya tiriso ya Guided Access. O se ka wa tlogela Guided Access e tsweletse mo mogaleng o motho a ka tlhokang go o dirisa go letsa megala ya tshoganyetso.
 
-### Android: app pinning
+### Android: go kgomaretsa app
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Go tswa mo [thusong ya Google ya Android ka ga go kgomaretsa disekirini](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Bula app ya **Diseting**.
+2. Tobetsa **Tshireletsego** (kgotsa **Tshireletsego le lefelo**), morago ga moo **Tse di tswetseng pele**, morago ga moo **Go kgomaretsa app**. Fa o sa e bone, leba ditsebe tsa thuso tsa modiri wa sedirisiwa sa gago.
+3. Bulela **Go kgomaretsa app**. O tla tlhoka PIN, paterone kgotsa khunololamoraba ya gago go e kgomolola.
+4. Bula app e o e batlang. Swaepa go ya kwa bogareng jwa sekirini o bo o tshwara go bula Kakaretso (kgotsa tobetsa Kakaretso fa o dirisa taolo ya dikonopo tse 3).
+5. Kwa godimo ga ponelopele ya app, tobetsa letshwao la app, morago ga moo tobetsa **Kgomaretsa**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Go e kgomolola ka taolo ya diatla, swaepa godimo o bo o tshwara. Ka taolo ya dikonopo tse 3, tobetsa o bo o tshwara Morago le Kakaretso. Ka taolo ya dikonopo tse 2, tobetsa o bo o tshwara Morago le Gae. Morago ga moo, tsenya PIN, paterone kgotsa khunololamoraba ya gago.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## A go na le mokgwa o o motlhofo wa iPhone kgotsa iPad yotlhe?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ee. Assistive Access ya Apple e emisetsa sekirini sa gae se se tlwaelegileng ka se se motlhofo. [Apple e e tlhalosa](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) e le karolo e e diretsweng go dira gore iPhone e nne motlhofo gore batho ba ba nang le dikgwetlho tsa tlhaloganyo ba e dirise ka boikemelo, ka dilo tse dikgolo mo sekirining le dikarolo tse di tsepamisitsweng. Apple e na le [karolo e e tshwanang mo iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Ke mang yo o e rulaganyang.** Apple e akantsha gore motho yo o tshepagalang yo o go thusang, jaaka leloko la lelapa kgotsa motho yo o tlhokomelang motho yoo, a thuse go tlhopha diapp le dikarolo.
+- **Kwa o ka simololang teng.** Ya kwa **Settings > Accessibility > Assistive Access**, tobetsa **Set Up Assistive Access**, morago o tobetsa **Continue**.
+- **Diapp.** O tlhopha diapp tse di tlhagelelang. Diapp dingwe tsa Apple di na le mefuta e e nolofaditsweng, mme bontsi jwa diapp tse dingwe di ka tsenngwa ka popego ya tsone e e tlwaelegileng.
+- **Thulaganyo.** Tlhopha **Rows** (lenaneo le le motlhofo go le bala) kgotsa **Grid** (dilo tse dikgolo tse di gatelelang ditshwantsho le diaekhone).
+- **Khoutu ya sephiri.** O tlhoma khoutu ya sephiri e e farologaneng ya Assistive Access go tsena, go tswa kgotsa go fetola diseting. Apple e akantsha go tlhoma recovery Apple Account ka nako ya go rulaganya, ka gonne fa e seyo, khoutu ya sephiri e e lebetsegileng e raya gore sedirisiwa se tshwanetse go setiwa sesha.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access e ka nna ya siamela motho yo o dirisang sedirisiwa sa gagwe letsatsi le letsatsi. Guided Access kgotsa go notlela app go potlaka fa lo dira tirwana mmogo ka nakwana.
 
-## How do I make text and pictures bigger?
+## Nka dira jang gore mokwalo le ditshwantsho di nne dikgolo?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Oketsa bogolo jwa mokwalo le jwa pontsho, mme o tlhomamise gore dikonopo di sa ntse di lekana mo sekirining.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone le iPad.** Go ya ka [ditaelo tsa bogolo jwa mokwalo tsa Apple](https://support.apple.com/en-us/102453), ya kwa **Settings > Display & Brightness > Text Size** mme o gogele selaidara. Go bona mokwalo o mogolo le go feta, ya kwa **Settings > Accessibility > Display & Text Size > Larger Text**. Apple e lemoga gore mokwalo o mogolo thata o ka dira gore dikonopo dingwe di nne thata go di tobetsa, ka jalo fetola fa go tlhokega.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Go ya ka [thuso ya dipeakanyo tsa mokwalo le pontsho tsa Google](https://support.google.com/accessibility/android/answer/11183305?hl=en), bula **Settings** mme o batle **Font size**, morago ga moo o sutise selaidara. Batla **Display size** go dira gore sengwe le sengwe mo sekirining se nne segolo. Gape o ka bula **Bold text** kafa tlase ga **Accessibility > Display size and text**. Di-app dingwe ga di latele dipeakanyo tse.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Mo ditirwaneng tse di jaaka [Picture Pairs](/games/picture-pairs/) le [Find the Same](/games/find-the-same/), gape o ka tlhopha dithaele kgotsa ditlhopho tse di kwa tlase, se se dirang gore dilo di nne motlhofo mo sekirining.
 
-## How do I stop notifications and pop-ups?
+## Nka emisa jang dikitsiso le di-pop-up?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Tima dikitsiso tsa di-app tse o sa di tlhokeng, mme o dirise Do Not Disturb ka nako ya ditirwana.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone le iPad.** Ya kwa **Settings > Notifications**, tobetsa app e e kafa tlase ga **Notification Style**, mme o time **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Go didimatsa megala, ditsiboso le dikitsiso ka nakwana, bula Control Center mme o bule **Do Not Disturb** go tswa mo konopeng ya **Focus** ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). O ka e rulaganya kwa **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Goga tlase go tswa kwa godimo ga sekirini mme o tobetsa **Do Not Disturb**, kgotsa ya kwa **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Ka fa tlase ga **Notification filters** o ka tlhopha gore ke batho bafe le di-app dife tse di ka tswelelang di tsena. Diseting di farologana go ya ka motlhami wa sedirisiwa.
 
-## How do I make a simple home screen?
+## Nka dira jang gore sekirini sa gae se nne motlhofo?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Tlogela di-app di se kae tse di tlwaelegileng mo sekirining se le sengwe, mme o tlose tse dingwe gore di se ka tsa bonala. Ga go na thulaganyo e le nngwe fela ya seno; se se botlhokwa ke go tlosa tlhakatlhakano.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Tlhopha di-app di le tharo go ya go di le thataro.** Ka sekai, dinepe, mmino, app ya go bitsa ka bidio le motshameko o le mongwe.
+- **Di beye mo sekirining sa ntlha,** mo mafelong a a tshwanang ka metlha, mme o ise tse dingwe tsotlhe mo sekirining sa bobedi kgotsa mo foldareng.
+- **Dirisa setshwantsho sa lemorago sa sekirini se se motlhofo, se mebala ya sone e farologanang sentle,** jaaka mmala o le mongwe fela kgotsa setshwantsho se le sengwe se se tlwaelegileng, gore ditshupo di bonale motlhofo.
+- **Phimola di-app tse o sa di tlhokeng.** Fa di-app di le mmalwa, go na le kgonagalo e nnye ya gore dilo di tlhakane, mme go kgobokanngwa le tshedimosetso e nnye.
+- **Akanya ka Assistive Access** mo didirisiweng tsa Apple fa o batla gore sedirisiwa se go direle seno.
 
-## What about volume and sound?
+## Go tweng ka selekanyo sa modumo le go utlwa?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Bea selekanyo sa modumo se se siameng pele o neela motho yo o mo tlhokomelang sedirisiwa. Ka Guided Access, o ka tima dikonopo tsa modumo gore modumo o se ka wa fetoga fa tirwana e tsweletse. Netefatsa gore dithuso tsa go utlwa di tsentswe e bile di a dira.
 
-## Where should the tablet live?
+## Tablet e tshwanetse go nna kae?
 
-Give it a stand and a permanent charging spot.
+E fe setulo sa go e emisa le lefelo la go e tjhaja le le sa fetogeng.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Setulo sa go e emisa kgotsa kgetsi** se se dirang gore tablet e eme ka tshiamo mo tafoleng se raya gore ga go ope yo o tshwanetseng go e tsholetsa, mme go e supa go motlhofo.
+- **Lefelo le le leng la go tjhaja** le le sa suteng, segolobogolo setulo sa go tjhaja mo tafoleng mo phaposing e o e dirisang letsatsi le letsatsi. Tablet e nna e tladitswe mme e nna ka metlha mo lefelong le le tshwanang.
+- **Fokotsa kgakgamalo.** Baya sekirini kgakala le lefensetere le le bonesang thata.
 
-## How much screen time is okay?
+## Nako ya sekirini e siametse go nna e kae?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Ga go na palo e e siameng ya metsotso. Leka go nna le dinako tse dikhutshwane tsa go dirisa sekirini mmogo, e le karolo ya letsatsi le le tletseng le le akaretsang go tsamaya, mmino, ditiro tsa mo gae, puisano le nako kwa ntle. Ka gonne maitseboa a a tletseng ditirwana a ka oketsa go sa ritibala morago ga motshegare, akanya go dira ditirwana tsa sekirini mo karolong e e kwa pele ya letsatsi. Bona [ditirwana tse di ritibatsang tsa morago ga motshegare](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Go dirisa thebolete mmogo, e seng go e tlogela e tlhokomela motho, go thusa gore nako eo e nne ya lo babedi. Kaedi ya rona ya [go tshameka metshameko mmogo](/caregiving/how-to-play-together/) e tlhalosa gore go ka dirwa jang.
 
-## How do I protect their privacy on the device?
+## Nka sireletsa jang sephiri sa motho yo o mo tlhokomelang mo sedirisweng?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Fokotsa se di-app di ka se kgobokanyang, mme o se ka wa tsaya gore molao wa sephiri sa tshedimosetso ya botsogo o a go sireletsa. Lefapha la Botsogo le Ditirelo tsa Batho la U.S. (HHS) [le tlhalosa](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) gore ka kakaretso Melawana ya HIPAA ga e sireletse tshedimosetso ya botsogo e bolokilweng mo difounung tsa motho kgotsa mo ditheboleteng, kgotsa e e fitlhelelwang ka tsone. Mo mabakeng a le mantsi, HIPAA gape ga e sireletse tshedimosetso e tsenngwang mo di-app bakeng sa tiriso ya motho, ntle le fa app e tswa kwa mofani wa tlhokomelo ya botsogo yo o sireleditsweng, leano la botsogo kgotsa mongwe wa badiri ba bone ba kgwebo.
 
-HHS suggests:
+HHS e akantsha:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- go tila di-app tse di sa tlhokegeng kgotsa tse di sa tlhophiwang ka kelotlhoko, segolobogolo tse di «mahalahala»;
+- go se nee di-app tetla ya go bona lefelo, ntle le fa di le tlhoka tota, jaaka dimmapa.
 
-Also consider:
+Gape akanya ka tse di latelang:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Dirisa khoutu ya go notlela** mo sedirisweng, mme o e kwale gongwe kwa go babalesegileng.
+- **Sekaseka ditetla** tsa dinepe, khamera, maekrofounu, maina a kgolagano le lefelo, mme o time sengwe le sengwe se app e sa se tlhokeng.
+- **Bona gore app e kgobokanya eng** pele o e tsenya. Kaedi ya rona ya [go tlhopha di-app le metshameko ya dementia](/caregiving/choosing-apps-and-games/) e na le lenaane la go sekaseka sephiri.
+- **Nna kelotlhoko ka dinepe tsa lelapa.** Abelana fela ka dinepe tse motho yo o mo tlhokomelang a ka ikutlwang a gololesegile ka tsone, mme o itse gore app e di boloka kae. Mo [Photo Pairs](/games/photo-pairs/), dinepe tse o di tlhophang di nna mo sebading sa gago.
