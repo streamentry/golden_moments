@@ -1,157 +1,159 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: 'Go Itlhokomela fa o Tlhokomela Motho yo Mongwe: Boikhutso, Tshegetso le Matshwao a go Lapisega Thata'
+seoTitle: 'Go Itlhokomela fa o Tlhokomela Motho yo o Tshelang le Dementia: Boikhutso le Tshegetso'
+description: 'Matshwao a go lapisega thata, boikhutso, ditlhopha tsa tshegetso, le megala ya mahala ya US: Alzheimer''s Association 24/7 Helpline le Eldercare Locator.'
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
-summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+summary: Go tlhokomela motho yo o tshelang le dementia go thata, mme go itlhokomela le wena ke karolo ya tiro eo. Ela tlhoko matshwao a a tlhagisang jaaka go lapisega thata, go tenegega bonolo, go sa robale sentle le go ikgogela morago mo ditsaleng. Kopa thuso e e rileng, dirisa tlhokomelo ya nakwana e e go fang boikhutso, mme o tsenele setlhopha sa tshegetso. Thuso ya mahala kwa US e akaretsa Alzheimer's Association 24/7 Helpline mo 1-800-272-3900 le Eldercare Locator mo 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+- Go imelwa thata ke tlhokomelo gantsi go bonala ka letsapa le legolo, go tenegega bonolo, go sa robale sentle, go hutsafala le go tlogela go itlhokomela ka ga botsogo jwa gago.
+- Tlhokomelo ya nakwana ya boikhutso e go fa sebaka sa go ikhutsa, go simolola ka diura di se kae go fitlha dibeke di se kae, kwa gae kgotsa mo lefelong la tlhokomelo.
+- Kopa thuso ka ditiro tse di rileng; batho ba le bantsi ba batla go thusa mme ga ba itse gore ba ka thusa jang.
+- Alzheimer's Association 24/7 Helpline (1-800-272-3900) e go naya tshegetso ya mahala le ya sephiri nako nngwe le nngwe.
+- Eldercare Locator (1-800-677-1116) e go golaganya le ditirelo tsa mo gaeno, go akaretsa Area Agency on Aging ya lona.
+- Fa o ikutlwa o le mo mathateng a magolo, letsa kgotsa romela molaetsa go 988. Mo maemong a tshoganyetso, letsa 911.
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+- q: Ke matshwao afe a go lapisiwa thata ke go tlhokomela?
+  a: Matshwao a a tlwaelegileng a akaretsa go ikutlwa o lapile thata, o imetswe kgotsa o tshwenyegile, go tenega kgotsa go se nne le pelotelele motlhofo, mathata a boroko, go ikutlwa o hutsafetse kgotsa o sa na tsholofelo, go itlhaola mo ditsaleng, tlhogo e e botlhoko kgotsa botlhoko kgapetsakgapetsa, le go tlhoka go ja dijo tsa gago, go itshidila mmele kgotsa go tlhokomela botsogo jwa gago. Fa matshwao a a ntseng jalo a diragala kgapetsakgapetsa, bua le ngaka ya gago.
+- q: Nka bona jang tlhokomelo ya nakwana ya go ikhutsa gaufi le nna?
+  a: Simolola ka Eldercare Locator (1-800-677-1116 kgotsa eldercare.acl.gov) go ikgolaganya le Area Agency on Aging ya mo lefelong la gago, ARCH National Respite Locator Service, kgotsa Alzheimer's Association Helpline mo 1-800-272-3900. Ba lelapa, ditsala le baithaopi le bone ba ka go naya nako ya go ikhutsa.
+- q: A Medicare e duela tlhokomelo ya boikhutso?
+  a: Go ya ka National Institute on Aging, fa motho a amogela tlhokomelo ya hospice, Medicare e duela bontsi jwa ditshenyegelo tsa malatsi a a sa feteng matlhano a a latelanang a tlhokomelo ya boikhutso mo bookelong kgotsa mo lefelong la tlhokomelo ya booki le le nang le bokgoni. Inshorense e ntsi ya poraefete ya boitekanelo ga e duele tlhokomelo ya boikhutso; Medicaid le dithulaganyo dingwe tsa inshorense ya tlhokomelo ya nako e telele di ka thusa.
+- q: A Helpline ya Alzheimer’s Association ruri ga e duelelwe e bile e a bonala bosigo?
+  a: Ee. Alzheimer’s Association e bolela gore Helpline ya yone mo 1-800-272-3900 ga e duelelwe, ke ya sephiri, e bile e na le batho ba ba thusang ka dinako tsotlhe, malatsi a 365 ka ngwaga, go na le thuso ka dipuo di le dintsi. Letsa 711 go dirisa tirelo ya go fetisetsa megala.
+- q: A go ikgopela go tsaya boikhutso fa o tlhokomela motho yo o mo tlhokomelang?
+  a: Nnyaa. Boikhutso bo go thusa go tswelela o mo tlhokomela, mme nako ya go ikhutsa e ka naya motho yo o mo tlhokomelang phetogo ya botsala le tirwana le ene. Bontsi jwa batho ba ba tlhokomelang ba bangwe morago ba re ba eletsa ba ne ba kopile thuso pele.
 sources:
-  - title: "Taking Care of Yourself: Tips for Caregivers"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers"
-  - title: "Alzheimer's Caregiving: Caring for Yourself"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself"
-  - title: "What Is Respite Care?"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/caregiving/what-respite-care"
-  - title: "Caregiver Stress"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress"
-  - title: "Free 24/7 Alzheimer's & Dementia Helpline"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/resources/helpline"
-  - title: "Respite Care"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/care-options/respite-care"
-  - title: "Support Groups"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/community/support-groups"
-  - title: "Eldercare Locator"
-    publisher: "Administration for Community Living"
-    url: "https://eldercare.acl.gov/"
-  - title: "Find a Respite Provider"
-    publisher: "ARCH National Respite Network and Resource Center"
-    url: "https://archrespite.org/caregiver-resources/respitelocator/"
-  - title: "988 Lifeline"
-    publisher: "988 Suicide & Crisis Lifeline"
-    url: "https://988lifeline.org/"
-relatedGames: [calm-breathing, picture-bingo, conversation-cards]
-related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, caregiving/when-they-say-no, activities/care-home-groups, activities/visiting]
+- title: 'Taking Care of Yourself: Tips for Caregivers'
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers
+- title: 'Alzheimer''s Caregiving: Caring for Yourself'
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself
+- title: What Is Respite Care?
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/caregiving/what-respite-care
+- title: Caregiver Stress
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress
+- title: Free 24/7 Alzheimer's & Dementia Helpline
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/resources/helpline
+- title: Respite Care
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/care-options/respite-care
+- title: Support Groups
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/community/support-groups
+- title: Eldercare Locator
+  publisher: Administration for Community Living
+  url: https://eldercare.acl.gov/
+- title: Find a Respite Provider
+  publisher: ARCH National Respite Network and Resource Center
+  url: https://archrespite.org/caregiver-resources/respitelocator/
+- title: 988 Lifeline
+  publisher: 988 Suicide & Crisis Lifeline
+  url: https://988lifeline.org/
+relatedGames:
+- calm-breathing
+- picture-bingo
+- conversation-cards
+related:
+- caregiving/how-to-play-together
+- caregiving/late-day-restlessness
+- caregiving/when-they-say-no
+- activities/care-home-groups
+- activities/visiting
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Fa o tlhokomela motho yo o tshelang le dementia, go ka direga gore o bala seno bosigo thata, o lapile, e bile o na le lenaane la dilo tse o iseng o di dire. Seo se tlwaelegile. Go itlhokomela ga se selo sa manobonobo kgotsa moputso wa fa o sena go fetsa sengwe le sengwe. Ke sone se se go thusang gore o tswelele pele.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Tsebe eno e bua ka matshwao a gore o ka tswa o imelwa thata ke tlhokomelo, kafa o ka ikhutsa ka boammaaruri ka gone, kwa o ka bonang tshegetso teng, le megala ya mahala ya thuso kwa US e o ka e letsang gompieno.
 
-## What are the signs of caregiver burnout?
+## Ditshupo tsa go imelwa thata ga motlhokomedi ke dife?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Go imelwa thata ga motlhokomedi gantsi go tla ka bonya, ka jalo go a thusa go itse ditshupo tsa gago tsa temoso. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) e thathamisa ditshupo tsa kgatelelo ya maikutlo mo batlhokomeding, tse di akaretsang:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- go ikutlwa o lapile, o imelwa kgotsa o tshwenyegile;
+- go galefa motlhofo kgotsa go tlhoka bopelotelele;
+- go ikutlwa o le nosi kgotsa o kgaogane le ba bangwe;
+- bothata jwa go robala, kgotsa go sa robale go lekaneng;
+- go ikutlwa o hutsafetse kgotsa o sena tsholofelo, kgotsa go latlhegelwa ke kgatlhego mo dilong tse o neng o di itumelela;
+- go opiwa ke tlhogo gantsi, botlhoko kgotsa mathata a mangwe a mmele;
+- go se nne le nako ya go itshidila mmele kgotsa go ipeela dijo tse di itekanetseng;
+- go tlola go tlhapa kgotsa tlhokomelo e nngwe ya gago;
+- go dirisa bojalwa kgotsa diokobatsi ka tsela e e sa siamang, go akaretsa le melemo e e kwadilweng ke ngaka.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) e oketsa ditshupo tse di jaaka go gana go amogela boammaaruri ka ga dementia, bogale jo bo lebisitsweng kwa mothong yo o mo tlhokomelang («o gagamaletse fela»), tshwenyego ka bokamoso, bothata jwa go tlhoma mogopolo, le mathata a botsogo a a go amang. E gakolola gore o bue le ngaka ya gago fa o na le ditshupo tse di ntseng jaana kgapetsakgapetsa.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Kgakololo ya NIA ke gore o se ka wa ema go fitlha o imelwa gotlhelele. Lemoga ditshupo tsa gago go sa le gale mme o tseye kgato.
 
-## What can I do today, in five minutes?
+## Ke ka dira eng gompieno, mo metsotsong e le metlhano?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Dikhutso tse dinnye di botlhokwa. Ga go sepe sa tse se ka tlosang letsapa le le tletseng la go tlhokomela, mme di ka go thusa go feta motshegare o o thata.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Tswa kwa ntle.** Nna fa ntle kgotsa tsamaya go ya kwa lebokosong la poso fa motho yo o mo tlhokomelang a sireletsegile e bile a ritibetse.
+- **Hema ka bonya.** Hema ka bonya makgetlo a se kae pele o araba potso e e thata. Le wena o ka arolelana nakwana ya [Go Hema ka Boiketlo](/games/calm-breathing/) le motho yo o mo tlhokomelang.
+- **Nwa metsi o bo o ja sengwe.** Go motlhofo go lebala dijo tsa gago.
+- **Romela tsala e le nngwe molaetsa.** E seng go kopa sengwe, fela go ikgolaganya.
+- **Ipolelele sengwe se se molemo.** Kaedi ya NIA ya [go itlhokomela](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) e akantsha mafoko a a jaaka “Ke dira ka bojotlhe jo nka bo kgonang,” “Ga ke a itekanela, mme go siame,” le “Ke tla itumelela dinako tse re ka nnang mmogo ka kagiso.”
 
-## What is respite care, and how do I get it?
+## Tlhokomelo ya nakwana ya boikhutso ke eng, mme nka e bona jang?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Tlhokomelo ya nakwana ya boikhutso ke tlhokomelo ya nako e khutshwane e e neelwang motho yo o mo tlhokomelang, gore le wena o kgone go ikhutsa. [Tsebe ya NIA ka ga tlhokomelo ya nakwana ya boikhutso](https://www.nia.nih.gov/health/caregiving/what-respite-care) e tlhalosa gore e ka tsaya diura di se kae go fitlha dibeke di se kae, mme e ka direga kwa gae, mo lefelong la tlhokomelo ya botsogo kgotsa mo lefelong la tlhokomelo ya motshegare la bagolo.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) e tlhalosa mefuta e e tlwaelegileng:
 
-| Type | What it is |
+| Mofuta | Se e leng sone |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Thuso kwa gae | Tsala, wa lelapa, moithaopi, kgotsa motswalle kgotsa mothusi yo o duelwang o tla kwa gae |
+| Lefelo la tlhokomelo ya motshegare la bagolo | Ditirwana tse di rulagantsweng jaaka mmino le botaki mo lefelong le le babalesegileng la setlhopha; gantsi go a bo go na le dipalangwa le dijo |
+| Go nna bosigo kgotsa nakwana | Lefelo la tlhokomelo ya nako e telele le tlhokomela motho yoo bosigo bo le bongwe, malatsi a se kae kgotsa dibeke di se kae |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Ke mang yo o duelang?** Go ya ka NIA, tlhokomelo ya nakwana ya boikhutso e e tswang mo ba lelaping, ditsaleng kgotsa mo baithaoping e ka nna ya se duelelwe sepe. Ditirelo tsa baitseanape di duelelwa ka ura kgotsa ka letsatsi. Fa motho a amogela tlhokomelo ya hospice, Medicare e duela bontsi jwa ditshenyegelo tsa malatsi a a ka nnang go fitlha mo go a matlhano a a latelanang a tlhokomelo ya nakwana ya boikhutso mo bookelong kgotsa mo lefelong la booki le le nang le bokgoni. Medicaid e ka thusa. Bontsi jwa di-inshorense tsa poraefete tsa botsogo ga di duelele tlhokomelo ya nakwana ya boikhutso, le fa maano mangwe a inshorense ya tlhokomelo ya nako e telele a ka e duelela.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Kgakololo:** Alzheimer's Association e akantsha gore o leke batlamedi ba tlhokomelo ya nakwana ya boikhutso mo maemong a a seng a tshoganyetso, gore ba bo ba siametse fa o ka tlhoka thuso ka tshoganyetso.
 
-## Where can I find help near me?
+## Nka bona thuso kae gaufi le nna?
 
-Several free US services can point you to local help.
+Ditirelo di le mmalwa tsa mahala tsa kwa US di ka go kaela kwa thusong e e gaufi le wena.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) ke mahala e bile ke ya sephiri, e na le badiri ka dinako tsotlhe, letsatsi le letsatsi mo ngwageng otlhe, ka thuso ka dipuo di feta 200 ka badiri ba ba buang dipuo di le pedi kgotsa baranodi. Letsa 711 go dirisa tirelo ya relay. O ka bua ka diphetogo tsa maitsholo, kgatelelo ya maikutlo e e amanang le go tlhokomela motho, dikgetho tsa respite, mananeo a mo gae le tse dingwe, mme o ka kopa puisano e telele le mogakolodi wa tlhokomelo. Badiri ga ba neye kgakololo ya bongaka.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), tirelo ya setšhaba ya Administration for Community Living, e go golaganya le ditirelo tsa bagodi le malapa a bone. O ka letsa, romela molaetsa wa mokwalo, tlotla mo inthaneteng kgotsa romela imeile go badiri ba ba katisitsweng, kgotsa wa batla ka lefelo. E ka go kaela kwa Area Agency on Aging ya mo gae.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) e go thusa go bona batlamedi ba respite go ya ka state, mme e akantsha gore o ikgolaganye le State Respite Coalition ya gago kgotsa lenaneo la Lifespan Respite pele fa state ya gago e na le lone. ARCH e tlhalosa gore ga e tlhatlhobe batlamedi, ka jalo iponele boitemogelo le lemorago la bone ka bowena.
 
-## How do I find a support group?
+## Ke ka bona jang setlhopha sa thuso?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Botsa Mogala wa Thuso kgotsa batla mo inthaneteng ditlhopha tse di gaufi le wena. Mokgatlho wa Alzheimer's Association [o tsamaisa ditlhopha tsa thuso](https://www.alz.org/help-support/community/support-groups) bakeng sa babatlhokomedi le batho ba ba tshelang ka dementia, ka sefatlhego le mo inthaneteng, di eteletswe pele ke batho ba ba rutilweng. Mafelo a le mantsi gape a neela ditlhopha tse di kgethegileng, ka sekai, tsa babatlhokomedi ba bagolo kgotsa tsa batho ba ba tshelang ka dementia e e simologileng go sa le gale kgotsa mo seemong sa ntlha sa Alzheimer’s. Gape e tshwara ALZConnected, setšhaba sa inthaneteng sa mahala mo babatlhokomedi ba abelanang ka dikgakololo teng.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Ditlhopha tsa thuso di ka nna lefelo la go ntsha maikutlo o sa atlholwa, la go ithuta dikgakololo tse di mosola go tswa mo bathong ba ba kileng ba feta mo go yone, le go ikutlwa o sa jege nosi. Fa setlhopha sa ntlha se sa go tshwanela, leka se sengwe.
 
-## How do I ask family and friends for help?
+## Nka kopa thuso jang mo ba lelapa le ditsala?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Buang sentle ka se lo se tlhokang. Batho ba le bantsi ba batla go thusa, mme ga ba itse gore ba ka neela eng. NIA e akantsha jaana:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Dirang lenaane** la ditiro tse ba bangwe ba ka di dirang, mme lo ba letle gore ba itlhophele.
+- **Simololang ka tse dinnye** fa go le thata go kopa thuso.
+- **Tshwantshanyang tiro le motho.** Ntsala yo o ratang go apaya a ka tlisa dijo tsa maitseboa ka Labone. Moagisani yo o itseng go tlatsa diforomo a ka thusa ka dipampiri.
+- **Romelang molaetsa wa mogala kgotsa imeile** fa go le thata go kopa thuso lo lebagane ka matlho.
+- **Ipaakanyetseng karabo** fa mongwe a ithaopa: «Ke a leboga go bo o botsa. Se ke sone se o ka se dirang.»
+- **Letelang gore ba bangwe ba ka re nnyaa**, mme lo se ka lwa se tsaya pelong.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Dikakanyo tse dingwe: kopang mongwe go nna le motho yo lo mo tlhokomelang motshegare mongwe ka beke, go mo tsaya lo ya kwa ntle ka nakwana, kgotsa go mo etela lo bo lo dira tirwana mmogo. [Kaedi ya rona ya go dira ditirwana mmogo](/caregiving/how-to-play-together/) e motlhofo go e abelana le baeti.
 
-## What if something happened to me?
+## Go tweng fa go ka direga sengwe mo go nna?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Dira leano le le motlhofo la go ipaakanyetsa gone jaanong. NIA e akantsha gore lo tlhophe le ba lelapa kgotsa ditsala tse di gaufi gore ke mang yo o ka tsenang mo boemong jwa gago, mme lo boloke bukana e e nang le dinomoro tsa tshoganyetso, melemo, malebela a maitsholo a a thusang, le ditirwana tse ba di ratang. Alzheimer's Association le yone e akantsha gore lo boloke dintlha tsa go ikgolaganya le ba kalafi ba motho yo o mo tlhokomelang le lenaane la melemo le le ntšhwafaditsweng di le motlhofo go bonwa.
 
-## When should I get professional or urgent help?
+## O ka batla thuso ya porofešenale kgotsa ya potlako leng?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Bua le ngaka ya gago fa ditshupo tsa kgatelelo ya maikutlo di nna teng gangwe le gape, fa o ikutlwa o tlhomologile thata, kgotsa fa o thatafalelwa ke go lebana le maemo. Bolelela ngaka ya gago gore o motlhokomedi. NIA e bolela gore bagakolodi le badiri ba loago ba ka thusa ka maikutlo a a thata le go dira dithulaganyo, le gore Medicare, Medicaid le inšorense nngwe ya poraefete di ka nna tsa duelela ditshenyegelo dingwe tsa botsogo jwa tlhaloganyo.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Fa o ikutlwa o le mo mathateng a magolo kgotsa o na le dikakanyo tsa go itlhokofatsa, letsa kgotsa romela molaetsa kwa 988 go fitlhelela [988 Suicide & Crisis Lifeline](https://988lifeline.org/), e e sa duelelweng e bile e teng 24/7. Fa mongwe a le mo kotsing ya ka bonako, letsa 911.
 
-## Can shared activities give me a break too?
+## A ditirwana tse lo di dirang mmogo di ka go naya le wena khefu?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Ka dinako dingwe. Tirwana e e ritibetseng e lo e itumelelang mmogo e ka dira gore karolo ya letsatsi e nne bonolo go se nene mo go wena le mo mothong yo o mo tlhokomelang: go reetsa dipina tsa bogologolo, go leba ditshwantsho, kgotsa motshameko o o jaaka [Dikarata tsa Puisano](/games/conversation-cards/) o o sa tlhokeng dikarabo tse di siameng. Fa motho yoo a itumelela go nna le ba bangwe, nako ya setlhopha ka [Bingo ya Ditshwantsho](/games/picture-bingo/) kwa lefelong la bagodi kgotsa mo lenaneong la motshegare la bagodi e ka go naya oura ya go ikhutsa. Bona [ditirwana tsa ditlhopha tsa legae la tlhokomelo](/activities/care-home-groups/) go bona dikakanyo.
