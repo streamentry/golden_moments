@@ -1,256 +1,264 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: 'Ditirwana tsa batho ba ba tshelang le dementia: 101 ya dikakantsho tse di bonolo'
+seoTitle: 'Dikakantsho tsa ditirwana tsa dementia: 101 ya ditirwana tse di bonolo'
+description: '101 ya ditirwana tse di bonolo tsa batho ba ba tshelang le dementia: go mena ditauelo, mmino le difoto, le go di fetola fa go nna thata.'
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
-summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+summary: 'Ditirwana tse di siameng tsa batho ba ba tshelang le dementia di a tlwaega, ke tsa bagolo, ebile go bonolo go di dira mmogo: go mena diaparo, go rulaganya, go apaya, mmino, go leba difoto, go tsamaya, temo ya ditshingwana, nako le diruiwa le metshameko e e bonolo. Tlhopha se motho yo o mo tlhokomelang a neng a se rata ka metlha, dira dikarolo tse di thata, mme o emise fa a lapile. Go tshela mmogo ka nako e e monate go botlhokwa go feta go fetsa sengwe le sengwe.'
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+- 'Simolola ka botshelo jwa motho yo o mo tlhokomelang yo o nang le dementia: tiro ya gagwe, dilo tse a di ratang, tumelo le mmino o a o ratang thata ke yone kaedi e e siameng.'
+- 'Dira gore tirwana nngwe le nngwe e nne bonolo fa go tlhokega: dirisa dikgato tse di mmalwa, tlhopha tse di mmalwa, mme wena o dire sengwe se se thata.'
+- Go lebelela, go tshwara sengwe kgotsa go nna gaufi fela go bontsha gore o tsaya karolo.
+- Emisa kgotsa fetola fa o bona gore o lapile, o tenegile kgotsa o boregile. Go emisa pele ga nako go siame.
+- Go dira mmogo go botlhokwa go feta go dira ka tsela e e siameng.
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+- q: Ke ditirwana dife tse di siametseng motho yo o tshelang le dementia?
+  a: 'Ditirwana tse di tlwaelegileng tse motho a ntseng a di dira ka dingwaga, di dirilwe motlhofo go se nene: go mena diaparo, go baakanya tafole, go apaya, mmino, go leba dinepe, go tsamaya, go lema le go nna le phologolo ya lapeng. Tlhopha dilo tse di utlwalang e le tsa batho ba bagolo mme di le mosola, lo bo lo di dira mmogo.'
+- q: Tirwana e tshwanetse go tsaya lobaka lo lo kae?
+  a: Ga go na lobaka lo lo siameng lo lo tlhomilweng. Metsotso e se kae ya go mena ditawole e ka lekana ka letsatsi lengwe, mme ura mo tshingwaneng e ka utlwala e le motlhofo ka le lengwe. Letla motho yo o mo tlhokomelang go itlhophela lebelo la gagwe, mme lo khutlise tirwana e sa ntse e itumedisa.
+- q: Go tweng fa motho yo o mo tlhokomelang a gana go dira tirwana?
+  a: Se mo pateletse. Go gana go ka raya gore tirwana e ikutlwa e le bokete, nako ga se e e siameng, kgotsa o lapile kgotsa ga a phuthologa. Leka gape moragonyana, mo neye mofuta o monnye wa tirwana, kgotsa simolola tirwana ka bowena fa gaufi mme o mo kope go go thusa.
+- q: A metshameko ya boboko e siametse batho ba ba tshelang le dementia?
+  a: Metshameko e ka nna tsela e e monate ya go fetsa nako mmogo, mme ga go na motshameko o o bontshitsweng o alafa, o fokotsa kgotsa o emisa dementia. Tlhopha metshameko e e se nang sebali sa nako, maduo kgotsa medumo ya karabo e e phoso, mme lo e tseye jaaka tirwana e lo e dirang mmogo, e seng teko.
+- q: Nka dira jang gore ditirwana di se ka tsa dira gore motho a ikutlwe jaaka ngwana?
+  a: 'Dirisa dilo tsa mmatota tsa batho ba bagolo: ditawole tsa mmatota, diresepe tsa mmatota, mmino le didirisiwa tsa botaki tsa batho ba bagolo, le ditshwantsho tse di nang le merero ya batho ba bagolo. Tlhagisa ditiro e le thuso e o e tlhokang tota, mme bua le motho yoo ka tlotlo jaaka motho yo mogolo yo a leng ene.'
 sources:
-  - title: "Adapting Activities for People With Alzheimer's Disease"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease"
-  - title: "Activities"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/daily-care/activities"
-  - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
-    publisher: "Alzheimer's Foundation of America"
-    url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
-  - title: "Activities for dementia"
-    publisher: "NHS"
-    url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
-  - title: "Music / Art Therapy, Alzheimer's & Dementia"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/daily-care/art-music"
-relatedGames: [picture-pairs, conversation-cards, sort-together, photo-pairs, picture-bingo, coloring]
-related: [activities/early-stage, activities/middle-stage, activities/late-stage, activities/daily-routine, caregiving/how-to-play-together, caregiving/when-they-say-no, activities/alzheimers]
+- title: Adapting Activities for People With Alzheimer's Disease
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease
+- title: Activities
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/daily-care/activities
+- title: Therapeutic Activities for 3 Main Stages of Alzheimer's disease
+  publisher: Alzheimer's Foundation of America
+  url: https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/
+- title: Activities for dementia
+  publisher: NHS
+  url: https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/
+- title: Music / Art Therapy, Alzheimer's & Dementia
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/daily-care/art-music
+relatedGames:
+- picture-pairs
+- conversation-cards
+- sort-together
+- photo-pairs
+- picture-bingo
+- coloring
+related:
+- activities/early-stage
+- activities/middle-stage
+- activities/late-stage
+- activities/daily-routine
+- caregiving/how-to-play-together
+- caregiving/when-they-say-no
+- activities/alzheimers
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Tirwana e e siameng thata mo mothong yo o tshelang le dementia gantsi ke sengwe se a setseng a itse go se dira, se dirilwe bonolo go se nene, mme se dirwa le mongwe yo a mo tshepang. Fa tlase go na le dikakanyo di le 101, di beilwe ka mefuta, nngwe le nngwe e na le tsela ya go e baakanya le gore o ka e dira jang bonolo fa e nna thata. Ga o tlhoke didirisiwa tse di kgethegileng, e bile ga o tlhoke go fetsa sepe. Motshegare o o monate o ka nna seroto se le sengwe sa ditaole le kopi ya kofi mmogo.
 
-## How do you choose the right activity?
+## O ka tlhopha tirwana e e siameng jang?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Tlhopha go ya ka motho yo o mo tlhokomelang, e seng lenaane: simolola ka dilo tse a neng a di itumelela ka metlha le tse a kgonang go di dira ka boiketlo gompieno.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Akanya ka tiro ya gagwe le dilo tse a di ratang.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e akantsha gore motho yo pele a neng a dira tiro ya ofisi a ka itumelela go tlhopha madi a tshipi kgotsa go rulaganya diposo, mme motho yo o ratang tiro ya mo tshingwaneng a ka itumelela tiro ya mo jarateng.
+- **Ela tlhoko se a setseng a se dira.** Fa rrago a fiela mathudi a ntlo mongwe le mongwe mo mosong a sa kopiwa, tsenya seo mo thulaganyong ya letsatsi.
+- **Rulaganya o akanyetsa melelwane ya gagwe.** Letsapa, pono, go utlwa, diatla tse di botlhoko le tekatekano ya mmele tsotlhe di botlhokwa.
+- **Ela tlhoko maikutlo a gagwe.** Ditirwana tse di nang le dilo tse dintsi tse di diragalang kgotsa modumo o montsi di ka siamela batho bangwe mme tsa tshosa ba bangwe.
+- **E neye lebaka.** Go mena ditoulo tsa dijo tsa dijo tsa maitseboa kwa kereke go ka utlwala go na le mosola go feta go dira sengwe fela ntle le lebaka.
 
-### A rough guide by stage
+### Kaelo e e akaretsang go ya ka kgato
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Dementia gantsi e tlhalosiwa ka dikgato ya ntlha, ya bogare le ya morago. Tseno ke maina a a sa tlhomamang, ga se mabokoso, mme batho ba le bantsi ba ba tshelang le dementia ba na le malatsi a a botoka le a a thata, ka jalo latela se o se bonang gompieno. Lenaane la [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) le latela mokgwa o o tshwanang.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Setlhogo | Kgato ya ntlha | Kgato ya bogare | Kgato ya morago |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Se o ka se lemogang | Gantsi ba kgona go itirela dilo; go rulaganya, maina a masha le mafelo a a tletseng batho go nna thata | Ba tlhoka thuso ya go simolola le ya dikgato; mafoko ga a tle motlhofo | Ba tlhoka thuso mo bontsing jwa tlhokomelo ya letsatsi le letsatsi; dilo tse ba di utlwang, di bonang le di tshwarang di botlhokwa thata |
+| Ditirwana tse gantsi di tshwanetseng | Dikarata, metshameko ya boto, go apaya, go lema tshingwana, go kwala mo bukeng, maeto, diklabu | Go mena diaparo tse di tlhatswitsweng, go rulaganya dilo ka mefuta, dikgato tse di motlhofo tsa go apaya, go opela, dialebamo tsa ditshwantsho, go tsamaya lo kaelwa | Mmino o ba o ratang, go sidila diatla ka bonolo, dilo tse di bonolo tsa go di tshwara, go ba balela, go nna kwa ntle |
+| Seabe sa gago | Molekane: botsa gore ba batla thuso efe | Baakanya dilo, ba bontshe, ba thuse mo dikarolong tse di thata | Tlisa tirwana kwa go bone; go nna le bone ke tirwana ka boyone |
+| Dikakanyo tse dingwe | [Kgato ya ntlha](/activities/early-stage/) | [Kgato ya bogare](/activities/middle-stage/) | [Kgato ya morago](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## O ka simolola jang tirwana le motho yo o tshelang le dementia?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Simolola ka sengwe se sennye, nna fa thoko ga gagwe, mme dira gore go nne motlhofo go dumela. Batho ba le bantsi ba sa ntse ba batla go tsaya karolo, mme go ka nna thata mo go bone go rulaganya kgotsa go simolola.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Tlhopha nako e e ba siametseng thata,** gantsi mo mosong.
+2. **Baakanya dilo tsotlhe pele** gore lo kgone go simolola ka bonako.
+3. **Kopa thuso, e seng tiro ya pontsho:** “A o ka nthusa ka dilo tse?”
+4. **Simolola ka bowena.** Mena toulo ya ntlha mme o ba letle go tsenela. Go bontsha go botoka go feta go tlhalosa.
+5. **Naya kgato e le nngwe ka nako.**
+6. **Tsaya karolo e e thata thata.** Alzheimer’s Association e akantsha gore o lekanye ditswako ka bowena, mme morago o neele motho yoo leswana go hudua.
+7. **Letla gore go dirwe ka tsela ya bone.** Ditoulo tse di menilweng ka tsela e e farologaneng di siame.
+8. **Emisa fa go sa tlhole go le monate.** Go tshikinyega, go sosobanya sefatlhego kgotsa go re “Ga ke kgone” ke matshwao a gore lo fetole tirwana kgotsa lo ikhutse.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Bona gape [ka fa lo ka tshamekang mmogo ka gone](/caregiving/how-to-play-together/) le [malebela a puisano](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Ditiro tsa letsatsi le letsatsi kwa gae
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Ditiro tsa mo lwapeng di tlwaelegile e bile di mosola, mme seo se dira gore e nne lefelo le lentle la go simolola. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e umaka go tlhatswa dijana, go baakanya tafole, go feela, go rulaganya poso le go mena diaparo tsa go tlhatswa mo ditirwaneng tse batho ba ka di itumelelang. Bona mo go [ditiro tsa mo lwapeng](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Mena ditoulo tse di bothitho.** Tšollela seroto se se tswang mo motšhineng wa go omisa mo tafoleng mme lo mene lo le mmogo. Moragonyana, go di boreletsa le go di tlhatlaganya go thusa fela jalo.
+2. **Nyalanya dikausu.** Simolola ka mebala e e farologaneng thata. Moragonyana, go rulaganya tse di seng bokete ka mmala le tse di fifetseng go lekane.
+3. **Baakanya tafole.** Neela mofuta o le mongwe wa dilo ka nako. Baakanya lefelo le le lengwe ka bowena go bontsha sekao.
+4. **Tlhatswa kgotsa omisa dijana.** Metsi a a bothitho a a nang le sesepa le dijana tse di sa thubegeng motlhofo. Go omisa o dutse go bonolo mo maotong.
+5. **Phimola tafole.** Neela lepadisi le le kolobileng morago ga dijo. Ke tiro ya mmatota ya diatla tse di sa ritibalang.
+6. **Rulaganya poso.** Rulaganya dikhataloko le poso e e sa tlhokegeng mo go “boloka” le “dirisa gape”. Tlogela dikoloto tsa mmatota kwa thoko.
+7. **Segolola dikupone.** Dikere tse di nang le dintlha tse di kgolokwe le dipampitshana tsa mabenkele a dijo. Moragonyana, go dikologa dijo tse ba di ratang go a dira le gone.
+8. **Rulaganya madi a tshipi.** Rulaganya tšhelete ya tshipi mo dikopong kgotsa e phuthele mo dipampiring. Tlogela dilo tse dinnye fa motho yo o mo tlhokomelang a tsenya dilo mo molomong.
+9. **Feela kgotsa phumola lerole.** Lefielo le le bofefo mo mathuding a ntlo, kgotsa sephumodi sa lerole se se nang le mofatlha o moleele se se dirisiwang o dutse mo setulong.
+10. **Thusa go apaya dijo.** Go tlhatswa merogo, go gagola letlhare la salate, go hudua. Wena o tshwara dithipa le mogote.
+11. **Baka ka resepe ya lelapa.** Dirisa karata e e kwadilweng ka mokwalo wa bone fa o na le yone. Moragonyana, ba ka nna motho yo o lekang tatso.
+12. **Dira tiro ya ofisi.** Mena makwalo, tsenya mo dienfolopong le go manega ditempe, kgotsa kwalang lenaane la theko mmogo.
 
-## Music
+## Mmino
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Mmino o o tlwaelegileng o ka ama motho yo o tshelang le dementia le fa go bua go le thata. [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) di akantsha dipina tse di tlwaelegileng, go se nne le dipapatso, le gore thelebishene e time. Bona [ditirwana tsa mmino](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Dira lenaane la dipina la gagwe.** Tsenya mmino wa dingwaga tsa bolesome le tsa masome a mabedi, wa lenyalo la gagwe, wa kereke ya gagwe le wa setso sa gagwe.
+14. **Opelang mmogo.** Simolola ka go opela wena. Go dumaduma kgotsa go reetsa fela le gone go siame.
+15. **Bolokang morethetho.** Opang diatla, itayang mangole ka bonolo kgotsa opang moropa o monnye wa seatla. Seno se ka dirwa lo dutse, le mo dikgatong tsa morago tsa dementia.
+16. **Binang.** Binang ka bonya mo kichineng, kgotsa lo iheke iheke lo dutse lo tshwarane ka diatla.
+17. **Tshamekang alebamo yotlhe.** Tshameka rekoto e a e ratang go simolola kwa tshimologong go fitlha kwa bokhutlong, lo nwa kofi go se na sepe se sengwe se se diragalang.
+18. **Buang ka mmino.** Mo kope go kanele dipolelo, e seng go gakologelwa dintlha: «Mpolelele ka mafelo a o neng o ya go bina kwa go one.»
+19. **Lebelelang mmino wa filimi kgotsa khonsarata e e gatisitsweng.** Pontsho e a neng a e rata e ka dira maitseboa a monate. O ka e emisa nako nngwe le nngwe fa o batla.
+20. **Tshamekang seletswa se se tlwaelegileng.** Fa a kile a letsa piano, a ka itumelela dikarolo tse di motlhofo; moragonyana, lo ka letsa dinoutu di sekae mmogo.
+21. **Reetsang mmino o o tshelwang ka tlhamalalo.** E ka nna khonsarata e khutshwane ya mo setšhabeng kgotsa ikatiso ya khwaere. Dulang gaufi le kgoro ya go tswa.
 
-## Reminiscence: photos, objects and stories
+## Go gakologelwa: dinepe, dilo le dipolelo
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Itumelelang nako e e fetileng mmogo ntle le go e dira teko. Tlogelang go botsa «A o gopola...?», le «Yo ke mang?», mme dirisang ditaletso tse di bulegileng. Bona [ditirwana tsa go gakologelwa](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Lebang alebamo ya dinepe mmogo.** Buang ka se lo se bonang: «Mose o montle jang. Mpolelele ka letsatsi le.» Amogelang maina afe kapa afe a ba a dirisang.
+23. **Dirang lebokoso la dikgopotso.** Lebokoso la dieta la dilo tsa botshelo jwa gagwe, jaaka beji ya tiro kgotsa karata ya resepe. Ntshang dilo ka bongwe ka bongwe.
+24. **Simololang buka ya polelo ya botshelo.** Dinepe di sekae mo tsebeng nngwe le nngwe di na le ditlhaloso ka mokwalo o mogolo. E thusa bathusi ba basha go itse botoka motho yo lo mo tlhokomelang.
+25. **Dirisang dikarata tsa puisano.** [Dikarata tsa puisano](/games/conversation-cards/) di kopanya setshwantsho le potso e e bulegileng.
+26. **Dirang motshameko wa dinepe tsa lelapa.** [Dipara tsa dinepe](/games/photo-pairs/) di fetola dinepe tsa lona go nna motshameko wa go nyalanya.
+27. **Lebang dibidio tsa gae kgotsa thelebishene ya kgale.** Tlotlang mmogo ka se lo se bonang go na le go botsa dipotso.
+28. **Tshwarang dilo tsa tiro ya gagwe ya pele.** Sepenere, sedirisiwa sa go reetsa pelo, buka ya diakhaonto. Gantsi diatla ke tsone di etelelang pele polelo.
+29. **Apayang sejo sa bongoaneng.** Ba ka hudua, ba utlwa tatso, kgotsa ba nna fela mo kichineng le lona.
+30. **Lebang mmapa wa mafelo a ba kileng ba nna mo go one.** Salang morago ditsela tse ba di tlwaetseng mo atelaseng e kgolo fa lo ntse lo bua.
 
-## Creative activities
+## Ditirwana tsa boitlhamedi
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Botsweretshi bo mabapi le go dira, e seng tiro e e weditsweng. Dirisa didirisiwa tse di siametseng batho ba bagolo mme di babalesegile. Bona [botsweretshi le tiro ya diatla](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Penta ka dipente tsa metsi.** Pampiri e e kima, mebala e sekae. Fa go le thata go simolola, kaelang methalo ya ntlha mmogo.
+32. **Tshasa mebala mo dithalong tsa batho ba bagolo.** Ditšheshe kgotsa dikobo tsa patchwork, e seng dikhathunu. [Ditsebe tsa rona tsa go tshasa mebala](/games/coloring/) di dira mo sekirining kgotsa fa di gatisitswe.
+33. **Dira kholaje.** Gagolaka ditshwantsho tsa dimakasine tsa dirapana, dikoloi kgotsa dijo mme o di manegetse. Moragonyana, go tlhopha ditshwantsho fela go lekane.
+34. **Rulaganya dithunya.** Sephuthelwana sa dithunya sa lebenkeleng la dijo le vase. Moragonyana, dikutu di sekae mo nkgoaneng.
+35. **Loga ka dinale kgotsa ka huku mmogo.** Mela e e motlhofo ka dinale tse dikgolo. Moragonyana, go phuthela ulu mo dibolong.
+36. **Dirang dikarata tsa lelapa.** Dirisa setempe, saena kgotsa kgabisa dikarata tsa letsatsi la botsalo le tsa go fola ka bonako tsa batho ba nnete.
+37. **Bopa letsopa le le omang mo phefong.** Bopa sejana se sennye. Dirisa didirisiwa tse di se nang botlhole mme o nne gaufi.
+38. **Gotlha le go fetsa logong.** Kiti ya ntlo ya dinonyane e e setsweng e kgaotswe le pampiri ya go gotlha, go se na didirisiwa tsa motlakase. Bona [ditirwana tsa banna](/activities/for-men/).
+39. **Kwala kgotsa bua lekwalo.** Le romelwe kwa setlogolong kgotsa tsala ya kgale. Fa go kwala go le thata, a ka bua mme wena wa kwala.
 
-## Outdoors and gardening
+## Kwa ntle le go lema
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Mowa o o phepa le lesedi la letsatsi di monate go nna le tsone. Bona [ditirwana tsa kwa ntle le tsa go lema](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Nosetsa dimela.** Kana e nnye le dipitsa di sekae. Go nosetsa letsatsi le letsatsi go fa letsatsi thulaganyo e e tlwaelegileng.
+41. **Jala mo pitseng.** E beye mo tafole gore go se nne le ope yo o khubamang. Ditlhare tse dinnye di motlhofo go feta dipeo.
+42. **Tlosa mofero kgotsa dithunya tse di swabileng.** Aparang ditlelafo, lo dire karolwana e nnye ya setsha ka nako e le nngwe.
+43. **Kgobokanya matlhare ka haraka.** Karolo e nnye fela. Moragonyana, go tshwara kgetsana e butswe ke tiro ya mmatota.
+44. **Tsamayang tsela e lo e e tlwaetseng.** Go dikologa kgaolo kgotsa go ya kwa lebokosong la poso. E khutshwane le yone e siame.
+45. **Nnang kwa ntle mmogo.** Setulo mo mathuding ka letsatsi le le monate. Lebang maru kgotsa batho ba ba fetang.
+46. **Fepang dinonyane.** Tlatsang sefepi sa dinonyane mmogo mme lo lebeletse lo le fa setulong se se gaufi le letlhabaphefo.
+47. **Tlhatswang koloi.** Kgamelo, sepontšhe, motshegare o o bothitho. Go tlhatswa dikatiba tsa maotwana ke tiro e e motlhofo ya kgato e le nngwe.
 
-## Sensory activities
+## Ditirwana tsa dikutlo
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Go ama, go dupa, go latswa, go utlwa le go bona di ka nna botlhokwa le go feta fa dementia e tswelela pele. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e umaka mmino, dilo tse di ka tshwarwang le go sidila diatla ka bonolo mo dikgatong tsa morago. Tlhola pele gore a go na le aleji kgotsa dikotsi tsa go kgama; bona [ditirwana tsa dikutlo](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Sidila diatla ka bonolo.** Botsa pele, mme o dirise setlolo se sennye. Tlhopha se se senang monkgo fa o sa tlhomamisega ka letlalo kgotsa aleji.
+49. **Utlwa masela.** Seroto sa velvet, corduroy, ulu le satin go a phaphatha le go a mena.
+50. **Dupa merogo ya monko le kofi.** Sila mint e ntšha kgotsa rosemary magareng ga menwana ya gago. Tlogela menko e e maatla fa go na le mathata a go hema.
+51. **Kama moriri wa gagwe.** Ka bonya le ka bonolo, fa a se itumelela.
+52. **Dirisang lelapi le le bothitho mmogo.** La diatla le sefatlhego ka letsatsi le le tsididi. Leka themperetšhara pele.
+53. **Leka aporone ya tirwana.** Dikonope tse dikgolo le dizipi tse di rokilweng ka thata. Netefatsa gore ga go na sepe se se ka kgololegang.
+54. **Latswa senamnuni se a se ratang.** Lejwana le lennye, ka popego e a ka kgonang go e ja ka pabalesego.
+55. **Tshameka medumo ya tlhago.** Pula, makhubu kgotsa pina ya dinonyane ka modumo o o kwa tlase.
+56. **Lebelela sengwe se se tsamayang ka bonya.** Tanka ya ditlhapi, bidio ya tlhago kgotsa kapoko e e wang.
 
-## Games and puzzles
+## Metshameko le diphazele
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Metshameko e dira sentle fa go sena sebali sa nako, maduo, kgotsa kgatelelo. Fa mongwe o simolola go utlwala jaaka teko, o o beye fa thoko. Bona [go tlhopha di-app le metshameko](/caregiving/choosing-apps-and-games/) le [metshameko ya boboko](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Nyalanya ditshwantsho.** [Diphara tsa ditshwantsho](/games/picture-pairs/) di letla ditshwantsho go nna di lebile kwa godimo, ka jalo ga se ka ga go gopola, ke ka ga go ela tlhoko.
+58. **Batla setshwantsho se se tshwanang.** [Batla se se tshwanang](/games/find-the-same/) se naya ditlhopho di le pedi go ya go nne. Buisanang ka setshwantsho sengwe le sengwe.
+59. **Rulaganya mo dirotong.** [Rulaganyang mmogo](/games/sort-together/) go tshwana le go rulaganya dikausu mo sekirining.
+60. **Dira phazele ya dikarolwana tse dikgolo.** Ditshwantsho tsa batho ba bagolo, palo e e motlhofo ya dikarolwana. [Phazele ya ditshwantsho](/games/picture-puzzle/) e boloka setshwantsho sotlhe se bonala. Go na le tse dingwe mo go [dipuzzle tsa batho ba ba tshelang le dementia](/activities/puzzles/).
+61. **Tshamekang motshameko wa dikarata wa bogologolo.** Ope fela o motho yo o mo tlhokomelang a neng a o tshameka ka dingwaga. Moragonyana, go rulaganya dikarata ka mmala ke motshameko ka boone.
+62. **Tshamekang domino.** Nyalanya dintlha. Moragonyana, go baya dithaele ka mola go siame.
+63. **Lekang patlo ya mafoko a dikgatiso tse dikgolo.** [Patlo ya mafoko](/games/word-search/) ya rona e na le mafoko a a yang kwa tlase le kwa thoko fela, e bile e a gatisega.
+64. **Feleletsang maele a a tlwaelegileng.** [Feleletsa leele](/games/finish-the-saying/) e go letla go bontsha bokhutlo nako nngwe le nngwe.
+65. **Tshamekang bingo ya ditshwantsho.** [Bingo ya ditshwantsho](/games/picture-bingo/) e siametse malapa le ditlhopha. Thusang go tshwaya dikarata ka kgololesego.
+66. **Tshamekang checkers.** Bolokang melao e le bonolo. Go tsamaisa dikarolwana lo ntse lo tlotla go lekane.
 
-## Movement
+## Motsamao
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA e akantsha go tsamaya ka maoto, baesekele e e sa tsamayeng, dibente tsa go ikotlolla, go latlhela bolo e e boleta kgotsa balunu, go tsholetsa makotikoti a sopo le dibidio tsa boitlhakiso tsa bagolo. Buisanang le ngaka pele lo simolola sengwe se sesha, segolobogolo fa go na le mathata a go itekanela.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Latlhelang balunu.** Nnang lo dutse lo lebane. E tsamaya ka bonya, ka jalo go motlhofo go e tshwara.
+68. **Lebelelang bidio ya boitlhakiso lo dutse** e e diretsweng bagolo, lo le mmogo.
+69. **Ikotlolleng ka bente.** Gogelang mabogo ka bonolo ka bente e e bofefo lo dutse.
+70. **Tsholetsang makotikoti a sopo.** Tsholetsang mabogo ka bonya, gongwe lo reetsa mmino.
+71. **Palamang baesekele e e sa tsamayeng.** Metsotso e sekae e e bonolo, lo ntse lo le gaufi.
+72. **Binang ka dikhafo.** Tshikinyang dikhafo tse di bofefo go ya ka mmino, lo dutse kgotsa lo eme.
+73. **Tsamayang lo na le lebaka.** Go ya go posa lekwalo kgotsa go reka kofi. Lebaka la go tsamaya le dira gore go ikutlwe go le tlwaelegile.
+74. **Kgaoganyang sebaka sa go hema.** Iketliseng mmogo ka [go hema ka tidimalo](/games/calm-breathing/).
 
-## Social activities
+## Ditirwana tsa go nna le ba bangwe
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Go nna le ba bangwe go botlhokwa le fa maina a le thata go a gakologelwa, mme ditlhopha tse dinnye di motlhofo go feta tse dikgolo. NIA e bolela gore motho yo o nang le dementia a ka nna a sa gakologelwe gore moeng ke mang, mme gantsi o sa ntse a itumelela go nna le batho. Bona [go etelwa](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Nna le moeng a le mongwe kgotsa ba le babedi ka nako.** Maeto a makhutshwane mo phaposing e e didimetseng, lo lebeletse ditshwantsho.
+76. **Bua le ba lelapa ka bidio.** Megala e mekhutshwane, lentswe le le lengwe ka nako. Bona [megala ya mogala le ya bidio](/activities/phone-and-video-calls/).
+77. **Leka memory café.** Dikopano tse di sa tlhomamang tsa batho ba ba nang le dementia le batlhokomedi ba bone. Botsa Area Agency on Aging ya mo gaeno gore go na le eng gaufi.
+78. **Jang kwa ntle ka nako e e didimetseng.** NIA e akantsha resturente e e tlwaelegileng, e e didimetseng ka dinako tse go se nang batho ba bantsi, e nang le tafole e e gaufi le ntlwana ya boitiketso.
+79. **Etela lefelo la bagodi kgotsa lenaneo la motshegare la bagolo.** Ke nako ya go nna le ba bangwe mo go ene le go ikhutsa mo go wena.
+80. **Nna le bana.** Loeto lo lokhutshwane, lo lo ritibetseng lwa ditlogolo, kgotsa go balela ngwana yo monnye buka ya ditshwantsho.
+81. **Arogana lokwalodikgang lo nwa kofi.** Bala ditlhogo ka lentswe le le kwa godimo. Mokgwa oo o botlhokwa go feta dikgang.
+82. **Thusa motho yo mongwe.** Mena mananeo a kereke kgotsa dira karata ya moagisani.
 
-## Faith and spiritual activities
+## Ditirwana tsa tumelo le semoya
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Latelang tumelo kgotsa ngwao ya semoya ya motho yo o mo tlhokomelang, kgotsa lo se dire sepe fa a sa e latele. NIA e akantsha ditirelo tse di tlwaelegileng, go bala, mmino o o boitshepo, thapelo, go akanya ka tidimalo le meletlo ya malatsi a a kgethegileng.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Tsenang tirelo e lo e tlwaetseng.** Tlhophang e e didimetseng, nnang gaufi le tsela ya go feta, mme lo itsise batho ba koo ka dementia.
+84. **Lebang tirelo mo inthaneteng** ka malatsi a go tswa mo gae go leng bokete thata.
+85. **Rapelang kgotsa lo bale mmogo.** Dirisang mafoko a a tlwaelegileng, lo bale ka bonya. A ka nna a tsaya karolo mo dikarolong tse a di itseng.
+86. **Opelang difela kgotsa mmino o o boitshepo** go tswa mo ngwaong ya gagwe ya tumelo.
+87. **Tshwarang meletlo ya malatsi a a kgethegileng.** Dirisang dikerese tsa dibeteri, tshegofatso, le mekgabiso e ba neng ba tle ba e dirise.
+88. **Abelanang nako e e didimetseng.** Nnang mo tshingwaneng kgotsa lo lebelele phirimo ya letsatsi mmogo.
 
-## Pets and animals
+## Diphologolo tsa mo gae le diphologolo tse dingwe
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA e akantsha go fepa, go ipaakanya, go tsamaisa, kgotsa go nna le go tshwara phologolo ya mo gae.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Sidila ntša kgotsa katse e e didimetseng ka borashe** ka methalo e meleele, e e bonya.
+90. **Fepang phologolo ya mo gae mmogo.** Wena o lekanye; ene a tshele.
+91. **Tsamaisang ntša mmogo.** Wena o tshware kgole ya yona.
+92. **Tshwarang phologolo ya mo gae mo diropeng.** Katse e e didimetseng mo kobo e ka lapolosa thata.
+93. **Amogelang diphologolo tse di etileng.** Mafelo mangwe a tlhokomelo le mananeo a motshegare a amogela maeto a diphologolo. Botsa mo lefelong la gaeno.
+94. **Neelang phologolo e e bonolo e e lebegang jaaka ya nnete.** Fa go se na phologolo ya mo gae, batho bangwe ba itumelela go tshwara katse kgotsa ntša ya popi e e lebegang jaaka ya nnete. E neele fela ka bonolo, e seng jaaka sebapadiswa, mme amogele fa a sa e batle.
 
-## Seasonal activities
+## Ditirwana tsa setlha
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Tswelela ka dingwao, mme di nne motlhofo. NIA e akantsha gore o se ka wa ipeela dilo tse dintsi mme o nne le lefelo le le didimetseng la go ikhutsa ka malatsi a boitapoloso a a tletseng ditiro.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Kgabisa go ya ka setlha.** Lephutshe, serwalo sa mojako kgotsa dithunya tse disha mo tafoleng.
+96. **Dira sejo se se monate sa letsatsi la boitapoloso.** Pitikolola tege kgotsa tsenya sekhurumelo mo dikhukhing. Wena o tlhokomele onto.
+97. **Pega dikgabiso.** Dikgabiso tse di sa thubegeng motlhofo, o di mo neye e le nngwe ka nako.
+98. **Kgweetsa lo ye go bona mabone.** Loeto lo lokhutshwane lwa maitseboa ka koloi ga lo tlhoke sepe fa e se go nna mmogo.
+99. **Jala dibalubu tsa dikgakologo.** Di tobetsa mo pitseng ka letlhabula mme lo lebelele fa di tlhoga.
+100. **Obola mmidi kgotsa dinawa.** Tiro ya letlhafula mo mathuding a ntlo, ka sekotlolo mo diropeng.
+101. **Kwala dikarata tsa malatsi a boitapoloso.** Ba ka saena, ba kgomaretsa setempe kgotsa ba di tswala; wena o tlhokomele diaterese.
 
-## What if an activity is not working?
+## Go tweng fa tirwana e sa tsamaye sentle?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Ema, mme o leke sengwe se se farologaneng ka nako e nngwe. NIA e akantsha gore o ele tlhoko matshwao a go kgopisega mme o letle motho yo o mo tlhokomelang go lebelela fela fa a rata jalo. Gantsi fa a re nnyaa, go ka raya gore tiro eo e thata thata, nako ga e a siama, kgotsa go na le sengwe se sengwe se se mo tshwenyang, jaaka botlhoko, tlala kgotsa modumo. Dira gore e nne nnye, leka mo tshokologong ya letsatsi, kgotsa e simolole wena mme o bone gore a o tla tsenela. Bona [fa ba re nnyaa](/caregiving/when-they-say-no/) le [go sa ritibala mo maitseboeng](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Go tsenya ditirwana fa gare ga dijo le boikhutso, bona [thulaganyo e e bonolo ya letsatsi le letsatsi](/activities/daily-routine/). Go bona dilo tse o ka di baakanyang, bona [ditirwana tse di ka gatisiwang](/activities/printable/), mme fa o etelela setlhopha pele, bona [ditirwana tsa setlhopha mo legaeng la tlhokomelo](/activities/care-home-groups/). Boikhutso jwa gago le jone bo botlhokwa: bona [go itlhokomela ga motlhokomedi](/caregiving/caregiver-self-care/).
