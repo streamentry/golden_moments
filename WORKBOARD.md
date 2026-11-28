@@ -389,7 +389,7 @@ Maintainer decision 2026-11-28: allowed, because retention is too low. `docs/pla
 
 Checked on this branch: `dart format`, `flutter analyze --fatal-infos --fatal-warnings` (clean), `flutter test --coverage` (757 pass, 84.3% lines), Python tests (150), DESIGN.md lint 0/0, design-system tests. Flutter 3.47.7 on Linux; no iOS or Android build was made here.
 
-Maintainer exception (2026-11-28, scoped to PR #312 only): merge with `app-copy-coverage` red, because the gate requires app files for 185 codes while the app ships 118, and five shipped locales are not in the registry. Every other check must be green. Fixing the gate itself is separate work.
+Maintainer exception (2026-11-28, scoped to the nudge implementation PR only): merge with `app-copy-coverage` red, because the gate requires app files for 185 codes while the app ships 118, and five shipped locales are not in the registry. Every other check must be green. Fixing the gate itself is separate work.
 
 Release: the maintainer runs it on their Mac; checklist in [docs/release/app-store-1.11.0-build15.md](docs/release/app-store-1.11.0-build15.md).
 

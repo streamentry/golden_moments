@@ -1,7 +1,7 @@
 # 1.11.0 build 15 release record (iOS and Android): ready to build, not uploaded
 
-**State (2026-11-28):** version bump and release notes merged with the nudge
-change (PR #312). Nothing is built, uploaded or submitted. The maintainer runs
+**State (2026-11-28):** version bump and release notes are in the nudge change
+(the PR after #312, which merged the docs only). Nothing is built, uploaded or submitted. The maintainer runs
 the release on their Mac, following [publishing-with-api.md](publishing-with-api.md);
 fill in the sections below as each step finishes, and read both stores back
 before saying either is live.
