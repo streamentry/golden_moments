@@ -95,7 +95,7 @@ Muria na [ivakasala ni Guided Access mai na Apple](https://support.apple.com/en-
 
 Mo tinia na vakayagataki, tabaka vakatolu tale na bulukau o ya, volavoca na passcode, ka tabaka na **End**. E tukuna na Apple ni ena so na software makawa o tabaka vakarua ga.
 
-**Bibi:** E kaya na Apple ni na sega ni rawa ni vakayagataki na Crash Detection kei na Emergency Services ena gauna ni Guided Access. Kakua ni biuta na Guided Access me waqa tu ena talevoni e rawa ni gadreva o koya me baleta na qiri ki na 911 se 917.
+**Bibi:** E kaya na Apple ni na sega ni rawa ni vakayagataki na Crash Detection kei na Emergency Services ena gauna ni Guided Access. Kakua ni biuta na Guided Access me waqa tu ena talevoni e rawa ni gadreva o koya me qiria kina na veiqaravi ni leqa vakasauri.
 
 ### Android: app pinning
 
