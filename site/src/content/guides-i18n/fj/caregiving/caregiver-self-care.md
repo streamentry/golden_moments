@@ -1,7 +1,7 @@
 ---
 title: "Qaravi Kemuni: Nona Vakacegu kei na Veivuke"
 seoTitle: "Qaravi i Kemuni ni Dementia: Vakacegu kei na Veivuke"
-description: "Ivakatakilakila ni oca ni qaravi ira tale eso, sala ni kunea na vakacegu kei na ilawalawa ni veitokoni, kei na laini ni veivuke galala e Amerika, oka kina na 1-800-272-3900 kei na 1-800-677-1116."
+description: "Ivakatakilakila ni oca ni dauqaravi, sala ni vakacegu kei na veitokoni, kei na laini ni veivuke galala e Amerika: Alzheimer's 24/7 Helpline kei na Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
@@ -20,7 +20,7 @@ keyPoints:
   - "Kerea na veivuke ena cakacaka matata; e levu era via veivuke ia era sega ni kila na sala."
   - "Na Alzheimer's Association 24/7 Helpline (1-800-272-3900) e solia na veitokoni galala ka taqomaki ena gauna kece."
   - "Na Eldercare Locator (1-800-677-1116) e semati iko ki na veiqaravi e nomu vanua, oka kina na nomu Area Agency on Aging."
-  - "Kevaka o rairai o tu ena leqa levu, qiri se volavola ki na 988. Ena leqa vakasauri, qiri 917."
+  - "Kevaka o rairai o tu ena leqa levu, qiri se volavola ki na 988. Ena leqa vakasauri, qiri 911."
 faq:
   - q: "Na cava na ivakatakilakila ni oca ni qaravi ira tale eso?"
     a: "Na ivakatakilakila e dau yaco e oka kina na nomu oca vakalevu, lomaoca se lomaleqa, na cudru se vosota ca totolo, na leqa ni moce, na rarawa se sega ni namaka vinaka, na nomu tawasei iko mai vei ira na itokani, na mosi ni ulu se mosi vakawasoma wasoma, kei na nomu levea na nomu kana, vakaukauayago se veiqaravi vakavuniwai. Kevaka e dau yaco vakawasoma na ivakatakilakila oqo, veivosaki kei na nomu vuniwai."
@@ -151,7 +151,7 @@ Tuvanaka ena gauna oqo e dua na ituvatuva ni veitokoni. Na NIA e vakatura mo vei
 
 Veivosaki kei na nomu vuniwai kevaka e dau yaco vakawasoma na ivakatakilakila ni lomaoca, kevaka o rairai rarawa, se kevaka e dredre vei iko na kena qaravi. Tukuna vua na nomu vuniwai ni o dua na dauqaravi. Na NIA e tukuna ni ra rawa na daunivakasala kei na dauveiqaravi ni veimaliwai raraba me ra veivuke ena nanuma dredre kei na ituvatuva, kei na Medicare, Medicaid kei na so na inisua vakaitaukei era rawa ni ubia eso na isau ni bula ni vakasama.
 
-Kevaka o rairai tu ena leqa levu se tu vei iko na nanuma mo vakamavoataki iko, qiri se volavola ki na 988 mo yacova na [988 Suicide & Crisis Lifeline](https://988lifeline.org/), e galala ka vakarautaki ena 24/7. Kevaka e dua e tu ena leqa vakasauri sara, qiri 917.
+Kevaka o rairai tu ena leqa levu se tu vei iko na nanuma mo vakamavoataki iko, qiri se volavola ki na 988 mo yacova na [988 Suicide & Crisis Lifeline](https://988lifeline.org/), e galala ka vakarautaki ena 24/7. Kevaka e dua e tu ena leqa vakasauri sara, qiri 911.
 
 ## Na itaviqaravi vata e rawa beka ni solia talega vei au e dua na gauna ni cegu?
 
