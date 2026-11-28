@@ -1,128 +1,131 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: 'Boroko le Boitekanelo jwa Boboko: Se Dipatlisiso di se Kayang le Se se ka Thusang'
+seoTitle: 'Boroko le Dementia: Se Dipatlisiso di se Kayang'
+description: Se dipatlisiso di se kayang ka boroko le kotsi ya dementia, gore patlisiso ya go phepafatsa boboko e sa le kwa tshimologong, le mekgwa e e thusang ya boroko.
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
-summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+summary: Dipatlisiso dingwe tsa nako e telele di golaganya boroko jo bokhutshwane mo bogareng jwa botshelo le kotsi e e kwa godimo ya dementia, mme dipatlisiso tsa mo laboratori di kaya gore boroko bo ka thusa boboko go tlosa matlakala. Bosupi jono bo sa ntse bo le kwa tshimologong, mme Lancet Commission ya 2024 ga e a ka ya tlhagisa boroko jaaka ntlha ya kotsi e e ka fetolwang. Mekgwa e e tlwaelegileng ya boroko e thusa gore o ikutlwe jang letsatsi le letsatsi. Mathata a boroko mo bathong ba ba tshelang le dementia a tlwaelegile mme go molemo go a umaka le ngaka.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+- Patlisiso ya kwa UK e e latetse batho ba ka nna 8,000 dingwaga tse di ka nnang 25, e amanngwa le go robala diura di le thataro kgotsa ka fa tlase mo gare ga botshelo le kotsi e kgolo ya dementia.
+- Diphetogo mo borokong le tsone di ka nna sesupo sa ntlha sa dementia, ka jalo go thata go itse se se bakileng le se se latelang.
+- Patlisiso ka go tlosa beta-amyloid mo bokong ka boroko e teng mme e sa tswa go simolola, bontsi jwa yone e dirilwe mo dimouseng.
+- Sleep apnea e tlwaelegile, e ka alafiwa e bile e amanngwa le dementia mo dipatlisisong; go roroma ka lentswe le le kwa godimo le go otsela mo motshegare go tshwanetse go tlhatlhobiwa.
+- O se ka wa simolola, wa emisa kgotsa wa fetola moriana wa boroko kgotsa thuso ya boroko kwa ntle ga ngaka.
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+- q: A boroko jo bo sa nnang sentle bo baka Alzheimer’s?
+  a: Ga go a supega jalo. Dipatlisiso dingwe di golaganya boroko jo bokhutshwane le kotsi e e kwa godimo ya dementia, mme dementia ka boyone e ka tshwenya boroko, gantsi dingwaga pele ga tlhatlhobo. 2024 Lancet Commission e ne ya bona bosupi bo sa tlhomama go lekana go ka baya boroko mo lenaaneng la dintlha tsa kotsi tse di ka fetolwang.
+- q: Bagolo ba tlhoka boroko jwa diura di le kae?
+  a: National Institute on Aging e bolela gore bagolo ba tlhoka boroko jo bo batlang bo lekana le jwa batho ba bangwe ba ba godileng, diura di le 7 go ya go 9 bosigo bongwe le bongwe. Batho ba le bantsi ba bagolo ba robala le go tsoga go sa le gale go feta jaaka ba ne ba tle ba dire, mme seno se tlwaelegile.
+- q: Ke ka ntlha yang fa motho yo o tshelang le dementia a ka robala motshegare a bo a tsoga bosigo?
+  a: Dementia e ka ama nako ya mmele ya boroko, ka jalo dinako tsa go robala le go tsoga di ka tlhakatlhakana. Botlhoko, bodutu, tlala kgotsa ditlamorago tsa melemo le tsone di ka nna le seabe. Lesedi la motshegare, tirwana ya letsatsi le letsatsi le mokgwa o o didimetseng wa maitseboa di ka thusa. Ngaka e ka leba mabaka a a ka alafiwang.
+- q: A go siame go fa motho yo o mo tlhokomelang sengwe se se thusang go robala?
+  a: Bua le ngaka ya gagwe pele, go akaretsa le ka ga ditlhagiswa tse di rekwang kwantle ga lengolo la ngaka. National Institute on Aging e tlhalosa gore melemo mengwe ya boroko e ka oketsa kotsi ya go tsekela, go wa le go tlhakatlhakana mo bathong ba ba nang le Alzheimer's.
 sources:
-  - title: "Association of sleep duration in middle and old age with incidence of dementia"
-    publisher: "Nature Communications"
-    url: "https://www.nature.com/articles/s41467-021-22354-2"
-  - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
-    publisher: "The Lancet"
-    url: "https://doi.org/10.1016/S0140-6736(24)01296-0"
-  - title: "Brain may flush out toxins during sleep"
-    publisher: "National Institutes of Health"
-    url: "https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep"
-  - title: "β-Amyloid accumulation in the human brain after one night of sleep deprivation"
-    publisher: "Proceedings of the National Academy of Sciences"
-    url: "https://www.pnas.org/doi/10.1073/pnas.1721694115"
-  - title: "Sleep and Older Adults"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/sleep/sleep-and-older-adults"
-  - title: "Alzheimer's Caregiving: Home Safety Tips"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips"
-  - title: "Managing Sleep Problems in Alzheimer's Disease"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease"
-  - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning"
-relatedGames: [calm-breathing, conversation-cards]
-related: [caregiving/late-day-restlessness, activities/daily-routine, brain-health/exercise, caregiving/caregiver-self-care, brain-health/risk-factors]
+- title: Association of sleep duration in middle and old age with incidence of dementia
+  publisher: Nature Communications
+  url: https://www.nature.com/articles/s41467-021-22354-2
+- title: 'Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission'
+  publisher: The Lancet
+  url: https://doi.org/10.1016/S0140-6736(24)01296-0
+- title: Brain may flush out toxins during sleep
+  publisher: National Institutes of Health
+  url: https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep
+- title: β-Amyloid accumulation in the human brain after one night of sleep deprivation
+  publisher: Proceedings of the National Academy of Sciences
+  url: https://www.pnas.org/doi/10.1073/pnas.1721694115
+- title: Sleep and Older Adults
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/sleep/sleep-and-older-adults
+- title: 'Alzheimer''s Caregiving: Home Safety Tips'
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips
+- title: Managing Sleep Problems in Alzheimer's Disease
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease
+- title: Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning
+relatedGames:
+- calm-breathing
+- conversation-cards
+related:
+- caregiving/late-day-restlessness
+- activities/daily-routine
+- brain-health/exercise
+- caregiving/caregiver-self-care
+- brain-health/risk-factors
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Boroko le botsogo jwa boboko di amana sentle, mme gore di amana jang ga go ise go tlhaloganngwe gotlhelele. Dithutopatlisiso dingwe di golaganya go robala nako e khutshwane le kotsi e e kwa godimo ya go nna le dementia. Ka le lengwe, dementia gantsi e tshwenya boroko. Tsebe eno e tlhalosa se dipatlisiso di se bontshang le se di sa se bontsheng, e naya mekgwa e e mosola ya boroko, e bile e bua ka mathata a boroko a a tlwaelegileng mo bathong ba ba tshelang le dementia. Ga e neye kgakololo ka melemo ya boroko; puisano eo e tshwanetse go tshwarwa le ngaka.
 
-## Is poor sleep linked with dementia?
+## A go sa robale sentle go amana le dementia?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Dipatlisiso dingwe tsa nako e telele di bontsha kamano fa gare ga go robala bosigo jo bokhutshwane le kotsi e kgolwane ya dementia, mme bosupi ga bo ise bo tlhomame.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Patlisiso ya dingwaga di le 25 kwa UK.** Baitseanape ba ne ba latela batho ba ka nna 8 000 mo [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). Batho ba ba neng ba robala diura di le thataro kgotsa ka fa tlase ga moo ba le dingwaga di le 50 kgotsa 60 ba ne ba na le kotsi e kgolwane ya dementia moragonyana go feta ba ba neng ba robala diura di le supa. Batho ba ba neng ba robala diura di le thataro kgotsa ka fa tlase ga moo ba le dingwaga di le 50, 60 le 70 ba ne ba na le kotsi e e kwa godimo ka 30% go feta ba ba neng ba robala diura di le supa ka metlha. E ne e le patlisiso ya go ela tlhoko, ka jalo e bontsha kamano, e seng lebaka.
+- **Pono ya Lancet Commission.** [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) ga ya ka ya tsenya boroko mo lenaaneng la yone la mabaka a le 14 a kotsi a a ka fetolwang. E ne ya tsaya gore bosupi ga bo a lekana go tlhomama. Lebaka lengwe ke «reverse causation»: diphetogo mo bobokong tse di amanang le dementia di simolola dingwaga pele ga tshekatsheko mme di ka kgoreletsa boroko. Mo patlisisong nngwe e kgolo, kamano fa gare ga go robala nako e telele le dementia e ne ya nyelela morago ga gore dingwaga tse tlhano tsa ntlha tsa go latelwa di tlogelwe kwa thoko.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Ka jalo, go robala bosigo jo bokhutshwane ka dinako dingwe ga se lebaka la go tshwenyega. Go ikaeletsa go robala sentle ka metlha go mosola ka gonne go thusa maikutlo, go nna matlhagatlhaga le pabalesego gompieno.
 
-## What is the "brain-clearing" sleep research?
+## Patlisiso ya boroko ya “go phepafatsa boboko” ke eng?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+O ka tswa o badile gore boroko bo “phepafatsa” boboko. Kgopolo eo e tswa mo patlisisong ya mmatota, mme e sa ntse e le kwa tshimologong.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Mo magotlong.** Patlisiso ya 2013 [e e tlhalositsweng ke NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) e fitlhetse gore sebaka se se fa gare ga disele tsa boboko se ne sa gola ka bokana ka 60% fa magotlo a robetse. Seedi se ne sa elela mo bobokong bonolo go feta, ka tsamaiso e babatlisisi ba e bitsang glymphatic system. Beta-amyloid, poroteine e e amanang le Alzheimer’s, e ne ya tlosiwa ka bonako mo bobokong jwa magotlo a a robetseng.
+- **Mo bathong.** [Patlisiso e nnye ya 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) e sekasekile bagolo ba ba itekanetseng ba le 20 ba ba dingwaga di le 22 go ya go 72 morago ga bosigo jo bo tlwaelegileng le morago ga bosigo jo ba sa robalang ka jone. Morago ga bosigo jo ba sa robalang ka jone, sesupo sa sekaseko sa boboko sa beta-amyloid se ne sa tlhatloga ka bokana ka 5% mo karolong e e akaretsang hippocampus, karolo e e botlhokwa mo kgopolong. Bakwadi ba ne ba bitsa seno bosupi jwa tshimologo. Ba ne ba sa itse gore a phetogo eo e a nyelela morago ga go ikhutsa, kgotsa gore a e bontsha go tlosiwa ka bonya kgotsa go dirwa ga beta-amyloid e ntsi.
+- **Go ama ka ditsela tsoopedi.** Lancet Commission e tlhalosa gore go ipopa ga amyloid go ka nna ga kgoreletsa boroko ka bogone mo bagolong ba ba godileng.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Diphitlhelelo tse di thusa go tlhalosa gore ke eng fa babatlisisi ba kgatlhegela boroko. Ga di bontshe gore boroko jo bo botoka bo thibela Alzheimer’s.
 
-## What sleep habits may help?
+## Ke mekgwa efe ya boroko e e ka thusang?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Bagolo ba tlhoka boroko jwa diura di ka nna 7 go ya go 9 bosigo bongwe le bongwe, go tshwana le bagolo ba bangwe, go ya ka [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Dikakantsho tsa yone di akaretsa:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Nna le lenaneo le le tlhomameng.** Robala o bo o tsoga ka nako e e tshwanang letsatsi lengwe le lengwe, le ka mafelo a beke.
+- **Itirele mokgwa wa go iketla pele ga boroko.** Bala, reetsa mmino o o didimatsang kgotsa tlhapa ka metsi a a bothitho pele ga o robala.
+- **Dira gore phaposi ya boroko e nne e le boiketlo,** e se ka ya nna mogote thata kgotsa tsididi thata.
+- **Fokotsa kafeine mo tshokologong ya letsatsi.** Kofi, tee, dino tse di nang le gase le tšhokolete di ka go dira gore o se ka wa robala motlhofo.
+- **Tila bojalwa,** le fa e le bonnyennyane fela, go gakolola NIA.
+- **Tila dijo tse dikgolo mo diureng di le pedi go ya go tharo pele ga nako ya go robala,** le dino tse dikgolo mo tshokologong ya letsatsi.
+- **Itshidile mmele ka metlha, mme e seng mo diureng di le 3 pele ga nako ya go robala.** Bona [kaedi ya rona ya go itshidila mmele](/brain-health/exercise/).
+- **Tlogela disekirini kwa ntle ga phaposi ya boroko.** NIA e akantsha gore o se ka wa lebelela TV kgotsa wa dirisa khomputara, founu kgotsa thebolete mo teng.
+- **Tila go otsela motshegare thata kgotsa maitseboa** fa go kgonega.
 
-## Sleep problems in dementia
+## Mathata a boroko mo dementia
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Diphetogo mo borokong di tlwaelegile mo dementia. [NIA e thathamisa](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) go robala thata kgotsa go robala go le gonnye, go tsoga gantsi bosigo, le go otsela thata motshegare. E tlhalosa gape sundowning: go se iketle, go tshwenyega kgotsa tlhakatlhakano e e simologang kgotsa e e worseng fa lesedi la letsatsi le nyelela.
 
-Caregiver tips from the NIA include:
+Dikakantsho tsa batlhokomedi go tswa mo NIA di akaretsa:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Bona lesedi la letsatsi le go tsamaya go sa le gale.** Tswa kwa ntle kgotsa nna fa letlhakoreng la fensetere motshegare, mme o thuse motho yo o mo tlhokomelang go nna a tsogile mmele letsatsi le letsatsi. Lesedi le le phatsimang le ka thusa go baakanya nako ya mmele.
+2. **Rulaganya ditirwana tse di tlhokang maatla mo mosong.** Leka go tlhapa mo mosong kgotsa go ja dijo tse dikgolo tsa letsatsi motshegare wa sethoboloko.
+3. **Dira gore boroko jwa motshegare bo nne bokhutshwane e bile bo nne go sa le gale.** Fokotsa go otsela thari mo tshokologong ya letsatsi.
+4. **Dira gore maitseboa a nne a ritibetse.** Fokotsa dipone, fokotsa modumo mme o tshameke mmino o o ritibatsang fa motho yo o mo tlhokomelang a o itumelela. Kaedi ya rona ya [go se iketle mo tshokologong ya letsatsi](/caregiving/late-day-restlessness/) e na le dikakanyo tse dingwe.
+5. **Boloka thulaganyo e e tlhomameng ya nako ya go robala.** Go buisetsa kwa godimo ka nako e e tshwanang bosigo bongwe le bongwe ke sekai sengwe sa NIA. [Thulaganyo e e tlhomameng ya letsatsi le letsatsi](/activities/daily-routine/) le yone e a thusa.
+6. **Fokotsa kafeine le bojalwa.**
+7. **Dirisa dipone tse dinnye tsa bosigo** mo phaposing ya boroko, mo phasejeng le mo ntlwaneng ya botlhapelo.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Fa motho a tsoga bosigo, [dikakantsho tsa pabalesego ya kwa gae tsa NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) di akaretsa dipone tse dinnye tsa bosigo kgotsa disensara tsa dipone tse di itshimololang, mepara ya go itshwarelela mo ntlwaneng ya botlhapelo, theipi ya mebala e e phatsimang mo dintlheng tsa ditepisi, le melemo e e bolokilweng mo lefelong le le lotletsweng.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Tirwana e khutshwane, e e didimetseng maitseboa e ka thusa gore lo bobedi lo ritibale. Leka khefu e e bonya ya [Calm Breathing](/games/calm-breathing/) kgotsa [Conversation Cards](/games/conversation-cards/) di se kae tse di ritibetseng. Tlogela sengwe le sengwe se se tsosang maikutlo fa nako ya go robala e le gaufi, mme o emise nako nngwe le nngwe fa motho yo o mo tlhokomelang a ikutlwa a lekane.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Boroko jo bo kgaogakgaogang bo ka lapisa le batlhokomedi. [Kaedi ya rona ya go itlhokomela ga motlhokomedi](/caregiving/caregiver-self-care/) e akaretsa ditsela tsa go ikhutsa le go bona thuso.
 
-## What about sleep apnea?
+## Go tweng ka sleep apnea?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sleep apnea e dira gore go hema go eme ka nakwana fa motho a robetse, gantsi makgetlo a mantsi mo bosigong. NIA e re fa e sa alafiwe, e ka baka mathata a a jaaka kgatelelo e e kwa godimo ya madi, seterouku kgotsa go latlhegelwa ke kgopolo. Ditshupo di akaretsa go gona ka modumo o mogolo le go ikutlwa o otsela motshegare, mme batho ba le bantsi ga ba itse gore ba na le yone. The Lancet Commission e tlhalosa tshekatsheko ya dithutopatlisiso di le 11 moo batho ba ba nang le sleep apnea ba neng ba na le kotsi e e kwa godimo ka mo e ka nnang 43% ya dementia. Le fa go ntse jalo, ke dithutopatlisiso di sekae fela tsa tsone tse di neng tsa akanyetsa boima jwa mmele, ka jalo kamano eno ga e a tlhomama.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sleep apnea e ka tlhatlhobiwa le go alafiwa. NIA e bolela gore motšhine wa CPAP mo e ka nnang ka metlha o a thusa. Fa wena kgotsa motho yo o mo tlhokomelang a gona ka modumo o mogolo, a ema go hema fa a robetse, kgotsa a otsela thata motshegare, bolelela ngaka.
 
-## A note about sleep medicines
+## Temogo ka melemo ya boroko
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ga re neye kgakololo ka melemo ya boroko kgotsa ditlaleletso. NIA e tlhalosa gore melemo ya boroko e ka thusa ka lobakanyana, mme ga se kalafi ya go tlhoka boroko. Gape e tlhalosa gore melemo mengwe e e fiwang go thusa batho ba ba tshelang le Alzheimer's go robala e ka oketsa kotsi ya go ikutlwa o dikologa, go wa le go tlhakatlhakana. O se ka wa simolola, wa emisa kgotsa wa fetola molemo ope wa boroko, go akaretsa le melemo ya boroko e e rekwang kwantle ga lengwalo la ngaka, kwa ntle ga go bua le ngaka kgotsa mokemisi.
 
-## Talk with a doctor
+## Bua le ngaka
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Bona ngaka fa wena kgotsa motho yo o mo tlhokomelang a lapile ka metlha, a na le bothata jwa go robala mo masigong a le mantsi, a gona thata, kgotsa a ema go hema ka dinako dingwe bosigo. Fa mathata a boroko mo dementia a tswelela, [NIA e gakolola](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) go batla kgakololo ya bongaka. Tlhahlobo e ka bona dibaka tse di jaaka botlhoko, bothata jo bongwe jwa boroko, bolwetse, kgotsa ditlamorago tsa melemo. Tlhakatlhakano e e tlang ka tshoganyetso, kgotsa phetogo e e tlang ka tshoganyetso mo borokong mmogo le tlhakatlhakano, e tlhoka tlhokomelo ya ka bonako. Bala [leng go bona ngaka](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Tsebe eno ke tshedimosetso ya kakaretso, ga se kgakololo ya bongaka. Bona [tlhagiso ya rona ya bongaka](/medical-disclaimer/).
