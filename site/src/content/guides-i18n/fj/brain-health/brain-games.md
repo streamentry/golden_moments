@@ -1,35 +1,35 @@
 ---
-title: "Era Tarova Li na Qito ni Monalivaliva na Dementia?"
-seoTitle: "Qito ni Monalivaliva kei na Dementia: Na iVakamacala"
-description: "Na ka e tukuna na vakadidike me baleta na qito ni monalivaliva kei na dementia: vakaukauataki ni vakasama, ACTIVE, kei na Lumosity."
+title: "Era Tarova li na Qito ni Vakasama na Dementia?"
+seoTitle: "Era Tarova li na Qito ni Vakasama na Dementia?"
+description: "Na ka e tukuna na dikevi me baleta na qito ni vakasama kei na dementia: veivakauqeti ni vakasama, vuli ni vakasama ena kompiuta, na ACTIVE, kei na Lumosity."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  E sega ni dua na qito ni monalivaliva e vakaraitaki ni tarova na dementia.
-  Na vakatovotovo ni monalivaliva e vakavinakataka vakalevu na ka era vakatovotovo
-  tiko kina na tamata. E dua na vakadidike mai na ACTIVE e semata e dua na
-  vakanananu totolo vata kei na soqoni ni veivakaukauataki ki na lailai ni
-  iwiliwili ni dementia ena loma ni 20 na yabaki, e dua ga na ka lailai e kune.
-  Vei ira era sa bula tiko kei na dementia, na veisoqoni ni vakaukauataki ni
-  vakasama e vakaraitaka na yaga lailai ka lekaleka. Na qito e vinaka me
-  marautaki kei na veitokani.
+  E sega ni dua na qito ni vakasama e vakaraitaki ni tarova na dementia. Na
+  vuli ni vakasama ena kompiuta e vakavinakataka vakalevu ga na veiqaravi era
+  vakatovolea tiko na tamata. E dua na dikevi mai na ACTIVE e semata e dua na
+  vuli ni totolo vata kei na veituberi ni veivakayadrati kei na lailai sobu ni
+  lewena era kilai kei na dementia ena 20 na yabaki, e dua na ka lailai.
+  Me baleti ira era sa bula vata kei na dementia, na veivakauqeti ni vakasama
+  ena ilawalawa e vakaraitaka eso na yaga lalai, lekaleka ga na kena gauna.
+  Na qito e vinaka me marautaki ga ena kena taleitaki kei na veitokani.
 keyPoints:
-  - "Na vakadidike ni vakanananu e vakaraitaka ni vinaka cake na tamata ena ka era vakatovotovo tiko kina, ia e lailai na ivakadinadina ni yaco oqo ki na bula ni veisiga."
-  - "Ena ACTIVE, o ira ga era cakava e dua na vakanananu totolo vata kei na soqoni ni veivakaukauataki era lailai sobu na iwiliwili ni dementia ena 20 na yabaki. Na vakanananu totolo sega ni veivakaukauataki, kei na vakanananu ni nanuma kei na vakasama, era sega ni vakaraitaka oqo."
-  - "Ena 2016, e sauma na $2 milioni na kabani ni Lumosity me walia na veibeitaki ni FTC ni sega na kena ivakadinadina vakasaenisi me baleta na nodra kaya ni berabera na dementia."
-  - "Vei ira era bula tiko kei na dementia lailai se veimama, na veisoqoni ni vakaukauataki ni vakasama e vakaraitaka na yaga lailai ka lekaleka ena vakasama, kei na yaga matata cake ena veivosaki kei na veimaliwai."
-  - "Na qito ni Golden Moments e baleta na marau kei na gauna vata. E sega ni wai ni veiqaravi, ka sega ni tarova se vakaberaberataka na dementia."
+  - "Na dikevi ni vuli ni vakasama e vakaraitaka ni tamata era vinaka cake ena veiqaravi era vakatovolea, ia e lailai na iVakadinadina ni yaco oqo ki na bula ni veisiga."
+  - "Ena dikevi na ACTIVE, o ira ga era cakava e dua na vuli ni totolo vata kei na veituberi ni veivakayadrati era lailai sobu na lewena era kilai kei na dementia ena 20 na yabaki. Na vuli ni totolo ka sega na veituberi, kei na vuli ni nanuma kei na vuli ni vakasama, era sega ni vakaraitaka na ka oqo."
+  - "Ena 2016, na kabani e cakava na Lumosity e sauma na $2 million me vakadeitaka na veibeitaki ni FTC ni sega na vakadidike me tokona na nona kaya ni vakaberaberataka na dementia."
+  - "Me baleti ira era tu vata kei na dementia malumalumu se veimama, na ilawalawa ni veivakauqeti ni vakasama e vakaraitaka eso na yaga lalai, lekaleka ga me baleta na vakasama, kei na yaga matata cake ena veivosaki kei na veimaliwai vakaveiwekani."
+  - "Na qito ni Golden Moments e baleta na marau kei na gauna vata. E sega ni wainimate, ka sega ni tarova se vakaberaberataka na dementia."
 faq:
-  - q: "Era tarova li na qito ni monalivaliva na Alzheimer’s?"
-    a: "E sega ni dua na qito ni monalivaliva e vakadinadinataki ni tarova na Alzheimer’s se so tale na dementia. E kaya na National Institute on Aging ni sega ni rauta na ivakadinadina ni yaco vei ira na app ni vakanananu ni volivoli na ka e laurai ena vakadidike. Ia, na qito e rawa ni dua na sala vinaka ni vakayagataka na gauna."
-  - q: "Na cava e kunea na ACTIVE me baleta na vakanananu totolo kei na dementia?"
-    a: "E dua na vakadidike ena 2026 e semata na lewe ni ACTIVE kei na ivolatukutuku ni Medicare ena 20 na yabaki. O ira era cakava na vakanananu totolo kei na dua se sivia na soqoni ni veivakaukauataki era lailai sobu na dementia e kilai. Na vakanananu totolo sega ni veivakaukauataki, kei na vakanananu ni nanuma se vakasama, era sega ni vakaraitaka na revurevu matata."
-  - q: "Era vinaka li na qito kei na paseli vei e dua e sa bula tiko kei na dementia?"
-    a: "E rawa, kevaka e taleitaka. Na veisoqoni ni vakaukauataki ni vakasama, e oka kina na qito ni vosa, paseli, sere kei na veitalanoa, e vakaraitaka na yaga lailai ka lekaleka ena vakasama kei na yaga matata cake ena veivosaki kei na veimaliwai. Na marau, sega ni macala ni veitarogi, na inaki dodonu."
-  - q: "Na cava na vuna e totogitaki kina na Lumosity mai na FTC?"
-    a: "Ena 2016, e beitaki ira na Lumos Labs na Federal Trade Commission ni kaya na ka me baleta na nodra qito, oka kina na berabera ni malumalumu ni yabaki kei na dementia, ka sega na ivakadinadina vakasaenisi. E vakadonu na kabani me sauma na $2 milioni ka me tiko na ivakadinadina vakasaenisi ni nuitaki ni bera ni kaya tale na ka vaka oya."
+  - q: "Era tarova li na qito ni vakasama na Alzheimer’s?"
+    a: "E sega ni dua na qito ni vakasama e vakadinadinataki ni tarova na Alzheimer’s se so tale na dementia. Na National Institute on Aging e kaya ni sega soti na iVakadinadina ni nodra app ni vuli ni vakasama era volitaki e vaka na revurevu e laurai ena dikevi ni vakadidike. Na qito e rawa ni dua ga na sala vinaka me vakayagataki kina na gauna."
+  - q: "Na cava e kunea na dikevi na ACTIVE me baleta na vuli ni totolo kei na dementia?"
+    a: "E dua na vakadikevi ena 2026 e semata na tamata era curu ena ACTIVE kei na ivolatukutuku ni Medicare ena 20 na yabaki. O ira era cakava na vuli ni totolo ni cakacaka ni vakasama vata kei na dua ga na veituberi ni veivakayadrati era lailai sobu na kedra iwiliwili era kilai kei na dementia me vakatauvatani kei na ilawalawa ka sega ni vuli. Na vuli ni totolo ka sega na veituberi, kei na vuli ni nanuma se na vuli ni vakasama, era sega ni vakaraitaka e dua na revurevu bibi."
+  - q: "Era vinaka li na puzzle kei na qito me baleta e dua e sa bula vata kei na dementia?"
+    a: "E rawa, kevaka e taleitaka na tamata. Na veivakauqeti ni vakasama ena ilawalawa, ka oka kina na qito ni vosa, puzzle, ivakatagi kei na veivosaki, e vakaraitaka eso na yaga lalai, lekaleka ga me baleta na vakasama kei na yaga matata cake me baleta na veivosaki kei na veimaliwai vakaveiwekani. Na marau, sega ni dua na macala ni veitarogi, na inaki dodonu."
+  - q: "Na cava e totogitaki kina na Lumosity mai na FTC?"
+    a: "Ena 2016 na Federal Trade Commission e beitaki ni Lumos Labs e cakava eso na kaya me baleta na nona qito, oka kina na vakaberaberataka ni malumalumu ni yabaki kei na dementia, ka sega na vakadidike me tokona. Na kabani e vakadonuya me sauma na $2 million kei na kena tiko na iVakadinadina vakadidike e nuitaki ni bera ni cakava tale na kaya vaka o ya ena gauna mai muri."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -60,185 +60,159 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Na qito ni monalivaliva e tu ena veiyasai vuravura, ka vuqa era yalataka ni
-maroroya na nomu vakasama me gone. Kevaka o qaravi ira e dua e bula tiko kei na
-dementia, se o kauwai ena nomu nanuma, e ka dodonu me o nanuma kevaka e rawa ni
-veivuke na qito. Oqo na ka e vakaraitaka dina na vakadidike, oka kina na veika
-e veivakauqeti kei na veika e sega.
+Na qito ni vakasama e tu ena veiyasana kece, ka levu era yalataka ni maroroya na nomu vakasama me cauravou. Kevaka o qarava e dua e bula vata kei na dementia, se o kauwaitaka na nomu nanuma, e ka dina ga mo via kila kevaka na qito oqo e rawa ni vukea. Oqo na ka dina e vakaraitaka na dikevi, oka kina na veika e vakayaloqaqataki kei na veika e sega.
 
-Oqo na itukutuku raraba ga, sega ni ivakasala vakavuniwai. Raica na noda
-[itukutuku ni vakatabakidua vakavuniwai](/medical-disclaimer/).
+Oqo na itukutuku raraba, sega ni ivakasala vakavuniwai. Raica na noda
+[itukutuku ni kena sega ni ivakasala vakavuniwai](/medical-disclaimer/).
 
-## Era tarova li na qito ni monalivaliva na dementia?
+## Era tarova li na qito ni vakasama na dementia?
 
-E sega ni dua na qito ni monalivaliva e vakadinadinataki ni tarova na dementia.
-Na National Institute on Aging (NIA) e vakasalataki ira na tamata me ra qarauna
-na veika e tukuni ni na vakavinakataka na nanuma na qito ena kompiuta kei na
-initaneti, ka kaya ni sega ni rauta na ivakadinadina ni dua na app ni
-vakanananu ni volivoli e yaco vata na revurevu kei na vakanananu e vakatovolei
-ena vakadidike ([NIA me baleta na tarova na Alzheimer’s](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+E sega ni dua na qito ni vakasama e vakadinadinataki ni tarova na dementia. Na National Institute on
+Aging (NIA) e vakasalataki ira na tamata me ra qarauna na kaya ni qito ena kompiuta kei na initaneti
+e rawa ni vakavinakataka na nanuma, ka kaya ni sega soti na iVakadinadina ni dua na
+app ni vuli ni vakasama e volitaki e tautauvata na kena revurevu kei na vuli e dikevi ena
+dikevi vakavuniwai ([NIA me baleta na tarovi ni Alzheimer’s](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Oqo e sega ni kaya ni sega na yaga ni qito. E kaya ga ni nodra yaga e tu ena
-marau, na veitokani, kei na ivakarau ni veisiga, sega ni baleta na taqomaki mai
-na dementia.
+Na ka oqo e sega ni kena ibalebale ni qito e sega na kena yaga. E kena ibalebale ni
+yaga levu e tu ena marau, na veitokani kei na ivakarau, sega ni ena taqomaki kina e dua mai na dementia.
 
-## Na cava na „near transfer“, ka cava na vuna e yaga kina?
+## Na cava na “near transfer”, ka cava na vuna e bibi kina?
 
-Ni o vakatovotovo ena dua na ka, e dau vinaka cake kina o iko ena ka oya. Na
-dauvakadidike era vakatoka oqo me revurevu ni vakanananu. Na taro dredre cake
-se na vinaka oya e **veisau** ki na so tale na ka: ki na ka voleka (near
-transfer) se ki na bula ni veisiga, me vaka na nanuma na veituvatuva se na
-qaravi ni ilavo (far transfer).
+Ni o vakatovolea e dua na cakacaka, e dau vinaka cake na nomu cakava. Na dauvakadidike era vakatoka
+oqo me revurevu ni vuli. Na taro dredre cake se na veivinakataki oqo e **veisautaka** ki na so tale na ka:
+ki na cakacaka e voleka (near transfer) se ki na bula ni veisiga, me vaka na nanumi ni veitokani se na qaravi ni ilavo (far transfer).
 
-E dua na railesu lelevu ena 2016 e dikeva na vakadidike era cavuta na kabani ni
-vakanananu me nodra ivakadinadina vinaka duadua. A kunea ni levu na
-ivakadinadina ni vinaka cake na tamata ena ka era vakatovotovo kina, lailai
-sobu na ivakadinadina ni vinaka cake ena ka voleka, ka lailai sara na
-ivakadinadina ni vakavinakataka na vakanananu ena bula ni veisiga. E vuqa tale
-na vakadidike e tiko na leqa ni kena ituvatuva ka dredre kina me yaco na
-ivakasala dei
+E dua na railesu levu ena 2016 e dikeva na dikevi era cavuta na kabani ni vuli ni vakasama
+me nodra iVakadinadina vinaka duadua. E kunea e levu na iVakadinadina ni tamata era vinaka cake ena
+cakacaka era vuli kina, lailai sobu na iVakadinadina ni ra vinaka cake ena cakacaka e voleka, ka
+lailai sara na iVakadinadina ni vuli e vakavinakataka na vakasama ni veisiga. E levu tale ga na dikevi
+e tiko na leqa ena nodra ituvatuva ka vakadredretaka na kena rawa ni tinia vakadua
 ([Simons kei ira tale, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## Na cava era kaya na railesu me baleta na vakanananu ena kompiuta?
+## Na cava era kaya na railesu me baleta na vuli ni vakasama ena kompiuta?
 
-Na railesu ni Cochrane, era cokovata na vakadidike vinaka duadua, era raica na
-vakanananu ena kompiuta e 12 na macawa se sivia:
+Na railesu ni Cochrane, era vakasoqoni vata na dikevi vinaka duadua era tu, era raica na
+vuli ena kompiuta e 12 na macawa se sivia:
 
-- **Tamata bula vinaka era 65 na yabaki se sivia:** e 8 na vakadidike kei na 1,183
-  na tamata. Na ivakadinadina e lailai se lailai sara na kena ivakarau. E rawa ni
-  tiko e dua na yaga lailai ni oti na vakanananu, ia sega na ivakadinadina
-  matata ni tudei
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **O ira era malumalumu vakalailai na nodra vakasama:** e 8 na vakadidike kei na
-  660 na tamata. E sega ni dua na vakadidike e tukuna se ra yaco ki na dementia,
-  ka malumalumu sara na ivakadinadina me rawa ni yaco kina e dua na ivakasala
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Tamata bulabula yabaki 65 kei na sivia:** e walu na dikevi kei na 1,183 na tamata. Na iVakadinadina
+  e lailai se lailai sara na kena ivakarau. E rawa ni tiko e dua na yaga lailai sara ni oti na
+  vuli, ka sega na iVakadinadina matata ni tudei
+  ([Railesu ni Cochrane, qase bulabula](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **O ira era tu vata kei na malumalumu lailai ni vakasama:** e walu na dikevi kei na 660 na tamata. E sega
+  ni dua na dikevi e tukuna se ra yaco na tamata ki na dementia, ka na iVakadinadina e malumalumu sara me
+  rawa ni tinia kina e dua na ka
+  ([Railesu ni Cochrane, malumalumu lailai ni vakasama](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## Na cava e kunea na vakadidike ni ACTIVE?
+## Na cava e kunea na dikevi na ACTIVE?
 
-Na ACTIVE e dua na vakadidike levu mai Amerika e tekivu ena 1998 kei na 2,802
-na tamata era 65 na yabaki se sivia, era bula tu vakataki ira ka sega na leqa
-levu ni nanuma se vakasama. Era lesi vakawasoma na tamata ki na dua vei na tolu
-na mataqali vakanananu ena ilawalawa lailai (totolo ni cakacaka, nanuma, se
-vakasama) se ki na ilawalawa sega ni veitaratara. Na vakanananu e yacova na
-tini na soqoni ena loma ni lima ki na ono na macawa. Eso era otiya e vuqa na
-soqoni era soli tale vakawasoma na **soqoni ni veivakaukauataki** ena rauta ni
-dua kei na tolu na yabaki e muri.
+Na ACTIVE e dua na dikevi levu mai Amerika e tekivu ena 1998 kei na 2,802 na tamata yabaki 65 kei na
+sivia era bula vakataki ira ka sega ni tu vata kei na leqa levu ni nanuma se vakasama. Na tamata era lesi
+vakawasoma ki na dua vei na tolu
+na mataqali vuli ena ilawalawa lalai (totolo ni cakacaka, nanuma, se vakasama) se ki na
+ilawalawa ka sega ni veitaratara. Na vuli e yacova na tini na soqoni ena loma ni lima ki na ono na macawa. Eso
+na tamata era vakacavara e levu na soqoni era soli tale ga vakawasoma na **veisoqoni ni veivakayadrati**
+ena rauta ni dua kei na tolu na yabaki oti.
 
-Na vakanananu totolo e okati kina na raica kei na cakacaka ni itukutuku ena
-gauna lekaleka sara, ka veisautaki na kena dredre ni ra vinaka cake na tamata.
+Na vuli ni totolo e okati kina na raici kei na cakacaka ni itukutuku vakarai ena
+gauna lekaleka sara, ena dua na ivakatagedegede e veisau ni ra vinaka cake na tamata.
 
-Ena 2026, era semata na dauvakadidike e 2,021 na lewe ki na nodra ivolatukutuku
-ni Medicare ena 20 na yabaki ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Oqo na ka era kunea:
+Ena 2026, na dauvakadidike era semata na 2,021 na tamata era curu ki na nodra ivolatukutuku ni Medicare me 20
+na yabaki ([Vakadikevi ni ACTIVE ena 20 na yabaki](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Oqo na ka dina era kunea:
 
-- **Vakanananu totolo vata kei na dua se sivia na soqoni ni veivakaukauataki:** e
-  lailai sobu na iwiliwili ni dementia e kilai mai na ilawalawa sega ni
-  veitaratara (e dua na hazard ratio ni 0.75, e kena ibalebale voleka ni 25%
-  lailai sobu).
-- **Vakanananu totolo sega ni soqoni ni veivakaukauataki:** sega ni lailai sobu.
-- **Vakanananu ni nanuma se vakasama:** sega na revurevu matata ena iwiliwili ni
-  dementia e kilai.
-- **Na ilawalawa yadua me taucoko ni vakatauvatani kei na ilawalawa sega ni
-  veitaratara:** e laurai e dua na ivakarau ni lailai sobu, ia sega ni matata
-  vakalailai.
+- **Vuli ni totolo vata kei na dua ga na veituberi ni veivakayadrati:** e lailai sobu na iwiliwili ni
+  dementia e kilai me vakatauvatani kei na ilawalawa ka sega ni veitaratara (e dua na hazard ratio ni 0.75, ka
+  kena ibalebale voleka e 25% lailai sobu na iwiliwili).
+- **Vuli ni totolo ka sega na veituberi:** e sega ni lailai sobu na iwiliwili.
+- **Vuli ni nanuma se vakasama:** e sega ni dua na revurevu bibi ena kilai ni dementia.
+- **Na ilawalawa vuli yadua taucoko me vakatauvatani kei na ilawalawa ka sega ni veitaratara:** e
+  tiko e dua na kena ivakarau ki na iwiliwili lailai sobu, ia sega ni bibi ena vakadidike ni naba.
 
-### Na kena iyalayala
+### Na yalayala ni ka e kunei oqo
 
-- E baleta ga **e dua na mataqali vakanananu totolo e qaravi vata kei na soqoni
-  ni veivakaukauataki**, sega ni baleta na qito ni monalivaliva taucoko.
-- Na macala matata e yaco mai na **ilawalawa lailai** (o ira era otiya e vuqa na
-  soqoni taumada ka soli vei ira na veivakaukauataki), sega mai na ilawalawa
-  taucoko ni vakanananu totolo.
-- Na dementia e vakarautaki ena **ivakatakilakila ni mate ena ivolatukutuku ni
-  Medicare**, sega ni dikevi yadua na tamata. E rauta ni dua na ikava na lewe
-  taumada era biu laivi baleta ni ra curu ena Medicare Advantage, ka sega kina
-  na ivolatukutuku taucoko.
-- Na lewe era sega ni leqa levu ni vakasama ni ra tekivu. Na macala oqo e sega ni
-  tukuna e dua na ka me baleta na qito vei ira era **sa bula tiko kei na
-  dementia**.
+- E yaga ga ki na **dua na mataqali vuli ni totolo e vakatulewataki vata kei na veituberi ni
+  veivakayadrati**, sega ki na qito ni vakasama raraba.
+- Na macala bibi e laurai mai na **ilawalawa lalai** (o ira era vakacavara e levu na soqoni taumada
+  ka soli vei ira na veituberi), sega mai na ilawalawa taucoko ni totolo.
+- Na dementia e vakarautaki ena **ivakatakilakila ni kilai ena ivolatukutuku ni Medicare**, sega ni ena
+  dikevi vakadua na tamata yadua. E rauta ni dua na ikava ni tamata taumada era biu laivi baleta ni ra
+  curu ena Medicare Advantage, ka sega ni taucoko na kena ivolatukutuku.
+- Na tamata era curu era sega ni tu vata kei na leqa levu ni vakasama ni ra tekivu. Na
+  macala oqo e sega ni tukuna e dua na ka me baleta na qito me baleti ira **era sa bula vata kei na dementia**.
 
-E dua na macala taleitaki ka gadrevi kina na vakadidike tale. Ia e sega ni
-ivakadinadina ni dua na app e tarova na dementia.
+E dua na macala taleitaki ka dodonu me vakadikevi tale. E sega ni iVakadinadina
+ni dua na app e tarova na dementia.
 
 ## Na cava e kaya na FTC me baleta na Lumosity?
 
-Ena Janueri 2016, na Lumos Labs, na kabani ni Lumosity, e vakadonu me sauma na
-$2 milioni me walia na veibeitaki ni Federal Trade Commission ni volivolitaki
-vakaveivakaisini. E kaya na FTC ni kaya na kabani, ka sega na ivakadinadina
-vakasaenisi, ni na vakavinakataka na cakacaka ena vanua ni cakacaka kei na
-vuli, ka na berabera na malumalumu ni yabaki, na malumalumu vakalailai ni
-vakasama, na dementia kei na Alzheimer’s. Na ivakaro e vinakata me tiko vei ira
-na ivakadinadina vakasaenisi ni nuitaki ni bera ni ra kaya tale na ka vaka oya
-([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Ena Janueri 2016, na Lumos Labs, na kabani e cakava na Lumosity, e vakadonuya me sauma na $2 million me
+vakadeitaka na veibeitaki ni Federal Trade Commission me baleta na itukutuku veivakacalai. Na FTC e kaya
+ni kabani e kaya, ka sega na vakadidike e veiganiti, ni nona qito e rawa ni vakavinakataka
+na cakacaka ena cakacaka kei na vuli ka rawa ni vakaberaberataka na malumalumu ni yabaki, malumalumu lailai ni
+vakasama, dementia kei na Alzheimer’s. Na ivakarau e vinakata na kabani me
+tu vua na iVakadinadina vakadidike e nuitaki ka veiganiti ni bera ni cakava na kaya vaka o ya ena
+gauna mai muri ([Itukutuku ni FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-Na vuli vei ira na matavuvale: mo vakabauta vakalailai na dua na qito, app se
-parokaramu e yalataka ni taqomaka na nanuma se tarova na dementia.
+Na lesoni me baleta na vuvale: mo vakataroga vakavinaka na dua na qito, app se parokaramu e yalataka
+ni taqomaka na nanuma se tarova na dementia.
 
-## Era rawa li ni veivuke na qito vei e dua e sa bula tiko kei na dementia?
+## Era rawa li ni vukea na qito e dua e sa bula vata kei na dementia?
 
-Era rawa ni vakuria na vinaka ni dua na siga, ka bibi sara oya. Na iwalewale e
-vakadidike vakalevu duadua na **vakaukauataki ni vakasama**: na itaviqaravi ni
-ilawalawa e marautaki me vaka na veitalanoa, na nanuma lesu, na qito ni vosa,
-paseli kei na sere, e dau vakayacori ena ilawalawa lailai ka liutaki mai vua e
-dua na dauveiliutaki.
+Era rawa ni kuria e dua na siga vinaka, ka bibi sara na ka oqo. Na sala e dikevi vinaka duadua
+e **veivakauqeti ni vakasama**: na itaviqaravi marautaki ena ilawalawa me vaka na
+veivosaki, nanumi lesu, qito ni vosa, puzzle kei na ivakatagi, e dau caka ena dua na ilawalawa
+lailai ka liutaki mai vua e dua na dauveiliutaki.
 
-E dua na railesu ni Cochrane ena 2023 mai na 37 na vakadidike kei na 2,766 na
-tamata era bula tiko kei na dementia lailai ki na veimama e kunea
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+E dua na railesu ni Cochrane ena 2023 mai na 37 na dikevi kei na 2,766 na tamata era tu vata kei na dementia malumalumu ki na veimama e kunea
+([Railesu ni Cochrane me baleta na veivakauqeti ni vakasama](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- e dua na **yaga lailai ka lekaleka** ena veitarogi ni vakasama (ivakadinadina
-  ni ivakarau veimama);
-- **na vinaka cake e yaga dina ena veivosaki kei na veimaliwai** (ivakadinadina
-  cecere, mai na lailai ni vakadidike);
-- **yaga lailai** ena ivakarau ni bula, na yalo, kei na itovo.
+- e dua na **yaga lailai, lekaleka ga** ena veitarogi ni vakasama (iVakadinadina ni ivakarau veimama);
+- **veivinakataki bibi ena veivosaki kei na veimaliwai vakaveiwekani**
+  (iVakadinadina cecere, mai na lailai na iwiliwili ni dikevi);
+- **yaga lalai** me baleta na ivakarau ni bula, na yalo kei na itovo.
 
-Na yaga e dau vakarautaki ni oti ga na parokaramu e rauta ni tini na macawa, ka
-lailai na vakadidike era raica se tudei. Na vakaukauataki ni vakasama e dua na
-parokaramu ni ilawalawa e tuvanaki, ka na macala oqo e sega ni yaco vakadodonu
-ki na tamata e qito duadua ga ena dua na tablet.
+Na yaga e vakarautaki vakalevu ga ni oti na parokaramu e rauta ni tini na macawa, ka lailai na
+dikevi era raica se tudei. Na veivakauqeti ni vakasama e dua na parokaramu tuvanaki
+ena ilawalawa, ka kena ibalebale na macala oqo e sega ni yaga vakasauri ki na dua e qito
+duadua ga ena dua na tablet.
 
-Na 2024 Lancet Commission e kaya tale ni bibi na parokaramu ni itaviqaravi vei
-ira era bula tiko kei na dementia, me maroroi na marau kei na inaki
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Na Komisini ni Lancet ena 2024 e kaya tale ga ni parokaramu ni itaviqaravi e bibi me baleti ira
+era bula vata kei na dementia, me maroroi na marau kei na inaki
+([Komisini ni Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## Na cava dina na yaga ni qito?
+## Na cava dina era vinaka kina na qito?
 
 Ni digitaki vakavinaka, na qito e rawa ni solia:
 
-- **Marau.** E yaga na dua na aua veimama ni marau ena vuku ni marau ga.
-- **Veimaliwai.** Na qito vata e solia e dua na ka rawarawa mo wasea ni dredre
-  na veitalanoa. Raica [na sala ni qito vata](/caregiving/how-to-play-together/).
-- **Ivakarau.** E dua na itaviqaravi kilai ena gauna vata e veisiga e rawa ni
-  kauta mai na vakacegu.
-- **Nuinui.** Na itaviqaravi e veiganiti kei na ka e rawa tiko ni cakava vinaka e
-  dua na tamata e vakavuna me rawa ni vakila ni rawata, sega ni vakatovolei.
-- **Veitalanoa.** E dua na iyaloyalo se dua na vosa kilai e rawa ni dola e dua na
-  italanoa. Tovolea na [kadi ni veitalanoa](/games/conversation-cards/) se
+- **Marau.** E dua na aua veimama marautaki e yaga me vaka tu ga.
+- **Veikabula vata.** Na qito vata e solia e dua na ka rawarawa mo veiwasei kina ni
+  dredre na veivosaki. Raica [na sala ni qito vata](/caregiving/how-to-play-together/).
+- **iVakarau.** E dua na itaviqaravi kilai ena gauna vata ena veisiga e rawa ni kauta mai na vakacegu.
+- **Nuitaki koya.** Na itaviqaravi e veiganiti kei na ka e rawa tiko ni cakava vinaka e dua na tamata e
+  vakila kina ni rawa ka, sega ni vakatovolei.
+- **Veivosaki.** E dua na iyaloyalo se dua na vosa kilai e rawa ni dolava e dua na italanoa. Tovolea na
+  [kadi ni veivosaki](/games/conversation-cards/) se
   [vakacavara na vosa kilai](/games/finish-the-saying/).
 
-Na ka mo levea: na ivakarau ni gauna, na sikoa, na ivakarau ni tomana, kei na ka
-e vakila me vaka e dua na veitarogi ni nanuma. Kevaka e rarawa na tamata, mo
-muduka. Na mudu totolo, se na tiko vata ga, e dua na macala vinaka. Na noda
-idusidusi me baleta na [digitaki ni app kei na qito](/caregiving/choosing-apps-and-games/)
-e tiko kina e dua na lisi ni vakadikevi.
+Na ka mo levea: na ivakarau ni gauna, na sikoa, na itukutuku ni veitaravi kei na ka kece e vakilai me vaka e dua na veitarogi ni nanuma.
+Kevaka e lomaleqa na tamata, mo muduka. Na tinia taumada, se na tiko vata ga,
+e dua na macala vinaka. Na noda ivakasala me baleta na
+[digitaki ni app kei na qito](/caregiving/choosing-apps-and-games/) e tiko kina e dua na lisi ni dikevi.
 
-## Na vanua e tu kina na Golden Moments
+## Na vanua e tiko kina na Golden Moments
 
-Na qito ni Golden Moments, me vaka na [veitauvi iyaloyalo](/games/picture-pairs/),
-[paseli ni iyaloyalo](/games/picture-puzzle/) kei na
-[vakasaqara vosa levu na kena mata](/games/word-search/), era caka me baleta na
-marau kei na gauna vata. E sega na ivakarau ni gauna ka sega na sikoa. Era **sega**
-ni wai ni veiqaravi, ka era **sega** ni tarova se vakaberaberataka na dementia. E
-vinaka cake meda tukuna vakadodonu oqo mai na yalataka e dua na ka e sega ni
-rawa ni vakayacora e dua na qito.
+Na qito ni Golden Moments, me vaka na [veivoli iyaloyalo](/games/picture-pairs/),
+[puzzle ni iyaloyalo](/games/picture-puzzle/) kei na
+[vakasaqara vosa levu na kena mata](/games/word-search/), era caka me baleta na marau kei na
+gauna vata. E sega na ivakarau ni gauna ka sega na sikoa. Era **sega** ni wainimate, ka era **sega**
+ni tarova se vakaberaberataka na dementia. Keimami vinakata
+me tukuna vakadodonu na ka oqo, ka sega ni yalataka e dua na ka e sega ni rawa ni vakayacora e dua na qito.
 
-## Veitalanoa kei na vuniwai
+## Veivosaki kei na vuniwai
 
-Kevaka o kauwai ena veisau ni nanuma vei iko se vei na tamata o qarava, mo lai
-raici vuniwai ka kua ni vakararavi ga ki na app. E rawa ni raica na vuniwai na
-vuna e rawa ni qaravi ka veitalanoa ena ikalawa e vinaka na kena ivakadinadina,
-me vaka na qaravi ni tutuvi ni dra kei na dikevi ni rogoca. Raica
-[E rawa li ni tarovi na dementia?](/brain-health/can-dementia-be-prevented/) me
-baleta na ikuri ni itukutuku. Kevaka e yaco vakasauri na veilecayaki se so tale
-na veisau vakasauri, mo kerea na veivuke vakavuniwai totolo.
+Kevaka o kauwaitaka na veisau ni nanuma vei iko se vua e dua o qarava,
+mo lai raici vuniwai ka sega ni vakararavi ena dua na app. E dua na vuniwai e rawa ni raica na
+vu e rawa ni qaravi ka veivosakitaka na ikalawa e tiko kina na iVakadinadina vinaka duadua, me vaka na qaravi ni toso ni dra
+kei na dikevi ni rogoci. Raica
+[Era rawa li ni tarovi na dementia?](/brain-health/can-dementia-be-prevented/) me baleta na ikuri ni itukutuku.
+Me baleta na veilecayaki vakasauri se so tale na veisau vakasauri, mo kerea na veivuke vakavuniwai totolo.
