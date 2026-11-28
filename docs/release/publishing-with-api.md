@@ -29,7 +29,7 @@ If a path above has moved, search the key backup folders before asking.
    checkout (other sessions commit there).
 3. If `flutter pub get` fails with `Rename failed … Cross-device link`, the pub
    cache's `hosted` folder is a symlink to another drive. Set `PUB_CACHE` to a
-   folder on that same drive whose subfolders link to `~/.pub-cache/*`.
+   folder on that same drive whose entries link to `~/.pub-cache/*`.
 
 ## 2. Build
 

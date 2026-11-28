@@ -417,7 +417,8 @@
     "Luba",
     "Tshiluba",
     "Kiluba",
-    "Xitsonga"
+    "Xitsonga",
+    "retarget"
   ],
   "ignorePaths": [
     "**/docs/store-description/**",
