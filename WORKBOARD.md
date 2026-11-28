@@ -389,5 +389,9 @@ Maintainer decision 2026-11-28: allowed, because retention is too low. `docs/pla
 
 Checked on this branch: `dart format`, `flutter analyze --fatal-infos --fatal-warnings` (clean), `flutter test --coverage` (757 pass, 84.3% lines), Python tests (150), DESIGN.md lint 0/0, design-system tests. Flutter 3.47.7 on Linux; no iOS or Android build was made here.
 
-Open: the app-copy gate wants the changed keys in all 185 codes of `docs/languages.csv`, but the app has 118 language files and `fil`, `pt_BR`, `pt_PT`, `zh_Hans` and `zh_Hant` are not in the registry, so any app copy change fails it (same situation as PR #246, merged under a maintainer exception). The store release needs the signing keys and App Store Connect and Play API credentials, which live on the maintainer's Mac, not in this cloud session.
+Maintainer exception (2026-11-28, scoped to PR #312 only): merge with `app-copy-coverage` red, because the gate requires app files for 185 codes while the app ships 118, and five shipped locales are not in the registry. Every other check must be green. Fixing the gate itself is separate work.
+
+Release: the maintainer runs it on their Mac; checklist in [docs/release/app-store-1.11.0-build15.md](docs/release/app-store-1.11.0-build15.md).
+
+Background: the app-copy gate wants the changed keys in all 185 codes of `docs/languages.csv`, but the app has 118 language files and `fil`, `pt_BR`, `pt_PT`, `zh_Hans` and `zh_Hant` are not in the registry, so any app copy change fails it (same situation as PR #246, merged under a maintainer exception). The store release needs the signing keys and App Store Connect and Play API credentials, which live on the maintainer's Mac, not in this cloud session.
 
