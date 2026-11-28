@@ -71,7 +71,9 @@ already does.
   first-time downloads a day, which suggests store search for these terms is
   small (**hypothesis**).
 - **Must hold:** families come back without reminders; enough of them search or
-  are referred for activities.
+  are referred for activities. Reminders with varied wording are allowed since
+  2026-11-28, but a lift from them is not evidence for this; the reuse pilot
+  still measures unprompted return.
 - **Cheapest disproof:** the 20-household reuse pilot ([kit](../strategy/reuse-pilot.md)).
 
 ## 2. What GM does better than the best alternative
@@ -153,8 +155,11 @@ Founder-led and cheap first; no paid spend without an approved budget.
    follow up the nine October pitches.
 4. **Referral loop:** "Share with family" in the app and the handout carry the
    site; App Store campaign tokens (`ct=web`) make web-to-install visible.
-5. **Retention:** the optional reminder the caregiver sets, personal photos and
-   new local packs; never streaks or nudges.
+5. **Retention:** the optional reminder the caregiver sets, with varied
+   wording that names the day's pictures ([nudges](../retention/nudges.md);
+   maintainer decision 2026-11-28, because retention is too low), the same
+   line on Home under Today's activity, personal photos and new local packs.
+   Never streaks, and never a note the helper did not turn on.
 
 - **Counterargument:** AI answers may satisfy searches without a visit.
   **Must hold:** organizations list free tools. **Disproof:** fewer than 3
