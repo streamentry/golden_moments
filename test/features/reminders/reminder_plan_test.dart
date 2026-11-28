@@ -2,6 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:golden_moments/features/gentle_activities/models/activity_picture.dart';
+import 'package:golden_moments/features/reminders/data/nudges.dart';
 import 'package:golden_moments/features/reminders/data/reminder_plan.dart';
 import 'package:golden_moments/features/reminders/data/reminder_settings.dart';
 import 'package:golden_moments/features/todays_activity/data/todays_activity.dart';
@@ -90,22 +91,18 @@ void main() {
         ActivityPicture.samples,
       ).map((p) => p.label);
       expect(names, hasLength(3));
+      final t1 = nudgeCatalog.firstWhere((n) => n.id == 'T1');
       expect(
-        reminderFor(at, l10n).body,
-        'Three pictures are ready: ${names.join(', ')}. '
-        'A few minutes together, and you can stop at any time.',
+        reminderFor(at, l10n, line: t1).body,
+        'Three pictures are ready: ${names.join(', ')}.',
       );
     });
 
-    test('Look together days vary their words', () {
-      final bodies = {
-        for (var i = 0; i < 8; i++)
-          reminderFor(
-            dayOf(TodaysActivity.lookTogether, 9).add(Duration(days: 2 * i)),
-            l10n,
-          ).body,
-      };
-      expect(bodies, hasLength(2));
+    test('planned notes never repeat their words', () {
+      final bodies = [
+        for (final r in planReminders(_everyDay, now, l10n)) r.body,
+      ];
+      expect(bodies.toSet(), hasLength(bodies.length));
     });
 
     test('never counts, scolds or promises', () {
@@ -130,7 +127,12 @@ void main() {
 
     test('speaks the app language, picture names included', () {
       final german = lookupAppLocalizations(const Locale('de'));
-      final r = reminderFor(dayOf(TodaysActivity.dailyMoment, 10), german);
+      final t4 = nudgeCatalog.firstWhere((n) => n.id == 'T4');
+      final r = reminderFor(
+        dayOf(TodaysActivity.dailyMoment, 10),
+        german,
+        line: t4,
+      );
       expect(r.title, contains(german.wellbeingHomeDailyMoment));
       final first = dailyMomentPictures(
         r.at,

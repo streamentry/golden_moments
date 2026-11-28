@@ -376,3 +376,18 @@ Checked on this head: `check_arb.py`, `pack_text.py --check`, `store_locales.py 
 Checked: 550 lines counted by script (50 per language, slots match the English source, length caps, no exclamation marks or emoji, banned English words), relative links resolve, Python tests (150) and `release_metadata.py --check` pass. No Flutter run, because no code changed.
 
 Maintainer decision 2026-11-28: allowed, because retention is too low. `docs/plan/README.md`, `docs/plan/detail.md` and DESIGN.md (Ethical retention, Reminders) now allow varied wording in the opt-in reminder and the Home hint; streaks and notes nobody turned on stay banned. No retention figure is recorded in the repo yet; record the App Store Connect Day 1/7/28 baseline before the change ships so its effect can be read. Next action: show 12 lines to five helpers in the reuse pilot and ask which would make them turn the reminder off.
+
+## Nudges in the app, 1.11.0+15 (2026-11-28)
+
+| Deliverable | Status |
+| --- | --- |
+| 50 reminder lines picked on the device: no repeat within 21 days, a skip line at most once a week, slow-down and last-note lines, lines for the day only when true | Implemented; `test/features/reminders/nudges_test.dart` |
+| One line under Today's activity on Home, all platforms, no skip lines | Implemented; Home card test |
+| Lines in all 118 app ARBs (116 with text; `pt` and `zh` fall back) | Machine-made, unreviewed: 10 by hand, 106 by Haiku agents |
+| Version 1.11.0+15, release notes in all 115 listings | Done; `release_metadata.py --check` and `store_locales.py --check` pass |
+| Device check, native review, store upload | Not done |
+
+Checked on this branch: `dart format`, `flutter analyze --fatal-infos --fatal-warnings` (clean), `flutter test --coverage` (757 pass, 84.3% lines), Python tests (150), DESIGN.md lint 0/0, design-system tests. Flutter 3.47.7 on Linux; no iOS or Android build was made here.
+
+Open: the app-copy gate wants the changed keys in all 185 codes of `docs/languages.csv`, but the app has 118 language files and `fil`, `pt_BR`, `pt_PT`, `zh_Hans` and `zh_Hant` are not in the registry, so any app copy change fails it (same situation as PR #246, merged under a maintainer exception). The store release needs the signing keys and App Store Connect and Play API credentials, which live on the maintainer's Mac, not in this cloud session.
+

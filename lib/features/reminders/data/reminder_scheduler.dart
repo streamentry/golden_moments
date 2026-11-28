@@ -1,3 +1,5 @@
+import 'package:golden_moments/features/gentle_activities/data/family_photo_store.dart';
+import 'package:golden_moments/features/reminders/data/nudges.dart';
 import 'package:golden_moments/features/reminders/data/reminder_plan.dart';
 import 'package:golden_moments/features/reminders/data/reminder_settings.dart';
 import 'package:golden_moments/l10n/l10n.dart';
@@ -12,11 +14,15 @@ class ReminderScheduler {
     this.native = const GmNative(),
     this.store = const ReminderSettingsStore(),
     this.clock = DateTime.now,
+    this.nudges = const NudgeInputsStore(countOwnPhotos: countFamilyPhotos),
   });
 
   final GmNative native;
   final ReminderSettingsStore store;
   final DateTime Function() clock;
+
+  /// The device's line order and whether own photos exist.
+  final NudgeInputsStore nudges;
 
   /// Schedules [settings] (or the saved settings) from now. Returns whether
   /// reminders are scheduled; any failure leaves the app as it was.
@@ -35,8 +41,9 @@ class ReminderScheduler {
     if (await native.reminderPermission() != ReminderPermission.granted) {
       return false;
     }
+    final inputs = await nudges.load();
     return await native.scheduleDatedReminders(
-      planReminders(current, clock(), l10n),
+      planReminders(current, clock(), l10n, inputs: inputs),
     );
   }
 }

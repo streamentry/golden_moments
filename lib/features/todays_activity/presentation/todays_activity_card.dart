@@ -2,6 +2,8 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/gentle_activities/data/family_photo_store.dart';
+import 'package:golden_moments/features/reminders/data/nudges.dart';
 import 'package:golden_moments/features/todays_activity/data/todays_activity.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 
@@ -15,12 +17,17 @@ class TodaysActivityCard extends StatefulWidget {
     required this.onBegin,
     this.store = const TodaysActivityStore(),
     this.clock = DateTime.now,
+    this.nudges = const NudgeInputsStore(countOwnPhotos: countFamilyPhotos),
     super.key,
   });
 
   final void Function(TodaysActivity activity) onBegin;
   final TodaysActivityStore store;
   final DateTime Function() clock;
+
+  /// The device's line order and whether own photos exist, for the line
+  /// under the activity (see `docs/retention/nudges.md`).
+  final NudgeInputsStore nudges;
 
   @override
   State<TodaysActivityCard> createState() => _TodaysActivityCardState();
@@ -29,6 +36,7 @@ class TodaysActivityCard extends StatefulWidget {
 class _TodaysActivityCardState extends State<TodaysActivityCard> {
   late TodaysActivity _activity = TodaysActivity.forDay(widget.clock());
   bool _busy = false;
+  NudgeInputs? _nudgeInputs;
 
   @override
   void initState() {
@@ -39,6 +47,8 @@ class _TodaysActivityCardState extends State<TodaysActivityCard> {
   Future<void> _load() async {
     final saved = await widget.store.load(widget.clock());
     if (mounted) setState(() => _activity = saved);
+    final inputs = await widget.nudges.load();
+    if (mounted) setState(() => _nudgeInputs = inputs);
   }
 
   Future<void> _another() async {
@@ -68,6 +78,10 @@ class _TodaysActivityCardState extends State<TodaysActivityCard> {
         Icons.chat_bubble_outline,
       ),
     };
+    final inputs = _nudgeInputs;
+    final line = inputs == null
+        ? null
+        : homeNudge(widget.clock(), l10n, inputs);
     return Semantics(
       container: true,
       child: DecoratedBox(
@@ -102,6 +116,16 @@ class _TodaysActivityCardState extends State<TodaysActivityCard> {
                         Text(name, style: theme.textTheme.headlineSmall),
                         const SizedBox(height: gmSpaceXs),
                         Text(hint, style: theme.textTheme.bodyLarge),
+                        if (line != null) ...[
+                          const SizedBox(height: gmSpaceSm),
+                          Text(
+                            line,
+                            key: const ValueKey('todaysActivityNudge'),
+                            style: theme.textTheme.bodyLarge?.copyWith(
+                              color: scheme.onSurfaceVariant,
+                            ),
+                          ),
+                        ],
                       ],
                     ),
                   ),
