@@ -1,179 +1,184 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: Dipotso tse di motlhofo tsa trivia tsa bagolo ba ba tshelang le dementia, kwantle ga kgatelelo
+seoTitle: Dipotso tsa trivia tsa bagolo ba ba tshelang le dementia, le dikarabo
+description: Dipotso di le 50 tsa trivia tsa bagolo ba ba tshelang le dementia, le dikarabo, dintlha tsa puisano, le go di dira gore ope a se ka a ikutlwa a lekwa.
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
-summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+summary: Trivia e e motlhofo ya bagolo ba ba tshelang le dementia e bereka botoka fa e utlwala jaaka puisano, e seng teko. Botsa ka dilo tse ba di ithutileng bogologolo, jaaka dipina tsa kgale, maele, malatsi a boikhutso le botshelo jwa letsatsi le letsatsi, mme ka metlha o neye dikgetho di le pedi kgotsa di le tharo. Neela karabo ka bonolo, o se ka wa tlhaola ope, tlogela go bala maduo, mme o dirise karabo nngwe le nngwe go simolola kgang. Dipotso tsa «se kgotsa sele» tse di senang karabo e e phoso di ka siamela dikgatelo tsa morago tsa dementia.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+- 'Botsa ka dilo tse di tlwaelegileng ka lobaka lo loleele: dipina, maele, malatsi a boikhutso, dijo le botshelo jwa letsatsi le letsatsi jwa dingwaga tse di fetileng.'
+- Tlamela ka ditlhopho di le pedi kgotsa di le tharo gore karabo e lemogiwe go na le gore e gopolwe.
+- Bua karabo ka mofuthu, lo bo lo tswelela pele. Kakanyo nngwe le nngwe e e simololang kgang ke kakanyo e ntle.
+- Ga go na dintlha, ga go na ditlhopha tse di gaisanang ka lebelo, e bile ga go a tshwanela go bitsa motho a le mongwe fela. Letla dikarabo di tswe mo bathong botlhe mo phaposing.
+- Fa go tlhopha fa gare ga dikarabo go nna thata, fetogela mo dipotsong tsa seno kgotsa sele tse di se nang karabo e e rileng e siameng.
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+- q: A trivia e ka nna tirwana e e siameng mo bathong ba ba tshelang le dementia?
+  a: E ka nna jalo, fa e dirwa ka bonolo. Alzheimer's Foundation of America e akaretsa trivia mo ditirwaneng tsa kgato ya ntlha. Dirisa dipotso ka ditlhogo tse di itsiweng ka nako e telele, neela ditlhopho, o se ka wa baya motho a le mongwe mo kgatelelong ya go araba, mme o tseye dikarabo jaaka tsela ya go bula puisano, e seng jaaka teko.
+- q: Ke ditlhogo dife tse di siameng thata mo dipotsong tsa boitlosobodutu tsa batho ba ba tshelang le dementia?
+  a: 'Dilo tse di ithutilweng bogologolo gantsi di dira botoka: dipina le baopedi ba ba itsegeng ba motlha wa basha jwa motho yo o mo tlhokomelang, maele a a tlwaelegileng, malatsi a boitapoloso, dijo, metshameko, le dilo tsa letsatsi le letsatsi jaaka go isiwa ga mashi le difounu tsa go dikolosa. Tila dikgang tsa bosheng le sengwe le sengwe se se tlhokang gore motho a gopole sengwe se se diragetseng pejana mo tirwaneng eo.'
+- q: Nka tsamaisa jang tirwana ya dipotso kwa legaeng la tlhokomelo ntle le go tlhabisa ope ditlhong?
+  a: Balela setlhopha sotlhe potso nngwe le nngwe, bontsha kgotsa bua ditlhopho, mme o amogele dikarabo go tswa go mongwe le mongwe. O se ka wa kopa motho ka bongwe go araba kgotsa wa boloka maduo. Bua karabo ka monyenyo le fa go ne go akanngwa eng, mme o botse potso e e latelang jaaka «Ke mang fano yo o kileng a ya kwa difiliming tsa kwa ntle ka koloi?» go fetola puisano eno dipolelo.
+- q: Nka dira eng mo boemong jwa dipotso tsa kitso mo dikgato tse di kwa morago tsa dementia?
+  a: Fetogela mo dipotsong tse di se nang karabo e e phoso, jaaka ‘Kofi kgotsa tee?’ kgotsa ‘Lotshitshi kgotsa dithaba?’, le go fetsa mmogo maele kgotsa dipina tse lo di tlwaetseng. Go leba ditshwantsho le go di tlhalosa mmogo le gone go a thusa.
 sources:
-  - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
-    publisher: "Alzheimer's Foundation of America"
-    url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
-  - title: "Adapting Activities for People With Alzheimer's Disease"
-    publisher: "National Institute on Aging"
-    url: "https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease"
-  - title: "Activities"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/daily-care/activities"
-  - title: "What is Alzheimer's Disease?"
-    publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/alzheimers-dementia/what-is-alzheimers"
-relatedGames: [finish-the-saying, conversation-cards, picture-bingo, word-search]
-related: [activities/care-home-groups, activities/reminiscence, activities/memory-games, caregiving/communication-tips, activities/music, activities/printable]
+- title: Therapeutic Activities for 3 Main Stages of Alzheimer's disease
+  publisher: Alzheimer's Foundation of America
+  url: https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/
+- title: Adapting Activities for People With Alzheimer's Disease
+  publisher: National Institute on Aging
+  url: https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease
+- title: Activities
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/help-support/caregiving/daily-care/activities
+- title: What is Alzheimer's Disease?
+  publisher: Alzheimer's Association
+  url: https://www.alz.org/alzheimers-dementia/what-is-alzheimers
+relatedGames:
+- finish-the-saying
+- conversation-cards
+- picture-bingo
+- word-search
+related:
+- activities/care-home-groups
+- activities/reminiscence
+- activities/memory-games
+- caregiving/communication-tips
+- activities/music
+- activities/printable
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Dipotso tsa kitso ke nngwe ya ditirwana tsa setlhopha tse di kopiwang gantsi mo magaeng a tlhokomelo le mo mananeong a motshegare, mme malapa a mantsi le one a a di tshameka fa tafoleng ya bojelo. Fa di tshamekiwa ka tsela e e tlwaelegileng, ka dintlha mme go araba motho a le mongwe fela, di ka dira gore motho yo o tshelang ka dementia a ikutlwe a gateletswe. Fa di tshamekiwa ka bonolo, di ka nna tsela e e monate ya go utlwa dipolelo. Fa tlase go na le dipotso di le 50 tse di motlhofo, tse di nang le dikgetho tsa dikarabo le sengwe sa go tlotla ka sone mo potsong nngwe le nngwe, di latelwa ke ka fa o ka tsamaisang tirwana eno ka gone.
 
-## How do you make trivia work for someone with dementia?
+## O ka dira jang gore dipotso tsa kitso di berekele motho yo o tshelang le dementia?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Di dire gore di nne ka go lemoga le go gakologelwa dilo tsa bogologolo, mme dira gore karabo nngwe le nngwe e amogelwe.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Botsa ka dilo tsa bogologolo.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) e re letshwao la ntlha le le tlwaelegileng thata la Alzheimer’s ke bothata jwa go gakologelwa tshedimosetso e e sa tswang go ithutiwa. Dipina, maele le botshelo jwa letsatsi le letsatsi jwa dingwaga tse dintsi tse di fetileng gantsi di ka nna motlhofo go bua ka tsone.
+2. **Ka metlha neela ditlhopho.** Go tlhopha karabo e e nepagetseng mo go tse pedi kgotsa tse tharo go motlhofo thata go feta go leka go e gakologelwa o sa thusiwa.
+3. **Bala dipotso kwa godimo mme o di bontshe di le dikgolo.** Boto e e tshweu kgotsa thebolete e e tsholeditsweng kwa godimo e ka thusa batho ba ba sa utlweng sentle.
+4. **Neela karabo ka bopelonomi.** Fa go se na ope yo o itseng, e bue ka bonolo mme lo tswelele. O se ka wa re “Tlang, o a e itse eno.”
+5. **Ga go na maduo.** E seng a batho ka bongwe, gape e seng a ditafole. Fa batho ba batla palo, bolokang palogotlhe e le nngwe ya setlhopha.
+6. **O se ka wa bitsa motho a le mongwe fela.** Letla dikarabo go tswa mo go mongwe le mongwe. Fa lo le babedi fela, arabang mmogo: “Ke akanya gore ke piano. Wena o akanya eng?”
+7. **Dirisa ntlha ya puisano.** Karabo ke tshimologo, ga se bokhutlo. Dipolelo ke sone se se botlhokwa tota.
+8. **E boloke e le khutshwane.** Dipotso di le lesome, le dipolelo mo gare ga tsone, di lekane.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e tlhalosa molao wa konokono ka bonolo: ela tlhoko kgatelelo ya maikutlo mme o netefatse gore motho o ikutlwa a atlegile. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e umaka dipotso tsa kitso mo ditirwaneng tsa legato la ntlha. Mo legatong le le fa gare, dirisa ditlhopho di le pedi fela mme o ikaege ka dintlha tsa puisano. Kwa morago, fetolela mo dipotsong tsa seno kgotsa sele tse di tlhagelelang kwa tlase.
 
-## Music and entertainment trivia
+## Dipotso tsa mmino le boitlosobodutu
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Karabo e mo go **mafoko a a nonofileng**. Tlhopha dipotso tse go ya ka motho yo o nang le dementia: motho yo o godileng ka mmino wa Motown a ka batla diopedi tse di farologaneng le tsa motho yo o godileng ka dibini tsa big band.
 
-| Question | Choices | Talk about |
+| Potso | Ditlhopho | Lo ka buisana ka |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Ke mang yo o neng a bidiwa Kgosi ya Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | A o kile wa bona Elvis mo thelebisheneng? |
+| Ke moopedi ofe yo o neng a bidiwa ka leina la boso Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Ke pina efe ya ga Sinatra e o e ratang thata? |
+| Bing Crosby o ne a lora ka ... e e tshweu | **Keresemose**, lenyalo, ntlo | Opelang mola o le mongwe mmogo |
+| Louis Armstrong o ne a opela "What a Wonderful..." | Letsatsi, **Lefatshe**, Botshelo | Ke eng se se dirang gore lefatshe le nne lentle mo go wena? |
+| "Over the Rainbow" e ne e opelwa ke Judy Garland mo filiming efe? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | O ne o lebelela difilimi tse o di ratang kae? |
+| Ke mang yo o neng a tshameka Lucy mo "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Ke mananeo afe a lelapa la lona le neng le a lebelela mmogo? |
+| Ke mokawuboi ofe yo o neng a palama pitse e e bidiwang Trigger? | **Roy Rogers**, Gene Autry, John Wayne | A o ne o tshameka bo-mokawuboi fa o sa le ngwana? |
+| Ke mang yo o neng a tsamaisa "The Tonight Show" dingwaga di le 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | A o ne o nna o tsogile bosigo go lebelela thelebishene? |
+| Ke seletswa sefe se se nang le dikonopo di le 88? | Katara, **piano**, terompeta | A go na le mongwe mo lelapeng la gaeno yo o neng a letsa seletswa? |
+| Ke motsamao ofe wa go bina o o balwang nngwe-pedi-tharo, nngwe-pedi-tharo? | **Waltz**, twist, tango | Lo ne lo ya go bina kae? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Go bona go le gontsi ka mmino, bona [ditirwana tsa mmino tsa batho ba ba nang le dementia](/activities/music/).
 
-## Everyday life trivia
+## Dipotso tse dinnye ka botshelo jwa letsatsi le letsatsi
 
-| Question | Choices | Talk about |
+| Potso | Ditlhopho | Tlotlang ka ga |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Pele ga difiriji, malapa a mantsi a ne a boloka dijo di tsididi mo... | **Lebokosong la aese**, ontong, kwa godimo ga ntlo | Ke mang yo o neng a tlisa aese? |
+| Ke mang yo o neng a tlisa mashi mo mojako ka dibotlolo tsa galase? | Motho wa poso, **motho yo o tlisang mashi**, mosimane wa dikuranta | Ke eng gape e e neng e tlisiwa kwa ntlong? |
+| O ne o letsetsa jang mo mogaleng wa go dikolosa? | Ka go tobetsa dikonopo, **ka go dikolosa lebili**, ka go bua le one | Mpolelele ka mogala o o neng o le kwa ntlong ya lona. |
+| Ke khamphani efe e e neng e dira koloi ya Model T? | **Ford**, Chevrolet, Buick | Mpolelele ka koloi e o neng o e rata. |
+| O ne o ka fitlhela kae motho yo o direlang dino tse di tsididi kwa khaontareng? | **Kwa lefelong la dino tse di tsididi**, kwa bekering, kwa bankeng | O ne o laela eng kwa khaontareng? |
+| Ke sebapadiswa sefe sa tshipi se se jaaka mosenyedi se se kgonang go fologa ditepisi? | Yo-yo, **Slinky**, hula hoop | Ke dibapadiswa dife tse o neng o di rata? |
+| Lefelo la drive-in e ne e le lefelo la go lebelela... | **Dibaesekopo o le mo koloing ya gago**, metshameko ya bolo, mekoloko | O ne o ya le mang? |
+| Sefatlhego sa ga mang se se mo letloleng la dolara e le nngwe? | Lincoln, **George Washington**, Jefferson | Dolara e ne e ka reka eng ka nako eo? |
+| Sefatlhego sa ga mang se se mo penny? | **Abraham Lincoln**, Washington, Franklin | A o ne o boloka dipenny mo nkgo ka nako eo? |
+| Gantsi bese ya sekolo e mmala ofe? | Khibidu, **serolwana**, botala jwa legodimo | O ne o ya sekolong jang? |
 
-## Holidays, nature and places
+## Malatsi a boikhutso, tlhago le mafelo
 
-| Question | Choices | Talk about |
+| Potso | Ditlhopho | Bua ka seno |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Ke letsatsi lefe la boikhutso le le leng ka Labone wa bone ka Ngwanatsele? | Letsatsi la Badiri, **Thanksgiving**, Letsatsi la Segopotso | Ke eng se se neng se aga se le mo tafole ya lona? |
+| Di-jack-o'-lantern di dirwa bakeng sa letsatsi lefe la boikhutso? | **Halloween**, Easter, Keresemose | Mpolelele ka Halloween kwa lo godileng teng. |
+| Fourth of July e keteka Phatlalatso ya... | Ditshwanelo, **Boipuso**, Kgololesego | Lo ne lo lebelela dikgabo tsa molelo kae? |
+| Letsatsi la Bomma le mo kgweding efe? | Moranang, **Motsheganong**, Seetebosigo | Lelapa la lona le ne le keteka jang? |
+| Folaga ya Amerika e na le dinaledi di le kae? | 48, **50**, 52 | Folaga eo e ne e na le dinaledi di le 48 go fitlha ka 1959. Karabo nngwe le nngwe e ka tsosa kgakologelo e ntle. |
+| Ke lewatle lefe le le mo Lebopong la Botlhaba? | Pacific, **Atlantic**, Arctic | A lo kile lwa ya kwa lotshitshing lwa lewatle? |
+| Setshwantsho sa Kgololesego se mo toropong efe? | Boston, **New York**, Philadelphia | A lo kile lwa ya New York? |
+| Dinotshe di dira eng? | Maši, **mahe a dinotshe**, silika | Mahe a dinotshe mo borothong kgotsa mo teeng? |
+| Namane ya kgomo e bidiwa... | Petsane, **namane**, potsane | A lo kile lwa nna gaufi le polase? |
+| Ke sethunya sefe se seleele se se serolwana se se itsegeng ka go retologela kwa letsatsing? | Lekgala, **sonobolomo**, tulipi | Go ne go mela eng mo tshingwaneng ya lona? |
+| Ngwaga wa tlolaganyo o na le malatsi a le kae? | 365, **366**, 360 | Mpolelele ka letsatsi la botsalo le lo le gakologelwang. |
+| Ke setlha sefe se se tlang morago ga mariga? | Letlhafula, **dikgakologo**, selemo | Ke setlha sefe se lo se ratang thata? |
 
-## Food and sports trivia
+## Dipotso ka ga dijo le metshameko
 
-| Question | Choices | Talk about |
+| Potso | Ditlhopho | Tlotlang ka seno |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Di-raisins ke... tse di omisitsweng | Dipolamo, **morara**, ditšheri | A o kile wa tsenya di-raisins mo dijong tsa motshegare? |
+| Di-prunes ke... tse di omisitsweng | **Dipolamo**, difeige, diapole | Ke mang mo lelapeng la gago yo o neng a rata di-prunes? |
+| Botoro ya manoko le... | **Jele**, tšhisi, hamo | O e rata e na le dikotwana kgotsa e borethe? |
+| Guacamole e dirilwe bontsi ka... | Dierekisi, **di-avocado**, dikomkomere | Ke dijo dife tsa go ina tse di neng di bonala mo meletlong? |
+| Ke phae efe e e ratiwang thata ka Thanksgiving? | **Lephutsi**, sirilamunu, tšheri | O ne o dira phae efe? |
+| Ke batshameki ba le kae ba setlhopha sa baseball ba ba leng mo lebaleng? | 7, **9**, 11 | O ne o tshegetsa setlhopha sefe? |
+| Ke di-strike di le kae tse di dirang gore motho a twe ke out mo baseball? | Pedi, **tharo**, nne | A o kile wa tshameka bolo? |
+| Babe Ruth o ne a tumile ka motshameko ofe? | Go itaya ka mabole, **baseball**, kolofo | A o kile wa ya kwa metshamekong ya bolo? |
+| Ke mesima e le kae e e leng mo lebaleng le le tlwaelegileng la kolofo? | 9, **18**, 24 | A o kile wa tshameka kolofo, kgotsa kolofo e nnye? |
+| Ke mo motshamekong ofe o fumanang “touchdown”? | **Kgwele ya maoto ya Amerika**, hockey, basketball | Ke mang yo o neng a lebelela kgwele ya maoto ya Amerika kwa ga lona? |
 
-## Familiar sayings
+## Maele a a tlwaelegileng
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Go fetsa leele go dirisa puo e o e ithutileng bogologolo, mme gantsi go tla motlhofo. Tirwana ya rona ya [Fetsa leele](/games/finish-the-saying/) e na le a mangwe a mantsi, mme o ka tobetsa go bontsha bokhutlo bongwe le bongwe.
 
-| Saying | Choices | Talk about |
+| Leele | Ditlhopho | Bua ka gone |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Apole ka letsatsi le leleka... | **ngaka kgakala**, pula kgakala, katse kgakala | Ke mang yo o neng a tle a go bolelele se? |
+| Nonyane e e tsogang phakela e tshwara... | bese, **seboko**, terena | A o rata go tsoga phakela? |
+| O se ka wa bala dikoko pele di... | **thuthuga**, robala, opela | A ba lelapa la ga lona ba ne ba rua dikoko? |
+| Sente e e bolokilweng ke sente e e... | **bonweng**, latlhegileng, dirisitsweng | E ne e le mang mo lelapeng la ga lona yo o neng a boloka madi? |
+| Legae ke fa... | tshingwana e leng teng, **pelo e leng teng**, kitšhini e leng teng | Ke eng se se dirang gore lefelo le ikutlwe jaaka gae? |
+| Botoka go diega go na le go... | tla phakela, **se ka wa tla gotlhelele**, kopa maitshwarelo | E ne e le mang yo o neng a tle a diege ka metlha? |
+| Leru lengwe le lengwe le na le... | **letlhakore le le phatsimang**, leswana, ledi la tshipi | Mpolelele ka nako e nngwe e dilo di neng tsa go tsamaela sentle |
+| Ditiro di bua go gaisa... | **mafoko**, mmino, tladi ya maru | Mpolelele ka mongwe yo o neng a tle a bue jalo |
 
-## This-or-that questions with no wrong answer
+## Dipotso tsa seno kgotsa sele tse di se nang karabo e e phoso
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Tseno di siametse mo dikgato tsotlhe, le kwa moragonyana, ka gonne ga go na karabo e e phoso. Botsa, reetsa, mme o abelane le karabo ya gago le wena.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kofi kgotsa tee?
+- Lebopo la lewatle kgotsa dithaba?
+- Dintša kgotsa dikatse?
+- Nako ya mogote kgotsa mariga?
+- Phaye kgotsa keke?
+- Go bina kgotsa go lebelela?
+- Fa letsatsi le tlhaba kgotsa fa le phirima?
+- Phatio ya kwa pele kgotsa jarata ya kwa morago?
+- Sealemowa kgotsa direkoto?
+- Dipanekuku kgotsa mae?
+- Dirose kgotsa didaisy?
+- Loeto ka terena kgotsa loeto ka koloi?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Fa o batla ditlhagiso tsa puisano tse di tsamaisanang le ditshwantsho, leka [Dikarata tsa puisano](/games/conversation-cards/) tsa rona tse o ka di gatang.
 
-## How do you run a trivia session in a care home or group?
+## O ka tsamaisa jang tirwana ya dipotso mo legaeng la tlhokomelo kgotsa mo setlhopheng?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Dudisa batho gore ba kgone go bona le go utlwa.** Dithuso tsa kutlo di tsenngwe, digalase di rwalwe, TV e time.
+2. **E simolole jaaka puisano.** “Ke na le dipotso dingwe ka ga malatsi a bogologolo, mme ke akanya gore lo ka itse go mpheta.”
+3. **Bala potso nngwe le nngwe gabedi mme o bontshe ditlhopho ka ditlhaka tse dikgolo.**
+4. **Amogela dikarabo go tswa gongwe le gongwe mo phaposing.** Boelela dikarabo tse di molemo gore mongwe le mongwe a di utlwe.
+5. **Bolela karabo gore botlhe ba e utlwe,** morago o botse potso ya puisano mo phaposing.
+6. **Latela tsela e setlhopha se ikutlwang ka yone.** Fa potso e le nngwe e simolola metsotso e le lesome ya mainane, e lese e tswelele.
+7. **Fetsa ka pina kgotsa ka seripa sa se kgotsa sele,** gore mongwe le mongwe a fele ka sengwe se se motlhofo.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Go bona mefuta e mengwe ya ditirwana tsa setlhopha, go akaretsa bingo ya ditshwantsho le go opela mmogo, bona [ditirwana tsa setlhopha mo magaeng a tlhokomelo](/activities/care-home-groups/).
 
-## When to change the plan
+## Nako ya go fetola leano
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Fa mongwe a lebega a tshwenyegile, a didimala, kgotsa a re “Ga ke itse” go feta gangwe, dira gore go nne motlhofo: fokotsa ditlhopho go nna pedi, arabang mmogo, kgotsa fetogela mo dipotsong tsa seno kgotsa sele. Fa setlhopha se ka rata go bua ka potso e le nngwe thapama yotlhe, seo ke katlego. Maikaelelo e ne e se ka gale go bona dikarabo tse di siameng. E ne e le go nna le nako e e monate mmogo.
